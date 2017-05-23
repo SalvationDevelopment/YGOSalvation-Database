@@ -18,7 +18,7 @@ process.database = database(function (error, database) {
 		console.log(error.message);
 	}
 
-	console.log('Connected to:', process.env.VOICE_DB_URL);
+	console.log('Connected to db');
 });
 
 var express = require('express'),
