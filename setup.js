@@ -22,7 +22,8 @@ var fs = require('fs'),
 	enviormentalVariables = [
 		makeQuestion('MONGODB_URL ', 'mongodb://localhost:27017/ygo'),
 		makeQuestion('MONGODB_USER', 'ygo'),
-		makeQuestion('MONGODB_PASSWORD', 'blah')
+		makeQuestion('MONGODB_PASSWORD', 'blah'),
+		makeQuestion('LOCALHOST_PORT', 80)
 	];
 
 prompt.get(enviormentalVariables, function (error, result) {

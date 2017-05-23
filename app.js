@@ -56,7 +56,7 @@ app.use(express['static'](path.join(__dirname, '/http')));
 
 // Start Express
 server.listen(process.env.LOCALHOST_PORT);
-console.message.info('Application can be found at http://127.0.0.1:' + process.env.LOCALHOST_PORT);
+console.log('Application can be found at http://127.0.0.1:' + process.env.LOCALHOST_PORT);
 
 primus.on('connection', function (spark) {
 	spark.write({

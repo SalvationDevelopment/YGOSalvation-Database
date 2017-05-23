@@ -1,12 +1,15 @@
 {
   "dependencies": {
+    "body-parser": "^1.17.2",
     "dotenv": "^4.0.0",
     "express": "^4.15.3",
     "helmet": "^3.6.1",
     "mongodb": "^2.2.27",
+    "passport": "^0.3.2",
     "primus": "^7.0.2",
     "prompt": "^1.0.0",
-    "shelljs": "^0.7.7"
+    "shelljs": "^0.7.7",
+    "ws": "^3.0.0"
   },
   "name": "ygo_db",
   "description": "MongoDB Based  Yu-Gi-Oh! database. Community created and maintained",
