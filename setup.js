@@ -20,7 +20,7 @@ function makeQuestion(name, base) {
 var fs = require('fs'),
 	prompt = require('prompt'),
 	enviormentalVariables = [
-		makeQuestion('VOICE_DB_URL', 'mongodb://localhost:27017/ygo'),
+		makeQuestion('MONGODB_URL ', 'mongodb://localhost:27017/ygo'),
 		makeQuestion('MONGODB_USER', 'ygo'),
 		makeQuestion('MONGODB_PASSWORD', 'blah')
 	];
