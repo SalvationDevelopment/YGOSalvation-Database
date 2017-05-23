@@ -2,7 +2,7 @@
 'use strict';
 
 var url = require('url'),
-	MONGO_DB_URL = process.env.VOICE_DB_URL || 'mongodb://localhost:27017/voice',
+	MONGO_DB_URL = process.env.MONGODB_URL || 'mongodb://localhost:27017/ygo',
 	mongo = require('mongodb'),
 	MongoClient = mongo.MongoClient;
 
