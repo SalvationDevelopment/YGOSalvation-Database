@@ -5,7 +5,7 @@
 var full = require("./manifest_0-en-OCGTCG.json");
 
 for (var i = 0; i < full.length; i++){
-    var card = JSON.stringify(full[i]),
+    var card = JSON.stringify(full[i], null, 4),
         id = "./json/" + (full[i].id).toString() + ".json";
     
     fs.writeFileSync(id, card);
