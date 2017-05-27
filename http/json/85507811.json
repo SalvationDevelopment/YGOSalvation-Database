@@ -1,1 +1,47 @@
-{"id":85507811,"ot":3,"alias":0,"setcode":602120,"type":97,"atk":2500,"def":2000,"level":7,"race":1,"attribute":16,"category":35,"name":"Elemental HERO Glow Neos","desc":"\"Elemental HERO Neos\" + \"Neo-Spacian Glow Moss\"\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) During the End Phase: Shuffle this card into the Extra Deck. Once per turn, during your Main Phase 1: You can target 1 face-up card your opponent controls; destroy that target, then apply the effect based on its type. ● Monster: This card cannot attack this turn. ● Spell: This card can attack your opponent directly this turn. ● Trap: Change this card to Defense Position.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":85507811,"pack_id":"STON-JP036","pack":"STON","rarity":"Elemental HERO Glow Neos","date":1163635200000},"tcg":{"id":85507811,"pack_id":"STON-EN036","pack":"STON","rarity":"Elemental HERO Glow Neos","date":1172620800000}}
+{
+    "id": 85507811,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 602120,
+    "type": 97,
+    "atk": 2500,
+    "def": 2000,
+    "level": 7,
+    "race": 1,
+    "attribute": 16,
+    "category": 35,
+    "name": "Elemental HERO Glow Neos",
+    "desc": "\"Elemental HERO Neos\" + \"Neo-Spacian Glow Moss\"\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) During the End Phase: Shuffle this card into the Extra Deck. Once per turn, during your Main Phase 1: You can target 1 face-up card your opponent controls; destroy that target, then apply the effect based on its type. ● Monster: This card cannot attack this turn. ● Spell: This card can attack your opponent directly this turn. ● Trap: Change this card to Defense Position.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 85507811,
+        "pack_id": "STON-JP036",
+        "pack": "STON",
+        "rarity": "Elemental HERO Glow Neos",
+        "date": 1163635200000
+    },
+    "tcg": {
+        "id": 85507811,
+        "pack_id": "STON-EN036",
+        "pack": "STON",
+        "rarity": "Elemental HERO Glow Neos",
+        "date": 1172620800000
+    }
+}

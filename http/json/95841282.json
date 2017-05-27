@@ -1,1 +1,47 @@
-{"id":95841282,"ot":3,"alias":0,"setcode":0,"type":33,"atk":200,"def":100,"level":1,"race":32768,"attribute":1,"category":8192,"name":"Cat's Ear Tribe","desc":"The original ATK of your opponent's monster(s) that battles with this card during his/her turn becomes 200 points during the Damage Step.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":95841282,"pack_id":"303-027","pack":"303","rarity":"Cat's Ear Tribe","date":1032393600000},"tcg":{"id":95841282,"pack_id":"MFC-081","pack":"MFC","rarity":"Cat's Ear Tribe","date":1065744000000}}
+{
+    "id": 95841282,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 200,
+    "def": 100,
+    "level": 1,
+    "race": 32768,
+    "attribute": 1,
+    "category": 8192,
+    "name": "Cat's Ear Tribe",
+    "desc": "The original ATK of your opponent's monster(s) that battles with this card during his/her turn becomes 200 points during the Damage Step.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 95841282,
+        "pack_id": "303-027",
+        "pack": "303",
+        "rarity": "Cat's Ear Tribe",
+        "date": 1032393600000
+    },
+    "tcg": {
+        "id": 95841282,
+        "pack_id": "MFC-081",
+        "pack": "MFC",
+        "rarity": "Cat's Ear Tribe",
+        "date": 1065744000000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":66727115,"ot":3,"alias":0,"setcode":136,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262144,"name":"Bujinfidel","desc":"Tribute 1 Beast-Warrior-Type \"Bujin\" monster, then target 1 \"Bujin\" monster with a different name in your Graveyard; Special Summon that target.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":66727115,"pack_id":"JOTL-JP075","pack":"JOTL","rarity":"Bujinfidel","date":1366416000000},"tcg":{"id":66727115,"pack_id":"JOTL-EN075","pack":"JOTL","rarity":"Bujinfidel","date":1375920000000}}
+{
+    "id": 66727115,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 136,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262144,
+    "name": "Bujinfidel",
+    "desc": "Tribute 1 Beast-Warrior-Type \"Bujin\" monster, then target 1 \"Bujin\" monster with a different name in your Graveyard; Special Summon that target.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 66727115,
+        "pack_id": "JOTL-JP075",
+        "pack": "JOTL",
+        "rarity": "Bujinfidel",
+        "date": 1366416000000
+    },
+    "tcg": {
+        "id": 66727115,
+        "pack_id": "JOTL-EN075",
+        "pack": "JOTL",
+        "rarity": "Bujinfidel",
+        "date": 1375920000000
+    }
+}

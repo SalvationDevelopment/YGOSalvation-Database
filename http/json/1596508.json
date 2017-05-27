@@ -1,1 +1,47 @@
-{"id":1596508,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1700,"def":200,"level":4,"race":32,"attribute":32,"category":0,"name":"Dimension Fortress Weapon","desc":"Cards cannot be sent from the Deck to the Graveyard.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":1596508,"pack_id":"CRMS-JP033","pack":"CRMS","rarity":"Dimension Fortress Weapon","date":1344643200000},"tcg":{"id":1596508,"pack_id":"CRMS-EN033","pack":"CRMS","rarity":"Dimension Fortress Weapon","date":1235779200000}}
+{
+    "id": 1596508,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1700,
+    "def": 200,
+    "level": 4,
+    "race": 32,
+    "attribute": 32,
+    "category": 0,
+    "name": "Dimension Fortress Weapon",
+    "desc": "Cards cannot be sent from the Deck to the Graveyard.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 1596508,
+        "pack_id": "CRMS-JP033",
+        "pack": "CRMS",
+        "rarity": "Dimension Fortress Weapon",
+        "date": 1344643200000
+    },
+    "tcg": {
+        "id": 1596508,
+        "pack_id": "CRMS-EN033",
+        "pack": "CRMS",
+        "rarity": "Dimension Fortress Weapon",
+        "date": 1235779200000
+    }
+}

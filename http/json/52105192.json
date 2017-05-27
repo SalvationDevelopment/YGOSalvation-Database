@@ -1,1 +1,47 @@
-{"id":52105192,"ot":3,"alias":0,"setcode":138,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":520,"name":"Hidden Armory","desc":"Send the top card of your Deck to the Graveyard; add 1 Equip Spell Card from your Deck or Graveyard to your hand. You cannot Normal Summon/Set during the turn you activate this card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":52105192,"pack_id":"ADDR-JP003","pack":"ADDR","rarity":"Hidden Armory","date":1195776000000},"tcg":{"id":52105192,"pack_id":"SDWS-EN021","pack":"SDWS","rarity":"Hidden Armory","date":1256256000000}}
+{
+    "id": 52105192,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 138,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 520,
+    "name": "Hidden Armory",
+    "desc": "Send the top card of your Deck to the Graveyard; add 1 Equip Spell Card from your Deck or Graveyard to your hand. You cannot Normal Summon/Set during the turn you activate this card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 52105192,
+        "pack_id": "ADDR-JP003",
+        "pack": "ADDR",
+        "rarity": "Hidden Armory",
+        "date": 1195776000000
+    },
+    "tcg": {
+        "id": 52105192,
+        "pack_id": "SDWS-EN021",
+        "pack": "SDWS",
+        "rarity": "Hidden Armory",
+        "date": 1256256000000
+    }
+}

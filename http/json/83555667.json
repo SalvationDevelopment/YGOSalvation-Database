@@ -1,1 +1,47 @@
-{"id":83555667,"ot":3,"alias":83555666,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4194306,"name":"Ring of Destruction","desc":"During your opponent's turn: Target 1 face-up monster your opponent controls whose ATK is less than or equal to their LP; destroy that face-up monster, and if you do, take damage equal to its original ATK, then inflict damage to your opponent, equal to the damage you took. You can only activate 1 \"Ring of Destruction\" per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":83555667,"pack_id":"G4-18","pack":"G4","rarity":"Ring of Destruction","date":976147200000},"tcg":{"id":83555667,"pack_id":"PGD-000","pack":"PGD","rarity":"Ring of Destruction","date":1058486400000}}
+{
+    "id": 83555667,
+    "ot": 3,
+    "alias": 83555666,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4194306,
+    "name": "Ring of Destruction",
+    "desc": "During your opponent's turn: Target 1 face-up monster your opponent controls whose ATK is less than or equal to their LP; destroy that face-up monster, and if you do, take damage equal to its original ATK, then inflict damage to your opponent, equal to the damage you took. You can only activate 1 \"Ring of Destruction\" per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 83555667,
+        "pack_id": "G4-18",
+        "pack": "G4",
+        "rarity": "Ring of Destruction",
+        "date": 976147200000
+    },
+    "tcg": {
+        "id": 83555667,
+        "pack_id": "PGD-000",
+        "pack": "PGD",
+        "rarity": "Ring of Destruction",
+        "date": 1058486400000
+    }
+}

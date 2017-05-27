@@ -1,1 +1,47 @@
-{"id":6625096,"ot":3,"alias":0,"setcode":0,"type":33,"atk":0,"def":0,"level":1,"race":131072,"attribute":2,"category":0,"name":"Beautunaful Princess","desc":"When this card is Normal or Special Summoned: You can banish this card; Special Summon 1 Level 4 or lower Fish-Type monster from your Deck, except \"Beautunaful Princess\". You can only use this effect of \"Beautunaful Princess\" once per turn.","str1":"banish Beautunaful Princess?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":6625096,"pack_id":"PRIO-JP036","pack":"PRIO","rarity":"Beautunaful Princess","date":1392422400000},"tcg":{"id":6625096,"pack_id":"PRIO-EN036","pack":"PRIO","rarity":"Beautunaful Princess","date":1400198400000}}
+{
+    "id": 6625096,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": 131072,
+    "attribute": 2,
+    "category": 0,
+    "name": "Beautunaful Princess",
+    "desc": "When this card is Normal or Special Summoned: You can banish this card; Special Summon 1 Level 4 or lower Fish-Type monster from your Deck, except \"Beautunaful Princess\". You can only use this effect of \"Beautunaful Princess\" once per turn.",
+    "str1": "banish Beautunaful Princess?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 6625096,
+        "pack_id": "PRIO-JP036",
+        "pack": "PRIO",
+        "rarity": "Beautunaful Princess",
+        "date": 1392422400000
+    },
+    "tcg": {
+        "id": 6625096,
+        "pack_id": "PRIO-EN036",
+        "pack": "PRIO",
+        "rarity": "Beautunaful Princess",
+        "date": 1400198400000
+    }
+}

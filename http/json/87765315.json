@@ -1,1 +1,47 @@
-{"id":87765315,"ot":3,"alias":0,"setcode":249,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Forge of the True Dracos","desc":"If a \"Dracoslayer\" monster, that is not a Pendulum Monster, and a \"Dracoverlord\" monster are on the field: Shuffle as many cards on the field as possible into the Deck, then you can Special Summon 1 \"Dracoslayer\" or \"Dracoverlord\" monster from your Deck, ignoring its Summoning conditions.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":87765315,"pack_id":"SHVI-JP061","pack":"SHVI","rarity":"Forge of the True Dracos","date":1452297600000},"tcg":{"id":87765315,"pack_id":"BOSH-ENSE4","pack":"BOSH","rarity":"Forge of the True Dracos","date":1456358400000}}
+{
+    "id": 87765315,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 249,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Forge of the True Dracos",
+    "desc": "If a \"Dracoslayer\" monster, that is not a Pendulum Monster, and a \"Dracoverlord\" monster are on the field: Shuffle as many cards on the field as possible into the Deck, then you can Special Summon 1 \"Dracoslayer\" or \"Dracoverlord\" monster from your Deck, ignoring its Summoning conditions.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 87765315,
+        "pack_id": "SHVI-JP061",
+        "pack": "SHVI",
+        "rarity": "Forge of the True Dracos",
+        "date": 1452297600000
+    },
+    "tcg": {
+        "id": 87765315,
+        "pack_id": "BOSH-ENSE4",
+        "pack": "BOSH",
+        "rarity": "Forge of the True Dracos",
+        "date": 1456358400000
+    }
+}

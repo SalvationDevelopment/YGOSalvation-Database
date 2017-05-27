@@ -1,1 +1,47 @@
-{"id":1264319,"ot":3,"alias":0,"setcode":4591687,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":268698624,"name":"Gem-Knight Fusion","desc":"Fusion Summon 1 \"Gem-Knight\" Fusion Monster from your Extra Deck, using monsters from your hand or your side of the field as Fusion Materials. If this card is in your Graveyard: You can banish 1 \"Gem-Knight\" monster from your Graveyard; add this card to your hand.","str1":"Add card","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":1264319,"pack_id":"DT09-JP043","pack":"DT09","rarity":"Gem-Knight Fusion","date":1352160000000},"tcg":{"id":1264319,"pack_id":"DT05-EN043","pack":"DT05","rarity":"Gem-Knight Fusion","date":1306627200000}}
+{
+    "id": 1264319,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4591687,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 268698624,
+    "name": "Gem-Knight Fusion",
+    "desc": "Fusion Summon 1 \"Gem-Knight\" Fusion Monster from your Extra Deck, using monsters from your hand or your side of the field as Fusion Materials. If this card is in your Graveyard: You can banish 1 \"Gem-Knight\" monster from your Graveyard; add this card to your hand.",
+    "str1": "Add card",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 1264319,
+        "pack_id": "DT09-JP043",
+        "pack": "DT09",
+        "rarity": "Gem-Knight Fusion",
+        "date": 1352160000000
+    },
+    "tcg": {
+        "id": 1264319,
+        "pack_id": "DT05-EN043",
+        "pack": "DT05",
+        "rarity": "Gem-Knight Fusion",
+        "date": 1306627200000
+    }
+}

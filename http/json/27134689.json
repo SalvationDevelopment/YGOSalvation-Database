@@ -1,1 +1,47 @@
-{"id":27134689,"ot":3,"alias":0,"setcode":0,"type":65,"atk":4200,"def":3700,"level":9,"race":16384,"attribute":1,"category":0,"name":"Master of Oz","desc":"\"Big Koala\" + \"Des Kangaroo\"","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":27134689,"pack_id":"SOD-JP035","pack":"SOD","rarity":"Master of Oz","date":1085616000000},"tcg":{"id":27134689,"pack_id":"SOD-EN035","pack":"SOD","rarity":"Master of Oz","date":1096588800000}}
+{
+    "id": 27134689,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65,
+    "atk": 4200,
+    "def": 3700,
+    "level": 9,
+    "race": 16384,
+    "attribute": 1,
+    "category": 0,
+    "name": "Master of Oz",
+    "desc": "\"Big Koala\" + \"Des Kangaroo\"",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 27134689,
+        "pack_id": "SOD-JP035",
+        "pack": "SOD",
+        "rarity": "Master of Oz",
+        "date": 1085616000000
+    },
+    "tcg": {
+        "id": 27134689,
+        "pack_id": "SOD-EN035",
+        "pack": "SOD",
+        "rarity": "Master of Oz",
+        "date": 1096588800000
+    }
+}

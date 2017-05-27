@@ -1,1 +1,47 @@
-{"id":80887714,"ot":3,"alias":0,"setcode":123,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":2,"name":"Galaxy Storm","desc":"Target 1 face-up Xyz Monster on the field that has no Xyz Material; destroy that target.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":80887714,"pack_id":"ORCS-JP050","pack":"ORCS","rarity":"Galaxy Storm","date":1321660800000},"tcg":{"id":80887714,"pack_id":"ORCS-EN050","pack":"ORCS","rarity":"Galaxy Storm","date":1326499200000}}
+{
+    "id": 80887714,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 123,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 2,
+    "name": "Galaxy Storm",
+    "desc": "Target 1 face-up Xyz Monster on the field that has no Xyz Material; destroy that target.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 80887714,
+        "pack_id": "ORCS-JP050",
+        "pack": "ORCS",
+        "rarity": "Galaxy Storm",
+        "date": 1321660800000
+    },
+    "tcg": {
+        "id": 80887714,
+        "pack_id": "ORCS-EN050",
+        "pack": "ORCS",
+        "rarity": "Galaxy Storm",
+        "date": 1326499200000
+    }
+}

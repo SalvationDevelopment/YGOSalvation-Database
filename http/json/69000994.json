@@ -1,1 +1,47 @@
-{"id":69000994,"ot":3,"alias":0,"setcode":8458369,"type":33,"atk":1800,"def":200,"level":4,"race":32768,"attribute":4,"category":262656,"name":"Fire King Avatar Barong","desc":"If a face-up \"Fire King\" monster you control is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your hand. During the next Standby Phase after this card was destroyed by a card effect and sent to the Graveyard: Add 1 \"Fire King\" card from your Deck to your hand, except \"Fire King Avatar Barong\".","str1":"Special Summon","str2":"加入手牌","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":69000994,"pack_id":"SD24-JP002","pack":"SD24","rarity":"Fire King Avatar Barong","date":1354924800000},"tcg":{"id":69000994,"pack_id":"SDOK-EN002","pack":"SDOK","rarity":"Fire King Avatar Barong","date":1360281600000}}
+{
+    "id": 69000994,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 8458369,
+    "type": 33,
+    "atk": 1800,
+    "def": 200,
+    "level": 4,
+    "race": 32768,
+    "attribute": 4,
+    "category": 262656,
+    "name": "Fire King Avatar Barong",
+    "desc": "If a face-up \"Fire King\" monster you control is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your hand. During the next Standby Phase after this card was destroyed by a card effect and sent to the Graveyard: Add 1 \"Fire King\" card from your Deck to your hand, except \"Fire King Avatar Barong\".",
+    "str1": "Special Summon",
+    "str2": "加入手牌",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 69000994,
+        "pack_id": "SD24-JP002",
+        "pack": "SD24",
+        "rarity": "Fire King Avatar Barong",
+        "date": 1354924800000
+    },
+    "tcg": {
+        "id": 69000994,
+        "pack_id": "SDOK-EN002",
+        "pack": "SDOK",
+        "rarity": "Fire King Avatar Barong",
+        "date": 1360281600000
+    }
+}

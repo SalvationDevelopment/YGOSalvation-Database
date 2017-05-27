@@ -1,1 +1,47 @@
-{"id":11398951,"ot":3,"alias":0,"setcode":0,"type":130,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Machine Angel Absolute Ritual","desc":"This card can be used to Ritual Summon any \"Cyber Angel\" Ritual Monster. You must also Tribute monsters from your hand or field and/or shuffle Fairy or Warrior-Type monsters from your Graveyard into the Deck, whose total Levels exactly equal the Level of the Ritual Monster you Ritual Summon.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":11398951,"pack_id":"RATE-JP055","pack":"RATE","rarity":"Machine Angel Absolute Ritual","date":1475884800000},"tcg":{"id":11398951,"pack_id":"RATE-EN055","pack":"RATE","rarity":"Machine Angel Absolute Ritual","date":1486598400000}}
+{
+    "id": 11398951,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 130,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Machine Angel Absolute Ritual",
+    "desc": "This card can be used to Ritual Summon any \"Cyber Angel\" Ritual Monster. You must also Tribute monsters from your hand or field and/or shuffle Fairy or Warrior-Type monsters from your Graveyard into the Deck, whose total Levels exactly equal the Level of the Ritual Monster you Ritual Summon.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 11398951,
+        "pack_id": "RATE-JP055",
+        "pack": "RATE",
+        "rarity": "Machine Angel Absolute Ritual",
+        "date": 1475884800000
+    },
+    "tcg": {
+        "id": 11398951,
+        "pack_id": "RATE-EN055",
+        "pack": "RATE",
+        "rarity": "Machine Angel Absolute Ritual",
+        "date": 1486598400000
+    }
+}

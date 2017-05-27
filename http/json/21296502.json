@@ -1,1 +1,47 @@
-{"id":21296502,"ot":3,"alias":0,"setcode":6426786,"type":4194337,"atk":2500,"def":2100,"level":7,"race":2,"attribute":32,"category":0,"name":"Toon Dark Magician","desc":"Cannot attack the turn it is Summoned. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. Once per turn: You can discard 1 \"Toon\" card or \"Manga Ryu-Ran\", then activate 1 of these effects;\n● Special Summon 1 Toon monster from your Deck, except \"Toon Dark Magician\", ignoring its Summoning conditions.\n● Add 1 \"Toon\" Spell/Trap Card from your Deck to your hand.","str1":"Special Summon","str2":"Search","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":21296502,"pack_id":"TDIL-JP032","pack":"TDIL","rarity":"Toon Dark Magician","date":1460160000000},"tcg":{"id":21296502,"pack_id":"TDIL-EN032","pack":"TDIL","rarity":"Toon Dark Magician","date":1470268800000}}
+{
+    "id": 21296502,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 6426786,
+    "type": 4194337,
+    "atk": 2500,
+    "def": 2100,
+    "level": 7,
+    "race": 2,
+    "attribute": 32,
+    "category": 0,
+    "name": "Toon Dark Magician",
+    "desc": "Cannot attack the turn it is Summoned. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. Once per turn: You can discard 1 \"Toon\" card or \"Manga Ryu-Ran\", then activate 1 of these effects;\n● Special Summon 1 Toon monster from your Deck, except \"Toon Dark Magician\", ignoring its Summoning conditions.\n● Add 1 \"Toon\" Spell/Trap Card from your Deck to your hand.",
+    "str1": "Special Summon",
+    "str2": "Search",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 21296502,
+        "pack_id": "TDIL-JP032",
+        "pack": "TDIL",
+        "rarity": "Toon Dark Magician",
+        "date": 1460160000000
+    },
+    "tcg": {
+        "id": 21296502,
+        "pack_id": "TDIL-EN032",
+        "pack": "TDIL",
+        "rarity": "Toon Dark Magician",
+        "date": 1470268800000
+    }
+}

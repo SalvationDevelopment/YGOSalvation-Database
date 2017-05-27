@@ -1,1 +1,47 @@
-{"id":71692913,"ot":3,"alias":0,"setcode":152,"type":16777249,"atk":2500,"def":500,"level":50528263,"race":2,"attribute":32,"category":0,"name":"Xiangke Magician","desc":"Pendulum Effect\nOnce per turn: You can target 1 face-up Xyz Monster you control; this turn, you can use it as an Xyz Material for an Xyz Summon using its Rank as if it were a Level (even if this card leaves the field).\n\nMonster Effect\nOnce per turn, during either player's turn: You can target 1 LIGHT monster on the field; that face-up monster has its effects negated until the end of this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":71692913,"pack_id":"CORE-JP003","pack":"CORE","rarity":"Xiangke Magician","date":1429920000000},"tcg":{"id":71692913,"pack_id":"CORE-EN003","pack":"CORE","rarity":"Xiangke Magician","date":1438819200000}}
+{
+    "id": 71692913,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 152,
+    "type": 16777249,
+    "atk": 2500,
+    "def": 500,
+    "level": 50528263,
+    "race": 2,
+    "attribute": 32,
+    "category": 0,
+    "name": "Xiangke Magician",
+    "desc": "Pendulum Effect\nOnce per turn: You can target 1 face-up Xyz Monster you control; this turn, you can use it as an Xyz Material for an Xyz Summon using its Rank as if it were a Level (even if this card leaves the field).\n\nMonster Effect\nOnce per turn, during either player's turn: You can target 1 LIGHT monster on the field; that face-up monster has its effects negated until the end of this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 71692913,
+        "pack_id": "CORE-JP003",
+        "pack": "CORE",
+        "rarity": "Xiangke Magician",
+        "date": 1429920000000
+    },
+    "tcg": {
+        "id": 71692913,
+        "pack_id": "CORE-EN003",
+        "pack": "CORE",
+        "rarity": "Xiangke Magician",
+        "date": 1438819200000
+    }
+}

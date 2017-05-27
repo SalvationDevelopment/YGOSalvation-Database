@@ -1,1 +1,47 @@
-{"id":74458486,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8192,"name":"Covering Fire","desc":"During the Damage Step, while an opponent's monster is attacking a monster you control: Target 1 other face-up monster you control; your attacked monster gains ATK equal to that target's ATK during the Damage Step only.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":74458486,"pack_id":"RDS-JP060","pack":"RDS","rarity":"Covering Fire","date":1091664000000},"tcg":{"id":74458486,"pack_id":"RDS-EN060","pack":"RDS","rarity":"Covering Fire","date":1100908800000}}
+{
+    "id": 74458486,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8192,
+    "name": "Covering Fire",
+    "desc": "During the Damage Step, while an opponent's monster is attacking a monster you control: Target 1 other face-up monster you control; your attacked monster gains ATK equal to that target's ATK during the Damage Step only.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 74458486,
+        "pack_id": "RDS-JP060",
+        "pack": "RDS",
+        "rarity": "Covering Fire",
+        "date": 1091664000000
+    },
+    "tcg": {
+        "id": 74458486,
+        "pack_id": "RDS-EN060",
+        "pack": "RDS",
+        "rarity": "Covering Fire",
+        "date": 1100908800000
+    }
+}

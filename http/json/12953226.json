@@ -1,1 +1,47 @@
-{"id":12953226,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2000,"def":800,"level":4,"race":8,"attribute":32,"category":8192,"name":"Nuvia the Wicked","desc":"If this monster is Normal Summoned, destroy this card. If your opponent controls any monster, decrease the ATK of this card by 200 points for each monster on your opponent's side of the field.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":12953226,"pack_id":"SM-12","pack":"SM","rarity":"Nuvia the Wicked","date":987638400000},"tcg":{"id":12953226,"pack_id":"LON-013","pack":"LON","rarity":"Nuvia the Wicked","date":1046476800000}}
+{
+    "id": 12953226,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2000,
+    "def": 800,
+    "level": 4,
+    "race": 8,
+    "attribute": 32,
+    "category": 8192,
+    "name": "Nuvia the Wicked",
+    "desc": "If this monster is Normal Summoned, destroy this card. If your opponent controls any monster, decrease the ATK of this card by 200 points for each monster on your opponent's side of the field.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 12953226,
+        "pack_id": "SM-12",
+        "pack": "SM",
+        "rarity": "Nuvia the Wicked",
+        "date": 987638400000
+    },
+    "tcg": {
+        "id": 12953226,
+        "pack_id": "LON-013",
+        "pack": "LON",
+        "rarity": "Nuvia the Wicked",
+        "date": 1046476800000
+    }
+}

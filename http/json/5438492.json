@@ -1,1 +1,47 @@
-{"id":5438492,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1100,"def":1200,"level":4,"race":1,"attribute":1,"category":3408384,"name":"Warrior Lady of the Wasteland","desc":"When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 EARTH Warrior-Type monster with 1500 or less ATK from your Deck, in face-up Attack Position.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":5438492,"pack_id":"SD5-JP002","pack":"SD5","rarity":"Warrior Lady of the Wasteland","date":1118880000000},"tcg":{"id":5438492,"pack_id":"SD5-EN002","pack":"SD5","rarity":"Warrior Lady of the Wasteland","date":1130457600000}}
+{
+    "id": 5438492,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1100,
+    "def": 1200,
+    "level": 4,
+    "race": 1,
+    "attribute": 1,
+    "category": 3408384,
+    "name": "Warrior Lady of the Wasteland",
+    "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 EARTH Warrior-Type monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 5438492,
+        "pack_id": "SD5-JP002",
+        "pack": "SD5",
+        "rarity": "Warrior Lady of the Wasteland",
+        "date": 1118880000000
+    },
+    "tcg": {
+        "id": 5438492,
+        "pack_id": "SD5-EN002",
+        "pack": "SD5",
+        "rarity": "Warrior Lady of the Wasteland",
+        "date": 1130457600000
+    }
+}

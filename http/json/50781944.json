@@ -1,1 +1,47 @@
-{"id":50781944,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2600,"def":1800,"level":7,"race":16384,"attribute":16,"category":8388608,"name":"Ancient Crimson Ape","desc":"When a monster(s) you control is destroyed and sent to the Graveyard, gain 1000 Life Points.","str1":"Gain LP","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":50781944,"pack_id":"ANPR-JP038","pack":"ANPR","rarity":"Ancient Crimson Ape","date":1240012800000},"tcg":{"id":50781944,"pack_id":"ANPR-EN038","pack":"ANPR","rarity":"Ancient Crimson Ape","date":1251763200000}}
+{
+    "id": 50781944,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2600,
+    "def": 1800,
+    "level": 7,
+    "race": 16384,
+    "attribute": 16,
+    "category": 8388608,
+    "name": "Ancient Crimson Ape",
+    "desc": "When a monster(s) you control is destroyed and sent to the Graveyard, gain 1000 Life Points.",
+    "str1": "Gain LP",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 50781944,
+        "pack_id": "ANPR-JP038",
+        "pack": "ANPR",
+        "rarity": "Ancient Crimson Ape",
+        "date": 1240012800000
+    },
+    "tcg": {
+        "id": 50781944,
+        "pack_id": "ANPR-EN038",
+        "pack": "ANPR",
+        "rarity": "Ancient Crimson Ape",
+        "date": 1251763200000
+    }
+}

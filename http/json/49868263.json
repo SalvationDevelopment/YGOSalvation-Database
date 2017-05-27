@@ -1,1 +1,47 @@
-{"id":49868263,"ot":3,"alias":0,"setcode":0,"type":97,"atk":2000,"def":1200,"level":6,"race":1,"attribute":1,"category":-2147483647,"name":"Ryu Senshi","desc":"\"Warrior Dai Grepher\" + \"Spirit Ryu\"\nA Fusion Summon of this monster can only be conducted with the above Fusion Material Monsters. As long as this card remains face-up on the field, negate the effect of a Normal Trap Card by paying 1000 Life Points. Negate the effects of a Spell Card that targets this card and destroy it.","str1":"Negate effect","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":49868263,"pack_id":"SC-19","pack":"SC","rarity":"Ryu Senshi","date":1000944000000},"tcg":{"id":49868263,"pack_id":"LOD-019","pack":"LOD","rarity":"Ryu Senshi","date":1054857600000}}
+{
+    "id": 49868263,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 97,
+    "atk": 2000,
+    "def": 1200,
+    "level": 6,
+    "race": 1,
+    "attribute": 1,
+    "category": -2147483647,
+    "name": "Ryu Senshi",
+    "desc": "\"Warrior Dai Grepher\" + \"Spirit Ryu\"\nA Fusion Summon of this monster can only be conducted with the above Fusion Material Monsters. As long as this card remains face-up on the field, negate the effect of a Normal Trap Card by paying 1000 Life Points. Negate the effects of a Spell Card that targets this card and destroy it.",
+    "str1": "Negate effect",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 49868263,
+        "pack_id": "SC-19",
+        "pack": "SC",
+        "rarity": "Ryu Senshi",
+        "date": 1000944000000
+    },
+    "tcg": {
+        "id": 49868263,
+        "pack_id": "LOD-019",
+        "pack": "LOD",
+        "rarity": "Ryu Senshi",
+        "date": 1054857600000
+    }
+}

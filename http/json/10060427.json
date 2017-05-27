@@ -1,1 +1,47 @@
-{"id":10060427,"ot":3,"alias":0,"setcode":29,"type":33,"atk":2800,"def":2200,"level":7,"race":1,"attribute":1,"category":1027,"name":"Koa'ki Meiru Rooklord","desc":"During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Warrior-Type monster in your hand. You can Tribute Summon this card by Tributing 1 \"Koa'ki Meiru\" monster. When this card is Normal Summoned, you can remove from play 1 \"Koa'ki Meiru\" card in your Graveyard to destroy up to 2 cards your opponent controls.","str1":"Send \"Iron Core of Koa'ki Meiru\" to the Graveyard","str2":"Reveal 1 Warrior-Type monster in your hand","str3":"Destroy｢Koa'ki Meiru Rooklord｣","str4":"Tribute Summon this card by Tributing 1 \"Koa'ki Meiru\" monster","str5":"Destroy","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":10060427,"pack_id":"SOVR-JP028","pack":"SOVR","rarity":"Koa'ki Meiru Rooklord","date":1247875200000},"tcg":{"id":10060427,"pack_id":"SOVR-EN028","pack":"SOVR","rarity":"Koa'ki Meiru Rooklord","date":1258416000000}}
+{
+    "id": 10060427,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 29,
+    "type": 33,
+    "atk": 2800,
+    "def": 2200,
+    "level": 7,
+    "race": 1,
+    "attribute": 1,
+    "category": 1027,
+    "name": "Koa'ki Meiru Rooklord",
+    "desc": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Warrior-Type monster in your hand. You can Tribute Summon this card by Tributing 1 \"Koa'ki Meiru\" monster. When this card is Normal Summoned, you can remove from play 1 \"Koa'ki Meiru\" card in your Graveyard to destroy up to 2 cards your opponent controls.",
+    "str1": "Send \"Iron Core of Koa'ki Meiru\" to the Graveyard",
+    "str2": "Reveal 1 Warrior-Type monster in your hand",
+    "str3": "Destroy｢Koa'ki Meiru Rooklord｣",
+    "str4": "Tribute Summon this card by Tributing 1 \"Koa'ki Meiru\" monster",
+    "str5": "Destroy",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 10060427,
+        "pack_id": "SOVR-JP028",
+        "pack": "SOVR",
+        "rarity": "Koa'ki Meiru Rooklord",
+        "date": 1247875200000
+    },
+    "tcg": {
+        "id": 10060427,
+        "pack_id": "SOVR-EN028",
+        "pack": "SOVR",
+        "rarity": "Koa'ki Meiru Rooklord",
+        "date": 1258416000000
+    }
+}

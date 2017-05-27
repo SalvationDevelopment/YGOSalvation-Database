@@ -1,1 +1,47 @@
-{"id":67775894,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1057032,"name":"Wonder Wand","desc":"Equip only to a Spellcaster-Type monster. It gains 500 ATK. If you control the equipped monster and this card: You can send both to the Graveyard; draw 2 cards.","str1":"Draw card","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":67775894,"pack_id":"GENF-JP045","pack":"GENF","rarity":"Wonder Wand","date":1302912000000},"tcg":{"id":67775894,"pack_id":"GENF-EN045","pack":"GENF","rarity":"Wonder Wand","date":1312588800000}}
+{
+    "id": 67775894,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1057032,
+    "name": "Wonder Wand",
+    "desc": "Equip only to a Spellcaster-Type monster. It gains 500 ATK. If you control the equipped monster and this card: You can send both to the Graveyard; draw 2 cards.",
+    "str1": "Draw card",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 67775894,
+        "pack_id": "GENF-JP045",
+        "pack": "GENF",
+        "rarity": "Wonder Wand",
+        "date": 1302912000000
+    },
+    "tcg": {
+        "id": 67775894,
+        "pack_id": "GENF-EN045",
+        "pack": "GENF",
+        "rarity": "Wonder Wand",
+        "date": 1312588800000
+    }
+}

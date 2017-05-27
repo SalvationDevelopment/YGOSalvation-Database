@@ -1,1 +1,47 @@
-{"id":83903521,"ot":3,"alias":0,"setcode":0,"type":33,"atk":400,"def":600,"level":3,"race":16,"attribute":1,"category":1310720,"name":"Beast of the Pharaoh","desc":"If this card is sent to the Graveyard for a Synchro Summon: You can target 1 Level 4 or lower Zombie-Type monster in your Graveyard; Special Summon that target.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":83903521,"pack_id":"TDGS-JP032","pack":"TDGS","rarity":"Beast of the Pharaoh","date":1208563200000},"tcg":{"id":83903521,"pack_id":"TDGS-EN032","pack":"TDGS","rarity":"Beast of the Pharaoh","date":1218240000000}}
+{
+    "id": 83903521,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 400,
+    "def": 600,
+    "level": 3,
+    "race": 16,
+    "attribute": 1,
+    "category": 1310720,
+    "name": "Beast of the Pharaoh",
+    "desc": "If this card is sent to the Graveyard for a Synchro Summon: You can target 1 Level 4 or lower Zombie-Type monster in your Graveyard; Special Summon that target.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 83903521,
+        "pack_id": "TDGS-JP032",
+        "pack": "TDGS",
+        "rarity": "Beast of the Pharaoh",
+        "date": 1208563200000
+    },
+    "tcg": {
+        "id": 83903521,
+        "pack_id": "TDGS-EN032",
+        "pack": "TDGS",
+        "rarity": "Beast of the Pharaoh",
+        "date": 1218240000000
+    }
+}

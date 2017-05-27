@@ -1,1 +1,47 @@
-{"id":74983881,"ot":3,"alias":0,"setcode":0,"type":33,"atk":0,"def":0,"level":2,"race":1024,"attribute":1,"category":786432,"name":"Sweet Corn","desc":"Once per turn, during your Main Phase 2: You can pay 500 Life Points; Special Summon 1 \"Maize Token\" (Plant-Type/EARTH/Level 1/ATK 0/DEF 0).","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":74983881,"pack_id":"JF10-JP008","pack":"JF10","rarity":"Sweet Corn","date":1261180800000},"tcg":{"id":74983881,"pack_id":"ORCS-EN092","pack":"ORCS","rarity":"Sweet Corn","date":1326499200000}}
+{
+    "id": 74983881,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 0,
+    "def": 0,
+    "level": 2,
+    "race": 1024,
+    "attribute": 1,
+    "category": 786432,
+    "name": "Sweet Corn",
+    "desc": "Once per turn, during your Main Phase 2: You can pay 500 Life Points; Special Summon 1 \"Maize Token\" (Plant-Type/EARTH/Level 1/ATK 0/DEF 0).",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 74983881,
+        "pack_id": "JF10-JP008",
+        "pack": "JF10",
+        "rarity": "Sweet Corn",
+        "date": 1261180800000
+    },
+    "tcg": {
+        "id": 74983881,
+        "pack_id": "ORCS-EN092",
+        "pack": "ORCS",
+        "rarity": "Sweet Corn",
+        "date": 1326499200000
+    }
+}

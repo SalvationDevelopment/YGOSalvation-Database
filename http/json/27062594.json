@@ -1,1 +1,47 @@
-{"id":27062594,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":1,"race":8,"attribute":16,"category":0,"name":"The Door of Destiny","desc":"When an opponent's monster declares a direct attack: Negate the attack, then Special Summon this card as an Effect Monster (Fiend-Type/LIGHT/Level 1/ATK 0/DEF 0). (This card is also still a Trap Card.) During your Standby Phase, while this card is treated as a monster: You can banish any number of \"Utopia\" monsters with different names from your Graveyard; inflict 500 damage to your opponent for each of those banished monsters, and if you do, this card gains ATK equal to the damage they took.","str1":"Banish \"Utopia\" monsters ","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":27062594,"pack_id":"NECH-JP086","pack":"NECH","rarity":"The Door of Destiny","date":1405728000000},"tcg":{"id":27062594,"pack_id":"WSUP-EN031","pack":"WSUP","rarity":"The Door of Destiny","date":1429142400000}}
+{
+    "id": 27062594,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": 8,
+    "attribute": 16,
+    "category": 0,
+    "name": "The Door of Destiny",
+    "desc": "When an opponent's monster declares a direct attack: Negate the attack, then Special Summon this card as an Effect Monster (Fiend-Type/LIGHT/Level 1/ATK 0/DEF 0). (This card is also still a Trap Card.) During your Standby Phase, while this card is treated as a monster: You can banish any number of \"Utopia\" monsters with different names from your Graveyard; inflict 500 damage to your opponent for each of those banished monsters, and if you do, this card gains ATK equal to the damage they took.",
+    "str1": "Banish \"Utopia\" monsters ",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 27062594,
+        "pack_id": "NECH-JP086",
+        "pack": "NECH",
+        "rarity": "The Door of Destiny",
+        "date": 1405728000000
+    },
+    "tcg": {
+        "id": 27062594,
+        "pack_id": "WSUP-EN031",
+        "pack": "WSUP",
+        "rarity": "The Door of Destiny",
+        "date": 1429142400000
+    }
+}

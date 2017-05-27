@@ -1,1 +1,47 @@
-{"id":75652080,"ot":3,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1,"name":"Double Cyclone","desc":"Target 1 Spell/Trap Card you control and 1 Spell/Trap Card your opponent controls; destroy them.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":75652080,"pack_id":"DREV-JP046","pack":"DREV","rarity":"Double Cyclone","date":1271462400000},"tcg":{"id":75652080,"pack_id":"DREV-EN046","pack":"DREV","rarity":"Double Cyclone","date":1281139200000}}
+{
+    "id": 75652080,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1,
+    "name": "Double Cyclone",
+    "desc": "Target 1 Spell/Trap Card you control and 1 Spell/Trap Card your opponent controls; destroy them.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 75652080,
+        "pack_id": "DREV-JP046",
+        "pack": "DREV",
+        "rarity": "Double Cyclone",
+        "date": 1271462400000
+    },
+    "tcg": {
+        "id": 75652080,
+        "pack_id": "DREV-EN046",
+        "pack": "DREV",
+        "rarity": "Double Cyclone",
+        "date": 1281139200000
+    }
+}

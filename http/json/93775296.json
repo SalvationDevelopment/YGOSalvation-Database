@@ -1,1 +1,47 @@
-{"id":93775296,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Reverse Reuse","desc":"Target up to 2 Flip monsters in your Graveyard; Special Summon them to your opponent's side of the field, in face-up or face-down Defense Position.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":93775296,"pack_id":"CPD1-JP038","pack":"CPD1","rarity":"Reverse Reuse","date":1431734400000},"tcg":{"id":93775296,"pack_id":"DRL2-EN038","pack":"DRL2","rarity":"Reverse Reuse","date":1437004800000}}
+{
+    "id": 93775296,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Reverse Reuse",
+    "desc": "Target up to 2 Flip monsters in your Graveyard; Special Summon them to your opponent's side of the field, in face-up or face-down Defense Position.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 93775296,
+        "pack_id": "CPD1-JP038",
+        "pack": "CPD1",
+        "rarity": "Reverse Reuse",
+        "date": 1431734400000
+    },
+    "tcg": {
+        "id": 93775296,
+        "pack_id": "DRL2-EN038",
+        "pack": "DRL2",
+        "rarity": "Reverse Reuse",
+        "date": 1437004800000
+    }
+}

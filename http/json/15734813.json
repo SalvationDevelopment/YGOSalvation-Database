@@ -1,1 +1,47 @@
-{"id":15734813,"ot":3,"alias":0,"setcode":0,"type":17,"atk":0,"def":2100,"level":4,"race":16384,"attribute":1,"category":0,"name":"Soul Tiger","desc":"The soul of a tiger that is said to devour human souls. He is a famous soul that you wouldn't want to run into in a dark alley.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":15734813,"pack_id":"306-003","pack":"混沌を制す者","rarity":"共通","date":1051156800000},"tcg":{"id":15734813,"pack_id":"IOC-003","pack":"IOC","rarity":"Soul Tiger","date":1078099200000}}
+{
+    "id": 15734813,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 0,
+    "def": 2100,
+    "level": 4,
+    "race": 16384,
+    "attribute": 1,
+    "category": 0,
+    "name": "Soul Tiger",
+    "desc": "The soul of a tiger that is said to devour human souls. He is a famous soul that you wouldn't want to run into in a dark alley.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 15734813,
+        "pack_id": "306-003",
+        "pack": "混沌を制す者",
+        "rarity": "共通",
+        "date": 1051156800000
+    },
+    "tcg": {
+        "id": 15734813,
+        "pack_id": "IOC-003",
+        "pack": "IOC",
+        "rarity": "Soul Tiger",
+        "date": 1078099200000
+    }
+}

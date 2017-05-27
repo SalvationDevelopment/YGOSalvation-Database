@@ -1,1 +1,47 @@
-{"id":76202610,"ot":3,"alias":0,"setcode":0,"type":33,"atk":100,"def":100,"level":1,"race":8,"attribute":32,"category":2097152,"name":"Darklon","desc":"When this card is Normal Summoned: You can have all face-up monsters you currently control gain 1 Level, also, they become DARK (these effects last until the End Phase).","str1":"等级属性变化","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":76202610,"pack_id":"ORCS-JP002","pack":"ORCS","rarity":"Darklon","date":1321660800000},"tcg":{"id":76202610,"pack_id":"ORCS-EN002","pack":"ORCS","rarity":"Darklon","date":1326499200000}}
+{
+    "id": 76202610,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 100,
+    "def": 100,
+    "level": 1,
+    "race": 8,
+    "attribute": 32,
+    "category": 2097152,
+    "name": "Darklon",
+    "desc": "When this card is Normal Summoned: You can have all face-up monsters you currently control gain 1 Level, also, they become DARK (these effects last until the End Phase).",
+    "str1": "等级属性变化",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 76202610,
+        "pack_id": "ORCS-JP002",
+        "pack": "ORCS",
+        "rarity": "Darklon",
+        "date": 1321660800000
+    },
+    "tcg": {
+        "id": 76202610,
+        "pack_id": "ORCS-EN002",
+        "pack": "ORCS",
+        "rarity": "Darklon",
+        "date": 1326499200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":75372290,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1550,"def":2500,"level":6,"race":1,"attribute":32,"category":2048,"name":"Total Defense Shogun","desc":"This card is changed to Defense Position when it is Normal Summoned or Flip Summoned successfully. This card can attack while it is in Defense Position. If this card attacks while in Defense Position, apply the ATK of this card for damage calculation.","str1":"Change to defense position","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":75372290,"pack_id":"VJ-02","pack":"VJ","rarity":"Total Defense Shogun","date":980035200000},"tcg":{"id":75372290,"pack_id":"CT1-EN001","pack":"CT1","rarity":"Total Defense Shogun","date":1122422400000}}
+{
+    "id": 75372290,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1550,
+    "def": 2500,
+    "level": 6,
+    "race": 1,
+    "attribute": 32,
+    "category": 2048,
+    "name": "Total Defense Shogun",
+    "desc": "This card is changed to Defense Position when it is Normal Summoned or Flip Summoned successfully. This card can attack while it is in Defense Position. If this card attacks while in Defense Position, apply the ATK of this card for damage calculation.",
+    "str1": "Change to defense position",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 75372290,
+        "pack_id": "VJ-02",
+        "pack": "VJ",
+        "rarity": "Total Defense Shogun",
+        "date": 980035200000
+    },
+    "tcg": {
+        "id": 75372290,
+        "pack_id": "CT1-EN001",
+        "pack": "CT1",
+        "rarity": "Total Defense Shogun",
+        "date": 1122422400000
+    }
+}

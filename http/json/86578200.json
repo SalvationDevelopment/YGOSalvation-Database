@@ -1,1 +1,47 @@
-{"id":86578200,"ot":3,"alias":0,"setcode":236,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Abyss Prop - Wild Wagon","desc":"The first time each \"Abyss Actor\" monster you control would be destroyed by battle each turn, it is not destroyed. Once per turn: You can target 1 \"Abyss Actor\" monster you control; your opponent cannot target it with card effects until the end of their turn (even if this card leaves the field). If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can return all cards your opponent controls to the hand.","str1":"Cannot be a target","str2":"Return to hand","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":86578200,"pack_id":"SPDS-JP026","pack":"SPDS","rarity":"Abyss Prop - Wild Wagon","date":1470441600000},"tcg":{"id":86578200,"pack_id":"DESO-EN026","pack":"DESO","rarity":"Abyss Prop - Wild Wagon","date":1479340800000}}
+{
+    "id": 86578200,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 236,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Abyss Prop - Wild Wagon",
+    "desc": "The first time each \"Abyss Actor\" monster you control would be destroyed by battle each turn, it is not destroyed. Once per turn: You can target 1 \"Abyss Actor\" monster you control; your opponent cannot target it with card effects until the end of their turn (even if this card leaves the field). If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can return all cards your opponent controls to the hand.",
+    "str1": "Cannot be a target",
+    "str2": "Return to hand",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 86578200,
+        "pack_id": "SPDS-JP026",
+        "pack": "SPDS",
+        "rarity": "Abyss Prop - Wild Wagon",
+        "date": 1470441600000
+    },
+    "tcg": {
+        "id": 86578200,
+        "pack_id": "DESO-EN026",
+        "pack": "DESO",
+        "rarity": "Abyss Prop - Wild Wagon",
+        "date": 1479340800000
+    }
+}

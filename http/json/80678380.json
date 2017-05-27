@@ -1,1 +1,47 @@
-{"id":80678380,"ot":3,"alias":0,"setcode":0,"type":1048580,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":-2147483647,"name":"Snake Deity's Command","desc":"Activate by showing your opponent 1 \"Venom\" monster in your hand. Negate the activation and effect of an opponent's Spell Card, and destroy it.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":80678380,"pack_id":"TAEV-JP068","pack":"TAEV","rarity":"Snake Deity's Command","date":1178928000000},"tcg":{"id":80678380,"pack_id":"TAEV-EN068","pack":"TAEV","rarity":"Snake Deity's Command","date":1187136000000}}
+{
+    "id": 80678380,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 1048580,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": -2147483647,
+    "name": "Snake Deity's Command",
+    "desc": "Activate by showing your opponent 1 \"Venom\" monster in your hand. Negate the activation and effect of an opponent's Spell Card, and destroy it.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 80678380,
+        "pack_id": "TAEV-JP068",
+        "pack": "TAEV",
+        "rarity": "Snake Deity's Command",
+        "date": 1178928000000
+    },
+    "tcg": {
+        "id": 80678380,
+        "pack_id": "TAEV-EN068",
+        "pack": "TAEV",
+        "rarity": "Snake Deity's Command",
+        "date": 1187136000000
+    }
+}

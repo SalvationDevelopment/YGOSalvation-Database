@@ -1,1 +1,47 @@
-{"id":564541,"ot":3,"alias":0,"setcode":0,"type":33,"atk":400,"def":200,"level":2,"race":8192,"attribute":1,"category":262144,"name":"Totem Dragon","desc":"This card can be treated as 2 Tributes for the Tribute Summon of a Dragon-Type monster. If this card is in your Graveyard during your Standby Phase and you control no monsters, you can Special Summon this card in Attack Position. You cannot activate this effect if there are any monsters in your Graveyard that are not Dragon-Type. If this card is Special Summoned with this effect, remove it from play when it is removed from the field.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":564541,"pack_id":"EXP2-JP036","pack":"EXP2","rarity":"Totem Dragon","date":1253318400000},"tcg":{"id":564541,"pack_id":"CRMS-EN085","pack":"CRMS","rarity":"Totem Dragon","date":1235779200000}}
+{
+    "id": 564541,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 400,
+    "def": 200,
+    "level": 2,
+    "race": 8192,
+    "attribute": 1,
+    "category": 262144,
+    "name": "Totem Dragon",
+    "desc": "This card can be treated as 2 Tributes for the Tribute Summon of a Dragon-Type monster. If this card is in your Graveyard during your Standby Phase and you control no monsters, you can Special Summon this card in Attack Position. You cannot activate this effect if there are any monsters in your Graveyard that are not Dragon-Type. If this card is Special Summoned with this effect, remove it from play when it is removed from the field.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 564541,
+        "pack_id": "EXP2-JP036",
+        "pack": "EXP2",
+        "rarity": "Totem Dragon",
+        "date": 1253318400000
+    },
+    "tcg": {
+        "id": 564541,
+        "pack_id": "CRMS-EN085",
+        "pack": "CRMS",
+        "rarity": "Totem Dragon",
+        "date": 1235779200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":59969392,"ot":3,"alias":0,"setcode":69,"type":8225,"atk":2500,"def":1200,"level":6,"race":16,"attribute":32,"category":17825792,"name":"Archfiend Zombie-Skull","desc":"\"Plaguespreader Zombie\" + 2 or more non-Tuner Zombie-Type monsters\nFace-up Zombie-Type monsters you control cannot be destroyed by card effects.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":59969392,"pack_id":"ANPR-JP042","pack":"ANPR","rarity":"Archfiend Zombie-Skull","date":1240012800000},"tcg":{"id":59969392,"pack_id":"ANPR-EN042","pack":"ANPR","rarity":"Archfiend Zombie-Skull","date":1251763200000}}
+{
+    "id": 59969392,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 69,
+    "type": 8225,
+    "atk": 2500,
+    "def": 1200,
+    "level": 6,
+    "race": 16,
+    "attribute": 32,
+    "category": 17825792,
+    "name": "Archfiend Zombie-Skull",
+    "desc": "\"Plaguespreader Zombie\" + 2 or more non-Tuner Zombie-Type monsters\nFace-up Zombie-Type monsters you control cannot be destroyed by card effects.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 59969392,
+        "pack_id": "ANPR-JP042",
+        "pack": "ANPR",
+        "rarity": "Archfiend Zombie-Skull",
+        "date": 1240012800000
+    },
+    "tcg": {
+        "id": 59969392,
+        "pack_id": "ANPR-EN042",
+        "pack": "ANPR",
+        "rarity": "Archfiend Zombie-Skull",
+        "date": 1251763200000
+    }
+}

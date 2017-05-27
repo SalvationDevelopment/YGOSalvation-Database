@@ -1,1 +1,47 @@
-{"id":16762927,"ot":3,"alias":0,"setcode":46,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":65536,"name":"Gravekeeper's Servant","desc":"Your opponent must send 1 card from the top of their Deck to the Graveyard to declare an attack.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":16762927,"pack_id":"MR-31","pack":"MR","rarity":"Gravekeeper's Servant","date":956188800000},"tcg":{"id":16762927,"pack_id":"MRL-031","pack":"MRL","rarity":"Gravekeeper's Servant","date":1032134400000}}
+{
+    "id": 16762927,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 46,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 65536,
+    "name": "Gravekeeper's Servant",
+    "desc": "Your opponent must send 1 card from the top of their Deck to the Graveyard to declare an attack.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 16762927,
+        "pack_id": "MR-31",
+        "pack": "MR",
+        "rarity": "Gravekeeper's Servant",
+        "date": 956188800000
+    },
+    "tcg": {
+        "id": 16762927,
+        "pack_id": "MRL-031",
+        "pack": "MRL",
+        "rarity": "Gravekeeper's Servant",
+        "date": 1032134400000
+    }
+}

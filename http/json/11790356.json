@@ -1,1 +1,47 @@
-{"id":11790356,"ot":3,"alias":0,"setcode":0,"type":8225,"atk":1200,"def":2800,"level":8,"race":8192,"attribute":32,"category":0,"name":"Buster Dragon","desc":"1 Tuner + 1 or more non-Tuner monsters\nAll monsters your opponent controls become Dragon-Type. Once per turn, if you do not control a \"Buster Blader\" monster: You can target 1 \"Buster Blader\" in your Graveyard; Special Summon it. Once per turn, during your opponent's turn: You can target 1 \"Buster Blader\" monster you control; equip it with 1 \"Destruction Sword\" monster from your Graveyard (this is a Quick Effect).","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":11790356,"pack_id":"BOSH-JP052","pack":"BOSH","rarity":"Buster Dragon","date":1445040000000},"tcg":{"id":11790356,"pack_id":"BOSH-EN052","pack":"BOSH","rarity":"Buster Dragon","date":1452729600000}}
+{
+    "id": 11790356,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8225,
+    "atk": 1200,
+    "def": 2800,
+    "level": 8,
+    "race": 8192,
+    "attribute": 32,
+    "category": 0,
+    "name": "Buster Dragon",
+    "desc": "1 Tuner + 1 or more non-Tuner monsters\nAll monsters your opponent controls become Dragon-Type. Once per turn, if you do not control a \"Buster Blader\" monster: You can target 1 \"Buster Blader\" in your Graveyard; Special Summon it. Once per turn, during your opponent's turn: You can target 1 \"Buster Blader\" monster you control; equip it with 1 \"Destruction Sword\" monster from your Graveyard (this is a Quick Effect).",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 11790356,
+        "pack_id": "BOSH-JP052",
+        "pack": "BOSH",
+        "rarity": "Buster Dragon",
+        "date": 1445040000000
+    },
+    "tcg": {
+        "id": 11790356,
+        "pack_id": "BOSH-EN052",
+        "pack": "BOSH",
+        "rarity": "Buster Dragon",
+        "date": 1452729600000
+    }
+}

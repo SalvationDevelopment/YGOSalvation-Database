@@ -1,1 +1,47 @@
-{"id":90337190,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1000,"def":1000,"level":3,"race":131072,"attribute":2,"category":33554432,"name":"Torpedo Fish","desc":"While \"Umi\" is face-up on the field, this card is unaffected by any Spell Cards.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":90337190,"pack_id":"307-027","pack":"暗黒の侵略者","rarity":"共通","date":1058414400000},"tcg":{"id":90337190,"pack_id":"IOC-082","pack":"IOC","rarity":"Torpedo Fish","date":1078099200000}}
+{
+    "id": 90337190,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1000,
+    "def": 1000,
+    "level": 3,
+    "race": 131072,
+    "attribute": 2,
+    "category": 33554432,
+    "name": "Torpedo Fish",
+    "desc": "While \"Umi\" is face-up on the field, this card is unaffected by any Spell Cards.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 90337190,
+        "pack_id": "307-027",
+        "pack": "暗黒の侵略者",
+        "rarity": "共通",
+        "date": 1058414400000
+    },
+    "tcg": {
+        "id": 90337190,
+        "pack_id": "IOC-082",
+        "pack": "IOC",
+        "rarity": "Torpedo Fish",
+        "date": 1078099200000
+    }
+}

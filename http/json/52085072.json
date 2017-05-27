@@ -1,1 +1,47 @@
-{"id":52085072,"ot":3,"alias":0,"setcode":127,"type":33,"atk":5000,"def":5000,"level":12,"race":8,"attribute":32,"category":0,"name":"Dystopia the Despondent","desc":"Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or Graveyard) by sending 4 face-up Level 1 monsters you control to the Graveyard, and cannot be Special Summoned by other ways. Other monsters you control cannot attack. During either player's Battle Step, once per battle involving this card: You can banish 1 Level 1 monster from your Graveyard; until the end of the Damage Step, this card is unaffected by other cards' effects, also it cannot be destroyed by battle.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":52085072,"pack_id":"VJMP-JP105","pack":"VJMP","rarity":"Dystopia the Despondent","date":1434758400000},"tcg":{"id":52085072,"pack_id":"JUMP-EN075","pack":"JUMP","rarity":"Dystopia the Despondent","date":1453075200000}}
+{
+    "id": 52085072,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 127,
+    "type": 33,
+    "atk": 5000,
+    "def": 5000,
+    "level": 12,
+    "race": 8,
+    "attribute": 32,
+    "category": 0,
+    "name": "Dystopia the Despondent",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or Graveyard) by sending 4 face-up Level 1 monsters you control to the Graveyard, and cannot be Special Summoned by other ways. Other monsters you control cannot attack. During either player's Battle Step, once per battle involving this card: You can banish 1 Level 1 monster from your Graveyard; until the end of the Damage Step, this card is unaffected by other cards' effects, also it cannot be destroyed by battle.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 52085072,
+        "pack_id": "VJMP-JP105",
+        "pack": "VJMP",
+        "rarity": "Dystopia the Despondent",
+        "date": 1434758400000
+    },
+    "tcg": {
+        "id": 52085072,
+        "pack_id": "JUMP-EN075",
+        "pack": "JUMP",
+        "rarity": "Dystopia the Despondent",
+        "date": 1453075200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":30068120,"ot":3,"alias":0,"setcode":195,"type":33,"atk":1200,"def":800,"level":3,"race":8,"attribute":32,"category":0,"name":"Edge Imp Sabres","desc":"If this card is in your Graveyard: You can place 1 card from your hand on the top of the Deck; Special Summon this card in Defense Position. You can only use this effect of \"Edge Imp Sabres\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":30068120,"pack_id":"NECH-JP014","pack":"NECH","rarity":"Edge Imp Sabres","date":1405728000000},"tcg":{"id":30068120,"pack_id":"NECH-EN014","pack":"NECH","rarity":"Edge Imp Sabres","date":1415232000000}}
+{
+    "id": 30068120,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 195,
+    "type": 33,
+    "atk": 1200,
+    "def": 800,
+    "level": 3,
+    "race": 8,
+    "attribute": 32,
+    "category": 0,
+    "name": "Edge Imp Sabres",
+    "desc": "If this card is in your Graveyard: You can place 1 card from your hand on the top of the Deck; Special Summon this card in Defense Position. You can only use this effect of \"Edge Imp Sabres\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 30068120,
+        "pack_id": "NECH-JP014",
+        "pack": "NECH",
+        "rarity": "Edge Imp Sabres",
+        "date": 1405728000000
+    },
+    "tcg": {
+        "id": 30068120,
+        "pack_id": "NECH-EN014",
+        "pack": "NECH",
+        "rarity": "Edge Imp Sabres",
+        "date": 1415232000000
+    }
+}

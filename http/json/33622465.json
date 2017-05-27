@@ -1,1 +1,47 @@
-{"id":33622465,"ot":3,"alias":0,"setcode":0,"type":4,"atk":1200,"def":400,"level":3,"race":1,"attribute":1,"category":0,"name":"First-Aid Squad","desc":"Target 1 Normal Monster in your Graveyard; add it to your hand. When a Normal Monster is destroyed by battle: You can Special Summon this card from your Graveyard in Defense Position as a Normal Monster (Warrior-Type/EARTH/Level 3/ATK 1200/DEF 400). (This card is NOT treated as a Trap Card.) You can only use this effect of \"First-Aid Squad\" once per turn. If Summoned this way, banish this card when it leaves the field.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":33622465,"pack_id":"DOCS-JP080","pack":"DOCS","rarity":"First-Aid Squad","date":1437177600000},"tcg":{"id":33622465,"pack_id":"DOCS-EN080","pack":"DOCS","rarity":"First-Aid Squad","date":1446681600000}}
+{
+    "id": 33622465,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 1200,
+    "def": 400,
+    "level": 3,
+    "race": 1,
+    "attribute": 1,
+    "category": 0,
+    "name": "First-Aid Squad",
+    "desc": "Target 1 Normal Monster in your Graveyard; add it to your hand. When a Normal Monster is destroyed by battle: You can Special Summon this card from your Graveyard in Defense Position as a Normal Monster (Warrior-Type/EARTH/Level 3/ATK 1200/DEF 400). (This card is NOT treated as a Trap Card.) You can only use this effect of \"First-Aid Squad\" once per turn. If Summoned this way, banish this card when it leaves the field.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 33622465,
+        "pack_id": "DOCS-JP080",
+        "pack": "DOCS",
+        "rarity": "First-Aid Squad",
+        "date": 1437177600000
+    },
+    "tcg": {
+        "id": 33622465,
+        "pack_id": "DOCS-EN080",
+        "pack": "DOCS",
+        "rarity": "First-Aid Squad",
+        "date": 1446681600000
+    }
+}

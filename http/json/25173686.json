@@ -1,1 +1,47 @@
-{"id":25173686,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1,"name":"Straight Flush","desc":"Activate only when all of your opponent's Spell & Trap Card Zones are occupied. Destroy all cards in your opponent's Spell & Trap Card Zones.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":25173686,"pack_id":"CDIP-JP050","pack":"CDIP","rarity":"Straight Flush","date":1155168000000},"tcg":{"id":25173686,"pack_id":"CDIP-EN050","pack":"CDIP","rarity":"Straight Flush","date":1163548800000}}
+{
+    "id": 25173686,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1,
+    "name": "Straight Flush",
+    "desc": "Activate only when all of your opponent's Spell & Trap Card Zones are occupied. Destroy all cards in your opponent's Spell & Trap Card Zones.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 25173686,
+        "pack_id": "CDIP-JP050",
+        "pack": "CDIP",
+        "rarity": "Straight Flush",
+        "date": 1155168000000
+    },
+    "tcg": {
+        "id": 25173686,
+        "pack_id": "CDIP-EN050",
+        "pack": "CDIP",
+        "rarity": "Straight Flush",
+        "date": 1163548800000
+    }
+}

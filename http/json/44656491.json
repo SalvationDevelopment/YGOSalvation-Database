@@ -1,1 +1,47 @@
-{"id":44656491,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":65536,"name":"Messenger of Peace","desc":"Monsters with 1500 or more ATK cannot declare an attack. Once per turn, during your Standby Phase, pay 100 LP or destroy this card.","str1":"Pay 100LP?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":44656491,"pack_id":"PS-51","pack":"PS","rarity":"Messenger of Peace","date":963446400000},"tcg":{"id":44656491,"pack_id":"DB1-EN065","pack":"DB1","rarity":"Messenger of Peace","date":1097539200000}}
+{
+    "id": 44656491,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 65536,
+    "name": "Messenger of Peace",
+    "desc": "Monsters with 1500 or more ATK cannot declare an attack. Once per turn, during your Standby Phase, pay 100 LP or destroy this card.",
+    "str1": "Pay 100LP?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 44656491,
+        "pack_id": "PS-51",
+        "pack": "PS",
+        "rarity": "Messenger of Peace",
+        "date": 963446400000
+    },
+    "tcg": {
+        "id": 44656491,
+        "pack_id": "DB1-EN065",
+        "pack": "DB1",
+        "rarity": "Messenger of Peace",
+        "date": 1097539200000
+    }
+}

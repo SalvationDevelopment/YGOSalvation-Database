@@ -1,1 +1,47 @@
-{"id":21250202,"ot":3,"alias":0,"setcode":153,"type":16777249,"atk":1200,"def":2400,"level":16842757,"race":8192,"attribute":32,"category":0,"name":"Odd-Eyes Persona Dragon","desc":"Pendulum Effect\nOnce per turn, during the End Phase, if your opponent activated a card or effect this turn that targeted exactly 1 \"Odd-Eyes\" Pendulum Monster you controlled (and no other cards) while this card was in your Pendulum Zone: Special Summon this card, and if you do, place 1 face-up \"Odd-Eyes\" Pendulum Monster from your Extra Deck in your Pendulum Zone, except \"Odd-Eyes Persona Dragon\".\n\nMonster Effect\nOnce per turn, during either player's turn: You can target 1 face-up monster on the field that was Special Summoned from the Extra Deck; it has its effects negated, until the end of this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":21250202,"pack_id":"VJMP-JP114","pack":"VJMP","rarity":"Odd-Eyes Persona Dragon","date":1458345600000},"tcg":{"id":21250202,"pack_id":"JUMP-EN079","pack":"JUMP","rarity":"Odd-Eyes Persona Dragon","date":1484524800000}}
+{
+    "id": 21250202,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 153,
+    "type": 16777249,
+    "atk": 1200,
+    "def": 2400,
+    "level": 16842757,
+    "race": 8192,
+    "attribute": 32,
+    "category": 0,
+    "name": "Odd-Eyes Persona Dragon",
+    "desc": "Pendulum Effect\nOnce per turn, during the End Phase, if your opponent activated a card or effect this turn that targeted exactly 1 \"Odd-Eyes\" Pendulum Monster you controlled (and no other cards) while this card was in your Pendulum Zone: Special Summon this card, and if you do, place 1 face-up \"Odd-Eyes\" Pendulum Monster from your Extra Deck in your Pendulum Zone, except \"Odd-Eyes Persona Dragon\".\n\nMonster Effect\nOnce per turn, during either player's turn: You can target 1 face-up monster on the field that was Special Summoned from the Extra Deck; it has its effects negated, until the end of this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 21250202,
+        "pack_id": "VJMP-JP114",
+        "pack": "VJMP",
+        "rarity": "Odd-Eyes Persona Dragon",
+        "date": 1458345600000
+    },
+    "tcg": {
+        "id": 21250202,
+        "pack_id": "JUMP-EN079",
+        "pack": "JUMP",
+        "rarity": "Odd-Eyes Persona Dragon",
+        "date": 1484524800000
+    }
+}

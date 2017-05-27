@@ -1,1 +1,47 @@
-{"id":7841112,"ot":3,"alias":0,"setcode":63,"type":8225,"atk":3800,"def":3000,"level":10,"race":8192,"attribute":8,"category":-2147220445,"name":"Majestic Star Dragon","desc":"\"Majestic Dragon\" + \"Stardust Dragon\" + 1 non-Tuner monster\nDuring either player's turn, when your opponent activates a card or effect: You can Tribute this card; negate the activation, and if you do, destroy all cards your opponent controls. Once per turn: You can target 1 face-up monster your opponent controls; negate its effects until the end of this turn, and you can activate 1 of its effects as this card's effect once this turn. During the End Phase: Target 1 \"Stardust Dragon\" in your Graveyard; return this card from the field to the Extra Deck, then Special Summon that target.","str1":"Negate effect and destroy all cards your opponent controls","str2":"Negate effect","str3":"返回额外卡组","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":7841112,"pack_id":"SOVR-JP040","pack":"SOVR","rarity":"Majestic Star Dragon","date":1247875200000},"tcg":{"id":7841112,"pack_id":"CT06-EN003","pack":"CT06","rarity":"Majestic Star Dragon","date":1257206400000}}
+{
+    "id": 7841112,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 63,
+    "type": 8225,
+    "atk": 3800,
+    "def": 3000,
+    "level": 10,
+    "race": 8192,
+    "attribute": 8,
+    "category": -2147220445,
+    "name": "Majestic Star Dragon",
+    "desc": "\"Majestic Dragon\" + \"Stardust Dragon\" + 1 non-Tuner monster\nDuring either player's turn, when your opponent activates a card or effect: You can Tribute this card; negate the activation, and if you do, destroy all cards your opponent controls. Once per turn: You can target 1 face-up monster your opponent controls; negate its effects until the end of this turn, and you can activate 1 of its effects as this card's effect once this turn. During the End Phase: Target 1 \"Stardust Dragon\" in your Graveyard; return this card from the field to the Extra Deck, then Special Summon that target.",
+    "str1": "Negate effect and destroy all cards your opponent controls",
+    "str2": "Negate effect",
+    "str3": "返回额外卡组",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 7841112,
+        "pack_id": "SOVR-JP040",
+        "pack": "SOVR",
+        "rarity": "Majestic Star Dragon",
+        "date": 1247875200000
+    },
+    "tcg": {
+        "id": 7841112,
+        "pack_id": "CT06-EN003",
+        "pack": "CT06",
+        "rarity": "Majestic Star Dragon",
+        "date": 1257206400000
+    }
+}

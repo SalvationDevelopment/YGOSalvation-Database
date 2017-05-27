@@ -1,1 +1,47 @@
-{"id":84298614,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Powerful Rebirth","desc":"Activate this card by targeting 1 Level 4 or lower monster in your Graveyard; Special Summon that target. Increase its Level by 1 and ATK and DEF by 100. When that monster is destroyed, destroy this card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":84298614,"pack_id":"GS06-JP016","pack":"GS06","rarity":"Powerful Rebirth","date":1389398400000},"tcg":{"id":84298614,"pack_id":"CROS-EN093","pack":"CROS","rarity":"Powerful Rebirth","date":1431561600000}}
+{
+    "id": 84298614,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Powerful Rebirth",
+    "desc": "Activate this card by targeting 1 Level 4 or lower monster in your Graveyard; Special Summon that target. Increase its Level by 1 and ATK and DEF by 100. When that monster is destroyed, destroy this card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 84298614,
+        "pack_id": "GS06-JP016",
+        "pack": "GS06",
+        "rarity": "Powerful Rebirth",
+        "date": 1389398400000
+    },
+    "tcg": {
+        "id": 84298614,
+        "pack_id": "CROS-EN093",
+        "pack": "CROS",
+        "rarity": "Powerful Rebirth",
+        "date": 1431561600000
+    }
+}

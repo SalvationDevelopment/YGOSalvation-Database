@@ -1,1 +1,47 @@
-{"id":93445074,"ot":3,"alias":0,"setcode":209,"type":33,"atk":1000,"def":1000,"level":3,"race":64,"attribute":2,"category":0,"name":"Graydle Cobra","desc":"If this card in your Monster Zone is destroyed by battle or Trap effect and sent to your Graveyard: You can target 1 face-up monster your opponent controls; equip this card to that target. While this card is equipped to a monster by this effect, take control of that monster. When this card leaves the field, destroy the equipped monster.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":93445074,"pack_id":"DOCS-JP034","pack":"DOCS","rarity":"Graydle Cobra","date":1437177600000},"tcg":{"id":93445074,"pack_id":"DOCS-EN034","pack":"DOCS","rarity":"Graydle Cobra","date":1446681600000}}
+{
+    "id": 93445074,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 209,
+    "type": 33,
+    "atk": 1000,
+    "def": 1000,
+    "level": 3,
+    "race": 64,
+    "attribute": 2,
+    "category": 0,
+    "name": "Graydle Cobra",
+    "desc": "If this card in your Monster Zone is destroyed by battle or Trap effect and sent to your Graveyard: You can target 1 face-up monster your opponent controls; equip this card to that target. While this card is equipped to a monster by this effect, take control of that monster. When this card leaves the field, destroy the equipped monster.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 93445074,
+        "pack_id": "DOCS-JP034",
+        "pack": "DOCS",
+        "rarity": "Graydle Cobra",
+        "date": 1437177600000
+    },
+    "tcg": {
+        "id": 93445074,
+        "pack_id": "DOCS-EN034",
+        "pack": "DOCS",
+        "rarity": "Graydle Cobra",
+        "date": 1446681600000
+    }
+}

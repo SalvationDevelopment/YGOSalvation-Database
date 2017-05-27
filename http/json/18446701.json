@@ -1,1 +1,47 @@
-{"id":18446701,"ot":3,"alias":0,"setcode":84,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":16777216,"name":"Gagagashield","desc":"Target 1 Spellcaster-Type monster you control; equip this card to that target. Twice per turn, it cannot be destroyed by battle or card effects.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":18446701,"pack_id":"DP12-JP030","pack":"DP12","rarity":"Gagagashield","date":1318636800000},"tcg":{"id":18446701,"pack_id":"ZTIN-EN005","pack":"ZTIN","rarity":"Gagagashield","date":1362614400000}}
+{
+    "id": 18446701,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 84,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 16777216,
+    "name": "Gagagashield",
+    "desc": "Target 1 Spellcaster-Type monster you control; equip this card to that target. Twice per turn, it cannot be destroyed by battle or card effects.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 18446701,
+        "pack_id": "DP12-JP030",
+        "pack": "DP12",
+        "rarity": "Gagagashield",
+        "date": 1318636800000
+    },
+    "tcg": {
+        "id": 18446701,
+        "pack_id": "ZTIN-EN005",
+        "pack": "ZTIN",
+        "rarity": "Gagagashield",
+        "date": 1362614400000
+    }
+}

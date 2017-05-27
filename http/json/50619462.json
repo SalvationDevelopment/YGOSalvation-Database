@@ -1,1 +1,47 @@
-{"id":50619462,"ot":3,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Cattle Call","desc":"Send 1 face-up monster you control to the Graveyard, whose original Type is Beast, Beast-Warrior, or Winged Beast; Special Summon 1 monster from your Extra Deck with the same original Type, but it cannot attack, its effects are negated, also it is destroyed during the End Phase. You can only activate 1 \"Cattle Call\" per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":50619462,"pack_id":"EP16-JP047","pack":"EP16","rarity":"Cattle Call","date":1473465600000},"tcg":{"id":50619462,"pack_id":"SHVI-EN081","pack":"SHVI","rarity":"Cattle Call","date":1462406400000}}
+{
+    "id": 50619462,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Cattle Call",
+    "desc": "Send 1 face-up monster you control to the Graveyard, whose original Type is Beast, Beast-Warrior, or Winged Beast; Special Summon 1 monster from your Extra Deck with the same original Type, but it cannot attack, its effects are negated, also it is destroyed during the End Phase. You can only activate 1 \"Cattle Call\" per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 50619462,
+        "pack_id": "EP16-JP047",
+        "pack": "EP16",
+        "rarity": "Cattle Call",
+        "date": 1473465600000
+    },
+    "tcg": {
+        "id": 50619462,
+        "pack_id": "SHVI-EN081",
+        "pack": "SHVI",
+        "rarity": "Cattle Call",
+        "date": 1462406400000
+    }
+}

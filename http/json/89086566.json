@@ -1,1 +1,47 @@
-{"id":89086566,"ot":3,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":3,"name":"Detonate","desc":"Destroy as many \"Kuriboh\" and \"Kuriboh Tokens\" you control as possible, then destroy cards your opponent controls, up to the number of \"Kuriboh\" and \"Kuriboh Tokens\" destroyed by this effect.","str1":"Destroy opponent card?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":89086566,"pack_id":"DT01-JP043","pack":"DT01","rarity":"Detonate","date":1207958400000},"tcg":{"id":89086566,"pack_id":"HA01-EN028","pack":"HA01","rarity":"Detonate","date":1257379200000}}
+{
+    "id": 89086566,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 3,
+    "name": "Detonate",
+    "desc": "Destroy as many \"Kuriboh\" and \"Kuriboh Tokens\" you control as possible, then destroy cards your opponent controls, up to the number of \"Kuriboh\" and \"Kuriboh Tokens\" destroyed by this effect.",
+    "str1": "Destroy opponent card?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 89086566,
+        "pack_id": "DT01-JP043",
+        "pack": "DT01",
+        "rarity": "Detonate",
+        "date": 1207958400000
+    },
+    "tcg": {
+        "id": 89086566,
+        "pack_id": "HA01-EN028",
+        "pack": "HA01",
+        "rarity": "Detonate",
+        "date": 1257379200000
+    }
+}

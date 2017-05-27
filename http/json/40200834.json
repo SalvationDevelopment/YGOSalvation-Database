@@ -1,1 +1,47 @@
-{"id":40200834,"ot":3,"alias":0,"setcode":0,"type":17,"atk":700,"def":1700,"level":4,"race":16384,"attribute":1,"category":0,"name":"Sleeping Lion","desc":"A ferocious animal that sleeps all day. Sometimes it's better to let Sleeping Lions lie.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":40200834,"pack_id":null,"pack":"Vol.3","rarity":"共通","date":927777600000},"tcg":{"id":40200834,"pack_id":"TP6-EN017","pack":"Tournament Pack 6","rarity":"Common","date":1117598400000}}
+{
+    "id": 40200834,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 700,
+    "def": 1700,
+    "level": 4,
+    "race": 16384,
+    "attribute": 1,
+    "category": 0,
+    "name": "Sleeping Lion",
+    "desc": "A ferocious animal that sleeps all day. Sometimes it's better to let Sleeping Lions lie.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 40200834,
+        "pack_id": null,
+        "pack": "Vol.3",
+        "rarity": "共通",
+        "date": 927777600000
+    },
+    "tcg": {
+        "id": 40200834,
+        "pack_id": "TP6-EN017",
+        "pack": "Tournament Pack 6",
+        "rarity": "Common",
+        "date": 1117598400000
+    }
+}

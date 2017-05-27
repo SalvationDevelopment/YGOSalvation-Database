@@ -1,1 +1,47 @@
-{"id":42851643,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1800,"def":100,"level":4,"race":32,"attribute":1,"category":18432,"name":"Jumbo Drill","desc":"When this card is Normal Summoned: You can increase the Levels of all Machine-Type monsters you currently control by 1. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card attacks, it is changed to Defense Position at the end of the Damage Step.","str1":"Increase level","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":42851643,"pack_id":"GAOV-JP015","pack":"GAOV","rarity":"Jumbo Drill","date":1329523200000},"tcg":{"id":42851643,"pack_id":"GAOV-EN015","pack":"GAOV","rarity":"Jumbo Drill","date":1335571200000}}
+{
+    "id": 42851643,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1800,
+    "def": 100,
+    "level": 4,
+    "race": 32,
+    "attribute": 1,
+    "category": 18432,
+    "name": "Jumbo Drill",
+    "desc": "When this card is Normal Summoned: You can increase the Levels of all Machine-Type monsters you currently control by 1. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card attacks, it is changed to Defense Position at the end of the Damage Step.",
+    "str1": "Increase level",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 42851643,
+        "pack_id": "GAOV-JP015",
+        "pack": "GAOV",
+        "rarity": "Jumbo Drill",
+        "date": 1329523200000
+    },
+    "tcg": {
+        "id": 42851643,
+        "pack_id": "GAOV-EN015",
+        "pack": "GAOV",
+        "rarity": "Jumbo Drill",
+        "date": 1335571200000
+    }
+}

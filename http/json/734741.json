@@ -1,1 +1,47 @@
-{"id":734741,"ot":3,"alias":0,"setcode":177,"type":4129,"atk":100,"def":2100,"level":3,"race":8,"attribute":32,"category":0,"name":"Rubic, Malebranche of the Burning Abyss","desc":"If you control a monster that is not a \"Burning Abyss\" monster, destroy this card. Cannot be used as a Synchro Material, except for the Synchro Summon of a \"Burning Abyss\" Synchro Monster. If you control no Spell/Trap Cards: You can Special Summon this card from your hand. You can only use this effect of \"Rubic, Malebranche of the Burning Abyss\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":734741,"pack_id":"EP15-JP004","pack":"EP15","rarity":"Rubic, Malebranche of the Burning Abyss","date":1442620800000},"tcg":{"id":734741,"pack_id":"NECH-EN082","pack":"NECH","rarity":"Rubic, Malebranche of the Burning Abyss","date":1415232000000}}
+{
+    "id": 734741,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 177,
+    "type": 4129,
+    "atk": 100,
+    "def": 2100,
+    "level": 3,
+    "race": 8,
+    "attribute": 32,
+    "category": 0,
+    "name": "Rubic, Malebranche of the Burning Abyss",
+    "desc": "If you control a monster that is not a \"Burning Abyss\" monster, destroy this card. Cannot be used as a Synchro Material, except for the Synchro Summon of a \"Burning Abyss\" Synchro Monster. If you control no Spell/Trap Cards: You can Special Summon this card from your hand. You can only use this effect of \"Rubic, Malebranche of the Burning Abyss\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 734741,
+        "pack_id": "EP15-JP004",
+        "pack": "EP15",
+        "rarity": "Rubic, Malebranche of the Burning Abyss",
+        "date": 1442620800000
+    },
+    "tcg": {
+        "id": 734741,
+        "pack_id": "NECH-EN082",
+        "pack": "NECH",
+        "rarity": "Rubic, Malebranche of the Burning Abyss",
+        "date": 1415232000000
+    }
+}

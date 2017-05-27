@@ -1,1 +1,47 @@
-{"id":61831093,"ot":3,"alias":0,"setcode":0,"type":2097185,"atk":650,"def":900,"level":3,"race":1,"attribute":32,"category":1,"name":"Greenkappa","desc":"FLIP: Target 2 Set Spell/Trap Cards on the field; destroy those targets.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":61831093,"pack_id":"B3-38","pack":"B3","rarity":"Greenkappa","date":944006400000},"tcg":{"id":61831093,"pack_id":"HL1-EN002","pack":"HL1","rarity":"Greenkappa","date":1096588800000}}
+{
+    "id": 61831093,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2097185,
+    "atk": 650,
+    "def": 900,
+    "level": 3,
+    "race": 1,
+    "attribute": 32,
+    "category": 1,
+    "name": "Greenkappa",
+    "desc": "FLIP: Target 2 Set Spell/Trap Cards on the field; destroy those targets.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 61831093,
+        "pack_id": "B3-38",
+        "pack": "B3",
+        "rarity": "Greenkappa",
+        "date": 944006400000
+    },
+    "tcg": {
+        "id": 61831093,
+        "pack_id": "HL1-EN002",
+        "pack": "HL1",
+        "rarity": "Greenkappa",
+        "date": 1096588800000
+    }
+}

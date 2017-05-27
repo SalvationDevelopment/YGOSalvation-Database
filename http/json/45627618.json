@@ -1,1 +1,47 @@
-{"id":45627618,"ot":3,"alias":0,"setcode":153,"type":25165857,"atk":3000,"def":2500,"level":67371015,"race":8192,"attribute":32,"category":0,"name":"Odd-Eyes Rebellion Dragon","desc":"Pendulum Effect\nOnce per turn, if you have no cards in your other Pendulum Zone: You can place 1 Pendulum Monster from your Deck in your Pendulum Zone.\n\nMonster Effect\n2 Level 7 Dragon-Type monsters\nIf you can Pendulum Summon Level 7, you can Pendulum Summon this face-up card in your Extra Deck. If this card is Xyz Summoned by using an Xyz Monster as a Material: Destroy as many Level 7 or lower monsters your opponent controls as possible, inflict 1000 damage to your opponent for each card destroyed, and if you do, this card can make 3 attacks during each Battle Phase this turn. If this card in the Monster Zone is destroyed by battle or card effect: You can destroy as many cards in your Pendulum Zones as possible (min. 1), and if you do, place this card in your Pendulum Zone.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":45627618,"pack_id":"CORE-JP051","pack":"CORE","rarity":"Odd-Eyes Rebellion Dragon","date":1429920000000},"tcg":{"id":45627618,"pack_id":"CORE-EN051","pack":"CORE","rarity":"Odd-Eyes Rebellion Dragon","date":1438819200000}}
+{
+    "id": 45627618,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 153,
+    "type": 25165857,
+    "atk": 3000,
+    "def": 2500,
+    "level": 67371015,
+    "race": 8192,
+    "attribute": 32,
+    "category": 0,
+    "name": "Odd-Eyes Rebellion Dragon",
+    "desc": "Pendulum Effect\nOnce per turn, if you have no cards in your other Pendulum Zone: You can place 1 Pendulum Monster from your Deck in your Pendulum Zone.\n\nMonster Effect\n2 Level 7 Dragon-Type monsters\nIf you can Pendulum Summon Level 7, you can Pendulum Summon this face-up card in your Extra Deck. If this card is Xyz Summoned by using an Xyz Monster as a Material: Destroy as many Level 7 or lower monsters your opponent controls as possible, inflict 1000 damage to your opponent for each card destroyed, and if you do, this card can make 3 attacks during each Battle Phase this turn. If this card in the Monster Zone is destroyed by battle or card effect: You can destroy as many cards in your Pendulum Zones as possible (min. 1), and if you do, place this card in your Pendulum Zone.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 45627618,
+        "pack_id": "CORE-JP051",
+        "pack": "CORE",
+        "rarity": "Odd-Eyes Rebellion Dragon",
+        "date": 1429920000000
+    },
+    "tcg": {
+        "id": 45627618,
+        "pack_id": "CORE-EN051",
+        "pack": "CORE",
+        "rarity": "Odd-Eyes Rebellion Dragon",
+        "date": 1438819200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":45939611,"ot":3,"alias":0,"setcode":0,"type":33,"atk":800,"def":800,"level":3,"race":4,"attribute":16,"category":0,"name":"Little Fairy","desc":"Up to twice per turn: You can send 1 card from your hand to the Graveyard; increase this card's Level by 1.","str1":"Increase Level","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":45939611,"pack_id":"LTGY-JP006","pack":"LTGY","rarity":"Little Fairy","date":1360972800000},"tcg":{"id":45939611,"pack_id":"LTGY-EN006","pack":"LTGY","rarity":"Little Fairy","date":1368748800000}}
+{
+    "id": 45939611,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 800,
+    "def": 800,
+    "level": 3,
+    "race": 4,
+    "attribute": 16,
+    "category": 0,
+    "name": "Little Fairy",
+    "desc": "Up to twice per turn: You can send 1 card from your hand to the Graveyard; increase this card's Level by 1.",
+    "str1": "Increase Level",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 45939611,
+        "pack_id": "LTGY-JP006",
+        "pack": "LTGY",
+        "rarity": "Little Fairy",
+        "date": 1360972800000
+    },
+    "tcg": {
+        "id": 45939611,
+        "pack_id": "LTGY-EN006",
+        "pack": "LTGY",
+        "rarity": "Little Fairy",
+        "date": 1368748800000
+    }
+}

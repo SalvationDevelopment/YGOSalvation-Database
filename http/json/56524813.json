@@ -1,1 +1,47 @@
-{"id":56524813,"ot":3,"alias":0,"setcode":0,"type":33,"atk":800,"def":1500,"level":4,"race":2,"attribute":2,"category":2359304,"name":"Raging Eria","desc":"Once per turn, you can Tribute 1 WATER monster you control (except this card) to Special Summon 1 WATER monster from your hand. The monster Special Summoned by this effect is destroyed if \"Raging Eria\" is removed from your side of the field.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":56524813,"pack_id":"EOJ-JP027","pack":"EOJ","rarity":"Raging Eria","date":1140048000000},"tcg":{"id":56524813,"pack_id":"EOJ-EN027","pack":"EOJ","rarity":"Raging Eria","date":1147824000000}}
+{
+    "id": 56524813,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 800,
+    "def": 1500,
+    "level": 4,
+    "race": 2,
+    "attribute": 2,
+    "category": 2359304,
+    "name": "Raging Eria",
+    "desc": "Once per turn, you can Tribute 1 WATER monster you control (except this card) to Special Summon 1 WATER monster from your hand. The monster Special Summoned by this effect is destroyed if \"Raging Eria\" is removed from your side of the field.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 56524813,
+        "pack_id": "EOJ-JP027",
+        "pack": "EOJ",
+        "rarity": "Raging Eria",
+        "date": 1140048000000
+    },
+    "tcg": {
+        "id": 56524813,
+        "pack_id": "EOJ-EN027",
+        "pack": "EOJ",
+        "rarity": "Raging Eria",
+        "date": 1147824000000
+    }
+}

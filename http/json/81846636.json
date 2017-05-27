@@ -1,1 +1,47 @@
-{"id":81846636,"ot":3,"alias":0,"setcode":4167,"type":33,"atk":600,"def":100,"level":1,"race":256,"attribute":1,"category":1024,"name":"Gem-Knight Lazuli","desc":"If this card is sent to the Graveyard by a card effect: You can target 1 Normal Monster in your Graveyard; add that target to your hand.","str1":"Add to hand","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":81846636,"pack_id":"DT14-JP013","pack":"DT14","rarity":"Gem-Knight Lazuli","date":1327363200000},"tcg":{"id":81846636,"pack_id":"DT07-EN063","pack":"DT07","rarity":"Gem-Knight Lazuli","date":1359676800000}}
+{
+    "id": 81846636,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4167,
+    "type": 33,
+    "atk": 600,
+    "def": 100,
+    "level": 1,
+    "race": 256,
+    "attribute": 1,
+    "category": 1024,
+    "name": "Gem-Knight Lazuli",
+    "desc": "If this card is sent to the Graveyard by a card effect: You can target 1 Normal Monster in your Graveyard; add that target to your hand.",
+    "str1": "Add to hand",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 81846636,
+        "pack_id": "DT14-JP013",
+        "pack": "DT14",
+        "rarity": "Gem-Knight Lazuli",
+        "date": 1327363200000
+    },
+    "tcg": {
+        "id": 81846636,
+        "pack_id": "DT07-EN063",
+        "pack": "DT07",
+        "rarity": "Gem-Knight Lazuli",
+        "date": 1359676800000
+    }
+}

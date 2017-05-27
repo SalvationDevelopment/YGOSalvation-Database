@@ -1,1 +1,47 @@
-{"id":49218300,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1450,"def":1200,"level":4,"race":2,"attribute":32,"category":0,"name":"Sorcerer of the Doomed","desc":"A slave of the dark arts, this sorcerer is a master of life-extinguishing spells.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":49218300,"pack_id":"EX-38","pack":"EX","rarity":"Sorcerer of the Doomed","date":945302400000},"tcg":{"id":49218300,"pack_id":"SDY-038","pack":"SDY","rarity":"Sorcerer of the Doomed","date":1017360000000}}
+{
+    "id": 49218300,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1450,
+    "def": 1200,
+    "level": 4,
+    "race": 2,
+    "attribute": 32,
+    "category": 0,
+    "name": "Sorcerer of the Doomed",
+    "desc": "A slave of the dark arts, this sorcerer is a master of life-extinguishing spells.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 49218300,
+        "pack_id": "EX-38",
+        "pack": "EX",
+        "rarity": "Sorcerer of the Doomed",
+        "date": 945302400000
+    },
+    "tcg": {
+        "id": 49218300,
+        "pack_id": "SDY-038",
+        "pack": "SDY",
+        "rarity": "Sorcerer of the Doomed",
+        "date": 1017360000000
+    }
+}

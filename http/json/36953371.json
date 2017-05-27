@@ -1,1 +1,47 @@
-{"id":36953371,"ot":3,"alias":0,"setcode":154,"type":8225,"atk":500,"def":2500,"level":6,"race":32,"attribute":1,"category":0,"name":"Superheavy Samurai Ogre Shutendoji","desc":"1 Machine-Type Tuner + 1 or more non-Tuner \"Superheavy Samurai\" monsters\nThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. When this card is Synchro Summoned, while you have no Spell/Trap Cards in your Graveyard: You can destroy all Spell and Trap Cards your opponent controls.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":36953371,"pack_id":"VP14-JPA04","pack":"VP14","rarity":"Superheavy Samurai Ogre Shutendoji","date":1417132800000},"tcg":{"id":36953371,"pack_id":"CORE-EN094","pack":"CORE","rarity":"Superheavy Samurai Ogre Shutendoji","date":1438819200000}}
+{
+    "id": 36953371,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 154,
+    "type": 8225,
+    "atk": 500,
+    "def": 2500,
+    "level": 6,
+    "race": 32,
+    "attribute": 1,
+    "category": 0,
+    "name": "Superheavy Samurai Ogre Shutendoji",
+    "desc": "1 Machine-Type Tuner + 1 or more non-Tuner \"Superheavy Samurai\" monsters\nThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. When this card is Synchro Summoned, while you have no Spell/Trap Cards in your Graveyard: You can destroy all Spell and Trap Cards your opponent controls.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 36953371,
+        "pack_id": "VP14-JPA04",
+        "pack": "VP14",
+        "rarity": "Superheavy Samurai Ogre Shutendoji",
+        "date": 1417132800000
+    },
+    "tcg": {
+        "id": 36953371,
+        "pack_id": "CORE-EN094",
+        "pack": "CORE",
+        "rarity": "Superheavy Samurai Ogre Shutendoji",
+        "date": 1438819200000
+    }
+}

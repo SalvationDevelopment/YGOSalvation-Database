@@ -1,1 +1,47 @@
-{"id":57496978,"ot":3,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Clashing Souls","desc":"During damage calculation, if your Attack Position monster battles an opponent's Attack Position monster with higher ATK: The controller of the battling monster with lower ATK can pay 500 LP for that monster to gain 500 ATK during damage calculation only, then keep repeating this effect until a player chooses not to pay LP. Neither player takes any battle damage from that battle, also, after damage calculation, if any player's monster would be destroyed by that battle, send all cards that player controls to the Graveyard instead.","str1":" ","str2":" ","str3":" ","str4":" ","str5":" ","str6":" ","str7":" ","str8":" ","str9":" ","str10":" ","str11":" ","str12":" ","str13":" ","str14":" ","str15":" ","str16":" ","links":[],"cardpool":"OCG/TCG","ocg":{"id":57496978,"pack_id":"20AP-JP055","pack":"20AP","rarity":"Clashing Souls","date":1486771200000},"tcg":{"id":57496978,"pack_id":"DUSA-EN038","pack":"DUSA","rarity":"Clashing Souls","date":1490832000000}}
+{
+    "id": 57496978,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Clashing Souls",
+    "desc": "During damage calculation, if your Attack Position monster battles an opponent's Attack Position monster with higher ATK: The controller of the battling monster with lower ATK can pay 500 LP for that monster to gain 500 ATK during damage calculation only, then keep repeating this effect until a player chooses not to pay LP. Neither player takes any battle damage from that battle, also, after damage calculation, if any player's monster would be destroyed by that battle, send all cards that player controls to the Graveyard instead.",
+    "str1": " ",
+    "str2": " ",
+    "str3": " ",
+    "str4": " ",
+    "str5": " ",
+    "str6": " ",
+    "str7": " ",
+    "str8": " ",
+    "str9": " ",
+    "str10": " ",
+    "str11": " ",
+    "str12": " ",
+    "str13": " ",
+    "str14": " ",
+    "str15": " ",
+    "str16": " ",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 57496978,
+        "pack_id": "20AP-JP055",
+        "pack": "20AP",
+        "rarity": "Clashing Souls",
+        "date": 1486771200000
+    },
+    "tcg": {
+        "id": 57496978,
+        "pack_id": "DUSA-EN038",
+        "pack": "DUSA",
+        "rarity": "Clashing Souls",
+        "date": 1490832000000
+    }
+}

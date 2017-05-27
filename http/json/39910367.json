@@ -1,1 +1,47 @@
-{"id":39910367,"ot":3,"alias":0,"setcode":0,"type":524290,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":83886080,"name":"Magical Citadel of Endymion","desc":"Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. If a card with a Spell Counter(s) is destroyed, place its Spell Counters on this card. Once per turn, if you would activate a card effect by removing a Spell Counter(s) from your side of the field, you can remove that many Spell Counters from this card instead. If this card would be destroyed, you can remove 1 Spell Counter from this card instead.","str1":"Activate","str2":"Remove 1 Spell Counter from \"Magical Citadel of Endymion\"?","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":39910367,"pack_id":"SD16-JP021","pack":"SD16","rarity":"Magical Citadel of Endymion","date":1229126400000},"tcg":{"id":39910367,"pack_id":"SDSC-EN019","pack":"SDSC","rarity":"Magical Citadel of Endymion","date":1238457600000}}
+{
+    "id": 39910367,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 524290,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 83886080,
+    "name": "Magical Citadel of Endymion",
+    "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. If a card with a Spell Counter(s) is destroyed, place its Spell Counters on this card. Once per turn, if you would activate a card effect by removing a Spell Counter(s) from your side of the field, you can remove that many Spell Counters from this card instead. If this card would be destroyed, you can remove 1 Spell Counter from this card instead.",
+    "str1": "Activate",
+    "str2": "Remove 1 Spell Counter from \"Magical Citadel of Endymion\"?",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 39910367,
+        "pack_id": "SD16-JP021",
+        "pack": "SD16",
+        "rarity": "Magical Citadel of Endymion",
+        "date": 1229126400000
+    },
+    "tcg": {
+        "id": 39910367,
+        "pack_id": "SDSC-EN019",
+        "pack": "SDSC",
+        "rarity": "Magical Citadel of Endymion",
+        "date": 1238457600000
+    }
+}

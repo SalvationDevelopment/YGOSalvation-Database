@@ -1,1 +1,47 @@
-{"id":29863101,"ot":3,"alias":0,"setcode":79,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":288,"name":"Assault Teleport","desc":"Return 1 \"/Assault Mode\" monster from your hand to the Deck. Draw 2 cards.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":29863101,"pack_id":"CRMS-JP052","pack":"CRMS","rarity":"Assault Teleport","date":1226707200000},"tcg":{"id":29863101,"pack_id":"CRMS-EN052","pack":"CRMS","rarity":"Assault Teleport","date":1235779200000}}
+{
+    "id": 29863101,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 79,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 288,
+    "name": "Assault Teleport",
+    "desc": "Return 1 \"/Assault Mode\" monster from your hand to the Deck. Draw 2 cards.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 29863101,
+        "pack_id": "CRMS-JP052",
+        "pack": "CRMS",
+        "rarity": "Assault Teleport",
+        "date": 1226707200000
+    },
+    "tcg": {
+        "id": 29863101,
+        "pack_id": "CRMS-EN052",
+        "pack": "CRMS",
+        "rarity": "Assault Teleport",
+        "date": 1235779200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":11193246,"ot":3,"alias":0,"setcode":223,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Lunalight Reincarnation Dance","desc":"If a monster(s) you control is destroyed by battle or card effect: Add up to 2 \"Lunalight\" monsters from your Deck to your hand. You can only activate 1 \"Lunalight Reincarnation Dance\" per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":11193246,"pack_id":"SHVI-JP071","pack":"SHVI","rarity":"Lunalight Reincarnation Dance","date":1452297600000},"tcg":{"id":11193246,"pack_id":"SHVI-EN071","pack":"SHVI","rarity":"Lunalight Reincarnation Dance","date":1462406400000}}
+{
+    "id": 11193246,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 223,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Lunalight Reincarnation Dance",
+    "desc": "If a monster(s) you control is destroyed by battle or card effect: Add up to 2 \"Lunalight\" monsters from your Deck to your hand. You can only activate 1 \"Lunalight Reincarnation Dance\" per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 11193246,
+        "pack_id": "SHVI-JP071",
+        "pack": "SHVI",
+        "rarity": "Lunalight Reincarnation Dance",
+        "date": 1452297600000
+    },
+    "tcg": {
+        "id": 11193246,
+        "pack_id": "SHVI-EN071",
+        "pack": "SHVI",
+        "rarity": "Lunalight Reincarnation Dance",
+        "date": 1462406400000
+    }
+}

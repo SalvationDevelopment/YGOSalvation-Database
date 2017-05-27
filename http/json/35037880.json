@@ -1,1 +1,47 @@
-{"id":35037880,"ot":3,"alias":0,"setcode":13,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Saber Reflection","desc":"When you take battle or effect damage while you control an \"X-Saber\" monster: Gain LP equal to the damage you took, and if you do, inflict the same amount of damage to your opponent, then you can add 1 \"Saber\" Spell/Trap Card or \"Gottoms\" card from your Deck to your hand. You can only activate 1 \"Saber Reflection\" per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":35037880,"pack_id":"SPRG-JP025","pack":"SPRG","rarity":"Saber Reflection","date":1407542400000},"tcg":{"id":35037880,"pack_id":"INOV-EN090","pack":"INOV","rarity":"Saber Reflection","date":1478131200000}}
+{
+    "id": 35037880,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 13,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Saber Reflection",
+    "desc": "When you take battle or effect damage while you control an \"X-Saber\" monster: Gain LP equal to the damage you took, and if you do, inflict the same amount of damage to your opponent, then you can add 1 \"Saber\" Spell/Trap Card or \"Gottoms\" card from your Deck to your hand. You can only activate 1 \"Saber Reflection\" per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 35037880,
+        "pack_id": "SPRG-JP025",
+        "pack": "SPRG",
+        "rarity": "Saber Reflection",
+        "date": 1407542400000
+    },
+    "tcg": {
+        "id": 35037880,
+        "pack_id": "INOV-EN090",
+        "pack": "INOV",
+        "rarity": "Saber Reflection",
+        "date": 1478131200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":52339733,"ot":3,"alias":0,"setcode":0,"type":33,"atk":0,"def":1800,"level":4,"race":8388608,"attribute":1,"category":0,"name":"Lindbloom","desc":"If a monster you control battles an opponent's monster, during damage calculation: The ATK of each monster in that battle becomes equal to their current DEF, until the end of the Damage Step.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":52339733,"pack_id":"NECH-JP033","pack":"NECH","rarity":"Lindbloom","date":1405728000000},"tcg":{"id":52339733,"pack_id":"NECH-EN033","pack":"NECH","rarity":"Lindbloom","date":1415232000000}}
+{
+    "id": 52339733,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 0,
+    "def": 1800,
+    "level": 4,
+    "race": 8388608,
+    "attribute": 1,
+    "category": 0,
+    "name": "Lindbloom",
+    "desc": "If a monster you control battles an opponent's monster, during damage calculation: The ATK of each monster in that battle becomes equal to their current DEF, until the end of the Damage Step.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 52339733,
+        "pack_id": "NECH-JP033",
+        "pack": "NECH",
+        "rarity": "Lindbloom",
+        "date": 1405728000000
+    },
+    "tcg": {
+        "id": 52339733,
+        "pack_id": "NECH-EN033",
+        "pack": "NECH",
+        "rarity": "Lindbloom",
+        "date": 1415232000000
+    }
+}

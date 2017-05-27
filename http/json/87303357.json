@@ -1,1 +1,47 @@
-{"id":87303357,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1600,"def":1800,"level":4,"race":4,"attribute":16,"category":0,"name":"Shining Abyss","desc":"This monster employs the powers of both Light and Darkness.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":87303357,"pack_id":"SM-08","pack":"Spell Of Mask － 仮面の呪縛 －","rarity":"共通","date":987652800000},"tcg":{"id":87303357,"pack_id":"LON-009","pack":"LON","rarity":"Shining Abyss","date":1046476800000}}
+{
+    "id": 87303357,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1600,
+    "def": 1800,
+    "level": 4,
+    "race": 4,
+    "attribute": 16,
+    "category": 0,
+    "name": "Shining Abyss",
+    "desc": "This monster employs the powers of both Light and Darkness.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 87303357,
+        "pack_id": "SM-08",
+        "pack": "Spell Of Mask － 仮面の呪縛 －",
+        "rarity": "共通",
+        "date": 987652800000
+    },
+    "tcg": {
+        "id": 87303357,
+        "pack_id": "LON-009",
+        "pack": "LON",
+        "rarity": "Shining Abyss",
+        "date": 1046476800000
+    }
+}

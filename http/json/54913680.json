@@ -1,1 +1,47 @@
-{"id":54913680,"ot":3,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262152,"name":"Six Scrolls of the Samurai","desc":"Tribute 2 face-up \"Six Samurai\" monsters. Special Summon 1 \"Great Shogun Shien\" from your Deck.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":54913680,"pack_id":"CRMS-JP059","pack":"","rarity":"","date":1226707200000},"tcg":{"id":54913680,"pack_id":"CRMS-EN059","pack":"CRMS","rarity":"Six Scrolls of the Samurai","date":1235779200000}}
+{
+    "id": 54913680,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262152,
+    "name": "Six Scrolls of the Samurai",
+    "desc": "Tribute 2 face-up \"Six Samurai\" monsters. Special Summon 1 \"Great Shogun Shien\" from your Deck.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 54913680,
+        "pack_id": "CRMS-JP059",
+        "pack": "",
+        "rarity": "",
+        "date": 1226707200000
+    },
+    "tcg": {
+        "id": 54913680,
+        "pack_id": "CRMS-EN059",
+        "pack": "CRMS",
+        "rarity": "Six Scrolls of the Samurai",
+        "date": 1235779200000
+    }
+}

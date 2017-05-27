@@ -1,1 +1,47 @@
-{"id":22858242,"ot":3,"alias":0,"setcode":0,"type":8225,"atk":2500,"def":1800,"level":7,"race":16384,"attribute":1,"category":65544,"name":"Zeman the Ape King","desc":"1 DARK Tuner + 1 non-Tuner Beast-Type monster\nIf this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step. When an opponent's monster declares an attack, you can select that monster and send 1 monster from your hand or your side of the field to the Graveyard to negate the attack.","str1":"Negate attack","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":22858242,"pack_id":"VB12-JP002","pack":"VB12","rarity":"Zeman the Ape King","date":1250812800000},"tcg":{"id":22858242,"pack_id":"ABPF-EN097","pack":"ABPF","rarity":"Zeman the Ape King","date":1265932800000}}
+{
+    "id": 22858242,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8225,
+    "atk": 2500,
+    "def": 1800,
+    "level": 7,
+    "race": 16384,
+    "attribute": 1,
+    "category": 65544,
+    "name": "Zeman the Ape King",
+    "desc": "1 DARK Tuner + 1 non-Tuner Beast-Type monster\nIf this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step. When an opponent's monster declares an attack, you can select that monster and send 1 monster from your hand or your side of the field to the Graveyard to negate the attack.",
+    "str1": "Negate attack",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 22858242,
+        "pack_id": "VB12-JP002",
+        "pack": "VB12",
+        "rarity": "Zeman the Ape King",
+        "date": 1250812800000
+    },
+    "tcg": {
+        "id": 22858242,
+        "pack_id": "ABPF-EN097",
+        "pack": "ABPF",
+        "rarity": "Zeman the Ape King",
+        "date": 1265932800000
+    }
+}

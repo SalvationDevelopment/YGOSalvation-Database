@@ -1,1 +1,47 @@
-{"id":88819587,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1200,"def":700,"level":3,"race":8192,"attribute":8,"category":0,"name":"Baby Dragon","desc":"Much more than just a child, this dragon is gifted with untapped power.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":88819587,"pack_id":"ME-01","pack":"ME","rarity":"Baby Dragon","date":942883200000},"tcg":{"id":88819587,"pack_id":"MRD-061","pack":"MRD","rarity":"Baby Dragon","date":1025049600000}}
+{
+    "id": 88819587,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1200,
+    "def": 700,
+    "level": 3,
+    "race": 8192,
+    "attribute": 8,
+    "category": 0,
+    "name": "Baby Dragon",
+    "desc": "Much more than just a child, this dragon is gifted with untapped power.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 88819587,
+        "pack_id": "ME-01",
+        "pack": "ME",
+        "rarity": "Baby Dragon",
+        "date": 942883200000
+    },
+    "tcg": {
+        "id": 88819587,
+        "pack_id": "MRD-061",
+        "pack": "MRD",
+        "rarity": "Baby Dragon",
+        "date": 1025049600000
+    }
+}

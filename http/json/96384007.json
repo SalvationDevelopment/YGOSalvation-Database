@@ -1,1 +1,47 @@
-{"id":96384007,"ot":3,"alias":0,"setcode":54,"type":2097185,"atk":1200,"def":1800,"level":4,"race":32,"attribute":1,"category":512,"name":"Machina Defender","desc":"FLIP: Add 1 \"Commander Covington\" from your Deck to your hand.","str1":"Search","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":96384007,"pack_id":"PP9-JP006","pack":"PP9","rarity":"Machina Defender","date":1134777600000},"tcg":{"id":96384007,"pack_id":"SDMM-EN008","pack":"SDMM","rarity":"Machina Defender","date":1266537600000}}
+{
+    "id": 96384007,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 54,
+    "type": 2097185,
+    "atk": 1200,
+    "def": 1800,
+    "level": 4,
+    "race": 32,
+    "attribute": 1,
+    "category": 512,
+    "name": "Machina Defender",
+    "desc": "FLIP: Add 1 \"Commander Covington\" from your Deck to your hand.",
+    "str1": "Search",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 96384007,
+        "pack_id": "PP9-JP006",
+        "pack": "PP9",
+        "rarity": "Machina Defender",
+        "date": 1134777600000
+    },
+    "tcg": {
+        "id": 96384007,
+        "pack_id": "SDMM-EN008",
+        "pack": "SDMM",
+        "rarity": "Machina Defender",
+        "date": 1266537600000
+    }
+}

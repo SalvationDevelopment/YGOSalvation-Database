@@ -1,1 +1,47 @@
-{"id":58165765,"ot":3,"alias":0,"setcode":43,"type":33,"atk":2400,"def":1200,"level":6,"race":512,"attribute":4,"category":32,"name":"Red Dragon Ninja","desc":"When this card is Summoned: You can banish 1 \"Ninja\" or \"Ninjitsu Art\" card from your Graveyard to target 1 Set card your opponent controls; reveal that Set card, then return it to either the top or bottom of the Deck. Your opponent cannot activate the targeted card in response to this effect's activation. You can only use the effect of \"Red Dragon Ninja\" once per turn.","str1":"Return to Deck","str2":"Return to top of Deck","str3":"Return to bottom of Deck","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":58165765,"pack_id":"EP13-JP023","pack":"EP13","rarity":"Red Dragon Ninja","date":1368835200000},"tcg":{"id":58165765,"pack_id":"ABYR-EN082","pack":"ABYR","rarity":"Red Dragon Ninja","date":1352419200000}}
+{
+    "id": 58165765,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 43,
+    "type": 33,
+    "atk": 2400,
+    "def": 1200,
+    "level": 6,
+    "race": 512,
+    "attribute": 4,
+    "category": 32,
+    "name": "Red Dragon Ninja",
+    "desc": "When this card is Summoned: You can banish 1 \"Ninja\" or \"Ninjitsu Art\" card from your Graveyard to target 1 Set card your opponent controls; reveal that Set card, then return it to either the top or bottom of the Deck. Your opponent cannot activate the targeted card in response to this effect's activation. You can only use the effect of \"Red Dragon Ninja\" once per turn.",
+    "str1": "Return to Deck",
+    "str2": "Return to top of Deck",
+    "str3": "Return to bottom of Deck",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 58165765,
+        "pack_id": "EP13-JP023",
+        "pack": "EP13",
+        "rarity": "Red Dragon Ninja",
+        "date": 1368835200000
+    },
+    "tcg": {
+        "id": 58165765,
+        "pack_id": "ABYR-EN082",
+        "pack": "ABYR",
+        "rarity": "Red Dragon Ninja",
+        "date": 1352419200000
+    }
+}

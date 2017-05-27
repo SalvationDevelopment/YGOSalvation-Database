@@ -1,1 +1,47 @@
-{"id":89631141,"ot":3,"alias":89631139,"setcode":221,"type":17,"atk":3000,"def":2500,"level":8,"race":8192,"attribute":16,"category":0,"name":"Blue-Eyes White Dragon","desc":"This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":89631141,"pack_id":"LB-01","pack":"LB","rarity":"Blue-Eyes White Dragon","date":920678400000},"tcg":{"id":89631141,"pack_id":"LOB-001","pack":"LOB","rarity":"Blue-Eyes White Dragon","date":1015545600000}}
+{
+    "id": 89631141,
+    "ot": 3,
+    "alias": 89631139,
+    "setcode": 221,
+    "type": 17,
+    "atk": 3000,
+    "def": 2500,
+    "level": 8,
+    "race": 8192,
+    "attribute": 16,
+    "category": 0,
+    "name": "Blue-Eyes White Dragon",
+    "desc": "This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 89631141,
+        "pack_id": "LB-01",
+        "pack": "LB",
+        "rarity": "Blue-Eyes White Dragon",
+        "date": 920678400000
+    },
+    "tcg": {
+        "id": 89631141,
+        "pack_id": "LOB-001",
+        "pack": "LOB",
+        "rarity": "Blue-Eyes White Dragon",
+        "date": 1015545600000
+    }
+}

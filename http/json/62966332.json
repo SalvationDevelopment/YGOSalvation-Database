@@ -1,1 +1,47 @@
-{"id":62966332,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Convulsion of Nature","desc":"As long as this card remains face-up on the field, both players must turn their respective Decks upside down and proceed with the current Duel.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":62966332,"pack_id":"MA-36","pack":"MA","rarity":"Convulsion of Nature","date":1006992000000},"tcg":{"id":62966332,"pack_id":"LOD-084","pack":"LOD","rarity":"Convulsion of Nature","date":1054857600000}}
+{
+    "id": 62966332,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Convulsion of Nature",
+    "desc": "As long as this card remains face-up on the field, both players must turn their respective Decks upside down and proceed with the current Duel.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 62966332,
+        "pack_id": "MA-36",
+        "pack": "MA",
+        "rarity": "Convulsion of Nature",
+        "date": 1006992000000
+    },
+    "tcg": {
+        "id": 62966332,
+        "pack_id": "LOD-084",
+        "pack": "LOD",
+        "rarity": "Convulsion of Nature",
+        "date": 1054857600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":90307777,"ot":3,"alias":0,"setcode":180,"type":33,"atk":300,"def":1800,"level":3,"race":1,"attribute":2,"category":0,"name":"Shurit, Strategist of the Nekroz","desc":"If you Ritual Summon exactly 1 \"Nekroz\" Ritual Monster with a card effect that requires use of monsters, this card can be used as the entire requirement. If this card is Tributed by a card effect: You can add 1 Warrior-Type \"Nekroz\" Ritual Monster from your Deck to your hand. You can only use this effect of \"Shurit, Strategist of the Nekroz\" once per turn.","str1":"Add 1 Warrior-Type \"Necloth\" Ritual Monster to hand","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":90307777,"pack_id":"SPTR-JP010","pack":"SPTR","rarity":"Shurit, Strategist of the Nekroz","date":1412985600000},"tcg":{"id":90307777,"pack_id":"THSF-EN010","pack":"THSF","rarity":"Shurit, Strategist of the Nekroz","date":1423785600000}}
+{
+    "id": 90307777,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 180,
+    "type": 33,
+    "atk": 300,
+    "def": 1800,
+    "level": 3,
+    "race": 1,
+    "attribute": 2,
+    "category": 0,
+    "name": "Shurit, Strategist of the Nekroz",
+    "desc": "If you Ritual Summon exactly 1 \"Nekroz\" Ritual Monster with a card effect that requires use of monsters, this card can be used as the entire requirement. If this card is Tributed by a card effect: You can add 1 Warrior-Type \"Nekroz\" Ritual Monster from your Deck to your hand. You can only use this effect of \"Shurit, Strategist of the Nekroz\" once per turn.",
+    "str1": "Add 1 Warrior-Type \"Necloth\" Ritual Monster to hand",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 90307777,
+        "pack_id": "SPTR-JP010",
+        "pack": "SPTR",
+        "rarity": "Shurit, Strategist of the Nekroz",
+        "date": 1412985600000
+    },
+    "tcg": {
+        "id": 90307777,
+        "pack_id": "THSF-EN010",
+        "pack": "THSF",
+        "rarity": "Shurit, Strategist of the Nekroz",
+        "date": 1423785600000
+    }
+}

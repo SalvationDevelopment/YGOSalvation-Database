@@ -1,1 +1,47 @@
-{"id":79279397,"ot":3,"alias":0,"setcode":0,"type":2097185,"atk":100,"def":1000,"level":1,"race":8,"attribute":32,"category":4456448,"name":"D-Boyz","desc":"FLIP: You can Special Summon any number of \"D-Boyz\" from your Deck in face-up Attack Position, then you take 1000 damage for each monster Special Summoned by this effect.","str1":"Special Summon","str2":"Do you want to Special Summon?","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":79279397,"pack_id":"EP12-JP025","pack":"EP12","rarity":"D-Boyz","date":1350086400000},"tcg":{"id":79279397,"pack_id":"PHSW-EN084","pack":"PHSW","rarity":"D-Boyz","date":1320883200000}}
+{
+    "id": 79279397,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2097185,
+    "atk": 100,
+    "def": 1000,
+    "level": 1,
+    "race": 8,
+    "attribute": 32,
+    "category": 4456448,
+    "name": "D-Boyz",
+    "desc": "FLIP: You can Special Summon any number of \"D-Boyz\" from your Deck in face-up Attack Position, then you take 1000 damage for each monster Special Summoned by this effect.",
+    "str1": "Special Summon",
+    "str2": "Do you want to Special Summon?",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 79279397,
+        "pack_id": "EP12-JP025",
+        "pack": "EP12",
+        "rarity": "D-Boyz",
+        "date": 1350086400000
+    },
+    "tcg": {
+        "id": 79279397,
+        "pack_id": "PHSW-EN084",
+        "pack": "PHSW",
+        "rarity": "D-Boyz",
+        "date": 1320883200000
+    }
+}

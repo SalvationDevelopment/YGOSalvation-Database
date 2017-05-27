@@ -1,1 +1,47 @@
-{"id":45815891,"ot":3,"alias":0,"setcode":4522020,"type":8193,"atk":2700,"def":1800,"level":7,"race":8,"attribute":1,"category":0,"name":"Scrap Archfiend","desc":"1 Tuner + 1 or more non-Tuner monsters","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":45815891,"pack_id":"EXP4-JP011","pack":"EXP4","rarity":"Scrap Archfiend","date":1316217600000},"tcg":{"id":45815891,"pack_id":"DREV-ENSP1","pack":"DREV","rarity":"Scrap Archfiend","date":1281139200000}}
+{
+    "id": 45815891,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4522020,
+    "type": 8193,
+    "atk": 2700,
+    "def": 1800,
+    "level": 7,
+    "race": 8,
+    "attribute": 1,
+    "category": 0,
+    "name": "Scrap Archfiend",
+    "desc": "1 Tuner + 1 or more non-Tuner monsters",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 45815891,
+        "pack_id": "EXP4-JP011",
+        "pack": "EXP4",
+        "rarity": "Scrap Archfiend",
+        "date": 1316217600000
+    },
+    "tcg": {
+        "id": 45815891,
+        "pack_id": "DREV-ENSP1",
+        "pack": "DREV",
+        "rarity": "Scrap Archfiend",
+        "date": 1281139200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":6368039,"ot":3,"alias":6368038,"setcode":189,"type":17,"atk":2300,"def":2100,"level":7,"race":1,"attribute":1,"category":0,"name":"Gaia The Fierce Knight","desc":"A knight whose horse travels faster than the wind. His battle-charge is a force to be reckoned with.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":6368039,"pack_id":"LB-06","pack":"LB","rarity":"Gaia The Fierce Knight","date":918086400000},"tcg":{"id":6368039,"pack_id":"LOB-006","pack":"LOB","rarity":"Gaia The Fierce Knight","date":1015545600000}}
+{
+    "id": 6368039,
+    "ot": 3,
+    "alias": 6368038,
+    "setcode": 189,
+    "type": 17,
+    "atk": 2300,
+    "def": 2100,
+    "level": 7,
+    "race": 1,
+    "attribute": 1,
+    "category": 0,
+    "name": "Gaia The Fierce Knight",
+    "desc": "A knight whose horse travels faster than the wind. His battle-charge is a force to be reckoned with.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 6368039,
+        "pack_id": "LB-06",
+        "pack": "LB",
+        "rarity": "Gaia The Fierce Knight",
+        "date": 918086400000
+    },
+    "tcg": {
+        "id": 6368039,
+        "pack_id": "LOB-006",
+        "pack": "LOB",
+        "rarity": "Gaia The Fierce Knight",
+        "date": 1015545600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":85004150,"ot":3,"alias":0,"setcode":0,"type":8388641,"atk":2600,"def":2200,"level":7,"race":2048,"attribute":16,"category":0,"name":"Digital Bug Rhinosebus","desc":"2 or more Level 7 LIGHT Insect-Type monsters\nYou can also Xyz Summon this card by detaching 2 Xyz Materials from a Rank 5 or 6 Insect-Type Xyz Monster you control, then using that Xyz Monster as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; destroy the face-up monster(s) your opponent controls with the highest DEF (all, if tied).","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":85004150,"pack_id":"SHVI-JP056","pack":"SHVI","rarity":"Digital Bug Rhinosebus","date":1452297600000},"tcg":{"id":85004150,"pack_id":"SHVI-EN056","pack":"SHVI","rarity":"Digital Bug Rhinosebus","date":1462406400000}}
+{
+    "id": 85004150,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8388641,
+    "atk": 2600,
+    "def": 2200,
+    "level": 7,
+    "race": 2048,
+    "attribute": 16,
+    "category": 0,
+    "name": "Digital Bug Rhinosebus",
+    "desc": "2 or more Level 7 LIGHT Insect-Type monsters\nYou can also Xyz Summon this card by detaching 2 Xyz Materials from a Rank 5 or 6 Insect-Type Xyz Monster you control, then using that Xyz Monster as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; destroy the face-up monster(s) your opponent controls with the highest DEF (all, if tied).",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 85004150,
+        "pack_id": "SHVI-JP056",
+        "pack": "SHVI",
+        "rarity": "Digital Bug Rhinosebus",
+        "date": 1452297600000
+    },
+    "tcg": {
+        "id": 85004150,
+        "pack_id": "SHVI-EN056",
+        "pack": "SHVI",
+        "rarity": "Digital Bug Rhinosebus",
+        "date": 1462406400000
+    }
+}

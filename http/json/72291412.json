@@ -1,1 +1,47 @@
-{"id":72291412,"ot":3,"alias":0,"setcode":175,"type":33,"atk":300,"def":300,"level":1,"race":8,"attribute":32,"category":0,"name":"D/D Necro Slime","desc":"If this card is in your Graveyard: You can Fusion Summon 1 \"D/D/D\" Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your Graveyard, including this card. You can only use this effect of \"D/D Necro Slime\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":72291412,"pack_id":"DOCS-JP012","pack":"DOCS","rarity":"D/D Necro Slime","date":1437177600000},"tcg":{"id":72291412,"pack_id":"DOCS-EN012","pack":"DOCS","rarity":"D/D Necro Slime","date":1446681600000}}
+{
+    "id": 72291412,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 175,
+    "type": 33,
+    "atk": 300,
+    "def": 300,
+    "level": 1,
+    "race": 8,
+    "attribute": 32,
+    "category": 0,
+    "name": "D/D Necro Slime",
+    "desc": "If this card is in your Graveyard: You can Fusion Summon 1 \"D/D/D\" Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your Graveyard, including this card. You can only use this effect of \"D/D Necro Slime\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 72291412,
+        "pack_id": "DOCS-JP012",
+        "pack": "DOCS",
+        "rarity": "D/D Necro Slime",
+        "date": 1437177600000
+    },
+    "tcg": {
+        "id": 72291412,
+        "pack_id": "DOCS-EN012",
+        "pack": "DOCS",
+        "rarity": "D/D Necro Slime",
+        "date": 1446681600000
+    }
+}

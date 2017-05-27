@@ -1,1 +1,47 @@
-{"id":17502671,"ot":3,"alias":0,"setcode":11,"type":33,"atk":2700,"def":1500,"level":7,"race":8,"attribute":32,"category":263168,"name":"Infernity General","desc":"If you have no cards in your hand: You can banish this card from your Graveyard to target 2 Level 3 or lower \"Infernity\" monsters in your Graveyard; Special Summon them from the Graveyard, but their effects are negated.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":17502671,"pack_id":"YF03-JP001","pack":"YF03","rarity":"Infernity General","date":1315008000000},"tcg":{"id":17502671,"pack_id":"YF03-EN001","pack":"YF03","rarity":"Infernity General","date":1349136000000}}
+{
+    "id": 17502671,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 11,
+    "type": 33,
+    "atk": 2700,
+    "def": 1500,
+    "level": 7,
+    "race": 8,
+    "attribute": 32,
+    "category": 263168,
+    "name": "Infernity General",
+    "desc": "If you have no cards in your hand: You can banish this card from your Graveyard to target 2 Level 3 or lower \"Infernity\" monsters in your Graveyard; Special Summon them from the Graveyard, but their effects are negated.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 17502671,
+        "pack_id": "YF03-JP001",
+        "pack": "YF03",
+        "rarity": "Infernity General",
+        "date": 1315008000000
+    },
+    "tcg": {
+        "id": 17502671,
+        "pack_id": "YF03-EN001",
+        "pack": "YF03",
+        "rarity": "Infernity General",
+        "date": 1349136000000
+    }
+}

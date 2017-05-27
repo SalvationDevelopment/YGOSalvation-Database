@@ -1,1 +1,47 @@
-{"id":54135423,"ot":3,"alias":0,"setcode":230,"type":33,"atk":100,"def":100,"level":11,"race":1,"attribute":32,"category":0,"name":"Flower Cardian Willow","desc":"While you control a Level 10 or lower \"Flower Cardian\" monster: You can Special Summon this card from your hand, also you cannot Normal or Special Summon monsters for the rest of this turn, except \"Flower Cardian\" monsters. Once per turn: You can target 1 \"Flower Cardian\" monster in your Graveyard; shuffle it into your Deck, then draw 1 card.","str1":"Special Summon","str2":"Shuffle/Draw","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":54135423,"pack_id":"CPF1-JP033","pack":"CPF1","rarity":"Flower Cardian Willow","date":1463184000000},"tcg":{"id":54135423,"pack_id":"DRL3-EN033","pack":"DRL3","rarity":"Flower Cardian Willow","date":1471478400000}}
+{
+    "id": 54135423,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 230,
+    "type": 33,
+    "atk": 100,
+    "def": 100,
+    "level": 11,
+    "race": 1,
+    "attribute": 32,
+    "category": 0,
+    "name": "Flower Cardian Willow",
+    "desc": "While you control a Level 10 or lower \"Flower Cardian\" monster: You can Special Summon this card from your hand, also you cannot Normal or Special Summon monsters for the rest of this turn, except \"Flower Cardian\" monsters. Once per turn: You can target 1 \"Flower Cardian\" monster in your Graveyard; shuffle it into your Deck, then draw 1 card.",
+    "str1": "Special Summon",
+    "str2": "Shuffle/Draw",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 54135423,
+        "pack_id": "CPF1-JP033",
+        "pack": "CPF1",
+        "rarity": "Flower Cardian Willow",
+        "date": 1463184000000
+    },
+    "tcg": {
+        "id": 54135423,
+        "pack_id": "DRL3-EN033",
+        "pack": "DRL3",
+        "rarity": "Flower Cardian Willow",
+        "date": 1471478400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":85821180,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Tuner's High","desc":"Discard 1 monster; Special Summon from your Deck, 1 Tuner monster with the same original Type and Attribute, but 1 Level higher than the discarded monster had in hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":85821180,"pack_id":"SHVI-JP067","pack":"SHVI","rarity":"Tuner's High","date":1452297600000},"tcg":{"id":85821180,"pack_id":"SHVI-EN067","pack":"SHVI","rarity":"Tuner's High","date":1462406400000}}
+{
+    "id": 85821180,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Tuner's High",
+    "desc": "Discard 1 monster; Special Summon from your Deck, 1 Tuner monster with the same original Type and Attribute, but 1 Level higher than the discarded monster had in hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 85821180,
+        "pack_id": "SHVI-JP067",
+        "pack": "SHVI",
+        "rarity": "Tuner's High",
+        "date": 1452297600000
+    },
+    "tcg": {
+        "id": 85821180,
+        "pack_id": "SHVI-EN067",
+        "pack": "SHVI",
+        "rarity": "Tuner's High",
+        "date": 1462406400000
+    }
+}

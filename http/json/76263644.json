@@ -1,1 +1,47 @@
-{"id":76263644,"ot":3,"alias":0,"setcode":0,"type":97,"atk":3000,"def":3000,"level":10,"race":1,"attribute":32,"category":4521990,"name":"Destiny End Dragoon","desc":"\"Destiny HERO - Plasma\" + \"Destiny HERO - Dogma\"\nA Fusion Summon of this card can only be done with the above Fusion Materials. Once per turn: You can target 1 monster your opponent controls; destroy that target, and if it was face-up, inflict damage to your opponent equal to the ATK it had on the field. You cannot conduct your Battle Phase the turn you activate this effect. Once per turn, during your Standby Phase, if this card is in your Graveyard: You can banish 1 \"Destiny HERO\" card from your Graveyard; Special Summon this card.","str1":"Destroy","str2":"Special Summon","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":76263644,"pack_id":"LODT-JP042","pack":"LODT","rarity":"Destiny End Dragoon","date":1203724800000},"tcg":{"id":76263644,"pack_id":"LODT-EN042","pack":"LODT","rarity":"Destiny End Dragoon","date":1209772800000}}
+{
+    "id": 76263644,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 97,
+    "atk": 3000,
+    "def": 3000,
+    "level": 10,
+    "race": 1,
+    "attribute": 32,
+    "category": 4521990,
+    "name": "Destiny End Dragoon",
+    "desc": "\"Destiny HERO - Plasma\" + \"Destiny HERO - Dogma\"\nA Fusion Summon of this card can only be done with the above Fusion Materials. Once per turn: You can target 1 monster your opponent controls; destroy that target, and if it was face-up, inflict damage to your opponent equal to the ATK it had on the field. You cannot conduct your Battle Phase the turn you activate this effect. Once per turn, during your Standby Phase, if this card is in your Graveyard: You can banish 1 \"Destiny HERO\" card from your Graveyard; Special Summon this card.",
+    "str1": "Destroy",
+    "str2": "Special Summon",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 76263644,
+        "pack_id": "LODT-JP042",
+        "pack": "LODT",
+        "rarity": "Destiny End Dragoon",
+        "date": 1203724800000
+    },
+    "tcg": {
+        "id": 76263644,
+        "pack_id": "LODT-EN042",
+        "pack": "LODT",
+        "rarity": "Destiny End Dragoon",
+        "date": 1209772800000
+    }
+}

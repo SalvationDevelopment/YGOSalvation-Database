@@ -1,1 +1,47 @@
-{"id":90555947,"ot":3,"alias":0,"setcode":16842794,"type":97,"atk":3200,"def":2100,"level":10,"race":256,"attribute":1,"category":0,"name":"Naturia Gaiastrio","desc":"2 EARTH Synchro Monsters\nDuring either player's turn, when a card or effect is activated that targets exactly 1 card on the field (and no other cards): You can send 1 card from your hand to the Graveyard; negate the activation, and if you do, destroy that card.","str1":"Negate effect? ","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":90555947,"pack_id":"NECH-JP088","pack":"NECH","rarity":"Naturia Gaiastrio","date":1405728000000},"tcg":{"id":90555947,"pack_id":"WSUP-EN033","pack":"WSUP","rarity":"Naturia Gaiastrio","date":1429142400000}}
+{
+    "id": 90555947,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 16842794,
+    "type": 97,
+    "atk": 3200,
+    "def": 2100,
+    "level": 10,
+    "race": 256,
+    "attribute": 1,
+    "category": 0,
+    "name": "Naturia Gaiastrio",
+    "desc": "2 EARTH Synchro Monsters\nDuring either player's turn, when a card or effect is activated that targets exactly 1 card on the field (and no other cards): You can send 1 card from your hand to the Graveyard; negate the activation, and if you do, destroy that card.",
+    "str1": "Negate effect? ",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 90555947,
+        "pack_id": "NECH-JP088",
+        "pack": "NECH",
+        "rarity": "Naturia Gaiastrio",
+        "date": 1405728000000
+    },
+    "tcg": {
+        "id": 90555947,
+        "pack_id": "WSUP-EN033",
+        "pack": "WSUP",
+        "rarity": "Naturia Gaiastrio",
+        "date": 1429142400000
+    }
+}

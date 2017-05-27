@@ -1,1 +1,47 @@
-{"id":90640901,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1500,"def":0,"level":4,"race":8,"attribute":16,"category":2,"name":"Reverse Buster","desc":"This card can only attack face-down Defense Position monsters. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this card attacked a face-down Defense Position monster, at the start of the Damage Step: You can destroy that face-down monster.","str1":"Destroy","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":90640901,"pack_id":"ORCS-JP012","pack":"ORCS","rarity":"Reverse Buster","date":1321660800000},"tcg":{"id":90640901,"pack_id":"ORCS-EN012","pack":"ORCS","rarity":"Reverse Buster","date":1326499200000}}
+{
+    "id": 90640901,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1500,
+    "def": 0,
+    "level": 4,
+    "race": 8,
+    "attribute": 16,
+    "category": 2,
+    "name": "Reverse Buster",
+    "desc": "This card can only attack face-down Defense Position monsters. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this card attacked a face-down Defense Position monster, at the start of the Damage Step: You can destroy that face-down monster.",
+    "str1": "Destroy",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 90640901,
+        "pack_id": "ORCS-JP012",
+        "pack": "ORCS",
+        "rarity": "Reverse Buster",
+        "date": 1321660800000
+    },
+    "tcg": {
+        "id": 90640901,
+        "pack_id": "ORCS-EN012",
+        "pack": "ORCS",
+        "rarity": "Reverse Buster",
+        "date": 1326499200000
+    }
+}

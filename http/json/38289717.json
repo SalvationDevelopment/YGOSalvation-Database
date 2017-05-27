@@ -1,1 +1,47 @@
-{"id":38289717,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1600,"def":1200,"level":4,"race":65536,"attribute":1,"category":0,"name":"Crawling Dragon","desc":"This weakened dragon can no longer fly, but is still a deadly force to be reckoned with.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":38289717,"pack_id":"RB-12","pack":"RB","rarity":"Crawling Dragon","date":932601600000},"tcg":{"id":38289717,"pack_id":"MRD-012","pack":"MRD","rarity":"Crawling Dragon","date":1025049600000}}
+{
+    "id": 38289717,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1600,
+    "def": 1200,
+    "level": 4,
+    "race": 65536,
+    "attribute": 1,
+    "category": 0,
+    "name": "Crawling Dragon",
+    "desc": "This weakened dragon can no longer fly, but is still a deadly force to be reckoned with.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 38289717,
+        "pack_id": "RB-12",
+        "pack": "RB",
+        "rarity": "Crawling Dragon",
+        "date": 932601600000
+    },
+    "tcg": {
+        "id": 38289717,
+        "pack_id": "MRD-012",
+        "pack": "MRD",
+        "rarity": "Crawling Dragon",
+        "date": 1025049600000
+    }
+}

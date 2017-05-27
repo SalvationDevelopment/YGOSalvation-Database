@@ -1,1 +1,47 @@
-{"id":63612442,"ot":3,"alias":0,"setcode":4109,"type":8225,"atk":2500,"def":1600,"level":7,"race":1,"attribute":1,"category":16777226,"name":"X-Saber Souza","desc":"1 Tuner + 1 or more non-Tuner \"X-Saber\" monsters\nYou can Tribute 1 \"X-Saber\" monster, then choose 1 of these effects; this card gains that effect until the end of this turn.\n● At the start of the Damage Step, if this card battles an opponent's monster: Destroy that monster.\n● This card cannot be destroyed by Trap effects.","str1":"Select effect","str2":"If this card battles a monster: Destroy that monster immediately with this card's effect (without damage calculation).","str3":"This card cannot be destroyed by the effects of Trap Cards.","str4":"破坏战斗对象","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":63612442,"pack_id":"VE04-JP005","pack":"VE04","rarity":"X-Saber Souza","date":1287619200000},"tcg":{"id":63612442,"pack_id":"CT09-EN017","pack":"CT09","rarity":"X-Saber Souza","date":1351209600000}}
+{
+    "id": 63612442,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4109,
+    "type": 8225,
+    "atk": 2500,
+    "def": 1600,
+    "level": 7,
+    "race": 1,
+    "attribute": 1,
+    "category": 16777226,
+    "name": "X-Saber Souza",
+    "desc": "1 Tuner + 1 or more non-Tuner \"X-Saber\" monsters\nYou can Tribute 1 \"X-Saber\" monster, then choose 1 of these effects; this card gains that effect until the end of this turn.\n● At the start of the Damage Step, if this card battles an opponent's monster: Destroy that monster.\n● This card cannot be destroyed by Trap effects.",
+    "str1": "Select effect",
+    "str2": "If this card battles a monster: Destroy that monster immediately with this card's effect (without damage calculation).",
+    "str3": "This card cannot be destroyed by the effects of Trap Cards.",
+    "str4": "破坏战斗对象",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 63612442,
+        "pack_id": "VE04-JP005",
+        "pack": "VE04",
+        "rarity": "X-Saber Souza",
+        "date": 1287619200000
+    },
+    "tcg": {
+        "id": 63612442,
+        "pack_id": "CT09-EN017",
+        "pack": "CT09",
+        "rarity": "X-Saber Souza",
+        "date": 1351209600000
+    }
+}

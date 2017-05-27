@@ -1,1 +1,47 @@
-{"id":80630522,"ot":3,"alias":0,"setcode":230,"type":33,"atk":100,"def":100,"level":12,"race":1,"attribute":32,"category":0,"name":"Flower Cardian Paulownia","desc":"While you control a Level 11 or lower \"Flower Cardian\" monster: You can Special Summon this card from your hand, also you cannot Normal or Special Summon monsters for the rest of this turn, except \"Flower Cardian\" monsters. When this card is targeted for an attack: You can negate the attack, end the Battle Phase, then draw 1 card.","str1":"Special Summon","str2":"Negate Attack","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":80630522,"pack_id":"CPF1-JP034","pack":"CPF1","rarity":"Flower Cardian Paulownia","date":1463184000000},"tcg":{"id":80630522,"pack_id":"DRL3-EN034","pack":"DRL3","rarity":"Flower Cardian Paulownia","date":1471478400000}}
+{
+    "id": 80630522,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 230,
+    "type": 33,
+    "atk": 100,
+    "def": 100,
+    "level": 12,
+    "race": 1,
+    "attribute": 32,
+    "category": 0,
+    "name": "Flower Cardian Paulownia",
+    "desc": "While you control a Level 11 or lower \"Flower Cardian\" monster: You can Special Summon this card from your hand, also you cannot Normal or Special Summon monsters for the rest of this turn, except \"Flower Cardian\" monsters. When this card is targeted for an attack: You can negate the attack, end the Battle Phase, then draw 1 card.",
+    "str1": "Special Summon",
+    "str2": "Negate Attack",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 80630522,
+        "pack_id": "CPF1-JP034",
+        "pack": "CPF1",
+        "rarity": "Flower Cardian Paulownia",
+        "date": 1463184000000
+    },
+    "tcg": {
+        "id": 80630522,
+        "pack_id": "DRL3-EN034",
+        "pack": "DRL3",
+        "rarity": "Flower Cardian Paulownia",
+        "date": 1471478400000
+    }
+}

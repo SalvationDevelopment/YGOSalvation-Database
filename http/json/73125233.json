@@ -1,1 +1,47 @@
-{"id":73125233,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2400,"def":1000,"level":6,"race":512,"attribute":8,"category":32,"name":"Raiza the Storm Monarch","desc":"If this card is Tribute Summoned: Target 1 card on the field; place that target on the top of the Deck.","str1":"Return to deck","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":73125233,"pack_id":"FOTB-JP026","pack":"FOTB","rarity":"Raiza the Storm Monarch","date":1171497600000},"tcg":{"id":73125233,"pack_id":"FOTB-EN026","pack":"FOTB","rarity":"Raiza the Storm Monarch","date":1179273600000}}
+{
+    "id": 73125233,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2400,
+    "def": 1000,
+    "level": 6,
+    "race": 512,
+    "attribute": 8,
+    "category": 32,
+    "name": "Raiza the Storm Monarch",
+    "desc": "If this card is Tribute Summoned: Target 1 card on the field; place that target on the top of the Deck.",
+    "str1": "Return to deck",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 73125233,
+        "pack_id": "FOTB-JP026",
+        "pack": "FOTB",
+        "rarity": "Raiza the Storm Monarch",
+        "date": 1171497600000
+    },
+    "tcg": {
+        "id": 73125233,
+        "pack_id": "FOTB-EN026",
+        "pack": "FOTB",
+        "rarity": "Raiza the Storm Monarch",
+        "date": 1179273600000
+    }
+}

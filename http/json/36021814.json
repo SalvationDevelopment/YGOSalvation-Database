@@ -1,1 +1,47 @@
-{"id":36021814,"ot":3,"alias":0,"setcode":0,"type":33,"atk":-2,"def":0,"level":1,"race":16,"attribute":32,"category":270340,"name":"King of the Skull Servants","desc":"The original ATK of this card is the combined number of \"King of the Skull Servants\" and \"Skull Servant\" in your Graveyard x 1000. When this card is destroyed by battle and sent to the Graveyard: You can banish 1 other \"King of the Skull Servants\" or 1 \"Skull Servant\" from your Graveyard; Special Summon this card.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":36021814,"pack_id":"TLM-JP032","pack":"TLM","rarity":"King of the Skull Servants","date":1134000000000},"tcg":{"id":36021814,"pack_id":"TLM-EN032","pack":"TLM","rarity":"King of the Skull Servants","date":1117238400000}}
+{
+    "id": 36021814,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": -2,
+    "def": 0,
+    "level": 1,
+    "race": 16,
+    "attribute": 32,
+    "category": 270340,
+    "name": "King of the Skull Servants",
+    "desc": "The original ATK of this card is the combined number of \"King of the Skull Servants\" and \"Skull Servant\" in your Graveyard x 1000. When this card is destroyed by battle and sent to the Graveyard: You can banish 1 other \"King of the Skull Servants\" or 1 \"Skull Servant\" from your Graveyard; Special Summon this card.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 36021814,
+        "pack_id": "TLM-JP032",
+        "pack": "TLM",
+        "rarity": "King of the Skull Servants",
+        "date": 1134000000000
+    },
+    "tcg": {
+        "id": 36021814,
+        "pack_id": "TLM-EN032",
+        "pack": "TLM",
+        "rarity": "King of the Skull Servants",
+        "date": 1117238400000
+    }
+}

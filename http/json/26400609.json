@@ -1,1 +1,47 @@
-{"id":26400609,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2600,"def":2000,"level":7,"race":8192,"attribute":2,"category":262664,"name":"Tidal, Dragon Ruler of Waterfalls","desc":"If this card is in your hand or Graveyard: You can banish a total of 2 WATER and/or Dragon-Type monsters from your hand and/or Graveyard, except this card; Special Summon this card. During your opponent's End Phase, if this card was Special Summoned: Return it to the hand. You can discard this card and 1 WATER monster to the Graveyard; send 1 monster from your Deck to the Graveyard. If this card is banished: You can add 1 WATER Dragon-Type monster from your Deck to your hand. You can only use 1 \"Tidal, Dragon Ruler of Waterfalls\" effect per turn, and only once that turn.","str1":"Special Summon","str2":"Return to hand","str3":"Send 1 monster from your Deck to Graveyard","str4":"Add to hand","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":26400609,"pack_id":"LTGY-JP039","pack":"LTGY","rarity":"Tidal, Dragon Ruler of Waterfalls","date":1360972800000},"tcg":{"id":26400609,"pack_id":"LTGY-EN039","pack":"LTGY","rarity":"Tidal, Dragon Ruler of Waterfalls","date":1368748800000}}
+{
+    "id": 26400609,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2600,
+    "def": 2000,
+    "level": 7,
+    "race": 8192,
+    "attribute": 2,
+    "category": 262664,
+    "name": "Tidal, Dragon Ruler of Waterfalls",
+    "desc": "If this card is in your hand or Graveyard: You can banish a total of 2 WATER and/or Dragon-Type monsters from your hand and/or Graveyard, except this card; Special Summon this card. During your opponent's End Phase, if this card was Special Summoned: Return it to the hand. You can discard this card and 1 WATER monster to the Graveyard; send 1 monster from your Deck to the Graveyard. If this card is banished: You can add 1 WATER Dragon-Type monster from your Deck to your hand. You can only use 1 \"Tidal, Dragon Ruler of Waterfalls\" effect per turn, and only once that turn.",
+    "str1": "Special Summon",
+    "str2": "Return to hand",
+    "str3": "Send 1 monster from your Deck to Graveyard",
+    "str4": "Add to hand",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 26400609,
+        "pack_id": "LTGY-JP039",
+        "pack": "LTGY",
+        "rarity": "Tidal, Dragon Ruler of Waterfalls",
+        "date": 1360972800000
+    },
+    "tcg": {
+        "id": 26400609,
+        "pack_id": "LTGY-EN039",
+        "pack": "LTGY",
+        "rarity": "Tidal, Dragon Ruler of Waterfalls",
+        "date": 1368748800000
+    }
+}

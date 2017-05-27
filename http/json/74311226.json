@@ -1,1 +1,47 @@
-{"id":74311226,"ot":3,"alias":0,"setcode":119,"type":33,"atk":1800,"def":0,"level":4,"race":262144,"attribute":2,"category":1180160,"name":"Atlantean Dragoons","desc":"All Level 3 or lower Sea Serpent-Type monsters you control can attack your opponent directly. When this card is sent to the Graveyard to activate a WATER monster's effect: Add 1 Sea Serpent-Type monster from your Deck to your hand, except \"Atlantean Dragoons\".","str1":"Add to hand","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":74311226,"pack_id":"SD23-JP002","pack":"SD23","rarity":"Atlantean Dragoons","date":1339804800000},"tcg":{"id":74311226,"pack_id":"SDRE-EN002","pack":"SDRE","rarity":"Atlantean Dragoons","date":1349913600000}}
+{
+    "id": 74311226,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 119,
+    "type": 33,
+    "atk": 1800,
+    "def": 0,
+    "level": 4,
+    "race": 262144,
+    "attribute": 2,
+    "category": 1180160,
+    "name": "Atlantean Dragoons",
+    "desc": "All Level 3 or lower Sea Serpent-Type monsters you control can attack your opponent directly. When this card is sent to the Graveyard to activate a WATER monster's effect: Add 1 Sea Serpent-Type monster from your Deck to your hand, except \"Atlantean Dragoons\".",
+    "str1": "Add to hand",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 74311226,
+        "pack_id": "SD23-JP002",
+        "pack": "SD23",
+        "rarity": "Atlantean Dragoons",
+        "date": 1339804800000
+    },
+    "tcg": {
+        "id": 74311226,
+        "pack_id": "SDRE-EN002",
+        "pack": "SDRE",
+        "rarity": "Atlantean Dragoons",
+        "date": 1349913600000
+    }
+}

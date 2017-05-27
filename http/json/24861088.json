@@ -1,1 +1,47 @@
-{"id":24861088,"ot":3,"alias":0,"setcode":112,"type":33,"atk":1800,"def":1500,"level":4,"race":32,"attribute":16,"category":0,"name":"Chronomaly Nebra Disk","desc":"When this card is Normal Summoned: You can add 1 \"Chronomaly\" card from your Deck to your hand, except \"Chronomaly Nebra Disk\". If this card is in the Graveyard and all monsters you control are \"Chronomaly\" monsters (min. 1): You can Special Summon this card in Defense Position. You cannot activate cards or effects during the turn you activate this effect, except \"Chronomaly\" cards and effects. You can only use 1 \"Chronomaly Nebra Disk\" effect per turn, and only once that turn.","str1":"Activate effect?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":24861088,"pack_id":"LVAL-JP081","pack":"LVAL","rarity":"Chronomaly Nebra Disk","date":1384560000000},"tcg":{"id":24861088,"pack_id":"WSUP-EN001","pack":"WSUP","rarity":"Chronomaly Nebra Disk","date":1429142400000}}
+{
+    "id": 24861088,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 112,
+    "type": 33,
+    "atk": 1800,
+    "def": 1500,
+    "level": 4,
+    "race": 32,
+    "attribute": 16,
+    "category": 0,
+    "name": "Chronomaly Nebra Disk",
+    "desc": "When this card is Normal Summoned: You can add 1 \"Chronomaly\" card from your Deck to your hand, except \"Chronomaly Nebra Disk\". If this card is in the Graveyard and all monsters you control are \"Chronomaly\" monsters (min. 1): You can Special Summon this card in Defense Position. You cannot activate cards or effects during the turn you activate this effect, except \"Chronomaly\" cards and effects. You can only use 1 \"Chronomaly Nebra Disk\" effect per turn, and only once that turn.",
+    "str1": "Activate effect?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 24861088,
+        "pack_id": "LVAL-JP081",
+        "pack": "LVAL",
+        "rarity": "Chronomaly Nebra Disk",
+        "date": 1384560000000
+    },
+    "tcg": {
+        "id": 24861088,
+        "pack_id": "WSUP-EN001",
+        "pack": "WSUP",
+        "rarity": "Chronomaly Nebra Disk",
+        "date": 1429142400000
+    }
+}

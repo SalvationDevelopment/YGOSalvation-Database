@@ -1,1 +1,47 @@
-{"id":30459350,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4,"name":"Imperial Iron Wall","desc":"Neither player can banish cards.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":30459350,"pack_id":"SD15-JP030","pack":"SD15","rarity":"Imperial Iron Wall","date":1214006400000},"tcg":{"id":30459350,"pack_id":"SDZW-EN032","pack":"SDZW","rarity":"Imperial Iron Wall","date":1224547200000}}
+{
+    "id": 30459350,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4,
+    "name": "Imperial Iron Wall",
+    "desc": "Neither player can banish cards.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 30459350,
+        "pack_id": "SD15-JP030",
+        "pack": "SD15",
+        "rarity": "Imperial Iron Wall",
+        "date": 1214006400000
+    },
+    "tcg": {
+        "id": 30459350,
+        "pack_id": "SDZW-EN032",
+        "pack": "SDZW",
+        "rarity": "Imperial Iron Wall",
+        "date": 1224547200000
+    }
+}

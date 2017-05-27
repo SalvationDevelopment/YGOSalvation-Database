@@ -1,1 +1,47 @@
-{"id":83715234,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1048577,"name":"Attack the Moon!","desc":"Once per turn, when the battle position of a Rock-Type monster you control is changed: You can target 1 Spell/Trap Card your opponent controls; destroy that target.","str1":"S/T Destruction","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":83715234,"pack_id":"EP13-JP030","pack":"EP13","rarity":"Attack the Moon!","date":1368835200000},"tcg":{"id":83715234,"pack_id":"ABYR-EN089","pack":"ABYR","rarity":"Attack the Moon!","date":1352419200000}}
+{
+    "id": 83715234,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1048577,
+    "name": "Attack the Moon!",
+    "desc": "Once per turn, when the battle position of a Rock-Type monster you control is changed: You can target 1 Spell/Trap Card your opponent controls; destroy that target.",
+    "str1": "S/T Destruction",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 83715234,
+        "pack_id": "EP13-JP030",
+        "pack": "EP13",
+        "rarity": "Attack the Moon!",
+        "date": 1368835200000
+    },
+    "tcg": {
+        "id": 83715234,
+        "pack_id": "ABYR-EN089",
+        "pack": "ABYR",
+        "rarity": "Attack the Moon!",
+        "date": 1352419200000
+    }
+}

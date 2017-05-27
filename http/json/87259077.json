@@ -1,1 +1,47 @@
-{"id":87259077,"ot":3,"alias":0,"setcode":102,"type":8225,"atk":2400,"def":1200,"level":7,"race":1,"attribute":16,"category":4194304,"name":"Lightning Warrior","desc":"1 Tuner + 1 or more non-Tuner monsters\nIf this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict 300 damage to your opponent for each card in your opponent's hand.","str1":"Inflict damage","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":87259077,"pack_id":"LE17-JP005","pack":"LE17","rarity":"Lightning Warrior","date":1256083200000},"tcg":{"id":87259077,"pack_id":"JUMP-EN046","pack":"JUMP","rarity":"Lightning Warrior","date":1325376000000}}
+{
+    "id": 87259077,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 102,
+    "type": 8225,
+    "atk": 2400,
+    "def": 1200,
+    "level": 7,
+    "race": 1,
+    "attribute": 16,
+    "category": 4194304,
+    "name": "Lightning Warrior",
+    "desc": "1 Tuner + 1 or more non-Tuner monsters\nIf this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict 300 damage to your opponent for each card in your opponent's hand.",
+    "str1": "Inflict damage",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 87259077,
+        "pack_id": "LE17-JP005",
+        "pack": "LE17",
+        "rarity": "Lightning Warrior",
+        "date": 1256083200000
+    },
+    "tcg": {
+        "id": 87259077,
+        "pack_id": "JUMP-EN046",
+        "pack": "JUMP",
+        "rarity": "Lightning Warrior",
+        "date": 1325376000000
+    }
+}

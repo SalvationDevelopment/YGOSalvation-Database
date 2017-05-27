@@ -1,1 +1,47 @@
-{"id":42175079,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":3,"name":"Volcanic Eruption","desc":"During your End Phase, if you control \"Jurassic World\": Destroy all cards on the field.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":42175079,"pack_id":"SD09-JP030","pack":"SD09","rarity":"Volcanic Eruption","date":1150934400000},"tcg":{"id":42175079,"pack_id":"SD09-EN030","pack":"SD09","rarity":"Volcanic Eruption","date":1161302400000}}
+{
+    "id": 42175079,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 3,
+    "name": "Volcanic Eruption",
+    "desc": "During your End Phase, if you control \"Jurassic World\": Destroy all cards on the field.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 42175079,
+        "pack_id": "SD09-JP030",
+        "pack": "SD09",
+        "rarity": "Volcanic Eruption",
+        "date": 1150934400000
+    },
+    "tcg": {
+        "id": 42175079,
+        "pack_id": "SD09-EN030",
+        "pack": "SD09",
+        "rarity": "Volcanic Eruption",
+        "date": 1161302400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":25774450,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4098,"name":"Mystic Box","desc":"Target 1 monster your opponent controls and 1 monster you control; destroy the first target, then give control of the second target to your opponent.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":25774450,"pack_id":"P4-05","pack":"P4","rarity":"Mystic Box","date":979776000000},"tcg":{"id":25774450,"pack_id":"SD6-EN030","pack":"SD6","rarity":"Mystic Box","date":1137542400000}}
+{
+    "id": 25774450,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4098,
+    "name": "Mystic Box",
+    "desc": "Target 1 monster your opponent controls and 1 monster you control; destroy the first target, then give control of the second target to your opponent.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 25774450,
+        "pack_id": "P4-05",
+        "pack": "P4",
+        "rarity": "Mystic Box",
+        "date": 979776000000
+    },
+    "tcg": {
+        "id": 25774450,
+        "pack_id": "SD6-EN030",
+        "pack": "SD6",
+        "rarity": "Mystic Box",
+        "date": 1137542400000
+    }
+}

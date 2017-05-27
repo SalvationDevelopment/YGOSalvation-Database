@@ -1,1 +1,47 @@
-{"id":99597615,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8224,"name":"Malevolent Nuzzler","desc":"The equipped monster gains 700 ATK. When this card is sent from the field to the Graveyard: You can pay 500 LP; place this card on the top of the Deck.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":99597615,"pack_id":"MR-05","pack":"MR","rarity":"Malevolent Nuzzler","date":956188800000},"tcg":{"id":99597615,"pack_id":"MRL-005","pack":"MRL","rarity":"Malevolent Nuzzler","date":1048982400000}}
+{
+    "id": 99597615,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8224,
+    "name": "Malevolent Nuzzler",
+    "desc": "The equipped monster gains 700 ATK. When this card is sent from the field to the Graveyard: You can pay 500 LP; place this card on the top of the Deck.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 99597615,
+        "pack_id": "MR-05",
+        "pack": "MR",
+        "rarity": "Malevolent Nuzzler",
+        "date": 956188800000
+    },
+    "tcg": {
+        "id": 99597615,
+        "pack_id": "MRL-005",
+        "pack": "MRL",
+        "rarity": "Malevolent Nuzzler",
+        "date": 1048982400000
+    }
+}

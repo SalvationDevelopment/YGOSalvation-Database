@@ -1,1 +1,47 @@
-{"id":90809975,"ot":3,"alias":0,"setcode":0,"type":8388641,"atk":2200,"def":0,"level":2,"race":64,"attribute":2,"category":0,"name":"Toadally Awesome","desc":"2 Level 2 Aqua-Type monsters\nOnce per turn, during the Standby Phase: You can detach 1 Xyz Material from this card; Special Summon 1 \"Frog\" monster from your Deck. Once per turn, during either player's turn, when your opponent activates a Spell/Trap Card, or monster effect: You can send 1 Aqua-Type monster from your hand or face-up from your field to the Graveyard; negate the activation, and if you do, destroy that card, then you can Set it to your field. If this card is sent to the Graveyard: You can target 1 WATER monster in your Graveyard; add it to your hand.","str1":"Special Summon 1 \"Frog\" monster","str2":"Negate Effect","str3":"Add Water monster to hand","str4":"Special Summon Face-down?","str5":"Set card?","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":90809975,"pack_id":"INOV-JP052","pack":"INOV","rarity":"Toadally Awesome","date":1468022400000},"tcg":{"id":90809975,"pack_id":"INOV-EN052","pack":"INOV","rarity":"Toadally Awesome","date":1478131200000}}
+{
+    "id": 90809975,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8388641,
+    "atk": 2200,
+    "def": 0,
+    "level": 2,
+    "race": 64,
+    "attribute": 2,
+    "category": 0,
+    "name": "Toadally Awesome",
+    "desc": "2 Level 2 Aqua-Type monsters\nOnce per turn, during the Standby Phase: You can detach 1 Xyz Material from this card; Special Summon 1 \"Frog\" monster from your Deck. Once per turn, during either player's turn, when your opponent activates a Spell/Trap Card, or monster effect: You can send 1 Aqua-Type monster from your hand or face-up from your field to the Graveyard; negate the activation, and if you do, destroy that card, then you can Set it to your field. If this card is sent to the Graveyard: You can target 1 WATER monster in your Graveyard; add it to your hand.",
+    "str1": "Special Summon 1 \"Frog\" monster",
+    "str2": "Negate Effect",
+    "str3": "Add Water monster to hand",
+    "str4": "Special Summon Face-down?",
+    "str5": "Set card?",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 90809975,
+        "pack_id": "INOV-JP052",
+        "pack": "INOV",
+        "rarity": "Toadally Awesome",
+        "date": 1468022400000
+    },
+    "tcg": {
+        "id": 90809975,
+        "pack_id": "INOV-EN052",
+        "pack": "INOV",
+        "rarity": "Toadally Awesome",
+        "date": 1478131200000
+    }
+}

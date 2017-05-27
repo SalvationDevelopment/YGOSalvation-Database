@@ -1,1 +1,47 @@
-{"id":5908650,"ot":3,"alias":0,"setcode":278593691,"type":33,"atk":2300,"def":1700,"level":7,"race":4,"attribute":16,"category":0,"name":"Shopina the Melodious Maestra","desc":"Once per turn: You can target 1 LIGHT Fairy-Type monster in your Graveyard; add it to your hand. You cannot activate non-LIGHT monster effects during the turn you activate this effect.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":5908650,"pack_id":"NECH-JP007","pack":"NECH","rarity":"Shopina the Melodious Maestra","date":1405728000000},"tcg":{"id":5908650,"pack_id":"NECH-EN007","pack":"NECH","rarity":"Shopina the Melodious Maestra","date":1415232000000}}
+{
+    "id": 5908650,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 278593691,
+    "type": 33,
+    "atk": 2300,
+    "def": 1700,
+    "level": 7,
+    "race": 4,
+    "attribute": 16,
+    "category": 0,
+    "name": "Shopina the Melodious Maestra",
+    "desc": "Once per turn: You can target 1 LIGHT Fairy-Type monster in your Graveyard; add it to your hand. You cannot activate non-LIGHT monster effects during the turn you activate this effect.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 5908650,
+        "pack_id": "NECH-JP007",
+        "pack": "NECH",
+        "rarity": "Shopina the Melodious Maestra",
+        "date": 1405728000000
+    },
+    "tcg": {
+        "id": 5908650,
+        "pack_id": "NECH-EN007",
+        "pack": "NECH",
+        "rarity": "Shopina the Melodious Maestra",
+        "date": 1415232000000
+    }
+}

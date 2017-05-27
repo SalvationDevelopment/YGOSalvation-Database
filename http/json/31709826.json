@@ -1,1 +1,47 @@
-{"id":31709826,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1500,"def":500,"level":4,"race":64,"attribute":2,"category":262144,"name":"Revival Jam","desc":"When this card is destroyed by battle and sent to the Graveyard: You can pay 1000 Life Points; Special Summon it in face-up Defense Position during your next turn's Standby Phase.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":31709826,"pack_id":"SM-05","pack":"SM","rarity":"Revival Jam","date":987638400000},"tcg":{"id":31709826,"pack_id":"LON-006","pack":"LON","rarity":"Revival Jam","date":1046476800000}}
+{
+    "id": 31709826,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1500,
+    "def": 500,
+    "level": 4,
+    "race": 64,
+    "attribute": 2,
+    "category": 262144,
+    "name": "Revival Jam",
+    "desc": "When this card is destroyed by battle and sent to the Graveyard: You can pay 1000 Life Points; Special Summon it in face-up Defense Position during your next turn's Standby Phase.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 31709826,
+        "pack_id": "SM-05",
+        "pack": "SM",
+        "rarity": "Revival Jam",
+        "date": 987638400000
+    },
+    "tcg": {
+        "id": 31709826,
+        "pack_id": "LON-006",
+        "pack": "LON",
+        "rarity": "Revival Jam",
+        "date": 1046476800000
+    }
+}

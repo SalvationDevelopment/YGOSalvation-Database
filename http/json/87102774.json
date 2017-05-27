@@ -1,1 +1,47 @@
-{"id":87102774,"ot":3,"alias":0,"setcode":0,"type":33,"atk":0,"def":0,"level":1,"race":2048,"attribute":16,"category":8388608,"name":"Golden Ladybug","desc":"Once per turn, during your Standby Phase, you can reveal this card in your hand to gain 500 Life Points. If you do this, this card remains revealed while it is in your hand, until the End Phase.","str1":"Recover","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":87102774,"pack_id":"DT06-JP003","pack":"DT06","rarity":"Golden Ladybug","date":1246406400000},"tcg":{"id":87102774,"pack_id":"LODT-EN036","pack":"LODT","rarity":"Golden Ladybug","date":1209772800000}}
+{
+    "id": 87102774,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": 2048,
+    "attribute": 16,
+    "category": 8388608,
+    "name": "Golden Ladybug",
+    "desc": "Once per turn, during your Standby Phase, you can reveal this card in your hand to gain 500 Life Points. If you do this, this card remains revealed while it is in your hand, until the End Phase.",
+    "str1": "Recover",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 87102774,
+        "pack_id": "DT06-JP003",
+        "pack": "DT06",
+        "rarity": "Golden Ladybug",
+        "date": 1246406400000
+    },
+    "tcg": {
+        "id": 87102774,
+        "pack_id": "LODT-EN036",
+        "pack": "LODT",
+        "rarity": "Golden Ladybug",
+        "date": 1209772800000
+    }
+}

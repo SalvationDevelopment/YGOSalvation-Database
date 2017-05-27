@@ -1,1 +1,47 @@
-{"id":45974017,"ot":1,"alias":0,"setcode":174,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Dark Contract with the Yamimakai","desc":"Once per turn, during your Standby Phase: Take 1000 damage.\nYou can only use 1 of the following effects of \"Dark Contract with the Yamimakai\" per turn, and only once that turn.\n● During your Main Phase: You can target 1 \"D/D\" Pendulum Monster in your Graveyard; place it in your Pendulum Zone.\n● During your Main Phase: You can place 1 face-up \"D/D\" Pendulum Monster from your Extra Deck in your Pendulum Zone.","str1":"Take 1000 Damage","str2":"Target 1 \"D/D\" Pendulum Monster in your Graveyard; place it in your Pendulum Zone.","str3":"Place 1 face-up \"D/D\" Pendulum Monster in your Extra Deck in your Pendulum Zone.","str4":"Take 1000 Damage","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG","ocg":{"id":45974017,"pack_id":"SD30-JP024","pack":"SD30","rarity":"Dark Contract with the Yamimakai","date":1449878400000},"tcg":{"id":45974017,"pack_id":"SDPD-EN023","pack":"SDPD","rarity":"Dark Contract with the Yamimakai","date":1484784000000}}
+{
+    "id": 45974017,
+    "ot": 1,
+    "alias": 0,
+    "setcode": 174,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Dark Contract with the Yamimakai",
+    "desc": "Once per turn, during your Standby Phase: Take 1000 damage.\nYou can only use 1 of the following effects of \"Dark Contract with the Yamimakai\" per turn, and only once that turn.\n● During your Main Phase: You can target 1 \"D/D\" Pendulum Monster in your Graveyard; place it in your Pendulum Zone.\n● During your Main Phase: You can place 1 face-up \"D/D\" Pendulum Monster from your Extra Deck in your Pendulum Zone.",
+    "str1": "Take 1000 Damage",
+    "str2": "Target 1 \"D/D\" Pendulum Monster in your Graveyard; place it in your Pendulum Zone.",
+    "str3": "Place 1 face-up \"D/D\" Pendulum Monster in your Extra Deck in your Pendulum Zone.",
+    "str4": "Take 1000 Damage",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG",
+    "ocg": {
+        "id": 45974017,
+        "pack_id": "SD30-JP024",
+        "pack": "SD30",
+        "rarity": "Dark Contract with the Yamimakai",
+        "date": 1449878400000
+    },
+    "tcg": {
+        "id": 45974017,
+        "pack_id": "SDPD-EN023",
+        "pack": "SDPD",
+        "rarity": "Dark Contract with the Yamimakai",
+        "date": 1484784000000
+    }
+}

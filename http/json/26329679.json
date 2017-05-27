@@ -1,1 +1,47 @@
-{"id":26329679,"ot":3,"alias":0,"setcode":83,"type":8388641,"atk":2400,"def":500,"level":4,"race":32768,"attribute":16,"category":33554432,"name":"Constellar Omega","desc":"2 Level 4 LIGHT monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card; all \"Constellar\" monsters you currently control are unaffected by Spell/Trap effects this turn.","str1":"效果免疫","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":26329679,"pack_id":"DT14-JPB01","pack":"DT14","rarity":"Constellar Omega","date":1327363200000},"tcg":{"id":26329679,"pack_id":"LTGY-EN091","pack":"LTGY","rarity":"Constellar Omega","date":1368748800000}}
+{
+    "id": 26329679,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 83,
+    "type": 8388641,
+    "atk": 2400,
+    "def": 500,
+    "level": 4,
+    "race": 32768,
+    "attribute": 16,
+    "category": 33554432,
+    "name": "Constellar Omega",
+    "desc": "2 Level 4 LIGHT monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card; all \"Constellar\" monsters you currently control are unaffected by Spell/Trap effects this turn.",
+    "str1": "效果免疫",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 26329679,
+        "pack_id": "DT14-JPB01",
+        "pack": "DT14",
+        "rarity": "Constellar Omega",
+        "date": 1327363200000
+    },
+    "tcg": {
+        "id": 26329679,
+        "pack_id": "LTGY-EN091",
+        "pack": "LTGY",
+        "rarity": "Constellar Omega",
+        "date": 1368748800000
+    }
+}

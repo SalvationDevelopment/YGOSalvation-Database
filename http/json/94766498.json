@@ -1,1 +1,47 @@
-{"id":94766498,"ot":3,"alias":0,"setcode":112,"type":33,"atk":1500,"def":1000,"level":4,"race":256,"attribute":1,"category":262144,"name":"Chronomaly Aztec Mask Golem","desc":"During your turn, if you have activated a \"Chronomaly\" Spell Card previously this turn, you can Special Summon this card (from your hand). You can only control 1 \"Chronomaly Aztec Mask Golem\".","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":94766498,"pack_id":"CPZ1-JP001","pack":"CPZ1","rarity":"Chronomaly Aztec Mask Golem","date":1376092800000},"tcg":{"id":94766498,"pack_id":"NUMH-EN001","pack":"NUMH","rarity":"Chronomaly Aztec Mask Golem","date":1373587200000}}
+{
+    "id": 94766498,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 112,
+    "type": 33,
+    "atk": 1500,
+    "def": 1000,
+    "level": 4,
+    "race": 256,
+    "attribute": 1,
+    "category": 262144,
+    "name": "Chronomaly Aztec Mask Golem",
+    "desc": "During your turn, if you have activated a \"Chronomaly\" Spell Card previously this turn, you can Special Summon this card (from your hand). You can only control 1 \"Chronomaly Aztec Mask Golem\".",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 94766498,
+        "pack_id": "CPZ1-JP001",
+        "pack": "CPZ1",
+        "rarity": "Chronomaly Aztec Mask Golem",
+        "date": 1376092800000
+    },
+    "tcg": {
+        "id": 94766498,
+        "pack_id": "NUMH-EN001",
+        "pack": "NUMH",
+        "rarity": "Chronomaly Aztec Mask Golem",
+        "date": 1373587200000
+    }
+}

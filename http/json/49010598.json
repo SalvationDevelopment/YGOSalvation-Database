@@ -1,1 +1,47 @@
-{"id":49010598,"ot":3,"alias":0,"setcode":0,"type":1048580,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":-2147483638,"name":"Divine Wrath","desc":"When a monster effect is activated: Discard 1 card; negate the activation, and if you do, destroy that monster.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":49010598,"pack_id":"RDS-JP050","pack":"RDS","rarity":"Divine Wrath","date":1091664000000},"tcg":{"id":49010598,"pack_id":"RDS-EN050","pack":"RDS","rarity":"Divine Wrath","date":1100908800000}}
+{
+    "id": 49010598,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 1048580,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": -2147483638,
+    "name": "Divine Wrath",
+    "desc": "When a monster effect is activated: Discard 1 card; negate the activation, and if you do, destroy that monster.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 49010598,
+        "pack_id": "RDS-JP050",
+        "pack": "RDS",
+        "rarity": "Divine Wrath",
+        "date": 1091664000000
+    },
+    "tcg": {
+        "id": 49010598,
+        "pack_id": "RDS-EN050",
+        "pack": "RDS",
+        "rarity": "Divine Wrath",
+        "date": 1100908800000
+    }
+}

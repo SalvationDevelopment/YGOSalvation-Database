@@ -1,1 +1,47 @@
-{"id":90075978,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":3410176,"name":"W Nebula Meteorite","desc":"Change all face-down monsters on the field to face-up Defense Position. During the End Phase this turn, change all face-up LIGHT Reptile-Type monsters you control to face-down Defense Position, then draw 1 card for each. After that, you can Special Summon 1 Level 7 or higher LIGHT Reptile-Type monster from your Deck.","str1":"Special Summon 1 Level 7 or higher LIGHT Reptile-Type monster from your Deck?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":90075978,"pack_id":"EXVC-JP080","pack":"EXVC","rarity":"W Nebula Meteorite","date":1297382400000},"tcg":{"id":90075978,"pack_id":"EXVC-EN080","pack":"EXVC","rarity":"W Nebula Meteorite","date":1304121600000}}
+{
+    "id": 90075978,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 3410176,
+    "name": "W Nebula Meteorite",
+    "desc": "Change all face-down monsters on the field to face-up Defense Position. During the End Phase this turn, change all face-up LIGHT Reptile-Type monsters you control to face-down Defense Position, then draw 1 card for each. After that, you can Special Summon 1 Level 7 or higher LIGHT Reptile-Type monster from your Deck.",
+    "str1": "Special Summon 1 Level 7 or higher LIGHT Reptile-Type monster from your Deck?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 90075978,
+        "pack_id": "EXVC-JP080",
+        "pack": "EXVC",
+        "rarity": "W Nebula Meteorite",
+        "date": 1297382400000
+    },
+    "tcg": {
+        "id": 90075978,
+        "pack_id": "EXVC-EN080",
+        "pack": "EXVC",
+        "rarity": "W Nebula Meteorite",
+        "date": 1304121600000
+    }
+}

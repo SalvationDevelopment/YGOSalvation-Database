@@ -1,1 +1,47 @@
-{"id":51617185,"ot":3,"alias":0,"setcode":54,"type":33,"atk":2600,"def":1500,"level":8,"race":32,"attribute":1,"category":0,"name":"Machina Megaform","desc":"You can Tribute this card; Special Summon 1 \"Machina\" monster from your hand or Deck, except \"Machina Megaform\". If a face-up \"Machina Fortress\" you control is sent to the Graveyard, while this card is in your Graveyard (except during the Damage Step): You can banish that \"Machina Fortress\" from the Graveyard; Special Summon this card. You can only use 1 \"Machina Megaform\" effect per turn, and only once that turn.","str1":"Special Summon Machina Megaform","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":51617185,"pack_id":"NECH-JP036","pack":"NECH","rarity":"Machina Megaform","date":1405728000000},"tcg":{"id":51617185,"pack_id":"NECH-EN036","pack":"NECH","rarity":"Machina Megaform","date":1415232000000}}
+{
+    "id": 51617185,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 54,
+    "type": 33,
+    "atk": 2600,
+    "def": 1500,
+    "level": 8,
+    "race": 32,
+    "attribute": 1,
+    "category": 0,
+    "name": "Machina Megaform",
+    "desc": "You can Tribute this card; Special Summon 1 \"Machina\" monster from your hand or Deck, except \"Machina Megaform\". If a face-up \"Machina Fortress\" you control is sent to the Graveyard, while this card is in your Graveyard (except during the Damage Step): You can banish that \"Machina Fortress\" from the Graveyard; Special Summon this card. You can only use 1 \"Machina Megaform\" effect per turn, and only once that turn.",
+    "str1": "Special Summon Machina Megaform",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 51617185,
+        "pack_id": "NECH-JP036",
+        "pack": "NECH",
+        "rarity": "Machina Megaform",
+        "date": 1405728000000
+    },
+    "tcg": {
+        "id": 51617185,
+        "pack_id": "NECH-EN036",
+        "pack": "NECH",
+        "rarity": "Machina Megaform",
+        "date": 1415232000000
+    }
+}

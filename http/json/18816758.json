@@ -1,1 +1,47 @@
-{"id":18816758,"ot":3,"alias":0,"setcode":101,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":19,"name":"First Step Towards Infestation","desc":"Return 1 face-up Tribute Summoned \"Steelswarm\" monster you control to the hand; draw 1 card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":18816758,"pack_id":"DT10-JP043","pack":"DT10","rarity":"First Step Towards Infestation","date":1338768000000},"tcg":{"id":18816758,"pack_id":"DT05-EN093","pack":"DT05","rarity":"First Step Towards Infestation","date":1317254400000}}
+{
+    "id": 18816758,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 101,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 19,
+    "name": "First Step Towards Infestation",
+    "desc": "Return 1 face-up Tribute Summoned \"Steelswarm\" monster you control to the hand; draw 1 card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 18816758,
+        "pack_id": "DT10-JP043",
+        "pack": "DT10",
+        "rarity": "First Step Towards Infestation",
+        "date": 1338768000000
+    },
+    "tcg": {
+        "id": 18816758,
+        "pack_id": "DT05-EN093",
+        "pack": "DT05",
+        "rarity": "First Step Towards Infestation",
+        "date": 1317254400000
+    }
+}

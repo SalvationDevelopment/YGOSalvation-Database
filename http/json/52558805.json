@@ -1,1 +1,47 @@
-{"id":52558805,"ot":3,"alias":0,"setcode":109,"type":8388641,"atk":1700,"def":1000,"level":3,"race":8,"attribute":1,"category":8192,"name":"Temtempo the Percussion Djinn","desc":"2 Level 3 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up Xyz Monster your opponent controls; detach 1 Xyz Material from that monster, and if you do, all \"Djinn\" Xyz Monsters you currently control gain 500 ATK.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":52558805,"pack_id":"ST12-JP041","pack":"ST12","rarity":"Temtempo the Percussion Djinn","date":1331942400000},"tcg":{"id":52558805,"pack_id":"YS12-EN041","pack":"YS12","rarity":"Temtempo the Percussion Djinn","date":1334275200000}}
+{
+    "id": 52558805,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 109,
+    "type": 8388641,
+    "atk": 1700,
+    "def": 1000,
+    "level": 3,
+    "race": 8,
+    "attribute": 1,
+    "category": 8192,
+    "name": "Temtempo the Percussion Djinn",
+    "desc": "2 Level 3 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up Xyz Monster your opponent controls; detach 1 Xyz Material from that monster, and if you do, all \"Djinn\" Xyz Monsters you currently control gain 500 ATK.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 52558805,
+        "pack_id": "ST12-JP041",
+        "pack": "ST12",
+        "rarity": "Temtempo the Percussion Djinn",
+        "date": 1331942400000
+    },
+    "tcg": {
+        "id": 52558805,
+        "pack_id": "YS12-EN041",
+        "pack": "YS12",
+        "rarity": "Temtempo the Percussion Djinn",
+        "date": 1334275200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":64238008,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4194304,"name":"Linear Accelerator Cannon","desc":"Tribute 1 monster and inflict damage to your opponent equal to half that monster's original ATK. If you activate this card, you cannot activate any other Spell Cards this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":64238008,"pack_id":"CDIP-JP042","pack":"CDIP","rarity":"Linear Accelerator Cannon","date":1155168000000},"tcg":{"id":64238008,"pack_id":"CDIP-EN042","pack":"CDIP","rarity":"Linear Accelerator Cannon","date":1163548800000}}
+{
+    "id": 64238008,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4194304,
+    "name": "Linear Accelerator Cannon",
+    "desc": "Tribute 1 monster and inflict damage to your opponent equal to half that monster's original ATK. If you activate this card, you cannot activate any other Spell Cards this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 64238008,
+        "pack_id": "CDIP-JP042",
+        "pack": "CDIP",
+        "rarity": "Linear Accelerator Cannon",
+        "date": 1155168000000
+    },
+    "tcg": {
+        "id": 64238008,
+        "pack_id": "CDIP-EN042",
+        "pack": "CDIP",
+        "rarity": "Linear Accelerator Cannon",
+        "date": 1163548800000
+    }
+}

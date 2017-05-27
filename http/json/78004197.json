@@ -1,1 +1,47 @@
-{"id":78004197,"ot":3,"alias":0,"setcode":6,"type":33,"atk":2300,"def":1400,"level":5,"race":8,"attribute":32,"category":262147,"name":"Goldd, Wu-Lord of Dark World","desc":"If this card is discarded to the Graveyard by a card effect: If it was discarded from your hand to your Graveyard by an opponent's card effect, you can target up to 2 cards your opponent controls; Special Summon this card from the Graveyard, then destroy those targets (if any).","str1":"Special Summon","str2":"Destroy card(s) on your opponent's field?","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":78004197,"pack_id":"EEN-JP024","pack":"EEN","rarity":"Goldd, Wu-Lord of Dark World","date":1123718400000},"tcg":{"id":78004197,"pack_id":"EEN-EN024","pack":"EEN","rarity":"Goldd, Wu-Lord of Dark World","date":1131148800000}}
+{
+    "id": 78004197,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 6,
+    "type": 33,
+    "atk": 2300,
+    "def": 1400,
+    "level": 5,
+    "race": 8,
+    "attribute": 32,
+    "category": 262147,
+    "name": "Goldd, Wu-Lord of Dark World",
+    "desc": "If this card is discarded to the Graveyard by a card effect: If it was discarded from your hand to your Graveyard by an opponent's card effect, you can target up to 2 cards your opponent controls; Special Summon this card from the Graveyard, then destroy those targets (if any).",
+    "str1": "Special Summon",
+    "str2": "Destroy card(s) on your opponent's field?",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 78004197,
+        "pack_id": "EEN-JP024",
+        "pack": "EEN",
+        "rarity": "Goldd, Wu-Lord of Dark World",
+        "date": 1123718400000
+    },
+    "tcg": {
+        "id": 78004197,
+        "pack_id": "EEN-EN024",
+        "pack": "EEN",
+        "rarity": "Goldd, Wu-Lord of Dark World",
+        "date": 1131148800000
+    }
+}

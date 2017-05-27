@@ -1,1 +1,47 @@
-{"id":73734821,"ot":1,"alias":0,"setcode":159,"type":33,"atk":2500,"def":2000,"level":7,"race":2,"attribute":8,"category":0,"name":"Performapal Sky Magician","desc":"Once per turn, if you activate a Spell Card: This card gains 300 ATK. During either player's turn: You can target 1 Continuous Spell Card you control; return it to the hand, then you can activate 1 \"Magician\" Continuous Spell Card from your hand. You can only use this effect of \"Performapal Sky Magician\" once per turn. If this face-up card leaves the field: You can target 1 card on the field; destroy it.","str1":"Gain 300 ATK","str2":"Return 1 Continuous Spell Card to hand","str3":"Activate 1 \"Magician\" Spell Card","str4":"Destroy 1 card","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG","ocg":{"id":73734821,"pack_id":"MACR-JP001","pack":"MACR","rarity":"Performapal Sky Magician","date":1484352000000},"tcg":{"id":73734821,"pack_id":"MACR-EN001","pack":"MACR","rarity":"Performapal Sky Magician","date":1493856000000}}
+{
+    "id": 73734821,
+    "ot": 1,
+    "alias": 0,
+    "setcode": 159,
+    "type": 33,
+    "atk": 2500,
+    "def": 2000,
+    "level": 7,
+    "race": 2,
+    "attribute": 8,
+    "category": 0,
+    "name": "Performapal Sky Magician",
+    "desc": "Once per turn, if you activate a Spell Card: This card gains 300 ATK. During either player's turn: You can target 1 Continuous Spell Card you control; return it to the hand, then you can activate 1 \"Magician\" Continuous Spell Card from your hand. You can only use this effect of \"Performapal Sky Magician\" once per turn. If this face-up card leaves the field: You can target 1 card on the field; destroy it.",
+    "str1": "Gain 300 ATK",
+    "str2": "Return 1 Continuous Spell Card to hand",
+    "str3": "Activate 1 \"Magician\" Spell Card",
+    "str4": "Destroy 1 card",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG",
+    "ocg": {
+        "id": 73734821,
+        "pack_id": "MACR-JP001",
+        "pack": "MACR",
+        "rarity": "Performapal Sky Magician",
+        "date": 1484352000000
+    },
+    "tcg": {
+        "id": 73734821,
+        "pack_id": "MACR-EN001",
+        "pack": "MACR",
+        "rarity": "Performapal Sky Magician",
+        "date": 1493856000000
+    }
+}

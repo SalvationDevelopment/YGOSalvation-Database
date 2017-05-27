@@ -1,1 +1,47 @@
-{"id":51543904,"ot":3,"alias":0,"setcode":8323144,"type":8388641,"atk":4000,"def":2000,"level":10,"race":8192,"attribute":16,"category":0,"name":"Number 99: Utopic Dragon","desc":"3 Level 10 monsters\nYou can also Xyz Summon this card by discarding 1 \"Rank-Up-Magic\" Spell Card and using a \"Utopia\" monster you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) Once per turn: You can target 1 \"Number\" monster in your Graveyard; Special Summon it in Defense Position, but its effects are negated. During either player's turn, when a monster effect is activated that targets this face-up card: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy that card.","str1":"Negate effect?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":51543904,"pack_id":"OG03-JP001","pack":"OG03","rarity":"Number 99: Utopic Dragon","date":1398988800000},"tcg":{"id":51543904,"pack_id":"NECH-EN099","pack":"NECH","rarity":"Number 99: Utopic Dragon","date":1415232000000}}
+{
+    "id": 51543904,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 8323144,
+    "type": 8388641,
+    "atk": 4000,
+    "def": 2000,
+    "level": 10,
+    "race": 8192,
+    "attribute": 16,
+    "category": 0,
+    "name": "Number 99: Utopic Dragon",
+    "desc": "3 Level 10 monsters\nYou can also Xyz Summon this card by discarding 1 \"Rank-Up-Magic\" Spell Card and using a \"Utopia\" monster you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) Once per turn: You can target 1 \"Number\" monster in your Graveyard; Special Summon it in Defense Position, but its effects are negated. During either player's turn, when a monster effect is activated that targets this face-up card: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy that card.",
+    "str1": "Negate effect?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 51543904,
+        "pack_id": "OG03-JP001",
+        "pack": "OG03",
+        "rarity": "Number 99: Utopic Dragon",
+        "date": 1398988800000
+    },
+    "tcg": {
+        "id": 51543904,
+        "pack_id": "NECH-EN099",
+        "pack": "NECH",
+        "rarity": "Number 99: Utopic Dragon",
+        "date": 1415232000000
+    }
+}

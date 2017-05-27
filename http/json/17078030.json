@@ -1,1 +1,47 @@
-{"id":17078030,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":65536,"name":"Wall of Revealing Light","desc":"Activate by paying any multiple of 1000 Life Points. Monsters your opponent controls cannot attack if their ATK is less than or equal to the amount you paid.","str1":"Please select the amount of LP to pay","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":17078030,"pack_id":"308-050","pack":"308","rarity":"Wall of Revealing Light","date":1069286400000},"tcg":{"id":17078030,"pack_id":"AST-050","pack":"AST","rarity":"Wall of Revealing Light","date":1086048000000}}
+{
+    "id": 17078030,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 65536,
+    "name": "Wall of Revealing Light",
+    "desc": "Activate by paying any multiple of 1000 Life Points. Monsters your opponent controls cannot attack if their ATK is less than or equal to the amount you paid.",
+    "str1": "Please select the amount of LP to pay",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 17078030,
+        "pack_id": "308-050",
+        "pack": "308",
+        "rarity": "Wall of Revealing Light",
+        "date": 1069286400000
+    },
+    "tcg": {
+        "id": 17078030,
+        "pack_id": "AST-050",
+        "pack": "AST",
+        "rarity": "Wall of Revealing Light",
+        "date": 1086048000000
+    }
+}

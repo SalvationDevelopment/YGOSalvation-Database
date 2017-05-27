@@ -1,1 +1,47 @@
-{"id":73079365,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1,"name":"Gust","desc":"You can activate this card when 1 or more of your Spell Cards are destroyed and sent from the field to the Graveyard by a card effect your opponent controls. Destroy 1 Spell or Trap Card on the field.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":73079365,"pack_id":"CA-17","pack":"CA","rarity":"Gust","date":970099200000},"tcg":{"id":73079365,"pack_id":"PSV-017","pack":"PSV","rarity":"Gust","date":1035072000000}}
+{
+    "id": 73079365,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1,
+    "name": "Gust",
+    "desc": "You can activate this card when 1 or more of your Spell Cards are destroyed and sent from the field to the Graveyard by a card effect your opponent controls. Destroy 1 Spell or Trap Card on the field.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 73079365,
+        "pack_id": "CA-17",
+        "pack": "CA",
+        "rarity": "Gust",
+        "date": 970099200000
+    },
+    "tcg": {
+        "id": 73079365,
+        "pack_id": "PSV-017",
+        "pack": "PSV",
+        "rarity": "Gust",
+        "date": 1035072000000
+    }
+}

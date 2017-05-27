@@ -1,1 +1,47 @@
-{"id":66816282,"ot":3,"alias":0,"setcode":29,"type":33,"atk":1900,"def":1200,"level":4,"race":256,"attribute":1,"category":-2146435061,"name":"Koa'ki Meiru Wall","desc":"During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Rock-Type monster in your hand. During either player's turn, when your opponent activates a Spell Card: You can Tribute this card; negate the activation, and if you do, destroy that card.","str1":"Send \"Iron Core of Koa'ki Meiru\" to the Graveyard","str2":"Reveal 1 Rock-Type monster in your hand","str3":"Destroy｢Koa'ki Meiru Wall｣","str4":"Tribute this card to negate the activation of an opponent's Spell Card and destroy that card","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":66816282,"pack_id":"EXP4-JP028","pack":"EXP4","rarity":"Koa'ki Meiru Wall","date":1316217600000},"tcg":{"id":66816282,"pack_id":"STBL-EN087","pack":"STBL","rarity":"Koa'ki Meiru Wall","date":1289001600000}}
+{
+    "id": 66816282,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 29,
+    "type": 33,
+    "atk": 1900,
+    "def": 1200,
+    "level": 4,
+    "race": 256,
+    "attribute": 1,
+    "category": -2146435061,
+    "name": "Koa'ki Meiru Wall",
+    "desc": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Rock-Type monster in your hand. During either player's turn, when your opponent activates a Spell Card: You can Tribute this card; negate the activation, and if you do, destroy that card.",
+    "str1": "Send \"Iron Core of Koa'ki Meiru\" to the Graveyard",
+    "str2": "Reveal 1 Rock-Type monster in your hand",
+    "str3": "Destroy｢Koa'ki Meiru Wall｣",
+    "str4": "Tribute this card to negate the activation of an opponent's Spell Card and destroy that card",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 66816282,
+        "pack_id": "EXP4-JP028",
+        "pack": "EXP4",
+        "rarity": "Koa'ki Meiru Wall",
+        "date": 1316217600000
+    },
+    "tcg": {
+        "id": 66816282,
+        "pack_id": "STBL-EN087",
+        "pack": "STBL",
+        "rarity": "Koa'ki Meiru Wall",
+        "date": 1289001600000
+    }
+}

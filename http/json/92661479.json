@@ -1,1 +1,47 @@
-{"id":92661479,"ot":3,"alias":0,"setcode":7012437,"type":8388641,"atk":2700,"def":2000,"level":6,"race":1,"attribute":16,"category":-2143289344,"name":"Photon Strike Bounzer","desc":"2 Level 6 monsters\nOnce per turn, during either player's turn, when a monster effect is activated on your opponent's side of the field: You can detach 1 Xyz Material from this card; negate the effect, and if you do, inflict 1000 damage to your opponent.","str1":"Negate effect","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":92661479,"pack_id":"GAOV-JP043","pack":"GAOV","rarity":"Photon Strike Bounzer","date":1329523200000},"tcg":{"id":92661479,"pack_id":"GAOV-EN043","pack":"GAOV","rarity":"Photon Strike Bounzer","date":1335571200000}}
+{
+    "id": 92661479,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 7012437,
+    "type": 8388641,
+    "atk": 2700,
+    "def": 2000,
+    "level": 6,
+    "race": 1,
+    "attribute": 16,
+    "category": -2143289344,
+    "name": "Photon Strike Bounzer",
+    "desc": "2 Level 6 monsters\nOnce per turn, during either player's turn, when a monster effect is activated on your opponent's side of the field: You can detach 1 Xyz Material from this card; negate the effect, and if you do, inflict 1000 damage to your opponent.",
+    "str1": "Negate effect",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 92661479,
+        "pack_id": "GAOV-JP043",
+        "pack": "GAOV",
+        "rarity": "Photon Strike Bounzer",
+        "date": 1329523200000
+    },
+    "tcg": {
+        "id": 92661479,
+        "pack_id": "GAOV-EN043",
+        "pack": "GAOV",
+        "rarity": "Photon Strike Bounzer",
+        "date": 1335571200000
+    }
+}

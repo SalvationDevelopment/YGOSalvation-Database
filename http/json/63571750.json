@@ -1,1 +1,47 @@
-{"id":63571750,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1024,"name":"Pharaoh's Treasure","desc":"After activation, put this card face-up in your Deck and shuffle it. When you draw this card, send it to the Graveyard and add 1 card in your Graveyard (except this card) to your hand.","str1":"回收","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":63571750,"pack_id":"PH-51","pack":"PH","rarity":"Pharaoh's Treasure","date":1016668800000},"tcg":{"id":63571750,"pack_id":"PGD-052","pack":"PGD","rarity":"Pharaoh's Treasure","date":1058486400000}}
+{
+    "id": 63571750,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1024,
+    "name": "Pharaoh's Treasure",
+    "desc": "After activation, put this card face-up in your Deck and shuffle it. When you draw this card, send it to the Graveyard and add 1 card in your Graveyard (except this card) to your hand.",
+    "str1": "回收",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 63571750,
+        "pack_id": "PH-51",
+        "pack": "PH",
+        "rarity": "Pharaoh's Treasure",
+        "date": 1016668800000
+    },
+    "tcg": {
+        "id": 63571750,
+        "pack_id": "PGD-052",
+        "pack": "PGD",
+        "rarity": "Pharaoh's Treasure",
+        "date": 1058486400000
+    }
+}

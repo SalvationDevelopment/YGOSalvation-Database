@@ -1,1 +1,47 @@
-{"id":83021423,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1200,"def":1800,"level":6,"race":1,"attribute":8,"category":1,"name":"Chachaka Archer","desc":"Once per turn: You can target 1 Spell/Trap Card on the field; destroy it.","str1":"Destroy","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":83021423,"pack_id":"VE06-JP002","pack":"VE06","rarity":"Chachaka Archer","date":1319155200000},"tcg":{"id":83021423,"pack_id":"ZTIN-EN021","pack":"ZTIN","rarity":"Chachaka Archer","date":1362614400000}}
+{
+    "id": 83021423,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1200,
+    "def": 1800,
+    "level": 6,
+    "race": 1,
+    "attribute": 8,
+    "category": 1,
+    "name": "Chachaka Archer",
+    "desc": "Once per turn: You can target 1 Spell/Trap Card on the field; destroy it.",
+    "str1": "Destroy",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 83021423,
+        "pack_id": "VE06-JP002",
+        "pack": "VE06",
+        "rarity": "Chachaka Archer",
+        "date": 1319155200000
+    },
+    "tcg": {
+        "id": 83021423,
+        "pack_id": "ZTIN-EN021",
+        "pack": "ZTIN",
+        "rarity": "Chachaka Archer",
+        "date": 1362614400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":21179143,"ot":3,"alias":0,"setcode":60,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":786432,"name":"Reptilianne Spawn","desc":"Remove from play 1 \"Reptilianne\" monster from your Graveyard. Special Summon 2 \"Reptilianne Tokens\" (Reptile-Type/EARTH/Level 1/ATK 0/DEF 0) to your side of the field.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":21179143,"pack_id":"SOVR-JP050","pack":"SOVR","rarity":"Reptilianne Spawn","date":1247875200000},"tcg":{"id":21179143,"pack_id":"SOVR-EN050","pack":"SOVR","rarity":"Reptilianne Spawn","date":1258416000000}}
+{
+    "id": 21179143,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 60,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 786432,
+    "name": "Reptilianne Spawn",
+    "desc": "Remove from play 1 \"Reptilianne\" monster from your Graveyard. Special Summon 2 \"Reptilianne Tokens\" (Reptile-Type/EARTH/Level 1/ATK 0/DEF 0) to your side of the field.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 21179143,
+        "pack_id": "SOVR-JP050",
+        "pack": "SOVR",
+        "rarity": "Reptilianne Spawn",
+        "date": 1247875200000
+    },
+    "tcg": {
+        "id": 21179143,
+        "pack_id": "SOVR-EN050",
+        "pack": "SOVR",
+        "rarity": "Reptilianne Spawn",
+        "date": 1258416000000
+    }
+}

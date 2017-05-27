@@ -1,1 +1,47 @@
-{"id":56387350,"ot":3,"alias":0,"setcode":142,"type":33,"atk":700,"def":1000,"level":3,"race":16,"attribute":32,"category":262144,"name":"Vampire Baby","desc":"At the end of the Battle Phase, if this card destroyed a monster by battle and sent it to the Graveyard this turn: You can Special Summon that monster to your side of the field.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":56387350,"pack_id":"TB-40","pack":"TB","rarity":"Vampire Baby","date":976752000000},"tcg":{"id":56387350,"pack_id":"PSV-090","pack":"PSV","rarity":"Vampire Baby","date":1035072000000}}
+{
+    "id": 56387350,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 142,
+    "type": 33,
+    "atk": 700,
+    "def": 1000,
+    "level": 3,
+    "race": 16,
+    "attribute": 32,
+    "category": 262144,
+    "name": "Vampire Baby",
+    "desc": "At the end of the Battle Phase, if this card destroyed a monster by battle and sent it to the Graveyard this turn: You can Special Summon that monster to your side of the field.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 56387350,
+        "pack_id": "TB-40",
+        "pack": "TB",
+        "rarity": "Vampire Baby",
+        "date": 976752000000
+    },
+    "tcg": {
+        "id": 56387350,
+        "pack_id": "PSV-090",
+        "pack": "PSV",
+        "rarity": "Vampire Baby",
+        "date": 1035072000000
+    }
+}

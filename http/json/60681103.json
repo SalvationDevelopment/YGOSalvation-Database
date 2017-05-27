@@ -1,1 +1,47 @@
-{"id":60681103,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2800,"def":2800,"level":8,"race":8192,"attribute":16,"category":0,"name":"Divine Dragon Lord Felgrand","desc":"If this card is Special Summoned from the Graveyard: You can target 1 monster your opponent controls or in their Graveyard; banish it, and if you do, this card gains ATK and DEF equal to the banished monster's original Level/Rank x 100. If this card destroys an opponent's monster by battle: You can target 1 Level 7 or 8 Dragon-Type monster in the Graveyard, except \"Divine Dragon Lord Felgrand\"; Special Summon it to your field.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":60681103,"pack_id":"SR02-JP001","pack":"SR02","rarity":"Divine Dragon Lord Felgrand","date":1454716800000},"tcg":{"id":60681103,"pack_id":"SR02-EN001","pack":"SR02","rarity":"Divine Dragon Lord Felgrand","date":1467849600000}}
+{
+    "id": 60681103,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2800,
+    "def": 2800,
+    "level": 8,
+    "race": 8192,
+    "attribute": 16,
+    "category": 0,
+    "name": "Divine Dragon Lord Felgrand",
+    "desc": "If this card is Special Summoned from the Graveyard: You can target 1 monster your opponent controls or in their Graveyard; banish it, and if you do, this card gains ATK and DEF equal to the banished monster's original Level/Rank x 100. If this card destroys an opponent's monster by battle: You can target 1 Level 7 or 8 Dragon-Type monster in the Graveyard, except \"Divine Dragon Lord Felgrand\"; Special Summon it to your field.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 60681103,
+        "pack_id": "SR02-JP001",
+        "pack": "SR02",
+        "rarity": "Divine Dragon Lord Felgrand",
+        "date": 1454716800000
+    },
+    "tcg": {
+        "id": 60681103,
+        "pack_id": "SR02-EN001",
+        "pack": "SR02",
+        "rarity": "Divine Dragon Lord Felgrand",
+        "date": 1467849600000
+    }
+}

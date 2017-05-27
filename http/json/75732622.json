@@ -1,1 +1,47 @@
-{"id":75732622,"ot":3,"alias":0,"setcode":0,"type":33,"atk":3000,"def":300,"level":8,"race":8,"attribute":32,"category":786432,"name":"Grinder Golem","desc":"Cannot be Normal Summoned or Set. Must first be Special Summoned (from your hand) to your opponent's side of the field by Special Summoning 2 \"Grinder Tokens\" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0) in face-up Attack Position on your side of the field. If you Special Summon this monster, you cannot Normal Summon or Set a monster during the same turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":75732622,"pack_id":"DP07-JP011","pack":"DP07","rarity":"Grinder Golem","date":1192838400000},"tcg":{"id":75732622,"pack_id":"DP07-EN009","pack":"DP07","rarity":"Grinder Golem","date":1201305600000}}
+{
+    "id": 75732622,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 3000,
+    "def": 300,
+    "level": 8,
+    "race": 8,
+    "attribute": 32,
+    "category": 786432,
+    "name": "Grinder Golem",
+    "desc": "Cannot be Normal Summoned or Set. Must first be Special Summoned (from your hand) to your opponent's side of the field by Special Summoning 2 \"Grinder Tokens\" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0) in face-up Attack Position on your side of the field. If you Special Summon this monster, you cannot Normal Summon or Set a monster during the same turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 75732622,
+        "pack_id": "DP07-JP011",
+        "pack": "DP07",
+        "rarity": "Grinder Golem",
+        "date": 1192838400000
+    },
+    "tcg": {
+        "id": 75732622,
+        "pack_id": "DP07-EN009",
+        "pack": "DP07",
+        "rarity": "Grinder Golem",
+        "date": 1201305600000
+    }
+}

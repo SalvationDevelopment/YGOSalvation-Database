@@ -1,1 +1,47 @@
-{"id":98301564,"ot":3,"alias":0,"setcode":0,"type":16777249,"atk":1700,"def":800,"level":50528260,"race":4,"attribute":16,"category":0,"name":"Guiding Ariadne","desc":"Pendulum Effect\nApply these effects.\n● You do not pay LP to activate Counter Trap Cards.\n● You do not discard to activate Counter Trap Cards.\n\nMonster Effect\nIf this card is destroyed by battle or card effect: You can reveal 3 Counter Trap Cards from your Deck, your opponent chooses 1 for you to add to your hand, and you shuffle the rest back into your Deck.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":98301564,"pack_id":"BOSH-JP036","pack":"BOSH","rarity":"Guiding Ariadne","date":1445040000000},"tcg":{"id":98301564,"pack_id":"BOSH-EN036","pack":"BOSH","rarity":"Guiding Ariadne","date":1452729600000}}
+{
+    "id": 98301564,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 16777249,
+    "atk": 1700,
+    "def": 800,
+    "level": 50528260,
+    "race": 4,
+    "attribute": 16,
+    "category": 0,
+    "name": "Guiding Ariadne",
+    "desc": "Pendulum Effect\nApply these effects.\n● You do not pay LP to activate Counter Trap Cards.\n● You do not discard to activate Counter Trap Cards.\n\nMonster Effect\nIf this card is destroyed by battle or card effect: You can reveal 3 Counter Trap Cards from your Deck, your opponent chooses 1 for you to add to your hand, and you shuffle the rest back into your Deck.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 98301564,
+        "pack_id": "BOSH-JP036",
+        "pack": "BOSH",
+        "rarity": "Guiding Ariadne",
+        "date": 1445040000000
+    },
+    "tcg": {
+        "id": 98301564,
+        "pack_id": "BOSH-EN036",
+        "pack": "BOSH",
+        "rarity": "Guiding Ariadne",
+        "date": 1452729600000
+    }
+}

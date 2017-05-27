@@ -1,1 +1,47 @@
-{"id":74117290,"ot":3,"alias":0,"setcode":6,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":328,"name":"Dark World Dealings","desc":"Each player draws 1 card, then each player discards 1 card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":74117290,"pack_id":"STON-JP038","pack":"STON","rarity":"Dark World Dealings","date":1163635200000},"tcg":{"id":74117290,"pack_id":"STON-EN038","pack":"STON","rarity":"Dark World Dealings","date":1172620800000}}
+{
+    "id": 74117290,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 6,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 328,
+    "name": "Dark World Dealings",
+    "desc": "Each player draws 1 card, then each player discards 1 card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 74117290,
+        "pack_id": "STON-JP038",
+        "pack": "STON",
+        "rarity": "Dark World Dealings",
+        "date": 1163635200000
+    },
+    "tcg": {
+        "id": 74117290,
+        "pack_id": "STON-EN038",
+        "pack": "STON",
+        "rarity": "Dark World Dealings",
+        "date": 1172620800000
+    }
+}

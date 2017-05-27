@@ -1,1 +1,47 @@
-{"id":67111213,"ot":3,"alias":0,"setcode":7667770,"type":33,"atk":800,"def":500,"level":2,"race":131072,"attribute":2,"category":512,"name":"Gishki Abyss","desc":"When this card is Summoned: You can add 1 \"Gishki\" monster with 1000 or less DEF from your Deck to your hand, except \"Gishki Abyss\".","str1":"Add to hand","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":67111213,"pack_id":"DT10-JP014","pack":"デュエルターミナル 「インヴェルズの侵略！！」","rarity":"共通","date":1280808000000},"tcg":{"id":67111213,"pack_id":"DT05-EN064","pack":"DT05","rarity":"Gishki Abyss","date":1317254400000}}
+{
+    "id": 67111213,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 7667770,
+    "type": 33,
+    "atk": 800,
+    "def": 500,
+    "level": 2,
+    "race": 131072,
+    "attribute": 2,
+    "category": 512,
+    "name": "Gishki Abyss",
+    "desc": "When this card is Summoned: You can add 1 \"Gishki\" monster with 1000 or less DEF from your Deck to your hand, except \"Gishki Abyss\".",
+    "str1": "Add to hand",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 67111213,
+        "pack_id": "DT10-JP014",
+        "pack": "デュエルターミナル 「インヴェルズの侵略！！」",
+        "rarity": "共通",
+        "date": 1280808000000
+    },
+    "tcg": {
+        "id": 67111213,
+        "pack_id": "DT05-EN064",
+        "pack": "DT05",
+        "rarity": "Gishki Abyss",
+        "date": 1317254400000
+    }
+}

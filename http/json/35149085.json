@@ -1,1 +1,47 @@
-{"id":35149085,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262160,"name":"Beast Soul Swap","desc":"Target 1 Beast-Type monster you control; return it to the hand, and if you do, Special Summon 1 Beast-Type monster from your hand with the same Level as the monster that was returned to the hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":35149085,"pack_id":"FET-JP055","pack":"FET","rarity":"Beast Soul Swap","date":1101340800000},"tcg":{"id":35149085,"pack_id":"FET-EN055","pack":"FET","rarity":"Beast Soul Swap","date":1109376000000}}
+{
+    "id": 35149085,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262160,
+    "name": "Beast Soul Swap",
+    "desc": "Target 1 Beast-Type monster you control; return it to the hand, and if you do, Special Summon 1 Beast-Type monster from your hand with the same Level as the monster that was returned to the hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 35149085,
+        "pack_id": "FET-JP055",
+        "pack": "FET",
+        "rarity": "Beast Soul Swap",
+        "date": 1101340800000
+    },
+    "tcg": {
+        "id": 35149085,
+        "pack_id": "FET-EN055",
+        "pack": "FET",
+        "rarity": "Beast Soul Swap",
+        "date": 1109376000000
+    }
+}

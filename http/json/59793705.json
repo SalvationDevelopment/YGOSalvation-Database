@@ -1,1 +1,47 @@
-{"id":59793705,"ot":3,"alias":0,"setcode":12296,"type":33,"atk":2600,"def":1800,"level":7,"race":1,"attribute":1,"category":16384,"name":"Elemental HERO Bladedge","desc":"If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":59793705,"pack_id":"EEN-JP007","pack":"EEN","rarity":"Elemental HERO Bladedge","date":1123718400000},"tcg":{"id":59793705,"pack_id":"EEN-EN007","pack":"EEN","rarity":"Elemental HERO Bladedge","date":1131148800000}}
+{
+    "id": 59793705,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 12296,
+    "type": 33,
+    "atk": 2600,
+    "def": 1800,
+    "level": 7,
+    "race": 1,
+    "attribute": 1,
+    "category": 16384,
+    "name": "Elemental HERO Bladedge",
+    "desc": "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 59793705,
+        "pack_id": "EEN-JP007",
+        "pack": "EEN",
+        "rarity": "Elemental HERO Bladedge",
+        "date": 1123718400000
+    },
+    "tcg": {
+        "id": 59793705,
+        "pack_id": "EEN-EN007",
+        "pack": "EEN",
+        "rarity": "Elemental HERO Bladedge",
+        "date": 1131148800000
+    }
+}

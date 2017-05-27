@@ -1,1 +1,47 @@
-{"id":14735698,"ot":3,"alias":0,"setcode":180,"type":130,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Nekroz Mirror","desc":"This card can be used to Ritual Summon any \"Nekroz\" Ritual Monster. Tribute monsters from your hand or field, and/or banish \"Nekroz\" monsters from your Graveyard, then Ritual Summon 1 \"Nekroz\" Ritual Monster from your hand whose Level exactly equals the total Levels of those monsters. You can only use this effect of \"Nekroz Mirror\" once per turn. If you control no monsters: You can banish this card and 1 \"Nekroz\" monster from your Graveyard; add 1 \"Nekroz\" Spell Card from your Deck to your hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":14735698,"pack_id":"SPTR-JP020","pack":"SPTR","rarity":"Nekroz Mirror","date":1412985600000},"tcg":{"id":14735698,"pack_id":"THSF-EN020","pack":"THSF","rarity":"Nekroz Mirror","date":1423785600000}}
+{
+    "id": 14735698,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 180,
+    "type": 130,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Nekroz Mirror",
+    "desc": "This card can be used to Ritual Summon any \"Nekroz\" Ritual Monster. Tribute monsters from your hand or field, and/or banish \"Nekroz\" monsters from your Graveyard, then Ritual Summon 1 \"Nekroz\" Ritual Monster from your hand whose Level exactly equals the total Levels of those monsters. You can only use this effect of \"Nekroz Mirror\" once per turn. If you control no monsters: You can banish this card and 1 \"Nekroz\" monster from your Graveyard; add 1 \"Nekroz\" Spell Card from your Deck to your hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 14735698,
+        "pack_id": "SPTR-JP020",
+        "pack": "SPTR",
+        "rarity": "Nekroz Mirror",
+        "date": 1412985600000
+    },
+    "tcg": {
+        "id": 14735698,
+        "pack_id": "THSF-EN020",
+        "pack": "THSF",
+        "rarity": "Nekroz Mirror",
+        "date": 1423785600000
+    }
+}

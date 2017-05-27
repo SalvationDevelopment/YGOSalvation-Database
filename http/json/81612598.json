@@ -1,1 +1,47 @@
-{"id":81612598,"ot":3,"alias":0,"setcode":225,"type":65,"atk":2500,"def":2500,"level":5,"race":1048576,"attribute":4,"category":0,"name":"Metalfoes Adamante","desc":"1 \"Metalfoes\" monster + 1 monster with 2500 or less ATK","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":81612598,"pack_id":"TDIL-JP043","pack":"TDIL","rarity":"Metalfoes Adamante","date":1460160000000},"tcg":{"id":81612598,"pack_id":"TDIL-EN043","pack":"TDIL","rarity":"Metalfoes Adamante","date":1470268800000}}
+{
+    "id": 81612598,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 225,
+    "type": 65,
+    "atk": 2500,
+    "def": 2500,
+    "level": 5,
+    "race": 1048576,
+    "attribute": 4,
+    "category": 0,
+    "name": "Metalfoes Adamante",
+    "desc": "1 \"Metalfoes\" monster + 1 monster with 2500 or less ATK",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 81612598,
+        "pack_id": "TDIL-JP043",
+        "pack": "TDIL",
+        "rarity": "Metalfoes Adamante",
+        "date": 1460160000000
+    },
+    "tcg": {
+        "id": 81612598,
+        "pack_id": "TDIL-EN043",
+        "pack": "TDIL",
+        "rarity": "Metalfoes Adamante",
+        "date": 1470268800000
+    }
+}

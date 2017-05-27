@@ -1,1 +1,47 @@
-{"id":89997728,"ot":3,"alias":0,"setcode":98,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":512,"name":"Toon Table of Contents","desc":"Add 1 \"Toon\" card or \"Manga Ryu-Ran\" from your Deck to your hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":89997728,"pack_id":"PE-37","pack":"PE","rarity":"Toon Table of Contents","date":1016668800000},"tcg":{"id":89997728,"pack_id":"TP6-EN002","pack":"TP6","rarity":"Toon Table of Contents","date":1117584000000}}
+{
+    "id": 89997728,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 98,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 512,
+    "name": "Toon Table of Contents",
+    "desc": "Add 1 \"Toon\" card or \"Manga Ryu-Ran\" from your Deck to your hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 89997728,
+        "pack_id": "PE-37",
+        "pack": "PE",
+        "rarity": "Toon Table of Contents",
+        "date": 1016668800000
+    },
+    "tcg": {
+        "id": 89997728,
+        "pack_id": "TP6-EN002",
+        "pack": "TP6",
+        "rarity": "Toon Table of Contents",
+        "date": 1117584000000
+    }
+}

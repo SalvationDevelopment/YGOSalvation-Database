@@ -1,1 +1,47 @@
-{"id":66399675,"ot":3,"alias":0,"setcode":58,"type":33,"atk":1800,"def":1000,"level":4,"race":262144,"attribute":2,"category":512,"name":"Gishki Chain","desc":"If this card is Normal Summoned: Look at the top 3 cards of your Deck, you can reveal 1 Ritual Monster or 1 Ritual Spell Card among them and add it to your hand, also after that, place any remaining cards on the top of your Deck in any order.","str1":"Confirm card group","str2":"Reveal a Ritual Monster of Ritual Spell card?","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":66399675,"pack_id":"DT10-JP017","pack":"DT10","rarity":"Gishki Chain","date":1361836800000},"tcg":{"id":66399675,"pack_id":"DT05-EN067","pack":"DT05","rarity":"Gishki Chain","date":1317254400000}}
+{
+    "id": 66399675,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 58,
+    "type": 33,
+    "atk": 1800,
+    "def": 1000,
+    "level": 4,
+    "race": 262144,
+    "attribute": 2,
+    "category": 512,
+    "name": "Gishki Chain",
+    "desc": "If this card is Normal Summoned: Look at the top 3 cards of your Deck, you can reveal 1 Ritual Monster or 1 Ritual Spell Card among them and add it to your hand, also after that, place any remaining cards on the top of your Deck in any order.",
+    "str1": "Confirm card group",
+    "str2": "Reveal a Ritual Monster of Ritual Spell card?",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 66399675,
+        "pack_id": "DT10-JP017",
+        "pack": "DT10",
+        "rarity": "Gishki Chain",
+        "date": 1361836800000
+    },
+    "tcg": {
+        "id": 66399675,
+        "pack_id": "DT05-EN067",
+        "pack": "DT05",
+        "rarity": "Gishki Chain",
+        "date": 1317254400000
+    }
+}

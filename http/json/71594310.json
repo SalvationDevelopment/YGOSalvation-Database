@@ -1,1 +1,47 @@
-{"id":71594310,"ot":3,"alias":0,"setcode":4167,"type":8388609,"atk":2600,"def":1900,"level":4,"race":256,"attribute":1,"category":0,"name":"Gem-Knight Pearl","desc":"2 Level 4 monsters","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":71594310,"pack_id":"DT12-JP036","pack":"DT12","rarity":"Gem-Knight Pearl","date":1301616000000},"tcg":{"id":71594310,"pack_id":"BP01-EN031","pack":"BP01","rarity":"Gem-Knight Pearl","date":1337817600000}}
+{
+    "id": 71594310,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4167,
+    "type": 8388609,
+    "atk": 2600,
+    "def": 1900,
+    "level": 4,
+    "race": 256,
+    "attribute": 1,
+    "category": 0,
+    "name": "Gem-Knight Pearl",
+    "desc": "2 Level 4 monsters",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 71594310,
+        "pack_id": "DT12-JP036",
+        "pack": "DT12",
+        "rarity": "Gem-Knight Pearl",
+        "date": 1301616000000
+    },
+    "tcg": {
+        "id": 71594310,
+        "pack_id": "BP01-EN031",
+        "pack": "BP01",
+        "rarity": "Gem-Knight Pearl",
+        "date": 1337817600000
+    }
+}

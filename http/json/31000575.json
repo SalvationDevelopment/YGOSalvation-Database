@@ -1,1 +1,47 @@
-{"id":31000575,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Conscription","desc":"Excavate the top card of your opponent's Deck, and if it is a monster that can be Normal Summoned/Set, Special Summon it to your side of the field. Otherwise, add that card to your opponent's hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":31000575,"pack_id":"CRV-JP058","pack":"CRV","rarity":"Conscription","date":1190419200000},"tcg":{"id":31000575,"pack_id":"CRV-EN058","pack":"CRV","rarity":"Conscription","date":1123286400000}}
+{
+    "id": 31000575,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Conscription",
+    "desc": "Excavate the top card of your opponent's Deck, and if it is a monster that can be Normal Summoned/Set, Special Summon it to your side of the field. Otherwise, add that card to your opponent's hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 31000575,
+        "pack_id": "CRV-JP058",
+        "pack": "CRV",
+        "rarity": "Conscription",
+        "date": 1190419200000
+    },
+    "tcg": {
+        "id": 31000575,
+        "pack_id": "CRV-EN058",
+        "pack": "CRV",
+        "rarity": "Conscription",
+        "date": 1123286400000
+    }
+}

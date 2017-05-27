@@ -1,1 +1,47 @@
-{"id":88901771,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1800,"def":1800,"level":4,"race":2,"attribute":16,"category":0,"name":"Skilled Blue Magician","desc":"Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves (max. 3). You can Tribute this card with 3 Spell Counters on it; Special Summon 1 \"Gaia The Fierce Knight\" monster from your hand, Deck, or Graveyard. You can banish this card from your Graveyard, then target 1 card you control that you can place a Spell Counter on; place 1 Spell Counter on it.","str1":"Special Summon 1 \"Gaia The Fierce Knight\"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":88901771,"pack_id":"SECE-JP032","pack":"SECE","rarity":"Skilled Blue Magician","date":1416009600000},"tcg":{"id":88901771,"pack_id":"SECE-EN032","pack":"SECE","rarity":"Skilled Blue Magician","date":1421280000000}}
+{
+    "id": 88901771,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1800,
+    "def": 1800,
+    "level": 4,
+    "race": 2,
+    "attribute": 16,
+    "category": 0,
+    "name": "Skilled Blue Magician",
+    "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves (max. 3). You can Tribute this card with 3 Spell Counters on it; Special Summon 1 \"Gaia The Fierce Knight\" monster from your hand, Deck, or Graveyard. You can banish this card from your Graveyard, then target 1 card you control that you can place a Spell Counter on; place 1 Spell Counter on it.",
+    "str1": "Special Summon 1 \"Gaia The Fierce Knight\"",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 88901771,
+        "pack_id": "SECE-JP032",
+        "pack": "SECE",
+        "rarity": "Skilled Blue Magician",
+        "date": 1416009600000
+    },
+    "tcg": {
+        "id": 88901771,
+        "pack_id": "SECE-EN032",
+        "pack": "SECE",
+        "rarity": "Skilled Blue Magician",
+        "date": 1421280000000
+    }
+}

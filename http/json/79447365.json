@@ -1,1 +1,47 @@
-{"id":79447365,"ot":3,"alias":0,"setcode":98,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Toon Mask","desc":"If you control \"Toon World\": Target 1 face-up monster your opponent controls; Special Summon 1 Toon monster from your hand or Deck, whose Level is less than or equal to the Level/Rank of that monster, ignoring its Summoning conditions.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":79447365,"pack_id":"CPD1-JP028","pack":"CPD1","rarity":"Toon Mask","date":1431734400000},"tcg":{"id":79447365,"pack_id":"DRL2-EN028","pack":"DRL2","rarity":"Toon Mask","date":1437004800000}}
+{
+    "id": 79447365,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 98,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Toon Mask",
+    "desc": "If you control \"Toon World\": Target 1 face-up monster your opponent controls; Special Summon 1 Toon monster from your hand or Deck, whose Level is less than or equal to the Level/Rank of that monster, ignoring its Summoning conditions.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 79447365,
+        "pack_id": "CPD1-JP028",
+        "pack": "CPD1",
+        "rarity": "Toon Mask",
+        "date": 1431734400000
+    },
+    "tcg": {
+        "id": 79447365,
+        "pack_id": "DRL2-EN028",
+        "pack": "DRL2",
+        "rarity": "Toon Mask",
+        "date": 1437004800000
+    }
+}

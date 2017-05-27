@@ -1,1 +1,47 @@
-{"id":18239909,"ot":3,"alias":0,"setcode":199,"type":8225,"atk":2850,"def":0,"level":8,"race":8192,"attribute":4,"category":0,"name":"Ignister Prominence, the Blasting Dracoslayer","desc":"1 Tuner + 1 or more non-Tuner Pendulum Monsters\nOnce per turn: You can target 1 Pendulum Monster on the field or 1 card in the Pendulum Zone; destroy it, and if you do, shuffle 1 card on the field into the Deck. Once per turn: You can Special Summon 1 \"Dracoslayer\" monster from your Deck in Defense Position, but it cannot be used as a Synchro Material for a Summon.","str1":"Destroy 1 Pendulum Monster","str2":"Special Summon 1 \"Dragoknight\" monster from your Deck","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":18239909,"pack_id":"CORE-JP050","pack":"CORE","rarity":"Ignister Prominence, the Blasting Dracoslayer","date":1429920000000},"tcg":{"id":18239909,"pack_id":"CORE-EN050","pack":"CORE","rarity":"Ignister Prominence, the Blasting Dracoslayer","date":1438819200000}}
+{
+    "id": 18239909,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 199,
+    "type": 8225,
+    "atk": 2850,
+    "def": 0,
+    "level": 8,
+    "race": 8192,
+    "attribute": 4,
+    "category": 0,
+    "name": "Ignister Prominence, the Blasting Dracoslayer",
+    "desc": "1 Tuner + 1 or more non-Tuner Pendulum Monsters\nOnce per turn: You can target 1 Pendulum Monster on the field or 1 card in the Pendulum Zone; destroy it, and if you do, shuffle 1 card on the field into the Deck. Once per turn: You can Special Summon 1 \"Dracoslayer\" monster from your Deck in Defense Position, but it cannot be used as a Synchro Material for a Summon.",
+    "str1": "Destroy 1 Pendulum Monster",
+    "str2": "Special Summon 1 \"Dragoknight\" monster from your Deck",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 18239909,
+        "pack_id": "CORE-JP050",
+        "pack": "CORE",
+        "rarity": "Ignister Prominence, the Blasting Dracoslayer",
+        "date": 1429920000000
+    },
+    "tcg": {
+        "id": 18239909,
+        "pack_id": "CORE-EN050",
+        "pack": "CORE",
+        "rarity": "Ignister Prominence, the Blasting Dracoslayer",
+        "date": 1438819200000
+    }
+}

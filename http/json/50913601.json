@@ -1,1 +1,47 @@
-{"id":50913601,"ot":3,"alias":0,"setcode":0,"type":524290,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1056768,"name":"Mountain","desc":"Increase the ATK and DEF of all Dragon, Winged Beast, and Thunder-Type monsters by 200 points.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":50913601,"pack_id":"LB-47","pack":"LB","rarity":"Mountain","date":920678400000},"tcg":{"id":50913601,"pack_id":"LOB-048","pack":"LOB","rarity":"Mountain","date":1015545600000}}
+{
+    "id": 50913601,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 524290,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1056768,
+    "name": "Mountain",
+    "desc": "Increase the ATK and DEF of all Dragon, Winged Beast, and Thunder-Type monsters by 200 points.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 50913601,
+        "pack_id": "LB-47",
+        "pack": "LB",
+        "rarity": "Mountain",
+        "date": 920678400000
+    },
+    "tcg": {
+        "id": 50913601,
+        "pack_id": "LOB-048",
+        "pack": "LOB",
+        "rarity": "Mountain",
+        "date": 1015545600000
+    }
+}

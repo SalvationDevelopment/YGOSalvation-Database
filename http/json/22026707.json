@@ -1,1 +1,47 @@
-{"id":22026707,"ot":3,"alias":0,"setcode":0,"type":17,"atk":600,"def":500,"level":2,"race":2,"attribute":32,"category":0,"name":"Curtain of the Dark Ones","desc":"A curtain that a spellcaster made, it is said to raise a dark power.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":22026707,"pack_id":"","pack":"","rarity":"Curtain of the Dark Ones","date":918086400000},"tcg":{"id":22026707,"pack_id":"AP03-EN014","pack":"AP03","rarity":"Curtain of the Dark Ones","date":1379030400000}}
+{
+    "id": 22026707,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 600,
+    "def": 500,
+    "level": 2,
+    "race": 2,
+    "attribute": 32,
+    "category": 0,
+    "name": "Curtain of the Dark Ones",
+    "desc": "A curtain that a spellcaster made, it is said to raise a dark power.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 22026707,
+        "pack_id": "",
+        "pack": "",
+        "rarity": "Curtain of the Dark Ones",
+        "date": 918086400000
+    },
+    "tcg": {
+        "id": 22026707,
+        "pack_id": "AP03-EN014",
+        "pack": "AP03",
+        "rarity": "Curtain of the Dark Ones",
+        "date": 1379030400000
+    }
+}

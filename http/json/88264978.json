@@ -1,1 +1,47 @@
-{"id":88264978,"ot":3,"alias":0,"setcode":59,"type":33,"atk":2800,"def":2400,"level":10,"race":8192,"attribute":32,"category":1310724,"name":"Red-Eyes Darkness Metal Dragon","desc":"You can Special Summon this card (from your hand) by banishing 1 face-up Dragon-Type monster you control. Once per turn: You can Special Summon 1 Dragon-Type monster from your hand or Graveyard, except \"Red-Eyes Darkness Metal Dragon\".","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":88264978,"pack_id":"LE11-JP001","pack":"LE11","rarity":"Red-Eyes Darkness Metal Dragon","date":1192838400000},"tcg":{"id":88264978,"pack_id":"JUMP-EN030","pack":"JUMP","rarity":"Red-Eyes Darkness Metal Dragon","date":1233446400000}}
+{
+    "id": 88264978,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 59,
+    "type": 33,
+    "atk": 2800,
+    "def": 2400,
+    "level": 10,
+    "race": 8192,
+    "attribute": 32,
+    "category": 1310724,
+    "name": "Red-Eyes Darkness Metal Dragon",
+    "desc": "You can Special Summon this card (from your hand) by banishing 1 face-up Dragon-Type monster you control. Once per turn: You can Special Summon 1 Dragon-Type monster from your hand or Graveyard, except \"Red-Eyes Darkness Metal Dragon\".",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 88264978,
+        "pack_id": "LE11-JP001",
+        "pack": "LE11",
+        "rarity": "Red-Eyes Darkness Metal Dragon",
+        "date": 1192838400000
+    },
+    "tcg": {
+        "id": 88264978,
+        "pack_id": "JUMP-EN030",
+        "pack": "JUMP",
+        "rarity": "Red-Eyes Darkness Metal Dragon",
+        "date": 1233446400000
+    }
+}

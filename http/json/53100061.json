@@ -1,1 +1,47 @@
-{"id":53100061,"ot":3,"alias":0,"setcode":4109,"type":33,"atk":400,"def":100,"level":1,"race":32768,"attribute":1,"category":256,"name":"X-Saber Axel","desc":"While you control this face-up card, when a \"Saber\" monster is destroyed by battle and sent to the Graveyard, draw 1 card.","str1":"Draw card","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":53100061,"pack_id":"DT01-JP019","pack":"DT01","rarity":"X-Saber Axel","date":1207958400000},"tcg":{"id":53100061,"pack_id":"HA01-EN010","pack":"HA01","rarity":"X-Saber Axel","date":1257379200000}}
+{
+    "id": 53100061,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4109,
+    "type": 33,
+    "atk": 400,
+    "def": 100,
+    "level": 1,
+    "race": 32768,
+    "attribute": 1,
+    "category": 256,
+    "name": "X-Saber Axel",
+    "desc": "While you control this face-up card, when a \"Saber\" monster is destroyed by battle and sent to the Graveyard, draw 1 card.",
+    "str1": "Draw card",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 53100061,
+        "pack_id": "DT01-JP019",
+        "pack": "DT01",
+        "rarity": "X-Saber Axel",
+        "date": 1207958400000
+    },
+    "tcg": {
+        "id": 53100061,
+        "pack_id": "HA01-EN010",
+        "pack": "HA01",
+        "rarity": "X-Saber Axel",
+        "date": 1257379200000
+    }
+}

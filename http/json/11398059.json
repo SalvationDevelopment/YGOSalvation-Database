@@ -1,1 +1,47 @@
-{"id":11398059,"ot":3,"alias":0,"setcode":0,"type":8388641,"atk":2300,"def":2000,"level":4,"race":524288,"attribute":32,"category":512,"name":"King of the Feral Imps","desc":"2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; add 1 Reptile-Type monster from your Deck to your hand.","str1":"Add to hand","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":11398059,"pack_id":"LTGY-JP056","pack":"LTGY","rarity":"King of the Feral Imps","date":1360972800000},"tcg":{"id":11398059,"pack_id":"LTGY-EN056","pack":"LTGY","rarity":"King of the Feral Imps","date":1368748800000}}
+{
+    "id": 11398059,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8388641,
+    "atk": 2300,
+    "def": 2000,
+    "level": 4,
+    "race": 524288,
+    "attribute": 32,
+    "category": 512,
+    "name": "King of the Feral Imps",
+    "desc": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; add 1 Reptile-Type monster from your Deck to your hand.",
+    "str1": "Add to hand",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 11398059,
+        "pack_id": "LTGY-JP056",
+        "pack": "LTGY",
+        "rarity": "King of the Feral Imps",
+        "date": 1360972800000
+    },
+    "tcg": {
+        "id": 11398059,
+        "pack_id": "LTGY-EN056",
+        "pack": "LTGY",
+        "rarity": "King of the Feral Imps",
+        "date": 1368748800000
+    }
+}

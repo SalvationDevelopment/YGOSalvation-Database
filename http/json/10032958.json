@@ -1,1 +1,47 @@
-{"id":10032958,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1500,"def":900,"level":5,"race":8192,"attribute":16,"category":4235264,"name":"Divine Dragon - Excelion","desc":"When this card is Normal Summoned, it gets 1 of the following effects for each \"Divine Dragon - Excelion\" in your Graveyard when this effect resolves (your choice). These effects cannot accumulate. ● This card gains 1000 ATK. ● If this card destroys your opponent's monster by battle, it can attack once again in a row. ● When this card destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the ATK of the destroyed monster.","str1":"Gain effect","str2":"This card gains 1000 ATK","str3":"If this card destroys your opponent's monster by battle, it can attack once again in a row","str4":"When this card destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the ATK of the destroyed monster","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":10032958,"pack_id":"SOI-JP033","pack":"SOI","rarity":"Divine Dragon - Excelion","date":1132185600000},"tcg":{"id":10032958,"pack_id":"SOI-EN033","pack":"SOI","rarity":"Divine Dragon - Excelion","date":1140220800000}}
+{
+    "id": 10032958,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1500,
+    "def": 900,
+    "level": 5,
+    "race": 8192,
+    "attribute": 16,
+    "category": 4235264,
+    "name": "Divine Dragon - Excelion",
+    "desc": "When this card is Normal Summoned, it gets 1 of the following effects for each \"Divine Dragon - Excelion\" in your Graveyard when this effect resolves (your choice). These effects cannot accumulate. ● This card gains 1000 ATK. ● If this card destroys your opponent's monster by battle, it can attack once again in a row. ● When this card destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the ATK of the destroyed monster.",
+    "str1": "Gain effect",
+    "str2": "This card gains 1000 ATK",
+    "str3": "If this card destroys your opponent's monster by battle, it can attack once again in a row",
+    "str4": "When this card destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the ATK of the destroyed monster",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 10032958,
+        "pack_id": "SOI-JP033",
+        "pack": "SOI",
+        "rarity": "Divine Dragon - Excelion",
+        "date": 1132185600000
+    },
+    "tcg": {
+        "id": 10032958,
+        "pack_id": "SOI-EN033",
+        "pack": "SOI",
+        "rarity": "Divine Dragon - Excelion",
+        "date": 1140220800000
+    }
+}

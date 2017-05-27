@@ -1,1 +1,47 @@
-{"id":76614003,"ot":3,"alias":0,"setcode":0,"type":4129,"atk":1000,"def":1300,"level":2,"race":8,"attribute":32,"category":0,"name":"Dark Tinker","desc":"When this card you control is sent to the Graveyard, look at the top card of your Deck. Return that card to either the top or the bottom of the Deck.","str1":"Confirm","str2":"Return to the top of the deck","str3":"Return to the bottom of the deck","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":76614003,"pack_id":"CRMS-JP007","pack":"CRMS","rarity":"Dark Tinker","date":1239840000000},"tcg":{"id":76614003,"pack_id":"CRMS-EN007","pack":"CRMS","rarity":"Dark Tinker","date":1235779200000}}
+{
+    "id": 76614003,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4129,
+    "atk": 1000,
+    "def": 1300,
+    "level": 2,
+    "race": 8,
+    "attribute": 32,
+    "category": 0,
+    "name": "Dark Tinker",
+    "desc": "When this card you control is sent to the Graveyard, look at the top card of your Deck. Return that card to either the top or the bottom of the Deck.",
+    "str1": "Confirm",
+    "str2": "Return to the top of the deck",
+    "str3": "Return to the bottom of the deck",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 76614003,
+        "pack_id": "CRMS-JP007",
+        "pack": "CRMS",
+        "rarity": "Dark Tinker",
+        "date": 1239840000000
+    },
+    "tcg": {
+        "id": 76614003,
+        "pack_id": "CRMS-EN007",
+        "pack": "CRMS",
+        "rarity": "Dark Tinker",
+        "date": 1235779200000
+    }
+}

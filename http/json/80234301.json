@@ -1,1 +1,47 @@
-{"id":80234301,"ot":3,"alias":0,"setcode":0,"type":17,"atk":800,"def":1000,"level":3,"race":256,"attribute":16,"category":0,"name":"Prisman","desc":"This crystalline monster focuses light to create a lethal laser.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":80234301,"pack_id":null,"pack":"Vol.6","rarity":"共通","date":942901200000},"tcg":{"id":80234301,"pack_id":"TP7-EN017","pack":"Tournament Pack 7","rarity":"Common","date":1130817600000}}
+{
+    "id": 80234301,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 800,
+    "def": 1000,
+    "level": 3,
+    "race": 256,
+    "attribute": 16,
+    "category": 0,
+    "name": "Prisman",
+    "desc": "This crystalline monster focuses light to create a lethal laser.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 80234301,
+        "pack_id": null,
+        "pack": "Vol.6",
+        "rarity": "共通",
+        "date": 942901200000
+    },
+    "tcg": {
+        "id": 80234301,
+        "pack_id": "TP7-EN017",
+        "pack": "Tournament Pack 7",
+        "rarity": "Common",
+        "date": 1130817600000
+    }
+}

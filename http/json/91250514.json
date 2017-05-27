@@ -1,1 +1,47 @@
-{"id":91250514,"ot":3,"alias":0,"setcode":0,"type":33,"atk":400,"def":300,"level":6,"race":8,"attribute":32,"category":260,"name":"Tongue Twister","desc":"If this card was Tribute Summoned, when it is sent from the field to the Graveyard, draw 2 cards and remove this card from play.","str1":"Draw card","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":91250514,"pack_id":"EXP1-JP018","pack":"EXP1","rarity":"Tongue Twister","date":1221264000000},"tcg":{"id":91250514,"pack_id":"GLAS-EN085","pack":"GLAS","rarity":"Tongue Twister","date":1194998400000}}
+{
+    "id": 91250514,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 400,
+    "def": 300,
+    "level": 6,
+    "race": 8,
+    "attribute": 32,
+    "category": 260,
+    "name": "Tongue Twister",
+    "desc": "If this card was Tribute Summoned, when it is sent from the field to the Graveyard, draw 2 cards and remove this card from play.",
+    "str1": "Draw card",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 91250514,
+        "pack_id": "EXP1-JP018",
+        "pack": "EXP1",
+        "rarity": "Tongue Twister",
+        "date": 1221264000000
+    },
+    "tcg": {
+        "id": 91250514,
+        "pack_id": "GLAS-EN085",
+        "pack": "GLAS",
+        "rarity": "Tongue Twister",
+        "date": 1194998400000
+    }
+}

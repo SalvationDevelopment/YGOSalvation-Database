@@ -1,1 +1,47 @@
-{"id":64063868,"ot":3,"alias":0,"setcode":210,"type":33,"atk":3000,"def":2600,"level":9,"race":32,"attribute":32,"category":0,"name":"Kozmo Dark Eclipser","desc":"Cannot be targeted by an opponent's card effects. During either player's turn, when a Trap Card is activated: You can banish 1 \"Kozmo\" monster from your Graveyard; negate the activation, and if you do, destroy that card. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; add 1 Level 8 or lower \"Kozmo\" monster from your Deck to your hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":64063868,"pack_id":"EP16-JP012","pack":"EP16","rarity":"Kozmo Dark Eclipser","date":1473465600000},"tcg":{"id":64063868,"pack_id":"BOSH-EN085","pack":"BOSH","rarity":"Kozmo Dark Eclipser","date":1452729600000}}
+{
+    "id": 64063868,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 210,
+    "type": 33,
+    "atk": 3000,
+    "def": 2600,
+    "level": 9,
+    "race": 32,
+    "attribute": 32,
+    "category": 0,
+    "name": "Kozmo Dark Eclipser",
+    "desc": "Cannot be targeted by an opponent's card effects. During either player's turn, when a Trap Card is activated: You can banish 1 \"Kozmo\" monster from your Graveyard; negate the activation, and if you do, destroy that card. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; add 1 Level 8 or lower \"Kozmo\" monster from your Deck to your hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 64063868,
+        "pack_id": "EP16-JP012",
+        "pack": "EP16",
+        "rarity": "Kozmo Dark Eclipser",
+        "date": 1473465600000
+    },
+    "tcg": {
+        "id": 64063868,
+        "pack_id": "BOSH-EN085",
+        "pack": "BOSH",
+        "rarity": "Kozmo Dark Eclipser",
+        "date": 1452729600000
+    }
+}

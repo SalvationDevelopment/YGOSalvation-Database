@@ -1,1 +1,47 @@
-{"id":16507828,"ot":3,"alias":0,"setcode":0,"type":65,"atk":2200,"def":2000,"level":6,"race":65536,"attribute":2,"category":0,"name":"Bracchio-raidus","desc":"\"Two-Headed King Rex\" + \"Crawling Dragon #2\"","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":16507828,"pack_id":"B3-32","pack":"B3","rarity":"Bracchio-raidus","date":940118400000},"tcg":{"id":16507828,"pack_id":"LCJW-EN159","pack":"LCJW","rarity":"Bracchio-raidus","date":1381449600000}}
+{
+    "id": 16507828,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65,
+    "atk": 2200,
+    "def": 2000,
+    "level": 6,
+    "race": 65536,
+    "attribute": 2,
+    "category": 0,
+    "name": "Bracchio-raidus",
+    "desc": "\"Two-Headed King Rex\" + \"Crawling Dragon #2\"",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 16507828,
+        "pack_id": "B3-32",
+        "pack": "B3",
+        "rarity": "Bracchio-raidus",
+        "date": 940118400000
+    },
+    "tcg": {
+        "id": 16507828,
+        "pack_id": "LCJW-EN159",
+        "pack": "LCJW",
+        "rarity": "Bracchio-raidus",
+        "date": 1381449600000
+    }
+}

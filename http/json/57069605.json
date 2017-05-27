@@ -1,1 +1,47 @@
-{"id":57069605,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":65536,"name":"Frozen Soul","desc":"You can only activate this card when your Life Points are at least 2000 lower than your opponent's. Skip your opponent's next Battle Phase.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":57069605,"pack_id":"305-043","pack":"305","rarity":"Frozen Soul","date":1045699200000},"tcg":{"id":57069605,"pack_id":"DCR-096","pack":"DCR","rarity":"Frozen Soul","date":1070236800000}}
+{
+    "id": 57069605,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 65536,
+    "name": "Frozen Soul",
+    "desc": "You can only activate this card when your Life Points are at least 2000 lower than your opponent's. Skip your opponent's next Battle Phase.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 57069605,
+        "pack_id": "305-043",
+        "pack": "305",
+        "rarity": "Frozen Soul",
+        "date": 1045699200000
+    },
+    "tcg": {
+        "id": 57069605,
+        "pack_id": "DCR-096",
+        "pack": "DCR",
+        "rarity": "Frozen Soul",
+        "date": 1070236800000
+    }
+}

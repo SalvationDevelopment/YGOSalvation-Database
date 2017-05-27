@@ -1,1 +1,47 @@
-{"id":79965360,"ot":3,"alias":0,"setcode":4,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":16777218,"name":"Amazoness Heirloom","desc":"Equip only to an \"Amazoness\" monster. Once per turn, that monster cannot be destroyed by battle. When the equipped monster attacks, after damage calculation, destroy the attack target.","str1":"Destroy","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":79965360,"pack_id":"EXP4-JP018","pack":"EXP4","rarity":"Amazoness Heirloom","date":1316217600000},"tcg":{"id":79965360,"pack_id":"DREV-EN087","pack":"DREV","rarity":"Amazoness Heirloom","date":1281139200000}}
+{
+    "id": 79965360,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 16777218,
+    "name": "Amazoness Heirloom",
+    "desc": "Equip only to an \"Amazoness\" monster. Once per turn, that monster cannot be destroyed by battle. When the equipped monster attacks, after damage calculation, destroy the attack target.",
+    "str1": "Destroy",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 79965360,
+        "pack_id": "EXP4-JP018",
+        "pack": "EXP4",
+        "rarity": "Amazoness Heirloom",
+        "date": 1316217600000
+    },
+    "tcg": {
+        "id": 79965360,
+        "pack_id": "DREV-EN087",
+        "pack": "DREV",
+        "rarity": "Amazoness Heirloom",
+        "date": 1281139200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":72648577,"ot":3,"alias":0,"setcode":279904431,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"D/D/D Human Resources","desc":"Shuffle 3 cards into the Deck (any combination of \"D/D\" monsters in your hand, field, or Graveyard, and/or \"D/D\" cards in your Pendulum Zone), then you can add 2 \"D/D\" monsters from your Deck to your hand.","str1":"Add 2 \"DD\" Monsters to hand?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":72648577,"pack_id":"SPRG-JP012","pack":"SPRG","rarity":"D/D/D Human Resources","date":1407542400000},"tcg":{"id":72648577,"pack_id":"DOCS-EN097","pack":"DOCS","rarity":"D/D/D Human Resources","date":1446681600000}}
+{
+    "id": 72648577,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 279904431,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "D/D/D Human Resources",
+    "desc": "Shuffle 3 cards into the Deck (any combination of \"D/D\" monsters in your hand, field, or Graveyard, and/or \"D/D\" cards in your Pendulum Zone), then you can add 2 \"D/D\" monsters from your Deck to your hand.",
+    "str1": "Add 2 \"DD\" Monsters to hand?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 72648577,
+        "pack_id": "SPRG-JP012",
+        "pack": "SPRG",
+        "rarity": "D/D/D Human Resources",
+        "date": 1407542400000
+    },
+    "tcg": {
+        "id": 72648577,
+        "pack_id": "DOCS-EN097",
+        "pack": "DOCS",
+        "rarity": "D/D/D Human Resources",
+        "date": 1446681600000
+    }
+}

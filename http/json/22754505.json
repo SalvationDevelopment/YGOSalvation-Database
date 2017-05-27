@@ -1,1 +1,47 @@
-{"id":22754505,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1100,"def":0,"level":3,"race":256,"attribute":1,"category":262144,"name":"Small Piece Golem","desc":"When this card is Summoned, if you control a \"Big Piece Golem\", you can Special Summon 1 \"Medium Piece Golem\" from your Deck. That monster's effect is negated while it is face-up on the field.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":22754505,"pack_id":"TDGS-JP006","pack":"TDGS","rarity":"Small Piece Golem","date":1208563200000},"tcg":{"id":22754505,"pack_id":"TDGS-EN006","pack":"TDGS","rarity":"Small Piece Golem","date":1218240000000}}
+{
+    "id": 22754505,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1100,
+    "def": 0,
+    "level": 3,
+    "race": 256,
+    "attribute": 1,
+    "category": 262144,
+    "name": "Small Piece Golem",
+    "desc": "When this card is Summoned, if you control a \"Big Piece Golem\", you can Special Summon 1 \"Medium Piece Golem\" from your Deck. That monster's effect is negated while it is face-up on the field.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 22754505,
+        "pack_id": "TDGS-JP006",
+        "pack": "TDGS",
+        "rarity": "Small Piece Golem",
+        "date": 1208563200000
+    },
+    "tcg": {
+        "id": 22754505,
+        "pack_id": "TDGS-EN006",
+        "pack": "TDGS",
+        "rarity": "Small Piece Golem",
+        "date": 1218240000000
+    }
+}

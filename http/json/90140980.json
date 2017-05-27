@@ -1,1 +1,47 @@
-{"id":90140980,"ot":3,"alias":0,"setcode":15,"type":97,"atk":0,"def":3000,"level":6,"race":16384,"attribute":16,"category":0,"name":"Ojama King","desc":"\"Ojama Green\" + \"Ojama Yellow\" + \"Ojama Black\"\nSelect up to 3 of your opponent's Monster Card Zones. The selected zones cannot be used.","str1":"Select Monster Card Zones?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":90140980,"pack_id":"SOD-JP034","pack":"SOD","rarity":"Ojama King","date":1085616000000},"tcg":{"id":90140980,"pack_id":"SOD-EN034","pack":"SOD","rarity":"Ojama King","date":1096588800000}}
+{
+    "id": 90140980,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 15,
+    "type": 97,
+    "atk": 0,
+    "def": 3000,
+    "level": 6,
+    "race": 16384,
+    "attribute": 16,
+    "category": 0,
+    "name": "Ojama King",
+    "desc": "\"Ojama Green\" + \"Ojama Yellow\" + \"Ojama Black\"\nSelect up to 3 of your opponent's Monster Card Zones. The selected zones cannot be used.",
+    "str1": "Select Monster Card Zones?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 90140980,
+        "pack_id": "SOD-JP034",
+        "pack": "SOD",
+        "rarity": "Ojama King",
+        "date": 1085616000000
+    },
+    "tcg": {
+        "id": 90140980,
+        "pack_id": "SOD-EN034",
+        "pack": "SOD",
+        "rarity": "Ojama King",
+        "date": 1096588800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":81278754,"ot":3,"alias":0,"setcode":18,"type":33,"atk":500,"def":200,"level":2,"race":64,"attribute":2,"category":2064,"name":"Flip Flop Frog","desc":"Once per turn, you can flip this card into face-down Defense Position. When this card is flipped face-up, you can return monsters your opponent controls to their owners' hand up to the number of face-up \"Frog\" monsters you control, except \"Frog the Jam\".","str1":"变成里侧守备","str2":"Return to hand","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":81278754,"pack_id":"CRMS-JP029","pack":"CRMS","rarity":"Flip Flop Frog","date":1344643200000},"tcg":{"id":81278754,"pack_id":"CRMS-EN029","pack":"CRMS","rarity":"Flip Flop Frog","date":1235779200000}}
+{
+    "id": 81278754,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 18,
+    "type": 33,
+    "atk": 500,
+    "def": 200,
+    "level": 2,
+    "race": 64,
+    "attribute": 2,
+    "category": 2064,
+    "name": "Flip Flop Frog",
+    "desc": "Once per turn, you can flip this card into face-down Defense Position. When this card is flipped face-up, you can return monsters your opponent controls to their owners' hand up to the number of face-up \"Frog\" monsters you control, except \"Frog the Jam\".",
+    "str1": "变成里侧守备",
+    "str2": "Return to hand",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 81278754,
+        "pack_id": "CRMS-JP029",
+        "pack": "CRMS",
+        "rarity": "Flip Flop Frog",
+        "date": 1344643200000
+    },
+    "tcg": {
+        "id": 81278754,
+        "pack_id": "CRMS-EN029",
+        "pack": "CRMS",
+        "rarity": "Flip Flop Frog",
+        "date": 1235779200000
+    }
+}

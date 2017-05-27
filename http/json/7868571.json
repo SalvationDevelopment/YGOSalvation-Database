@@ -1,1 +1,47 @@
-{"id":7868571,"ot":3,"alias":0,"setcode":225,"type":16777233,"atk":1700,"def":100,"level":16842755,"race":1048576,"attribute":4,"category":0,"name":"Metalfoes Silverd","desc":"Pendulum Effect\nOnce per turn: You can target 1 other face-up card you control; destroy it, and if you do, Set 1 \"Metalfoes\" Spell/Trap Card directly from your Deck.\n\nMonster Effect\nSizzling soldier on a silver sublight speedjet. Can't track her, can't see her, can't escape that lightspeed laser.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":7868571,"pack_id":"TDIL-JP022","pack":"TDIL","rarity":"Metalfoes Silverd","date":1460160000000},"tcg":{"id":7868571,"pack_id":"TDIL-EN022","pack":"TDIL","rarity":"Metalfoes Silverd","date":1470268800000}}
+{
+    "id": 7868571,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 225,
+    "type": 16777233,
+    "atk": 1700,
+    "def": 100,
+    "level": 16842755,
+    "race": 1048576,
+    "attribute": 4,
+    "category": 0,
+    "name": "Metalfoes Silverd",
+    "desc": "Pendulum Effect\nOnce per turn: You can target 1 other face-up card you control; destroy it, and if you do, Set 1 \"Metalfoes\" Spell/Trap Card directly from your Deck.\n\nMonster Effect\nSizzling soldier on a silver sublight speedjet. Can't track her, can't see her, can't escape that lightspeed laser.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 7868571,
+        "pack_id": "TDIL-JP022",
+        "pack": "TDIL",
+        "rarity": "Metalfoes Silverd",
+        "date": 1460160000000
+    },
+    "tcg": {
+        "id": 7868571,
+        "pack_id": "TDIL-EN022",
+        "pack": "TDIL",
+        "rarity": "Metalfoes Silverd",
+        "date": 1470268800000
+    }
+}

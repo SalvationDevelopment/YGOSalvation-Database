@@ -1,1 +1,47 @@
-{"id":60161788,"ot":3,"alias":0,"setcode":47,"type":33,"atk":300,"def":500,"level":1,"race":64,"attribute":2,"category":256,"name":"Blizzed, Defender of the Ice Barrier","desc":"When this card is destroyed by battle and sent to the Graveyard, draw 1 card.","str1":"Draw card","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":60161788,"pack_id":"DT01-JP010","pack":"DT01","rarity":"Blizzed, Defender of the Ice Barrier","date":1207958400000},"tcg":{"id":60161788,"pack_id":"HA01-EN001","pack":"HA01","rarity":"Blizzed, Defender of the Ice Barrier","date":1257379200000}}
+{
+    "id": 60161788,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 47,
+    "type": 33,
+    "atk": 300,
+    "def": 500,
+    "level": 1,
+    "race": 64,
+    "attribute": 2,
+    "category": 256,
+    "name": "Blizzed, Defender of the Ice Barrier",
+    "desc": "When this card is destroyed by battle and sent to the Graveyard, draw 1 card.",
+    "str1": "Draw card",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 60161788,
+        "pack_id": "DT01-JP010",
+        "pack": "DT01",
+        "rarity": "Blizzed, Defender of the Ice Barrier",
+        "date": 1207958400000
+    },
+    "tcg": {
+        "id": 60161788,
+        "pack_id": "HA01-EN001",
+        "pack": "HA01",
+        "rarity": "Blizzed, Defender of the Ice Barrier",
+        "date": 1257379200000
+    }
+}

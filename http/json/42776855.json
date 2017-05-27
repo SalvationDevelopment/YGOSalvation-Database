@@ -1,1 +1,47 @@
-{"id":42776855,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Follow Wing","desc":"Activate this card by targeting 1 Synchro Monster you control; it cannot be destroyed by battle or your opponent's card effects. At the start of the Damage Step, if it battles an opponent's Level 5 or higher monster: You can destroy that opponent's monster, and if you do, the targeted Synchro Monster gains ATK equal to the original ATK of the destroyed monster, until the end of this turn. When that monster leaves the field, destroy this card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":42776855,"pack_id":"BOSH-JP070","pack":"BOSH","rarity":"Follow Wing","date":1445040000000},"tcg":{"id":42776855,"pack_id":"BOSH-EN070","pack":"BOSH","rarity":"Follow Wing","date":1452729600000}}
+{
+    "id": 42776855,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Follow Wing",
+    "desc": "Activate this card by targeting 1 Synchro Monster you control; it cannot be destroyed by battle or your opponent's card effects. At the start of the Damage Step, if it battles an opponent's Level 5 or higher monster: You can destroy that opponent's monster, and if you do, the targeted Synchro Monster gains ATK equal to the original ATK of the destroyed monster, until the end of this turn. When that monster leaves the field, destroy this card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 42776855,
+        "pack_id": "BOSH-JP070",
+        "pack": "BOSH",
+        "rarity": "Follow Wing",
+        "date": 1445040000000
+    },
+    "tcg": {
+        "id": 42776855,
+        "pack_id": "BOSH-EN070",
+        "pack": "BOSH",
+        "rarity": "Follow Wing",
+        "date": 1452729600000
+    }
+}

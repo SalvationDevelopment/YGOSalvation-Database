@@ -1,1 +1,47 @@
-{"id":51020079,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1500,"def":1700,"level":4,"race":2,"attribute":1,"category":262144,"name":"Cyborg Doctor","desc":"Once per turn, you can Tribute 1 Tuner monster you control to Special Summon a monster from your Graveyard with the same Attribute and Level as the Tributed monster.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":51020079,"pack_id":"ANPR-JP032","pack":"ANPR","rarity":"Cyborg Doctor","date":1240012800000},"tcg":{"id":51020079,"pack_id":"ANPR-EN032","pack":"ANPR","rarity":"Cyborg Doctor","date":1251763200000}}
+{
+    "id": 51020079,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1500,
+    "def": 1700,
+    "level": 4,
+    "race": 2,
+    "attribute": 1,
+    "category": 262144,
+    "name": "Cyborg Doctor",
+    "desc": "Once per turn, you can Tribute 1 Tuner monster you control to Special Summon a monster from your Graveyard with the same Attribute and Level as the Tributed monster.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 51020079,
+        "pack_id": "ANPR-JP032",
+        "pack": "ANPR",
+        "rarity": "Cyborg Doctor",
+        "date": 1240012800000
+    },
+    "tcg": {
+        "id": 51020079,
+        "pack_id": "ANPR-EN032",
+        "pack": "ANPR",
+        "rarity": "Cyborg Doctor",
+        "date": 1251763200000
+    }
+}

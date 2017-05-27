@@ -1,1 +1,47 @@
-{"id":94220427,"ot":3,"alias":0,"setcode":149,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Rank-Up-Magic Argent Chaos Force","desc":"Target 1 Rank 5 or higher Xyz Monster you control; Special Summon from your Extra Deck, 1 \"Number C\" or \"CXyz\" monster that is 1 Rank higher than that monster you control, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to it also become Xyz Materials on the Summoned monster.) When a Rank 5 or higher Xyz Monster is Special Summoned to your side of the field while this card is in your Graveyard (except during the Damage Step): You can add this card from your Graveyard to your hand. You can only use this effect of \"Rank-Up-Magic Argent Chaos Force\" once per Duel.","str1":"activate effect?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":94220427,"pack_id":"PP16-JP018","pack":"PP16","rarity":"Rank-Up-Magic Argent Chaos Force","date":1395360000000},"tcg":{"id":94220427,"pack_id":"PGLD-EN027","pack":"PGLD","rarity":"Rank-Up-Magic Argent Chaos Force","date":1395964800000}}
+{
+    "id": 94220427,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 149,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Rank-Up-Magic Argent Chaos Force",
+    "desc": "Target 1 Rank 5 or higher Xyz Monster you control; Special Summon from your Extra Deck, 1 \"Number C\" or \"CXyz\" monster that is 1 Rank higher than that monster you control, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to it also become Xyz Materials on the Summoned monster.) When a Rank 5 or higher Xyz Monster is Special Summoned to your side of the field while this card is in your Graveyard (except during the Damage Step): You can add this card from your Graveyard to your hand. You can only use this effect of \"Rank-Up-Magic Argent Chaos Force\" once per Duel.",
+    "str1": "activate effect?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 94220427,
+        "pack_id": "PP16-JP018",
+        "pack": "PP16",
+        "rarity": "Rank-Up-Magic Argent Chaos Force",
+        "date": 1395360000000
+    },
+    "tcg": {
+        "id": 94220427,
+        "pack_id": "PGLD-EN027",
+        "pack": "PGLD",
+        "rarity": "Rank-Up-Magic Argent Chaos Force",
+        "date": 1395964800000
+    }
+}

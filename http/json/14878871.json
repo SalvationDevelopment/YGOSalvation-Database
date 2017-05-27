@@ -1,1 +1,47 @@
-{"id":14878871,"ot":3,"alias":0,"setcode":0,"type":33,"atk":300,"def":100,"level":4,"race":16384,"attribute":1,"category":1311232,"name":"Rescue Cat","desc":"You can send this card to the Graveyard; Special Summon 2 Level 3 or lower Beast-Type monsters from your Deck, but they have their effects negated, also they are destroyed during the End Phase. You can only use this effect of \"Rescue Cat\" once per turn.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":14878871,"pack_id":"FET-JP033","pack":"FET","rarity":"Rescue Cat","date":1101340800000},"tcg":{"id":14878871,"pack_id":"FET-EN033","pack":"FET","rarity":"Rescue Cat","date":1109376000000}}
+{
+    "id": 14878871,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 300,
+    "def": 100,
+    "level": 4,
+    "race": 16384,
+    "attribute": 1,
+    "category": 1311232,
+    "name": "Rescue Cat",
+    "desc": "You can send this card to the Graveyard; Special Summon 2 Level 3 or lower Beast-Type monsters from your Deck, but they have their effects negated, also they are destroyed during the End Phase. You can only use this effect of \"Rescue Cat\" once per turn.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 14878871,
+        "pack_id": "FET-JP033",
+        "pack": "FET",
+        "rarity": "Rescue Cat",
+        "date": 1101340800000
+    },
+    "tcg": {
+        "id": 14878871,
+        "pack_id": "FET-EN033",
+        "pack": "FET",
+        "rarity": "Rescue Cat",
+        "date": 1109376000000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":74576482,"ot":3,"alias":0,"setcode":29,"type":33,"atk":1900,"def":1200,"level":4,"race":262144,"attribute":2,"category":1056,"name":"Koa'ki Meiru Sea Panther","desc":"During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 WATER monster in your hand. Once per turn, you can send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard to return 1 Spell Card from your Graveyard to the top of your Deck.","str1":"Send \"Iron Core of Koa'ki Meiru\" to the Graveyard","str2":"Reveal 1 WATER monster in your hand","str3":"Destroy｢Koa'ki Meiru Sea Panther｣","str4":"Return to deck","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":74576482,"pack_id":"SOVR-JP027","pack":"SOVR","rarity":"Koa'ki Meiru Sea Panther","date":1247875200000},"tcg":{"id":74576482,"pack_id":"SOVR-EN027","pack":"SOVR","rarity":"Koa'ki Meiru Sea Panther","date":1258416000000}}
+{
+    "id": 74576482,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 29,
+    "type": 33,
+    "atk": 1900,
+    "def": 1200,
+    "level": 4,
+    "race": 262144,
+    "attribute": 2,
+    "category": 1056,
+    "name": "Koa'ki Meiru Sea Panther",
+    "desc": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 WATER monster in your hand. Once per turn, you can send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard to return 1 Spell Card from your Graveyard to the top of your Deck.",
+    "str1": "Send \"Iron Core of Koa'ki Meiru\" to the Graveyard",
+    "str2": "Reveal 1 WATER monster in your hand",
+    "str3": "Destroy｢Koa'ki Meiru Sea Panther｣",
+    "str4": "Return to deck",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 74576482,
+        "pack_id": "SOVR-JP027",
+        "pack": "SOVR",
+        "rarity": "Koa'ki Meiru Sea Panther",
+        "date": 1247875200000
+    },
+    "tcg": {
+        "id": 74576482,
+        "pack_id": "SOVR-EN027",
+        "pack": "SOVR",
+        "rarity": "Koa'ki Meiru Sea Panther",
+        "date": 1258416000000
+    }
+}

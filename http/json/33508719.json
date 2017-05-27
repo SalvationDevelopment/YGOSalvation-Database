@@ -1,1 +1,47 @@
-{"id":33508719,"ot":3,"alias":0,"setcode":0,"type":2097185,"atk":700,"def":600,"level":2,"race":256,"attribute":1,"category":264,"name":"Morphing Jar","desc":"FLIP: Both players discard their entire hands, then draw 5 cards.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":33508719,"pack_id":"B3-39","pack":"B3","rarity":"Morphing Jar","date":940118400000},"tcg":{"id":33508719,"pack_id":"TP2-001","pack":"TP2","rarity":"Morphing Jar","date":1033430400000}}
+{
+    "id": 33508719,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2097185,
+    "atk": 700,
+    "def": 600,
+    "level": 2,
+    "race": 256,
+    "attribute": 1,
+    "category": 264,
+    "name": "Morphing Jar",
+    "desc": "FLIP: Both players discard their entire hands, then draw 5 cards.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 33508719,
+        "pack_id": "B3-39",
+        "pack": "B3",
+        "rarity": "Morphing Jar",
+        "date": 940118400000
+    },
+    "tcg": {
+        "id": 33508719,
+        "pack_id": "TP2-001",
+        "pack": "TP2",
+        "rarity": "Morphing Jar",
+        "date": 1033430400000
+    }
+}

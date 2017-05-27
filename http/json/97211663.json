@@ -1,1 +1,47 @@
-{"id":97211663,"ot":3,"alias":0,"setcode":180,"type":130,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Nekroz Cycle","desc":"This card can be used to Ritual Summon any \"Nekroz\" Ritual Monster. Tribute monsters from your hand or field, then Ritual Summon 1 \"Nekroz\" Ritual Monster from your hand or Graveyard whose Level exactly equals the total Levels of those monsters. You can only use this effect of \"Nekroz Cycle\" once per turn. If you control no monsters: You can banish this card and 1 \"Nekroz\" monster from your Graveyard; add 1 \"Nekroz\" Spell Card from your Deck to your hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":97211663,"pack_id":"SECE-JP060","pack":"SECE","rarity":"Nekroz Cycle","date":1416009600000},"tcg":{"id":97211663,"pack_id":"SECE-EN060","pack":"SECE","rarity":"Nekroz Cycle","date":1421280000000}}
+{
+    "id": 97211663,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 180,
+    "type": 130,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Nekroz Cycle",
+    "desc": "This card can be used to Ritual Summon any \"Nekroz\" Ritual Monster. Tribute monsters from your hand or field, then Ritual Summon 1 \"Nekroz\" Ritual Monster from your hand or Graveyard whose Level exactly equals the total Levels of those monsters. You can only use this effect of \"Nekroz Cycle\" once per turn. If you control no monsters: You can banish this card and 1 \"Nekroz\" monster from your Graveyard; add 1 \"Nekroz\" Spell Card from your Deck to your hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 97211663,
+        "pack_id": "SECE-JP060",
+        "pack": "SECE",
+        "rarity": "Nekroz Cycle",
+        "date": 1416009600000
+    },
+    "tcg": {
+        "id": 97211663,
+        "pack_id": "SECE-EN060",
+        "pack": "SECE",
+        "rarity": "Nekroz Cycle",
+        "date": 1421280000000
+    }
+}

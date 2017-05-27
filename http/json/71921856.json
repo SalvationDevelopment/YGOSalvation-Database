@@ -1,1 +1,47 @@
-{"id":71921856,"ot":3,"alias":0,"setcode":8650824,"type":8388641,"atk":2300,"def":1600,"level":4,"race":1,"attribute":4,"category":0,"name":"Number 79: Battlin' Boxer Nova Kaiser","desc":"2 Level 4 monsters\nOnce per turn: You can attach 1 \"Battlin' Boxer\" monster from your hand or Graveyard to this card as an Xyz Material. This card gains 100 ATK for each Xyz Material attached to it. When this card you control is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: You can target Level 4 or lower \"Battlin' Boxer\" monsters in your Graveyard, up to the number of Xyz Materials this card had on the field; Special Summon those targets.","str1":"Activate effect?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":71921856,"pack_id":"PRIO-JP089","pack":"PRIO","rarity":"Number 79: Battlin' Boxer Nova Kaiser","date":1392422400000},"tcg":{"id":71921856,"pack_id":"WSUP-EN014","pack":"WSUP","rarity":"Number 79: Battlin' Boxer Nova Kaiser","date":1429142400000}}
+{
+    "id": 71921856,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 8650824,
+    "type": 8388641,
+    "atk": 2300,
+    "def": 1600,
+    "level": 4,
+    "race": 1,
+    "attribute": 4,
+    "category": 0,
+    "name": "Number 79: Battlin' Boxer Nova Kaiser",
+    "desc": "2 Level 4 monsters\nOnce per turn: You can attach 1 \"Battlin' Boxer\" monster from your hand or Graveyard to this card as an Xyz Material. This card gains 100 ATK for each Xyz Material attached to it. When this card you control is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: You can target Level 4 or lower \"Battlin' Boxer\" monsters in your Graveyard, up to the number of Xyz Materials this card had on the field; Special Summon those targets.",
+    "str1": "Activate effect?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 71921856,
+        "pack_id": "PRIO-JP089",
+        "pack": "PRIO",
+        "rarity": "Number 79: Battlin' Boxer Nova Kaiser",
+        "date": 1392422400000
+    },
+    "tcg": {
+        "id": 71921856,
+        "pack_id": "WSUP-EN014",
+        "pack": "WSUP",
+        "rarity": "Number 79: Battlin' Boxer Nova Kaiser",
+        "date": 1429142400000
+    }
+}

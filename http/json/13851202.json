@@ -1,1 +1,47 @@
-{"id":13851202,"ot":3,"alias":0,"setcode":156,"type":33,"atk":1900,"def":700,"level":4,"race":1,"attribute":16,"category":0,"name":"Satellarknight Rigel","desc":"If this card is Summoned: You can target 1 \"tellarknight\" monster on the field; it gains 500 ATK, but send it to the Graveyard during the End Phase. You can only use this effect of \"Satellarknight Rigel\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":13851202,"pack_id":"SECE-JP025","pack":"SECE","rarity":"Satellarknight Rigel","date":1416009600000},"tcg":{"id":13851202,"pack_id":"SECE-EN025","pack":"SECE","rarity":"Satellarknight Rigel","date":1421280000000}}
+{
+    "id": 13851202,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 156,
+    "type": 33,
+    "atk": 1900,
+    "def": 700,
+    "level": 4,
+    "race": 1,
+    "attribute": 16,
+    "category": 0,
+    "name": "Satellarknight Rigel",
+    "desc": "If this card is Summoned: You can target 1 \"tellarknight\" monster on the field; it gains 500 ATK, but send it to the Graveyard during the End Phase. You can only use this effect of \"Satellarknight Rigel\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 13851202,
+        "pack_id": "SECE-JP025",
+        "pack": "SECE",
+        "rarity": "Satellarknight Rigel",
+        "date": 1416009600000
+    },
+    "tcg": {
+        "id": 13851202,
+        "pack_id": "SECE-EN025",
+        "pack": "SECE",
+        "rarity": "Satellarknight Rigel",
+        "date": 1421280000000
+    }
+}

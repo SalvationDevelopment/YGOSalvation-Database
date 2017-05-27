@@ -1,1 +1,47 @@
-{"id":78474168,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":-2147483648,"name":"Breakthrough Skill","desc":"Target 1 face-up Effect Monster your opponent controls; that face-up monster your opponent controls has its effects negated until the end of this turn. During your turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 face-up Effect Monster your opponent controls; that target has its effects negated until the end of this turn.","str1":"Negate effect","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":78474168,"pack_id":"CBLZ-JP078","pack":"CBLZ","rarity":"Breakthrough Skill","date":1353110400000},"tcg":{"id":78474168,"pack_id":"CBLZ-EN078","pack":"CBLZ","rarity":"Breakthrough Skill","date":1359072000000}}
+{
+    "id": 78474168,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": -2147483648,
+    "name": "Breakthrough Skill",
+    "desc": "Target 1 face-up Effect Monster your opponent controls; that face-up monster your opponent controls has its effects negated until the end of this turn. During your turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 face-up Effect Monster your opponent controls; that target has its effects negated until the end of this turn.",
+    "str1": "Negate effect",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 78474168,
+        "pack_id": "CBLZ-JP078",
+        "pack": "CBLZ",
+        "rarity": "Breakthrough Skill",
+        "date": 1353110400000
+    },
+    "tcg": {
+        "id": 78474168,
+        "pack_id": "CBLZ-EN078",
+        "pack": "CBLZ",
+        "rarity": "Breakthrough Skill",
+        "date": 1359072000000
+    }
+}

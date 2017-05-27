@@ -1,1 +1,47 @@
-{"id":31733941,"ot":3,"alias":0,"setcode":6422587,"type":4194337,"atk":2400,"def":2000,"level":7,"race":8192,"attribute":32,"category":0,"name":"Red-Eyes Toon Dragon","desc":"Cannot attack the turn it is Summoned. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. Once per turn: You can Special Summon 1 Toon monster from your hand, except \"Red-Eyes Toon Dragon\", ignoring its Summoning conditions.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":31733941,"pack_id":"SHVI-JP036","pack":"SHVI","rarity":"Red-Eyes Toon Dragon","date":1452297600000},"tcg":{"id":31733941,"pack_id":"SHVI-EN036","pack":"SHVI","rarity":"Red-Eyes Toon Dragon","date":1462406400000}}
+{
+    "id": 31733941,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 6422587,
+    "type": 4194337,
+    "atk": 2400,
+    "def": 2000,
+    "level": 7,
+    "race": 8192,
+    "attribute": 32,
+    "category": 0,
+    "name": "Red-Eyes Toon Dragon",
+    "desc": "Cannot attack the turn it is Summoned. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. Once per turn: You can Special Summon 1 Toon monster from your hand, except \"Red-Eyes Toon Dragon\", ignoring its Summoning conditions.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 31733941,
+        "pack_id": "SHVI-JP036",
+        "pack": "SHVI",
+        "rarity": "Red-Eyes Toon Dragon",
+        "date": 1452297600000
+    },
+    "tcg": {
+        "id": 31733941,
+        "pack_id": "SHVI-EN036",
+        "pack": "SHVI",
+        "rarity": "Red-Eyes Toon Dragon",
+        "date": 1462406400000
+    }
+}

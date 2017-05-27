@@ -1,1 +1,47 @@
-{"id":51777272,"ot":3,"alias":0,"setcode":223,"type":97,"atk":2400,"def":2000,"level":7,"race":32768,"attribute":32,"category":0,"name":"Lunalight Cat Dancer","desc":"2 \"Lunalight\" monsters\nCannot be destroyed by battle. Once per turn, during your Main Phase 1: You can Tribute 1 other \"Lunalight\" monster; for the rest of this turn, the first time each monster your opponent controls would be destroyed by battle, it is not destroyed, also this card can attack all monsters your opponent controls, twice each, this turn. If this card declares an attack: Inflict 100 damage to your opponent.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":51777272,"pack_id":"SHVI-JP046","pack":"SHVI","rarity":"Lunalight Cat Dancer","date":1452297600000},"tcg":{"id":51777272,"pack_id":"SHVI-EN046","pack":"SHVI","rarity":"Lunalight Cat Dancer","date":1462406400000}}
+{
+    "id": 51777272,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 223,
+    "type": 97,
+    "atk": 2400,
+    "def": 2000,
+    "level": 7,
+    "race": 32768,
+    "attribute": 32,
+    "category": 0,
+    "name": "Lunalight Cat Dancer",
+    "desc": "2 \"Lunalight\" monsters\nCannot be destroyed by battle. Once per turn, during your Main Phase 1: You can Tribute 1 other \"Lunalight\" monster; for the rest of this turn, the first time each monster your opponent controls would be destroyed by battle, it is not destroyed, also this card can attack all monsters your opponent controls, twice each, this turn. If this card declares an attack: Inflict 100 damage to your opponent.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 51777272,
+        "pack_id": "SHVI-JP046",
+        "pack": "SHVI",
+        "rarity": "Lunalight Cat Dancer",
+        "date": 1452297600000
+    },
+    "tcg": {
+        "id": 51777272,
+        "pack_id": "SHVI-EN046",
+        "pack": "SHVI",
+        "rarity": "Lunalight Cat Dancer",
+        "date": 1462406400000
+    }
+}

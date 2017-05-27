@@ -1,1 +1,47 @@
-{"id":73632127,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4,"name":"Dimension Slice","desc":"When a monster(s) is Special Summoned to your side of the field (except during the Damage Step): Target 1 face-up monster your opponent controls; banish that target. If the Summon is an Xyz Summon, you can activate this card the turn it was Set.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":73632127,"pack_id":"GAOV-JP076","pack":"GAOV","rarity":"Dimension Slice","date":1329523200000},"tcg":{"id":73632127,"pack_id":"GAOV-EN076","pack":"GAOV","rarity":"Dimension Slice","date":1335571200000}}
+{
+    "id": 73632127,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4,
+    "name": "Dimension Slice",
+    "desc": "When a monster(s) is Special Summoned to your side of the field (except during the Damage Step): Target 1 face-up monster your opponent controls; banish that target. If the Summon is an Xyz Summon, you can activate this card the turn it was Set.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 73632127,
+        "pack_id": "GAOV-JP076",
+        "pack": "GAOV",
+        "rarity": "Dimension Slice",
+        "date": 1329523200000
+    },
+    "tcg": {
+        "id": 73632127,
+        "pack_id": "GAOV-EN076",
+        "pack": "GAOV",
+        "rarity": "Dimension Slice",
+        "date": 1335571200000
+    }
+}

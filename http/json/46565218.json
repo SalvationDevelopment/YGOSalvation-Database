@@ -1,1 +1,47 @@
-{"id":46565218,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1200,"def":2500,"level":6,"race":8,"attribute":16,"category":0,"name":"Santa Claws","desc":"You can Special Summon this card (from your hand) to your opponent's side of the field in Defense Position, by Tributing 1 monster they control. If Summoned this way, during the End Phase of this turn: You can draw 1 card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":46565218,"pack_id":"JF14-JP007","pack":"JF14","rarity":"Santa Claws","date":1387584000000},"tcg":{"id":46565218,"pack_id":"PGL2-EN021","pack":"PGL2","rarity":"Santa Claws","date":1426809600000}}
+{
+    "id": 46565218,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1200,
+    "def": 2500,
+    "level": 6,
+    "race": 8,
+    "attribute": 16,
+    "category": 0,
+    "name": "Santa Claws",
+    "desc": "You can Special Summon this card (from your hand) to your opponent's side of the field in Defense Position, by Tributing 1 monster they control. If Summoned this way, during the End Phase of this turn: You can draw 1 card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 46565218,
+        "pack_id": "JF14-JP007",
+        "pack": "JF14",
+        "rarity": "Santa Claws",
+        "date": 1387584000000
+    },
+    "tcg": {
+        "id": 46565218,
+        "pack_id": "PGL2-EN021",
+        "pack": "PGL2",
+        "rarity": "Santa Claws",
+        "date": 1426809600000
+    }
+}

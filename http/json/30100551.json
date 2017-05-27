@@ -1,1 +1,47 @@
-{"id":30100551,"ot":3,"alias":0,"setcode":56,"type":8388641,"atk":2000,"def":800,"level":4,"race":4,"attribute":16,"category":0,"name":"Minerva, the Exalted Lightsworn","desc":"2 Level 4 monsters\nYou can detach 1 Xyz Material from this card; send the top 3 cards of your Deck to the Graveyard, then draw cards equal to the number of \"Lightsworn\" cards sent to the Graveyard by this effect. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can send the top 3 cards of your Deck to the Graveyard, then you can destroy cards on the field up to the number of \"Lightsworn\" cards sent to the Graveyard by this effect. You can only use each effect of \"Minerva, the Exalted Lightsworn\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":30100551,"pack_id":"CORE-JP083","pack":"CORE","rarity":"Minerva, the Exalted Lightsworn","date":1429920000000},"tcg":{"id":30100551,"pack_id":"YCSW-EN008","pack":"YCSW","rarity":"Minerva, the Exalted Lightsworn","date":1440892800000}}
+{
+    "id": 30100551,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 56,
+    "type": 8388641,
+    "atk": 2000,
+    "def": 800,
+    "level": 4,
+    "race": 4,
+    "attribute": 16,
+    "category": 0,
+    "name": "Minerva, the Exalted Lightsworn",
+    "desc": "2 Level 4 monsters\nYou can detach 1 Xyz Material from this card; send the top 3 cards of your Deck to the Graveyard, then draw cards equal to the number of \"Lightsworn\" cards sent to the Graveyard by this effect. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can send the top 3 cards of your Deck to the Graveyard, then you can destroy cards on the field up to the number of \"Lightsworn\" cards sent to the Graveyard by this effect. You can only use each effect of \"Minerva, the Exalted Lightsworn\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 30100551,
+        "pack_id": "CORE-JP083",
+        "pack": "CORE",
+        "rarity": "Minerva, the Exalted Lightsworn",
+        "date": 1429920000000
+    },
+    "tcg": {
+        "id": 30100551,
+        "pack_id": "YCSW-EN008",
+        "pack": "YCSW",
+        "rarity": "Minerva, the Exalted Lightsworn",
+        "date": 1440892800000
+    }
+}

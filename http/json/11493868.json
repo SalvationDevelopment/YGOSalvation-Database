@@ -1,1 +1,47 @@
-{"id":11493868,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Fortissimo","desc":"Once per turn: You can target 1 \"Melodious\" monster you control; it gains 800 ATK until your next Standby Phase (even if this card leaves the field). You can send this card to the Graveyard; Fusion Summon 1 \"Melodious\" Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials.","str1":"Gain 800 Attack","str2":"Fusion Summon","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":11493868,"pack_id":"SHVI-JP057","pack":"SHVI","rarity":"Fortissimo","date":1452297600000},"tcg":{"id":11493868,"pack_id":"SHVI-EN057","pack":"SHVI","rarity":"Fortissimo","date":1462406400000}}
+{
+    "id": 11493868,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Fortissimo",
+    "desc": "Once per turn: You can target 1 \"Melodious\" monster you control; it gains 800 ATK until your next Standby Phase (even if this card leaves the field). You can send this card to the Graveyard; Fusion Summon 1 \"Melodious\" Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials.",
+    "str1": "Gain 800 Attack",
+    "str2": "Fusion Summon",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 11493868,
+        "pack_id": "SHVI-JP057",
+        "pack": "SHVI",
+        "rarity": "Fortissimo",
+        "date": 1452297600000
+    },
+    "tcg": {
+        "id": 11493868,
+        "pack_id": "SHVI-EN057",
+        "pack": "SHVI",
+        "rarity": "Fortissimo",
+        "date": 1462406400000
+    }
+}

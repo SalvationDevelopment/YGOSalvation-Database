@@ -1,1 +1,47 @@
-{"id":8124921,"ot":3,"alias":0,"setcode":64,"type":17,"atk":200,"def":300,"level":1,"race":2,"attribute":32,"category":0,"name":"Right Leg of the Forbidden One","desc":"A forbidden right leg sealed by magic. Whosoever breaks this seal will know infinite power.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":8124921,"pack_id":"PG-61","pack":"PG","rarity":"Right Leg of the Forbidden One","date":932601600000},"tcg":{"id":8124921,"pack_id":"LOB-120","pack":"LOB","rarity":"Right Leg of the Forbidden One","date":1015545600000}}
+{
+    "id": 8124921,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 64,
+    "type": 17,
+    "atk": 200,
+    "def": 300,
+    "level": 1,
+    "race": 2,
+    "attribute": 32,
+    "category": 0,
+    "name": "Right Leg of the Forbidden One",
+    "desc": "A forbidden right leg sealed by magic. Whosoever breaks this seal will know infinite power.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 8124921,
+        "pack_id": "PG-61",
+        "pack": "PG",
+        "rarity": "Right Leg of the Forbidden One",
+        "date": 932601600000
+    },
+    "tcg": {
+        "id": 8124921,
+        "pack_id": "LOB-120",
+        "pack": "LOB",
+        "rarity": "Right Leg of the Forbidden One",
+        "date": 1015545600000
+    }
+}

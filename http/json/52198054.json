@@ -1,1 +1,47 @@
-{"id":52198054,"ot":3,"alias":0,"setcode":185,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Blaze Accelerator Reload","desc":"This card's name becomes \"Tri-Blaze Accelerator\" while in the Spell & Trap Zone. During either player's Main Phase: You can send 1 \"Volcanic\" card from your hand to the Graveyard, and if you do, draw 1 card. You can only use this effect of \"Blaze Accelerator Reload\" once per turn. During either player's Main Phase: You can banish this card from your Graveyard; send 1 \"Volcanic\" card from your Deck to the Graveyard.","str1":"Activate Effect?","str2":"Activate Effect?","str3":"Activate Effect?","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":52198054,"pack_id":"SECE-JP077","pack":"SECE","rarity":"Blaze Accelerator Reload","date":1416009600000},"tcg":{"id":52198054,"pack_id":"SECE-EN077","pack":"SECE","rarity":"Blaze Accelerator Reload","date":1421280000000}}
+{
+    "id": 52198054,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 185,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Blaze Accelerator Reload",
+    "desc": "This card's name becomes \"Tri-Blaze Accelerator\" while in the Spell & Trap Zone. During either player's Main Phase: You can send 1 \"Volcanic\" card from your hand to the Graveyard, and if you do, draw 1 card. You can only use this effect of \"Blaze Accelerator Reload\" once per turn. During either player's Main Phase: You can banish this card from your Graveyard; send 1 \"Volcanic\" card from your Deck to the Graveyard.",
+    "str1": "Activate Effect?",
+    "str2": "Activate Effect?",
+    "str3": "Activate Effect?",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 52198054,
+        "pack_id": "SECE-JP077",
+        "pack": "SECE",
+        "rarity": "Blaze Accelerator Reload",
+        "date": 1416009600000
+    },
+    "tcg": {
+        "id": 52198054,
+        "pack_id": "SECE-EN077",
+        "pack": "SECE",
+        "rarity": "Blaze Accelerator Reload",
+        "date": 1421280000000
+    }
+}

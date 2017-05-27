@@ -1,1 +1,47 @@
-{"id":24643836,"ot":3,"alias":0,"setcode":15,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":512,"name":"Ojamagic","desc":"When this card is sent from the hand or the field to the Graveyard, add 1 each of \"Ojama Green\", \"Ojama Yellow\" and \"Ojama Black\" from your Deck to your hand.","str1":"Search","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":24643836,"pack_id":"EEN-JP040","pack":"EEN","rarity":"Ojamagic","date":1123718400000},"tcg":{"id":24643836,"pack_id":"EEN-EN040","pack":"EEN","rarity":"Ojamagic","date":1131148800000}}
+{
+    "id": 24643836,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 15,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 512,
+    "name": "Ojamagic",
+    "desc": "When this card is sent from the hand or the field to the Graveyard, add 1 each of \"Ojama Green\", \"Ojama Yellow\" and \"Ojama Black\" from your Deck to your hand.",
+    "str1": "Search",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 24643836,
+        "pack_id": "EEN-JP040",
+        "pack": "EEN",
+        "rarity": "Ojamagic",
+        "date": 1123718400000
+    },
+    "tcg": {
+        "id": 24643836,
+        "pack_id": "EEN-EN040",
+        "pack": "EEN",
+        "rarity": "Ojamagic",
+        "date": 1131148800000
+    }
+}

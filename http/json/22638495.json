@@ -1,1 +1,47 @@
-{"id":22638495,"ot":3,"alias":0,"setcode":199,"type":97,"atk":2000,"def":2950,"level":8,"race":8192,"attribute":2,"category":0,"name":"Dinoster Power, the Mighty Dracoslayer","desc":"1 \"Dracoslayer\" Pendulum Monster + 1 Pendulum Monster\nMust first be Special Summoned (from your Extra Deck) by Tributing the above cards. (You do not use \"Polymerization\".) Pendulum Monster Cards in your Monster Zones and Pendulum Zones cannot be destroyed by battle or your opponent's card effects. Once per turn: You can Special Summon 1 \"Dracoslayer\" Pendulum Monster from your hand or Graveyard, but it cannot be used as a Fusion Material.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":22638495,"pack_id":"BOSH-JP046","pack":"BOSH","rarity":"Dinoster Power, the Mighty Dracoslayer","date":1445040000000},"tcg":{"id":22638495,"pack_id":"BOSH-EN046","pack":"BOSH","rarity":"Dinoster Power, the Mighty Dracoslayer","date":1452729600000}}
+{
+    "id": 22638495,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 199,
+    "type": 97,
+    "atk": 2000,
+    "def": 2950,
+    "level": 8,
+    "race": 8192,
+    "attribute": 2,
+    "category": 0,
+    "name": "Dinoster Power, the Mighty Dracoslayer",
+    "desc": "1 \"Dracoslayer\" Pendulum Monster + 1 Pendulum Monster\nMust first be Special Summoned (from your Extra Deck) by Tributing the above cards. (You do not use \"Polymerization\".) Pendulum Monster Cards in your Monster Zones and Pendulum Zones cannot be destroyed by battle or your opponent's card effects. Once per turn: You can Special Summon 1 \"Dracoslayer\" Pendulum Monster from your hand or Graveyard, but it cannot be used as a Fusion Material.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 22638495,
+        "pack_id": "BOSH-JP046",
+        "pack": "BOSH",
+        "rarity": "Dinoster Power, the Mighty Dracoslayer",
+        "date": 1445040000000
+    },
+    "tcg": {
+        "id": 22638495,
+        "pack_id": "BOSH-EN046",
+        "pack": "BOSH",
+        "rarity": "Dinoster Power, the Mighty Dracoslayer",
+        "date": 1452729600000
+    }
+}

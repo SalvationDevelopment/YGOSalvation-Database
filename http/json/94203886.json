@@ -1,1 +1,47 @@
-{"id":94203886,"ot":3,"alias":0,"setcode":84,"type":33,"atk":800,"def":1200,"level":2,"race":2,"attribute":32,"category":262144,"name":"Gagaga Child","desc":"If you control a \"Gagaga\" monster other than \"Gagaga Child\", you can Special Summon this card (from your hand). When you do: You can target 1 \"Gagaga\" monster you control with a different Level than this card; this card's Level becomes the Level of that monster. You cannot conduct your Battle Phase the turn you activate this effect.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":94203886,"pack_id":"ST13-JP006","pack":"ST13","rarity":"Gagaga Child","date":1363392000000},"tcg":{"id":94203886,"pack_id":"YS13-EN006","pack":"YS13","rarity":"Gagaga Child","date":1371168000000}}
+{
+    "id": 94203886,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 84,
+    "type": 33,
+    "atk": 800,
+    "def": 1200,
+    "level": 2,
+    "race": 2,
+    "attribute": 32,
+    "category": 262144,
+    "name": "Gagaga Child",
+    "desc": "If you control a \"Gagaga\" monster other than \"Gagaga Child\", you can Special Summon this card (from your hand). When you do: You can target 1 \"Gagaga\" monster you control with a different Level than this card; this card's Level becomes the Level of that monster. You cannot conduct your Battle Phase the turn you activate this effect.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 94203886,
+        "pack_id": "ST13-JP006",
+        "pack": "ST13",
+        "rarity": "Gagaga Child",
+        "date": 1363392000000
+    },
+    "tcg": {
+        "id": 94203886,
+        "pack_id": "YS13-EN006",
+        "pack": "YS13",
+        "rarity": "Gagaga Child",
+        "date": 1371168000000
+    }
+}

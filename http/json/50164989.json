@@ -1,1 +1,47 @@
-{"id":50164989,"ot":3,"alias":0,"setcode":0,"type":33,"atk":0,"def":1000,"level":2,"race":1024,"attribute":1,"category":262144,"name":"Dark Verger","desc":"When a Plant-Type Tuner monster is Normal Summoned to your side of the field: You can Special Summon this card from your Graveyard in Attack Position.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":50164989,"pack_id":"RGBT-JP004","pack":"RGBT","rarity":"Dark Verger","date":1234569600000},"tcg":{"id":50164989,"pack_id":"RGBT-EN004","pack":"RGBT","rarity":"Dark Verger","date":1241222400000}}
+{
+    "id": 50164989,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 0,
+    "def": 1000,
+    "level": 2,
+    "race": 1024,
+    "attribute": 1,
+    "category": 262144,
+    "name": "Dark Verger",
+    "desc": "When a Plant-Type Tuner monster is Normal Summoned to your side of the field: You can Special Summon this card from your Graveyard in Attack Position.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 50164989,
+        "pack_id": "RGBT-JP004",
+        "pack": "RGBT",
+        "rarity": "Dark Verger",
+        "date": 1234569600000
+    },
+    "tcg": {
+        "id": 50164989,
+        "pack_id": "RGBT-EN004",
+        "pack": "RGBT",
+        "rarity": "Dark Verger",
+        "date": 1241222400000
+    }
+}

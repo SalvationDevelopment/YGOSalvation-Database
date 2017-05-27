@@ -1,1 +1,47 @@
-{"id":12215894,"ot":3,"alias":0,"setcode":171,"type":524290,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Deskbot Base","desc":"All \"Deskbot\" monsters on the field gain 500 ATK and DEF. Once per turn: You can reveal any number of \"Deskbot\" cards in your hand and shuffle them into the Deck, then draw the same number of cards. You can banish 9 \"Deskbot\" cards with different names from your field and/or Graveyard, except \"Deskbot Base\"; shuffle all cards from your opponent's hand, field and Graveyard into the Deck.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":12215894,"pack_id":"SHVI-JP068","pack":"SHVI","rarity":"Deskbot Base","date":1452297600000},"tcg":{"id":12215894,"pack_id":"SHVI-EN068","pack":"SHVI","rarity":"Deskbot Base","date":1462406400000}}
+{
+    "id": 12215894,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 171,
+    "type": 524290,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Deskbot Base",
+    "desc": "All \"Deskbot\" monsters on the field gain 500 ATK and DEF. Once per turn: You can reveal any number of \"Deskbot\" cards in your hand and shuffle them into the Deck, then draw the same number of cards. You can banish 9 \"Deskbot\" cards with different names from your field and/or Graveyard, except \"Deskbot Base\"; shuffle all cards from your opponent's hand, field and Graveyard into the Deck.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 12215894,
+        "pack_id": "SHVI-JP068",
+        "pack": "SHVI",
+        "rarity": "Deskbot Base",
+        "date": 1452297600000
+    },
+    "tcg": {
+        "id": 12215894,
+        "pack_id": "SHVI-EN068",
+        "pack": "SHVI",
+        "rarity": "Deskbot Base",
+        "date": 1462406400000
+    }
+}

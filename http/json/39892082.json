@@ -1,1 +1,47 @@
-{"id":39892082,"ot":3,"alias":0,"setcode":0,"type":33,"atk":500,"def":1900,"level":4,"race":524288,"attribute":1,"category":71303168,"name":"Balloon Lizard","desc":"Put 1 counter on this card during each of your Standby Phases. When this card is destroyed, inflict damage to the controller of the card that destroyed it equal to the number of counters X 400 points.","str1":"カウンターを乗せる","str2":"ダメージを与える","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":39892082,"pack_id":"307-017","pack":"暗黒の侵略者","rarity":"共通","date":1058414400000},"tcg":{"id":39892082,"pack_id":"IOC-072","pack":"IOC","rarity":"Balloon Lizard","date":1078099200000}}
+{
+    "id": 39892082,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 500,
+    "def": 1900,
+    "level": 4,
+    "race": 524288,
+    "attribute": 1,
+    "category": 71303168,
+    "name": "Balloon Lizard",
+    "desc": "Put 1 counter on this card during each of your Standby Phases. When this card is destroyed, inflict damage to the controller of the card that destroyed it equal to the number of counters X 400 points.",
+    "str1": "カウンターを乗せる",
+    "str2": "ダメージを与える",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 39892082,
+        "pack_id": "307-017",
+        "pack": "暗黒の侵略者",
+        "rarity": "共通",
+        "date": 1058414400000
+    },
+    "tcg": {
+        "id": 39892082,
+        "pack_id": "IOC-072",
+        "pack": "IOC",
+        "rarity": "Balloon Lizard",
+        "date": 1078099200000
+    }
+}

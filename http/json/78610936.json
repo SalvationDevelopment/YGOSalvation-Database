@@ -1,1 +1,47 @@
-{"id":78610936,"ot":3,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262176,"name":"Xyz Encore","desc":"Target 1 face-up Xyz Monster your opponent controls that has Xyz Material; detach all Xyz Materials from it, and if you do, return it to the Extra Deck, then, if there is a Monster Card in the Graveyard among those detached Xyz Materials, Special Summon as many of those monsters as possible from the Graveyard to your opponent's side of the field in face-up Defense Position. Their Levels are reduced by 1 on the field. Cards and effects cannot be activated in response to this card's activation.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":78610936,"pack_id":"EP14-JP009","pack":"EP14","rarity":"Xyz Encore","date":1410566400000},"tcg":{"id":78610936,"pack_id":"JOTL-EN088","pack":"JOTL","rarity":"Xyz Encore","date":1375920000000}}
+{
+    "id": 78610936,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262176,
+    "name": "Xyz Encore",
+    "desc": "Target 1 face-up Xyz Monster your opponent controls that has Xyz Material; detach all Xyz Materials from it, and if you do, return it to the Extra Deck, then, if there is a Monster Card in the Graveyard among those detached Xyz Materials, Special Summon as many of those monsters as possible from the Graveyard to your opponent's side of the field in face-up Defense Position. Their Levels are reduced by 1 on the field. Cards and effects cannot be activated in response to this card's activation.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 78610936,
+        "pack_id": "EP14-JP009",
+        "pack": "EP14",
+        "rarity": "Xyz Encore",
+        "date": 1410566400000
+    },
+    "tcg": {
+        "id": 78610936,
+        "pack_id": "JOTL-EN088",
+        "pack": "JOTL",
+        "rarity": "Xyz Encore",
+        "date": 1375920000000
+    }
+}

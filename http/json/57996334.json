@@ -1,1 +1,47 @@
-{"id":57996334,"ot":3,"alias":0,"setcode":130,"type":33,"atk":1900,"def":800,"level":6,"race":1,"attribute":1,"category":262144,"name":"Dododo Buster","desc":"If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). If Summoned this way, its Level becomes 4. When this card is Tribute Summoned: You can target 1 \"Dododo\" monster in your Graveyard; Special Summon that target in face-up Defense Position.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":57996334,"pack_id":"WJMP-JP020","pack":"WJMP","rarity":"Dododo Buster","date":1356134400000},"tcg":{"id":57996334,"pack_id":"LVAL-EN097","pack":"LVAL","rarity":"Dododo Buster","date":1390521600000}}
+{
+    "id": 57996334,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 130,
+    "type": 33,
+    "atk": 1900,
+    "def": 800,
+    "level": 6,
+    "race": 1,
+    "attribute": 1,
+    "category": 262144,
+    "name": "Dododo Buster",
+    "desc": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). If Summoned this way, its Level becomes 4. When this card is Tribute Summoned: You can target 1 \"Dododo\" monster in your Graveyard; Special Summon that target in face-up Defense Position.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 57996334,
+        "pack_id": "WJMP-JP020",
+        "pack": "WJMP",
+        "rarity": "Dododo Buster",
+        "date": 1356134400000
+    },
+    "tcg": {
+        "id": 57996334,
+        "pack_id": "LVAL-EN097",
+        "pack": "LVAL",
+        "rarity": "Dododo Buster",
+        "date": 1390521600000
+    }
+}

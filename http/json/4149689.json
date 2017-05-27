@@ -1,1 +1,47 @@
-{"id":4149689,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":2,"name":"Goblin Fan","desc":"When a Level 2 or lower monster is Flip Summoned, destroy it. Its effects do not activate at that time.","str1":"Destroy","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":4149689,"pack_id":"G3-04","pack":"G3","rarity":"Goblin Fan","date":963446400000},"tcg":{"id":4149689,"pack_id":"TFK-003","pack":"TFK","rarity":"Goblin Fan","date":1067904000000}}
+{
+    "id": 4149689,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 2,
+    "name": "Goblin Fan",
+    "desc": "When a Level 2 or lower monster is Flip Summoned, destroy it. Its effects do not activate at that time.",
+    "str1": "Destroy",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 4149689,
+        "pack_id": "G3-04",
+        "pack": "G3",
+        "rarity": "Goblin Fan",
+        "date": 963446400000
+    },
+    "tcg": {
+        "id": 4149689,
+        "pack_id": "TFK-003",
+        "pack": "TFK",
+        "rarity": "Goblin Fan",
+        "date": 1067904000000
+    }
+}

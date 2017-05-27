@@ -1,1 +1,47 @@
-{"id":88728507,"ot":3,"alias":0,"setcode":142,"type":33,"atk":1500,"def":1500,"level":4,"race":16,"attribute":32,"category":262656,"name":"Vampire Sorcerer","desc":"If this card in your possession is sent to your Graveyard by your opponent's card (either by battle or by card effect): You can add 1 DARK \"Vampire\" monster or 1 \"Vampire\" Spell/Trap Card from your Deck to your hand. You can banish this card from your Graveyard; 1 DARK \"Vampire\" monster you Normal Summon this turn can be Summoned without Tributing.","str1":"Add 1 DARK \"Vampire\" monster or 1 \"Vampire\" Spell/Trap Card from your Deck to your hand?","str2":"    ","str3":"Normal Summon without Tribute","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":88728507,"pack_id":"SHSP-JP029","pack":"SHSP","rarity":"Vampire Sorcerer","date":1374278400000},"tcg":{"id":88728507,"pack_id":"SHSP-EN029","pack":"SHSP","rarity":"Vampire Sorcerer","date":1383868800000}}
+{
+    "id": 88728507,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 142,
+    "type": 33,
+    "atk": 1500,
+    "def": 1500,
+    "level": 4,
+    "race": 16,
+    "attribute": 32,
+    "category": 262656,
+    "name": "Vampire Sorcerer",
+    "desc": "If this card in your possession is sent to your Graveyard by your opponent's card (either by battle or by card effect): You can add 1 DARK \"Vampire\" monster or 1 \"Vampire\" Spell/Trap Card from your Deck to your hand. You can banish this card from your Graveyard; 1 DARK \"Vampire\" monster you Normal Summon this turn can be Summoned without Tributing.",
+    "str1": "Add 1 DARK \"Vampire\" monster or 1 \"Vampire\" Spell/Trap Card from your Deck to your hand?",
+    "str2": "    ",
+    "str3": "Normal Summon without Tribute",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 88728507,
+        "pack_id": "SHSP-JP029",
+        "pack": "SHSP",
+        "rarity": "Vampire Sorcerer",
+        "date": 1374278400000
+    },
+    "tcg": {
+        "id": 88728507,
+        "pack_id": "SHSP-EN029",
+        "pack": "SHSP",
+        "rarity": "Vampire Sorcerer",
+        "date": 1383868800000
+    }
+}

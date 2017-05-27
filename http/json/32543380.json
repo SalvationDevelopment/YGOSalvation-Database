@@ -1,1 +1,47 @@
-{"id":32543380,"ot":3,"alias":0,"setcode":50,"type":33,"atk":3000,"def":1800,"level":8,"race":128,"attribute":4,"category":4456450,"name":"Volcanic Doomfire","desc":"This card cannot be Normal Summoned or Set. This card can only be Special Summoned by sending a face-up \"Tri-Blaze Accelerator\" you control to the Graveyard. During your opponent's Battle Phase, your opponent must attack this monster with any Attack Position monsters they control. When this card destroys a monster and sends it to the Graveyard, destroy all monsters your opponent controls and inflict 500 damage to your opponent for each monster destroyed by this effect.","str1":"对方场上的怪兽全部破坏","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":32543380,"pack_id":"FOTB-JP008","pack":"FOTB","rarity":"Volcanic Doomfire","date":1171497600000},"tcg":{"id":32543380,"pack_id":"FOTB-EN008","pack":"FOTB","rarity":"Volcanic Doomfire","date":1179273600000}}
+{
+    "id": 32543380,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 50,
+    "type": 33,
+    "atk": 3000,
+    "def": 1800,
+    "level": 8,
+    "race": 128,
+    "attribute": 4,
+    "category": 4456450,
+    "name": "Volcanic Doomfire",
+    "desc": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by sending a face-up \"Tri-Blaze Accelerator\" you control to the Graveyard. During your opponent's Battle Phase, your opponent must attack this monster with any Attack Position monsters they control. When this card destroys a monster and sends it to the Graveyard, destroy all monsters your opponent controls and inflict 500 damage to your opponent for each monster destroyed by this effect.",
+    "str1": "对方场上的怪兽全部破坏",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 32543380,
+        "pack_id": "FOTB-JP008",
+        "pack": "FOTB",
+        "rarity": "Volcanic Doomfire",
+        "date": 1171497600000
+    },
+    "tcg": {
+        "id": 32543380,
+        "pack_id": "FOTB-EN008",
+        "pack": "FOTB",
+        "rarity": "Volcanic Doomfire",
+        "date": 1179273600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":13758665,"ot":1,"alias":0,"setcode":152,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Magician's Left Hand","desc":"Negate the effect of your opponent's first Trap Card or effect that resolves each turn while you control a Spellcaster-Type monster, and if you do, destroy that card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG","ocg":{"id":13758665,"pack_id":"MACR-JP050","pack":"MACR","rarity":"Magician's Left Hand","date":1484352000000},"tcg":{"id":13758665,"pack_id":"MACR-EN050","pack":"MACR","rarity":"Magician's Left Hand","date":1493856000000}}
+{
+    "id": 13758665,
+    "ot": 1,
+    "alias": 0,
+    "setcode": 152,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Magician's Left Hand",
+    "desc": "Negate the effect of your opponent's first Trap Card or effect that resolves each turn while you control a Spellcaster-Type monster, and if you do, destroy that card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG",
+    "ocg": {
+        "id": 13758665,
+        "pack_id": "MACR-JP050",
+        "pack": "MACR",
+        "rarity": "Magician's Left Hand",
+        "date": 1484352000000
+    },
+    "tcg": {
+        "id": 13758665,
+        "pack_id": "MACR-EN050",
+        "pack": "MACR",
+        "rarity": "Magician's Left Hand",
+        "date": 1493856000000
+    }
+}

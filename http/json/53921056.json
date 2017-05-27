@@ -1,1 +1,47 @@
-{"id":53921056,"ot":3,"alias":0,"setcode":47,"type":33,"atk":2700,"def":2000,"level":7,"race":1,"attribute":2,"category":262144,"name":"General Gantala of the Ice Barrier","desc":"Once per turn, during your End Phase, you can select and Special Summon 1 \"Ice Barrier\" monster from your Graveyard, except \"General Gantala of the Ice Barrier\".","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":53921056,"pack_id":"DT08-JP034","pack":"DT08","rarity":"General Gantala of the Ice Barrier","date":1264032000000},"tcg":{"id":53921056,"pack_id":"DT04-EN084","pack":"DT04","rarity":"General Gantala of the Ice Barrier","date":1295913600000}}
+{
+    "id": 53921056,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 47,
+    "type": 33,
+    "atk": 2700,
+    "def": 2000,
+    "level": 7,
+    "race": 1,
+    "attribute": 2,
+    "category": 262144,
+    "name": "General Gantala of the Ice Barrier",
+    "desc": "Once per turn, during your End Phase, you can select and Special Summon 1 \"Ice Barrier\" monster from your Graveyard, except \"General Gantala of the Ice Barrier\".",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 53921056,
+        "pack_id": "DT08-JP034",
+        "pack": "DT08",
+        "rarity": "General Gantala of the Ice Barrier",
+        "date": 1264032000000
+    },
+    "tcg": {
+        "id": 53921056,
+        "pack_id": "DT04-EN084",
+        "pack": "DT04",
+        "rarity": "General Gantala of the Ice Barrier",
+        "date": 1295913600000
+    }
+}

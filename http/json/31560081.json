@@ -1,1 +1,47 @@
-{"id":31560081,"ot":3,"alias":0,"setcode":0,"type":2097185,"atk":300,"def":400,"level":1,"race":2,"attribute":16,"category":1024,"name":"Magician of Faith","desc":"FLIP: Target 1 Spell Card in your Graveyard; add that target to your hand.","str1":"Spell recovery","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":31560081,"pack_id":"RB-36","pack":"RB","rarity":"Magician of Faith","date":932601600000},"tcg":{"id":31560081,"pack_id":"MRD-036","pack":"MRD","rarity":"Magician of Faith","date":1025049600000}}
+{
+    "id": 31560081,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2097185,
+    "atk": 300,
+    "def": 400,
+    "level": 1,
+    "race": 2,
+    "attribute": 16,
+    "category": 1024,
+    "name": "Magician of Faith",
+    "desc": "FLIP: Target 1 Spell Card in your Graveyard; add that target to your hand.",
+    "str1": "Spell recovery",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 31560081,
+        "pack_id": "RB-36",
+        "pack": "RB",
+        "rarity": "Magician of Faith",
+        "date": 932601600000
+    },
+    "tcg": {
+        "id": 31560081,
+        "pack_id": "MRD-036",
+        "pack": "MRD",
+        "rarity": "Magician of Faith",
+        "date": 1025049600000
+    }
+}

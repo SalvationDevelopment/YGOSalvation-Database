@@ -1,1 +1,47 @@
-{"id":44635489,"ot":3,"alias":0,"setcode":83,"type":33,"atk":100,"def":1600,"level":1,"race":4,"attribute":16,"category":1074003968,"name":"Constellar Siat","desc":"If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). Once per turn: You can target 1 \"Constellar\" monster you control or in your Graveyard; this card's Level becomes the current Level of that monster. This card cannot be used as an Xyz Material, except for the Xyz Summon of a \"Constellar\" monster.","str1":"Change level","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":44635489,"pack_id":"DT14-JP015","pack":"DT14","rarity":"Constellar Siat","date":1327363200000},"tcg":{"id":44635489,"pack_id":"DT07-EN065","pack":"DT07","rarity":"Constellar Siat","date":1359676800000}}
+{
+    "id": 44635489,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 83,
+    "type": 33,
+    "atk": 100,
+    "def": 1600,
+    "level": 1,
+    "race": 4,
+    "attribute": 16,
+    "category": 1074003968,
+    "name": "Constellar Siat",
+    "desc": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). Once per turn: You can target 1 \"Constellar\" monster you control or in your Graveyard; this card's Level becomes the current Level of that monster. This card cannot be used as an Xyz Material, except for the Xyz Summon of a \"Constellar\" monster.",
+    "str1": "Change level",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 44635489,
+        "pack_id": "DT14-JP015",
+        "pack": "DT14",
+        "rarity": "Constellar Siat",
+        "date": 1327363200000
+    },
+    "tcg": {
+        "id": 44635489,
+        "pack_id": "DT07-EN065",
+        "pack": "DT07",
+        "rarity": "Constellar Siat",
+        "date": 1359676800000
+    }
+}

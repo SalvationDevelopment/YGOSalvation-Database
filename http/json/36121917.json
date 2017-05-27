@@ -1,1 +1,47 @@
-{"id":36121917,"ot":3,"alias":0,"setcode":0,"type":17,"atk":600,"def":900,"level":3,"race":1,"attribute":1,"category":0,"name":"Monster Egg","desc":"A warrior hidden within an egg that attacks enemies by flinging eggshells.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":36121917,"pack_id":"LB-16","pack":"LB","rarity":"Monster Egg","date":920678400000},"tcg":{"id":36121917,"pack_id":"LOB-017","pack":"LOB","rarity":"Monster Egg","date":1015545600000}}
+{
+    "id": 36121917,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 600,
+    "def": 900,
+    "level": 3,
+    "race": 1,
+    "attribute": 1,
+    "category": 0,
+    "name": "Monster Egg",
+    "desc": "A warrior hidden within an egg that attacks enemies by flinging eggshells.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 36121917,
+        "pack_id": "LB-16",
+        "pack": "LB",
+        "rarity": "Monster Egg",
+        "date": 920678400000
+    },
+    "tcg": {
+        "id": 36121917,
+        "pack_id": "LOB-017",
+        "pack": "LOB",
+        "rarity": "Monster Egg",
+        "date": 1015545600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":6178850,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":16785408,"name":"Fighting Spirit","desc":"The equipped monster gains 300 ATK for each monster your opponent controls. If it would be destroyed by battle, you can destroy this card instead.","str1":"Destroy \"Fighting Spirit\" instead?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":6178850,"pack_id":"TDGS-JP045","pack":"TDGS","rarity":"Fighting Spirit","date":1208563200000},"tcg":{"id":6178850,"pack_id":"TDGS-EN045","pack":"TDGS","rarity":"Fighting Spirit","date":1218240000000}}
+{
+    "id": 6178850,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 16785408,
+    "name": "Fighting Spirit",
+    "desc": "The equipped monster gains 300 ATK for each monster your opponent controls. If it would be destroyed by battle, you can destroy this card instead.",
+    "str1": "Destroy \"Fighting Spirit\" instead?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 6178850,
+        "pack_id": "TDGS-JP045",
+        "pack": "TDGS",
+        "rarity": "Fighting Spirit",
+        "date": 1208563200000
+    },
+    "tcg": {
+        "id": 6178850,
+        "pack_id": "TDGS-EN045",
+        "pack": "TDGS",
+        "rarity": "Fighting Spirit",
+        "date": 1218240000000
+    }
+}

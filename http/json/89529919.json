@@ -1,1 +1,47 @@
-{"id":89529919,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1600,"def":1200,"level":4,"race":1,"attribute":1,"category":1049088,"name":"Field-Commander Rahz","desc":"When this card is Normal or Special Summoned: Choose 1 Level 4 or lower Warrior-Type monster from your Deck, except \"Field-Commander Rahz\", and place it on top of your Deck.","str1":"Search","str2":"Please choose the card to put on top of your Deck","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":89529919,"pack_id":"PTDN-JP030","pack":"PTDN","rarity":"Field-Commander Rahz","date":1195776000000},"tcg":{"id":89529919,"pack_id":"PTDN-EN030","pack":"PTDN","rarity":"Field-Commander Rahz","date":1201305600000}}
+{
+    "id": 89529919,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1600,
+    "def": 1200,
+    "level": 4,
+    "race": 1,
+    "attribute": 1,
+    "category": 1049088,
+    "name": "Field-Commander Rahz",
+    "desc": "When this card is Normal or Special Summoned: Choose 1 Level 4 or lower Warrior-Type monster from your Deck, except \"Field-Commander Rahz\", and place it on top of your Deck.",
+    "str1": "Search",
+    "str2": "Please choose the card to put on top of your Deck",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 89529919,
+        "pack_id": "PTDN-JP030",
+        "pack": "PTDN",
+        "rarity": "Field-Commander Rahz",
+        "date": 1195776000000
+    },
+    "tcg": {
+        "id": 89529919,
+        "pack_id": "PTDN-EN030",
+        "pack": "PTDN",
+        "rarity": "Field-Commander Rahz",
+        "date": 1201305600000
+    }
+}

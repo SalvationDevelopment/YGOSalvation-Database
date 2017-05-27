@@ -1,1 +1,47 @@
-{"id":7165085,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1,"name":"Bait Doll","desc":"Target 1 Set card in the Spell & Trap Card Zone; reveal that target, force its activation if it is a Trap Card, then negate its effect if the activation timing is incorrect, and if you do, destroy it. (If it is not a Trap Card, return it face-down.) When this card resolves, shuffle it into the Deck instead of sending it to the Graveyard.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":7165085,"pack_id":"LN-45","pack":"LN","rarity":"Bait Doll","date":995673600000},"tcg":{"id":7165085,"pack_id":"LON-096","pack":"LON","rarity":"Bait Doll","date":1046476800000}}
+{
+    "id": 7165085,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1,
+    "name": "Bait Doll",
+    "desc": "Target 1 Set card in the Spell & Trap Card Zone; reveal that target, force its activation if it is a Trap Card, then negate its effect if the activation timing is incorrect, and if you do, destroy it. (If it is not a Trap Card, return it face-down.) When this card resolves, shuffle it into the Deck instead of sending it to the Graveyard.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 7165085,
+        "pack_id": "LN-45",
+        "pack": "LN",
+        "rarity": "Bait Doll",
+        "date": 995673600000
+    },
+    "tcg": {
+        "id": 7165085,
+        "pack_id": "LON-096",
+        "pack": "LON",
+        "rarity": "Bait Doll",
+        "date": 1046476800000
+    }
+}

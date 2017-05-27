@@ -1,1 +1,47 @@
-{"id":21843307,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":4,"race":1,"attribute":16,"category":262144,"name":"Copy Knight","desc":"When a Level 4 or lower Warrior-Type monster is Normal Summoned to your side of the field: Special Summon this card as a Normal Monster with the same name and Level as the Normal Summoned monster (Warrior-Type/LIGHT/ATK 0/DEF 0). (This card is also still a Trap Card.)","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":21843307,"pack_id":"DP12-JP028","pack":"DP12","rarity":"Copy Knight","date":1318636800000},"tcg":{"id":21843307,"pack_id":"GLD5-EN055","pack":"GLD5","rarity":"Copy Knight","date":1339027200000}}
+{
+    "id": 21843307,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 4,
+    "race": 1,
+    "attribute": 16,
+    "category": 262144,
+    "name": "Copy Knight",
+    "desc": "When a Level 4 or lower Warrior-Type monster is Normal Summoned to your side of the field: Special Summon this card as a Normal Monster with the same name and Level as the Normal Summoned monster (Warrior-Type/LIGHT/ATK 0/DEF 0). (This card is also still a Trap Card.)",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 21843307,
+        "pack_id": "DP12-JP028",
+        "pack": "DP12",
+        "rarity": "Copy Knight",
+        "date": 1318636800000
+    },
+    "tcg": {
+        "id": 21843307,
+        "pack_id": "GLD5-EN055",
+        "pack": "GLD5",
+        "rarity": "Copy Knight",
+        "date": 1339027200000
+    }
+}

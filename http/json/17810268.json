@@ -1,1 +1,47 @@
-{"id":17810268,"ot":3,"alias":0,"setcode":24,"type":33,"atk":500,"def":0,"level":4,"race":4,"attribute":2,"category":83886081,"name":"Cloudian - Acid Cloud","desc":"This card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. When you Normal Summon this card, place 1 Fog Counter on it for each \"Cloudian\" monster on the field. You can remove 2 Fog Counters from this card to destroy 1 Spell or Trap Card.","str1":"Place counter","str2":"S/T Destruction","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":17810268,"pack_id":"GLAS-JP010","pack":"GLAS","rarity":"Cloudian - Acid Cloud","date":1184976000000},"tcg":{"id":17810268,"pack_id":"GLAS-EN010","pack":"GLAS","rarity":"Cloudian - Acid Cloud","date":1194998400000}}
+{
+    "id": 17810268,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 24,
+    "type": 33,
+    "atk": 500,
+    "def": 0,
+    "level": 4,
+    "race": 4,
+    "attribute": 2,
+    "category": 83886081,
+    "name": "Cloudian - Acid Cloud",
+    "desc": "This card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. When you Normal Summon this card, place 1 Fog Counter on it for each \"Cloudian\" monster on the field. You can remove 2 Fog Counters from this card to destroy 1 Spell or Trap Card.",
+    "str1": "Place counter",
+    "str2": "S/T Destruction",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 17810268,
+        "pack_id": "GLAS-JP010",
+        "pack": "GLAS",
+        "rarity": "Cloudian - Acid Cloud",
+        "date": 1184976000000
+    },
+    "tcg": {
+        "id": 17810268,
+        "pack_id": "GLAS-EN010",
+        "pack": "GLAS",
+        "rarity": "Cloudian - Acid Cloud",
+        "date": 1194998400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":83519853,"ot":3,"alias":0,"setcode":721830936698,"type":8225,"atk":2100,"def":900,"level":5,"race":1,"attribute":32,"category":0,"name":"Ignoble Knight of High Laundsallyn","desc":"1 Tuner + 1 or more non-Tuner \"Noble Knight\" monsters\nWhen this card is Synchro Summoned: You can equip 1 \"Noble Arms\" Equip Spell Card from your Deck to this card. At the end of the Battle Phase, if this card destroyed a monster by battle and sent it to the Graveyard: You can add 1 \"Noble Knight\" or \"Noble Arms\" card from your Deck to your hand. You can only control 1 \"Ignoble Knight of High Laundsallyn\".","str1":"Equip 1 \"Noble Arms\" Equip Spell Card from your Deck?","str2":"Add 1 \"Noble Knight\" or \"Noble Arms\" card from your Deck to your hand?","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":83519853,"pack_id":"EP14-JP017","pack":"EP14","rarity":"Ignoble Knight of High Laundsallyn","date":1410566400000},"tcg":{"id":83519853,"pack_id":"SHSP-EN086","pack":"SHSP","rarity":"Ignoble Knight of High Laundsallyn","date":1383868800000}}
+{
+    "id": 83519853,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 721830936698,
+    "type": 8225,
+    "atk": 2100,
+    "def": 900,
+    "level": 5,
+    "race": 1,
+    "attribute": 32,
+    "category": 0,
+    "name": "Ignoble Knight of High Laundsallyn",
+    "desc": "1 Tuner + 1 or more non-Tuner \"Noble Knight\" monsters\nWhen this card is Synchro Summoned: You can equip 1 \"Noble Arms\" Equip Spell Card from your Deck to this card. At the end of the Battle Phase, if this card destroyed a monster by battle and sent it to the Graveyard: You can add 1 \"Noble Knight\" or \"Noble Arms\" card from your Deck to your hand. You can only control 1 \"Ignoble Knight of High Laundsallyn\".",
+    "str1": "Equip 1 \"Noble Arms\" Equip Spell Card from your Deck?",
+    "str2": "Add 1 \"Noble Knight\" or \"Noble Arms\" card from your Deck to your hand?",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 83519853,
+        "pack_id": "EP14-JP017",
+        "pack": "EP14",
+        "rarity": "Ignoble Knight of High Laundsallyn",
+        "date": 1410566400000
+    },
+    "tcg": {
+        "id": 83519853,
+        "pack_id": "SHSP-EN086",
+        "pack": "SHSP",
+        "rarity": "Ignoble Knight of High Laundsallyn",
+        "date": 1383868800000
+    }
+}

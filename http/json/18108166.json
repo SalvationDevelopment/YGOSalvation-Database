@@ -1,1 +1,47 @@
-{"id":18108166,"ot":3,"alias":0,"setcode":0,"type":17,"atk":2000,"def":0,"level":4,"race":8388608,"attribute":32,"category":0,"name":"Mystery Shell Dragon","desc":"Mysterious living matter that suddenly appeared from a different dimension. Its attack paralyzes the target's nerves, and causes intense hallucinations.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":18108166,"pack_id":"CORE-JP001","pack":"CORE","rarity":"Mystery Shell Dragon","date":1429920000000},"tcg":{"id":18108166,"pack_id":"CORE-EN001","pack":"CORE","rarity":"Mystery Shell Dragon","date":1438819200000}}
+{
+    "id": 18108166,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 2000,
+    "def": 0,
+    "level": 4,
+    "race": 8388608,
+    "attribute": 32,
+    "category": 0,
+    "name": "Mystery Shell Dragon",
+    "desc": "Mysterious living matter that suddenly appeared from a different dimension. Its attack paralyzes the target's nerves, and causes intense hallucinations.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 18108166,
+        "pack_id": "CORE-JP001",
+        "pack": "CORE",
+        "rarity": "Mystery Shell Dragon",
+        "date": 1429920000000
+    },
+    "tcg": {
+        "id": 18108166,
+        "pack_id": "CORE-EN001",
+        "pack": "CORE",
+        "rarity": "Mystery Shell Dragon",
+        "date": 1438819200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":69069911,"ot":3,"alias":0,"setcode":0,"type":8388641,"atk":2100,"def":1300,"level":4,"race":8192,"attribute":1,"category":1073774592,"name":"Kachi Kochi Dragon","desc":"2 Level 4 monsters\nOnce per turn, when this card destroys an opponent's monster by battle and sends it to the Graveyard: You can detach 1 Xyz Material from this card; it can attack once again in a row.","str1":"Attack again","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":69069911,"pack_id":"YZ01-JP001","pack":"YZ01","rarity":"Kachi Kochi Dragon","date":1307059200000},"tcg":{"id":69069911,"pack_id":"YZ01-EN001","pack":"YZ01","rarity":"Kachi Kochi Dragon","date":1338854400000}}
+{
+    "id": 69069911,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8388641,
+    "atk": 2100,
+    "def": 1300,
+    "level": 4,
+    "race": 8192,
+    "attribute": 1,
+    "category": 1073774592,
+    "name": "Kachi Kochi Dragon",
+    "desc": "2 Level 4 monsters\nOnce per turn, when this card destroys an opponent's monster by battle and sends it to the Graveyard: You can detach 1 Xyz Material from this card; it can attack once again in a row.",
+    "str1": "Attack again",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 69069911,
+        "pack_id": "YZ01-JP001",
+        "pack": "YZ01",
+        "rarity": "Kachi Kochi Dragon",
+        "date": 1307059200000
+    },
+    "tcg": {
+        "id": 69069911,
+        "pack_id": "YZ01-EN001",
+        "pack": "YZ01",
+        "rarity": "Kachi Kochi Dragon",
+        "date": 1338854400000
+    }
+}

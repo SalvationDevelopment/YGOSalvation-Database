@@ -1,1 +1,47 @@
-{"id":69243722,"ot":3,"alias":0,"setcode":4167,"type":33,"atk":1800,"def":800,"level":4,"race":256,"attribute":1,"category":262148,"name":"Gem-Knight Emerald","desc":"You can banish this face-up card you control and 1 face-up Normal Monster you control to target 1 \"Gem-Knight\" Fusion Monster in your Graveyard; Special Summon it from the Graveyard.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":69243722,"pack_id":"VE02-JP001","pack":"VE02","rarity":"Gem-Knight Emerald","date":1277078400000},"tcg":{"id":69243722,"pack_id":"PHSW-EN096","pack":"PHSW","rarity":"Gem-Knight Emerald","date":1320883200000}}
+{
+    "id": 69243722,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4167,
+    "type": 33,
+    "atk": 1800,
+    "def": 800,
+    "level": 4,
+    "race": 256,
+    "attribute": 1,
+    "category": 262148,
+    "name": "Gem-Knight Emerald",
+    "desc": "You can banish this face-up card you control and 1 face-up Normal Monster you control to target 1 \"Gem-Knight\" Fusion Monster in your Graveyard; Special Summon it from the Graveyard.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 69243722,
+        "pack_id": "VE02-JP001",
+        "pack": "VE02",
+        "rarity": "Gem-Knight Emerald",
+        "date": 1277078400000
+    },
+    "tcg": {
+        "id": 69243722,
+        "pack_id": "PHSW-EN096",
+        "pack": "PHSW",
+        "rarity": "Gem-Knight Emerald",
+        "date": 1320883200000
+    }
+}

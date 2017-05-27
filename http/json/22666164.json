@@ -1,1 +1,47 @@
-{"id":22666164,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1000,"def":600,"level":4,"race":32,"attribute":1,"category":262144,"name":"Commander Covington","desc":"You can send 1 face-up \"Machina Soldier\", \"Machina Sniper\", and \"Machina Defender\" you control to the Graveyard; Special Summon 1 \"Machina Force\" from your hand or Deck.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":22666164,"pack_id":"PP9-JP003","pack":"PP9","rarity":"Commander Covington","date":1134777600000},"tcg":{"id":22666164,"pack_id":"SDMM-EN005","pack":"SDMM","rarity":"Commander Covington","date":1266537600000}}
+{
+    "id": 22666164,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1000,
+    "def": 600,
+    "level": 4,
+    "race": 32,
+    "attribute": 1,
+    "category": 262144,
+    "name": "Commander Covington",
+    "desc": "You can send 1 face-up \"Machina Soldier\", \"Machina Sniper\", and \"Machina Defender\" you control to the Graveyard; Special Summon 1 \"Machina Force\" from your hand or Deck.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 22666164,
+        "pack_id": "PP9-JP003",
+        "pack": "PP9",
+        "rarity": "Commander Covington",
+        "date": 1134777600000
+    },
+    "tcg": {
+        "id": 22666164,
+        "pack_id": "SDMM-EN005",
+        "pack": "SDMM",
+        "rarity": "Commander Covington",
+        "date": 1266537600000
+    }
+}

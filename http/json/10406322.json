@@ -1,1 +1,47 @@
-{"id":10406322,"ot":3,"alias":0,"setcode":144,"type":8388641,"atk":2300,"def":3200,"level":8,"race":1024,"attribute":16,"category":0,"name":"Alsei, the Sylvan High Protector","desc":"2 Level 8 monsters\nOnce per turn: You can declare 1 card name; excavate the top card of your Deck, and if it is the declared card, add it to your hand. Otherwise, send it to the Graveyard. If a card is sent from your Deck to the Graveyard by a card effect (except during the Damage Step): You can detach 1 Xyz Material from this card, then target 1 card on the field; place that target on either the top or bottom of the Deck. You can only use this effect of \"Alsei, the Sylvan High Protector\" once per turn.","str1":"Excavate","str2":"To deck","str3":"Return to the top of the Deck","str4":"Return to the bottom of the Deck","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":10406322,"pack_id":"LVAL-JP052","pack":"LVAL","rarity":"Alsei, the Sylvan High Protector","date":1384560000000},"tcg":{"id":10406322,"pack_id":"LVAL-EN052","pack":"LVAL","rarity":"Alsei, the Sylvan High Protector","date":1390521600000}}
+{
+    "id": 10406322,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 144,
+    "type": 8388641,
+    "atk": 2300,
+    "def": 3200,
+    "level": 8,
+    "race": 1024,
+    "attribute": 16,
+    "category": 0,
+    "name": "Alsei, the Sylvan High Protector",
+    "desc": "2 Level 8 monsters\nOnce per turn: You can declare 1 card name; excavate the top card of your Deck, and if it is the declared card, add it to your hand. Otherwise, send it to the Graveyard. If a card is sent from your Deck to the Graveyard by a card effect (except during the Damage Step): You can detach 1 Xyz Material from this card, then target 1 card on the field; place that target on either the top or bottom of the Deck. You can only use this effect of \"Alsei, the Sylvan High Protector\" once per turn.",
+    "str1": "Excavate",
+    "str2": "To deck",
+    "str3": "Return to the top of the Deck",
+    "str4": "Return to the bottom of the Deck",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 10406322,
+        "pack_id": "LVAL-JP052",
+        "pack": "LVAL",
+        "rarity": "Alsei, the Sylvan High Protector",
+        "date": 1384560000000
+    },
+    "tcg": {
+        "id": 10406322,
+        "pack_id": "LVAL-EN052",
+        "pack": "LVAL",
+        "rarity": "Alsei, the Sylvan High Protector",
+        "date": 1390521600000
+    }
+}

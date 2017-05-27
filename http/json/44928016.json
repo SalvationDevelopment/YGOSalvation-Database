@@ -1,1 +1,47 @@
-{"id":44928016,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1900,"def":0,"level":4,"race":1024,"attribute":32,"category":0,"name":"World Carrotweight Champion","desc":"If this card is in your Graveyard: You can send 1 Plant-Type monster from your hand or face-up from your field to the Graveyard, except \"World Carrotweight Champion\"; Special Summon this card. You can only use this effect of \"World Carrotweight Champion\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":44928016,"pack_id":"EP15-JP059","pack":"EP15","rarity":"World Carrotweight Champion","date":1442620800000},"tcg":{"id":44928016,"pack_id":"SHVI-EN091","pack":"SHVI","rarity":"World Carrotweight Champion","date":1462406400000}}
+{
+    "id": 44928016,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1900,
+    "def": 0,
+    "level": 4,
+    "race": 1024,
+    "attribute": 32,
+    "category": 0,
+    "name": "World Carrotweight Champion",
+    "desc": "If this card is in your Graveyard: You can send 1 Plant-Type monster from your hand or face-up from your field to the Graveyard, except \"World Carrotweight Champion\"; Special Summon this card. You can only use this effect of \"World Carrotweight Champion\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 44928016,
+        "pack_id": "EP15-JP059",
+        "pack": "EP15",
+        "rarity": "World Carrotweight Champion",
+        "date": 1442620800000
+    },
+    "tcg": {
+        "id": 44928016,
+        "pack_id": "SHVI-EN091",
+        "pack": "SHVI",
+        "rarity": "World Carrotweight Champion",
+        "date": 1462406400000
+    }
+}

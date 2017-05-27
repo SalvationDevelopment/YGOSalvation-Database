@@ -1,1 +1,47 @@
-{"id":13317419,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Rocket Hand","desc":"Target 1 Attack Position monster you control with 800 or more ATK; equip this card to that target. It gains 800 ATK. You can send this equipped card to the Graveyard, then target 1 face-up card on the field; destroy it, then change the ATK of the monster this card was equipped to, to 0, also its battle position cannot be changed. You can only use 1 \"Rocket Hand\" effect per turn, and only once that turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":13317419,"pack_id":"EP15-JP067","pack":"EP15","rarity":"Rocket Hand","date":1442620800000},"tcg":{"id":13317419,"pack_id":"RATE-EN093","pack":"RATE","rarity":"Rocket Hand","date":1486598400000}}
+{
+    "id": 13317419,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Rocket Hand",
+    "desc": "Target 1 Attack Position monster you control with 800 or more ATK; equip this card to that target. It gains 800 ATK. You can send this equipped card to the Graveyard, then target 1 face-up card on the field; destroy it, then change the ATK of the monster this card was equipped to, to 0, also its battle position cannot be changed. You can only use 1 \"Rocket Hand\" effect per turn, and only once that turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 13317419,
+        "pack_id": "EP15-JP067",
+        "pack": "EP15",
+        "rarity": "Rocket Hand",
+        "date": 1442620800000
+    },
+    "tcg": {
+        "id": 13317419,
+        "pack_id": "RATE-EN093",
+        "pack": "RATE",
+        "rarity": "Rocket Hand",
+        "date": 1486598400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":55343236,"ot":3,"alias":0,"setcode":3866659,"type":33,"atk":2400,"def":2000,"level":7,"race":8192,"attribute":32,"category":327684,"name":"Malefic Red-Eyes B. Dragon","desc":"This card cannot be Normal Summoned or Set. This card can only be Special Summoned, by removing from play 1 \"Red-Eyes B. Dragon\" from your Deck. There can only be 1 face-up \"Malefic\" monster on the field. Other monsters you control cannot declare an attack. If there is no face-up Field Spell Card on the field, destroy this card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":55343236,"pack_id":"MOV2-JP001","pack":"MOV2","rarity":"Malefic Red-Eyes B. Dragon","date":1264204800000},"tcg":{"id":55343236,"pack_id":"MOV2-EN001","pack":"MOV2","rarity":"Malefic Red-Eyes B. Dragon","date":1298332800000}}
+{
+    "id": 55343236,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 3866659,
+    "type": 33,
+    "atk": 2400,
+    "def": 2000,
+    "level": 7,
+    "race": 8192,
+    "attribute": 32,
+    "category": 327684,
+    "name": "Malefic Red-Eyes B. Dragon",
+    "desc": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned, by removing from play 1 \"Red-Eyes B. Dragon\" from your Deck. There can only be 1 face-up \"Malefic\" monster on the field. Other monsters you control cannot declare an attack. If there is no face-up Field Spell Card on the field, destroy this card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 55343236,
+        "pack_id": "MOV2-JP001",
+        "pack": "MOV2",
+        "rarity": "Malefic Red-Eyes B. Dragon",
+        "date": 1264204800000
+    },
+    "tcg": {
+        "id": 55343236,
+        "pack_id": "MOV2-EN001",
+        "pack": "MOV2",
+        "rarity": "Malefic Red-Eyes B. Dragon",
+        "date": 1298332800000
+    }
+}

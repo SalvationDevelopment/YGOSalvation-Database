@@ -1,1 +1,47 @@
-{"id":95992081,"ot":3,"alias":0,"setcode":0,"type":8388641,"atk":1800,"def":1600,"level":3,"race":64,"attribute":8,"category":262144,"name":"Leviair the Sea Dragon","desc":"2 Level 3 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 banished Level 4 or lower monster; Special Summon that target to your side of the field.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":95992081,"pack_id":"GENF-JP043","pack":"GENF","rarity":"Leviair the Sea Dragon","date":1302912000000},"tcg":{"id":95992081,"pack_id":"GENF-EN043","pack":"GENF","rarity":"Leviair the Sea Dragon","date":1312588800000}}
+{
+    "id": 95992081,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8388641,
+    "atk": 1800,
+    "def": 1600,
+    "level": 3,
+    "race": 64,
+    "attribute": 8,
+    "category": 262144,
+    "name": "Leviair the Sea Dragon",
+    "desc": "2 Level 3 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 banished Level 4 or lower monster; Special Summon that target to your side of the field.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 95992081,
+        "pack_id": "GENF-JP043",
+        "pack": "GENF",
+        "rarity": "Leviair the Sea Dragon",
+        "date": 1302912000000
+    },
+    "tcg": {
+        "id": 95992081,
+        "pack_id": "GENF-EN043",
+        "pack": "GENF",
+        "rarity": "Leviair the Sea Dragon",
+        "date": 1312588800000
+    }
+}

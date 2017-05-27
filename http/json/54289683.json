@@ -1,1 +1,47 @@
-{"id":54289683,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Power Capsule","desc":"Select 1 face-up \"Victory Viper XX03\" on your side of the field to activate this card. Select 1 effect of \"Victory Viper XX03\", and apply the effect as this card's effect.","str1":"Select 1 face-up \"Victory Viper XX03\"","str2":"Gain 400 ATK","str3":"Destroy 1 face-up Spell or Trap card","str4":"Special Summon 1 \"Option Token\"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":54289683,"pack_id":"EOJ-JP043","pack":"EOJ","rarity":"Power Capsule","date":1140048000000},"tcg":{"id":54289683,"pack_id":"EOJ-EN043","pack":"EOJ","rarity":"Power Capsule","date":1147824000000}}
+{
+    "id": 54289683,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Power Capsule",
+    "desc": "Select 1 face-up \"Victory Viper XX03\" on your side of the field to activate this card. Select 1 effect of \"Victory Viper XX03\", and apply the effect as this card's effect.",
+    "str1": "Select 1 face-up \"Victory Viper XX03\"",
+    "str2": "Gain 400 ATK",
+    "str3": "Destroy 1 face-up Spell or Trap card",
+    "str4": "Special Summon 1 \"Option Token\"",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 54289683,
+        "pack_id": "EOJ-JP043",
+        "pack": "EOJ",
+        "rarity": "Power Capsule",
+        "date": 1140048000000
+    },
+    "tcg": {
+        "id": 54289683,
+        "pack_id": "EOJ-EN043",
+        "pack": "EOJ",
+        "rarity": "Power Capsule",
+        "date": 1147824000000
+    }
+}

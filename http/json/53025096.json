@@ -1,1 +1,47 @@
-{"id":53025096,"ot":3,"alias":0,"setcode":153,"type":33,"atk":2500,"def":2000,"level":7,"race":8192,"attribute":32,"category":0,"name":"Odd-Eyes Dragon","desc":"If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to half the original ATK of that monster in the Graveyard.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":53025096,"pack_id":"ST14-JPA01","pack":"ST14","rarity":"Odd-Eyes Dragon","date":1395360000000},"tcg":{"id":53025096,"pack_id":"YS14-ENA01","pack":"YS14","rarity":"Odd-Eyes Dragon","date":1404950400000}}
+{
+    "id": 53025096,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 153,
+    "type": 33,
+    "atk": 2500,
+    "def": 2000,
+    "level": 7,
+    "race": 8192,
+    "attribute": 32,
+    "category": 0,
+    "name": "Odd-Eyes Dragon",
+    "desc": "If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to half the original ATK of that monster in the Graveyard.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 53025096,
+        "pack_id": "ST14-JPA01",
+        "pack": "ST14",
+        "rarity": "Odd-Eyes Dragon",
+        "date": 1395360000000
+    },
+    "tcg": {
+        "id": 53025096,
+        "pack_id": "YS14-ENA01",
+        "pack": "YS14",
+        "rarity": "Odd-Eyes Dragon",
+        "date": 1404950400000
+    }
+}

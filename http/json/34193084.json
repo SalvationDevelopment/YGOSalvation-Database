@@ -1,1 +1,47 @@
-{"id":34193084,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1700,"def":1500,"level":4,"race":16,"attribute":32,"category":262144,"name":"Fear from the Dark","desc":"When this card is sent from your hand or Deck to your Graveyard by an opponent's card effect: Special Summon this card.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":34193084,"pack_id":"304-025","pack":"304","rarity":"Fear from the Dark","date":1037836800000},"tcg":{"id":34193084,"pack_id":"DCR-025","pack":"DCR","rarity":"Fear from the Dark","date":1070236800000}}
+{
+    "id": 34193084,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1700,
+    "def": 1500,
+    "level": 4,
+    "race": 16,
+    "attribute": 32,
+    "category": 262144,
+    "name": "Fear from the Dark",
+    "desc": "When this card is sent from your hand or Deck to your Graveyard by an opponent's card effect: Special Summon this card.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 34193084,
+        "pack_id": "304-025",
+        "pack": "304",
+        "rarity": "Fear from the Dark",
+        "date": 1037836800000
+    },
+    "tcg": {
+        "id": 34193084,
+        "pack_id": "DCR-025",
+        "pack": "DCR",
+        "rarity": "Fear from the Dark",
+        "date": 1070236800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":47594939,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"And the Band Played On","desc":"Neither player can Special Summon monsters with the same Level as those they control. Neither player can Special Summon monsters with the same Rank as those they control.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":47594939,"pack_id":"PRIO-JP079","pack":"PRIO","rarity":"And the Band Played On","date":1392422400000},"tcg":{"id":47594939,"pack_id":"PRIO-EN079","pack":"PRIO","rarity":"And the Band Played On","date":1400198400000}}
+{
+    "id": 47594939,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "And the Band Played On",
+    "desc": "Neither player can Special Summon monsters with the same Level as those they control. Neither player can Special Summon monsters with the same Rank as those they control.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 47594939,
+        "pack_id": "PRIO-JP079",
+        "pack": "PRIO",
+        "rarity": "And the Band Played On",
+        "date": 1392422400000
+    },
+    "tcg": {
+        "id": 47594939,
+        "pack_id": "PRIO-EN079",
+        "pack": "PRIO",
+        "rarity": "And the Band Played On",
+        "date": 1400198400000
+    }
+}

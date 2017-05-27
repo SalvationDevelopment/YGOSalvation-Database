@@ -1,1 +1,47 @@
-{"id":74153887,"ot":3,"alias":0,"setcode":26,"type":33,"atk":1000,"def":1800,"level":4,"race":1,"attribute":32,"category":1552,"name":"Dark Scorpion - Meanae the Thorn","desc":"When this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:\n● Add 1 \"Dark Scorpion\" card from your Deck to your hand.\n● Target 1 \"Dark Scorpion\" card in your Graveyard; add that target to your hand.","str1":"Select effect","str2":"Add 1 card that includes \"Dark Scorpion\" in its card name, or is named \"Cliff the Trap Remover\", from your Deck to your hand.","str3":"Add 1 card that includes \"Dark Scorpion\" in its card name, or is named \"Cliff the Trap Remover\", from your Graveyard to your hand.","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":74153887,"pack_id":"305-008","pack":"305","rarity":"Dark Scorpion - Meanae the Thorn","date":1045699200000},"tcg":{"id":74153887,"pack_id":"DCR-061","pack":"DCR","rarity":"Dark Scorpion - Meanae the Thorn","date":1070236800000}}
+{
+    "id": 74153887,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 26,
+    "type": 33,
+    "atk": 1000,
+    "def": 1800,
+    "level": 4,
+    "race": 1,
+    "attribute": 32,
+    "category": 1552,
+    "name": "Dark Scorpion - Meanae the Thorn",
+    "desc": "When this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:\n● Add 1 \"Dark Scorpion\" card from your Deck to your hand.\n● Target 1 \"Dark Scorpion\" card in your Graveyard; add that target to your hand.",
+    "str1": "Select effect",
+    "str2": "Add 1 card that includes \"Dark Scorpion\" in its card name, or is named \"Cliff the Trap Remover\", from your Deck to your hand.",
+    "str3": "Add 1 card that includes \"Dark Scorpion\" in its card name, or is named \"Cliff the Trap Remover\", from your Graveyard to your hand.",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 74153887,
+        "pack_id": "305-008",
+        "pack": "305",
+        "rarity": "Dark Scorpion - Meanae the Thorn",
+        "date": 1045699200000
+    },
+    "tcg": {
+        "id": 74153887,
+        "pack_id": "DCR-061",
+        "pack": "DCR",
+        "rarity": "Dark Scorpion - Meanae the Thorn",
+        "date": 1070236800000
+    }
+}

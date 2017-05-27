@@ -1,1 +1,47 @@
-{"id":67328336,"ot":3,"alias":0,"setcode":19,"type":524290,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":33554944,"name":"Meklord Fortress","desc":"\"Meklord Emperor\" monsters you control cannot be targeted by the effects of Synchro Monsters. When this card on the field is destroyed and sent to the Graveyard: You can add 1 \"Meklord Emperor\" monster from your Deck to your hand.","str1":"Search","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":67328336,"pack_id":"VB13-JP002","pack":"VB13","rarity":"Meklord Fortress","date":1282262400000},"tcg":{"id":67328336,"pack_id":"EXVC-EN095","pack":"EXVC","rarity":"Meklord Fortress","date":1304121600000}}
+{
+    "id": 67328336,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 19,
+    "type": 524290,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 33554944,
+    "name": "Meklord Fortress",
+    "desc": "\"Meklord Emperor\" monsters you control cannot be targeted by the effects of Synchro Monsters. When this card on the field is destroyed and sent to the Graveyard: You can add 1 \"Meklord Emperor\" monster from your Deck to your hand.",
+    "str1": "Search",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 67328336,
+        "pack_id": "VB13-JP002",
+        "pack": "VB13",
+        "rarity": "Meklord Fortress",
+        "date": 1282262400000
+    },
+    "tcg": {
+        "id": 67328336,
+        "pack_id": "EXVC-EN095",
+        "pack": "EXVC",
+        "rarity": "Meklord Fortress",
+        "date": 1304121600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":26902560,"ot":3,"alias":0,"setcode":70,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":512,"name":"Fusion Sage","desc":"Add 1 \"Polymerization\" card from your Deck to your hand. Then shuffle your Deck.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":26902560,"pack_id":"B3-50","pack":"B3","rarity":"Fusion Sage","date":944006400000},"tcg":{"id":26902560,"pack_id":"TP6-EN003","pack":"TP6","rarity":"Fusion Sage","date":1117584000000}}
+{
+    "id": 26902560,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 70,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 512,
+    "name": "Fusion Sage",
+    "desc": "Add 1 \"Polymerization\" card from your Deck to your hand. Then shuffle your Deck.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 26902560,
+        "pack_id": "B3-50",
+        "pack": "B3",
+        "rarity": "Fusion Sage",
+        "date": 944006400000
+    },
+    "tcg": {
+        "id": 26902560,
+        "pack_id": "TP6-EN003",
+        "pack": "TP6",
+        "rarity": "Fusion Sage",
+        "date": 1117584000000
+    }
+}

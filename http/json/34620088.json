@@ -1,1 +1,47 @@
-{"id":34620088,"ot":3,"alias":0,"setcode":131,"type":33,"atk":1000,"def":1000,"level":8,"race":32,"attribute":32,"category":0,"name":"Gimmick Puppet Shadow Feeler","desc":"Cannot be destroyed by battle. When you take battle damage from an opponent's direct attack while this card is in your Graveyard: You can Special Summon this card from your Graveyard in face-up Attack Position, and if you do, take 1000 damage. You can only use this effect of \"Gimmick Puppet Shadow Feeler\" once per turn. If this card is an Xyz Material and would be sent to the Graveyard, banish it instead.","str1":"Activate effect?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":34620088,"pack_id":"PP16-JP003","pack":"PP16","rarity":"Gimmick Puppet Shadow Feeler","date":1395360000000},"tcg":{"id":34620088,"pack_id":"PGLD-EN012","pack":"PGLD","rarity":"Gimmick Puppet Shadow Feeler","date":1395964800000}}
+{
+    "id": 34620088,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 131,
+    "type": 33,
+    "atk": 1000,
+    "def": 1000,
+    "level": 8,
+    "race": 32,
+    "attribute": 32,
+    "category": 0,
+    "name": "Gimmick Puppet Shadow Feeler",
+    "desc": "Cannot be destroyed by battle. When you take battle damage from an opponent's direct attack while this card is in your Graveyard: You can Special Summon this card from your Graveyard in face-up Attack Position, and if you do, take 1000 damage. You can only use this effect of \"Gimmick Puppet Shadow Feeler\" once per turn. If this card is an Xyz Material and would be sent to the Graveyard, banish it instead.",
+    "str1": "Activate effect?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 34620088,
+        "pack_id": "PP16-JP003",
+        "pack": "PP16",
+        "rarity": "Gimmick Puppet Shadow Feeler",
+        "date": 1395360000000
+    },
+    "tcg": {
+        "id": 34620088,
+        "pack_id": "PGLD-EN012",
+        "pack": "PGLD",
+        "rarity": "Gimmick Puppet Shadow Feeler",
+        "date": 1395964800000
+    }
+}

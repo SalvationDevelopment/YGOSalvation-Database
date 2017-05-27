@@ -1,1 +1,47 @@
-{"id":10178757,"ot":3,"alias":0,"setcode":4098,"type":4129,"atk":300,"def":300,"level":1,"race":2,"attribute":32,"category":537133056,"name":"R-Genex Oracle","desc":"If this card is added from your Deck to your hand by the effect of a \"Genex\" monster, you can Special Summon this card. This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a \"Genex\" monster.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":10178757,"pack_id":"DT06-JP024","pack":"DT06","rarity":"R-Genex Oracle","date":1246406400000},"tcg":{"id":10178757,"pack_id":"DT03-EN074","pack":"DT03","rarity":"R-Genex Oracle","date":1285372800000}}
+{
+    "id": 10178757,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4098,
+    "type": 4129,
+    "atk": 300,
+    "def": 300,
+    "level": 1,
+    "race": 2,
+    "attribute": 32,
+    "category": 537133056,
+    "name": "R-Genex Oracle",
+    "desc": "If this card is added from your Deck to your hand by the effect of a \"Genex\" monster, you can Special Summon this card. This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a \"Genex\" monster.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 10178757,
+        "pack_id": "DT06-JP024",
+        "pack": "DT06",
+        "rarity": "R-Genex Oracle",
+        "date": 1246406400000
+    },
+    "tcg": {
+        "id": 10178757,
+        "pack_id": "DT03-EN074",
+        "pack": "DT03",
+        "rarity": "R-Genex Oracle",
+        "date": 1285372800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":65403020,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2500,"def":0,"level":6,"race":8,"attribute":32,"category":-2147483648,"name":"The End of Anubis","desc":"While this card is face-up on the field, all effects of Spell, Trap, and Monster Cards that target a card(s) in the Graveyard or that activate in the Graveyard are negated.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":65403020,"pack_id":"309-056","pack":"309","rarity":"The End of Anubis","date":1077753600000},"tcg":{"id":65403020,"pack_id":"AST-000","pack":"AST","rarity":"The End of Anubis","date":1086048000000}}
+{
+    "id": 65403020,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2500,
+    "def": 0,
+    "level": 6,
+    "race": 8,
+    "attribute": 32,
+    "category": -2147483648,
+    "name": "The End of Anubis",
+    "desc": "While this card is face-up on the field, all effects of Spell, Trap, and Monster Cards that target a card(s) in the Graveyard or that activate in the Graveyard are negated.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 65403020,
+        "pack_id": "309-056",
+        "pack": "309",
+        "rarity": "The End of Anubis",
+        "date": 1077753600000
+    },
+    "tcg": {
+        "id": 65403020,
+        "pack_id": "AST-000",
+        "pack": "AST",
+        "rarity": "The End of Anubis",
+        "date": 1086048000000
+    }
+}

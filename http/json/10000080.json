@@ -1,1 +1,47 @@
-{"id":10000080,"ot":3,"alias":0,"setcode":0,"type":33,"atk":-2,"def":-2,"level":10,"race":2097152,"attribute":64,"category":0,"name":"The Winged Dragon of Ra - Sphere Mode","desc":"Cannot be Special Summoned. Requires 3 Tributes from either side of the field to Normal Summon to that side of the field (cannot be Normal Set), then shift control to this card's owner during the End Phase of the next turn. Cannot attack. Your opponent cannot target this card for attacks or by card effects. You can Tribute this card; Special Summon 1 \"The Winged Dragon of Ra\" from your hand or Deck, ignoring its Summoning conditions, and if you do, its ATK and DEF become 4000.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":10000080,"pack_id":"DP16-JP001","pack":"DP16","rarity":"The Winged Dragon of Ra - Sphere Mode","date":1433548800000},"tcg":{"id":10000080,"pack_id":"DPBC-EN001","pack":"DPBC","rarity":"The Winged Dragon of Ra - Sphere Mode","date":1434672000000}}
+{
+    "id": 10000080,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": -2,
+    "def": -2,
+    "level": 10,
+    "race": 2097152,
+    "attribute": 64,
+    "category": 0,
+    "name": "The Winged Dragon of Ra - Sphere Mode",
+    "desc": "Cannot be Special Summoned. Requires 3 Tributes from either side of the field to Normal Summon to that side of the field (cannot be Normal Set), then shift control to this card's owner during the End Phase of the next turn. Cannot attack. Your opponent cannot target this card for attacks or by card effects. You can Tribute this card; Special Summon 1 \"The Winged Dragon of Ra\" from your hand or Deck, ignoring its Summoning conditions, and if you do, its ATK and DEF become 4000.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 10000080,
+        "pack_id": "DP16-JP001",
+        "pack": "DP16",
+        "rarity": "The Winged Dragon of Ra - Sphere Mode",
+        "date": 1433548800000
+    },
+    "tcg": {
+        "id": 10000080,
+        "pack_id": "DPBC-EN001",
+        "pack": "DPBC",
+        "rarity": "The Winged Dragon of Ra - Sphere Mode",
+        "date": 1434672000000
+    }
+}

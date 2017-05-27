@@ -1,1 +1,47 @@
-{"id":12299841,"ot":3,"alias":0,"setcode":88,"type":33,"atk":1800,"def":1200,"level":4,"race":1,"attribute":1,"category":8192,"name":"Wind-Up Soldier","desc":"During your Main Phase: You can increase this card's Level by 1 and ATK by 400, until the End Phase. This effect can only be used once while this card is face-up on the field.","str1":"Increase Level and ATK","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":12299841,"pack_id":"GENF-JP013","pack":"GENF","rarity":"Wind-Up Soldier","date":1302912000000},"tcg":{"id":12299841,"pack_id":"GENF-EN013","pack":"GENF","rarity":"Wind-Up Soldier","date":1312588800000}}
+{
+    "id": 12299841,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 88,
+    "type": 33,
+    "atk": 1800,
+    "def": 1200,
+    "level": 4,
+    "race": 1,
+    "attribute": 1,
+    "category": 8192,
+    "name": "Wind-Up Soldier",
+    "desc": "During your Main Phase: You can increase this card's Level by 1 and ATK by 400, until the End Phase. This effect can only be used once while this card is face-up on the field.",
+    "str1": "Increase Level and ATK",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 12299841,
+        "pack_id": "GENF-JP013",
+        "pack": "GENF",
+        "rarity": "Wind-Up Soldier",
+        "date": 1302912000000
+    },
+    "tcg": {
+        "id": 12299841,
+        "pack_id": "GENF-EN013",
+        "pack": "GENF",
+        "rarity": "Wind-Up Soldier",
+        "date": 1312588800000
+    }
+}

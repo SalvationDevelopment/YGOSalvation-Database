@@ -1,1 +1,47 @@
-{"id":17021204,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2300,"def":1200,"level":6,"race":2048,"attribute":32,"category":1310720,"name":"Mother Spider","desc":"If you have only Insect-Type monsters in your Graveyard, you can send 2 face-up Defense Position monsters your opponent controls to the Graveyard and Special Summon this card from your hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":17021204,"pack_id":"SOVR-JP019","pack":"SOVR","rarity":"Mother Spider","date":1247875200000},"tcg":{"id":17021204,"pack_id":"SOVR-EN019","pack":"SOVR","rarity":"Mother Spider","date":1258416000000}}
+{
+    "id": 17021204,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2300,
+    "def": 1200,
+    "level": 6,
+    "race": 2048,
+    "attribute": 32,
+    "category": 1310720,
+    "name": "Mother Spider",
+    "desc": "If you have only Insect-Type monsters in your Graveyard, you can send 2 face-up Defense Position monsters your opponent controls to the Graveyard and Special Summon this card from your hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 17021204,
+        "pack_id": "SOVR-JP019",
+        "pack": "SOVR",
+        "rarity": "Mother Spider",
+        "date": 1247875200000
+    },
+    "tcg": {
+        "id": 17021204,
+        "pack_id": "SOVR-EN019",
+        "pack": "SOVR",
+        "rarity": "Mother Spider",
+        "date": 1258416000000
+    }
+}

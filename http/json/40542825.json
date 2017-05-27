@@ -1,1 +1,47 @@
-{"id":40542825,"ot":1,"alias":0,"setcode":192,"type":33,"atk":1850,"def":1500,"level":4,"race":2,"attribute":16,"category":1,"name":"Familiar-Possessed - Lyna","desc":"You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Lyna the Light Charmer\" you control and 1 face-up LIGHT monster you control to the Graveyard. When Summoned this way: You can add 1 Spellcaster-Type monster with 1500 DEF from your Deck to your hand, except \"Familiar-Possessed - Lyna\". If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage to your opponent.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG","ocg":{"id":40542825,"pack_id":"MACR-JP037","pack":"MACR","rarity":"Familiar-Possessed - Lyna","date":1484352000000},"tcg":{"id":40542825,"pack_id":"MACR-EN037","pack":"MACR","rarity":"Familiar-Possessed - Lyna","date":1493856000000}}
+{
+    "id": 40542825,
+    "ot": 1,
+    "alias": 0,
+    "setcode": 192,
+    "type": 33,
+    "atk": 1850,
+    "def": 1500,
+    "level": 4,
+    "race": 2,
+    "attribute": 16,
+    "category": 1,
+    "name": "Familiar-Possessed - Lyna",
+    "desc": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Lyna the Light Charmer\" you control and 1 face-up LIGHT monster you control to the Graveyard. When Summoned this way: You can add 1 Spellcaster-Type monster with 1500 DEF from your Deck to your hand, except \"Familiar-Possessed - Lyna\". If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG",
+    "ocg": {
+        "id": 40542825,
+        "pack_id": "MACR-JP037",
+        "pack": "MACR",
+        "rarity": "Familiar-Possessed - Lyna",
+        "date": 1484352000000
+    },
+    "tcg": {
+        "id": 40542825,
+        "pack_id": "MACR-EN037",
+        "pack": "MACR",
+        "rarity": "Familiar-Possessed - Lyna",
+        "date": 1493856000000
+    }
+}

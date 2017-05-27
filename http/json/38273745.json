@@ -1,1 +1,47 @@
-{"id":38273745,"ot":3,"alias":0,"setcode":10,"type":8388641,"atk":2750,"def":1950,"level":4,"race":8192,"attribute":32,"category":28,"name":"Evilswarm Ouroboros","desc":"3 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then activate 1 of these effects. Each effect can only be used once while this card is face-up on the field.\n● Target 1 card your opponent controls; return that target to the hand.\n● Send 1 random card from your opponent's hand to the Graveyard.\n● Target 1 card in your opponent's Graveyard; banish that target.","str1":"Select effect","str2":"Target 1 card your opponent controls; return it to the hand.","str3":"Send 1 random card from your opponent's hand to the Graveyard.","str4":"Banish 1 card in your opponent's Graveyard.","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":38273745,"pack_id":"DT14-JP042","pack":"DT14","rarity":"Evilswarm Ouroboros","date":1327363200000},"tcg":{"id":38273745,"pack_id":"DT07-EN092","pack":"DT07","rarity":"Evilswarm Ouroboros","date":1359676800000}}
+{
+    "id": 38273745,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 10,
+    "type": 8388641,
+    "atk": 2750,
+    "def": 1950,
+    "level": 4,
+    "race": 8192,
+    "attribute": 32,
+    "category": 28,
+    "name": "Evilswarm Ouroboros",
+    "desc": "3 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then activate 1 of these effects. Each effect can only be used once while this card is face-up on the field.\n● Target 1 card your opponent controls; return that target to the hand.\n● Send 1 random card from your opponent's hand to the Graveyard.\n● Target 1 card in your opponent's Graveyard; banish that target.",
+    "str1": "Select effect",
+    "str2": "Target 1 card your opponent controls; return it to the hand.",
+    "str3": "Send 1 random card from your opponent's hand to the Graveyard.",
+    "str4": "Banish 1 card in your opponent's Graveyard.",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 38273745,
+        "pack_id": "DT14-JP042",
+        "pack": "DT14",
+        "rarity": "Evilswarm Ouroboros",
+        "date": 1327363200000
+    },
+    "tcg": {
+        "id": 38273745,
+        "pack_id": "DT07-EN092",
+        "pack": "DT07",
+        "rarity": "Evilswarm Ouroboros",
+        "date": 1359676800000
+    }
+}

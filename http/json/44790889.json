@@ -1,1 +1,47 @@
-{"id":44790889,"ot":3,"alias":0,"setcode":107,"type":33,"atk":2300,"def":2000,"level":6,"race":1,"attribute":1,"category":0,"name":"Hammer Bounzer","desc":"If your opponent controls a card and you control no cards, you can Normal Summon this card without Tributing. If this card attacks an opponent's monster, as long as you control no Spell/Trap Cards, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.","str1":"Normal Summon without Tributes","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":44790889,"pack_id":"GAOV-JP009","pack":"GAOV","rarity":"Hammer Bounzer","date":1329523200000},"tcg":{"id":44790889,"pack_id":"GAOV-EN009","pack":"GAOV","rarity":"Hammer Bounzer","date":1335571200000}}
+{
+    "id": 44790889,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 107,
+    "type": 33,
+    "atk": 2300,
+    "def": 2000,
+    "level": 6,
+    "race": 1,
+    "attribute": 1,
+    "category": 0,
+    "name": "Hammer Bounzer",
+    "desc": "If your opponent controls a card and you control no cards, you can Normal Summon this card without Tributing. If this card attacks an opponent's monster, as long as you control no Spell/Trap Cards, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.",
+    "str1": "Normal Summon without Tributes",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 44790889,
+        "pack_id": "GAOV-JP009",
+        "pack": "GAOV",
+        "rarity": "Hammer Bounzer",
+        "date": 1329523200000
+    },
+    "tcg": {
+        "id": 44790889,
+        "pack_id": "GAOV-EN009",
+        "pack": "GAOV",
+        "rarity": "Hammer Bounzer",
+        "date": 1335571200000
+    }
+}

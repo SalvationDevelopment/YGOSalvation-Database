@@ -1,1 +1,47 @@
-{"id":1781310,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":323,"name":"Fuh-Rin-Ka-Zan","desc":"When there are face-up WIND, WATER, FIRE and EARTH monster(s) on the field: Apply 1 of these effects.\n● Destroy all monsters your opponent controls.\n● Destroy all Spell and Trap Cards your opponent controls.\n● Discard 2 random cards from your opponent's hand.\n● Draw 2 cards.","str1":"Destroy all monsters on your opponent's side of the field","str2":"Destroy all Spell and Trap Cards on your opponent's side of the field","str3":"Randomly discard 2 cards from your opponent's hand","str4":"Draw 2 cards","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":1781310,"pack_id":"RDS-JP055","pack":"RDS","rarity":"Fuh-Rin-Ka-Zan","date":1091664000000},"tcg":{"id":1781310,"pack_id":"RDS-EN055","pack":"RDS","rarity":"Fuh-Rin-Ka-Zan","date":1100908800000}}
+{
+    "id": 1781310,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 323,
+    "name": "Fuh-Rin-Ka-Zan",
+    "desc": "When there are face-up WIND, WATER, FIRE and EARTH monster(s) on the field: Apply 1 of these effects.\n● Destroy all monsters your opponent controls.\n● Destroy all Spell and Trap Cards your opponent controls.\n● Discard 2 random cards from your opponent's hand.\n● Draw 2 cards.",
+    "str1": "Destroy all monsters on your opponent's side of the field",
+    "str2": "Destroy all Spell and Trap Cards on your opponent's side of the field",
+    "str3": "Randomly discard 2 cards from your opponent's hand",
+    "str4": "Draw 2 cards",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 1781310,
+        "pack_id": "RDS-JP055",
+        "pack": "RDS",
+        "rarity": "Fuh-Rin-Ka-Zan",
+        "date": 1091664000000
+    },
+    "tcg": {
+        "id": 1781310,
+        "pack_id": "RDS-EN055",
+        "pack": "RDS",
+        "rarity": "Fuh-Rin-Ka-Zan",
+        "date": 1100908800000
+    }
+}

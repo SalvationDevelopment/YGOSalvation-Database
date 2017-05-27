@@ -1,1 +1,47 @@
-{"id":22093873,"ot":3,"alias":0,"setcode":40968,"type":97,"atk":2700,"def":1900,"level":8,"race":1,"attribute":8,"category":0,"name":"Masked HERO Divine Wind","desc":"Must be Special Summoned with \"Mask Change\" and cannot be Special Summoned by other ways. Cannot be destroyed by battle. Your opponent can attack with only 1 monster during each Battle Phase. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can draw 1 card.","str1":"Draw 1 card?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":22093873,"pack_id":"SD27-JP043","pack":"SD27","rarity":"Masked HERO Divine Wind","date":1403308800000},"tcg":{"id":22093873,"pack_id":"SDHS-EN043","pack":"SDHS","rarity":"Masked HERO Divine Wind","date":1422489600000}}
+{
+    "id": 22093873,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 40968,
+    "type": 97,
+    "atk": 2700,
+    "def": 1900,
+    "level": 8,
+    "race": 1,
+    "attribute": 8,
+    "category": 0,
+    "name": "Masked HERO Divine Wind",
+    "desc": "Must be Special Summoned with \"Mask Change\" and cannot be Special Summoned by other ways. Cannot be destroyed by battle. Your opponent can attack with only 1 monster during each Battle Phase. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can draw 1 card.",
+    "str1": "Draw 1 card?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 22093873,
+        "pack_id": "SD27-JP043",
+        "pack": "SD27",
+        "rarity": "Masked HERO Divine Wind",
+        "date": 1403308800000
+    },
+    "tcg": {
+        "id": 22093873,
+        "pack_id": "SDHS-EN043",
+        "pack": "SDHS",
+        "rarity": "Masked HERO Divine Wind",
+        "date": 1422489600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":94096616,"ot":3,"alias":0,"setcode":136,"type":33,"atk":1700,"def":500,"level":4,"race":512,"attribute":16,"category":131072,"name":"Bujingi Ophidian","desc":"During your Main Phase 1: You can send this card from your hand to the Graveyard, then target 1 \"Bujin\" monster you control; it can attack your opponent directly this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":94096616,"pack_id":"JOTL-JP021","pack":"JOTL","rarity":"Bujingi Ophidian","date":1366416000000},"tcg":{"id":94096616,"pack_id":"JOTL-EN021","pack":"JOTL","rarity":"Bujingi Ophidian","date":1375920000000}}
+{
+    "id": 94096616,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 136,
+    "type": 33,
+    "atk": 1700,
+    "def": 500,
+    "level": 4,
+    "race": 512,
+    "attribute": 16,
+    "category": 131072,
+    "name": "Bujingi Ophidian",
+    "desc": "During your Main Phase 1: You can send this card from your hand to the Graveyard, then target 1 \"Bujin\" monster you control; it can attack your opponent directly this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 94096616,
+        "pack_id": "JOTL-JP021",
+        "pack": "JOTL",
+        "rarity": "Bujingi Ophidian",
+        "date": 1366416000000
+    },
+    "tcg": {
+        "id": 94096616,
+        "pack_id": "JOTL-EN021",
+        "pack": "JOTL",
+        "rarity": "Bujingi Ophidian",
+        "date": 1375920000000
+    }
+}

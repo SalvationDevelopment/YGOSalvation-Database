@@ -1,1 +1,47 @@
-{"id":33950246,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":-2147483648,"name":"Royal Command","desc":"Flip monsters' effects cannot be activated, also their effects are negated.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":33950246,"pack_id":"LN-29","pack":"LN","rarity":"Royal Command","date":995673600000},"tcg":{"id":33950246,"pack_id":"LON-080","pack":"LON","rarity":"Royal Command","date":1046476800000}}
+{
+    "id": 33950246,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": -2147483648,
+    "name": "Royal Command",
+    "desc": "Flip monsters' effects cannot be activated, also their effects are negated.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 33950246,
+        "pack_id": "LN-29",
+        "pack": "LN",
+        "rarity": "Royal Command",
+        "date": 995673600000
+    },
+    "tcg": {
+        "id": 33950246,
+        "pack_id": "LON-080",
+        "pack": "LON",
+        "rarity": "Royal Command",
+        "date": 1046476800000
+    }
+}

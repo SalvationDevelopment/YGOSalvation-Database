@@ -1,1 +1,47 @@
-{"id":7489323,"ot":3,"alias":0,"setcode":0,"type":33,"atk":300,"def":250,"level":1,"race":16384,"attribute":1,"category":2105344,"name":"Milus Radiant","desc":"As long as this card remains face-up on the field, increase the ATK of all EARTH monsters by 500 points and decrease the ATK of all WIND monsters by 400 points.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":7489323,"pack_id":"ME-50","pack":"ME","rarity":"Milus Radiant","date":942883200000},"tcg":{"id":7489323,"pack_id":"MRD-110","pack":"MRD","rarity":"Milus Radiant","date":1025049600000}}
+{
+    "id": 7489323,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 300,
+    "def": 250,
+    "level": 1,
+    "race": 16384,
+    "attribute": 1,
+    "category": 2105344,
+    "name": "Milus Radiant",
+    "desc": "As long as this card remains face-up on the field, increase the ATK of all EARTH monsters by 500 points and decrease the ATK of all WIND monsters by 400 points.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 7489323,
+        "pack_id": "ME-50",
+        "pack": "ME",
+        "rarity": "Milus Radiant",
+        "date": 942883200000
+    },
+    "tcg": {
+        "id": 7489323,
+        "pack_id": "MRD-110",
+        "pack": "MRD",
+        "rarity": "Milus Radiant",
+        "date": 1025049600000
+    }
+}

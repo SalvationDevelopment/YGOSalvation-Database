@@ -1,1 +1,47 @@
-{"id":92784374,"ot":3,"alias":0,"setcode":58,"type":2097185,"atk":1000,"def":1800,"level":4,"race":2,"attribute":2,"category":512,"name":"Gishki Ariel","desc":"FLIP: You can add 1 \"Gishki\" monster from your Deck to your hand.","str1":"Add to hand","str2":"Add 1 \"Gishki\" monster from your Deck to your hand?","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":92784374,"pack_id":"DT10-JP018","pack":"DT10","rarity":"Gishki Ariel","date":1338768000000},"tcg":{"id":92784374,"pack_id":"DT05-EN068","pack":"DT05","rarity":"Gishki Ariel","date":1317254400000}}
+{
+    "id": 92784374,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 58,
+    "type": 2097185,
+    "atk": 1000,
+    "def": 1800,
+    "level": 4,
+    "race": 2,
+    "attribute": 2,
+    "category": 512,
+    "name": "Gishki Ariel",
+    "desc": "FLIP: You can add 1 \"Gishki\" monster from your Deck to your hand.",
+    "str1": "Add to hand",
+    "str2": "Add 1 \"Gishki\" monster from your Deck to your hand?",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 92784374,
+        "pack_id": "DT10-JP018",
+        "pack": "DT10",
+        "rarity": "Gishki Ariel",
+        "date": 1338768000000
+    },
+    "tcg": {
+        "id": 92784374,
+        "pack_id": "DT05-EN068",
+        "pack": "DT05",
+        "rarity": "Gishki Ariel",
+        "date": 1317254400000
+    }
+}

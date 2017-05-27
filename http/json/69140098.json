@@ -1,1 +1,47 @@
-{"id":69140098,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1900,"def":900,"level":4,"race":2,"attribute":1,"category":0,"name":"Gemini Elf","desc":"Elf twins that alternate their attacks.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":69140098,"pack_id":"B2-31","pack":"B2","rarity":"Gemini Elf","date":935625600000},"tcg":{"id":69140098,"pack_id":"LON-000","pack":"LON","rarity":"Gemini Elf","date":1046476800000}}
+{
+    "id": 69140098,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1900,
+    "def": 900,
+    "level": 4,
+    "race": 2,
+    "attribute": 1,
+    "category": 0,
+    "name": "Gemini Elf",
+    "desc": "Elf twins that alternate their attacks.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 69140098,
+        "pack_id": "B2-31",
+        "pack": "B2",
+        "rarity": "Gemini Elf",
+        "date": 935625600000
+    },
+    "tcg": {
+        "id": 69140098,
+        "pack_id": "LON-000",
+        "pack": "LON",
+        "rarity": "Gemini Elf",
+        "date": 1046476800000
+    }
+}

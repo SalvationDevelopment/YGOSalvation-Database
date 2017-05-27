@@ -1,1 +1,47 @@
-{"id":29951323,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1600,"def":1500,"level":4,"race":4096,"attribute":16,"category":0,"name":"Zap Mustung","desc":"Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect during your Main Phase 1, cannot be Special Summoned by other ways, and cannot be Special Summoned if you have Special Summoned this turn. Twice per turn, this card cannot be destroyed by battle. Each turn, the turn player can only Special Summon a number of times up to their number of attacks conducted (and reached the Damage Step) this turn.","str1":"Avoid Destruction","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":29951323,"pack_id":"TDIL-JP038","pack":"TDIL","rarity":"Zap Mustung","date":1460160000000},"tcg":{"id":29951323,"pack_id":"TDIL-EN038","pack":"TDIL","rarity":"Zap Mustung","date":1470268800000}}
+{
+    "id": 29951323,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1600,
+    "def": 1500,
+    "level": 4,
+    "race": 4096,
+    "attribute": 16,
+    "category": 0,
+    "name": "Zap Mustung",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect during your Main Phase 1, cannot be Special Summoned by other ways, and cannot be Special Summoned if you have Special Summoned this turn. Twice per turn, this card cannot be destroyed by battle. Each turn, the turn player can only Special Summon a number of times up to their number of attacks conducted (and reached the Damage Step) this turn.",
+    "str1": "Avoid Destruction",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 29951323,
+        "pack_id": "TDIL-JP038",
+        "pack": "TDIL",
+        "rarity": "Zap Mustung",
+        "date": 1460160000000
+    },
+    "tcg": {
+        "id": 29951323,
+        "pack_id": "TDIL-EN038",
+        "pack": "TDIL",
+        "rarity": "Zap Mustung",
+        "date": 1470268800000
+    }
+}

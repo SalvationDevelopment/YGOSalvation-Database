@@ -1,1 +1,47 @@
-{"id":3734202,"ot":3,"alias":0,"setcode":42,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Naturia Sacred Tree","desc":"If this card is sent to the Graveyard: Add 1 \"Naturia\" card from your Deck to your hand, except \"Naturia Sacred Tree\". You can only use 1 of the following effects of \"Naturia Sacred Tree\" per turn, and only once that turn.\n● You can Tribute 1 EARTH Insect-Type monster; Special Summon 1 Level 4 or lower EARTH Plant-Type monster from your Deck.\n● You can Tribute 1 EARTH Plant-Type monster; Special Summon 1 Level 4 or lower EARTH Insect-Type monster from your Deck.","str1":"Tribute 1 EARTH Insect-Type monster; Special Summon 1 Level 4 or lower EARTH Plant-Type monster from your Deck.","str2":"Tribute 1 EARTH Plant-Type monster; Special Summon 1 Level 4 or lower EARTH Insect-Type monster from your Deck.","str3":"Special Summon","str4":"Activate Effect?","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":3734202,"pack_id":"NECH-JP076","pack":"NECH","rarity":"Naturia Sacred Tree","date":1405728000000},"tcg":{"id":3734202,"pack_id":"NECH-EN076","pack":"NECH","rarity":"Naturia Sacred Tree","date":1415232000000}}
+{
+    "id": 3734202,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 42,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Naturia Sacred Tree",
+    "desc": "If this card is sent to the Graveyard: Add 1 \"Naturia\" card from your Deck to your hand, except \"Naturia Sacred Tree\". You can only use 1 of the following effects of \"Naturia Sacred Tree\" per turn, and only once that turn.\n● You can Tribute 1 EARTH Insect-Type monster; Special Summon 1 Level 4 or lower EARTH Plant-Type monster from your Deck.\n● You can Tribute 1 EARTH Plant-Type monster; Special Summon 1 Level 4 or lower EARTH Insect-Type monster from your Deck.",
+    "str1": "Tribute 1 EARTH Insect-Type monster; Special Summon 1 Level 4 or lower EARTH Plant-Type monster from your Deck.",
+    "str2": "Tribute 1 EARTH Plant-Type monster; Special Summon 1 Level 4 or lower EARTH Insect-Type monster from your Deck.",
+    "str3": "Special Summon",
+    "str4": "Activate Effect?",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 3734202,
+        "pack_id": "NECH-JP076",
+        "pack": "NECH",
+        "rarity": "Naturia Sacred Tree",
+        "date": 1405728000000
+    },
+    "tcg": {
+        "id": 3734202,
+        "pack_id": "NECH-EN076",
+        "pack": "NECH",
+        "rarity": "Naturia Sacred Tree",
+        "date": 1415232000000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":54484652,"ot":3,"alias":0,"setcode":282001615,"type":161,"atk":3000,"def":2500,"level":8,"race":1,"attribute":1,"category":0,"name":"Black Luster Soldier - Super Soldier","desc":"You can Ritual Summon this card with \"Super Soldier Ritual\". If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to its ATK in the Graveyard. If this card is destroyed by battle and sent to the Graveyard, or if this card in your possession is destroyed by an opponent's card effect and sent to your Graveyard: You can Special Summon 1 \"Gaia The Fierce Knight\" monster from your hand, Deck, or Graveyard. You can only Special Summon \"Black Luster Soldier - Super Soldier(s)\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":54484652,"pack_id":"DOCS-JP042","pack":"DOCS","rarity":"Black Luster Soldier - Super Soldier","date":1437177600000},"tcg":{"id":54484652,"pack_id":"DOCS-EN042","pack":"DOCS","rarity":"Black Luster Soldier - Super Soldier","date":1446681600000}}
+{
+    "id": 54484652,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 282001615,
+    "type": 161,
+    "atk": 3000,
+    "def": 2500,
+    "level": 8,
+    "race": 1,
+    "attribute": 1,
+    "category": 0,
+    "name": "Black Luster Soldier - Super Soldier",
+    "desc": "You can Ritual Summon this card with \"Super Soldier Ritual\". If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to its ATK in the Graveyard. If this card is destroyed by battle and sent to the Graveyard, or if this card in your possession is destroyed by an opponent's card effect and sent to your Graveyard: You can Special Summon 1 \"Gaia The Fierce Knight\" monster from your hand, Deck, or Graveyard. You can only Special Summon \"Black Luster Soldier - Super Soldier(s)\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 54484652,
+        "pack_id": "DOCS-JP042",
+        "pack": "DOCS",
+        "rarity": "Black Luster Soldier - Super Soldier",
+        "date": 1437177600000
+    },
+    "tcg": {
+        "id": 54484652,
+        "pack_id": "DOCS-EN042",
+        "pack": "DOCS",
+        "rarity": "Black Luster Soldier - Super Soldier",
+        "date": 1446681600000
+    }
+}

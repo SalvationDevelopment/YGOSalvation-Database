@@ -1,1 +1,47 @@
-{"id":14772491,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262144,"name":"Common Soul","desc":"Select 1 face-up monster on the field. Special Summon 1 \"Neo-Spacian\" monster from your hand to the same side of the field as the selected monster. The selected monster gains ATK equal to the ATK of the monster that was Special Summoned by this effect. When this card is removed from the field, return the Special Summoned monster to its owner's hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":14772491,"pack_id":"POTD-JP045","pack":"POTD","rarity":"Common Soul","date":1147910400000},"tcg":{"id":14772491,"pack_id":"POTD-EN045","pack":"POTD","rarity":"Common Soul","date":1155686400000}}
+{
+    "id": 14772491,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262144,
+    "name": "Common Soul",
+    "desc": "Select 1 face-up monster on the field. Special Summon 1 \"Neo-Spacian\" monster from your hand to the same side of the field as the selected monster. The selected monster gains ATK equal to the ATK of the monster that was Special Summoned by this effect. When this card is removed from the field, return the Special Summoned monster to its owner's hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 14772491,
+        "pack_id": "POTD-JP045",
+        "pack": "POTD",
+        "rarity": "Common Soul",
+        "date": 1147910400000
+    },
+    "tcg": {
+        "id": 14772491,
+        "pack_id": "POTD-EN045",
+        "pack": "POTD",
+        "rarity": "Common Soul",
+        "date": 1155686400000
+    }
+}

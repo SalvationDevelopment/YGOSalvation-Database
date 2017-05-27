@@ -1,1 +1,47 @@
-{"id":50078509,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":-2147418112,"name":"Fiendish Chain","desc":"Activate this card by targeting 1 Effect Monster on the field; negate the effects of that face-up monster while it is on the field, also that face-up monster cannot attack. When it is destroyed, destroy this card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":50078509,"pack_id":"ABPF-JP064","pack":"ABPF","rarity":"Fiendish Chain","date":1258156800000},"tcg":{"id":50078509,"pack_id":"ABPF-EN064","pack":"ABPF","rarity":"Fiendish Chain","date":1265932800000}}
+{
+    "id": 50078509,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": -2147418112,
+    "name": "Fiendish Chain",
+    "desc": "Activate this card by targeting 1 Effect Monster on the field; negate the effects of that face-up monster while it is on the field, also that face-up monster cannot attack. When it is destroyed, destroy this card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 50078509,
+        "pack_id": "ABPF-JP064",
+        "pack": "ABPF",
+        "rarity": "Fiendish Chain",
+        "date": 1258156800000
+    },
+    "tcg": {
+        "id": 50078509,
+        "pack_id": "ABPF-EN064",
+        "pack": "ABPF",
+        "rarity": "Fiendish Chain",
+        "date": 1265932800000
+    }
+}

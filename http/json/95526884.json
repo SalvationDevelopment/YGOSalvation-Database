@@ -1,1 +1,47 @@
-{"id":95526884,"ot":3,"alias":0,"setcode":0,"type":8225,"atk":3000,"def":2500,"level":9,"race":1048576,"attribute":1,"category":8404992,"name":"Hyper Psychic Blaster","desc":"1 Tuner + 1 or more non-Tuner Psychic-Type Monsters\nIf this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. At the end of the Damage Step, if this card attacked a Defense Position monster and that monster's DEF is lower than this card's ATK (use its original values if the other monster is no longer on the field): Gain LP equal to the surplus.","str1":"LP Recovery","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":95526884,"pack_id":"CRMS-JP042","pack":"CRMS","rarity":"Hyper Psychic Blaster","date":1344643200000},"tcg":{"id":95526884,"pack_id":"CRMS-EN042","pack":"CRMS","rarity":"Hyper Psychic Blaster","date":1235779200000}}
+{
+    "id": 95526884,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8225,
+    "atk": 3000,
+    "def": 2500,
+    "level": 9,
+    "race": 1048576,
+    "attribute": 1,
+    "category": 8404992,
+    "name": "Hyper Psychic Blaster",
+    "desc": "1 Tuner + 1 or more non-Tuner Psychic-Type Monsters\nIf this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. At the end of the Damage Step, if this card attacked a Defense Position monster and that monster's DEF is lower than this card's ATK (use its original values if the other monster is no longer on the field): Gain LP equal to the surplus.",
+    "str1": "LP Recovery",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 95526884,
+        "pack_id": "CRMS-JP042",
+        "pack": "CRMS",
+        "rarity": "Hyper Psychic Blaster",
+        "date": 1344643200000
+    },
+    "tcg": {
+        "id": 95526884,
+        "pack_id": "CRMS-EN042",
+        "pack": "CRMS",
+        "rarity": "Hyper Psychic Blaster",
+        "date": 1235779200000
+    }
+}

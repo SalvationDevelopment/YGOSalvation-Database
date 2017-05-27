@@ -1,1 +1,47 @@
-{"id":78156759,"ot":3,"alias":0,"setcode":88,"type":8388641,"atk":1500,"def":2100,"level":3,"race":32,"attribute":4,"category":16777219,"name":"Wind-Up Zenmaines","desc":"2 Level 3 monsters\n If this face-up card on the field would be destroyed, you can detach 1 Xyz Material from this card instead. Once per turn, during the End Phase, if this effect was used this turn: Target 1 card on the field; destroy it.","str1":"Activate \"Wind-Up Zenmaines\" effect to avoid destruction?","str2":"Destroy","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":78156759,"pack_id":"GS04-JP010","pack":"GS04","rarity":"Wind-Up Zenmaines","date":1325894400000},"tcg":{"id":78156759,"pack_id":"PHSW-EN087","pack":"PHSW","rarity":"Wind-Up Zenmaines","date":1320883200000}}
+{
+    "id": 78156759,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 88,
+    "type": 8388641,
+    "atk": 1500,
+    "def": 2100,
+    "level": 3,
+    "race": 32,
+    "attribute": 4,
+    "category": 16777219,
+    "name": "Wind-Up Zenmaines",
+    "desc": "2 Level 3 monsters\n If this face-up card on the field would be destroyed, you can detach 1 Xyz Material from this card instead. Once per turn, during the End Phase, if this effect was used this turn: Target 1 card on the field; destroy it.",
+    "str1": "Activate \"Wind-Up Zenmaines\" effect to avoid destruction?",
+    "str2": "Destroy",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 78156759,
+        "pack_id": "GS04-JP010",
+        "pack": "GS04",
+        "rarity": "Wind-Up Zenmaines",
+        "date": 1325894400000
+    },
+    "tcg": {
+        "id": 78156759,
+        "pack_id": "PHSW-EN087",
+        "pack": "PHSW",
+        "rarity": "Wind-Up Zenmaines",
+        "date": 1320883200000
+    }
+}

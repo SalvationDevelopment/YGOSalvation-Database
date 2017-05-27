@@ -1,1 +1,47 @@
-{"id":17841097,"ot":3,"alias":0,"setcode":0,"type":33,"atk":100,"def":100,"level":1,"race":32,"attribute":1,"category":16384,"name":"Needle Soldier","desc":"If this card is used as a Synchro Material Monster for a Synchro Monster, during battle between that Synchro Monster and a Defense Position monster whose DEF is lower than the ATK of that Synchro Monster, inflict the difference as Battle Damage to your opponent.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":17841097,"pack_id":"STBL-JP004","pack":"STBL","rarity":"Needle Soldier","date":1279324800000},"tcg":{"id":17841097,"pack_id":"STBL-EN004","pack":"STBL","rarity":"Needle Soldier","date":1289001600000}}
+{
+    "id": 17841097,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 100,
+    "def": 100,
+    "level": 1,
+    "race": 32,
+    "attribute": 1,
+    "category": 16384,
+    "name": "Needle Soldier",
+    "desc": "If this card is used as a Synchro Material Monster for a Synchro Monster, during battle between that Synchro Monster and a Defense Position monster whose DEF is lower than the ATK of that Synchro Monster, inflict the difference as Battle Damage to your opponent.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 17841097,
+        "pack_id": "STBL-JP004",
+        "pack": "STBL",
+        "rarity": "Needle Soldier",
+        "date": 1279324800000
+    },
+    "tcg": {
+        "id": 17841097,
+        "pack_id": "STBL-EN004",
+        "pack": "STBL",
+        "rarity": "Needle Soldier",
+        "date": 1289001600000
+    }
+}

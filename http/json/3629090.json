@@ -1,1 +1,47 @@
-{"id":3629090,"ot":3,"alias":0,"setcode":546504851,"type":161,"atk":1600,"def":2000,"level":6,"race":4,"attribute":16,"category":0,"name":"Cyber Angel Idaten","desc":"You can Ritual Summon this card with \"Machine Angel Ritual\". If this card is Ritual Summoned: You can add 1 Ritual Spell Card from your Deck or Graveyard to your hand. If this card is Tributed: You can make all Ritual Monsters you control gain 1000 ATK and DEF.","str1":"Add 1 Ritual Spell Card to your hand","str2":"Gain 1000 ATK and DEF","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":3629090,"pack_id":"CPF1-JP013","pack":"CPF1","rarity":"Cyber Angel Idaten","date":1463184000000},"tcg":{"id":3629090,"pack_id":"DRL3-EN013","pack":"DRL3","rarity":"Cyber Angel Idaten","date":1471478400000}}
+{
+    "id": 3629090,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 546504851,
+    "type": 161,
+    "atk": 1600,
+    "def": 2000,
+    "level": 6,
+    "race": 4,
+    "attribute": 16,
+    "category": 0,
+    "name": "Cyber Angel Idaten",
+    "desc": "You can Ritual Summon this card with \"Machine Angel Ritual\". If this card is Ritual Summoned: You can add 1 Ritual Spell Card from your Deck or Graveyard to your hand. If this card is Tributed: You can make all Ritual Monsters you control gain 1000 ATK and DEF.",
+    "str1": "Add 1 Ritual Spell Card to your hand",
+    "str2": "Gain 1000 ATK and DEF",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 3629090,
+        "pack_id": "CPF1-JP013",
+        "pack": "CPF1",
+        "rarity": "Cyber Angel Idaten",
+        "date": 1463184000000
+    },
+    "tcg": {
+        "id": 3629090,
+        "pack_id": "DRL3-EN013",
+        "pack": "DRL3",
+        "rarity": "Cyber Angel Idaten",
+        "date": 1471478400000
+    }
+}

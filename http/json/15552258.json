@@ -1,1 +1,47 @@
-{"id":15552258,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8192,"name":"Half or Nothing","desc":"During your opponent's Battle Phase (except during the Damage Step): Your opponent chooses 1 of these effects.\n● Halve the ATK of all monsters they currently control, until the end of the Battle Phase.\n● End the Battle Phase.","str1":"Halve the ATK of all monsters you control until the end of the Battle Phase","str2":"End the Battle Phase","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":15552258,"pack_id":"CRMS-JP067","pack":"","rarity":"","date":1226707200000},"tcg":{"id":15552258,"pack_id":"CRMS-EN067","pack":"CRMS","rarity":"Half or Nothing","date":1235779200000}}
+{
+    "id": 15552258,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8192,
+    "name": "Half or Nothing",
+    "desc": "During your opponent's Battle Phase (except during the Damage Step): Your opponent chooses 1 of these effects.\n● Halve the ATK of all monsters they currently control, until the end of the Battle Phase.\n● End the Battle Phase.",
+    "str1": "Halve the ATK of all monsters you control until the end of the Battle Phase",
+    "str2": "End the Battle Phase",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 15552258,
+        "pack_id": "CRMS-JP067",
+        "pack": "",
+        "rarity": "",
+        "date": 1226707200000
+    },
+    "tcg": {
+        "id": 15552258,
+        "pack_id": "CRMS-EN067",
+        "pack": "CRMS",
+        "rarity": "Half or Nothing",
+        "date": 1235779200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":4779823,"ot":3,"alias":0,"setcode":56,"type":8225,"atk":2600,"def":2000,"level":7,"race":8192,"attribute":16,"category":0,"name":"Michael, the Arch-Lightsworn","desc":"1 Tuner + 1 or more non-Tuner LIGHT monsters\nOnce per turn: You can pay 1000 LP, then target 1 card on the field; banish that target. When this card is destroyed: You can target any number of other \"Lightsworn\" monsters in your Graveyard; shuffle them into the Deck, and if you do, you gain 300 LP for each returned card. Once per turn, during your End Phase: Send the top 3 cards of your Deck to the Graveyard.","str1":"Activate Effect?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":4779823,"pack_id":"DS14-JPLS1","pack":"DS14","rarity":"Michael, the Arch-Lightsworn","date":1385164800000},"tcg":{"id":4779823,"pack_id":"SDLI-EN036","pack":"SDLI","rarity":"Michael, the Arch-Lightsworn","date":1403827200000}}
+{
+    "id": 4779823,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 56,
+    "type": 8225,
+    "atk": 2600,
+    "def": 2000,
+    "level": 7,
+    "race": 8192,
+    "attribute": 16,
+    "category": 0,
+    "name": "Michael, the Arch-Lightsworn",
+    "desc": "1 Tuner + 1 or more non-Tuner LIGHT monsters\nOnce per turn: You can pay 1000 LP, then target 1 card on the field; banish that target. When this card is destroyed: You can target any number of other \"Lightsworn\" monsters in your Graveyard; shuffle them into the Deck, and if you do, you gain 300 LP for each returned card. Once per turn, during your End Phase: Send the top 3 cards of your Deck to the Graveyard.",
+    "str1": "Activate Effect?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 4779823,
+        "pack_id": "DS14-JPLS1",
+        "pack": "DS14",
+        "rarity": "Michael, the Arch-Lightsworn",
+        "date": 1385164800000
+    },
+    "tcg": {
+        "id": 4779823,
+        "pack_id": "SDLI-EN036",
+        "pack": "SDLI",
+        "rarity": "Michael, the Arch-Lightsworn",
+        "date": 1403827200000
+    }
+}

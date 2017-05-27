@@ -1,1 +1,47 @@
-{"id":82946847,"ot":5,"alias":0,"setcode":0,"type":33,"atk":500,"def":500,"level":2,"race":65536,"attribute":1,"category":262144,"name":"Petiteranodon","desc":"If this card is destroyed by a card effect and sent to the Graveyard: Special Summon 1 Level 4 or higher Dinosaur-Type monster from your Deck, but it cannot attack this turn.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG Prerelease","ocg":{"id":82946847,"pack_id":"SR04-JP000","pack":"SR04","rarity":"Petiteranodon","date":1487980800000},"tcg":{"id":82946847,"pack_id":"SR04-EN000","pack":"SR04","rarity":"Petiteranodon","date":1492041600000}}
+{
+    "id": 82946847,
+    "ot": 5,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 500,
+    "def": 500,
+    "level": 2,
+    "race": 65536,
+    "attribute": 1,
+    "category": 262144,
+    "name": "Petiteranodon",
+    "desc": "If this card is destroyed by a card effect and sent to the Graveyard: Special Summon 1 Level 4 or higher Dinosaur-Type monster from your Deck, but it cannot attack this turn.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG Prerelease",
+    "ocg": {
+        "id": 82946847,
+        "pack_id": "SR04-JP000",
+        "pack": "SR04",
+        "rarity": "Petiteranodon",
+        "date": 1487980800000
+    },
+    "tcg": {
+        "id": 82946847,
+        "pack_id": "SR04-EN000",
+        "pack": "SR04",
+        "rarity": "Petiteranodon",
+        "date": 1492041600000
+    }
+}

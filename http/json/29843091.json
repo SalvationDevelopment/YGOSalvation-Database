@@ -1,1 +1,47 @@
-{"id":29843091,"ot":3,"alias":0,"setcode":15,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4980736,"name":"Ojama Trio","desc":"Special Summon 3 \"Ojama Tokens\" (Beast-Type/LIGHT/Level 2/ATK 0/DEF 1000) to your opponent's field in Defense Position. They cannot be Tributed for a Tribute Summon, and each time 1 is destroyed, its controller takes 300 damage.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":29843091,"pack_id":"304-047","pack":"304","rarity":"Ojama Trio","date":1037836800000},"tcg":{"id":29843091,"pack_id":"DCR-047","pack":"DCR","rarity":"Ojama Trio","date":1070236800000}}
+{
+    "id": 29843091,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 15,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4980736,
+    "name": "Ojama Trio",
+    "desc": "Special Summon 3 \"Ojama Tokens\" (Beast-Type/LIGHT/Level 2/ATK 0/DEF 1000) to your opponent's field in Defense Position. They cannot be Tributed for a Tribute Summon, and each time 1 is destroyed, its controller takes 300 damage.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 29843091,
+        "pack_id": "304-047",
+        "pack": "304",
+        "rarity": "Ojama Trio",
+        "date": 1037836800000
+    },
+    "tcg": {
+        "id": 29843091,
+        "pack_id": "DCR-047",
+        "pack": "DCR",
+        "rarity": "Ojama Trio",
+        "date": 1070236800000
+    }
+}

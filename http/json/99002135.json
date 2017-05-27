@@ -1,1 +1,47 @@
-{"id":99002135,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262144,"name":"Urgent Synthesis","desc":"Return 1 \"Iron Core of Koa'ki Meiru\" from your Graveyard to the Deck. Special Summon 1 Level 4 or lower \"Koa'ki Meiru\" monster from your hand or your Graveyard.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":99002135,"pack_id":"RGBT-JP057","pack":"RGBT","rarity":"Urgent Synthesis","date":1234569600000},"tcg":{"id":99002135,"pack_id":"RGBT-EN057","pack":"RGBT","rarity":"Urgent Synthesis","date":1241222400000}}
+{
+    "id": 99002135,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262144,
+    "name": "Urgent Synthesis",
+    "desc": "Return 1 \"Iron Core of Koa'ki Meiru\" from your Graveyard to the Deck. Special Summon 1 Level 4 or lower \"Koa'ki Meiru\" monster from your hand or your Graveyard.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 99002135,
+        "pack_id": "RGBT-JP057",
+        "pack": "RGBT",
+        "rarity": "Urgent Synthesis",
+        "date": 1234569600000
+    },
+    "tcg": {
+        "id": 99002135,
+        "pack_id": "RGBT-EN057",
+        "pack": "RGBT",
+        "rarity": "Urgent Synthesis",
+        "date": 1241222400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":34838437,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262144,"name":"Accellight","desc":"If you control no monsters: Special Summon 1 Level 4 or lower \"Photon\" or \"Galaxy\" monster from your Deck. You can only activate 1 \"Accellight\" per turn. You cannot Normal Summon/Set during the turn you activate this card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":34838437,"pack_id":"DP13-JP027","pack":"DP13","rarity":"Accellight","date":1347667200000},"tcg":{"id":34838437,"pack_id":"ZTIN-EN016","pack":"ZTIN","rarity":"Accellight","date":1362614400000}}
+{
+    "id": 34838437,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262144,
+    "name": "Accellight",
+    "desc": "If you control no monsters: Special Summon 1 Level 4 or lower \"Photon\" or \"Galaxy\" monster from your Deck. You can only activate 1 \"Accellight\" per turn. You cannot Normal Summon/Set during the turn you activate this card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 34838437,
+        "pack_id": "DP13-JP027",
+        "pack": "DP13",
+        "rarity": "Accellight",
+        "date": 1347667200000
+    },
+    "tcg": {
+        "id": 34838437,
+        "pack_id": "ZTIN-EN016",
+        "pack": "ZTIN",
+        "rarity": "Accellight",
+        "date": 1362614400000
+    }
+}

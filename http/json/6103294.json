@@ -1,1 +1,47 @@
-{"id":6103294,"ot":3,"alias":0,"setcode":0,"type":33,"atk":600,"def":400,"level":3,"race":2,"attribute":16,"category":65536,"name":"Emissary of the Oasis","desc":"While a face-up Level 3 or lower Normal Monster is on your side of the field, your opponent cannot select this card as an attack target. While this card is face-up on your side of the field, any Battle Damage to the controller of this card from battle involving a Level 3 or lower Normal Monster becomes 0.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":6103294,"pack_id":"309-028","pack":"309","rarity":"Emissary of the Oasis","date":1077753600000},"tcg":{"id":6103294,"pack_id":"AST-083","pack":"AST","rarity":"Emissary of the Oasis","date":1086048000000}}
+{
+    "id": 6103294,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 600,
+    "def": 400,
+    "level": 3,
+    "race": 2,
+    "attribute": 16,
+    "category": 65536,
+    "name": "Emissary of the Oasis",
+    "desc": "While a face-up Level 3 or lower Normal Monster is on your side of the field, your opponent cannot select this card as an attack target. While this card is face-up on your side of the field, any Battle Damage to the controller of this card from battle involving a Level 3 or lower Normal Monster becomes 0.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 6103294,
+        "pack_id": "309-028",
+        "pack": "309",
+        "rarity": "Emissary of the Oasis",
+        "date": 1077753600000
+    },
+    "tcg": {
+        "id": 6103294,
+        "pack_id": "AST-083",
+        "pack": "AST",
+        "rarity": "Emissary of the Oasis",
+        "date": 1086048000000
+    }
+}

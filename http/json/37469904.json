@@ -1,1 +1,47 @@
-{"id":37469904,"ot":1,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Duelist Alliance","desc":"If there is a card in the Pendulum Zone: Add 1 \"Pendulum\" Pendulum Monster or \"Pendulum\" Spell/Trap Card from your Deck to your hand. You can only activate 1 \"Duelist Alliance\" per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG","ocg":{"id":37469904,"pack_id":"MACR-JP063","pack":"MACR","rarity":"Duelist Alliance","date":1484352000000},"tcg":{"id":37469904,"pack_id":"MACR-EN063","pack":"MACR","rarity":"Duelist Alliance","date":1493856000000}}
+{
+    "id": 37469904,
+    "ot": 1,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Duelist Alliance",
+    "desc": "If there is a card in the Pendulum Zone: Add 1 \"Pendulum\" Pendulum Monster or \"Pendulum\" Spell/Trap Card from your Deck to your hand. You can only activate 1 \"Duelist Alliance\" per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG",
+    "ocg": {
+        "id": 37469904,
+        "pack_id": "MACR-JP063",
+        "pack": "MACR",
+        "rarity": "Duelist Alliance",
+        "date": 1484352000000
+    },
+    "tcg": {
+        "id": 37469904,
+        "pack_id": "MACR-EN063",
+        "pack": "MACR",
+        "rarity": "Duelist Alliance",
+        "date": 1493856000000
+    }
+}

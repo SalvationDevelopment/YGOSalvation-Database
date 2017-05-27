@@ -1,1 +1,47 @@
-{"id":72714392,"ot":3,"alias":0,"setcode":51,"type":4129,"atk":800,"def":0,"level":1,"race":512,"attribute":32,"category":-1610350588,"name":"Blackwing - Vayu the Emblem of Honor","desc":"This face-up card on the field cannot be used as a Synchro Material. If this card is in the Graveyard: You can target 1 non-Tuner \"Blackwing\" monster in your Graveyard; banish both this card and that target, and if you do, Special Summon 1 \"Blackwing\" Synchro Monster from your Extra Deck whose Level equals the total Levels of the banished monsters, but its effects are negated.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":72714392,"pack_id":"ANPR-JP005","pack":"ANPR","rarity":"Blackwing - Vayu the Emblem of Honor","date":1240012800000},"tcg":{"id":72714392,"pack_id":"ANPR-EN005","pack":"ANPR","rarity":"Blackwing - Vayu the Emblem of Honor","date":1251763200000}}
+{
+    "id": 72714392,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 51,
+    "type": 4129,
+    "atk": 800,
+    "def": 0,
+    "level": 1,
+    "race": 512,
+    "attribute": 32,
+    "category": -1610350588,
+    "name": "Blackwing - Vayu the Emblem of Honor",
+    "desc": "This face-up card on the field cannot be used as a Synchro Material. If this card is in the Graveyard: You can target 1 non-Tuner \"Blackwing\" monster in your Graveyard; banish both this card and that target, and if you do, Special Summon 1 \"Blackwing\" Synchro Monster from your Extra Deck whose Level equals the total Levels of the banished monsters, but its effects are negated.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 72714392,
+        "pack_id": "ANPR-JP005",
+        "pack": "ANPR",
+        "rarity": "Blackwing - Vayu the Emblem of Honor",
+        "date": 1240012800000
+    },
+    "tcg": {
+        "id": 72714392,
+        "pack_id": "ANPR-EN005",
+        "pack": "ANPR",
+        "rarity": "Blackwing - Vayu the Emblem of Honor",
+        "date": 1251763200000
+    }
+}

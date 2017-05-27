@@ -1,1 +1,47 @@
-{"id":58453942,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1900,"def":1200,"level":4,"race":1048576,"attribute":1,"category":32768,"name":"Psychic Snail","desc":"You can pay 800 Life Points and select 1 other face-up Psychic-Type monster you control. That monster can attack twice during each Battle Phase. This card cannot attack the turn you activate this effect.","str1":"Attack twice","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":58453942,"pack_id":"TDGS-JP021","pack":"TDGS","rarity":"Psychic Snail","date":1208563200000},"tcg":{"id":58453942,"pack_id":"TDGS-EN021","pack":"TDGS","rarity":"Psychic Snail","date":1218240000000}}
+{
+    "id": 58453942,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1900,
+    "def": 1200,
+    "level": 4,
+    "race": 1048576,
+    "attribute": 1,
+    "category": 32768,
+    "name": "Psychic Snail",
+    "desc": "You can pay 800 Life Points and select 1 other face-up Psychic-Type monster you control. That monster can attack twice during each Battle Phase. This card cannot attack the turn you activate this effect.",
+    "str1": "Attack twice",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 58453942,
+        "pack_id": "TDGS-JP021",
+        "pack": "TDGS",
+        "rarity": "Psychic Snail",
+        "date": 1208563200000
+    },
+    "tcg": {
+        "id": 58453942,
+        "pack_id": "TDGS-EN021",
+        "pack": "TDGS",
+        "rarity": "Psychic Snail",
+        "date": 1218240000000
+    }
+}

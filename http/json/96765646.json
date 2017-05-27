@@ -1,1 +1,47 @@
-{"id":96765646,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262144,"name":"Swing of Memories","desc":"Special Summon 1 Normal Monster from your Graveyard. It is destroyed during the End Phase of this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":96765646,"pack_id":"GLAS-JP046","pack":"GLAS","rarity":"Swing of Memories","date":1184976000000},"tcg":{"id":96765646,"pack_id":"GLAS-EN046","pack":"GLAS","rarity":"Swing of Memories","date":1194998400000}}
+{
+    "id": 96765646,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262144,
+    "name": "Swing of Memories",
+    "desc": "Special Summon 1 Normal Monster from your Graveyard. It is destroyed during the End Phase of this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 96765646,
+        "pack_id": "GLAS-JP046",
+        "pack": "GLAS",
+        "rarity": "Swing of Memories",
+        "date": 1184976000000
+    },
+    "tcg": {
+        "id": 96765646,
+        "pack_id": "GLAS-EN046",
+        "pack": "GLAS",
+        "rarity": "Swing of Memories",
+        "date": 1194998400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":34116027,"ot":3,"alias":0,"setcode":41,"type":8225,"atk":2400,"def":800,"level":6,"race":8192,"attribute":8,"category":520,"name":"Dragunity Knight - Gae Dearg","desc":"1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monsters\nOnce per turn, during your Main Phase, you can add 1 Level 4 or lower Dragon-Type or Winged Beast-Type monster from your Deck to your hand. Then discard 1 Dragon-Type or Winged Beast-Type monster.","str1":"Search","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":34116027,"pack_id":"DT06-JPB01","pack":"DT06","rarity":"Dragunity Knight - Gae Dearg","date":1246406400000},"tcg":{"id":34116027,"pack_id":"STBL-EN098","pack":"STBL","rarity":"Dragunity Knight - Gae Dearg","date":1289001600000}}
+{
+    "id": 34116027,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 41,
+    "type": 8225,
+    "atk": 2400,
+    "def": 800,
+    "level": 6,
+    "race": 8192,
+    "attribute": 8,
+    "category": 520,
+    "name": "Dragunity Knight - Gae Dearg",
+    "desc": "1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monsters\nOnce per turn, during your Main Phase, you can add 1 Level 4 or lower Dragon-Type or Winged Beast-Type monster from your Deck to your hand. Then discard 1 Dragon-Type or Winged Beast-Type monster.",
+    "str1": "Search",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 34116027,
+        "pack_id": "DT06-JPB01",
+        "pack": "DT06",
+        "rarity": "Dragunity Knight - Gae Dearg",
+        "date": 1246406400000
+    },
+    "tcg": {
+        "id": 34116027,
+        "pack_id": "STBL-EN098",
+        "pack": "STBL",
+        "rarity": "Dragunity Knight - Gae Dearg",
+        "date": 1289001600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":40916023,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1600,"def":1200,"level":4,"race":64,"attribute":2,"category":2361344,"name":"Aqua Spirit","desc":"This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 WATER monster in your Graveyard. During each of your opponent's Standby Phases, you can change the battle position of 1 of your opponent's face-up Monster Cards. Once changed, the monster must remain in this position for the rest of the turn.","str1":"Change battle position","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":40916023,"pack_id":"LN-17","pack":"LN","rarity":"Aqua Spirit","date":995673600000},"tcg":{"id":40916023,"pack_id":"LON-068","pack":"LON","rarity":"Aqua Spirit","date":1046476800000}}
+{
+    "id": 40916023,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1600,
+    "def": 1200,
+    "level": 4,
+    "race": 64,
+    "attribute": 2,
+    "category": 2361344,
+    "name": "Aqua Spirit",
+    "desc": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 WATER monster in your Graveyard. During each of your opponent's Standby Phases, you can change the battle position of 1 of your opponent's face-up Monster Cards. Once changed, the monster must remain in this position for the rest of the turn.",
+    "str1": "Change battle position",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 40916023,
+        "pack_id": "LN-17",
+        "pack": "LN",
+        "rarity": "Aqua Spirit",
+        "date": 995673600000
+    },
+    "tcg": {
+        "id": 40916023,
+        "pack_id": "LON-068",
+        "pack": "LON",
+        "rarity": "Aqua Spirit",
+        "date": 1046476800000
+    }
+}

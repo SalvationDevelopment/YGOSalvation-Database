@@ -1,1 +1,47 @@
-{"id":2047519,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":2359296,"name":"Hidden Soldiers","desc":"When your opponent Normal or Flip Summons a monster: Special Summon 1 Level 4 or lower DARK monster from your hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":2047519,"pack_id":"LE4-006","pack":"LE4","rarity":"Hidden Soldiers","date":1022544000000},"tcg":{"id":2047519,"pack_id":"SP02-EN003","pack":"SP02","rarity":"Hidden Soldiers","date":1154736000000}}
+{
+    "id": 2047519,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 2359296,
+    "name": "Hidden Soldiers",
+    "desc": "When your opponent Normal or Flip Summons a monster: Special Summon 1 Level 4 or lower DARK monster from your hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 2047519,
+        "pack_id": "LE4-006",
+        "pack": "LE4",
+        "rarity": "Hidden Soldiers",
+        "date": 1022544000000
+    },
+    "tcg": {
+        "id": 2047519,
+        "pack_id": "SP02-EN003",
+        "pack": "SP02",
+        "rarity": "Hidden Soldiers",
+        "date": 1154736000000
+    }
+}

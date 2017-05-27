@@ -1,1 +1,47 @@
-{"id":41735184,"ot":3,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Dark Magic Inheritance","desc":"Banish 2 Spell Cards from your Graveyard; add 1 Spell/Trap Card from your Deck to your hand, that specifically lists the card \"Dark Magician\" or \"Dark Magician Girl\" in its text, except \"Dark Magic Inheritance\". You can only activate 1 \"Dark Magic Inheritance\" per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":41735184,"pack_id":"SDMY-JP022","pack":"SDMY","rarity":"Dark Magic Inheritance","date":1466208000000},"tcg":{"id":41735184,"pack_id":"SDMY-EN025","pack":"SDMY","rarity":"Dark Magic Inheritance","date":1476921600000}}
+{
+    "id": 41735184,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Dark Magic Inheritance",
+    "desc": "Banish 2 Spell Cards from your Graveyard; add 1 Spell/Trap Card from your Deck to your hand, that specifically lists the card \"Dark Magician\" or \"Dark Magician Girl\" in its text, except \"Dark Magic Inheritance\". You can only activate 1 \"Dark Magic Inheritance\" per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 41735184,
+        "pack_id": "SDMY-JP022",
+        "pack": "SDMY",
+        "rarity": "Dark Magic Inheritance",
+        "date": 1466208000000
+    },
+    "tcg": {
+        "id": 41735184,
+        "pack_id": "SDMY-EN025",
+        "pack": "SDMY",
+        "rarity": "Dark Magic Inheritance",
+        "date": 1476921600000
+    }
+}

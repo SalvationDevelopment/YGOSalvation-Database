@@ -1,1 +1,47 @@
-{"id":45231177,"ot":3,"alias":0,"setcode":0,"type":65,"atk":1800,"def":1600,"level":5,"race":1,"attribute":4,"category":0,"name":"Flame Swordsman","desc":"\"Flame Manipulator\" + \"Masaki the Legendary Swordsman\"","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":45231177,"pack_id":"LB-03","pack":"LB","rarity":"Flame Swordsman","date":920678400000},"tcg":{"id":45231177,"pack_id":"LOB-003","pack":"LOB","rarity":"Flame Swordsman","date":1015545600000}}
+{
+    "id": 45231177,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65,
+    "atk": 1800,
+    "def": 1600,
+    "level": 5,
+    "race": 1,
+    "attribute": 4,
+    "category": 0,
+    "name": "Flame Swordsman",
+    "desc": "\"Flame Manipulator\" + \"Masaki the Legendary Swordsman\"",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 45231177,
+        "pack_id": "LB-03",
+        "pack": "LB",
+        "rarity": "Flame Swordsman",
+        "date": 920678400000
+    },
+    "tcg": {
+        "id": 45231177,
+        "pack_id": "LOB-003",
+        "pack": "LOB",
+        "rarity": "Flame Swordsman",
+        "date": 1015545600000
+    }
+}

@@ -1,1 +1,44 @@
-{"id":77610772,"ot":5,"alias":0,"setcode":253,"type":33554465,"atk":1800,"def":"-","level":2,"race":2,"attribute":2,"category":1,"name":"Stargrail Shrine Maiden Eve","desc":"Link Markers: Left, Right\n\n2 monsters with different Types and Attributes\nWhile this card is in a Linked State, it cannot be destroyed by battle or card effects, also your opponent cannot target it with card effects. If a monster(s) this card points to would be destroyed by a card effect, you can send this card to the GY instead. If this card is sent from the field to the GY: You can Special Summon 1 \"Stargrail\" monster from your hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[3,4],"cardpool":"OCG Prerelease","ocg":{"id":77610772,"pack_id":"COTD-JP048","pack":"COTD","rarity":"Stargrail Shrine Maiden Eve","date":1492214400000},"tcg":{}}
+{
+    "id": 77610772,
+    "ot": 5,
+    "alias": 0,
+    "setcode": 253,
+    "type": 33554465,
+    "atk": 1800,
+    "def": "-",
+    "level": 2,
+    "race": 2,
+    "attribute": 2,
+    "category": 1,
+    "name": "Stargrail Shrine Maiden Eve",
+    "desc": "Link Markers: Left, Right\n\n2 monsters with different Types and Attributes\nWhile this card is in a Linked State, it cannot be destroyed by battle or card effects, also your opponent cannot target it with card effects. If a monster(s) this card points to would be destroyed by a card effect, you can send this card to the GY instead. If this card is sent from the field to the GY: You can Special Summon 1 \"Stargrail\" monster from your hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [
+        3,
+        4
+    ],
+    "cardpool": "OCG Prerelease",
+    "ocg": {
+        "id": 77610772,
+        "pack_id": "COTD-JP048",
+        "pack": "COTD",
+        "rarity": "Stargrail Shrine Maiden Eve",
+        "date": 1492214400000
+    },
+    "tcg": {}
+}

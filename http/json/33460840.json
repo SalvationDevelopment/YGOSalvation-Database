@@ -1,1 +1,47 @@
-{"id":33460840,"ot":3,"alias":0,"setcode":82,"type":33,"atk":500,"def":500,"level":4,"race":1,"attribute":16,"category":0,"name":"Guardian of Felgrand","desc":"If this card is Normal or Special Summoned: You can equip 1 Level 7 or 8 Dragon-Type monster from your hand or Graveyard to this card. This card gains ATK and DEF equal to half the ATK and DEF of the monster equipped to it by this effect. You can Tribute 1 monster and this card, then target 1 Level 7 or 8 Dragon-Type monster in your Graveyard; Special Summon it.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":33460840,"pack_id":"SR02-JP003","pack":"SR02","rarity":"Guardian of Felgrand","date":1454716800000},"tcg":{"id":33460840,"pack_id":"SR02-EN004","pack":"SR02","rarity":"Guardian of Felgrand","date":1467849600000}}
+{
+    "id": 33460840,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 82,
+    "type": 33,
+    "atk": 500,
+    "def": 500,
+    "level": 4,
+    "race": 1,
+    "attribute": 16,
+    "category": 0,
+    "name": "Guardian of Felgrand",
+    "desc": "If this card is Normal or Special Summoned: You can equip 1 Level 7 or 8 Dragon-Type monster from your hand or Graveyard to this card. This card gains ATK and DEF equal to half the ATK and DEF of the monster equipped to it by this effect. You can Tribute 1 monster and this card, then target 1 Level 7 or 8 Dragon-Type monster in your Graveyard; Special Summon it.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 33460840,
+        "pack_id": "SR02-JP003",
+        "pack": "SR02",
+        "rarity": "Guardian of Felgrand",
+        "date": 1454716800000
+    },
+    "tcg": {
+        "id": 33460840,
+        "pack_id": "SR02-EN004",
+        "pack": "SR02",
+        "rarity": "Guardian of Felgrand",
+        "date": 1467849600000
+    }
+}

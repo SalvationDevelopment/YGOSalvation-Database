@@ -1,12 +1,12 @@
 //JSONSplitter.py
 //By: HelixReactor
-//Last Modified: 26/05/2017, 19:24 (GMT -4)
+//Last Modified: 26/05/2017, 21:49 (GMT -4)
 
 var full = require("./manifest_0-en-OCGTCG.json");
 
-for (var i = 0; i < full.length; i++){
-    var card = JSON.stringify(full[i], null, 4),
-        id = "./json/" + (full[i].id).toString() + ".json";
+full.forEach(function(card){
+    var data = JSON.stringify(card),
+        id = "./json/" + (card.id).toString() + ".json";
     
-    fs.writeFileSync(id, card);
-}
+    fs.writeFileSync(id, data);
+});

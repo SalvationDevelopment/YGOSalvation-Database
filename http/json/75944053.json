@@ -1,1 +1,47 @@
-{"id":75944053,"ot":3,"alias":0,"setcode":171,"type":33,"atk":500,"def":500,"level":3,"race":32,"attribute":1,"category":0,"name":"Deskbot 003","desc":"When this card is Normal Summoned: You can Special Summon 1 \"Deskbot\" monster from your Deck, except \"Deskbot 003\". Once per turn, during either player's turn: You can target 1 \"Deskbot\" monster you control; it gains 500 ATK and DEF for each \"Deskbot\" card you currently control, until the end of this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":75944053,"pack_id":"SECE-JP041","pack":"SECE","rarity":"Deskbot 003","date":1416009600000},"tcg":{"id":75944053,"pack_id":"SECE-EN041","pack":"SECE","rarity":"Deskbot 003","date":1421280000000}}
+{
+    "id": 75944053,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 171,
+    "type": 33,
+    "atk": 500,
+    "def": 500,
+    "level": 3,
+    "race": 32,
+    "attribute": 1,
+    "category": 0,
+    "name": "Deskbot 003",
+    "desc": "When this card is Normal Summoned: You can Special Summon 1 \"Deskbot\" monster from your Deck, except \"Deskbot 003\". Once per turn, during either player's turn: You can target 1 \"Deskbot\" monster you control; it gains 500 ATK and DEF for each \"Deskbot\" card you currently control, until the end of this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 75944053,
+        "pack_id": "SECE-JP041",
+        "pack": "SECE",
+        "rarity": "Deskbot 003",
+        "date": 1416009600000
+    },
+    "tcg": {
+        "id": 75944053,
+        "pack_id": "SECE-EN041",
+        "pack": "SECE",
+        "rarity": "Deskbot 003",
+        "date": 1421280000000
+    }
+}

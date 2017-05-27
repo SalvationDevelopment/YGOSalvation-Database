@@ -1,1 +1,47 @@
-{"id":16024176,"ot":3,"alias":0,"setcode":230,"type":33,"atk":2000,"def":2000,"level":1,"race":1,"attribute":32,"category":0,"name":"Flower Cardian Pine with Crane","desc":"Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 Level 1 \"Flower Cardian\" monster, except \"Flower Cardian Pine with Crane\". If this card is Special Summoned: Draw 1 card, and if you do, show it, then you can Special Summon it if it is a \"Flower Cardian\" monster. Otherwise, send it to the Graveyard. At the end of the Battle Phase, if this card battled: Draw 1 card.","str1":"Draw/Reveal","str2":"Special Summon","str3":"Draw","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":16024176,"pack_id":"CPF1-JP035","pack":"CPF1","rarity":"Flower Cardian Pine with Crane","date":1463184000000},"tcg":{"id":16024176,"pack_id":"DRL3-EN035","pack":"DRL3","rarity":"Flower Cardian Pine with Crane","date":1471478400000}}
+{
+    "id": 16024176,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 230,
+    "type": 33,
+    "atk": 2000,
+    "def": 2000,
+    "level": 1,
+    "race": 1,
+    "attribute": 32,
+    "category": 0,
+    "name": "Flower Cardian Pine with Crane",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 Level 1 \"Flower Cardian\" monster, except \"Flower Cardian Pine with Crane\". If this card is Special Summoned: Draw 1 card, and if you do, show it, then you can Special Summon it if it is a \"Flower Cardian\" monster. Otherwise, send it to the Graveyard. At the end of the Battle Phase, if this card battled: Draw 1 card.",
+    "str1": "Draw/Reveal",
+    "str2": "Special Summon",
+    "str3": "Draw",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 16024176,
+        "pack_id": "CPF1-JP035",
+        "pack": "CPF1",
+        "rarity": "Flower Cardian Pine with Crane",
+        "date": 1463184000000
+    },
+    "tcg": {
+        "id": 16024176,
+        "pack_id": "DRL3-EN035",
+        "pack": "DRL3",
+        "rarity": "Flower Cardian Pine with Crane",
+        "date": 1471478400000
+    }
+}

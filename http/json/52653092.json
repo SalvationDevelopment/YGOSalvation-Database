@@ -1,1 +1,47 @@
-{"id":52653092,"ot":3,"alias":0,"setcode":8323144,"type":8388641,"atk":-2,"def":-2,"level":1,"race":1,"attribute":16,"category":0,"name":"Number S0: Utopic ZEXAL","desc":"3 \"Number\" Xyz Monsters with the same Rank\n(This card's original Rank is always treated as 1.) You can also Xyz Summon this card by discarding 1 \"Rank-Up-Magic\" Normal Spell Card, then using a \"Utopia\" Monster you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) This card's Xyz Summon cannot be negated. When Xyz Summoned, your opponent's cards and effects cannot be activated. This card gains 1000 ATK and DEF for each Xyz Material attached to it. Once per turn, during your opponent's turn: You can detach 1 Xyz Material from this card; your opponent's cards and effects cannot be activated this turn (this is a Quick Effect).","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":52653092,"pack_id":"VP15-JPA04","pack":"VP15","rarity":"Number S0: Utopic ZEXAL","date":1432771200000},"tcg":{"id":52653092,"pack_id":"JUMP-EN077","pack":"JUMP","rarity":"Number S0: Utopic ZEXAL","date":1467590400000}}
+{
+    "id": 52653092,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 8323144,
+    "type": 8388641,
+    "atk": -2,
+    "def": -2,
+    "level": 1,
+    "race": 1,
+    "attribute": 16,
+    "category": 0,
+    "name": "Number S0: Utopic ZEXAL",
+    "desc": "3 \"Number\" Xyz Monsters with the same Rank\n(This card's original Rank is always treated as 1.) You can also Xyz Summon this card by discarding 1 \"Rank-Up-Magic\" Normal Spell Card, then using a \"Utopia\" Monster you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) This card's Xyz Summon cannot be negated. When Xyz Summoned, your opponent's cards and effects cannot be activated. This card gains 1000 ATK and DEF for each Xyz Material attached to it. Once per turn, during your opponent's turn: You can detach 1 Xyz Material from this card; your opponent's cards and effects cannot be activated this turn (this is a Quick Effect).",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 52653092,
+        "pack_id": "VP15-JPA04",
+        "pack": "VP15",
+        "rarity": "Number S0: Utopic ZEXAL",
+        "date": 1432771200000
+    },
+    "tcg": {
+        "id": 52653092,
+        "pack_id": "JUMP-EN077",
+        "pack": "JUMP",
+        "rarity": "Number S0: Utopic ZEXAL",
+        "date": 1467590400000
+    }
+}

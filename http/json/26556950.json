@@ -1,1 +1,47 @@
-{"id":26556950,"ot":3,"alias":0,"setcode":72,"type":8388641,"atk":0,"def":0,"level":11,"race":2048,"attribute":32,"category":0,"name":"Number 84: Pain Gainer","desc":"2 Level 11 monsters\nYou can also Xyz Summon this card by using a Rank 8, 9, or 10 DARK Xyz Monster you control with 2 or more Xyz Materials as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) This card gains DEF equal to the combined Ranks of all Xyz Monsters you control x 200. While this card has Xyz Material, each time your opponent activates a Spell/Trap Card, inflict 600 damage to your opponent immediately after it resolves. Once per turn: You can detach 1 Xyz Material from this card; destroy all face-up monsters your opponent controls with DEF less than or equal to this card's.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":26556950,"pack_id":"PP18-JP010","pack":"PP18","rarity":"Number 84: Pain Gainer","date":1458345600000},"tcg":{"id":26556950,"pack_id":"PGL3-EN010","pack":"PGL3","rarity":"Number 84: Pain Gainer","date":1458259200000}}
+{
+    "id": 26556950,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 72,
+    "type": 8388641,
+    "atk": 0,
+    "def": 0,
+    "level": 11,
+    "race": 2048,
+    "attribute": 32,
+    "category": 0,
+    "name": "Number 84: Pain Gainer",
+    "desc": "2 Level 11 monsters\nYou can also Xyz Summon this card by using a Rank 8, 9, or 10 DARK Xyz Monster you control with 2 or more Xyz Materials as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) This card gains DEF equal to the combined Ranks of all Xyz Monsters you control x 200. While this card has Xyz Material, each time your opponent activates a Spell/Trap Card, inflict 600 damage to your opponent immediately after it resolves. Once per turn: You can detach 1 Xyz Material from this card; destroy all face-up monsters your opponent controls with DEF less than or equal to this card's.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 26556950,
+        "pack_id": "PP18-JP010",
+        "pack": "PP18",
+        "rarity": "Number 84: Pain Gainer",
+        "date": 1458345600000
+    },
+    "tcg": {
+        "id": 26556950,
+        "pack_id": "PGL3-EN010",
+        "pack": "PGL3",
+        "rarity": "Number 84: Pain Gainer",
+        "date": 1458259200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":80335817,"ot":3,"alias":0,"setcode":152,"type":16777249,"atk":1400,"def":0,"level":33685507,"race":2,"attribute":32,"category":0,"name":"Timebreaker Magician","desc":"Pendulum Effect\nEach turn, the first Pendulum Monster(s) you control that would be destroyed by an opponent's card effect, is not destroyed.\n\nMonster Effect\nWhen this card is Pendulum Summoned from the hand (and no other cards are Pendulum Summoned at the same time): You can make this card's ATK become double its original ATK. Once per turn: You can target 1 monster on the field; banish both it and this card from the field, but return them in your next Standby Phase.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":80335817,"pack_id":"BOSH-JP002","pack":"BOSH","rarity":"Timebreaker Magician","date":1445040000000},"tcg":{"id":80335817,"pack_id":"BOSH-EN002","pack":"BOSH","rarity":"Timebreaker Magician","date":1452729600000}}
+{
+    "id": 80335817,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 152,
+    "type": 16777249,
+    "atk": 1400,
+    "def": 0,
+    "level": 33685507,
+    "race": 2,
+    "attribute": 32,
+    "category": 0,
+    "name": "Timebreaker Magician",
+    "desc": "Pendulum Effect\nEach turn, the first Pendulum Monster(s) you control that would be destroyed by an opponent's card effect, is not destroyed.\n\nMonster Effect\nWhen this card is Pendulum Summoned from the hand (and no other cards are Pendulum Summoned at the same time): You can make this card's ATK become double its original ATK. Once per turn: You can target 1 monster on the field; banish both it and this card from the field, but return them in your next Standby Phase.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 80335817,
+        "pack_id": "BOSH-JP002",
+        "pack": "BOSH",
+        "rarity": "Timebreaker Magician",
+        "date": 1445040000000
+    },
+    "tcg": {
+        "id": 80335817,
+        "pack_id": "BOSH-EN002",
+        "pack": "BOSH",
+        "rarity": "Timebreaker Magician",
+        "date": 1452729600000
+    }
+}

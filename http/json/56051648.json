@@ -1,1 +1,47 @@
-{"id":56051648,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":786432,"name":"Spider Egg","desc":"Activate only when your opponent declares a direct attack, while you have 3 or more Insect-Type monsters in your Graveyard. Negate that attack. Special Summon 3 \"Spider Tokens\" (Insect-Type/EARTH/Level 1/ATK 100/DEF 100) in Attack Position.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":56051648,"pack_id":"SOVR-JP068","pack":"SOVR","rarity":"Spider Egg","date":1247875200000},"tcg":{"id":56051648,"pack_id":"SOVR-EN068","pack":"SOVR","rarity":"Spider Egg","date":1258416000000}}
+{
+    "id": 56051648,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 786432,
+    "name": "Spider Egg",
+    "desc": "Activate only when your opponent declares a direct attack, while you have 3 or more Insect-Type monsters in your Graveyard. Negate that attack. Special Summon 3 \"Spider Tokens\" (Insect-Type/EARTH/Level 1/ATK 100/DEF 100) in Attack Position.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 56051648,
+        "pack_id": "SOVR-JP068",
+        "pack": "SOVR",
+        "rarity": "Spider Egg",
+        "date": 1247875200000
+    },
+    "tcg": {
+        "id": 56051648,
+        "pack_id": "SOVR-EN068",
+        "pack": "SOVR",
+        "rarity": "Spider Egg",
+        "date": 1258416000000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":56597272,"ot":3,"alias":0,"setcode":24,"type":33,"atk":0,"def":0,"level":1,"race":4,"attribute":2,"category":786432,"name":"Cloudian - Sheep Cloud","desc":"When this card is destroyed by battle and sent to the Graveyard, Special Summon 2 \"Cloudian Tokens\" (Fairy-Type/WATER/Level 1/ATK 0/DEF 0) in Defense Position. These tokens cannot be Tributed for a Tribute Summon, unless it is for a \"Cloudian\" monster.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":56597272,"pack_id":"GLAS-JP008","pack":"GLAS","rarity":"Cloudian - Sheep Cloud","date":1184976000000},"tcg":{"id":56597272,"pack_id":"GLAS-EN008","pack":"GLAS","rarity":"Cloudian - Sheep Cloud","date":1194998400000}}
+{
+    "id": 56597272,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 24,
+    "type": 33,
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": 4,
+    "attribute": 2,
+    "category": 786432,
+    "name": "Cloudian - Sheep Cloud",
+    "desc": "When this card is destroyed by battle and sent to the Graveyard, Special Summon 2 \"Cloudian Tokens\" (Fairy-Type/WATER/Level 1/ATK 0/DEF 0) in Defense Position. These tokens cannot be Tributed for a Tribute Summon, unless it is for a \"Cloudian\" monster.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 56597272,
+        "pack_id": "GLAS-JP008",
+        "pack": "GLAS",
+        "rarity": "Cloudian - Sheep Cloud",
+        "date": 1184976000000
+    },
+    "tcg": {
+        "id": 56597272,
+        "pack_id": "GLAS-EN008",
+        "pack": "GLAS",
+        "rarity": "Cloudian - Sheep Cloud",
+        "date": 1194998400000
+    }
+}

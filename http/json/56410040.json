@@ -1,1 +1,47 @@
-{"id":56410040,"ot":3,"alias":0,"setcode":67,"type":33,"atk":900,"def":1500,"level":3,"race":1,"attribute":1,"category":262144,"name":"Junk Forward","desc":"If you control no monsters, you can Special Summon this card (from your hand).","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":56410040,"pack_id":"PP13-JP001","pack":"PP13","rarity":"Junk Forward","date":1299888000000},"tcg":{"id":56410040,"pack_id":"PRC1-EN009","pack":"PRC1","rarity":"Junk Forward","date":1331856000000}}
+{
+    "id": 56410040,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 67,
+    "type": 33,
+    "atk": 900,
+    "def": 1500,
+    "level": 3,
+    "race": 1,
+    "attribute": 1,
+    "category": 262144,
+    "name": "Junk Forward",
+    "desc": "If you control no monsters, you can Special Summon this card (from your hand).",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 56410040,
+        "pack_id": "PP13-JP001",
+        "pack": "PP13",
+        "rarity": "Junk Forward",
+        "date": 1299888000000
+    },
+    "tcg": {
+        "id": 56410040,
+        "pack_id": "PRC1-EN009",
+        "pack": "PRC1",
+        "rarity": "Junk Forward",
+        "date": 1331856000000
+    }
+}

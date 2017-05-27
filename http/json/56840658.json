@@ -1,1 +1,47 @@
-{"id":56840658,"ot":3,"alias":0,"setcode":18,"type":33,"atk":100,"def":100,"level":2,"race":64,"attribute":2,"category":256,"name":"Poison Draw Frog","desc":"When this face-up card on the field is sent to the Graveyard (unless it was attacked while face-down and destroyed by battle), you can draw 1 card.","str1":"Draw card","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":56840658,"pack_id":"CRV-JP028","pack":"CRV","rarity":"Poison Draw Frog","date":1190419200000},"tcg":{"id":56840658,"pack_id":"CRV-EN028","pack":"CRV","rarity":"Poison Draw Frog","date":1123286400000}}
+{
+    "id": 56840658,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 18,
+    "type": 33,
+    "atk": 100,
+    "def": 100,
+    "level": 2,
+    "race": 64,
+    "attribute": 2,
+    "category": 256,
+    "name": "Poison Draw Frog",
+    "desc": "When this face-up card on the field is sent to the Graveyard (unless it was attacked while face-down and destroyed by battle), you can draw 1 card.",
+    "str1": "Draw card",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 56840658,
+        "pack_id": "CRV-JP028",
+        "pack": "CRV",
+        "rarity": "Poison Draw Frog",
+        "date": 1190419200000
+    },
+    "tcg": {
+        "id": 56840658,
+        "pack_id": "CRV-EN028",
+        "pack": "CRV",
+        "rarity": "Poison Draw Frog",
+        "date": 1123286400000
+    }
+}

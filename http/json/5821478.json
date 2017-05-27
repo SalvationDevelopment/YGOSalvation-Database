@@ -1,1 +1,46 @@
-{"id":5821478,"ot":1,"alias":0,"setcode":0,"type":33554465,"atk":3000,"def":"-","level":4,"race":16777216,"attribute":32,"category":1,"name":"Topologic Bomber Dragon","desc":"Link Markers: Top, Bottom-Left, Bottom, Bottom-Right\n\n2+ Effect Monsters\nIf another monster(s) is Special Summoned to a zone a Link Monster on the field points to while this monster is on the field: Destroy all monsters in the Main Monster Zones, also, for the rest of this turn, other monsters you control cannot attack. If this card attacks an opponent's monster, after damage calculation: Inflict damage to your opponent equal to the original ATK of the opponent's monster.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[1,5,6,7],"cardpool":"OCG","ocg":{"id":5821478,"pack_id":"COTD-JP046","pack":"COTD","rarity":"Topologic Bomber Dragon","date":1492214400000},"tcg":{}}
+{
+    "id": 5821478,
+    "ot": 1,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33554465,
+    "atk": 3000,
+    "def": "-",
+    "level": 4,
+    "race": 16777216,
+    "attribute": 32,
+    "category": 1,
+    "name": "Topologic Bomber Dragon",
+    "desc": "Link Markers: Top, Bottom-Left, Bottom, Bottom-Right\n\n2+ Effect Monsters\nIf another monster(s) is Special Summoned to a zone a Link Monster on the field points to while this monster is on the field: Destroy all monsters in the Main Monster Zones, also, for the rest of this turn, other monsters you control cannot attack. If this card attacks an opponent's monster, after damage calculation: Inflict damage to your opponent equal to the original ATK of the opponent's monster.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [
+        1,
+        5,
+        6,
+        7
+    ],
+    "cardpool": "OCG",
+    "ocg": {
+        "id": 5821478,
+        "pack_id": "COTD-JP046",
+        "pack": "COTD",
+        "rarity": "Topologic Bomber Dragon",
+        "date": 1492214400000
+    },
+    "tcg": {}
+}

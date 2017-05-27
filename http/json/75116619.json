@@ -1,1 +1,47 @@
-{"id":75116619,"ot":3,"alias":0,"setcode":61,"type":33,"atk":1700,"def":700,"level":4,"race":1,"attribute":16,"category":8212,"name":"Legendary Six Samurai - Enishi","desc":"Once per turn, during either player's turn: You can banish 2 \"Six Samurai\" monsters from your Graveyard to target 1 face-up monster on the field; return that target to the hand. You must control a face-up \"Six Samurai\" monster with a different name to activate and to resolve this effect. While you control 2 or more face-up \"Six Samurai\" monsters except \"Legendary Six Samurai - Enishi\", this card gains 500 ATK and DEF.","str1":"Return to hand","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":75116619,"pack_id":"STOR-JP021","pack":"STOR","rarity":"Legendary Six Samurai - Enishi","date":1289606400000},"tcg":{"id":75116619,"pack_id":"STOR-EN021","pack":"STOR","rarity":"Legendary Six Samurai - Enishi","date":1297123200000}}
+{
+    "id": 75116619,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 61,
+    "type": 33,
+    "atk": 1700,
+    "def": 700,
+    "level": 4,
+    "race": 1,
+    "attribute": 16,
+    "category": 8212,
+    "name": "Legendary Six Samurai - Enishi",
+    "desc": "Once per turn, during either player's turn: You can banish 2 \"Six Samurai\" monsters from your Graveyard to target 1 face-up monster on the field; return that target to the hand. You must control a face-up \"Six Samurai\" monster with a different name to activate and to resolve this effect. While you control 2 or more face-up \"Six Samurai\" monsters except \"Legendary Six Samurai - Enishi\", this card gains 500 ATK and DEF.",
+    "str1": "Return to hand",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 75116619,
+        "pack_id": "STOR-JP021",
+        "pack": "STOR",
+        "rarity": "Legendary Six Samurai - Enishi",
+        "date": 1289606400000
+    },
+    "tcg": {
+        "id": 75116619,
+        "pack_id": "STOR-EN021",
+        "pack": "STOR",
+        "rarity": "Legendary Six Samurai - Enishi",
+        "date": 1297123200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":33731070,"ot":3,"alias":0,"setcode":6,"type":33,"atk":1600,"def":1300,"level":4,"race":8,"attribute":32,"category":262144,"name":"Beiige, Vanguard of Dark World","desc":"If this card is discarded to the Graveyard by a card effect: Special Summon it from the Graveyard.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":33731070,"pack_id":"EEN-JP020","pack":"EEN","rarity":"Beiige, Vanguard of Dark World","date":1123718400000},"tcg":{"id":33731070,"pack_id":"EEN-EN020","pack":"EEN","rarity":"Beiige, Vanguard of Dark World","date":1131148800000}}
+{
+    "id": 33731070,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 6,
+    "type": 33,
+    "atk": 1600,
+    "def": 1300,
+    "level": 4,
+    "race": 8,
+    "attribute": 32,
+    "category": 262144,
+    "name": "Beiige, Vanguard of Dark World",
+    "desc": "If this card is discarded to the Graveyard by a card effect: Special Summon it from the Graveyard.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 33731070,
+        "pack_id": "EEN-JP020",
+        "pack": "EEN",
+        "rarity": "Beiige, Vanguard of Dark World",
+        "date": 1123718400000
+    },
+    "tcg": {
+        "id": 33731070,
+        "pack_id": "EEN-EN020",
+        "pack": "EEN",
+        "rarity": "Beiige, Vanguard of Dark World",
+        "date": 1131148800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":72291078,"ot":3,"alias":0,"setcode":4123,"type":4129,"atk":600,"def":1000,"level":2,"race":32,"attribute":8,"category":0,"name":"Mecha Phantom Beast O-Lion","desc":"You can banish this card from your Graveyard; immediately after this effect resolves, Normal Summon 1 \"Mecha Phantom Beast\" monster from your hand. While you control a Token, this card cannot be destroyed by battle or card effects. If this card is sent to the Graveyard: You can Special Summon 1 \"Mecha Phantom Beast Token\" (Machine-Type/WIND/Level 3/ATK 0/DEF 0). You can only use this effect of \"Mecha Phantom Beast O-Lion\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":72291078,"pack_id":"PRIO-JP026","pack":"PRIO","rarity":"Mecha Phantom Beast O-Lion","date":1392422400000},"tcg":{"id":72291078,"pack_id":"PRIO-EN026","pack":"PRIO","rarity":"Mecha Phantom Beast O-Lion","date":1400198400000}}
+{
+    "id": 72291078,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4123,
+    "type": 4129,
+    "atk": 600,
+    "def": 1000,
+    "level": 2,
+    "race": 32,
+    "attribute": 8,
+    "category": 0,
+    "name": "Mecha Phantom Beast O-Lion",
+    "desc": "You can banish this card from your Graveyard; immediately after this effect resolves, Normal Summon 1 \"Mecha Phantom Beast\" monster from your hand. While you control a Token, this card cannot be destroyed by battle or card effects. If this card is sent to the Graveyard: You can Special Summon 1 \"Mecha Phantom Beast Token\" (Machine-Type/WIND/Level 3/ATK 0/DEF 0). You can only use this effect of \"Mecha Phantom Beast O-Lion\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 72291078,
+        "pack_id": "PRIO-JP026",
+        "pack": "PRIO",
+        "rarity": "Mecha Phantom Beast O-Lion",
+        "date": 1392422400000
+    },
+    "tcg": {
+        "id": 72291078,
+        "pack_id": "PRIO-EN026",
+        "pack": "PRIO",
+        "rarity": "Mecha Phantom Beast O-Lion",
+        "date": 1400198400000
+    }
+}

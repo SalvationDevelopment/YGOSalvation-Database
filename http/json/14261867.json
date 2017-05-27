@@ -1,1 +1,47 @@
-{"id":14261867,"ot":3,"alias":0,"setcode":0,"type":33,"atk":300,"def":200,"level":2,"race":2048,"attribute":32,"category":10240,"name":"8-Claws Scorpion","desc":"Once per turn, you can flip this card into face-down Defense Position. When this card attacks an opponent's face-down Defense Position monster, this card's ATK becomes 2400 during damage calculation only.","str1":"变成里侧守备","str2":"攻击变化","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":14261867,"pack_id":"PH-24","pack":"PH","rarity":"8-Claws Scorpion","date":1016668800000},"tcg":{"id":14261867,"pack_id":"PGD-024","pack":"PGD","rarity":"8-Claws Scorpion","date":1058486400000}}
+{
+    "id": 14261867,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 300,
+    "def": 200,
+    "level": 2,
+    "race": 2048,
+    "attribute": 32,
+    "category": 10240,
+    "name": "8-Claws Scorpion",
+    "desc": "Once per turn, you can flip this card into face-down Defense Position. When this card attacks an opponent's face-down Defense Position monster, this card's ATK becomes 2400 during damage calculation only.",
+    "str1": "变成里侧守备",
+    "str2": "攻击变化",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 14261867,
+        "pack_id": "PH-24",
+        "pack": "PH",
+        "rarity": "8-Claws Scorpion",
+        "date": 1016668800000
+    },
+    "tcg": {
+        "id": 14261867,
+        "pack_id": "PGD-024",
+        "pack": "PGD",
+        "rarity": "8-Claws Scorpion",
+        "date": 1058486400000
+    }
+}

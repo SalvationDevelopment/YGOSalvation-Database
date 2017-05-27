@@ -1,1 +1,47 @@
-{"id":45467446,"ot":3,"alias":0,"setcode":221,"type":33,"atk":2500,"def":2000,"level":8,"race":8192,"attribute":16,"category":0,"name":"Dragon Spirit of White","desc":"(This card is always treated as a \"Blue-Eyes\" card.)\nThis card is treated as a Normal Monster while in the hand or Graveyard. When this card is Normal or Special Summoned: You can target 1 Spell/Trap Card your opponent controls; banish it. During either player's turn, if your opponent controls a monster: You can Tribute this card; Special Summon 1 \"Blue-Eyes White Dragon\" from your hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":45467446,"pack_id":"SHVI-JP018","pack":"SHVI","rarity":"Dragon Spirit of White","date":1452297600000},"tcg":{"id":45467446,"pack_id":"SHVI-EN018","pack":"SHVI","rarity":"Dragon Spirit of White","date":1462406400000}}
+{
+    "id": 45467446,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 221,
+    "type": 33,
+    "atk": 2500,
+    "def": 2000,
+    "level": 8,
+    "race": 8192,
+    "attribute": 16,
+    "category": 0,
+    "name": "Dragon Spirit of White",
+    "desc": "(This card is always treated as a \"Blue-Eyes\" card.)\nThis card is treated as a Normal Monster while in the hand or Graveyard. When this card is Normal or Special Summoned: You can target 1 Spell/Trap Card your opponent controls; banish it. During either player's turn, if your opponent controls a monster: You can Tribute this card; Special Summon 1 \"Blue-Eyes White Dragon\" from your hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 45467446,
+        "pack_id": "SHVI-JP018",
+        "pack": "SHVI",
+        "rarity": "Dragon Spirit of White",
+        "date": 1452297600000
+    },
+    "tcg": {
+        "id": 45467446,
+        "pack_id": "SHVI-EN018",
+        "pack": "SHVI",
+        "rarity": "Dragon Spirit of White",
+        "date": 1462406400000
+    }
+}

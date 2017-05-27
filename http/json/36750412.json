@@ -1,1 +1,47 @@
-{"id":36750412,"ot":3,"alias":0,"setcode":0,"type":4129,"atk":1400,"def":600,"level":2,"race":8192,"attribute":4,"category":8192,"name":"Magna Drago","desc":"If this card inflicts battle damage to your opponent: It gains 200 ATK.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":36750412,"pack_id":"YSD3-JP013","pack":"YSD3","rarity":"Magna Drago","date":1205539200000},"tcg":{"id":36750412,"pack_id":"5DS1-EN013","pack":"5DS1","rarity":"Magna Drago","date":1217894400000}}
+{
+    "id": 36750412,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4129,
+    "atk": 1400,
+    "def": 600,
+    "level": 2,
+    "race": 8192,
+    "attribute": 4,
+    "category": 8192,
+    "name": "Magna Drago",
+    "desc": "If this card inflicts battle damage to your opponent: It gains 200 ATK.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 36750412,
+        "pack_id": "YSD3-JP013",
+        "pack": "YSD3",
+        "rarity": "Magna Drago",
+        "date": 1205539200000
+    },
+    "tcg": {
+        "id": 36750412,
+        "pack_id": "5DS1-EN013",
+        "pack": "5DS1",
+        "rarity": "Magna Drago",
+        "date": 1217894400000
+    }
+}

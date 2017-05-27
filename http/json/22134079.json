@@ -1,1 +1,47 @@
-{"id":22134079,"ot":3,"alias":0,"setcode":46,"type":33,"atk":1700,"def":0,"level":4,"race":2,"attribute":32,"category":0,"name":"Gravekeeper's Ambusher","desc":"When this card is flipped face-up: You can target 1 card in your opponent's Graveyard; place that target on the bottom of their Deck. If this card is sent from the field to the Graveyard after being flipped face-up: You can target 1 \"Necrovalley\" card in your Graveyard; add that target to your hand. This card's effects cannot be negated by the effect of \"Necrovalley\".","str1":"Banish 1 card from opponent's Graveyard?","str2":"add Necrovalley to hand from grave?","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":22134079,"pack_id":"LVAL-JP032","pack":"LVAL","rarity":"Gravekeeper's Ambusher","date":1384560000000},"tcg":{"id":22134079,"pack_id":"LVAL-EN032","pack":"LVAL","rarity":"Gravekeeper's Ambusher","date":1390521600000}}
+{
+    "id": 22134079,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 46,
+    "type": 33,
+    "atk": 1700,
+    "def": 0,
+    "level": 4,
+    "race": 2,
+    "attribute": 32,
+    "category": 0,
+    "name": "Gravekeeper's Ambusher",
+    "desc": "When this card is flipped face-up: You can target 1 card in your opponent's Graveyard; place that target on the bottom of their Deck. If this card is sent from the field to the Graveyard after being flipped face-up: You can target 1 \"Necrovalley\" card in your Graveyard; add that target to your hand. This card's effects cannot be negated by the effect of \"Necrovalley\".",
+    "str1": "Banish 1 card from opponent's Graveyard?",
+    "str2": "add Necrovalley to hand from grave?",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 22134079,
+        "pack_id": "LVAL-JP032",
+        "pack": "LVAL",
+        "rarity": "Gravekeeper's Ambusher",
+        "date": 1384560000000
+    },
+    "tcg": {
+        "id": 22134079,
+        "pack_id": "LVAL-EN032",
+        "pack": "LVAL",
+        "rarity": "Gravekeeper's Ambusher",
+        "date": 1390521600000
+    }
+}

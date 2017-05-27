@@ -1,1 +1,47 @@
-{"id":49221191,"ot":3,"alias":0,"setcode":889062953032,"type":8388641,"atk":2800,"def":2100,"level":4,"race":262144,"attribute":2,"category":270336,"name":"Number C32: Shark Drake Veiss","desc":"4 Level 4 WATER monsters\nYou can also Xyz Summon this card by using a \"Number 32: Shark Drake\" you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) During either player's turn, if your Life Points are 1000 or less: You can detach 1 Xyz Material from this card and banish 1 monster from your Graveyard to target 1 face-up monster on the field; that target's ATK and DEF become 0 until the End Phase.","str1":"Xyz summon by stacking on top of \"Number 32: Shark Drake\"?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":49221191,"pack_id":"ABYR-JP039","pack":"ABYR","rarity":"Number C32: Shark Drake Veiss","date":1342828800000},"tcg":{"id":49221191,"pack_id":"ABYR-EN039","pack":"ABYR","rarity":"Number C32: Shark Drake Veiss","date":1352419200000}}
+{
+    "id": 49221191,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 889062953032,
+    "type": 8388641,
+    "atk": 2800,
+    "def": 2100,
+    "level": 4,
+    "race": 262144,
+    "attribute": 2,
+    "category": 270336,
+    "name": "Number C32: Shark Drake Veiss",
+    "desc": "4 Level 4 WATER monsters\nYou can also Xyz Summon this card by using a \"Number 32: Shark Drake\" you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) During either player's turn, if your Life Points are 1000 or less: You can detach 1 Xyz Material from this card and banish 1 monster from your Graveyard to target 1 face-up monster on the field; that target's ATK and DEF become 0 until the End Phase.",
+    "str1": "Xyz summon by stacking on top of \"Number 32: Shark Drake\"?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 49221191,
+        "pack_id": "ABYR-JP039",
+        "pack": "ABYR",
+        "rarity": "Number C32: Shark Drake Veiss",
+        "date": 1342828800000
+    },
+    "tcg": {
+        "id": 49221191,
+        "pack_id": "ABYR-EN039",
+        "pack": "ABYR",
+        "rarity": "Number C32: Shark Drake Veiss",
+        "date": 1352419200000
+    }
+}

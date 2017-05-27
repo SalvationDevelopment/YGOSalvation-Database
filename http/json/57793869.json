@@ -1,1 +1,47 @@
-{"id":57793869,"ot":3,"alias":0,"setcode":0,"type":33,"atk":-2,"def":-2,"level":10,"race":8,"attribute":32,"category":8195,"name":"The Wicked Eraser","desc":"This card cannot be Special Summoned. This card cannot be Normal Summoned or Set except by Tributing 3 monsters. The ATK and DEF of this card are each equal to the number of cards your opponent controls x 1000. When this card is destroyed and sent to the Graveyard, destroy all cards on the field. During your Main Phase, you can destroy this card.","str1":"场上的卡全部破坏","str2":"Self-destruct","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":57793869,"pack_id":"VJMP-JP021","pack":"VJMP","rarity":"The Wicked Eraser","date":1169251200000},"tcg":{"id":57793869,"pack_id":"JUMP-EN016","pack":"JUMP","rarity":"The Wicked Eraser","date":1282780800000}}
+{
+    "id": 57793869,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": -2,
+    "def": -2,
+    "level": 10,
+    "race": 8,
+    "attribute": 32,
+    "category": 8195,
+    "name": "The Wicked Eraser",
+    "desc": "This card cannot be Special Summoned. This card cannot be Normal Summoned or Set except by Tributing 3 monsters. The ATK and DEF of this card are each equal to the number of cards your opponent controls x 1000. When this card is destroyed and sent to the Graveyard, destroy all cards on the field. During your Main Phase, you can destroy this card.",
+    "str1": "场上的卡全部破坏",
+    "str2": "Self-destruct",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 57793869,
+        "pack_id": "VJMP-JP021",
+        "pack": "VJMP",
+        "rarity": "The Wicked Eraser",
+        "date": 1169251200000
+    },
+    "tcg": {
+        "id": 57793869,
+        "pack_id": "JUMP-EN016",
+        "pack": "JUMP",
+        "rarity": "The Wicked Eraser",
+        "date": 1282780800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":47480070,"ot":3,"alias":0,"setcode":4,"type":33,"atk":1700,"def":300,"level":4,"race":1,"attribute":1,"category":8192,"name":"Amazoness Paladin","desc":"This card gains 100 ATK for each \"Amazoness\" monster you control.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":47480070,"pack_id":"303-005","pack":"303","rarity":"Amazoness Paladin","date":1032393600000},"tcg":{"id":47480070,"pack_id":"MFC-059","pack":"MFC","rarity":"Amazoness Paladin","date":1065744000000}}
+{
+    "id": 47480070,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4,
+    "type": 33,
+    "atk": 1700,
+    "def": 300,
+    "level": 4,
+    "race": 1,
+    "attribute": 1,
+    "category": 8192,
+    "name": "Amazoness Paladin",
+    "desc": "This card gains 100 ATK for each \"Amazoness\" monster you control.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 47480070,
+        "pack_id": "303-005",
+        "pack": "303",
+        "rarity": "Amazoness Paladin",
+        "date": 1032393600000
+    },
+    "tcg": {
+        "id": 47480070,
+        "pack_id": "MFC-059",
+        "pack": "MFC",
+        "rarity": "Amazoness Paladin",
+        "date": 1065744000000
+    }
+}

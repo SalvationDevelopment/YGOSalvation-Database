@@ -1,1 +1,47 @@
-{"id":67223587,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262144,"name":"Double Tag Team","desc":"Activate only when you successfully Special Summon a \"Gladiator Beast\" monster. Special Summon 1 Level 4 or lower \"Gladiator Beast\" monster from your hand or Deck.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":67223587,"pack_id":"PTDN-JP076","pack":"PTDN","rarity":"Double Tag Team","date":1195776000000},"tcg":{"id":67223587,"pack_id":"PTDN-EN076","pack":"PTDN","rarity":"Double Tag Team","date":1201305600000}}
+{
+    "id": 67223587,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262144,
+    "name": "Double Tag Team",
+    "desc": "Activate only when you successfully Special Summon a \"Gladiator Beast\" monster. Special Summon 1 Level 4 or lower \"Gladiator Beast\" monster from your hand or Deck.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 67223587,
+        "pack_id": "PTDN-JP076",
+        "pack": "PTDN",
+        "rarity": "Double Tag Team",
+        "date": 1195776000000
+    },
+    "tcg": {
+        "id": 67223587,
+        "pack_id": "PTDN-EN076",
+        "pack": "PTDN",
+        "rarity": "Double Tag Team",
+        "date": 1201305600000
+    }
+}

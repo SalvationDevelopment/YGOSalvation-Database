@@ -1,1 +1,47 @@
-{"id":69456283,"ot":3,"alias":0,"setcode":0,"type":1057,"atk":200,"def":100,"level":10,"race":4,"attribute":2,"category":17063936,"name":"Koitsu","desc":"Once per turn, during your Main Phase, if you control this card on the field, you can equip it to your \"Aitsu\" as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. While equipped to a monster by this card's effect, increase the ATK of the equipped monster by 3000 points. When it attacks with an ATK that is higher than the DEF of a Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points. (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)","str1":"Equip","str2":"Special Summon","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":69456283,"pack_id":"303-026","pack":"303","rarity":"Koitsu","date":1032393600000},"tcg":{"id":69456283,"pack_id":"MFC-080","pack":"MFC","rarity":"Koitsu","date":1065744000000}}
+{
+    "id": 69456283,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 1057,
+    "atk": 200,
+    "def": 100,
+    "level": 10,
+    "race": 4,
+    "attribute": 2,
+    "category": 17063936,
+    "name": "Koitsu",
+    "desc": "Once per turn, during your Main Phase, if you control this card on the field, you can equip it to your \"Aitsu\" as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. While equipped to a monster by this card's effect, increase the ATK of the equipped monster by 3000 points. When it attacks with an ATK that is higher than the DEF of a Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points. (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)",
+    "str1": "Equip",
+    "str2": "Special Summon",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 69456283,
+        "pack_id": "303-026",
+        "pack": "303",
+        "rarity": "Koitsu",
+        "date": 1032393600000
+    },
+    "tcg": {
+        "id": 69456283,
+        "pack_id": "MFC-080",
+        "pack": "MFC",
+        "rarity": "Koitsu",
+        "date": 1065744000000
+    }
+}

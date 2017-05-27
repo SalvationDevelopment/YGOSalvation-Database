@@ -1,1 +1,47 @@
-{"id":50554729,"ot":3,"alias":0,"setcode":224,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Amorphage Infection","desc":"All \"Amorphage\" monsters on the field gain 100 ATK and DEF for each \"Amorphage\" card on the field. If a monster(s) in your hand or you control is Tributed, or destroyed by battle or card effect: You can add 1 \"Amorphage\" card from your Deck to your hand. You can only use this effect of \"Amorphage Infection\" once per turn.","str1":"Tribute Monster","str2":"Destroy this card","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":50554729,"pack_id":"SHVI-JP063","pack":"SHVI","rarity":"Amorphage Infection","date":1452297600000},"tcg":{"id":50554729,"pack_id":"SHVI-EN063","pack":"SHVI","rarity":"Amorphage Infection","date":1462406400000}}
+{
+    "id": 50554729,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 224,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Amorphage Infection",
+    "desc": "All \"Amorphage\" monsters on the field gain 100 ATK and DEF for each \"Amorphage\" card on the field. If a monster(s) in your hand or you control is Tributed, or destroyed by battle or card effect: You can add 1 \"Amorphage\" card from your Deck to your hand. You can only use this effect of \"Amorphage Infection\" once per turn.",
+    "str1": "Tribute Monster",
+    "str2": "Destroy this card",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 50554729,
+        "pack_id": "SHVI-JP063",
+        "pack": "SHVI",
+        "rarity": "Amorphage Infection",
+        "date": 1452297600000
+    },
+    "tcg": {
+        "id": 50554729,
+        "pack_id": "SHVI-EN063",
+        "pack": "SHVI",
+        "rarity": "Amorphage Infection",
+        "date": 1462406400000
+    }
+}

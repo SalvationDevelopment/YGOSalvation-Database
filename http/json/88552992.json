@@ -1,1 +1,47 @@
-{"id":88552992,"ot":3,"alias":0,"setcode":112,"type":33,"atk":1300,"def":1400,"level":4,"race":32,"attribute":16,"category":0,"name":"Chronomaly Golden Jet","desc":"Once per turn: You can increase the Levels of all \"Chronomaly\" monsters you currently control by 1.","str1":"Increase level","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":88552992,"pack_id":"REDU-JP011","pack":"REDU","rarity":"Chronomaly Golden Jet","date":1334361600000},"tcg":{"id":88552992,"pack_id":"REDU-EN011","pack":"REDU","rarity":"Chronomaly Golden Jet","date":1345248000000}}
+{
+    "id": 88552992,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 112,
+    "type": 33,
+    "atk": 1300,
+    "def": 1400,
+    "level": 4,
+    "race": 32,
+    "attribute": 16,
+    "category": 0,
+    "name": "Chronomaly Golden Jet",
+    "desc": "Once per turn: You can increase the Levels of all \"Chronomaly\" monsters you currently control by 1.",
+    "str1": "Increase level",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 88552992,
+        "pack_id": "REDU-JP011",
+        "pack": "REDU",
+        "rarity": "Chronomaly Golden Jet",
+        "date": 1334361600000
+    },
+    "tcg": {
+        "id": 88552992,
+        "pack_id": "REDU-EN011",
+        "pack": "REDU",
+        "rarity": "Chronomaly Golden Jet",
+        "date": 1345248000000
+    }
+}

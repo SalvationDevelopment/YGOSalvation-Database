@@ -1,1 +1,47 @@
-{"id":10920352,"ot":3,"alias":0,"setcode":40968,"type":97,"atk":2400,"def":2000,"level":6,"race":1,"attribute":2,"category":16777216,"name":"Masked HERO Vapor","desc":"Must be Special Summoned with \"Mask Change\", and cannot be Special Summoned by other ways. This card cannot be destroyed by card effects.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":10920352,"pack_id":"PP13-JP006","pack":"PP13","rarity":"Masked HERO Vapor","date":1299888000000},"tcg":{"id":10920352,"pack_id":"GENF-EN095","pack":"GENF","rarity":"Masked HERO Vapor","date":1312588800000}}
+{
+    "id": 10920352,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 40968,
+    "type": 97,
+    "atk": 2400,
+    "def": 2000,
+    "level": 6,
+    "race": 1,
+    "attribute": 2,
+    "category": 16777216,
+    "name": "Masked HERO Vapor",
+    "desc": "Must be Special Summoned with \"Mask Change\", and cannot be Special Summoned by other ways. This card cannot be destroyed by card effects.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 10920352,
+        "pack_id": "PP13-JP006",
+        "pack": "PP13",
+        "rarity": "Masked HERO Vapor",
+        "date": 1299888000000
+    },
+    "tcg": {
+        "id": 10920352,
+        "pack_id": "GENF-EN095",
+        "pack": "GENF",
+        "rarity": "Masked HERO Vapor",
+        "date": 1312588800000
+    }
+}

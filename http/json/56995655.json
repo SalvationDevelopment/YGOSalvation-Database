@@ -1,1 +1,47 @@
-{"id":56995655,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Ominous Fortunetelling","desc":"During your Standby Phase, select 1 random card from your opponent's hand. Call the type of card (Monster, Spell, or Trap). If you call it right, inflict 700 points of damage to your opponent's Life Points. You can use this effect once per turn.","str1":"Inflict damage","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":56995655,"pack_id":"MA-46","pack":"MA","rarity":"Ominous Fortunetelling","date":1006992000000},"tcg":{"id":56995655,"pack_id":"LOD-094","pack":"LOD","rarity":"Ominous Fortunetelling","date":1054857600000}}
+{
+    "id": 56995655,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Ominous Fortunetelling",
+    "desc": "During your Standby Phase, select 1 random card from your opponent's hand. Call the type of card (Monster, Spell, or Trap). If you call it right, inflict 700 points of damage to your opponent's Life Points. You can use this effect once per turn.",
+    "str1": "Inflict damage",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 56995655,
+        "pack_id": "MA-46",
+        "pack": "MA",
+        "rarity": "Ominous Fortunetelling",
+        "date": 1006992000000
+    },
+    "tcg": {
+        "id": 56995655,
+        "pack_id": "LOD-094",
+        "pack": "LOD",
+        "rarity": "Ominous Fortunetelling",
+        "date": 1054857600000
+    }
+}

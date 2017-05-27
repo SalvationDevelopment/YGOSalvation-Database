@@ -1,1 +1,47 @@
-{"id":92039899,"ot":3,"alias":0,"setcode":69,"type":33,"atk":1900,"def":0,"level":4,"race":8,"attribute":32,"category":262144,"name":"Archfiend Cavalry","desc":"If this card on the field is destroyed by a card effect and sent to the Graveyard: You can target 1 \"Archfiend\" monster in your Graveyard, except \"Archfiend Cavalry\"; Special Summon that target. It cannot attack this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":92039899,"pack_id":"JOTL-JP030","pack":"JOTL","rarity":"Archfiend Cavalry","date":1366416000000},"tcg":{"id":92039899,"pack_id":"JOTL-EN030","pack":"JOTL","rarity":"Archfiend Cavalry","date":1375920000000}}
+{
+    "id": 92039899,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 69,
+    "type": 33,
+    "atk": 1900,
+    "def": 0,
+    "level": 4,
+    "race": 8,
+    "attribute": 32,
+    "category": 262144,
+    "name": "Archfiend Cavalry",
+    "desc": "If this card on the field is destroyed by a card effect and sent to the Graveyard: You can target 1 \"Archfiend\" monster in your Graveyard, except \"Archfiend Cavalry\"; Special Summon that target. It cannot attack this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 92039899,
+        "pack_id": "JOTL-JP030",
+        "pack": "JOTL",
+        "rarity": "Archfiend Cavalry",
+        "date": 1366416000000
+    },
+    "tcg": {
+        "id": 92039899,
+        "pack_id": "JOTL-EN030",
+        "pack": "JOTL",
+        "rarity": "Archfiend Cavalry",
+        "date": 1375920000000
+    }
+}

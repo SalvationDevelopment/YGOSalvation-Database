@@ -1,1 +1,47 @@
-{"id":83994433,"ot":3,"alias":0,"setcode":163,"type":8225,"atk":2500,"def":2000,"level":8,"race":8192,"attribute":16,"category":16777216,"name":"Stardust Spark Dragon","desc":"1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, during either player's turn: You can target 1 face-up card you control; once during this turn, it cannot be destroyed by battle or by card effects.","str1":"破壞耐性","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":83994433,"pack_id":"YF05-JP001","pack":"YF05","rarity":"Stardust Spark Dragon","date":1357257600000},"tcg":{"id":83994433,"pack_id":"YF05-EN001","pack":"YF05","rarity":"Stardust Spark Dragon","date":1383609600000}}
+{
+    "id": 83994433,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 163,
+    "type": 8225,
+    "atk": 2500,
+    "def": 2000,
+    "level": 8,
+    "race": 8192,
+    "attribute": 16,
+    "category": 16777216,
+    "name": "Stardust Spark Dragon",
+    "desc": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, during either player's turn: You can target 1 face-up card you control; once during this turn, it cannot be destroyed by battle or by card effects.",
+    "str1": "破壞耐性",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 83994433,
+        "pack_id": "YF05-JP001",
+        "pack": "YF05",
+        "rarity": "Stardust Spark Dragon",
+        "date": 1357257600000
+    },
+    "tcg": {
+        "id": 83994433,
+        "pack_id": "YF05-EN001",
+        "pack": "YF05",
+        "rarity": "Stardust Spark Dragon",
+        "date": 1383609600000
+    }
+}

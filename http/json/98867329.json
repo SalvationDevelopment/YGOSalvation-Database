@@ -1,1 +1,47 @@
-{"id":98867329,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8192,"name":"Cursed Armaments","desc":"The equipped monster loses 600 ATK for each monster you control. When this card is sent from the field to the Graveyard: You can target 1 face-up monster your opponent controls; equip it with this card.","str1":"Equip","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":98867329,"pack_id":"DREV-JP059","pack":"DREV","rarity":"Cursed Armaments","date":1271462400000},"tcg":{"id":98867329,"pack_id":"DREV-EN059","pack":"DREV","rarity":"Cursed Armaments","date":1281139200000}}
+{
+    "id": 98867329,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8192,
+    "name": "Cursed Armaments",
+    "desc": "The equipped monster loses 600 ATK for each monster you control. When this card is sent from the field to the Graveyard: You can target 1 face-up monster your opponent controls; equip it with this card.",
+    "str1": "Equip",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 98867329,
+        "pack_id": "DREV-JP059",
+        "pack": "DREV",
+        "rarity": "Cursed Armaments",
+        "date": 1271462400000
+    },
+    "tcg": {
+        "id": 98867329,
+        "pack_id": "DREV-EN059",
+        "pack": "DREV",
+        "rarity": "Cursed Armaments",
+        "date": 1281139200000
+    }
+}

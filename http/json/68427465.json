@@ -1,1 +1,47 @@
-{"id":68427465,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":-2147475456,"name":"Wicked-Breaking Flamberge - Baou","desc":"Send 1 card from your hand to the Graveyard; equip this card to a monster. It gains 500 ATK. Negate the effects of monsters destroyed by battle with the equipped monster.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":68427465,"pack_id":"304-035","pack":"304","rarity":"Wicked-Breaking Flamberge - Baou","date":1037836800000},"tcg":{"id":68427465,"pack_id":"DCR-035","pack":"DCR","rarity":"Wicked-Breaking Flamberge - Baou","date":1070236800000}}
+{
+    "id": 68427465,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": -2147475456,
+    "name": "Wicked-Breaking Flamberge - Baou",
+    "desc": "Send 1 card from your hand to the Graveyard; equip this card to a monster. It gains 500 ATK. Negate the effects of monsters destroyed by battle with the equipped monster.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 68427465,
+        "pack_id": "304-035",
+        "pack": "304",
+        "rarity": "Wicked-Breaking Flamberge - Baou",
+        "date": 1037836800000
+    },
+    "tcg": {
+        "id": 68427465,
+        "pack_id": "DCR-035",
+        "pack": "DCR",
+        "rarity": "Wicked-Breaking Flamberge - Baou",
+        "date": 1070236800000
+    }
+}

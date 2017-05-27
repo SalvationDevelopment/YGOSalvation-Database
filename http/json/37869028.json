@@ -1,1 +1,47 @@
-{"id":37869028,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1800,"def":400,"level":4,"race":524288,"attribute":2,"category":32768,"name":"Hydra Viper","desc":"Each time this card declares an attack, you must Tribute 1 Aqua-Type monster. This card can attack 3 times during each Battle Phase.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":37869028,"pack_id":"CRMS-JP037","pack":"","rarity":"","date":1226707200000},"tcg":{"id":37869028,"pack_id":"CRMS-EN037","pack":"CRMS","rarity":"Hydra Viper","date":1235779200000}}
+{
+    "id": 37869028,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1800,
+    "def": 400,
+    "level": 4,
+    "race": 524288,
+    "attribute": 2,
+    "category": 32768,
+    "name": "Hydra Viper",
+    "desc": "Each time this card declares an attack, you must Tribute 1 Aqua-Type monster. This card can attack 3 times during each Battle Phase.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 37869028,
+        "pack_id": "CRMS-JP037",
+        "pack": "",
+        "rarity": "",
+        "date": 1226707200000
+    },
+    "tcg": {
+        "id": 37869028,
+        "pack_id": "CRMS-EN037",
+        "pack": "CRMS",
+        "rarity": "Hydra Viper",
+        "date": 1235779200000
+    }
+}

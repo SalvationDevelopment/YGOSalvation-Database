@@ -1,1 +1,47 @@
-{"id":87609391,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Raptor's Ultimate Mace","desc":"Equip only to a \"Raidraptor\" monster. It gains 1000 ATK. When the equipped monster is targeted for an attack by a monster whose ATK is higher than the equipped monster: You can add 1 \"Rank-Up-Magic\" Spell Card from your Deck to your hand, and if you do, you take no battle damage from that battle.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":87609391,"pack_id":"DOCS-JP055","pack":"DOCS","rarity":"Raptor's Ultimate Mace","date":1437177600000},"tcg":{"id":87609391,"pack_id":"DOCS-EN055","pack":"DOCS","rarity":"Raptor's Ultimate Mace","date":1446681600000}}
+{
+    "id": 87609391,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Raptor's Ultimate Mace",
+    "desc": "Equip only to a \"Raidraptor\" monster. It gains 1000 ATK. When the equipped monster is targeted for an attack by a monster whose ATK is higher than the equipped monster: You can add 1 \"Rank-Up-Magic\" Spell Card from your Deck to your hand, and if you do, you take no battle damage from that battle.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 87609391,
+        "pack_id": "DOCS-JP055",
+        "pack": "DOCS",
+        "rarity": "Raptor's Ultimate Mace",
+        "date": 1437177600000
+    },
+    "tcg": {
+        "id": 87609391,
+        "pack_id": "DOCS-EN055",
+        "pack": "DOCS",
+        "rarity": "Raptor's Ultimate Mace",
+        "date": 1446681600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":96385345,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1800,"def":200,"level":4,"race":1,"attribute":1,"category":0,"name":"Rose Paladin","desc":"When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Tribute this card; Special Summon 1 Plant-Type monster from your hand or Deck in Defense Position. You can send this card from your hand to the Graveyard; add 1 Level 7 or higher Plant-Type monster from your Deck to your hand. You can only use this effect of \"Rose Paladin\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":96385345,"pack_id":"PP17-JP004","pack":"PP17","rarity":"Rose Paladin","date":1426896000000},"tcg":{"id":96385345,"pack_id":"PGL2-EN004","pack":"PGL2","rarity":"Rose Paladin","date":1426809600000}}
+{
+    "id": 96385345,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1800,
+    "def": 200,
+    "level": 4,
+    "race": 1,
+    "attribute": 1,
+    "category": 0,
+    "name": "Rose Paladin",
+    "desc": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Tribute this card; Special Summon 1 Plant-Type monster from your hand or Deck in Defense Position. You can send this card from your hand to the Graveyard; add 1 Level 7 or higher Plant-Type monster from your Deck to your hand. You can only use this effect of \"Rose Paladin\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 96385345,
+        "pack_id": "PP17-JP004",
+        "pack": "PP17",
+        "rarity": "Rose Paladin",
+        "date": 1426896000000
+    },
+    "tcg": {
+        "id": 96385345,
+        "pack_id": "PGL2-EN004",
+        "pack": "PGL2",
+        "rarity": "Rose Paladin",
+        "date": 1426809600000
+    }
+}

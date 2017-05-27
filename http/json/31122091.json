@@ -1,1 +1,47 @@
-{"id":31122091,"ot":3,"alias":31122090,"setcode":0,"type":17,"atk":1800,"def":2000,"level":6,"race":4,"attribute":16,"category":0,"name":"Gyakutenno Megami","desc":"This fairy uses her mystical power to protect the weak and provide spiritual support.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":31122091,"pack_id":"EX-59","pack":"EX","rarity":"Gyakutenno Megami","date":945302400000},"tcg":{"id":31122091,"pack_id":"SDK-011","pack":"SDK","rarity":"Gyakutenno Megami","date":1017360000000}}
+{
+    "id": 31122091,
+    "ot": 3,
+    "alias": 31122090,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1800,
+    "def": 2000,
+    "level": 6,
+    "race": 4,
+    "attribute": 16,
+    "category": 0,
+    "name": "Gyakutenno Megami",
+    "desc": "This fairy uses her mystical power to protect the weak and provide spiritual support.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 31122091,
+        "pack_id": "EX-59",
+        "pack": "EX",
+        "rarity": "Gyakutenno Megami",
+        "date": 945302400000
+    },
+    "tcg": {
+        "id": 31122091,
+        "pack_id": "SDK-011",
+        "pack": "SDK",
+        "rarity": "Gyakutenno Megami",
+        "date": 1017360000000
+    }
+}

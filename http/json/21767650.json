@@ -1,1 +1,47 @@
-{"id":21767650,"ot":3,"alias":0,"setcode":7667828,"type":33,"atk":100,"def":2000,"level":4,"race":131072,"attribute":2,"category":0,"name":"Mermail Abyssmander","desc":"You can banish this card from your Graveyard to activate 1 of these effects;\n● Increase the Level of all \"Mermail\" monsters you currently control by 1.\n● Increase the Level of all \"Mermail\" monsters you currently control by 2.","str1":"Increase level","str2":"Increase level by 1","str3":"Increase level by 2","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":21767650,"pack_id":"EP13-JP022","pack":"EP13","rarity":"Mermail Abyssmander","date":1368835200000},"tcg":{"id":21767650,"pack_id":"ABYR-EN081","pack":"ABYR","rarity":"Mermail Abyssmander","date":1352419200000}}
+{
+    "id": 21767650,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 7667828,
+    "type": 33,
+    "atk": 100,
+    "def": 2000,
+    "level": 4,
+    "race": 131072,
+    "attribute": 2,
+    "category": 0,
+    "name": "Mermail Abyssmander",
+    "desc": "You can banish this card from your Graveyard to activate 1 of these effects;\n● Increase the Level of all \"Mermail\" monsters you currently control by 1.\n● Increase the Level of all \"Mermail\" monsters you currently control by 2.",
+    "str1": "Increase level",
+    "str2": "Increase level by 1",
+    "str3": "Increase level by 2",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 21767650,
+        "pack_id": "EP13-JP022",
+        "pack": "EP13",
+        "rarity": "Mermail Abyssmander",
+        "date": 1368835200000
+    },
+    "tcg": {
+        "id": 21767650,
+        "pack_id": "ABYR-EN081",
+        "pack": "ABYR",
+        "rarity": "Mermail Abyssmander",
+        "date": 1352419200000
+    }
+}

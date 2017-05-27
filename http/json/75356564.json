@@ -1,1 +1,47 @@
-{"id":75356564,"ot":3,"alias":0,"setcode":0,"type":17,"atk":600,"def":700,"level":2,"race":8192,"attribute":8,"category":0,"name":"Petit Dragon","desc":"A very small dragon known for its vicious attacks.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":75356564,"pack_id":"LB-23","pack":"LB","rarity":"Petit Dragon","date":918086400000},"tcg":{"id":75356564,"pack_id":"LOB-024","pack":"LOB","rarity":"Petit Dragon","date":1015545600000}}
+{
+    "id": 75356564,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 600,
+    "def": 700,
+    "level": 2,
+    "race": 8192,
+    "attribute": 8,
+    "category": 0,
+    "name": "Petit Dragon",
+    "desc": "A very small dragon known for its vicious attacks.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 75356564,
+        "pack_id": "LB-23",
+        "pack": "LB",
+        "rarity": "Petit Dragon",
+        "date": 918086400000
+    },
+    "tcg": {
+        "id": 75356564,
+        "pack_id": "LOB-024",
+        "pack": "LOB",
+        "rarity": "Petit Dragon",
+        "date": 1015545600000
+    }
+}

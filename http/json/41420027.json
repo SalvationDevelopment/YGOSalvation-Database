@@ -1,1 +1,47 @@
-{"id":41420027,"ot":3,"alias":0,"setcode":0,"type":1048580,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":-2147483645,"name":"Solemn Judgment","desc":"When a monster would be Summoned, OR a Spell/Trap Card is activated: Pay half your Life Points; negate the Summon or activation, and if you do, destroy that card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":41420027,"pack_id":"ME-66","pack":"ME","rarity":"Solemn Judgment","date":942883200000},"tcg":{"id":41420027,"pack_id":"MRD-127","pack":"MRD","rarity":"Solemn Judgment","date":1025049600000}}
+{
+    "id": 41420027,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 1048580,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": -2147483645,
+    "name": "Solemn Judgment",
+    "desc": "When a monster would be Summoned, OR a Spell/Trap Card is activated: Pay half your Life Points; negate the Summon or activation, and if you do, destroy that card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 41420027,
+        "pack_id": "ME-66",
+        "pack": "ME",
+        "rarity": "Solemn Judgment",
+        "date": 942883200000
+    },
+    "tcg": {
+        "id": 41420027,
+        "pack_id": "MRD-127",
+        "pack": "MRD",
+        "rarity": "Solemn Judgment",
+        "date": 1025049600000
+    }
+}

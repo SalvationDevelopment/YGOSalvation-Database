@@ -1,1 +1,47 @@
-{"id":3549275,"ot":3,"alias":0,"setcode":0,"type":2097185,"atk":200,"def":300,"level":3,"race":256,"attribute":16,"category":138412032,"name":"Dice Jar","desc":"FLIP: Both players roll a six-sided die. The player with the lowest result takes damage equal to their opponent's roll x 500. However, if the winner rolled a 6, the loser takes 6000 damage. If the rolls are the same, both players roll again.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":3549275,"pack_id":"PH-27","pack":"PH","rarity":"Dice Jar","date":1016668800000},"tcg":{"id":3549275,"pack_id":"PGD-027","pack":"PGD","rarity":"Dice Jar","date":1058486400000}}
+{
+    "id": 3549275,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2097185,
+    "atk": 200,
+    "def": 300,
+    "level": 3,
+    "race": 256,
+    "attribute": 16,
+    "category": 138412032,
+    "name": "Dice Jar",
+    "desc": "FLIP: Both players roll a six-sided die. The player with the lowest result takes damage equal to their opponent's roll x 500. However, if the winner rolled a 6, the loser takes 6000 damage. If the rolls are the same, both players roll again.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 3549275,
+        "pack_id": "PH-27",
+        "pack": "PH",
+        "rarity": "Dice Jar",
+        "date": 1016668800000
+    },
+    "tcg": {
+        "id": 3549275,
+        "pack_id": "PGD-027",
+        "pack": "PGD",
+        "rarity": "Dice Jar",
+        "date": 1058486400000
+    }
+}

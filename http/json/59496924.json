@@ -1,1 +1,47 @@
-{"id":59496924,"ot":3,"alias":0,"setcode":210,"type":33,"atk":2400,"def":1200,"level":6,"race":32,"attribute":32,"category":0,"name":"Kozmo Landwalker","desc":"If a \"Kozmo\" card(s) you control would be destroyed by battle or an opponent's card effect, you can destroy 1 other \"Kozmo\" card you control instead. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; Special Summon 1 Level 5 or lower \"Kozmo\" monster from your Deck.","str1":"Destroy another \"Kozmo\" instead","str2":"Special Summon 1 Level 5 or lower \"Kozmo\"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":59496924,"pack_id":"EP16-JP015","pack":"EP16","rarity":"Kozmo Landwalker","date":1473465600000},"tcg":{"id":59496924,"pack_id":"SHVI-EN084","pack":"SHVI","rarity":"Kozmo Landwalker","date":1462406400000}}
+{
+    "id": 59496924,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 210,
+    "type": 33,
+    "atk": 2400,
+    "def": 1200,
+    "level": 6,
+    "race": 32,
+    "attribute": 32,
+    "category": 0,
+    "name": "Kozmo Landwalker",
+    "desc": "If a \"Kozmo\" card(s) you control would be destroyed by battle or an opponent's card effect, you can destroy 1 other \"Kozmo\" card you control instead. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; Special Summon 1 Level 5 or lower \"Kozmo\" monster from your Deck.",
+    "str1": "Destroy another \"Kozmo\" instead",
+    "str2": "Special Summon 1 Level 5 or lower \"Kozmo\"",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 59496924,
+        "pack_id": "EP16-JP015",
+        "pack": "EP16",
+        "rarity": "Kozmo Landwalker",
+        "date": 1473465600000
+    },
+    "tcg": {
+        "id": 59496924,
+        "pack_id": "SHVI-EN084",
+        "pack": "SHVI",
+        "rarity": "Kozmo Landwalker",
+        "date": 1462406400000
+    }
+}

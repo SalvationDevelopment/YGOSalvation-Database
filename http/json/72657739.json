@@ -1,1 +1,47 @@
-{"id":72657739,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1600,"def":1700,"level":4,"race":8,"attribute":32,"category":262144,"name":"Malice Doll of Demise","desc":"During your next Standby Phase after this card was sent from the field to the Graveyard by the effect of a Continuous Spell Card: Special Summon this card from the Graveyard.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":72657739,"pack_id":"SOD-JP018","pack":"SOD","rarity":"Malice Doll of Demise","date":1085616000000},"tcg":{"id":72657739,"pack_id":"SOD-EN018","pack":"SOD","rarity":"Malice Doll of Demise","date":1096588800000}}
+{
+    "id": 72657739,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1600,
+    "def": 1700,
+    "level": 4,
+    "race": 8,
+    "attribute": 32,
+    "category": 262144,
+    "name": "Malice Doll of Demise",
+    "desc": "During your next Standby Phase after this card was sent from the field to the Graveyard by the effect of a Continuous Spell Card: Special Summon this card from the Graveyard.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 72657739,
+        "pack_id": "SOD-JP018",
+        "pack": "SOD",
+        "rarity": "Malice Doll of Demise",
+        "date": 1085616000000
+    },
+    "tcg": {
+        "id": 72657739,
+        "pack_id": "SOD-EN018",
+        "pack": "SOD",
+        "rarity": "Malice Doll of Demise",
+        "date": 1096588800000
+    }
+}

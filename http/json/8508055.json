@@ -1,1 +1,47 @@
-{"id":8508055,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1200,"def":0,"level":3,"race":16384,"attribute":1,"category":0,"name":"Chu-Ske the Mouse Fighter","desc":"A fiery mouse, travelling the world to become the strongest fighter in the world of mice. Be careful not to touch him, or you will get burned.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":8508055,"pack_id":"FET-JP003","pack":"FET","rarity":"Chu-Ske the Mouse Fighter","date":1101340800000},"tcg":{"id":8508055,"pack_id":"FET-EN003","pack":"FET","rarity":"Chu-Ske the Mouse Fighter","date":1109376000000}}
+{
+    "id": 8508055,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1200,
+    "def": 0,
+    "level": 3,
+    "race": 16384,
+    "attribute": 1,
+    "category": 0,
+    "name": "Chu-Ske the Mouse Fighter",
+    "desc": "A fiery mouse, travelling the world to become the strongest fighter in the world of mice. Be careful not to touch him, or you will get burned.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 8508055,
+        "pack_id": "FET-JP003",
+        "pack": "FET",
+        "rarity": "Chu-Ske the Mouse Fighter",
+        "date": 1101340800000
+    },
+    "tcg": {
+        "id": 8508055,
+        "pack_id": "FET-EN003",
+        "pack": "FET",
+        "rarity": "Chu-Ske the Mouse Fighter",
+        "date": 1109376000000
+    }
+}

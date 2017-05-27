@@ -1,1 +1,47 @@
-{"id":74875003,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1100,"def":600,"level":4,"race":4,"attribute":16,"category":0,"name":"Ra's Disciple","desc":"When this card is Summoned: You can Special Summon up to 2 \"Ra's Disciple\" from your hand and/or Deck. Cannot be Tributed, except for the Tribute Summon of \"Slifer the Sky Dragon\", \"Obelisk the Tormentor\", or \"The Winged Dragon of Ra\". You cannot Special Summon monsters, except by the effect of \"Ra's Disciple\".","str1":"Special Summon Ra's Disciple?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":74875003,"pack_id":"CPL1-JP024","pack":"CPL1","rarity":"Ra's Disciple","date":1400284800000},"tcg":{"id":74875003,"pack_id":"DRLG-EN024","pack":"DRLG","rarity":"Ra's Disciple","date":1398384000000}}
+{
+    "id": 74875003,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1100,
+    "def": 600,
+    "level": 4,
+    "race": 4,
+    "attribute": 16,
+    "category": 0,
+    "name": "Ra's Disciple",
+    "desc": "When this card is Summoned: You can Special Summon up to 2 \"Ra's Disciple\" from your hand and/or Deck. Cannot be Tributed, except for the Tribute Summon of \"Slifer the Sky Dragon\", \"Obelisk the Tormentor\", or \"The Winged Dragon of Ra\". You cannot Special Summon monsters, except by the effect of \"Ra's Disciple\".",
+    "str1": "Special Summon Ra's Disciple?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 74875003,
+        "pack_id": "CPL1-JP024",
+        "pack": "CPL1",
+        "rarity": "Ra's Disciple",
+        "date": 1400284800000
+    },
+    "tcg": {
+        "id": 74875003,
+        "pack_id": "DRLG-EN024",
+        "pack": "DRLG",
+        "rarity": "Ra's Disciple",
+        "date": 1398384000000
+    }
+}

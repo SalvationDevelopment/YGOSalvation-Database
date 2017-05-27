@@ -1,1 +1,47 @@
-{"id":93013676,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1550,"def":1400,"level":4,"race":2,"attribute":16,"category":8192,"name":"Maha Vailo","desc":"This card gains 500 ATK for each Equip Card equipped to this card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":93013676,"pack_id":"MR-12","pack":"MR","rarity":"Maha Vailo","date":956188800000},"tcg":{"id":93013676,"pack_id":"MRL-012","pack":"MRL","rarity":"Maha Vailo","date":1032134400000}}
+{
+    "id": 93013676,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1550,
+    "def": 1400,
+    "level": 4,
+    "race": 2,
+    "attribute": 16,
+    "category": 8192,
+    "name": "Maha Vailo",
+    "desc": "This card gains 500 ATK for each Equip Card equipped to this card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 93013676,
+        "pack_id": "MR-12",
+        "pack": "MR",
+        "rarity": "Maha Vailo",
+        "date": 956188800000
+    },
+    "tcg": {
+        "id": 93013676,
+        "pack_id": "MRL-012",
+        "pack": "MRL",
+        "rarity": "Maha Vailo",
+        "date": 1032134400000
+    }
+}

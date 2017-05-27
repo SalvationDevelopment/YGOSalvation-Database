@@ -1,1 +1,47 @@
-{"id":90592429,"ot":3,"alias":0,"setcode":48,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":512,"name":"Vylon Filament","desc":"Equip only to a \"Vylon\" monster. If the equipped monster attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this face-up card on the field is sent to the Graveyard: You can add 1 \"Vylon\" Spell Card from your Deck to your hand.","str1":"Search","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":90592429,"pack_id":"GENF-JP057","pack":"GENF","rarity":"Vylon Filament","date":1302912000000},"tcg":{"id":90592429,"pack_id":"GENF-EN057","pack":"GENF","rarity":"Vylon Filament","date":1312588800000}}
+{
+    "id": 90592429,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 48,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 512,
+    "name": "Vylon Filament",
+    "desc": "Equip only to a \"Vylon\" monster. If the equipped monster attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this face-up card on the field is sent to the Graveyard: You can add 1 \"Vylon\" Spell Card from your Deck to your hand.",
+    "str1": "Search",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 90592429,
+        "pack_id": "GENF-JP057",
+        "pack": "GENF",
+        "rarity": "Vylon Filament",
+        "date": 1302912000000
+    },
+    "tcg": {
+        "id": 90592429,
+        "pack_id": "GENF-EN057",
+        "pack": "GENF",
+        "rarity": "Vylon Filament",
+        "date": 1312588800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":11039171,"ot":3,"alias":0,"setcode":173,"type":97,"atk":2000,"def":1500,"level":6,"race":8,"attribute":32,"category":0,"name":"Frightfur Wolf","desc":"\"Edge Imp Sabres\" + 1 or more \"Fluffal\" monsters\nMust be Fusion Summoned with the above Fusion Materials and cannot be Special Summoned by other ways. This card can attack a number of times each Battle Phase, up to the number of Fusion Materials used for its Fusion Summon.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":11039171,"pack_id":"NECH-JP047","pack":"NECH","rarity":"Frightfur Wolf","date":1405728000000},"tcg":{"id":11039171,"pack_id":"NECH-EN047","pack":"NECH","rarity":"Frightfur Wolf","date":1415232000000}}
+{
+    "id": 11039171,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 173,
+    "type": 97,
+    "atk": 2000,
+    "def": 1500,
+    "level": 6,
+    "race": 8,
+    "attribute": 32,
+    "category": 0,
+    "name": "Frightfur Wolf",
+    "desc": "\"Edge Imp Sabres\" + 1 or more \"Fluffal\" monsters\nMust be Fusion Summoned with the above Fusion Materials and cannot be Special Summoned by other ways. This card can attack a number of times each Battle Phase, up to the number of Fusion Materials used for its Fusion Summon.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 11039171,
+        "pack_id": "NECH-JP047",
+        "pack": "NECH",
+        "rarity": "Frightfur Wolf",
+        "date": 1405728000000
+    },
+    "tcg": {
+        "id": 11039171,
+        "pack_id": "NECH-EN047",
+        "pack": "NECH",
+        "rarity": "Frightfur Wolf",
+        "date": 1415232000000
+    }
+}

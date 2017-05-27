@@ -1,1 +1,47 @@
-{"id":732302,"ot":3,"alias":0,"setcode":0,"type":17,"atk":900,"def":1300,"level":4,"race":16,"attribute":32,"category":0,"name":"Temple of Skulls","desc":"A mysterious temple of skulls and bones that pulls in unsuspecting enemies.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":732302,"pack_id":"","pack":"","rarity":"Temple of Skulls","date":931132800000},"tcg":{"id":732302,"pack_id":"TP8-EN016","pack":"TP8","rarity":"Temple of Skulls","date":1146182400000}}
+{
+    "id": 732302,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 900,
+    "def": 1300,
+    "level": 4,
+    "race": 16,
+    "attribute": 32,
+    "category": 0,
+    "name": "Temple of Skulls",
+    "desc": "A mysterious temple of skulls and bones that pulls in unsuspecting enemies.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 732302,
+        "pack_id": "",
+        "pack": "",
+        "rarity": "Temple of Skulls",
+        "date": 931132800000
+    },
+    "tcg": {
+        "id": 732302,
+        "pack_id": "TP8-EN016",
+        "pack": "TP8",
+        "rarity": "Temple of Skulls",
+        "date": 1146182400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":5616412,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":2,"name":"Destruction Punch","desc":"If the ATK of an attacking monster your opponent controls is lower than the DEF of the attacked Defense Position monster, destroy the attacking monster at the end of the Damage Step. (Damage calculation is applied normally.)","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":5616412,"pack_id":"LN-34","pack":"LN","rarity":"Destruction Punch","date":995673600000},"tcg":{"id":5616412,"pack_id":"LON-085","pack":"LON","rarity":"Destruction Punch","date":1046476800000}}
+{
+    "id": 5616412,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 2,
+    "name": "Destruction Punch",
+    "desc": "If the ATK of an attacking monster your opponent controls is lower than the DEF of the attacked Defense Position monster, destroy the attacking monster at the end of the Damage Step. (Damage calculation is applied normally.)",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 5616412,
+        "pack_id": "LN-34",
+        "pack": "LN",
+        "rarity": "Destruction Punch",
+        "date": 995673600000
+    },
+    "tcg": {
+        "id": 5616412,
+        "pack_id": "LON-085",
+        "pack": "LON",
+        "rarity": "Destruction Punch",
+        "date": 1046476800000
+    }
+}

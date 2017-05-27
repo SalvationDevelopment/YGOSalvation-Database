@@ -1,1 +1,47 @@
-{"id":53090623,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1000,"def":1000,"level":4,"race":16,"attribute":32,"category":0,"name":"Yellow-Bellied Oni","desc":"When you Xyz Summon a monster: You can Special Summon this card from your hand. Once per turn: You can detach 1 Xyz Material from a monster you control, then target 1 face-up Xyz Monster on the field; reduce its Rank by 1, and if you do, it loses 300 ATK.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":53090623,"pack_id":"SHSP-JP033","pack":"SHSP","rarity":"Yellow-Bellied Oni","date":1374278400000},"tcg":{"id":53090623,"pack_id":"SHSP-EN033","pack":"SHSP","rarity":"Yellow-Bellied Oni","date":1383868800000}}
+{
+    "id": 53090623,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1000,
+    "def": 1000,
+    "level": 4,
+    "race": 16,
+    "attribute": 32,
+    "category": 0,
+    "name": "Yellow-Bellied Oni",
+    "desc": "When you Xyz Summon a monster: You can Special Summon this card from your hand. Once per turn: You can detach 1 Xyz Material from a monster you control, then target 1 face-up Xyz Monster on the field; reduce its Rank by 1, and if you do, it loses 300 ATK.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 53090623,
+        "pack_id": "SHSP-JP033",
+        "pack": "SHSP",
+        "rarity": "Yellow-Bellied Oni",
+        "date": 1374278400000
+    },
+    "tcg": {
+        "id": 53090623,
+        "pack_id": "SHSP-EN033",
+        "pack": "SHSP",
+        "rarity": "Yellow-Bellied Oni",
+        "date": 1383868800000
+    }
+}

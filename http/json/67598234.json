@@ -1,1 +1,45 @@
-{"id":67598234,"ot":5,"alias":0,"setcode":0,"type":33554433,"atk":2600,"def":"-","level":3,"race":32,"attribute":1,"category":0,"name":"Gaiasaber, the Virtual Knight","desc":"Link Markers: Left, Right, Bottom\n\n2+ monsters","str1":" ","str2":" ","str3":" ","str4":" ","str5":" ","str6":" ","str7":" ","str8":" ","str9":" ","str10":" ","str11":" ","str12":" ","str13":" ","str14":" ","str15":" ","str16":" ","links":[3,4,6],"cardpool":"OCG Prerelease","ocg":{"id":67598234,"pack_id":"COTD-JP051","pack":"COTD","rarity":"Gaiasaber, the Virtual Knight","date":1492214400000},"tcg":{}}
+{
+    "id": 67598234,
+    "ot": 5,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33554433,
+    "atk": 2600,
+    "def": "-",
+    "level": 3,
+    "race": 32,
+    "attribute": 1,
+    "category": 0,
+    "name": "Gaiasaber, the Virtual Knight",
+    "desc": "Link Markers: Left, Right, Bottom\n\n2+ monsters",
+    "str1": " ",
+    "str2": " ",
+    "str3": " ",
+    "str4": " ",
+    "str5": " ",
+    "str6": " ",
+    "str7": " ",
+    "str8": " ",
+    "str9": " ",
+    "str10": " ",
+    "str11": " ",
+    "str12": " ",
+    "str13": " ",
+    "str14": " ",
+    "str15": " ",
+    "str16": " ",
+    "links": [
+        3,
+        4,
+        6
+    ],
+    "cardpool": "OCG Prerelease",
+    "ocg": {
+        "id": 67598234,
+        "pack_id": "COTD-JP051",
+        "pack": "COTD",
+        "rarity": "Gaiasaber, the Virtual Knight",
+        "date": 1492214400000
+    },
+    "tcg": {}
+}

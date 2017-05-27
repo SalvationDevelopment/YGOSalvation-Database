@@ -1,1 +1,47 @@
-{"id":4179255,"ot":3,"alias":0,"setcode":0,"type":8225,"atk":2100,"def":3000,"level":7,"race":8192,"attribute":32,"category":258,"name":"Ancient Pixie Dragon","desc":"1 Tuner + 1 or more non-Tuner monsters\nAfter resolving a Field Spell Card that was activated during your turn: Draw 1 card. You can only use this effect of \"Ancient Pixie Dragon\" once per turn. Once per turn: You can target 1 face-up Attack Position monster on the field; destroy that target. There must be a face-up Field Spell Card on the field to activate and to resolve this effect.","str1":"Add to hand","str2":"Destroy","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":4179255,"pack_id":"PP15-JP006","pack":"PP15","rarity":"Ancient Pixie Dragon","date":1363392000000},"tcg":{"id":4179255,"pack_id":"PGLD-EN006","pack":"PGLD","rarity":"Ancient Pixie Dragon","date":1395964800000}}
+{
+    "id": 4179255,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8225,
+    "atk": 2100,
+    "def": 3000,
+    "level": 7,
+    "race": 8192,
+    "attribute": 32,
+    "category": 258,
+    "name": "Ancient Pixie Dragon",
+    "desc": "1 Tuner + 1 or more non-Tuner monsters\nAfter resolving a Field Spell Card that was activated during your turn: Draw 1 card. You can only use this effect of \"Ancient Pixie Dragon\" once per turn. Once per turn: You can target 1 face-up Attack Position monster on the field; destroy that target. There must be a face-up Field Spell Card on the field to activate and to resolve this effect.",
+    "str1": "Add to hand",
+    "str2": "Destroy",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 4179255,
+        "pack_id": "PP15-JP006",
+        "pack": "PP15",
+        "rarity": "Ancient Pixie Dragon",
+        "date": 1363392000000
+    },
+    "tcg": {
+        "id": 4179255,
+        "pack_id": "PGLD-EN006",
+        "pack": "PGLD",
+        "rarity": "Ancient Pixie Dragon",
+        "date": 1395964800000
+    }
+}

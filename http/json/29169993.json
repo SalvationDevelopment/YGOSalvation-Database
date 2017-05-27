@@ -1,1 +1,47 @@
-{"id":29169993,"ot":3,"alias":0,"setcode":159,"type":33,"atk":100,"def":1200,"level":4,"race":2048,"attribute":1,"category":0,"name":"Performapal Teeter Totter Hopper","desc":"The first time this Special Summoned card would be destroyed by battle each turn, it is not destroyed. Once per turn, during your opponent's End Phase: You can target 1 Level 3 or lower \"Performapal\" monster in your Graveyard; send this card to the Graveyard, and if you do, add that monster to your hand. If a \"Performapal\" monster is sent from the hand to your Graveyard (except during the Damage Step), while this card is in your Graveyard: You can Special Summon this card. You can only use this effect of \"Performapal Teeter Totter Hopper\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":29169993,"pack_id":"ST16-JP007","pack":"ST16","rarity":"Performapal Teeter Totter Hopper","date":1458345600000},"tcg":{"id":29169993,"pack_id":"YS16-EN007","pack":"YS16","rarity":"Performapal Teeter Totter Hopper","date":1464220800000}}
+{
+    "id": 29169993,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 159,
+    "type": 33,
+    "atk": 100,
+    "def": 1200,
+    "level": 4,
+    "race": 2048,
+    "attribute": 1,
+    "category": 0,
+    "name": "Performapal Teeter Totter Hopper",
+    "desc": "The first time this Special Summoned card would be destroyed by battle each turn, it is not destroyed. Once per turn, during your opponent's End Phase: You can target 1 Level 3 or lower \"Performapal\" monster in your Graveyard; send this card to the Graveyard, and if you do, add that monster to your hand. If a \"Performapal\" monster is sent from the hand to your Graveyard (except during the Damage Step), while this card is in your Graveyard: You can Special Summon this card. You can only use this effect of \"Performapal Teeter Totter Hopper\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 29169993,
+        "pack_id": "ST16-JP007",
+        "pack": "ST16",
+        "rarity": "Performapal Teeter Totter Hopper",
+        "date": 1458345600000
+    },
+    "tcg": {
+        "id": 29169993,
+        "pack_id": "YS16-EN007",
+        "pack": "YS16",
+        "rarity": "Performapal Teeter Totter Hopper",
+        "date": 1464220800000
+    }
+}

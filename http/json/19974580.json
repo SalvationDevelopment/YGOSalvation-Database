@@ -1,1 +1,47 @@
-{"id":19974580,"ot":3,"alias":0,"setcode":37,"type":8225,"atk":2500,"def":1300,"level":6,"race":8192,"attribute":1,"category":8324,"name":"Iron Chain Dragon","desc":"1 Tuner + 1 or more non-Tuner monsters\nYou can remove from play all \"Iron Chain\" monsters from your Graveyard to have this card gain 200 ATK for each card removed, until the End Phase. When this card inflicts Battle Damage to your opponent, send the top 3 cards of your opponent's Deck to the Graveyard.","str1":"Gain attack","str2":"卡组上面3张卡送去墓地","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":19974580,"pack_id":"CSOC-JP040","pack":"CSOC","rarity":"Iron Chain Dragon","date":1216425600000},"tcg":{"id":19974580,"pack_id":"CSOC-EN040","pack":"CSOC","rarity":"Iron Chain Dragon","date":1225497600000}}
+{
+    "id": 19974580,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 37,
+    "type": 8225,
+    "atk": 2500,
+    "def": 1300,
+    "level": 6,
+    "race": 8192,
+    "attribute": 1,
+    "category": 8324,
+    "name": "Iron Chain Dragon",
+    "desc": "1 Tuner + 1 or more non-Tuner monsters\nYou can remove from play all \"Iron Chain\" monsters from your Graveyard to have this card gain 200 ATK for each card removed, until the End Phase. When this card inflicts Battle Damage to your opponent, send the top 3 cards of your opponent's Deck to the Graveyard.",
+    "str1": "Gain attack",
+    "str2": "卡组上面3张卡送去墓地",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 19974580,
+        "pack_id": "CSOC-JP040",
+        "pack": "CSOC",
+        "rarity": "Iron Chain Dragon",
+        "date": 1216425600000
+    },
+    "tcg": {
+        "id": 19974580,
+        "pack_id": "CSOC-EN040",
+        "pack": "CSOC",
+        "rarity": "Iron Chain Dragon",
+        "date": 1225497600000
+    }
+}

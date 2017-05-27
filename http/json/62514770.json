@@ -1,1 +1,47 @@
-{"id":62514770,"ot":3,"alias":0,"setcode":0,"type":4113,"atk":0,"def":2400,"level":6,"race":8192,"attribute":32,"category":0,"name":"Labradorite Dragon","desc":"The ancients compared this prized creature to moonlight rippling across water. A bringer of harmony, reminder of past glories, able to soothe the hearts of even the most ambitious men.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":62514770,"pack_id":"SHSP-JP001","pack":"SHSP","rarity":"Labradorite Dragon","date":1374278400000},"tcg":{"id":62514770,"pack_id":"SHSP-EN001","pack":"SHSP","rarity":"Labradorite Dragon","date":1383868800000}}
+{
+    "id": 62514770,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4113,
+    "atk": 0,
+    "def": 2400,
+    "level": 6,
+    "race": 8192,
+    "attribute": 32,
+    "category": 0,
+    "name": "Labradorite Dragon",
+    "desc": "The ancients compared this prized creature to moonlight rippling across water. A bringer of harmony, reminder of past glories, able to soothe the hearts of even the most ambitious men.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 62514770,
+        "pack_id": "SHSP-JP001",
+        "pack": "SHSP",
+        "rarity": "Labradorite Dragon",
+        "date": 1374278400000
+    },
+    "tcg": {
+        "id": 62514770,
+        "pack_id": "SHSP-EN001",
+        "pack": "SHSP",
+        "rarity": "Labradorite Dragon",
+        "date": 1383868800000
+    }
+}

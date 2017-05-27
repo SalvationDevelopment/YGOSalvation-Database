@@ -1,1 +1,47 @@
-{"id":38589847,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Advance Force","desc":"You can Tribute 1 Level 5 or higher monster to Tribute Summon a Level 7 or higher monster.","str1":"Tribute Summon with 1 Tribute","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":38589847,"pack_id":"ABPF-JP048","pack":"ABPF","rarity":"Advance Force","date":1258156800000},"tcg":{"id":38589847,"pack_id":"ABPF-EN048","pack":"ABPF","rarity":"Advance Force","date":1265932800000}}
+{
+    "id": 38589847,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Advance Force",
+    "desc": "You can Tribute 1 Level 5 or higher monster to Tribute Summon a Level 7 or higher monster.",
+    "str1": "Tribute Summon with 1 Tribute",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 38589847,
+        "pack_id": "ABPF-JP048",
+        "pack": "ABPF",
+        "rarity": "Advance Force",
+        "date": 1258156800000
+    },
+    "tcg": {
+        "id": 38589847,
+        "pack_id": "ABPF-EN048",
+        "pack": "ABPF",
+        "rarity": "Advance Force",
+        "date": 1265932800000
+    }
+}

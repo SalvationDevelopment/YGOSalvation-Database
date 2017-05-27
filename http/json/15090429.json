@@ -1,1 +1,47 @@
-{"id":15090429,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1500,"def":1600,"level":4,"race":4,"attribute":8,"category":2097152,"name":"Whirlwind Prodigy","desc":"When Tribute Summoning a WIND monster, you can treat this 1 monster as 2 Tributes.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":15090429,"pack_id":"FET-JP030","pack":"FET","rarity":"Whirlwind Prodigy","date":1101340800000},"tcg":{"id":15090429,"pack_id":"FET-EN030","pack":"FET","rarity":"Whirlwind Prodigy","date":1109376000000}}
+{
+    "id": 15090429,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1500,
+    "def": 1600,
+    "level": 4,
+    "race": 4,
+    "attribute": 8,
+    "category": 2097152,
+    "name": "Whirlwind Prodigy",
+    "desc": "When Tribute Summoning a WIND monster, you can treat this 1 monster as 2 Tributes.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 15090429,
+        "pack_id": "FET-JP030",
+        "pack": "FET",
+        "rarity": "Whirlwind Prodigy",
+        "date": 1101340800000
+    },
+    "tcg": {
+        "id": 15090429,
+        "pack_id": "FET-EN030",
+        "pack": "FET",
+        "rarity": "Whirlwind Prodigy",
+        "date": 1109376000000
+    }
+}

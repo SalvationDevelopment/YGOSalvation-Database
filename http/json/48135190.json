@@ -1,1 +1,47 @@
-{"id":48135190,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":16,"name":"Gravelstorm","desc":"Target 1 Spell/Trap Card on each side of the field; return them to the hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":48135190,"pack_id":"GENF-JP080","pack":"GENF","rarity":"Gravelstorm","date":1302912000000},"tcg":{"id":48135190,"pack_id":"GENF-EN080","pack":"GENF","rarity":"Gravelstorm","date":1312588800000}}
+{
+    "id": 48135190,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 16,
+    "name": "Gravelstorm",
+    "desc": "Target 1 Spell/Trap Card on each side of the field; return them to the hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 48135190,
+        "pack_id": "GENF-JP080",
+        "pack": "GENF",
+        "rarity": "Gravelstorm",
+        "date": 1302912000000
+    },
+    "tcg": {
+        "id": 48135190,
+        "pack_id": "GENF-EN080",
+        "pack": "GENF",
+        "rarity": "Gravelstorm",
+        "date": 1312588800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":88989706,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1900,"def":2300,"level":6,"race":2,"attribute":32,"category":-2147221504,"name":"Great Dezard","desc":"When this monster destroys the following number of monsters as a result of battle, the following effects are activated in order:\nOne: As long as this card remains face-up on the field, negate the activation and effects of all Spell and Trap Cards that target this card and destroy them.\nTwo: You can Special Summon 1 \"Fushioh Richie\" from your hand or your Deck by Tributing this card during your Main Phase.","str1":"Destroy","str2":"無効","str3":"特殊召喚","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":88989706,"pack_id":"PH-20","pack":"PH","rarity":"Great Dezard","date":1016668800000},"tcg":{"id":88989706,"pack_id":"PGD-020","pack":"PGD","rarity":"Great Dezard","date":1058486400000}}
+{
+    "id": 88989706,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1900,
+    "def": 2300,
+    "level": 6,
+    "race": 2,
+    "attribute": 32,
+    "category": -2147221504,
+    "name": "Great Dezard",
+    "desc": "When this monster destroys the following number of monsters as a result of battle, the following effects are activated in order:\nOne: As long as this card remains face-up on the field, negate the activation and effects of all Spell and Trap Cards that target this card and destroy them.\nTwo: You can Special Summon 1 \"Fushioh Richie\" from your hand or your Deck by Tributing this card during your Main Phase.",
+    "str1": "Destroy",
+    "str2": "無効",
+    "str3": "特殊召喚",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 88989706,
+        "pack_id": "PH-20",
+        "pack": "PH",
+        "rarity": "Great Dezard",
+        "date": 1016668800000
+    },
+    "tcg": {
+        "id": 88989706,
+        "pack_id": "PGD-020",
+        "pack": "PGD",
+        "rarity": "Great Dezard",
+        "date": 1058486400000
+    }
+}

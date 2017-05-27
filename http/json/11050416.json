@@ -1,1 +1,47 @@
-{"id":11050416,"ot":3,"alias":18027139,"setcode":0,"type":16401,"atk":0,"def":0,"level":1,"race":16384,"attribute":1,"category":0,"name":"Hippo Token","desc":"This card can be used as a \"Hippo Token\".\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":11050416,"pack_id":"AT06-JP009","pack":"","rarity":"","date":1397865600000},"tcg":{"id":11050416,"pack_id":"YS16-ENT01","pack":"","rarity":"","date":1464220800000}}
+{
+    "id": 11050416,
+    "ot": 3,
+    "alias": 18027139,
+    "setcode": 0,
+    "type": 16401,
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": 16384,
+    "attribute": 1,
+    "category": 0,
+    "name": "Hippo Token",
+    "desc": "This card can be used as a \"Hippo Token\".\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 11050416,
+        "pack_id": "AT06-JP009",
+        "pack": "",
+        "rarity": "",
+        "date": 1397865600000
+    },
+    "tcg": {
+        "id": 11050416,
+        "pack_id": "YS16-ENT01",
+        "pack": "",
+        "rarity": "",
+        "date": 1464220800000
+    }
+}

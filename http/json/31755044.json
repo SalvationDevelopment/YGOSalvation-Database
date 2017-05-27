@@ -1,1 +1,47 @@
-{"id":31755044,"ot":3,"alias":0,"setcode":241,"type":33,"atk":1200,"def":400,"level":4,"race":32768,"attribute":1,"category":0,"name":"Zoodiac Whiptail","desc":"During either player's turn: You can target 1 Beast-Warrior-Type Xyz Monster you control; attach this card from your hand or field to it as Xyz Material. An Xyz Monster whose original Type is Beast-Warrior and has this card as Xyz Material gains this effect.\n● If this card battles an opponent's monster, after damage calculation: Banish that opponent's monster.","str1":"Attach Juunishishi Viper to Xyz monster","str2":"If this card battles an opponent's monster, after damage calculation: Banish that opponent's monster.","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":31755044,"pack_id":"RATE-JP016","pack":"RATE","rarity":"Zoodiac Whiptail","date":1475884800000},"tcg":{"id":31755044,"pack_id":"RATE-EN016","pack":"RATE","rarity":"Zoodiac Whiptail","date":1486598400000}}
+{
+    "id": 31755044,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 241,
+    "type": 33,
+    "atk": 1200,
+    "def": 400,
+    "level": 4,
+    "race": 32768,
+    "attribute": 1,
+    "category": 0,
+    "name": "Zoodiac Whiptail",
+    "desc": "During either player's turn: You can target 1 Beast-Warrior-Type Xyz Monster you control; attach this card from your hand or field to it as Xyz Material. An Xyz Monster whose original Type is Beast-Warrior and has this card as Xyz Material gains this effect.\n● If this card battles an opponent's monster, after damage calculation: Banish that opponent's monster.",
+    "str1": "Attach Juunishishi Viper to Xyz monster",
+    "str2": "If this card battles an opponent's monster, after damage calculation: Banish that opponent's monster.",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 31755044,
+        "pack_id": "RATE-JP016",
+        "pack": "RATE",
+        "rarity": "Zoodiac Whiptail",
+        "date": 1475884800000
+    },
+    "tcg": {
+        "id": 31755044,
+        "pack_id": "RATE-EN016",
+        "pack": "RATE",
+        "rarity": "Zoodiac Whiptail",
+        "date": 1486598400000
+    }
+}

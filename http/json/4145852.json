@@ -1,1 +1,47 @@
-{"id":4145852,"ot":3,"alias":0,"setcode":241,"type":33,"atk":400,"def":2000,"level":4,"race":32768,"attribute":1,"category":0,"name":"Zoodiac Ramram","desc":"If this card is destroyed by battle or card effect: You can target 1 \"Zoodiac\" monster in your Graveyard, except \"Zoodiac Ramram\"; Special Summon it. An Xyz Monster whose original Type is Beast-Warrior and has this card as Xyz Material gains this effect.\n● During either player's turn, when your opponent activates a Trap Card or effect that targets this card: You can detach 1 Xyz Material from this card; negate the activation.","str1":"Special Summon 1 \"Juunishishi\" monster","str2":"During either player's turn, when your opponent activates a Trap Card or effect that targets this card: You can detach 1 Xyz Material from this card; negate the activation.","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":4145852,"pack_id":"RATE-JP018","pack":"RATE","rarity":"Zoodiac Ramram","date":1475884800000},"tcg":{"id":4145852,"pack_id":"RATE-EN018","pack":"RATE","rarity":"Zoodiac Ramram","date":1486598400000}}
+{
+    "id": 4145852,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 241,
+    "type": 33,
+    "atk": 400,
+    "def": 2000,
+    "level": 4,
+    "race": 32768,
+    "attribute": 1,
+    "category": 0,
+    "name": "Zoodiac Ramram",
+    "desc": "If this card is destroyed by battle or card effect: You can target 1 \"Zoodiac\" monster in your Graveyard, except \"Zoodiac Ramram\"; Special Summon it. An Xyz Monster whose original Type is Beast-Warrior and has this card as Xyz Material gains this effect.\n● During either player's turn, when your opponent activates a Trap Card or effect that targets this card: You can detach 1 Xyz Material from this card; negate the activation.",
+    "str1": "Special Summon 1 \"Juunishishi\" monster",
+    "str2": "During either player's turn, when your opponent activates a Trap Card or effect that targets this card: You can detach 1 Xyz Material from this card; negate the activation.",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 4145852,
+        "pack_id": "RATE-JP018",
+        "pack": "RATE",
+        "rarity": "Zoodiac Ramram",
+        "date": 1475884800000
+    },
+    "tcg": {
+        "id": 4145852,
+        "pack_id": "RATE-EN018",
+        "pack": "RATE",
+        "rarity": "Zoodiac Ramram",
+        "date": 1486598400000
+    }
+}

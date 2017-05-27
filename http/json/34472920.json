@@ -1,1 +1,44 @@
-{"id":34472920,"ot":5,"alias":0,"setcode":0,"type":33554465,"atk":1900,"def":"-","level":2,"race":16777216,"attribute":16,"category":0,"name":"Honeybot","desc":"Link Markers: Left, Right\n\n2 Cyberse monsters\nNeither player can target monsters this card points to with card effects, and those monsters cannot be destroyed by battle.","str1":" ","str2":" ","str3":" ","str4":" ","str5":" ","str6":" ","str7":" ","str8":" ","str9":" ","str10":" ","str11":" ","str12":" ","str13":" ","str14":" ","str15":" ","str16":" ","links":[3,4],"cardpool":"OCG Prerelease","ocg":{"id":34472920,"pack_id":"ST17-JP042","pack":"ST17","rarity":"Honeybot","date":1490400000000},"tcg":{}}
+{
+    "id": 34472920,
+    "ot": 5,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33554465,
+    "atk": 1900,
+    "def": "-",
+    "level": 2,
+    "race": 16777216,
+    "attribute": 16,
+    "category": 0,
+    "name": "Honeybot",
+    "desc": "Link Markers: Left, Right\n\n2 Cyberse monsters\nNeither player can target monsters this card points to with card effects, and those monsters cannot be destroyed by battle.",
+    "str1": " ",
+    "str2": " ",
+    "str3": " ",
+    "str4": " ",
+    "str5": " ",
+    "str6": " ",
+    "str7": " ",
+    "str8": " ",
+    "str9": " ",
+    "str10": " ",
+    "str11": " ",
+    "str12": " ",
+    "str13": " ",
+    "str14": " ",
+    "str15": " ",
+    "str16": " ",
+    "links": [
+        3,
+        4
+    ],
+    "cardpool": "OCG Prerelease",
+    "ocg": {
+        "id": 34472920,
+        "pack_id": "ST17-JP042",
+        "pack": "ST17",
+        "rarity": "Honeybot",
+        "date": 1490400000000
+    },
+    "tcg": {}
+}

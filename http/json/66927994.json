@@ -1,1 +1,47 @@
-{"id":66927994,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1400,"def":1700,"level":4,"race":32,"attribute":1,"category":0,"name":"Oni Tank T-34","desc":"An armored tank possessed by a fiend that will pursue enemies until they're crushed.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":66927994,"pack_id":"TB-09","pack":"TB","rarity":"Oni Tank T-34","date":976752000000},"tcg":{"id":66927994,"pack_id":"PSV-059","pack":"PSV","rarity":"Oni Tank T-34","date":1035072000000}}
+{
+    "id": 66927994,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1400,
+    "def": 1700,
+    "level": 4,
+    "race": 32,
+    "attribute": 1,
+    "category": 0,
+    "name": "Oni Tank T-34",
+    "desc": "An armored tank possessed by a fiend that will pursue enemies until they're crushed.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 66927994,
+        "pack_id": "TB-09",
+        "pack": "TB",
+        "rarity": "Oni Tank T-34",
+        "date": 976752000000
+    },
+    "tcg": {
+        "id": 66927994,
+        "pack_id": "PSV-059",
+        "pack": "PSV",
+        "rarity": "Oni Tank T-34",
+        "date": 1035072000000
+    }
+}

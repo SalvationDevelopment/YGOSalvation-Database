@@ -1,1 +1,47 @@
-{"id":2196767,"ot":3,"alias":0,"setcode":0,"type":33,"atk":500,"def":1400,"level":4,"race":2,"attribute":32,"category":134217794,"name":"Gambler of Legend","desc":"Once per turn, you can toss a coin 3 times and apply the appropriate effect: ● 3 Heads: Destroy all monsters your opponent controls. ● 2 Heads: Discard 1 random card from your opponent's hand. ● 1 Head: Destroy 1 card you control. ● 3 Tails: Discard your entire hand.","str1":"Coin toss","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":2196767,"pack_id":"GLAS-JP031","pack":"GLAS","rarity":"Gambler of Legend","date":1184976000000},"tcg":{"id":2196767,"pack_id":"GLAS-EN031","pack":"GLAS","rarity":"Gambler of Legend","date":1194998400000}}
+{
+    "id": 2196767,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 500,
+    "def": 1400,
+    "level": 4,
+    "race": 2,
+    "attribute": 32,
+    "category": 134217794,
+    "name": "Gambler of Legend",
+    "desc": "Once per turn, you can toss a coin 3 times and apply the appropriate effect: ● 3 Heads: Destroy all monsters your opponent controls. ● 2 Heads: Discard 1 random card from your opponent's hand. ● 1 Head: Destroy 1 card you control. ● 3 Tails: Discard your entire hand.",
+    "str1": "Coin toss",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 2196767,
+        "pack_id": "GLAS-JP031",
+        "pack": "GLAS",
+        "rarity": "Gambler of Legend",
+        "date": 1184976000000
+    },
+    "tcg": {
+        "id": 2196767,
+        "pack_id": "GLAS-EN031",
+        "pack": "GLAS",
+        "rarity": "Gambler of Legend",
+        "date": 1194998400000
+    }
+}

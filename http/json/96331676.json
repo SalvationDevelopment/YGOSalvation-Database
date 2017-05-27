@@ -1,1 +1,47 @@
-{"id":96331676,"ot":3,"alias":0,"setcode":52,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":11,"name":"Crystal Raigeki","desc":"Send 1 \"Crystal Beast\" card from your Spell & Trap Card Zone to the Graveyard to target 1 card your opponent controls; destroy that target.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":96331676,"pack_id":"FOTB-JP048","pack":"FOTB","rarity":"Crystal Raigeki","date":1171497600000},"tcg":{"id":96331676,"pack_id":"FOTB-EN048","pack":"FOTB","rarity":"Crystal Raigeki","date":1179273600000}}
+{
+    "id": 96331676,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 52,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 11,
+    "name": "Crystal Raigeki",
+    "desc": "Send 1 \"Crystal Beast\" card from your Spell & Trap Card Zone to the Graveyard to target 1 card your opponent controls; destroy that target.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 96331676,
+        "pack_id": "FOTB-JP048",
+        "pack": "FOTB",
+        "rarity": "Crystal Raigeki",
+        "date": 1171497600000
+    },
+    "tcg": {
+        "id": 96331676,
+        "pack_id": "FOTB-EN048",
+        "pack": "FOTB",
+        "rarity": "Crystal Raigeki",
+        "date": 1179273600000
+    }
+}

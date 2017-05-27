@@ -1,1 +1,47 @@
-{"id":75946257,"ot":3,"alias":0,"setcode":0,"type":2097185,"atk":500,"def":500,"level":2,"race":2,"attribute":32,"category":4,"name":"Witch Doctor of Chaos","desc":"FLIP: Select 1 Monster Card from you or your opponent's Graveyard. Remove it from play.","str1":"Banish","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":75946257,"pack_id":"306-016","pack":"306","rarity":"Witch Doctor of Chaos","date":1051142400000},"tcg":{"id":75946257,"pack_id":"IOC-016","pack":"IOC","rarity":"Witch Doctor of Chaos","date":1078099200000}}
+{
+    "id": 75946257,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2097185,
+    "atk": 500,
+    "def": 500,
+    "level": 2,
+    "race": 2,
+    "attribute": 32,
+    "category": 4,
+    "name": "Witch Doctor of Chaos",
+    "desc": "FLIP: Select 1 Monster Card from you or your opponent's Graveyard. Remove it from play.",
+    "str1": "Banish",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 75946257,
+        "pack_id": "306-016",
+        "pack": "306",
+        "rarity": "Witch Doctor of Chaos",
+        "date": 1051142400000
+    },
+    "tcg": {
+        "id": 75946257,
+        "pack_id": "IOC-016",
+        "pack": "IOC",
+        "rarity": "Witch Doctor of Chaos",
+        "date": 1078099200000
+    }
+}

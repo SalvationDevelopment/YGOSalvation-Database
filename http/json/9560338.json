@@ -1,1 +1,47 @@
-{"id":9560338,"ot":3,"alias":0,"setcode":110,"type":33,"atk":2000,"def":1600,"level":6,"race":2,"attribute":32,"category":270848,"name":"Reaper of Prophecy","desc":"When this card is Normal or Special Summoned: You can activate this effect; apply as many effects as possible, based on the number of \"Spellbook\" Spell Cards with different names in your Graveyard. You can only use the effect of \"Reaper of Prophecy\" once per turn.\n● 3 or more: This card gains 600 ATK.\n● 4 or more: Add 1 \"Spellbook\" Spell Card from your Deck to your hand.\n● 5 or more: Special Summon 1 Level 5 or higher DARK Spellcaster-Type monster from your Deck.","str1":"Multiple effects","str2":"This card gains 600 ATK","str3":"Add 1 \"Spellbook\" Spell Card from your Deck to your hand","str4":"Special Summon 1 Level 5 or higher DARK Spellcaster-Type monster from your Deck","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":9560338,"pack_id":"CBLZ-JP036","pack":"CBLZ","rarity":"Reaper of Prophecy","date":1353110400000},"tcg":{"id":9560338,"pack_id":"CBLZ-EN036","pack":"CBLZ","rarity":"Reaper of Prophecy","date":1359072000000}}
+{
+    "id": 9560338,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 110,
+    "type": 33,
+    "atk": 2000,
+    "def": 1600,
+    "level": 6,
+    "race": 2,
+    "attribute": 32,
+    "category": 270848,
+    "name": "Reaper of Prophecy",
+    "desc": "When this card is Normal or Special Summoned: You can activate this effect; apply as many effects as possible, based on the number of \"Spellbook\" Spell Cards with different names in your Graveyard. You can only use the effect of \"Reaper of Prophecy\" once per turn.\n● 3 or more: This card gains 600 ATK.\n● 4 or more: Add 1 \"Spellbook\" Spell Card from your Deck to your hand.\n● 5 or more: Special Summon 1 Level 5 or higher DARK Spellcaster-Type monster from your Deck.",
+    "str1": "Multiple effects",
+    "str2": "This card gains 600 ATK",
+    "str3": "Add 1 \"Spellbook\" Spell Card from your Deck to your hand",
+    "str4": "Special Summon 1 Level 5 or higher DARK Spellcaster-Type monster from your Deck",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 9560338,
+        "pack_id": "CBLZ-JP036",
+        "pack": "CBLZ",
+        "rarity": "Reaper of Prophecy",
+        "date": 1353110400000
+    },
+    "tcg": {
+        "id": 9560338,
+        "pack_id": "CBLZ-EN036",
+        "pack": "CBLZ",
+        "rarity": "Reaper of Prophecy",
+        "date": 1359072000000
+    }
+}

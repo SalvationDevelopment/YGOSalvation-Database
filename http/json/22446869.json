@@ -1,1 +1,47 @@
-{"id":22446869,"ot":3,"alias":0,"setcode":7667828,"type":33,"atk":1700,"def":2400,"level":7,"race":64,"attribute":2,"category":262656,"name":"Mermail Abyssteus","desc":"You can discard 1 other WATER monster to the Graveyard; Special Summon this card from your hand. When you do: Add 1 Level 4 or lower \"Mermail\" monster from your Deck to your hand. You can only use this effect of \"Mermail Abyssteus\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":22446869,"pack_id":"EP13-JP034","pack":"EP13","rarity":"Mermail Abyssteus","date":1368835200000},"tcg":{"id":22446869,"pack_id":"CBLZ-EN083","pack":"CBLZ","rarity":"Mermail Abyssteus","date":1359072000000}}
+{
+    "id": 22446869,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 7667828,
+    "type": 33,
+    "atk": 1700,
+    "def": 2400,
+    "level": 7,
+    "race": 64,
+    "attribute": 2,
+    "category": 262656,
+    "name": "Mermail Abyssteus",
+    "desc": "You can discard 1 other WATER monster to the Graveyard; Special Summon this card from your hand. When you do: Add 1 Level 4 or lower \"Mermail\" monster from your Deck to your hand. You can only use this effect of \"Mermail Abyssteus\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 22446869,
+        "pack_id": "EP13-JP034",
+        "pack": "EP13",
+        "rarity": "Mermail Abyssteus",
+        "date": 1368835200000
+    },
+    "tcg": {
+        "id": 22446869,
+        "pack_id": "CBLZ-EN083",
+        "pack": "CBLZ",
+        "rarity": "Mermail Abyssteus",
+        "date": 1359072000000
+    }
+}

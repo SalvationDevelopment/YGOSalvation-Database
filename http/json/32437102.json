@@ -1,1 +1,47 @@
-{"id":32437102,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1056768,"name":"Dragonic Attack","desc":"This card can only be used to equip Warrior-Type monsters. The equipped monster is treated as a Dragon-Type and increases the ATK and DEF of the equipped monster by 500 points.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":32437102,"pack_id":"LN-50","pack":"LN","rarity":"Dragonic Attack","date":995673600000},"tcg":{"id":32437102,"pack_id":"LON-101","pack":"LON","rarity":"Dragonic Attack","date":1046476800000}}
+{
+    "id": 32437102,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1056768,
+    "name": "Dragonic Attack",
+    "desc": "This card can only be used to equip Warrior-Type monsters. The equipped monster is treated as a Dragon-Type and increases the ATK and DEF of the equipped monster by 500 points.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 32437102,
+        "pack_id": "LN-50",
+        "pack": "LN",
+        "rarity": "Dragonic Attack",
+        "date": 995673600000
+    },
+    "tcg": {
+        "id": 32437102,
+        "pack_id": "LON-101",
+        "pack": "LON",
+        "rarity": "Dragonic Attack",
+        "date": 1046476800000
+    }
+}

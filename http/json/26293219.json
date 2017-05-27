@@ -1,1 +1,47 @@
-{"id":26293219,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1000,"def":800,"level":3,"race":16,"attribute":4,"category":4194312,"name":"Burning Skull Head","desc":"When this card is Special Summoned from your hand, inflict 1000 damage to your opponent. You can remove from play this face-up card you control to return 1 removed from play \"Skull Flame\" to its owner's Graveyard.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":26293219,"pack_id":"WB01-JP003","pack":"WB01","rarity":"Burning Skull Head","date":1238025600000},"tcg":{"id":26293219,"pack_id":"WB01-EN003","pack":"WB01","rarity":"Burning Skull Head","date":1242691200000}}
+{
+    "id": 26293219,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1000,
+    "def": 800,
+    "level": 3,
+    "race": 16,
+    "attribute": 4,
+    "category": 4194312,
+    "name": "Burning Skull Head",
+    "desc": "When this card is Special Summoned from your hand, inflict 1000 damage to your opponent. You can remove from play this face-up card you control to return 1 removed from play \"Skull Flame\" to its owner's Graveyard.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 26293219,
+        "pack_id": "WB01-JP003",
+        "pack": "WB01",
+        "rarity": "Burning Skull Head",
+        "date": 1238025600000
+    },
+    "tcg": {
+        "id": 26293219,
+        "pack_id": "WB01-EN003",
+        "pack": "WB01",
+        "rarity": "Burning Skull Head",
+        "date": 1242691200000
+    }
+}

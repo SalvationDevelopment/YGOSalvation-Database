@@ -1,1 +1,47 @@
-{"id":23927567,"ot":3,"alias":0,"setcode":0,"type":2097185,"atk":300,"def":500,"level":2,"race":512,"attribute":8,"category":512,"name":"An Owl of Luck","desc":"FLIP: Select 1 Field Spell Card from your Deck and place it on top of your Deck. If \"Necrovalley\" is on the field, you can add the selected Field Spell Card to your hand, instead.","str1":"Add to hand?","str2":"Select Field Spell card","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":23927567,"pack_id":"301-021","pack":"301","rarity":"An Owl of Luck","date":1021507200000},"tcg":{"id":23927567,"pack_id":"PGD-073","pack":"PGD","rarity":"An Owl of Luck","date":1058486400000}}
+{
+    "id": 23927567,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2097185,
+    "atk": 300,
+    "def": 500,
+    "level": 2,
+    "race": 512,
+    "attribute": 8,
+    "category": 512,
+    "name": "An Owl of Luck",
+    "desc": "FLIP: Select 1 Field Spell Card from your Deck and place it on top of your Deck. If \"Necrovalley\" is on the field, you can add the selected Field Spell Card to your hand, instead.",
+    "str1": "Add to hand?",
+    "str2": "Select Field Spell card",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 23927567,
+        "pack_id": "301-021",
+        "pack": "301",
+        "rarity": "An Owl of Luck",
+        "date": 1021507200000
+    },
+    "tcg": {
+        "id": 23927567,
+        "pack_id": "PGD-073",
+        "pack": "PGD",
+        "rarity": "An Owl of Luck",
+        "date": 1058486400000
+    }
+}

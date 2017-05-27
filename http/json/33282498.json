@@ -1,1 +1,47 @@
-{"id":33282498,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2400,"def":2000,"level":7,"race":8192,"attribute":16,"category":0,"name":"Arkbrave Dragon","desc":"If this card is Special Summoned from the Graveyard: You can banish as many face-up Spell/Trap Cards your opponent controls as possible, and if you do, this card gains 200 ATK and DEF for each card banished. Once per turn, during the Standby Phase, if this card is in the Graveyard because it was sent there last turn: You can target 1 Level 7 or 8 Dragon-Type monster in your Graveyard, except \"Arkbrave Dragon\"; Special Summon it.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":33282498,"pack_id":"SR02-JP000","pack":"SR02","rarity":"Arkbrave Dragon","date":1454716800000},"tcg":{"id":33282498,"pack_id":"SR02-EN000","pack":"SR02","rarity":"Arkbrave Dragon","date":1467849600000}}
+{
+    "id": 33282498,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2400,
+    "def": 2000,
+    "level": 7,
+    "race": 8192,
+    "attribute": 16,
+    "category": 0,
+    "name": "Arkbrave Dragon",
+    "desc": "If this card is Special Summoned from the Graveyard: You can banish as many face-up Spell/Trap Cards your opponent controls as possible, and if you do, this card gains 200 ATK and DEF for each card banished. Once per turn, during the Standby Phase, if this card is in the Graveyard because it was sent there last turn: You can target 1 Level 7 or 8 Dragon-Type monster in your Graveyard, except \"Arkbrave Dragon\"; Special Summon it.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 33282498,
+        "pack_id": "SR02-JP000",
+        "pack": "SR02",
+        "rarity": "Arkbrave Dragon",
+        "date": 1454716800000
+    },
+    "tcg": {
+        "id": 33282498,
+        "pack_id": "SR02-EN000",
+        "pack": "SR02",
+        "rarity": "Arkbrave Dragon",
+        "date": 1467849600000
+    }
+}

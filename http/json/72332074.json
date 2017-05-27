@@ -1,1 +1,47 @@
-{"id":72332074,"ot":3,"alias":0,"setcode":220,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Super Quantal Alphan Spike","desc":"If you control 3 or more \"Super Quantum\" monsters with different names: Shuffle as many cards your opponent controls as possible into the Deck, then your opponent Special Summons 1 monster from their Extra Deck, ignoring its Summoning conditions. You can banish this card and 1 \"Super Quantal Fairy Alphan\" from your Graveyard; activate 1 \"Super Quantal Mech Ship Magnacarrier\" from your Deck.","str1":"Activate Super Quantal Finisher Alphan Ball","str2":"Activate Super Quantal Mech Ship Magnacarrier","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":72332074,"pack_id":"RATE-JP063","pack":"RATE","rarity":"Super Quantal Alphan Spike","date":1475884800000},"tcg":{"id":72332074,"pack_id":"RATE-EN063","pack":"RATE","rarity":"Super Quantal Alphan Spike","date":1486598400000}}
+{
+    "id": 72332074,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 220,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Super Quantal Alphan Spike",
+    "desc": "If you control 3 or more \"Super Quantum\" monsters with different names: Shuffle as many cards your opponent controls as possible into the Deck, then your opponent Special Summons 1 monster from their Extra Deck, ignoring its Summoning conditions. You can banish this card and 1 \"Super Quantal Fairy Alphan\" from your Graveyard; activate 1 \"Super Quantal Mech Ship Magnacarrier\" from your Deck.",
+    "str1": "Activate Super Quantal Finisher Alphan Ball",
+    "str2": "Activate Super Quantal Mech Ship Magnacarrier",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 72332074,
+        "pack_id": "RATE-JP063",
+        "pack": "RATE",
+        "rarity": "Super Quantal Alphan Spike",
+        "date": 1475884800000
+    },
+    "tcg": {
+        "id": 72332074,
+        "pack_id": "RATE-EN063",
+        "pack": "RATE",
+        "rarity": "Super Quantal Alphan Spike",
+        "date": 1486598400000
+    }
+}

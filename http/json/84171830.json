@@ -1,1 +1,47 @@
-{"id":84171830,"ot":3,"alias":0,"setcode":190,"type":524290,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Domain of the True Monarchs","desc":"While you have no cards in your Extra Deck and you are the only player that controls a Tribute Summoned monster, your opponent cannot Special Summon monsters from the Extra Deck. If a Tribute Summoned monster you control attacks an opponent's monster, it gains 800 ATK during damage calculation only. Once per turn: You can reduce the Level of 1 monster with 2800 ATK and 1000 DEF in your hand by 2 until the end of this turn (even after they are Summoned/Set, and even if this card leaves the field).","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":84171830,"pack_id":"CROS-JP086","pack":"CROS","rarity":"Domain of the True Monarchs","date":1423872000000},"tcg":{"id":84171830,"pack_id":"SR01-EN024","pack":"SR01","rarity":"Domain of the True Monarchs","date":1453939200000}}
+{
+    "id": 84171830,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 190,
+    "type": 524290,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Domain of the True Monarchs",
+    "desc": "While you have no cards in your Extra Deck and you are the only player that controls a Tribute Summoned monster, your opponent cannot Special Summon monsters from the Extra Deck. If a Tribute Summoned monster you control attacks an opponent's monster, it gains 800 ATK during damage calculation only. Once per turn: You can reduce the Level of 1 monster with 2800 ATK and 1000 DEF in your hand by 2 until the end of this turn (even after they are Summoned/Set, and even if this card leaves the field).",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 84171830,
+        "pack_id": "CROS-JP086",
+        "pack": "CROS",
+        "rarity": "Domain of the True Monarchs",
+        "date": 1423872000000
+    },
+    "tcg": {
+        "id": 84171830,
+        "pack_id": "SR01-EN024",
+        "pack": "SR01",
+        "rarity": "Domain of the True Monarchs",
+        "date": 1453939200000
+    }
+}

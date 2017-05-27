@@ -1,1 +1,47 @@
-{"id":15507080,"ot":3,"alias":0,"setcode":0,"type":17,"atk":700,"def":500,"level":2,"race":2,"attribute":32,"category":0,"name":"Sectarian of Secrets","desc":"This wizard worships the darkness, and is served by a sinister hand that drags its enemies into oblivion.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":15507080,"pack_id":"","pack":"","rarity":"Sectarian of Secrets","date":918086400000},"tcg":{"id":15507080,"pack_id":"TP8-EN019","pack":"TP8","rarity":"Sectarian of Secrets","date":1146182400000}}
+{
+    "id": 15507080,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 700,
+    "def": 500,
+    "level": 2,
+    "race": 2,
+    "attribute": 32,
+    "category": 0,
+    "name": "Sectarian of Secrets",
+    "desc": "This wizard worships the darkness, and is served by a sinister hand that drags its enemies into oblivion.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 15507080,
+        "pack_id": "",
+        "pack": "",
+        "rarity": "Sectarian of Secrets",
+        "date": 918086400000
+    },
+    "tcg": {
+        "id": 15507080,
+        "pack_id": "TP8-EN019",
+        "pack": "TP8",
+        "rarity": "Sectarian of Secrets",
+        "date": 1146182400000
+    }
+}

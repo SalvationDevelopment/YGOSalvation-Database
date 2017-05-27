@@ -1,1 +1,47 @@
-{"id":97024987,"ot":3,"alias":0,"setcode":200,"type":16777233,"atk":1700,"def":1300,"level":117899268,"race":1,"attribute":4,"category":0,"name":"Igknight Templar","desc":"Pendulum Effect\nIf you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.\n\nMonster Effect\nAn experienced Igknight warrior who fights for justice and despises the corrupt. He even questions his own weapon these days, due to his absolute quest for righteousness.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":97024987,"pack_id":"CORE-JP028","pack":"CORE","rarity":"Igknight Templar","date":1429920000000},"tcg":{"id":97024987,"pack_id":"CORE-EN028","pack":"CORE","rarity":"Igknight Templar","date":1438819200000}}
+{
+    "id": 97024987,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 200,
+    "type": 16777233,
+    "atk": 1700,
+    "def": 1300,
+    "level": 117899268,
+    "race": 1,
+    "attribute": 4,
+    "category": 0,
+    "name": "Igknight Templar",
+    "desc": "Pendulum Effect\nIf you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.\n\nMonster Effect\nAn experienced Igknight warrior who fights for justice and despises the corrupt. He even questions his own weapon these days, due to his absolute quest for righteousness.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 97024987,
+        "pack_id": "CORE-JP028",
+        "pack": "CORE",
+        "rarity": "Igknight Templar",
+        "date": 1429920000000
+    },
+    "tcg": {
+        "id": 97024987,
+        "pack_id": "CORE-EN028",
+        "pack": "CORE",
+        "rarity": "Igknight Templar",
+        "date": 1438819200000
+    }
+}

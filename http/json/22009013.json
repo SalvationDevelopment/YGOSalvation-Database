@@ -1,1 +1,47 @@
-{"id":22009013,"ot":3,"alias":0,"setcode":4106,"type":33,"atk":2400,"def":0,"level":6,"race":8,"attribute":32,"category":16,"name":"Steelswarm Moth","desc":"When this card is Tribute Summoned by Tributing a \"Steelswarm\" monster: You can pay 1000 Life Points to target up to 2 cards your opponent controls; return those targets to the hand.","str1":"Return to hand","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":22009013,"pack_id":"DT10-JP031","pack":"DT10","rarity":"Steelswarm Moth","date":1353628800000},"tcg":{"id":22009013,"pack_id":"DT05-EN081","pack":"DT05","rarity":"Steelswarm Moth","date":1317254400000}}
+{
+    "id": 22009013,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4106,
+    "type": 33,
+    "atk": 2400,
+    "def": 0,
+    "level": 6,
+    "race": 8,
+    "attribute": 32,
+    "category": 16,
+    "name": "Steelswarm Moth",
+    "desc": "When this card is Tribute Summoned by Tributing a \"Steelswarm\" monster: You can pay 1000 Life Points to target up to 2 cards your opponent controls; return those targets to the hand.",
+    "str1": "Return to hand",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 22009013,
+        "pack_id": "DT10-JP031",
+        "pack": "DT10",
+        "rarity": "Steelswarm Moth",
+        "date": 1353628800000
+    },
+    "tcg": {
+        "id": 22009013,
+        "pack_id": "DT05-EN081",
+        "pack": "DT05",
+        "rarity": "Steelswarm Moth",
+        "date": 1317254400000
+    }
+}

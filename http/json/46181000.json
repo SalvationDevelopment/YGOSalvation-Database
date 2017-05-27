@@ -1,1 +1,47 @@
-{"id":46181000,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262144,"name":"Frontline Base","desc":"Once per turn: You can Special Summon 1 Level 4 or lower Union monster from your hand.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":46181000,"pack_id":"302-028","pack":"302","rarity":"Frontline Base","date":1026950400000},"tcg":{"id":46181000,"pack_id":"MFC-028","pack":"MFC","rarity":"Frontline Base","date":1065744000000}}
+{
+    "id": 46181000,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262144,
+    "name": "Frontline Base",
+    "desc": "Once per turn: You can Special Summon 1 Level 4 or lower Union monster from your hand.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 46181000,
+        "pack_id": "302-028",
+        "pack": "302",
+        "rarity": "Frontline Base",
+        "date": 1026950400000
+    },
+    "tcg": {
+        "id": 46181000,
+        "pack_id": "MFC-028",
+        "pack": "MFC",
+        "rarity": "Frontline Base",
+        "date": 1065744000000
+    }
+}

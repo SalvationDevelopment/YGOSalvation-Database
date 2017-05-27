@@ -1,1 +1,47 @@
-{"id":93830681,"ot":3,"alias":0,"setcode":0,"type":33,"atk":700,"def":1500,"level":3,"race":131072,"attribute":2,"category":1056768,"name":"Friller Rabca","desc":"When a Fish, Sea Serpent, or Aqua-Type monster you control is targeted for an attack: You can banish this card from your Graveyard, then target the attacking monster; negate the attack, and if you do, that target loses 500 ATK until the end of the next turn. You can only use this effect of \"Friller Rabca\" once per turn.","str1":"Negate attack","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":93830681,"pack_id":"PHSW-JP008","pack":"PHSW","rarity":"Friller Rabca","date":1310774400000},"tcg":{"id":93830681,"pack_id":"PHSW-EN008","pack":"PHSW","rarity":"Friller Rabca","date":1320883200000}}
+{
+    "id": 93830681,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 700,
+    "def": 1500,
+    "level": 3,
+    "race": 131072,
+    "attribute": 2,
+    "category": 1056768,
+    "name": "Friller Rabca",
+    "desc": "When a Fish, Sea Serpent, or Aqua-Type monster you control is targeted for an attack: You can banish this card from your Graveyard, then target the attacking monster; negate the attack, and if you do, that target loses 500 ATK until the end of the next turn. You can only use this effect of \"Friller Rabca\" once per turn.",
+    "str1": "Negate attack",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 93830681,
+        "pack_id": "PHSW-JP008",
+        "pack": "PHSW",
+        "rarity": "Friller Rabca",
+        "date": 1310774400000
+    },
+    "tcg": {
+        "id": 93830681,
+        "pack_id": "PHSW-EN008",
+        "pack": "PHSW",
+        "rarity": "Friller Rabca",
+        "date": 1320883200000
+    }
+}

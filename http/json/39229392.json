@@ -1,1 +1,47 @@
-{"id":39229392,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2000,"def":0,"level":4,"race":1,"attribute":16,"category":0,"name":"Overlay Sentinel","desc":"Cannot be Special Summoned. When this card is Normal Summoned: Change this card to Defense Position. If you control a face-up Xyz Monster that has Xyz Material: You can banish this card from your Graveyard, then target 1 monster your opponent controls; it loses 500 ATK for each Xyz Material attached to a monster you control.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":39229392,"pack_id":"LVAL-JP005","pack":"LVAL","rarity":"Overlay Sentinel","date":1384560000000},"tcg":{"id":39229392,"pack_id":"LVAL-EN005","pack":"LVAL","rarity":"Overlay Sentinel","date":1390521600000}}
+{
+    "id": 39229392,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2000,
+    "def": 0,
+    "level": 4,
+    "race": 1,
+    "attribute": 16,
+    "category": 0,
+    "name": "Overlay Sentinel",
+    "desc": "Cannot be Special Summoned. When this card is Normal Summoned: Change this card to Defense Position. If you control a face-up Xyz Monster that has Xyz Material: You can banish this card from your Graveyard, then target 1 monster your opponent controls; it loses 500 ATK for each Xyz Material attached to a monster you control.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 39229392,
+        "pack_id": "LVAL-JP005",
+        "pack": "LVAL",
+        "rarity": "Overlay Sentinel",
+        "date": 1384560000000
+    },
+    "tcg": {
+        "id": 39229392,
+        "pack_id": "LVAL-EN005",
+        "pack": "LVAL",
+        "rarity": "Overlay Sentinel",
+        "date": 1390521600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":50702124,"ot":3,"alias":0,"setcode":0,"type":4129,"atk":1000,"def":600,"level":3,"race":32,"attribute":1,"category":262144,"name":"Synchro Magnet","desc":"This card cannot be Normal Summoned or Set. When you Synchro Summon a Synchro Monster, you can Special Summon this card from your hand.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":50702124,"pack_id":"TSHD-JP011","pack":"TSHD","rarity":"Synchro Magnet","date":1266624000000},"tcg":{"id":50702124,"pack_id":"TSHD-EN011","pack":"TSHD","rarity":"Synchro Magnet","date":1273190400000}}
+{
+    "id": 50702124,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4129,
+    "atk": 1000,
+    "def": 600,
+    "level": 3,
+    "race": 32,
+    "attribute": 1,
+    "category": 262144,
+    "name": "Synchro Magnet",
+    "desc": "This card cannot be Normal Summoned or Set. When you Synchro Summon a Synchro Monster, you can Special Summon this card from your hand.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 50702124,
+        "pack_id": "TSHD-JP011",
+        "pack": "TSHD",
+        "rarity": "Synchro Magnet",
+        "date": 1266624000000
+    },
+    "tcg": {
+        "id": 50702124,
+        "pack_id": "TSHD-EN011",
+        "pack": "TSHD",
+        "rarity": "Synchro Magnet",
+        "date": 1273190400000
+    }
+}

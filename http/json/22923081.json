@@ -1,1 +1,47 @@
-{"id":22923081,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1600,"def":1000,"level":6,"race":2,"attribute":32,"category":0,"name":"Breaker the Dark Magical Warrior","desc":"If this card is Normal Summoned: Place 2 Spell Counters on it. If this card is Pendulum Summoned: Place 3 Spell Counters on it. This card gains 400 ATK for each Spell Counter on it. You can remove 1 Spell Counter from this card, then target 1 Spell/Trap Card on the field; destroy it. You can only use this effect of \"Breaker the Dark Magical Warrior\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":22923081,"pack_id":"DUEA-JP040","pack":"DUEA","rarity":"Breaker the Dark Magical Warrior","date":1397865600000},"tcg":{"id":22923081,"pack_id":"DUEA-EN040","pack":"DUEA","rarity":"Breaker the Dark Magical Warrior","date":1407974400000}}
+{
+    "id": 22923081,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1600,
+    "def": 1000,
+    "level": 6,
+    "race": 2,
+    "attribute": 32,
+    "category": 0,
+    "name": "Breaker the Dark Magical Warrior",
+    "desc": "If this card is Normal Summoned: Place 2 Spell Counters on it. If this card is Pendulum Summoned: Place 3 Spell Counters on it. This card gains 400 ATK for each Spell Counter on it. You can remove 1 Spell Counter from this card, then target 1 Spell/Trap Card on the field; destroy it. You can only use this effect of \"Breaker the Dark Magical Warrior\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 22923081,
+        "pack_id": "DUEA-JP040",
+        "pack": "DUEA",
+        "rarity": "Breaker the Dark Magical Warrior",
+        "date": 1397865600000
+    },
+    "tcg": {
+        "id": 22923081,
+        "pack_id": "DUEA-EN040",
+        "pack": "DUEA",
+        "rarity": "Breaker the Dark Magical Warrior",
+        "date": 1407974400000
+    }
+}

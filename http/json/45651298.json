@@ -1,1 +1,47 @@
-{"id":45651298,"ot":3,"alias":0,"setcode":0,"type":33,"atk":300,"def":300,"level":3,"race":32,"attribute":1,"category":262144,"name":"Mimimic","desc":"If your opponent controls a monster and you control a Level 3 monster, you can Special Summon this card (from your hand). You can only Special Summon \"Mimimic\" once per turn this way.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":45651298,"pack_id":"LTGY-JP003","pack":"LTGY","rarity":"Mimimic","date":1360972800000},"tcg":{"id":45651298,"pack_id":"LTGY-EN003","pack":"LTGY","rarity":"Mimimic","date":1368748800000}}
+{
+    "id": 45651298,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 300,
+    "def": 300,
+    "level": 3,
+    "race": 32,
+    "attribute": 1,
+    "category": 262144,
+    "name": "Mimimic",
+    "desc": "If your opponent controls a monster and you control a Level 3 monster, you can Special Summon this card (from your hand). You can only Special Summon \"Mimimic\" once per turn this way.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 45651298,
+        "pack_id": "LTGY-JP003",
+        "pack": "LTGY",
+        "rarity": "Mimimic",
+        "date": 1360972800000
+    },
+    "tcg": {
+        "id": 45651298,
+        "pack_id": "LTGY-EN003",
+        "pack": "LTGY",
+        "rarity": "Mimimic",
+        "date": 1368748800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":48712195,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":256,"name":"Card Trader","desc":"Once per turn, during your Standby Phase: You can shuffle 1 card from your hand into the Deck; draw 1 card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":48712195,"pack_id":"STON-JP046","pack":"STON","rarity":"Card Trader","date":1163635200000},"tcg":{"id":48712195,"pack_id":"STON-EN046","pack":"STON","rarity":"Card Trader","date":1172620800000}}
+{
+    "id": 48712195,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 256,
+    "name": "Card Trader",
+    "desc": "Once per turn, during your Standby Phase: You can shuffle 1 card from your hand into the Deck; draw 1 card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 48712195,
+        "pack_id": "STON-JP046",
+        "pack": "STON",
+        "rarity": "Card Trader",
+        "date": 1163635200000
+    },
+    "tcg": {
+        "id": 48712195,
+        "pack_id": "STON-EN046",
+        "pack": "STON",
+        "rarity": "Card Trader",
+        "date": 1172620800000
+    }
+}

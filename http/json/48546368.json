@@ -1,1 +1,47 @@
-{"id":48546368,"ot":3,"alias":0,"setcode":0,"type":161,"atk":2000,"def":3000,"level":12,"race":4,"attribute":16,"category":0,"name":"Herald of Ultimateness","desc":"You can Ritual Summon this card with \"Oracle of the Herald\". Must be Ritual Summoned, and cannot be Special Summoned by other ways. During either player's turn, when your opponent would Special Summon a monster(s), OR activates a Spell Card, Trap Card, or monster effect: You can send 1 Fairy-Type monster from your hand to the Graveyard; negate the Special Summon or activation, and if you do, destroy that card.","str1":"Activate effect?","str2":"When your opponent activates a Spell Card, Trap Card or monster effect: Negate its activation, and if you do, destroy it.","str3":"When your opponent would Special Summon a monster(s): Negate that Special Summon, and if you do, destroy the monster(s).","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":48546368,"pack_id":"NECH-JP045","pack":"NECH","rarity":"Herald of Ultimateness","date":1405728000000},"tcg":{"id":48546368,"pack_id":"NECH-EN045","pack":"NECH","rarity":"Herald of Ultimateness","date":1415232000000}}
+{
+    "id": 48546368,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 161,
+    "atk": 2000,
+    "def": 3000,
+    "level": 12,
+    "race": 4,
+    "attribute": 16,
+    "category": 0,
+    "name": "Herald of Ultimateness",
+    "desc": "You can Ritual Summon this card with \"Oracle of the Herald\". Must be Ritual Summoned, and cannot be Special Summoned by other ways. During either player's turn, when your opponent would Special Summon a monster(s), OR activates a Spell Card, Trap Card, or monster effect: You can send 1 Fairy-Type monster from your hand to the Graveyard; negate the Special Summon or activation, and if you do, destroy that card.",
+    "str1": "Activate effect?",
+    "str2": "When your opponent activates a Spell Card, Trap Card or monster effect: Negate its activation, and if you do, destroy it.",
+    "str3": "When your opponent would Special Summon a monster(s): Negate that Special Summon, and if you do, destroy the monster(s).",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 48546368,
+        "pack_id": "NECH-JP045",
+        "pack": "NECH",
+        "rarity": "Herald of Ultimateness",
+        "date": 1405728000000
+    },
+    "tcg": {
+        "id": 48546368,
+        "pack_id": "NECH-EN045",
+        "pack": "NECH",
+        "rarity": "Herald of Ultimateness",
+        "date": 1415232000000
+    }
+}

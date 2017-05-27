@@ -1,1 +1,47 @@
-{"id":39996157,"ot":3,"alias":0,"setcode":0,"type":130,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Machine Angel Ritual","desc":"This card can be used to Ritual Summon any \"Cyber Angel\" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. If a LIGHT monster(s) you control would be destroyed by battle or card effect while this card is in your Graveyard, you can banish this card instead.","str1":"Banish Machine Angel Ritual instead?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":39996157,"pack_id":"CPF1-JP015","pack":"CPF1","rarity":"Machine Angel Ritual","date":1463184000000},"tcg":{"id":39996157,"pack_id":"DRL3-EN015","pack":"DRL3","rarity":"Machine Angel Ritual","date":1471478400000}}
+{
+    "id": 39996157,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 130,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Machine Angel Ritual",
+    "desc": "This card can be used to Ritual Summon any \"Cyber Angel\" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. If a LIGHT monster(s) you control would be destroyed by battle or card effect while this card is in your Graveyard, you can banish this card instead.",
+    "str1": "Banish Machine Angel Ritual instead?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 39996157,
+        "pack_id": "CPF1-JP015",
+        "pack": "CPF1",
+        "rarity": "Machine Angel Ritual",
+        "date": 1463184000000
+    },
+    "tcg": {
+        "id": 39996157,
+        "pack_id": "DRL3-EN015",
+        "pack": "DRL3",
+        "rarity": "Machine Angel Ritual",
+        "date": 1471478400000
+    }
+}

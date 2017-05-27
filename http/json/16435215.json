@@ -1,1 +1,47 @@
-{"id":16435215,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":320,"name":"Dragged Down into the Grave","desc":"Both players reveal their hands, each player chooses 1 card from their opponent's hand, then you discard the chosen cards from both players' hands, then both players draw 1 card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":16435215,"pack_id":"305-031","pack":"305","rarity":"Dragged Down into the Grave","date":1045699200000},"tcg":{"id":16435215,"pack_id":"DCR-084","pack":"DCR","rarity":"Dragged Down into the Grave","date":1070236800000}}
+{
+    "id": 16435215,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 320,
+    "name": "Dragged Down into the Grave",
+    "desc": "Both players reveal their hands, each player chooses 1 card from their opponent's hand, then you discard the chosen cards from both players' hands, then both players draw 1 card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 16435215,
+        "pack_id": "305-031",
+        "pack": "305",
+        "rarity": "Dragged Down into the Grave",
+        "date": 1045699200000
+    },
+    "tcg": {
+        "id": 16435215,
+        "pack_id": "DCR-084",
+        "pack": "DCR",
+        "rarity": "Dragged Down into the Grave",
+        "date": 1070236800000
+    }
+}

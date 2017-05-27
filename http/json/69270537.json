@@ -1,1 +1,47 @@
-{"id":69270537,"ot":3,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262176,"name":"Contact Out","desc":"Return 1 \"Neos\" Fusion Monster you control to the Extra Deck. If all the Fusion Material Monsters listed on that Fusion Monster are in your Deck, you can Special Summon them.","str1":"Do you want to Special Summon Fusion Material Monsters?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":69270537,"pack_id":"GLAS-JP045","pack":"GLAS","rarity":"Contact Out","date":1184976000000},"tcg":{"id":69270537,"pack_id":"GLAS-EN045","pack":"GLAS","rarity":"Contact Out","date":1194998400000}}
+{
+    "id": 69270537,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262176,
+    "name": "Contact Out",
+    "desc": "Return 1 \"Neos\" Fusion Monster you control to the Extra Deck. If all the Fusion Material Monsters listed on that Fusion Monster are in your Deck, you can Special Summon them.",
+    "str1": "Do you want to Special Summon Fusion Material Monsters?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 69270537,
+        "pack_id": "GLAS-JP045",
+        "pack": "GLAS",
+        "rarity": "Contact Out",
+        "date": 1184976000000
+    },
+    "tcg": {
+        "id": 69270537,
+        "pack_id": "GLAS-EN045",
+        "pack": "GLAS",
+        "rarity": "Contact Out",
+        "date": 1194998400000
+    }
+}

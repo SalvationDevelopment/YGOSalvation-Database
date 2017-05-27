@@ -1,1 +1,47 @@
-{"id":47233801,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4194304,"name":"Dark Snake Syndrome","desc":"During each of your Standby Phases: Inflict damage to both players. This damage begins at 200 and is doubled during each of your following Standby Phases.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":47233801,"pack_id":"301-035","pack":"301","rarity":"Dark Snake Syndrome","date":1021507200000},"tcg":{"id":47233801,"pack_id":"PGD-087","pack":"PGD","rarity":"Dark Snake Syndrome","date":1058486400000}}
+{
+    "id": 47233801,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4194304,
+    "name": "Dark Snake Syndrome",
+    "desc": "During each of your Standby Phases: Inflict damage to both players. This damage begins at 200 and is doubled during each of your following Standby Phases.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 47233801,
+        "pack_id": "301-035",
+        "pack": "301",
+        "rarity": "Dark Snake Syndrome",
+        "date": 1021507200000
+    },
+    "tcg": {
+        "id": 47233801,
+        "pack_id": "PGD-087",
+        "pack": "PGD",
+        "rarity": "Dark Snake Syndrome",
+        "date": 1058486400000
+    }
+}

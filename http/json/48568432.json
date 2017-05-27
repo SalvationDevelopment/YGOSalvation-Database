@@ -1,1 +1,47 @@
-{"id":48568432,"ot":3,"alias":0,"setcode":0,"type":1057,"atk":500,"def":1700,"level":3,"race":8192,"attribute":4,"category":18087936,"name":"Trigon","desc":"Once per turn, during your Main Phase, you can equip this card to a Machine-Type monster you control, OR unequip it to Special Summon this card in face-up Attack Position. While equipped to a monster by this effect, if the equipped monster destroys an opponent's monster by battle, select and Special Summon 1 Level 4 or lower LIGHT Machine-Type monster from your Graveyard. (A monster can only be equipped with 1 Union monster at a time. If the equipped monster would be destroyed, destroy this card instead.)","str1":"Equip","str2":"装備を解除","str3":"Special Summon","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":48568432,"pack_id":"TSHD-JP031","pack":"TSHD","rarity":"Trigon","date":1266624000000},"tcg":{"id":48568432,"pack_id":"TSHD-EN031","pack":"TSHD","rarity":"Trigon","date":1273190400000}}
+{
+    "id": 48568432,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 1057,
+    "atk": 500,
+    "def": 1700,
+    "level": 3,
+    "race": 8192,
+    "attribute": 4,
+    "category": 18087936,
+    "name": "Trigon",
+    "desc": "Once per turn, during your Main Phase, you can equip this card to a Machine-Type monster you control, OR unequip it to Special Summon this card in face-up Attack Position. While equipped to a monster by this effect, if the equipped monster destroys an opponent's monster by battle, select and Special Summon 1 Level 4 or lower LIGHT Machine-Type monster from your Graveyard. (A monster can only be equipped with 1 Union monster at a time. If the equipped monster would be destroyed, destroy this card instead.)",
+    "str1": "Equip",
+    "str2": "装備を解除",
+    "str3": "Special Summon",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 48568432,
+        "pack_id": "TSHD-JP031",
+        "pack": "TSHD",
+        "rarity": "Trigon",
+        "date": 1266624000000
+    },
+    "tcg": {
+        "id": 48568432,
+        "pack_id": "TSHD-EN031",
+        "pack": "TSHD",
+        "rarity": "Trigon",
+        "date": 1273190400000
+    }
+}

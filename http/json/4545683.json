@@ -1,1 +1,47 @@
-{"id":4545683,"ot":3,"alias":0,"setcode":12307,"type":33,"atk":0,"def":0,"level":1,"race":32,"attribute":1,"category":274432,"name":"Meklord Emperor Granel","desc":"Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. When a face-up monster you control is destroyed by a card effect and sent to the Graveyard (except during the Damage Step): You can Special Summon this card from your hand. This card gains ATK and DEF equal to half of your LP. Once per turn: You can target 1 Synchro Monster your opponent controls; equip that target to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect. You can target 1 of these equipped monsters; Special Summon that target to your side of the field in Defense Position.","str1":"Special Summon","str2":"Equip Synchro monster","str3":"Special summon equipped monster","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":4545683,"pack_id":"VJMP-JP054","pack":"VJMP","rarity":"Meklord Emperor Granel","date":1282348800000},"tcg":{"id":4545683,"pack_id":"WQ11-EN003","pack":"WQ11","rarity":"Meklord Emperor Granel","date":1304208000000}}
+{
+    "id": 4545683,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 12307,
+    "type": 33,
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": 32,
+    "attribute": 1,
+    "category": 274432,
+    "name": "Meklord Emperor Granel",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. When a face-up monster you control is destroyed by a card effect and sent to the Graveyard (except during the Damage Step): You can Special Summon this card from your hand. This card gains ATK and DEF equal to half of your LP. Once per turn: You can target 1 Synchro Monster your opponent controls; equip that target to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect. You can target 1 of these equipped monsters; Special Summon that target to your side of the field in Defense Position.",
+    "str1": "Special Summon",
+    "str2": "Equip Synchro monster",
+    "str3": "Special summon equipped monster",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 4545683,
+        "pack_id": "VJMP-JP054",
+        "pack": "VJMP",
+        "rarity": "Meklord Emperor Granel",
+        "date": 1282348800000
+    },
+    "tcg": {
+        "id": 4545683,
+        "pack_id": "WQ11-EN003",
+        "pack": "WQ11",
+        "rarity": "Meklord Emperor Granel",
+        "date": 1304208000000
+    }
+}

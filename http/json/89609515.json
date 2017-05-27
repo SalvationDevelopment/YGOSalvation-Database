@@ -1,1 +1,47 @@
-{"id":89609515,"ot":3,"alias":0,"setcode":57,"type":33,"atk":1700,"def":800,"level":4,"race":128,"attribute":4,"category":8192,"name":"Laval Phlogis","desc":"When this card is sent to the Graveyard: All \"Laval\" monsters you currently control gain 300 ATK.","str1":"Gain attack","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":89609515,"pack_id":"DT13-JP015","pack":"DT13","rarity":"Laval Phlogis","date":1317686400000},"tcg":{"id":89609515,"pack_id":"DT07-EN015","pack":"DT07","rarity":"Laval Phlogis","date":1348790400000}}
+{
+    "id": 89609515,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 57,
+    "type": 33,
+    "atk": 1700,
+    "def": 800,
+    "level": 4,
+    "race": 128,
+    "attribute": 4,
+    "category": 8192,
+    "name": "Laval Phlogis",
+    "desc": "When this card is sent to the Graveyard: All \"Laval\" monsters you currently control gain 300 ATK.",
+    "str1": "Gain attack",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 89609515,
+        "pack_id": "DT13-JP015",
+        "pack": "DT13",
+        "rarity": "Laval Phlogis",
+        "date": 1317686400000
+    },
+    "tcg": {
+        "id": 89609515,
+        "pack_id": "DT07-EN015",
+        "pack": "DT07",
+        "rarity": "Laval Phlogis",
+        "date": 1348790400000
+    }
+}

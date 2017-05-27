@@ -1,1 +1,47 @@
-{"id":96677818,"ot":3,"alias":0,"setcode":4206,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Spellbook Organization","desc":"Look at the top 3 cards of your Deck, then return them to the top of the Deck in any order.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":96677818,"pack_id":"303-039","pack":"303","rarity":"Spellbook Organization","date":1032393600000},"tcg":{"id":96677818,"pack_id":"MFC-093","pack":"MFC","rarity":"Spellbook Organization","date":1065744000000}}
+{
+    "id": 96677818,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4206,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Spellbook Organization",
+    "desc": "Look at the top 3 cards of your Deck, then return them to the top of the Deck in any order.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 96677818,
+        "pack_id": "303-039",
+        "pack": "303",
+        "rarity": "Spellbook Organization",
+        "date": 1032393600000
+    },
+    "tcg": {
+        "id": 96677818,
+        "pack_id": "MFC-093",
+        "pack": "MFC",
+        "rarity": "Spellbook Organization",
+        "date": 1065744000000
+    }
+}

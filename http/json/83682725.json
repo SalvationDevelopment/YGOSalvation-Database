@@ -1,1 +1,47 @@
-{"id":83682725,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1048592,"name":"Tail Swipe","desc":"Target 1 Level 5 or higher Dinosaur-Type monster you control; if that Dinosaur-Type monster is still face-up on the field, choose up to 2 monsters your opponent controls that have a lower Level than it, or are face-down, and return them to the hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":83682725,"pack_id":"SD09-JP018","pack":"SD09","rarity":"Tail Swipe","date":1150934400000},"tcg":{"id":83682725,"pack_id":"SD09-EN018","pack":"SD09","rarity":"Tail Swipe","date":1161302400000}}
+{
+    "id": 83682725,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1048592,
+    "name": "Tail Swipe",
+    "desc": "Target 1 Level 5 or higher Dinosaur-Type monster you control; if that Dinosaur-Type monster is still face-up on the field, choose up to 2 monsters your opponent controls that have a lower Level than it, or are face-down, and return them to the hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 83682725,
+        "pack_id": "SD09-JP018",
+        "pack": "SD09",
+        "rarity": "Tail Swipe",
+        "date": 1150934400000
+    },
+    "tcg": {
+        "id": 83682725,
+        "pack_id": "SD09-EN018",
+        "pack": "SD09",
+        "rarity": "Tail Swipe",
+        "date": 1161302400000
+    }
+}

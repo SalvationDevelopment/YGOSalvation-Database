@@ -1,1 +1,47 @@
-{"id":50501121,"ot":3,"alias":0,"setcode":239,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Darklord Rebellion","desc":"Send 1 \"Darklord\" monster from your hand or face-up from your field to the Graveyard; destroy 1 card on the field. You can only activate 1 \"Darklord Rebellion\" per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":50501121,"pack_id":"SPDS-JP036","pack":"SPDS","rarity":"Darklord Rebellion","date":1470441600000},"tcg":{"id":50501121,"pack_id":"DESO-EN036","pack":"DESO","rarity":"Darklord Rebellion","date":1479340800000}}
+{
+    "id": 50501121,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 239,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Darklord Rebellion",
+    "desc": "Send 1 \"Darklord\" monster from your hand or face-up from your field to the Graveyard; destroy 1 card on the field. You can only activate 1 \"Darklord Rebellion\" per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 50501121,
+        "pack_id": "SPDS-JP036",
+        "pack": "SPDS",
+        "rarity": "Darklord Rebellion",
+        "date": 1470441600000
+    },
+    "tcg": {
+        "id": 50501121,
+        "pack_id": "DESO-EN036",
+        "pack": "DESO",
+        "rarity": "Darklord Rebellion",
+        "date": 1479340800000
+    }
+}

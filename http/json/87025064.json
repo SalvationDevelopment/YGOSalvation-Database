@@ -1,1 +1,47 @@
-{"id":87025064,"ot":3,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Silver's Cry","desc":"Target 1 Dragon-Type Normal Monster in your Graveyard; Special Summon that target. You can only activate 1 \"Silver's Cry\" per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":87025064,"pack_id":"SD25-JP021","pack":"SD25","rarity":"Silver's Cry","date":1371254400000},"tcg":{"id":87025064,"pack_id":"SDBE-EN020","pack":"SDBE","rarity":"Silver's Cry","date":1378944000000}}
+{
+    "id": 87025064,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Silver's Cry",
+    "desc": "Target 1 Dragon-Type Normal Monster in your Graveyard; Special Summon that target. You can only activate 1 \"Silver's Cry\" per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 87025064,
+        "pack_id": "SD25-JP021",
+        "pack": "SD25",
+        "rarity": "Silver's Cry",
+        "date": 1371254400000
+    },
+    "tcg": {
+        "id": 87025064,
+        "pack_id": "SDBE-EN020",
+        "pack": "SDBE",
+        "rarity": "Silver's Cry",
+        "date": 1378944000000
+    }
+}

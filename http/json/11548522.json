@@ -1,1 +1,47 @@
-{"id":11548522,"ot":3,"alias":0,"setcode":0,"type":33,"atk":100,"def":100,"level":1,"race":16384,"attribute":16,"category":32,"name":"Outstanding Dog Marron","desc":"When this card is sent to your Graveyard, add it to your Deck and shuffle it.","str1":"Return to deck","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":11548522,"pack_id":"305-009","pack":"305","rarity":"Outstanding Dog Marron","date":1045699200000},"tcg":{"id":11548522,"pack_id":"DCR-062","pack":"DCR","rarity":"Outstanding Dog Marron","date":1070236800000}}
+{
+    "id": 11548522,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 100,
+    "def": 100,
+    "level": 1,
+    "race": 16384,
+    "attribute": 16,
+    "category": 32,
+    "name": "Outstanding Dog Marron",
+    "desc": "When this card is sent to your Graveyard, add it to your Deck and shuffle it.",
+    "str1": "Return to deck",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 11548522,
+        "pack_id": "305-009",
+        "pack": "305",
+        "rarity": "Outstanding Dog Marron",
+        "date": 1045699200000
+    },
+    "tcg": {
+        "id": 11548522,
+        "pack_id": "DCR-062",
+        "pack": "DCR",
+        "rarity": "Outstanding Dog Marron",
+        "date": 1070236800000
+    }
+}

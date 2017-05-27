@@ -1,1 +1,47 @@
-{"id":29401950,"ot":3,"alias":0,"setcode":8978508,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4,"name":"Bottomless Trap Hole","desc":"When your opponent Summons a monster(s) with 1500 or more ATK: Destroy that monster(s) with 1500 or more ATK, and if you do, banish it.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":29401950,"pack_id":"MA-44","pack":"MA","rarity":"Bottomless Trap Hole","date":1006992000000},"tcg":{"id":29401950,"pack_id":"LOD-092","pack":"LOD","rarity":"Bottomless Trap Hole","date":1054857600000}}
+{
+    "id": 29401950,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 8978508,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4,
+    "name": "Bottomless Trap Hole",
+    "desc": "When your opponent Summons a monster(s) with 1500 or more ATK: Destroy that monster(s) with 1500 or more ATK, and if you do, banish it.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 29401950,
+        "pack_id": "MA-44",
+        "pack": "MA",
+        "rarity": "Bottomless Trap Hole",
+        "date": 1006992000000
+    },
+    "tcg": {
+        "id": 29401950,
+        "pack_id": "LOD-092",
+        "pack": "LOD",
+        "rarity": "Bottomless Trap Hole",
+        "date": 1054857600000
+    }
+}

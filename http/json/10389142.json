@@ -1,1 +1,47 @@
-{"id":10389142,"ot":3,"alias":0,"setcode":8061000,"type":8388641,"atk":0,"def":3000,"level":7,"race":32,"attribute":8,"category":262144,"name":"Number 42: Galaxy Tomahawk","desc":"2 Level 7 monsters\nOnce per turn: You can detach 2 Xyz Materials from this card; Special Summon as many \"Battle Eagle Tokens\" (Machine-Type/WIND/Level 6/ATK 2000/DEF 0) as possible, destroy them during the End Phase of this turn, also your opponent takes no further battle damage this turn.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":10389142,"pack_id":"VJMP-JP075","pack":"VJMP","rarity":"Number 42: Galaxy Tomahawk","date":1358726400000},"tcg":{"id":10389142,"pack_id":"PRIO-EN092","pack":"PRIO","rarity":"Number 42: Galaxy Tomahawk","date":1400198400000}}
+{
+    "id": 10389142,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 8061000,
+    "type": 8388641,
+    "atk": 0,
+    "def": 3000,
+    "level": 7,
+    "race": 32,
+    "attribute": 8,
+    "category": 262144,
+    "name": "Number 42: Galaxy Tomahawk",
+    "desc": "2 Level 7 monsters\nOnce per turn: You can detach 2 Xyz Materials from this card; Special Summon as many \"Battle Eagle Tokens\" (Machine-Type/WIND/Level 6/ATK 2000/DEF 0) as possible, destroy them during the End Phase of this turn, also your opponent takes no further battle damage this turn.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 10389142,
+        "pack_id": "VJMP-JP075",
+        "pack": "VJMP",
+        "rarity": "Number 42: Galaxy Tomahawk",
+        "date": 1358726400000
+    },
+    "tcg": {
+        "id": 10389142,
+        "pack_id": "PRIO-EN092",
+        "pack": "PRIO",
+        "rarity": "Number 42: Galaxy Tomahawk",
+        "date": 1400198400000
+    }
+}

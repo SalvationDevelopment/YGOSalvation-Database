@@ -1,1 +1,47 @@
-{"id":63992027,"ot":3,"alias":0,"setcode":229,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Double Cipher","desc":"If your opponent controls a monster with the highest ATK on the field (even if tied): Target 1 \"Galaxy-Eyes\" or \"Cipher\" Xyz Monster you control that has Xyz Material; detach all Xyz Materials from that Xyz Monster, and if you do, Special Summon 1 monster from your Extra Deck with the same name as that Xyz Monster.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":63992027,"pack_id":"INOV-JP068","pack":"INOV","rarity":"Double Cipher","date":1468022400000},"tcg":{"id":63992027,"pack_id":"INOV-EN068","pack":"INOV","rarity":"Double Cipher","date":1478131200000}}
+{
+    "id": 63992027,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 229,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Double Cipher",
+    "desc": "If your opponent controls a monster with the highest ATK on the field (even if tied): Target 1 \"Galaxy-Eyes\" or \"Cipher\" Xyz Monster you control that has Xyz Material; detach all Xyz Materials from that Xyz Monster, and if you do, Special Summon 1 monster from your Extra Deck with the same name as that Xyz Monster.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 63992027,
+        "pack_id": "INOV-JP068",
+        "pack": "INOV",
+        "rarity": "Double Cipher",
+        "date": 1468022400000
+    },
+    "tcg": {
+        "id": 63992027,
+        "pack_id": "INOV-EN068",
+        "pack": "INOV",
+        "rarity": "Double Cipher",
+        "date": 1478131200000
+    }
+}

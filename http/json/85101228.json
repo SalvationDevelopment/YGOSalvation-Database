@@ -1,1 +1,47 @@
-{"id":85101228,"ot":3,"alias":0,"setcode":38,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":67584,"name":"Morphtronic Bind","desc":"While you control a face-up \"Morphtronic\" monster, all Level 4 or higher monsters your opponent controls cannot attack or change their battle positions.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":85101228,"pack_id":"RGBT-JP072","pack":"RGBT","rarity":"Morphtronic Bind","date":1234569600000},"tcg":{"id":85101228,"pack_id":"RGBT-EN072","pack":"RGBT","rarity":"Morphtronic Bind","date":1241222400000}}
+{
+    "id": 85101228,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 38,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 67584,
+    "name": "Morphtronic Bind",
+    "desc": "While you control a face-up \"Morphtronic\" monster, all Level 4 or higher monsters your opponent controls cannot attack or change their battle positions.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 85101228,
+        "pack_id": "RGBT-JP072",
+        "pack": "RGBT",
+        "rarity": "Morphtronic Bind",
+        "date": 1234569600000
+    },
+    "tcg": {
+        "id": 85101228,
+        "pack_id": "RGBT-EN072",
+        "pack": "RGBT",
+        "rarity": "Morphtronic Bind",
+        "date": 1241222400000
+    }
+}

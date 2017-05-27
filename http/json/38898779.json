@@ -1,1 +1,47 @@
-{"id":38898779,"ot":3,"alias":0,"setcode":4175,"type":33,"atk":3300,"def":1500,"level":10,"race":1,"attribute":32,"category":270344,"name":"Colossal Fighter/Assault Mode","desc":"This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Assault Mode Activate\". When this card is Special Summoned, you can send up to 2 Warrior-Type monsters from your Deck to the Graveyard. All monsters your opponent controls lose 100 ATK for every Warrior-Type monster in your Graveyard. When this card on the field is destroyed, you can Special Summon 1 \"Colossal Fighter\" from your Graveyard.","str1":"Send to Graveyard","str2":"特殊召唤「巨人斗士」","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":38898779,"pack_id":"EXP2-JP031","pack":"EXP2","rarity":"Colossal Fighter/Assault Mode","date":1253318400000},"tcg":{"id":38898779,"pack_id":"CRMS-ENSP1","pack":"CRMS","rarity":"Colossal Fighter/Assault Mode","date":1235779200000}}
+{
+    "id": 38898779,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4175,
+    "type": 33,
+    "atk": 3300,
+    "def": 1500,
+    "level": 10,
+    "race": 1,
+    "attribute": 32,
+    "category": 270344,
+    "name": "Colossal Fighter/Assault Mode",
+    "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Assault Mode Activate\". When this card is Special Summoned, you can send up to 2 Warrior-Type monsters from your Deck to the Graveyard. All monsters your opponent controls lose 100 ATK for every Warrior-Type monster in your Graveyard. When this card on the field is destroyed, you can Special Summon 1 \"Colossal Fighter\" from your Graveyard.",
+    "str1": "Send to Graveyard",
+    "str2": "特殊召唤「巨人斗士」",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 38898779,
+        "pack_id": "EXP2-JP031",
+        "pack": "EXP2",
+        "rarity": "Colossal Fighter/Assault Mode",
+        "date": 1253318400000
+    },
+    "tcg": {
+        "id": 38898779,
+        "pack_id": "CRMS-ENSP1",
+        "pack": "CRMS",
+        "rarity": "Colossal Fighter/Assault Mode",
+        "date": 1235779200000
+    }
+}

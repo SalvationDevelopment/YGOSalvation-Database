@@ -1,1 +1,47 @@
-{"id":40619825,"ot":3,"alias":0,"setcode":69,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":9248,"name":"Axe of Despair","desc":"(This card is always treated as an \"Archfiend\" card.)\nThe equipped monster gains 1000 ATK. When this card is sent from the field to the Graveyard: You can Tribute 1 monster; place this card on the top of your Deck.","str1":"回到卡组的最上面","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":40619825,"pack_id":"MR-02","pack":"MR","rarity":"Axe of Despair","date":956188800000},"tcg":{"id":40619825,"pack_id":"MRL-002","pack":"MRL","rarity":"Axe of Despair","date":1032134400000}}
+{
+    "id": 40619825,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 69,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 9248,
+    "name": "Axe of Despair",
+    "desc": "(This card is always treated as an \"Archfiend\" card.)\nThe equipped monster gains 1000 ATK. When this card is sent from the field to the Graveyard: You can Tribute 1 monster; place this card on the top of your Deck.",
+    "str1": "回到卡组的最上面",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 40619825,
+        "pack_id": "MR-02",
+        "pack": "MR",
+        "rarity": "Axe of Despair",
+        "date": 956188800000
+    },
+    "tcg": {
+        "id": 40619825,
+        "pack_id": "MRL-002",
+        "pack": "MRL",
+        "rarity": "Axe of Despair",
+        "date": 1032134400000
+    }
+}

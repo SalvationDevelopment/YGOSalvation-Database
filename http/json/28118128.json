@@ -1,1 +1,47 @@
-{"id":28118128,"ot":3,"alias":0,"setcode":0,"type":2097185,"atk":0,"def":800,"level":2,"race":16384,"attribute":1,"category":0,"name":"Baby Raccoon Tantan","desc":"FLIP: Special Summon 1 Level 2 Beast-Type monster from your Deck, except \"Baby Raccoon Tantan\".","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":28118128,"pack_id":"SHSP-JP015","pack":"SHSP","rarity":"Baby Raccoon Tantan","date":1374278400000},"tcg":{"id":28118128,"pack_id":"SHSP-EN015","pack":"SHSP","rarity":"Baby Raccoon Tantan","date":1383868800000}}
+{
+    "id": 28118128,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2097185,
+    "atk": 0,
+    "def": 800,
+    "level": 2,
+    "race": 16384,
+    "attribute": 1,
+    "category": 0,
+    "name": "Baby Raccoon Tantan",
+    "desc": "FLIP: Special Summon 1 Level 2 Beast-Type monster from your Deck, except \"Baby Raccoon Tantan\".",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 28118128,
+        "pack_id": "SHSP-JP015",
+        "pack": "SHSP",
+        "rarity": "Baby Raccoon Tantan",
+        "date": 1374278400000
+    },
+    "tcg": {
+        "id": 28118128,
+        "pack_id": "SHSP-EN015",
+        "pack": "SHSP",
+        "rarity": "Baby Raccoon Tantan",
+        "date": 1383868800000
+    }
+}

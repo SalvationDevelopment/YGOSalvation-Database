@@ -1,1 +1,47 @@
-{"id":98555327,"ot":3,"alias":0,"setcode":123,"type":33,"atk":0,"def":1800,"level":4,"race":2,"attribute":16,"category":512,"name":"Galaxy Wizard","desc":"Once per turn: You can increase this card's Level by 4 until the End Phase. You can Tribute this card; add 1 \"Galaxy\" card from your Deck to your hand, except \"Galaxy Wizard\".","str1":"Increase level","str2":"Add to hand","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":98555327,"pack_id":"DP13-JP016","pack":"DP13","rarity":"Galaxy Wizard","date":1347667200000},"tcg":{"id":98555327,"pack_id":"ZTIN-EN011","pack":"ZTIN","rarity":"Galaxy Wizard","date":1362614400000}}
+{
+    "id": 98555327,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 123,
+    "type": 33,
+    "atk": 0,
+    "def": 1800,
+    "level": 4,
+    "race": 2,
+    "attribute": 16,
+    "category": 512,
+    "name": "Galaxy Wizard",
+    "desc": "Once per turn: You can increase this card's Level by 4 until the End Phase. You can Tribute this card; add 1 \"Galaxy\" card from your Deck to your hand, except \"Galaxy Wizard\".",
+    "str1": "Increase level",
+    "str2": "Add to hand",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 98555327,
+        "pack_id": "DP13-JP016",
+        "pack": "DP13",
+        "rarity": "Galaxy Wizard",
+        "date": 1347667200000
+    },
+    "tcg": {
+        "id": 98555327,
+        "pack_id": "ZTIN-EN011",
+        "pack": "ZTIN",
+        "rarity": "Galaxy Wizard",
+        "date": 1362614400000
+    }
+}

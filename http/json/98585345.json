@@ -1,1 +1,47 @@
-{"id":98585345,"ot":3,"alias":0,"setcode":704653819969,"type":33,"atk":300,"def":200,"level":10,"race":4,"attribute":16,"category":4194306,"name":"Winged Kuriboh LV10","desc":"Cannot be Normal Summoned or Set. Must be Special Summoned with \"Transcendent Wings\" and cannot be Special Summoned by other ways. During your opponent's Battle Phase: You can Tribute this face-up card; destroy all Attack Position monsters your opponent controls and inflict damage to your opponent equal to the combined original ATK of those destroyed monster(s).","str1":"Destroy and inflict damage","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":98585345,"pack_id":"CRV-JP005","pack":"CRV","rarity":"Winged Kuriboh LV10","date":1117065600000},"tcg":{"id":98585345,"pack_id":"CRV-EN005","pack":"CRV","rarity":"Winged Kuriboh LV10","date":1123286400000}}
+{
+    "id": 98585345,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 704653819969,
+    "type": 33,
+    "atk": 300,
+    "def": 200,
+    "level": 10,
+    "race": 4,
+    "attribute": 16,
+    "category": 4194306,
+    "name": "Winged Kuriboh LV10",
+    "desc": "Cannot be Normal Summoned or Set. Must be Special Summoned with \"Transcendent Wings\" and cannot be Special Summoned by other ways. During your opponent's Battle Phase: You can Tribute this face-up card; destroy all Attack Position monsters your opponent controls and inflict damage to your opponent equal to the combined original ATK of those destroyed monster(s).",
+    "str1": "Destroy and inflict damage",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 98585345,
+        "pack_id": "CRV-JP005",
+        "pack": "CRV",
+        "rarity": "Winged Kuriboh LV10",
+        "date": 1117065600000
+    },
+    "tcg": {
+        "id": 98585345,
+        "pack_id": "CRV-EN005",
+        "pack": "CRV",
+        "rarity": "Winged Kuriboh LV10",
+        "date": 1123286400000
+    }
+}

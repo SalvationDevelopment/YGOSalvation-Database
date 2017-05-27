@@ -1,1 +1,47 @@
-{"id":26905245,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":3000,"level":10,"race":64,"attribute":2,"category":262144,"name":"Metal Reflect Slime","desc":"Special Summon this card in Defense Position as an Effect Monster (Aqua-Type/WATER/Level 10/ATK 0/DEF 3000). (This card is also still a Trap Card.) This card cannot attack.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":26905245,"pack_id":"VB5-002","pack":"VB5","rarity":"Metal Reflect Slime","date":1033689600000},"tcg":{"id":26905245,"pack_id":"PTDN-EN094","pack":"PTDN","rarity":"Metal Reflect Slime","date":1201305600000}}
+{
+    "id": 26905245,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 3000,
+    "level": 10,
+    "race": 64,
+    "attribute": 2,
+    "category": 262144,
+    "name": "Metal Reflect Slime",
+    "desc": "Special Summon this card in Defense Position as an Effect Monster (Aqua-Type/WATER/Level 10/ATK 0/DEF 3000). (This card is also still a Trap Card.) This card cannot attack.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 26905245,
+        "pack_id": "VB5-002",
+        "pack": "VB5",
+        "rarity": "Metal Reflect Slime",
+        "date": 1033689600000
+    },
+    "tcg": {
+        "id": 26905245,
+        "pack_id": "PTDN-EN094",
+        "pack": "PTDN",
+        "rarity": "Metal Reflect Slime",
+        "date": 1201305600000
+    }
+}

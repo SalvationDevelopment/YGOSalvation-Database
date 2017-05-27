@@ -1,1 +1,47 @@
-{"id":84133008,"ot":3,"alias":0,"setcode":0,"type":33,"atk":250,"def":350,"level":1,"race":8,"attribute":32,"category":16,"name":"Monster Eye","desc":"You can pay 1000 Life Points; add 1 \"Polymerization\" from your Graveyard to your hand.","str1":"Return to hand","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":84133008,"pack_id":"B3-20","pack":"B3","rarity":"Monster Eye","date":944006400000},"tcg":{"id":84133008,"pack_id":"WCPP-EN008","pack":"WCPP","rarity":"Monster Eye","date":1281744000000}}
+{
+    "id": 84133008,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 250,
+    "def": 350,
+    "level": 1,
+    "race": 8,
+    "attribute": 32,
+    "category": 16,
+    "name": "Monster Eye",
+    "desc": "You can pay 1000 Life Points; add 1 \"Polymerization\" from your Graveyard to your hand.",
+    "str1": "Return to hand",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 84133008,
+        "pack_id": "B3-20",
+        "pack": "B3",
+        "rarity": "Monster Eye",
+        "date": 944006400000
+    },
+    "tcg": {
+        "id": 84133008,
+        "pack_id": "WCPP-EN008",
+        "pack": "WCPP",
+        "rarity": "Monster Eye",
+        "date": 1281744000000
+    }
+}

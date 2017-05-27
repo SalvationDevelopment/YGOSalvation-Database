@@ -1,1 +1,47 @@
-{"id":72709014,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":270336,"name":"Trial of the Princesses","desc":"Equip only to \"White Magician Pikeru\" or \"Ebon Magician Curran\"; it gains 800 ATK. During a turn that the equipped monster destroyed a Level 5 or higher monster by battle, you can Tribute the equipped monster and this card to Special Summon from your hand or Deck: 1 \"Princess Pikeru\" if you Tributed \"White Magician Pikeru\", or 1 \"Princess Curran\" if you Tributed \"Ebon Magician Curran\".","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":72709014,"pack_id":"SOI-JP044","pack":"SOI","rarity":"Trial of the Princesses","date":1132185600000},"tcg":{"id":72709014,"pack_id":"SOI-EN044","pack":"SOI","rarity":"Trial of the Princesses","date":1140220800000}}
+{
+    "id": 72709014,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 270336,
+    "name": "Trial of the Princesses",
+    "desc": "Equip only to \"White Magician Pikeru\" or \"Ebon Magician Curran\"; it gains 800 ATK. During a turn that the equipped monster destroyed a Level 5 or higher monster by battle, you can Tribute the equipped monster and this card to Special Summon from your hand or Deck: 1 \"Princess Pikeru\" if you Tributed \"White Magician Pikeru\", or 1 \"Princess Curran\" if you Tributed \"Ebon Magician Curran\".",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 72709014,
+        "pack_id": "SOI-JP044",
+        "pack": "SOI",
+        "rarity": "Trial of the Princesses",
+        "date": 1132185600000
+    },
+    "tcg": {
+        "id": 72709014,
+        "pack_id": "SOI-EN044",
+        "pack": "SOI",
+        "rarity": "Trial of the Princesses",
+        "date": 1140220800000
+    }
+}

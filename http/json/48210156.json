@@ -1,1 +1,47 @@
-{"id":48210156,"ot":3,"alias":0,"setcode":175,"type":4129,"atk":300,"def":600,"level":3,"race":8,"attribute":32,"category":0,"name":"D/D Nighthowl","desc":"When this card is Normal Summoned: You can target 1 \"D/D\" monster in your Graveyard; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except Fiend-Type monsters. That monster's ATK and DEF become 0. If it is destroyed, you take 1000 damage.","str1":"Special Summon 1 \"D/D\" Monster from your Graveyard","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":48210156,"pack_id":"SPRG-JP002","pack":"SPRG","rarity":"D/D Nighthowl","date":1407542400000},"tcg":{"id":48210156,"pack_id":"SDPD-EN009","pack":"SDPD","rarity":"D/D Nighthowl","date":1484784000000}}
+{
+    "id": 48210156,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 175,
+    "type": 4129,
+    "atk": 300,
+    "def": 600,
+    "level": 3,
+    "race": 8,
+    "attribute": 32,
+    "category": 0,
+    "name": "D/D Nighthowl",
+    "desc": "When this card is Normal Summoned: You can target 1 \"D/D\" monster in your Graveyard; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except Fiend-Type monsters. That monster's ATK and DEF become 0. If it is destroyed, you take 1000 damage.",
+    "str1": "Special Summon 1 \"D/D\" Monster from your Graveyard",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 48210156,
+        "pack_id": "SPRG-JP002",
+        "pack": "SPRG",
+        "rarity": "D/D Nighthowl",
+        "date": 1407542400000
+    },
+    "tcg": {
+        "id": 48210156,
+        "pack_id": "SDPD-EN009",
+        "pack": "SDPD",
+        "rarity": "D/D Nighthowl",
+        "date": 1484784000000
+    }
+}

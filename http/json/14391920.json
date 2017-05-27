@@ -1,1 +1,47 @@
-{"id":14391920,"ot":3,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4,"name":"Inferno Tempest","desc":"When you take 3000 or more Battle Damage from 1 attack, you can activate this card. Remove all monsters in each player's Deck and Graveyard from play.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":14391920,"pack_id":"PP7-JP007","pack":"PP7","rarity":"Inferno Tempest","date":1091664000000},"tcg":{"id":14391920,"pack_id":"EP1-EN007","pack":"EP1","rarity":"Inferno Tempest","date":1091318400000}}
+{
+    "id": 14391920,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4,
+    "name": "Inferno Tempest",
+    "desc": "When you take 3000 or more Battle Damage from 1 attack, you can activate this card. Remove all monsters in each player's Deck and Graveyard from play.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 14391920,
+        "pack_id": "PP7-JP007",
+        "pack": "PP7",
+        "rarity": "Inferno Tempest",
+        "date": 1091664000000
+    },
+    "tcg": {
+        "id": 14391920,
+        "pack_id": "EP1-EN007",
+        "pack": "EP1",
+        "rarity": "Inferno Tempest",
+        "date": 1091318400000
+    }
+}

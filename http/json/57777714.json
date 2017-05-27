@@ -1,1 +1,47 @@
-{"id":57777714,"ot":3,"alias":0,"setcode":777401929909,"type":16777249,"atk":1000,"def":1500,"level":16842755,"race":1048576,"attribute":8,"category":0,"name":"Ritual Beast Tamer Zeframpilica","desc":"Pendulum Effect\nYou cannot Pendulum Summon monsters, except \"Ritual Beast\" or \"Zefra\" monsters. This effect cannot be negated.\n\nMonster Effect\nWhen this card is Normal or Pendulum Summoned: You can target 1 \"Ritual Beast\" or \"Zefra\" monster in your Graveyard, except \"Ritual Beast Tamer Zeframpilica\"; Special Summon it, but destroy it during the End Phase. You can only Special Summon \"Ritual Beast Tamer Zeframpilica(s)\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":57777714,"pack_id":"CROS-JP028","pack":"CROS","rarity":"Ritual Beast Tamer Zeframpilica","date":1423872000000},"tcg":{"id":57777714,"pack_id":"CROS-EN028","pack":"CROS","rarity":"Ritual Beast Tamer Zeframpilica","date":1431561600000}}
+{
+    "id": 57777714,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 777401929909,
+    "type": 16777249,
+    "atk": 1000,
+    "def": 1500,
+    "level": 16842755,
+    "race": 1048576,
+    "attribute": 8,
+    "category": 0,
+    "name": "Ritual Beast Tamer Zeframpilica",
+    "desc": "Pendulum Effect\nYou cannot Pendulum Summon monsters, except \"Ritual Beast\" or \"Zefra\" monsters. This effect cannot be negated.\n\nMonster Effect\nWhen this card is Normal or Pendulum Summoned: You can target 1 \"Ritual Beast\" or \"Zefra\" monster in your Graveyard, except \"Ritual Beast Tamer Zeframpilica\"; Special Summon it, but destroy it during the End Phase. You can only Special Summon \"Ritual Beast Tamer Zeframpilica(s)\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 57777714,
+        "pack_id": "CROS-JP028",
+        "pack": "CROS",
+        "rarity": "Ritual Beast Tamer Zeframpilica",
+        "date": 1423872000000
+    },
+    "tcg": {
+        "id": 57777714,
+        "pack_id": "CROS-EN028",
+        "pack": "CROS",
+        "rarity": "Ritual Beast Tamer Zeframpilica",
+        "date": 1431561600000
+    }
+}

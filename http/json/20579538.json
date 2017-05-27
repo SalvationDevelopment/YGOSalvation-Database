@@ -1,1 +1,47 @@
-{"id":20579538,"ot":3,"alias":0,"setcode":10879120,"type":33,"atk":100,"def":100,"level":1,"race":1024,"attribute":16,"category":0,"name":"Sylvan Princessprout","desc":"You can only activate each effect of \"Sylvan Princessprout\" once per turn.\n● You can Tribute this card; excavate the top card of your Deck, send it to the Graveyard, then you can place 1 \"sprout\" monster in your Graveyard on top of your Deck.\n● If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can declare a Level from 1 to 8; Special Summon this card from the Graveyard, and if you do, it becomes that Level.","str1":"You can Tribute this card; excavate the top card of your Deck, send it to the Graveyard, then you can place 1 \"sprout\" monster in your Graveyard on top of your Deck.","str2":"If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can declare a Level from 1 to 8; Special Summon this card from the Graveyard, and if you do, it becomes that Level.","str3":"Place a card on top?","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":20579538,"pack_id":"EP14-JP034","pack":"EP14","rarity":"Sylvan Princessprout","date":1410566400000},"tcg":{"id":20579538,"pack_id":"PRIO-EN083","pack":"PRIO","rarity":"Sylvan Princessprout","date":1400198400000}}
+{
+    "id": 20579538,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 10879120,
+    "type": 33,
+    "atk": 100,
+    "def": 100,
+    "level": 1,
+    "race": 1024,
+    "attribute": 16,
+    "category": 0,
+    "name": "Sylvan Princessprout",
+    "desc": "You can only activate each effect of \"Sylvan Princessprout\" once per turn.\n● You can Tribute this card; excavate the top card of your Deck, send it to the Graveyard, then you can place 1 \"sprout\" monster in your Graveyard on top of your Deck.\n● If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can declare a Level from 1 to 8; Special Summon this card from the Graveyard, and if you do, it becomes that Level.",
+    "str1": "You can Tribute this card; excavate the top card of your Deck, send it to the Graveyard, then you can place 1 \"sprout\" monster in your Graveyard on top of your Deck.",
+    "str2": "If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can declare a Level from 1 to 8; Special Summon this card from the Graveyard, and if you do, it becomes that Level.",
+    "str3": "Place a card on top?",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 20579538,
+        "pack_id": "EP14-JP034",
+        "pack": "EP14",
+        "rarity": "Sylvan Princessprout",
+        "date": 1410566400000
+    },
+    "tcg": {
+        "id": 20579538,
+        "pack_id": "PRIO-EN083",
+        "pack": "PRIO",
+        "rarity": "Sylvan Princessprout",
+        "date": 1400198400000
+    }
+}

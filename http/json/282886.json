@@ -1,1 +1,47 @@
-{"id":282886,"ot":3,"alias":0,"setcode":7667828,"type":33,"atk":1500,"def":1500,"level":4,"race":131072,"attribute":2,"category":262144,"name":"Mermail Abyssnose","desc":"When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can discard 1 WATER monster to the Graveyard; Special Summon 1 \"Mermail\" monster from your Deck in face-up Defense Position. You can only use the effect of \"Mermail Abyssnose\" once per turn.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":282886,"pack_id":"CBLZ-JP033","pack":"CBLZ","rarity":"Mermail Abyssnose","date":1353110400000},"tcg":{"id":282886,"pack_id":"CBLZ-EN033","pack":"CBLZ","rarity":"Mermail Abyssnose","date":1359072000000}}
+{
+    "id": 282886,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 7667828,
+    "type": 33,
+    "atk": 1500,
+    "def": 1500,
+    "level": 4,
+    "race": 131072,
+    "attribute": 2,
+    "category": 262144,
+    "name": "Mermail Abyssnose",
+    "desc": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can discard 1 WATER monster to the Graveyard; Special Summon 1 \"Mermail\" monster from your Deck in face-up Defense Position. You can only use the effect of \"Mermail Abyssnose\" once per turn.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 282886,
+        "pack_id": "CBLZ-JP033",
+        "pack": "CBLZ",
+        "rarity": "Mermail Abyssnose",
+        "date": 1353110400000
+    },
+    "tcg": {
+        "id": 282886,
+        "pack_id": "CBLZ-EN033",
+        "pack": "CBLZ",
+        "rarity": "Mermail Abyssnose",
+        "date": 1359072000000
+    }
+}

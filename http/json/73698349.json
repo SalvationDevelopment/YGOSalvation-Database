@@ -1,1 +1,47 @@
-{"id":73698349,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2200,"def":0,"level":4,"race":8,"attribute":32,"category":2048,"name":"Giant Orc","desc":"If this card attacks, it is changed to Defense Position at the end of the Battle Phase. You cannot change this battle position until the end of your next turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":73698349,"pack_id":"302-012","pack":"302","rarity":"Giant Orc","date":1026950400000},"tcg":{"id":73698349,"pack_id":"MFC-012","pack":"MFC","rarity":"Giant Orc","date":1065744000000}}
+{
+    "id": 73698349,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2200,
+    "def": 0,
+    "level": 4,
+    "race": 8,
+    "attribute": 32,
+    "category": 2048,
+    "name": "Giant Orc",
+    "desc": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase. You cannot change this battle position until the end of your next turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 73698349,
+        "pack_id": "302-012",
+        "pack": "302",
+        "rarity": "Giant Orc",
+        "date": 1026950400000
+    },
+    "tcg": {
+        "id": 73698349,
+        "pack_id": "MFC-012",
+        "pack": "MFC",
+        "rarity": "Giant Orc",
+        "date": 1065744000000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":36499284,"ot":3,"alias":0,"setcode":124,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":16777224,"name":"Fire Formation - Yoko","desc":"When you activate this card, you can target 1 face-up card your opponent controls; discard 1 Beast-Warrior-Type monster, and if you do, destroy that card. All Beast-Warrior-Type monsters you control gain 100 ATK.","str1":"Destroy a face-up card?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":36499284,"pack_id":"JOTL-JP065","pack":"JOTL","rarity":"Fire Formation - Yoko","date":1366416000000},"tcg":{"id":36499284,"pack_id":"JOTL-EN065","pack":"JOTL","rarity":"Fire Formation - Yoko","date":1375920000000}}
+{
+    "id": 36499284,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 124,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 16777224,
+    "name": "Fire Formation - Yoko",
+    "desc": "When you activate this card, you can target 1 face-up card your opponent controls; discard 1 Beast-Warrior-Type monster, and if you do, destroy that card. All Beast-Warrior-Type monsters you control gain 100 ATK.",
+    "str1": "Destroy a face-up card?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 36499284,
+        "pack_id": "JOTL-JP065",
+        "pack": "JOTL",
+        "rarity": "Fire Formation - Yoko",
+        "date": 1366416000000
+    },
+    "tcg": {
+        "id": 36499284,
+        "pack_id": "JOTL-EN065",
+        "pack": "JOTL",
+        "rarity": "Fire Formation - Yoko",
+        "date": 1375920000000
+    }
+}

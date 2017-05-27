@@ -1,1 +1,47 @@
-{"id":52068432,"ot":3,"alias":0,"setcode":180,"type":161,"atk":2700,"def":2000,"level":9,"race":1,"attribute":2,"category":0,"name":"Nekroz of Trishula","desc":"You can Ritual Summon this card with any \"Nekroz\" Ritual Spell Card. Must be Ritual Summoned without using any Level 9 monsters, and cannot be Special Summoned by other ways. You can only use each of these effects of \"Nekroz of Trishula\" once per turn.\n● During either player's turn, when a card or effect is activated that targets a \"Nekroz\" monster(s) you control: You can discard this card; negate the activation.\n● When this card is Ritual Summoned, you can: Banish exactly 3 of your opponent's cards, 1 each from their hand, field, and Graveyard. (The card in the hand is chosen at random.)","str1":"Discard this card?","str2":"Banish 1 card from the field ","str3":"Banish 1 card from the graveyard","str4":"Banish 1 card from the hand","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":52068432,"pack_id":"SPTR-JP015","pack":"SPTR","rarity":"Nekroz of Trishula","date":1412985600000},"tcg":{"id":52068432,"pack_id":"THSF-EN015","pack":"THSF","rarity":"Nekroz of Trishula","date":1423785600000}}
+{
+    "id": 52068432,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 180,
+    "type": 161,
+    "atk": 2700,
+    "def": 2000,
+    "level": 9,
+    "race": 1,
+    "attribute": 2,
+    "category": 0,
+    "name": "Nekroz of Trishula",
+    "desc": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell Card. Must be Ritual Summoned without using any Level 9 monsters, and cannot be Special Summoned by other ways. You can only use each of these effects of \"Nekroz of Trishula\" once per turn.\n● During either player's turn, when a card or effect is activated that targets a \"Nekroz\" monster(s) you control: You can discard this card; negate the activation.\n● When this card is Ritual Summoned, you can: Banish exactly 3 of your opponent's cards, 1 each from their hand, field, and Graveyard. (The card in the hand is chosen at random.)",
+    "str1": "Discard this card?",
+    "str2": "Banish 1 card from the field ",
+    "str3": "Banish 1 card from the graveyard",
+    "str4": "Banish 1 card from the hand",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 52068432,
+        "pack_id": "SPTR-JP015",
+        "pack": "SPTR",
+        "rarity": "Nekroz of Trishula",
+        "date": 1412985600000
+    },
+    "tcg": {
+        "id": 52068432,
+        "pack_id": "THSF-EN015",
+        "pack": "THSF",
+        "rarity": "Nekroz of Trishula",
+        "date": 1423785600000
+    }
+}

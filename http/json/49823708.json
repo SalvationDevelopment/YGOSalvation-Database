@@ -1,1 +1,47 @@
-{"id":49823708,"ot":3,"alias":0,"setcode":214,"type":4129,"atk":400,"def":300,"level":1,"race":8192,"attribute":16,"category":0,"name":"Buster Whelp of the Destruction Swordsman","desc":"When this card is Normal Summoned: You can add 1 \"Destruction Sword\" card from your Deck to your hand, except \"Buster Whelp of the Destruction Swordsman\". You can only use 1 of the following effects of \"Buster Whelp of the Destruction Swordsman\" per turn, and only once that turn.\n● You can Tribute this card; Special Summon 1 \"Buster Blader\" from your hand or Graveyard.\n● If this card is in your Graveyard and you control \"Buster Blader\": You can discard 1 \"Destruction Sword\" card; Special Summon this card.","str1":"You can Tribute this card; Special Summon 1 \"Buster Blader\" from your hand or Graveyard.","str2":"While this card is in your Graveyard, if you control \"Buster Blader\": You can discard 1 \"Destruction Swordmaster\" card; Special Summon this card.","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":49823708,"pack_id":"BOSH-JP019","pack":"BOSH","rarity":"Buster Whelp of the Destruction Swordsman","date":1445040000000},"tcg":{"id":49823708,"pack_id":"BOSH-EN019","pack":"BOSH","rarity":"Buster Whelp of the Destruction Swordsman","date":1452729600000}}
+{
+    "id": 49823708,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 214,
+    "type": 4129,
+    "atk": 400,
+    "def": 300,
+    "level": 1,
+    "race": 8192,
+    "attribute": 16,
+    "category": 0,
+    "name": "Buster Whelp of the Destruction Swordsman",
+    "desc": "When this card is Normal Summoned: You can add 1 \"Destruction Sword\" card from your Deck to your hand, except \"Buster Whelp of the Destruction Swordsman\". You can only use 1 of the following effects of \"Buster Whelp of the Destruction Swordsman\" per turn, and only once that turn.\n● You can Tribute this card; Special Summon 1 \"Buster Blader\" from your hand or Graveyard.\n● If this card is in your Graveyard and you control \"Buster Blader\": You can discard 1 \"Destruction Sword\" card; Special Summon this card.",
+    "str1": "You can Tribute this card; Special Summon 1 \"Buster Blader\" from your hand or Graveyard.",
+    "str2": "While this card is in your Graveyard, if you control \"Buster Blader\": You can discard 1 \"Destruction Swordmaster\" card; Special Summon this card.",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 49823708,
+        "pack_id": "BOSH-JP019",
+        "pack": "BOSH",
+        "rarity": "Buster Whelp of the Destruction Swordsman",
+        "date": 1445040000000
+    },
+    "tcg": {
+        "id": 49823708,
+        "pack_id": "BOSH-EN019",
+        "pack": "BOSH",
+        "rarity": "Buster Whelp of the Destruction Swordsman",
+        "date": 1452729600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":75425320,"ot":1,"alias":0,"setcode":249,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1281,"name":"Disciples of the True Dracophoenix","desc":"You can target 3 \"True Draco\" and/or \"True King\" cards in your Graveyard; shuffle them into the Deck, then draw 1 card. During your Main Phase, you can: Immediately after this effect resolves, Tribute Summon 1 \"True Draco\" or \"True King\" monster face-up. If this card is sent from the Spell & Trap Zone to the Graveyard: You can target 1 Spell/Trap Card on the field; destroy it. You can only use each effect of \"Disciples of the True Dracophoenix\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG","ocg":{"id":75425320,"pack_id":"MACR-JP055","pack":"MACR","rarity":"Disciples of the True Dracophoenix","date":1484352000000},"tcg":{"id":75425320,"pack_id":"MACR-EN055","pack":"MACR","rarity":"Disciples of the True Dracophoenix","date":1493856000000}}
+{
+    "id": 75425320,
+    "ot": 1,
+    "alias": 0,
+    "setcode": 249,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1281,
+    "name": "Disciples of the True Dracophoenix",
+    "desc": "You can target 3 \"True Draco\" and/or \"True King\" cards in your Graveyard; shuffle them into the Deck, then draw 1 card. During your Main Phase, you can: Immediately after this effect resolves, Tribute Summon 1 \"True Draco\" or \"True King\" monster face-up. If this card is sent from the Spell & Trap Zone to the Graveyard: You can target 1 Spell/Trap Card on the field; destroy it. You can only use each effect of \"Disciples of the True Dracophoenix\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG",
+    "ocg": {
+        "id": 75425320,
+        "pack_id": "MACR-JP055",
+        "pack": "MACR",
+        "rarity": "Disciples of the True Dracophoenix",
+        "date": 1484352000000
+    },
+    "tcg": {
+        "id": 75425320,
+        "pack_id": "MACR-EN055",
+        "pack": "MACR",
+        "rarity": "Disciples of the True Dracophoenix",
+        "date": 1493856000000
+    }
+}

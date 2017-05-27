@@ -1,1 +1,47 @@
-{"id":77098449,"ot":3,"alias":0,"setcode":123,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4194304,"name":"Galaxy Wave","desc":"Each time you Xyz Summon: Inflict 500 damage to your opponent.","str1":"Inflict damage","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":77098449,"pack_id":"ORCS-JP062","pack":"ORCS","rarity":"Galaxy Wave","date":1321660800000},"tcg":{"id":77098449,"pack_id":"ORCS-EN062","pack":"ORCS","rarity":"Galaxy Wave","date":1326499200000}}
+{
+    "id": 77098449,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 123,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4194304,
+    "name": "Galaxy Wave",
+    "desc": "Each time you Xyz Summon: Inflict 500 damage to your opponent.",
+    "str1": "Inflict damage",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 77098449,
+        "pack_id": "ORCS-JP062",
+        "pack": "ORCS",
+        "rarity": "Galaxy Wave",
+        "date": 1321660800000
+    },
+    "tcg": {
+        "id": 77098449,
+        "pack_id": "ORCS-EN062",
+        "pack": "ORCS",
+        "rarity": "Galaxy Wave",
+        "date": 1326499200000
+    }
+}

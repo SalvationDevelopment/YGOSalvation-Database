@@ -1,1 +1,47 @@
-{"id":44612603,"ot":5,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Survival's End","desc":"Destroy as many Normal Monsters on the field as possible, and if you do, Special Summon Level 4 or lower Dinosaur-Type monsters from your Deck, up to the number destroyed, but destroy them during the End Phase. You can banish this card from your Graveyard, then target 1 Dinosaur-Type monster you control and 1 card your opponent controls; destroy them.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG Prerelease","ocg":{"id":44612603,"pack_id":"SR04-JP030","pack":"SR04","rarity":"Survival's End","date":1487980800000},"tcg":{"id":44612603,"pack_id":"SR04-EN030","pack":"SR04","rarity":"Survival's End","date":1492041600000}}
+{
+    "id": 44612603,
+    "ot": 5,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Survival's End",
+    "desc": "Destroy as many Normal Monsters on the field as possible, and if you do, Special Summon Level 4 or lower Dinosaur-Type monsters from your Deck, up to the number destroyed, but destroy them during the End Phase. You can banish this card from your Graveyard, then target 1 Dinosaur-Type monster you control and 1 card your opponent controls; destroy them.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG Prerelease",
+    "ocg": {
+        "id": 44612603,
+        "pack_id": "SR04-JP030",
+        "pack": "SR04",
+        "rarity": "Survival's End",
+        "date": 1487980800000
+    },
+    "tcg": {
+        "id": 44612603,
+        "pack_id": "SR04-EN030",
+        "pack": "SR04",
+        "rarity": "Survival's End",
+        "date": 1492041600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":56673480,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Contract with Don Thousand","desc":"When this card is activated: Both players lose 1000 LP, and if they do, each draws 1 card. All cards that are drawn while this card's effect is applied must remain revealed. While a player's Spell Card in their hand is revealed by this effect, that player cannot Normal Summon/Set monsters. You can only activate 1 \"Contract with Don Thousand\" per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":56673480,"pack_id":"20AP-JP058","pack":"20AP","rarity":"Contract with Don Thousand","date":1486771200000},"tcg":{"id":56673480,"pack_id":"DUSA-EN041","pack":"DUSA","rarity":"Contract with Don Thousand","date":1490832000000}}
+{
+    "id": 56673480,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Contract with Don Thousand",
+    "desc": "When this card is activated: Both players lose 1000 LP, and if they do, each draws 1 card. All cards that are drawn while this card's effect is applied must remain revealed. While a player's Spell Card in their hand is revealed by this effect, that player cannot Normal Summon/Set monsters. You can only activate 1 \"Contract with Don Thousand\" per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 56673480,
+        "pack_id": "20AP-JP058",
+        "pack": "20AP",
+        "rarity": "Contract with Don Thousand",
+        "date": 1486771200000
+    },
+    "tcg": {
+        "id": 56673480,
+        "pack_id": "DUSA-EN041",
+        "pack": "DUSA",
+        "rarity": "Contract with Don Thousand",
+        "date": 1490832000000
+    }
+}

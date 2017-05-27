@@ -1,1 +1,47 @@
-{"id":16943770,"ot":3,"alias":0,"setcode":4123,"type":33,"atk":1600,"def":400,"level":3,"race":32,"attribute":8,"category":0,"name":"Mecha Phantom Beast Aerosguin","desc":"Once per turn: You can banish 1 \"Mecha Phantom Beast\" monster from your Graveyard, except \"Mecha Phantom Beast Aerosguin\"; Special Summon 1 \"Mecha Phantom Beast Token\" (Machine-Type/WIND/Level 3/ATK 0/DEF 0). This card's Level is increased by the total Levels of all \"Mecha Phantom Beast Tokens\" you control. While you control a Token, this card cannot be destroyed by battle or card effects.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":16943770,"pack_id":"EP14-JP003","pack":"EP14","rarity":"Mecha Phantom Beast Aerosguin","date":1410566400000},"tcg":{"id":16943770,"pack_id":"JOTL-EN082","pack":"JOTL","rarity":"Mecha Phantom Beast Aerosguin","date":1375920000000}}
+{
+    "id": 16943770,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4123,
+    "type": 33,
+    "atk": 1600,
+    "def": 400,
+    "level": 3,
+    "race": 32,
+    "attribute": 8,
+    "category": 0,
+    "name": "Mecha Phantom Beast Aerosguin",
+    "desc": "Once per turn: You can banish 1 \"Mecha Phantom Beast\" monster from your Graveyard, except \"Mecha Phantom Beast Aerosguin\"; Special Summon 1 \"Mecha Phantom Beast Token\" (Machine-Type/WIND/Level 3/ATK 0/DEF 0). This card's Level is increased by the total Levels of all \"Mecha Phantom Beast Tokens\" you control. While you control a Token, this card cannot be destroyed by battle or card effects.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 16943770,
+        "pack_id": "EP14-JP003",
+        "pack": "EP14",
+        "rarity": "Mecha Phantom Beast Aerosguin",
+        "date": 1410566400000
+    },
+    "tcg": {
+        "id": 16943770,
+        "pack_id": "JOTL-EN082",
+        "pack": "JOTL",
+        "rarity": "Mecha Phantom Beast Aerosguin",
+        "date": 1375920000000
+    }
+}

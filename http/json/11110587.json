@@ -1,1 +1,47 @@
-{"id":11110587,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"That Grass Looks Greener","desc":"If you have more cards in your Deck than your opponent does: Send cards from the top of your Deck to the Graveyard so you have the same number of cards in the Deck as your opponent.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":11110587,"pack_id":"RATE-JP066","pack":"RATE","rarity":"That Grass Looks Greener","date":1475884800000},"tcg":{"id":11110587,"pack_id":"RATE-EN066","pack":"RATE","rarity":"That Grass Looks Greener","date":1486598400000}}
+{
+    "id": 11110587,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "That Grass Looks Greener",
+    "desc": "If you have more cards in your Deck than your opponent does: Send cards from the top of your Deck to the Graveyard so you have the same number of cards in the Deck as your opponent.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 11110587,
+        "pack_id": "RATE-JP066",
+        "pack": "RATE",
+        "rarity": "That Grass Looks Greener",
+        "date": 1475884800000
+    },
+    "tcg": {
+        "id": 11110587,
+        "pack_id": "RATE-EN066",
+        "pack": "RATE",
+        "rarity": "That Grass Looks Greener",
+        "date": 1486598400000
+    }
+}

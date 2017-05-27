@@ -1,1 +1,47 @@
-{"id":59368956,"ot":3,"alias":0,"setcode":171,"type":33,"atk":500,"def":500,"level":2,"race":32,"attribute":1,"category":0,"name":"Deskbot 002","desc":"If this card is Special Summoned: You can add 1 \"Deskbot\" card from your Deck to your hand. All Machine-Type monsters you control gain 500 ATK and DEF, except this card.","str1":"Add 1 \"Denominator\" card","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":59368956,"pack_id":"NECH-JP042","pack":"NECH","rarity":"Deskbot 002","date":1405728000000},"tcg":{"id":59368956,"pack_id":"DUEA-ENDE5","pack":"DUEA","rarity":"Deskbot 002","date":1410393600000}}
+{
+    "id": 59368956,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 171,
+    "type": 33,
+    "atk": 500,
+    "def": 500,
+    "level": 2,
+    "race": 32,
+    "attribute": 1,
+    "category": 0,
+    "name": "Deskbot 002",
+    "desc": "If this card is Special Summoned: You can add 1 \"Deskbot\" card from your Deck to your hand. All Machine-Type monsters you control gain 500 ATK and DEF, except this card.",
+    "str1": "Add 1 \"Denominator\" card",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 59368956,
+        "pack_id": "NECH-JP042",
+        "pack": "NECH",
+        "rarity": "Deskbot 002",
+        "date": 1405728000000
+    },
+    "tcg": {
+        "id": 59368956,
+        "pack_id": "DUEA-ENDE5",
+        "pack": "DUEA",
+        "rarity": "Deskbot 002",
+        "date": 1410393600000
+    }
+}

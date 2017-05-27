@@ -1,1 +1,47 @@
-{"id":63253763,"ot":3,"alias":0,"setcode":12,"type":33,"atk":2200,"def":1600,"level":6,"race":524288,"attribute":32,"category":67379200,"name":"Alien Overlord","desc":"You can remove 2 A-Counters from anywhere on the field to Special Summon this card from your hand. Once per turn, you can place 1 A-Counter on each face-up monster your opponent controls. (If a monster with an A-Counter battles an \"Alien\" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.) You can only control 1 face-up \"Alien Overlord\".","str1":"Place A-Counters","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":63253763,"pack_id":"CRMS-JP038","pack":"CRMS","rarity":"Alien Overlord","date":1344643200000},"tcg":{"id":63253763,"pack_id":"CRMS-EN038","pack":"CRMS","rarity":"Alien Overlord","date":1235779200000}}
+{
+    "id": 63253763,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 12,
+    "type": 33,
+    "atk": 2200,
+    "def": 1600,
+    "level": 6,
+    "race": 524288,
+    "attribute": 32,
+    "category": 67379200,
+    "name": "Alien Overlord",
+    "desc": "You can remove 2 A-Counters from anywhere on the field to Special Summon this card from your hand. Once per turn, you can place 1 A-Counter on each face-up monster your opponent controls. (If a monster with an A-Counter battles an \"Alien\" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.) You can only control 1 face-up \"Alien Overlord\".",
+    "str1": "Place A-Counters",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 63253763,
+        "pack_id": "CRMS-JP038",
+        "pack": "CRMS",
+        "rarity": "Alien Overlord",
+        "date": 1344643200000
+    },
+    "tcg": {
+        "id": 63253763,
+        "pack_id": "CRMS-EN038",
+        "pack": "CRMS",
+        "rarity": "Alien Overlord",
+        "date": 1235779200000
+    }
+}

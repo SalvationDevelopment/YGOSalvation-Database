@@ -1,1 +1,47 @@
-{"id":19474136,"ot":3,"alias":0,"setcode":0,"type":16777233,"atk":2500,"def":1000,"level":33685509,"race":1024,"attribute":1,"category":0,"name":"Mandragon","desc":"This mandragora harbors the soul of a sorrowful dragon. The cursed tones of its wailing cause both fear and despair.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":19474136,"pack_id":"JF15-JP008","pack":"JF15","rarity":"Mandragon","date":1419033600000},"tcg":{"id":19474136,"pack_id":"CORE-EN097","pack":"CORE","rarity":"Mandragon","date":1438819200000}}
+{
+    "id": 19474136,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 16777233,
+    "atk": 2500,
+    "def": 1000,
+    "level": 33685509,
+    "race": 1024,
+    "attribute": 1,
+    "category": 0,
+    "name": "Mandragon",
+    "desc": "This mandragora harbors the soul of a sorrowful dragon. The cursed tones of its wailing cause both fear and despair.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 19474136,
+        "pack_id": "JF15-JP008",
+        "pack": "JF15",
+        "rarity": "Mandragon",
+        "date": 1419033600000
+    },
+    "tcg": {
+        "id": 19474136,
+        "pack_id": "CORE-EN097",
+        "pack": "CORE",
+        "rarity": "Mandragon",
+        "date": 1438819200000
+    }
+}

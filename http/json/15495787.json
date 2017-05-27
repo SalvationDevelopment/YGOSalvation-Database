@@ -1,1 +1,47 @@
-{"id":15495787,"ot":3,"alias":0,"setcode":154,"type":33,"atk":100,"def":2100,"level":3,"race":32,"attribute":1,"category":0,"name":"Superheavy Samurai Prepped Defense","desc":"Cannot be Normal or Flip Summoned, if you have any Spell/Trap Cards in your Graveyard. When you take battle damage, if you have no Spell/Trap Cards in your Graveyard and this card is in your hand: You can Special Summon this card, and if you do, it cannot be destroyed by battle or card effects this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":15495787,"pack_id":"BOSH-JP009","pack":"BOSH","rarity":"Superheavy Samurai Prepped Defense","date":1445040000000},"tcg":{"id":15495787,"pack_id":"BOSH-EN009","pack":"BOSH","rarity":"Superheavy Samurai Prepped Defense","date":1452729600000}}
+{
+    "id": 15495787,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 154,
+    "type": 33,
+    "atk": 100,
+    "def": 2100,
+    "level": 3,
+    "race": 32,
+    "attribute": 1,
+    "category": 0,
+    "name": "Superheavy Samurai Prepped Defense",
+    "desc": "Cannot be Normal or Flip Summoned, if you have any Spell/Trap Cards in your Graveyard. When you take battle damage, if you have no Spell/Trap Cards in your Graveyard and this card is in your hand: You can Special Summon this card, and if you do, it cannot be destroyed by battle or card effects this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 15495787,
+        "pack_id": "BOSH-JP009",
+        "pack": "BOSH",
+        "rarity": "Superheavy Samurai Prepped Defense",
+        "date": 1445040000000
+    },
+    "tcg": {
+        "id": 15495787,
+        "pack_id": "BOSH-EN009",
+        "pack": "BOSH",
+        "rarity": "Superheavy Samurai Prepped Defense",
+        "date": 1452729600000
+    }
+}

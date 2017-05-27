@@ -1,1 +1,47 @@
-{"id":52571838,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1300,"def":1200,"level":3,"race":131072,"attribute":2,"category":33554432,"name":"Creeping Doom Manta","desc":"When this card is Normal Summoned successfully, no Trap Cards can be activated.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":52571838,"pack_id":"RDS-JP025","pack":"RDS","rarity":"Creeping Doom Manta","date":1091664000000},"tcg":{"id":52571838,"pack_id":"RDS-EN025","pack":"RDS","rarity":"Creeping Doom Manta","date":1100908800000}}
+{
+    "id": 52571838,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1300,
+    "def": 1200,
+    "level": 3,
+    "race": 131072,
+    "attribute": 2,
+    "category": 33554432,
+    "name": "Creeping Doom Manta",
+    "desc": "When this card is Normal Summoned successfully, no Trap Cards can be activated.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 52571838,
+        "pack_id": "RDS-JP025",
+        "pack": "RDS",
+        "rarity": "Creeping Doom Manta",
+        "date": 1091664000000
+    },
+    "tcg": {
+        "id": 52571838,
+        "pack_id": "RDS-EN025",
+        "pack": "RDS",
+        "rarity": "Creeping Doom Manta",
+        "date": 1100908800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":27971137,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1000,"def":1000,"level":2,"race":16,"attribute":32,"category":270336,"name":"Zombowwow","desc":"When this card declares an attack, it gains 500 ATK. If this card on the field is destroyed and sent to the Graveyard: You can Special Summon 1 Level 1 monster with 0 ATK and DEF from your Deck. Its effects are negated, also it is destroyed during your next End Phase.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":27971137,"pack_id":"CPZ1-JP014","pack":"CPZ1","rarity":"Zombowwow","date":1376092800000},"tcg":{"id":27971137,"pack_id":"NUMH-EN014","pack":"NUMH","rarity":"Zombowwow","date":1373587200000}}
+{
+    "id": 27971137,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1000,
+    "def": 1000,
+    "level": 2,
+    "race": 16,
+    "attribute": 32,
+    "category": 270336,
+    "name": "Zombowwow",
+    "desc": "When this card declares an attack, it gains 500 ATK. If this card on the field is destroyed and sent to the Graveyard: You can Special Summon 1 Level 1 monster with 0 ATK and DEF from your Deck. Its effects are negated, also it is destroyed during your next End Phase.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 27971137,
+        "pack_id": "CPZ1-JP014",
+        "pack": "CPZ1",
+        "rarity": "Zombowwow",
+        "date": 1376092800000
+    },
+    "tcg": {
+        "id": 27971137,
+        "pack_id": "NUMH-EN014",
+        "pack": "NUMH",
+        "rarity": "Zombowwow",
+        "date": 1373587200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":32065885,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4096,"name":"Heartfelt Appeal","desc":"When you take battle damage from your opponent's direct attack: Take control of the 1 face-up monster your opponent controls with the highest DEF, until your next End Phase. (If it's a tie, you get to choose.) Its effects are negated, also it cannot declare an attack.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":32065885,"pack_id":"DP12-JP025","pack":"DP12","rarity":"Heartfelt Appeal","date":1318636800000},"tcg":{"id":32065885,"pack_id":"PHSW-EN063","pack":"PHSW","rarity":"Heartfelt Appeal","date":1320883200000}}
+{
+    "id": 32065885,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4096,
+    "name": "Heartfelt Appeal",
+    "desc": "When you take battle damage from your opponent's direct attack: Take control of the 1 face-up monster your opponent controls with the highest DEF, until your next End Phase. (If it's a tie, you get to choose.) Its effects are negated, also it cannot declare an attack.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 32065885,
+        "pack_id": "DP12-JP025",
+        "pack": "DP12",
+        "rarity": "Heartfelt Appeal",
+        "date": 1318636800000
+    },
+    "tcg": {
+        "id": 32065885,
+        "pack_id": "PHSW-EN063",
+        "pack": "PHSW",
+        "rarity": "Heartfelt Appeal",
+        "date": 1320883200000
+    }
+}

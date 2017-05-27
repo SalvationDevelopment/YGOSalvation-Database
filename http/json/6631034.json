@@ -1,1 +1,47 @@
-{"id":6631034,"ot":3,"alias":0,"setcode":0,"type":17,"atk":2600,"def":1700,"level":6,"race":65536,"attribute":2,"category":0,"name":"Frostosaurus","desc":"This monster's metabolism enables it to endure long periods of cold, harnessing the power to become a creature of solid ice! Nothing else can withstand such temperatures, especially victims of its glacial rampage.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":6631034,"pack_id":"STON-JP002","pack":"STON","rarity":"Frostosaurus","date":1163635200000},"tcg":{"id":6631034,"pack_id":"STON-EN002","pack":"STON","rarity":"Frostosaurus","date":1172620800000}}
+{
+    "id": 6631034,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 2600,
+    "def": 1700,
+    "level": 6,
+    "race": 65536,
+    "attribute": 2,
+    "category": 0,
+    "name": "Frostosaurus",
+    "desc": "This monster's metabolism enables it to endure long periods of cold, harnessing the power to become a creature of solid ice! Nothing else can withstand such temperatures, especially victims of its glacial rampage.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 6631034,
+        "pack_id": "STON-JP002",
+        "pack": "STON",
+        "rarity": "Frostosaurus",
+        "date": 1163635200000
+    },
+    "tcg": {
+        "id": 6631034,
+        "pack_id": "STON-EN002",
+        "pack": "STON",
+        "rarity": "Frostosaurus",
+        "date": 1172620800000
+    }
+}

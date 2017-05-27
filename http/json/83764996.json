@@ -1,1 +1,47 @@
-{"id":83764996,"ot":3,"alias":0,"setcode":110,"type":17,"atk":1500,"def":1600,"level":4,"race":2,"attribute":32,"category":0,"name":"The Illusory Gentleman","desc":"Wearing odd fashions, this gentleman is very fickle. He sometimes saves people and at other times commits crimes.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":83764996,"pack_id":"MA-03","pack":"MA","rarity":"The Illusory Gentleman","date":1006992000000},"tcg":{"id":83764996,"pack_id":"LOD-053","pack":"LOD","rarity":"The Illusory Gentleman","date":1054857600000}}
+{
+    "id": 83764996,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 110,
+    "type": 17,
+    "atk": 1500,
+    "def": 1600,
+    "level": 4,
+    "race": 2,
+    "attribute": 32,
+    "category": 0,
+    "name": "The Illusory Gentleman",
+    "desc": "Wearing odd fashions, this gentleman is very fickle. He sometimes saves people and at other times commits crimes.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 83764996,
+        "pack_id": "MA-03",
+        "pack": "MA",
+        "rarity": "The Illusory Gentleman",
+        "date": 1006992000000
+    },
+    "tcg": {
+        "id": 83764996,
+        "pack_id": "LOD-053",
+        "pack": "LOD",
+        "rarity": "The Illusory Gentleman",
+        "date": 1054857600000
+    }
+}

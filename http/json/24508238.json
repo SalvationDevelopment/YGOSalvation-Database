@@ -1,1 +1,47 @@
-{"id":24508238,"ot":3,"alias":0,"setcode":0,"type":33,"atk":100,"def":100,"level":1,"race":512,"attribute":32,"category":12,"name":"D.D. Crow","desc":"During either player's turn: You can discard this card to the Graveyard, then target 1 card in your opponent's Graveyard; banish that target.","str1":"对方墓地一张卡除外","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":24508238,"pack_id":"STON-JP024","pack":"STON","rarity":"D.D. Crow","date":1163635200000},"tcg":{"id":24508238,"pack_id":"STON-EN024","pack":"STON","rarity":"D.D. Crow","date":1172620800000}}
+{
+    "id": 24508238,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 100,
+    "def": 100,
+    "level": 1,
+    "race": 512,
+    "attribute": 32,
+    "category": 12,
+    "name": "D.D. Crow",
+    "desc": "During either player's turn: You can discard this card to the Graveyard, then target 1 card in your opponent's Graveyard; banish that target.",
+    "str1": "对方墓地一张卡除外",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 24508238,
+        "pack_id": "STON-JP024",
+        "pack": "STON",
+        "rarity": "D.D. Crow",
+        "date": 1163635200000
+    },
+    "tcg": {
+        "id": 24508238,
+        "pack_id": "STON-EN024",
+        "pack": "STON",
+        "rarity": "D.D. Crow",
+        "date": 1172620800000
+    }
+}

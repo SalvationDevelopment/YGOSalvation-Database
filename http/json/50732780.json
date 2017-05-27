@@ -1,1 +1,47 @@
-{"id":50732780,"ot":3,"alias":0,"setcode":0,"type":4129,"atk":100,"def":600,"level":1,"race":8,"attribute":32,"category":1310720,"name":"Stygian Security","desc":"If this card is destroyed by battle and sent to the Graveyard: Special Summon 1 Level 1 Fiend-Type monster from your Deck.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":50732780,"pack_id":"WC10-JP002","pack":"WC10","rarity":"Stygian Security","date":1266451200000},"tcg":{"id":50732780,"pack_id":"WC10-EN002","pack":"WC10","rarity":"Stygian Security","date":1266883200000}}
+{
+    "id": 50732780,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4129,
+    "atk": 100,
+    "def": 600,
+    "level": 1,
+    "race": 8,
+    "attribute": 32,
+    "category": 1310720,
+    "name": "Stygian Security",
+    "desc": "If this card is destroyed by battle and sent to the Graveyard: Special Summon 1 Level 1 Fiend-Type monster from your Deck.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 50732780,
+        "pack_id": "WC10-JP002",
+        "pack": "WC10",
+        "rarity": "Stygian Security",
+        "date": 1266451200000
+    },
+    "tcg": {
+        "id": 50732780,
+        "pack_id": "WC10-EN002",
+        "pack": "WC10",
+        "rarity": "Stygian Security",
+        "date": 1266883200000
+    }
+}

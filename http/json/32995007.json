@@ -1,1 +1,47 @@
-{"id":32995007,"ot":3,"alias":0,"setcode":0,"type":8225,"atk":2400,"def":1500,"level":6,"race":32768,"attribute":32,"category":8192,"name":"Celestial Wolf Lord, Blue Sirius","desc":"1 Tuner + 1 or more non-Tuner monsters\nWhen this card on the field is destroyed and sent to the Graveyard: Target 1 face-up monster your opponent controls; it loses 2400 ATK.","str1":"Lower attack","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":32995007,"pack_id":"VJMP-JP062","pack":"VJMP","rarity":"Celestial Wolf Lord, Blue Sirius","date":1316563200000},"tcg":{"id":32995007,"pack_id":"SHSP-EN090","pack":"SHSP","rarity":"Celestial Wolf Lord, Blue Sirius","date":1383868800000}}
+{
+    "id": 32995007,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8225,
+    "atk": 2400,
+    "def": 1500,
+    "level": 6,
+    "race": 32768,
+    "attribute": 32,
+    "category": 8192,
+    "name": "Celestial Wolf Lord, Blue Sirius",
+    "desc": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card on the field is destroyed and sent to the Graveyard: Target 1 face-up monster your opponent controls; it loses 2400 ATK.",
+    "str1": "Lower attack",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 32995007,
+        "pack_id": "VJMP-JP062",
+        "pack": "VJMP",
+        "rarity": "Celestial Wolf Lord, Blue Sirius",
+        "date": 1316563200000
+    },
+    "tcg": {
+        "id": 32995007,
+        "pack_id": "SHSP-EN090",
+        "pack": "SHSP",
+        "rarity": "Celestial Wolf Lord, Blue Sirius",
+        "date": 1383868800000
+    }
+}

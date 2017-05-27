@@ -1,1 +1,47 @@
-{"id":3211439,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Forbidden Apocrypha","desc":"Declare 1 Extra Deck monster card type (Fusion, Synchro, or Xyz); if 2 or more monsters of the declared type are on the field, make each player send all monsters of that type from their field to the Graveyard.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":3211439,"pack_id":"BOSH-JP078","pack":"BOSH","rarity":"Forbidden Apocrypha","date":1445040000000},"tcg":{"id":3211439,"pack_id":"BOSH-EN078","pack":"BOSH","rarity":"Forbidden Apocrypha","date":1452729600000}}
+{
+    "id": 3211439,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Forbidden Apocrypha",
+    "desc": "Declare 1 Extra Deck monster card type (Fusion, Synchro, or Xyz); if 2 or more monsters of the declared type are on the field, make each player send all monsters of that type from their field to the Graveyard.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 3211439,
+        "pack_id": "BOSH-JP078",
+        "pack": "BOSH",
+        "rarity": "Forbidden Apocrypha",
+        "date": 1445040000000
+    },
+    "tcg": {
+        "id": 3211439,
+        "pack_id": "BOSH-EN078",
+        "pack": "BOSH",
+        "rarity": "Forbidden Apocrypha",
+        "date": 1452729600000
+    }
+}

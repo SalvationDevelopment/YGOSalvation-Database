@@ -1,1 +1,47 @@
-{"id":3657444,"ot":3,"alias":0,"setcode":147,"type":33,"atk":0,"def":0,"level":1,"race":32,"attribute":16,"category":1316,"name":"Cyber Valley","desc":"You can use 1 of these effects.\n● When this card is targeted for an attack by an opponent's monster: You can banish this card; draw 1 card, then end the Battle Phase.\n● You can target 1 face-up monster you control and this card; banish both that target and this card, then draw 2 cards.\n● You can target 1 card in your Graveyard; banish this card and 1 card from your hand, then place that target on top of the Deck.","str1":"Banish Cyber Valley; draw 1 card, then end the Battle Phase.","str2":"Target 1 face-up monster you control and this card; banish both that target and this card, then draw 2 cards.","str3":"Target 1 card in your Graveyard; banish this card and 1 card from your hand, then place that target on top of the Deck.","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":3657444,"pack_id":"PTDN-JP010","pack":"PTDN","rarity":"Cyber Valley","date":1195776000000},"tcg":{"id":3657444,"pack_id":"PTDN-EN010","pack":"PTDN","rarity":"Cyber Valley","date":1201305600000}}
+{
+    "id": 3657444,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 147,
+    "type": 33,
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": 32,
+    "attribute": 16,
+    "category": 1316,
+    "name": "Cyber Valley",
+    "desc": "You can use 1 of these effects.\n● When this card is targeted for an attack by an opponent's monster: You can banish this card; draw 1 card, then end the Battle Phase.\n● You can target 1 face-up monster you control and this card; banish both that target and this card, then draw 2 cards.\n● You can target 1 card in your Graveyard; banish this card and 1 card from your hand, then place that target on top of the Deck.",
+    "str1": "Banish Cyber Valley; draw 1 card, then end the Battle Phase.",
+    "str2": "Target 1 face-up monster you control and this card; banish both that target and this card, then draw 2 cards.",
+    "str3": "Target 1 card in your Graveyard; banish this card and 1 card from your hand, then place that target on top of the Deck.",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 3657444,
+        "pack_id": "PTDN-JP010",
+        "pack": "PTDN",
+        "rarity": "Cyber Valley",
+        "date": 1195776000000
+    },
+    "tcg": {
+        "id": 3657444,
+        "pack_id": "PTDN-EN010",
+        "pack": "PTDN",
+        "rarity": "Cyber Valley",
+        "date": 1201305600000
+    }
+}

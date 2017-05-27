@@ -1,1 +1,47 @@
-{"id":92720564,"ot":3,"alias":0,"setcode":38,"type":33,"atk":1200,"def":400,"level":4,"race":32,"attribute":1,"category":98304,"name":"Morphtronic Boomboxen","desc":"● While in Attack Position, this card can attack twice during each Battle Phase.\n● Once per turn, while in Defense Position, when a face-up \"Morphtronic\" monster you control is targeted for an attack: You can negate the attack.","str1":"Negate attack","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":92720564,"pack_id":"CSOC-JP009","pack":"CSOC","rarity":"Morphtronic Boomboxen","date":1228348800000},"tcg":{"id":92720564,"pack_id":"CSOC-EN009","pack":"CSOC","rarity":"Morphtronic Boomboxen","date":1225497600000}}
+{
+    "id": 92720564,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 38,
+    "type": 33,
+    "atk": 1200,
+    "def": 400,
+    "level": 4,
+    "race": 32,
+    "attribute": 1,
+    "category": 98304,
+    "name": "Morphtronic Boomboxen",
+    "desc": "● While in Attack Position, this card can attack twice during each Battle Phase.\n● Once per turn, while in Defense Position, when a face-up \"Morphtronic\" monster you control is targeted for an attack: You can negate the attack.",
+    "str1": "Negate attack",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 92720564,
+        "pack_id": "CSOC-JP009",
+        "pack": "CSOC",
+        "rarity": "Morphtronic Boomboxen",
+        "date": 1228348800000
+    },
+    "tcg": {
+        "id": 92720564,
+        "pack_id": "CSOC-EN009",
+        "pack": "CSOC",
+        "rarity": "Morphtronic Boomboxen",
+        "date": 1225497600000
+    }
+}

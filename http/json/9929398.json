@@ -1,1 +1,47 @@
-{"id":9929398,"ot":3,"alias":0,"setcode":51,"type":4129,"atk":0,"def":0,"level":5,"race":512,"attribute":32,"category":0,"name":"Blackwing - Gofu the Vague Shadow","desc":"Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control no monsters. When this card is Special Summoned from the hand: You can Special Summon 2 \"Vague Shadow Tokens\" (Winged Beast-Type/DARK/Level 1/ATK 0/DEF 0), but they cannot be Tributed or be used as Synchro Material. You can banish this card and 1 or more face-up non-Tuners you control, then target 1 \"Blackwing\" Synchro Monster in your Graveyard whose Level equals the total Levels the banished monsters had on the field; Special Summon it, and if you do, it is treated as a Tuner.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":9929398,"pack_id":"TDIL-JP013","pack":"TDIL","rarity":"Blackwing - Gofu the Vague Shadow","date":1460160000000},"tcg":{"id":9929398,"pack_id":"TDIL-EN013","pack":"TDIL","rarity":"Blackwing - Gofu the Vague Shadow","date":1470268800000}}
+{
+    "id": 9929398,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 51,
+    "type": 4129,
+    "atk": 0,
+    "def": 0,
+    "level": 5,
+    "race": 512,
+    "attribute": 32,
+    "category": 0,
+    "name": "Blackwing - Gofu the Vague Shadow",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control no monsters. When this card is Special Summoned from the hand: You can Special Summon 2 \"Vague Shadow Tokens\" (Winged Beast-Type/DARK/Level 1/ATK 0/DEF 0), but they cannot be Tributed or be used as Synchro Material. You can banish this card and 1 or more face-up non-Tuners you control, then target 1 \"Blackwing\" Synchro Monster in your Graveyard whose Level equals the total Levels the banished monsters had on the field; Special Summon it, and if you do, it is treated as a Tuner.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 9929398,
+        "pack_id": "TDIL-JP013",
+        "pack": "TDIL",
+        "rarity": "Blackwing - Gofu the Vague Shadow",
+        "date": 1460160000000
+    },
+    "tcg": {
+        "id": 9929398,
+        "pack_id": "TDIL-EN013",
+        "pack": "TDIL",
+        "rarity": "Blackwing - Gofu the Vague Shadow",
+        "date": 1470268800000
+    }
+}

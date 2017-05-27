@@ -1,1 +1,47 @@
-{"id":45349196,"ot":3,"alias":0,"setcode":17039429,"type":97,"atk":3200,"def":2500,"level":9,"race":8192,"attribute":32,"category":0,"name":"Archfiend Black Skull Dragon","desc":"1 Level 6 \"Archfiend\" Normal Monster + 1 \"Red-Eyes\" Normal Monster\nYou can only Special Summon \"Archfiend Black Skull Dragon(s)\" once per turn. If this card battles, your opponent's cards and effects cannot be activated until the end of the Damage Step. If damage calculation is performed involving this Fusion Summoned card, at the end of the Battle Phase: You can target 1 \"Red-Eyes\" Normal Monster in your Graveyard; inflict damage to your opponent equal to its ATK in the Graveyard, then shuffle it into the Deck.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":45349196,"pack_id":"CORE-JP048","pack":"CORE","rarity":"Archfiend Black Skull Dragon","date":1429920000000},"tcg":{"id":45349196,"pack_id":"CORE-EN048","pack":"CORE","rarity":"Archfiend Black Skull Dragon","date":1438819200000}}
+{
+    "id": 45349196,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 17039429,
+    "type": 97,
+    "atk": 3200,
+    "def": 2500,
+    "level": 9,
+    "race": 8192,
+    "attribute": 32,
+    "category": 0,
+    "name": "Archfiend Black Skull Dragon",
+    "desc": "1 Level 6 \"Archfiend\" Normal Monster + 1 \"Red-Eyes\" Normal Monster\nYou can only Special Summon \"Archfiend Black Skull Dragon(s)\" once per turn. If this card battles, your opponent's cards and effects cannot be activated until the end of the Damage Step. If damage calculation is performed involving this Fusion Summoned card, at the end of the Battle Phase: You can target 1 \"Red-Eyes\" Normal Monster in your Graveyard; inflict damage to your opponent equal to its ATK in the Graveyard, then shuffle it into the Deck.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 45349196,
+        "pack_id": "CORE-JP048",
+        "pack": "CORE",
+        "rarity": "Archfiend Black Skull Dragon",
+        "date": 1429920000000
+    },
+    "tcg": {
+        "id": 45349196,
+        "pack_id": "CORE-EN048",
+        "pack": "CORE",
+        "rarity": "Archfiend Black Skull Dragon",
+        "date": 1438819200000
+    }
+}

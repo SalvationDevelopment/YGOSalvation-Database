@@ -1,1 +1,47 @@
-{"id":78663366,"ot":3,"alias":0,"setcode":10,"type":33,"atk":1650,"def":1050,"level":4,"race":4096,"attribute":32,"category":8196,"name":"Evilswarm Thunderbird","desc":"During either player's turn, when a card or effect is activated (except during the Damage Step): You can banish this card you control. During the next Standby Phase, return this card banished by this effect to the field, and if you do, it gains 300 ATK. You can only use the effect of \"Evilswarm Thunderbird\" once per turn.","str1":"Banish","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":78663366,"pack_id":"DTC3-JP103","pack":"DTC3","rarity":"Evilswarm Thunderbird","date":1352160000000},"tcg":{"id":78663366,"pack_id":"DT07-EN075","pack":"DT07","rarity":"Evilswarm Thunderbird","date":1359676800000}}
+{
+    "id": 78663366,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 10,
+    "type": 33,
+    "atk": 1650,
+    "def": 1050,
+    "level": 4,
+    "race": 4096,
+    "attribute": 32,
+    "category": 8196,
+    "name": "Evilswarm Thunderbird",
+    "desc": "During either player's turn, when a card or effect is activated (except during the Damage Step): You can banish this card you control. During the next Standby Phase, return this card banished by this effect to the field, and if you do, it gains 300 ATK. You can only use the effect of \"Evilswarm Thunderbird\" once per turn.",
+    "str1": "Banish",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 78663366,
+        "pack_id": "DTC3-JP103",
+        "pack": "DTC3",
+        "rarity": "Evilswarm Thunderbird",
+        "date": 1352160000000
+    },
+    "tcg": {
+        "id": 78663366,
+        "pack_id": "DT07-EN075",
+        "pack": "DT07",
+        "rarity": "Evilswarm Thunderbird",
+        "date": 1359676800000
+    }
+}

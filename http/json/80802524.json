@@ -1,1 +1,47 @@
-{"id":80802524,"ot":3,"alias":0,"setcode":141,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Ghostrick Break","desc":"When exactly 1 face-up \"Ghostrick\" monster you control (and no other cards) is destroyed by battle or an opponent's card effect and sent to your Graveyard: Target 2 \"Ghostrick\" monsters in your Graveyard with different names from the destroyed monster; Special Summon them in face-down Defense Position.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":80802524,"pack_id":"EP14-JP050","pack":"EP14","rarity":"Ghostrick Break","date":1410566400000},"tcg":{"id":80802524,"pack_id":"WSUP-EN043","pack":"WSUP","rarity":"Ghostrick Break","date":1429142400000}}
+{
+    "id": 80802524,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 141,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Ghostrick Break",
+    "desc": "When exactly 1 face-up \"Ghostrick\" monster you control (and no other cards) is destroyed by battle or an opponent's card effect and sent to your Graveyard: Target 2 \"Ghostrick\" monsters in your Graveyard with different names from the destroyed monster; Special Summon them in face-down Defense Position.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 80802524,
+        "pack_id": "EP14-JP050",
+        "pack": "EP14",
+        "rarity": "Ghostrick Break",
+        "date": 1410566400000
+    },
+    "tcg": {
+        "id": 80802524,
+        "pack_id": "WSUP-EN043",
+        "pack": "WSUP",
+        "rarity": "Ghostrick Break",
+        "date": 1429142400000
+    }
+}

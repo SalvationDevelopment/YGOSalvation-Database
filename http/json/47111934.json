@@ -1,1 +1,47 @@
-{"id":47111934,"ot":3,"alias":0,"setcode":62,"type":33,"atk":1000,"def":1800,"level":4,"race":524288,"attribute":16,"category":262164,"name":"Worm Yagan","desc":"If the only monster you control is \"Worm Xex\", you can Special Summon this card from your Graveyard in face-down Defense Position. If you do, remove it from play when it is removed from the field. When this card is flipped face-up, select 1 face-up monster your opponent controls, and return it to it's owner's hand.","str1":"Special Summon","str2":"Return to hand","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":47111934,"pack_id":"DT06-JP033","pack":"DT06","rarity":"Worm Yagan","date":1246406400000},"tcg":{"id":47111934,"pack_id":"DT03-EN083","pack":"DT03","rarity":"Worm Yagan","date":1285372800000}}
+{
+    "id": 47111934,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 62,
+    "type": 33,
+    "atk": 1000,
+    "def": 1800,
+    "level": 4,
+    "race": 524288,
+    "attribute": 16,
+    "category": 262164,
+    "name": "Worm Yagan",
+    "desc": "If the only monster you control is \"Worm Xex\", you can Special Summon this card from your Graveyard in face-down Defense Position. If you do, remove it from play when it is removed from the field. When this card is flipped face-up, select 1 face-up monster your opponent controls, and return it to it's owner's hand.",
+    "str1": "Special Summon",
+    "str2": "Return to hand",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 47111934,
+        "pack_id": "DT06-JP033",
+        "pack": "DT06",
+        "rarity": "Worm Yagan",
+        "date": 1246406400000
+    },
+    "tcg": {
+        "id": 47111934,
+        "pack_id": "DT03-EN083",
+        "pack": "DT03",
+        "rarity": "Worm Yagan",
+        "date": 1285372800000
+    }
+}

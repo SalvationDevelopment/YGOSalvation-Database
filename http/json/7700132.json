@@ -1,1 +1,47 @@
-{"id":7700132,"ot":3,"alias":0,"setcode":62,"type":2097185,"atk":1500,"def":2400,"level":6,"race":524288,"attribute":16,"category":4194304,"name":"Worm Noble","desc":"FLIP: If this card is flipped face-up by an opponent's monster's attack, inflict damage to your opponent equal to half the attacking monster's ATK.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":7700132,"pack_id":"DT03-JP031","pack":"デュエルターミナル 「反撃のジャスティス！！」","rarity":"レア仕様","date":1222056000000},"tcg":{"id":7700132,"pack_id":"DT02-EN031","pack":"DT02","rarity":"Worm Noble","date":1274745600000}}
+{
+    "id": 7700132,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 62,
+    "type": 2097185,
+    "atk": 1500,
+    "def": 2400,
+    "level": 6,
+    "race": 524288,
+    "attribute": 16,
+    "category": 4194304,
+    "name": "Worm Noble",
+    "desc": "FLIP: If this card is flipped face-up by an opponent's monster's attack, inflict damage to your opponent equal to half the attacking monster's ATK.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 7700132,
+        "pack_id": "DT03-JP031",
+        "pack": "デュエルターミナル 「反撃のジャスティス！！」",
+        "rarity": "レア仕様",
+        "date": 1222056000000
+    },
+    "tcg": {
+        "id": 7700132,
+        "pack_id": "DT02-EN031",
+        "pack": "DT02",
+        "rarity": "Worm Noble",
+        "date": 1274745600000
+    }
+}

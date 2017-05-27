@@ -1,1 +1,47 @@
-{"id":7892180,"ot":3,"alias":0,"setcode":0,"type":17,"atk":400,"def":1000,"level":2,"race":64,"attribute":2,"category":0,"name":"Psychic Kappa","desc":"An amphibian with a myriad of powers to shield it from enemy attacks.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":7892180,"pack_id":"PS-02","pack":"PS","rarity":"Psychic Kappa","date":963446400000},"tcg":{"id":7892180,"pack_id":"MRL-053","pack":"MRL","rarity":"Psychic Kappa","date":1032134400000}}
+{
+    "id": 7892180,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 400,
+    "def": 1000,
+    "level": 2,
+    "race": 64,
+    "attribute": 2,
+    "category": 0,
+    "name": "Psychic Kappa",
+    "desc": "An amphibian with a myriad of powers to shield it from enemy attacks.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 7892180,
+        "pack_id": "PS-02",
+        "pack": "PS",
+        "rarity": "Psychic Kappa",
+        "date": 963446400000
+    },
+    "tcg": {
+        "id": 7892180,
+        "pack_id": "MRL-053",
+        "pack": "MRL",
+        "rarity": "Psychic Kappa",
+        "date": 1032134400000
+    }
+}

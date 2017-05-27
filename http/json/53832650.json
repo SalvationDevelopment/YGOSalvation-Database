@@ -1,1 +1,47 @@
-{"id":53832650,"ot":3,"alias":0,"setcode":0,"type":17,"atk":700,"def":600,"level":2,"race":16384,"attribute":1,"category":0,"name":"Meotoko","desc":"Dis big ol' guy wit' a big ol' eye shoots a nasty ray beam right atcha!","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":53832650,"pack_id":null,"pack":"Vol.1","rarity":"共通","date":918104400000},"tcg":{"id":53832650,"pack_id":"LCJW-EN013","pack":"LCJW","rarity":"Meotoko","date":1381449600000}}
+{
+    "id": 53832650,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 700,
+    "def": 600,
+    "level": 2,
+    "race": 16384,
+    "attribute": 1,
+    "category": 0,
+    "name": "Meotoko",
+    "desc": "Dis big ol' guy wit' a big ol' eye shoots a nasty ray beam right atcha!",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 53832650,
+        "pack_id": null,
+        "pack": "Vol.1",
+        "rarity": "共通",
+        "date": 918104400000
+    },
+    "tcg": {
+        "id": 53832650,
+        "pack_id": "LCJW-EN013",
+        "pack": "LCJW",
+        "rarity": "Meotoko",
+        "date": 1381449600000
+    }
+}

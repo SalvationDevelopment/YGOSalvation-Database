@@ -1,1 +1,47 @@
-{"id":74069667,"ot":3,"alias":0,"setcode":279904431,"type":16777249,"atk":2200,"def":3000,"level":84213768,"race":8,"attribute":32,"category":0,"name":"D/D/D Oblivion King Abyss Ragnarok","desc":"Pendulum Effect\nIf you Special Summon a \"D/D\" monster(s), except during the Damage Step: You can target 1 \"D/D\" monster in your Graveyard; any battle damage your opponent takes becomes halved for the rest of this turn, also Special Summon that monster, and if you do, take 1000 damage. You can only use this effect of \"D/D/D Oblivion King Abyss Ragnarok\" once per turn.\n\nMonster Effect\nIf this card is Normal or Special Summoned: You can target 1 \"D/D/D\" monster in your Graveyard; Special Summon it. You can only use this effect of \"D/D/D Oblivion King Abyss Ragnarok\" once per turn. Once per turn: You can Tribute 1 other \"D/D\" monster, then target 1 monster your opponent controls; banish it.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":74069667,"pack_id":"VP14-JPA02","pack":"VP14","rarity":"D/D/D Oblivion King Abyss Ragnarok","date":1417132800000},"tcg":{"id":74069667,"pack_id":"DOCS-EN099","pack":"DOCS","rarity":"D/D/D Oblivion King Abyss Ragnarok","date":1446681600000}}
+{
+    "id": 74069667,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 279904431,
+    "type": 16777249,
+    "atk": 2200,
+    "def": 3000,
+    "level": 84213768,
+    "race": 8,
+    "attribute": 32,
+    "category": 0,
+    "name": "D/D/D Oblivion King Abyss Ragnarok",
+    "desc": "Pendulum Effect\nIf you Special Summon a \"D/D\" monster(s), except during the Damage Step: You can target 1 \"D/D\" monster in your Graveyard; any battle damage your opponent takes becomes halved for the rest of this turn, also Special Summon that monster, and if you do, take 1000 damage. You can only use this effect of \"D/D/D Oblivion King Abyss Ragnarok\" once per turn.\n\nMonster Effect\nIf this card is Normal or Special Summoned: You can target 1 \"D/D/D\" monster in your Graveyard; Special Summon it. You can only use this effect of \"D/D/D Oblivion King Abyss Ragnarok\" once per turn. Once per turn: You can Tribute 1 other \"D/D\" monster, then target 1 monster your opponent controls; banish it.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 74069667,
+        "pack_id": "VP14-JPA02",
+        "pack": "VP14",
+        "rarity": "D/D/D Oblivion King Abyss Ragnarok",
+        "date": 1417132800000
+    },
+    "tcg": {
+        "id": 74069667,
+        "pack_id": "DOCS-EN099",
+        "pack": "DOCS",
+        "rarity": "D/D/D Oblivion King Abyss Ragnarok",
+        "date": 1446681600000
+    }
+}

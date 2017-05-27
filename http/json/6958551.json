@@ -1,1 +1,47 @@
-{"id":6958551,"ot":3,"alias":0,"setcode":98,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Shadow Toon","desc":"If you control \"Toon World\": Target 1 face-up monster your opponent controls; inflict damage to your opponent equal to the ATK of that face-up monster. You can only activate 1 \"Shadow Toon\" per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":6958551,"pack_id":"CPD1-JP025","pack":"CPD1","rarity":"Shadow Toon","date":1431734400000},"tcg":{"id":6958551,"pack_id":"DRL2-EN025","pack":"DRL2","rarity":"Shadow Toon","date":1437004800000}}
+{
+    "id": 6958551,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 98,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Shadow Toon",
+    "desc": "If you control \"Toon World\": Target 1 face-up monster your opponent controls; inflict damage to your opponent equal to the ATK of that face-up monster. You can only activate 1 \"Shadow Toon\" per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 6958551,
+        "pack_id": "CPD1-JP025",
+        "pack": "CPD1",
+        "rarity": "Shadow Toon",
+        "date": 1431734400000
+    },
+    "tcg": {
+        "id": 6958551,
+        "pack_id": "DRL2-EN025",
+        "pack": "DRL2",
+        "rarity": "Shadow Toon",
+        "date": 1437004800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":52971673,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":3,"name":"Token Sundae","desc":"Destroy all Tokens you control, then destroy cards on the field, up to the number of Tokens destroyed by this effect.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":52971673,"pack_id":"STOR-JP057","pack":"STOR","rarity":"Token Sundae","date":1289606400000},"tcg":{"id":52971673,"pack_id":"STOR-EN057","pack":"STOR","rarity":"Token Sundae","date":1297123200000}}
+{
+    "id": 52971673,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 3,
+    "name": "Token Sundae",
+    "desc": "Destroy all Tokens you control, then destroy cards on the field, up to the number of Tokens destroyed by this effect.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 52971673,
+        "pack_id": "STOR-JP057",
+        "pack": "STOR",
+        "rarity": "Token Sundae",
+        "date": 1289606400000
+    },
+    "tcg": {
+        "id": 52971673,
+        "pack_id": "STOR-EN057",
+        "pack": "STOR",
+        "rarity": "Token Sundae",
+        "date": 1297123200000
+    }
+}

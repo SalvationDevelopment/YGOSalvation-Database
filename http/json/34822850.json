@@ -1,1 +1,47 @@
-{"id":34822850,"ot":3,"alias":0,"setcode":197,"type":524290,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Void Expansion","desc":"During your Standby Phase: You can Special Summon 1 \"Infernoid Token\" (Fiend-Type/FIRE/Level 1/ATK 0/DEF 0). To Special Summon an \"Infernoid\" monster using its own procedure, you can banish \"Infernoid\" monster(s) you control instead of those in the Graveyard (or any combination of both). Your opponent cannot target \"Infernoid\" monsters you control for attacks or with card effects, except the \"Infernoid\" monster you control with the highest Level (either, if tied).","str1":"Special Summon 1 \"Infernoid Token\"","str2":"Banish \"Infernoid\" monsters you control","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":34822850,"pack_id":"SECE-JP058","pack":"SECE","rarity":"Void Expansion","date":1416009600000},"tcg":{"id":34822850,"pack_id":"SECE-EN058","pack":"SECE","rarity":"Void Expansion","date":1421280000000}}
+{
+    "id": 34822850,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 197,
+    "type": 524290,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Void Expansion",
+    "desc": "During your Standby Phase: You can Special Summon 1 \"Infernoid Token\" (Fiend-Type/FIRE/Level 1/ATK 0/DEF 0). To Special Summon an \"Infernoid\" monster using its own procedure, you can banish \"Infernoid\" monster(s) you control instead of those in the Graveyard (or any combination of both). Your opponent cannot target \"Infernoid\" monsters you control for attacks or with card effects, except the \"Infernoid\" monster you control with the highest Level (either, if tied).",
+    "str1": "Special Summon 1 \"Infernoid Token\"",
+    "str2": "Banish \"Infernoid\" monsters you control",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 34822850,
+        "pack_id": "SECE-JP058",
+        "pack": "SECE",
+        "rarity": "Void Expansion",
+        "date": 1416009600000
+    },
+    "tcg": {
+        "id": 34822850,
+        "pack_id": "SECE-EN058",
+        "pack": "SECE",
+        "rarity": "Void Expansion",
+        "date": 1421280000000
+    }
+}

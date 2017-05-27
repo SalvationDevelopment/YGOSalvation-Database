@@ -1,1 +1,47 @@
-{"id":85346853,"ot":3,"alias":0,"setcode":85,"type":161,"atk":1900,"def":800,"level":4,"race":1,"attribute":16,"category":0,"name":"Paladin of Photon Dragon","desc":"You can Ritual Summon this card with \"Luminous Dragon Ritual\". You can Tribute this card; Special Summon 1 \"Galaxy-Eyes Photon Dragon\" from your hand or Deck. When this card destroys an opponent's monster by battle and sends it to the Graveyard: Draw 1 card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":85346853,"pack_id":"LVAL-JP045","pack":"LVAL","rarity":"Paladin of Photon Dragon","date":1384560000000},"tcg":{"id":85346853,"pack_id":"LVAL-EN045","pack":"LVAL","rarity":"Paladin of Photon Dragon","date":1390521600000}}
+{
+    "id": 85346853,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 85,
+    "type": 161,
+    "atk": 1900,
+    "def": 800,
+    "level": 4,
+    "race": 1,
+    "attribute": 16,
+    "category": 0,
+    "name": "Paladin of Photon Dragon",
+    "desc": "You can Ritual Summon this card with \"Luminous Dragon Ritual\". You can Tribute this card; Special Summon 1 \"Galaxy-Eyes Photon Dragon\" from your hand or Deck. When this card destroys an opponent's monster by battle and sends it to the Graveyard: Draw 1 card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 85346853,
+        "pack_id": "LVAL-JP045",
+        "pack": "LVAL",
+        "rarity": "Paladin of Photon Dragon",
+        "date": 1384560000000
+    },
+    "tcg": {
+        "id": 85346853,
+        "pack_id": "LVAL-EN045",
+        "pack": "LVAL",
+        "rarity": "Paladin of Photon Dragon",
+        "date": 1390521600000
+    }
+}

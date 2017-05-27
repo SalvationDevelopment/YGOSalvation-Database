@@ -1,1 +1,47 @@
-{"id":19814508,"ot":3,"alias":0,"setcode":178,"type":524290,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"U.A. Stadium","desc":"If a \"U.A.\" monster is Normal Summoned to your side of the field: You can add 1 \"U.A.\" monster from your Deck to your hand. Once per turn, if a \"U.A.\" monster(s) is Special Summoned to your side of the field: All monsters you currently control gain 500 ATK (even if this card leaves the field).","str1":" Add 1 \"U.A.\" monster from your Deck to your hand","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":19814508,"pack_id":"EP15-JP028","pack":"EP15","rarity":"U.A. Stadium","date":1442620800000},"tcg":{"id":19814508,"pack_id":"DUEA-EN089","pack":"DUEA","rarity":"U.A. Stadium","date":1407974400000}}
+{
+    "id": 19814508,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 178,
+    "type": 524290,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "U.A. Stadium",
+    "desc": "If a \"U.A.\" monster is Normal Summoned to your side of the field: You can add 1 \"U.A.\" monster from your Deck to your hand. Once per turn, if a \"U.A.\" monster(s) is Special Summoned to your side of the field: All monsters you currently control gain 500 ATK (even if this card leaves the field).",
+    "str1": " Add 1 \"U.A.\" monster from your Deck to your hand",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 19814508,
+        "pack_id": "EP15-JP028",
+        "pack": "EP15",
+        "rarity": "U.A. Stadium",
+        "date": 1442620800000
+    },
+    "tcg": {
+        "id": 19814508,
+        "pack_id": "DUEA-EN089",
+        "pack": "DUEA",
+        "rarity": "U.A. Stadium",
+        "date": 1407974400000
+    }
+}

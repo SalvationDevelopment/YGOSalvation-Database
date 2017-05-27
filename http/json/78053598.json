@@ -1,1 +1,47 @@
-{"id":78053598,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Dark Designator","desc":"Declare 1 Monster Card name. If the declared card is in your opponent's Deck, add 1 of that card to your opponent's hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":78053598,"pack_id":"301-027","pack":"301","rarity":"Dark Designator","date":1021507200000},"tcg":{"id":78053598,"pack_id":"PGD-079","pack":"PGD","rarity":"Dark Designator","date":1058486400000}}
+{
+    "id": 78053598,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Dark Designator",
+    "desc": "Declare 1 Monster Card name. If the declared card is in your opponent's Deck, add 1 of that card to your opponent's hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 78053598,
+        "pack_id": "301-027",
+        "pack": "301",
+        "rarity": "Dark Designator",
+        "date": 1021507200000
+    },
+    "tcg": {
+        "id": 78053598,
+        "pack_id": "PGD-079",
+        "pack": "PGD",
+        "rarity": "Dark Designator",
+        "date": 1058486400000
+    }
+}

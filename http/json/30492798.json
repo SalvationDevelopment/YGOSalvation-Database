@@ -1,1 +1,47 @@
-{"id":30492798,"ot":3,"alias":0,"setcode":24685,"type":33,"atk":200,"def":200,"level":1,"race":8,"attribute":32,"category":33554432,"name":"Djinn Disserere of Rituals","desc":"When you Ritual Summon a monster, you can banish this card from your Graveyard as 1 of the monsters required for the Ritual Summon. The monster Ritual Summoned using this card is unaffected by Trap effects.","str1":"This card is not affected by Trap Cards.","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":30492798,"pack_id":"EXP3-JP038","pack":"EXP3","rarity":"Djinn Disserere of Rituals","date":1284768000000},"tcg":{"id":30492798,"pack_id":"ABPF-EN087","pack":"ABPF","rarity":"Djinn Disserere of Rituals","date":1265932800000}}
+{
+    "id": 30492798,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 24685,
+    "type": 33,
+    "atk": 200,
+    "def": 200,
+    "level": 1,
+    "race": 8,
+    "attribute": 32,
+    "category": 33554432,
+    "name": "Djinn Disserere of Rituals",
+    "desc": "When you Ritual Summon a monster, you can banish this card from your Graveyard as 1 of the monsters required for the Ritual Summon. The monster Ritual Summoned using this card is unaffected by Trap effects.",
+    "str1": "This card is not affected by Trap Cards.",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 30492798,
+        "pack_id": "EXP3-JP038",
+        "pack": "EXP3",
+        "rarity": "Djinn Disserere of Rituals",
+        "date": 1284768000000
+    },
+    "tcg": {
+        "id": 30492798,
+        "pack_id": "ABPF-EN087",
+        "pack": "ABPF",
+        "rarity": "Djinn Disserere of Rituals",
+        "date": 1265932800000
+    }
+}

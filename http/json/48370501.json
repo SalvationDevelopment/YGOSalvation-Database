@@ -1,1 +1,47 @@
-{"id":48370501,"ot":3,"alias":0,"setcode":48,"type":8225,"atk":1800,"def":1000,"level":7,"race":4,"attribute":16,"category":66048,"name":"Vylon Sigma","desc":"1 LIGHT Tuner + 1 or more non-Tuner LIGHT monsters\nWhen this card declares an attack, if it is the only monster you control: You can equip 1 Equip Spell Card from your Deck to this face-up card.","str1":"Equip","str2":"Please select equip Spell Card","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":48370501,"pack_id":"DT09-JP039","pack":"DT09","rarity":"Vylon Sigma","date":1338768000000},"tcg":{"id":48370501,"pack_id":"DT05-EN039","pack":"DT05","rarity":"Vylon Sigma","date":1306627200000}}
+{
+    "id": 48370501,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 48,
+    "type": 8225,
+    "atk": 1800,
+    "def": 1000,
+    "level": 7,
+    "race": 4,
+    "attribute": 16,
+    "category": 66048,
+    "name": "Vylon Sigma",
+    "desc": "1 LIGHT Tuner + 1 or more non-Tuner LIGHT monsters\nWhen this card declares an attack, if it is the only monster you control: You can equip 1 Equip Spell Card from your Deck to this face-up card.",
+    "str1": "Equip",
+    "str2": "Please select equip Spell Card",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 48370501,
+        "pack_id": "DT09-JP039",
+        "pack": "DT09",
+        "rarity": "Vylon Sigma",
+        "date": 1338768000000
+    },
+    "tcg": {
+        "id": 48370501,
+        "pack_id": "DT05-EN039",
+        "pack": "DT05",
+        "rarity": "Vylon Sigma",
+        "date": 1306627200000
+    }
+}

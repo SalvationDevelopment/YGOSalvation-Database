@@ -1,1 +1,47 @@
-{"id":47961808,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1000,"def":1000,"level":4,"race":128,"attribute":4,"category":2097152,"name":"Barrier Statue of the Inferno","desc":"Neither player can Special Summon monsters, except FIRE monsters.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":47961808,"pack_id":"CDIP-JP020","pack":"CDIP","rarity":"Barrier Statue of the Inferno","date":1155168000000},"tcg":{"id":47961808,"pack_id":"CDIP-EN020","pack":"CDIP","rarity":"Barrier Statue of the Inferno","date":1163548800000}}
+{
+    "id": 47961808,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1000,
+    "def": 1000,
+    "level": 4,
+    "race": 128,
+    "attribute": 4,
+    "category": 2097152,
+    "name": "Barrier Statue of the Inferno",
+    "desc": "Neither player can Special Summon monsters, except FIRE monsters.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 47961808,
+        "pack_id": "CDIP-JP020",
+        "pack": "CDIP",
+        "rarity": "Barrier Statue of the Inferno",
+        "date": 1155168000000
+    },
+    "tcg": {
+        "id": 47961808,
+        "pack_id": "CDIP-EN020",
+        "pack": "CDIP",
+        "rarity": "Barrier Statue of the Inferno",
+        "date": 1163548800000
+    }
+}

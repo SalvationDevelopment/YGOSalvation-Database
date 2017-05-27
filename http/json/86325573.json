@@ -1,1 +1,47 @@
-{"id":86325573,"ot":3,"alias":0,"setcode":132,"type":33,"atk":1100,"def":1400,"level":2,"race":1,"attribute":4,"category":0,"name":"Battlin' Boxer Big Bandage","desc":"Once per turn, this card cannot be destroyed by battle. Once per turn: You can target 1 \"Battlin' Boxer\" monster in your Graveyard, or 1 of your banished \"Battlin' Boxer\" monsters, that has a Level; all \"Battlin' Boxer\" monsters you currently control become that monster's current Level.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":86325573,"pack_id":"PRIO-JP008","pack":"PRIO","rarity":"Battlin' Boxer Big Bandage","date":1392422400000},"tcg":{"id":86325573,"pack_id":"PRIO-EN008","pack":"PRIO","rarity":"Battlin' Boxer Big Bandage","date":1400198400000}}
+{
+    "id": 86325573,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 132,
+    "type": 33,
+    "atk": 1100,
+    "def": 1400,
+    "level": 2,
+    "race": 1,
+    "attribute": 4,
+    "category": 0,
+    "name": "Battlin' Boxer Big Bandage",
+    "desc": "Once per turn, this card cannot be destroyed by battle. Once per turn: You can target 1 \"Battlin' Boxer\" monster in your Graveyard, or 1 of your banished \"Battlin' Boxer\" monsters, that has a Level; all \"Battlin' Boxer\" monsters you currently control become that monster's current Level.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 86325573,
+        "pack_id": "PRIO-JP008",
+        "pack": "PRIO",
+        "rarity": "Battlin' Boxer Big Bandage",
+        "date": 1392422400000
+    },
+    "tcg": {
+        "id": 86325573,
+        "pack_id": "PRIO-EN008",
+        "pack": "PRIO",
+        "rarity": "Battlin' Boxer Big Bandage",
+        "date": 1400198400000
+    }
+}

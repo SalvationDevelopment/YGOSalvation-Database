@@ -1,1 +1,47 @@
-{"id":56094445,"ot":3,"alias":0,"setcode":7,"type":33,"atk":1300,"def":1300,"level":4,"race":32,"attribute":1,"category":0,"name":"Ancient Gear Soldier","desc":"If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":56094445,"pack_id":"TLM-JP008","pack":"TLM","rarity":"Ancient Gear Soldier","date":1134000000000},"tcg":{"id":56094445,"pack_id":"TLM-EN008","pack":"TLM","rarity":"Ancient Gear Soldier","date":1117238400000}}
+{
+    "id": 56094445,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 7,
+    "type": 33,
+    "atk": 1300,
+    "def": 1300,
+    "level": 4,
+    "race": 32,
+    "attribute": 1,
+    "category": 0,
+    "name": "Ancient Gear Soldier",
+    "desc": "If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 56094445,
+        "pack_id": "TLM-JP008",
+        "pack": "TLM",
+        "rarity": "Ancient Gear Soldier",
+        "date": 1134000000000
+    },
+    "tcg": {
+        "id": 56094445,
+        "pack_id": "TLM-EN008",
+        "pack": "TLM",
+        "rarity": "Ancient Gear Soldier",
+        "date": 1117238400000
+    }
+}

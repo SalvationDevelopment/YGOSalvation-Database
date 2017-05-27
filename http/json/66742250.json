@@ -1,1 +1,47 @@
-{"id":66742250,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":10240,"name":"Curse of Anubis","desc":"Change all Effect Monsters on the field to Defense Position. Until the end of this turn, the original DEF of those monsters becomes 0, also their battle positions cannot be changed.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":66742250,"pack_id":"309-050","pack":"309","rarity":"Curse of Anubis","date":1077753600000},"tcg":{"id":66742250,"pack_id":"AST-105","pack":"AST","rarity":"Curse of Anubis","date":1086048000000}}
+{
+    "id": 66742250,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 10240,
+    "name": "Curse of Anubis",
+    "desc": "Change all Effect Monsters on the field to Defense Position. Until the end of this turn, the original DEF of those monsters becomes 0, also their battle positions cannot be changed.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 66742250,
+        "pack_id": "309-050",
+        "pack": "309",
+        "rarity": "Curse of Anubis",
+        "date": 1077753600000
+    },
+    "tcg": {
+        "id": 66742250,
+        "pack_id": "AST-105",
+        "pack": "AST",
+        "rarity": "Curse of Anubis",
+        "date": 1086048000000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":83274244,"ot":3,"alias":0,"setcode":130,"type":33,"atk":2300,"def":900,"level":6,"race":1,"attribute":1,"category":8192,"name":"Dododo Warrior","desc":"You can Normal Summon this card without Tributing, but its original ATK becomes 1800. If this card attacks, negate all card effects that activate in the opponent's Graveyard, until the end of the Damage Step.","str1":"Normal Summon without Tributes","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":83274244,"pack_id":"DP12-JP011","pack":"DP12","rarity":"Dododo Warrior","date":1318636800000},"tcg":{"id":83274244,"pack_id":"ZTIN-EN001","pack":"ZTIN","rarity":"Dododo Warrior","date":1362614400000}}
+{
+    "id": 83274244,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 130,
+    "type": 33,
+    "atk": 2300,
+    "def": 900,
+    "level": 6,
+    "race": 1,
+    "attribute": 1,
+    "category": 8192,
+    "name": "Dododo Warrior",
+    "desc": "You can Normal Summon this card without Tributing, but its original ATK becomes 1800. If this card attacks, negate all card effects that activate in the opponent's Graveyard, until the end of the Damage Step.",
+    "str1": "Normal Summon without Tributes",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 83274244,
+        "pack_id": "DP12-JP011",
+        "pack": "DP12",
+        "rarity": "Dododo Warrior",
+        "date": 1318636800000
+    },
+    "tcg": {
+        "id": 83274244,
+        "pack_id": "ZTIN-EN001",
+        "pack": "ZTIN",
+        "rarity": "Dododo Warrior",
+        "date": 1362614400000
+    }
+}

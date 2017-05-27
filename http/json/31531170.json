@@ -1,1 +1,47 @@
-{"id":31531170,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Harmonic Oscillation","desc":"If your opponent has 2 cards in their Pendulum Zones: Target those 2 cards; while both targets are in their Pendulum Zones, you can Pendulum Summon using their Pendulum Scales this turn, but only from the Extra Deck.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":31531170,"pack_id":"CROS-JP063","pack":"CROS","rarity":"Harmonic Oscillation","date":1423872000000},"tcg":{"id":31531170,"pack_id":"CROS-EN063","pack":"CROS","rarity":"Harmonic Oscillation","date":1431561600000}}
+{
+    "id": 31531170,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Harmonic Oscillation",
+    "desc": "If your opponent has 2 cards in their Pendulum Zones: Target those 2 cards; while both targets are in their Pendulum Zones, you can Pendulum Summon using their Pendulum Scales this turn, but only from the Extra Deck.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 31531170,
+        "pack_id": "CROS-JP063",
+        "pack": "CROS",
+        "rarity": "Harmonic Oscillation",
+        "date": 1423872000000
+    },
+    "tcg": {
+        "id": 31531170,
+        "pack_id": "CROS-EN063",
+        "pack": "CROS",
+        "rarity": "Harmonic Oscillation",
+        "date": 1431561600000
+    }
+}

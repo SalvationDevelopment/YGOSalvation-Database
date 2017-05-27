@@ -1,1 +1,47 @@
-{"id":68638985,"ot":3,"alias":0,"setcode":0,"type":17,"atk":700,"def":500,"level":2,"race":64,"attribute":2,"category":0,"name":"Slime Toad","desc":"A slime with the head of a frog, it attacks by croaking terribly.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":68638985,"pack_id":"TP05-JP005","pack":"TP05","rarity":"Slime Toad","date":935625600000},"tcg":{"id":68638985,"pack_id":"MP1-004","pack":"MP1","rarity":"Slime Toad","date":1040342400000}}
+{
+    "id": 68638985,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 700,
+    "def": 500,
+    "level": 2,
+    "race": 64,
+    "attribute": 2,
+    "category": 0,
+    "name": "Slime Toad",
+    "desc": "A slime with the head of a frog, it attacks by croaking terribly.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 68638985,
+        "pack_id": "TP05-JP005",
+        "pack": "TP05",
+        "rarity": "Slime Toad",
+        "date": 935625600000
+    },
+    "tcg": {
+        "id": 68638985,
+        "pack_id": "MP1-004",
+        "pack": "MP1",
+        "rarity": "Slime Toad",
+        "date": 1040342400000
+    }
+}

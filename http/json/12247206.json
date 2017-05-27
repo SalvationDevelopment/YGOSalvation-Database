@@ -1,1 +1,47 @@
-{"id":12247206,"ot":3,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":263680,"name":"Inferno Reckless Summon","desc":"When exactly 1 monster with 1500 or less ATK is Special Summoned to your field while your opponent controls a face-up monster: Special Summon as many monsters as possible with the same name as the Summoned monster, from your hand, Deck, and Graveyard, in Attack Position, also your opponent Special Summons as many monsters as possible with the same name as 1 of their face-up monsters, from their hand, Deck, and Graveyard.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":12247206,"pack_id":"DP2-JP025","pack":"DP2","rarity":"Inferno Reckless Summon","date":1129766400000},"tcg":{"id":12247206,"pack_id":"DP2-EN025","pack":"DP2","rarity":"Inferno Reckless Summon","date":1139356800000}}
+{
+    "id": 12247206,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 263680,
+    "name": "Inferno Reckless Summon",
+    "desc": "When exactly 1 monster with 1500 or less ATK is Special Summoned to your field while your opponent controls a face-up monster: Special Summon as many monsters as possible with the same name as the Summoned monster, from your hand, Deck, and Graveyard, in Attack Position, also your opponent Special Summons as many monsters as possible with the same name as 1 of their face-up monsters, from their hand, Deck, and Graveyard.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 12247206,
+        "pack_id": "DP2-JP025",
+        "pack": "DP2",
+        "rarity": "Inferno Reckless Summon",
+        "date": 1129766400000
+    },
+    "tcg": {
+        "id": 12247206,
+        "pack_id": "DP2-EN025",
+        "pack": "DP2",
+        "rarity": "Inferno Reckless Summon",
+        "date": 1139356800000
+    }
+}

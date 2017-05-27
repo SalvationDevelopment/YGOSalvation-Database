@@ -1,1 +1,47 @@
-{"id":40172183,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Narrow Pass","desc":"This card can only be activated when both players have 2 monsters or less on their respective sides of the field. Both players can only Normal Summon up to 2 additional monsters on their sides of the field.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":40172183,"pack_id":"301-045","pack":"301","rarity":"Narrow Pass","date":1021507200000},"tcg":{"id":40172183,"pack_id":"DR1-EN045","pack":"DR1","rarity":"Narrow Pass","date":1111190400000}}
+{
+    "id": 40172183,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Narrow Pass",
+    "desc": "This card can only be activated when both players have 2 monsters or less on their respective sides of the field. Both players can only Normal Summon up to 2 additional monsters on their sides of the field.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 40172183,
+        "pack_id": "301-045",
+        "pack": "301",
+        "rarity": "Narrow Pass",
+        "date": 1021507200000
+    },
+    "tcg": {
+        "id": 40172183,
+        "pack_id": "DR1-EN045",
+        "pack": "DR1",
+        "rarity": "Narrow Pass",
+        "date": 1111190400000
+    }
+}

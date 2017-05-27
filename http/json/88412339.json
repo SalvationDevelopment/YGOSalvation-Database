@@ -1,1 +1,47 @@
-{"id":88412339,"ot":3,"alias":0,"setcode":283902188,"type":16777249,"atk":100,"def":100,"level":50528257,"race":8,"attribute":32,"category":0,"name":"Abyss Actor - Extras","desc":"Pendulum Effect\nIf your opponent controls a monster: You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Abyss Actor - Extras\" once per turn.\n\nMonster Effect\nYou can Tribute this card; place 1 \"Abyss Actor\" Pendulum Monster from your Deck in your Pendulum Zone, also for the rest of this turn, you cannot Special Summon monsters, except \"Abyss Actor\" monsters, nor activate the Pendulum Effect of \"Abyss Actor - Extras\". You can only use this effect of \"Abyss Actor - Extras\" once per turn.","str1":"Special Summon","str2":"Set Pendulum","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":88412339,"pack_id":"SPDS-JP020","pack":"SPDS","rarity":"Abyss Actor - Extras","date":1470441600000},"tcg":{"id":88412339,"pack_id":"DESO-EN020","pack":"DESO","rarity":"Abyss Actor - Extras","date":1479340800000}}
+{
+    "id": 88412339,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 283902188,
+    "type": 16777249,
+    "atk": 100,
+    "def": 100,
+    "level": 50528257,
+    "race": 8,
+    "attribute": 32,
+    "category": 0,
+    "name": "Abyss Actor - Extras",
+    "desc": "Pendulum Effect\nIf your opponent controls a monster: You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Abyss Actor - Extras\" once per turn.\n\nMonster Effect\nYou can Tribute this card; place 1 \"Abyss Actor\" Pendulum Monster from your Deck in your Pendulum Zone, also for the rest of this turn, you cannot Special Summon monsters, except \"Abyss Actor\" monsters, nor activate the Pendulum Effect of \"Abyss Actor - Extras\". You can only use this effect of \"Abyss Actor - Extras\" once per turn.",
+    "str1": "Special Summon",
+    "str2": "Set Pendulum",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 88412339,
+        "pack_id": "SPDS-JP020",
+        "pack": "SPDS",
+        "rarity": "Abyss Actor - Extras",
+        "date": 1470441600000
+    },
+    "tcg": {
+        "id": 88412339,
+        "pack_id": "DESO-EN020",
+        "pack": "DESO",
+        "rarity": "Abyss Actor - Extras",
+        "date": 1479340800000
+    }
+}

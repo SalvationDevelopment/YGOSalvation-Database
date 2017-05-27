@@ -1,1 +1,47 @@
-{"id":68120130,"ot":3,"alias":0,"setcode":67,"type":33,"atk":500,"def":1800,"level":3,"race":1,"attribute":1,"category":270336,"name":"Junk Defender","desc":"When an opponent's monster declares a direct attack: You can Special Summon this card from your hand. Once per turn, during either player's turn: You can have this card gain 300 DEF until the end of this turn.","str1":"Special Summon","str2":"守备上升","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":68120130,"pack_id":"VJCF-JP003","pack":"VJCF","rarity":"Junk Defender","date":1282348800000},"tcg":{"id":68120130,"pack_id":"PHSW-EN097","pack":"PHSW","rarity":"Junk Defender","date":1320883200000}}
+{
+    "id": 68120130,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 67,
+    "type": 33,
+    "atk": 500,
+    "def": 1800,
+    "level": 3,
+    "race": 1,
+    "attribute": 1,
+    "category": 270336,
+    "name": "Junk Defender",
+    "desc": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand. Once per turn, during either player's turn: You can have this card gain 300 DEF until the end of this turn.",
+    "str1": "Special Summon",
+    "str2": "守备上升",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 68120130,
+        "pack_id": "VJCF-JP003",
+        "pack": "VJCF",
+        "rarity": "Junk Defender",
+        "date": 1282348800000
+    },
+    "tcg": {
+        "id": 68120130,
+        "pack_id": "PHSW-EN097",
+        "pack": "PHSW",
+        "rarity": "Junk Defender",
+        "date": 1320883200000
+    }
+}

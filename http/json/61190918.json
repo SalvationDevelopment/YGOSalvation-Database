@@ -1,1 +1,47 @@
-{"id":61190918,"ot":3,"alias":0,"setcode":14090338,"type":4194337,"atk":2600,"def":2300,"level":7,"race":1,"attribute":1,"category":0,"name":"Toon Buster Blader","desc":"Cannot attack the turn it is Summoned. This card gains 500 ATK for each Dragon-Type monster your opponent controls or is in their Graveyard. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":61190918,"pack_id":"BOSH-JP038","pack":"BOSH","rarity":"Toon Buster Blader","date":1445040000000},"tcg":{"id":61190918,"pack_id":"BOSH-EN038","pack":"BOSH","rarity":"Toon Buster Blader","date":1452729600000}}
+{
+    "id": 61190918,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 14090338,
+    "type": 4194337,
+    "atk": 2600,
+    "def": 2300,
+    "level": 7,
+    "race": 1,
+    "attribute": 1,
+    "category": 0,
+    "name": "Toon Buster Blader",
+    "desc": "Cannot attack the turn it is Summoned. This card gains 500 ATK for each Dragon-Type monster your opponent controls or is in their Graveyard. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 61190918,
+        "pack_id": "BOSH-JP038",
+        "pack": "BOSH",
+        "rarity": "Toon Buster Blader",
+        "date": 1445040000000
+    },
+    "tcg": {
+        "id": 61190918,
+        "pack_id": "BOSH-EN038",
+        "pack": "BOSH",
+        "rarity": "Toon Buster Blader",
+        "date": 1452729600000
+    }
+}

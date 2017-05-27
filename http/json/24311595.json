@@ -1,1 +1,47 @@
-{"id":24311595,"ot":3,"alias":0,"setcode":22,"type":33,"atk":1600,"def":1800,"level":6,"race":32,"attribute":4,"category":16,"name":"Rescueroid","desc":"When a \"roid\" monster you control is destroyed by battle and sent to the Graveyard, you can return that monster to its owner's hand.","str1":"Return to hand","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":24311595,"pack_id":"POTD-JP011","pack":"POTD","rarity":"Rescueroid","date":1147910400000},"tcg":{"id":24311595,"pack_id":"POTD-EN011","pack":"POTD","rarity":"Rescueroid","date":1155686400000}}
+{
+    "id": 24311595,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 22,
+    "type": 33,
+    "atk": 1600,
+    "def": 1800,
+    "level": 6,
+    "race": 32,
+    "attribute": 4,
+    "category": 16,
+    "name": "Rescueroid",
+    "desc": "When a \"roid\" monster you control is destroyed by battle and sent to the Graveyard, you can return that monster to its owner's hand.",
+    "str1": "Return to hand",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 24311595,
+        "pack_id": "POTD-JP011",
+        "pack": "POTD",
+        "rarity": "Rescueroid",
+        "date": 1147910400000
+    },
+    "tcg": {
+        "id": 24311595,
+        "pack_id": "POTD-EN011",
+        "pack": "POTD",
+        "rarity": "Rescueroid",
+        "date": 1155686400000
+    }
+}

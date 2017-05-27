@@ -1,1 +1,47 @@
-{"id":43711255,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Prohibition","desc":"Activate by declaring 1 card name. Cards with that name, and their effects, cannot be used. Cards already on the field are not affected (including face-down cards).","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":43711255,"pack_id":"CA-40","pack":"CA","rarity":"Prohibition","date":970099200000},"tcg":{"id":43711255,"pack_id":"PSV-039","pack":"PSV","rarity":"Prohibition","date":1035072000000}}
+{
+    "id": 43711255,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Prohibition",
+    "desc": "Activate by declaring 1 card name. Cards with that name, and their effects, cannot be used. Cards already on the field are not affected (including face-down cards).",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 43711255,
+        "pack_id": "CA-40",
+        "pack": "CA",
+        "rarity": "Prohibition",
+        "date": 970099200000
+    },
+    "tcg": {
+        "id": 43711255,
+        "pack_id": "PSV-039",
+        "pack": "PSV",
+        "rarity": "Prohibition",
+        "date": 1035072000000
+    }
+}

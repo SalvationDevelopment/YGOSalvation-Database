@@ -1,1 +1,47 @@
-{"id":79229522,"ot":3,"alias":0,"setcode":259,"type":97,"atk":0,"def":0,"level":8,"race":32,"attribute":32,"category":8192,"name":"Chimeratech Fortress Dragon","desc":"\"Cyber Dragon\" + 1 or more Machine-Type monsters\nCannot be used as a Fusion Material. Must first be Special Summoned (from your Extra Deck) by sending the above cards from either field to the Graveyard. (You do not use \"Polymerization\".) The original ATK of this card becomes 1000 x the number of Fusion Materials used for its Special Summon.","str1":"Please select a \"Cyber Dragon\"","str2":"Please select 1 or more Machine-Type monsters","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":79229522,"pack_id":"VJMP-JP025","pack":"VJMP","rarity":"Chimeratech Fortress Dragon","date":1187654400000},"tcg":{"id":79229522,"pack_id":"CT07-EN013","pack":"CT07","rarity":"Chimeratech Fortress Dragon","date":1283212800000}}
+{
+    "id": 79229522,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 259,
+    "type": 97,
+    "atk": 0,
+    "def": 0,
+    "level": 8,
+    "race": 32,
+    "attribute": 32,
+    "category": 8192,
+    "name": "Chimeratech Fortress Dragon",
+    "desc": "\"Cyber Dragon\" + 1 or more Machine-Type monsters\nCannot be used as a Fusion Material. Must first be Special Summoned (from your Extra Deck) by sending the above cards from either field to the Graveyard. (You do not use \"Polymerization\".) The original ATK of this card becomes 1000 x the number of Fusion Materials used for its Special Summon.",
+    "str1": "Please select a \"Cyber Dragon\"",
+    "str2": "Please select 1 or more Machine-Type monsters",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 79229522,
+        "pack_id": "VJMP-JP025",
+        "pack": "VJMP",
+        "rarity": "Chimeratech Fortress Dragon",
+        "date": 1187654400000
+    },
+    "tcg": {
+        "id": 79229522,
+        "pack_id": "CT07-EN013",
+        "pack": "CT07",
+        "rarity": "Chimeratech Fortress Dragon",
+        "date": 1283212800000
+    }
+}

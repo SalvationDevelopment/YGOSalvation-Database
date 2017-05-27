@@ -1,1 +1,47 @@
-{"id":77013169,"ot":3,"alias":0,"setcode":154,"type":33,"atk":1000,"def":1800,"level":3,"race":32,"attribute":1,"category":0,"name":"Superheavy Samurai Swordsman","desc":"When this card is Normal or Special Summoned: You can change its battle position. If a \"Superheavy Samurai\" monster you control battles an opponent's monster, after damage calculation: The opponent's monster's ATK and DEF become 0.","str1":"Change battle position?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":77013169,"pack_id":"DUEA-JP012","pack":"DUEA","rarity":"Superheavy Samurai Swordsman","date":1397865600000},"tcg":{"id":77013169,"pack_id":"DUEA-EN012","pack":"DUEA","rarity":"Superheavy Samurai Swordsman","date":1407974400000}}
+{
+    "id": 77013169,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 154,
+    "type": 33,
+    "atk": 1000,
+    "def": 1800,
+    "level": 3,
+    "race": 32,
+    "attribute": 1,
+    "category": 0,
+    "name": "Superheavy Samurai Swordsman",
+    "desc": "When this card is Normal or Special Summoned: You can change its battle position. If a \"Superheavy Samurai\" monster you control battles an opponent's monster, after damage calculation: The opponent's monster's ATK and DEF become 0.",
+    "str1": "Change battle position?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 77013169,
+        "pack_id": "DUEA-JP012",
+        "pack": "DUEA",
+        "rarity": "Superheavy Samurai Swordsman",
+        "date": 1397865600000
+    },
+    "tcg": {
+        "id": 77013169,
+        "pack_id": "DUEA-EN012",
+        "pack": "DUEA",
+        "rarity": "Superheavy Samurai Swordsman",
+        "date": 1407974400000
+    }
+}

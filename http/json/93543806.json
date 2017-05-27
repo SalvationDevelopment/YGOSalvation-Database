@@ -1,1 +1,47 @@
-{"id":93543806,"ot":3,"alias":0,"setcode":112,"type":33,"atk":600,"def":600,"level":6,"race":256,"attribute":1,"category":0,"name":"Chronomaly Sol Monolith","desc":"Once per turn: You can target 1 \"Chronomaly\" monster you control; its Level becomes 6. You cannot Special Summon any monsters during the turn you activate this effect, except \"Chronomaly\" monsters.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":93543806,"pack_id":"CPZ1-JP004","pack":"CPZ1","rarity":"Chronomaly Sol Monolith","date":1376092800000},"tcg":{"id":93543806,"pack_id":"NUMH-EN004","pack":"NUMH","rarity":"Chronomaly Sol Monolith","date":1373587200000}}
+{
+    "id": 93543806,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 112,
+    "type": 33,
+    "atk": 600,
+    "def": 600,
+    "level": 6,
+    "race": 256,
+    "attribute": 1,
+    "category": 0,
+    "name": "Chronomaly Sol Monolith",
+    "desc": "Once per turn: You can target 1 \"Chronomaly\" monster you control; its Level becomes 6. You cannot Special Summon any monsters during the turn you activate this effect, except \"Chronomaly\" monsters.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 93543806,
+        "pack_id": "CPZ1-JP004",
+        "pack": "CPZ1",
+        "rarity": "Chronomaly Sol Monolith",
+        "date": 1376092800000
+    },
+    "tcg": {
+        "id": 93543806,
+        "pack_id": "NUMH-EN004",
+        "pack": "NUMH",
+        "rarity": "Chronomaly Sol Monolith",
+        "date": 1373587200000
+    }
+}

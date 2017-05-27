@@ -1,1 +1,47 @@
-{"id":74130411,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1700,"def":1200,"level":4,"race":32,"attribute":16,"category":1049088,"name":"Biofalcon","desc":"When a Machine-Type monster you control is destroyed by battle and sent to the Graveyard while this card is face-up on the field, you can add 1 Machine-Type monster with 1000 or less ATK from your Deck to your hand.","str1":"Add to hand","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":74130411,"pack_id":"TSHD-JP021","pack":"TSHD","rarity":"Biofalcon","date":1266624000000},"tcg":{"id":74130411,"pack_id":"TSHD-EN021","pack":"TSHD","rarity":"Biofalcon","date":1273190400000}}
+{
+    "id": 74130411,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1700,
+    "def": 1200,
+    "level": 4,
+    "race": 32,
+    "attribute": 16,
+    "category": 1049088,
+    "name": "Biofalcon",
+    "desc": "When a Machine-Type monster you control is destroyed by battle and sent to the Graveyard while this card is face-up on the field, you can add 1 Machine-Type monster with 1000 or less ATK from your Deck to your hand.",
+    "str1": "Add to hand",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 74130411,
+        "pack_id": "TSHD-JP021",
+        "pack": "TSHD",
+        "rarity": "Biofalcon",
+        "date": 1266624000000
+    },
+    "tcg": {
+        "id": 74130411,
+        "pack_id": "TSHD-EN021",
+        "pack": "TSHD",
+        "rarity": "Biofalcon",
+        "date": 1273190400000
+    }
+}

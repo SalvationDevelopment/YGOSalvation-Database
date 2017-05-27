@@ -1,1 +1,47 @@
-{"id":91422370,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262144,"name":"Zenmailstrom","desc":"Tribute 1 \"Wind-Up\" monster with 1500 or more ATK; Special Summon 1 \"Wind-Up\" monster from your hand, then you can Special Summon 1 \"Wind-Up\" monster from your Deck with the same ATK as the monster Special Summoned by this effect.","str1":"Special Summon 1 \"Wind-Up\" monster from your Deck?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":91422370,"pack_id":"ORCS-JP072","pack":"ORCS","rarity":"Zenmailstrom","date":1321660800000},"tcg":{"id":91422370,"pack_id":"ORCS-EN072","pack":"ORCS","rarity":"Zenmailstrom","date":1326499200000}}
+{
+    "id": 91422370,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262144,
+    "name": "Zenmailstrom",
+    "desc": "Tribute 1 \"Wind-Up\" monster with 1500 or more ATK; Special Summon 1 \"Wind-Up\" monster from your hand, then you can Special Summon 1 \"Wind-Up\" monster from your Deck with the same ATK as the monster Special Summoned by this effect.",
+    "str1": "Special Summon 1 \"Wind-Up\" monster from your Deck?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 91422370,
+        "pack_id": "ORCS-JP072",
+        "pack": "ORCS",
+        "rarity": "Zenmailstrom",
+        "date": 1321660800000
+    },
+    "tcg": {
+        "id": 91422370,
+        "pack_id": "ORCS-EN072",
+        "pack": "ORCS",
+        "rarity": "Zenmailstrom",
+        "date": 1326499200000
+    }
+}

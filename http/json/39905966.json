@@ -1,1 +1,47 @@
-{"id":39905966,"ot":3,"alias":0,"setcode":58,"type":33,"atk":1600,"def":1200,"level":4,"race":64,"attribute":2,"category":1040,"name":"Gishki Marker","desc":"When this card is Summoned: You can target 1 \"Gishki\" Ritual Monster or \"Gishki\" Ritual Spell Card in your Graveyard; add that target to your hand.","str1":"Add to hand","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":39905966,"pack_id":"DT10-JP016","pack":"デュエルターミナル 「インヴェルズの侵略！！」","rarity":"レア仕様","date":1280808000000},"tcg":{"id":39905966,"pack_id":"DT05-EN066","pack":"DT05","rarity":"Gishki Marker","date":1317254400000}}
+{
+    "id": 39905966,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 58,
+    "type": 33,
+    "atk": 1600,
+    "def": 1200,
+    "level": 4,
+    "race": 64,
+    "attribute": 2,
+    "category": 1040,
+    "name": "Gishki Marker",
+    "desc": "When this card is Summoned: You can target 1 \"Gishki\" Ritual Monster or \"Gishki\" Ritual Spell Card in your Graveyard; add that target to your hand.",
+    "str1": "Add to hand",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 39905966,
+        "pack_id": "DT10-JP016",
+        "pack": "デュエルターミナル 「インヴェルズの侵略！！」",
+        "rarity": "レア仕様",
+        "date": 1280808000000
+    },
+    "tcg": {
+        "id": 39905966,
+        "pack_id": "DT05-EN066",
+        "pack": "DT05",
+        "rarity": "Gishki Marker",
+        "date": 1317254400000
+    }
+}

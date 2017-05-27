@@ -1,1 +1,47 @@
-{"id":73040500,"ot":3,"alias":0,"setcode":53,"type":33,"atk":1500,"def":200,"level":4,"race":8,"attribute":16,"category":8192,"name":"Fabled Urustos","desc":"While you have 2 or less cards in your hand, all face-up \"Fabled\" monsters you control gain 400 ATK.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":73040500,"pack_id":"DT05-JP008","pack":"DT05","rarity":"Fabled Urustos","date":1239667200000},"tcg":{"id":73040500,"pack_id":"DT03-EN008","pack":"DT03","rarity":"Fabled Urustos","date":1285372800000}}
+{
+    "id": 73040500,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 53,
+    "type": 33,
+    "atk": 1500,
+    "def": 200,
+    "level": 4,
+    "race": 8,
+    "attribute": 16,
+    "category": 8192,
+    "name": "Fabled Urustos",
+    "desc": "While you have 2 or less cards in your hand, all face-up \"Fabled\" monsters you control gain 400 ATK.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 73040500,
+        "pack_id": "DT05-JP008",
+        "pack": "DT05",
+        "rarity": "Fabled Urustos",
+        "date": 1239667200000
+    },
+    "tcg": {
+        "id": 73040500,
+        "pack_id": "DT03-EN008",
+        "pack": "DT03",
+        "rarity": "Fabled Urustos",
+        "date": 1285372800000
+    }
+}

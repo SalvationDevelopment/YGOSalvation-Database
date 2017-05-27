@@ -1,1 +1,47 @@
-{"id":9989792,"ot":3,"alias":0,"setcode":226,"type":524290,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Triamid Fortress","desc":"All Rock-Type monsters on the field gain 500 DEF. \"Triamid\" monsters on the field cannot be destroyed by card effects. If this face-up card in the Field Zone is sent to the Graveyard: You can target 1 \"Triamid\" monster in your Graveyard; add it to your hand. You can only use this effect of \"Triamid Fortress\" once per turn.","str1":"Add 1 \"Tramid\" monster to your hand","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":9989792,"pack_id":"TDIL-JP062","pack":"TDIL","rarity":"Triamid Fortress","date":1460160000000},"tcg":{"id":9989792,"pack_id":"TDIL-EN062","pack":"TDIL","rarity":"Triamid Fortress","date":1470268800000}}
+{
+    "id": 9989792,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 226,
+    "type": 524290,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Triamid Fortress",
+    "desc": "All Rock-Type monsters on the field gain 500 DEF. \"Triamid\" monsters on the field cannot be destroyed by card effects. If this face-up card in the Field Zone is sent to the Graveyard: You can target 1 \"Triamid\" monster in your Graveyard; add it to your hand. You can only use this effect of \"Triamid Fortress\" once per turn.",
+    "str1": "Add 1 \"Tramid\" monster to your hand",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 9989792,
+        "pack_id": "TDIL-JP062",
+        "pack": "TDIL",
+        "rarity": "Triamid Fortress",
+        "date": 1460160000000
+    },
+    "tcg": {
+        "id": 9989792,
+        "pack_id": "TDIL-EN062",
+        "pack": "TDIL",
+        "rarity": "Triamid Fortress",
+        "date": 1470268800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":61850482,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262400,"name":"Level Modulation","desc":"Your opponent draws 2 cards. Special Summon 1 \"LV\" monster from your Graveyard, ignoring the Summoning conditions. The monster that was Special Summoned by this effect cannot attack, nor activate or apply its effect this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":61850482,"pack_id":"EEN-JP039","pack":"EEN","rarity":"Level Modulation","date":1123718400000},"tcg":{"id":61850482,"pack_id":"EEN-EN039","pack":"EEN","rarity":"Level Modulation","date":1131148800000}}
+{
+    "id": 61850482,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262400,
+    "name": "Level Modulation",
+    "desc": "Your opponent draws 2 cards. Special Summon 1 \"LV\" monster from your Graveyard, ignoring the Summoning conditions. The monster that was Special Summoned by this effect cannot attack, nor activate or apply its effect this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 61850482,
+        "pack_id": "EEN-JP039",
+        "pack": "EEN",
+        "rarity": "Level Modulation",
+        "date": 1123718400000
+    },
+    "tcg": {
+        "id": 61850482,
+        "pack_id": "EEN-EN039",
+        "pack": "EEN",
+        "rarity": "Level Modulation",
+        "date": 1131148800000
+    }
+}

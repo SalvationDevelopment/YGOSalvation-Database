@@ -1,1 +1,47 @@
-{"id":94861297,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"The Forceful Checkpoint","desc":"When an opponent's monster declares an attack: Look at your opponent's hand, and if there is a Monster Card, negate the attack, then discard 1 monster from their hand (your choice).","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":94861297,"pack_id":"TDIL-JP080","pack":"TDIL","rarity":"The Forceful Checkpoint","date":1460160000000},"tcg":{"id":94861297,"pack_id":"TDIL-EN080","pack":"TDIL","rarity":"The Forceful Checkpoint","date":1470268800000}}
+{
+    "id": 94861297,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "The Forceful Checkpoint",
+    "desc": "When an opponent's monster declares an attack: Look at your opponent's hand, and if there is a Monster Card, negate the attack, then discard 1 monster from their hand (your choice).",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 94861297,
+        "pack_id": "TDIL-JP080",
+        "pack": "TDIL",
+        "rarity": "The Forceful Checkpoint",
+        "date": 1460160000000
+    },
+    "tcg": {
+        "id": 94861297,
+        "pack_id": "TDIL-EN080",
+        "pack": "TDIL",
+        "rarity": "The Forceful Checkpoint",
+        "date": 1470268800000
+    }
+}

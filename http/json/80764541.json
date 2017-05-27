@@ -1,1 +1,47 @@
-{"id":80764541,"ot":3,"alias":0,"setcode":72,"type":8388641,"atk":1800,"def":1600,"level":4,"race":16384,"attribute":16,"category":16777219,"name":"Number 44: Sky Pegasus","desc":"2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; destroy it, unless your opponent pays 1000 LP to negate this effect.","str1":"Negate effect?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":80764541,"pack_id":"CPZ1-JP021","pack":"CPZ1","rarity":"Number 44: Sky Pegasus","date":1376092800000},"tcg":{"id":80764541,"pack_id":"NUMH-EN028","pack":"NUMH","rarity":"Number 44: Sky Pegasus","date":1373587200000}}
+{
+    "id": 80764541,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 72,
+    "type": 8388641,
+    "atk": 1800,
+    "def": 1600,
+    "level": 4,
+    "race": 16384,
+    "attribute": 16,
+    "category": 16777219,
+    "name": "Number 44: Sky Pegasus",
+    "desc": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; destroy it, unless your opponent pays 1000 LP to negate this effect.",
+    "str1": "Negate effect?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 80764541,
+        "pack_id": "CPZ1-JP021",
+        "pack": "CPZ1",
+        "rarity": "Number 44: Sky Pegasus",
+        "date": 1376092800000
+    },
+    "tcg": {
+        "id": 80764541,
+        "pack_id": "NUMH-EN028",
+        "pack": "NUMH",
+        "rarity": "Number 44: Sky Pegasus",
+        "date": 1373587200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":44052075,"ot":1,"alias":0,"setcode":7,"type":16401,"atk":0,"def":0,"level":1,"race":32,"attribute":1,"category":0,"name":"Ancient Gear Token","desc":"This card can be used as an \"Ancient Gear Token\".\n\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG","ocg":{"id":44052075,"pack_id":"SR03-JPTKN","pack":"","rarity":"","date":1474675200000},"tcg":{"id":44052075,"pack_id":"SR03-JPTKN","pack":"","rarity":"","date":1492041600000}}
+{
+    "id": 44052075,
+    "ot": 1,
+    "alias": 0,
+    "setcode": 7,
+    "type": 16401,
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": 32,
+    "attribute": 1,
+    "category": 0,
+    "name": "Ancient Gear Token",
+    "desc": "This card can be used as an \"Ancient Gear Token\".\n\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG",
+    "ocg": {
+        "id": 44052075,
+        "pack_id": "SR03-JPTKN",
+        "pack": "",
+        "rarity": "",
+        "date": 1474675200000
+    },
+    "tcg": {
+        "id": 44052075,
+        "pack_id": "SR03-JPTKN",
+        "pack": "",
+        "rarity": "",
+        "date": 1492041600000
+    }
+}

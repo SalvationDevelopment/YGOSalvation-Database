@@ -1,1 +1,47 @@
-{"id":71106375,"ot":3,"alias":0,"setcode":34,"type":33,"atk":1700,"def":700,"level":4,"race":65536,"attribute":4,"category":16,"name":"Jurrac Iguanon","desc":"If this card destroys an opponent's monster by battle, you can select 1 Set card your opponent controls, and return it to the hand.","str1":"Return to hand","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":71106375,"pack_id":"DT05-JP014","pack":"DT05","rarity":"Jurrac Iguanon","date":1239667200000},"tcg":{"id":71106375,"pack_id":"DT03-EN014","pack":"DT03","rarity":"Jurrac Iguanon","date":1285372800000}}
+{
+    "id": 71106375,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 34,
+    "type": 33,
+    "atk": 1700,
+    "def": 700,
+    "level": 4,
+    "race": 65536,
+    "attribute": 4,
+    "category": 16,
+    "name": "Jurrac Iguanon",
+    "desc": "If this card destroys an opponent's monster by battle, you can select 1 Set card your opponent controls, and return it to the hand.",
+    "str1": "Return to hand",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 71106375,
+        "pack_id": "DT05-JP014",
+        "pack": "DT05",
+        "rarity": "Jurrac Iguanon",
+        "date": 1239667200000
+    },
+    "tcg": {
+        "id": 71106375,
+        "pack_id": "DT03-EN014",
+        "pack": "DT03",
+        "rarity": "Jurrac Iguanon",
+        "date": 1285372800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":69243953,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":9232,"name":"Butterfly Dagger - Elma","desc":"The equipped monster gains 300 ATK. When this card is destroyed and sent to the Graveyard while equipped: You can return this card to the hand.","str1":"Return to hand","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":69243953,"pack_id":"304-032","pack":"304","rarity":"Butterfly Dagger - Elma","date":1037836800000},"tcg":{"id":69243953,"pack_id":"DCR-032","pack":"DCR","rarity":"Butterfly Dagger - Elma","date":1070236800000}}
+{
+    "id": 69243953,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 9232,
+    "name": "Butterfly Dagger - Elma",
+    "desc": "The equipped monster gains 300 ATK. When this card is destroyed and sent to the Graveyard while equipped: You can return this card to the hand.",
+    "str1": "Return to hand",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 69243953,
+        "pack_id": "304-032",
+        "pack": "304",
+        "rarity": "Butterfly Dagger - Elma",
+        "date": 1037836800000
+    },
+    "tcg": {
+        "id": 69243953,
+        "pack_id": "DCR-032",
+        "pack": "DCR",
+        "rarity": "Butterfly Dagger - Elma",
+        "date": 1070236800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":66729231,"ot":3,"alias":0,"setcode":58,"type":161,"atk":3200,"def":0,"level":10,"race":64,"attribute":2,"category":288,"name":"Gishki Zielgigas","desc":"You can Ritual Summon this card with any \"Gishki\" Ritual Spell Card. Once per turn: You can pay 1000 Life Points; draw 1 card, and if you do, reveal it, then, if it was a \"Gishki\" monster, shuffle 1 card from the field into the Deck.","str1":"Draw card","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":66729231,"pack_id":"DTC3-JP109","pack":"DTC3","rarity":"Gishki Zielgigas","date":1352160000000},"tcg":{"id":66729231,"pack_id":"DT07-EN081","pack":"DT07","rarity":"Gishki Zielgigas","date":1359676800000}}
+{
+    "id": 66729231,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 58,
+    "type": 161,
+    "atk": 3200,
+    "def": 0,
+    "level": 10,
+    "race": 64,
+    "attribute": 2,
+    "category": 288,
+    "name": "Gishki Zielgigas",
+    "desc": "You can Ritual Summon this card with any \"Gishki\" Ritual Spell Card. Once per turn: You can pay 1000 Life Points; draw 1 card, and if you do, reveal it, then, if it was a \"Gishki\" monster, shuffle 1 card from the field into the Deck.",
+    "str1": "Draw card",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 66729231,
+        "pack_id": "DTC3-JP109",
+        "pack": "DTC3",
+        "rarity": "Gishki Zielgigas",
+        "date": 1352160000000
+    },
+    "tcg": {
+        "id": 66729231,
+        "pack_id": "DT07-EN081",
+        "pack": "DT07",
+        "rarity": "Gishki Zielgigas",
+        "date": 1359676800000
+    }
+}

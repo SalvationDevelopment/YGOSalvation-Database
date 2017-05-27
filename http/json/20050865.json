@@ -1,1 +1,47 @@
-{"id":20050865,"ot":3,"alias":0,"setcode":234,"type":4129,"atk":500,"def":500,"level":2,"race":32,"attribute":2,"category":0,"name":"Crystron Citree","desc":"During your opponent's Main Phase or Battle Phase: You can target 1 non-Tuner monster in your Graveyard; Special Summon it, but it has its effects negated (if any), and if you do, immediately after this effect resolves, Synchro Summon 1 Machine-Type Synchro Monster using only that monster and this card (this is a Quick Effect). These Synchro Materials are banished instead of being sent to the Graveyard. You can only use this effect of \"Crystron Citree\" once per turn.","str1":"Special Summon 1 non-Tuner monster","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":20050865,"pack_id":"INOV-JP016","pack":"INOV","rarity":"Crystron Citree","date":1468022400000},"tcg":{"id":20050865,"pack_id":"INOV-EN016","pack":"INOV","rarity":"Crystron Citree","date":1478131200000}}
+{
+    "id": 20050865,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 234,
+    "type": 4129,
+    "atk": 500,
+    "def": 500,
+    "level": 2,
+    "race": 32,
+    "attribute": 2,
+    "category": 0,
+    "name": "Crystron Citree",
+    "desc": "During your opponent's Main Phase or Battle Phase: You can target 1 non-Tuner monster in your Graveyard; Special Summon it, but it has its effects negated (if any), and if you do, immediately after this effect resolves, Synchro Summon 1 Machine-Type Synchro Monster using only that monster and this card (this is a Quick Effect). These Synchro Materials are banished instead of being sent to the Graveyard. You can only use this effect of \"Crystron Citree\" once per turn.",
+    "str1": "Special Summon 1 non-Tuner monster",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 20050865,
+        "pack_id": "INOV-JP016",
+        "pack": "INOV",
+        "rarity": "Crystron Citree",
+        "date": 1468022400000
+    },
+    "tcg": {
+        "id": 20050865,
+        "pack_id": "INOV-EN016",
+        "pack": "INOV",
+        "rarity": "Crystron Citree",
+        "date": 1478131200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":66672569,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1600,"def":0,"level":3,"race":16,"attribute":32,"category":0,"name":"Dragon Zombie","desc":"A dragon revived by sorcery. Its breath is highly corrosive.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":66672569,"pack_id":"BC-50","pack":"BC","rarity":"Dragon Zombie","date":940118400000},"tcg":{"id":66672569,"pack_id":"SDY-014","pack":"SDY","rarity":"Dragon Zombie","date":1017360000000}}
+{
+    "id": 66672569,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1600,
+    "def": 0,
+    "level": 3,
+    "race": 16,
+    "attribute": 32,
+    "category": 0,
+    "name": "Dragon Zombie",
+    "desc": "A dragon revived by sorcery. Its breath is highly corrosive.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 66672569,
+        "pack_id": "BC-50",
+        "pack": "BC",
+        "rarity": "Dragon Zombie",
+        "date": 940118400000
+    },
+    "tcg": {
+        "id": 66672569,
+        "pack_id": "SDY-014",
+        "pack": "SDY",
+        "rarity": "Dragon Zombie",
+        "date": 1017360000000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":91939608,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1600,"def":1000,"level":4,"race":2,"attribute":16,"category":0,"name":"Rogue Doll","desc":"A deadly doll gifted with mystical power, it is particularly powerful when attacking against dark forces.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":91939608,"pack_id":"EX-56","pack":"EX","rarity":"Rogue Doll","date":927590400000},"tcg":{"id":91939608,"pack_id":"SDK-008","pack":"SDK","rarity":"Rogue Doll","date":1017360000000}}
+{
+    "id": 91939608,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1600,
+    "def": 1000,
+    "level": 4,
+    "race": 2,
+    "attribute": 16,
+    "category": 0,
+    "name": "Rogue Doll",
+    "desc": "A deadly doll gifted with mystical power, it is particularly powerful when attacking against dark forces.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 91939608,
+        "pack_id": "EX-56",
+        "pack": "EX",
+        "rarity": "Rogue Doll",
+        "date": 927590400000
+    },
+    "tcg": {
+        "id": 91939608,
+        "pack_id": "SDK-008",
+        "pack": "SDK",
+        "rarity": "Rogue Doll",
+        "date": 1017360000000
+    }
+}

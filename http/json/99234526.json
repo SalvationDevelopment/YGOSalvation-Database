@@ -1,1 +1,47 @@
-{"id":99234526,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1700,"def":1800,"level":4,"race":8192,"attribute":16,"category":262656,"name":"White Dragon Wyverburster","desc":"Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 DARK monster from your Graveyard, and cannot be Special Summoned by other ways. You can only Special Summon \"White Dragon Wyverburster\" once per turn this way. If this card is sent from the field to the Graveyard: You can add 1 \"Black Dragon Collapserpent\" from your Deck to your hand.","str1":"Add to hand","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":99234526,"pack_id":"JF13-JPA06","pack":"JF13","rarity":"White Dragon Wyverburster","date":1356134400000},"tcg":{"id":99234526,"pack_id":"SHSP-EN093","pack":"SHSP","rarity":"White Dragon Wyverburster","date":1383868800000}}
+{
+    "id": 99234526,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1700,
+    "def": 1800,
+    "level": 4,
+    "race": 8192,
+    "attribute": 16,
+    "category": 262656,
+    "name": "White Dragon Wyverburster",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 DARK monster from your Graveyard, and cannot be Special Summoned by other ways. You can only Special Summon \"White Dragon Wyverburster\" once per turn this way. If this card is sent from the field to the Graveyard: You can add 1 \"Black Dragon Collapserpent\" from your Deck to your hand.",
+    "str1": "Add to hand",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 99234526,
+        "pack_id": "JF13-JPA06",
+        "pack": "JF13",
+        "rarity": "White Dragon Wyverburster",
+        "date": 1356134400000
+    },
+    "tcg": {
+        "id": 99234526,
+        "pack_id": "SHSP-EN093",
+        "pack": "SHSP",
+        "rarity": "White Dragon Wyverburster",
+        "date": 1383868800000
+    }
+}

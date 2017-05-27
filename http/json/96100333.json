@@ -1,1 +1,47 @@
-{"id":96100333,"ot":3,"alias":0,"setcode":226,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Triamid Pulse","desc":"Once per turn: You can banish 2 cards from your Graveyard (any combination of Rock-Type monsters or Field Spell Cards), then activate 1 of these effects;\n● Target 1 other face-up card on the field; destroy it.\n● Target 1 Rock-Type monster in your Graveyard; Special Summon it in Defense Position.\n● Target up to 3 Field Spell Cards in your Graveyard; shuffle them into the Deck, then draw 1 card.","str1":"Banish Monsters or Field Spell","str2":"Destroy Face-up","str3":"Spevial Summon 1 Rock-Type","str4":"Draw 1 Card","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":96100333,"pack_id":"TDIL-JP074","pack":"TDIL","rarity":"Triamid Pulse","date":1460160000000},"tcg":{"id":96100333,"pack_id":"TDIL-EN074","pack":"TDIL","rarity":"Triamid Pulse","date":1470268800000}}
+{
+    "id": 96100333,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 226,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Triamid Pulse",
+    "desc": "Once per turn: You can banish 2 cards from your Graveyard (any combination of Rock-Type monsters or Field Spell Cards), then activate 1 of these effects;\n● Target 1 other face-up card on the field; destroy it.\n● Target 1 Rock-Type monster in your Graveyard; Special Summon it in Defense Position.\n● Target up to 3 Field Spell Cards in your Graveyard; shuffle them into the Deck, then draw 1 card.",
+    "str1": "Banish Monsters or Field Spell",
+    "str2": "Destroy Face-up",
+    "str3": "Spevial Summon 1 Rock-Type",
+    "str4": "Draw 1 Card",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 96100333,
+        "pack_id": "TDIL-JP074",
+        "pack": "TDIL",
+        "rarity": "Triamid Pulse",
+        "date": 1460160000000
+    },
+    "tcg": {
+        "id": 96100333,
+        "pack_id": "TDIL-EN074",
+        "pack": "TDIL",
+        "rarity": "Triamid Pulse",
+        "date": 1470268800000
+    }
+}

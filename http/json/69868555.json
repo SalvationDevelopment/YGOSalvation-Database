@@ -1,1 +1,47 @@
-{"id":69868555,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Ruins of the Divine Dragon Lords","desc":"If a monster(s) is Special Summoned, except from the Graveyard, while you control a Level 7 or 8 Dragon-Type monster: That face-up Special Summoned monster(s) has its effects negated until the end of this turn (even if this card leaves the field). Once per turn: You can send 1 other face-up card you control to the Graveyard; Special Summon 1 \"Dragon Lord Token\" (Dragon-Type/LIGHT/Level 1/ATK 0/DEF 0). If this card is in your Graveyard: You can send 1 Level 7 or 8 Dragon-Type monster from your hand or face-up from your field to the Graveyard; add this card to your hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":69868555,"pack_id":"SR02-JP023","pack":"SR02","rarity":"Ruins of the Divine Dragon Lords","date":1454716800000},"tcg":{"id":69868555,"pack_id":"SR02-EN024","pack":"SR02","rarity":"Ruins of the Divine Dragon Lords","date":1467849600000}}
+{
+    "id": 69868555,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Ruins of the Divine Dragon Lords",
+    "desc": "If a monster(s) is Special Summoned, except from the Graveyard, while you control a Level 7 or 8 Dragon-Type monster: That face-up Special Summoned monster(s) has its effects negated until the end of this turn (even if this card leaves the field). Once per turn: You can send 1 other face-up card you control to the Graveyard; Special Summon 1 \"Dragon Lord Token\" (Dragon-Type/LIGHT/Level 1/ATK 0/DEF 0). If this card is in your Graveyard: You can send 1 Level 7 or 8 Dragon-Type monster from your hand or face-up from your field to the Graveyard; add this card to your hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 69868555,
+        "pack_id": "SR02-JP023",
+        "pack": "SR02",
+        "rarity": "Ruins of the Divine Dragon Lords",
+        "date": 1454716800000
+    },
+    "tcg": {
+        "id": 69868555,
+        "pack_id": "SR02-EN024",
+        "pack": "SR02",
+        "rarity": "Ruins of the Divine Dragon Lords",
+        "date": 1467849600000
+    }
+}

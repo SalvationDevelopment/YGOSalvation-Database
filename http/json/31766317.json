@@ -1,1 +1,47 @@
-{"id":31766317,"ot":3,"alias":0,"setcode":69,"type":33,"atk":2900,"def":2100,"level":8,"race":8,"attribute":32,"category":20186112,"name":"Archfiend Empress","desc":"If (exactly) 1 face-up DARK Fiend-Type monster on the field, except this card, would be destroyed, you can remove from play 1 DARK Fiend-Type monster from your Graveyard, instead. When this card is destroyed and sent from the field to the Graveyard, you can select 1 Level 6 or higher DARK Fiend-Type monster in your Graveyard, except \"Archfiend Empress\", and Special Summon it.","str1":"Activate effect of \"Archfiend Empress\"?","str2":"Special Summon","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":31766317,"pack_id":"EXP4-JP021","pack":"EXP4","rarity":"Archfiend Empress","date":1316217600000},"tcg":{"id":31766317,"pack_id":"STBL-ENSP1","pack":"STBL","rarity":"Archfiend Empress","date":1289001600000}}
+{
+    "id": 31766317,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 69,
+    "type": 33,
+    "atk": 2900,
+    "def": 2100,
+    "level": 8,
+    "race": 8,
+    "attribute": 32,
+    "category": 20186112,
+    "name": "Archfiend Empress",
+    "desc": "If (exactly) 1 face-up DARK Fiend-Type monster on the field, except this card, would be destroyed, you can remove from play 1 DARK Fiend-Type monster from your Graveyard, instead. When this card is destroyed and sent from the field to the Graveyard, you can select 1 Level 6 or higher DARK Fiend-Type monster in your Graveyard, except \"Archfiend Empress\", and Special Summon it.",
+    "str1": "Activate effect of \"Archfiend Empress\"?",
+    "str2": "Special Summon",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 31766317,
+        "pack_id": "EXP4-JP021",
+        "pack": "EXP4",
+        "rarity": "Archfiend Empress",
+        "date": 1316217600000
+    },
+    "tcg": {
+        "id": 31766317,
+        "pack_id": "STBL-ENSP1",
+        "pack": "STBL",
+        "rarity": "Archfiend Empress",
+        "date": 1289001600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":2420921,"ot":3,"alias":0,"setcode":56,"type":33,"atk":400,"def":1400,"level":3,"race":4,"attribute":16,"category":8328,"name":"Shire, Lightsworn Spirit","desc":"This card gains 300 ATK for each \"Lightsworn\" monster with a different name in your Graveyard. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard.","str1":"从卡组送2张卡去墓地","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":2420921,"pack_id":"EXP3-JP023","pack":"EXP3","rarity":"Shire, Lightsworn Spirit","date":1284768000000},"tcg":{"id":2420921,"pack_id":"SOVR-EN082","pack":"SOVR","rarity":"Shire, Lightsworn Spirit","date":1258416000000}}
+{
+    "id": 2420921,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 56,
+    "type": 33,
+    "atk": 400,
+    "def": 1400,
+    "level": 3,
+    "race": 4,
+    "attribute": 16,
+    "category": 8328,
+    "name": "Shire, Lightsworn Spirit",
+    "desc": "This card gains 300 ATK for each \"Lightsworn\" monster with a different name in your Graveyard. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard.",
+    "str1": "从卡组送2张卡去墓地",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 2420921,
+        "pack_id": "EXP3-JP023",
+        "pack": "EXP3",
+        "rarity": "Shire, Lightsworn Spirit",
+        "date": 1284768000000
+    },
+    "tcg": {
+        "id": 2420921,
+        "pack_id": "SOVR-EN082",
+        "pack": "SOVR",
+        "rarity": "Shire, Lightsworn Spirit",
+        "date": 1258416000000
+    }
+}

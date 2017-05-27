@@ -1,1 +1,47 @@
-{"id":72992744,"ot":3,"alias":0,"setcode":0,"type":33,"atk":0,"def":0,"level":1,"race":2,"attribute":32,"category":8192,"name":"Jester Lord","desc":"While this card is the only monster on the field, it gains 1000 ATK for each card in the Spell & Trap Card Zones.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":72992744,"pack_id":"ANPR-JP008","pack":"ANPR","rarity":"Jester Lord","date":1240012800000},"tcg":{"id":72992744,"pack_id":"ANPR-EN008","pack":"ANPR","rarity":"Jester Lord","date":1251763200000}}
+{
+    "id": 72992744,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": 2,
+    "attribute": 32,
+    "category": 8192,
+    "name": "Jester Lord",
+    "desc": "While this card is the only monster on the field, it gains 1000 ATK for each card in the Spell & Trap Card Zones.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 72992744,
+        "pack_id": "ANPR-JP008",
+        "pack": "ANPR",
+        "rarity": "Jester Lord",
+        "date": 1240012800000
+    },
+    "tcg": {
+        "id": 72992744,
+        "pack_id": "ANPR-EN008",
+        "pack": "ANPR",
+        "rarity": "Jester Lord",
+        "date": 1251763200000
+    }
+}

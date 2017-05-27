@@ -1,1 +1,47 @@
-{"id":95923441,"ot":3,"alias":0,"setcode":226,"type":33,"atk":1400,"def":1100,"level":3,"race":256,"attribute":1,"category":0,"name":"Triamid Hunter","desc":"If a Field Spell Card is face-up on the field, you can Normal Summon 1 Rock-Type monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Once per turn, during your opponent's turn: You can target 1 \"Triamid\" Field Spell Card in your Field Zone; send it to the Graveyard, and if you do, activate 1 \"Triamid\" Field Spell Card from your Deck with a different name (this is a Quick Effect).","str1":"Normal Summon 1 Rock-Type Monster","str2":"Activate a \"Tramid\" Field Spell Card from your deck","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":95923441,"pack_id":"TDIL-JP028","pack":"TDIL","rarity":"Triamid Hunter","date":1460160000000},"tcg":{"id":95923441,"pack_id":"TDIL-EN028","pack":"TDIL","rarity":"Triamid Hunter","date":1470268800000}}
+{
+    "id": 95923441,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 226,
+    "type": 33,
+    "atk": 1400,
+    "def": 1100,
+    "level": 3,
+    "race": 256,
+    "attribute": 1,
+    "category": 0,
+    "name": "Triamid Hunter",
+    "desc": "If a Field Spell Card is face-up on the field, you can Normal Summon 1 Rock-Type monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Once per turn, during your opponent's turn: You can target 1 \"Triamid\" Field Spell Card in your Field Zone; send it to the Graveyard, and if you do, activate 1 \"Triamid\" Field Spell Card from your Deck with a different name (this is a Quick Effect).",
+    "str1": "Normal Summon 1 Rock-Type Monster",
+    "str2": "Activate a \"Tramid\" Field Spell Card from your deck",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 95923441,
+        "pack_id": "TDIL-JP028",
+        "pack": "TDIL",
+        "rarity": "Triamid Hunter",
+        "date": 1460160000000
+    },
+    "tcg": {
+        "id": 95923441,
+        "pack_id": "TDIL-EN028",
+        "pack": "TDIL",
+        "rarity": "Triamid Hunter",
+        "date": 1470268800000
+    }
+}

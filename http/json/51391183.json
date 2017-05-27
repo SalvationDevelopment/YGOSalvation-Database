@@ -1,1 +1,47 @@
-{"id":51391183,"ot":3,"alias":0,"setcode":283902188,"type":16777249,"atk":1600,"def":1200,"level":33685508,"race":8,"attribute":32,"category":0,"name":"Abyss Actor - Wild Hope","desc":"Pendulum Effect\nOnce per turn: You can target 1 \"Abyss Actor\" card in your other Pendulum Zone; its Pendulum Scale becomes 9 until the end of this turn, also you cannot Special Summon monsters for the rest of this turn, except \"Abyss Actor\" monsters (even if this card leaves the field).\n\nMonster Effect\nOnce per turn: You can make this card gain 100 ATK for each \"Abyss Actor\" monster you currently control with different names, until the end of this turn. If this card is destroyed by battle or card effect: You can add 1 \"Abyss Actor\" card from your Deck to your hand, except \"Abyss Actor - Wild Hope\". You can only use this effect of \"Abyss Actor - Wild Hope\" once per turn.","str1":"Make Scale of 9","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":51391183,"pack_id":"SPDS-JP022","pack":"SPDS","rarity":"Abyss Actor - Wild Hope","date":1470441600000},"tcg":{"id":51391183,"pack_id":"DESO-EN022","pack":"DESO","rarity":"Abyss Actor - Wild Hope","date":1479340800000}}
+{
+    "id": 51391183,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 283902188,
+    "type": 16777249,
+    "atk": 1600,
+    "def": 1200,
+    "level": 33685508,
+    "race": 8,
+    "attribute": 32,
+    "category": 0,
+    "name": "Abyss Actor - Wild Hope",
+    "desc": "Pendulum Effect\nOnce per turn: You can target 1 \"Abyss Actor\" card in your other Pendulum Zone; its Pendulum Scale becomes 9 until the end of this turn, also you cannot Special Summon monsters for the rest of this turn, except \"Abyss Actor\" monsters (even if this card leaves the field).\n\nMonster Effect\nOnce per turn: You can make this card gain 100 ATK for each \"Abyss Actor\" monster you currently control with different names, until the end of this turn. If this card is destroyed by battle or card effect: You can add 1 \"Abyss Actor\" card from your Deck to your hand, except \"Abyss Actor - Wild Hope\". You can only use this effect of \"Abyss Actor - Wild Hope\" once per turn.",
+    "str1": "Make Scale of 9",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 51391183,
+        "pack_id": "SPDS-JP022",
+        "pack": "SPDS",
+        "rarity": "Abyss Actor - Wild Hope",
+        "date": 1470441600000
+    },
+    "tcg": {
+        "id": 51391183,
+        "pack_id": "DESO-EN022",
+        "pack": "DESO",
+        "rarity": "Abyss Actor - Wild Hope",
+        "date": 1479340800000
+    }
+}

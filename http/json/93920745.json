@@ -1,1 +1,47 @@
-{"id":93920745,"ot":3,"alias":0,"setcode":90,"type":2097185,"atk":750,"def":500,"level":2,"race":64,"attribute":2,"category":16,"name":"Penguin Soldier","desc":"FLIP: You can target up to 2 monsters on the field; return those targets to the hand.","str1":"Return to hand","str2":"Return Monster Cards to hand?","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":93920745,"pack_id":"B3-40","pack":"B3","rarity":"Penguin Soldier","date":944006400000},"tcg":{"id":93920745,"pack_id":"SDJ-022","pack":"SDJ","rarity":"Penguin Soldier","date":1048982400000}}
+{
+    "id": 93920745,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 90,
+    "type": 2097185,
+    "atk": 750,
+    "def": 500,
+    "level": 2,
+    "race": 64,
+    "attribute": 2,
+    "category": 16,
+    "name": "Penguin Soldier",
+    "desc": "FLIP: You can target up to 2 monsters on the field; return those targets to the hand.",
+    "str1": "Return to hand",
+    "str2": "Return Monster Cards to hand?",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 93920745,
+        "pack_id": "B3-40",
+        "pack": "B3",
+        "rarity": "Penguin Soldier",
+        "date": 944006400000
+    },
+    "tcg": {
+        "id": 93920745,
+        "pack_id": "SDJ-022",
+        "pack": "SDJ",
+        "rarity": "Penguin Soldier",
+        "date": 1048982400000
+    }
+}

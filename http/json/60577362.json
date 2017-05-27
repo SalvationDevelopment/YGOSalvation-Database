@@ -1,1 +1,47 @@
-{"id":60577362,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":131072,"name":"Overpowering Eye","desc":"Target 1 Zombie-Type monster you control with 2000 or less ATK; it can attack your opponent directly this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":60577362,"pack_id":"PP8-JP005","pack":"PP8","rarity":"Overpowering Eye","date":1103328000000},"tcg":{"id":60577362,"pack_id":"STOR-EN094","pack":"STOR","rarity":"Overpowering Eye","date":1297123200000}}
+{
+    "id": 60577362,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 131072,
+    "name": "Overpowering Eye",
+    "desc": "Target 1 Zombie-Type monster you control with 2000 or less ATK; it can attack your opponent directly this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 60577362,
+        "pack_id": "PP8-JP005",
+        "pack": "PP8",
+        "rarity": "Overpowering Eye",
+        "date": 1103328000000
+    },
+    "tcg": {
+        "id": 60577362,
+        "pack_id": "STOR-EN094",
+        "pack": "STOR",
+        "rarity": "Overpowering Eye",
+        "date": 1297123200000
+    }
+}

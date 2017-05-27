@@ -1,1 +1,47 @@
-{"id":58074572,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8388608,"name":"Mooyan Curry","desc":"Choose 1 player; that player gains 200 Life Points.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":58074572,"pack_id":null,"pack":"Starter Box 劇場限定版","rarity":"共通","date":920696400000},"tcg":{"id":58074572,"pack_id":"WCPP-EN020","pack":"WCPP","rarity":"Mooyan Curry","date":1281744000000}}
+{
+    "id": 58074572,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8388608,
+    "name": "Mooyan Curry",
+    "desc": "Choose 1 player; that player gains 200 Life Points.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 58074572,
+        "pack_id": null,
+        "pack": "Starter Box 劇場限定版",
+        "rarity": "共通",
+        "date": 920696400000
+    },
+    "tcg": {
+        "id": 58074572,
+        "pack_id": "WCPP-EN020",
+        "pack": "WCPP",
+        "rarity": "Mooyan Curry",
+        "date": 1281744000000
+    }
+}

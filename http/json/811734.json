@@ -1,1 +1,47 @@
-{"id":811734,"ot":3,"alias":0,"setcode":4271,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"D/D/D Contract Change","desc":"When an opponent's monster declares an attack: Activate 1 of these effects;\n● Banish 1 \"D/D/D\" monster from your Graveyard, and if you do, the attacking monster loses ATK equal to the banished monster's ATK.\n● Add 1 Level 4 or lower \"D/D\" Pendulum Monster from your Deck to your hand.","str1":"Banish 1 \"D/D/D\" monster from your Graveyard; the attacking monster loses ATK equal to the banished monster's ATK.","str2":"Add 1 Level 4 or lower \"D/D\" Pendulum Monster from your Deck to your hand.","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":811734,"pack_id":"DOCS-JP068","pack":"DOCS","rarity":"D/D/D Contract Change","date":1437177600000},"tcg":{"id":811734,"pack_id":"DOCS-EN068","pack":"DOCS","rarity":"D/D/D Contract Change","date":1446681600000}}
+{
+    "id": 811734,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4271,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "D/D/D Contract Change",
+    "desc": "When an opponent's monster declares an attack: Activate 1 of these effects;\n● Banish 1 \"D/D/D\" monster from your Graveyard, and if you do, the attacking monster loses ATK equal to the banished monster's ATK.\n● Add 1 Level 4 or lower \"D/D\" Pendulum Monster from your Deck to your hand.",
+    "str1": "Banish 1 \"D/D/D\" monster from your Graveyard; the attacking monster loses ATK equal to the banished monster's ATK.",
+    "str2": "Add 1 Level 4 or lower \"D/D\" Pendulum Monster from your Deck to your hand.",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 811734,
+        "pack_id": "DOCS-JP068",
+        "pack": "DOCS",
+        "rarity": "D/D/D Contract Change",
+        "date": 1437177600000
+    },
+    "tcg": {
+        "id": 811734,
+        "pack_id": "DOCS-EN068",
+        "pack": "DOCS",
+        "rarity": "D/D/D Contract Change",
+        "date": 1446681600000
+    }
+}

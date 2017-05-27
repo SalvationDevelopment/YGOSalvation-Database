@@ -1,1 +1,47 @@
-{"id":43785278,"ot":3,"alias":0,"setcode":0,"type":16777233,"atk":2200,"def":1200,"level":33685509,"race":2,"attribute":32,"category":0,"name":"Foucault's Cannon","desc":"Pendulum Effect\nDuring the End Phase, if this card was activated this turn: You can target 1 face-up Spell/Trap Card on the field; destroy it.\n\nMonster Effect\nA mechanized life form, roving through space-time. But the mysterious thing is that its memory i... m...stly gone. W...at is t...e reason? D..... refuse t... b.... interfered w...h?","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":43785278,"pack_id":"DUEA-JP002","pack":"DUEA","rarity":"Foucault's Cannon","date":1397865600000},"tcg":{"id":43785278,"pack_id":"DUEA-EN002","pack":"DUEA","rarity":"Foucault's Cannon","date":1407974400000}}
+{
+    "id": 43785278,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 16777233,
+    "atk": 2200,
+    "def": 1200,
+    "level": 33685509,
+    "race": 2,
+    "attribute": 32,
+    "category": 0,
+    "name": "Foucault's Cannon",
+    "desc": "Pendulum Effect\nDuring the End Phase, if this card was activated this turn: You can target 1 face-up Spell/Trap Card on the field; destroy it.\n\nMonster Effect\nA mechanized life form, roving through space-time. But the mysterious thing is that its memory i... m...stly gone. W...at is t...e reason? D..... refuse t... b.... interfered w...h?",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 43785278,
+        "pack_id": "DUEA-JP002",
+        "pack": "DUEA",
+        "rarity": "Foucault's Cannon",
+        "date": 1397865600000
+    },
+    "tcg": {
+        "id": 43785278,
+        "pack_id": "DUEA-EN002",
+        "pack": "DUEA",
+        "rarity": "Foucault's Cannon",
+        "date": 1407974400000
+    }
+}

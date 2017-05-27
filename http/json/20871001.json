@@ -1,1 +1,47 @@
-{"id":20871001,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8388608,"name":"Blue Medicine","desc":"Increase your Life Points by 400 points.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":20871001,"pack_id":"B1-46","pack":"B1","rarity":"Blue Medicine","date":920246400000},"tcg":{"id":20871001,"pack_id":"TP1-008","pack":"TP1","rarity":"Blue Medicine","date":1030838400000}}
+{
+    "id": 20871001,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8388608,
+    "name": "Blue Medicine",
+    "desc": "Increase your Life Points by 400 points.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 20871001,
+        "pack_id": "B1-46",
+        "pack": "B1",
+        "rarity": "Blue Medicine",
+        "date": 920246400000
+    },
+    "tcg": {
+        "id": 20871001,
+        "pack_id": "TP1-008",
+        "pack": "TP1",
+        "rarity": "Blue Medicine",
+        "date": 1030838400000
+    }
+}

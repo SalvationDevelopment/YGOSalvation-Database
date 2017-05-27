@@ -1,1 +1,47 @@
-{"id":83965310,"ot":3,"alias":0,"setcode":49160,"type":33,"atk":1900,"def":600,"level":8,"race":1,"attribute":32,"category":-2147209216,"name":"Destiny HERO - Plasma","desc":"Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters, and cannot be Special Summoned by other ways. Negate the effects of face-up monsters while your opponent controls them. Once per turn: You can target 1 monster your opponent controls; equip that target to this card (you can only equip 1 monster at a time to this card with this effect). This card gains ATK equal to half the original ATK of the monster equipped to it by this effect.","str1":"Special Summon","str2":"Equip card","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":83965310,"pack_id":"WC07-JPB01","pack":"WC07","rarity":"Destiny HERO - Plasma","date":1171497600000},"tcg":{"id":83965310,"pack_id":"CT04-EN003","pack":"CT04","rarity":"Destiny HERO - Plasma","date":1317686400000}}
+{
+    "id": 83965310,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 49160,
+    "type": 33,
+    "atk": 1900,
+    "def": 600,
+    "level": 8,
+    "race": 1,
+    "attribute": 32,
+    "category": -2147209216,
+    "name": "Destiny HERO - Plasma",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters, and cannot be Special Summoned by other ways. Negate the effects of face-up monsters while your opponent controls them. Once per turn: You can target 1 monster your opponent controls; equip that target to this card (you can only equip 1 monster at a time to this card with this effect). This card gains ATK equal to half the original ATK of the monster equipped to it by this effect.",
+    "str1": "Special Summon",
+    "str2": "Equip card",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 83965310,
+        "pack_id": "WC07-JPB01",
+        "pack": "WC07",
+        "rarity": "Destiny HERO - Plasma",
+        "date": 1171497600000
+    },
+    "tcg": {
+        "id": 83965310,
+        "pack_id": "CT04-EN003",
+        "pack": "CT04",
+        "rarity": "Destiny HERO - Plasma",
+        "date": 1317686400000
+    }
+}

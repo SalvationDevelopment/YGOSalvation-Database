@@ -1,1 +1,47 @@
-{"id":30757396,"ot":3,"alias":0,"setcode":0,"type":8225,"atk":2800,"def":1300,"level":8,"race":8,"attribute":32,"category":4194304,"name":"Blood Mefist","desc":"1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, during your opponent's Standby Phase: You can inflict 300 damage to your opponent for each card your opponent controls. Each time your opponent Sets a Spell or Trap Card(s): Inflict 300 damage to your opponent.","str1":"给与对方伤害","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":30757396,"pack_id":"DDY3-JP005","pack":"DDY3","rarity":"Blood Mefist","date":1290211200000},"tcg":{"id":30757396,"pack_id":"YCSW-EN004","pack":"YCSW","rarity":"Blood Mefist","date":1312675200000}}
+{
+    "id": 30757396,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8225,
+    "atk": 2800,
+    "def": 1300,
+    "level": 8,
+    "race": 8,
+    "attribute": 32,
+    "category": 4194304,
+    "name": "Blood Mefist",
+    "desc": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, during your opponent's Standby Phase: You can inflict 300 damage to your opponent for each card your opponent controls. Each time your opponent Sets a Spell or Trap Card(s): Inflict 300 damage to your opponent.",
+    "str1": "给与对方伤害",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 30757396,
+        "pack_id": "DDY3-JP005",
+        "pack": "DDY3",
+        "rarity": "Blood Mefist",
+        "date": 1290211200000
+    },
+    "tcg": {
+        "id": 30757396,
+        "pack_id": "YCSW-EN004",
+        "pack": "YCSW",
+        "rarity": "Blood Mefist",
+        "date": 1312675200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":22796548,"ot":3,"alias":0,"setcode":69,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":256,"name":"Archfiend's Oath","desc":"Once per turn: You can pay 500 Life Points, then declare 1 card name; excavate the top card of your Deck, and if it is the declared card, add it to your hand. Otherwise, send it to the Graveyard.","str1":"宣言","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":22796548,"pack_id":"305-039","pack":"305","rarity":"Archfiend's Oath","date":1045699200000},"tcg":{"id":22796548,"pack_id":"DCR-092","pack":"DCR","rarity":"Archfiend's Oath","date":1070236800000}}
+{
+    "id": 22796548,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 69,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 256,
+    "name": "Archfiend's Oath",
+    "desc": "Once per turn: You can pay 500 Life Points, then declare 1 card name; excavate the top card of your Deck, and if it is the declared card, add it to your hand. Otherwise, send it to the Graveyard.",
+    "str1": "宣言",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 22796548,
+        "pack_id": "305-039",
+        "pack": "305",
+        "rarity": "Archfiend's Oath",
+        "date": 1045699200000
+    },
+    "tcg": {
+        "id": 22796548,
+        "pack_id": "DCR-092",
+        "pack": "DCR",
+        "rarity": "Archfiend's Oath",
+        "date": 1070236800000
+    }
+}

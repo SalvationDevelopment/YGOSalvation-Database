@@ -1,1 +1,47 @@
-{"id":91501248,"ot":3,"alias":0,"setcode":0,"type":2097185,"atk":2000,"def":3000,"level":9,"race":256,"attribute":1,"category":0,"name":"Pot of The Forbidden","desc":"FLIP: You can activate 1 of these effects;\n● Draw 2 cards.\n● Return all Spell and Trap Cards on the field to the hand.\n● Destroy all monsters your opponent controls.\n● Look at your opponent's hand, also shuffle 1 card from their hand into the Deck.\nYou can only use this effect of \"Pot of The Forbidden\" once per turn.","str1":"Draw 2 cards.","str2":"Return all Spell and Trap Cards on the field to the hand.","str3":"Destroy all monsters your opponent controls.","str4":"Look at your opponent’s hand, and shuffle 1 card from it into the Deck.","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":91501248,"pack_id":"DOCS-JP040","pack":"DOCS","rarity":"Pot of The Forbidden","date":1437177600000},"tcg":{"id":91501248,"pack_id":"DOCS-EN040","pack":"DOCS","rarity":"Pot of The Forbidden","date":1446681600000}}
+{
+    "id": 91501248,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2097185,
+    "atk": 2000,
+    "def": 3000,
+    "level": 9,
+    "race": 256,
+    "attribute": 1,
+    "category": 0,
+    "name": "Pot of The Forbidden",
+    "desc": "FLIP: You can activate 1 of these effects;\n● Draw 2 cards.\n● Return all Spell and Trap Cards on the field to the hand.\n● Destroy all monsters your opponent controls.\n● Look at your opponent's hand, also shuffle 1 card from their hand into the Deck.\nYou can only use this effect of \"Pot of The Forbidden\" once per turn.",
+    "str1": "Draw 2 cards.",
+    "str2": "Return all Spell and Trap Cards on the field to the hand.",
+    "str3": "Destroy all monsters your opponent controls.",
+    "str4": "Look at your opponent’s hand, and shuffle 1 card from it into the Deck.",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 91501248,
+        "pack_id": "DOCS-JP040",
+        "pack": "DOCS",
+        "rarity": "Pot of The Forbidden",
+        "date": 1437177600000
+    },
+    "tcg": {
+        "id": 91501248,
+        "pack_id": "DOCS-EN040",
+        "pack": "DOCS",
+        "rarity": "Pot of The Forbidden",
+        "date": 1446681600000
+    }
+}

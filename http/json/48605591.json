@@ -1,1 +1,47 @@
-{"id":48605591,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Terminal World NEXT","desc":"Activate this card if your opponent controls 3 or fewer monsters and 3 or fewer Spell/Trap Cards, while you control no other cards. Cards cannot be placed on the field if it would give any player more than 3 monsters or more than 3 Spell/Trap Cards on their field.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":48605591,"pack_id":"RATE-JP067","pack":"RATE","rarity":"Terminal World NEXT","date":1475884800000},"tcg":{"id":48605591,"pack_id":"RATE-EN067","pack":"RATE","rarity":"Terminal World NEXT","date":1486598400000}}
+{
+    "id": 48605591,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Terminal World NEXT",
+    "desc": "Activate this card if your opponent controls 3 or fewer monsters and 3 or fewer Spell/Trap Cards, while you control no other cards. Cards cannot be placed on the field if it would give any player more than 3 monsters or more than 3 Spell/Trap Cards on their field.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 48605591,
+        "pack_id": "RATE-JP067",
+        "pack": "RATE",
+        "rarity": "Terminal World NEXT",
+        "date": 1475884800000
+    },
+    "tcg": {
+        "id": 48605591,
+        "pack_id": "RATE-EN067",
+        "pack": "RATE",
+        "rarity": "Terminal World NEXT",
+        "date": 1486598400000
+    }
+}

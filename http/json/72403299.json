@@ -1,1 +1,47 @@
-{"id":72403299,"ot":3,"alias":0,"setcode":58,"type":33,"atk":1200,"def":800,"level":3,"race":262144,"attribute":2,"category":544,"name":"Gishki Diviner","desc":"Once per turn: You can declare 1 card name; reveal the top card of your Deck, and if it is the declared card, add it to your hand. Otherwise, return it to the top of the Deck.","str1":"宣言卡名","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":72403299,"pack_id":"GENF-JP027","pack":"GENF","rarity":"Gishki Diviner","date":1302912000000},"tcg":{"id":72403299,"pack_id":"GENF-EN027","pack":"GENF","rarity":"Gishki Diviner","date":1312588800000}}
+{
+    "id": 72403299,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 58,
+    "type": 33,
+    "atk": 1200,
+    "def": 800,
+    "level": 3,
+    "race": 262144,
+    "attribute": 2,
+    "category": 544,
+    "name": "Gishki Diviner",
+    "desc": "Once per turn: You can declare 1 card name; reveal the top card of your Deck, and if it is the declared card, add it to your hand. Otherwise, return it to the top of the Deck.",
+    "str1": "宣言卡名",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 72403299,
+        "pack_id": "GENF-JP027",
+        "pack": "GENF",
+        "rarity": "Gishki Diviner",
+        "date": 1302912000000
+    },
+    "tcg": {
+        "id": 72403299,
+        "pack_id": "GENF-EN027",
+        "pack": "GENF",
+        "rarity": "Gishki Diviner",
+        "date": 1312588800000
+    }
+}

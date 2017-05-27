@@ -1,1 +1,47 @@
-{"id":85463083,"ot":3,"alias":0,"setcode":141,"type":33,"atk":1100,"def":1200,"level":3,"race":16,"attribute":32,"category":0,"name":"Ghostrick Ghoul","desc":"Cannot be Normal Summoned, unless you control a \"Ghostrick\" monster. Once per turn: You can change this card to face-down Defense Position. Once per turn, during your Main Phase 1: You can target 1 \"Ghostrick\" monster you control; its ATK becomes equal to the combined original ATK of all \"Ghostrick\" monsters currently on the field, until the end of your opponent's next turn, but if it does, only that monster can attack this turn.","str1":"Flip Facedown","str2":"Boost ATK","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":85463083,"pack_id":"EP14-JP011","pack":"EP14","rarity":"Ghostrick Ghoul","date":1410566400000},"tcg":{"id":85463083,"pack_id":"SHSP-ENSP1","pack":"SHSP","rarity":"Ghostrick Ghoul","date":1383350400000}}
+{
+    "id": 85463083,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 141,
+    "type": 33,
+    "atk": 1100,
+    "def": 1200,
+    "level": 3,
+    "race": 16,
+    "attribute": 32,
+    "category": 0,
+    "name": "Ghostrick Ghoul",
+    "desc": "Cannot be Normal Summoned, unless you control a \"Ghostrick\" monster. Once per turn: You can change this card to face-down Defense Position. Once per turn, during your Main Phase 1: You can target 1 \"Ghostrick\" monster you control; its ATK becomes equal to the combined original ATK of all \"Ghostrick\" monsters currently on the field, until the end of your opponent's next turn, but if it does, only that monster can attack this turn.",
+    "str1": "Flip Facedown",
+    "str2": "Boost ATK",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 85463083,
+        "pack_id": "EP14-JP011",
+        "pack": "EP14",
+        "rarity": "Ghostrick Ghoul",
+        "date": 1410566400000
+    },
+    "tcg": {
+        "id": 85463083,
+        "pack_id": "SHSP-ENSP1",
+        "pack": "SHSP",
+        "rarity": "Ghostrick Ghoul",
+        "date": 1383350400000
+    }
+}

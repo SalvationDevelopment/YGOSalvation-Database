@@ -1,1 +1,47 @@
-{"id":40318957,"ot":3,"alias":0,"setcode":159,"type":16777249,"atk":1800,"def":100,"level":134742020,"race":2,"attribute":32,"category":0,"name":"Performapal Skullcrobat Joker","desc":"Pendulum Effect\nYou cannot Pendulum Summon monsters, except \"Performapal\" monsters, \"Magician\" Pendulum Monsters, and \"Odd-Eyes\" monsters. This effect cannot be negated.\n\nMonster Effect\nWhen this card is Normal Summoned: You can add 1 \"Performapal\" monster, \"Magician\" Pendulum Monster, or \"Odd-Eyes\" monster from your Deck to your hand, except \"Performapal Skullcrobat Joker\".","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":40318957,"pack_id":"SD29-JP005","pack":"SD29","rarity":"Performapal Skullcrobat Joker","date":1434758400000},"tcg":{"id":40318957,"pack_id":"SDMP-EN006","pack":"SDMP","rarity":"Performapal Skullcrobat Joker","date":1449100800000}}
+{
+    "id": 40318957,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 159,
+    "type": 16777249,
+    "atk": 1800,
+    "def": 100,
+    "level": 134742020,
+    "race": 2,
+    "attribute": 32,
+    "category": 0,
+    "name": "Performapal Skullcrobat Joker",
+    "desc": "Pendulum Effect\nYou cannot Pendulum Summon monsters, except \"Performapal\" monsters, \"Magician\" Pendulum Monsters, and \"Odd-Eyes\" monsters. This effect cannot be negated.\n\nMonster Effect\nWhen this card is Normal Summoned: You can add 1 \"Performapal\" monster, \"Magician\" Pendulum Monster, or \"Odd-Eyes\" monster from your Deck to your hand, except \"Performapal Skullcrobat Joker\".",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 40318957,
+        "pack_id": "SD29-JP005",
+        "pack": "SD29",
+        "rarity": "Performapal Skullcrobat Joker",
+        "date": 1434758400000
+    },
+    "tcg": {
+        "id": 40318957,
+        "pack_id": "SDMP-EN006",
+        "pack": "SDMP",
+        "rarity": "Performapal Skullcrobat Joker",
+        "date": 1449100800000
+    }
+}

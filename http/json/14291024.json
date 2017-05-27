@@ -1,1 +1,47 @@
-{"id":14291024,"ot":3,"alias":0,"setcode":0,"type":33,"atk":-2,"def":-2,"level":1,"race":32,"attribute":16,"category":270336,"name":"Gradius' Option","desc":"This card cannot be Normal Summoned or Set. This monster can only be Special Summoned by selecting 1 face-up \"Gradius\" on your side of the field. The ATK and DEF of this card becomes the same as the ATK and DEF of the selected \"Gradius\". If the selected \"Gradius\" is removed from the field, destroy this card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":14291024,"pack_id":"MA-10","pack":"MA","rarity":"Gradius' Option","date":1006992000000},"tcg":{"id":14291024,"pack_id":"LOD-060","pack":"LOD","rarity":"Gradius' Option","date":1054857600000}}
+{
+    "id": 14291024,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": -2,
+    "def": -2,
+    "level": 1,
+    "race": 32,
+    "attribute": 16,
+    "category": 270336,
+    "name": "Gradius' Option",
+    "desc": "This card cannot be Normal Summoned or Set. This monster can only be Special Summoned by selecting 1 face-up \"Gradius\" on your side of the field. The ATK and DEF of this card becomes the same as the ATK and DEF of the selected \"Gradius\". If the selected \"Gradius\" is removed from the field, destroy this card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 14291024,
+        "pack_id": "MA-10",
+        "pack": "MA",
+        "rarity": "Gradius' Option",
+        "date": 1006992000000
+    },
+    "tcg": {
+        "id": 14291024,
+        "pack_id": "LOD-060",
+        "pack": "LOD",
+        "rarity": "Gradius' Option",
+        "date": 1054857600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":81816475,"ot":3,"alias":0,"setcode":0,"type":33,"atk":300,"def":800,"level":2,"race":524288,"attribute":16,"category":1073741824,"name":"Overlay Eater","desc":"You can banish this card from your Graveyard; take 1 Xyz Material from a monster your opponent controls and attach it to an Xyz Monster you control as Xyz Material.","str1":"Material taken","str2":"Please select Xyz monster","str3":"Please select Xyz material to be transferred","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":81816475,"pack_id":"GAOV-JP007","pack":"GAOV","rarity":"Overlay Eater","date":1329523200000},"tcg":{"id":81816475,"pack_id":"GAOV-EN007","pack":"GAOV","rarity":"Overlay Eater","date":1335571200000}}
+{
+    "id": 81816475,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 300,
+    "def": 800,
+    "level": 2,
+    "race": 524288,
+    "attribute": 16,
+    "category": 1073741824,
+    "name": "Overlay Eater",
+    "desc": "You can banish this card from your Graveyard; take 1 Xyz Material from a monster your opponent controls and attach it to an Xyz Monster you control as Xyz Material.",
+    "str1": "Material taken",
+    "str2": "Please select Xyz monster",
+    "str3": "Please select Xyz material to be transferred",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 81816475,
+        "pack_id": "GAOV-JP007",
+        "pack": "GAOV",
+        "rarity": "Overlay Eater",
+        "date": 1329523200000
+    },
+    "tcg": {
+        "id": 81816475,
+        "pack_id": "GAOV-EN007",
+        "pack": "GAOV",
+        "rarity": "Overlay Eater",
+        "date": 1335571200000
+    }
+}

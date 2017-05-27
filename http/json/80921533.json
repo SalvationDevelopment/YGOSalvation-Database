@@ -1,1 +1,47 @@
-{"id":80921533,"ot":3,"alias":0,"setcode":0,"type":524290,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Mausoleum of the Emperor","desc":"During any Main Phase: The turn player can pay 1000 LP x the number of monsters normally needed for the Tribute Summon of a monster (max. 2000); that player Normal Summons/Sets that monster without Tributing. (This is their one Normal Summon/Set for that turn. This is not a Tribute Summon.)","str1":"Special Summon","str2":"表侧表示召唤","str3":"里侧表示放置","str4":"Select amount of Life Points to pay","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":80921533,"pack_id":"POTD-JP047","pack":"POTD","rarity":"Mausoleum of the Emperor","date":1147910400000},"tcg":{"id":80921533,"pack_id":"POTD-EN047","pack":"POTD","rarity":"Mausoleum of the Emperor","date":1155686400000}}
+{
+    "id": 80921533,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 524290,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Mausoleum of the Emperor",
+    "desc": "During any Main Phase: The turn player can pay 1000 LP x the number of monsters normally needed for the Tribute Summon of a monster (max. 2000); that player Normal Summons/Sets that monster without Tributing. (This is their one Normal Summon/Set for that turn. This is not a Tribute Summon.)",
+    "str1": "Special Summon",
+    "str2": "表侧表示召唤",
+    "str3": "里侧表示放置",
+    "str4": "Select amount of Life Points to pay",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 80921533,
+        "pack_id": "POTD-JP047",
+        "pack": "POTD",
+        "rarity": "Mausoleum of the Emperor",
+        "date": 1147910400000
+    },
+    "tcg": {
+        "id": 80921533,
+        "pack_id": "POTD-EN047",
+        "pack": "POTD",
+        "rarity": "Mausoleum of the Emperor",
+        "date": 1155686400000
+    }
+}

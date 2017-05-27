@@ -1,1 +1,47 @@
-{"id":387282,"ot":3,"alias":0,"setcode":84,"type":33,"atk":200,"def":800,"level":2,"race":2,"attribute":32,"category":0,"name":"Gagaga Sister","desc":"When this card is Normal Summoned: You can add 1 \"Gagaga\" Spell/Trap Card from your Deck to your hand. You can target 1 other \"Gagaga\" monster you control; the Levels of that monster and this card become their combined current Levels, until the end of this turn. You can only use this effect of \"Gagaga Sister\" once per turn.","str1":"Add 1 \"Gagaga\" Spell/Trap Card from your Deck to your hand?","str2":"Activate Effect?","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":387282,"pack_id":"PRIO-JP081","pack":"PRIO","rarity":"Gagaga Sister","date":1392422400000},"tcg":{"id":387282,"pack_id":"WSUP-EN006","pack":"WSUP","rarity":"Gagaga Sister","date":1429142400000}}
+{
+    "id": 387282,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 84,
+    "type": 33,
+    "atk": 200,
+    "def": 800,
+    "level": 2,
+    "race": 2,
+    "attribute": 32,
+    "category": 0,
+    "name": "Gagaga Sister",
+    "desc": "When this card is Normal Summoned: You can add 1 \"Gagaga\" Spell/Trap Card from your Deck to your hand. You can target 1 other \"Gagaga\" monster you control; the Levels of that monster and this card become their combined current Levels, until the end of this turn. You can only use this effect of \"Gagaga Sister\" once per turn.",
+    "str1": "Add 1 \"Gagaga\" Spell/Trap Card from your Deck to your hand?",
+    "str2": "Activate Effect?",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 387282,
+        "pack_id": "PRIO-JP081",
+        "pack": "PRIO",
+        "rarity": "Gagaga Sister",
+        "date": 1392422400000
+    },
+    "tcg": {
+        "id": 387282,
+        "pack_id": "WSUP-EN006",
+        "pack": "WSUP",
+        "rarity": "Gagaga Sister",
+        "date": 1429142400000
+    }
+}

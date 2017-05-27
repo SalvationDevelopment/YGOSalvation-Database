@@ -1,1 +1,47 @@
-{"id":31247589,"ot":3,"alias":0,"setcode":25,"type":33,"atk":1600,"def":1200,"level":4,"race":16384,"attribute":1,"category":294944,"name":"Gladiator Beast Dimacari","desc":"If this card was Special Summoned by the effect of a \"Gladiator Beast\" monster, it can attack twice during each Battle Phase. At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Dimacari\".","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":31247589,"pack_id":"GLAS-JP023","pack":"GLAS","rarity":"Gladiator Beast Dimacari","date":1184976000000},"tcg":{"id":31247589,"pack_id":"GLAS-EN023","pack":"GLAS","rarity":"Gladiator Beast Dimacari","date":1194998400000}}
+{
+    "id": 31247589,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 25,
+    "type": 33,
+    "atk": 1600,
+    "def": 1200,
+    "level": 4,
+    "race": 16384,
+    "attribute": 1,
+    "category": 294944,
+    "name": "Gladiator Beast Dimacari",
+    "desc": "If this card was Special Summoned by the effect of a \"Gladiator Beast\" monster, it can attack twice during each Battle Phase. At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Dimacari\".",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 31247589,
+        "pack_id": "GLAS-JP023",
+        "pack": "GLAS",
+        "rarity": "Gladiator Beast Dimacari",
+        "date": 1184976000000
+    },
+    "tcg": {
+        "id": 31247589,
+        "pack_id": "GLAS-EN023",
+        "pack": "GLAS",
+        "rarity": "Gladiator Beast Dimacari",
+        "date": 1194998400000
+    }
+}

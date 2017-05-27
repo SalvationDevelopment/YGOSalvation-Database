@@ -1,1 +1,47 @@
-{"id":51531505,"ot":3,"alias":0,"setcode":152,"type":16777233,"atk":900,"def":2700,"level":134742023,"race":2,"attribute":2,"category":0,"name":"Dragonpit Magician","desc":"Pendulum Effect\nOnce per turn, if you have a \"Magician\" card in your other Pendulum Zone: You can discard 1 Pendulum Monster, then target 1 Spell/Trap Card on the field; destroy it.\n\nMonster Effect\nThis gifted magician can awaken the energy stored in the deep places of the earth, known as the Pits of the Dragon. His stoic approach wins him few friends, and he often bends to the desires of his pupil.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":51531505,"pack_id":"SD29-JP002","pack":"SD29","rarity":"Dragonpit Magician","date":1434758400000},"tcg":{"id":51531505,"pack_id":"SDMP-EN002","pack":"SDMP","rarity":"Dragonpit Magician","date":1449100800000}}
+{
+    "id": 51531505,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 152,
+    "type": 16777233,
+    "atk": 900,
+    "def": 2700,
+    "level": 134742023,
+    "race": 2,
+    "attribute": 2,
+    "category": 0,
+    "name": "Dragonpit Magician",
+    "desc": "Pendulum Effect\nOnce per turn, if you have a \"Magician\" card in your other Pendulum Zone: You can discard 1 Pendulum Monster, then target 1 Spell/Trap Card on the field; destroy it.\n\nMonster Effect\nThis gifted magician can awaken the energy stored in the deep places of the earth, known as the Pits of the Dragon. His stoic approach wins him few friends, and he often bends to the desires of his pupil.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 51531505,
+        "pack_id": "SD29-JP002",
+        "pack": "SD29",
+        "rarity": "Dragonpit Magician",
+        "date": 1434758400000
+    },
+    "tcg": {
+        "id": 51531505,
+        "pack_id": "SDMP-EN002",
+        "pack": "SDMP",
+        "rarity": "Dragonpit Magician",
+        "date": 1449100800000
+    }
+}

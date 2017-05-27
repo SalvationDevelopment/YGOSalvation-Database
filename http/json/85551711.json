@@ -1,1 +1,47 @@
-{"id":85551711,"ot":3,"alias":0,"setcode":0,"type":8388641,"atk":2300,"def":2800,"level":7,"race":2,"attribute":32,"category":0,"name":"Ebon High Magician","desc":"2 Level 7 Spellcaster-Type monsters\nWhile this card has Xyz Material, you can activate a Quick-Play Spell Card or a Trap Card from your hand during your opponent's turn by detaching 1 Xyz Material from this card at activation. If this Xyz Summoned card is destroyed by battle and sent to the Graveyard, or if this Xyz Summoned card you control is sent to your Graveyard by an opponent's card effect: You can Special Summon 1 DARK Spellcaster-Type monster from your hand or Deck, then you can destroy 1 card on the field.","str1":"Destroy 1 card?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":85551711,"pack_id":"TDIL-JP052","pack":"TDIL","rarity":"Ebon High Magician","date":1460160000000},"tcg":{"id":85551711,"pack_id":"TDIL-EN052","pack":"TDIL","rarity":"Ebon High Magician","date":1470268800000}}
+{
+    "id": 85551711,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8388641,
+    "atk": 2300,
+    "def": 2800,
+    "level": 7,
+    "race": 2,
+    "attribute": 32,
+    "category": 0,
+    "name": "Ebon High Magician",
+    "desc": "2 Level 7 Spellcaster-Type monsters\nWhile this card has Xyz Material, you can activate a Quick-Play Spell Card or a Trap Card from your hand during your opponent's turn by detaching 1 Xyz Material from this card at activation. If this Xyz Summoned card is destroyed by battle and sent to the Graveyard, or if this Xyz Summoned card you control is sent to your Graveyard by an opponent's card effect: You can Special Summon 1 DARK Spellcaster-Type monster from your hand or Deck, then you can destroy 1 card on the field.",
+    "str1": "Destroy 1 card?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 85551711,
+        "pack_id": "TDIL-JP052",
+        "pack": "TDIL",
+        "rarity": "Ebon High Magician",
+        "date": 1460160000000
+    },
+    "tcg": {
+        "id": 85551711,
+        "pack_id": "TDIL-EN052",
+        "pack": "TDIL",
+        "rarity": "Ebon High Magician",
+        "date": 1470268800000
+    }
+}

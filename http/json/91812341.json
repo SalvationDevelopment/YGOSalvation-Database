@@ -1,1 +1,47 @@
-{"id":91812341,"ot":3,"alias":0,"setcode":277479562,"type":33,"atk":1600,"def":1200,"level":4,"race":2048,"attribute":1,"category":1,"name":"Traptrix Myrmeleo","desc":"This card is unaffected by the effects of \"Hole\" Normal Trap Cards. When this card is Normal Summoned: You can add 1 \"Hole\" Normal Trap Card from your Deck to your hand. If this card is Special Summoned: Target 1 Spell/Trap Card your opponent controls; destroy that target.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":91812341,"pack_id":"JOTL-JP033","pack":"JOTL","rarity":"Traptrix Myrmeleo","date":1366416000000},"tcg":{"id":91812341,"pack_id":"JOTL-EN033","pack":"JOTL","rarity":"Traptrix Myrmeleo","date":1375920000000}}
+{
+    "id": 91812341,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 277479562,
+    "type": 33,
+    "atk": 1600,
+    "def": 1200,
+    "level": 4,
+    "race": 2048,
+    "attribute": 1,
+    "category": 1,
+    "name": "Traptrix Myrmeleo",
+    "desc": "This card is unaffected by the effects of \"Hole\" Normal Trap Cards. When this card is Normal Summoned: You can add 1 \"Hole\" Normal Trap Card from your Deck to your hand. If this card is Special Summoned: Target 1 Spell/Trap Card your opponent controls; destroy that target.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 91812341,
+        "pack_id": "JOTL-JP033",
+        "pack": "JOTL",
+        "rarity": "Traptrix Myrmeleo",
+        "date": 1366416000000
+    },
+    "tcg": {
+        "id": 91812341,
+        "pack_id": "JOTL-EN033",
+        "pack": "JOTL",
+        "rarity": "Traptrix Myrmeleo",
+        "date": 1375920000000
+    }
+}

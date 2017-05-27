@@ -1,1 +1,47 @@
-{"id":13723605,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1600,"def":1000,"level":4,"race":8,"attribute":32,"category":0,"name":"Man-Eating Treasure Chest","desc":"A monster disguised as a treasure chest that is known to attack the unwary adventurer.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":13723605,"pack_id":"EX-37","pack":"EX","rarity":"Man-Eating Treasure Chest","date":945302400000},"tcg":{"id":13723605,"pack_id":"SDY-037","pack":"SDY","rarity":"Man-Eating Treasure Chest","date":1017360000000}}
+{
+    "id": 13723605,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1600,
+    "def": 1000,
+    "level": 4,
+    "race": 8,
+    "attribute": 32,
+    "category": 0,
+    "name": "Man-Eating Treasure Chest",
+    "desc": "A monster disguised as a treasure chest that is known to attack the unwary adventurer.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 13723605,
+        "pack_id": "EX-37",
+        "pack": "EX",
+        "rarity": "Man-Eating Treasure Chest",
+        "date": 945302400000
+    },
+    "tcg": {
+        "id": 13723605,
+        "pack_id": "SDY-037",
+        "pack": "SDY",
+        "rarity": "Man-Eating Treasure Chest",
+        "date": 1017360000000
+    }
+}

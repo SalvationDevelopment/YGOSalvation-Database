@@ -1,1 +1,47 @@
-{"id":56246017,"ot":3,"alias":0,"setcode":69,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262144,"name":"Archfiend's Roar","desc":"Pay 500 Life Points, then target 1 \"Archfiend\" monster in your Graveyard; Special Summon that target. It cannot be Tributed. Destroy it during the End Phase of this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":56246017,"pack_id":"305-046","pack":"305","rarity":"Archfiend's Roar","date":1045699200000},"tcg":{"id":56246017,"pack_id":"DCR-099","pack":"DCR","rarity":"Archfiend's Roar","date":1070236800000}}
+{
+    "id": 56246017,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 69,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262144,
+    "name": "Archfiend's Roar",
+    "desc": "Pay 500 Life Points, then target 1 \"Archfiend\" monster in your Graveyard; Special Summon that target. It cannot be Tributed. Destroy it during the End Phase of this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 56246017,
+        "pack_id": "305-046",
+        "pack": "305",
+        "rarity": "Archfiend's Roar",
+        "date": 1045699200000
+    },
+    "tcg": {
+        "id": 56246017,
+        "pack_id": "DCR-099",
+        "pack": "DCR",
+        "rarity": "Archfiend's Roar",
+        "date": 1070236800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":16509093,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1600,"def":1700,"level":4,"race":16,"attribute":1,"category":10240,"name":"Royal Keeper","desc":"Once per turn, you can flip this card into face-down Defense Position. When this card is flipped face-up, it gains 300 ATK and DEF until the end of the turn. (If attacked, this effect resolves after damage calculation.)","str1":"变成里侧守备","str2":"攻守上升","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":16509093,"pack_id":"PH-18","pack":"PH","rarity":"Royal Keeper","date":1016668800000},"tcg":{"id":16509093,"pack_id":"PGD-018","pack":"PGD","rarity":"Royal Keeper","date":1058486400000}}
+{
+    "id": 16509093,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1600,
+    "def": 1700,
+    "level": 4,
+    "race": 16,
+    "attribute": 1,
+    "category": 10240,
+    "name": "Royal Keeper",
+    "desc": "Once per turn, you can flip this card into face-down Defense Position. When this card is flipped face-up, it gains 300 ATK and DEF until the end of the turn. (If attacked, this effect resolves after damage calculation.)",
+    "str1": "变成里侧守备",
+    "str2": "攻守上升",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 16509093,
+        "pack_id": "PH-18",
+        "pack": "PH",
+        "rarity": "Royal Keeper",
+        "date": 1016668800000
+    },
+    "tcg": {
+        "id": 16509093,
+        "pack_id": "PGD-018",
+        "pack": "PGD",
+        "rarity": "Royal Keeper",
+        "date": 1058486400000
+    }
+}

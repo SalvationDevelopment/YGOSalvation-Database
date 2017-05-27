@@ -1,1 +1,47 @@
-{"id":61807040,"ot":3,"alias":0,"setcode":0,"type":33,"atk":800,"def":1300,"level":2,"race":2,"attribute":8,"category":0,"name":"Flelf","desc":"Once per turn: You can reveal 1 monster in your hand; increase the Level of this card by the Level of that monster, until the End Phase.","str1":"Increase level","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":61807040,"pack_id":"VE05-JP001","pack":"VE05","rarity":"Flelf","date":1305936000000},"tcg":{"id":61807040,"pack_id":"GAOV-EN099","pack":"GAOV","rarity":"Flelf","date":1335571200000}}
+{
+    "id": 61807040,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 800,
+    "def": 1300,
+    "level": 2,
+    "race": 2,
+    "attribute": 8,
+    "category": 0,
+    "name": "Flelf",
+    "desc": "Once per turn: You can reveal 1 monster in your hand; increase the Level of this card by the Level of that monster, until the End Phase.",
+    "str1": "Increase level",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 61807040,
+        "pack_id": "VE05-JP001",
+        "pack": "VE05",
+        "rarity": "Flelf",
+        "date": 1305936000000
+    },
+    "tcg": {
+        "id": 61807040,
+        "pack_id": "GAOV-EN099",
+        "pack": "GAOV",
+        "rarity": "Flelf",
+        "date": 1335571200000
+    }
+}

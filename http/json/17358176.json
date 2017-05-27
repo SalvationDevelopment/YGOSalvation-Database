@@ -1,1 +1,47 @@
-{"id":17358176,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1100,"def":800,"level":3,"race":2,"attribute":16,"category":0,"name":"Lady of Faith","desc":"Soothes the souls of others by chanting a mysterious spell.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":17358176,"pack_id":"ME-59","pack":"ME","rarity":"Lady of Faith","date":942883200000},"tcg":{"id":17358176,"pack_id":"MRD-119","pack":"MRD","rarity":"Lady of Faith","date":1025049600000}}
+{
+    "id": 17358176,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1100,
+    "def": 800,
+    "level": 3,
+    "race": 2,
+    "attribute": 16,
+    "category": 0,
+    "name": "Lady of Faith",
+    "desc": "Soothes the souls of others by chanting a mysterious spell.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 17358176,
+        "pack_id": "ME-59",
+        "pack": "ME",
+        "rarity": "Lady of Faith",
+        "date": 942883200000
+    },
+    "tcg": {
+        "id": 17358176,
+        "pack_id": "MRD-119",
+        "pack": "MRD",
+        "rarity": "Lady of Faith",
+        "date": 1025049600000
+    }
+}

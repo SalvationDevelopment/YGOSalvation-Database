@@ -1,1 +1,47 @@
-{"id":65196094,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262144,"name":"Variety Comes Out","desc":"Return 1 face-up Synchro Monster you control to the Extra Deck to select and Special Summon a Tuner monster(s) from your Graveyard, whose total Levels equal the Level of that Synchro Monster. You cannot Synchro Summon the turn you activate this card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":65196094,"pack_id":"ABPF-JP046","pack":"ABPF","rarity":"Variety Comes Out","date":1258156800000},"tcg":{"id":65196094,"pack_id":"ABPF-EN046","pack":"ABPF","rarity":"Variety Comes Out","date":1265932800000}}
+{
+    "id": 65196094,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262144,
+    "name": "Variety Comes Out",
+    "desc": "Return 1 face-up Synchro Monster you control to the Extra Deck to select and Special Summon a Tuner monster(s) from your Graveyard, whose total Levels equal the Level of that Synchro Monster. You cannot Synchro Summon the turn you activate this card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 65196094,
+        "pack_id": "ABPF-JP046",
+        "pack": "ABPF",
+        "rarity": "Variety Comes Out",
+        "date": 1258156800000
+    },
+    "tcg": {
+        "id": 65196094,
+        "pack_id": "ABPF-EN046",
+        "pack": "ABPF",
+        "rarity": "Variety Comes Out",
+        "date": 1265932800000
+    }
+}

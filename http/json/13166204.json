@@ -1,1 +1,47 @@
-{"id":13166204,"ot":3,"alias":0,"setcode":84,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4194306,"name":"Gagagarush","desc":"When a face-up \"Gagaga\" monster(s) you control is targeted by the effect of an opponent's monster: Negate the effect of that opponent's monster, and if you do, destroy it, then inflict damage to your opponent equal to the destroyed monster's ATK or DEF in the Graveyard (whichever is higher).","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":13166204,"pack_id":"REDU-JP067","pack":"REDU","rarity":"Gagagarush","date":1334361600000},"tcg":{"id":13166204,"pack_id":"REDU-EN067","pack":"REDU","rarity":"Gagagarush","date":1345248000000}}
+{
+    "id": 13166204,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 84,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4194306,
+    "name": "Gagagarush",
+    "desc": "When a face-up \"Gagaga\" monster(s) you control is targeted by the effect of an opponent's monster: Negate the effect of that opponent's monster, and if you do, destroy it, then inflict damage to your opponent equal to the destroyed monster's ATK or DEF in the Graveyard (whichever is higher).",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 13166204,
+        "pack_id": "REDU-JP067",
+        "pack": "REDU",
+        "rarity": "Gagagarush",
+        "date": 1334361600000
+    },
+    "tcg": {
+        "id": 13166204,
+        "pack_id": "REDU-EN067",
+        "pack": "REDU",
+        "rarity": "Gagagarush",
+        "date": 1345248000000
+    }
+}

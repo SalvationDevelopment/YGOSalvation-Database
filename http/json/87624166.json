@@ -1,1 +1,47 @@
-{"id":87624166,"ot":3,"alias":0,"setcode":0,"type":524290,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":2050,"name":"Ancient Forest","desc":"When you activate this card, change any Defense Position monster(s) to face-up Attack Position. Flip Effects are not activated at this time. If a monster attacks, destroy it at the end of that turn's Battle Phase.","str1":"攻击怪兽破坏","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":87624166,"pack_id":"ANPR-JP048","pack":"ANPR","rarity":"Ancient Forest","date":1240012800000},"tcg":{"id":87624166,"pack_id":"ANPR-EN048","pack":"ANPR","rarity":"Ancient Forest","date":1251763200000}}
+{
+    "id": 87624166,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 524290,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 2050,
+    "name": "Ancient Forest",
+    "desc": "When you activate this card, change any Defense Position monster(s) to face-up Attack Position. Flip Effects are not activated at this time. If a monster attacks, destroy it at the end of that turn's Battle Phase.",
+    "str1": "攻击怪兽破坏",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 87624166,
+        "pack_id": "ANPR-JP048",
+        "pack": "ANPR",
+        "rarity": "Ancient Forest",
+        "date": 1240012800000
+    },
+    "tcg": {
+        "id": 87624166,
+        "pack_id": "ANPR-EN048",
+        "pack": "ANPR",
+        "rarity": "Ancient Forest",
+        "date": 1251763200000
+    }
+}

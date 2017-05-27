@@ -1,1 +1,47 @@
-{"id":56840427,"ot":3,"alias":0,"setcode":58265865916715080,"type":8388641,"atk":2500,"def":2000,"level":4,"race":1,"attribute":16,"category":8192,"name":"Number C39: Utopia Ray","desc":"3 Level 4 LIGHT monsters\nYou can also Xyz Summon this card by using a \"Number 39: Utopia\" you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) You can detach 1 Xyz Material from this card; it gains 500 ATK and 1 monster your opponent controls loses 1000 ATK, until the End Phase. You must have 1000 Life Points or less to activate and to resolve this effect.","str1":"Change ATK","str2":"Xyz summon by stacking on top of \"Number 39: Utopia\"?","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":56840427,"pack_id":"ORCS-JP040","pack":"ORCS","rarity":"Number C39: Utopia Ray","date":1321660800000},"tcg":{"id":56840427,"pack_id":"ORCS-EN040","pack":"ORCS","rarity":"Number C39: Utopia Ray","date":1326499200000}}
+{
+    "id": 56840427,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 58265865916715080,
+    "type": 8388641,
+    "atk": 2500,
+    "def": 2000,
+    "level": 4,
+    "race": 1,
+    "attribute": 16,
+    "category": 8192,
+    "name": "Number C39: Utopia Ray",
+    "desc": "3 Level 4 LIGHT monsters\nYou can also Xyz Summon this card by using a \"Number 39: Utopia\" you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) You can detach 1 Xyz Material from this card; it gains 500 ATK and 1 monster your opponent controls loses 1000 ATK, until the End Phase. You must have 1000 Life Points or less to activate and to resolve this effect.",
+    "str1": "Change ATK",
+    "str2": "Xyz summon by stacking on top of \"Number 39: Utopia\"?",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 56840427,
+        "pack_id": "ORCS-JP040",
+        "pack": "ORCS",
+        "rarity": "Number C39: Utopia Ray",
+        "date": 1321660800000
+    },
+    "tcg": {
+        "id": 56840427,
+        "pack_id": "ORCS-EN040",
+        "pack": "ORCS",
+        "rarity": "Number C39: Utopia Ray",
+        "date": 1326499200000
+    }
+}

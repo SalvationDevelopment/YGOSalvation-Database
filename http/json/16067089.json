@@ -1,1 +1,47 @@
-{"id":16067089,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262656,"name":"Rise of the Snake Deity","desc":"When a face-up \"Vennominon the King of Poisonous Snakes\" you control is destroyed, except by battle: Special Summon 1 \"Vennominaga the Deity of Poisonous Snakes\" from your hand or Deck.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":16067089,"pack_id":"TAEV-JP069","pack":"TAEV","rarity":"Rise of the Snake Deity","date":1178928000000},"tcg":{"id":16067089,"pack_id":"TAEV-EN069","pack":"TAEV","rarity":"Rise of the Snake Deity","date":1187136000000}}
+{
+    "id": 16067089,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262656,
+    "name": "Rise of the Snake Deity",
+    "desc": "When a face-up \"Vennominon the King of Poisonous Snakes\" you control is destroyed, except by battle: Special Summon 1 \"Vennominaga the Deity of Poisonous Snakes\" from your hand or Deck.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 16067089,
+        "pack_id": "TAEV-JP069",
+        "pack": "TAEV",
+        "rarity": "Rise of the Snake Deity",
+        "date": 1178928000000
+    },
+    "tcg": {
+        "id": 16067089,
+        "pack_id": "TAEV-EN069",
+        "pack": "TAEV",
+        "rarity": "Rise of the Snake Deity",
+        "date": 1187136000000
+    }
+}

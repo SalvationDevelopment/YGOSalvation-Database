@@ -1,1 +1,47 @@
-{"id":45311864,"ot":3,"alias":0,"setcode":172,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":12582912,"name":"Goblin Thief","desc":"Inflict 500 points of damage to your opponent's Life Points and increase your Life Points by 500 points.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":45311864,"pack_id":"308-045","pack":"308","rarity":"Goblin Thief","date":1069286400000},"tcg":{"id":45311864,"pack_id":"AST-045","pack":"AST","rarity":"Goblin Thief","date":1086048000000}}
+{
+    "id": 45311864,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 172,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 12582912,
+    "name": "Goblin Thief",
+    "desc": "Inflict 500 points of damage to your opponent's Life Points and increase your Life Points by 500 points.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 45311864,
+        "pack_id": "308-045",
+        "pack": "308",
+        "rarity": "Goblin Thief",
+        "date": 1069286400000
+    },
+    "tcg": {
+        "id": 45311864,
+        "pack_id": "AST-045",
+        "pack": "AST",
+        "rarity": "Goblin Thief",
+        "date": 1086048000000
+    }
+}

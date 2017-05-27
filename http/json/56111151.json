@@ -1,1 +1,47 @@
-{"id":56111151,"ot":3,"alias":0,"setcode":0,"type":524290,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Kyoutou Waterfront","desc":"Each time a card(s) is sent from the field to the Graveyard, place 1 Kaiju Counter on this card for each sent card (max. 5). Once per turn, while 3 or more Kaiju Counters are on this card: You can add 1 \"Kaiju\" monster from your Deck to your hand. If this card would be destroyed, you can remove 1 Kaiju Counter from this card instead.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":56111151,"pack_id":"EP16-JP029","pack":"EP16","rarity":"Kyoutou Waterfront","date":1473465600000},"tcg":{"id":56111151,"pack_id":"‎CORE-EN089‬","pack":"‎CORE","rarity":"Kyoutou Waterfront","date":1438819200000}}
+{
+    "id": 56111151,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 524290,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Kyoutou Waterfront",
+    "desc": "Each time a card(s) is sent from the field to the Graveyard, place 1 Kaiju Counter on this card for each sent card (max. 5). Once per turn, while 3 or more Kaiju Counters are on this card: You can add 1 \"Kaiju\" monster from your Deck to your hand. If this card would be destroyed, you can remove 1 Kaiju Counter from this card instead.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 56111151,
+        "pack_id": "EP16-JP029",
+        "pack": "EP16",
+        "rarity": "Kyoutou Waterfront",
+        "date": 1473465600000
+    },
+    "tcg": {
+        "id": 56111151,
+        "pack_id": "‎CORE-EN089‬",
+        "pack": "‎CORE",
+        "rarity": "Kyoutou Waterfront",
+        "date": 1438819200000
+    }
+}

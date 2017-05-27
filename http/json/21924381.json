@@ -1,1 +1,47 @@
-{"id":21924381,"ot":3,"alias":0,"setcode":111,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":16785408,"name":"Heroic Advance","desc":"When a face-up \"Heroic\" monster you control is targeted for an attack: Target another face-up Level 4 or lower \"Heroic\" monster you control; double its ATK during this Battle Phase, then switch the attack target to it and conduct damage calculation, but monsters cannot be destroyed by this battle.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":21924381,"pack_id":"ABYR-JP069","pack":"ABYR","rarity":"Heroic Advance","date":1342828800000},"tcg":{"id":21924381,"pack_id":"ABYR-EN069","pack":"ABYR","rarity":"Heroic Advance","date":1352419200000}}
+{
+    "id": 21924381,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 111,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 16785408,
+    "name": "Heroic Advance",
+    "desc": "When a face-up \"Heroic\" monster you control is targeted for an attack: Target another face-up Level 4 or lower \"Heroic\" monster you control; double its ATK during this Battle Phase, then switch the attack target to it and conduct damage calculation, but monsters cannot be destroyed by this battle.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 21924381,
+        "pack_id": "ABYR-JP069",
+        "pack": "ABYR",
+        "rarity": "Heroic Advance",
+        "date": 1342828800000
+    },
+    "tcg": {
+        "id": 21924381,
+        "pack_id": "ABYR-EN069",
+        "pack": "ABYR",
+        "rarity": "Heroic Advance",
+        "date": 1352419200000
+    }
+}

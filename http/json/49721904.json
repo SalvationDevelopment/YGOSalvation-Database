@@ -1,1 +1,47 @@
-{"id":49721904,"ot":3,"alias":0,"setcode":61,"type":33,"atk":1800,"def":500,"level":4,"race":1,"attribute":1,"category":270336,"name":"Legendary Six Samurai - Kizan","desc":"If you control a face-up \"Six Samurai\" monster with a different name, you can Special Summon this card (from your hand). While you control 2 or more other face-up \"Six Samurai\" monsters, this card gains 300 ATK and DEF.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":49721904,"pack_id":"STOR-JP020","pack":"STOR","rarity":"Legendary Six Samurai - Kizan","date":1289606400000},"tcg":{"id":49721904,"pack_id":"STOR-EN020","pack":"STOR","rarity":"Legendary Six Samurai - Kizan","date":1297123200000}}
+{
+    "id": 49721904,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 61,
+    "type": 33,
+    "atk": 1800,
+    "def": 500,
+    "level": 4,
+    "race": 1,
+    "attribute": 1,
+    "category": 270336,
+    "name": "Legendary Six Samurai - Kizan",
+    "desc": "If you control a face-up \"Six Samurai\" monster with a different name, you can Special Summon this card (from your hand). While you control 2 or more other face-up \"Six Samurai\" monsters, this card gains 300 ATK and DEF.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 49721904,
+        "pack_id": "STOR-JP020",
+        "pack": "STOR",
+        "rarity": "Legendary Six Samurai - Kizan",
+        "date": 1289606400000
+    },
+    "tcg": {
+        "id": 49721904,
+        "pack_id": "STOR-EN020",
+        "pack": "STOR",
+        "rarity": "Legendary Six Samurai - Kizan",
+        "date": 1297123200000
+    }
+}

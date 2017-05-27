@@ -1,1 +1,47 @@
-{"id":78552773,"ot":3,"alias":0,"setcode":0,"type":4129,"atk":300,"def":100,"level":1,"race":8,"attribute":1,"category":262144,"name":"Supay","desc":"When this card is sent from the field to the Graveyard by a card effect: You can Special Summon 1 \"Oracle of the Sun\" from your Deck, and if you do, double its ATK, also return it to the hand during the End Phase of this turn.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":78552773,"pack_id":"ABPF-JP023","pack":"ABPF","rarity":"Supay","date":1258156800000},"tcg":{"id":78552773,"pack_id":"ABPF-EN023","pack":"ABPF","rarity":"Supay","date":1265932800000}}
+{
+    "id": 78552773,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4129,
+    "atk": 300,
+    "def": 100,
+    "level": 1,
+    "race": 8,
+    "attribute": 1,
+    "category": 262144,
+    "name": "Supay",
+    "desc": "When this card is sent from the field to the Graveyard by a card effect: You can Special Summon 1 \"Oracle of the Sun\" from your Deck, and if you do, double its ATK, also return it to the hand during the End Phase of this turn.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 78552773,
+        "pack_id": "ABPF-JP023",
+        "pack": "ABPF",
+        "rarity": "Supay",
+        "date": 1258156800000
+    },
+    "tcg": {
+        "id": 78552773,
+        "pack_id": "ABPF-EN023",
+        "pack": "ABPF",
+        "rarity": "Supay",
+        "date": 1265932800000
+    }
+}

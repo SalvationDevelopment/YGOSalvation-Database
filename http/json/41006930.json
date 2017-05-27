@@ -1,1 +1,47 @@
-{"id":41006930,"ot":3,"alias":0,"setcode":43,"type":33,"atk":1700,"def":1200,"level":4,"race":1,"attribute":32,"category":2097156,"name":"Strike Ninja","desc":"Once per turn, during either player's turn: You can banish 2 DARK monsters from your Graveyard; banish this face-up card until the End Phase.","str1":"Banish","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":41006930,"pack_id":"306-007","pack":"306","rarity":"Strike Ninja","date":1051142400000},"tcg":{"id":41006930,"pack_id":"IOC-007","pack":"IOC","rarity":"Strike Ninja","date":1078099200000}}
+{
+    "id": 41006930,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 43,
+    "type": 33,
+    "atk": 1700,
+    "def": 1200,
+    "level": 4,
+    "race": 1,
+    "attribute": 32,
+    "category": 2097156,
+    "name": "Strike Ninja",
+    "desc": "Once per turn, during either player's turn: You can banish 2 DARK monsters from your Graveyard; banish this face-up card until the End Phase.",
+    "str1": "Banish",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 41006930,
+        "pack_id": "306-007",
+        "pack": "306",
+        "rarity": "Strike Ninja",
+        "date": 1051142400000
+    },
+    "tcg": {
+        "id": 41006930,
+        "pack_id": "IOC-007",
+        "pack": "IOC",
+        "rarity": "Strike Ninja",
+        "date": 1078099200000
+    }
+}

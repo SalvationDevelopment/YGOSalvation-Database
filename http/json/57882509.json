@@ -1,1 +1,47 @@
-{"id":57882509,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8192,"name":"Mask of Weakness","desc":"Target 1 attacking monster; that target loses 700 ATK until the end of this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":57882509,"pack_id":"SM-14","pack":"SM","rarity":"Mask of Weakness","date":987638400000},"tcg":{"id":57882509,"pack_id":"LON-015","pack":"LON","rarity":"Mask of Weakness","date":1046476800000}}
+{
+    "id": 57882509,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8192,
+    "name": "Mask of Weakness",
+    "desc": "Target 1 attacking monster; that target loses 700 ATK until the end of this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 57882509,
+        "pack_id": "SM-14",
+        "pack": "SM",
+        "rarity": "Mask of Weakness",
+        "date": 987638400000
+    },
+    "tcg": {
+        "id": 57882509,
+        "pack_id": "LON-015",
+        "pack": "LON",
+        "rarity": "Mask of Weakness",
+        "date": 1046476800000
+    }
+}

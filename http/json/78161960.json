@@ -1,1 +1,47 @@
-{"id":78161960,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Reject Reborn","desc":"When an opponent's monster declares a direct attack: End the Battle Phase, then you can Special Summon 1 Tuner monster and 1 Synchro Monster from your Graveyard, but their effects are negated.","str1":"Special Summon a monster","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":78161960,"pack_id":"BOSH-JP071","pack":"BOSH","rarity":"Reject Reborn","date":1445040000000},"tcg":{"id":78161960,"pack_id":"BOSH-EN071","pack":"BOSH","rarity":"Reject Reborn","date":1452729600000}}
+{
+    "id": 78161960,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Reject Reborn",
+    "desc": "When an opponent's monster declares a direct attack: End the Battle Phase, then you can Special Summon 1 Tuner monster and 1 Synchro Monster from your Graveyard, but their effects are negated.",
+    "str1": "Special Summon a monster",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 78161960,
+        "pack_id": "BOSH-JP071",
+        "pack": "BOSH",
+        "rarity": "Reject Reborn",
+        "date": 1445040000000
+    },
+    "tcg": {
+        "id": 78161960,
+        "pack_id": "BOSH-EN071",
+        "pack": "BOSH",
+        "rarity": "Reject Reborn",
+        "date": 1452729600000
+    }
+}

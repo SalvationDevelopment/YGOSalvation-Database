@@ -1,1 +1,47 @@
-{"id":90239723,"ot":3,"alias":0,"setcode":38,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":264200,"name":"Morphtronic Repair Unit","desc":"Send 1 \"Morphtronic\" monster from your hand to the Graveyard and select 1 \"Morphtronic\" monster in your Graveyard. Special Summon the selected monster and equip it with this card. The equipped monster cannot change its Battle Position. When this card is removed from the Field, destroy the equipped monster.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":90239723,"pack_id":"RGBT-JP054","pack":"RGBT","rarity":"Morphtronic Repair Unit","date":1234569600000},"tcg":{"id":90239723,"pack_id":"RGBT-EN054","pack":"RGBT","rarity":"Morphtronic Repair Unit","date":1241222400000}}
+{
+    "id": 90239723,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 38,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 264200,
+    "name": "Morphtronic Repair Unit",
+    "desc": "Send 1 \"Morphtronic\" monster from your hand to the Graveyard and select 1 \"Morphtronic\" monster in your Graveyard. Special Summon the selected monster and equip it with this card. The equipped monster cannot change its Battle Position. When this card is removed from the Field, destroy the equipped monster.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 90239723,
+        "pack_id": "RGBT-JP054",
+        "pack": "RGBT",
+        "rarity": "Morphtronic Repair Unit",
+        "date": 1234569600000
+    },
+    "tcg": {
+        "id": 90239723,
+        "pack_id": "RGBT-EN054",
+        "pack": "RGBT",
+        "rarity": "Morphtronic Repair Unit",
+        "date": 1241222400000
+    }
+}

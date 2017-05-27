@@ -1,1 +1,47 @@
-{"id":40937767,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1600,"def":1500,"level":4,"race":256,"attribute":1,"category":4194304,"name":"Grave Ohja","desc":"While there is a face-down Defense Position monster(s) on your side of the field, no player can select this card as an attack target. Each time a monster on your side of the field is Flip Summoned, inflict 300 damage to your opponent.","str1":"Inflict damage","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":40937767,"pack_id":"TLM-JP017","pack":"TLM","rarity":"Grave Ohja","date":1134000000000},"tcg":{"id":40937767,"pack_id":"TLM-EN017","pack":"TLM","rarity":"Grave Ohja","date":1117238400000}}
+{
+    "id": 40937767,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1600,
+    "def": 1500,
+    "level": 4,
+    "race": 256,
+    "attribute": 1,
+    "category": 4194304,
+    "name": "Grave Ohja",
+    "desc": "While there is a face-down Defense Position monster(s) on your side of the field, no player can select this card as an attack target. Each time a monster on your side of the field is Flip Summoned, inflict 300 damage to your opponent.",
+    "str1": "Inflict damage",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 40937767,
+        "pack_id": "TLM-JP017",
+        "pack": "TLM",
+        "rarity": "Grave Ohja",
+        "date": 1134000000000
+    },
+    "tcg": {
+        "id": 40937767,
+        "pack_id": "TLM-EN017",
+        "pack": "TLM",
+        "rarity": "Grave Ohja",
+        "date": 1117238400000
+    }
+}

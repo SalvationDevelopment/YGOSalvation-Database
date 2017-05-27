@@ -1,1 +1,47 @@
-{"id":93353691,"ot":3,"alias":0,"setcode":0,"type":8225,"atk":2400,"def":2100,"level":7,"race":1,"attribute":1,"category":16777218,"name":"Driven Daredevil","desc":"1 Warrior-Type Tuner + 1 or more non-Tuner Warrior-Type monsters\nThis card cannot be destroyed by battle when attacked by a monster with higher ATK. After damage calculation, if this card was attacked by a monster with higher ATK: Destroy the opponent's monster it battled.","str1":"Destroy","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":93353691,"pack_id":"DDY3-JP004","pack":"DDY3","rarity":"Driven Daredevil","date":1290211200000},"tcg":{"id":93353691,"pack_id":"ORCS-EN097","pack":"ORCS","rarity":"Driven Daredevil","date":1326499200000}}
+{
+    "id": 93353691,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8225,
+    "atk": 2400,
+    "def": 2100,
+    "level": 7,
+    "race": 1,
+    "attribute": 1,
+    "category": 16777218,
+    "name": "Driven Daredevil",
+    "desc": "1 Warrior-Type Tuner + 1 or more non-Tuner Warrior-Type monsters\nThis card cannot be destroyed by battle when attacked by a monster with higher ATK. After damage calculation, if this card was attacked by a monster with higher ATK: Destroy the opponent's monster it battled.",
+    "str1": "Destroy",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 93353691,
+        "pack_id": "DDY3-JP004",
+        "pack": "DDY3",
+        "rarity": "Driven Daredevil",
+        "date": 1290211200000
+    },
+    "tcg": {
+        "id": 93353691,
+        "pack_id": "ORCS-EN097",
+        "pack": "ORCS",
+        "rarity": "Driven Daredevil",
+        "date": 1326499200000
+    }
+}

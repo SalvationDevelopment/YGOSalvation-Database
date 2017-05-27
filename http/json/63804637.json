@@ -1,1 +1,47 @@
-{"id":63804637,"ot":3,"alias":0,"setcode":155,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Melodious Illusion","desc":"Target 1 \"Melodious\" monster you control; this turn, that face-up monster you control is unaffected by your opponent's Spell/Trap effects, and it can make a second attack during each Battle Phase.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":63804637,"pack_id":"CROS-JP067","pack":"CROS","rarity":"Melodious Illusion","date":1423872000000},"tcg":{"id":63804637,"pack_id":"CROS-EN067","pack":"CROS","rarity":"Melodious Illusion","date":1431561600000}}
+{
+    "id": 63804637,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 155,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Melodious Illusion",
+    "desc": "Target 1 \"Melodious\" monster you control; this turn, that face-up monster you control is unaffected by your opponent's Spell/Trap effects, and it can make a second attack during each Battle Phase.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 63804637,
+        "pack_id": "CROS-JP067",
+        "pack": "CROS",
+        "rarity": "Melodious Illusion",
+        "date": 1423872000000
+    },
+    "tcg": {
+        "id": 63804637,
+        "pack_id": "CROS-EN067",
+        "pack": "CROS",
+        "rarity": "Melodious Illusion",
+        "date": 1431561600000
+    }
+}

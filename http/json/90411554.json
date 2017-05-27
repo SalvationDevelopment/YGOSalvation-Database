@@ -1,1 +1,47 @@
-{"id":90411554,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1600,"def":3000,"level":7,"race":8192,"attribute":1,"category":262656,"name":"Redox, Dragon Ruler of Boulders","desc":"If this card is in your hand or Graveyard: You can banish a total of 2 EARTH and/or Dragon-Type monsters from your hand and/or Graveyard, except this card; Special Summon this card. During your opponent's End Phase, if this card was Special Summoned: Return it to the hand. You can discard this card and 1 EARTH monster to the Graveyard, then target 1 monster in your Graveyard; Special Summon that target. If this card is banished: You can add 1 EARTH Dragon-Type monster from your Deck to your hand. You can only use 1 \"Redox, Dragon Ruler of Boulders\" effect per turn, and only once that turn.","str1":"Special Summon","str2":"Return to hand","str3":"Special Summon 1 monster in your Graveyard","str4":"Add to hand","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":90411554,"pack_id":"LTGY-JP038","pack":"LTGY","rarity":"Redox, Dragon Ruler of Boulders","date":1360972800000},"tcg":{"id":90411554,"pack_id":"LTGY-EN038","pack":"LTGY","rarity":"Redox, Dragon Ruler of Boulders","date":1368748800000}}
+{
+    "id": 90411554,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1600,
+    "def": 3000,
+    "level": 7,
+    "race": 8192,
+    "attribute": 1,
+    "category": 262656,
+    "name": "Redox, Dragon Ruler of Boulders",
+    "desc": "If this card is in your hand or Graveyard: You can banish a total of 2 EARTH and/or Dragon-Type monsters from your hand and/or Graveyard, except this card; Special Summon this card. During your opponent's End Phase, if this card was Special Summoned: Return it to the hand. You can discard this card and 1 EARTH monster to the Graveyard, then target 1 monster in your Graveyard; Special Summon that target. If this card is banished: You can add 1 EARTH Dragon-Type monster from your Deck to your hand. You can only use 1 \"Redox, Dragon Ruler of Boulders\" effect per turn, and only once that turn.",
+    "str1": "Special Summon",
+    "str2": "Return to hand",
+    "str3": "Special Summon 1 monster in your Graveyard",
+    "str4": "Add to hand",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 90411554,
+        "pack_id": "LTGY-JP038",
+        "pack": "LTGY",
+        "rarity": "Redox, Dragon Ruler of Boulders",
+        "date": 1360972800000
+    },
+    "tcg": {
+        "id": 90411554,
+        "pack_id": "LTGY-EN038",
+        "pack": "LTGY",
+        "rarity": "Redox, Dragon Ruler of Boulders",
+        "date": 1368748800000
+    }
+}

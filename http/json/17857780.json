@@ -1,1 +1,47 @@
-{"id":17857780,"ot":3,"alias":0,"setcode":159,"type":16777249,"atk":600,"def":1000,"level":84213762,"race":16384,"attribute":1,"category":0,"name":"Performapal Cheermole","desc":"Pendulum Effect\nAll Pendulum Monsters you control gain 300 ATK.\n\nMonster Effect\nYou can target 1 monster whose current ATK is different from its original ATK; apply the appropriate effect. You can only use this effect of \"Performapal Cheermole\" once per turn.\n● If that monster's current ATK is higher than its original ATK, it gains 1000 ATK.\n● If that monster's current ATK is lower than its original ATK, it loses 1000 ATK.","str1":" ","str2":"If its ATK is lower than its original ATK: It gains 1000 ATK.","str3":"If its ATK is higher than its original ATK: It loses 1000 ATK.","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":17857780,"pack_id":"NECH-JP001","pack":"NECH","rarity":"Performapal Cheermole","date":1405728000000},"tcg":{"id":17857780,"pack_id":"NECH-EN001","pack":"NECH","rarity":"Performapal Cheermole","date":1415232000000}}
+{
+    "id": 17857780,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 159,
+    "type": 16777249,
+    "atk": 600,
+    "def": 1000,
+    "level": 84213762,
+    "race": 16384,
+    "attribute": 1,
+    "category": 0,
+    "name": "Performapal Cheermole",
+    "desc": "Pendulum Effect\nAll Pendulum Monsters you control gain 300 ATK.\n\nMonster Effect\nYou can target 1 monster whose current ATK is different from its original ATK; apply the appropriate effect. You can only use this effect of \"Performapal Cheermole\" once per turn.\n● If that monster's current ATK is higher than its original ATK, it gains 1000 ATK.\n● If that monster's current ATK is lower than its original ATK, it loses 1000 ATK.",
+    "str1": " ",
+    "str2": "If its ATK is lower than its original ATK: It gains 1000 ATK.",
+    "str3": "If its ATK is higher than its original ATK: It loses 1000 ATK.",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 17857780,
+        "pack_id": "NECH-JP001",
+        "pack": "NECH",
+        "rarity": "Performapal Cheermole",
+        "date": 1405728000000
+    },
+    "tcg": {
+        "id": 17857780,
+        "pack_id": "NECH-EN001",
+        "pack": "NECH",
+        "rarity": "Performapal Cheermole",
+        "date": 1415232000000
+    }
+}

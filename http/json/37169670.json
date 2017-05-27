@@ -1,1 +1,47 @@
-{"id":37169670,"ot":3,"alias":0,"setcode":4175,"type":33,"atk":3500,"def":3000,"level":11,"race":1048576,"attribute":1,"category":12845056,"name":"Hyper Psychic Blaster/Assault Mode","desc":"This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Assault Mode Activate\". If this card battles a monster, at the end of the Damage Step, inflict damage to your opponent equal to that monster's DEF and gain Life Points equal to its ATK. When this card on the field is destroyed, you can Special Summon 1 \"Hyper Psychic Blaster\" from your Graveyard.","str1":"伤害和回复","str2":"特殊召唤「超念力枪手」","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":37169670,"pack_id":"CRMS-JP020","pack":"CRMS","rarity":"Hyper Psychic Blaster/Assault Mode","date":1344643200000},"tcg":{"id":37169670,"pack_id":"CRMS-EN020","pack":"CRMS","rarity":"Hyper Psychic Blaster/Assault Mode","date":1235779200000}}
+{
+    "id": 37169670,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4175,
+    "type": 33,
+    "atk": 3500,
+    "def": 3000,
+    "level": 11,
+    "race": 1048576,
+    "attribute": 1,
+    "category": 12845056,
+    "name": "Hyper Psychic Blaster/Assault Mode",
+    "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Assault Mode Activate\". If this card battles a monster, at the end of the Damage Step, inflict damage to your opponent equal to that monster's DEF and gain Life Points equal to its ATK. When this card on the field is destroyed, you can Special Summon 1 \"Hyper Psychic Blaster\" from your Graveyard.",
+    "str1": "伤害和回复",
+    "str2": "特殊召唤「超念力枪手」",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 37169670,
+        "pack_id": "CRMS-JP020",
+        "pack": "CRMS",
+        "rarity": "Hyper Psychic Blaster/Assault Mode",
+        "date": 1344643200000
+    },
+    "tcg": {
+        "id": 37169670,
+        "pack_id": "CRMS-EN020",
+        "pack": "CRMS",
+        "rarity": "Hyper Psychic Blaster/Assault Mode",
+        "date": 1235779200000
+    }
+}

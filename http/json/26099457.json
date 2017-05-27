@@ -1,1 +1,47 @@
-{"id":26099457,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Falling Current","desc":"Target 1 face-up monster you control and declare a Level between 1 and 3; it becomes that Level.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":26099457,"pack_id":"GAOV-JP053","pack":"GAOV","rarity":"Falling Current","date":1329523200000},"tcg":{"id":26099457,"pack_id":"GAOV-EN053","pack":"GAOV","rarity":"Falling Current","date":1335571200000}}
+{
+    "id": 26099457,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Falling Current",
+    "desc": "Target 1 face-up monster you control and declare a Level between 1 and 3; it becomes that Level.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 26099457,
+        "pack_id": "GAOV-JP053",
+        "pack": "GAOV",
+        "rarity": "Falling Current",
+        "date": 1329523200000
+    },
+    "tcg": {
+        "id": 26099457,
+        "pack_id": "GAOV-EN053",
+        "pack": "GAOV",
+        "rarity": "Falling Current",
+        "date": 1335571200000
+    }
+}

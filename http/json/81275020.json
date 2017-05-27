@@ -1,1 +1,47 @@
-{"id":81275020,"ot":3,"alias":0,"setcode":8214,"type":33,"atk":1200,"def":600,"level":3,"race":32,"attribute":8,"category":0,"name":"Speedroid Terrortop","desc":"If you control no monsters, you can Special Summon this card (from your hand). When this card is Normal or Special Summoned: You can add 1 \"Speedroid\" monster from your Deck to your hand, except \"Speedroid Terrortop\". You can only use this effect of \"Speedroid Terrortop\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":81275020,"pack_id":"SPHR-JP001","pack":"SPHR","rarity":"Speedroid Terrortop","date":1440201600000},"tcg":{"id":81275020,"pack_id":"HSRD-EN001","pack":"HSRD","rarity":"Speedroid Terrortop","date":1443657600000}}
+{
+    "id": 81275020,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 8214,
+    "type": 33,
+    "atk": 1200,
+    "def": 600,
+    "level": 3,
+    "race": 32,
+    "attribute": 8,
+    "category": 0,
+    "name": "Speedroid Terrortop",
+    "desc": "If you control no monsters, you can Special Summon this card (from your hand). When this card is Normal or Special Summoned: You can add 1 \"Speedroid\" monster from your Deck to your hand, except \"Speedroid Terrortop\". You can only use this effect of \"Speedroid Terrortop\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 81275020,
+        "pack_id": "SPHR-JP001",
+        "pack": "SPHR",
+        "rarity": "Speedroid Terrortop",
+        "date": 1440201600000
+    },
+    "tcg": {
+        "id": 81275020,
+        "pack_id": "HSRD-EN001",
+        "pack": "HSRD",
+        "rarity": "Speedroid Terrortop",
+        "date": 1443657600000
+    }
+}

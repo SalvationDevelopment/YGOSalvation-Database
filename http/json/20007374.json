@@ -1,1 +1,47 @@
-{"id":20007374,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":327680,"name":"Converging Wishes","desc":"If you have 5 or more Dragon-Type Synchro Monsters with different names in your Graveyard: Special Summon 1 \"Stardust Dragon\" from your Extra Deck (this is treated as a Synchro Summon), but banish it during the End Phase. Equip it with this card. While equipped, it gains ATK equal to the combined ATK of all Dragon-Type Synchro Monsters in your Graveyard. Also while equipped, when it destroys an opponent's monster by battle: You can banish 1 Dragon-Type Synchro Monster from your Graveyard; it can attack an opponent's monster again in a row.","str1":" ","str2":" ","str3":" ","str4":" ","str5":" ","str6":" ","str7":" ","str8":" ","str9":" ","str10":" ","str11":" ","str12":" ","str13":" ","str14":" ","str15":" ","str16":" ","links":[],"cardpool":"OCG/TCG","ocg":{"id":20007374,"pack_id":"20AP-JP054","pack":"20AP","rarity":"Converging Wishes","date":1486771200000},"tcg":{"id":20007374,"pack_id":"DUSA-EN037","pack":"DUSA","rarity":"Converging Wishes","date":1490832000000}}
+{
+    "id": 20007374,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 327680,
+    "name": "Converging Wishes",
+    "desc": "If you have 5 or more Dragon-Type Synchro Monsters with different names in your Graveyard: Special Summon 1 \"Stardust Dragon\" from your Extra Deck (this is treated as a Synchro Summon), but banish it during the End Phase. Equip it with this card. While equipped, it gains ATK equal to the combined ATK of all Dragon-Type Synchro Monsters in your Graveyard. Also while equipped, when it destroys an opponent's monster by battle: You can banish 1 Dragon-Type Synchro Monster from your Graveyard; it can attack an opponent's monster again in a row.",
+    "str1": " ",
+    "str2": " ",
+    "str3": " ",
+    "str4": " ",
+    "str5": " ",
+    "str6": " ",
+    "str7": " ",
+    "str8": " ",
+    "str9": " ",
+    "str10": " ",
+    "str11": " ",
+    "str12": " ",
+    "str13": " ",
+    "str14": " ",
+    "str15": " ",
+    "str16": " ",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 20007374,
+        "pack_id": "20AP-JP054",
+        "pack": "20AP",
+        "rarity": "Converging Wishes",
+        "date": 1486771200000
+    },
+    "tcg": {
+        "id": 20007374,
+        "pack_id": "DUSA-EN037",
+        "pack": "DUSA",
+        "rarity": "Converging Wishes",
+        "date": 1490832000000
+    }
+}

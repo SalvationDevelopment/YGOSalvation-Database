@@ -1,1 +1,47 @@
-{"id":99634927,"ot":3,"alias":0,"setcode":283902188,"type":16777249,"atk":300,"def":200,"level":134742017,"race":8,"attribute":32,"category":0,"name":"Abyss Actor - Funky Comedian","desc":"Pendulum Effect\nOnce per turn: You can Tribute 1 \"Abyss Actor\" monster, then target 1 \"Abyss Actor\" monster you control; it gains ATK equal to the original ATK of the Tributed monster, until the end of this turn (even if this card leaves the field).\n\nMonster Effect\nIf this card is Normal or Special Summoned: You can make this card gain 300 ATK for each \"Abyss Actor\" monster you currently control, until the end of this turn. You can target 1 other \"Abyss Actor\" monster you control; it gains ATK equal to this card's current ATK, until the end of this turn. This card cannot attack the turn this effect is activated. You can only use this effect of \"Abyss Actor - Funky Comedian\" once per turn.","str1":"Increase Attack","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":99634927,"pack_id":"SPDS-JP017","pack":"SPDS","rarity":"Abyss Actor - Funky Comedian","date":1470441600000},"tcg":{"id":99634927,"pack_id":"DESO-EN017","pack":"DESO","rarity":"Abyss Actor - Funky Comedian","date":1479340800000}}
+{
+    "id": 99634927,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 283902188,
+    "type": 16777249,
+    "atk": 300,
+    "def": 200,
+    "level": 134742017,
+    "race": 8,
+    "attribute": 32,
+    "category": 0,
+    "name": "Abyss Actor - Funky Comedian",
+    "desc": "Pendulum Effect\nOnce per turn: You can Tribute 1 \"Abyss Actor\" monster, then target 1 \"Abyss Actor\" monster you control; it gains ATK equal to the original ATK of the Tributed monster, until the end of this turn (even if this card leaves the field).\n\nMonster Effect\nIf this card is Normal or Special Summoned: You can make this card gain 300 ATK for each \"Abyss Actor\" monster you currently control, until the end of this turn. You can target 1 other \"Abyss Actor\" monster you control; it gains ATK equal to this card's current ATK, until the end of this turn. This card cannot attack the turn this effect is activated. You can only use this effect of \"Abyss Actor - Funky Comedian\" once per turn.",
+    "str1": "Increase Attack",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 99634927,
+        "pack_id": "SPDS-JP017",
+        "pack": "SPDS",
+        "rarity": "Abyss Actor - Funky Comedian",
+        "date": 1470441600000
+    },
+    "tcg": {
+        "id": 99634927,
+        "pack_id": "DESO-EN017",
+        "pack": "DESO",
+        "rarity": "Abyss Actor - Funky Comedian",
+        "date": 1479340800000
+    }
+}

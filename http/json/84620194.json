@@ -1,1 +1,47 @@
-{"id":84620194,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1700,"def":1000,"level":4,"race":2048,"attribute":8,"category":0,"name":"Girochin Kuwagata","desc":"Despite its small size, this monster has powerful jaws that can rip metal to shreds.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":84620194,"pack_id":"TB-35","pack":"Thousand Eyes Bible － 千眼の魔術書 －","rarity":"共通","date":976770000000},"tcg":{"id":84620194,"pack_id":"PSV-085","pack":"PSV","rarity":"Girochin Kuwagata","date":1035072000000}}
+{
+    "id": 84620194,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1700,
+    "def": 1000,
+    "level": 4,
+    "race": 2048,
+    "attribute": 8,
+    "category": 0,
+    "name": "Girochin Kuwagata",
+    "desc": "Despite its small size, this monster has powerful jaws that can rip metal to shreds.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 84620194,
+        "pack_id": "TB-35",
+        "pack": "Thousand Eyes Bible － 千眼の魔術書 －",
+        "rarity": "共通",
+        "date": 976770000000
+    },
+    "tcg": {
+        "id": 84620194,
+        "pack_id": "PSV-085",
+        "pack": "PSV",
+        "rarity": "Girochin Kuwagata",
+        "date": 1035072000000
+    }
+}

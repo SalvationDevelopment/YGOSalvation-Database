@@ -1,1 +1,47 @@
-{"id":35565537,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1800,"def":1700,"level":5,"race":4,"attribute":16,"category":0,"name":"Dark Witch","desc":"A popular creature in mythology that delivers fatal attacks with a sharp spear.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":35565537,"pack_id":"MR-19","pack":"Magic Ruler － 魔法の支配者 －","rarity":"共通","date":956203200000},"tcg":{"id":35565537,"pack_id":"MRL-019","pack":"MRL","rarity":"Dark Witch","date":1032134400000}}
+{
+    "id": 35565537,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1800,
+    "def": 1700,
+    "level": 5,
+    "race": 4,
+    "attribute": 16,
+    "category": 0,
+    "name": "Dark Witch",
+    "desc": "A popular creature in mythology that delivers fatal attacks with a sharp spear.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 35565537,
+        "pack_id": "MR-19",
+        "pack": "Magic Ruler － 魔法の支配者 －",
+        "rarity": "共通",
+        "date": 956203200000
+    },
+    "tcg": {
+        "id": 35565537,
+        "pack_id": "MRL-019",
+        "pack": "MRL",
+        "rarity": "Dark Witch",
+        "date": 1032134400000
+    }
+}

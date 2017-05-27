@@ -1,1 +1,47 @@
-{"id":48445393,"ot":3,"alias":0,"setcode":36,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":266,"name":"Scrapstorm","desc":"Target 1 \"Scrap\" monster you control; send 1 \"Scrap\" monster from your Deck to the Graveyard, then draw 1 card, then destroy that monster.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":48445393,"pack_id":"DREV-JP048","pack":"DREV","rarity":"Scrapstorm","date":1271462400000},"tcg":{"id":48445393,"pack_id":"DREV-EN048","pack":"DREV","rarity":"Scrapstorm","date":1281139200000}}
+{
+    "id": 48445393,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 36,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 266,
+    "name": "Scrapstorm",
+    "desc": "Target 1 \"Scrap\" monster you control; send 1 \"Scrap\" monster from your Deck to the Graveyard, then draw 1 card, then destroy that monster.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 48445393,
+        "pack_id": "DREV-JP048",
+        "pack": "DREV",
+        "rarity": "Scrapstorm",
+        "date": 1271462400000
+    },
+    "tcg": {
+        "id": 48445393,
+        "pack_id": "DREV-EN048",
+        "pack": "DREV",
+        "rarity": "Scrapstorm",
+        "date": 1281139200000
+    }
+}

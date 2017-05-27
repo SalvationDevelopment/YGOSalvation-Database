@@ -1,1 +1,47 @@
-{"id":21417692,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2000,"def":800,"level":4,"race":2,"attribute":32,"category":65536,"name":"Dark Elf","desc":"This card requires a cost of 1000 of your own Life Points to attack.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":21417692,"pack_id":"ME-53","pack":"ME","rarity":"Dark Elf","date":948931200000},"tcg":{"id":21417692,"pack_id":"MRD-113","pack":"MRD","rarity":"Dark Elf","date":1025049600000}}
+{
+    "id": 21417692,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2000,
+    "def": 800,
+    "level": 4,
+    "race": 2,
+    "attribute": 32,
+    "category": 65536,
+    "name": "Dark Elf",
+    "desc": "This card requires a cost of 1000 of your own Life Points to attack.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 21417692,
+        "pack_id": "ME-53",
+        "pack": "ME",
+        "rarity": "Dark Elf",
+        "date": 948931200000
+    },
+    "tcg": {
+        "id": 21417692,
+        "pack_id": "MRD-113",
+        "pack": "MRD",
+        "rarity": "Dark Elf",
+        "date": 1025049600000
+    }
+}

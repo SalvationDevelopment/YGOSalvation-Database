@@ -1,1 +1,47 @@
-{"id":92001300,"ot":3,"alias":0,"setcode":7,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":67117056,"name":"Ancient Gear Castle","desc":"All \"Ancient Gear\" monsters gain 300 ATK. Each time a monster is Normal Summoned/Set, place 1 counter on this card. If you Tribute Summon an \"Ancient Gear\" monster face-up, you can Tribute this card instead, if the number of its counters is equal to or greater than the number of required Tribute(s).","str1":"Tribute \"Ancient Gear Castle\" to Tribute Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":92001300,"pack_id":"SOI-JP047","pack":"SOI","rarity":"Ancient Gear Castle","date":1132185600000},"tcg":{"id":92001300,"pack_id":"SOI-EN047","pack":"SOI","rarity":"Ancient Gear Castle","date":1140220800000}}
+{
+    "id": 92001300,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 7,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 67117056,
+    "name": "Ancient Gear Castle",
+    "desc": "All \"Ancient Gear\" monsters gain 300 ATK. Each time a monster is Normal Summoned/Set, place 1 counter on this card. If you Tribute Summon an \"Ancient Gear\" monster face-up, you can Tribute this card instead, if the number of its counters is equal to or greater than the number of required Tribute(s).",
+    "str1": "Tribute \"Ancient Gear Castle\" to Tribute Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 92001300,
+        "pack_id": "SOI-JP047",
+        "pack": "SOI",
+        "rarity": "Ancient Gear Castle",
+        "date": 1132185600000
+    },
+    "tcg": {
+        "id": 92001300,
+        "pack_id": "SOI-EN047",
+        "pack": "SOI",
+        "rarity": "Ancient Gear Castle",
+        "date": 1140220800000
+    }
+}

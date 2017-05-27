@@ -1,1 +1,47 @@
-{"id":11761845,"ot":3,"alias":0,"setcode":69,"type":17,"atk":2400,"def":2150,"level":6,"race":8,"attribute":32,"category":0,"name":"Beast of Talwar","desc":"Only the master of the sword among the Fiend-Type monsters is permitted to hold the Talwar.\n\n\n(This card is always treated as an \"Archfiend\" card.)","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":11761845,"pack_id":"BPT-J01","pack":"BPT","rarity":"Beast of Talwar","date":1042675200000},"tcg":{"id":11761845,"pack_id":"PSV-103","pack":"PSV","rarity":"Beast of Talwar","date":1035072000000}}
+{
+    "id": 11761845,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 69,
+    "type": 17,
+    "atk": 2400,
+    "def": 2150,
+    "level": 6,
+    "race": 8,
+    "attribute": 32,
+    "category": 0,
+    "name": "Beast of Talwar",
+    "desc": "Only the master of the sword among the Fiend-Type monsters is permitted to hold the Talwar.\n\n\n(This card is always treated as an \"Archfiend\" card.)",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 11761845,
+        "pack_id": "BPT-J01",
+        "pack": "BPT",
+        "rarity": "Beast of Talwar",
+        "date": 1042675200000
+    },
+    "tcg": {
+        "id": 11761845,
+        "pack_id": "PSV-103",
+        "pack": "PSV",
+        "rarity": "Beast of Talwar",
+        "date": 1035072000000
+    }
+}

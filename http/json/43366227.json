@@ -1,1 +1,47 @@
-{"id":43366227,"ot":3,"alias":0,"setcode":102,"type":8225,"atk":2300,"def":1800,"level":7,"race":1,"attribute":1,"category":4194314,"name":"Seven Swords Warrior","desc":"1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, when an Equip Card is equipped to this card: Inflict 800 damage to your opponent. Once per turn: You can target 1 Equip Card equipped to this card; send it to the Graveyard. When an Equip Card equipped to this card is sent to the Graveyard (except during the Damage Step): You can target 1 face-up monster your opponent controls; destroy that target.","str1":"Inflict damage","str2":"装备送墓","str3":"Destroy","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":43366227,"pack_id":"VE01-JP005","pack":"VE01","rarity":"Seven Swords Warrior","date":1274400000000},"tcg":{"id":43366227,"pack_id":"JUMP-EN047","pack":"JUMP","rarity":"Seven Swords Warrior","date":1362009600000}}
+{
+    "id": 43366227,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 102,
+    "type": 8225,
+    "atk": 2300,
+    "def": 1800,
+    "level": 7,
+    "race": 1,
+    "attribute": 1,
+    "category": 4194314,
+    "name": "Seven Swords Warrior",
+    "desc": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, when an Equip Card is equipped to this card: Inflict 800 damage to your opponent. Once per turn: You can target 1 Equip Card equipped to this card; send it to the Graveyard. When an Equip Card equipped to this card is sent to the Graveyard (except during the Damage Step): You can target 1 face-up monster your opponent controls; destroy that target.",
+    "str1": "Inflict damage",
+    "str2": "装备送墓",
+    "str3": "Destroy",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 43366227,
+        "pack_id": "VE01-JP005",
+        "pack": "VE01",
+        "rarity": "Seven Swords Warrior",
+        "date": 1274400000000
+    },
+    "tcg": {
+        "id": 43366227,
+        "pack_id": "JUMP-EN047",
+        "pack": "JUMP",
+        "rarity": "Seven Swords Warrior",
+        "date": 1362009600000
+    }
+}

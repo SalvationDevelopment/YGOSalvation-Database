@@ -1,1 +1,47 @@
-{"id":35629124,"ot":3,"alias":0,"setcode":0,"type":33,"atk":100,"def":200,"level":3,"race":8192,"attribute":1,"category":262144,"name":"Kidmodo Dragon","desc":"If this card is sent to the Graveyard: You can Special Summon 1 Dragon-Type monster from your hand. You cannot Special Summon monsters, except Dragon-Type monsters, nor conduct your Battle Phase, the turn you activate this effect. You can only use this effect of \"Kidmodo Dragon\" once per turn.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":35629124,"pack_id":"JF13-JPA07","pack":"JF13","rarity":"Kidmodo Dragon","date":1356134400000},"tcg":{"id":35629124,"pack_id":"SHSP-EN094","pack":"SHSP","rarity":"Kidmodo Dragon","date":1383868800000}}
+{
+    "id": 35629124,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 100,
+    "def": 200,
+    "level": 3,
+    "race": 8192,
+    "attribute": 1,
+    "category": 262144,
+    "name": "Kidmodo Dragon",
+    "desc": "If this card is sent to the Graveyard: You can Special Summon 1 Dragon-Type monster from your hand. You cannot Special Summon monsters, except Dragon-Type monsters, nor conduct your Battle Phase, the turn you activate this effect. You can only use this effect of \"Kidmodo Dragon\" once per turn.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 35629124,
+        "pack_id": "JF13-JPA07",
+        "pack": "JF13",
+        "rarity": "Kidmodo Dragon",
+        "date": 1356134400000
+    },
+    "tcg": {
+        "id": 35629124,
+        "pack_id": "SHSP-EN094",
+        "pack": "SHSP",
+        "rarity": "Kidmodo Dragon",
+        "date": 1383868800000
+    }
+}

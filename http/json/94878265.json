@@ -1,1 +1,47 @@
-{"id":94878265,"ot":3,"alias":0,"setcode":0,"type":33,"atk":100,"def":100,"level":1,"race":16384,"attribute":1,"category":1049616,"name":"Moja","desc":"When this card is destroyed by battle and sent to the Graveyard, you can add 1 Level 4 Beast-Type monster from your Graveyard to your hand.","str1":"Add to hand","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":94878265,"pack_id":"EXP3-JP005","pack":"EXP3","rarity":"Moja","date":1284768000000},"tcg":{"id":94878265,"pack_id":"RGBT-ENPP4","pack":"RGBT","rarity":"Moja","date":1236643200000}}
+{
+    "id": 94878265,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 100,
+    "def": 100,
+    "level": 1,
+    "race": 16384,
+    "attribute": 1,
+    "category": 1049616,
+    "name": "Moja",
+    "desc": "When this card is destroyed by battle and sent to the Graveyard, you can add 1 Level 4 Beast-Type monster from your Graveyard to your hand.",
+    "str1": "Add to hand",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 94878265,
+        "pack_id": "EXP3-JP005",
+        "pack": "EXP3",
+        "rarity": "Moja",
+        "date": 1284768000000
+    },
+    "tcg": {
+        "id": 94878265,
+        "pack_id": "RGBT-ENPP4",
+        "pack": "RGBT",
+        "rarity": "Moja",
+        "date": 1236643200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":1036974,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4194304,"name":"Misfortune","desc":"Select 1 face-up monster your opponent controls. Inflict damage to your opponent equal to half that monster's original ATK. Your monsters cannot attack this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":1036974,"pack_id":"EOJ-JP037","pack":"EOJ","rarity":"Misfortune","date":1140048000000},"tcg":{"id":1036974,"pack_id":"EOJ-EN037","pack":"EOJ","rarity":"Misfortune","date":1147824000000}}
+{
+    "id": 1036974,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4194304,
+    "name": "Misfortune",
+    "desc": "Select 1 face-up monster your opponent controls. Inflict damage to your opponent equal to half that monster's original ATK. Your monsters cannot attack this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 1036974,
+        "pack_id": "EOJ-JP037",
+        "pack": "EOJ",
+        "rarity": "Misfortune",
+        "date": 1140048000000
+    },
+    "tcg": {
+        "id": 1036974,
+        "pack_id": "EOJ-EN037",
+        "pack": "EOJ",
+        "rarity": "Misfortune",
+        "date": 1147824000000
+    }
+}

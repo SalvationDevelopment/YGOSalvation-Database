@@ -1,1 +1,47 @@
-{"id":17238333,"ot":3,"alias":0,"setcode":0,"type":17,"atk":550,"def":400,"level":2,"race":8,"attribute":32,"category":0,"name":"Wretched Ghost of the Attic","desc":"A harmless monster found lurking in just about any attic.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":17238333,"pack_id":"","pack":"","rarity":"Wretched Ghost of the Attic","date":927763200000},"tcg":{"id":17238333,"pack_id":"TP8-EN018","pack":"TP8","rarity":"Wretched Ghost of the Attic","date":1146182400000}}
+{
+    "id": 17238333,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 550,
+    "def": 400,
+    "level": 2,
+    "race": 8,
+    "attribute": 32,
+    "category": 0,
+    "name": "Wretched Ghost of the Attic",
+    "desc": "A harmless monster found lurking in just about any attic.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 17238333,
+        "pack_id": "",
+        "pack": "",
+        "rarity": "Wretched Ghost of the Attic",
+        "date": 927763200000
+    },
+    "tcg": {
+        "id": 17238333,
+        "pack_id": "TP8-EN018",
+        "pack": "TP8",
+        "rarity": "Wretched Ghost of the Attic",
+        "date": 1146182400000
+    }
+}

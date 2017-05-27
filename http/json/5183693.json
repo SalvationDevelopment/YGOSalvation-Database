@@ -1,1 +1,47 @@
-{"id":5183693,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8224,"name":"Amulet of Ambition","desc":"Equip only to a Normal Monster. If it battles a monster with a higher Level, the equipped monster gains 500 ATK x the difference in Levels (during that battle only). When this card is sent to the Graveyard, you can return it to the top of your Deck.","str1":"回到卡组最上面","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":5183693,"pack_id":"TAEV-JP061","pack":"TAEV","rarity":"Amulet of Ambition","date":1178928000000},"tcg":{"id":5183693,"pack_id":"TAEV-EN061","pack":"TAEV","rarity":"Amulet of Ambition","date":1187136000000}}
+{
+    "id": 5183693,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8224,
+    "name": "Amulet of Ambition",
+    "desc": "Equip only to a Normal Monster. If it battles a monster with a higher Level, the equipped monster gains 500 ATK x the difference in Levels (during that battle only). When this card is sent to the Graveyard, you can return it to the top of your Deck.",
+    "str1": "回到卡组最上面",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 5183693,
+        "pack_id": "TAEV-JP061",
+        "pack": "TAEV",
+        "rarity": "Amulet of Ambition",
+        "date": 1178928000000
+    },
+    "tcg": {
+        "id": 5183693,
+        "pack_id": "TAEV-EN061",
+        "pack": "TAEV",
+        "rarity": "Amulet of Ambition",
+        "date": 1187136000000
+    }
+}

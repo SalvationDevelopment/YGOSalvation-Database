@@ -1,1 +1,47 @@
-{"id":74605254,"ot":3,"alias":0,"setcode":7209135,"type":16777249,"atk":0,"def":0,"level":16842762,"race":8,"attribute":32,"category":0,"name":"D/D Savant Galilei","desc":"Pendulum Effect\nYou cannot Pendulum Summon monsters, except \"D/D\" monsters. This effect cannot be negated. Once per turn, during your Standby Phase: Increase this card's Pendulum Scale by 2 (max. 10), then destroy all monsters you control with a Level less than or equal to this card's Pendulum Scale, except \"D/D\" monsters.\n\nMonster Effect\nDuring either player's turn: You can discard this card, then target 1 \"D/D\" or \"Dark Contract\" card you control; return it to the hand. You can only use this effect of \"D/D Savant Galilei\" once per turn.","str1":"Discard","str2":"Pendulum Zone","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":74605254,"pack_id":"SPRG-JP003","pack":"SPRG","rarity":"D/D Savant Galilei","date":1407542400000},"tcg":{"id":74605254,"pack_id":"DOCS-EN091","pack":"DOCS","rarity":"D/D Savant Galilei","date":1446681600000}}
+{
+    "id": 74605254,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 7209135,
+    "type": 16777249,
+    "atk": 0,
+    "def": 0,
+    "level": 16842762,
+    "race": 8,
+    "attribute": 32,
+    "category": 0,
+    "name": "D/D Savant Galilei",
+    "desc": "Pendulum Effect\nYou cannot Pendulum Summon monsters, except \"D/D\" monsters. This effect cannot be negated. Once per turn, during your Standby Phase: Increase this card's Pendulum Scale by 2 (max. 10), then destroy all monsters you control with a Level less than or equal to this card's Pendulum Scale, except \"D/D\" monsters.\n\nMonster Effect\nDuring either player's turn: You can discard this card, then target 1 \"D/D\" or \"Dark Contract\" card you control; return it to the hand. You can only use this effect of \"D/D Savant Galilei\" once per turn.",
+    "str1": "Discard",
+    "str2": "Pendulum Zone",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 74605254,
+        "pack_id": "SPRG-JP003",
+        "pack": "SPRG",
+        "rarity": "D/D Savant Galilei",
+        "date": 1407542400000
+    },
+    "tcg": {
+        "id": 74605254,
+        "pack_id": "DOCS-EN091",
+        "pack": "DOCS",
+        "rarity": "D/D Savant Galilei",
+        "date": 1446681600000
+    }
+}

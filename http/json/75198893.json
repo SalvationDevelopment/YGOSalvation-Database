@@ -1,1 +1,47 @@
-{"id":75198893,"ot":3,"alias":0,"setcode":0,"type":33,"atk":-2,"def":-2,"level":1,"race":32,"attribute":16,"category":0,"name":"Scanner","desc":"Once per turn, you can select 1 of your opponent's monsters that is removed from play. Until the End Phase, this card's name is treated as the selected monster's name, and this card has the same Attribute, Level, ATK, and DEF as the selected monster. If this card is removed from the field while this effect is applied, remove it from play.","str1":"Banish","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":75198893,"pack_id":"CRMS-JP032","pack":"","rarity":"","date":1226707200000},"tcg":{"id":75198893,"pack_id":"CRMS-EN032","pack":"CRMS","rarity":"Scanner","date":1235779200000}}
+{
+    "id": 75198893,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": -2,
+    "def": -2,
+    "level": 1,
+    "race": 32,
+    "attribute": 16,
+    "category": 0,
+    "name": "Scanner",
+    "desc": "Once per turn, you can select 1 of your opponent's monsters that is removed from play. Until the End Phase, this card's name is treated as the selected monster's name, and this card has the same Attribute, Level, ATK, and DEF as the selected monster. If this card is removed from the field while this effect is applied, remove it from play.",
+    "str1": "Banish",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 75198893,
+        "pack_id": "CRMS-JP032",
+        "pack": "",
+        "rarity": "",
+        "date": 1226707200000
+    },
+    "tcg": {
+        "id": 75198893,
+        "pack_id": "CRMS-EN032",
+        "pack": "CRMS",
+        "rarity": "Scanner",
+        "date": 1235779200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":47660516,"ot":3,"alias":0,"setcode":149,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1074003968,"name":"Rank-Up-Magic Barian's Force","desc":"Target 1 face-up Xyz Monster you control; Special Summon from your Extra Deck, 1 \"Number C\" or \"CXyz\" monster with the same Type as that monster you control but 1 Rank higher, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to it also become Xyz Materials on the Summoned monster.) Then, if possible, detach 1 Xyz Material from a monster your opponent controls and attach it to the Summoned monster as an Xyz Material.","str1":"Select Xyz Material from opponent monster","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":47660516,"pack_id":"LTGY-JP060","pack":"LTGY","rarity":"Rank-Up-Magic Barian's Force","date":1360972800000},"tcg":{"id":47660516,"pack_id":"LTGY-EN060","pack":"LTGY","rarity":"Rank-Up-Magic Barian's Force","date":1368748800000}}
+{
+    "id": 47660516,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 149,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1074003968,
+    "name": "Rank-Up-Magic Barian's Force",
+    "desc": "Target 1 face-up Xyz Monster you control; Special Summon from your Extra Deck, 1 \"Number C\" or \"CXyz\" monster with the same Type as that monster you control but 1 Rank higher, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to it also become Xyz Materials on the Summoned monster.) Then, if possible, detach 1 Xyz Material from a monster your opponent controls and attach it to the Summoned monster as an Xyz Material.",
+    "str1": "Select Xyz Material from opponent monster",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 47660516,
+        "pack_id": "LTGY-JP060",
+        "pack": "LTGY",
+        "rarity": "Rank-Up-Magic Barian's Force",
+        "date": 1360972800000
+    },
+    "tcg": {
+        "id": 47660516,
+        "pack_id": "LTGY-EN060",
+        "pack": "LTGY",
+        "rarity": "Rank-Up-Magic Barian's Force",
+        "date": 1368748800000
+    }
+}

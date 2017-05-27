@@ -1,1 +1,47 @@
-{"id":81788994,"ot":3,"alias":0,"setcode":0,"type":524290,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Curse of the Shadow Prison","desc":"Each time a \"Shaddoll\" monster(s) is sent to the Graveyard by a card effect, place 1 Spellstone Counter on this card for each sent monster. All monsters your opponent controls lose 100 ATK for each Spellstone Counter on this card during your opponent's turn only. Each time you Fusion Summon a \"Shaddoll\" Fusion Monster, you can remove 3 Spellstone Counters from this card to use 1 appropriate face-up monster your opponent controls as 1 of the Fusion Materials.","str1":"Remove 3 counters?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":81788994,"pack_id":"DUEA-JP060","pack":"DUEA","rarity":"Curse of the Shadow Prison","date":1397865600000},"tcg":{"id":81788994,"pack_id":"DUEA-EN060","pack":"DUEA","rarity":"Curse of the Shadow Prison","date":1407974400000}}
+{
+    "id": 81788994,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 524290,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Curse of the Shadow Prison",
+    "desc": "Each time a \"Shaddoll\" monster(s) is sent to the Graveyard by a card effect, place 1 Spellstone Counter on this card for each sent monster. All monsters your opponent controls lose 100 ATK for each Spellstone Counter on this card during your opponent's turn only. Each time you Fusion Summon a \"Shaddoll\" Fusion Monster, you can remove 3 Spellstone Counters from this card to use 1 appropriate face-up monster your opponent controls as 1 of the Fusion Materials.",
+    "str1": "Remove 3 counters?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 81788994,
+        "pack_id": "DUEA-JP060",
+        "pack": "DUEA",
+        "rarity": "Curse of the Shadow Prison",
+        "date": 1397865600000
+    },
+    "tcg": {
+        "id": 81788994,
+        "pack_id": "DUEA-EN060",
+        "pack": "DUEA",
+        "rarity": "Curse of the Shadow Prison",
+        "date": 1407974400000
+    }
+}

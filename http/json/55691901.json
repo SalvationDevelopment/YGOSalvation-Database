@@ -1,1 +1,47 @@
-{"id":55691901,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1250,"def":1300,"level":4,"race":16384,"attribute":1,"category":0,"name":"Great Bill","desc":"Nothing escapes from this beast's massive mouth.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":55691901,"pack_id":"","pack":"","rarity":"Great Bill","date":932601600000},"tcg":{"id":55691901,"pack_id":"WCPP-EN006","pack":"WCPP","rarity":"Great Bill","date":1281744000000}}
+{
+    "id": 55691901,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1250,
+    "def": 1300,
+    "level": 4,
+    "race": 16384,
+    "attribute": 1,
+    "category": 0,
+    "name": "Great Bill",
+    "desc": "Nothing escapes from this beast's massive mouth.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 55691901,
+        "pack_id": "",
+        "pack": "",
+        "rarity": "Great Bill",
+        "date": 932601600000
+    },
+    "tcg": {
+        "id": 55691901,
+        "pack_id": "WCPP-EN006",
+        "pack": "WCPP",
+        "rarity": "Great Bill",
+        "date": 1281744000000
+    }
+}

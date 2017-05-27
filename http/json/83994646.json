@@ -1,1 +1,47 @@
-{"id":83994646,"ot":3,"alias":0,"setcode":0,"type":2097185,"atk":800,"def":1200,"level":3,"race":2048,"attribute":8,"category":2,"name":"4-Starred Ladybug of Doom","desc":"FLIP: Destroy all Level 4 monsters your opponent controls.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":83994646,"pack_id":"TB-38","pack":"TB","rarity":"4-Starred Ladybug of Doom","date":976752000000},"tcg":{"id":83994646,"pack_id":"PSV-088","pack":"PSV","rarity":"4-Starred Ladybug of Doom","date":1035072000000}}
+{
+    "id": 83994646,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2097185,
+    "atk": 800,
+    "def": 1200,
+    "level": 3,
+    "race": 2048,
+    "attribute": 8,
+    "category": 2,
+    "name": "4-Starred Ladybug of Doom",
+    "desc": "FLIP: Destroy all Level 4 monsters your opponent controls.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 83994646,
+        "pack_id": "TB-38",
+        "pack": "TB",
+        "rarity": "4-Starred Ladybug of Doom",
+        "date": 976752000000
+    },
+    "tcg": {
+        "id": 83994646,
+        "pack_id": "PSV-088",
+        "pack": "PSV",
+        "rarity": "4-Starred Ladybug of Doom",
+        "date": 1035072000000
+    }
+}

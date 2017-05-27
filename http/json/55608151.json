@@ -1,1 +1,47 @@
-{"id":55608151,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Gryphon Wing","desc":"When your opponent activates \"Harpie's Feather Duster\": Negate its effect, and if you do, destroy all Spell and Trap Cards your opponent controls.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":55608151,"pack_id":"ME-82","pack":"ME","rarity":"Gryphon Wing","date":951868800000},"tcg":{"id":55608151,"pack_id":"SDP-050","pack":"SDP","rarity":"Gryphon Wing","date":1048982400000}}
+{
+    "id": 55608151,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Gryphon Wing",
+    "desc": "When your opponent activates \"Harpie's Feather Duster\": Negate its effect, and if you do, destroy all Spell and Trap Cards your opponent controls.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 55608151,
+        "pack_id": "ME-82",
+        "pack": "ME",
+        "rarity": "Gryphon Wing",
+        "date": 951868800000
+    },
+    "tcg": {
+        "id": 55608151,
+        "pack_id": "SDP-050",
+        "pack": "SDP",
+        "rarity": "Gryphon Wing",
+        "date": 1048982400000
+    }
+}

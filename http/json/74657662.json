@@ -1,1 +1,47 @@
-{"id":74657662,"ot":3,"alias":0,"setcode":48,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8704,"name":"Vylon Material","desc":"Equip only to a \"Vylon\" monster. It gains 600 ATK. If this face-up card is sent from the field to the Graveyard: You can add 1 \"Vylon\" Spell Card from your Deck to your hand.","str1":"Search","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":74657662,"pack_id":"DT09-JP045","pack":"DT09","rarity":"Vylon Material","date":1338768000000},"tcg":{"id":74657662,"pack_id":"DT05-EN045","pack":"DT05","rarity":"Vylon Material","date":1306627200000}}
+{
+    "id": 74657662,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 48,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8704,
+    "name": "Vylon Material",
+    "desc": "Equip only to a \"Vylon\" monster. It gains 600 ATK. If this face-up card is sent from the field to the Graveyard: You can add 1 \"Vylon\" Spell Card from your Deck to your hand.",
+    "str1": "Search",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 74657662,
+        "pack_id": "DT09-JP045",
+        "pack": "DT09",
+        "rarity": "Vylon Material",
+        "date": 1338768000000
+    },
+    "tcg": {
+        "id": 74657662,
+        "pack_id": "DT05-EN045",
+        "pack": "DT05",
+        "rarity": "Vylon Material",
+        "date": 1306627200000
+    }
+}

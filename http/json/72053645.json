@@ -1,1 +1,47 @@
-{"id":72053645,"ot":3,"alias":0,"setcode":0,"type":2097185,"atk":950,"def":1500,"level":4,"race":64,"attribute":2,"category":1,"name":"Weather Report","desc":"FLIP: Destroys all of your opponent's face-up \"Swords of Revealing Light\" on the field. If \"Swords of Revealing Light\" is destroyed, you can perform your Battle Phase twice this turn (or your next turn, if activated during your opponent's turn).","str1":"Destroy","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":72053645,"pack_id":"MR-20","pack":"MR","rarity":"Weather Report","date":956188800000},"tcg":{"id":72053645,"pack_id":"MRL-020","pack":"MRL","rarity":"Weather Report","date":1032134400000}}
+{
+    "id": 72053645,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2097185,
+    "atk": 950,
+    "def": 1500,
+    "level": 4,
+    "race": 64,
+    "attribute": 2,
+    "category": 1,
+    "name": "Weather Report",
+    "desc": "FLIP: Destroys all of your opponent's face-up \"Swords of Revealing Light\" on the field. If \"Swords of Revealing Light\" is destroyed, you can perform your Battle Phase twice this turn (or your next turn, if activated during your opponent's turn).",
+    "str1": "Destroy",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 72053645,
+        "pack_id": "MR-20",
+        "pack": "MR",
+        "rarity": "Weather Report",
+        "date": 956188800000
+    },
+    "tcg": {
+        "id": 72053645,
+        "pack_id": "MRL-020",
+        "pack": "MRL",
+        "rarity": "Weather Report",
+        "date": 1032134400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":90020065,"ot":3,"alias":0,"setcode":0,"type":2097185,"atk":200,"def":1000,"level":2,"race":128,"attribute":4,"category":4194306,"name":"Jigen Bakudan","desc":"FLIP: After this card is flipped, Tribute it during your Standby Phase to destroy all monsters on your side of the field and inflict damage equal to half of the total ATK of the destroyed cards (excluding this monster) to your opponent's Life Points.","str1":"Destroy","str2":"Destroy","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":90020065,"pack_id":"PS-23","pack":"PS","rarity":"Jigen Bakudan","date":963446400000},"tcg":{"id":90020065,"pack_id":"MRL-074","pack":"MRL","rarity":"Jigen Bakudan","date":1048982400000}}
+{
+    "id": 90020065,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2097185,
+    "atk": 200,
+    "def": 1000,
+    "level": 2,
+    "race": 128,
+    "attribute": 4,
+    "category": 4194306,
+    "name": "Jigen Bakudan",
+    "desc": "FLIP: After this card is flipped, Tribute it during your Standby Phase to destroy all monsters on your side of the field and inflict damage equal to half of the total ATK of the destroyed cards (excluding this monster) to your opponent's Life Points.",
+    "str1": "Destroy",
+    "str2": "Destroy",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 90020065,
+        "pack_id": "PS-23",
+        "pack": "PS",
+        "rarity": "Jigen Bakudan",
+        "date": 963446400000
+    },
+    "tcg": {
+        "id": 90020065,
+        "pack_id": "MRL-074",
+        "pack": "MRL",
+        "rarity": "Jigen Bakudan",
+        "date": 1048982400000
+    }
+}

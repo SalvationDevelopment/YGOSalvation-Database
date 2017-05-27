@@ -1,1 +1,47 @@
-{"id":17201174,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1700,"def":1500,"level":4,"race":131072,"attribute":2,"category":262144,"name":"Hammer Shark","desc":"Once per turn: You can reduce the Level of this card by 1, and if you do, Special Summon 1 Level 3 or lower WATER monster from your hand.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":17201174,"pack_id":"GAOV-JP008","pack":"GAOV","rarity":"Hammer Shark","date":1329523200000},"tcg":{"id":17201174,"pack_id":"GAOV-EN008","pack":"GAOV","rarity":"Hammer Shark","date":1335571200000}}
+{
+    "id": 17201174,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1700,
+    "def": 1500,
+    "level": 4,
+    "race": 131072,
+    "attribute": 2,
+    "category": 262144,
+    "name": "Hammer Shark",
+    "desc": "Once per turn: You can reduce the Level of this card by 1, and if you do, Special Summon 1 Level 3 or lower WATER monster from your hand.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 17201174,
+        "pack_id": "GAOV-JP008",
+        "pack": "GAOV",
+        "rarity": "Hammer Shark",
+        "date": 1329523200000
+    },
+    "tcg": {
+        "id": 17201174,
+        "pack_id": "GAOV-EN008",
+        "pack": "GAOV",
+        "rarity": "Hammer Shark",
+        "date": 1335571200000
+    }
+}

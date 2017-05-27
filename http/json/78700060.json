@@ -1,1 +1,47 @@
-{"id":78700060,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1900,"def":1800,"level":4,"race":8,"attribute":32,"category":-2147483646,"name":"Doomcaliber Knight","desc":"Cannot be Special Summoned. During either player's turn, if a monster effect is activated: Tribute this face-up card; negate the activation, and if you do, destroy that monster.","str1":"不能特殊召唤","str2":"怪物效果效果发动无效并破坏","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":78700060,"pack_id":"VB8-JP002","pack":"VB8","rarity":"Doomcaliber Knight","date":1125187200000},"tcg":{"id":78700060,"pack_id":"TU01-EN001","pack":"TU01","rarity":"Doomcaliber Knight","date":1250294400000}}
+{
+    "id": 78700060,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1900,
+    "def": 1800,
+    "level": 4,
+    "race": 8,
+    "attribute": 32,
+    "category": -2147483646,
+    "name": "Doomcaliber Knight",
+    "desc": "Cannot be Special Summoned. During either player's turn, if a monster effect is activated: Tribute this face-up card; negate the activation, and if you do, destroy that monster.",
+    "str1": "不能特殊召唤",
+    "str2": "怪物效果效果发动无效并破坏",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 78700060,
+        "pack_id": "VB8-JP002",
+        "pack": "VB8",
+        "rarity": "Doomcaliber Knight",
+        "date": 1125187200000
+    },
+    "tcg": {
+        "id": 78700060,
+        "pack_id": "TU01-EN001",
+        "pack": "TU01",
+        "rarity": "Doomcaliber Knight",
+        "date": 1250294400000
+    }
+}

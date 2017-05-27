@@ -1,1 +1,47 @@
-{"id":5600127,"ot":3,"alias":0,"setcode":0,"type":65,"atk":2200,"def":2000,"level":7,"race":64,"attribute":2,"category":0,"name":"Humanoid Worm Drake","desc":"\"Worm Drake\" + \"Humanoid Slime\"","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":5600127,"pack_id":"SM-04","pack":"SM","rarity":"Humanoid Worm Drake","date":987638400000},"tcg":{"id":5600127,"pack_id":"LON-005","pack":"LON","rarity":"Humanoid Worm Drake","date":1046476800000}}
+{
+    "id": 5600127,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65,
+    "atk": 2200,
+    "def": 2000,
+    "level": 7,
+    "race": 64,
+    "attribute": 2,
+    "category": 0,
+    "name": "Humanoid Worm Drake",
+    "desc": "\"Worm Drake\" + \"Humanoid Slime\"",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 5600127,
+        "pack_id": "SM-04",
+        "pack": "SM",
+        "rarity": "Humanoid Worm Drake",
+        "date": 987638400000
+    },
+    "tcg": {
+        "id": 5600127,
+        "pack_id": "LON-005",
+        "pack": "LON",
+        "rarity": "Humanoid Worm Drake",
+        "date": 1046476800000
+    }
+}
