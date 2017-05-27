@@ -1,6 +1,7 @@
-//JSONSplitter.py
-//By: HelixReactor
-//Last Modified: 26/05/2017, 22:16 (GMT -4)
+
+/**
+ * Generate single file exports from the database (using a static manifest)
+ */
 
 function split_json() {
     var full = require("./manifest_0-en-OCGTCG.json");
@@ -13,4 +14,4 @@ function split_json() {
     });
 }
 
-module.exports = split_json();
+module.exports = split_json;
