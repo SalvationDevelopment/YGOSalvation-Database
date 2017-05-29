@@ -1,32 +1,34 @@
 {
-  "dependencies": {
-    "body-parser": "^1.17.2",
-    "dotenv": "^4.0.0",
-    "express": "^4.15.3",
-    "helmet": "^3.6.1",
-    "mongodb": "^2.2.27",
-    "passport": "^0.3.2",
-    "primus": "^7.0.2",
-    "prompt": "^1.0.0",
-    "shelljs": "^0.7.7",
-    "ws": "^3.0.0"
-  },
-  "name": "ygo_db",
-  "description": "MongoDB Based  Yu-Gi-Oh! database. Community created and maintained",
-  "version": "1.0.0",
-  "main": "app.js",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SalvationDevelopment/YGO_DB.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/SalvationDevelopment/YGO_DB/issues"
-  },
-  "homepage": "https://github.com/SalvationDevelopment/YGO_DB#readme"
+	"dependencies": {
+		"body-parser": "^1.17.2",
+		"dotenv": "^4.0.0",
+		"express": "^4.15.3",
+		"helmet": "^3.6.1",
+		"mongodb": "^2.2.27",
+		"passport": "^0.3.2",
+		"primus": "^7.0.2",
+		"prompt": "^1.0.0",
+		"shelljs": "^0.7.7",
+		"ws": "^3.0.0"
+	},
+	"name": "ygo_db",
+	"description": "MongoDB Based  Yu-Gi-Oh! database. Community created and maintained",
+	"version": "1.0.0",
+	"main": "app.js",
+	"devDependencies": {},
+	"scripts": {
+		"test": "mocha test/test",
+		"start": "node app.js",
+		"setup": "node setup.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/SalvationDevelopment/YGO_DB.git"
+	},
+	"author": "Salvation Development",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/SalvationDevelopment/YGO_DB/issues"
+	},
+	"homepage": "https://github.com/SalvationDevelopment/YGO_DB#readme"
 }
