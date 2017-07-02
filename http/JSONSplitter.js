@@ -4,7 +4,8 @@
  * Generate single file exports from the database (using a static manifest)
  */
 
-const fs = require('fs');
+const fs = require('fs'),
+	walk = require('fs-walk');
 
 function splitJSON() {
 	var full = require('./manifest_0-en-OCGTCG.json');
@@ -17,7 +18,6 @@ function splitJSON() {
 	});
 }
 
-var walk = require('fs-walk');
 
 function getDB(callback) {
 	var db = [];
@@ -32,17 +32,16 @@ function getDB(callback) {
 		})
 	}, function (err) {
 		if (err) {
-			callback(error, db)
-		}; {
-			else {
-				callback(null, db)
-			}
+			callback(error, db);
+		} else {
+			callback(null, db)
 		}
 	});
+
 }
 
 
 module.exports = {
-	getDB : getDB,
-	splitJSON : splitJSON
+	getDB: getDB,
+	splitJSON: splitJSON
 };
