@@ -1,1 +1,47 @@
-{"id":41517968,"ot":3,"alias":0,"setcode":12296,"type":97,"atk":2000,"def":1000,"level":6,"race":1,"attribute":32,"category":16386,"name":"Elemental HERO Darkbright","desc":"\"Elemental HERO Sparkman\" + \"Elemental HERO Necroshade\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. If this card attacks, change it to Defense Position at the end of the Damage Step. If this card is destroyed: Target 1 monster your opponent controls; destroy that target.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":41517968,"pack_id":"TAEV-JP042","pack":"TAEV","rarity":"Elemental HERO Darkbright","date":1178928000000},"tcg":{"id":41517968,"pack_id":"TAEV-EN042","pack":"TAEV","rarity":"Elemental HERO Darkbright","date":1187136000000}}
+{
+    "id": 41517968,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 12296,
+    "type": 97,
+    "atk": 2000,
+    "def": 1000,
+    "level": 6,
+    "race": 1,
+    "attribute": 32,
+    "category": 16386,
+    "name": "Elemental HERO Darkbright",
+    "desc": "\"Elemental HERO Sparkman\" + \"Elemental HERO Necroshade\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. If this card attacks, change it to Defense Position at the end of the Damage Step. If this card is destroyed: Target 1 monster your opponent controls; destroy that target.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 41517968,
+        "pack_id": "TAEV-JP042",
+        "pack": "TAEV",
+        "rarity": "Elemental HERO Darkbright",
+        "date": 1178928000000
+    },
+    "tcg": {
+        "id": 41517968,
+        "pack_id": "TAEV-EN042",
+        "pack": "TAEV",
+        "rarity": "Elemental HERO Darkbright",
+        "date": 1187136000000
+    }
+}

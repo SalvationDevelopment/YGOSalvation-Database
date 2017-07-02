@@ -1,1 +1,47 @@
-{"id":90616316,"ot":3,"alias":0,"setcode":4149,"type":4129,"atk":100,"def":1600,"level":1,"race":16384,"attribute":16,"category":262152,"name":"The Fabled Peggulsus","desc":"When this card is discarded to the Graveyard, you can Special Summon it face-down on your side of the field. When this card is flipped face-up, you can reveal 1 \"Fabled\" monster in your hand to send 1 \"Fabled\" monster from your Deck to the Graveyard.","str1":"在自己场上盖放","str2":"Send to Graveyard","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":90616316,"pack_id":"DT08-JP021","pack":"DT08","rarity":"The Fabled Peggulsus","date":1264032000000},"tcg":{"id":90616316,"pack_id":"DT04-EN071","pack":"DT04","rarity":"The Fabled Peggulsus","date":1295913600000}}
+{
+    "id": 90616316,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4149,
+    "type": 4129,
+    "atk": 100,
+    "def": 1600,
+    "level": 1,
+    "race": 16384,
+    "attribute": 16,
+    "category": 262152,
+    "name": "The Fabled Peggulsus",
+    "desc": "When this card is discarded to the Graveyard, you can Special Summon it face-down on your side of the field. When this card is flipped face-up, you can reveal 1 \"Fabled\" monster in your hand to send 1 \"Fabled\" monster from your Deck to the Graveyard.",
+    "str1": "在自己场上盖放",
+    "str2": "Send to Graveyard",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 90616316,
+        "pack_id": "DT08-JP021",
+        "pack": "DT08",
+        "rarity": "The Fabled Peggulsus",
+        "date": 1264032000000
+    },
+    "tcg": {
+        "id": 90616316,
+        "pack_id": "DT04-EN071",
+        "pack": "DT04",
+        "rarity": "The Fabled Peggulsus",
+        "date": 1295913600000
+    }
+}

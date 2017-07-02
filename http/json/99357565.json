@@ -1,1 +1,47 @@
-{"id":99357565,"ot":3,"alias":0,"setcode":36,"type":33,"atk":0,"def":0,"level":1,"race":32,"attribute":32,"category":0,"name":"D Cubed","desc":"If this card is Normal Summoned: It is also treated as a \"Destiny HERO\" monster while face-up on the field. You can only use each of the following effects of \"D Cubed\" once per turn.\n● You can discard up to 2 cards; Special Summon \"D Cubed\" from your hand, Deck, and/or Graveyard, equal to the number discarded, also for the rest of this turn, you cannot Normal or Special Summon other monsters, except \"Destiny HERO\" monsters.\n● If this card is destroyed by battle or card effect: You can send 1 \"Destiny HERO\" monster from your Deck to the Graveyard.","str1":"Destiny HERO","str2":"Special Summon \"D3\"","str3":"Send \"Destiny HERO\" to grave","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":99357565,"pack_id":"SPDS-JP007","pack":"SPDS","rarity":"D Cubed","date":1470441600000},"tcg":{"id":99357565,"pack_id":"DESO-EN007","pack":"DESO","rarity":"D Cubed","date":1479340800000}}
+{
+    "id": 99357565,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 36,
+    "type": 33,
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": 32,
+    "attribute": 32,
+    "category": 0,
+    "name": "D Cubed",
+    "desc": "If this card is Normal Summoned: It is also treated as a \"Destiny HERO\" monster while face-up on the field. You can only use each of the following effects of \"D Cubed\" once per turn.\n● You can discard up to 2 cards; Special Summon \"D Cubed\" from your hand, Deck, and/or Graveyard, equal to the number discarded, also for the rest of this turn, you cannot Normal or Special Summon other monsters, except \"Destiny HERO\" monsters.\n● If this card is destroyed by battle or card effect: You can send 1 \"Destiny HERO\" monster from your Deck to the Graveyard.",
+    "str1": "Destiny HERO",
+    "str2": "Special Summon \"D3\"",
+    "str3": "Send \"Destiny HERO\" to grave",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 99357565,
+        "pack_id": "SPDS-JP007",
+        "pack": "SPDS",
+        "rarity": "D Cubed",
+        "date": 1470441600000
+    },
+    "tcg": {
+        "id": 99357565,
+        "pack_id": "DESO-EN007",
+        "pack": "DESO",
+        "rarity": "D Cubed",
+        "date": 1479340800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":31553716,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1900,"def":0,"level":4,"race":8192,"attribute":8,"category":18432,"name":"Spear Dragon","desc":"During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. If this card attacks, it is changed to Defense Position at the end of the Damage Step.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":31553716,"pack_id":"SC-35","pack":"SC","rarity":"Spear Dragon","date":1000944000000},"tcg":{"id":31553716,"pack_id":"LOD-035","pack":"LOD","rarity":"Spear Dragon","date":1054857600000}}
+{
+    "id": 31553716,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1900,
+    "def": 0,
+    "level": 4,
+    "race": 8192,
+    "attribute": 8,
+    "category": 18432,
+    "name": "Spear Dragon",
+    "desc": "During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. If this card attacks, it is changed to Defense Position at the end of the Damage Step.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 31553716,
+        "pack_id": "SC-35",
+        "pack": "SC",
+        "rarity": "Spear Dragon",
+        "date": 1000944000000
+    },
+    "tcg": {
+        "id": 31553716,
+        "pack_id": "LOD-035",
+        "pack": "LOD",
+        "rarity": "Spear Dragon",
+        "date": 1054857600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":84877802,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8192,"name":"Magnum Shield","desc":"Equip only to a Warrior-Type monster. Apply this effect, depending on its battle position.\n● Attack Position: It gains ATK equal to its original DEF.\n● Defense Position: It gains DEF equal to its original ATK.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":84877802,"pack_id":"LTGY-JP058","pack":"LTGY","rarity":"Magnum Shield","date":1360972800000},"tcg":{"id":84877802,"pack_id":"LTGY-EN058","pack":"LTGY","rarity":"Magnum Shield","date":1368748800000}}
+{
+    "id": 84877802,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8192,
+    "name": "Magnum Shield",
+    "desc": "Equip only to a Warrior-Type monster. Apply this effect, depending on its battle position.\n● Attack Position: It gains ATK equal to its original DEF.\n● Defense Position: It gains DEF equal to its original ATK.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 84877802,
+        "pack_id": "LTGY-JP058",
+        "pack": "LTGY",
+        "rarity": "Magnum Shield",
+        "date": 1360972800000
+    },
+    "tcg": {
+        "id": 84877802,
+        "pack_id": "LTGY-EN058",
+        "pack": "LTGY",
+        "rarity": "Magnum Shield",
+        "date": 1368748800000
+    }
+}

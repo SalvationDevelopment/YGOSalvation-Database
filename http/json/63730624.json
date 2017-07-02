@@ -1,1 +1,47 @@
-{"id":63730624,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":-2146361342,"name":"Double Tool C&D","desc":"Equip only to a \"Power Tool Dragon\" or Level 4 or higher Machine-Type \"Morphtronic\" monster you control. While equipped: ● During your turn: It gains 1000 ATK. If it attacks, any effects of the attack target that activate or apply on the field are negated during that Battle Phase. ● During your opponent's turn: Your opponent cannot select a monster other than the equipped monster as an attack target. An opponent's monster that battles the equipped monster is destroyed at the end of the Damage Step.","str1":"Destroy","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":63730624,"pack_id":"RGBT-JP053","pack":"RGBT","rarity":"Double Tool C&D","date":1234569600000},"tcg":{"id":63730624,"pack_id":"RGBT-EN053","pack":"RGBT","rarity":"Double Tool C&D","date":1241222400000}}
+{
+    "id": 63730624,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": -2146361342,
+    "name": "Double Tool C&D",
+    "desc": "Equip only to a \"Power Tool Dragon\" or Level 4 or higher Machine-Type \"Morphtronic\" monster you control. While equipped: ● During your turn: It gains 1000 ATK. If it attacks, any effects of the attack target that activate or apply on the field are negated during that Battle Phase. ● During your opponent's turn: Your opponent cannot select a monster other than the equipped monster as an attack target. An opponent's monster that battles the equipped monster is destroyed at the end of the Damage Step.",
+    "str1": "Destroy",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 63730624,
+        "pack_id": "RGBT-JP053",
+        "pack": "RGBT",
+        "rarity": "Double Tool C&D",
+        "date": 1234569600000
+    },
+    "tcg": {
+        "id": 63730624,
+        "pack_id": "RGBT-EN053",
+        "pack": "RGBT",
+        "rarity": "Double Tool C&D",
+        "date": 1241222400000
+    }
+}

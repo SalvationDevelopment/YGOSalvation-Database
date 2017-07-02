@@ -1,1 +1,47 @@
-{"id":24062258,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1800,"def":0,"level":4,"race":2,"attribute":32,"category":262144,"name":"Secret Sect Druid Dru","desc":"When this card is Normal Summoned: You can target 1 Level 4 DARK monster in your Graveyard with 0 ATK and/or DEF, except \"Secret Sect Druid Dru\"; Special Summon that target in face-up Defense Position. Its effects are negated. You can only use the effect of \"Secret Sect Druid Dru\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":24062258,"pack_id":"SHSP-JP009","pack":"SHSP","rarity":"Secret Sect Druid Dru","date":1374278400000},"tcg":{"id":24062258,"pack_id":"SHSP-EN009","pack":"SHSP","rarity":"Secret Sect Druid Dru","date":1383868800000}}
+{
+    "id": 24062258,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1800,
+    "def": 0,
+    "level": 4,
+    "race": 2,
+    "attribute": 32,
+    "category": 262144,
+    "name": "Secret Sect Druid Dru",
+    "desc": "When this card is Normal Summoned: You can target 1 Level 4 DARK monster in your Graveyard with 0 ATK and/or DEF, except \"Secret Sect Druid Dru\"; Special Summon that target in face-up Defense Position. Its effects are negated. You can only use the effect of \"Secret Sect Druid Dru\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 24062258,
+        "pack_id": "SHSP-JP009",
+        "pack": "SHSP",
+        "rarity": "Secret Sect Druid Dru",
+        "date": 1374278400000
+    },
+    "tcg": {
+        "id": 24062258,
+        "pack_id": "SHSP-EN009",
+        "pack": "SHSP",
+        "rarity": "Secret Sect Druid Dru",
+        "date": 1383868800000
+    }
+}

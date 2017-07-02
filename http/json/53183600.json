@@ -1,1 +1,47 @@
-{"id":53183600,"ot":3,"alias":0,"setcode":14483554,"type":4194337,"atk":3000,"def":2500,"level":8,"race":8192,"attribute":16,"category":393216,"name":"Blue-Eyes Toon Dragon","desc":"Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 2 monsters, while you control \"Toon World\". Cannot attack the turn it is Special Summoned. You must pay 500 LP to declare an attack with this monster. If \"Toon World\" on the field is destroyed, destroy this card. Can attack your opponent directly, unless they control a Toon monster, in which case this card must target a Toon monster for its attacks.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":53183600,"pack_id":"PS-00","pack":"PS","rarity":"Blue-Eyes Toon Dragon","date":963446400000},"tcg":{"id":53183600,"pack_id":"MRL-000","pack":"MRL","rarity":"Blue-Eyes Toon Dragon","date":1048982400000}}
+{
+    "id": 53183600,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 14483554,
+    "type": 4194337,
+    "atk": 3000,
+    "def": 2500,
+    "level": 8,
+    "race": 8192,
+    "attribute": 16,
+    "category": 393216,
+    "name": "Blue-Eyes Toon Dragon",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 2 monsters, while you control \"Toon World\". Cannot attack the turn it is Special Summoned. You must pay 500 LP to declare an attack with this monster. If \"Toon World\" on the field is destroyed, destroy this card. Can attack your opponent directly, unless they control a Toon monster, in which case this card must target a Toon monster for its attacks.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 53183600,
+        "pack_id": "PS-00",
+        "pack": "PS",
+        "rarity": "Blue-Eyes Toon Dragon",
+        "date": 963446400000
+    },
+    "tcg": {
+        "id": 53183600,
+        "pack_id": "MRL-000",
+        "pack": "MRL",
+        "rarity": "Blue-Eyes Toon Dragon",
+        "date": 1048982400000
+    }
+}

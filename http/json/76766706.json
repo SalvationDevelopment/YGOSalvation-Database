@@ -1,1 +1,47 @@
-{"id":76766706,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":528,"name":"Chaos Seed","desc":"If you control both LIGHT and DARK monster(s): You can target 1 of your banished LIGHT or DARK Warrior-Type monsters; add it to your hand. You can only activate 1 \"Chaos Seed\" per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":76766706,"pack_id":"VE09-JP004","pack":"VE09","rarity":"Chaos Seed","date":1376179200000},"tcg":{"id":76766706,"pack_id":"DUEA-EN092","pack":"DUEA","rarity":"Chaos Seed","date":1407974400000}}
+{
+    "id": 76766706,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 528,
+    "name": "Chaos Seed",
+    "desc": "If you control both LIGHT and DARK monster(s): You can target 1 of your banished LIGHT or DARK Warrior-Type monsters; add it to your hand. You can only activate 1 \"Chaos Seed\" per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 76766706,
+        "pack_id": "VE09-JP004",
+        "pack": "VE09",
+        "rarity": "Chaos Seed",
+        "date": 1376179200000
+    },
+    "tcg": {
+        "id": 76766706,
+        "pack_id": "DUEA-EN092",
+        "pack": "DUEA",
+        "rarity": "Chaos Seed",
+        "date": 1407974400000
+    }
+}

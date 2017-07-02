@@ -1,1 +1,47 @@
-{"id":15471265,"ot":3,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8192,"name":"Berserker Crush","desc":"Remove from play 1 monster from your Graveyard. The ATK and DEF of 1 face-up \"Winged Kuriboh\" you control becomes equal to the ATK and DEF of that monster, until the End Phase of this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":15471265,"pack_id":"DT01-JP044","pack":"DT01","rarity":"Berserker Crush","date":1207958400000},"tcg":{"id":15471265,"pack_id":"HA01-EN029","pack":"HA01","rarity":"Berserker Crush","date":1257379200000}}
+{
+    "id": 15471265,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8192,
+    "name": "Berserker Crush",
+    "desc": "Remove from play 1 monster from your Graveyard. The ATK and DEF of 1 face-up \"Winged Kuriboh\" you control becomes equal to the ATK and DEF of that monster, until the End Phase of this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 15471265,
+        "pack_id": "DT01-JP044",
+        "pack": "DT01",
+        "rarity": "Berserker Crush",
+        "date": 1207958400000
+    },
+    "tcg": {
+        "id": 15471265,
+        "pack_id": "HA01-EN029",
+        "pack": "HA01",
+        "rarity": "Berserker Crush",
+        "date": 1257379200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":99581584,"ot":3,"alias":0,"setcode":90,"type":33,"atk":0,"def":1200,"level":4,"race":512,"attribute":2,"category":8650752,"name":"Guard Penguin","desc":"When you take damage from a card effect (except during the Damage Step): You can Special Summon this card from your hand, and if you do, gain LP equal to the damage you took.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":99581584,"pack_id":"DP15-JP005","pack":"DP15","rarity":"Guard Penguin","date":1382140800000},"tcg":{"id":99581584,"pack_id":"DUSA-EN005","pack":"DUSA","rarity":"Guard Penguin","date":1490832000000}}
+{
+    "id": 99581584,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 90,
+    "type": 33,
+    "atk": 0,
+    "def": 1200,
+    "level": 4,
+    "race": 512,
+    "attribute": 2,
+    "category": 8650752,
+    "name": "Guard Penguin",
+    "desc": "When you take damage from a card effect (except during the Damage Step): You can Special Summon this card from your hand, and if you do, gain LP equal to the damage you took.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 99581584,
+        "pack_id": "DP15-JP005",
+        "pack": "DP15",
+        "rarity": "Guard Penguin",
+        "date": 1382140800000
+    },
+    "tcg": {
+        "id": 99581584,
+        "pack_id": "DUSA-EN005",
+        "pack": "DUSA",
+        "rarity": "Guard Penguin",
+        "date": 1490832000000
+    }
+}

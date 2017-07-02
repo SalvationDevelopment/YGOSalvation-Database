@@ -1,1 +1,47 @@
-{"id":17412721,"ot":3,"alias":0,"setcode":16842935,"type":97,"atk":2000,"def":2200,"level":4,"race":4,"attribute":2,"category":0,"name":"Elder Entity Norden","desc":"1 Synchro or Xyz Monster + 1 Synchro or Xyz Monster\nWhen this card is Special Summoned: You can target 1 Level 4 or lower monster in your Graveyard; Special Summon it, but its effects are negated, also banish it when this card leaves the field.","str1":"Special Summon a monster from your Graveyard","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":17412721,"pack_id":"EP14-JP048","pack":"EP14","rarity":"Elder Entity Norden","date":1410566400000},"tcg":{"id":17412721,"pack_id":"CT12-EN003","pack":"CT12","rarity":"Elder Entity Norden","date":1442448000000}}
+{
+    "id": 17412721,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 16842935,
+    "type": 97,
+    "atk": 2000,
+    "def": 2200,
+    "level": 4,
+    "race": 4,
+    "attribute": 2,
+    "category": 0,
+    "name": "Elder Entity Norden",
+    "desc": "1 Synchro or Xyz Monster + 1 Synchro or Xyz Monster\nWhen this card is Special Summoned: You can target 1 Level 4 or lower monster in your Graveyard; Special Summon it, but its effects are negated, also banish it when this card leaves the field.",
+    "str1": "Special Summon a monster from your Graveyard",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 17412721,
+        "pack_id": "EP14-JP048",
+        "pack": "EP14",
+        "rarity": "Elder Entity Norden",
+        "date": 1410566400000
+    },
+    "tcg": {
+        "id": 17412721,
+        "pack_id": "CT12-EN003",
+        "pack": "CT12",
+        "rarity": "Elder Entity Norden",
+        "date": 1442448000000
+    }
+}

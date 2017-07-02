@@ -1,1 +1,47 @@
-{"id":36088082,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1600,"def":1200,"level":4,"race":1,"attribute":1,"category":2,"name":"Bull Blader","desc":"When an attack is declared involving this card and an opponent's monster: You can activate this effect; during this battle involving this monster, neither player takes any battle damage, also destroy the opponent's monster after damage calculation.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":36088082,"pack_id":"ABYR-JP002","pack":"ABYR","rarity":"Bull Blader","date":1342828800000},"tcg":{"id":36088082,"pack_id":"ABYR-EN002","pack":"ABYR","rarity":"Bull Blader","date":1352419200000}}
+{
+    "id": 36088082,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1600,
+    "def": 1200,
+    "level": 4,
+    "race": 1,
+    "attribute": 1,
+    "category": 2,
+    "name": "Bull Blader",
+    "desc": "When an attack is declared involving this card and an opponent's monster: You can activate this effect; during this battle involving this monster, neither player takes any battle damage, also destroy the opponent's monster after damage calculation.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 36088082,
+        "pack_id": "ABYR-JP002",
+        "pack": "ABYR",
+        "rarity": "Bull Blader",
+        "date": 1342828800000
+    },
+    "tcg": {
+        "id": 36088082,
+        "pack_id": "ABYR-EN002",
+        "pack": "ABYR",
+        "rarity": "Bull Blader",
+        "date": 1352419200000
+    }
+}

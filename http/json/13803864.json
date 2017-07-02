@@ -1,1 +1,47 @@
-{"id":13803864,"ot":3,"alias":0,"setcode":0,"type":97,"atk":300,"def":100,"level":6,"race":4,"attribute":16,"category":262144,"name":"Mokey Mokey King","desc":"\"Mokey Mokey\" + \"Mokey Mokey\" + \"Mokey Mokey\"\nWhen this card is removed from the field, you can Special Summon as many \"Mokey Mokey\" as possible from your Graveyard.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":13803864,"pack_id":"EE3-JP096","pack":"EE3","rarity":"Mokey Mokey King","date":1134000000000},"tcg":{"id":13803864,"pack_id":"DR3-EN096","pack":"DR3","rarity":"Mokey Mokey King","date":1164412800000}}
+{
+    "id": 13803864,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 97,
+    "atk": 300,
+    "def": 100,
+    "level": 6,
+    "race": 4,
+    "attribute": 16,
+    "category": 262144,
+    "name": "Mokey Mokey King",
+    "desc": "\"Mokey Mokey\" + \"Mokey Mokey\" + \"Mokey Mokey\"\nWhen this card is removed from the field, you can Special Summon as many \"Mokey Mokey\" as possible from your Graveyard.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 13803864,
+        "pack_id": "EE3-JP096",
+        "pack": "EE3",
+        "rarity": "Mokey Mokey King",
+        "date": 1134000000000
+    },
+    "tcg": {
+        "id": 13803864,
+        "pack_id": "DR3-EN096",
+        "pack": "DR3",
+        "rarity": "Mokey Mokey King",
+        "date": 1164412800000
+    }
+}

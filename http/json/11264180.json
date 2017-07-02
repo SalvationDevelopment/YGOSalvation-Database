@@ -1,1 +1,47 @@
-{"id":11264180,"ot":3,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8193,"name":"TGX1-HL","desc":"Target 1 \"T.G.\" monster you control; its ATK and DEF each become half its current ATK and DEF, and if they do, destroy 1 other Spell/Trap Card on the field.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":11264180,"pack_id":"EXVC-JP053","pack":"EXVC","rarity":"TGX1-HL","date":1297382400000},"tcg":{"id":11264180,"pack_id":"EXVC-EN053","pack":"EXVC","rarity":"TGX1-HL","date":1304121600000}}
+{
+    "id": 11264180,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8193,
+    "name": "TGX1-HL",
+    "desc": "Target 1 \"T.G.\" monster you control; its ATK and DEF each become half its current ATK and DEF, and if they do, destroy 1 other Spell/Trap Card on the field.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 11264180,
+        "pack_id": "EXVC-JP053",
+        "pack": "EXVC",
+        "rarity": "TGX1-HL",
+        "date": 1297382400000
+    },
+    "tcg": {
+        "id": 11264180,
+        "pack_id": "EXVC-EN053",
+        "pack": "EXVC",
+        "rarity": "TGX1-HL",
+        "date": 1304121600000
+    }
+}

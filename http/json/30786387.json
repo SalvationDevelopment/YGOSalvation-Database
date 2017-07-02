@@ -1,1 +1,47 @@
-{"id":30786387,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Flower Stacking","desc":"Choose 3 \"Flower Cardian\" monsters with different names from your Deck, and place them on top of your Deck in any order. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 \"Flower Cardian\" monster in your Graveyard; add it to your hand. You can only use this effect of \"Flower Stacking\" once per turn.","str1":"Activate Effect","str2":"Add 1 \"Cardian\" monster to hand","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":30786387,"pack_id":"INOV-JP055","pack":"INOV","rarity":"Flower Stacking","date":1468022400000},"tcg":{"id":30786387,"pack_id":"INOV-EN055","pack":"INOV","rarity":"Flower Stacking","date":1478131200000}}
+{
+    "id": 30786387,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Flower Stacking",
+    "desc": "Choose 3 \"Flower Cardian\" monsters with different names from your Deck, and place them on top of your Deck in any order. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 \"Flower Cardian\" monster in your Graveyard; add it to your hand. You can only use this effect of \"Flower Stacking\" once per turn.",
+    "str1": "Activate Effect",
+    "str2": "Add 1 \"Cardian\" monster to hand",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 30786387,
+        "pack_id": "INOV-JP055",
+        "pack": "INOV",
+        "rarity": "Flower Stacking",
+        "date": 1468022400000
+    },
+    "tcg": {
+        "id": 30786387,
+        "pack_id": "INOV-EN055",
+        "pack": "INOV",
+        "rarity": "Flower Stacking",
+        "date": 1478131200000
+    }
+}

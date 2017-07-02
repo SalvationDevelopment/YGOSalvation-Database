@@ -1,1 +1,47 @@
-{"id":48333324,"ot":3,"alias":0,"setcode":149,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262144,"name":"Rank-Up-Magic Numeron Force","desc":"Target 1 face-up Xyz Monster you control; Special Summon from your Extra Deck, 1 \"Number C\" monster with the same Type as that monster you control, but 1 Rank higher, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to it also become Xyz Materials on the Summoned monster.) Then, if any face-up cards are on the field other than this card and the monster Summoned by it, negate the effects of those other cards.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":48333324,"pack_id":"JOTL-JP059","pack":"JOTL","rarity":"Rank-Up-Magic Numeron Force","date":1366416000000},"tcg":{"id":48333324,"pack_id":"JOTL-EN059","pack":"JOTL","rarity":"Rank-Up-Magic Numeron Force","date":1375920000000}}
+{
+    "id": 48333324,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 149,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262144,
+    "name": "Rank-Up-Magic Numeron Force",
+    "desc": "Target 1 face-up Xyz Monster you control; Special Summon from your Extra Deck, 1 \"Number C\" monster with the same Type as that monster you control, but 1 Rank higher, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to it also become Xyz Materials on the Summoned monster.) Then, if any face-up cards are on the field other than this card and the monster Summoned by it, negate the effects of those other cards.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 48333324,
+        "pack_id": "JOTL-JP059",
+        "pack": "JOTL",
+        "rarity": "Rank-Up-Magic Numeron Force",
+        "date": 1366416000000
+    },
+    "tcg": {
+        "id": 48333324,
+        "pack_id": "JOTL-EN059",
+        "pack": "JOTL",
+        "rarity": "Rank-Up-Magic Numeron Force",
+        "date": 1375920000000
+    }
+}

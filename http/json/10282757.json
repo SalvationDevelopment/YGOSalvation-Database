@@ -1,1 +1,47 @@
-{"id":10282757,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Planckton","desc":"Apply these effects until the end of this turn.\n● Rank 3 or lower Xyz Monsters gain 500 ATK and DEF.\n● Rank 4 or higher Xyz Monsters cannot attack.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":10282757,"pack_id":"EP14-JP045","pack":"EP14","rarity":"Planckton","date":1410566400000},"tcg":{"id":10282757,"pack_id":"WSUP-EN039","pack":"WSUP","rarity":"Planckton","date":1429142400000}}
+{
+    "id": 10282757,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Planckton",
+    "desc": "Apply these effects until the end of this turn.\n● Rank 3 or lower Xyz Monsters gain 500 ATK and DEF.\n● Rank 4 or higher Xyz Monsters cannot attack.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 10282757,
+        "pack_id": "EP14-JP045",
+        "pack": "EP14",
+        "rarity": "Planckton",
+        "date": 1410566400000
+    },
+    "tcg": {
+        "id": 10282757,
+        "pack_id": "WSUP-EN039",
+        "pack": "WSUP",
+        "rarity": "Planckton",
+        "date": 1429142400000
+    }
+}

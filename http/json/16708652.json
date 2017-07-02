@@ -1,1 +1,47 @@
-{"id":16708652,"ot":3,"alias":0,"setcode":17,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":10240,"name":"Karakuri Gold Dust","desc":"Activate only during the Battle Phase. Select 2 face-up \"Karakuri\" monsters in Attack Position. Change 1 of the selected monsters to Defense Position, and the other gains ATK equal to the ATK of the monster changed to Defense Position, until the End Phase.","str1":"Seelct monster to change to Defense Position","str2":"Select monster to gain ATK","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":16708652,"pack_id":"STOR-JP053","pack":"STOR","rarity":"Karakuri Gold Dust","date":1289606400000},"tcg":{"id":16708652,"pack_id":"STOR-EN053","pack":"STOR","rarity":"Karakuri Gold Dust","date":1297123200000}}
+{
+    "id": 16708652,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 17,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 10240,
+    "name": "Karakuri Gold Dust",
+    "desc": "Activate only during the Battle Phase. Select 2 face-up \"Karakuri\" monsters in Attack Position. Change 1 of the selected monsters to Defense Position, and the other gains ATK equal to the ATK of the monster changed to Defense Position, until the End Phase.",
+    "str1": "Seelct monster to change to Defense Position",
+    "str2": "Select monster to gain ATK",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 16708652,
+        "pack_id": "STOR-JP053",
+        "pack": "STOR",
+        "rarity": "Karakuri Gold Dust",
+        "date": 1289606400000
+    },
+    "tcg": {
+        "id": 16708652,
+        "pack_id": "STOR-EN053",
+        "pack": "STOR",
+        "rarity": "Karakuri Gold Dust",
+        "date": 1297123200000
+    }
+}

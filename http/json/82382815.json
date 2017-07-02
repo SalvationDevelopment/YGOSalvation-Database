@@ -1,1 +1,47 @@
-{"id":82382815,"ot":3,"alias":0,"setcode":0,"type":1048580,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":-2147483645,"name":"Champion's Vigilance","desc":"If you control a Level 7 or higher Normal Monster, when a monster would be Summoned OR a Spell/Trap Card is activated: Negate the Summon or activation, and if you do, destroy that card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":82382815,"pack_id":"PHSW-JP074","pack":"PHSW","rarity":"Champion's Vigilance","date":1310774400000},"tcg":{"id":82382815,"pack_id":"PHSW-EN074","pack":"PHSW","rarity":"Champion's Vigilance","date":1320883200000}}
+{
+    "id": 82382815,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 1048580,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": -2147483645,
+    "name": "Champion's Vigilance",
+    "desc": "If you control a Level 7 or higher Normal Monster, when a monster would be Summoned OR a Spell/Trap Card is activated: Negate the Summon or activation, and if you do, destroy that card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 82382815,
+        "pack_id": "PHSW-JP074",
+        "pack": "PHSW",
+        "rarity": "Champion's Vigilance",
+        "date": 1310774400000
+    },
+    "tcg": {
+        "id": 82382815,
+        "pack_id": "PHSW-EN074",
+        "pack": "PHSW",
+        "rarity": "Champion's Vigilance",
+        "date": 1320883200000
+    }
+}

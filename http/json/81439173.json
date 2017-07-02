@@ -1,1 +1,47 @@
-{"id":81439173,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8,"name":"Foolish Burial","desc":"Send 1 monster from your Deck to the Graveyard.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":81439173,"pack_id":"SJ2-029","pack":"SJ2","rarity":"Foolish Burial","date":1060214400000},"tcg":{"id":81439173,"pack_id":"SDRL-EN020","pack":"SDRL","rarity":"Foolish Burial","date":1193184000000}}
+{
+    "id": 81439173,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8,
+    "name": "Foolish Burial",
+    "desc": "Send 1 monster from your Deck to the Graveyard.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 81439173,
+        "pack_id": "SJ2-029",
+        "pack": "SJ2",
+        "rarity": "Foolish Burial",
+        "date": 1060214400000
+    },
+    "tcg": {
+        "id": 81439173,
+        "pack_id": "SDRL-EN020",
+        "pack": "SDRL",
+        "rarity": "Foolish Burial",
+        "date": 1193184000000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":75041269,"ot":3,"alias":0,"setcode":0,"type":524290,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":67371008,"name":"Clock Tower Prison","desc":"During each of your opponent's Standby Phases: Place 1 Clock Counter on this card. While there are 4 or more Clock Counters on this card, you do not take any Battle Damage. When this card with 4 or more Clock Counters is destroyed and sent to the Graveyard: Special Summon 1 \"Destiny Hero - Dreadmaster\" from your hand or Deck.","str1":"Place counter","str2":"Special Summon","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":75041269,"pack_id":"EOJ-JP048","pack":"EOJ","rarity":"Clock Tower Prison","date":1140048000000},"tcg":{"id":75041269,"pack_id":"EOJ-EN048","pack":"EOJ","rarity":"Clock Tower Prison","date":1147824000000}}
+{
+    "id": 75041269,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 524290,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 67371008,
+    "name": "Clock Tower Prison",
+    "desc": "During each of your opponent's Standby Phases: Place 1 Clock Counter on this card. While there are 4 or more Clock Counters on this card, you do not take any Battle Damage. When this card with 4 or more Clock Counters is destroyed and sent to the Graveyard: Special Summon 1 \"Destiny Hero - Dreadmaster\" from your hand or Deck.",
+    "str1": "Place counter",
+    "str2": "Special Summon",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 75041269,
+        "pack_id": "EOJ-JP048",
+        "pack": "EOJ",
+        "rarity": "Clock Tower Prison",
+        "date": 1140048000000
+    },
+    "tcg": {
+        "id": 75041269,
+        "pack_id": "EOJ-EN048",
+        "pack": "EOJ",
+        "rarity": "Clock Tower Prison",
+        "date": 1147824000000
+    }
+}

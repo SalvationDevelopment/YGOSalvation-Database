@@ -1,1 +1,47 @@
-{"id":70456282,"ot":3,"alias":0,"setcode":271777843,"type":33,"atk":2100,"def":1600,"level":5,"race":512,"attribute":32,"category":0,"name":"Assault Blackwing - Kunai the Drizzle","desc":"You can Special Summon this card (from your hand) by Tributing 1 \"Blackwing\" monster. If Summoned this way, this card is treated as a Tuner monster. Once per turn: You can target 1 Synchro Monster you control, and declare a Level from 1 to 8; it becomes that Level until the end of this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":70456282,"pack_id":"DOCS-JP018","pack":"DOCS","rarity":"Assault Blackwing - Kunai the Drizzle","date":1437177600000},"tcg":{"id":70456282,"pack_id":"DOCS-EN018","pack":"DOCS","rarity":"Assault Blackwing - Kunai the Drizzle","date":1446681600000}}
+{
+    "id": 70456282,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 271777843,
+    "type": 33,
+    "atk": 2100,
+    "def": 1600,
+    "level": 5,
+    "race": 512,
+    "attribute": 32,
+    "category": 0,
+    "name": "Assault Blackwing - Kunai the Drizzle",
+    "desc": "You can Special Summon this card (from your hand) by Tributing 1 \"Blackwing\" monster. If Summoned this way, this card is treated as a Tuner monster. Once per turn: You can target 1 Synchro Monster you control, and declare a Level from 1 to 8; it becomes that Level until the end of this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 70456282,
+        "pack_id": "DOCS-JP018",
+        "pack": "DOCS",
+        "rarity": "Assault Blackwing - Kunai the Drizzle",
+        "date": 1437177600000
+    },
+    "tcg": {
+        "id": 70456282,
+        "pack_id": "DOCS-EN018",
+        "pack": "DOCS",
+        "rarity": "Assault Blackwing - Kunai the Drizzle",
+        "date": 1446681600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":2295831,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Symbol of Friendship","desc":"To activate this card, you must draw it for your normal draw in your Draw Phase while your opponent controls 3 or more monsters and you control no monsters, reveal it, and keep it revealed until the Main Phase 1. During your Main Phase 1 that same turn: You can activate this card from your hand; reveal 1 card from your Deck, and add it to your hand.","str1":"Reveal Card","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":2295831,"pack_id":"15AX-JPM03","pack":"15AX","rarity":"Symbol of Friendship","date":1420848000000},"tcg":{"id":2295831,"pack_id":"MIL1-EN017","pack":"MIL1","rarity":"Symbol of Friendship","date":1460592000000}}
+{
+    "id": 2295831,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Symbol of Friendship",
+    "desc": "To activate this card, you must draw it for your normal draw in your Draw Phase while your opponent controls 3 or more monsters and you control no monsters, reveal it, and keep it revealed until the Main Phase 1. During your Main Phase 1 that same turn: You can activate this card from your hand; reveal 1 card from your Deck, and add it to your hand.",
+    "str1": "Reveal Card",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 2295831,
+        "pack_id": "15AX-JPM03",
+        "pack": "15AX",
+        "rarity": "Symbol of Friendship",
+        "date": 1420848000000
+    },
+    "tcg": {
+        "id": 2295831,
+        "pack_id": "MIL1-EN017",
+        "pack": "MIL1",
+        "rarity": "Symbol of Friendship",
+        "date": 1460592000000
+    }
+}

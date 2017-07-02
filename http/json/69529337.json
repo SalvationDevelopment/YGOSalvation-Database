@@ -1,1 +1,47 @@
-{"id":69529337,"ot":3,"alias":0,"setcode":226,"type":33,"atk":600,"def":1900,"level":3,"race":256,"attribute":1,"category":0,"name":"Triamid Dancer","desc":"Once per turn: You can target 1 \"Triamid\" card in your Graveyard; shuffle it into the Deck, and if you do, all Rock-Type monsters you control gain 500 ATK and DEF. Once per turn, during your opponent's turn: You can target 1 \"Triamid\" Field Spell Card in your Field Zone; send it to the Graveyard, and if you do, activate 1 \"Triamid\" Field Spell Card from your Deck with a different name (this is a Quick Effect).","str1":"Gain 500 ATK and DEF","str2":"Activate 1 \"Tramid\" Field Spell from your deck","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":69529337,"pack_id":"TDIL-JP027","pack":"TDIL","rarity":"Triamid Dancer","date":1460160000000},"tcg":{"id":69529337,"pack_id":"TDIL-EN027","pack":"TDIL","rarity":"Triamid Dancer","date":1470268800000}}
+{
+    "id": 69529337,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 226,
+    "type": 33,
+    "atk": 600,
+    "def": 1900,
+    "level": 3,
+    "race": 256,
+    "attribute": 1,
+    "category": 0,
+    "name": "Triamid Dancer",
+    "desc": "Once per turn: You can target 1 \"Triamid\" card in your Graveyard; shuffle it into the Deck, and if you do, all Rock-Type monsters you control gain 500 ATK and DEF. Once per turn, during your opponent's turn: You can target 1 \"Triamid\" Field Spell Card in your Field Zone; send it to the Graveyard, and if you do, activate 1 \"Triamid\" Field Spell Card from your Deck with a different name (this is a Quick Effect).",
+    "str1": "Gain 500 ATK and DEF",
+    "str2": "Activate 1 \"Tramid\" Field Spell from your deck",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 69529337,
+        "pack_id": "TDIL-JP027",
+        "pack": "TDIL",
+        "rarity": "Triamid Dancer",
+        "date": 1460160000000
+    },
+    "tcg": {
+        "id": 69529337,
+        "pack_id": "TDIL-EN027",
+        "pack": "TDIL",
+        "rarity": "Triamid Dancer",
+        "date": 1470268800000
+    }
+}

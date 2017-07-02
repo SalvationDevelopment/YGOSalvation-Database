@@ -1,1 +1,47 @@
-{"id":56120475,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":2,"name":"Sakuretsu Armor","desc":"When an opponent's monster declares an attack: Target the attacking monster; destroy that target.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":56120475,"pack_id":"305-049","pack":"305","rarity":"Sakuretsu Armor","date":1045699200000},"tcg":{"id":56120475,"pack_id":"DCR-102","pack":"DCR","rarity":"Sakuretsu Armor","date":1070236800000}}
+{
+    "id": 56120475,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 2,
+    "name": "Sakuretsu Armor",
+    "desc": "When an opponent's monster declares an attack: Target the attacking monster; destroy that target.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 56120475,
+        "pack_id": "305-049",
+        "pack": "305",
+        "rarity": "Sakuretsu Armor",
+        "date": 1045699200000
+    },
+    "tcg": {
+        "id": 56120475,
+        "pack_id": "DCR-102",
+        "pack": "DCR",
+        "rarity": "Sakuretsu Armor",
+        "date": 1070236800000
+    }
+}

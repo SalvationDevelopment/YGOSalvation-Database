@@ -1,1 +1,47 @@
-{"id":65612454,"ot":3,"alias":0,"setcode":14,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1056776,"name":"Wattcube","desc":"Equip only to a Thunder-Type monster. It gains 100 ATK for each Thunder-Type monster in your Graveyard. You can send this face-up card you control to the Graveyard to have 1 face-up Thunder-Type monster you control gain 1000 ATK.","str1":"Gain attack","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":65612454,"pack_id":"TSHD-JP054","pack":"TSHD","rarity":"Wattcube","date":1266624000000},"tcg":{"id":65612454,"pack_id":"TSHD-EN054","pack":"TSHD","rarity":"Wattcube","date":1273190400000}}
+{
+    "id": 65612454,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 14,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1056776,
+    "name": "Wattcube",
+    "desc": "Equip only to a Thunder-Type monster. It gains 100 ATK for each Thunder-Type monster in your Graveyard. You can send this face-up card you control to the Graveyard to have 1 face-up Thunder-Type monster you control gain 1000 ATK.",
+    "str1": "Gain attack",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 65612454,
+        "pack_id": "TSHD-JP054",
+        "pack": "TSHD",
+        "rarity": "Wattcube",
+        "date": 1266624000000
+    },
+    "tcg": {
+        "id": 65612454,
+        "pack_id": "TSHD-EN054",
+        "pack": "TSHD",
+        "rarity": "Wattcube",
+        "date": 1273190400000
+    }
+}

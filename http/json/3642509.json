@@ -1,1 +1,47 @@
-{"id":3642509,"ot":3,"alias":0,"setcode":12296,"type":97,"atk":2800,"def":2200,"level":8,"race":1,"attribute":8,"category":8192,"name":"Elemental HERO Great Tornado","desc":"1 \"Elemental HERO\" monster + 1 WIND monster\nMust be Fusion Summoned and cannot be Special Summoned by other ways. If this card is Fusion Summoned: Halve the ATK and DEF of all face-up monsters your opponent currently controls.","str1":"Halve ATK and DEF","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":3642509,"pack_id":"PP12-JP007","pack":"PP12","rarity":"Elemental HERO Great Tornado","date":1269043200000},"tcg":{"id":3642509,"pack_id":"LC02-EN010","pack":"LC02","rarity":"Elemental HERO Great Tornado","date":1317686400000}}
+{
+    "id": 3642509,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 12296,
+    "type": 97,
+    "atk": 2800,
+    "def": 2200,
+    "level": 8,
+    "race": 1,
+    "attribute": 8,
+    "category": 8192,
+    "name": "Elemental HERO Great Tornado",
+    "desc": "1 \"Elemental HERO\" monster + 1 WIND monster\nMust be Fusion Summoned and cannot be Special Summoned by other ways. If this card is Fusion Summoned: Halve the ATK and DEF of all face-up monsters your opponent currently controls.",
+    "str1": "Halve ATK and DEF",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 3642509,
+        "pack_id": "PP12-JP007",
+        "pack": "PP12",
+        "rarity": "Elemental HERO Great Tornado",
+        "date": 1269043200000
+    },
+    "tcg": {
+        "id": 3642509,
+        "pack_id": "LC02-EN010",
+        "pack": "LC02",
+        "rarity": "Elemental HERO Great Tornado",
+        "date": 1317686400000
+    }
+}

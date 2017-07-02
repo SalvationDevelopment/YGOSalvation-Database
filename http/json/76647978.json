@@ -1,1 +1,47 @@
-{"id":76647978,"ot":1,"alias":0,"setcode":70,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Ultra Polymerization","desc":"Pay 2000 LP; Fusion Summon 1 Fusion Monster from your Extra Deck, using 2 monsters you control as Fusion Materials. Neither player can activate cards or effects in response to this card's activation. You can banish this card from your Graveyard, then target 1 Fusion Monster that was Fusion Summoned with this card's effect; Special Summon all the Fusion Materials used for its Fusion Summon from your Graveyard, but change their ATK and DEF to 0, also they have their effects negated.","str1":"Activate this card","str2":"Banish Transcendental Polymerization","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG","ocg":{"id":76647978,"pack_id":"MACR-JP052","pack":"MACR","rarity":"Ultra Polymerization","date":1484352000000},"tcg":{"id":76647978,"pack_id":"MACR-EN052","pack":"MACR","rarity":"Ultra Polymerization","date":1493856000000}}
+{
+    "id": 76647978,
+    "ot": 1,
+    "alias": 0,
+    "setcode": 70,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Ultra Polymerization",
+    "desc": "Pay 2000 LP; Fusion Summon 1 Fusion Monster from your Extra Deck, using 2 monsters you control as Fusion Materials. Neither player can activate cards or effects in response to this card's activation. You can banish this card from your Graveyard, then target 1 Fusion Monster that was Fusion Summoned with this card's effect; Special Summon all the Fusion Materials used for its Fusion Summon from your Graveyard, but change their ATK and DEF to 0, also they have their effects negated.",
+    "str1": "Activate this card",
+    "str2": "Banish Transcendental Polymerization",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG",
+    "ocg": {
+        "id": 76647978,
+        "pack_id": "MACR-JP052",
+        "pack": "MACR",
+        "rarity": "Ultra Polymerization",
+        "date": 1484352000000
+    },
+    "tcg": {
+        "id": 76647978,
+        "pack_id": "MACR-EN052",
+        "pack": "MACR",
+        "rarity": "Ultra Polymerization",
+        "date": 1493856000000
+    }
+}

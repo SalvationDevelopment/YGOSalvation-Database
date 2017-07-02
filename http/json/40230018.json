@@ -1,1 +1,47 @@
-{"id":40230018,"ot":3,"alias":0,"setcode":4206,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":512,"name":"Spellbook Library of the Crescent","desc":"If you have no \"Spellbook\" Spell Cards in your Graveyard: Reveal 3 \"Spellbook\" Spell Cards with different names from your Deck, your opponent randomly adds 1 of them to your hand, and shuffle the rest back into your Deck. You can only activate 1 \"Spellbook Library of the Crescent\" per turn. You cannot activate any Spell Cards the turn you activate this card, except \"Spellbook\" Spell Cards.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":40230018,"pack_id":"EP13-JP018","pack":"EP13","rarity":"Spellbook Library of the Crescent","date":1368835200000},"tcg":{"id":40230018,"pack_id":"REDU-EN087","pack":"REDU","rarity":"Spellbook Library of the Crescent","date":1345248000000}}
+{
+    "id": 40230018,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4206,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 512,
+    "name": "Spellbook Library of the Crescent",
+    "desc": "If you have no \"Spellbook\" Spell Cards in your Graveyard: Reveal 3 \"Spellbook\" Spell Cards with different names from your Deck, your opponent randomly adds 1 of them to your hand, and shuffle the rest back into your Deck. You can only activate 1 \"Spellbook Library of the Crescent\" per turn. You cannot activate any Spell Cards the turn you activate this card, except \"Spellbook\" Spell Cards.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 40230018,
+        "pack_id": "EP13-JP018",
+        "pack": "EP13",
+        "rarity": "Spellbook Library of the Crescent",
+        "date": 1368835200000
+    },
+    "tcg": {
+        "id": 40230018,
+        "pack_id": "REDU-EN087",
+        "pack": "REDU",
+        "rarity": "Spellbook Library of the Crescent",
+        "date": 1345248000000
+    }
+}

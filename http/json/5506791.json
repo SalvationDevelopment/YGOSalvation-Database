@@ -1,1 +1,47 @@
-{"id":5506791,"ot":3,"alias":0,"setcode":208,"type":16777249,"atk":100,"def":1800,"level":33685507,"race":2,"attribute":8,"category":0,"name":"Majespecter Cat - Nekomata","desc":"When this card is Normal or Special Summoned: You can add 1 \"Majespecter\" card from your Deck to your hand during the End Phase of this turn. You can only use this effect of \"Majespecter Cat - Nekomata\" once per turn. Cannot be targeted or destroyed by your opponent's card effects.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":5506791,"pack_id":"DOCS-JP025","pack":"DOCS","rarity":"Majespecter Cat - Nekomata","date":1437177600000},"tcg":{"id":5506791,"pack_id":"DOCS-EN025","pack":"DOCS","rarity":"Majespecter Cat - Nekomata","date":1446681600000}}
+{
+    "id": 5506791,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 208,
+    "type": 16777249,
+    "atk": 100,
+    "def": 1800,
+    "level": 33685507,
+    "race": 2,
+    "attribute": 8,
+    "category": 0,
+    "name": "Majespecter Cat - Nekomata",
+    "desc": "When this card is Normal or Special Summoned: You can add 1 \"Majespecter\" card from your Deck to your hand during the End Phase of this turn. You can only use this effect of \"Majespecter Cat - Nekomata\" once per turn. Cannot be targeted or destroyed by your opponent's card effects.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 5506791,
+        "pack_id": "DOCS-JP025",
+        "pack": "DOCS",
+        "rarity": "Majespecter Cat - Nekomata",
+        "date": 1437177600000
+    },
+    "tcg": {
+        "id": 5506791,
+        "pack_id": "DOCS-EN025",
+        "pack": "DOCS",
+        "rarity": "Majespecter Cat - Nekomata",
+        "date": 1446681600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":98649372,"ot":3,"alias":0,"setcode":0,"type":33,"atk":600,"def":1600,"level":3,"race":64,"attribute":32,"category":2049,"name":"Skull Kraken","desc":"When this card is Normal Summoned: You can target 1 face-up Spell Card your opponent controls; destroy that target. Once per turn: You can change the battle position of this card.","str1":"Destroy Spell","str2":"Change battle position","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":98649372,"pack_id":"GENF-JP006","pack":"GENF","rarity":"Skull Kraken","date":1302912000000},"tcg":{"id":98649372,"pack_id":"GENF-EN006","pack":"GENF","rarity":"Skull Kraken","date":1312588800000}}
+{
+    "id": 98649372,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 600,
+    "def": 1600,
+    "level": 3,
+    "race": 64,
+    "attribute": 32,
+    "category": 2049,
+    "name": "Skull Kraken",
+    "desc": "When this card is Normal Summoned: You can target 1 face-up Spell Card your opponent controls; destroy that target. Once per turn: You can change the battle position of this card.",
+    "str1": "Destroy Spell",
+    "str2": "Change battle position",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 98649372,
+        "pack_id": "GENF-JP006",
+        "pack": "GENF",
+        "rarity": "Skull Kraken",
+        "date": 1302912000000
+    },
+    "tcg": {
+        "id": 98649372,
+        "pack_id": "GENF-EN006",
+        "pack": "GENF",
+        "rarity": "Skull Kraken",
+        "date": 1312588800000
+    }
+}

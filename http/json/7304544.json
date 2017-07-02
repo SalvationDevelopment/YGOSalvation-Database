@@ -1,1 +1,47 @@
-{"id":7304544,"ot":3,"alias":0,"setcode":42,"type":33,"atk":100,"def":100,"level":2,"race":1024,"attribute":1,"category":1311744,"name":"Naturia Pineapple","desc":"All face-up monsters you control are treated as Plant-Type. During your Standby Phase, if you do not control a face-up \"Naturia Pineapple\", and have no monsters in your Graveyard except Plant or Beast-Type: You can Special Summon this card from your Graveyard. You must not control any Spell or Trap Cards to activate and resolve this effect.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":7304544,"pack_id":"EXP4-JP013","pack":"EXP4","rarity":"Naturia Pineapple","date":1316217600000},"tcg":{"id":7304544,"pack_id":"DREV-EN082","pack":"DREV","rarity":"Naturia Pineapple","date":1281139200000}}
+{
+    "id": 7304544,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 42,
+    "type": 33,
+    "atk": 100,
+    "def": 100,
+    "level": 2,
+    "race": 1024,
+    "attribute": 1,
+    "category": 1311744,
+    "name": "Naturia Pineapple",
+    "desc": "All face-up monsters you control are treated as Plant-Type. During your Standby Phase, if you do not control a face-up \"Naturia Pineapple\", and have no monsters in your Graveyard except Plant or Beast-Type: You can Special Summon this card from your Graveyard. You must not control any Spell or Trap Cards to activate and resolve this effect.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 7304544,
+        "pack_id": "EXP4-JP013",
+        "pack": "EXP4",
+        "rarity": "Naturia Pineapple",
+        "date": 1316217600000
+    },
+    "tcg": {
+        "id": 7304544,
+        "pack_id": "DREV-EN082",
+        "pack": "DREV",
+        "rarity": "Naturia Pineapple",
+        "date": 1281139200000
+    }
+}

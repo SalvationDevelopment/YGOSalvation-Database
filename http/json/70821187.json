@@ -1,1 +1,47 @@
-{"id":70821187,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1800,"def":1500,"level":4,"race":16,"attribute":32,"category":16,"name":"Regenerating Mummy","desc":"When this card is sent from your hand to your Graveyard by an opponent's card effect: Return this card to the hand.","str1":"Return to hand","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":70821187,"pack_id":"309-024","pack":"309","rarity":"Regenerating Mummy","date":1077753600000},"tcg":{"id":70821187,"pack_id":"AST-079","pack":"AST","rarity":"Regenerating Mummy","date":1086048000000}}
+{
+    "id": 70821187,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1800,
+    "def": 1500,
+    "level": 4,
+    "race": 16,
+    "attribute": 32,
+    "category": 16,
+    "name": "Regenerating Mummy",
+    "desc": "When this card is sent from your hand to your Graveyard by an opponent's card effect: Return this card to the hand.",
+    "str1": "Return to hand",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 70821187,
+        "pack_id": "309-024",
+        "pack": "309",
+        "rarity": "Regenerating Mummy",
+        "date": 1077753600000
+    },
+    "tcg": {
+        "id": 70821187,
+        "pack_id": "AST-079",
+        "pack": "AST",
+        "rarity": "Regenerating Mummy",
+        "date": 1086048000000
+    }
+}

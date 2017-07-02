@@ -1,1 +1,47 @@
-{"id":96967123,"ot":3,"alias":0,"setcode":0,"type":17,"atk":900,"def":500,"level":2,"race":32,"attribute":32,"category":0,"name":"Dharma Cannon","desc":"A monstrous creature whose body is fitted with cannons that never miss their targets.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":96967123,"pack_id":"","pack":"","rarity":"Dharma Cannon","date":935625600000},"tcg":{"id":96967123,"pack_id":"TP2-018","pack":"TP2","rarity":"Dharma Cannon","date":1033430400000}}
+{
+    "id": 96967123,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 900,
+    "def": 500,
+    "level": 2,
+    "race": 32,
+    "attribute": 32,
+    "category": 0,
+    "name": "Dharma Cannon",
+    "desc": "A monstrous creature whose body is fitted with cannons that never miss their targets.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 96967123,
+        "pack_id": "",
+        "pack": "",
+        "rarity": "Dharma Cannon",
+        "date": 935625600000
+    },
+    "tcg": {
+        "id": 96967123,
+        "pack_id": "TP2-018",
+        "pack": "TP2",
+        "rarity": "Dharma Cannon",
+        "date": 1033430400000
+    }
+}

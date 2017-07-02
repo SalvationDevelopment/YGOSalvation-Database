@@ -1,1 +1,47 @@
-{"id":57470761,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Tyrant Wing","desc":"Target 1 Dragon-Type monster on the field; equip this card to it. It gains 400 ATK and DEF, also it can make up to 2 attacks on monsters during each Battle Phase. Once per turn, during the End Phase, if the monster equipped with this card by this effect attacked an opponent's monster this turn: Destroy this card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":57470761,"pack_id":"CPD1-JP007","pack":"CPD1","rarity":"Tyrant Wing","date":1431734400000},"tcg":{"id":57470761,"pack_id":"DRL2-EN007","pack":"DRL2","rarity":"Tyrant Wing","date":1437004800000}}
+{
+    "id": 57470761,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Tyrant Wing",
+    "desc": "Target 1 Dragon-Type monster on the field; equip this card to it. It gains 400 ATK and DEF, also it can make up to 2 attacks on monsters during each Battle Phase. Once per turn, during the End Phase, if the monster equipped with this card by this effect attacked an opponent's monster this turn: Destroy this card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 57470761,
+        "pack_id": "CPD1-JP007",
+        "pack": "CPD1",
+        "rarity": "Tyrant Wing",
+        "date": 1431734400000
+    },
+    "tcg": {
+        "id": 57470761,
+        "pack_id": "DRL2-EN007",
+        "pack": "DRL2",
+        "rarity": "Tyrant Wing",
+        "date": 1437004800000
+    }
+}

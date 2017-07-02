@@ -1,1 +1,47 @@
-{"id":86489182,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2900,"def":2000,"level":8,"race":512,"attribute":8,"category":16,"name":"Simorgh, Bird of Ancestry","desc":"Both players Tribute Summon WIND monsters with 1 less Tribute than required. If you Tribute Summon this card by Tributing only WIND monsters, return up to 2 cards your opponent controls to their owner's hand. This card is treated as a Normal Monster while in your hand.","str1":"Return to hand","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":86489182,"pack_id":"LODT-JP039","pack":"LODT","rarity":"Simorgh, Bird of Ancestry","date":1203724800000},"tcg":{"id":86489182,"pack_id":"LODT-EN039","pack":"LODT","rarity":"Simorgh, Bird of Ancestry","date":1209772800000}}
+{
+    "id": 86489182,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2900,
+    "def": 2000,
+    "level": 8,
+    "race": 512,
+    "attribute": 8,
+    "category": 16,
+    "name": "Simorgh, Bird of Ancestry",
+    "desc": "Both players Tribute Summon WIND monsters with 1 less Tribute than required. If you Tribute Summon this card by Tributing only WIND monsters, return up to 2 cards your opponent controls to their owner's hand. This card is treated as a Normal Monster while in your hand.",
+    "str1": "Return to hand",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 86489182,
+        "pack_id": "LODT-JP039",
+        "pack": "LODT",
+        "rarity": "Simorgh, Bird of Ancestry",
+        "date": 1203724800000
+    },
+    "tcg": {
+        "id": 86489182,
+        "pack_id": "LODT-EN039",
+        "pack": "LODT",
+        "rarity": "Simorgh, Bird of Ancestry",
+        "date": 1209772800000
+    }
+}

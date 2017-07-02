@@ -1,1 +1,47 @@
-{"id":25700114,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Duston Roller","desc":"Target 1 monster on the field; this turn, it cannot be Tributed, or be used as a Fusion, Synchro, or Xyz Material for a Summon. If this Set card you control is destroyed by your opponent's card effect and sent to your Graveyard: You can add 1 \"Duston\" monster from your Deck to your hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":25700114,"pack_id":"LVAL-JP080","pack":"LVAL","rarity":"Duston Roller","date":1384560000000},"tcg":{"id":25700114,"pack_id":"LVAL-EN080","pack":"LVAL","rarity":"Duston Roller","date":1390521600000}}
+{
+    "id": 25700114,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Duston Roller",
+    "desc": "Target 1 monster on the field; this turn, it cannot be Tributed, or be used as a Fusion, Synchro, or Xyz Material for a Summon. If this Set card you control is destroyed by your opponent's card effect and sent to your Graveyard: You can add 1 \"Duston\" monster from your Deck to your hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 25700114,
+        "pack_id": "LVAL-JP080",
+        "pack": "LVAL",
+        "rarity": "Duston Roller",
+        "date": 1384560000000
+    },
+    "tcg": {
+        "id": 25700114,
+        "pack_id": "LVAL-EN080",
+        "pack": "LVAL",
+        "rarity": "Duston Roller",
+        "date": 1390521600000
+    }
+}

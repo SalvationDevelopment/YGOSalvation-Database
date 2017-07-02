@@ -1,1 +1,47 @@
-{"id":45948430,"ot":3,"alias":0,"setcode":0,"type":130,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Super Soldier Synthesis","desc":"This card can be used to Ritual Summon any \"Black Luster Soldier\" Ritual Monster from your hand or Graveyard. You must also send 1 LIGHT and 1 DARK monster (1 from your hand and 1 from your Deck) to the Graveyard, whose total Levels exactly equal 8. You can only activate 1 \"Super Soldier Synthesis\" per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":45948430,"pack_id":"RATE-JP062","pack":"RATE","rarity":"Super Soldier Synthesis","date":1475884800000},"tcg":{"id":45948430,"pack_id":"RATE-EN062","pack":"RATE","rarity":"Super Soldier Synthesis","date":1486598400000}}
+{
+    "id": 45948430,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 130,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Super Soldier Synthesis",
+    "desc": "This card can be used to Ritual Summon any \"Black Luster Soldier\" Ritual Monster from your hand or Graveyard. You must also send 1 LIGHT and 1 DARK monster (1 from your hand and 1 from your Deck) to the Graveyard, whose total Levels exactly equal 8. You can only activate 1 \"Super Soldier Synthesis\" per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 45948430,
+        "pack_id": "RATE-JP062",
+        "pack": "RATE",
+        "rarity": "Super Soldier Synthesis",
+        "date": 1475884800000
+    },
+    "tcg": {
+        "id": 45948430,
+        "pack_id": "RATE-EN062",
+        "pack": "RATE",
+        "rarity": "Super Soldier Synthesis",
+        "date": 1486598400000
+    }
+}

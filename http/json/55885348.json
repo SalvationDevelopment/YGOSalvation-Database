@@ -1,1 +1,47 @@
-{"id":55885348,"ot":3,"alias":0,"setcode":210,"type":33,"atk":3000,"def":1800,"level":8,"race":32,"attribute":32,"category":0,"name":"Kozmo Dark Destroyer","desc":"If this card is Normal or Special Summoned: You can target 1 monster on the field; destroy it. Cannot be targeted by an opponent's card effects. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; Special Summon 1 Level 7 or lower \"Kozmo\" monster from your Deck.","str1":"Destroy Monster?","str2":"Special Summon from Deck?","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":55885348,"pack_id":"EP16-JP008","pack":"EP16","rarity":"Kozmo Dark Destroyer","date":1473465600000},"tcg":{"id":55885348,"pack_id":"DOCS-EN085","pack":"DOCS","rarity":"Kozmo Dark Destroyer","date":1446681600000}}
+{
+    "id": 55885348,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 210,
+    "type": 33,
+    "atk": 3000,
+    "def": 1800,
+    "level": 8,
+    "race": 32,
+    "attribute": 32,
+    "category": 0,
+    "name": "Kozmo Dark Destroyer",
+    "desc": "If this card is Normal or Special Summoned: You can target 1 monster on the field; destroy it. Cannot be targeted by an opponent's card effects. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; Special Summon 1 Level 7 or lower \"Kozmo\" monster from your Deck.",
+    "str1": "Destroy Monster?",
+    "str2": "Special Summon from Deck?",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 55885348,
+        "pack_id": "EP16-JP008",
+        "pack": "EP16",
+        "rarity": "Kozmo Dark Destroyer",
+        "date": 1473465600000
+    },
+    "tcg": {
+        "id": 55885348,
+        "pack_id": "DOCS-EN085",
+        "pack": "DOCS",
+        "rarity": "Kozmo Dark Destroyer",
+        "date": 1446681600000
+    }
+}

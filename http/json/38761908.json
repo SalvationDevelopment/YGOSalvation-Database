@@ -1,1 +1,47 @@
-{"id":38761908,"ot":3,"alias":0,"setcode":212,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Paleozoic Dinomischus","desc":"Target 1 face-up card on the field; discard 1 card, and if you do, banish it. Once per Chain, when a Trap Card is activated while this card is in your Graveyard: Special Summon this card as a Normal Monster (Aqua-Type/WATER/Level 2/ATK 1200/DEF 0). (This card is NOT treated as a Trap Card.) If Summoned this way, this card is unaffected by monster effects, also banish it when it leaves the field.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":38761908,"pack_id":"EP16-JP038","pack":"EP16","rarity":"Paleozoic Dinomischus","date":1473465600000},"tcg":{"id":38761908,"pack_id":"INOV-EN096","pack":"INOV","rarity":"Paleozoic Dinomischus","date":1478131200000}}
+{
+    "id": 38761908,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 212,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Paleozoic Dinomischus",
+    "desc": "Target 1 face-up card on the field; discard 1 card, and if you do, banish it. Once per Chain, when a Trap Card is activated while this card is in your Graveyard: Special Summon this card as a Normal Monster (Aqua-Type/WATER/Level 2/ATK 1200/DEF 0). (This card is NOT treated as a Trap Card.) If Summoned this way, this card is unaffected by monster effects, also banish it when it leaves the field.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 38761908,
+        "pack_id": "EP16-JP038",
+        "pack": "EP16",
+        "rarity": "Paleozoic Dinomischus",
+        "date": 1473465600000
+    },
+    "tcg": {
+        "id": 38761908,
+        "pack_id": "INOV-EN096",
+        "pack": "INOV",
+        "rarity": "Paleozoic Dinomischus",
+        "date": 1478131200000
+    }
+}

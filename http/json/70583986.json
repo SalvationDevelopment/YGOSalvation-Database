@@ -1,1 +1,47 @@
-{"id":70583986,"ot":3,"alias":0,"setcode":47,"type":8225,"atk":2000,"def":1400,"level":6,"race":16384,"attribute":2,"category":9232,"name":"Dewloren, Tiger King of the Ice Barrier","desc":"1 Tuner + 1 or more non-Tuner WATER monsters\nOnce per turn, you can return any number of face-up cards you control to the owner's hand. For each card returned to the owner's hand by this effect, this card gains 500 ATK until the End Phase.","str1":"返回手牌，攻击上升","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":70583986,"pack_id":"DT03-JP033","pack":"DT03","rarity":"Dewloren, Tiger King of the Ice Barrier","date":1222041600000},"tcg":{"id":70583986,"pack_id":"DT02-EN033","pack":"DT02","rarity":"Dewloren, Tiger King of the Ice Barrier","date":1274745600000}}
+{
+    "id": 70583986,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 47,
+    "type": 8225,
+    "atk": 2000,
+    "def": 1400,
+    "level": 6,
+    "race": 16384,
+    "attribute": 2,
+    "category": 9232,
+    "name": "Dewloren, Tiger King of the Ice Barrier",
+    "desc": "1 Tuner + 1 or more non-Tuner WATER monsters\nOnce per turn, you can return any number of face-up cards you control to the owner's hand. For each card returned to the owner's hand by this effect, this card gains 500 ATK until the End Phase.",
+    "str1": "返回手牌，攻击上升",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 70583986,
+        "pack_id": "DT03-JP033",
+        "pack": "DT03",
+        "rarity": "Dewloren, Tiger King of the Ice Barrier",
+        "date": 1222041600000
+    },
+    "tcg": {
+        "id": 70583986,
+        "pack_id": "DT02-EN033",
+        "pack": "DT02",
+        "rarity": "Dewloren, Tiger King of the Ice Barrier",
+        "date": 1274745600000
+    }
+}

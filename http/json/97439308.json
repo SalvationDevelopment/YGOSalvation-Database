@@ -1,1 +1,47 @@
-{"id":97439308,"ot":3,"alias":0,"setcode":207,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":256,"name":"Chaos Greed","desc":"You can only activate this card if 4 or more of your cards are currently removed from play and there are no cards in your Graveyard. Draw 2 cards.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":97439308,"pack_id":"306-038","pack":"306","rarity":"Chaos Greed","date":1051142400000},"tcg":{"id":97439308,"pack_id":"IOC-038","pack":"IOC","rarity":"Chaos Greed","date":1078099200000}}
+{
+    "id": 97439308,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 207,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 256,
+    "name": "Chaos Greed",
+    "desc": "You can only activate this card if 4 or more of your cards are currently removed from play and there are no cards in your Graveyard. Draw 2 cards.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 97439308,
+        "pack_id": "306-038",
+        "pack": "306",
+        "rarity": "Chaos Greed",
+        "date": 1051142400000
+    },
+    "tcg": {
+        "id": 97439308,
+        "pack_id": "IOC-038",
+        "pack": "IOC",
+        "rarity": "Chaos Greed",
+        "date": 1078099200000
+    }
+}

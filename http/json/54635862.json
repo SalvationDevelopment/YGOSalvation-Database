@@ -1,1 +1,47 @@
-{"id":54635862,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1200,"def":1000,"level":4,"race":524288,"attribute":16,"category":262144,"name":"Gentlemander","desc":"When an opponent's monster declares an attack: You can Special Summon this card from your hand. Your opponent cannot attack any monsters except this one.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":54635862,"pack_id":"ST13-JPV07","pack":"ST13","rarity":"Gentlemander","date":1363392000000},"tcg":{"id":54635862,"pack_id":"YS13-ENV07","pack":"YS13","rarity":"Gentlemander","date":1371168000000}}
+{
+    "id": 54635862,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1200,
+    "def": 1000,
+    "level": 4,
+    "race": 524288,
+    "attribute": 16,
+    "category": 262144,
+    "name": "Gentlemander",
+    "desc": "When an opponent's monster declares an attack: You can Special Summon this card from your hand. Your opponent cannot attack any monsters except this one.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 54635862,
+        "pack_id": "ST13-JPV07",
+        "pack": "ST13",
+        "rarity": "Gentlemander",
+        "date": 1363392000000
+    },
+    "tcg": {
+        "id": 54635862,
+        "pack_id": "YS13-ENV07",
+        "pack": "YS13",
+        "rarity": "Gentlemander",
+        "date": 1371168000000
+    }
+}

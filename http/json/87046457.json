@@ -1,1 +1,47 @@
-{"id":87046457,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1056768,"name":"Overdoom Line","desc":"If a Plant-Type monster(s) is Special Summoned from the Graveyard to your side of the field: It gains 1000 ATK while this card is face-up on the field. Destroy this card during your 2nd End Phase after activation.","str1":"Gain ATK","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":87046457,"pack_id":"RGBT-JP066","pack":"RGBT","rarity":"Overdoom Line","date":1234569600000},"tcg":{"id":87046457,"pack_id":"RGBT-EN066","pack":"RGBT","rarity":"Overdoom Line","date":1241222400000}}
+{
+    "id": 87046457,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1056768,
+    "name": "Overdoom Line",
+    "desc": "If a Plant-Type monster(s) is Special Summoned from the Graveyard to your side of the field: It gains 1000 ATK while this card is face-up on the field. Destroy this card during your 2nd End Phase after activation.",
+    "str1": "Gain ATK",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 87046457,
+        "pack_id": "RGBT-JP066",
+        "pack": "RGBT",
+        "rarity": "Overdoom Line",
+        "date": 1234569600000
+    },
+    "tcg": {
+        "id": 87046457,
+        "pack_id": "RGBT-EN066",
+        "pack": "RGBT",
+        "rarity": "Overdoom Line",
+        "date": 1241222400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":75840616,"ot":3,"alias":0,"setcode":136,"type":8388641,"atk":2400,"def":1600,"level":4,"race":32768,"attribute":16,"category":33288,"name":"Bujintei Susanowo","desc":"2 Level 4 \"Bujin\" monsters\nThis card can attack all monsters your opponent controls once each. Once per turn: You can detach 1 Xyz Material from this card; take 1 \"Bujin\" monster from your Deck, and either add it to your hand or send it to the Graveyard. You can only control 1 \"Bujintei Susanowo\".","str1":"Send to the grave?","str2":"Add to the hand?","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":75840616,"pack_id":"JOTL-JP057","pack":"JOTL","rarity":"Bujintei Susanowo","date":1366416000000},"tcg":{"id":75840616,"pack_id":"JOTL-EN057","pack":"JOTL","rarity":"Bujintei Susanowo","date":1375920000000}}
+{
+    "id": 75840616,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 136,
+    "type": 8388641,
+    "atk": 2400,
+    "def": 1600,
+    "level": 4,
+    "race": 32768,
+    "attribute": 16,
+    "category": 33288,
+    "name": "Bujintei Susanowo",
+    "desc": "2 Level 4 \"Bujin\" monsters\nThis card can attack all monsters your opponent controls once each. Once per turn: You can detach 1 Xyz Material from this card; take 1 \"Bujin\" monster from your Deck, and either add it to your hand or send it to the Graveyard. You can only control 1 \"Bujintei Susanowo\".",
+    "str1": "Send to the grave?",
+    "str2": "Add to the hand?",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 75840616,
+        "pack_id": "JOTL-JP057",
+        "pack": "JOTL",
+        "rarity": "Bujintei Susanowo",
+        "date": 1366416000000
+    },
+    "tcg": {
+        "id": 75840616,
+        "pack_id": "JOTL-EN057",
+        "pack": "JOTL",
+        "rarity": "Bujintei Susanowo",
+        "date": 1375920000000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":64107820,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1056768,"name":"Future Glow","desc":"Activate this card by banishing 1 Psychic-Type monster from your Graveyard, and note its Level; all Psychic-Type monsters you control gain ATK equal to that Level x 200.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":64107820,"pack_id":"GENF-JP056","pack":"GENF","rarity":"Future Glow","date":1302912000000},"tcg":{"id":64107820,"pack_id":"GENF-EN056","pack":"GENF","rarity":"Future Glow","date":1312588800000}}
+{
+    "id": 64107820,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1056768,
+    "name": "Future Glow",
+    "desc": "Activate this card by banishing 1 Psychic-Type monster from your Graveyard, and note its Level; all Psychic-Type monsters you control gain ATK equal to that Level x 200.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 64107820,
+        "pack_id": "GENF-JP056",
+        "pack": "GENF",
+        "rarity": "Future Glow",
+        "date": 1302912000000
+    },
+    "tcg": {
+        "id": 64107820,
+        "pack_id": "GENF-EN056",
+        "pack": "GENF",
+        "rarity": "Future Glow",
+        "date": 1312588800000
+    }
+}

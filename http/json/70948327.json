@@ -1,1 +1,47 @@
-{"id":70948327,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1600,"def":1800,"level":4,"race":32,"attribute":1,"category":2,"name":"Nanobreaker","desc":"If this card attacks a face-up Level 3 or lower monster, destroy the monster with this card's effect without applying damage calculation.","str1":"Destroy","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":70948327,"pack_id":"EE04-JP078","pack":"Expert Edition Volume 4","rarity":"共通","date":1190437200000},"tcg":{"id":70948327,"pack_id":"EEN-EN018","pack":"Elemental Energy","rarity":"Common","date":1131166800000}}
+{
+    "id": 70948327,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1600,
+    "def": 1800,
+    "level": 4,
+    "race": 32,
+    "attribute": 1,
+    "category": 2,
+    "name": "Nanobreaker",
+    "desc": "If this card attacks a face-up Level 3 or lower monster, destroy the monster with this card's effect without applying damage calculation.",
+    "str1": "Destroy",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 70948327,
+        "pack_id": "EE04-JP078",
+        "pack": "Expert Edition Volume 4",
+        "rarity": "共通",
+        "date": 1190437200000
+    },
+    "tcg": {
+        "id": 70948327,
+        "pack_id": "EEN-EN018",
+        "pack": "Elemental Energy",
+        "rarity": "Common",
+        "date": 1131166800000
+    }
+}

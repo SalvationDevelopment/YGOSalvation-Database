@@ -1,1 +1,47 @@
-{"id":16037007,"ot":3,"alias":0,"setcode":72,"type":8388641,"atk":2700,"def":2100,"level":7,"race":1048576,"attribute":1,"category":-2130706429,"name":"Number 74: Master of Blades","desc":"2 Level 7 monsters\nDuring either player's turn, when a card or effect is activated that targets this face-up card: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy that card, then you can destroy 1 card on the field.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":16037007,"pack_id":"CPZ1-JP025","pack":"CPZ1","rarity":"Number 74: Master of Blades","date":1376092800000},"tcg":{"id":16037007,"pack_id":"NUMH-EN032","pack":"NUMH","rarity":"Number 74: Master of Blades","date":1373587200000}}
+{
+    "id": 16037007,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 72,
+    "type": 8388641,
+    "atk": 2700,
+    "def": 2100,
+    "level": 7,
+    "race": 1048576,
+    "attribute": 1,
+    "category": -2130706429,
+    "name": "Number 74: Master of Blades",
+    "desc": "2 Level 7 monsters\nDuring either player's turn, when a card or effect is activated that targets this face-up card: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy that card, then you can destroy 1 card on the field.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 16037007,
+        "pack_id": "CPZ1-JP025",
+        "pack": "CPZ1",
+        "rarity": "Number 74: Master of Blades",
+        "date": 1376092800000
+    },
+    "tcg": {
+        "id": 16037007,
+        "pack_id": "NUMH-EN032",
+        "pack": "NUMH",
+        "rarity": "Number 74: Master of Blades",
+        "date": 1373587200000
+    }
+}

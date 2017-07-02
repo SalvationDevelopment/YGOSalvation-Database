@@ -1,1 +1,47 @@
-{"id":80402389,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1049088,"name":"Verdant Sanctuary","desc":"When a face-up Insect-Type monster is destroyed and sent to the Graveyard, its controller can add 1 Insect-Type monster with the same Level as the destroyed monster from their Deck to their hand.","str1":"Search","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":80402389,"pack_id":"CRMS-JP060","pack":"CRMS","rarity":"Verdant Sanctuary","date":1226707200000},"tcg":{"id":80402389,"pack_id":"CRMS-EN060","pack":"CRMS","rarity":"Verdant Sanctuary","date":1235779200000}}
+{
+    "id": 80402389,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1049088,
+    "name": "Verdant Sanctuary",
+    "desc": "When a face-up Insect-Type monster is destroyed and sent to the Graveyard, its controller can add 1 Insect-Type monster with the same Level as the destroyed monster from their Deck to their hand.",
+    "str1": "Search",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 80402389,
+        "pack_id": "CRMS-JP060",
+        "pack": "CRMS",
+        "rarity": "Verdant Sanctuary",
+        "date": 1226707200000
+    },
+    "tcg": {
+        "id": 80402389,
+        "pack_id": "CRMS-EN060",
+        "pack": "CRMS",
+        "rarity": "Verdant Sanctuary",
+        "date": 1235779200000
+    }
+}

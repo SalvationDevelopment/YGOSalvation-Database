@@ -1,1 +1,47 @@
-{"id":53982768,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2450,"def":1600,"level":6,"race":8,"attribute":32,"category":-2146435072,"name":"Dark Ruler Ha Des","desc":"Cannot be Special Summoned from the Graveyard. Negate the effects of monsters destroyed by battle with Fiend-Type monsters you control.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":53982768,"pack_id":"SC-01","pack":"SC","rarity":"Dark Ruler Ha Des","date":1000944000000},"tcg":{"id":53982768,"pack_id":"LOD-001","pack":"LOD","rarity":"Dark Ruler Ha Des","date":1054857600000}}
+{
+    "id": 53982768,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2450,
+    "def": 1600,
+    "level": 6,
+    "race": 8,
+    "attribute": 32,
+    "category": -2146435072,
+    "name": "Dark Ruler Ha Des",
+    "desc": "Cannot be Special Summoned from the Graveyard. Negate the effects of monsters destroyed by battle with Fiend-Type monsters you control.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 53982768,
+        "pack_id": "SC-01",
+        "pack": "SC",
+        "rarity": "Dark Ruler Ha Des",
+        "date": 1000944000000
+    },
+    "tcg": {
+        "id": 53982768,
+        "pack_id": "LOD-001",
+        "pack": "LOD",
+        "rarity": "Dark Ruler Ha Des",
+        "date": 1054857600000
+    }
+}

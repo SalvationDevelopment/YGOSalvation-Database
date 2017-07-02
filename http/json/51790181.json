@@ -1,1 +1,47 @@
-{"id":51790181,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":36,"name":"Pot of Benevolence","desc":"Select 2 cards from the Graveyard(s), and shuffle them into their owner's Deck(s). After activation, remove this card from play instead of sending it to the Graveyard. You can only activate 1 \"Pot of Benevolence\" per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":51790181,"pack_id":"ABPF-JP061","pack":"ABPF","rarity":"Pot of Benevolence","date":1258156800000},"tcg":{"id":51790181,"pack_id":"ABPF-EN061","pack":"ABPF","rarity":"Pot of Benevolence","date":1265932800000}}
+{
+    "id": 51790181,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 36,
+    "name": "Pot of Benevolence",
+    "desc": "Select 2 cards from the Graveyard(s), and shuffle them into their owner's Deck(s). After activation, remove this card from play instead of sending it to the Graveyard. You can only activate 1 \"Pot of Benevolence\" per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 51790181,
+        "pack_id": "ABPF-JP061",
+        "pack": "ABPF",
+        "rarity": "Pot of Benevolence",
+        "date": 1258156800000
+    },
+    "tcg": {
+        "id": 51790181,
+        "pack_id": "ABPF-EN061",
+        "pack": "ABPF",
+        "rarity": "Pot of Benevolence",
+        "date": 1265932800000
+    }
+}

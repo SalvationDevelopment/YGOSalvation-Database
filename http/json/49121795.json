@@ -1,1 +1,47 @@
-{"id":49121795,"ot":3,"alias":0,"setcode":0,"type":8388641,"atk":2200,"def":2200,"level":4,"race":32,"attribute":1,"category":0,"name":"Heavy Armored Train Ironwolf","desc":"2 Level 4 Machine-Type monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 Machine-Type monster you control; this turn, it can attack your opponent directly, also other monsters cannot attack. If this card in your possession is destroyed by an opponent's card (by battle or card effect) and sent to your Graveyard: You can add 1 Level 4 Machine-Type monster from your Deck to your hand.","str1":"Attack Directly","str2":"Add 1 Level 4 Machine-Type monster to hand","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":49121795,"pack_id":"RATE-JP050","pack":"RATE","rarity":"Heavy Armored Train Ironwolf","date":1475884800000},"tcg":{"id":49121795,"pack_id":"RATE-EN050","pack":"RATE","rarity":"Heavy Armored Train Ironwolf","date":1486598400000}}
+{
+    "id": 49121795,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8388641,
+    "atk": 2200,
+    "def": 2200,
+    "level": 4,
+    "race": 32,
+    "attribute": 1,
+    "category": 0,
+    "name": "Heavy Armored Train Ironwolf",
+    "desc": "2 Level 4 Machine-Type monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 Machine-Type monster you control; this turn, it can attack your opponent directly, also other monsters cannot attack. If this card in your possession is destroyed by an opponent's card (by battle or card effect) and sent to your Graveyard: You can add 1 Level 4 Machine-Type monster from your Deck to your hand.",
+    "str1": "Attack Directly",
+    "str2": "Add 1 Level 4 Machine-Type monster to hand",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 49121795,
+        "pack_id": "RATE-JP050",
+        "pack": "RATE",
+        "rarity": "Heavy Armored Train Ironwolf",
+        "date": 1475884800000
+    },
+    "tcg": {
+        "id": 49121795,
+        "pack_id": "RATE-EN050",
+        "pack": "RATE",
+        "rarity": "Heavy Armored Train Ironwolf",
+        "date": 1486598400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":31764700,"ot":3,"alias":0,"setcode":0,"type":33,"atk":0,"def":0,"level":12,"race":8,"attribute":32,"category":20971522,"name":"Yubel - The Ultimate Nightmare","desc":"Cannot be Normal Summoned or Set. Must be Special Summoned by \"Yubel - Terror Incarnate\", and cannot be Special Summoned by other ways. This card cannot be destroyed by battle. You take no Battle Damage from battles involving this card. At the end of the Damage Step, if this face-up Attack Position card battles with an opponent's monster: Inflict damage equal to that monster's ATK to your opponent, also destroy that monster.","str1":"伤害并破坏","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":31764700,"pack_id":"PTDN-JP008","pack":"PTDN","rarity":"Yubel - The Ultimate Nightmare","date":1195776000000},"tcg":{"id":31764700,"pack_id":"PTDN-EN008","pack":"PTDN","rarity":"Yubel - The Ultimate Nightmare","date":1201305600000}}
+{
+    "id": 31764700,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 0,
+    "def": 0,
+    "level": 12,
+    "race": 8,
+    "attribute": 32,
+    "category": 20971522,
+    "name": "Yubel - The Ultimate Nightmare",
+    "desc": "Cannot be Normal Summoned or Set. Must be Special Summoned by \"Yubel - Terror Incarnate\", and cannot be Special Summoned by other ways. This card cannot be destroyed by battle. You take no Battle Damage from battles involving this card. At the end of the Damage Step, if this face-up Attack Position card battles with an opponent's monster: Inflict damage equal to that monster's ATK to your opponent, also destroy that monster.",
+    "str1": "伤害并破坏",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 31764700,
+        "pack_id": "PTDN-JP008",
+        "pack": "PTDN",
+        "rarity": "Yubel - The Ultimate Nightmare",
+        "date": 1195776000000
+    },
+    "tcg": {
+        "id": 31764700,
+        "pack_id": "PTDN-EN008",
+        "pack": "PTDN",
+        "rarity": "Yubel - The Ultimate Nightmare",
+        "date": 1201305600000
+    }
+}

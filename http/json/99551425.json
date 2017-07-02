@@ -1,1 +1,47 @@
-{"id":99551425,"ot":3,"alias":0,"setcode":0,"type":65,"atk":2400,"def":2400,"level":7,"race":32,"attribute":32,"category":0,"name":"Labyrinth Tank","desc":"\"Giga-Tech Wolf\" + \"Cannon Soldier\"","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":99551425,"pack_id":"ME-31","pack":"ME","rarity":"Labyrinth Tank","date":948931200000},"tcg":{"id":99551425,"pack_id":"MRD-091","pack":"MRD","rarity":"Labyrinth Tank","date":1025049600000}}
+{
+    "id": 99551425,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65,
+    "atk": 2400,
+    "def": 2400,
+    "level": 7,
+    "race": 32,
+    "attribute": 32,
+    "category": 0,
+    "name": "Labyrinth Tank",
+    "desc": "\"Giga-Tech Wolf\" + \"Cannon Soldier\"",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 99551425,
+        "pack_id": "ME-31",
+        "pack": "ME",
+        "rarity": "Labyrinth Tank",
+        "date": 948931200000
+    },
+    "tcg": {
+        "id": 99551425,
+        "pack_id": "MRD-091",
+        "pack": "MRD",
+        "rarity": "Labyrinth Tank",
+        "date": 1025049600000
+    }
+}

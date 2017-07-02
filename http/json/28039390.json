@@ -1,1 +1,47 @@
-{"id":28039390,"ot":1,"alias":0,"setcode":173,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Frightfur Reborn","desc":"Target 1 \"Frightfur\" monster in your Graveyard; Special Summon it. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 of your banished \"Fluffal\" or \"Frightfur\" monsters; return it to the Graveyard.","str1":"Special Summon \"Frightfur\"","str2":"Return \"Fluffal\" or \"Frightfur\"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG","ocg":{"id":28039390,"pack_id":"PP19-JP006","pack":"PP19","rarity":"Frightfur Reborn","date":1489190400000},"tcg":{"id":28039390,"pack_id":"DPDG-EN007","pack":"DPDG","rarity":"Frightfur Reborn","date":1495670400000}}
+{
+    "id": 28039390,
+    "ot": 1,
+    "alias": 0,
+    "setcode": 173,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Frightfur Reborn",
+    "desc": "Target 1 \"Frightfur\" monster in your Graveyard; Special Summon it. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 of your banished \"Fluffal\" or \"Frightfur\" monsters; return it to the Graveyard.",
+    "str1": "Special Summon \"Frightfur\"",
+    "str2": "Return \"Fluffal\" or \"Frightfur\"",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG",
+    "ocg": {
+        "id": 28039390,
+        "pack_id": "PP19-JP006",
+        "pack": "PP19",
+        "rarity": "Frightfur Reborn",
+        "date": 1489190400000
+    },
+    "tcg": {
+        "id": 28039390,
+        "pack_id": "DPDG-EN007",
+        "pack": "DPDG",
+        "rarity": "Frightfur Reborn",
+        "date": 1495670400000
+    }
+}

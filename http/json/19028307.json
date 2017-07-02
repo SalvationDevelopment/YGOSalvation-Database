@@ -1,1 +1,47 @@
-{"id":19028307,"ot":3,"alias":0,"setcode":0,"type":33,"atk":3800,"def":1200,"level":8,"race":32768,"attribute":1,"category":1310720,"name":"Beast Machine King Barbaros Ür","desc":"You can Special Summon this card (from your hand) by banishing 1 Machine-Type monster and 1 Beast-Warrior-Type monster from your hand, field, and/or Graveyard. If this card attacks or is attacked, your opponent takes no battle damage.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":19028307,"pack_id":"VJMP-JP030","pack":"VJMP","rarity":"Beast Machine King Barbaros Ür","date":1203552000000},"tcg":{"id":19028307,"pack_id":"ANPR-EN097","pack":"ANPR","rarity":"Beast Machine King Barbaros Ür","date":1251763200000}}
+{
+    "id": 19028307,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 3800,
+    "def": 1200,
+    "level": 8,
+    "race": 32768,
+    "attribute": 1,
+    "category": 1310720,
+    "name": "Beast Machine King Barbaros Ür",
+    "desc": "You can Special Summon this card (from your hand) by banishing 1 Machine-Type monster and 1 Beast-Warrior-Type monster from your hand, field, and/or Graveyard. If this card attacks or is attacked, your opponent takes no battle damage.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 19028307,
+        "pack_id": "VJMP-JP030",
+        "pack": "VJMP",
+        "rarity": "Beast Machine King Barbaros Ür",
+        "date": 1203552000000
+    },
+    "tcg": {
+        "id": 19028307,
+        "pack_id": "ANPR-EN097",
+        "pack": "ANPR",
+        "rarity": "Beast Machine King Barbaros Ür",
+        "date": 1251763200000
+    }
+}

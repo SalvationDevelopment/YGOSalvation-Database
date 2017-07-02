@@ -1,1 +1,47 @@
-{"id":60316373,"ot":3,"alias":0,"setcode":118,"type":33,"atk":1800,"def":900,"level":4,"race":8192,"attribute":8,"category":1040,"name":"Heraldic Beast Aberconway","desc":"If this card is in the Graveyard: You can banish another \"Heraldic Beast Aberconway\" from your Graveyard to target 1 \"Heraldic Beast\" monster in your Graveyard; add that target to your hand. You can only use the effect of \"Heraldic Beast Aberconway\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":60316373,"pack_id":"ABYR-JP012","pack":"ABYR","rarity":"Heraldic Beast Aberconway","date":1342828800000},"tcg":{"id":60316373,"pack_id":"ABYR-EN012","pack":"ABYR","rarity":"Heraldic Beast Aberconway","date":1352419200000}}
+{
+    "id": 60316373,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 118,
+    "type": 33,
+    "atk": 1800,
+    "def": 900,
+    "level": 4,
+    "race": 8192,
+    "attribute": 8,
+    "category": 1040,
+    "name": "Heraldic Beast Aberconway",
+    "desc": "If this card is in the Graveyard: You can banish another \"Heraldic Beast Aberconway\" from your Graveyard to target 1 \"Heraldic Beast\" monster in your Graveyard; add that target to your hand. You can only use the effect of \"Heraldic Beast Aberconway\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 60316373,
+        "pack_id": "ABYR-JP012",
+        "pack": "ABYR",
+        "rarity": "Heraldic Beast Aberconway",
+        "date": 1342828800000
+    },
+    "tcg": {
+        "id": 60316373,
+        "pack_id": "ABYR-EN012",
+        "pack": "ABYR",
+        "rarity": "Heraldic Beast Aberconway",
+        "date": 1352419200000
+    }
+}

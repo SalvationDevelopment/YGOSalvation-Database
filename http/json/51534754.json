@@ -1,1 +1,47 @@
-{"id":51534754,"ot":3,"alias":0,"setcode":0,"type":33,"atk":800,"def":1400,"level":3,"race":64,"attribute":2,"category":2,"name":"Yomi Ship","desc":"When this card is destroyed by battle and sent to the Graveyard: Destroy the monster that destroyed this card.","str1":"Destroy","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":51534754,"pack_id":"301-019","pack":"301","rarity":"Yomi Ship","date":1021507200000},"tcg":{"id":51534754,"pack_id":"PGD-071","pack":"PGD","rarity":"Yomi Ship","date":1058486400000}}
+{
+    "id": 51534754,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 800,
+    "def": 1400,
+    "level": 3,
+    "race": 64,
+    "attribute": 2,
+    "category": 2,
+    "name": "Yomi Ship",
+    "desc": "When this card is destroyed by battle and sent to the Graveyard: Destroy the monster that destroyed this card.",
+    "str1": "Destroy",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 51534754,
+        "pack_id": "301-019",
+        "pack": "301",
+        "rarity": "Yomi Ship",
+        "date": 1021507200000
+    },
+    "tcg": {
+        "id": 51534754,
+        "pack_id": "PGD-071",
+        "pack": "PGD",
+        "rarity": "Yomi Ship",
+        "date": 1058486400000
+    }
+}

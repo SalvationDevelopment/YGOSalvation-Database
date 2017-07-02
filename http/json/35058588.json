@@ -1,1 +1,47 @@
-{"id":35058588,"ot":3,"alias":0,"setcode":227,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Cubic Wave","desc":"Target 1 \"Cubic\" monster you control and 1 face-up monster your opponent controls; the ATK of that monster you control becomes double its current ATK, and if it does, the ATK of that monster your opponent controls become half its current ATK. You can banish this card and any number of \"Cubic\" monsters from your Graveyard, then target face-up monsters your opponent controls equal to the number of those banished \"Cubic\" monsters; place 1 Cubic Counter on each of them. (Monsters with a Cubic Counter cannot attack, also negate their effects.)","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":35058588,"pack_id":"MVP1-JP042","pack":"MVP1","rarity":"Cubic Wave","date":1461369600000},"tcg":{"id":35058588,"pack_id":"MVP1-EN042","pack":"MVP1","rarity":"Cubic Wave","date":1469059200000}}
+{
+    "id": 35058588,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 227,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Cubic Wave",
+    "desc": "Target 1 \"Cubic\" monster you control and 1 face-up monster your opponent controls; the ATK of that monster you control becomes double its current ATK, and if it does, the ATK of that monster your opponent controls become half its current ATK. You can banish this card and any number of \"Cubic\" monsters from your Graveyard, then target face-up monsters your opponent controls equal to the number of those banished \"Cubic\" monsters; place 1 Cubic Counter on each of them. (Monsters with a Cubic Counter cannot attack, also negate their effects.)",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 35058588,
+        "pack_id": "MVP1-JP042",
+        "pack": "MVP1",
+        "rarity": "Cubic Wave",
+        "date": 1461369600000
+    },
+    "tcg": {
+        "id": 35058588,
+        "pack_id": "MVP1-EN042",
+        "pack": "MVP1",
+        "rarity": "Cubic Wave",
+        "date": 1469059200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":75775867,"ot":3,"alias":0,"setcode":38,"type":33,"atk":1200,"def":800,"level":4,"race":32,"attribute":8,"category":16777227,"name":"Morphtronic Slingen","desc":"● While in Attack Position: Once per turn, you can Tribute 1 \"Morphtronic\" monster, except \"Morphtronic Slingen\", to destroy 1 card on the field.\n● While in Defense Position: If this card would be destroyed, you can destroy another \"Morphtronic\" monster you control instead.","str1":"Destroy 1 card on the field","str2":"Destroy another 「Morphtronic」 monster?","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":75775867,"pack_id":"CRMS-JP018","pack":"CRMS","rarity":"Morphtronic Slingen","date":1239840000000},"tcg":{"id":75775867,"pack_id":"CRMS-EN018","pack":"CRMS","rarity":"Morphtronic Slingen","date":1235779200000}}
+{
+    "id": 75775867,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 38,
+    "type": 33,
+    "atk": 1200,
+    "def": 800,
+    "level": 4,
+    "race": 32,
+    "attribute": 8,
+    "category": 16777227,
+    "name": "Morphtronic Slingen",
+    "desc": "● While in Attack Position: Once per turn, you can Tribute 1 \"Morphtronic\" monster, except \"Morphtronic Slingen\", to destroy 1 card on the field.\n● While in Defense Position: If this card would be destroyed, you can destroy another \"Morphtronic\" monster you control instead.",
+    "str1": "Destroy 1 card on the field",
+    "str2": "Destroy another 「Morphtronic」 monster?",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 75775867,
+        "pack_id": "CRMS-JP018",
+        "pack": "CRMS",
+        "rarity": "Morphtronic Slingen",
+        "date": 1239840000000
+    },
+    "tcg": {
+        "id": 75775867,
+        "pack_id": "CRMS-EN018",
+        "pack": "CRMS",
+        "rarity": "Morphtronic Slingen",
+        "date": 1235779200000
+    }
+}

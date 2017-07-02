@@ -1,1 +1,47 @@
-{"id":49204190,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8192,"name":"Nitwit Outwit","desc":"Discard 1 monster, then target 1 face-up monster on the field; it loses ATK equal to the discarded monster's original ATK.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":49204190,"pack_id":"GAOV-JP066","pack":"GAOV","rarity":"Nitwit Outwit","date":1329523200000},"tcg":{"id":49204190,"pack_id":"GAOV-EN066","pack":"GAOV","rarity":"Nitwit Outwit","date":1335571200000}}
+{
+    "id": 49204190,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8192,
+    "name": "Nitwit Outwit",
+    "desc": "Discard 1 monster, then target 1 face-up monster on the field; it loses ATK equal to the discarded monster's original ATK.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 49204190,
+        "pack_id": "GAOV-JP066",
+        "pack": "GAOV",
+        "rarity": "Nitwit Outwit",
+        "date": 1329523200000
+    },
+    "tcg": {
+        "id": 49204190,
+        "pack_id": "GAOV-EN066",
+        "pack": "GAOV",
+        "rarity": "Nitwit Outwit",
+        "date": 1335571200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":32744558,"ot":3,"alias":0,"setcode":4098,"type":4129,"atk":200,"def":100,"level":2,"race":2,"attribute":32,"category":262144,"name":"R-Genex Overseer","desc":"When this card is Normal or Special Summoned, you can Special Summon 1 Level 3 or lower \"Genex\" monster from your hand.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":32744558,"pack_id":"DT05-JP022","pack":"DT05","rarity":"R-Genex Overseer","date":1239667200000},"tcg":{"id":32744558,"pack_id":"DT03-EN022","pack":"DT03","rarity":"R-Genex Overseer","date":1285372800000}}
+{
+    "id": 32744558,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4098,
+    "type": 4129,
+    "atk": 200,
+    "def": 100,
+    "level": 2,
+    "race": 2,
+    "attribute": 32,
+    "category": 262144,
+    "name": "R-Genex Overseer",
+    "desc": "When this card is Normal or Special Summoned, you can Special Summon 1 Level 3 or lower \"Genex\" monster from your hand.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 32744558,
+        "pack_id": "DT05-JP022",
+        "pack": "DT05",
+        "rarity": "R-Genex Overseer",
+        "date": 1239667200000
+    },
+    "tcg": {
+        "id": 32744558,
+        "pack_id": "DT03-EN022",
+        "pack": "DT03",
+        "rarity": "R-Genex Overseer",
+        "date": 1285372800000
+    }
+}

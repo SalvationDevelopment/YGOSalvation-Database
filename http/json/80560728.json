@@ -1,1 +1,47 @@
-{"id":80560728,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Dimension Mirage","desc":"Activate this card by targeting 1 face-up Attack Position monster your opponent controls. At the end of the Damage Step, when it attacks a monster, but the attack target was not destroyed by the battle: You can banish 1 monster from your Graveyard; it must attack again in a row. If the targeted monster leaves the field, destroy this card.","str1":"Make 2nd Attack","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":80560728,"pack_id":"MVP1-JP025","pack":"MVP1","rarity":"Dimension Mirage","date":1461369600000},"tcg":{"id":80560728,"pack_id":"MVP1-EN025","pack":"MVP1","rarity":"Dimension Mirage","date":1469059200000}}
+{
+    "id": 80560728,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Dimension Mirage",
+    "desc": "Activate this card by targeting 1 face-up Attack Position monster your opponent controls. At the end of the Damage Step, when it attacks a monster, but the attack target was not destroyed by the battle: You can banish 1 monster from your Graveyard; it must attack again in a row. If the targeted monster leaves the field, destroy this card.",
+    "str1": "Make 2nd Attack",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 80560728,
+        "pack_id": "MVP1-JP025",
+        "pack": "MVP1",
+        "rarity": "Dimension Mirage",
+        "date": 1461369600000
+    },
+    "tcg": {
+        "id": 80560728,
+        "pack_id": "MVP1-EN025",
+        "pack": "MVP1",
+        "rarity": "Dimension Mirage",
+        "date": 1469059200000
+    }
+}

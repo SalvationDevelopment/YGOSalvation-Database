@@ -1,1 +1,47 @@
-{"id":2542230,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Red Cocoon","desc":"Target 1 Dragon-Type Synchro Monster you control; equip this card to it. While it is battling an opponent's monster, until the end of the Damage Step, negate the effects of all face-up monsters your opponent controls. During the End Phase, if this card is in your Graveyard because it was sent there this turn: You can target 1 \"Red Dragon Archfiend\" in your Graveyard; Special Summon it.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":2542230,"pack_id":"SPHR-JP026","pack":"SPHR","rarity":"Red Cocoon","date":1440201600000},"tcg":{"id":2542230,"pack_id":"HSRD-EN026","pack":"HSRD","rarity":"Red Cocoon","date":1443657600000}}
+{
+    "id": 2542230,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Red Cocoon",
+    "desc": "Target 1 Dragon-Type Synchro Monster you control; equip this card to it. While it is battling an opponent's monster, until the end of the Damage Step, negate the effects of all face-up monsters your opponent controls. During the End Phase, if this card is in your Graveyard because it was sent there this turn: You can target 1 \"Red Dragon Archfiend\" in your Graveyard; Special Summon it.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 2542230,
+        "pack_id": "SPHR-JP026",
+        "pack": "SPHR",
+        "rarity": "Red Cocoon",
+        "date": 1440201600000
+    },
+    "tcg": {
+        "id": 2542230,
+        "pack_id": "HSRD-EN026",
+        "pack": "HSRD",
+        "rarity": "Red Cocoon",
+        "date": 1443657600000
+    }
+}

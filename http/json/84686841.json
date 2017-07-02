@@ -1,1 +1,47 @@
-{"id":84686841,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1000,"def":900,"level":3,"race":8,"attribute":32,"category":0,"name":"King Fog","desc":"A fiend that dwells in a blinding curtain of smoke.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":84686841,"pack_id":"LB-35","pack":"LB","rarity":"King Fog","date":921715200000},"tcg":{"id":84686841,"pack_id":"LOB-EN036","pack":"LOB","rarity":"King Fog","date":1101859200000}}
+{
+    "id": 84686841,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1000,
+    "def": 900,
+    "level": 3,
+    "race": 8,
+    "attribute": 32,
+    "category": 0,
+    "name": "King Fog",
+    "desc": "A fiend that dwells in a blinding curtain of smoke.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 84686841,
+        "pack_id": "LB-35",
+        "pack": "LB",
+        "rarity": "King Fog",
+        "date": 921715200000
+    },
+    "tcg": {
+        "id": 84686841,
+        "pack_id": "LOB-EN036",
+        "pack": "LOB",
+        "rarity": "King Fog",
+        "date": 1101859200000
+    }
+}

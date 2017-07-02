@@ -1,1 +1,47 @@
-{"id":37781520,"ot":3,"alias":0,"setcode":7667828,"type":33,"atk":2700,"def":1000,"level":7,"race":262144,"attribute":2,"category":263232,"name":"Mermail Abyssleed","desc":"You can discard 3 other WATER monsters to the Graveyard; Special Summon this card from your hand. When you do: You can target 1 \"Abyss-\" Spell/Trap Card in your Graveyard; add that target to your hand. You can Tribute 1 other face-up Attack Position \"Mermail\" monster; send 1 random card from your opponent's hand to the Graveyard. You can only use this effect of \"Mermail Abyssleed\" once per turn.","str1":"Special Summon","str2":"Recover Spell/Trap Card","str3":"Discard Cards to Graveyard","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":37781520,"pack_id":"CBLZ-JP034","pack":"CBLZ","rarity":"Mermail Abyssleed","date":1353110400000},"tcg":{"id":37781520,"pack_id":"CBLZ-EN034","pack":"CBLZ","rarity":"Mermail Abyssleed","date":1359072000000}}
+{
+    "id": 37781520,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 7667828,
+    "type": 33,
+    "atk": 2700,
+    "def": 1000,
+    "level": 7,
+    "race": 262144,
+    "attribute": 2,
+    "category": 263232,
+    "name": "Mermail Abyssleed",
+    "desc": "You can discard 3 other WATER monsters to the Graveyard; Special Summon this card from your hand. When you do: You can target 1 \"Abyss-\" Spell/Trap Card in your Graveyard; add that target to your hand. You can Tribute 1 other face-up Attack Position \"Mermail\" monster; send 1 random card from your opponent's hand to the Graveyard. You can only use this effect of \"Mermail Abyssleed\" once per turn.",
+    "str1": "Special Summon",
+    "str2": "Recover Spell/Trap Card",
+    "str3": "Discard Cards to Graveyard",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 37781520,
+        "pack_id": "CBLZ-JP034",
+        "pack": "CBLZ",
+        "rarity": "Mermail Abyssleed",
+        "date": 1353110400000
+    },
+    "tcg": {
+        "id": 37781520,
+        "pack_id": "CBLZ-EN034",
+        "pack": "CBLZ",
+        "rarity": "Mermail Abyssleed",
+        "date": 1359072000000
+    }
+}

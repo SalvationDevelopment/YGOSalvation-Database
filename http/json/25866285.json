@@ -1,1 +1,47 @@
-{"id":25866285,"ot":3,"alias":0,"setcode":42,"type":4129,"atk":200,"def":500,"level":3,"race":2048,"attribute":1,"category":65536,"name":"Naturia Stinkbug","desc":"When a face-up \"Naturia\" monster you control is selected as an attack target, you can send this face-up card you control to the Graveyard to negate that attack and end the Battle Phase.","str1":"攻击无效并结束战斗阶段","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":25866285,"pack_id":"DT08-JP028","pack":"DT08","rarity":"Naturia Stinkbug","date":1264032000000},"tcg":{"id":25866285,"pack_id":"DT04-EN078","pack":"DT04","rarity":"Naturia Stinkbug","date":1295913600000}}
+{
+    "id": 25866285,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 42,
+    "type": 4129,
+    "atk": 200,
+    "def": 500,
+    "level": 3,
+    "race": 2048,
+    "attribute": 1,
+    "category": 65536,
+    "name": "Naturia Stinkbug",
+    "desc": "When a face-up \"Naturia\" monster you control is selected as an attack target, you can send this face-up card you control to the Graveyard to negate that attack and end the Battle Phase.",
+    "str1": "攻击无效并结束战斗阶段",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 25866285,
+        "pack_id": "DT08-JP028",
+        "pack": "DT08",
+        "rarity": "Naturia Stinkbug",
+        "date": 1264032000000
+    },
+    "tcg": {
+        "id": 25866285,
+        "pack_id": "DT04-EN078",
+        "pack": "DT04",
+        "rarity": "Naturia Stinkbug",
+        "date": 1295913600000
+    }
+}

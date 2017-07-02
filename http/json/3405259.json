@@ -1,1 +1,47 @@
-{"id":3405259,"ot":3,"alias":0,"setcode":0,"type":1057,"atk":1200,"def":2000,"level":4,"race":32,"attribute":16,"category":0,"name":"C-Crush Wyvern","desc":"Once per turn, you can either: Target 1 LIGHT Machine-Type monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card is unaffected by your opponent's Trap effects, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead. If this card is sent from the field to the Graveyard: You can Special Summon 1 Union monster from your hand.","str1":"Equip this card","str2":"Special Summon this card","str3":"Spcial Summon 1 Union monster","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":3405259,"pack_id":"SDKS-JP003","pack":"SDKS","rarity":"C-Crush Wyvern","date":1466208000000},"tcg":{"id":3405259,"pack_id":"SDKS-EN003","pack":"SDKS","rarity":"C-Crush Wyvern","date":1476921600000}}
+{
+    "id": 3405259,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 1057,
+    "atk": 1200,
+    "def": 2000,
+    "level": 4,
+    "race": 32,
+    "attribute": 16,
+    "category": 0,
+    "name": "C-Crush Wyvern",
+    "desc": "Once per turn, you can either: Target 1 LIGHT Machine-Type monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card is unaffected by your opponent's Trap effects, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead. If this card is sent from the field to the Graveyard: You can Special Summon 1 Union monster from your hand.",
+    "str1": "Equip this card",
+    "str2": "Special Summon this card",
+    "str3": "Spcial Summon 1 Union monster",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 3405259,
+        "pack_id": "SDKS-JP003",
+        "pack": "SDKS",
+        "rarity": "C-Crush Wyvern",
+        "date": 1466208000000
+    },
+    "tcg": {
+        "id": 3405259,
+        "pack_id": "SDKS-EN003",
+        "pack": "SDKS",
+        "rarity": "C-Crush Wyvern",
+        "date": 1476921600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":21970285,"ot":3,"alias":0,"setcode":0,"type":16777233,"atk":2300,"def":1000,"level":50528262,"race":1,"attribute":32,"category":0,"name":"Dragon Horn Hunter","desc":"Pendulum Effect\nAll Normal Monsters gain 200 ATK. You take no battle damage from battles involving Normal Monsters you control.\n\nMonster Effect\nThe horns were needed to prepare a medicine for her village, suffering from a plague. Unknown to her, the dragons burned and trampled her village, once displaced from their den.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":21970285,"pack_id":"EP15-JP046","pack":"EP15","rarity":"Dragon Horn Hunter","date":1442620800000},"tcg":{"id":21970285,"pack_id":"DUEA-ENSP1","pack":"DUEA","rarity":"Dragon Horn Hunter","date":1407542400000}}
+{
+    "id": 21970285,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 16777233,
+    "atk": 2300,
+    "def": 1000,
+    "level": 50528262,
+    "race": 1,
+    "attribute": 32,
+    "category": 0,
+    "name": "Dragon Horn Hunter",
+    "desc": "Pendulum Effect\nAll Normal Monsters gain 200 ATK. You take no battle damage from battles involving Normal Monsters you control.\n\nMonster Effect\nThe horns were needed to prepare a medicine for her village, suffering from a plague. Unknown to her, the dragons burned and trampled her village, once displaced from their den.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 21970285,
+        "pack_id": "EP15-JP046",
+        "pack": "EP15",
+        "rarity": "Dragon Horn Hunter",
+        "date": 1442620800000
+    },
+    "tcg": {
+        "id": 21970285,
+        "pack_id": "DUEA-ENSP1",
+        "pack": "DUEA",
+        "rarity": "Dragon Horn Hunter",
+        "date": 1407542400000
+    }
+}

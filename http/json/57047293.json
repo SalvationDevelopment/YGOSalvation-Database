@@ -1,1 +1,47 @@
-{"id":57047293,"ot":3,"alias":0,"setcode":197,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Eye of the Void","desc":"Special Summon 1 \"Infernoid\" monster from your hand, ignoring its Summoning conditions, but its effects are negated until the end of this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":57047293,"pack_id":"SECE-JP071","pack":"SECE","rarity":"Eye of the Void","date":1416009600000},"tcg":{"id":57047293,"pack_id":"SECE-EN071","pack":"SECE","rarity":"Eye of the Void","date":1421280000000}}
+{
+    "id": 57047293,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 197,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Eye of the Void",
+    "desc": "Special Summon 1 \"Infernoid\" monster from your hand, ignoring its Summoning conditions, but its effects are negated until the end of this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 57047293,
+        "pack_id": "SECE-JP071",
+        "pack": "SECE",
+        "rarity": "Eye of the Void",
+        "date": 1416009600000
+    },
+    "tcg": {
+        "id": 57047293,
+        "pack_id": "SECE-EN071",
+        "pack": "SECE",
+        "rarity": "Eye of the Void",
+        "date": 1421280000000
+    }
+}

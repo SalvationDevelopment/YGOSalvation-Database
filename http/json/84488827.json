@@ -1,1 +1,47 @@
-{"id":84488827,"ot":3,"alias":0,"setcode":4106,"type":33,"atk":2800,"def":0,"level":8,"race":8,"attribute":32,"category":3,"name":"Steelswarm Caucastag","desc":"When this card is Tribute Summoned by Tributing 2 \"Steelswarm\" monsters: Activate 1 of these effects. \n● Destroy all monsters on the field, except this card. \n● Destroy all Spell and Trap Cards on the field.","str1":"Select effect","str2":"Destroy all monsters on the field, except this card. ","str3":"Destroy all Spell and Trap Cards on the field.","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":84488827,"pack_id":"DT10-JP033","pack":"デュエルターミナル 「インヴェルズの侵略！！」","rarity":"ウルトラレア仕様","date":1280811600000},"tcg":{"id":84488827,"pack_id":"DT05-EN083","pack":"DT05","rarity":"Steelswarm Caucastag","date":1317254400000}}
+{
+    "id": 84488827,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4106,
+    "type": 33,
+    "atk": 2800,
+    "def": 0,
+    "level": 8,
+    "race": 8,
+    "attribute": 32,
+    "category": 3,
+    "name": "Steelswarm Caucastag",
+    "desc": "When this card is Tribute Summoned by Tributing 2 \"Steelswarm\" monsters: Activate 1 of these effects. \n● Destroy all monsters on the field, except this card. \n● Destroy all Spell and Trap Cards on the field.",
+    "str1": "Select effect",
+    "str2": "Destroy all monsters on the field, except this card. ",
+    "str3": "Destroy all Spell and Trap Cards on the field.",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 84488827,
+        "pack_id": "DT10-JP033",
+        "pack": "デュエルターミナル 「インヴェルズの侵略！！」",
+        "rarity": "ウルトラレア仕様",
+        "date": 1280811600000
+    },
+    "tcg": {
+        "id": 84488827,
+        "pack_id": "DT05-EN083",
+        "pack": "DT05",
+        "rarity": "Steelswarm Caucastag",
+        "date": 1317254400000
+    }
+}

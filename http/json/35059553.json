@@ -1,1 +1,47 @@
-{"id":35059553,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Kaiser Colosseum","desc":"If there is 1 or more monster(s) on the field of the controller of this card, his/her opponent cannot place a monster on the field if his/her number of monsters would exceed the number of monsters that are on the field of this card's controller. The cards that are already on the field before this card's activation are unaffected by this effect.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":35059553,"pack_id":"302-031","pack":"302","rarity":"Kaiser Colosseum","date":1026950400000},"tcg":{"id":35059553,"pack_id":"MFC-031","pack":"MFC","rarity":"Kaiser Colosseum","date":1065744000000}}
+{
+    "id": 35059553,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Kaiser Colosseum",
+    "desc": "If there is 1 or more monster(s) on the field of the controller of this card, his/her opponent cannot place a monster on the field if his/her number of monsters would exceed the number of monsters that are on the field of this card's controller. The cards that are already on the field before this card's activation are unaffected by this effect.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 35059553,
+        "pack_id": "302-031",
+        "pack": "302",
+        "rarity": "Kaiser Colosseum",
+        "date": 1026950400000
+    },
+    "tcg": {
+        "id": 35059553,
+        "pack_id": "MFC-031",
+        "pack": "MFC",
+        "rarity": "Kaiser Colosseum",
+        "date": 1065744000000
+    }
+}

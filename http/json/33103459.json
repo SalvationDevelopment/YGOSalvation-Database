@@ -1,1 +1,47 @@
-{"id":33103459,"ot":3,"alias":0,"setcode":159,"type":33,"atk":600,"def":1000,"level":3,"race":32768,"attribute":16,"category":0,"name":"Performapal Corn","desc":"Once per turn, during your Main Phase, if this card was Normal or Special Summoned this turn: You can target 1 other \"Performapal\" monster you control with 1000 or less ATK; change both it and this card, that you control, from face-up Attack Position to Defense Position, and if you do, add 1 \"Odd-Eyes\" monster from your Deck to your hand. During your opponent's turn: You can banish 1 \"Performapal\" monster, except \"Performapal Corn\", and this card from your Graveyard; gain 500 LP (this is a Quick Effect).","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":33103459,"pack_id":"CPF1-JP003","pack":"CPF1","rarity":"Performapal Corn","date":1463184000000},"tcg":{"id":33103459,"pack_id":"DRL3-EN003","pack":"DRL3","rarity":"Performapal Corn","date":1471478400000}}
+{
+    "id": 33103459,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 159,
+    "type": 33,
+    "atk": 600,
+    "def": 1000,
+    "level": 3,
+    "race": 32768,
+    "attribute": 16,
+    "category": 0,
+    "name": "Performapal Corn",
+    "desc": "Once per turn, during your Main Phase, if this card was Normal or Special Summoned this turn: You can target 1 other \"Performapal\" monster you control with 1000 or less ATK; change both it and this card, that you control, from face-up Attack Position to Defense Position, and if you do, add 1 \"Odd-Eyes\" monster from your Deck to your hand. During your opponent's turn: You can banish 1 \"Performapal\" monster, except \"Performapal Corn\", and this card from your Graveyard; gain 500 LP (this is a Quick Effect).",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 33103459,
+        "pack_id": "CPF1-JP003",
+        "pack": "CPF1",
+        "rarity": "Performapal Corn",
+        "date": 1463184000000
+    },
+    "tcg": {
+        "id": 33103459,
+        "pack_id": "DRL3-EN003",
+        "pack": "DRL3",
+        "rarity": "Performapal Corn",
+        "date": 1471478400000
+    }
+}

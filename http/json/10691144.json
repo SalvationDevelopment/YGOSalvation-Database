@@ -1,1 +1,47 @@
-{"id":10691144,"ot":3,"alias":0,"setcode":47,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4,"name":"Mirror of the Ice Barrier","desc":"During this turn, each time a card(s) is removed from play from your hand, your side of the field, and/or your Graveyard by the effect of an opponent's Effect Monster: ● If a card in your hand is removed from play, remove from play up to 2 random cards in your opponent's hand. ● If a card you control is removed from play, remove from play up to 2 cards your opponent controls. ● If a card in your Graveyard is removed from play, remove from play up to 2 cards in your opponent's Graveyard.","str1":"Banish opponent's card in hand?","str2":"Banish opponent's card on the field?","str3":"Banish opponent's card in graveyard?","str4":"Banish 1 card","str5":"Banish 2 cards","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":10691144,"pack_id":"STBL-JP055","pack":"STBL","rarity":"Mirror of the Ice Barrier","date":1279324800000},"tcg":{"id":10691144,"pack_id":"STBL-EN055","pack":"STBL","rarity":"Mirror of the Ice Barrier","date":1289001600000}}
+{
+    "id": 10691144,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 47,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4,
+    "name": "Mirror of the Ice Barrier",
+    "desc": "During this turn, each time a card(s) is removed from play from your hand, your side of the field, and/or your Graveyard by the effect of an opponent's Effect Monster: ● If a card in your hand is removed from play, remove from play up to 2 random cards in your opponent's hand. ● If a card you control is removed from play, remove from play up to 2 cards your opponent controls. ● If a card in your Graveyard is removed from play, remove from play up to 2 cards in your opponent's Graveyard.",
+    "str1": "Banish opponent's card in hand?",
+    "str2": "Banish opponent's card on the field?",
+    "str3": "Banish opponent's card in graveyard?",
+    "str4": "Banish 1 card",
+    "str5": "Banish 2 cards",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 10691144,
+        "pack_id": "STBL-JP055",
+        "pack": "STBL",
+        "rarity": "Mirror of the Ice Barrier",
+        "date": 1279324800000
+    },
+    "tcg": {
+        "id": 10691144,
+        "pack_id": "STBL-EN055",
+        "pack": "STBL",
+        "rarity": "Mirror of the Ice Barrier",
+        "date": 1289001600000
+    }
+}

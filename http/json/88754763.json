@@ -1,1 +1,47 @@
-{"id":88754763,"ot":3,"alias":0,"setcode":13570163,"type":8388641,"atk":3800,"def":2300,"level":9,"race":1,"attribute":4,"category":4194304,"name":"CXyz Coach Lord Ultimatrainer","desc":"4 Level 9 monsters\nThis card cannot be targeted by card effects. If this card has an Xyz Monster as an Xyz Material, it gains this effect.\n● Once per turn: You can detach 1 Xyz Material from this card; draw 1 card and reveal it, then if it was a monster, inflict 800 damage to your opponent.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":88754763,"pack_id":"CPZ1-JP030","pack":"CPZ1","rarity":"CXyz Coach Lord Ultimatrainer","date":1376092800000},"tcg":{"id":88754763,"pack_id":"NUMH-EN038","pack":"NUMH","rarity":"CXyz Coach Lord Ultimatrainer","date":1373587200000}}
+{
+    "id": 88754763,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 13570163,
+    "type": 8388641,
+    "atk": 3800,
+    "def": 2300,
+    "level": 9,
+    "race": 1,
+    "attribute": 4,
+    "category": 4194304,
+    "name": "CXyz Coach Lord Ultimatrainer",
+    "desc": "4 Level 9 monsters\nThis card cannot be targeted by card effects. If this card has an Xyz Monster as an Xyz Material, it gains this effect.\n● Once per turn: You can detach 1 Xyz Material from this card; draw 1 card and reveal it, then if it was a monster, inflict 800 damage to your opponent.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 88754763,
+        "pack_id": "CPZ1-JP030",
+        "pack": "CPZ1",
+        "rarity": "CXyz Coach Lord Ultimatrainer",
+        "date": 1376092800000
+    },
+    "tcg": {
+        "id": 88754763,
+        "pack_id": "NUMH-EN038",
+        "pack": "NUMH",
+        "rarity": "CXyz Coach Lord Ultimatrainer",
+        "date": 1373587200000
+    }
+}

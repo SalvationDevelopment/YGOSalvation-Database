@@ -1,1 +1,47 @@
-{"id":90740329,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Taunt","desc":"Activate only during your opponent's Main Phase 1; select 1 monster on your side of the field. While the selected card remains on the field, if your opponent attacks with a monster(s) this turn, they must select the selected monster as the attack target.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":90740329,"pack_id":"SOD-JP049","pack":"SOD","rarity":"Taunt","date":1085616000000},"tcg":{"id":90740329,"pack_id":"SOD-EN049","pack":"SOD","rarity":"Taunt","date":1096588800000}}
+{
+    "id": 90740329,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Taunt",
+    "desc": "Activate only during your opponent's Main Phase 1; select 1 monster on your side of the field. While the selected card remains on the field, if your opponent attacks with a monster(s) this turn, they must select the selected monster as the attack target.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 90740329,
+        "pack_id": "SOD-JP049",
+        "pack": "SOD",
+        "rarity": "Taunt",
+        "date": 1085616000000
+    },
+    "tcg": {
+        "id": 90740329,
+        "pack_id": "SOD-EN049",
+        "pack": "SOD",
+        "rarity": "Taunt",
+        "date": 1096588800000
+    }
+}

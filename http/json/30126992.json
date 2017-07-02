@@ -1,1 +1,47 @@
-{"id":30126992,"ot":3,"alias":0,"setcode":108,"type":33,"atk":2800,"def":1000,"level":7,"race":8192,"attribute":16,"category":-2145386464,"name":"Lightray Diabolos","desc":"Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having 5 or more LIGHT monsters with different names in your Graveyard. Once per turn: You can banish 1 LIGHT monster from your Graveyard, then target 1 Set card your opponent controls; reveal that target, then place that target on either the top or bottom of the Deck.","str1":"Return to deck","str2":"Return to the top of the Deck","str3":"Return to the bottom of the Deck","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":30126992,"pack_id":"GAOV-JP035","pack":"GAOV","rarity":"Lightray Diabolos","date":1329523200000},"tcg":{"id":30126992,"pack_id":"GAOV-EN035","pack":"GAOV","rarity":"Lightray Diabolos","date":1335571200000}}
+{
+    "id": 30126992,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 108,
+    "type": 33,
+    "atk": 2800,
+    "def": 1000,
+    "level": 7,
+    "race": 8192,
+    "attribute": 16,
+    "category": -2145386464,
+    "name": "Lightray Diabolos",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having 5 or more LIGHT monsters with different names in your Graveyard. Once per turn: You can banish 1 LIGHT monster from your Graveyard, then target 1 Set card your opponent controls; reveal that target, then place that target on either the top or bottom of the Deck.",
+    "str1": "Return to deck",
+    "str2": "Return to the top of the Deck",
+    "str3": "Return to the bottom of the Deck",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 30126992,
+        "pack_id": "GAOV-JP035",
+        "pack": "GAOV",
+        "rarity": "Lightray Diabolos",
+        "date": 1329523200000
+    },
+    "tcg": {
+        "id": 30126992,
+        "pack_id": "GAOV-EN035",
+        "pack": "GAOV",
+        "rarity": "Lightray Diabolos",
+        "date": 1335571200000
+    }
+}

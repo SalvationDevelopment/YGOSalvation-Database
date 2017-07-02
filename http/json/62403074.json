@@ -1,1 +1,47 @@
-{"id":62403074,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1200,"def":1300,"level":4,"race":1,"attribute":1,"category":0,"name":"Rhaimundos of the Red Sword","desc":"Armed with the Sword of Crimson Flames, this warrior can bind a monster with fiery restraints.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":62403074,"pack_id":"TP23-JP006","pack":"TP23","rarity":"Rhaimundos of the Red Sword","date":931132800000},"tcg":{"id":62403074,"pack_id":"AP08-EN014","pack":"AP08","rarity":"Rhaimundos of the Red Sword","date":1445558400000}}
+{
+    "id": 62403074,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1200,
+    "def": 1300,
+    "level": 4,
+    "race": 1,
+    "attribute": 1,
+    "category": 0,
+    "name": "Rhaimundos of the Red Sword",
+    "desc": "Armed with the Sword of Crimson Flames, this warrior can bind a monster with fiery restraints.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 62403074,
+        "pack_id": "TP23-JP006",
+        "pack": "TP23",
+        "rarity": "Rhaimundos of the Red Sword",
+        "date": 931132800000
+    },
+    "tcg": {
+        "id": 62403074,
+        "pack_id": "AP08-EN014",
+        "pack": "AP08",
+        "rarity": "Rhaimundos of the Red Sword",
+        "date": 1445558400000
+    }
+}

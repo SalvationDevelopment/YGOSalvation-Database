@@ -1,1 +1,47 @@
-{"id":8041569,"ot":3,"alias":0,"setcode":57,"type":4129,"atk":200,"def":200,"level":3,"race":128,"attribute":4,"category":3,"name":"Laval Lakeside Lady","desc":"If this card is in your Graveyard and you have 3 or more \"Laval\" monsters with different names in your Graveyard: You can banish this card and 1 other \"Laval\" monster from your Graveyard to target 1 Set card your opponent controls; destroy that target.","str1":"对方场上盖放的1张卡破坏","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":8041569,"pack_id":"DT12-JP020","pack":"DT12","rarity":"Laval Lakeside Lady","date":1301616000000},"tcg":{"id":8041569,"pack_id":"DT06-EN070","pack":"DT06","rarity":"Laval Lakeside Lady","date":1337904000000}}
+{
+    "id": 8041569,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 57,
+    "type": 4129,
+    "atk": 200,
+    "def": 200,
+    "level": 3,
+    "race": 128,
+    "attribute": 4,
+    "category": 3,
+    "name": "Laval Lakeside Lady",
+    "desc": "If this card is in your Graveyard and you have 3 or more \"Laval\" monsters with different names in your Graveyard: You can banish this card and 1 other \"Laval\" monster from your Graveyard to target 1 Set card your opponent controls; destroy that target.",
+    "str1": "对方场上盖放的1张卡破坏",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 8041569,
+        "pack_id": "DT12-JP020",
+        "pack": "DT12",
+        "rarity": "Laval Lakeside Lady",
+        "date": 1301616000000
+    },
+    "tcg": {
+        "id": 8041569,
+        "pack_id": "DT06-EN070",
+        "pack": "DT06",
+        "rarity": "Laval Lakeside Lady",
+        "date": 1337904000000
+    }
+}

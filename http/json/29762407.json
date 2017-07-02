@@ -1,1 +1,47 @@
-{"id":29762407,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262152,"name":"Temple of the Kings","desc":"You can activate 1 Trap Card the turn it was Set. You can send 1 \"Mystical Beast of Serket\" in your Monster Zone and this card you control to the Graveyard; Special Summon 1 monster from your hand or Deck, or 1 Fusion Monster from your Extra Deck. You can only use each effect of \"Temple of the Kings\" once per turn.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":29762407,"pack_id":"G6-B1","pack":"G6","rarity":"Temple of the Kings","date":1008806400000},"tcg":{"id":29762407,"pack_id":"SDMA-EN038","pack":"SDMA","rarity":"Temple of the Kings","date":1287100800000}}
+{
+    "id": 29762407,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262152,
+    "name": "Temple of the Kings",
+    "desc": "You can activate 1 Trap Card the turn it was Set. You can send 1 \"Mystical Beast of Serket\" in your Monster Zone and this card you control to the Graveyard; Special Summon 1 monster from your hand or Deck, or 1 Fusion Monster from your Extra Deck. You can only use each effect of \"Temple of the Kings\" once per turn.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 29762407,
+        "pack_id": "G6-B1",
+        "pack": "G6",
+        "rarity": "Temple of the Kings",
+        "date": 1008806400000
+    },
+    "tcg": {
+        "id": 29762407,
+        "pack_id": "SDMA-EN038",
+        "pack": "SDMA",
+        "rarity": "Temple of the Kings",
+        "date": 1287100800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":30532390,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1800,"def":600,"level":4,"race":512,"attribute":8,"category":0,"name":"Sky Scout","desc":"With eyes like a hawk and a flying speed exceeding Mach 5, this monster is a master of the sky.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":30532390,"pack_id":"CA-50","pack":"CA","rarity":"Sky Scout","date":970099200000},"tcg":{"id":30532390,"pack_id":"PSV-049","pack":"PSV","rarity":"Sky Scout","date":1035072000000}}
+{
+    "id": 30532390,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1800,
+    "def": 600,
+    "level": 4,
+    "race": 512,
+    "attribute": 8,
+    "category": 0,
+    "name": "Sky Scout",
+    "desc": "With eyes like a hawk and a flying speed exceeding Mach 5, this monster is a master of the sky.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 30532390,
+        "pack_id": "CA-50",
+        "pack": "CA",
+        "rarity": "Sky Scout",
+        "date": 970099200000
+    },
+    "tcg": {
+        "id": 30532390,
+        "pack_id": "PSV-049",
+        "pack": "PSV",
+        "rarity": "Sky Scout",
+        "date": 1035072000000
+    }
+}

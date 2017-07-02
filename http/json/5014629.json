@@ -1,1 +1,47 @@
-{"id":5014629,"ot":3,"alias":0,"setcode":0,"type":8388641,"atk":1900,"def":1000,"level":3,"race":131072,"attribute":2,"category":4194304,"name":"Submersible Carrier Aero Shark","desc":"2 Level 3 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; inflict 100 damage to your opponent for each of your banished monsters.","str1":"Inflict damage","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":5014629,"pack_id":"GENF-JP040","pack":"GENF","rarity":"Submersible Carrier Aero Shark","date":1302912000000},"tcg":{"id":5014629,"pack_id":"GENF-EN040","pack":"GENF","rarity":"Submersible Carrier Aero Shark","date":1312588800000}}
+{
+    "id": 5014629,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8388641,
+    "atk": 1900,
+    "def": 1000,
+    "level": 3,
+    "race": 131072,
+    "attribute": 2,
+    "category": 4194304,
+    "name": "Submersible Carrier Aero Shark",
+    "desc": "2 Level 3 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; inflict 100 damage to your opponent for each of your banished monsters.",
+    "str1": "Inflict damage",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 5014629,
+        "pack_id": "GENF-JP040",
+        "pack": "GENF",
+        "rarity": "Submersible Carrier Aero Shark",
+        "date": 1302912000000
+    },
+    "tcg": {
+        "id": 5014629,
+        "pack_id": "GENF-EN040",
+        "pack": "GENF",
+        "rarity": "Submersible Carrier Aero Shark",
+        "date": 1312588800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":34187685,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":32768,"name":"Double Attack","desc":"Discard 1 Monster Card from your hand to the Graveyard. Select 1 monster on your side of the field with a lower Level than the discarded monster. The selected monster can attack twice this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":34187685,"pack_id":"TLM-JP040","pack":"TLM","rarity":"Double Attack","date":1134000000000},"tcg":{"id":34187685,"pack_id":"TLM-EN040","pack":"TLM","rarity":"Double Attack","date":1117238400000}}
+{
+    "id": 34187685,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 32768,
+    "name": "Double Attack",
+    "desc": "Discard 1 Monster Card from your hand to the Graveyard. Select 1 monster on your side of the field with a lower Level than the discarded monster. The selected monster can attack twice this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 34187685,
+        "pack_id": "TLM-JP040",
+        "pack": "TLM",
+        "rarity": "Double Attack",
+        "date": 1134000000000
+    },
+    "tcg": {
+        "id": 34187685,
+        "pack_id": "TLM-EN040",
+        "pack": "TLM",
+        "rarity": "Double Attack",
+        "date": 1117238400000
+    }
+}

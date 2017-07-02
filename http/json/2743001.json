@@ -1,1 +1,47 @@
-{"id":2743001,"ot":3,"alias":0,"setcode":234,"type":8225,"atk":2800,"def":2000,"level":9,"race":32,"attribute":2,"category":0,"name":"Crystron Phoenix","desc":"1 Tuner Synchro Monster + 1 or more non-Tuner Synchro Monsters\nIf this card is Synchro Summoned: You can banish all Spell and Trap Cards your opponent controls and in their Graveyard. If this Synchro Summoned card is destroyed by battle or card effect: You can target 1 other monster in your Graveyard; Special Summon it.","str1":"Banish Spell/Trap cards","str2":"Special Summon","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":2743001,"pack_id":"INOV-JP046","pack":"INOV","rarity":"Crystron Phoenix","date":1468022400000},"tcg":{"id":2743001,"pack_id":"INOV-EN046","pack":"INOV","rarity":"Crystron Phoenix","date":1478131200000}}
+{
+    "id": 2743001,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 234,
+    "type": 8225,
+    "atk": 2800,
+    "def": 2000,
+    "level": 9,
+    "race": 32,
+    "attribute": 2,
+    "category": 0,
+    "name": "Crystron Phoenix",
+    "desc": "1 Tuner Synchro Monster + 1 or more non-Tuner Synchro Monsters\nIf this card is Synchro Summoned: You can banish all Spell and Trap Cards your opponent controls and in their Graveyard. If this Synchro Summoned card is destroyed by battle or card effect: You can target 1 other monster in your Graveyard; Special Summon it.",
+    "str1": "Banish Spell/Trap cards",
+    "str2": "Special Summon",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 2743001,
+        "pack_id": "INOV-JP046",
+        "pack": "INOV",
+        "rarity": "Crystron Phoenix",
+        "date": 1468022400000
+    },
+    "tcg": {
+        "id": 2743001,
+        "pack_id": "INOV-EN046",
+        "pack": "INOV",
+        "rarity": "Crystron Phoenix",
+        "date": 1478131200000
+    }
+}

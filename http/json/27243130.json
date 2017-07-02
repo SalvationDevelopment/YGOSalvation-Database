@@ -1,1 +1,47 @@
-{"id":27243130,"ot":3,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":33562624,"name":"Forbidden Lance","desc":"Target 1 face-up monster on the field; until the end of this turn, that target loses 800 ATK, but is unaffected by the effects of other Spell/Trap Cards.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":27243130,"pack_id":"STOR-JP061","pack":"STOR","rarity":"Forbidden Lance","date":1289606400000},"tcg":{"id":27243130,"pack_id":"STOR-EN061","pack":"STOR","rarity":"Forbidden Lance","date":1297123200000}}
+{
+    "id": 27243130,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 33562624,
+    "name": "Forbidden Lance",
+    "desc": "Target 1 face-up monster on the field; until the end of this turn, that target loses 800 ATK, but is unaffected by the effects of other Spell/Trap Cards.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 27243130,
+        "pack_id": "STOR-JP061",
+        "pack": "STOR",
+        "rarity": "Forbidden Lance",
+        "date": 1289606400000
+    },
+    "tcg": {
+        "id": 27243130,
+        "pack_id": "STOR-EN061",
+        "pack": "STOR",
+        "rarity": "Forbidden Lance",
+        "date": 1297123200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":46571052,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1700,"def":1000,"level":4,"race":1024,"attribute":1,"category":262144,"name":"Vampire Orchis","desc":"When this monster is Normal Summoned successfully, you can Special Summon 1 \"Des Dendle\" from your hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":46571052,"pack_id":"302-014","pack":"302","rarity":"Vampire Orchis","date":1026950400000},"tcg":{"id":46571052,"pack_id":"MFC-014","pack":"MFC","rarity":"Vampire Orchis","date":1065744000000}}
+{
+    "id": 46571052,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1700,
+    "def": 1000,
+    "level": 4,
+    "race": 1024,
+    "attribute": 1,
+    "category": 262144,
+    "name": "Vampire Orchis",
+    "desc": "When this monster is Normal Summoned successfully, you can Special Summon 1 \"Des Dendle\" from your hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 46571052,
+        "pack_id": "302-014",
+        "pack": "302",
+        "rarity": "Vampire Orchis",
+        "date": 1026950400000
+    },
+    "tcg": {
+        "id": 46571052,
+        "pack_id": "MFC-014",
+        "pack": "MFC",
+        "rarity": "Vampire Orchis",
+        "date": 1065744000000
+    }
+}

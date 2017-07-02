@@ -1,1 +1,47 @@
-{"id":16589042,"ot":3,"alias":0,"setcode":189,"type":33,"atk":2300,"def":2100,"level":7,"race":1,"attribute":32,"category":0,"name":"Swift Gaia the Fierce Knight","desc":"If this is the only card in your hand, you can Normal Summon it without Tributing.","str1":"リリースなしで召喚","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":16589042,"pack_id":"YU-02","pack":"YU","rarity":"Swift Gaia the Fierce Knight","date":993686400000},"tcg":{"id":16589042,"pack_id":"CT1-EN004","pack":"CT1","rarity":"Swift Gaia the Fierce Knight","date":1122422400000}}
+{
+    "id": 16589042,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 189,
+    "type": 33,
+    "atk": 2300,
+    "def": 2100,
+    "level": 7,
+    "race": 1,
+    "attribute": 32,
+    "category": 0,
+    "name": "Swift Gaia the Fierce Knight",
+    "desc": "If this is the only card in your hand, you can Normal Summon it without Tributing.",
+    "str1": "リリースなしで召喚",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 16589042,
+        "pack_id": "YU-02",
+        "pack": "YU",
+        "rarity": "Swift Gaia the Fierce Knight",
+        "date": 993686400000
+    },
+    "tcg": {
+        "id": 16589042,
+        "pack_id": "CT1-EN004",
+        "pack": "CT1",
+        "rarity": "Swift Gaia the Fierce Knight",
+        "date": 1122422400000
+    }
+}

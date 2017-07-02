@@ -1,1 +1,47 @@
-{"id":76218643,"ot":3,"alias":0,"setcode":0,"type":33,"atk":200,"def":100,"level":1,"race":8,"attribute":32,"category":25165824,"name":"Black Potan","desc":"If you control a face-up Tuner monster, this card cannot be destroyed by battle. When a face-up Tuner monster(s) you control is removed from the field, gain 800 Life Points.","str1":"Gain LP","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":76218643,"pack_id":"ABPF-JP029","pack":"ABPF","rarity":"Black Potan","date":1258156800000},"tcg":{"id":76218643,"pack_id":"ABPF-EN029","pack":"ABPF","rarity":"Black Potan","date":1265932800000}}
+{
+    "id": 76218643,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 200,
+    "def": 100,
+    "level": 1,
+    "race": 8,
+    "attribute": 32,
+    "category": 25165824,
+    "name": "Black Potan",
+    "desc": "If you control a face-up Tuner monster, this card cannot be destroyed by battle. When a face-up Tuner monster(s) you control is removed from the field, gain 800 Life Points.",
+    "str1": "Gain LP",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 76218643,
+        "pack_id": "ABPF-JP029",
+        "pack": "ABPF",
+        "rarity": "Black Potan",
+        "date": 1258156800000
+    },
+    "tcg": {
+        "id": 76218643,
+        "pack_id": "ABPF-EN029",
+        "pack": "ABPF",
+        "rarity": "Black Potan",
+        "date": 1265932800000
+    }
+}

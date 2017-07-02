@@ -1,1 +1,47 @@
-{"id":37198732,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Level Lifter","desc":"Send 1 monster from your hand to the Graveyard, then target up to 2 face-up monsters you control; until the end of this turn, their Levels become the original Level of the monster sent to the Graveyard to activate this card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":37198732,"pack_id":"DP14-JP025","pack":"DP14","rarity":"Level Lifter","date":1379721600000},"tcg":{"id":37198732,"pack_id":"SECE-EN097","pack":"SECE","rarity":"Level Lifter","date":1421280000000}}
+{
+    "id": 37198732,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Level Lifter",
+    "desc": "Send 1 monster from your hand to the Graveyard, then target up to 2 face-up monsters you control; until the end of this turn, their Levels become the original Level of the monster sent to the Graveyard to activate this card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 37198732,
+        "pack_id": "DP14-JP025",
+        "pack": "DP14",
+        "rarity": "Level Lifter",
+        "date": 1379721600000
+    },
+    "tcg": {
+        "id": 37198732,
+        "pack_id": "SECE-EN097",
+        "pack": "SECE",
+        "rarity": "Level Lifter",
+        "date": 1421280000000
+    }
+}

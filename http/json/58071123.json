@@ -1,1 +1,47 @@
-{"id":58071123,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1800,"def":800,"level":4,"race":65536,"attribute":8,"category":4194304,"name":"Oxygeddon","desc":"When this card is destroyed by battle with a Pyro-Type monster and sent to the Graveyard, inflict 800 damage to both players.","str1":"Inflict damage","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":58071123,"pack_id":"EEN-JP014","pack":"EEN","rarity":"Oxygeddon","date":1123718400000},"tcg":{"id":58071123,"pack_id":"EEN-EN014","pack":"EEN","rarity":"Oxygeddon","date":1131148800000}}
+{
+    "id": 58071123,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1800,
+    "def": 800,
+    "level": 4,
+    "race": 65536,
+    "attribute": 8,
+    "category": 4194304,
+    "name": "Oxygeddon",
+    "desc": "When this card is destroyed by battle with a Pyro-Type monster and sent to the Graveyard, inflict 800 damage to both players.",
+    "str1": "Inflict damage",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 58071123,
+        "pack_id": "EEN-JP014",
+        "pack": "EEN",
+        "rarity": "Oxygeddon",
+        "date": 1123718400000
+    },
+    "tcg": {
+        "id": 58071123,
+        "pack_id": "EEN-EN014",
+        "pack": "EEN",
+        "rarity": "Oxygeddon",
+        "date": 1131148800000
+    }
+}

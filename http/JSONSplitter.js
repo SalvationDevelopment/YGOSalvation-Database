@@ -11,7 +11,7 @@ function splitJSON() {
 	var full = require('./manifest_0-en-OCGTCG.json');
 
 	full.forEach(function (card) {
-		var data = JSON.stringify(card),
+		var data = JSON.stringify(card, null, 4),
 			id = './json/' + card.id.toString() + '.json';
 
 		fs.writeFileSync(id, data);

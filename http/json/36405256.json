@@ -1,1 +1,47 @@
-{"id":36405256,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2900,"def":0,"level":8,"race":2,"attribute":32,"category":262144,"name":"Sorciere de Fleur","desc":"When this card is Normal or Special Summoned, select 1 monster in your opponent's Graveyard. Special Summon that monster to your side of the field. It cannot attack your opponent directly, and is destroyed during the End Phase of this turn. The effect of \"Sorciere de Fleur\" can only be activated once per turn.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":36405256,"pack_id":"WC11-JP002","pack":"WC11","rarity":"Sorciere de Fleur","date":1298505600000},"tcg":{"id":36405256,"pack_id":"WC11-EN002","pack":"WC11","rarity":"Sorciere de Fleur","date":1304985600000}}
+{
+    "id": 36405256,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2900,
+    "def": 0,
+    "level": 8,
+    "race": 2,
+    "attribute": 32,
+    "category": 262144,
+    "name": "Sorciere de Fleur",
+    "desc": "When this card is Normal or Special Summoned, select 1 monster in your opponent's Graveyard. Special Summon that monster to your side of the field. It cannot attack your opponent directly, and is destroyed during the End Phase of this turn. The effect of \"Sorciere de Fleur\" can only be activated once per turn.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 36405256,
+        "pack_id": "WC11-JP002",
+        "pack": "WC11",
+        "rarity": "Sorciere de Fleur",
+        "date": 1298505600000
+    },
+    "tcg": {
+        "id": 36405256,
+        "pack_id": "WC11-EN002",
+        "pack": "WC11",
+        "rarity": "Sorciere de Fleur",
+        "date": 1304985600000
+    }
+}

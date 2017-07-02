@@ -1,1 +1,47 @@
-{"id":16970158,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":-2147483648,"name":"Call of the Grave","desc":"When your opponent activates \"Monster Reborn\": Negate its effect.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":16970158,"pack_id":"B2-50","pack":"B2","rarity":"Call of the Grave","date":935625600000},"tcg":{"id":16970158,"pack_id":"TP2-005","pack":"TP2","rarity":"Call of the Grave","date":1033430400000}}
+{
+    "id": 16970158,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": -2147483648,
+    "name": "Call of the Grave",
+    "desc": "When your opponent activates \"Monster Reborn\": Negate its effect.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 16970158,
+        "pack_id": "B2-50",
+        "pack": "B2",
+        "rarity": "Call of the Grave",
+        "date": 935625600000
+    },
+    "tcg": {
+        "id": 16970158,
+        "pack_id": "TP2-005",
+        "pack": "TP2",
+        "rarity": "Call of the Grave",
+        "date": 1033430400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":79407975,"ot":3,"alias":0,"setcode":8244,"type":33,"atk":4000,"def":0,"level":10,"race":8192,"attribute":32,"category":2367488,"name":"Rainbow Dark Dragon","desc":"Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by banishing 7 DARK monsters with different names from your Graveyard, and cannot be Special Summoned by other ways. You can banish all other DARK monsters you control and from your Graveyard; this card gains 500 ATK for each card banished this way.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":79407975,"pack_id":"PTDN-JP003","pack":"PTDN","rarity":"Rainbow Dark Dragon","date":1195776000000},"tcg":{"id":79407975,"pack_id":"PTDN-EN003","pack":"PTDN","rarity":"Rainbow Dark Dragon","date":1201305600000}}
+{
+    "id": 79407975,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 8244,
+    "type": 33,
+    "atk": 4000,
+    "def": 0,
+    "level": 10,
+    "race": 8192,
+    "attribute": 32,
+    "category": 2367488,
+    "name": "Rainbow Dark Dragon",
+    "desc": "Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by banishing 7 DARK monsters with different names from your Graveyard, and cannot be Special Summoned by other ways. You can banish all other DARK monsters you control and from your Graveyard; this card gains 500 ATK for each card banished this way.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 79407975,
+        "pack_id": "PTDN-JP003",
+        "pack": "PTDN",
+        "rarity": "Rainbow Dark Dragon",
+        "date": 1195776000000
+    },
+    "tcg": {
+        "id": 79407975,
+        "pack_id": "PTDN-EN003",
+        "pack": "PTDN",
+        "rarity": "Rainbow Dark Dragon",
+        "date": 1201305600000
+    }
+}

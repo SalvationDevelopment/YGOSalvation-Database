@@ -1,1 +1,47 @@
-{"id":38299233,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":134217730,"name":"Needle Wall","desc":"Once per turn, during your Standby Phase: Roll a six-sided die. Treat your opponent's Monster Card Zones as numbers 1-5, counting from your right, and destroy the monster that is in the same Monster Card Zone as the result. If the result is 6, roll again.","str1":"Destroy","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":38299233,"pack_id":"PH-47","pack":"PH","rarity":"Needle Wall","date":1016668800000},"tcg":{"id":38299233,"pack_id":"PGD-048","pack":"PGD","rarity":"Needle Wall","date":1058486400000}}
+{
+    "id": 38299233,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 134217730,
+    "name": "Needle Wall",
+    "desc": "Once per turn, during your Standby Phase: Roll a six-sided die. Treat your opponent's Monster Card Zones as numbers 1-5, counting from your right, and destroy the monster that is in the same Monster Card Zone as the result. If the result is 6, roll again.",
+    "str1": "Destroy",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 38299233,
+        "pack_id": "PH-47",
+        "pack": "PH",
+        "rarity": "Needle Wall",
+        "date": 1016668800000
+    },
+    "tcg": {
+        "id": 38299233,
+        "pack_id": "PGD-048",
+        "pack": "PGD",
+        "rarity": "Needle Wall",
+        "date": 1058486400000
+    }
+}

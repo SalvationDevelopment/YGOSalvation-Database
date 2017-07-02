@@ -1,1 +1,47 @@
-{"id":10560119,"ot":3,"alias":0,"setcode":150,"type":33,"atk":400,"def":400,"level":4,"race":131072,"attribute":2,"category":0,"name":"Fishborg Doctor","desc":"If this card is in your Graveyard and all monsters you control are \"Fishborg\" monsters (min. 1): You can Special Summon this card, and if you do, banish it when it leaves the field. You can only use this effect of \"Fishborg Doctor\" once per turn. If you control a monster that is not a \"Fishborg\" monster, destroy this card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":10560119,"pack_id":"JF14-JP006","pack":"JF14","rarity":"Fishborg Doctor","date":1387584000000},"tcg":{"id":10560119,"pack_id":"DUEA-EN096","pack":"DUEA","rarity":"Fishborg Doctor","date":1407974400000}}
+{
+    "id": 10560119,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 150,
+    "type": 33,
+    "atk": 400,
+    "def": 400,
+    "level": 4,
+    "race": 131072,
+    "attribute": 2,
+    "category": 0,
+    "name": "Fishborg Doctor",
+    "desc": "If this card is in your Graveyard and all monsters you control are \"Fishborg\" monsters (min. 1): You can Special Summon this card, and if you do, banish it when it leaves the field. You can only use this effect of \"Fishborg Doctor\" once per turn. If you control a monster that is not a \"Fishborg\" monster, destroy this card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 10560119,
+        "pack_id": "JF14-JP006",
+        "pack": "JF14",
+        "rarity": "Fishborg Doctor",
+        "date": 1387584000000
+    },
+    "tcg": {
+        "id": 10560119,
+        "pack_id": "DUEA-EN096",
+        "pack": "DUEA",
+        "rarity": "Fishborg Doctor",
+        "date": 1407974400000
+    }
+}

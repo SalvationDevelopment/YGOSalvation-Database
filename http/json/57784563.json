@@ -1,1 +1,47 @@
-{"id":57784563,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1800,"def":1500,"level":4,"race":1,"attribute":32,"category":18874368,"name":"Dark Blade the Captain of the Evil World","desc":"Once per turn: You can banish 1 DARK monster from your Graveyard to target 1 Level 4 or lower LIGHT monster your opponent controls; equip it to this card. (You can only equip 1 monster at a time to this card with this effect.) If this card on the field would be destroyed, the monster equipped to it with this effect is destroyed, instead.","str1":"Equip","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":57784563,"pack_id":"ORCS-JP034","pack":"ORCS","rarity":"Dark Blade the Captain of the Evil World","date":1321660800000},"tcg":{"id":57784563,"pack_id":"ORCS-EN034","pack":"ORCS","rarity":"Dark Blade the Captain of the Evil World","date":1326499200000}}
+{
+    "id": 57784563,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1800,
+    "def": 1500,
+    "level": 4,
+    "race": 1,
+    "attribute": 32,
+    "category": 18874368,
+    "name": "Dark Blade the Captain of the Evil World",
+    "desc": "Once per turn: You can banish 1 DARK monster from your Graveyard to target 1 Level 4 or lower LIGHT monster your opponent controls; equip it to this card. (You can only equip 1 monster at a time to this card with this effect.) If this card on the field would be destroyed, the monster equipped to it with this effect is destroyed, instead.",
+    "str1": "Equip",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 57784563,
+        "pack_id": "ORCS-JP034",
+        "pack": "ORCS",
+        "rarity": "Dark Blade the Captain of the Evil World",
+        "date": 1321660800000
+    },
+    "tcg": {
+        "id": 57784563,
+        "pack_id": "ORCS-EN034",
+        "pack": "ORCS",
+        "rarity": "Dark Blade the Captain of the Evil World",
+        "date": 1326499200000
+    }
+}

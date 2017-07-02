@@ -1,1 +1,47 @@
-{"id":6713443,"ot":3,"alias":0,"setcode":124,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262656,"name":"Ultimate Fire Formation - Seito","desc":"Banish 7 \"Fire Formation\" Spell/Trap Cards from your Graveyard; Special Summon as many \"Fire Fist\" monsters as possible from your Graveyard, then you can Set \"Fire Formation\" Spell/Trap Cards directly from your Deck, except \"Ultimate Fire Formation - Seito\", up to the number of monsters Special Summoned by this effect.","str1":"Set \"Flaming Dance\" Spell or Trap Cards from your Deck to your Spell & Trap Card Zone?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":6713443,"pack_id":"CBLZ-JP073","pack":"CBLZ","rarity":"Ultimate Fire Formation - Seito","date":1353110400000},"tcg":{"id":6713443,"pack_id":"CBLZ-EN073","pack":"CBLZ","rarity":"Ultimate Fire Formation - Seito","date":1359072000000}}
+{
+    "id": 6713443,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 124,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262656,
+    "name": "Ultimate Fire Formation - Seito",
+    "desc": "Banish 7 \"Fire Formation\" Spell/Trap Cards from your Graveyard; Special Summon as many \"Fire Fist\" monsters as possible from your Graveyard, then you can Set \"Fire Formation\" Spell/Trap Cards directly from your Deck, except \"Ultimate Fire Formation - Seito\", up to the number of monsters Special Summoned by this effect.",
+    "str1": "Set \"Flaming Dance\" Spell or Trap Cards from your Deck to your Spell & Trap Card Zone?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 6713443,
+        "pack_id": "CBLZ-JP073",
+        "pack": "CBLZ",
+        "rarity": "Ultimate Fire Formation - Seito",
+        "date": 1353110400000
+    },
+    "tcg": {
+        "id": 6713443,
+        "pack_id": "CBLZ-EN073",
+        "pack": "CBLZ",
+        "rarity": "Ultimate Fire Formation - Seito",
+        "date": 1359072000000
+    }
+}

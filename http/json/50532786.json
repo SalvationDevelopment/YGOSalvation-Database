@@ -1,1 +1,47 @@
-{"id":50532786,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2600,"def":1600,"level":6,"race":32768,"attribute":2,"category":8192,"name":"Jawsman","desc":"Cannot be Special Summoned. If you Tribute Summon this card, all Tributes must be WATER. This card gains 300 ATK for each face-up WATER monster you control, except this card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":50532786,"pack_id":"GENF-JP008","pack":"GENF","rarity":"Jawsman","date":1302912000000},"tcg":{"id":50532786,"pack_id":"GENF-EN008","pack":"GENF","rarity":"Jawsman","date":1312588800000}}
+{
+    "id": 50532786,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2600,
+    "def": 1600,
+    "level": 6,
+    "race": 32768,
+    "attribute": 2,
+    "category": 8192,
+    "name": "Jawsman",
+    "desc": "Cannot be Special Summoned. If you Tribute Summon this card, all Tributes must be WATER. This card gains 300 ATK for each face-up WATER monster you control, except this card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 50532786,
+        "pack_id": "GENF-JP008",
+        "pack": "GENF",
+        "rarity": "Jawsman",
+        "date": 1302912000000
+    },
+    "tcg": {
+        "id": 50532786,
+        "pack_id": "GENF-EN008",
+        "pack": "GENF",
+        "rarity": "Jawsman",
+        "date": 1312588800000
+    }
+}

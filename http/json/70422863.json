@@ -1,1 +1,47 @@
-{"id":70422863,"ot":3,"alias":0,"setcode":156,"type":524290,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Hexatellarknight","desc":"Each \"tellarknight\" Xyz Monster gains 200 ATK and DEF for each Xyz Material attached to it. When a \"tellarknight\" Xyz Monster you control is targeted for an attack: You can send 1 \"tellarknight\" card from your hand to the Graveyard; negate that attack.","str1":"Negate attack?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":70422863,"pack_id":"NECH-JP063","pack":"NECH","rarity":"Hexatellarknight","date":1405728000000},"tcg":{"id":70422863,"pack_id":"DUEA-ENDE7","pack":"DUEA","rarity":"Hexatellarknight","date":1410393600000}}
+{
+    "id": 70422863,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 156,
+    "type": 524290,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Hexatellarknight",
+    "desc": "Each \"tellarknight\" Xyz Monster gains 200 ATK and DEF for each Xyz Material attached to it. When a \"tellarknight\" Xyz Monster you control is targeted for an attack: You can send 1 \"tellarknight\" card from your hand to the Graveyard; negate that attack.",
+    "str1": "Negate attack?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 70422863,
+        "pack_id": "NECH-JP063",
+        "pack": "NECH",
+        "rarity": "Hexatellarknight",
+        "date": 1405728000000
+    },
+    "tcg": {
+        "id": 70422863,
+        "pack_id": "DUEA-ENDE7",
+        "pack": "DUEA",
+        "rarity": "Hexatellarknight",
+        "date": 1410393600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":97651498,"ot":3,"alias":0,"setcode":53,"type":33,"atk":200,"def":400,"level":1,"race":8,"attribute":16,"category":262144,"name":"Fabled Lurrie","desc":"When this card is discarded from your hand to the Graveyard, Special Summon it.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":97651498,"pack_id":"DT04-JP011","pack":"デュエルターミナル 「魔轟神復活！！」","rarity":"共通","date":1228366800000},"tcg":{"id":97651498,"pack_id":"DT02-EN061","pack":"DT02","rarity":"Fabled Lurrie","date":1274745600000}}
+{
+    "id": 97651498,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 53,
+    "type": 33,
+    "atk": 200,
+    "def": 400,
+    "level": 1,
+    "race": 8,
+    "attribute": 16,
+    "category": 262144,
+    "name": "Fabled Lurrie",
+    "desc": "When this card is discarded from your hand to the Graveyard, Special Summon it.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 97651498,
+        "pack_id": "DT04-JP011",
+        "pack": "デュエルターミナル 「魔轟神復活！！」",
+        "rarity": "共通",
+        "date": 1228366800000
+    },
+    "tcg": {
+        "id": 97651498,
+        "pack_id": "DT02-EN061",
+        "pack": "DT02",
+        "rarity": "Fabled Lurrie",
+        "date": 1274745600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":87564935,"ot":3,"alias":0,"setcode":0,"type":1057,"atk":1000,"def":500,"level":7,"race":64,"attribute":2,"category":50593792,"name":"Metallizing Parasite - Soltite","desc":"Once per turn, you can either: Target 1 face-up monster you control; equip this card to that target, OR: Unequip this card and Special Summon it in face-up Attack Position. While equipped by this effect, the equipped monster cannot be targeted or destroyed by your opponent's monster effects. (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)","str1":"Equip","str2":"解除","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":87564935,"pack_id":"ABYR-JP034","pack":"ABYR","rarity":"Metallizing Parasite - Soltite","date":1342828800000},"tcg":{"id":87564935,"pack_id":"ABYR-EN034","pack":"ABYR","rarity":"Metallizing Parasite - Soltite","date":1352419200000}}
+{
+    "id": 87564935,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 1057,
+    "atk": 1000,
+    "def": 500,
+    "level": 7,
+    "race": 64,
+    "attribute": 2,
+    "category": 50593792,
+    "name": "Metallizing Parasite - Soltite",
+    "desc": "Once per turn, you can either: Target 1 face-up monster you control; equip this card to that target, OR: Unequip this card and Special Summon it in face-up Attack Position. While equipped by this effect, the equipped monster cannot be targeted or destroyed by your opponent's monster effects. (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)",
+    "str1": "Equip",
+    "str2": "解除",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 87564935,
+        "pack_id": "ABYR-JP034",
+        "pack": "ABYR",
+        "rarity": "Metallizing Parasite - Soltite",
+        "date": 1342828800000
+    },
+    "tcg": {
+        "id": 87564935,
+        "pack_id": "ABYR-EN034",
+        "pack": "ABYR",
+        "rarity": "Metallizing Parasite - Soltite",
+        "date": 1352419200000
+    }
+}

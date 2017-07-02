@@ -1,1 +1,47 @@
-{"id":18158397,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4194304,"name":"Natural Disaster","desc":"Inflict 500 damage to your opponent each time a card(s) they control is destroyed and sent to the Graveyard by the effect of a \"Cloudian\" monster.","str1":"Inflict damage","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":18158397,"pack_id":"GLAS-JP065","pack":"GLAS","rarity":"Natural Disaster","date":1184976000000},"tcg":{"id":18158397,"pack_id":"GLAS-EN065","pack":"GLAS","rarity":"Natural Disaster","date":1194998400000}}
+{
+    "id": 18158397,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4194304,
+    "name": "Natural Disaster",
+    "desc": "Inflict 500 damage to your opponent each time a card(s) they control is destroyed and sent to the Graveyard by the effect of a \"Cloudian\" monster.",
+    "str1": "Inflict damage",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 18158397,
+        "pack_id": "GLAS-JP065",
+        "pack": "GLAS",
+        "rarity": "Natural Disaster",
+        "date": 1184976000000
+    },
+    "tcg": {
+        "id": 18158397,
+        "pack_id": "GLAS-EN065",
+        "pack": "GLAS",
+        "rarity": "Natural Disaster",
+        "date": 1194998400000
+    }
+}

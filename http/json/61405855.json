@@ -1,1 +1,47 @@
-{"id":61405855,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1056770,"name":"Sword of Dragon's Soul","desc":"This card can only be equipped to a Warrior-Type monster. A monster equipped with this card increases its ATK by 700 points. A Dragon-Type monster that battles with the monster equipped with this card is destroyed at the end of the Battle Phase. (Damage calculation is applied normally.)","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":61405855,"pack_id":"G4-09","pack":"G4","rarity":"Sword of Dragon's Soul","date":976147200000},"tcg":{"id":61405855,"pack_id":"PCJ-EN003","pack":"PCJ","rarity":"Sword of Dragon's Soul","date":1088467200000}}
+{
+    "id": 61405855,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1056770,
+    "name": "Sword of Dragon's Soul",
+    "desc": "This card can only be equipped to a Warrior-Type monster. A monster equipped with this card increases its ATK by 700 points. A Dragon-Type monster that battles with the monster equipped with this card is destroyed at the end of the Battle Phase. (Damage calculation is applied normally.)",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 61405855,
+        "pack_id": "G4-09",
+        "pack": "G4",
+        "rarity": "Sword of Dragon's Soul",
+        "date": 976147200000
+    },
+    "tcg": {
+        "id": 61405855,
+        "pack_id": "PCJ-EN003",
+        "pack": "PCJ",
+        "rarity": "Sword of Dragon's Soul",
+        "date": 1088467200000
+    }
+}

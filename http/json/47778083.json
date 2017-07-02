@@ -1,1 +1,47 @@
-{"id":47778083,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262144,"name":"Bone Temple Block","desc":"Discard 1 card. Special Summon 1 Level 4 or lower monster from your opponent's Graveyard to your side of the field, and your opponent Special Summons 1 Level 4 or lower monster from your Graveyard to your opponent's side of the field. Those monsters are destroyed during the End Phase of the next turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":47778083,"pack_id":"RGBT-JP077","pack":"RGBT","rarity":"Bone Temple Block","date":1234569600000},"tcg":{"id":47778083,"pack_id":"RGBT-EN077","pack":"RGBT","rarity":"Bone Temple Block","date":1241222400000}}
+{
+    "id": 47778083,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262144,
+    "name": "Bone Temple Block",
+    "desc": "Discard 1 card. Special Summon 1 Level 4 or lower monster from your opponent's Graveyard to your side of the field, and your opponent Special Summons 1 Level 4 or lower monster from your Graveyard to your opponent's side of the field. Those monsters are destroyed during the End Phase of the next turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 47778083,
+        "pack_id": "RGBT-JP077",
+        "pack": "RGBT",
+        "rarity": "Bone Temple Block",
+        "date": 1234569600000
+    },
+    "tcg": {
+        "id": 47778083,
+        "pack_id": "RGBT-EN077",
+        "pack": "RGBT",
+        "rarity": "Bone Temple Block",
+        "date": 1241222400000
+    }
+}

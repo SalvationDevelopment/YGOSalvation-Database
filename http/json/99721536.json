@@ -1,1 +1,47 @@
-{"id":99721536,"ot":3,"alias":0,"setcode":0,"type":129,"atk":1900,"def":1850,"level":6,"race":16,"attribute":32,"category":0,"name":"Dokurorider","desc":"This monster can only be Ritual Summoned with the Ritual Magic Card, \"Revival of Dokurorider\". You must also offer monsters whose total Level Stars equal 6 or more as a Tribute from your field or your hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":99721536,"pack_id":"C","pack":"C","rarity":"Dokurorider","date":935107200000},"tcg":{"id":99721536,"pack_id":"TP2-009","pack":"TP2","rarity":"Dokurorider","date":1033430400000}}
+{
+    "id": 99721536,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 129,
+    "atk": 1900,
+    "def": 1850,
+    "level": 6,
+    "race": 16,
+    "attribute": 32,
+    "category": 0,
+    "name": "Dokurorider",
+    "desc": "This monster can only be Ritual Summoned with the Ritual Magic Card, \"Revival of Dokurorider\". You must also offer monsters whose total Level Stars equal 6 or more as a Tribute from your field or your hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 99721536,
+        "pack_id": "C",
+        "pack": "C",
+        "rarity": "Dokurorider",
+        "date": 935107200000
+    },
+    "tcg": {
+        "id": 99721536,
+        "pack_id": "TP2-009",
+        "pack": "TP2",
+        "rarity": "Dokurorider",
+        "date": 1033430400000
+    }
+}

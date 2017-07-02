@@ -1,1 +1,47 @@
-{"id":46848859,"ot":3,"alias":0,"setcode":22,"type":33,"atk":1000,"def":800,"level":4,"race":32,"attribute":2,"category":-2147483645,"name":"Carrierroid","desc":"When an opponent activates a card's effect that targets and destroys a Spell or Trap Card(s) you control, you can discard 1 card to negate its activation and destroy the card.","str1":"无效并破坏","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":46848859,"pack_id":"PP11-JP003","pack":"PP11","rarity":"Carrierroid","date":1198281600000},"tcg":{"id":46848859,"pack_id":"PP02-EN015","pack":"PP02","rarity":"Carrierroid","date":1217462400000}}
+{
+    "id": 46848859,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 22,
+    "type": 33,
+    "atk": 1000,
+    "def": 800,
+    "level": 4,
+    "race": 32,
+    "attribute": 2,
+    "category": -2147483645,
+    "name": "Carrierroid",
+    "desc": "When an opponent activates a card's effect that targets and destroys a Spell or Trap Card(s) you control, you can discard 1 card to negate its activation and destroy the card.",
+    "str1": "无效并破坏",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 46848859,
+        "pack_id": "PP11-JP003",
+        "pack": "PP11",
+        "rarity": "Carrierroid",
+        "date": 1198281600000
+    },
+    "tcg": {
+        "id": 46848859,
+        "pack_id": "PP02-EN015",
+        "pack": "PP02",
+        "rarity": "Carrierroid",
+        "date": 1217462400000
+    }
+}

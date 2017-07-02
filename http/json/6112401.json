@@ -1,1 +1,47 @@
-{"id":6112401,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8448,"name":"At One With the Sword","desc":"Activate while the only monster you control is 1 face-up \"X-Saber\" monster. Equip this card to that monster. It gains 800 ATK. If it destroys your opponent's monster by battle, draw 1 card.","str1":"Draw card","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":6112401,"pack_id":"ANPR-JP079","pack":"ANPR","rarity":"At One With the Sword","date":1240012800000},"tcg":{"id":6112401,"pack_id":"ANPR-EN079","pack":"ANPR","rarity":"At One With the Sword","date":1251763200000}}
+{
+    "id": 6112401,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8448,
+    "name": "At One With the Sword",
+    "desc": "Activate while the only monster you control is 1 face-up \"X-Saber\" monster. Equip this card to that monster. It gains 800 ATK. If it destroys your opponent's monster by battle, draw 1 card.",
+    "str1": "Draw card",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 6112401,
+        "pack_id": "ANPR-JP079",
+        "pack": "ANPR",
+        "rarity": "At One With the Sword",
+        "date": 1240012800000
+    },
+    "tcg": {
+        "id": 6112401,
+        "pack_id": "ANPR-EN079",
+        "pack": "ANPR",
+        "rarity": "At One With the Sword",
+        "date": 1251763200000
+    }
+}

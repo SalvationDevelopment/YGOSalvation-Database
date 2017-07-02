@@ -1,1 +1,47 @@
-{"id":83104731,"ot":3,"alias":0,"setcode":7,"type":33,"atk":3000,"def":3000,"level":8,"race":32,"attribute":1,"category":16384,"name":"Ancient Gear Golem","desc":"Cannot be Special Summoned. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":83104731,"pack_id":"TLM-JP006","pack":"TLM","rarity":"Ancient Gear Golem","date":1111017600000},"tcg":{"id":83104731,"pack_id":"TLM-EN006","pack":"TLM","rarity":"Ancient Gear Golem","date":1117238400000}}
+{
+    "id": 83104731,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 7,
+    "type": 33,
+    "atk": 3000,
+    "def": 3000,
+    "level": 8,
+    "race": 32,
+    "attribute": 1,
+    "category": 16384,
+    "name": "Ancient Gear Golem",
+    "desc": "Cannot be Special Summoned. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 83104731,
+        "pack_id": "TLM-JP006",
+        "pack": "TLM",
+        "rarity": "Ancient Gear Golem",
+        "date": 1111017600000
+    },
+    "tcg": {
+        "id": 83104731,
+        "pack_id": "TLM-EN006",
+        "pack": "TLM",
+        "rarity": "Ancient Gear Golem",
+        "date": 1117238400000
+    }
+}

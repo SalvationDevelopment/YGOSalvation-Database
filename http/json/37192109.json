@@ -1,1 +1,47 @@
-{"id":37192109,"ot":3,"alias":0,"setcode":193,"type":8225,"atk":2500,"def":1800,"level":7,"race":1048576,"attribute":16,"category":0,"name":"PSY-Framelord Zeta","desc":"1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, during either player's turn: You can target 1 Special Summoned monster your opponent controls in face-up Attack Position; banish both that monster and this card from the field, but return them in your next Standby Phase. If this card is in your Graveyard: You can target 1 other \"PSY-Frame\" card in your Graveyard; return this card to the Extra Deck, and if you do, add that target to your hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":37192109,"pack_id":"SPHR-JP034","pack":"SPHR","rarity":"PSY-Framelord Zeta","date":1440201600000},"tcg":{"id":37192109,"pack_id":"HSRD-EN034","pack":"HSRD","rarity":"PSY-Framelord Zeta","date":1443657600000}}
+{
+    "id": 37192109,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 193,
+    "type": 8225,
+    "atk": 2500,
+    "def": 1800,
+    "level": 7,
+    "race": 1048576,
+    "attribute": 16,
+    "category": 0,
+    "name": "PSY-Framelord Zeta",
+    "desc": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, during either player's turn: You can target 1 Special Summoned monster your opponent controls in face-up Attack Position; banish both that monster and this card from the field, but return them in your next Standby Phase. If this card is in your Graveyard: You can target 1 other \"PSY-Frame\" card in your Graveyard; return this card to the Extra Deck, and if you do, add that target to your hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 37192109,
+        "pack_id": "SPHR-JP034",
+        "pack": "SPHR",
+        "rarity": "PSY-Framelord Zeta",
+        "date": 1440201600000
+    },
+    "tcg": {
+        "id": 37192109,
+        "pack_id": "HSRD-EN034",
+        "pack": "HSRD",
+        "rarity": "PSY-Framelord Zeta",
+        "date": 1443657600000
+    }
+}

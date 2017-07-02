@@ -1,1 +1,47 @@
-{"id":25494711,"ot":3,"alias":0,"setcode":171,"type":33,"atk":500,"def":500,"level":9,"race":32,"attribute":1,"category":0,"name":"Deskbot 009","desc":"Once per turn, during your Main Phase 1: You can make this card gain ATK equal to the combined ATK of all \"Deskbot\" monsters you currently control, except \"Deskbot 009\", until the end of your opponent's turn. Only this card can attack the turn this effect is activated. If this card battles, your opponent's cards and effects cannot be activated until the end of the Damage Step. If this card would be destroyed by battle or card effect, you can destroy 1 \"Deskbot\" card you control instead.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":25494711,"pack_id":"SHVI-JP042","pack":"SHVI","rarity":"Deskbot 009","date":1452297600000},"tcg":{"id":25494711,"pack_id":"SHVI-EN042","pack":"SHVI","rarity":"Deskbot 009","date":1462406400000}}
+{
+    "id": 25494711,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 171,
+    "type": 33,
+    "atk": 500,
+    "def": 500,
+    "level": 9,
+    "race": 32,
+    "attribute": 1,
+    "category": 0,
+    "name": "Deskbot 009",
+    "desc": "Once per turn, during your Main Phase 1: You can make this card gain ATK equal to the combined ATK of all \"Deskbot\" monsters you currently control, except \"Deskbot 009\", until the end of your opponent's turn. Only this card can attack the turn this effect is activated. If this card battles, your opponent's cards and effects cannot be activated until the end of the Damage Step. If this card would be destroyed by battle or card effect, you can destroy 1 \"Deskbot\" card you control instead.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 25494711,
+        "pack_id": "SHVI-JP042",
+        "pack": "SHVI",
+        "rarity": "Deskbot 009",
+        "date": 1452297600000
+    },
+    "tcg": {
+        "id": 25494711,
+        "pack_id": "SHVI-EN042",
+        "pack": "SHVI",
+        "rarity": "Deskbot 009",
+        "date": 1462406400000
+    }
+}

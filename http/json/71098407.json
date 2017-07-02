@@ -1,1 +1,47 @@
-{"id":71098407,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":-2147481600,"name":"Memory Loss","desc":"When a face-up Attack Position monster your opponent controls just activated an effect (except during the Damage Step): Negate that effect, and if you do, change that monster to face-up Defense Position.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":71098407,"pack_id":"LTGY-JP070","pack":"LTGY","rarity":"Memory Loss","date":1360972800000},"tcg":{"id":71098407,"pack_id":"LTGY-EN070","pack":"LTGY","rarity":"Memory Loss","date":1368748800000}}
+{
+    "id": 71098407,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": -2147481600,
+    "name": "Memory Loss",
+    "desc": "When a face-up Attack Position monster your opponent controls just activated an effect (except during the Damage Step): Negate that effect, and if you do, change that monster to face-up Defense Position.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 71098407,
+        "pack_id": "LTGY-JP070",
+        "pack": "LTGY",
+        "rarity": "Memory Loss",
+        "date": 1360972800000
+    },
+    "tcg": {
+        "id": 71098407,
+        "pack_id": "LTGY-EN070",
+        "pack": "LTGY",
+        "rarity": "Memory Loss",
+        "date": 1368748800000
+    }
+}

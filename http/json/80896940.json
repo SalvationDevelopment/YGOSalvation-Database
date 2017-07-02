@@ -1,1 +1,47 @@
-{"id":80896940,"ot":3,"alias":0,"setcode":0,"type":16785441,"atk":3300,"def":2500,"level":134742026,"race":2,"attribute":32,"category":0,"name":"Nirvana High Paladin","desc":"Pendulum Effect\nIf a Pendulum Monster you control attacks, for that battle, it cannot be destroyed by battle, also you take no battle damage. At the end of the Damage Step, if a Pendulum Monster you control attacked: All monsters your opponent currently controls lose ATK equal to that attacking monster's ATK, until the end of this turn.\n\nMonster Effect\n1 Tuner + 1 or more non-Tuner Synchro Monsters\nFor this card's Synchro Summon, you can treat 1 Pendulum Summoned Pendulum Monster you control as a Tuner. If this card is Synchro Summoned using a Pendulum Summoned Pendulum Monster Tuner: You can target 1 card in your Graveyard; add it to your hand. When this card destroys an opponent's monster by battle: You can halve your opponent's LP. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone.","str1":"Synchro Summon","str2":"Synchro Summon with Pendulum Summoned Pendulum Monster","str3":"Lose Attack","str4":"Add a card to hand","str5":"Halve opponent's LP","str6":"Place in Pendulum Zone","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":80896940,"pack_id":"TDIL-JP046","pack":"TDIL","rarity":"Nirvana High Paladin","date":1460160000000},"tcg":{"id":80896940,"pack_id":"TDIL-EN046","pack":"TDIL","rarity":"Nirvana High Paladin","date":1470268800000}}
+{
+    "id": 80896940,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 16785441,
+    "atk": 3300,
+    "def": 2500,
+    "level": 134742026,
+    "race": 2,
+    "attribute": 32,
+    "category": 0,
+    "name": "Nirvana High Paladin",
+    "desc": "Pendulum Effect\nIf a Pendulum Monster you control attacks, for that battle, it cannot be destroyed by battle, also you take no battle damage. At the end of the Damage Step, if a Pendulum Monster you control attacked: All monsters your opponent currently controls lose ATK equal to that attacking monster's ATK, until the end of this turn.\n\nMonster Effect\n1 Tuner + 1 or more non-Tuner Synchro Monsters\nFor this card's Synchro Summon, you can treat 1 Pendulum Summoned Pendulum Monster you control as a Tuner. If this card is Synchro Summoned using a Pendulum Summoned Pendulum Monster Tuner: You can target 1 card in your Graveyard; add it to your hand. When this card destroys an opponent's monster by battle: You can halve your opponent's LP. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone.",
+    "str1": "Synchro Summon",
+    "str2": "Synchro Summon with Pendulum Summoned Pendulum Monster",
+    "str3": "Lose Attack",
+    "str4": "Add a card to hand",
+    "str5": "Halve opponent's LP",
+    "str6": "Place in Pendulum Zone",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 80896940,
+        "pack_id": "TDIL-JP046",
+        "pack": "TDIL",
+        "rarity": "Nirvana High Paladin",
+        "date": 1460160000000
+    },
+    "tcg": {
+        "id": 80896940,
+        "pack_id": "TDIL-EN046",
+        "pack": "TDIL",
+        "rarity": "Nirvana High Paladin",
+        "date": 1470268800000
+    }
+}

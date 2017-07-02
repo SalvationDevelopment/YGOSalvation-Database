@@ -1,1 +1,47 @@
-{"id":10591919,"ot":3,"alias":0,"setcode":38,"type":4129,"atk":800,"def":1400,"level":3,"race":32,"attribute":16,"category":262144,"name":"Morphtronic Scopen","desc":"● While in Attack Position: Once per turn, you can Special Summon 1 Level 4 \"Morphtronic\" monster from your hand. Destroy it during the End Phase.\n● While in Defense Position: While this card is in face-up Defense Position, it is Level 4.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":10591919,"pack_id":"RGBT-JP016","pack":"RGBT","rarity":"Morphtronic Scopen","date":1234569600000},"tcg":{"id":10591919,"pack_id":"RGBT-EN016","pack":"RGBT","rarity":"Morphtronic Scopen","date":1241222400000}}
+{
+    "id": 10591919,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 38,
+    "type": 4129,
+    "atk": 800,
+    "def": 1400,
+    "level": 3,
+    "race": 32,
+    "attribute": 16,
+    "category": 262144,
+    "name": "Morphtronic Scopen",
+    "desc": "● While in Attack Position: Once per turn, you can Special Summon 1 Level 4 \"Morphtronic\" monster from your hand. Destroy it during the End Phase.\n● While in Defense Position: While this card is in face-up Defense Position, it is Level 4.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 10591919,
+        "pack_id": "RGBT-JP016",
+        "pack": "RGBT",
+        "rarity": "Morphtronic Scopen",
+        "date": 1234569600000
+    },
+    "tcg": {
+        "id": 10591919,
+        "pack_id": "RGBT-EN016",
+        "pack": "RGBT",
+        "rarity": "Morphtronic Scopen",
+        "date": 1241222400000
+    }
+}

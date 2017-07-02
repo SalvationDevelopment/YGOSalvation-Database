@@ -1,1 +1,47 @@
-{"id":6260554,"ot":3,"alias":0,"setcode":0,"type":1048580,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":-2147483645,"name":"Do a Barrel Roll","desc":"When a Spell Card, Trap Card, or monster effect is activated: Tribute all \"Mecha Phantom Beast Tokens\" you control; negate the activation, and if you do, destroy it.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":6260554,"pack_id":"LTGY-JP074","pack":"LTGY","rarity":"Do a Barrel Roll","date":1360972800000},"tcg":{"id":6260554,"pack_id":"LTGY-EN074","pack":"LTGY","rarity":"Do a Barrel Roll","date":1368748800000}}
+{
+    "id": 6260554,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 1048580,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": -2147483645,
+    "name": "Do a Barrel Roll",
+    "desc": "When a Spell Card, Trap Card, or monster effect is activated: Tribute all \"Mecha Phantom Beast Tokens\" you control; negate the activation, and if you do, destroy it.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 6260554,
+        "pack_id": "LTGY-JP074",
+        "pack": "LTGY",
+        "rarity": "Do a Barrel Roll",
+        "date": 1360972800000
+    },
+    "tcg": {
+        "id": 6260554,
+        "pack_id": "LTGY-EN074",
+        "pack": "LTGY",
+        "rarity": "Do a Barrel Roll",
+        "date": 1368748800000
+    }
+}

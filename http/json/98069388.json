@@ -1,1 +1,47 @@
-{"id":98069388,"ot":3,"alias":0,"setcode":0,"type":1048580,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":2,"name":"Horn of Heaven","desc":"When a monster(s) would be Summoned: Tribute 1 monster; negate the Summon, and if you do, destroy that monster(s).","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":98069388,"pack_id":"ME-69","pack":"ME","rarity":"Horn of Heaven","date":942883200000},"tcg":{"id":98069388,"pack_id":"MRD-130","pack":"MRD","rarity":"Horn of Heaven","date":1025049600000}}
+{
+    "id": 98069388,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 1048580,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 2,
+    "name": "Horn of Heaven",
+    "desc": "When a monster(s) would be Summoned: Tribute 1 monster; negate the Summon, and if you do, destroy that monster(s).",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 98069388,
+        "pack_id": "ME-69",
+        "pack": "ME",
+        "rarity": "Horn of Heaven",
+        "date": 942883200000
+    },
+    "tcg": {
+        "id": 98069388,
+        "pack_id": "MRD-130",
+        "pack": "MRD",
+        "rarity": "Horn of Heaven",
+        "date": 1025049600000
+    }
+}

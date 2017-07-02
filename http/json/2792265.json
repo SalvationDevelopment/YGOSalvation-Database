@@ -1,1 +1,47 @@
-{"id":2792265,"ot":3,"alias":0,"setcode":0,"type":33,"atk":700,"def":500,"level":3,"race":64,"attribute":16,"category":131072,"name":"Servant of Catabolism","desc":"This monster may attack your opponent's Life Points directly.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":2792265,"pack_id":"PH-12","pack":"PH","rarity":"Servant of Catabolism","date":1016668800000},"tcg":{"id":2792265,"pack_id":"PGD-012","pack":"PGD","rarity":"Servant of Catabolism","date":1058486400000}}
+{
+    "id": 2792265,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 700,
+    "def": 500,
+    "level": 3,
+    "race": 64,
+    "attribute": 16,
+    "category": 131072,
+    "name": "Servant of Catabolism",
+    "desc": "This monster may attack your opponent's Life Points directly.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 2792265,
+        "pack_id": "PH-12",
+        "pack": "PH",
+        "rarity": "Servant of Catabolism",
+        "date": 1016668800000
+    },
+    "tcg": {
+        "id": 2792265,
+        "pack_id": "PGD-012",
+        "pack": "PGD",
+        "rarity": "Servant of Catabolism",
+        "date": 1058486400000
+    }
+}

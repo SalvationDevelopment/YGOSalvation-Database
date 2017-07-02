@@ -1,1 +1,47 @@
-{"id":90135989,"ot":3,"alias":0,"setcode":24,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":67108864,"name":"Cloudian Squall","desc":"During each of your Standby Phases, place 1 Fog Counter on every face-up monster.","str1":"Place counter","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":90135989,"pack_id":"GLAS-JP052","pack":"GLAS","rarity":"Cloudian Squall","date":1184976000000},"tcg":{"id":90135989,"pack_id":"GLAS-EN052","pack":"GLAS","rarity":"Cloudian Squall","date":1194998400000}}
+{
+    "id": 90135989,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 24,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 67108864,
+    "name": "Cloudian Squall",
+    "desc": "During each of your Standby Phases, place 1 Fog Counter on every face-up monster.",
+    "str1": "Place counter",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 90135989,
+        "pack_id": "GLAS-JP052",
+        "pack": "GLAS",
+        "rarity": "Cloudian Squall",
+        "date": 1184976000000
+    },
+    "tcg": {
+        "id": 90135989,
+        "pack_id": "GLAS-EN052",
+        "pack": "GLAS",
+        "rarity": "Cloudian Squall",
+        "date": 1194998400000
+    }
+}

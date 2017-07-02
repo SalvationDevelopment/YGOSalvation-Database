@@ -1,1 +1,47 @@
-{"id":87483942,"ot":3,"alias":0,"setcode":43,"type":33,"atk":2300,"def":2200,"level":6,"race":1,"attribute":1,"category":262144,"name":"Senior Silver Ninja","desc":"When this card is flipped face-up: You can Special Summon any number of \"Ninja\" monsters, except \"Senior Silver Ninja\", from your hand and/or Graveyard in face-down Defense Position. There can only be 1 face-up \"Senior Silver Ninja\" on the field.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":87483942,"pack_id":"PHSW-JP031","pack":"PHSW","rarity":"Senior Silver Ninja","date":1310774400000},"tcg":{"id":87483942,"pack_id":"PHSW-EN031","pack":"PHSW","rarity":"Senior Silver Ninja","date":1320883200000}}
+{
+    "id": 87483942,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 43,
+    "type": 33,
+    "atk": 2300,
+    "def": 2200,
+    "level": 6,
+    "race": 1,
+    "attribute": 1,
+    "category": 262144,
+    "name": "Senior Silver Ninja",
+    "desc": "When this card is flipped face-up: You can Special Summon any number of \"Ninja\" monsters, except \"Senior Silver Ninja\", from your hand and/or Graveyard in face-down Defense Position. There can only be 1 face-up \"Senior Silver Ninja\" on the field.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 87483942,
+        "pack_id": "PHSW-JP031",
+        "pack": "PHSW",
+        "rarity": "Senior Silver Ninja",
+        "date": 1310774400000
+    },
+    "tcg": {
+        "id": 87483942,
+        "pack_id": "PHSW-EN031",
+        "pack": "PHSW",
+        "rarity": "Senior Silver Ninja",
+        "date": 1320883200000
+    }
+}

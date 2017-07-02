@@ -1,1 +1,47 @@
-{"id":81866673,"ot":3,"alias":0,"setcode":49160,"type":33,"atk":2100,"def":1000,"level":6,"race":1,"attribute":32,"category":270336,"name":"Destiny HERO - Dasher","desc":"Once per turn: You can Tribute 1 other monster; this card gains 1000 ATK until the End Phase. If this card attacks, change it to Defense Position at the end of the Battle Phase. One time only, when you draw a Monster Card during your Draw Phase while this card is in your Graveyard: You can reveal it; Special Summon it. This card must be in the Graveyard to activate and to resolve this effect.","str1":"Gain attack","str2":"Special Summon","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":81866673,"pack_id":"POTD-JP017","pack":"POTD","rarity":"Destiny HERO - Dasher","date":1147910400000},"tcg":{"id":81866673,"pack_id":"POTD-EN017","pack":"POTD","rarity":"Destiny HERO - Dasher","date":1155686400000}}
+{
+    "id": 81866673,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 49160,
+    "type": 33,
+    "atk": 2100,
+    "def": 1000,
+    "level": 6,
+    "race": 1,
+    "attribute": 32,
+    "category": 270336,
+    "name": "Destiny HERO - Dasher",
+    "desc": "Once per turn: You can Tribute 1 other monster; this card gains 1000 ATK until the End Phase. If this card attacks, change it to Defense Position at the end of the Battle Phase. One time only, when you draw a Monster Card during your Draw Phase while this card is in your Graveyard: You can reveal it; Special Summon it. This card must be in the Graveyard to activate and to resolve this effect.",
+    "str1": "Gain attack",
+    "str2": "Special Summon",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 81866673,
+        "pack_id": "POTD-JP017",
+        "pack": "POTD",
+        "rarity": "Destiny HERO - Dasher",
+        "date": 1147910400000
+    },
+    "tcg": {
+        "id": 81866673,
+        "pack_id": "POTD-EN017",
+        "pack": "POTD",
+        "rarity": "Destiny HERO - Dasher",
+        "date": 1155686400000
+    }
+}

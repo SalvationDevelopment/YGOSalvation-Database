@@ -1,1 +1,47 @@
-{"id":76902476,"ot":3,"alias":0,"setcode":1773595,"type":33,"atk":500,"def":2000,"level":3,"race":32,"attribute":8,"category":17301504,"name":"Mecha Phantom Beast Turtletracer","desc":"This card's Level is increased by the total Levels of all \"Mecha Phantom Beast Tokens\" you control. While you control a Token, this card cannot be destroyed by battle or card effects. Each turn, the first \"Mecha Phantom Beast Token\" you control that would be destroyed by battle, is not destroyed.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":76902476,"pack_id":"EP13-JP041","pack":"EP13","rarity":"Mecha Phantom Beast Turtletracer","date":1368835200000},"tcg":{"id":76902476,"pack_id":"LTGY-ENSP1","pack":"LTGY","rarity":"Mecha Phantom Beast Turtletracer","date":1368230400000}}
+{
+    "id": 76902476,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 1773595,
+    "type": 33,
+    "atk": 500,
+    "def": 2000,
+    "level": 3,
+    "race": 32,
+    "attribute": 8,
+    "category": 17301504,
+    "name": "Mecha Phantom Beast Turtletracer",
+    "desc": "This card's Level is increased by the total Levels of all \"Mecha Phantom Beast Tokens\" you control. While you control a Token, this card cannot be destroyed by battle or card effects. Each turn, the first \"Mecha Phantom Beast Token\" you control that would be destroyed by battle, is not destroyed.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 76902476,
+        "pack_id": "EP13-JP041",
+        "pack": "EP13",
+        "rarity": "Mecha Phantom Beast Turtletracer",
+        "date": 1368835200000
+    },
+    "tcg": {
+        "id": 76902476,
+        "pack_id": "LTGY-ENSP1",
+        "pack": "LTGY",
+        "rarity": "Mecha Phantom Beast Turtletracer",
+        "date": 1368230400000
+    }
+}

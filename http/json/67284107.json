@@ -1,1 +1,47 @@
-{"id":67284107,"ot":3,"alias":0,"setcode":0,"type":2101281,"atk":0,"def":0,"level":1,"race":16,"attribute":32,"category":0,"name":"Scapeghost","desc":"FLIP: You can Special Summon any number of \"Black Sheep Tokens\" (Zombie-Type/DARK/Level 1/ATK 0/DEF 0).","str1":"Special Summon \"Black Sheep Tokens\"","str2":"Special Summon again?","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":67284107,"pack_id":"TDIL-JP033","pack":"TDIL","rarity":"Scapeghost","date":1460160000000},"tcg":{"id":67284107,"pack_id":"SHVI-ENSE4","pack":"SHVI","rarity":"Scapeghost","date":1466035200000}}
+{
+    "id": 67284107,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2101281,
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": 16,
+    "attribute": 32,
+    "category": 0,
+    "name": "Scapeghost",
+    "desc": "FLIP: You can Special Summon any number of \"Black Sheep Tokens\" (Zombie-Type/DARK/Level 1/ATK 0/DEF 0).",
+    "str1": "Special Summon \"Black Sheep Tokens\"",
+    "str2": "Special Summon again?",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 67284107,
+        "pack_id": "TDIL-JP033",
+        "pack": "TDIL",
+        "rarity": "Scapeghost",
+        "date": 1460160000000
+    },
+    "tcg": {
+        "id": 67284107,
+        "pack_id": "SHVI-ENSE4",
+        "pack": "SHVI",
+        "rarity": "Scapeghost",
+        "date": 1466035200000
+    }
+}

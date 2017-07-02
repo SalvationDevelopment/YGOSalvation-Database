@@ -1,1 +1,47 @@
-{"id":90011152,"ot":3,"alias":0,"setcode":15,"type":524290,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":270344,"name":"Ojama Country","desc":"Once per turn, you can send 1 \"Ojama\" card from your hand to the Graveyard to Special Summon 1 \"Ojama\" monster from your Graveyard. While you control a face-up \"Ojama\" monster, switch the original ATK and DEF of all monsters on the field. (\"Ojama\" can include \"Ojamuscle\".)","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":90011152,"pack_id":"JF09-JP010","pack":"JF09","rarity":"Ojama Country","date":1229731200000},"tcg":{"id":90011152,"pack_id":"RGBT-EN098","pack":"RGBT","rarity":"Ojama Country","date":1241222400000}}
+{
+    "id": 90011152,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 15,
+    "type": 524290,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 270344,
+    "name": "Ojama Country",
+    "desc": "Once per turn, you can send 1 \"Ojama\" card from your hand to the Graveyard to Special Summon 1 \"Ojama\" monster from your Graveyard. While you control a face-up \"Ojama\" monster, switch the original ATK and DEF of all monsters on the field. (\"Ojama\" can include \"Ojamuscle\".)",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 90011152,
+        "pack_id": "JF09-JP010",
+        "pack": "JF09",
+        "rarity": "Ojama Country",
+        "date": 1229731200000
+    },
+    "tcg": {
+        "id": 90011152,
+        "pack_id": "RGBT-EN098",
+        "pack": "RGBT",
+        "rarity": "Ojama Country",
+        "date": 1241222400000
+    }
+}

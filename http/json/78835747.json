@@ -1,1 +1,47 @@
-{"id":78835747,"ot":3,"alias":0,"setcode":159,"type":16777249,"atk":100,"def":2300,"level":67371014,"race":2048,"attribute":16,"category":0,"name":"Performapal Kaleidoscorp","desc":"Pendulum Effect\nAll LIGHT monsters you control gain 300 ATK.\n\nMonster Effect\nOnce per turn: You can target 1 face-up monster you control; this turn, it can attack all Special Summoned monsters your opponent controls, once each.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":78835747,"pack_id":"DUEA-JP009","pack":"DUEA","rarity":"Performapal Kaleidoscorp","date":1397865600000},"tcg":{"id":78835747,"pack_id":"DUEA-EN009","pack":"DUEA","rarity":"Performapal Kaleidoscorp","date":1407974400000}}
+{
+    "id": 78835747,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 159,
+    "type": 16777249,
+    "atk": 100,
+    "def": 2300,
+    "level": 67371014,
+    "race": 2048,
+    "attribute": 16,
+    "category": 0,
+    "name": "Performapal Kaleidoscorp",
+    "desc": "Pendulum Effect\nAll LIGHT monsters you control gain 300 ATK.\n\nMonster Effect\nOnce per turn: You can target 1 face-up monster you control; this turn, it can attack all Special Summoned monsters your opponent controls, once each.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 78835747,
+        "pack_id": "DUEA-JP009",
+        "pack": "DUEA",
+        "rarity": "Performapal Kaleidoscorp",
+        "date": 1397865600000
+    },
+    "tcg": {
+        "id": 78835747,
+        "pack_id": "DUEA-EN009",
+        "pack": "DUEA",
+        "rarity": "Performapal Kaleidoscorp",
+        "date": 1407974400000
+    }
+}

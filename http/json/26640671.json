@@ -1,1 +1,47 @@
-{"id":26640671,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1048576,"name":"Spiders' Lair","desc":"Once per turn, you can select 1 face-up Insect-Type monster you control. While this card remains on the field, any opponent's monster that battles with one of those monsters is changed to Defense Position at the end of the Battle Phase, and cannot change its battle position while this card is on the field.","str1":"Activated","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":26640671,"pack_id":"ABPF-JP054","pack":"ABPF","rarity":"Spiders' Lair","date":1258156800000},"tcg":{"id":26640671,"pack_id":"ABPF-EN054","pack":"ABPF","rarity":"Spiders' Lair","date":1265932800000}}
+{
+    "id": 26640671,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1048576,
+    "name": "Spiders' Lair",
+    "desc": "Once per turn, you can select 1 face-up Insect-Type monster you control. While this card remains on the field, any opponent's monster that battles with one of those monsters is changed to Defense Position at the end of the Battle Phase, and cannot change its battle position while this card is on the field.",
+    "str1": "Activated",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 26640671,
+        "pack_id": "ABPF-JP054",
+        "pack": "ABPF",
+        "rarity": "Spiders' Lair",
+        "date": 1258156800000
+    },
+    "tcg": {
+        "id": 26640671,
+        "pack_id": "ABPF-EN054",
+        "pack": "ABPF",
+        "rarity": "Spiders' Lair",
+        "date": 1265932800000
+    }
+}

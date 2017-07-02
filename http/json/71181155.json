@@ -1,1 +1,47 @@
-{"id":71181155,"ot":3,"alias":0,"setcode":27,"type":33,"atk":1300,"def":1300,"level":4,"race":32768,"attribute":16,"category":8192,"name":"Phantom Beast Cross-Wing","desc":"While this card is in the Graveyard, \"Gazelle the King of Mythical Beasts\" and all \"Phantom Beast\" monsters on the field gain 300 ATK.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":71181155,"pack_id":"GX02-JP001","pack":"GX02","rarity":"Phantom Beast Cross-Wing","date":1158192000000},"tcg":{"id":71181155,"pack_id":"GX02-EN001","pack":"GX02","rarity":"Phantom Beast Cross-Wing","date":1163635200000}}
+{
+    "id": 71181155,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 27,
+    "type": 33,
+    "atk": 1300,
+    "def": 1300,
+    "level": 4,
+    "race": 32768,
+    "attribute": 16,
+    "category": 8192,
+    "name": "Phantom Beast Cross-Wing",
+    "desc": "While this card is in the Graveyard, \"Gazelle the King of Mythical Beasts\" and all \"Phantom Beast\" monsters on the field gain 300 ATK.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 71181155,
+        "pack_id": "GX02-JP001",
+        "pack": "GX02",
+        "rarity": "Phantom Beast Cross-Wing",
+        "date": 1158192000000
+    },
+    "tcg": {
+        "id": 71181155,
+        "pack_id": "GX02-EN001",
+        "pack": "GX02",
+        "rarity": "Phantom Beast Cross-Wing",
+        "date": 1163635200000
+    }
+}

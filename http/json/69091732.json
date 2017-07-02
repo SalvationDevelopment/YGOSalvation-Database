@@ -1,1 +1,47 @@
-{"id":69091732,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":64,"name":"Introduction to Gallantry","desc":"Activate only when your opponent has 5 or more cards in their hand. Your opponent discards 1 random card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":69091732,"pack_id":"FOTB-JP053","pack":"FOTB","rarity":"Introduction to Gallantry","date":1171497600000},"tcg":{"id":69091732,"pack_id":"FOTB-EN053","pack":"FOTB","rarity":"Introduction to Gallantry","date":1179273600000}}
+{
+    "id": 69091732,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 64,
+    "name": "Introduction to Gallantry",
+    "desc": "Activate only when your opponent has 5 or more cards in their hand. Your opponent discards 1 random card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 69091732,
+        "pack_id": "FOTB-JP053",
+        "pack": "FOTB",
+        "rarity": "Introduction to Gallantry",
+        "date": 1171497600000
+    },
+    "tcg": {
+        "id": 69091732,
+        "pack_id": "FOTB-EN053",
+        "pack": "FOTB",
+        "rarity": "Introduction to Gallantry",
+        "date": 1179273600000
+    }
+}

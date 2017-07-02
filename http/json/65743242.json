@@ -1,1 +1,47 @@
-{"id":65743242,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Call of the Earthbound","desc":"Activate only when an opponent's monster declares an attack. You select the target of the attack.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":65743242,"pack_id":"MG1-JP002","pack":"MG1","rarity":"Call of the Earthbound","date":1096329600000},"tcg":{"id":65743242,"pack_id":"PTDN-EN096","pack":"PTDN","rarity":"Call of the Earthbound","date":1201305600000}}
+{
+    "id": 65743242,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Call of the Earthbound",
+    "desc": "Activate only when an opponent's monster declares an attack. You select the target of the attack.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 65743242,
+        "pack_id": "MG1-JP002",
+        "pack": "MG1",
+        "rarity": "Call of the Earthbound",
+        "date": 1096329600000
+    },
+    "tcg": {
+        "id": 65743242,
+        "pack_id": "PTDN-EN096",
+        "pack": "PTDN",
+        "rarity": "Call of the Earthbound",
+        "date": 1201305600000
+    }
+}

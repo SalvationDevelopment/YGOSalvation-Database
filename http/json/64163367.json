@@ -1,1 +1,47 @@
-{"id":64163367,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":67108864,"name":"\"A\" Cell Incubator","desc":"Each time an A-Counter(s) is removed from play by a card effect, place 1 A-Counter on this card. When this card is destroyed, distribute the A-Counters on this card among face-up monsters.","str1":"Place「A-Counter」","str2":"Select monster to place  A-Counters on","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":64163367,"pack_id":"GLAS-JP062","pack":"GLAS","rarity":"\"A\" Cell Incubator","date":1184976000000},"tcg":{"id":64163367,"pack_id":"GLAS-EN062","pack":"GLAS","rarity":"\"A\" Cell Incubator","date":1194998400000}}
+{
+    "id": 64163367,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 67108864,
+    "name": "\"A\" Cell Incubator",
+    "desc": "Each time an A-Counter(s) is removed from play by a card effect, place 1 A-Counter on this card. When this card is destroyed, distribute the A-Counters on this card among face-up monsters.",
+    "str1": "Place「A-Counter」",
+    "str2": "Select monster to place  A-Counters on",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 64163367,
+        "pack_id": "GLAS-JP062",
+        "pack": "GLAS",
+        "rarity": "\"A\" Cell Incubator",
+        "date": 1184976000000
+    },
+    "tcg": {
+        "id": 64163367,
+        "pack_id": "GLAS-EN062",
+        "pack": "GLAS",
+        "rarity": "\"A\" Cell Incubator",
+        "date": 1194998400000
+    }
+}

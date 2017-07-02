@@ -1,1 +1,47 @@
-{"id":97623219,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1500,"def":1200,"level":4,"race":4,"attribute":16,"category":2105344,"name":"Element Valkyrie","desc":"This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: ● FIRE: This card gains 500 ATK. ● WATER: Control of this card cannot switch.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":97623219,"pack_id":"FET-JP010","pack":"FET","rarity":"Element Valkyrie","date":1101340800000},"tcg":{"id":97623219,"pack_id":"FET-EN010","pack":"FET","rarity":"Element Valkyrie","date":1109376000000}}
+{
+    "id": 97623219,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1500,
+    "def": 1200,
+    "level": 4,
+    "race": 4,
+    "attribute": 16,
+    "category": 2105344,
+    "name": "Element Valkyrie",
+    "desc": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: ● FIRE: This card gains 500 ATK. ● WATER: Control of this card cannot switch.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 97623219,
+        "pack_id": "FET-JP010",
+        "pack": "FET",
+        "rarity": "Element Valkyrie",
+        "date": 1101340800000
+    },
+    "tcg": {
+        "id": 97623219,
+        "pack_id": "FET-EN010",
+        "pack": "FET",
+        "rarity": "Element Valkyrie",
+        "date": 1109376000000
+    }
+}

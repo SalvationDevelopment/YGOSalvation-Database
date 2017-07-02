@@ -1,1 +1,47 @@
-{"id":29436665,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2500,"def":2100,"level":7,"race":2,"attribute":32,"category":4456448,"name":"Dark Eradicator Warlock","desc":"Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Dark Magician\", and cannot be Special Summoned by other ways. Each time a Normal Spell Card is activated, inflict 1000 damage to your opponent immediately after it resolves.","str1":"Inflict damage","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":29436665,"pack_id":"SD6-JP001","pack":"SD6","rarity":"Dark Eradicator Warlock","date":1127347200000},"tcg":{"id":29436665,"pack_id":"SD6-EN001","pack":"SD6","rarity":"Dark Eradicator Warlock","date":1137542400000}}
+{
+    "id": 29436665,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2500,
+    "def": 2100,
+    "level": 7,
+    "race": 2,
+    "attribute": 32,
+    "category": 4456448,
+    "name": "Dark Eradicator Warlock",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Dark Magician\", and cannot be Special Summoned by other ways. Each time a Normal Spell Card is activated, inflict 1000 damage to your opponent immediately after it resolves.",
+    "str1": "Inflict damage",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 29436665,
+        "pack_id": "SD6-JP001",
+        "pack": "SD6",
+        "rarity": "Dark Eradicator Warlock",
+        "date": 1127347200000
+    },
+    "tcg": {
+        "id": 29436665,
+        "pack_id": "SD6-EN001",
+        "pack": "SD6",
+        "rarity": "Dark Eradicator Warlock",
+        "date": 1137542400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":12219047,"ot":1,"alias":0,"setcode":4315,"type":8388641,"atk":1600,"def":0,"level":2,"race":1,"attribute":32,"category":8194,"name":"The Phantom Knights of Cursed Javelin","desc":"2 Level 2 monsters\nYou can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; until the end of this turn, change its ATK to 0, also it has its effects negated. This effect can be activated during either player's turn, if this card has a \"The Phantom Knights\" card as Xyz Material. You can only use this effect of \"The Phantom Knights of Cursed Javelin\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG","ocg":{"id":12219047,"pack_id":"MACR-JP042","pack":"MACR","rarity":"The Phantom Knights of Cursed Javelin","date":1484352000000},"tcg":{"id":12219047,"pack_id":"MACR-EN042","pack":"MACR","rarity":"The Phantom Knights of Cursed Javelin","date":1493856000000}}
+{
+    "id": 12219047,
+    "ot": 1,
+    "alias": 0,
+    "setcode": 4315,
+    "type": 8388641,
+    "atk": 1600,
+    "def": 0,
+    "level": 2,
+    "race": 1,
+    "attribute": 32,
+    "category": 8194,
+    "name": "The Phantom Knights of Cursed Javelin",
+    "desc": "2 Level 2 monsters\nYou can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; until the end of this turn, change its ATK to 0, also it has its effects negated. This effect can be activated during either player's turn, if this card has a \"The Phantom Knights\" card as Xyz Material. You can only use this effect of \"The Phantom Knights of Cursed Javelin\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG",
+    "ocg": {
+        "id": 12219047,
+        "pack_id": "MACR-JP042",
+        "pack": "MACR",
+        "rarity": "The Phantom Knights of Cursed Javelin",
+        "date": 1484352000000
+    },
+    "tcg": {
+        "id": 12219047,
+        "pack_id": "MACR-EN042",
+        "pack": "MACR",
+        "rarity": "The Phantom Knights of Cursed Javelin",
+        "date": 1493856000000
+    }
+}

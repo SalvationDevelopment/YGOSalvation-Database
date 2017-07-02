@@ -1,1 +1,47 @@
-{"id":58481572,"ot":3,"alias":0,"setcode":40968,"type":97,"atk":2400,"def":1800,"level":6,"race":1,"attribute":32,"category":0,"name":"Masked HERO Dark Law","desc":"Must be Special Summoned with \"Mask Change\" and cannot be Special Summoned by other ways. Any card sent to your opponent's Graveyard is banished instead. Once per turn, if your opponent adds a card(s) from their Deck to their hand (except during the Draw Phase or the Damage Step): You can banish 1 random card from your opponent's hand.","str1":"Banish 1 random card from your opponent's hand?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":58481572,"pack_id":"SD27-JP044","pack":"SD27","rarity":"Masked HERO Dark Law","date":1403308800000},"tcg":{"id":58481572,"pack_id":"SDHS-EN044","pack":"SDHS","rarity":"Masked HERO Dark Law","date":1422489600000}}
+{
+    "id": 58481572,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 40968,
+    "type": 97,
+    "atk": 2400,
+    "def": 1800,
+    "level": 6,
+    "race": 1,
+    "attribute": 32,
+    "category": 0,
+    "name": "Masked HERO Dark Law",
+    "desc": "Must be Special Summoned with \"Mask Change\" and cannot be Special Summoned by other ways. Any card sent to your opponent's Graveyard is banished instead. Once per turn, if your opponent adds a card(s) from their Deck to their hand (except during the Draw Phase or the Damage Step): You can banish 1 random card from your opponent's hand.",
+    "str1": "Banish 1 random card from your opponent's hand?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 58481572,
+        "pack_id": "SD27-JP044",
+        "pack": "SD27",
+        "rarity": "Masked HERO Dark Law",
+        "date": 1403308800000
+    },
+    "tcg": {
+        "id": 58481572,
+        "pack_id": "SDHS-EN044",
+        "pack": "SDHS",
+        "rarity": "Masked HERO Dark Law",
+        "date": 1422489600000
+    }
+}

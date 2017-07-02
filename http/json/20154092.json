@@ -1,1 +1,47 @@
-{"id":20154092,"ot":3,"alias":0,"setcode":112,"type":33,"atk":0,"def":1800,"level":4,"race":256,"attribute":1,"category":8192,"name":"Chronomaly Cabrera Trebuchet","desc":"Once per turn: You can Tribute 1 other \"Chronomaly\" monster, then target 1 face-up monster your opponent controls; its ATK becomes 0 until the End Phase.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":20154092,"pack_id":"CPZ1-JP002","pack":"CPZ1","rarity":"Chronomaly Cabrera Trebuchet","date":1376092800000},"tcg":{"id":20154092,"pack_id":"NUMH-EN002","pack":"NUMH","rarity":"Chronomaly Cabrera Trebuchet","date":1373587200000}}
+{
+    "id": 20154092,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 112,
+    "type": 33,
+    "atk": 0,
+    "def": 1800,
+    "level": 4,
+    "race": 256,
+    "attribute": 1,
+    "category": 8192,
+    "name": "Chronomaly Cabrera Trebuchet",
+    "desc": "Once per turn: You can Tribute 1 other \"Chronomaly\" monster, then target 1 face-up monster your opponent controls; its ATK becomes 0 until the End Phase.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 20154092,
+        "pack_id": "CPZ1-JP002",
+        "pack": "CPZ1",
+        "rarity": "Chronomaly Cabrera Trebuchet",
+        "date": 1376092800000
+    },
+    "tcg": {
+        "id": 20154092,
+        "pack_id": "NUMH-EN002",
+        "pack": "NUMH",
+        "rarity": "Chronomaly Cabrera Trebuchet",
+        "date": 1373587200000
+    }
+}

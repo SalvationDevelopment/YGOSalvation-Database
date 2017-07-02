@@ -1,1 +1,47 @@
-{"id":23187256,"ot":3,"alias":0,"setcode":545737605192,"type":8388641,"atk":2500,"def":2000,"level":12,"race":1,"attribute":16,"category":0,"name":"Number 93: Utopia Kaiser","desc":"2 or more \"Number\" Xyz Monsters, with the same Rank, that have Xyz Material\nOnce per turn: You can Special Summon Rank 9 or lower \"Number\" monsters with 3000 or less ATK that have different Ranks from each other from your Extra Deck, up to the number of Xyz Materials with different names attached to this card, but their effects are negated, then detach 1 Xyz Material from this card. For the rest of this turn, unless this effect was negated, you cannot Special Summon, and any battle damage your opponent takes becomes halved. While you control another \"Number\" Xyz Monster, this card cannot be destroyed by battle or card effects.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":23187256,"pack_id":"VB18-JP002","pack":"VB18","rarity":"Number 93: Utopia Kaiser","date":1439337600000},"tcg":{"id":23187256,"pack_id":"YCSW-EN009","pack":"YCSW","rarity":"Number 93: Utopia Kaiser","date":1472342400000}}
+{
+    "id": 23187256,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 545737605192,
+    "type": 8388641,
+    "atk": 2500,
+    "def": 2000,
+    "level": 12,
+    "race": 1,
+    "attribute": 16,
+    "category": 0,
+    "name": "Number 93: Utopia Kaiser",
+    "desc": "2 or more \"Number\" Xyz Monsters, with the same Rank, that have Xyz Material\nOnce per turn: You can Special Summon Rank 9 or lower \"Number\" monsters with 3000 or less ATK that have different Ranks from each other from your Extra Deck, up to the number of Xyz Materials with different names attached to this card, but their effects are negated, then detach 1 Xyz Material from this card. For the rest of this turn, unless this effect was negated, you cannot Special Summon, and any battle damage your opponent takes becomes halved. While you control another \"Number\" Xyz Monster, this card cannot be destroyed by battle or card effects.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 23187256,
+        "pack_id": "VB18-JP002",
+        "pack": "VB18",
+        "rarity": "Number 93: Utopia Kaiser",
+        "date": 1439337600000
+    },
+    "tcg": {
+        "id": 23187256,
+        "pack_id": "YCSW-EN009",
+        "pack": "YCSW",
+        "rarity": "Number 93: Utopia Kaiser",
+        "date": 1472342400000
+    }
+}

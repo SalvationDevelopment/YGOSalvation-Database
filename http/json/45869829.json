@@ -1,1 +1,47 @@
-{"id":45869829,"ot":3,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":544,"name":"Quick Booster","desc":"Target 1 Quick-Play Spell Card in your Graveyard, except \"Quick Booster\"; shuffle that target into the Deck. If this card you control is destroyed by your opponent's card and sent to your Graveyard: You can add 1 Quick-Play Spell Card from your Deck to your hand, except \"Quick Booster\".","str1":"Search","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":45869829,"pack_id":"CBLZ-JP065","pack":"CBLZ","rarity":"Quick Booster","date":1353110400000},"tcg":{"id":45869829,"pack_id":"CBLZ-EN065","pack":"CBLZ","rarity":"Quick Booster","date":1359072000000}}
+{
+    "id": 45869829,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 544,
+    "name": "Quick Booster",
+    "desc": "Target 1 Quick-Play Spell Card in your Graveyard, except \"Quick Booster\"; shuffle that target into the Deck. If this card you control is destroyed by your opponent's card and sent to your Graveyard: You can add 1 Quick-Play Spell Card from your Deck to your hand, except \"Quick Booster\".",
+    "str1": "Search",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 45869829,
+        "pack_id": "CBLZ-JP065",
+        "pack": "CBLZ",
+        "rarity": "Quick Booster",
+        "date": 1353110400000
+    },
+    "tcg": {
+        "id": 45869829,
+        "pack_id": "CBLZ-EN065",
+        "pack": "CBLZ",
+        "rarity": "Quick Booster",
+        "date": 1359072000000
+    }
+}

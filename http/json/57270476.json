@@ -1,1 +1,47 @@
-{"id":57270476,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Grave Lure","desc":"Turn the top card of your opponent's Deck face-up, then your opponent shuffles their Deck. When your opponent draws the face-up card, immediately send it to the Graveyard.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":57270476,"pack_id":"TLM-JP056","pack":"TLM","rarity":"Grave Lure","date":1134000000000},"tcg":{"id":57270476,"pack_id":"TLM-EN056","pack":"TLM","rarity":"Grave Lure","date":1117238400000}}
+{
+    "id": 57270476,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Grave Lure",
+    "desc": "Turn the top card of your opponent's Deck face-up, then your opponent shuffles their Deck. When your opponent draws the face-up card, immediately send it to the Graveyard.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 57270476,
+        "pack_id": "TLM-JP056",
+        "pack": "TLM",
+        "rarity": "Grave Lure",
+        "date": 1134000000000
+    },
+    "tcg": {
+        "id": 57270476,
+        "pack_id": "TLM-EN056",
+        "pack": "TLM",
+        "rarity": "Grave Lure",
+        "date": 1117238400000
+    }
+}

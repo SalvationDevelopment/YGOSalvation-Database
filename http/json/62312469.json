@@ -1,1 +1,47 @@
-{"id":62312469,"ot":3,"alias":0,"setcode":0,"type":16777249,"atk":1800,"def":1400,"level":84213764,"race":2,"attribute":32,"category":0,"name":"Dark Doriado","desc":"Pendulum Effect\nAll EARTH, WATER, FIRE, and WIND monsters you control gain 200 ATK and DEF for every different Attribute among the monsters you control.\n\nMonster Effect\nIf this card is Normal or Special Summoned: You can choose 4 monsters from your Deck (1 EARTH, 1 WATER, 1 FIRE, and 1 WIND), then place them on the top of the Deck in any order.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":62312469,"pack_id":"BOSH-JP035","pack":"BOSH","rarity":"Dark Doriado","date":1445040000000},"tcg":{"id":62312469,"pack_id":"BOSH-EN035","pack":"BOSH","rarity":"Dark Doriado","date":1452729600000}}
+{
+    "id": 62312469,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 16777249,
+    "atk": 1800,
+    "def": 1400,
+    "level": 84213764,
+    "race": 2,
+    "attribute": 32,
+    "category": 0,
+    "name": "Dark Doriado",
+    "desc": "Pendulum Effect\nAll EARTH, WATER, FIRE, and WIND monsters you control gain 200 ATK and DEF for every different Attribute among the monsters you control.\n\nMonster Effect\nIf this card is Normal or Special Summoned: You can choose 4 monsters from your Deck (1 EARTH, 1 WATER, 1 FIRE, and 1 WIND), then place them on the top of the Deck in any order.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 62312469,
+        "pack_id": "BOSH-JP035",
+        "pack": "BOSH",
+        "rarity": "Dark Doriado",
+        "date": 1445040000000
+    },
+    "tcg": {
+        "id": 62312469,
+        "pack_id": "BOSH-EN035",
+        "pack": "BOSH",
+        "rarity": "Dark Doriado",
+        "date": 1452729600000
+    }
+}

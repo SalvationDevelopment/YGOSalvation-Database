@@ -1,1 +1,47 @@
-{"id":6511113,"ot":3,"alias":0,"setcode":4234,"type":8388641,"atk":300,"def":2500,"level":4,"race":1024,"attribute":1,"category":0,"name":"Traptrix Rafflesia","desc":"2 Level 4 monsters\nThis card is unaffected by Trap effects while it has Xyz Material. \"Traptrix\" monsters you control, except \"Traptrix Rafflesia\", cannot be destroyed by battle or card effects. Your opponent cannot target \"Traptrix\" monsters you control, except \"Traptrix Rafflesia\", with card effects. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card and send 1 \"Hole\" Normal Trap Card that meets its activation conditions from your Deck to the Graveyard; this effect becomes that Trap Card's effect when that card is activated.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":6511113,"pack_id":"DOCS-JP082","pack":"DOCS","rarity":"Traptrix Rafflesia","date":1437177600000},"tcg":{"id":6511113,"pack_id":"BOSH-EN099","pack":"BOSH","rarity":"Traptrix Rafflesia","date":1452729600000}}
+{
+    "id": 6511113,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4234,
+    "type": 8388641,
+    "atk": 300,
+    "def": 2500,
+    "level": 4,
+    "race": 1024,
+    "attribute": 1,
+    "category": 0,
+    "name": "Traptrix Rafflesia",
+    "desc": "2 Level 4 monsters\nThis card is unaffected by Trap effects while it has Xyz Material. \"Traptrix\" monsters you control, except \"Traptrix Rafflesia\", cannot be destroyed by battle or card effects. Your opponent cannot target \"Traptrix\" monsters you control, except \"Traptrix Rafflesia\", with card effects. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card and send 1 \"Hole\" Normal Trap Card that meets its activation conditions from your Deck to the Graveyard; this effect becomes that Trap Card's effect when that card is activated.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 6511113,
+        "pack_id": "DOCS-JP082",
+        "pack": "DOCS",
+        "rarity": "Traptrix Rafflesia",
+        "date": 1437177600000
+    },
+    "tcg": {
+        "id": 6511113,
+        "pack_id": "BOSH-EN099",
+        "pack": "BOSH",
+        "rarity": "Traptrix Rafflesia",
+        "date": 1452729600000
+    }
+}

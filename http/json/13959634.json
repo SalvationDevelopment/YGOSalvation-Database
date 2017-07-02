@@ -1,1 +1,47 @@
-{"id":13959634,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2800,"def":2200,"level":8,"race":262144,"attribute":2,"category":64,"name":"Moulinglacia the Elemental Lord","desc":"Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 WATER monsters in your Graveyard, and cannot be Special Summoned by other ways. When this card is Special Summoned: Discard 2 random cards from your opponent's hand (or their entire hand, if less than 2). You can only use the effect of \"Moulinglacia the Elemental Lord\" once per turn. If this card leaves the field, skip the Battle Phase of your next turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":13959634,"pack_id":"ABYR-JP035","pack":"ABYR","rarity":"Moulinglacia the Elemental Lord","date":1342828800000},"tcg":{"id":13959634,"pack_id":"ABYR-EN035","pack":"ABYR","rarity":"Moulinglacia the Elemental Lord","date":1352419200000}}
+{
+    "id": 13959634,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2800,
+    "def": 2200,
+    "level": 8,
+    "race": 262144,
+    "attribute": 2,
+    "category": 64,
+    "name": "Moulinglacia the Elemental Lord",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 WATER monsters in your Graveyard, and cannot be Special Summoned by other ways. When this card is Special Summoned: Discard 2 random cards from your opponent's hand (or their entire hand, if less than 2). You can only use the effect of \"Moulinglacia the Elemental Lord\" once per turn. If this card leaves the field, skip the Battle Phase of your next turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 13959634,
+        "pack_id": "ABYR-JP035",
+        "pack": "ABYR",
+        "rarity": "Moulinglacia the Elemental Lord",
+        "date": 1342828800000
+    },
+    "tcg": {
+        "id": 13959634,
+        "pack_id": "ABYR-EN035",
+        "pack": "ABYR",
+        "rarity": "Moulinglacia the Elemental Lord",
+        "date": 1352419200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":19870120,"ot":3,"alias":0,"setcode":190,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":50331648,"name":"March of the Monarchs","desc":"Tribute Summoned monsters you control cannot be targeted by, or destroyed by, card effects. You cannot Special Summon monsters from the Extra Deck.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":19870120,"pack_id":"CBLZ-JP064","pack":"CBLZ","rarity":"March of the Monarchs","date":1353110400000},"tcg":{"id":19870120,"pack_id":"CBLZ-EN064","pack":"CBLZ","rarity":"March of the Monarchs","date":1359072000000}}
+{
+    "id": 19870120,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 190,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 50331648,
+    "name": "March of the Monarchs",
+    "desc": "Tribute Summoned monsters you control cannot be targeted by, or destroyed by, card effects. You cannot Special Summon monsters from the Extra Deck.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 19870120,
+        "pack_id": "CBLZ-JP064",
+        "pack": "CBLZ",
+        "rarity": "March of the Monarchs",
+        "date": 1353110400000
+    },
+    "tcg": {
+        "id": 19870120,
+        "pack_id": "CBLZ-EN064",
+        "pack": "CBLZ",
+        "rarity": "March of the Monarchs",
+        "date": 1359072000000
+    }
+}

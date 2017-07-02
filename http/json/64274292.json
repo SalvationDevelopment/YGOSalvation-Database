@@ -1,1 +1,47 @@
-{"id":64274292,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":16384,"name":"Meteorain","desc":"During this turn, when your monsters attack with an ATK that is higher than the DEF of your opponent's Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":64274292,"pack_id":"302-044","pack":"302","rarity":"Meteorain","date":1026950400000},"tcg":{"id":64274292,"pack_id":"MFC-044","pack":"MFC","rarity":"Meteorain","date":1065744000000}}
+{
+    "id": 64274292,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 16384,
+    "name": "Meteorain",
+    "desc": "During this turn, when your monsters attack with an ATK that is higher than the DEF of your opponent's Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 64274292,
+        "pack_id": "302-044",
+        "pack": "302",
+        "rarity": "Meteorain",
+        "date": 1026950400000
+    },
+    "tcg": {
+        "id": 64274292,
+        "pack_id": "MFC-044",
+        "pack": "MFC",
+        "rarity": "Meteorain",
+        "date": 1065744000000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":28106077,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8396800,"name":"Cestus of Dagla","desc":"Equip only to a Fairy-Type monster. It gains 500 ATK. If it inflicts battle damage to your opponent: Gain LP equal to the damage inflicted.","str1":"LP回复","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":28106077,"pack_id":"305-037","pack":"305","rarity":"Cestus of Dagla","date":1045699200000},"tcg":{"id":28106077,"pack_id":"DCR-090","pack":"DCR","rarity":"Cestus of Dagla","date":1070236800000}}
+{
+    "id": 28106077,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8396800,
+    "name": "Cestus of Dagla",
+    "desc": "Equip only to a Fairy-Type monster. It gains 500 ATK. If it inflicts battle damage to your opponent: Gain LP equal to the damage inflicted.",
+    "str1": "LP回复",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 28106077,
+        "pack_id": "305-037",
+        "pack": "305",
+        "rarity": "Cestus of Dagla",
+        "date": 1045699200000
+    },
+    "tcg": {
+        "id": 28106077,
+        "pack_id": "DCR-090",
+        "pack": "DCR",
+        "rarity": "Cestus of Dagla",
+        "date": 1070236800000
+    }
+}

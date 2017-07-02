@@ -1,1 +1,47 @@
-{"id":90579153,"ot":3,"alias":0,"setcode":3221749768,"type":97,"atk":2800,"def":2400,"level":8,"race":1,"attribute":32,"category":0,"name":"Destiny HERO - Dystopia","desc":"2 \"Destiny HERO\" monsters\nIf this card is Special Summoned: You can target 1 Level 4 or lower \"Destiny HERO\" monster in your Graveyard; inflict damage to your opponent equal to that target's ATK. During either player's turn, if this card's current ATK is different from its original ATK (except during the Damage Step): You can target 1 card on the field; destroy it, and if you do, this card's ATK becomes equal to this card's original ATK. You can only use each effect of \"Destiny HERO - Dystopia\" once per turn.","str1":"Damage Opponent","str2":"Destroy 1 card on the field","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":90579153,"pack_id":"SPDS-JP004","pack":"SPDS","rarity":"Destiny HERO - Dystopia","date":1470441600000},"tcg":{"id":90579153,"pack_id":"DESO-EN004","pack":"DESO","rarity":"Destiny HERO - Dystopia","date":1479340800000}}
+{
+    "id": 90579153,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 3221749768,
+    "type": 97,
+    "atk": 2800,
+    "def": 2400,
+    "level": 8,
+    "race": 1,
+    "attribute": 32,
+    "category": 0,
+    "name": "Destiny HERO - Dystopia",
+    "desc": "2 \"Destiny HERO\" monsters\nIf this card is Special Summoned: You can target 1 Level 4 or lower \"Destiny HERO\" monster in your Graveyard; inflict damage to your opponent equal to that target's ATK. During either player's turn, if this card's current ATK is different from its original ATK (except during the Damage Step): You can target 1 card on the field; destroy it, and if you do, this card's ATK becomes equal to this card's original ATK. You can only use each effect of \"Destiny HERO - Dystopia\" once per turn.",
+    "str1": "Damage Opponent",
+    "str2": "Destroy 1 card on the field",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 90579153,
+        "pack_id": "SPDS-JP004",
+        "pack": "SPDS",
+        "rarity": "Destiny HERO - Dystopia",
+        "date": 1470441600000
+    },
+    "tcg": {
+        "id": 90579153,
+        "pack_id": "DESO-EN004",
+        "pack": "DESO",
+        "rarity": "Destiny HERO - Dystopia",
+        "date": 1479340800000
+    }
+}

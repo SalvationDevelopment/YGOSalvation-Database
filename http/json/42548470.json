@@ -1,1 +1,47 @@
-{"id":42548470,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":256,"name":"Weights & Zenmaisures","desc":"Target 2 face-up \"Wind-Up\" monsters you control with different Levels; your opponent chooses 1 of them, and the Level of the other monster becomes the same as the chosen monster's, until the End Phase. Then, if your opponent chose the monster with a lower Level, you can draw 1 card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":42548470,"pack_id":"ORCS-JP055","pack":"ORCS","rarity":"Weights & Zenmaisures","date":1321660800000},"tcg":{"id":42548470,"pack_id":"ORCS-EN055","pack":"ORCS","rarity":"Weights & Zenmaisures","date":1326499200000}}
+{
+    "id": 42548470,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 256,
+    "name": "Weights & Zenmaisures",
+    "desc": "Target 2 face-up \"Wind-Up\" monsters you control with different Levels; your opponent chooses 1 of them, and the Level of the other monster becomes the same as the chosen monster's, until the End Phase. Then, if your opponent chose the monster with a lower Level, you can draw 1 card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 42548470,
+        "pack_id": "ORCS-JP055",
+        "pack": "ORCS",
+        "rarity": "Weights & Zenmaisures",
+        "date": 1321660800000
+    },
+    "tcg": {
+        "id": 42548470,
+        "pack_id": "ORCS-EN055",
+        "pack": "ORCS",
+        "rarity": "Weights & Zenmaisures",
+        "date": 1326499200000
+    }
+}

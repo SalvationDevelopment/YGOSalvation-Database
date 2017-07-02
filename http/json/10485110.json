@@ -1,1 +1,47 @@
-{"id":10485110,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2900,"def":1600,"level":8,"race":262144,"attribute":2,"category":8,"name":"Ocean Dragon Lord - Neo-Daedalus","desc":"This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"Levia-Dragon - Daedalus\". You can send \"Umi\" you control to the Graveyard to send all cards in both players' hands and on the field to the Graveyard, except this card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":10485110,"pack_id":"SD4-JP001","pack":"SD4","rarity":"Ocean Dragon Lord - Neo-Daedalus","date":1106179200000},"tcg":{"id":10485110,"pack_id":"SD4-EN001","pack":"SD4","rarity":"Ocean Dragon Lord - Neo-Daedalus","date":1115596800000}}
+{
+    "id": 10485110,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2900,
+    "def": 1600,
+    "level": 8,
+    "race": 262144,
+    "attribute": 2,
+    "category": 8,
+    "name": "Ocean Dragon Lord - Neo-Daedalus",
+    "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"Levia-Dragon - Daedalus\". You can send \"Umi\" you control to the Graveyard to send all cards in both players' hands and on the field to the Graveyard, except this card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 10485110,
+        "pack_id": "SD4-JP001",
+        "pack": "SD4",
+        "rarity": "Ocean Dragon Lord - Neo-Daedalus",
+        "date": 1106179200000
+    },
+    "tcg": {
+        "id": 10485110,
+        "pack_id": "SD4-EN001",
+        "pack": "SD4",
+        "rarity": "Ocean Dragon Lord - Neo-Daedalus",
+        "date": 1115596800000
+    }
+}

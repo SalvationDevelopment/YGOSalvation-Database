@@ -1,1 +1,47 @@
-{"id":29380133,"ot":3,"alias":0,"setcode":0,"type":33,"atk":900,"def":1700,"level":4,"race":64,"attribute":2,"category":32,"name":"Yado Karu","desc":"When this card is changed from Attack Position to Defense Position, you can place any number of cards from your hand at the bottom of your Deck in any order you desire.","str1":"Return to deck","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":29380133,"pack_id":"ME-44","pack":"ME","rarity":"Yado Karu","date":951868800000},"tcg":{"id":29380133,"pack_id":"MRD-104","pack":"MRD","rarity":"Yado Karu","date":1025049600000}}
+{
+    "id": 29380133,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 900,
+    "def": 1700,
+    "level": 4,
+    "race": 64,
+    "attribute": 2,
+    "category": 32,
+    "name": "Yado Karu",
+    "desc": "When this card is changed from Attack Position to Defense Position, you can place any number of cards from your hand at the bottom of your Deck in any order you desire.",
+    "str1": "Return to deck",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 29380133,
+        "pack_id": "ME-44",
+        "pack": "ME",
+        "rarity": "Yado Karu",
+        "date": 951868800000
+    },
+    "tcg": {
+        "id": 29380133,
+        "pack_id": "MRD-104",
+        "pack": "MRD",
+        "rarity": "Yado Karu",
+        "date": 1025049600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":32446630,"ot":3,"alias":0,"setcode":889331384392,"type":8388641,"atk":0,"def":0,"level":3,"race":8,"attribute":32,"category":0,"name":"Number C43: High Manipulator of Chaos","desc":"4 Level 3 DARK monsters\n All Tokens you control can make a second attack during each Battle Phase. If this card has \"Number 43: Manipulator of Souls\" as an Xyz Material, it gains this effect.\n● Once per turn: You can detach 1 Xyz Material from this card; Special Summon 1 \"Manipulator Token\" (Fiend-Type/DARK/Level 1/ATK ?/DEF ?). (When Summoned, its ATK and DEF each become equal to half the opponent's current LP.)","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":32446630,"pack_id":"PRIO-JP048","pack":"PRIO","rarity":"Number C43: High Manipulator of Chaos","date":1392422400000},"tcg":{"id":32446630,"pack_id":"PRIO-EN048","pack":"PRIO","rarity":"Number C43: High Manipulator of Chaos","date":1400198400000}}
+{
+    "id": 32446630,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 889331384392,
+    "type": 8388641,
+    "atk": 0,
+    "def": 0,
+    "level": 3,
+    "race": 8,
+    "attribute": 32,
+    "category": 0,
+    "name": "Number C43: High Manipulator of Chaos",
+    "desc": "4 Level 3 DARK monsters\n All Tokens you control can make a second attack during each Battle Phase. If this card has \"Number 43: Manipulator of Souls\" as an Xyz Material, it gains this effect.\n● Once per turn: You can detach 1 Xyz Material from this card; Special Summon 1 \"Manipulator Token\" (Fiend-Type/DARK/Level 1/ATK ?/DEF ?). (When Summoned, its ATK and DEF each become equal to half the opponent's current LP.)",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 32446630,
+        "pack_id": "PRIO-JP048",
+        "pack": "PRIO",
+        "rarity": "Number C43: High Manipulator of Chaos",
+        "date": 1392422400000
+    },
+    "tcg": {
+        "id": 32446630,
+        "pack_id": "PRIO-EN048",
+        "pack": "PRIO",
+        "rarity": "Number C43: High Manipulator of Chaos",
+        "date": 1400198400000
+    }
+}

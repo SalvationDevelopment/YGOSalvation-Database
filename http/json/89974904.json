@@ -1,1 +1,47 @@
-{"id":89974904,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Synchro Call","desc":"Target 1 monster in your Graveyard; Special Summon it, but it has its effects negated (if any), and if you do, immediately after this effect resolves, Synchro Summon 1 DARK Dragon or Fiend-Type Synchro Monster using only monsters you control as Materials, including the Summoned monster.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":89974904,"pack_id":"PP19-JP014","pack":"PP19","rarity":"Synchro Call","date":1489190400000},"tcg":{"id":89974904,"pack_id":"DUSA-EN017","pack":"DUSA","rarity":"Synchro Call","date":1490832000000}}
+{
+    "id": 89974904,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Synchro Call",
+    "desc": "Target 1 monster in your Graveyard; Special Summon it, but it has its effects negated (if any), and if you do, immediately after this effect resolves, Synchro Summon 1 DARK Dragon or Fiend-Type Synchro Monster using only monsters you control as Materials, including the Summoned monster.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 89974904,
+        "pack_id": "PP19-JP014",
+        "pack": "PP19",
+        "rarity": "Synchro Call",
+        "date": 1489190400000
+    },
+    "tcg": {
+        "id": 89974904,
+        "pack_id": "DUSA-EN017",
+        "pack": "DUSA",
+        "rarity": "Synchro Call",
+        "date": 1490832000000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":53819028,"ot":3,"alias":0,"setcode":284360947,"type":33,"atk":100,"def":600,"level":1,"race":1024,"attribute":32,"category":0,"name":"Predaplant Sarraceniant","desc":"When an opponent's monster declares a direct attack: You can Special Summon this card from your hand. After damage calculation, if this card battled an opponent's monster: You can destroy that opponent's monster. If this card is destroyed by battle, or if this card on the field is sent to the Graveyard by a card effect: You can add 1 \"Predap\" card from your Deck to your hand, except \"Predaplant Sarraceniant\". You can only use this effect of \"Predaplant Sarraceniant\" once per turn.","str1":"Special Summon Predaplant Sarraceniant","str2":"Destroy opponent's monster","str3":"Add 1 \"Predator\" card to hand","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":53819028,"pack_id":"SPFE-JP001","pack":"SPFE","rarity":"Predaplant Sarraceniant","date":1478908800000},"tcg":{"id":53819028,"pack_id":"FUEN-EN001","pack":"FUEN","rarity":"Predaplant Sarraceniant","date":1487808000000}}
+{
+    "id": 53819028,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 284360947,
+    "type": 33,
+    "atk": 100,
+    "def": 600,
+    "level": 1,
+    "race": 1024,
+    "attribute": 32,
+    "category": 0,
+    "name": "Predaplant Sarraceniant",
+    "desc": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand. After damage calculation, if this card battled an opponent's monster: You can destroy that opponent's monster. If this card is destroyed by battle, or if this card on the field is sent to the Graveyard by a card effect: You can add 1 \"Predap\" card from your Deck to your hand, except \"Predaplant Sarraceniant\". You can only use this effect of \"Predaplant Sarraceniant\" once per turn.",
+    "str1": "Special Summon Predaplant Sarraceniant",
+    "str2": "Destroy opponent's monster",
+    "str3": "Add 1 \"Predator\" card to hand",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 53819028,
+        "pack_id": "SPFE-JP001",
+        "pack": "SPFE",
+        "rarity": "Predaplant Sarraceniant",
+        "date": 1478908800000
+    },
+    "tcg": {
+        "id": 53819028,
+        "pack_id": "FUEN-EN001",
+        "pack": "FUEN",
+        "rarity": "Predaplant Sarraceniant",
+        "date": 1487808000000
+    }
+}

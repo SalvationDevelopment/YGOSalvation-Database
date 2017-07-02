@@ -1,1 +1,47 @@
-{"id":47766694,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":3,"name":"Wild Tornado","desc":"Select 1 face-up card in the Spell & Trap Card Zones and destroy it. The controller of the destroyed card can then Set 1 Spell or Trap Card from their hand. If this Set card is destroyed and sent to the Graveyard, select and destroy 1 face-up card on the field.","str1":"Set 1 Card?","str2":"Destroy 1 face-up card","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":47766694,"pack_id":"YSD5-JP031","pack":"YSD5","rarity":"Wild Tornado","date":1269043200000},"tcg":{"id":47766694,"pack_id":"5DS3-EN029","pack":"5DS3","rarity":"Wild Tornado","date":1275004800000}}
+{
+    "id": 47766694,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 3,
+    "name": "Wild Tornado",
+    "desc": "Select 1 face-up card in the Spell & Trap Card Zones and destroy it. The controller of the destroyed card can then Set 1 Spell or Trap Card from their hand. If this Set card is destroyed and sent to the Graveyard, select and destroy 1 face-up card on the field.",
+    "str1": "Set 1 Card?",
+    "str2": "Destroy 1 face-up card",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 47766694,
+        "pack_id": "YSD5-JP031",
+        "pack": "YSD5",
+        "rarity": "Wild Tornado",
+        "date": 1269043200000
+    },
+    "tcg": {
+        "id": 47766694,
+        "pack_id": "5DS3-EN029",
+        "pack": "5DS3",
+        "rarity": "Wild Tornado",
+        "date": 1275004800000
+    }
+}

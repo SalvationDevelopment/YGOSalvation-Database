@@ -1,1 +1,47 @@
-{"id":27967615,"ot":3,"alias":0,"setcode":70,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":268443648,"name":"Fusion Weapon","desc":"Equip only to a Level 6 or lower Fusion Monster. The equipped monster gains 1500 ATK and DEF.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":27967615,"pack_id":"SOD-JP047","pack":"SOD","rarity":"Fusion Weapon","date":1085616000000},"tcg":{"id":27967615,"pack_id":"SOD-EN047","pack":"SOD","rarity":"Fusion Weapon","date":1096588800000}}
+{
+    "id": 27967615,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 70,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 268443648,
+    "name": "Fusion Weapon",
+    "desc": "Equip only to a Level 6 or lower Fusion Monster. The equipped monster gains 1500 ATK and DEF.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 27967615,
+        "pack_id": "SOD-JP047",
+        "pack": "SOD",
+        "rarity": "Fusion Weapon",
+        "date": 1085616000000
+    },
+    "tcg": {
+        "id": 27967615,
+        "pack_id": "SOD-EN047",
+        "pack": "SOD",
+        "rarity": "Fusion Weapon",
+        "date": 1096588800000
+    }
+}

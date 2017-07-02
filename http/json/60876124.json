@@ -1,1 +1,47 @@
-{"id":60876124,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":264,"name":"Rare Value","desc":"If there are 2 or more face-up \"Crystal Beast\" cards in your Spell & Trap Card Zone: Your opponent chooses 1 \"Crystal Beast\" card in your Spell & Trap Card Zone and sends it to the Graveyard, then you draw 2 cards.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":60876124,"pack_id":"FOTB-JP033","pack":"FOTB","rarity":"Rare Value","date":1171497600000},"tcg":{"id":60876124,"pack_id":"FOTB-EN033","pack":"FOTB","rarity":"Rare Value","date":1179273600000}}
+{
+    "id": 60876124,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 264,
+    "name": "Rare Value",
+    "desc": "If there are 2 or more face-up \"Crystal Beast\" cards in your Spell & Trap Card Zone: Your opponent chooses 1 \"Crystal Beast\" card in your Spell & Trap Card Zone and sends it to the Graveyard, then you draw 2 cards.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 60876124,
+        "pack_id": "FOTB-JP033",
+        "pack": "FOTB",
+        "rarity": "Rare Value",
+        "date": 1171497600000
+    },
+    "tcg": {
+        "id": 60876124,
+        "pack_id": "FOTB-EN033",
+        "pack": "FOTB",
+        "rarity": "Rare Value",
+        "date": 1179273600000
+    }
+}

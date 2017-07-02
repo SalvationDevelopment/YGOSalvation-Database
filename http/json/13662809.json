@@ -1,1 +1,47 @@
-{"id":13662809,"ot":3,"alias":0,"setcode":552337644,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Abyss Script - Rise of the Abyss King","desc":"Target face-up cards on the field, up to the number of Attack Position \"Abyss Actor\" monsters with different names you control; destroy them. If you control a Level 7 or higher \"Abyss Actor\" monster, your opponent cannot activate cards or effects in response to this card's activation. If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can add up to 2 \"Abyss Actor\" cards and/or \"Abyss Script\" Spell Cards with different names from your Deck to your hand.","str1":"Search \"Abyss Actor\" and/or \"Abyss Script\"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":13662809,"pack_id":"SPDS-JP027","pack":"SPDS","rarity":"Abyss Script - Rise of the Abyss King","date":1470441600000},"tcg":{"id":13662809,"pack_id":"DESO-EN027","pack":"DESO","rarity":"Abyss Script - Rise of the Abyss King","date":1479340800000}}
+{
+    "id": 13662809,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 552337644,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Abyss Script - Rise of the Abyss King",
+    "desc": "Target face-up cards on the field, up to the number of Attack Position \"Abyss Actor\" monsters with different names you control; destroy them. If you control a Level 7 or higher \"Abyss Actor\" monster, your opponent cannot activate cards or effects in response to this card's activation. If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can add up to 2 \"Abyss Actor\" cards and/or \"Abyss Script\" Spell Cards with different names from your Deck to your hand.",
+    "str1": "Search \"Abyss Actor\" and/or \"Abyss Script\"",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 13662809,
+        "pack_id": "SPDS-JP027",
+        "pack": "SPDS",
+        "rarity": "Abyss Script - Rise of the Abyss King",
+        "date": 1470441600000
+    },
+    "tcg": {
+        "id": 13662809,
+        "pack_id": "DESO-EN027",
+        "pack": "DESO",
+        "rarity": "Abyss Script - Rise of the Abyss King",
+        "date": 1479340800000
+    }
+}

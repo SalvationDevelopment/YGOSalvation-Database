@@ -1,1 +1,47 @@
-{"id":32710364,"ot":3,"alias":0,"setcode":4148,"type":33,"atk":300,"def":300,"level":3,"race":4,"attribute":16,"category":17039360,"name":"Crystal Beast Ruby Carbuncle","desc":"When this card is Special Summoned: You can Special Summon as many \"Crystal Beast\" cards as possible from your Spell & Trap Card Zone. If this face-up card is destroyed while it is in a Monster Card Zone, you can place it face-up in your Spell & Trap Card Zone as a Continuous Spell Card, instead of sending it to the Graveyard.","str1":"Place in Spell/Trap zone instead of destruction","str2":"Special Summon","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":32710364,"pack_id":"FOTB-JP001","pack":"FOTB","rarity":"Crystal Beast Ruby Carbuncle","date":1171497600000},"tcg":{"id":32710364,"pack_id":"FOTB-EN001","pack":"FOTB","rarity":"Crystal Beast Ruby Carbuncle","date":1179273600000}}
+{
+    "id": 32710364,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4148,
+    "type": 33,
+    "atk": 300,
+    "def": 300,
+    "level": 3,
+    "race": 4,
+    "attribute": 16,
+    "category": 17039360,
+    "name": "Crystal Beast Ruby Carbuncle",
+    "desc": "When this card is Special Summoned: You can Special Summon as many \"Crystal Beast\" cards as possible from your Spell & Trap Card Zone. If this face-up card is destroyed while it is in a Monster Card Zone, you can place it face-up in your Spell & Trap Card Zone as a Continuous Spell Card, instead of sending it to the Graveyard.",
+    "str1": "Place in Spell/Trap zone instead of destruction",
+    "str2": "Special Summon",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 32710364,
+        "pack_id": "FOTB-JP001",
+        "pack": "FOTB",
+        "rarity": "Crystal Beast Ruby Carbuncle",
+        "date": 1171497600000
+    },
+    "tcg": {
+        "id": 32710364,
+        "pack_id": "FOTB-EN001",
+        "pack": "FOTB",
+        "rarity": "Crystal Beast Ruby Carbuncle",
+        "date": 1179273600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":44792253,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1000,"def":1000,"level":4,"race":1,"attribute":1,"category":3,"name":"D.D. Destroyer","desc":"When this card on the field is removed from play, you can select 1 face-up card your opponent controls and destroy it.","str1":"对方场上表侧表示存在的1张卡破坏","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":44792253,"pack_id":"EXP4-JP014","pack":"EXP4","rarity":"D.D. Destroyer","date":1316217600000},"tcg":{"id":44792253,"pack_id":"DREV-EN083","pack":"DREV","rarity":"D.D. Destroyer","date":1281139200000}}
+{
+    "id": 44792253,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1000,
+    "def": 1000,
+    "level": 4,
+    "race": 1,
+    "attribute": 1,
+    "category": 3,
+    "name": "D.D. Destroyer",
+    "desc": "When this card on the field is removed from play, you can select 1 face-up card your opponent controls and destroy it.",
+    "str1": "对方场上表侧表示存在的1张卡破坏",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 44792253,
+        "pack_id": "EXP4-JP014",
+        "pack": "EXP4",
+        "rarity": "D.D. Destroyer",
+        "date": 1316217600000
+    },
+    "tcg": {
+        "id": 44792253,
+        "pack_id": "DREV-EN083",
+        "pack": "DREV",
+        "rarity": "D.D. Destroyer",
+        "date": 1281139200000
+    }
+}

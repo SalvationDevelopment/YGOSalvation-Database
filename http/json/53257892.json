@@ -1,1 +1,47 @@
-{"id":53257892,"ot":3,"alias":0,"setcode":0,"type":2081,"atk":2400,"def":1200,"level":6,"race":1024,"attribute":1,"category":1310720,"name":"Gigaplant","desc":"This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n● Once per turn, you can Special Summon 1 Insect-Type or Plant-Type monster from your hand or Graveyard.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":53257892,"pack_id":"PTDN-JP026","pack":"PTDN","rarity":"Gigaplant","date":1195776000000},"tcg":{"id":53257892,"pack_id":"PTDN-EN026","pack":"PTDN","rarity":"Gigaplant","date":1201305600000}}
+{
+    "id": 53257892,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2081,
+    "atk": 2400,
+    "def": 1200,
+    "level": 6,
+    "race": 1024,
+    "attribute": 1,
+    "category": 1310720,
+    "name": "Gigaplant",
+    "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n● Once per turn, you can Special Summon 1 Insect-Type or Plant-Type monster from your hand or Graveyard.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 53257892,
+        "pack_id": "PTDN-JP026",
+        "pack": "PTDN",
+        "rarity": "Gigaplant",
+        "date": 1195776000000
+    },
+    "tcg": {
+        "id": 53257892,
+        "pack_id": "PTDN-EN026",
+        "pack": "PTDN",
+        "rarity": "Gigaplant",
+        "date": 1201305600000
+    }
+}

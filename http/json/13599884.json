@@ -1,1 +1,47 @@
-{"id":13599884,"ot":3,"alias":0,"setcode":0,"type":33,"atk":250,"def":300,"level":1,"race":32,"attribute":1,"category":2,"name":"Steel Scorpion","desc":"A non Machine-Type Monster attacking \"Steel Scorpion\" will be destroyed at the End Phase of your opponent's 2nd turn after the attack.","str1":"Destroy","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":13599884,"pack_id":"RB-29","pack":"RB","rarity":"Steel Scorpion","date":932601600000},"tcg":{"id":13599884,"pack_id":"MRD-029","pack":"MRD","rarity":"Steel Scorpion","date":1025049600000}}
+{
+    "id": 13599884,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 250,
+    "def": 300,
+    "level": 1,
+    "race": 32,
+    "attribute": 1,
+    "category": 2,
+    "name": "Steel Scorpion",
+    "desc": "A non Machine-Type Monster attacking \"Steel Scorpion\" will be destroyed at the End Phase of your opponent's 2nd turn after the attack.",
+    "str1": "Destroy",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 13599884,
+        "pack_id": "RB-29",
+        "pack": "RB",
+        "rarity": "Steel Scorpion",
+        "date": 932601600000
+    },
+    "tcg": {
+        "id": 13599884,
+        "pack_id": "MRD-029",
+        "pack": "MRD",
+        "rarity": "Steel Scorpion",
+        "date": 1025049600000
+    }
+}

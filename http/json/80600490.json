@@ -1,1 +1,47 @@
-{"id":80600490,"ot":3,"alias":0,"setcode":0,"type":17,"atk":800,"def":600,"level":2,"race":1,"attribute":32,"category":0,"name":"Kageningen","desc":"He yoozes both a physical form and a shadow form ta attack. So he's a tough monstah ta beat!","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":80600490,"pack_id":null,"pack":"Starter Box","rarity":"共通","date":921733200000},"tcg":{"id":80600490,"pack_id":"LCJW-EN014","pack":"LCJW","rarity":"Kageningen","date":1381449600000}}
+{
+    "id": 80600490,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 800,
+    "def": 600,
+    "level": 2,
+    "race": 1,
+    "attribute": 32,
+    "category": 0,
+    "name": "Kageningen",
+    "desc": "He yoozes both a physical form and a shadow form ta attack. So he's a tough monstah ta beat!",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 80600490,
+        "pack_id": null,
+        "pack": "Starter Box",
+        "rarity": "共通",
+        "date": 921733200000
+    },
+    "tcg": {
+        "id": 80600490,
+        "pack_id": "LCJW-EN014",
+        "pack": "LCJW",
+        "rarity": "Kageningen",
+        "date": 1381449600000
+    }
+}

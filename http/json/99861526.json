@@ -1,1 +1,47 @@
-{"id":99861526,"ot":3,"alias":0,"setcode":22,"type":33,"atk":800,"def":1800,"level":4,"race":32,"attribute":2,"category":133120,"name":"Submarineroid","desc":"This card can attack your opponent directly, but when it does so using this effect, the battle damage inflicted to your opponent is the original ATK of this card. At the end of the Damage Step, if this card attacked or was attacked: You can change this card to Defense Position.","str1":"Change to defense position","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":99861526,"pack_id":"POTD-JP008","pack":"POTD","rarity":"Submarineroid","date":1147910400000},"tcg":{"id":99861526,"pack_id":"POTD-EN008","pack":"POTD","rarity":"Submarineroid","date":1155686400000}}
+{
+    "id": 99861526,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 22,
+    "type": 33,
+    "atk": 800,
+    "def": 1800,
+    "level": 4,
+    "race": 32,
+    "attribute": 2,
+    "category": 133120,
+    "name": "Submarineroid",
+    "desc": "This card can attack your opponent directly, but when it does so using this effect, the battle damage inflicted to your opponent is the original ATK of this card. At the end of the Damage Step, if this card attacked or was attacked: You can change this card to Defense Position.",
+    "str1": "Change to defense position",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 99861526,
+        "pack_id": "POTD-JP008",
+        "pack": "POTD",
+        "rarity": "Submarineroid",
+        "date": 1147910400000
+    },
+    "tcg": {
+        "id": 99861526,
+        "pack_id": "POTD-EN008",
+        "pack": "POTD",
+        "rarity": "Submarineroid",
+        "date": 1155686400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":9348522,"ot":3,"alias":0,"setcode":0,"type":8225,"atk":0,"def":3000,"level":9,"race":32,"attribute":8,"category":0,"name":"Cloudcastle","desc":"1 Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: You can target 1 Level 9 monster in your Graveyard; Special Summon that target. Level 8 or lower monsters cannot attack the turn they are Normal or Special Summoned.","str1":"Activate effect?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":9348522,"pack_id":"JF14-JP009","pack":"JF14","rarity":"Cloudcastle","date":1387584000000},"tcg":{"id":9348522,"pack_id":"DUEA-EN098","pack":"DUEA","rarity":"Cloudcastle","date":1407974400000}}
+{
+    "id": 9348522,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8225,
+    "atk": 0,
+    "def": 3000,
+    "level": 9,
+    "race": 32,
+    "attribute": 8,
+    "category": 0,
+    "name": "Cloudcastle",
+    "desc": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: You can target 1 Level 9 monster in your Graveyard; Special Summon that target. Level 8 or lower monsters cannot attack the turn they are Normal or Special Summoned.",
+    "str1": "Activate effect?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 9348522,
+        "pack_id": "JF14-JP009",
+        "pack": "JF14",
+        "rarity": "Cloudcastle",
+        "date": 1387584000000
+    },
+    "tcg": {
+        "id": 9348522,
+        "pack_id": "DUEA-EN098",
+        "pack": "DUEA",
+        "rarity": "Cloudcastle",
+        "date": 1407974400000
+    }
+}

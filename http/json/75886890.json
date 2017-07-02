@@ -1,1 +1,47 @@
-{"id":75886890,"ot":3,"alias":0,"setcode":48,"type":4129,"atk":400,"def":400,"level":1,"race":32,"attribute":16,"category":1032,"name":"Vylon Sphere","desc":"If this card is sent from the Monster Card Zone to the Graveyard: You can pay 500 Life Points to target 1 face-up monster you control; equip this card to that target. You can send this Equip Card to the Graveyard to target 1 Equip Spell Card in your Graveyard; equip that target to the monster this card was equipped to.","str1":"Become equip card","str2":"Select 1 Equip Spell Card","str3":"Please select 1 Equip Spell Card","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":75886890,"pack_id":"DT11-JP019","pack":"DT11","rarity":"Vylon Sphere","date":1352246400000},"tcg":{"id":75886890,"pack_id":"DT06-EN019","pack":"DT06","rarity":"Vylon Sphere","date":1328227200000}}
+{
+    "id": 75886890,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 48,
+    "type": 4129,
+    "atk": 400,
+    "def": 400,
+    "level": 1,
+    "race": 32,
+    "attribute": 16,
+    "category": 1032,
+    "name": "Vylon Sphere",
+    "desc": "If this card is sent from the Monster Card Zone to the Graveyard: You can pay 500 Life Points to target 1 face-up monster you control; equip this card to that target. You can send this Equip Card to the Graveyard to target 1 Equip Spell Card in your Graveyard; equip that target to the monster this card was equipped to.",
+    "str1": "Become equip card",
+    "str2": "Select 1 Equip Spell Card",
+    "str3": "Please select 1 Equip Spell Card",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 75886890,
+        "pack_id": "DT11-JP019",
+        "pack": "DT11",
+        "rarity": "Vylon Sphere",
+        "date": 1352246400000
+    },
+    "tcg": {
+        "id": 75886890,
+        "pack_id": "DT06-EN019",
+        "pack": "DT06",
+        "rarity": "Vylon Sphere",
+        "date": 1328227200000
+    }
+}

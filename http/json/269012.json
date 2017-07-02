@@ -1,1 +1,47 @@
-{"id":269012,"ot":3,"alias":0,"setcode":0,"type":524290,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Mound of the Bound Creator","desc":"Level 10 or higher monsters on the field cannot be targeted or destroyed by card effects. If a Level 10 or higher monster on the field destroys a monster by battle and sends it to the Graveyard: The player who controlled the destroyed monster takes 1000 damage. When this card on the field is destroyed by a card effect and sent to the Graveyard: You can add 1 DIVINE monster from your Deck to your hand.","str1":"Add 1 DIVINE monster from your Deck to your hand?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":269012,"pack_id":"CPL1-JP025","pack":"CPL1","rarity":"Mound of the Bound Creator","date":1400284800000},"tcg":{"id":269012,"pack_id":"DRLG-EN025","pack":"DRLG","rarity":"Mound of the Bound Creator","date":1398384000000}}
+{
+    "id": 269012,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 524290,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Mound of the Bound Creator",
+    "desc": "Level 10 or higher monsters on the field cannot be targeted or destroyed by card effects. If a Level 10 or higher monster on the field destroys a monster by battle and sends it to the Graveyard: The player who controlled the destroyed monster takes 1000 damage. When this card on the field is destroyed by a card effect and sent to the Graveyard: You can add 1 DIVINE monster from your Deck to your hand.",
+    "str1": "Add 1 DIVINE monster from your Deck to your hand?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 269012,
+        "pack_id": "CPL1-JP025",
+        "pack": "CPL1",
+        "rarity": "Mound of the Bound Creator",
+        "date": 1400284800000
+    },
+    "tcg": {
+        "id": 269012,
+        "pack_id": "DRLG-EN025",
+        "pack": "DRLG",
+        "rarity": "Mound of the Bound Creator",
+        "date": 1398384000000
+    }
+}

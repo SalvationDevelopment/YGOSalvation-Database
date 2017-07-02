@@ -1,1 +1,47 @@
-{"id":51808422,"ot":3,"alias":0,"setcode":12301,"type":33,"atk":2400,"def":1800,"level":6,"race":1,"attribute":1,"category":262144,"name":"XX-Saber Faultroll","desc":"Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling 2 or more face-up \"X-Saber\" monsters, and cannot be Special Summoned by other ways. Once per turn: You can target 1 Level 4 or lower \"X-Saber\" monster in your Graveyard; Special Summon that target.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":51808422,"pack_id":"ANPR-JP035","pack":"ANPR","rarity":"XX-Saber Faultroll","date":1240012800000},"tcg":{"id":51808422,"pack_id":"ANPR-EN035","pack":"ANPR","rarity":"XX-Saber Faultroll","date":1251763200000}}
+{
+    "id": 51808422,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 12301,
+    "type": 33,
+    "atk": 2400,
+    "def": 1800,
+    "level": 6,
+    "race": 1,
+    "attribute": 1,
+    "category": 262144,
+    "name": "XX-Saber Faultroll",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling 2 or more face-up \"X-Saber\" monsters, and cannot be Special Summoned by other ways. Once per turn: You can target 1 Level 4 or lower \"X-Saber\" monster in your Graveyard; Special Summon that target.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 51808422,
+        "pack_id": "ANPR-JP035",
+        "pack": "ANPR",
+        "rarity": "XX-Saber Faultroll",
+        "date": 1240012800000
+    },
+    "tcg": {
+        "id": 51808422,
+        "pack_id": "ANPR-EN035",
+        "pack": "ANPR",
+        "rarity": "XX-Saber Faultroll",
+        "date": 1251763200000
+    }
+}

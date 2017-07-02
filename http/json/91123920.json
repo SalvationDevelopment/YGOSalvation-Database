@@ -1,1 +1,47 @@
-{"id":91123920,"ot":3,"alias":0,"setcode":68,"type":33,"atk":0,"def":0,"level":3,"race":4,"attribute":16,"category":33562624,"name":"The Agent of Force - Mars","desc":"This card is unaffected by any Spell Cards. While you control a face-up \"The Sanctuary in the Sky\" and your Life Points are higher than your opponent's, this card gains ATK and DEF by the difference between your and your opponent's Life Points.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":91123920,"pack_id":"308-009","pack":"308","rarity":"The Agent of Force - Mars","date":1069286400000},"tcg":{"id":91123920,"pack_id":"AST-009","pack":"AST","rarity":"The Agent of Force - Mars","date":1086048000000}}
+{
+    "id": 91123920,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 68,
+    "type": 33,
+    "atk": 0,
+    "def": 0,
+    "level": 3,
+    "race": 4,
+    "attribute": 16,
+    "category": 33562624,
+    "name": "The Agent of Force - Mars",
+    "desc": "This card is unaffected by any Spell Cards. While you control a face-up \"The Sanctuary in the Sky\" and your Life Points are higher than your opponent's, this card gains ATK and DEF by the difference between your and your opponent's Life Points.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 91123920,
+        "pack_id": "308-009",
+        "pack": "308",
+        "rarity": "The Agent of Force - Mars",
+        "date": 1069286400000
+    },
+    "tcg": {
+        "id": 91123920,
+        "pack_id": "AST-009",
+        "pack": "AST",
+        "rarity": "The Agent of Force - Mars",
+        "date": 1086048000000
+    }
+}

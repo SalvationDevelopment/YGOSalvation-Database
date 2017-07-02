@@ -1,1 +1,47 @@
-{"id":63665606,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8264,"name":"Wave-Motion Inferno","desc":"While you have no cards in your hand, face-up \"Infernity\" monsters you control gain 400 ATK and DEF. You can send this face-up card from the field to the Graveyard to send all cards from your hand to the Graveyard.","str1":"所有手牌送去墓地","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":63665606,"pack_id":"EXP4-JP009","pack":"EXP4","rarity":"Wave-Motion Inferno","date":1316217600000},"tcg":{"id":63665606,"pack_id":"TSHD-EN088","pack":"TSHD","rarity":"Wave-Motion Inferno","date":1273190400000}}
+{
+    "id": 63665606,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8264,
+    "name": "Wave-Motion Inferno",
+    "desc": "While you have no cards in your hand, face-up \"Infernity\" monsters you control gain 400 ATK and DEF. You can send this face-up card from the field to the Graveyard to send all cards from your hand to the Graveyard.",
+    "str1": "所有手牌送去墓地",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 63665606,
+        "pack_id": "EXP4-JP009",
+        "pack": "EXP4",
+        "rarity": "Wave-Motion Inferno",
+        "date": 1316217600000
+    },
+    "tcg": {
+        "id": 63665606,
+        "pack_id": "TSHD-EN088",
+        "pack": "TSHD",
+        "rarity": "Wave-Motion Inferno",
+        "date": 1273190400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":93983867,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Trick Box","desc":"If a face-up \"Performage\" monster(s) you control is destroyed by battle or card effect and sent to the Graveyard: Target 1 monster your opponent controls; take control of it until the End Phase, then Special Summon 1 \"Performage\" monster from your Graveyard to your opponent's field. During the End Phase of this turn, give control of the monster Special Summoned by this effect to its owner.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":93983867,"pack_id":"CORE-JP071","pack":"CORE","rarity":"Trick Box","date":1429920000000},"tcg":{"id":93983867,"pack_id":"CORE-EN071","pack":"CORE","rarity":"Trick Box","date":1438819200000}}
+{
+    "id": 93983867,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Trick Box",
+    "desc": "If a face-up \"Performage\" monster(s) you control is destroyed by battle or card effect and sent to the Graveyard: Target 1 monster your opponent controls; take control of it until the End Phase, then Special Summon 1 \"Performage\" monster from your Graveyard to your opponent's field. During the End Phase of this turn, give control of the monster Special Summoned by this effect to its owner.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 93983867,
+        "pack_id": "CORE-JP071",
+        "pack": "CORE",
+        "rarity": "Trick Box",
+        "date": 1429920000000
+    },
+    "tcg": {
+        "id": 93983867,
+        "pack_id": "CORE-EN071",
+        "pack": "CORE",
+        "rarity": "Trick Box",
+        "date": 1438819200000
+    }
+}

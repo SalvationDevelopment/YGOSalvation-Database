@@ -1,1 +1,47 @@
-{"id":85310252,"ot":3,"alias":0,"setcode":130,"type":33,"atk":1800,"def":200,"level":4,"race":1,"attribute":1,"category":0,"name":"Dododo Driver","desc":"Up to twice per turn, if this card was Special Summoned by the effect of a \"Dododo\" monster this turn: You can target 1 \"Dododo\" monster you control, then activate 1 of these effects;\n● Increase its Level by 1.\n● Reduce its Level by 1.","str1":"Increase Level by 1?","str2":"decrease Level by 1?","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":85310252,"pack_id":"VE10-JP004","pack":"VE10","rarity":"Dododo Driver","date":1389398400000},"tcg":{"id":85310252,"pack_id":"NECH-EN093","pack":"NECH","rarity":"Dododo Driver","date":1415232000000}}
+{
+    "id": 85310252,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 130,
+    "type": 33,
+    "atk": 1800,
+    "def": 200,
+    "level": 4,
+    "race": 1,
+    "attribute": 1,
+    "category": 0,
+    "name": "Dododo Driver",
+    "desc": "Up to twice per turn, if this card was Special Summoned by the effect of a \"Dododo\" monster this turn: You can target 1 \"Dododo\" monster you control, then activate 1 of these effects;\n● Increase its Level by 1.\n● Reduce its Level by 1.",
+    "str1": "Increase Level by 1?",
+    "str2": "decrease Level by 1?",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 85310252,
+        "pack_id": "VE10-JP004",
+        "pack": "VE10",
+        "rarity": "Dododo Driver",
+        "date": 1389398400000
+    },
+    "tcg": {
+        "id": 85310252,
+        "pack_id": "NECH-EN093",
+        "pack": "NECH",
+        "rarity": "Dododo Driver",
+        "date": 1415232000000
+    }
+}

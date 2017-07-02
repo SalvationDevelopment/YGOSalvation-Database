@@ -1,1 +1,47 @@
-{"id":51960178,"ot":3,"alias":0,"setcode":0,"type":8388641,"atk":1900,"def":1500,"level":4,"race":4,"attribute":16,"category":256,"name":"Fairy Cheer Girl","desc":"2 Level 4 Fairy-Type monsters\nYou can detach 1 Xyz Material from this card; draw 1 card. You can only use this effect of \"Fairy Cheer Girl\" once per turn.","str1":"Draw","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":51960178,"pack_id":"LTGY-JP046","pack":"LTGY","rarity":"Fairy Cheer Girl","date":1360972800000},"tcg":{"id":51960178,"pack_id":"LTGY-EN046","pack":"LTGY","rarity":"Fairy Cheer Girl","date":1368748800000}}
+{
+    "id": 51960178,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8388641,
+    "atk": 1900,
+    "def": 1500,
+    "level": 4,
+    "race": 4,
+    "attribute": 16,
+    "category": 256,
+    "name": "Fairy Cheer Girl",
+    "desc": "2 Level 4 Fairy-Type monsters\nYou can detach 1 Xyz Material from this card; draw 1 card. You can only use this effect of \"Fairy Cheer Girl\" once per turn.",
+    "str1": "Draw",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 51960178,
+        "pack_id": "LTGY-JP046",
+        "pack": "LTGY",
+        "rarity": "Fairy Cheer Girl",
+        "date": 1360972800000
+    },
+    "tcg": {
+        "id": 51960178,
+        "pack_id": "LTGY-EN046",
+        "pack": "LTGY",
+        "rarity": "Fairy Cheer Girl",
+        "date": 1368748800000
+    }
+}

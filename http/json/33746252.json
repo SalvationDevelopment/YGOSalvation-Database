@@ -1,1 +1,47 @@
-{"id":33746252,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2400,"def":1000,"level":6,"race":8,"attribute":16,"category":0,"name":"Majesty's Fiend","desc":"Cannot be Special Summoned. Monster effects cannot be activated.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":33746252,"pack_id":"PRIO-JP034","pack":"PRIO","rarity":"Majesty's Fiend","date":1392422400000},"tcg":{"id":33746252,"pack_id":"PRIO-EN034","pack":"PRIO","rarity":"Majesty's Fiend","date":1400198400000}}
+{
+    "id": 33746252,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2400,
+    "def": 1000,
+    "level": 6,
+    "race": 8,
+    "attribute": 16,
+    "category": 0,
+    "name": "Majesty's Fiend",
+    "desc": "Cannot be Special Summoned. Monster effects cannot be activated.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 33746252,
+        "pack_id": "PRIO-JP034",
+        "pack": "PRIO",
+        "rarity": "Majesty's Fiend",
+        "date": 1392422400000
+    },
+    "tcg": {
+        "id": 33746252,
+        "pack_id": "PRIO-EN034",
+        "pack": "PRIO",
+        "rarity": "Majesty's Fiend",
+        "date": 1400198400000
+    }
+}

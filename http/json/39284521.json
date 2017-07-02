@@ -1,1 +1,47 @@
-{"id":39284521,"ot":3,"alias":0,"setcode":54,"type":33,"atk":0,"def":2200,"level":8,"race":32,"attribute":1,"category":270344,"name":"Machina Cannon","desc":"Cannot be Normal Summoned or Set. Must first be Special Summoned (from your hand) by sending one or more Machine-Type monsters from your hand to the Graveyard. This card gains 800 ATK for each card sent to the Graveyard for this Special Summon.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":39284521,"pack_id":"PP13-JP003","pack":"PP13","rarity":"Machina Cannon","date":1299888000000},"tcg":{"id":39284521,"pack_id":"PRC1-EN011","pack":"PRC1","rarity":"Machina Cannon","date":1331856000000}}
+{
+    "id": 39284521,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 54,
+    "type": 33,
+    "atk": 0,
+    "def": 2200,
+    "level": 8,
+    "race": 32,
+    "attribute": 1,
+    "category": 270344,
+    "name": "Machina Cannon",
+    "desc": "Cannot be Normal Summoned or Set. Must first be Special Summoned (from your hand) by sending one or more Machine-Type monsters from your hand to the Graveyard. This card gains 800 ATK for each card sent to the Graveyard for this Special Summon.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 39284521,
+        "pack_id": "PP13-JP003",
+        "pack": "PP13",
+        "rarity": "Machina Cannon",
+        "date": 1299888000000
+    },
+    "tcg": {
+        "id": 39284521,
+        "pack_id": "PRC1-EN011",
+        "pack": "PRC1",
+        "rarity": "Machina Cannon",
+        "date": 1331856000000
+    }
+}

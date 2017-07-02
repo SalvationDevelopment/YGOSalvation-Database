@@ -1,1 +1,47 @@
-{"id":40253382,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":537133056,"name":"TG-SX1","desc":"When a \"T.G.\" monster you control destroys an opponent's monster by battle and sends it to the Graveyard: Target 1 \"T.G.\" Synchro Monster in your Graveyard; Special Summon that target.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":40253382,"pack_id":"EXVC-JP069","pack":"EXVC","rarity":"TG-SX1","date":1297382400000},"tcg":{"id":40253382,"pack_id":"EXVC-EN069","pack":"EXVC","rarity":"TG-SX1","date":1304121600000}}
+{
+    "id": 40253382,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 537133056,
+    "name": "TG-SX1",
+    "desc": "When a \"T.G.\" monster you control destroys an opponent's monster by battle and sends it to the Graveyard: Target 1 \"T.G.\" Synchro Monster in your Graveyard; Special Summon that target.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 40253382,
+        "pack_id": "EXVC-JP069",
+        "pack": "EXVC",
+        "rarity": "TG-SX1",
+        "date": 1297382400000
+    },
+    "tcg": {
+        "id": 40253382,
+        "pack_id": "EXVC-EN069",
+        "pack": "EXVC",
+        "rarity": "TG-SX1",
+        "date": 1304121600000
+    }
+}

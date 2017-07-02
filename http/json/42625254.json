@@ -1,1 +1,47 @@
-{"id":42625254,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1100,"def":700,"level":3,"race":65536,"attribute":1,"category":0,"name":"Little D","desc":"Yo, this tyrannosaurus tot's got a terrible temper.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":42625254,"pack_id":"B1-43","pack":"B1","rarity":"Little D","date":927590400000},"tcg":{"id":42625254,"pack_id":"LCJW-EN145","pack":"LCJW","rarity":"Little D","date":1381449600000}}
+{
+    "id": 42625254,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1100,
+    "def": 700,
+    "level": 3,
+    "race": 65536,
+    "attribute": 1,
+    "category": 0,
+    "name": "Little D",
+    "desc": "Yo, this tyrannosaurus tot's got a terrible temper.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 42625254,
+        "pack_id": "B1-43",
+        "pack": "B1",
+        "rarity": "Little D",
+        "date": 927590400000
+    },
+    "tcg": {
+        "id": 42625254,
+        "pack_id": "LCJW-EN145",
+        "pack": "LCJW",
+        "rarity": "Little D",
+        "date": 1381449600000
+    }
+}

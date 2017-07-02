@@ -1,1 +1,47 @@
-{"id":91107093,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":17825792,"name":"Electromagnetic Shield","desc":"Level 3 or lower face-up Defense Position Thunder-Type monsters you control cannot be destroyed by battle. Destroy this card if you control a face-up Attack Position monster.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":91107093,"pack_id":"TSHD-JP055","pack":"TSHD","rarity":"Electromagnetic Shield","date":1266624000000},"tcg":{"id":91107093,"pack_id":"TSHD-EN055","pack":"TSHD","rarity":"Electromagnetic Shield","date":1273190400000}}
+{
+    "id": 91107093,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 17825792,
+    "name": "Electromagnetic Shield",
+    "desc": "Level 3 or lower face-up Defense Position Thunder-Type monsters you control cannot be destroyed by battle. Destroy this card if you control a face-up Attack Position monster.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 91107093,
+        "pack_id": "TSHD-JP055",
+        "pack": "TSHD",
+        "rarity": "Electromagnetic Shield",
+        "date": 1266624000000
+    },
+    "tcg": {
+        "id": 91107093,
+        "pack_id": "TSHD-EN055",
+        "pack": "TSHD",
+        "rarity": "Electromagnetic Shield",
+        "date": 1273190400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":23471572,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Solomon's Lawbook","desc":"Skip your next Standby Phase.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":23471572,"pack_id":"CA-13","pack":"CA","rarity":"Solomon's Lawbook","date":970099200000},"tcg":{"id":23471572,"pack_id":"PSV-013","pack":"PSV","rarity":"Solomon's Lawbook","date":1035072000000}}
+{
+    "id": 23471572,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Solomon's Lawbook",
+    "desc": "Skip your next Standby Phase.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 23471572,
+        "pack_id": "CA-13",
+        "pack": "CA",
+        "rarity": "Solomon's Lawbook",
+        "date": 970099200000
+    },
+    "tcg": {
+        "id": 23471572,
+        "pack_id": "PSV-013",
+        "pack": "PSV",
+        "rarity": "Solomon's Lawbook",
+        "date": 1035072000000
+    }
+}

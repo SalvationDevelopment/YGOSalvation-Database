@@ -1,1 +1,47 @@
-{"id":94561645,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Counter Gate","desc":"When an opponent's monster declares a direct attack: Negate the attack, and if you do, draw 1 card, then if it is a monster, immediately after this effect resolves, you can Normal Summon it in face-up Attack Position.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":94561645,"pack_id":"MVP1-JP010","pack":"MVP1","rarity":"Counter Gate","date":1461369600000},"tcg":{"id":94561645,"pack_id":"MVP1-EN010","pack":"MVP1","rarity":"Counter Gate","date":1469059200000}}
+{
+    "id": 94561645,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Counter Gate",
+    "desc": "When an opponent's monster declares a direct attack: Negate the attack, and if you do, draw 1 card, then if it is a monster, immediately after this effect resolves, you can Normal Summon it in face-up Attack Position.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 94561645,
+        "pack_id": "MVP1-JP010",
+        "pack": "MVP1",
+        "rarity": "Counter Gate",
+        "date": 1461369600000
+    },
+    "tcg": {
+        "id": 94561645,
+        "pack_id": "MVP1-EN010",
+        "pack": "MVP1",
+        "rarity": "Counter Gate",
+        "date": 1469059200000
+    }
+}

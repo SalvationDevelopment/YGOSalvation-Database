@@ -1,1 +1,47 @@
-{"id":58531587,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":327680,"name":"Bubble Bringer","desc":"Level 4 or higher monsters cannot attack directly. During your turn: You can send this face-up card from the field to the Graveyard to target 2 Level 3 or lower WATER monsters with the same name in your Graveyard; Special Summon those targets. Their effects are negated.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":58531587,"pack_id":"ABYR-JP067","pack":"ABYR","rarity":"Bubble Bringer","date":1342828800000},"tcg":{"id":58531587,"pack_id":"ABYR-EN067","pack":"ABYR","rarity":"Bubble Bringer","date":1352419200000}}
+{
+    "id": 58531587,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 327680,
+    "name": "Bubble Bringer",
+    "desc": "Level 4 or higher monsters cannot attack directly. During your turn: You can send this face-up card from the field to the Graveyard to target 2 Level 3 or lower WATER monsters with the same name in your Graveyard; Special Summon those targets. Their effects are negated.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 58531587,
+        "pack_id": "ABYR-JP067",
+        "pack": "ABYR",
+        "rarity": "Bubble Bringer",
+        "date": 1342828800000
+    },
+    "tcg": {
+        "id": 58531587,
+        "pack_id": "ABYR-EN067",
+        "pack": "ABYR",
+        "rarity": "Bubble Bringer",
+        "date": 1352419200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":131182,"ot":3,"alias":0,"setcode":0,"type":33,"atk":300,"def":500,"level":2,"race":2,"attribute":16,"category":65538,"name":"Miracle Flipper","desc":"If you control a \"Miracle Flipper\", you cannot Summon this card. Your opponent cannot select another face-up monster as an attack target. If this card is destroyed by battle, Special Summon it to your opponent's side of the field at the end of the Battle Phase. If this card is destroyed by the effect of a Spell or Trap Card, destroy 1 monster your opponent controls.","str1":"Special Summon","str2":"Destroy 1 monster your opponent controls","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":131182,"pack_id":"LODT-JP003","pack":"LODT","rarity":"Miracle Flipper","date":1203724800000},"tcg":{"id":131182,"pack_id":"LODT-EN003","pack":"LODT","rarity":"Miracle Flipper","date":1209772800000}}
+{
+    "id": 131182,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 300,
+    "def": 500,
+    "level": 2,
+    "race": 2,
+    "attribute": 16,
+    "category": 65538,
+    "name": "Miracle Flipper",
+    "desc": "If you control a \"Miracle Flipper\", you cannot Summon this card. Your opponent cannot select another face-up monster as an attack target. If this card is destroyed by battle, Special Summon it to your opponent's side of the field at the end of the Battle Phase. If this card is destroyed by the effect of a Spell or Trap Card, destroy 1 monster your opponent controls.",
+    "str1": "Special Summon",
+    "str2": "Destroy 1 monster your opponent controls",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 131182,
+        "pack_id": "LODT-JP003",
+        "pack": "LODT",
+        "rarity": "Miracle Flipper",
+        "date": 1203724800000
+    },
+    "tcg": {
+        "id": 131182,
+        "pack_id": "LODT-EN003",
+        "pack": "LODT",
+        "rarity": "Miracle Flipper",
+        "date": 1209772800000
+    }
+}

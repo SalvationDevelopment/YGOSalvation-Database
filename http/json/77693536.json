@@ -1,1 +1,47 @@
-{"id":77693536,"ot":3,"alias":0,"setcode":225,"type":97,"atk":0,"def":0,"level":1,"race":1048576,"attribute":4,"category":0,"name":"Fullmetalfoes Alkahest","desc":"1 \"Metalfoes\" monster + 1 Normal Monster\nMust be Fusion Summoned and cannot be Special Summoned by other ways. Once per turn, during your opponent's turn: You can target 1 Effect Monster on the field; equip that target to this card (this is a Quick Effect). This card gains DEF equal to the combined original ATK of the monsters equipped to it by this effect. You can use monsters you control equipped to this card you control as Fusion Materials for the Fusion Summon of a \"Metalfoes\" Fusion Monster that lists them as Materials.","str1":"Equip this card","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":77693536,"pack_id":"INOV-JP039","pack":"INOV","rarity":"Fullmetalfoes Alkahest","date":1468022400000},"tcg":{"id":77693536,"pack_id":"INOV-EN039","pack":"INOV","rarity":"Fullmetalfoes Alkahest","date":1478131200000}}
+{
+    "id": 77693536,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 225,
+    "type": 97,
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": 1048576,
+    "attribute": 4,
+    "category": 0,
+    "name": "Fullmetalfoes Alkahest",
+    "desc": "1 \"Metalfoes\" monster + 1 Normal Monster\nMust be Fusion Summoned and cannot be Special Summoned by other ways. Once per turn, during your opponent's turn: You can target 1 Effect Monster on the field; equip that target to this card (this is a Quick Effect). This card gains DEF equal to the combined original ATK of the monsters equipped to it by this effect. You can use monsters you control equipped to this card you control as Fusion Materials for the Fusion Summon of a \"Metalfoes\" Fusion Monster that lists them as Materials.",
+    "str1": "Equip this card",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 77693536,
+        "pack_id": "INOV-JP039",
+        "pack": "INOV",
+        "rarity": "Fullmetalfoes Alkahest",
+        "date": 1468022400000
+    },
+    "tcg": {
+        "id": 77693536,
+        "pack_id": "INOV-EN039",
+        "pack": "INOV",
+        "rarity": "Fullmetalfoes Alkahest",
+        "date": 1478131200000
+    }
+}

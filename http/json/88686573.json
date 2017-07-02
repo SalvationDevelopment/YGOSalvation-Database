@@ -1,1 +1,47 @@
-{"id":88686573,"ot":3,"alias":0,"setcode":120,"type":33,"atk":600,"def":100,"level":2,"race":131072,"attribute":2,"category":262144,"name":"Nimble Angler","desc":"If this card is sent from the hand or Deck to the Graveyard: You can Special Summon up to 2 Level 3 or lower \"Nimble\" monsters from your Deck, except \"Nimble Angler\".","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":88686573,"pack_id":"ABYR-JP031","pack":"ABYR","rarity":"Nimble Angler","date":1342828800000},"tcg":{"id":88686573,"pack_id":"ABYR-EN031","pack":"ABYR","rarity":"Nimble Angler","date":1352419200000}}
+{
+    "id": 88686573,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 120,
+    "type": 33,
+    "atk": 600,
+    "def": 100,
+    "level": 2,
+    "race": 131072,
+    "attribute": 2,
+    "category": 262144,
+    "name": "Nimble Angler",
+    "desc": "If this card is sent from the hand or Deck to the Graveyard: You can Special Summon up to 2 Level 3 or lower \"Nimble\" monsters from your Deck, except \"Nimble Angler\".",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 88686573,
+        "pack_id": "ABYR-JP031",
+        "pack": "ABYR",
+        "rarity": "Nimble Angler",
+        "date": 1342828800000
+    },
+    "tcg": {
+        "id": 88686573,
+        "pack_id": "ABYR-EN031",
+        "pack": "ABYR",
+        "rarity": "Nimble Angler",
+        "date": 1352419200000
+    }
+}

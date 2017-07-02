@@ -1,1 +1,47 @@
-{"id":12338068,"ot":3,"alias":0,"setcode":0,"type":33,"atk":0,"def":0,"level":8,"race":8,"attribute":32,"category":0,"name":"Legendary Maju Garzett","desc":"Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing all monsters you control, and cannot be Special Summoned by other ways. This card's ATK becomes the combined original ATK of the Tributed monsters. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":12338068,"pack_id":"SECE-JP042","pack":"SECE","rarity":"Legendary Maju Garzett","date":1416009600000},"tcg":{"id":12338068,"pack_id":"SECE-EN042","pack":"SECE","rarity":"Legendary Maju Garzett","date":1421280000000}}
+{
+    "id": 12338068,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 0,
+    "def": 0,
+    "level": 8,
+    "race": 8,
+    "attribute": 32,
+    "category": 0,
+    "name": "Legendary Maju Garzett",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing all monsters you control, and cannot be Special Summoned by other ways. This card's ATK becomes the combined original ATK of the Tributed monsters. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 12338068,
+        "pack_id": "SECE-JP042",
+        "pack": "SECE",
+        "rarity": "Legendary Maju Garzett",
+        "date": 1416009600000
+    },
+    "tcg": {
+        "id": 12338068,
+        "pack_id": "SECE-EN042",
+        "pack": "SECE",
+        "rarity": "Legendary Maju Garzett",
+        "date": 1421280000000
+    }
+}

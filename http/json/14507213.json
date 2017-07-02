@@ -1,1 +1,47 @@
-{"id":14507213,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":536870912,"name":"Synchro Material","desc":"Select 1 face-up monster your opponent controls. If you Synchro Summon this turn, you can use the selected monster as a Synchro Material Monster. You cannot conduct your Battle Phase during the turn you activate this card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":14507213,"pack_id":"DP10-JP030","pack":"DP10","rarity":"Synchro Material","date":1287187200000},"tcg":{"id":14507213,"pack_id":"DP10-EN030","pack":"DP10","rarity":"Synchro Material","date":1295568000000}}
+{
+    "id": 14507213,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 536870912,
+    "name": "Synchro Material",
+    "desc": "Select 1 face-up monster your opponent controls. If you Synchro Summon this turn, you can use the selected monster as a Synchro Material Monster. You cannot conduct your Battle Phase during the turn you activate this card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 14507213,
+        "pack_id": "DP10-JP030",
+        "pack": "DP10",
+        "rarity": "Synchro Material",
+        "date": 1287187200000
+    },
+    "tcg": {
+        "id": 14507213,
+        "pack_id": "DP10-EN030",
+        "pack": "DP10",
+        "rarity": "Synchro Material",
+        "date": 1295568000000
+    }
+}

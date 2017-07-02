@@ -1,1 +1,47 @@
-{"id":93396832,"ot":3,"alias":0,"setcode":0,"type":1048580,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":-2147483645,"name":"Smashing Horn","desc":"When a monster effect or Trap Card is activated that negates the Normal or Special Summon of a monster(s): Negate the activation and destroy it.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":93396832,"pack_id":"EP12-JP020","pack":"EP12","rarity":"Smashing Horn","date":1350086400000},"tcg":{"id":93396832,"pack_id":"GENF-EN089","pack":"GENF","rarity":"Smashing Horn","date":1312588800000}}
+{
+    "id": 93396832,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 1048580,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": -2147483645,
+    "name": "Smashing Horn",
+    "desc": "When a monster effect or Trap Card is activated that negates the Normal or Special Summon of a monster(s): Negate the activation and destroy it.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 93396832,
+        "pack_id": "EP12-JP020",
+        "pack": "EP12",
+        "rarity": "Smashing Horn",
+        "date": 1350086400000
+    },
+    "tcg": {
+        "id": 93396832,
+        "pack_id": "GENF-EN089",
+        "pack": "GENF",
+        "rarity": "Smashing Horn",
+        "date": 1312588800000
+    }
+}

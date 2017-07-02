@@ -1,1 +1,47 @@
-{"id":34004470,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2800,"def":2200,"level":8,"race":32,"attribute":32,"category":4202496,"name":"The Big Saturn","desc":"Cannot be Special Summoned from the hand or Deck. Once per turn: You can discard 1 card and pay 1000 Life Points; this card gains 1000 ATK until the End Phase. When this card in your possession is destroyed by your opponent's card effect and sent to your Graveyard: Both players take damage equal to this card's ATK in the Graveyard.","str1":"Gain attack","str2":"Inflict damage","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":34004470,"pack_id":"VJMP-JP024","pack":"VJMP","rarity":"The Big Saturn","date":1177113600000},"tcg":{"id":34004470,"pack_id":"SDMM-EN020","pack":"SDMM","rarity":"The Big Saturn","date":1266537600000}}
+{
+    "id": 34004470,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2800,
+    "def": 2200,
+    "level": 8,
+    "race": 32,
+    "attribute": 32,
+    "category": 4202496,
+    "name": "The Big Saturn",
+    "desc": "Cannot be Special Summoned from the hand or Deck. Once per turn: You can discard 1 card and pay 1000 Life Points; this card gains 1000 ATK until the End Phase. When this card in your possession is destroyed by your opponent's card effect and sent to your Graveyard: Both players take damage equal to this card's ATK in the Graveyard.",
+    "str1": "Gain attack",
+    "str2": "Inflict damage",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 34004470,
+        "pack_id": "VJMP-JP024",
+        "pack": "VJMP",
+        "rarity": "The Big Saturn",
+        "date": 1177113600000
+    },
+    "tcg": {
+        "id": 34004470,
+        "pack_id": "SDMM-EN020",
+        "pack": "SDMM",
+        "rarity": "The Big Saturn",
+        "date": 1266537600000
+    }
+}

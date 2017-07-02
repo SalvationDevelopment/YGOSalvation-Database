@@ -1,1 +1,47 @@
-{"id":65536818,"ot":3,"alias":0,"setcode":158,"type":12321,"atk":0,"def":2800,"level":5,"race":8388608,"attribute":16,"category":0,"name":"Denglong, First of the Yang Zing","desc":"1 Tuner + 1 or more non-Tuner monsters\nIf this card is Special Summoned: You can add 1 \"Yang Zing\" card from your Deck to your hand. Once per turn: You can send 1 Wyrm-Type monster from your Deck to the Graveyard; this card's Level becomes the sent monster's. If this face-up card leaves the field: You can Special Summon 1 \"Yang Zing\" monster from your Deck. You can only Special Summon \"Denglong, First of the Yang Zing(s)\" once per turn.","str1":"Add \"Yang Zing\" to hand","str2":"Change Level","str3":"Add \"Yang Zing\" to hand","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":65536818,"pack_id":"INOV-JP048","pack":"INOV","rarity":"Denglong, First of the Yang Zing","date":1468022400000},"tcg":{"id":65536818,"pack_id":"INOV-EN048","pack":"INOV","rarity":"Denglong, First of the Yang Zing","date":1478131200000}}
+{
+    "id": 65536818,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 158,
+    "type": 12321,
+    "atk": 0,
+    "def": 2800,
+    "level": 5,
+    "race": 8388608,
+    "attribute": 16,
+    "category": 0,
+    "name": "Denglong, First of the Yang Zing",
+    "desc": "1 Tuner + 1 or more non-Tuner monsters\nIf this card is Special Summoned: You can add 1 \"Yang Zing\" card from your Deck to your hand. Once per turn: You can send 1 Wyrm-Type monster from your Deck to the Graveyard; this card's Level becomes the sent monster's. If this face-up card leaves the field: You can Special Summon 1 \"Yang Zing\" monster from your Deck. You can only Special Summon \"Denglong, First of the Yang Zing(s)\" once per turn.",
+    "str1": "Add \"Yang Zing\" to hand",
+    "str2": "Change Level",
+    "str3": "Add \"Yang Zing\" to hand",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 65536818,
+        "pack_id": "INOV-JP048",
+        "pack": "INOV",
+        "rarity": "Denglong, First of the Yang Zing",
+        "date": 1468022400000
+    },
+    "tcg": {
+        "id": 65536818,
+        "pack_id": "INOV-EN048",
+        "pack": "INOV",
+        "rarity": "Denglong, First of the Yang Zing",
+        "date": 1478131200000
+    }
+}

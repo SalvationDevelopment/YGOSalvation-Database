@@ -1,1 +1,47 @@
-{"id":27869883,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1700,"def":1600,"level":4,"race":2,"attribute":32,"category":4194304,"name":"Shadowpriestess of Ohm","desc":"You can Tribute 1 face-up DARK monster you control to inflict 800 damage to your opponent.","str1":"Inflict damage","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":27869883,"pack_id":"PTDN-JP024","pack":"PTDN","rarity":"Shadowpriestess of Ohm","date":1195776000000},"tcg":{"id":27869883,"pack_id":"PTDN-EN024","pack":"PTDN","rarity":"Shadowpriestess of Ohm","date":1201305600000}}
+{
+    "id": 27869883,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1700,
+    "def": 1600,
+    "level": 4,
+    "race": 2,
+    "attribute": 32,
+    "category": 4194304,
+    "name": "Shadowpriestess of Ohm",
+    "desc": "You can Tribute 1 face-up DARK monster you control to inflict 800 damage to your opponent.",
+    "str1": "Inflict damage",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 27869883,
+        "pack_id": "PTDN-JP024",
+        "pack": "PTDN",
+        "rarity": "Shadowpriestess of Ohm",
+        "date": 1195776000000
+    },
+    "tcg": {
+        "id": 27869883,
+        "pack_id": "PTDN-EN024",
+        "pack": "PTDN",
+        "rarity": "Shadowpriestess of Ohm",
+        "date": 1201305600000
+    }
+}

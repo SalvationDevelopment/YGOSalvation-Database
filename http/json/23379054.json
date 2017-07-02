@@ -1,1 +1,47 @@
-{"id":23379054,"ot":3,"alias":0,"setcode":0,"type":4129,"atk":500,"def":0,"level":2,"race":16,"attribute":32,"category":0,"name":"Ghost Charon, the Underworld Boatman","desc":"If your opponent controls a monster, and you control no other monsters: You can target 1 Fusion Monster in your Graveyard; banish both this card from the field and that target, and if you do, Special Summon 1 Dragon-Type Synchro Monster from your Extra Deck whose Level equals the total Levels those 2 monsters had (original Level, if face-down). You can only use this effect of \"Ghost Charon, the Underworld Boatman\" once per turn. You cannot Special Summon monsters the turn you activate this effect, except Dragon-Type monsters.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":23379054,"pack_id":"PP17-JP005","pack":"PP17","rarity":"Ghost Charon, the Underworld Boatman","date":1426896000000},"tcg":{"id":23379054,"pack_id":"PGL2-EN005","pack":"PGL2","rarity":"Ghost Charon, the Underworld Boatman","date":1426809600000}}
+{
+    "id": 23379054,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4129,
+    "atk": 500,
+    "def": 0,
+    "level": 2,
+    "race": 16,
+    "attribute": 32,
+    "category": 0,
+    "name": "Ghost Charon, the Underworld Boatman",
+    "desc": "If your opponent controls a monster, and you control no other monsters: You can target 1 Fusion Monster in your Graveyard; banish both this card from the field and that target, and if you do, Special Summon 1 Dragon-Type Synchro Monster from your Extra Deck whose Level equals the total Levels those 2 monsters had (original Level, if face-down). You can only use this effect of \"Ghost Charon, the Underworld Boatman\" once per turn. You cannot Special Summon monsters the turn you activate this effect, except Dragon-Type monsters.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 23379054,
+        "pack_id": "PP17-JP005",
+        "pack": "PP17",
+        "rarity": "Ghost Charon, the Underworld Boatman",
+        "date": 1426896000000
+    },
+    "tcg": {
+        "id": 23379054,
+        "pack_id": "PGL2-EN005",
+        "pack": "PGL2",
+        "rarity": "Ghost Charon, the Underworld Boatman",
+        "date": 1426809600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":88724332,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1700,"def":0,"level":4,"race":8388608,"attribute":32,"category":0,"name":"Night Dragolich","desc":"Change all non-Wyrm-Type Attack Position monsters that were Special Summoned from the Main or Extra Deck to Defense Position. All non-Wyrm-Type monsters that were Special Summoned from the Main or Extra Deck lose DEF equal to their original DEF.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":88724332,"pack_id":"NECH-JP034","pack":"NECH","rarity":"Night Dragolich","date":1405728000000},"tcg":{"id":88724332,"pack_id":"NECH-EN034","pack":"NECH","rarity":"Night Dragolich","date":1415232000000}}
+{
+    "id": 88724332,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1700,
+    "def": 0,
+    "level": 4,
+    "race": 8388608,
+    "attribute": 32,
+    "category": 0,
+    "name": "Night Dragolich",
+    "desc": "Change all non-Wyrm-Type Attack Position monsters that were Special Summoned from the Main or Extra Deck to Defense Position. All non-Wyrm-Type monsters that were Special Summoned from the Main or Extra Deck lose DEF equal to their original DEF.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 88724332,
+        "pack_id": "NECH-JP034",
+        "pack": "NECH",
+        "rarity": "Night Dragolich",
+        "date": 1405728000000
+    },
+    "tcg": {
+        "id": 88724332,
+        "pack_id": "NECH-EN034",
+        "pack": "NECH",
+        "rarity": "Night Dragolich",
+        "date": 1415232000000
+    }
+}

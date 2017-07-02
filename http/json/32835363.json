@@ -1,1 +1,47 @@
-{"id":32835363,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4194304,"name":"Cracking","desc":"Once per turn, when a monster(s) is sent from the field to the Graveyard by a card effect: Inflict 800 damage to the owner of the monster(s).","str1":"Inflict damage","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":32835363,"pack_id":"GENF-JP052","pack":"GENF","rarity":"Cracking","date":1302912000000},"tcg":{"id":32835363,"pack_id":"GENF-EN052","pack":"GENF","rarity":"Cracking","date":1312588800000}}
+{
+    "id": 32835363,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4194304,
+    "name": "Cracking",
+    "desc": "Once per turn, when a monster(s) is sent from the field to the Graveyard by a card effect: Inflict 800 damage to the owner of the monster(s).",
+    "str1": "Inflict damage",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 32835363,
+        "pack_id": "GENF-JP052",
+        "pack": "GENF",
+        "rarity": "Cracking",
+        "date": 1302912000000
+    },
+    "tcg": {
+        "id": 32835363,
+        "pack_id": "GENF-EN052",
+        "pack": "GENF",
+        "rarity": "Cracking",
+        "date": 1312588800000
+    }
+}

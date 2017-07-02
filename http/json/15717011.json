@@ -1,1 +1,47 @@
-{"id":15717011,"ot":3,"alias":0,"setcode":70,"type":33,"atk":1000,"def":1600,"level":3,"race":256,"attribute":16,"category":270794752,"name":"The Light - Hex-Sealed Fusion","desc":"You can substitute this card for any 1 Fusion Material Monster, but the other Fusion Material Monster(s) must be correct. You can Tribute Fusion Material Monsters on the field, including this face-up card; Special Summon 1 corresponding LIGHT Fusion Monster from your Extra Deck.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":15717011,"pack_id":"FET-JP027","pack":"FET","rarity":"The Light - Hex-Sealed Fusion","date":1101340800000},"tcg":{"id":15717011,"pack_id":"FET-EN027","pack":"FET","rarity":"The Light - Hex-Sealed Fusion","date":1109376000000}}
+{
+    "id": 15717011,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 70,
+    "type": 33,
+    "atk": 1000,
+    "def": 1600,
+    "level": 3,
+    "race": 256,
+    "attribute": 16,
+    "category": 270794752,
+    "name": "The Light - Hex-Sealed Fusion",
+    "desc": "You can substitute this card for any 1 Fusion Material Monster, but the other Fusion Material Monster(s) must be correct. You can Tribute Fusion Material Monsters on the field, including this face-up card; Special Summon 1 corresponding LIGHT Fusion Monster from your Extra Deck.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 15717011,
+        "pack_id": "FET-JP027",
+        "pack": "FET",
+        "rarity": "The Light - Hex-Sealed Fusion",
+        "date": 1101340800000
+    },
+    "tcg": {
+        "id": 15717011,
+        "pack_id": "FET-EN027",
+        "pack": "FET",
+        "rarity": "The Light - Hex-Sealed Fusion",
+        "date": 1109376000000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":36247316,"ot":1,"alias":0,"setcode":4315,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":270336,"name":"The Phantom Knights of Lost Vambrace","desc":"Target 1 face-up monster on the field; if that target is still face-up on the field, \"The Phantom Knights\" monsters you control cannot be destroyed by battle, also that target loses 600 ATK, also its Level becomes 2. These effects last until the end of this turn. Then, Special Summon this card in Defense Position as a Normal Monster (Warrior-Type/DARK/Level 2/ATK 600/DEF 0). (This card is NOT treated as a Trap Card.)","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG","ocg":{"id":36247316,"pack_id":"MACR-JP066","pack":"MACR","rarity":"The Phantom Knights of Lost Vambrace","date":1484352000000},"tcg":{"id":36247316,"pack_id":"MACR-EN066","pack":"MACR","rarity":"The Phantom Knights of Lost Vambrace","date":1493856000000}}
+{
+    "id": 36247316,
+    "ot": 1,
+    "alias": 0,
+    "setcode": 4315,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 270336,
+    "name": "The Phantom Knights of Lost Vambrace",
+    "desc": "Target 1 face-up monster on the field; if that target is still face-up on the field, \"The Phantom Knights\" monsters you control cannot be destroyed by battle, also that target loses 600 ATK, also its Level becomes 2. These effects last until the end of this turn. Then, Special Summon this card in Defense Position as a Normal Monster (Warrior-Type/DARK/Level 2/ATK 600/DEF 0). (This card is NOT treated as a Trap Card.)",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG",
+    "ocg": {
+        "id": 36247316,
+        "pack_id": "MACR-JP066",
+        "pack": "MACR",
+        "rarity": "The Phantom Knights of Lost Vambrace",
+        "date": 1484352000000
+    },
+    "tcg": {
+        "id": 36247316,
+        "pack_id": "MACR-EN066",
+        "pack": "MACR",
+        "rarity": "The Phantom Knights of Lost Vambrace",
+        "date": 1493856000000
+    }
+}

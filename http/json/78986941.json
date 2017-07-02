@@ -1,1 +1,47 @@
-{"id":78986941,"ot":3,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":2,"name":"Order to Charge","desc":"Select 1 face-up Normal Monster (except a Token) on your side of the field when you activate this card. When this card resolves, Tribute the selected Normal Monster and destroy 1 monster on your opponent's side of the field.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":78986941,"pack_id":"309-030","pack":"309","rarity":"Order to Charge","date":1077753600000},"tcg":{"id":78986941,"pack_id":"AST-085","pack":"AST","rarity":"Order to Charge","date":1086048000000}}
+{
+    "id": 78986941,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 2,
+    "name": "Order to Charge",
+    "desc": "Select 1 face-up Normal Monster (except a Token) on your side of the field when you activate this card. When this card resolves, Tribute the selected Normal Monster and destroy 1 monster on your opponent's side of the field.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 78986941,
+        "pack_id": "309-030",
+        "pack": "309",
+        "rarity": "Order to Charge",
+        "date": 1077753600000
+    },
+    "tcg": {
+        "id": 78986941,
+        "pack_id": "AST-085",
+        "pack": "AST",
+        "rarity": "Order to Charge",
+        "date": 1086048000000
+    }
+}

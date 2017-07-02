@@ -1,1 +1,47 @@
-{"id":78697395,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"The Third Sarcophagus","desc":"This card can only be placed on the field by the effect of \"The First Sarcophagus\".","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":78697395,"pack_id":"309-044","pack":"309","rarity":"The Third Sarcophagus","date":1077753600000},"tcg":{"id":78697395,"pack_id":"AST-099","pack":"AST","rarity":"The Third Sarcophagus","date":1086048000000}}
+{
+    "id": 78697395,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "The Third Sarcophagus",
+    "desc": "This card can only be placed on the field by the effect of \"The First Sarcophagus\".",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 78697395,
+        "pack_id": "309-044",
+        "pack": "309",
+        "rarity": "The Third Sarcophagus",
+        "date": 1077753600000
+    },
+    "tcg": {
+        "id": 78697395,
+        "pack_id": "AST-099",
+        "pack": "AST",
+        "rarity": "The Third Sarcophagus",
+        "date": 1086048000000
+    }
+}

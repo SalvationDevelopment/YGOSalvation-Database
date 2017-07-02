@@ -1,1 +1,47 @@
-{"id":96682430,"ot":3,"alias":0,"setcode":7667828,"type":33,"atk":1300,"def":400,"level":3,"race":64,"attribute":2,"category":262144,"name":"Mermail Abysshilde","desc":"If this card is sent to the Graveyard: You can Special Summon 1 \"Mermail\" monster from your hand, except \"Mermail Abysshilde\". You can only use the effect of \"Mermail Abysshilde\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":96682430,"pack_id":"ABYR-JP016","pack":"ABYR","rarity":"Mermail Abysshilde","date":1342828800000},"tcg":{"id":96682430,"pack_id":"ABYR-EN016","pack":"ABYR","rarity":"Mermail Abysshilde","date":1352419200000}}
+{
+    "id": 96682430,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 7667828,
+    "type": 33,
+    "atk": 1300,
+    "def": 400,
+    "level": 3,
+    "race": 64,
+    "attribute": 2,
+    "category": 262144,
+    "name": "Mermail Abysshilde",
+    "desc": "If this card is sent to the Graveyard: You can Special Summon 1 \"Mermail\" monster from your hand, except \"Mermail Abysshilde\". You can only use the effect of \"Mermail Abysshilde\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 96682430,
+        "pack_id": "ABYR-JP016",
+        "pack": "ABYR",
+        "rarity": "Mermail Abysshilde",
+        "date": 1342828800000
+    },
+    "tcg": {
+        "id": 96682430,
+        "pack_id": "ABYR-EN016",
+        "pack": "ABYR",
+        "rarity": "Mermail Abysshilde",
+        "date": 1352419200000
+    }
+}

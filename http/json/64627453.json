@@ -1,1 +1,47 @@
-{"id":64627453,"ot":3,"alias":0,"setcode":15,"type":33,"atk":0,"def":1000,"level":2,"race":16384,"attribute":16,"category":512,"name":"Ojama Blue","desc":"When this card is destroyed by battle and sent to the Graveyard, you can add 2 \"Ojama\" cards from your Deck to your hand (this can include \"Ojamuscle\").","str1":"Search","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":64627453,"pack_id":"JF09-JP009","pack":"JF09","rarity":"Ojama Blue","date":1229731200000},"tcg":{"id":64627453,"pack_id":"RGBT-EN097","pack":"RGBT","rarity":"Ojama Blue","date":1241222400000}}
+{
+    "id": 64627453,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 15,
+    "type": 33,
+    "atk": 0,
+    "def": 1000,
+    "level": 2,
+    "race": 16384,
+    "attribute": 16,
+    "category": 512,
+    "name": "Ojama Blue",
+    "desc": "When this card is destroyed by battle and sent to the Graveyard, you can add 2 \"Ojama\" cards from your Deck to your hand (this can include \"Ojamuscle\").",
+    "str1": "Search",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 64627453,
+        "pack_id": "JF09-JP009",
+        "pack": "JF09",
+        "rarity": "Ojama Blue",
+        "date": 1229731200000
+    },
+    "tcg": {
+        "id": 64627453,
+        "pack_id": "RGBT-EN097",
+        "pack": "RGBT",
+        "rarity": "Ojama Blue",
+        "date": 1241222400000
+    }
+}

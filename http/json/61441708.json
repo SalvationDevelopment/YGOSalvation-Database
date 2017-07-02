@@ -1,1 +1,47 @@
-{"id":61441708,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2400,"def":1600,"level":8,"race":512,"attribute":4,"category":262145,"name":"Sacred Phoenix of Nephthys","desc":"During your next Standby Phase after this card was destroyed by a card effect and sent to the Graveyard: Special Summon this card from the Graveyard. When you do: Destroy all Spell and Trap Cards on the field.","str1":"Special Summon","str2":"Destroy all Spell/Trap cards","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":61441708,"pack_id":"FET-JP005","pack":"FET","rarity":"Sacred Phoenix of Nephthys","date":1101340800000},"tcg":{"id":61441708,"pack_id":"FET-EN005","pack":"FET","rarity":"Sacred Phoenix of Nephthys","date":1109376000000}}
+{
+    "id": 61441708,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2400,
+    "def": 1600,
+    "level": 8,
+    "race": 512,
+    "attribute": 4,
+    "category": 262145,
+    "name": "Sacred Phoenix of Nephthys",
+    "desc": "During your next Standby Phase after this card was destroyed by a card effect and sent to the Graveyard: Special Summon this card from the Graveyard. When you do: Destroy all Spell and Trap Cards on the field.",
+    "str1": "Special Summon",
+    "str2": "Destroy all Spell/Trap cards",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 61441708,
+        "pack_id": "FET-JP005",
+        "pack": "FET",
+        "rarity": "Sacred Phoenix of Nephthys",
+        "date": 1101340800000
+    },
+    "tcg": {
+        "id": 61441708,
+        "pack_id": "FET-EN005",
+        "pack": "FET",
+        "rarity": "Sacred Phoenix of Nephthys",
+        "date": 1109376000000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":94068856,"ot":3,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Time Passage","desc":"Increase the Level of 1 face-up \"Fortune Lady\" monster you control by 3, until the End Phase.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":94068856,"pack_id":"SOVR-JP052","pack":"SOVR","rarity":"Time Passage","date":1247875200000},"tcg":{"id":94068856,"pack_id":"SOVR-EN052","pack":"SOVR","rarity":"Time Passage","date":1258416000000}}
+{
+    "id": 94068856,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Time Passage",
+    "desc": "Increase the Level of 1 face-up \"Fortune Lady\" monster you control by 3, until the End Phase.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 94068856,
+        "pack_id": "SOVR-JP052",
+        "pack": "SOVR",
+        "rarity": "Time Passage",
+        "date": 1247875200000
+    },
+    "tcg": {
+        "id": 94068856,
+        "pack_id": "SOVR-EN052",
+        "pack": "SOVR",
+        "rarity": "Time Passage",
+        "date": 1258416000000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":11471117,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4,"name":"Light Laser","desc":"Equip only to a LIGHT Warrior-Type monster. Remove from play any monsters that battle with it at the end of Damage Step.","str1":"Banish","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":11471117,"pack_id":"DP03-JP025","pack":"DP03","rarity":"Light Laser","date":1161820800000},"tcg":{"id":11471117,"pack_id":"DP03-EN025","pack":"DP03","rarity":"Light Laser","date":1170806400000}}
+{
+    "id": 11471117,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4,
+    "name": "Light Laser",
+    "desc": "Equip only to a LIGHT Warrior-Type monster. Remove from play any monsters that battle with it at the end of Damage Step.",
+    "str1": "Banish",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 11471117,
+        "pack_id": "DP03-JP025",
+        "pack": "DP03",
+        "rarity": "Light Laser",
+        "date": 1161820800000
+    },
+    "tcg": {
+        "id": 11471117,
+        "pack_id": "DP03-EN025",
+        "pack": "DP03",
+        "rarity": "Light Laser",
+        "date": 1170806400000
+    }
+}

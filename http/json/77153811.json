@@ -1,1 +1,47 @@
-{"id":77153811,"ot":3,"alias":0,"setcode":24685,"type":33,"atk":1700,"def":1000,"level":4,"race":8,"attribute":32,"category":-2147483648,"name":"Djinn Cursenchanter of Rituals","desc":"When you Ritual Summon a monster, you can banish this card from your Graveyard as 1 of the monsters required for the Ritual Summon. While the monster Ritual Summoned using this card is face-up on the field, Synchro Monsters' effects are negated.","str1":"Negate the effect(s) of Synchro Monsters.","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":77153811,"pack_id":"ABPF-JP037","pack":"ABPF","rarity":"Djinn Cursenchanter of Rituals","date":1258156800000},"tcg":{"id":77153811,"pack_id":"ABPF-EN037","pack":"ABPF","rarity":"Djinn Cursenchanter of Rituals","date":1265932800000}}
+{
+    "id": 77153811,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 24685,
+    "type": 33,
+    "atk": 1700,
+    "def": 1000,
+    "level": 4,
+    "race": 8,
+    "attribute": 32,
+    "category": -2147483648,
+    "name": "Djinn Cursenchanter of Rituals",
+    "desc": "When you Ritual Summon a monster, you can banish this card from your Graveyard as 1 of the monsters required for the Ritual Summon. While the monster Ritual Summoned using this card is face-up on the field, Synchro Monsters' effects are negated.",
+    "str1": "Negate the effect(s) of Synchro Monsters.",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 77153811,
+        "pack_id": "ABPF-JP037",
+        "pack": "ABPF",
+        "rarity": "Djinn Cursenchanter of Rituals",
+        "date": 1258156800000
+    },
+    "tcg": {
+        "id": 77153811,
+        "pack_id": "ABPF-EN037",
+        "pack": "ABPF",
+        "rarity": "Djinn Cursenchanter of Rituals",
+        "date": 1265932800000
+    }
+}

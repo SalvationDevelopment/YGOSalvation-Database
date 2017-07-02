@@ -1,1 +1,45 @@
-{"id":30194529,"ot":5,"alias":0,"setcode":253,"type":33554465,"atk":2500,"def":"-","level":3,"race":1,"attribute":1,"category":1,"name":"Stargrail Warrior Ningirsu","desc":"Link Arrows: [🡱] [🡰] [🡲] \n\n2+ Link Monsters\nIf this card is Link Summoned: Draw cards equal to the number of \"Stargrail\" monsters this card points to. You can only use this effect of \"Stargrail Warrior Ningirsu\" once per turn. Once per turn: You can send 1 card from each player's field to the GY. If this card is sent from the field to the GY: You can Special Summon 1 \"Stargrail\" monster from your hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[1,3,4],"cardpool":"OCG Prerelease","ocg":{"id":30194529,"pack_id":"COTD-JP050","pack":"COTD","rarity":"Stargrail Warrior Ningirsu","date":1492214400000},"tcg":{}}
+{
+    "id": 30194529,
+    "ot": 5,
+    "alias": 0,
+    "setcode": 253,
+    "type": 33554465,
+    "atk": 2500,
+    "def": "-",
+    "level": 3,
+    "race": 1,
+    "attribute": 1,
+    "category": 1,
+    "name": "Stargrail Warrior Ningirsu",
+    "desc": "Link Arrows: [🡱] [🡰] [🡲] \n\n2+ Link Monsters\nIf this card is Link Summoned: Draw cards equal to the number of \"Stargrail\" monsters this card points to. You can only use this effect of \"Stargrail Warrior Ningirsu\" once per turn. Once per turn: You can send 1 card from each player's field to the GY. If this card is sent from the field to the GY: You can Special Summon 1 \"Stargrail\" monster from your hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [
+        1,
+        3,
+        4
+    ],
+    "cardpool": "OCG Prerelease",
+    "ocg": {
+        "id": 30194529,
+        "pack_id": "COTD-JP050",
+        "pack": "COTD",
+        "rarity": "Stargrail Warrior Ningirsu",
+        "date": 1492214400000
+    },
+    "tcg": {}
+}

@@ -1,1 +1,47 @@
-{"id":81146288,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2900,"def":2400,"level":8,"race":1024,"attribute":1,"category":-2146172928,"name":"Rosaria, the Stately Fallen Angel","desc":"Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 2 Level 7 or higher Plant-Type monsters (1 from your hand and 1 from your Graveyard). Once per turn: You can negate the effects of all other face-up cards currently on the field, until the end of this turn.","str1":"Negate effect","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":81146288,"pack_id":"PP14-JP003","pack":"PP14","rarity":"Rosaria, the Stately Fallen Angel","date":1331942400000},"tcg":{"id":81146288,"pack_id":"PRC1-EN016","pack":"PRC1","rarity":"Rosaria, the Stately Fallen Angel","date":1331856000000}}
+{
+    "id": 81146288,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2900,
+    "def": 2400,
+    "level": 8,
+    "race": 1024,
+    "attribute": 1,
+    "category": -2146172928,
+    "name": "Rosaria, the Stately Fallen Angel",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 2 Level 7 or higher Plant-Type monsters (1 from your hand and 1 from your Graveyard). Once per turn: You can negate the effects of all other face-up cards currently on the field, until the end of this turn.",
+    "str1": "Negate effect",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 81146288,
+        "pack_id": "PP14-JP003",
+        "pack": "PP14",
+        "rarity": "Rosaria, the Stately Fallen Angel",
+        "date": 1331942400000
+    },
+    "tcg": {
+        "id": 81146288,
+        "pack_id": "PRC1-EN016",
+        "pack": "PRC1",
+        "rarity": "Rosaria, the Stately Fallen Angel",
+        "date": 1331856000000
+    }
+}

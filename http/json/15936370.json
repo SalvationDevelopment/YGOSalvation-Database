@@ -1,1 +1,47 @@
-{"id":15936370,"ot":3,"alias":0,"setcode":0,"type":16777249,"atk":1500,"def":1500,"level":67371012,"race":8388608,"attribute":32,"category":0,"name":"Pandora's Jewelry Box","desc":"Pendulum Effect\nWhile you have no cards in your Extra Deck: You can target 1 card in your opponent's Pendulum Zone; destroy it, and if you do, place this card in your opponent's Pendulum Zone.\n\nMonster Effect\nWhile you have no cards in your Extra Deck, draw 2 cards instead of 1 for your normal draw during your Draw Phase.","str1":"Change Opponent's Pendulum Zone","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":15936370,"pack_id":"INOV-JP034","pack":"INOV","rarity":"Pandora's Jewelry Box","date":1468022400000},"tcg":{"id":15936370,"pack_id":"INOV-EN034","pack":"INOV","rarity":"Pandora's Jewelry Box","date":1478131200000}}
+{
+    "id": 15936370,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 16777249,
+    "atk": 1500,
+    "def": 1500,
+    "level": 67371012,
+    "race": 8388608,
+    "attribute": 32,
+    "category": 0,
+    "name": "Pandora's Jewelry Box",
+    "desc": "Pendulum Effect\nWhile you have no cards in your Extra Deck: You can target 1 card in your opponent's Pendulum Zone; destroy it, and if you do, place this card in your opponent's Pendulum Zone.\n\nMonster Effect\nWhile you have no cards in your Extra Deck, draw 2 cards instead of 1 for your normal draw during your Draw Phase.",
+    "str1": "Change Opponent's Pendulum Zone",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 15936370,
+        "pack_id": "INOV-JP034",
+        "pack": "INOV",
+        "rarity": "Pandora's Jewelry Box",
+        "date": 1468022400000
+    },
+    "tcg": {
+        "id": 15936370,
+        "pack_id": "INOV-EN034",
+        "pack": "INOV",
+        "rarity": "Pandora's Jewelry Box",
+        "date": 1478131200000
+    }
+}

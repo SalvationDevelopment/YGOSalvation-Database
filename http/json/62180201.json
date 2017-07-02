@@ -1,1 +1,47 @@
-{"id":62180201,"ot":3,"alias":0,"setcode":0,"type":33,"atk":4000,"def":4000,"level":10,"race":8,"attribute":32,"category":8192,"name":"The Wicked Dreadroot","desc":"This card cannot be Special Summoned. This card cannot be Normal Summoned or Set except by Tributing 3 monsters. Halve the ATK and DEF of all monsters on the field, except this card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":62180201,"pack_id":"VJC-JP009","pack":"VJC","rarity":"The Wicked Dreadroot","date":1114041600000},"tcg":{"id":62180201,"pack_id":"JUMP-EN018","pack":"JUMP","rarity":"The Wicked Dreadroot","date":1282780800000}}
+{
+    "id": 62180201,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 4000,
+    "def": 4000,
+    "level": 10,
+    "race": 8,
+    "attribute": 32,
+    "category": 8192,
+    "name": "The Wicked Dreadroot",
+    "desc": "This card cannot be Special Summoned. This card cannot be Normal Summoned or Set except by Tributing 3 monsters. Halve the ATK and DEF of all monsters on the field, except this card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 62180201,
+        "pack_id": "VJC-JP009",
+        "pack": "VJC",
+        "rarity": "The Wicked Dreadroot",
+        "date": 1114041600000
+    },
+    "tcg": {
+        "id": 62180201,
+        "pack_id": "JUMP-EN018",
+        "pack": "JUMP",
+        "rarity": "The Wicked Dreadroot",
+        "date": 1282780800000
+    }
+}

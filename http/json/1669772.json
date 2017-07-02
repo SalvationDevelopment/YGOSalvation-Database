@@ -1,1 +1,47 @@
-{"id":1669772,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1,"name":"Spell Purification","desc":"Discard 1 card from your hand. Destroy all face-up Continuous Spell Cards.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":1669772,"pack_id":"EE3-JP118","pack":"Expert Edition Volume 3","rarity":"共通","date":1134018000000},"tcg":{"id":1669772,"pack_id":"RDS-EN058","pack":"Rise Of Destiny","rarity":"Common","date":1101877200000}}
+{
+    "id": 1669772,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1,
+    "name": "Spell Purification",
+    "desc": "Discard 1 card from your hand. Destroy all face-up Continuous Spell Cards.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 1669772,
+        "pack_id": "EE3-JP118",
+        "pack": "Expert Edition Volume 3",
+        "rarity": "共通",
+        "date": 1134018000000
+    },
+    "tcg": {
+        "id": 1669772,
+        "pack_id": "RDS-EN058",
+        "pack": "Rise Of Destiny",
+        "rarity": "Common",
+        "date": 1101877200000
+    }
+}

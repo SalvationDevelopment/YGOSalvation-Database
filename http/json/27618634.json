@@ -1,1 +1,47 @@
-{"id":27618634,"ot":3,"alias":0,"setcode":0,"type":33,"atk":400,"def":300,"level":2,"race":2,"attribute":16,"category":65536,"name":"The Unhappy Girl","desc":"While this card is in face-up Attack Position on the field, this card is not destroyed as a result of battle. (Damage calculation is applied normally.) A monster that battled with this card cannot change its battle position, except with a card effect, or attack while this card is in face-up Attack Position on the field.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":27618634,"pack_id":"308-010","pack":"天空の聖域","rarity":"共通","date":1069304400000},"tcg":{"id":27618634,"pack_id":"AST-010","pack":"Ancient Sanctuary","rarity":"Common","date":1086066000000}}
+{
+    "id": 27618634,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 400,
+    "def": 300,
+    "level": 2,
+    "race": 2,
+    "attribute": 16,
+    "category": 65536,
+    "name": "The Unhappy Girl",
+    "desc": "While this card is in face-up Attack Position on the field, this card is not destroyed as a result of battle. (Damage calculation is applied normally.) A monster that battled with this card cannot change its battle position, except with a card effect, or attack while this card is in face-up Attack Position on the field.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 27618634,
+        "pack_id": "308-010",
+        "pack": "天空の聖域",
+        "rarity": "共通",
+        "date": 1069304400000
+    },
+    "tcg": {
+        "id": 27618634,
+        "pack_id": "AST-010",
+        "pack": "Ancient Sanctuary",
+        "rarity": "Common",
+        "date": 1086066000000
+    }
+}

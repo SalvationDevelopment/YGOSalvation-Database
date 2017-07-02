@@ -1,1 +1,47 @@
-{"id":9024367,"ot":3,"alias":0,"setcode":123,"type":33,"atk":2000,"def":1200,"level":4,"race":8192,"attribute":16,"category":0,"name":"Galaxy Dragon","desc":"This card cannot attack directly, and can only attack Dragon-Type monsters. If this card battles a Dragon-Type monster, this card gains 1000 ATK during the Damage Step only, also that monster has its effects negated during this Battle Phase, as long as this card remains face-up on the field.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":9024367,"pack_id":"VJMP-JP081","pack":"VJMP","rarity":"Galaxy Dragon","date":1379721600000},"tcg":{"id":9024367,"pack_id":"PRIO-EN098","pack":"PRIO","rarity":"Galaxy Dragon","date":1400198400000}}
+{
+    "id": 9024367,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 123,
+    "type": 33,
+    "atk": 2000,
+    "def": 1200,
+    "level": 4,
+    "race": 8192,
+    "attribute": 16,
+    "category": 0,
+    "name": "Galaxy Dragon",
+    "desc": "This card cannot attack directly, and can only attack Dragon-Type monsters. If this card battles a Dragon-Type monster, this card gains 1000 ATK during the Damage Step only, also that monster has its effects negated during this Battle Phase, as long as this card remains face-up on the field.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 9024367,
+        "pack_id": "VJMP-JP081",
+        "pack": "VJMP",
+        "rarity": "Galaxy Dragon",
+        "date": 1379721600000
+    },
+    "tcg": {
+        "id": 9024367,
+        "pack_id": "PRIO-EN098",
+        "pack": "PRIO",
+        "rarity": "Galaxy Dragon",
+        "date": 1400198400000
+    }
+}

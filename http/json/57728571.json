@@ -1,1 +1,47 @@
-{"id":57728571,"ot":3,"alias":57728570,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":2097226,"name":"Crush Card Virus","desc":"Tribute 1 DARK monster with 1000 or less ATK; your opponent takes no damage until the end of the next turn after this card resolves, also, you look at your opponent's hand and all monsters they control, and if you do, destroy the monsters among them with 1500 or more ATK, then your opponent can destroy up to 3 monsters with 1500 or more ATK in their Deck.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":57728571,"pack_id":"P5-03","pack":"P5","rarity":"Crush Card Virus","date":931392000000},"tcg":{"id":57728571,"pack_id":"SJCS-EN004","pack":"SJCS","rarity":"Crush Card Virus","date":1169856000000}}
+{
+    "id": 57728571,
+    "ot": 3,
+    "alias": 57728570,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 2097226,
+    "name": "Crush Card Virus",
+    "desc": "Tribute 1 DARK monster with 1000 or less ATK; your opponent takes no damage until the end of the next turn after this card resolves, also, you look at your opponent's hand and all monsters they control, and if you do, destroy the monsters among them with 1500 or more ATK, then your opponent can destroy up to 3 monsters with 1500 or more ATK in their Deck.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 57728571,
+        "pack_id": "P5-03",
+        "pack": "P5",
+        "rarity": "Crush Card Virus",
+        "date": 931392000000
+    },
+    "tcg": {
+        "id": 57728571,
+        "pack_id": "SJCS-EN004",
+        "pack": "SJCS",
+        "rarity": "Crush Card Virus",
+        "date": 1169856000000
+    }
+}

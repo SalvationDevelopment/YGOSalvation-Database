@@ -1,1 +1,47 @@
-{"id":18752707,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Magical Star Illusion","desc":"If your opponent controls a monster(s) and you control as many or fewer monsters: Monsters currently on the field gain ATK equal to the combined Levels of all monsters their controller currently controls x 100, until the end of this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":18752707,"pack_id":"NECH-JP058","pack":"NECH","rarity":"Magical Star Illusion","date":1405728000000},"tcg":{"id":18752707,"pack_id":"NECH-EN058","pack":"NECH","rarity":"Magical Star Illusion","date":1415232000000}}
+{
+    "id": 18752707,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Magical Star Illusion",
+    "desc": "If your opponent controls a monster(s) and you control as many or fewer monsters: Monsters currently on the field gain ATK equal to the combined Levels of all monsters their controller currently controls x 100, until the end of this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 18752707,
+        "pack_id": "NECH-JP058",
+        "pack": "NECH",
+        "rarity": "Magical Star Illusion",
+        "date": 1405728000000
+    },
+    "tcg": {
+        "id": 18752707,
+        "pack_id": "NECH-EN058",
+        "pack": "NECH",
+        "rarity": "Magical Star Illusion",
+        "date": 1415232000000
+    }
+}

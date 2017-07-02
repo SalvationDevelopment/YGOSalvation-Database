@@ -1,1 +1,47 @@
-{"id":2948263,"ot":3,"alias":0,"setcode":89,"type":33,"atk":-2,"def":1500,"level":4,"race":256,"attribute":1,"category":-2147213312,"name":"Gogogo Golem - Golden Form","desc":"Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Gogogo\" monster, and cannot be Special Summoned by other ways. This card's ATK becomes double the original ATK of the Tributed monster. Any battle damage your opponent takes from attacks involving this card is halved. Once per turn, during either player's turn, if a monster effect is activated on your opponent's side of the field: This card loses exactly 1500 ATK, and if it does, negate that effect.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":2948263,"pack_id":"DP14-JP005","pack":"DP14","rarity":"Gogogo Golem - Golden Form","date":1379721600000},"tcg":{"id":2948263,"pack_id":"SECE-EN090","pack":"SECE","rarity":"Gogogo Golem - Golden Form","date":1421280000000}}
+{
+    "id": 2948263,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 89,
+    "type": 33,
+    "atk": -2,
+    "def": 1500,
+    "level": 4,
+    "race": 256,
+    "attribute": 1,
+    "category": -2147213312,
+    "name": "Gogogo Golem - Golden Form",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Gogogo\" monster, and cannot be Special Summoned by other ways. This card's ATK becomes double the original ATK of the Tributed monster. Any battle damage your opponent takes from attacks involving this card is halved. Once per turn, during either player's turn, if a monster effect is activated on your opponent's side of the field: This card loses exactly 1500 ATK, and if it does, negate that effect.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 2948263,
+        "pack_id": "DP14-JP005",
+        "pack": "DP14",
+        "rarity": "Gogogo Golem - Golden Form",
+        "date": 1379721600000
+    },
+    "tcg": {
+        "id": 2948263,
+        "pack_id": "SECE-EN090",
+        "pack": "SECE",
+        "rarity": "Gogogo Golem - Golden Form",
+        "date": 1421280000000
+    }
+}

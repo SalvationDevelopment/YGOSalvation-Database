@@ -1,1 +1,47 @@
-{"id":17874674,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":-2147483648,"name":"Seal of Wickedness","desc":"Once per turn, during your opponent's Standby Phase, select 1 face-up card on the field. The selected card's effect(s) is negated during that turn. During each of your Standby Phases, pay 500 Life Points or destroy this card.","str1":"Select a card","str2":"Pay 500LP?","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":17874674,"pack_id":"SOVR-JP079","pack":"SOVR","rarity":"Seal of Wickedness","date":1247875200000},"tcg":{"id":17874674,"pack_id":"SOVR-EN079","pack":"SOVR","rarity":"Seal of Wickedness","date":1258416000000}}
+{
+    "id": 17874674,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": -2147483648,
+    "name": "Seal of Wickedness",
+    "desc": "Once per turn, during your opponent's Standby Phase, select 1 face-up card on the field. The selected card's effect(s) is negated during that turn. During each of your Standby Phases, pay 500 Life Points or destroy this card.",
+    "str1": "Select a card",
+    "str2": "Pay 500LP?",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 17874674,
+        "pack_id": "SOVR-JP079",
+        "pack": "SOVR",
+        "rarity": "Seal of Wickedness",
+        "date": 1247875200000
+    },
+    "tcg": {
+        "id": 17874674,
+        "pack_id": "SOVR-EN079",
+        "pack": "SOVR",
+        "rarity": "Seal of Wickedness",
+        "date": 1258416000000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":77585514,"ot":3,"alias":77585513,"setcode":188,"type":33,"atk":2400,"def":1500,"level":6,"race":32,"attribute":32,"category":-2147483648,"name":"Jinzo","desc":"Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":77585514,"pack_id":"CA-00","pack":"CA","rarity":"Jinzo","date":970099200000},"tcg":{"id":77585514,"pack_id":"PSV-000","pack":"PSV","rarity":"Jinzo","date":1035072000000}}
+{
+    "id": 77585514,
+    "ot": 3,
+    "alias": 77585513,
+    "setcode": 188,
+    "type": 33,
+    "atk": 2400,
+    "def": 1500,
+    "level": 6,
+    "race": 32,
+    "attribute": 32,
+    "category": -2147483648,
+    "name": "Jinzo",
+    "desc": "Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 77585514,
+        "pack_id": "CA-00",
+        "pack": "CA",
+        "rarity": "Jinzo",
+        "date": 970099200000
+    },
+    "tcg": {
+        "id": 77585514,
+        "pack_id": "PSV-000",
+        "pack": "PSV",
+        "rarity": "Jinzo",
+        "date": 1035072000000
+    }
+}

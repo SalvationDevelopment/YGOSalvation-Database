@@ -1,1 +1,47 @@
-{"id":66457407,"ot":3,"alias":0,"setcode":0,"type":4129,"atk":0,"def":0,"level":1,"race":1024,"attribute":8,"category":0,"name":"Copy Plant","desc":"Once per turn: You can target 1 other Plant-Type monster on the field that has a Level; this card's Level becomes that monster's current Level, until the end of this turn.","str1":"Change level","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":66457407,"pack_id":"CSOC-JP005","pack":"CSOC","rarity":"Copy Plant","date":1344643200000},"tcg":{"id":66457407,"pack_id":"CSOC-EN005","pack":"CSOC","rarity":"Copy Plant","date":1225497600000}}
+{
+    "id": 66457407,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4129,
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": 1024,
+    "attribute": 8,
+    "category": 0,
+    "name": "Copy Plant",
+    "desc": "Once per turn: You can target 1 other Plant-Type monster on the field that has a Level; this card's Level becomes that monster's current Level, until the end of this turn.",
+    "str1": "Change level",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 66457407,
+        "pack_id": "CSOC-JP005",
+        "pack": "CSOC",
+        "rarity": "Copy Plant",
+        "date": 1344643200000
+    },
+    "tcg": {
+        "id": 66457407,
+        "pack_id": "CSOC-EN005",
+        "pack": "CSOC",
+        "rarity": "Copy Plant",
+        "date": 1225497600000
+    }
+}

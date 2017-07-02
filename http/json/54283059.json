@@ -1,1 +1,47 @@
-{"id":54283059,"ot":3,"alias":0,"setcode":70,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":268698656,"name":"Parallel World Fusion","desc":"Fusion Summon 1 \"Elemental HERO\" Fusion Monster from your Extra Deck, by shuffling your banished Fusion Materials listed on it into your Deck. You cannot Special Summon monsters except by this card's effect, during the turn you activate this card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":54283059,"pack_id":"PP12-JP008","pack":"PP12","rarity":"Parallel World Fusion","date":1269043200000},"tcg":{"id":54283059,"pack_id":"LC02-EN011","pack":"LC02","rarity":"Parallel World Fusion","date":1317686400000}}
+{
+    "id": 54283059,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 70,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 268698656,
+    "name": "Parallel World Fusion",
+    "desc": "Fusion Summon 1 \"Elemental HERO\" Fusion Monster from your Extra Deck, by shuffling your banished Fusion Materials listed on it into your Deck. You cannot Special Summon monsters except by this card's effect, during the turn you activate this card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 54283059,
+        "pack_id": "PP12-JP008",
+        "pack": "PP12",
+        "rarity": "Parallel World Fusion",
+        "date": 1269043200000
+    },
+    "tcg": {
+        "id": 54283059,
+        "pack_id": "LC02-EN011",
+        "pack": "LC02",
+        "rarity": "Parallel World Fusion",
+        "date": 1317686400000
+    }
+}

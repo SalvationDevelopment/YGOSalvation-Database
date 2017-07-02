@@ -1,1 +1,47 @@
-{"id":56768355,"ot":3,"alias":0,"setcode":48,"type":8225,"atk":2200,"def":1100,"level":9,"race":32,"attribute":16,"category":16778240,"name":"Vylon Alpha","desc":"1 \"Vylon\" Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: You can target 1 Equip Spell Card in your Graveyard; equip that target to this card. While this card is equipped with an Equip Card, it cannot be destroyed by Spell/Trap effects, except for Equip Cards.","str1":"Equip","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":56768355,"pack_id":"DT11-JP038","pack":"DT11","rarity":"Vylon Alpha","date":1361836800000},"tcg":{"id":56768355,"pack_id":"DT06-EN038","pack":"DT06","rarity":"Vylon Alpha","date":1328227200000}}
+{
+    "id": 56768355,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 48,
+    "type": 8225,
+    "atk": 2200,
+    "def": 1100,
+    "level": 9,
+    "race": 32,
+    "attribute": 16,
+    "category": 16778240,
+    "name": "Vylon Alpha",
+    "desc": "1 \"Vylon\" Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: You can target 1 Equip Spell Card in your Graveyard; equip that target to this card. While this card is equipped with an Equip Card, it cannot be destroyed by Spell/Trap effects, except for Equip Cards.",
+    "str1": "Equip",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 56768355,
+        "pack_id": "DT11-JP038",
+        "pack": "DT11",
+        "rarity": "Vylon Alpha",
+        "date": 1361836800000
+    },
+    "tcg": {
+        "id": 56768355,
+        "pack_id": "DT06-EN038",
+        "pack": "DT06",
+        "rarity": "Vylon Alpha",
+        "date": 1328227200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":11390349,"ot":3,"alias":0,"setcode":42,"type":33,"atk":800,"def":1500,"level":3,"race":2048,"attribute":1,"category":12288,"name":"Naturia Fruitfly","desc":"All face-up monsters your opponent controls lose 300 ATK and DEF for each face-up \"Naturia\" monster you control. Once per turn, you can select 1 face-up monster your opponent controls with 0 DEF, and take control of it until the End Phase.","str1":"Take control","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":11390349,"pack_id":"DT06-JP021","pack":"DT06","rarity":"Naturia Fruitfly","date":1246406400000},"tcg":{"id":11390349,"pack_id":"DT03-EN071","pack":"DT03","rarity":"Naturia Fruitfly","date":1285372800000}}
+{
+    "id": 11390349,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 42,
+    "type": 33,
+    "atk": 800,
+    "def": 1500,
+    "level": 3,
+    "race": 2048,
+    "attribute": 1,
+    "category": 12288,
+    "name": "Naturia Fruitfly",
+    "desc": "All face-up monsters your opponent controls lose 300 ATK and DEF for each face-up \"Naturia\" monster you control. Once per turn, you can select 1 face-up monster your opponent controls with 0 DEF, and take control of it until the End Phase.",
+    "str1": "Take control",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 11390349,
+        "pack_id": "DT06-JP021",
+        "pack": "DT06",
+        "rarity": "Naturia Fruitfly",
+        "date": 1246406400000
+    },
+    "tcg": {
+        "id": 11390349,
+        "pack_id": "DT03-EN071",
+        "pack": "DT03",
+        "rarity": "Naturia Fruitfly",
+        "date": 1285372800000
+    }
+}

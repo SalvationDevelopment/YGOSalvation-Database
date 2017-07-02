@@ -1,1 +1,47 @@
-{"id":49959355,"ot":3,"alias":0,"setcode":0,"type":4129,"atk":1300,"def":0,"level":3,"race":16,"attribute":32,"category":0,"name":"Uni-Zombie","desc":"You can target 1 face-up monster on the field; discard 1 card, and if you do, increase that target's Level by 1. You can target 1 face-up monster on the field; monsters you control cannot attack for the rest of this turn, except Zombie-Type monsters, also send 1 Zombie-Type monster from your Deck to the Graveyard, and if you do, increase that target's Level by 1. You can only use each effect of \"Uni-Zombie\" once per turn.","str1":"Target 1 monster on the field; discard 1 card, and if you do, increase its Level by 1","str2":"You can target 1 monster on the field; send 1 Zombie-Type monster from your Deck to the Graveyard, and if you do, increase its Level by 1","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":49959355,"pack_id":"SECE-JP040","pack":"SECE","rarity":"Uni-Zombie","date":1416009600000},"tcg":{"id":49959355,"pack_id":"SECE-EN040","pack":"SECE","rarity":"Uni-Zombie","date":1421280000000}}
+{
+    "id": 49959355,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4129,
+    "atk": 1300,
+    "def": 0,
+    "level": 3,
+    "race": 16,
+    "attribute": 32,
+    "category": 0,
+    "name": "Uni-Zombie",
+    "desc": "You can target 1 face-up monster on the field; discard 1 card, and if you do, increase that target's Level by 1. You can target 1 face-up monster on the field; monsters you control cannot attack for the rest of this turn, except Zombie-Type monsters, also send 1 Zombie-Type monster from your Deck to the Graveyard, and if you do, increase that target's Level by 1. You can only use each effect of \"Uni-Zombie\" once per turn.",
+    "str1": "Target 1 monster on the field; discard 1 card, and if you do, increase its Level by 1",
+    "str2": "You can target 1 monster on the field; send 1 Zombie-Type monster from your Deck to the Graveyard, and if you do, increase its Level by 1",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 49959355,
+        "pack_id": "SECE-JP040",
+        "pack": "SECE",
+        "rarity": "Uni-Zombie",
+        "date": 1416009600000
+    },
+    "tcg": {
+        "id": 49959355,
+        "pack_id": "SECE-EN040",
+        "pack": "SECE",
+        "rarity": "Uni-Zombie",
+        "date": 1421280000000
+    }
+}

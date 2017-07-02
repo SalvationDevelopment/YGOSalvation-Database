@@ -1,1 +1,47 @@
-{"id":1498130,"ot":3,"alias":0,"setcode":61,"type":4129,"atk":400,"def":1800,"level":2,"race":1,"attribute":1,"category":33554432,"name":"Kagemusha of the Six Samurai","desc":"During either player's turn, when exactly 1 face-up \"Six Samurai\" monster you control is targeted by a Spell Card, Trap Card, or card effect that could have targeted this card: You can activate this effect; that Spell/Trap/effect now targets this face-up card on the field, instead.","str1":"Target this card","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":1498130,"pack_id":"STOR-JP025","pack":"STOR","rarity":"Kagemusha of the Six Samurai","date":1289606400000},"tcg":{"id":1498130,"pack_id":"STOR-EN025","pack":"STOR","rarity":"Kagemusha of the Six Samurai","date":1297123200000}}
+{
+    "id": 1498130,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 61,
+    "type": 4129,
+    "atk": 400,
+    "def": 1800,
+    "level": 2,
+    "race": 1,
+    "attribute": 1,
+    "category": 33554432,
+    "name": "Kagemusha of the Six Samurai",
+    "desc": "During either player's turn, when exactly 1 face-up \"Six Samurai\" monster you control is targeted by a Spell Card, Trap Card, or card effect that could have targeted this card: You can activate this effect; that Spell/Trap/effect now targets this face-up card on the field, instead.",
+    "str1": "Target this card",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 1498130,
+        "pack_id": "STOR-JP025",
+        "pack": "STOR",
+        "rarity": "Kagemusha of the Six Samurai",
+        "date": 1289606400000
+    },
+    "tcg": {
+        "id": 1498130,
+        "pack_id": "STOR-EN025",
+        "pack": "STOR",
+        "rarity": "Kagemusha of the Six Samurai",
+        "date": 1297123200000
+    }
+}

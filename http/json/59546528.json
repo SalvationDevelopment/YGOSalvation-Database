@@ -1,1 +1,47 @@
-{"id":59546528,"ot":3,"alias":0,"setcode":47,"type":33,"atk":1700,"def":900,"level":4,"race":2,"attribute":2,"category":16,"name":"Dance Princess of the Ice Barrier","desc":"Once per turn, if you control another face-up \"Ice Barrier\" monster, you can reveal any number of \"Ice Barrier\" monsters in your hand to select an equal number of Set Spell/Trap cards your opponent controls. Return the selected Set Spell/Trap cards your opponent controls to the hand.","str1":"Return to hand","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":59546528,"pack_id":"STBL-JP033","pack":"STBL","rarity":"Dance Princess of the Ice Barrier","date":1279324800000},"tcg":{"id":59546528,"pack_id":"STBL-EN033","pack":"STBL","rarity":"Dance Princess of the Ice Barrier","date":1289001600000}}
+{
+    "id": 59546528,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 47,
+    "type": 33,
+    "atk": 1700,
+    "def": 900,
+    "level": 4,
+    "race": 2,
+    "attribute": 2,
+    "category": 16,
+    "name": "Dance Princess of the Ice Barrier",
+    "desc": "Once per turn, if you control another face-up \"Ice Barrier\" monster, you can reveal any number of \"Ice Barrier\" monsters in your hand to select an equal number of Set Spell/Trap cards your opponent controls. Return the selected Set Spell/Trap cards your opponent controls to the hand.",
+    "str1": "Return to hand",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 59546528,
+        "pack_id": "STBL-JP033",
+        "pack": "STBL",
+        "rarity": "Dance Princess of the Ice Barrier",
+        "date": 1279324800000
+    },
+    "tcg": {
+        "id": 59546528,
+        "pack_id": "STBL-EN033",
+        "pack": "STBL",
+        "rarity": "Dance Princess of the Ice Barrier",
+        "date": 1289001600000
+    }
+}

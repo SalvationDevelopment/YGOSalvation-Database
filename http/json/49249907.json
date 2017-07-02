@@ -1,1 +1,47 @@
-{"id":49249907,"ot":3,"alias":0,"setcode":179,"type":33,"atk":2000,"def":100,"level":6,"race":16384,"attribute":8,"category":0,"name":"Yosenju Magat","desc":"If this card is Normal Summoned: You can Special Summon 1 \"Yosenju\" monster from your Deck, except \"Yosenju Magat\". During the End Phase, if this card was Special Summoned this turn: Return it to the hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":49249907,"pack_id":"SECE-JP026","pack":"SECE","rarity":"Yosenju Magat","date":1416009600000},"tcg":{"id":49249907,"pack_id":"SECE-EN026","pack":"SECE","rarity":"Yosenju Magat","date":1421280000000}}
+{
+    "id": 49249907,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 179,
+    "type": 33,
+    "atk": 2000,
+    "def": 100,
+    "level": 6,
+    "race": 16384,
+    "attribute": 8,
+    "category": 0,
+    "name": "Yosenju Magat",
+    "desc": "If this card is Normal Summoned: You can Special Summon 1 \"Yosenju\" monster from your Deck, except \"Yosenju Magat\". During the End Phase, if this card was Special Summoned this turn: Return it to the hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 49249907,
+        "pack_id": "SECE-JP026",
+        "pack": "SECE",
+        "rarity": "Yosenju Magat",
+        "date": 1416009600000
+    },
+    "tcg": {
+        "id": 49249907,
+        "pack_id": "SECE-EN026",
+        "pack": "SECE",
+        "rarity": "Yosenju Magat",
+        "date": 1421280000000
+    }
+}

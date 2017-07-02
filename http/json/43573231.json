@@ -1,1 +1,47 @@
-{"id":43573231,"ot":3,"alias":0,"setcode":106,"type":33,"atk":1200,"def":1600,"level":4,"race":1,"attribute":32,"category":8192,"name":"Morpho Butterspy","desc":"Once per turn, when the battle position of an opponent's monster(s) is changed (except during the Damage Step): You can target one of those monsters; it loses 1000 ATK and DEF.","str1":"攻守下降","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":43573231,"pack_id":"GAOV-JP012","pack":"GAOV","rarity":"Morpho Butterspy","date":1329523200000},"tcg":{"id":43573231,"pack_id":"GAOV-EN012","pack":"GAOV","rarity":"Morpho Butterspy","date":1335571200000}}
+{
+    "id": 43573231,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 106,
+    "type": 33,
+    "atk": 1200,
+    "def": 1600,
+    "level": 4,
+    "race": 1,
+    "attribute": 32,
+    "category": 8192,
+    "name": "Morpho Butterspy",
+    "desc": "Once per turn, when the battle position of an opponent's monster(s) is changed (except during the Damage Step): You can target one of those monsters; it loses 1000 ATK and DEF.",
+    "str1": "攻守下降",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 43573231,
+        "pack_id": "GAOV-JP012",
+        "pack": "GAOV",
+        "rarity": "Morpho Butterspy",
+        "date": 1329523200000
+    },
+    "tcg": {
+        "id": 43573231,
+        "pack_id": "GAOV-EN012",
+        "pack": "GAOV",
+        "rarity": "Morpho Butterspy",
+        "date": 1335571200000
+    }
+}

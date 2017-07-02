@@ -1,1 +1,47 @@
-{"id":80925836,"ot":3,"alias":0,"setcode":29,"type":33,"atk":1700,"def":800,"level":3,"race":8,"attribute":8,"category":-2144337912,"name":"Koa'ki Meiru Doom","desc":"During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Fiend-Type monster in your hand. Negate the effects of LIGHT and DARK monsters that activate during the Main Phase.","str1":"Send \"Iron Core of Koa'ki Meiru\" to the Graveyard","str2":"Reveal 1 Fiend-Type monster in your hand","str3":"Destroy｢Koa'ki Meiru Doom｣","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":80925836,"pack_id":"RGBT-JP026","pack":"RGBT","rarity":"Koa'ki Meiru Doom","date":1234569600000},"tcg":{"id":80925836,"pack_id":"RGBT-EN026","pack":"RGBT","rarity":"Koa'ki Meiru Doom","date":1241222400000}}
+{
+    "id": 80925836,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 29,
+    "type": 33,
+    "atk": 1700,
+    "def": 800,
+    "level": 3,
+    "race": 8,
+    "attribute": 8,
+    "category": -2144337912,
+    "name": "Koa'ki Meiru Doom",
+    "desc": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Fiend-Type monster in your hand. Negate the effects of LIGHT and DARK monsters that activate during the Main Phase.",
+    "str1": "Send \"Iron Core of Koa'ki Meiru\" to the Graveyard",
+    "str2": "Reveal 1 Fiend-Type monster in your hand",
+    "str3": "Destroy｢Koa'ki Meiru Doom｣",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 80925836,
+        "pack_id": "RGBT-JP026",
+        "pack": "RGBT",
+        "rarity": "Koa'ki Meiru Doom",
+        "date": 1234569600000
+    },
+    "tcg": {
+        "id": 80925836,
+        "pack_id": "RGBT-EN026",
+        "pack": "RGBT",
+        "rarity": "Koa'ki Meiru Doom",
+        "date": 1241222400000
+    }
+}

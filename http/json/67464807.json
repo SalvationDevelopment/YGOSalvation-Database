@@ -1,1 +1,47 @@
-{"id":67464807,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4194304,"name":"Dora of Fate","desc":"You can only activate this card during your opponent's turn. Select 1 face-up monster on your opponent's side of the field. When you Normal Summon a monster that is 1 Level lower than the selected monster during your next turn, inflict damage to your opponent's Life Points equal to the Level of the selected monster x 500 points.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":67464807,"pack_id":"309-047","pack":"309","rarity":"Dora of Fate","date":1077753600000},"tcg":{"id":67464807,"pack_id":"AST-102","pack":"AST","rarity":"Dora of Fate","date":1086048000000}}
+{
+    "id": 67464807,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4194304,
+    "name": "Dora of Fate",
+    "desc": "You can only activate this card during your opponent's turn. Select 1 face-up monster on your opponent's side of the field. When you Normal Summon a monster that is 1 Level lower than the selected monster during your next turn, inflict damage to your opponent's Life Points equal to the Level of the selected monster x 500 points.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 67464807,
+        "pack_id": "309-047",
+        "pack": "309",
+        "rarity": "Dora of Fate",
+        "date": 1077753600000
+    },
+    "tcg": {
+        "id": 67464807,
+        "pack_id": "AST-102",
+        "pack": "AST",
+        "rarity": "Dora of Fate",
+        "date": 1086048000000
+    }
+}

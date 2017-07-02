@@ -1,1 +1,47 @@
-{"id":39402797,"ot":3,"alias":0,"setcode":0,"type":8225,"atk":3000,"def":2800,"level":10,"race":8192,"attribute":4,"category":32771,"name":"Trident Dragion","desc":"1 Dragon-Type Tuner + 1 or more non-Tuner Dragon-Type monsters\nMust be Synchro Summoned, and cannot be Special Summoned by other ways. When this card is Synchro Summoned: You can target up to 2 other cards you control; destroy those targets, and if you do, for each card destroyed, this card gains 1 additional attack during each Battle Phase this turn.","str1":"Destroy","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":39402797,"pack_id":"RGBT-JP043","pack":"RGBT","rarity":"Trident Dragion","date":1234569600000},"tcg":{"id":39402797,"pack_id":"RGBT-EN043","pack":"RGBT","rarity":"Trident Dragion","date":1241222400000}}
+{
+    "id": 39402797,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8225,
+    "atk": 3000,
+    "def": 2800,
+    "level": 10,
+    "race": 8192,
+    "attribute": 4,
+    "category": 32771,
+    "name": "Trident Dragion",
+    "desc": "1 Dragon-Type Tuner + 1 or more non-Tuner Dragon-Type monsters\nMust be Synchro Summoned, and cannot be Special Summoned by other ways. When this card is Synchro Summoned: You can target up to 2 other cards you control; destroy those targets, and if you do, for each card destroyed, this card gains 1 additional attack during each Battle Phase this turn.",
+    "str1": "Destroy",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 39402797,
+        "pack_id": "RGBT-JP043",
+        "pack": "RGBT",
+        "rarity": "Trident Dragion",
+        "date": 1234569600000
+    },
+    "tcg": {
+        "id": 39402797,
+        "pack_id": "RGBT-EN043",
+        "pack": "RGBT",
+        "rarity": "Trident Dragion",
+        "date": 1241222400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":51345461,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2450,"def":1700,"level":7,"race":1,"attribute":1,"category":8192,"name":"Sword Hunter","desc":"At the end of the Battle Phase, if this card destroyed a monster(s) by battle and sent it to the Graveyard this Battle Phase: Equip all those monsters from the Graveyard to this card as an Equip Spell Card(s) with this effect.\n● The equipped monster gains 200 ATK.","str1":"Equip","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":51345461,"pack_id":"TB-27","pack":"TB","rarity":"Sword Hunter","date":976752000000},"tcg":{"id":51345461,"pack_id":"PSV-077","pack":"PSV","rarity":"Sword Hunter","date":1035072000000}}
+{
+    "id": 51345461,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2450,
+    "def": 1700,
+    "level": 7,
+    "race": 1,
+    "attribute": 1,
+    "category": 8192,
+    "name": "Sword Hunter",
+    "desc": "At the end of the Battle Phase, if this card destroyed a monster(s) by battle and sent it to the Graveyard this Battle Phase: Equip all those monsters from the Graveyard to this card as an Equip Spell Card(s) with this effect.\n● The equipped monster gains 200 ATK.",
+    "str1": "Equip",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 51345461,
+        "pack_id": "TB-27",
+        "pack": "TB",
+        "rarity": "Sword Hunter",
+        "date": 976752000000
+    },
+    "tcg": {
+        "id": 51345461,
+        "pack_id": "PSV-077",
+        "pack": "PSV",
+        "rarity": "Sword Hunter",
+        "date": 1035072000000
+    }
+}

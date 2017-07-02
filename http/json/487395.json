@@ -1,1 +1,47 @@
-{"id":487395,"ot":3,"alias":0,"setcode":0,"type":4113,"atk":400,"def":1200,"level":1,"race":64,"attribute":2,"category":0,"name":"Water Spirit","desc":"This ancient water spirit haunts the glacial monoliths of Antarctica. It has the power to seep into the pores of any substance and chill it to the bone.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":487395,"pack_id":"YSD3-JP002","pack":"YSD3","rarity":"Water Spirit","date":1205539200000},"tcg":{"id":487395,"pack_id":"5DS1-EN002","pack":"5DS1","rarity":"Water Spirit","date":1217894400000}}
+{
+    "id": 487395,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4113,
+    "atk": 400,
+    "def": 1200,
+    "level": 1,
+    "race": 64,
+    "attribute": 2,
+    "category": 0,
+    "name": "Water Spirit",
+    "desc": "This ancient water spirit haunts the glacial monoliths of Antarctica. It has the power to seep into the pores of any substance and chill it to the bone.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 487395,
+        "pack_id": "YSD3-JP002",
+        "pack": "YSD3",
+        "rarity": "Water Spirit",
+        "date": 1205539200000
+    },
+    "tcg": {
+        "id": 487395,
+        "pack_id": "5DS1-EN002",
+        "pack": "5DS1",
+        "rarity": "Water Spirit",
+        "date": 1217894400000
+    }
+}

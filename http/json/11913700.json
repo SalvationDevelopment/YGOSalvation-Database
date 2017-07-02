@@ -1,1 +1,47 @@
-{"id":11913700,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262144,"name":"Instant Neo Space","desc":"Equip only to a Fusion Monster that lists \"Elemental HERO Neos\" as a Fusion Material Monster. It does not have to activate its effect during the End Phase to shuffle itself into the Extra Deck. If the equipped monster leaves the field: You can Special Summon 1 \"Elemental HERO Neos\" from your hand, Deck, or Graveyard.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":11913700,"pack_id":"PTDN-JP048","pack":"PTDN","rarity":"Instant Neo Space","date":1195776000000},"tcg":{"id":11913700,"pack_id":"PTDN-EN048","pack":"PTDN","rarity":"Instant Neo Space","date":1201305600000}}
+{
+    "id": 11913700,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262144,
+    "name": "Instant Neo Space",
+    "desc": "Equip only to a Fusion Monster that lists \"Elemental HERO Neos\" as a Fusion Material Monster. It does not have to activate its effect during the End Phase to shuffle itself into the Extra Deck. If the equipped monster leaves the field: You can Special Summon 1 \"Elemental HERO Neos\" from your hand, Deck, or Graveyard.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 11913700,
+        "pack_id": "PTDN-JP048",
+        "pack": "PTDN",
+        "rarity": "Instant Neo Space",
+        "date": 1195776000000
+    },
+    "tcg": {
+        "id": 11913700,
+        "pack_id": "PTDN-EN048",
+        "pack": "PTDN",
+        "rarity": "Instant Neo Space",
+        "date": 1201305600000
+    }
+}

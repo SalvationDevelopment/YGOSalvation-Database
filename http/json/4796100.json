@@ -1,1 +1,47 @@
-{"id":4796100,"ot":3,"alias":0,"setcode":27,"type":97,"atk":2100,"def":1800,"level":6,"race":16384,"attribute":8,"category":262144,"name":"Chimera the Flying Mythical Beast","desc":"\"Gazelle the King of Mythical Beasts\" + \"Berfomet\"\n(This card is always treated as a \"Phantom Beast\" card.)\nWhen this card is destroyed: You can target 1 \"Berfomet\" or 1 \"Gazelle the King of Mythical Beasts\" in your Graveyard; Special Summon that target.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":4796100,"pack_id":"G4-B2","pack":"G4","rarity":"Chimera the Flying Mythical Beast","date":977356800000},"tcg":{"id":4796100,"pack_id":"ABPF-EN092","pack":"ABPF","rarity":"Chimera the Flying Mythical Beast","date":1265932800000}}
+{
+    "id": 4796100,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 27,
+    "type": 97,
+    "atk": 2100,
+    "def": 1800,
+    "level": 6,
+    "race": 16384,
+    "attribute": 8,
+    "category": 262144,
+    "name": "Chimera the Flying Mythical Beast",
+    "desc": "\"Gazelle the King of Mythical Beasts\" + \"Berfomet\"\n(This card is always treated as a \"Phantom Beast\" card.)\nWhen this card is destroyed: You can target 1 \"Berfomet\" or 1 \"Gazelle the King of Mythical Beasts\" in your Graveyard; Special Summon that target.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 4796100,
+        "pack_id": "G4-B2",
+        "pack": "G4",
+        "rarity": "Chimera the Flying Mythical Beast",
+        "date": 977356800000
+    },
+    "tcg": {
+        "id": 4796100,
+        "pack_id": "ABPF-EN092",
+        "pack": "ABPF",
+        "rarity": "Chimera the Flying Mythical Beast",
+        "date": 1265932800000
+    }
+}

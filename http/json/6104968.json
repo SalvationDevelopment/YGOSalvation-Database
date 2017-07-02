@@ -1,1 +1,47 @@
-{"id":6104968,"ot":3,"alias":0,"setcode":0,"type":2097185,"atk":900,"def":600,"level":3,"race":16384,"attribute":1,"category":262144,"name":"Bubonic Vermin","desc":"FLIP: You can Special Summon 1 \"Bubonic Vermin\" from your Deck in face-down Defense Position. Then shuffle your Deck.","str1":"Special Summon","str2":"Special Summon 1 \"Bubonic Vermin\" from your Deck?","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":6104968,"pack_id":"TB-07","pack":"TB","rarity":"Bubonic Vermin","date":976752000000},"tcg":{"id":6104968,"pack_id":"PSV-057","pack":"PSV","rarity":"Bubonic Vermin","date":1035072000000}}
+{
+    "id": 6104968,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2097185,
+    "atk": 900,
+    "def": 600,
+    "level": 3,
+    "race": 16384,
+    "attribute": 1,
+    "category": 262144,
+    "name": "Bubonic Vermin",
+    "desc": "FLIP: You can Special Summon 1 \"Bubonic Vermin\" from your Deck in face-down Defense Position. Then shuffle your Deck.",
+    "str1": "Special Summon",
+    "str2": "Special Summon 1 \"Bubonic Vermin\" from your Deck?",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 6104968,
+        "pack_id": "TB-07",
+        "pack": "TB",
+        "rarity": "Bubonic Vermin",
+        "date": 976752000000
+    },
+    "tcg": {
+        "id": 6104968,
+        "pack_id": "PSV-057",
+        "pack": "PSV",
+        "rarity": "Bubonic Vermin",
+        "date": 1035072000000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":3056267,"ot":3,"alias":0,"setcode":0,"type":2097185,"atk":1350,"def":1700,"level":4,"race":1,"attribute":1,"category":4096,"name":"Invader of the Throne","desc":"FLIP: Select 1 monster on your opponent's side of the field and switch control of it with this card. This effect cannot be activated during the Battle Phase.","str1":"コントロールを入れ替える","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":3056267,"pack_id":"MR-26","pack":"MR","rarity":"Invader of the Throne","date":956188800000},"tcg":{"id":3056267,"pack_id":"MRL-026","pack":"MRL","rarity":"Invader of the Throne","date":1032134400000}}
+{
+    "id": 3056267,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2097185,
+    "atk": 1350,
+    "def": 1700,
+    "level": 4,
+    "race": 1,
+    "attribute": 1,
+    "category": 4096,
+    "name": "Invader of the Throne",
+    "desc": "FLIP: Select 1 monster on your opponent's side of the field and switch control of it with this card. This effect cannot be activated during the Battle Phase.",
+    "str1": "コントロールを入れ替える",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 3056267,
+        "pack_id": "MR-26",
+        "pack": "MR",
+        "rarity": "Invader of the Throne",
+        "date": 956188800000
+    },
+    "tcg": {
+        "id": 3056267,
+        "pack_id": "MRL-026",
+        "pack": "MRL",
+        "rarity": "Invader of the Throne",
+        "date": 1032134400000
+    }
+}

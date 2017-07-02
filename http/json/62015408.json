@@ -1,1 +1,47 @@
-{"id":62015408,"ot":3,"alias":0,"setcode":0,"type":4129,"atk":0,"def":1800,"level":3,"race":16,"attribute":32,"category":0,"name":"Ghost Reaper & Winter Cherries","desc":"During either player's turn, if your opponent controls more monsters than you do: You can discard this card; reveal 1 card in your Extra Deck, then look at your opponent's Extra Deck, also banish all cards in their Extra Deck with the same name as that revealed card. You can only use this effect of \"Ghost Reaper & Winter Cherries\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":62015408,"pack_id":"SHVI-JP040","pack":"SHVI","rarity":"Ghost Reaper & Winter Cherries","date":1452297600000},"tcg":{"id":62015408,"pack_id":"SHVI-EN040","pack":"SHVI","rarity":"Ghost Reaper & Winter Cherries","date":1462406400000}}
+{
+    "id": 62015408,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4129,
+    "atk": 0,
+    "def": 1800,
+    "level": 3,
+    "race": 16,
+    "attribute": 32,
+    "category": 0,
+    "name": "Ghost Reaper & Winter Cherries",
+    "desc": "During either player's turn, if your opponent controls more monsters than you do: You can discard this card; reveal 1 card in your Extra Deck, then look at your opponent's Extra Deck, also banish all cards in their Extra Deck with the same name as that revealed card. You can only use this effect of \"Ghost Reaper & Winter Cherries\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 62015408,
+        "pack_id": "SHVI-JP040",
+        "pack": "SHVI",
+        "rarity": "Ghost Reaper & Winter Cherries",
+        "date": 1452297600000
+    },
+    "tcg": {
+        "id": 62015408,
+        "pack_id": "SHVI-EN040",
+        "pack": "SHVI",
+        "rarity": "Ghost Reaper & Winter Cherries",
+        "date": 1462406400000
+    }
+}

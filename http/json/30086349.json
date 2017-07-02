@@ -1,1 +1,47 @@
-{"id":30086349,"ot":3,"alias":0,"setcode":260,"type":97,"atk":3500,"def":2000,"level":8,"race":8192,"attribute":32,"category":0,"name":"Meteor Black Comet Dragon","desc":"1 Level 7 \"Red-Eyes\" monster + 1 Level 6 Dragon-Type monster\nIf this card is Fusion Summoned: You can send 1 \"Red-Eyes\" monster from your hand or Deck to the Graveyard, and if you do, inflict damage to your opponent equal to half the original ATK of that monster. If this card is sent from the Monster Zone to the Graveyard: You can target 1 Normal Monster in your Graveyard; Special Summon it.","str1":"Inflict damage to opponent","str2":"Special Summon","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":30086349,"pack_id":"INOV-JP041","pack":"INOV","rarity":"Meteor Black Comet Dragon","date":1468022400000},"tcg":{"id":30086349,"pack_id":"INOV-EN041","pack":"INOV","rarity":"Meteor Black Comet Dragon","date":1478131200000}}
+{
+    "id": 30086349,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 260,
+    "type": 97,
+    "atk": 3500,
+    "def": 2000,
+    "level": 8,
+    "race": 8192,
+    "attribute": 32,
+    "category": 0,
+    "name": "Meteor Black Comet Dragon",
+    "desc": "1 Level 7 \"Red-Eyes\" monster + 1 Level 6 Dragon-Type monster\nIf this card is Fusion Summoned: You can send 1 \"Red-Eyes\" monster from your hand or Deck to the Graveyard, and if you do, inflict damage to your opponent equal to half the original ATK of that monster. If this card is sent from the Monster Zone to the Graveyard: You can target 1 Normal Monster in your Graveyard; Special Summon it.",
+    "str1": "Inflict damage to opponent",
+    "str2": "Special Summon",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 30086349,
+        "pack_id": "INOV-JP041",
+        "pack": "INOV",
+        "rarity": "Meteor Black Comet Dragon",
+        "date": 1468022400000
+    },
+    "tcg": {
+        "id": 30086349,
+        "pack_id": "INOV-EN041",
+        "pack": "INOV",
+        "rarity": "Meteor Black Comet Dragon",
+        "date": 1478131200000
+    }
+}

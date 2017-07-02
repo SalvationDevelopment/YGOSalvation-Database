@@ -1,1 +1,47 @@
-{"id":38837163,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1500,"def":1000,"level":6,"race":32768,"attribute":1,"category":1187848,"name":"Akz, the Pumer","desc":"This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 2 Beast-Warrior-Type monsters in your Graveyard. Once per turn, you can discard 1 Beast-Warrior-Type monster from your hand to activate 1 of the following effects: ● Double this card's ATK until the End Phase. ● This card can attack your opponent directly this turn.","str1":"Select effect","str2":"Double this card's ATK until the End Phase.","str3":"This card can attack your opponent directly this turn.","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":38837163,"pack_id":"EXP4-JP006","pack":"EXP4","rarity":"Akz, the Pumer","date":1316217600000},"tcg":{"id":38837163,"pack_id":"TSHD-EN085","pack":"TSHD","rarity":"Akz, the Pumer","date":1273190400000}}
+{
+    "id": 38837163,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1500,
+    "def": 1000,
+    "level": 6,
+    "race": 32768,
+    "attribute": 1,
+    "category": 1187848,
+    "name": "Akz, the Pumer",
+    "desc": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 2 Beast-Warrior-Type monsters in your Graveyard. Once per turn, you can discard 1 Beast-Warrior-Type monster from your hand to activate 1 of the following effects: ● Double this card's ATK until the End Phase. ● This card can attack your opponent directly this turn.",
+    "str1": "Select effect",
+    "str2": "Double this card's ATK until the End Phase.",
+    "str3": "This card can attack your opponent directly this turn.",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 38837163,
+        "pack_id": "EXP4-JP006",
+        "pack": "EXP4",
+        "rarity": "Akz, the Pumer",
+        "date": 1316217600000
+    },
+    "tcg": {
+        "id": 38837163,
+        "pack_id": "TSHD-EN085",
+        "pack": "TSHD",
+        "rarity": "Akz, the Pumer",
+        "date": 1273190400000
+    }
+}

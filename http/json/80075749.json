@@ -1,1 +1,47 @@
-{"id":80075749,"ot":3,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Bubble Illusion","desc":"You can only activate this card while there is a face-up \"Elemental Hero Bubbleman\" on your side of the field. During this turn, you can activate 1 Trap Card from your hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":80075749,"pack_id":"DP1-JP024","pack":"DP1","rarity":"Bubble Illusion","date":1129766400000},"tcg":{"id":80075749,"pack_id":"DP1-EN024","pack":"DP1","rarity":"Bubble Illusion","date":1139356800000}}
+{
+    "id": 80075749,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Bubble Illusion",
+    "desc": "You can only activate this card while there is a face-up \"Elemental Hero Bubbleman\" on your side of the field. During this turn, you can activate 1 Trap Card from your hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 80075749,
+        "pack_id": "DP1-JP024",
+        "pack": "DP1",
+        "rarity": "Bubble Illusion",
+        "date": 1129766400000
+    },
+    "tcg": {
+        "id": 80075749,
+        "pack_id": "DP1-EN024",
+        "pack": "DP1",
+        "rarity": "Bubble Illusion",
+        "date": 1139356800000
+    }
+}

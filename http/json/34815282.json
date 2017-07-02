@@ -1,1 +1,47 @@
-{"id":34815282,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8192,"name":"Miniaturize","desc":"Activate this card by targeting 1 face-up monster on the field with more than 1000 original ATK that has a Level; its Level is reduced by 1, also it loses 1000 ATK. When that monster leaves the field, destroy this card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":34815282,"pack_id":"YSD3-JP033","pack":"YSD3","rarity":"Miniaturize","date":1205539200000},"tcg":{"id":34815282,"pack_id":"5DS1-EN033","pack":"5DS1","rarity":"Miniaturize","date":1217894400000}}
+{
+    "id": 34815282,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8192,
+    "name": "Miniaturize",
+    "desc": "Activate this card by targeting 1 face-up monster on the field with more than 1000 original ATK that has a Level; its Level is reduced by 1, also it loses 1000 ATK. When that monster leaves the field, destroy this card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 34815282,
+        "pack_id": "YSD3-JP033",
+        "pack": "YSD3",
+        "rarity": "Miniaturize",
+        "date": 1205539200000
+    },
+    "tcg": {
+        "id": 34815282,
+        "pack_id": "5DS1-EN033",
+        "pack": "5DS1",
+        "rarity": "Miniaturize",
+        "date": 1217894400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":45801022,"ot":3,"alias":0,"setcode":14,"type":33,"atk":800,"def":100,"level":2,"race":4096,"attribute":16,"category":65536,"name":"Wattlemur","desc":"If this card in its owner's possession is destroyed by your opponent's card (either by battle or by card effect): Your opponent cannot conduct their Battle Phase during their next turn.","str1":"对方不能进行战斗阶段","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":45801022,"pack_id":"DREV-JP025","pack":"DREV","rarity":"Wattlemur","date":1271462400000},"tcg":{"id":45801022,"pack_id":"DREV-EN025","pack":"DREV","rarity":"Wattlemur","date":1281139200000}}
+{
+    "id": 45801022,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 14,
+    "type": 33,
+    "atk": 800,
+    "def": 100,
+    "level": 2,
+    "race": 4096,
+    "attribute": 16,
+    "category": 65536,
+    "name": "Wattlemur",
+    "desc": "If this card in its owner's possession is destroyed by your opponent's card (either by battle or by card effect): Your opponent cannot conduct their Battle Phase during their next turn.",
+    "str1": "对方不能进行战斗阶段",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 45801022,
+        "pack_id": "DREV-JP025",
+        "pack": "DREV",
+        "rarity": "Wattlemur",
+        "date": 1271462400000
+    },
+    "tcg": {
+        "id": 45801022,
+        "pack_id": "DREV-EN025",
+        "pack": "DREV",
+        "rarity": "Wattlemur",
+        "date": 1281139200000
+    }
+}

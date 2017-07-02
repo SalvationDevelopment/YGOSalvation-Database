@@ -1,1 +1,47 @@
-{"id":50485594,"ot":3,"alias":0,"setcode":0,"type":16777249,"atk":300,"def":100,"level":84213764,"race":16384,"attribute":1,"category":0,"name":"Rescue Hamster","desc":"Pendulum Effect\nYou can banish this card from your Pendulum Zone; add 2 face-up Pendulum Monster Cards with the same name from your Extra Deck to your hand. You can only use this effect of \"Rescue Hamster\" once per Duel.\n\nMonster Effect\nIf this card was Normal Summoned this turn and you have a face-up Level 5 or lower Pendulum Monster Card in your Extra Deck: You can Tribute this card; choose 1 face-up Level 5 or lower Pendulum Monster Card in your Extra Deck, and Special Summon 2 monsters from your Deck with the same name as that card, but they have their effects negated, also they are destroyed during the End Phase.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":50485594,"pack_id":"NECH-JP039","pack":"NECH","rarity":"Rescue Hamster","date":1405728000000},"tcg":{"id":50485594,"pack_id":"NECH-EN039","pack":"NECH","rarity":"Rescue Hamster","date":1415232000000}}
+{
+    "id": 50485594,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 16777249,
+    "atk": 300,
+    "def": 100,
+    "level": 84213764,
+    "race": 16384,
+    "attribute": 1,
+    "category": 0,
+    "name": "Rescue Hamster",
+    "desc": "Pendulum Effect\nYou can banish this card from your Pendulum Zone; add 2 face-up Pendulum Monster Cards with the same name from your Extra Deck to your hand. You can only use this effect of \"Rescue Hamster\" once per Duel.\n\nMonster Effect\nIf this card was Normal Summoned this turn and you have a face-up Level 5 or lower Pendulum Monster Card in your Extra Deck: You can Tribute this card; choose 1 face-up Level 5 or lower Pendulum Monster Card in your Extra Deck, and Special Summon 2 monsters from your Deck with the same name as that card, but they have their effects negated, also they are destroyed during the End Phase.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 50485594,
+        "pack_id": "NECH-JP039",
+        "pack": "NECH",
+        "rarity": "Rescue Hamster",
+        "date": 1405728000000
+    },
+    "tcg": {
+        "id": 50485594,
+        "pack_id": "NECH-EN039",
+        "pack": "NECH",
+        "rarity": "Rescue Hamster",
+        "date": 1415232000000
+    }
+}

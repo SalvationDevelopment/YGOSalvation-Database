@@ -1,1 +1,47 @@
-{"id":98280324,"ot":3,"alias":0,"setcode":169,"type":33,"atk":400,"def":800,"level":2,"race":4,"attribute":1,"category":0,"name":"Fluffal Sheep","desc":"If you control a \"Fluffal\" monster, except \"Fluffal Sheep\", you can Special Summon this card (from your hand). You can return 1 other \"Fluffal\" monster you control to the hand; Special Summon 1 \"Edge Imp\" monster from your hand or Graveyard. You can only use this effect of \"Fluffal Sheep\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":98280324,"pack_id":"CROS-JP011","pack":"CROS","rarity":"Fluffal Sheep","date":1423872000000},"tcg":{"id":98280324,"pack_id":"CROS-EN011","pack":"CROS","rarity":"Fluffal Sheep","date":1431561600000}}
+{
+    "id": 98280324,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 169,
+    "type": 33,
+    "atk": 400,
+    "def": 800,
+    "level": 2,
+    "race": 4,
+    "attribute": 1,
+    "category": 0,
+    "name": "Fluffal Sheep",
+    "desc": "If you control a \"Fluffal\" monster, except \"Fluffal Sheep\", you can Special Summon this card (from your hand). You can return 1 other \"Fluffal\" monster you control to the hand; Special Summon 1 \"Edge Imp\" monster from your hand or Graveyard. You can only use this effect of \"Fluffal Sheep\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 98280324,
+        "pack_id": "CROS-JP011",
+        "pack": "CROS",
+        "rarity": "Fluffal Sheep",
+        "date": 1423872000000
+    },
+    "tcg": {
+        "id": 98280324,
+        "pack_id": "CROS-EN011",
+        "pack": "CROS",
+        "rarity": "Fluffal Sheep",
+        "date": 1431561600000
+    }
+}

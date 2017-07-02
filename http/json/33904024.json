@@ -1,1 +1,47 @@
-{"id":33904024,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":256,"name":"Shard of Greed","desc":"Each time you draw a card(s) for your normal draw in your Draw Phase, place 1 Greed Counter on this card. You can send this card with 2 or more Greed Counters to the Graveyard; draw 2 cards.","str1":"Draw card","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":33904024,"pack_id":"PHSW-JP057","pack":"PHSW","rarity":"Shard of Greed","date":1310774400000},"tcg":{"id":33904024,"pack_id":"PHSW-EN057","pack":"PHSW","rarity":"Shard of Greed","date":1320883200000}}
+{
+    "id": 33904024,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 256,
+    "name": "Shard of Greed",
+    "desc": "Each time you draw a card(s) for your normal draw in your Draw Phase, place 1 Greed Counter on this card. You can send this card with 2 or more Greed Counters to the Graveyard; draw 2 cards.",
+    "str1": "Draw card",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 33904024,
+        "pack_id": "PHSW-JP057",
+        "pack": "PHSW",
+        "rarity": "Shard of Greed",
+        "date": 1310774400000
+    },
+    "tcg": {
+        "id": 33904024,
+        "pack_id": "PHSW-EN057",
+        "pack": "PHSW",
+        "rarity": "Shard of Greed",
+        "date": 1320883200000
+    }
+}

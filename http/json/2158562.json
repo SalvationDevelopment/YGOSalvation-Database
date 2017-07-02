@@ -1,1 +1,47 @@
-{"id":2158562,"ot":3,"alias":0,"setcode":147,"type":33,"atk":2300,"def":1600,"level":6,"race":1,"attribute":16,"category":1,"name":"Cyber Prima","desc":"If this card is Tribute Summoned: Destroy all face-up Spell Cards on the field.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":2158562,"pack_id":"EOJ-JP007","pack":"EOJ","rarity":"Cyber Prima","date":1140048000000},"tcg":{"id":2158562,"pack_id":"EOJ-EN007","pack":"EOJ","rarity":"Cyber Prima","date":1147824000000}}
+{
+    "id": 2158562,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 147,
+    "type": 33,
+    "atk": 2300,
+    "def": 1600,
+    "level": 6,
+    "race": 1,
+    "attribute": 16,
+    "category": 1,
+    "name": "Cyber Prima",
+    "desc": "If this card is Tribute Summoned: Destroy all face-up Spell Cards on the field.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 2158562,
+        "pack_id": "EOJ-JP007",
+        "pack": "EOJ",
+        "rarity": "Cyber Prima",
+        "date": 1140048000000
+    },
+    "tcg": {
+        "id": 2158562,
+        "pack_id": "EOJ-EN007",
+        "pack": "EOJ",
+        "rarity": "Cyber Prima",
+        "date": 1147824000000
+    }
+}

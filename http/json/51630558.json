@@ -1,1 +1,47 @@
-{"id":51630558,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":264,"name":"Advance Draw","desc":"Tribute 1 face-up Level 8 or higher monster you control; draw 2 cards.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":51630558,"pack_id":"ANPR-JP047","pack":"ANPR","rarity":"Advance Draw","date":1240012800000},"tcg":{"id":51630558,"pack_id":"ANPR-EN047","pack":"ANPR","rarity":"Advance Draw","date":1251763200000}}
+{
+    "id": 51630558,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 264,
+    "name": "Advance Draw",
+    "desc": "Tribute 1 face-up Level 8 or higher monster you control; draw 2 cards.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 51630558,
+        "pack_id": "ANPR-JP047",
+        "pack": "ANPR",
+        "rarity": "Advance Draw",
+        "date": 1240012800000
+    },
+    "tcg": {
+        "id": 51630558,
+        "pack_id": "ANPR-EN047",
+        "pack": "ANPR",
+        "rarity": "Advance Draw",
+        "date": 1251763200000
+    }
+}

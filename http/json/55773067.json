@@ -1,1 +1,47 @@
-{"id":55773067,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":72,"name":"Drop Off","desc":"When your opponent draws for their normal draw in their Draw Phase: Your opponent discards 1 card they just drew.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":55773067,"pack_id":"MA-49","pack":"MA","rarity":"Drop Off","date":1006992000000},"tcg":{"id":55773067,"pack_id":"LOD-097","pack":"LOD","rarity":"Drop Off","date":1054857600000}}
+{
+    "id": 55773067,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 72,
+    "name": "Drop Off",
+    "desc": "When your opponent draws for their normal draw in their Draw Phase: Your opponent discards 1 card they just drew.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 55773067,
+        "pack_id": "MA-49",
+        "pack": "MA",
+        "rarity": "Drop Off",
+        "date": 1006992000000
+    },
+    "tcg": {
+        "id": 55773067,
+        "pack_id": "LOD-097",
+        "pack": "LOD",
+        "rarity": "Drop Off",
+        "date": 1054857600000
+    }
+}

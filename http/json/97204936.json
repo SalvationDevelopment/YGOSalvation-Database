@@ -1,1 +1,47 @@
-{"id":97204936,"ot":3,"alias":0,"setcode":0,"type":8193,"atk":2600,"def":800,"level":6,"race":1,"attribute":1,"category":0,"name":"Gaia Knight, the Force of Earth","desc":"1 Tuner + 1 or more non-Tuner monsters","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":97204936,"pack_id":"YSD3-JP042","pack":"YSD3","rarity":"Gaia Knight, the Force of Earth","date":1205539200000},"tcg":{"id":97204936,"pack_id":"5DS1-EN042","pack":"5DS1","rarity":"Gaia Knight, the Force of Earth","date":1217894400000}}
+{
+    "id": 97204936,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8193,
+    "atk": 2600,
+    "def": 800,
+    "level": 6,
+    "race": 1,
+    "attribute": 1,
+    "category": 0,
+    "name": "Gaia Knight, the Force of Earth",
+    "desc": "1 Tuner + 1 or more non-Tuner monsters",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 97204936,
+        "pack_id": "YSD3-JP042",
+        "pack": "YSD3",
+        "rarity": "Gaia Knight, the Force of Earth",
+        "date": 1205539200000
+    },
+    "tcg": {
+        "id": 97204936,
+        "pack_id": "5DS1-EN042",
+        "pack": "5DS1",
+        "rarity": "Gaia Knight, the Force of Earth",
+        "date": 1217894400000
+    }
+}

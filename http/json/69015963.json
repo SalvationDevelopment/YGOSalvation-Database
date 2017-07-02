@@ -1,1 +1,47 @@
-{"id":69015963,"ot":3,"alias":0,"setcode":147,"type":33,"atk":700,"def":500,"level":2,"race":32,"attribute":32,"category":268697600,"name":"Cyber-Stein","desc":"Pay 5000 Life Points. Special Summon 1 Fusion Monster from your Extra Deck to the field in Attack Position.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":69015963,"pack_id":"BC-59","pack":"BC","rarity":"Cyber-Stein","date":944006400000},"tcg":{"id":69015963,"pack_id":"SJC-EN001","pack":"SJC","rarity":"Cyber-Stein","date":1102118400000}}
+{
+    "id": 69015963,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 147,
+    "type": 33,
+    "atk": 700,
+    "def": 500,
+    "level": 2,
+    "race": 32,
+    "attribute": 32,
+    "category": 268697600,
+    "name": "Cyber-Stein",
+    "desc": "Pay 5000 Life Points. Special Summon 1 Fusion Monster from your Extra Deck to the field in Attack Position.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 69015963,
+        "pack_id": "BC-59",
+        "pack": "BC",
+        "rarity": "Cyber-Stein",
+        "date": 944006400000
+    },
+    "tcg": {
+        "id": 69015963,
+        "pack_id": "SJC-EN001",
+        "pack": "SJC",
+        "rarity": "Cyber-Stein",
+        "date": 1102118400000
+    }
+}

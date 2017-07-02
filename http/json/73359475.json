@@ -1,1 +1,47 @@
-{"id":73359475,"ot":3,"alias":0,"setcode":4218,"type":33,"atk":1900,"def":300,"level":4,"race":1,"attribute":16,"category":0,"name":"Noble Knight Peredur","desc":"While equipped with a \"Noble Arms\" Equip Spell Card, this card becomes DARK and its Level is increased by 1. If this card is sent to the Graveyard while equipped with a \"Noble Arms\" Equip Spell Card: Target 1 \"Noble Arms\" card in your Graveyard; add that target to your hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":73359475,"pack_id":"EP14-JP026","pack":"EP14","rarity":"Noble Knight Peredur","date":1410566400000},"tcg":{"id":73359475,"pack_id":"LVAL-EN085","pack":"LVAL","rarity":"Noble Knight Peredur","date":1390521600000}}
+{
+    "id": 73359475,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4218,
+    "type": 33,
+    "atk": 1900,
+    "def": 300,
+    "level": 4,
+    "race": 1,
+    "attribute": 16,
+    "category": 0,
+    "name": "Noble Knight Peredur",
+    "desc": "While equipped with a \"Noble Arms\" Equip Spell Card, this card becomes DARK and its Level is increased by 1. If this card is sent to the Graveyard while equipped with a \"Noble Arms\" Equip Spell Card: Target 1 \"Noble Arms\" card in your Graveyard; add that target to your hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 73359475,
+        "pack_id": "EP14-JP026",
+        "pack": "EP14",
+        "rarity": "Noble Knight Peredur",
+        "date": 1410566400000
+    },
+    "tcg": {
+        "id": 73359475,
+        "pack_id": "LVAL-EN085",
+        "pack": "LVAL",
+        "rarity": "Noble Knight Peredur",
+        "date": 1390521600000
+    }
+}

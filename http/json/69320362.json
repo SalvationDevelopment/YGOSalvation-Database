@@ -1,1 +1,47 @@
-{"id":69320362,"ot":3,"alias":0,"setcode":88,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":2048,"name":"Legendary Wind-Up Key","desc":"Change all face-up \"Wind-Up\" monsters you control to face-down Defense Position.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":69320362,"pack_id":"GENF-JP053","pack":"GENF","rarity":"Legendary Wind-Up Key","date":1302912000000},"tcg":{"id":69320362,"pack_id":"GENF-EN053","pack":"GENF","rarity":"Legendary Wind-Up Key","date":1312588800000}}
+{
+    "id": 69320362,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 88,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 2048,
+    "name": "Legendary Wind-Up Key",
+    "desc": "Change all face-up \"Wind-Up\" monsters you control to face-down Defense Position.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 69320362,
+        "pack_id": "GENF-JP053",
+        "pack": "GENF",
+        "rarity": "Legendary Wind-Up Key",
+        "date": 1302912000000
+    },
+    "tcg": {
+        "id": 69320362,
+        "pack_id": "GENF-EN053",
+        "pack": "GENF",
+        "rarity": "Legendary Wind-Up Key",
+        "date": 1312588800000
+    }
+}

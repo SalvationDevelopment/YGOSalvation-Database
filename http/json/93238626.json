@@ -1,1 +1,47 @@
-{"id":93238626,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Don Thousand's Throne","desc":"During each of your opponent's End Phases: Gain Life Points equal to the number of times you took battle damage this turn x 500. When a \"Number\" monster you control is targeted for an attack, except \"Number C\" monsters: You can send this card to the Graveyard; negate the attack, then Special Summon from your Extra Deck, 1 \"Number C\" monster with the same number in its name as that \"Number\" monster you control, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to it also become Xyz Materials on the Summoned monster.) You can only control 1 \"Don Thousand's Throne\".","str1":"Activate Effect?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":93238626,"pack_id":"PRIO-JP059","pack":"PRIO","rarity":"Don Thousand's Throne","date":1392422400000},"tcg":{"id":93238626,"pack_id":"PRIO-EN059","pack":"PRIO","rarity":"Don Thousand's Throne","date":1400198400000}}
+{
+    "id": 93238626,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Don Thousand's Throne",
+    "desc": "During each of your opponent's End Phases: Gain Life Points equal to the number of times you took battle damage this turn x 500. When a \"Number\" monster you control is targeted for an attack, except \"Number C\" monsters: You can send this card to the Graveyard; negate the attack, then Special Summon from your Extra Deck, 1 \"Number C\" monster with the same number in its name as that \"Number\" monster you control, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to it also become Xyz Materials on the Summoned monster.) You can only control 1 \"Don Thousand's Throne\".",
+    "str1": "Activate Effect?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 93238626,
+        "pack_id": "PRIO-JP059",
+        "pack": "PRIO",
+        "rarity": "Don Thousand's Throne",
+        "date": 1392422400000
+    },
+    "tcg": {
+        "id": 93238626,
+        "pack_id": "PRIO-EN059",
+        "pack": "PRIO",
+        "rarity": "Don Thousand's Throne",
+        "date": 1400198400000
+    }
+}

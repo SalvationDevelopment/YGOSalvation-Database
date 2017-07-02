@@ -1,1 +1,47 @@
-{"id":71650854,"ot":3,"alias":0,"setcode":0,"type":524290,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Magical Mid-Breaker Field","desc":"Activate this card at the start of your Main Phase 1 or 2. During each player's Main Phase 1, monsters on the field cannot be destroyed by their opponent's card effects, also neither player can target monsters their opponent controls. You cannot activate or Set Field Spell Cards.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":71650854,"pack_id":"TDIL-JP067","pack":"TDIL","rarity":"Magical Mid-Breaker Field","date":1460160000000},"tcg":{"id":71650854,"pack_id":"TDIL-EN067","pack":"TDIL","rarity":"Magical Mid-Breaker Field","date":1470268800000}}
+{
+    "id": 71650854,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 524290,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Magical Mid-Breaker Field",
+    "desc": "Activate this card at the start of your Main Phase 1 or 2. During each player's Main Phase 1, monsters on the field cannot be destroyed by their opponent's card effects, also neither player can target monsters their opponent controls. You cannot activate or Set Field Spell Cards.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 71650854,
+        "pack_id": "TDIL-JP067",
+        "pack": "TDIL",
+        "rarity": "Magical Mid-Breaker Field",
+        "date": 1460160000000
+    },
+    "tcg": {
+        "id": 71650854,
+        "pack_id": "TDIL-EN067",
+        "pack": "TDIL",
+        "rarity": "Magical Mid-Breaker Field",
+        "date": 1470268800000
+    }
+}

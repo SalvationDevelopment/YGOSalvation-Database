@@ -1,1 +1,47 @@
-{"id":67237709,"ot":3,"alias":0,"setcode":13762560,"type":524290,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Kozmotown","desc":"Once per turn: You can target 1 of your banished \"Kozmo\" monsters; return it to the hand, and if you do, lose LP equal to its original Level x 100. Once per turn: You can reveal any number of \"Kozmo\" monsters in your hand and shuffle them into the Deck, then draw cards equal to the number of cards you shuffled into the Deck. If this card in the Field Zone is destroyed by a card effect: You can add 1 \"Kozmo\" card from your Deck to your hand.","str1":"Target 1 of your banished \"Kozmo\" monsters; return it to the hand.","str2":"Shuffle \"Kozmo\" monsters into your deck","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":67237709,"pack_id":"EP16-JP017","pack":"EP16","rarity":"Kozmotown","date":1473465600000},"tcg":{"id":67237709,"pack_id":"CORE-EN086","pack":"CORE","rarity":"Kozmotown","date":1438819200000}}
+{
+    "id": 67237709,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 13762560,
+    "type": 524290,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Kozmotown",
+    "desc": "Once per turn: You can target 1 of your banished \"Kozmo\" monsters; return it to the hand, and if you do, lose LP equal to its original Level x 100. Once per turn: You can reveal any number of \"Kozmo\" monsters in your hand and shuffle them into the Deck, then draw cards equal to the number of cards you shuffled into the Deck. If this card in the Field Zone is destroyed by a card effect: You can add 1 \"Kozmo\" card from your Deck to your hand.",
+    "str1": "Target 1 of your banished \"Kozmo\" monsters; return it to the hand.",
+    "str2": "Shuffle \"Kozmo\" monsters into your deck",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 67237709,
+        "pack_id": "EP16-JP017",
+        "pack": "EP16",
+        "rarity": "Kozmotown",
+        "date": 1473465600000
+    },
+    "tcg": {
+        "id": 67237709,
+        "pack_id": "CORE-EN086",
+        "pack": "CORE",
+        "rarity": "Kozmotown",
+        "date": 1438819200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":61231400,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2900,"def":1800,"level":8,"race":128,"attribute":4,"category":4210688,"name":"Pyrotech Mech - Shiryu","desc":"You can Normal Summon this card with 1 Tribute. If Summoned this way, during each End Phase: You take 1000 damage. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.","str1":"Normal Summon with 1 Tribute","str2":"Inflict damage","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":61231400,"pack_id":"CBLZ-JP041","pack":"ＣＯＳＭＯ　ＢＬＡＺＥＲ","rarity":"共通","date":null},"tcg":{"id":61231400,"pack_id":"CBLZ-EN041","pack":"CBLZ","rarity":"Pyrotech Mech - Shiryu","date":1359072000000}}
+{
+    "id": 61231400,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2900,
+    "def": 1800,
+    "level": 8,
+    "race": 128,
+    "attribute": 4,
+    "category": 4210688,
+    "name": "Pyrotech Mech - Shiryu",
+    "desc": "You can Normal Summon this card with 1 Tribute. If Summoned this way, during each End Phase: You take 1000 damage. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "str1": "Normal Summon with 1 Tribute",
+    "str2": "Inflict damage",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 61231400,
+        "pack_id": "CBLZ-JP041",
+        "pack": "ＣＯＳＭＯ　ＢＬＡＺＥＲ",
+        "rarity": "共通",
+        "date": null
+    },
+    "tcg": {
+        "id": 61231400,
+        "pack_id": "CBLZ-EN041",
+        "pack": "CBLZ",
+        "rarity": "Pyrotech Mech - Shiryu",
+        "date": 1359072000000
+    }
+}

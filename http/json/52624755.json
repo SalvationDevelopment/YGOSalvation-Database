@@ -1,1 +1,47 @@
-{"id":52624755,"ot":3,"alias":0,"setcode":0,"type":33,"atk":500,"def":1200,"level":3,"race":2,"attribute":32,"category":262144,"name":"Peten the Dark Clown","desc":"When this card is sent to your Graveyard: You can banish this card from your Graveyard; Special Summon 1 \"Peten the Dark Clown\" from your hand or Deck.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":52624755,"pack_id":"PP7-JP005","pack":"PP7","rarity":"Peten the Dark Clown","date":1091664000000},"tcg":{"id":52624755,"pack_id":"EP1-EN005","pack":"EP1","rarity":"Peten the Dark Clown","date":1091318400000}}
+{
+    "id": 52624755,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 500,
+    "def": 1200,
+    "level": 3,
+    "race": 2,
+    "attribute": 32,
+    "category": 262144,
+    "name": "Peten the Dark Clown",
+    "desc": "When this card is sent to your Graveyard: You can banish this card from your Graveyard; Special Summon 1 \"Peten the Dark Clown\" from your hand or Deck.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 52624755,
+        "pack_id": "PP7-JP005",
+        "pack": "PP7",
+        "rarity": "Peten the Dark Clown",
+        "date": 1091664000000
+    },
+    "tcg": {
+        "id": 52624755,
+        "pack_id": "EP1-EN005",
+        "pack": "EP1",
+        "rarity": "Peten the Dark Clown",
+        "date": 1091318400000
+    }
+}

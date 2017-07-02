@@ -1,1 +1,47 @@
-{"id":68406755,"ot":3,"alias":0,"setcode":6029538,"type":33,"atk":2500,"def":2500,"level":10,"race":256,"attribute":1,"category":0,"name":"Triamid Sphinx","desc":"Cannot be Normal Summoned/Set. Must be Special Summoned with the effect of a \"Triamid\" card, and cannot be Special Summoned by other ways. If a face-up \"Triamid\" card(s) you control, except \"Triamid Sphinx\", is destroyed by battle or card effect: You can Special Summon this card from your hand. While you control another \"Triamid\" card, this card gains 500 ATK and DEF for each Field Spell Card with a different name in your Graveyard, also monsters your opponent controls cannot attack, except to attack \"Triamid Sphinx\".","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":68406755,"pack_id":"TDIL-JP030","pack":"TDIL","rarity":"Triamid Sphinx","date":1460160000000},"tcg":{"id":68406755,"pack_id":"TDIL-EN030","pack":"TDIL","rarity":"Triamid Sphinx","date":1470268800000}}
+{
+    "id": 68406755,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 6029538,
+    "type": 33,
+    "atk": 2500,
+    "def": 2500,
+    "level": 10,
+    "race": 256,
+    "attribute": 1,
+    "category": 0,
+    "name": "Triamid Sphinx",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with the effect of a \"Triamid\" card, and cannot be Special Summoned by other ways. If a face-up \"Triamid\" card(s) you control, except \"Triamid Sphinx\", is destroyed by battle or card effect: You can Special Summon this card from your hand. While you control another \"Triamid\" card, this card gains 500 ATK and DEF for each Field Spell Card with a different name in your Graveyard, also monsters your opponent controls cannot attack, except to attack \"Triamid Sphinx\".",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 68406755,
+        "pack_id": "TDIL-JP030",
+        "pack": "TDIL",
+        "rarity": "Triamid Sphinx",
+        "date": 1460160000000
+    },
+    "tcg": {
+        "id": 68406755,
+        "pack_id": "TDIL-EN030",
+        "pack": "TDIL",
+        "rarity": "Triamid Sphinx",
+        "date": 1470268800000
+    }
+}

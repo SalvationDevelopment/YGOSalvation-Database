@@ -1,1 +1,47 @@
-{"id":47435107,"ot":1,"alias":0,"setcode":0,"type":130,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Primal Cry","desc":"This card is used to Ritual Summon \"Vennu, Bright Bird of Divinity\". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more. During your End Phase: You can banish this card from your Graveyard, then target 1 Ritual Monster in your Graveyard that was sent there from the field this turn; Special Summon it.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG","ocg":{"id":47435107,"pack_id":"DF16-JP010","pack":"DF16","rarity":"Primal Cry","date":1455148800000},"tcg":{"id":47435107,"pack_id":"MACR-EN098","pack":"MACR","rarity":"Primal Cry","date":1493856000000}}
+{
+    "id": 47435107,
+    "ot": 1,
+    "alias": 0,
+    "setcode": 0,
+    "type": 130,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Primal Cry",
+    "desc": "This card is used to Ritual Summon \"Vennu, Bright Bird of Divinity\". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more. During your End Phase: You can banish this card from your Graveyard, then target 1 Ritual Monster in your Graveyard that was sent there from the field this turn; Special Summon it.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG",
+    "ocg": {
+        "id": 47435107,
+        "pack_id": "DF16-JP010",
+        "pack": "DF16",
+        "rarity": "Primal Cry",
+        "date": 1455148800000
+    },
+    "tcg": {
+        "id": 47435107,
+        "pack_id": "MACR-EN098",
+        "pack": "MACR",
+        "rarity": "Primal Cry",
+        "date": 1493856000000
+    }
+}

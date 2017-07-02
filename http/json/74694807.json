@@ -1,1 +1,47 @@
-{"id":74694807,"ot":3,"alias":0,"setcode":70,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262148,"name":"Re-Fusion","desc":"Activate this card by paying 800 LP, then target 1 Fusion Monster in your Graveyard; Special Summon it and equip it with this card. When this card is destroyed, banish the equipped monster.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":74694807,"pack_id":"FET-JP047","pack":"FET","rarity":"Re-Fusion","date":1101340800000},"tcg":{"id":74694807,"pack_id":"FET-EN047","pack":"FET","rarity":"Re-Fusion","date":1109376000000}}
+{
+    "id": 74694807,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 70,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262148,
+    "name": "Re-Fusion",
+    "desc": "Activate this card by paying 800 LP, then target 1 Fusion Monster in your Graveyard; Special Summon it and equip it with this card. When this card is destroyed, banish the equipped monster.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 74694807,
+        "pack_id": "FET-JP047",
+        "pack": "FET",
+        "rarity": "Re-Fusion",
+        "date": 1101340800000
+    },
+    "tcg": {
+        "id": 74694807,
+        "pack_id": "FET-EN047",
+        "pack": "FET",
+        "rarity": "Re-Fusion",
+        "date": 1109376000000
+    }
+}

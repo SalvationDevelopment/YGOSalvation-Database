@@ -1,1 +1,47 @@
-{"id":23558733,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2200,"def":0,"level":8,"race":1024,"attribute":4,"category":4456454,"name":"Phoenixian Cluster Amaryllis","desc":"This card cannot be Special Summoned except with its own effect or with \"Phoenixian Seed\". If this card attacks, it is destroyed after damage calculation. If this card you control is destroyed and sent to the Graveyard, inflict 800 damage to your opponent. During your End Phase, you can remove from play 1 Plant-Type monster from your Graveyard to Special Summon this card from your Graveyard in Defense Position.","str1":"对于对方800伤害","str2":"Special Summon","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":23558733,"pack_id":"RGBT-JP006","pack":"RGBT","rarity":"Phoenixian Cluster Amaryllis","date":1234569600000},"tcg":{"id":23558733,"pack_id":"RGBT-EN006","pack":"RGBT","rarity":"Phoenixian Cluster Amaryllis","date":1241222400000}}
+{
+    "id": 23558733,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2200,
+    "def": 0,
+    "level": 8,
+    "race": 1024,
+    "attribute": 4,
+    "category": 4456454,
+    "name": "Phoenixian Cluster Amaryllis",
+    "desc": "This card cannot be Special Summoned except with its own effect or with \"Phoenixian Seed\". If this card attacks, it is destroyed after damage calculation. If this card you control is destroyed and sent to the Graveyard, inflict 800 damage to your opponent. During your End Phase, you can remove from play 1 Plant-Type monster from your Graveyard to Special Summon this card from your Graveyard in Defense Position.",
+    "str1": "对于对方800伤害",
+    "str2": "Special Summon",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 23558733,
+        "pack_id": "RGBT-JP006",
+        "pack": "RGBT",
+        "rarity": "Phoenixian Cluster Amaryllis",
+        "date": 1234569600000
+    },
+    "tcg": {
+        "id": 23558733,
+        "pack_id": "RGBT-EN006",
+        "pack": "RGBT",
+        "rarity": "Phoenixian Cluster Amaryllis",
+        "date": 1241222400000
+    }
+}

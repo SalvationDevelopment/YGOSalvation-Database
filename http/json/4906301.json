@@ -1,1 +1,47 @@
-{"id":4906301,"ot":3,"alias":0,"setcode":0,"type":33,"atk":600,"def":1300,"level":3,"race":1,"attribute":32,"category":65536,"name":"Necro Gardna","desc":"During your opponent's turn: You can banish this card from your Graveyard; negate the next attack this turn from a monster your opponent controls (this is a Quick Effect).","str1":"1次攻击无效","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":4906301,"pack_id":"TAEV-JP012","pack":"TAEV","rarity":"Necro Gardna","date":1178928000000},"tcg":{"id":4906301,"pack_id":"TAEV-EN012","pack":"TAEV","rarity":"Necro Gardna","date":1187136000000}}
+{
+    "id": 4906301,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 600,
+    "def": 1300,
+    "level": 3,
+    "race": 1,
+    "attribute": 32,
+    "category": 65536,
+    "name": "Necro Gardna",
+    "desc": "During your opponent's turn: You can banish this card from your Graveyard; negate the next attack this turn from a monster your opponent controls (this is a Quick Effect).",
+    "str1": "1次攻击无效",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 4906301,
+        "pack_id": "TAEV-JP012",
+        "pack": "TAEV",
+        "rarity": "Necro Gardna",
+        "date": 1178928000000
+    },
+    "tcg": {
+        "id": 4906301,
+        "pack_id": "TAEV-EN012",
+        "pack": "TAEV",
+        "rarity": "Necro Gardna",
+        "date": 1187136000000
+    }
+}

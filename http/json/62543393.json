@@ -1,1 +1,47 @@
-{"id":62543393,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1700,"def":500,"level":4,"race":1024,"attribute":2,"category":786432,"name":"Lekunga","desc":"You can banish 2 WATER monsters from your Graveyard; Special Summon 1 \"Lekunga Token\" (Plant-Type/WATER/Level 2/ATK 700/DEF 700) in Attack Position.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":62543393,"pack_id":"306-027","pack":"306","rarity":"Lekunga","date":1051142400000},"tcg":{"id":62543393,"pack_id":"IOC-027","pack":"IOC","rarity":"Lekunga","date":1078099200000}}
+{
+    "id": 62543393,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1700,
+    "def": 500,
+    "level": 4,
+    "race": 1024,
+    "attribute": 2,
+    "category": 786432,
+    "name": "Lekunga",
+    "desc": "You can banish 2 WATER monsters from your Graveyard; Special Summon 1 \"Lekunga Token\" (Plant-Type/WATER/Level 2/ATK 700/DEF 700) in Attack Position.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 62543393,
+        "pack_id": "306-027",
+        "pack": "306",
+        "rarity": "Lekunga",
+        "date": 1051142400000
+    },
+    "tcg": {
+        "id": 62543393,
+        "pack_id": "IOC-027",
+        "pack": "IOC",
+        "rarity": "Lekunga",
+        "date": 1078099200000
+    }
+}

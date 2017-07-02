@@ -1,1 +1,47 @@
-{"id":19580308,"ot":3,"alias":0,"setcode":175,"type":4129,"atk":100,"def":1900,"level":1,"race":8,"attribute":32,"category":0,"name":"D/D Lamia","desc":"If this card is in your hand or Graveyard: You can send 1 \"D/D\" or \"Dark Contract\" card from your hand or face-up from your field to the Graveyard, except \"D/D Lamia\"; Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"D/D Lamia\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":19580308,"pack_id":"SD30-JP005","pack":"SD30","rarity":"D/D Lamia","date":1449878400000},"tcg":{"id":19580308,"pack_id":"SDPD-EN005","pack":"SDPD","rarity":"D/D Lamia","date":1484784000000}}
+{
+    "id": 19580308,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 175,
+    "type": 4129,
+    "atk": 100,
+    "def": 1900,
+    "level": 1,
+    "race": 8,
+    "attribute": 32,
+    "category": 0,
+    "name": "D/D Lamia",
+    "desc": "If this card is in your hand or Graveyard: You can send 1 \"D/D\" or \"Dark Contract\" card from your hand or face-up from your field to the Graveyard, except \"D/D Lamia\"; Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"D/D Lamia\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 19580308,
+        "pack_id": "SD30-JP005",
+        "pack": "SD30",
+        "rarity": "D/D Lamia",
+        "date": 1449878400000
+    },
+    "tcg": {
+        "id": 19580308,
+        "pack_id": "SDPD-EN005",
+        "pack": "SDPD",
+        "rarity": "D/D Lamia",
+        "date": 1484784000000
+    }
+}

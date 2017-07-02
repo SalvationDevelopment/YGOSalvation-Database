@@ -1,1 +1,47 @@
-{"id":40392714,"ot":3,"alias":0,"setcode":227,"type":33,"atk":0,"def":0,"level":2,"race":4,"attribute":8,"category":0,"name":"Geira Guile the Cubic King","desc":"Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 1 \"Cubic\" monster you control to the Graveyard. If Summoned this way, this card gains 800 ATK. If this card is Special Summoned from the hand: Inflict 800 damage to your opponent. At the end of the Damage Step, if this card battled: You can target up to 2 \"Vijam the Cubic Seed\" in your Graveyard; send this card to the Graveyard, and if you do, Special Summon them, then you can add 1 \"Vulcan Dragni the Cubic King\" from your Deck to your hand.","str1":"Special Summon \"Houkai Spawn Vijam\"","str2":"Add 1 \"Houkai Emperor Vulcan Dragni\" to hand","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":40392714,"pack_id":"MVP1-JP036","pack":"MVP1","rarity":"Geira Guile the Cubic King","date":1461369600000},"tcg":{"id":40392714,"pack_id":"MVP1-EN036","pack":"MVP1","rarity":"Geira Guile the Cubic King","date":1469059200000}}
+{
+    "id": 40392714,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 227,
+    "type": 33,
+    "atk": 0,
+    "def": 0,
+    "level": 2,
+    "race": 4,
+    "attribute": 8,
+    "category": 0,
+    "name": "Geira Guile the Cubic King",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 1 \"Cubic\" monster you control to the Graveyard. If Summoned this way, this card gains 800 ATK. If this card is Special Summoned from the hand: Inflict 800 damage to your opponent. At the end of the Damage Step, if this card battled: You can target up to 2 \"Vijam the Cubic Seed\" in your Graveyard; send this card to the Graveyard, and if you do, Special Summon them, then you can add 1 \"Vulcan Dragni the Cubic King\" from your Deck to your hand.",
+    "str1": "Special Summon \"Houkai Spawn Vijam\"",
+    "str2": "Add 1 \"Houkai Emperor Vulcan Dragni\" to hand",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 40392714,
+        "pack_id": "MVP1-JP036",
+        "pack": "MVP1",
+        "rarity": "Geira Guile the Cubic King",
+        "date": 1461369600000
+    },
+    "tcg": {
+        "id": 40392714,
+        "pack_id": "MVP1-EN036",
+        "pack": "MVP1",
+        "rarity": "Geira Guile the Cubic King",
+        "date": 1469059200000
+    }
+}

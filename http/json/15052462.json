@@ -1,1 +1,47 @@
-{"id":15052462,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8192,"name":"Violet Crystal","desc":"A Zombie-Type monster equipped with this card increases its ATK and DEF by 300 points.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":15052462,"pack_id":"LB-41","pack":"LB","rarity":"Violet Crystal","date":918086400000},"tcg":{"id":15052462,"pack_id":"LOB-042","pack":"LOB","rarity":"Violet Crystal","date":1015545600000}}
+{
+    "id": 15052462,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8192,
+    "name": "Violet Crystal",
+    "desc": "A Zombie-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 15052462,
+        "pack_id": "LB-41",
+        "pack": "LB",
+        "rarity": "Violet Crystal",
+        "date": 918086400000
+    },
+    "tcg": {
+        "id": 15052462,
+        "pack_id": "LOB-042",
+        "pack": "LOB",
+        "rarity": "Violet Crystal",
+        "date": 1015545600000
+    }
+}

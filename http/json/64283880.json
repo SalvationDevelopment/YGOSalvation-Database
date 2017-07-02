@@ -1,1 +1,47 @@
-{"id":64283880,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Guard Go!","desc":"If a \"Gagaga\", \"Gogogo\", and/or \"Dododo\" monster(s) you control is destroyed by battle or card effect and sent to the Graveyard: Target 1 of those monsters; Special Summon it, then you can Special Summon up to 2 \"Gagaga\", \"Dododo\", and/or \"Gogogo\" monsters from your hand in Defense Position.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":64283880,"pack_id":"NECH-JP084","pack":"NECH","rarity":"Guard Go!","date":1405728000000},"tcg":{"id":64283880,"pack_id":"WSUP-EN029","pack":"WSUP","rarity":"Guard Go!","date":1429142400000}}
+{
+    "id": 64283880,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Guard Go!",
+    "desc": "If a \"Gagaga\", \"Gogogo\", and/or \"Dododo\" monster(s) you control is destroyed by battle or card effect and sent to the Graveyard: Target 1 of those monsters; Special Summon it, then you can Special Summon up to 2 \"Gagaga\", \"Dododo\", and/or \"Gogogo\" monsters from your hand in Defense Position.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 64283880,
+        "pack_id": "NECH-JP084",
+        "pack": "NECH",
+        "rarity": "Guard Go!",
+        "date": 1405728000000
+    },
+    "tcg": {
+        "id": 64283880,
+        "pack_id": "WSUP-EN029",
+        "pack": "WSUP",
+        "rarity": "Guard Go!",
+        "date": 1429142400000
+    }
+}

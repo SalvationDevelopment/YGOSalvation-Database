@@ -1,1 +1,47 @@
-{"id":61692648,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2400,"def":2100,"level":4,"race":32,"attribute":1,"category":0,"name":"Lionhearted Locomotive","desc":"When this card declares an attack: Its ATK becomes half its original ATK until the end of the Damage Step.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":61692648,"pack_id":"CPL1-JP036","pack":"CPL1","rarity":"Lionhearted Locomotive","date":1400284800000},"tcg":{"id":61692648,"pack_id":"DRLG-EN036","pack":"DRLG","rarity":"Lionhearted Locomotive","date":1398384000000}}
+{
+    "id": 61692648,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2400,
+    "def": 2100,
+    "level": 4,
+    "race": 32,
+    "attribute": 1,
+    "category": 0,
+    "name": "Lionhearted Locomotive",
+    "desc": "When this card declares an attack: Its ATK becomes half its original ATK until the end of the Damage Step.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 61692648,
+        "pack_id": "CPL1-JP036",
+        "pack": "CPL1",
+        "rarity": "Lionhearted Locomotive",
+        "date": 1400284800000
+    },
+    "tcg": {
+        "id": 61692648,
+        "pack_id": "DRLG-EN036",
+        "pack": "DRLG",
+        "rarity": "Lionhearted Locomotive",
+        "date": 1398384000000
+    }
+}

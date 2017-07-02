@@ -1,1 +1,47 @@
-{"id":8310162,"ot":3,"alias":0,"setcode":35,"type":8225,"atk":4000,"def":4000,"level":10,"race":8192,"attribute":32,"category":263168,"name":"Malefic Paradox Dragon","desc":"\"Malefic Parallel Gear\" + 1 non-Tuner \"Malefic\" monster\nWhen this card is Synchro Summoned, you can select 1 Synchro Monster in either player's Graveyard, and Special Summon it. There can only be 1 face-up \"Malefic Paradox Dragon\" on the field. If \"Malefic World\" is not face-up on the field, destroy this card.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":8310162,"pack_id":"YMP1-JP007","pack":"YMP1","rarity":"Malefic Paradox Dragon","date":1298678400000},"tcg":{"id":8310162,"pack_id":"YMP1-EN007","pack":"YMP1","rarity":"Malefic Paradox Dragon","date":1298332800000}}
+{
+    "id": 8310162,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 35,
+    "type": 8225,
+    "atk": 4000,
+    "def": 4000,
+    "level": 10,
+    "race": 8192,
+    "attribute": 32,
+    "category": 263168,
+    "name": "Malefic Paradox Dragon",
+    "desc": "\"Malefic Parallel Gear\" + 1 non-Tuner \"Malefic\" monster\nWhen this card is Synchro Summoned, you can select 1 Synchro Monster in either player's Graveyard, and Special Summon it. There can only be 1 face-up \"Malefic Paradox Dragon\" on the field. If \"Malefic World\" is not face-up on the field, destroy this card.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 8310162,
+        "pack_id": "YMP1-JP007",
+        "pack": "YMP1",
+        "rarity": "Malefic Paradox Dragon",
+        "date": 1298678400000
+    },
+    "tcg": {
+        "id": 8310162,
+        "pack_id": "YMP1-EN007",
+        "pack": "YMP1",
+        "rarity": "Malefic Paradox Dragon",
+        "date": 1298332800000
+    }
+}

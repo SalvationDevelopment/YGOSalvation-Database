@@ -1,1 +1,47 @@
-{"id":56910167,"ot":3,"alias":0,"setcode":0,"type":8388641,"atk":3000,"def":3000,"level":10,"race":32,"attribute":1,"category":4194432,"name":"Superdreadnought Rail Cannon Gustav Max","desc":"2 Level 10 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; inflict 2000 damage to your opponent.","str1":"2000damage","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":56910167,"pack_id":"VE06-JP004","pack":"VE06","rarity":"Superdreadnought Rail Cannon Gustav Max","date":1319155200000},"tcg":{"id":56910167,"pack_id":"JUMP-EN062","pack":"JUMP","rarity":"Superdreadnought Rail Cannon Gustav Max","date":1350000000000}}
+{
+    "id": 56910167,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8388641,
+    "atk": 3000,
+    "def": 3000,
+    "level": 10,
+    "race": 32,
+    "attribute": 1,
+    "category": 4194432,
+    "name": "Superdreadnought Rail Cannon Gustav Max",
+    "desc": "2 Level 10 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; inflict 2000 damage to your opponent.",
+    "str1": "2000damage",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 56910167,
+        "pack_id": "VE06-JP004",
+        "pack": "VE06",
+        "rarity": "Superdreadnought Rail Cannon Gustav Max",
+        "date": 1319155200000
+    },
+    "tcg": {
+        "id": 56910167,
+        "pack_id": "JUMP-EN062",
+        "pack": "JUMP",
+        "rarity": "Superdreadnought Rail Cannon Gustav Max",
+        "date": 1350000000000
+    }
+}

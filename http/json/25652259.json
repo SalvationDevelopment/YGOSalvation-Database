@@ -1,1 +1,47 @@
-{"id":25652259,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1500,"def":1600,"level":4,"race":1,"attribute":16,"category":0,"name":"Queen's Knight","desc":"This knight catches her opponents off guard, dominating them with swift yet graceful attacks.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":25652259,"pack_id":"LE4-001","pack":"LE4","rarity":"Queen's Knight","date":1022544000000},"tcg":{"id":25652259,"pack_id":"EEN-EN004","pack":"EEN","rarity":"Queen's Knight","date":1131148800000}}
+{
+    "id": 25652259,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1500,
+    "def": 1600,
+    "level": 4,
+    "race": 1,
+    "attribute": 16,
+    "category": 0,
+    "name": "Queen's Knight",
+    "desc": "This knight catches her opponents off guard, dominating them with swift yet graceful attacks.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 25652259,
+        "pack_id": "LE4-001",
+        "pack": "LE4",
+        "rarity": "Queen's Knight",
+        "date": 1022544000000
+    },
+    "tcg": {
+        "id": 25652259,
+        "pack_id": "EEN-EN004",
+        "pack": "EEN",
+        "rarity": "Queen's Knight",
+        "date": 1131148800000
+    }
+}

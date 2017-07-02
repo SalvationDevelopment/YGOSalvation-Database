@@ -1,1 +1,47 @@
-{"id":8698851,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4194306,"name":"D - Counter","desc":"When a \"Destiny HERO\" monster you control is targeted for an attack: Destroy the attacking monster.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":8698851,"pack_id":"DP05-JP029","pack":"DP05","rarity":"D - Counter","date":1161820800000},"tcg":{"id":8698851,"pack_id":"DP05-EN029","pack":"DP05","rarity":"D - Counter","date":1170806400000}}
+{
+    "id": 8698851,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4194306,
+    "name": "D - Counter",
+    "desc": "When a \"Destiny HERO\" monster you control is targeted for an attack: Destroy the attacking monster.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 8698851,
+        "pack_id": "DP05-JP029",
+        "pack": "DP05",
+        "rarity": "D - Counter",
+        "date": 1161820800000
+    },
+    "tcg": {
+        "id": 8698851,
+        "pack_id": "DP05-EN029",
+        "pack": "DP05",
+        "rarity": "D - Counter",
+        "date": 1170806400000
+    }
+}

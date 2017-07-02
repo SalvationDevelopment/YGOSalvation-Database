@@ -1,1 +1,47 @@
-{"id":403847,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1056768,"name":"The A. Forces","desc":"All Warrior-Type monsters you control gain 200 ATK for each Warrior or Spellcaster-Type monster you control.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":403847,"pack_id":"SC-27","pack":"SC","rarity":"The A. Forces","date":1000944000000},"tcg":{"id":403847,"pack_id":"LOD-027","pack":"LOD","rarity":"The A. Forces","date":1054857600000}}
+{
+    "id": 403847,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1056768,
+    "name": "The A. Forces",
+    "desc": "All Warrior-Type monsters you control gain 200 ATK for each Warrior or Spellcaster-Type monster you control.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 403847,
+        "pack_id": "SC-27",
+        "pack": "SC",
+        "rarity": "The A. Forces",
+        "date": 1000944000000
+    },
+    "tcg": {
+        "id": 403847,
+        "pack_id": "LOD-027",
+        "pack": "LOD",
+        "rarity": "The A. Forces",
+        "date": 1054857600000
+    }
+}

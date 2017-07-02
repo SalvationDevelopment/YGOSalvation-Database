@@ -1,1 +1,47 @@
-{"id":5763020,"ot":3,"alias":0,"setcode":0,"type":33,"atk":0,"def":500,"level":2,"race":256,"attribute":32,"category":262144,"name":"Weeping Idol","desc":"You can remove from play 1 Tuner monster in your Graveyard to Special Summon this card from your hand.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":5763020,"pack_id":"ABPF-JP021","pack":"ABPF","rarity":"Weeping Idol","date":1258156800000},"tcg":{"id":5763020,"pack_id":"ABPF-EN021","pack":"ABPF","rarity":"Weeping Idol","date":1265932800000}}
+{
+    "id": 5763020,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 0,
+    "def": 500,
+    "level": 2,
+    "race": 256,
+    "attribute": 32,
+    "category": 262144,
+    "name": "Weeping Idol",
+    "desc": "You can remove from play 1 Tuner monster in your Graveyard to Special Summon this card from your hand.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 5763020,
+        "pack_id": "ABPF-JP021",
+        "pack": "ABPF",
+        "rarity": "Weeping Idol",
+        "date": 1258156800000
+    },
+    "tcg": {
+        "id": 5763020,
+        "pack_id": "ABPF-EN021",
+        "pack": "ABPF",
+        "rarity": "Weeping Idol",
+        "date": 1265932800000
+    }
+}

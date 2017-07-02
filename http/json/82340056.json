@@ -1,1 +1,47 @@
-{"id":82340056,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":786944,"name":"Offering to the Immortals","desc":"When your opponent's monster declares a direct attack while you have 3000 or less LP: Negate the attack, and if you do, Special Summon 2 \"Ceremonial Tokens\" (Rock-Type/EARTH/Level 1/ATK 0/DEF 0), and if you do that, add 1 \"Earthbound Immortal\" card, \"Earthbound Revival\", or \"Roar of the Earthbound\" from your Deck to your hand. \"Ceremonial Tokens\" cannot be Tributed, except for a Tribute Summon of an \"Earthbound Immortal\" monster, and cannot be used as Synchro Material.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":82340056,"pack_id":"ABPF-JP068","pack":"ABPF","rarity":"Offering to the Immortals","date":1258156800000},"tcg":{"id":82340056,"pack_id":"ABPF-EN068","pack":"ABPF","rarity":"Offering to the Immortals","date":1265932800000}}
+{
+    "id": 82340056,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 786944,
+    "name": "Offering to the Immortals",
+    "desc": "When your opponent's monster declares a direct attack while you have 3000 or less LP: Negate the attack, and if you do, Special Summon 2 \"Ceremonial Tokens\" (Rock-Type/EARTH/Level 1/ATK 0/DEF 0), and if you do that, add 1 \"Earthbound Immortal\" card, \"Earthbound Revival\", or \"Roar of the Earthbound\" from your Deck to your hand. \"Ceremonial Tokens\" cannot be Tributed, except for a Tribute Summon of an \"Earthbound Immortal\" monster, and cannot be used as Synchro Material.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 82340056,
+        "pack_id": "ABPF-JP068",
+        "pack": "ABPF",
+        "rarity": "Offering to the Immortals",
+        "date": 1258156800000
+    },
+    "tcg": {
+        "id": 82340056,
+        "pack_id": "ABPF-EN068",
+        "pack": "ABPF",
+        "rarity": "Offering to the Immortals",
+        "date": 1265932800000
+    }
+}

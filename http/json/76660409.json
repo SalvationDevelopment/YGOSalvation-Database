@@ -1,1 +1,47 @@
-{"id":76660409,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Pendulum Back","desc":"If you have 2 cards in your Pendulum Zones: Target 2 monsters in your Graveyard, each with a Level between (exclusive) the Pendulum Scales of the cards in your Pendulum Zones; add them to your hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":76660409,"pack_id":"DUEA-JP078","pack":"DUEA","rarity":"Pendulum Back","date":1397865600000},"tcg":{"id":76660409,"pack_id":"DUEA-EN078","pack":"DUEA","rarity":"Pendulum Back","date":1407974400000}}
+{
+    "id": 76660409,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Pendulum Back",
+    "desc": "If you have 2 cards in your Pendulum Zones: Target 2 monsters in your Graveyard, each with a Level between (exclusive) the Pendulum Scales of the cards in your Pendulum Zones; add them to your hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 76660409,
+        "pack_id": "DUEA-JP078",
+        "pack": "DUEA",
+        "rarity": "Pendulum Back",
+        "date": 1397865600000
+    },
+    "tcg": {
+        "id": 76660409,
+        "pack_id": "DUEA-EN078",
+        "pack": "DUEA",
+        "rarity": "Pendulum Back",
+        "date": 1407974400000
+    }
+}

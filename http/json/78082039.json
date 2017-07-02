@@ -1,1 +1,47 @@
-{"id":78082039,"ot":3,"alias":0,"setcode":0,"type":524290,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1056768,"name":"Closed Forest","desc":"All Beast-Type monsters you control gain 100 ATK for each monster in your Graveyard. Field Spell Cards cannot be activated. Field Spell Cards cannot be activated during the turn this card is destroyed.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":78082039,"pack_id":"YDT1-JP002","pack":"YDT1","rarity":"Closed Forest","date":1303344000000},"tcg":{"id":78082039,"pack_id":"YDT1-EN002","pack":"YDT1","rarity":"Closed Forest","date":1291680000000}}
+{
+    "id": 78082039,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 524290,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1056768,
+    "name": "Closed Forest",
+    "desc": "All Beast-Type monsters you control gain 100 ATK for each monster in your Graveyard. Field Spell Cards cannot be activated. Field Spell Cards cannot be activated during the turn this card is destroyed.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 78082039,
+        "pack_id": "YDT1-JP002",
+        "pack": "YDT1",
+        "rarity": "Closed Forest",
+        "date": 1303344000000
+    },
+    "tcg": {
+        "id": 78082039,
+        "pack_id": "YDT1-EN002",
+        "pack": "YDT1",
+        "rarity": "Closed Forest",
+        "date": 1291680000000
+    }
+}

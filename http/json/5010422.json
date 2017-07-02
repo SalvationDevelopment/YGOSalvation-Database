@@ -1,1 +1,47 @@
-{"id":5010422,"ot":3,"alias":0,"setcode":204,"type":2097185,"atk":1300,"def":0,"level":3,"race":4,"attribute":32,"category":0,"name":"Prediction Princess Astromorrigan","desc":"FLIP: During the End Phase of this turn, destroy as many Defense Position monsters your opponent controls as possible, and if you do, inflict 500 damage to your opponent for each monster destroyed.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":5010422,"pack_id":"CPD1-JP032","pack":"CPD1","rarity":"Prediction Princess Astromorrigan","date":1431734400000},"tcg":{"id":5010422,"pack_id":"DRL2-EN032","pack":"DRL2","rarity":"Prediction Princess Astromorrigan","date":1437004800000}}
+{
+    "id": 5010422,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 204,
+    "type": 2097185,
+    "atk": 1300,
+    "def": 0,
+    "level": 3,
+    "race": 4,
+    "attribute": 32,
+    "category": 0,
+    "name": "Prediction Princess Astromorrigan",
+    "desc": "FLIP: During the End Phase of this turn, destroy as many Defense Position monsters your opponent controls as possible, and if you do, inflict 500 damage to your opponent for each monster destroyed.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 5010422,
+        "pack_id": "CPD1-JP032",
+        "pack": "CPD1",
+        "rarity": "Prediction Princess Astromorrigan",
+        "date": 1431734400000
+    },
+    "tcg": {
+        "id": 5010422,
+        "pack_id": "DRL2-EN032",
+        "pack": "DRL2",
+        "rarity": "Prediction Princess Astromorrigan",
+        "date": 1437004800000
+    }
+}

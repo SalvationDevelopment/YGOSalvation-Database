@@ -1,1 +1,47 @@
-{"id":82956492,"ot":3,"alias":0,"setcode":279904431,"type":97,"atk":2800,"def":2000,"level":7,"race":8,"attribute":32,"category":0,"name":"D/D/D Oracle King d'Arc","desc":"2 \"D/D\" monsters\nAny effect that would inflict damage to you makes you gain that much LP, instead.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":82956492,"pack_id":"CORE-JP046","pack":"CORE","rarity":"D/D/D Oracle King d'Arc","date":1429920000000},"tcg":{"id":82956492,"pack_id":"CORE-EN046","pack":"CORE","rarity":"D/D/D Oracle King d'Arc","date":1438819200000}}
+{
+    "id": 82956492,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 279904431,
+    "type": 97,
+    "atk": 2800,
+    "def": 2000,
+    "level": 7,
+    "race": 8,
+    "attribute": 32,
+    "category": 0,
+    "name": "D/D/D Oracle King d'Arc",
+    "desc": "2 \"D/D\" monsters\nAny effect that would inflict damage to you makes you gain that much LP, instead.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 82956492,
+        "pack_id": "CORE-JP046",
+        "pack": "CORE",
+        "rarity": "D/D/D Oracle King d'Arc",
+        "date": 1429920000000
+    },
+    "tcg": {
+        "id": 82956492,
+        "pack_id": "CORE-EN046",
+        "pack": "CORE",
+        "rarity": "D/D/D Oracle King d'Arc",
+        "date": 1438819200000
+    }
+}

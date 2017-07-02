@@ -1,1 +1,47 @@
-{"id":30936186,"ot":3,"alias":0,"setcode":29,"type":33,"atk":2000,"def":1500,"level":4,"race":32768,"attribute":1,"category":262144,"name":"Koa'ki Meiru Urnight","desc":"During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Beast-Warrior-Type monster in your hand. Once per turn, you can reveal 1 \"Iron Core of Koa'ki Meiru\" in your hand to Special Summon 1 Level 4 or lower \"Koa'ki Meiru\" monster from your Deck, except \"Koa'ki Meiru Urnight\".","str1":"Send \"Iron Core of Koa'ki Meiru\" to the Graveyard","str2":"Reveal 1 Beast-Warrior-Type monster in your hand","str3":"Destroy｢Koa'ki Meiru Urnight｣","str4":"Special Summon","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":30936186,"pack_id":"ABPF-JP025","pack":"ABPF","rarity":"Koa'ki Meiru Urnight","date":1258156800000},"tcg":{"id":30936186,"pack_id":"ABPF-EN025","pack":"ABPF","rarity":"Koa'ki Meiru Urnight","date":1265932800000}}
+{
+    "id": 30936186,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 29,
+    "type": 33,
+    "atk": 2000,
+    "def": 1500,
+    "level": 4,
+    "race": 32768,
+    "attribute": 1,
+    "category": 262144,
+    "name": "Koa'ki Meiru Urnight",
+    "desc": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Beast-Warrior-Type monster in your hand. Once per turn, you can reveal 1 \"Iron Core of Koa'ki Meiru\" in your hand to Special Summon 1 Level 4 or lower \"Koa'ki Meiru\" monster from your Deck, except \"Koa'ki Meiru Urnight\".",
+    "str1": "Send \"Iron Core of Koa'ki Meiru\" to the Graveyard",
+    "str2": "Reveal 1 Beast-Warrior-Type monster in your hand",
+    "str3": "Destroy｢Koa'ki Meiru Urnight｣",
+    "str4": "Special Summon",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 30936186,
+        "pack_id": "ABPF-JP025",
+        "pack": "ABPF",
+        "rarity": "Koa'ki Meiru Urnight",
+        "date": 1258156800000
+    },
+    "tcg": {
+        "id": 30936186,
+        "pack_id": "ABPF-EN025",
+        "pack": "ABPF",
+        "rarity": "Koa'ki Meiru Urnight",
+        "date": 1265932800000
+    }
+}

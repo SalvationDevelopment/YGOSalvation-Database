@@ -1,1 +1,47 @@
-{"id":60181553,"ot":3,"alias":0,"setcode":0,"type":8388641,"atk":1100,"def":1000,"level":1,"race":1,"attribute":16,"category":16777216,"name":"Mira the Star-Bearer","desc":"3 Level 1 monsters\nIf this face-up card would be destroyed, you can detach 1 Xyz Material from this card instead. Level 4 or lower monsters you control cannot be destroyed by card effects.","str1":"Activate effect of \"Super Star Mira\" to avoid destruction?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":60181553,"pack_id":"VE05-JP004","pack":"VE05","rarity":"Mira the Star-Bearer","date":1305936000000},"tcg":{"id":60181553,"pack_id":"SHSP-EN091","pack":"SHSP","rarity":"Mira the Star-Bearer","date":1383868800000}}
+{
+    "id": 60181553,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8388641,
+    "atk": 1100,
+    "def": 1000,
+    "level": 1,
+    "race": 1,
+    "attribute": 16,
+    "category": 16777216,
+    "name": "Mira the Star-Bearer",
+    "desc": "3 Level 1 monsters\nIf this face-up card would be destroyed, you can detach 1 Xyz Material from this card instead. Level 4 or lower monsters you control cannot be destroyed by card effects.",
+    "str1": "Activate effect of \"Super Star Mira\" to avoid destruction?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 60181553,
+        "pack_id": "VE05-JP004",
+        "pack": "VE05",
+        "rarity": "Mira the Star-Bearer",
+        "date": 1305936000000
+    },
+    "tcg": {
+        "id": 60181553,
+        "pack_id": "SHSP-EN091",
+        "pack": "SHSP",
+        "rarity": "Mira the Star-Bearer",
+        "date": 1383868800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":35262428,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262144,"name":"Wiseman's Chalice","desc":"If you control no monsters, select 1 monster in your opponent's Graveyard. Special Summon it. During the End Phase of this turn, give control of that Special Summoned monster to your opponent. The monster cannot be Tributed, or used as a Synchro Material Monster, while it is face-up on the field.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":35262428,"pack_id":"DREV-JP060","pack":"DREV","rarity":"Wiseman's Chalice","date":1271462400000},"tcg":{"id":35262428,"pack_id":"DREV-EN060","pack":"DREV","rarity":"Wiseman's Chalice","date":1281139200000}}
+{
+    "id": 35262428,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262144,
+    "name": "Wiseman's Chalice",
+    "desc": "If you control no monsters, select 1 monster in your opponent's Graveyard. Special Summon it. During the End Phase of this turn, give control of that Special Summoned monster to your opponent. The monster cannot be Tributed, or used as a Synchro Material Monster, while it is face-up on the field.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 35262428,
+        "pack_id": "DREV-JP060",
+        "pack": "DREV",
+        "rarity": "Wiseman's Chalice",
+        "date": 1271462400000
+    },
+    "tcg": {
+        "id": 35262428,
+        "pack_id": "DREV-EN060",
+        "pack": "DREV",
+        "rarity": "Wiseman's Chalice",
+        "date": 1281139200000
+    }
+}

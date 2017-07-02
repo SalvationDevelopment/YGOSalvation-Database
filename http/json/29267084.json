@@ -1,1 +1,47 @@
-{"id":29267084,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":73728,"name":"Shadow Spell","desc":"Activate this card by targeting 1 face-up monster your opponent controls; it loses 700 ATK, also it cannot attack or change its battle position. When it leaves the field, destroy this card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":29267084,"pack_id":"L3-09","pack":"L3","rarity":"Shadow Spell","date":986083200000},"tcg":{"id":29267084,"pack_id":"DT03-EN049","pack":"DT03","rarity":"Shadow Spell","date":1285372800000}}
+{
+    "id": 29267084,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 73728,
+    "name": "Shadow Spell",
+    "desc": "Activate this card by targeting 1 face-up monster your opponent controls; it loses 700 ATK, also it cannot attack or change its battle position. When it leaves the field, destroy this card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 29267084,
+        "pack_id": "L3-09",
+        "pack": "L3",
+        "rarity": "Shadow Spell",
+        "date": 986083200000
+    },
+    "tcg": {
+        "id": 29267084,
+        "pack_id": "DT03-EN049",
+        "pack": "DT03",
+        "rarity": "Shadow Spell",
+        "date": 1285372800000
+    }
+}

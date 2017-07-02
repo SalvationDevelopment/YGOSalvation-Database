@@ -1,1 +1,47 @@
-{"id":40252269,"ot":1,"alias":0,"setcode":152,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Magician's Restage","desc":"You can target 1 Level 3 or lower Spellcaster-Type monster in your Graveyard; Special Summon it. This effect can only be used once while this card is face-up on the field. If this card is sent to the Graveyard: You can add 1 \"Magician\" Continuous Spell Card from your Deck to your hand, except \"Magician's Restage\".","str1":"Special Summon Spellcaster-Type monster","str2":"Search 1 \"Magician\" Continuous Spell Card","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG","ocg":{"id":40252269,"pack_id":"MACR-JP051","pack":"MACR","rarity":"Magician's Restage","date":1484352000000},"tcg":{"id":40252269,"pack_id":"MACR-EN051","pack":"MACR","rarity":"Magician's Restage","date":1493856000000}}
+{
+    "id": 40252269,
+    "ot": 1,
+    "alias": 0,
+    "setcode": 152,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Magician's Restage",
+    "desc": "You can target 1 Level 3 or lower Spellcaster-Type monster in your Graveyard; Special Summon it. This effect can only be used once while this card is face-up on the field. If this card is sent to the Graveyard: You can add 1 \"Magician\" Continuous Spell Card from your Deck to your hand, except \"Magician's Restage\".",
+    "str1": "Special Summon Spellcaster-Type monster",
+    "str2": "Search 1 \"Magician\" Continuous Spell Card",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG",
+    "ocg": {
+        "id": 40252269,
+        "pack_id": "MACR-JP051",
+        "pack": "MACR",
+        "rarity": "Magician's Restage",
+        "date": 1484352000000
+    },
+    "tcg": {
+        "id": 40252269,
+        "pack_id": "MACR-EN051",
+        "pack": "MACR",
+        "rarity": "Magician's Restage",
+        "date": 1493856000000
+    }
+}

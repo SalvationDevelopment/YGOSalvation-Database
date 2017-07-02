@@ -1,1 +1,47 @@
-{"id":66973070,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2300,"def":1600,"level":8,"race":2048,"attribute":8,"category":8192,"name":"Dreadscythe Harvester","desc":"You can Tribute 1 Insect-Type monster to have this card gain 500 ATK until the end of the turn.","str1":"Gain ATK","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":66973070,"pack_id":"VJC-JP015","pack":"VJC","rarity":"Dreadscythe Harvester","date":1148083200000},"tcg":{"id":66973070,"pack_id":"JUMP-EN015","pack":"JUMP","rarity":"Dreadscythe Harvester","date":1184457600000}}
+{
+    "id": 66973070,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2300,
+    "def": 1600,
+    "level": 8,
+    "race": 2048,
+    "attribute": 8,
+    "category": 8192,
+    "name": "Dreadscythe Harvester",
+    "desc": "You can Tribute 1 Insect-Type monster to have this card gain 500 ATK until the end of the turn.",
+    "str1": "Gain ATK",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 66973070,
+        "pack_id": "VJC-JP015",
+        "pack": "VJC",
+        "rarity": "Dreadscythe Harvester",
+        "date": 1148083200000
+    },
+    "tcg": {
+        "id": 66973070,
+        "pack_id": "JUMP-EN015",
+        "pack": "JUMP",
+        "rarity": "Dreadscythe Harvester",
+        "date": 1184457600000
+    }
+}

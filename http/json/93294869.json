@@ -1,1 +1,47 @@
-{"id":93294869,"ot":3,"alias":0,"setcode":121,"type":33,"atk":0,"def":1900,"level":3,"race":32768,"attribute":4,"category":512,"name":"Brotherhood of the Fire Fist - Wolf","desc":"If this card is flipped face-up: You can Set 1 \"Fire Formation\" Trap Card directly from your Deck, then, if this card was Flip Summoned, you can also Set 1 \"Fire Formation\" Spell Card directly from your Deck.","str1":"Set","str2":"Set 1 \"Fire Formation\" Spell Card directly from your Deck?","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":93294869,"pack_id":"LTGY-JP026","pack":"LTGY","rarity":"Brotherhood of the Fire Fist - Wolf","date":1360972800000},"tcg":{"id":93294869,"pack_id":"LTGY-EN026","pack":"LTGY","rarity":"Brotherhood of the Fire Fist - Wolf","date":1368748800000}}
+{
+    "id": 93294869,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 121,
+    "type": 33,
+    "atk": 0,
+    "def": 1900,
+    "level": 3,
+    "race": 32768,
+    "attribute": 4,
+    "category": 512,
+    "name": "Brotherhood of the Fire Fist - Wolf",
+    "desc": "If this card is flipped face-up: You can Set 1 \"Fire Formation\" Trap Card directly from your Deck, then, if this card was Flip Summoned, you can also Set 1 \"Fire Formation\" Spell Card directly from your Deck.",
+    "str1": "Set",
+    "str2": "Set 1 \"Fire Formation\" Spell Card directly from your Deck?",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 93294869,
+        "pack_id": "LTGY-JP026",
+        "pack": "LTGY",
+        "rarity": "Brotherhood of the Fire Fist - Wolf",
+        "date": 1360972800000
+    },
+    "tcg": {
+        "id": 93294869,
+        "pack_id": "LTGY-EN026",
+        "pack": "LTGY",
+        "rarity": "Brotherhood of the Fire Fist - Wolf",
+        "date": 1368748800000
+    }
+}

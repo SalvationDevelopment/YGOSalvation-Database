@@ -1,1 +1,47 @@
-{"id":83295594,"ot":3,"alias":0,"setcode":4119,"type":4129,"atk":600,"def":800,"level":3,"race":32,"attribute":2,"category":536870912,"name":"Steam Synchron","desc":"During your opponent's Main Phase, you can: Immediately after this effect resolves, Synchro Summon using this card you control (this is a Quick Effect).","str1":"同调召唤","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":83295594,"pack_id":"DE04-JP160","pack":"DE04","rarity":"Steam Synchron","date":1344643200000},"tcg":{"id":83295594,"pack_id":"LC5D-EN027","pack":"LC5D","rarity":"Steam Synchron","date":1414022400000}}
+{
+    "id": 83295594,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4119,
+    "type": 4129,
+    "atk": 600,
+    "def": 800,
+    "level": 3,
+    "race": 32,
+    "attribute": 2,
+    "category": 536870912,
+    "name": "Steam Synchron",
+    "desc": "During your opponent's Main Phase, you can: Immediately after this effect resolves, Synchro Summon using this card you control (this is a Quick Effect).",
+    "str1": "同调召唤",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 83295594,
+        "pack_id": "DE04-JP160",
+        "pack": "DE04",
+        "rarity": "Steam Synchron",
+        "date": 1344643200000
+    },
+    "tcg": {
+        "id": 83295594,
+        "pack_id": "LC5D-EN027",
+        "pack": "LC5D",
+        "rarity": "Steam Synchron",
+        "date": 1414022400000
+    }
+}

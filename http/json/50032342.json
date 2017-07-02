@@ -1,1 +1,47 @@
-{"id":50032342,"ot":3,"alias":0,"setcode":47,"type":33,"atk":1600,"def":1600,"level":4,"race":2,"attribute":2,"category":264,"name":"Strategist of the Ice Barrier","desc":"Once per turn, you can send 1 \"Ice Barrier\" monster from your hand to the Graveyard to draw 1 card.","str1":"Draw card","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":50032342,"pack_id":"DT08-JP032","pack":"DT08","rarity":"Strategist of the Ice Barrier","date":1264032000000},"tcg":{"id":50032342,"pack_id":"DT04-EN082","pack":"DT04","rarity":"Strategist of the Ice Barrier","date":1295913600000}}
+{
+    "id": 50032342,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 47,
+    "type": 33,
+    "atk": 1600,
+    "def": 1600,
+    "level": 4,
+    "race": 2,
+    "attribute": 2,
+    "category": 264,
+    "name": "Strategist of the Ice Barrier",
+    "desc": "Once per turn, you can send 1 \"Ice Barrier\" monster from your hand to the Graveyard to draw 1 card.",
+    "str1": "Draw card",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 50032342,
+        "pack_id": "DT08-JP032",
+        "pack": "DT08",
+        "rarity": "Strategist of the Ice Barrier",
+        "date": 1264032000000
+    },
+    "tcg": {
+        "id": 50032342,
+        "pack_id": "DT04-EN082",
+        "pack": "DT04",
+        "rarity": "Strategist of the Ice Barrier",
+        "date": 1295913600000
+    }
+}

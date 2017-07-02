@@ -1,1 +1,47 @@
-{"id":72355441,"ot":3,"alias":0,"setcode":115,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1073742080,"name":"Xyz Gift","desc":"If you control 2 or more face-up Xyz Monsters: Detach 2 Xyz Materials from a monster you control and draw 2 cards.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":72355441,"pack_id":"PHSW-JP049","pack":"PHSW","rarity":"Xyz Gift","date":1310774400000},"tcg":{"id":72355441,"pack_id":"PHSW-EN049","pack":"PHSW","rarity":"Xyz Gift","date":1320883200000}}
+{
+    "id": 72355441,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 115,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1073742080,
+    "name": "Xyz Gift",
+    "desc": "If you control 2 or more face-up Xyz Monsters: Detach 2 Xyz Materials from a monster you control and draw 2 cards.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 72355441,
+        "pack_id": "PHSW-JP049",
+        "pack": "PHSW",
+        "rarity": "Xyz Gift",
+        "date": 1310774400000
+    },
+    "tcg": {
+        "id": 72355441,
+        "pack_id": "PHSW-EN049",
+        "pack": "PHSW",
+        "rarity": "Xyz Gift",
+        "date": 1320883200000
+    }
+}

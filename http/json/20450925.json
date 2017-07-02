@@ -1,1 +1,47 @@
-{"id":20450925,"ot":3,"alias":0,"setcode":0,"type":4129,"atk":200,"def":300,"level":1,"race":4,"attribute":16,"category":0,"name":"Hanewata","desc":"During either player's turn: You can discard this card; any effect damage you take this turn becomes 0.","str1":"効果ダメージを０にする","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":20450925,"pack_id":"CSOC-JP034","pack":"CSOC","rarity":"Hanewata","date":1292025600000},"tcg":{"id":20450925,"pack_id":"CSOC-EN034","pack":"CSOC","rarity":"Hanewata","date":1225497600000}}
+{
+    "id": 20450925,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4129,
+    "atk": 200,
+    "def": 300,
+    "level": 1,
+    "race": 4,
+    "attribute": 16,
+    "category": 0,
+    "name": "Hanewata",
+    "desc": "During either player's turn: You can discard this card; any effect damage you take this turn becomes 0.",
+    "str1": "効果ダメージを０にする",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 20450925,
+        "pack_id": "CSOC-JP034",
+        "pack": "CSOC",
+        "rarity": "Hanewata",
+        "date": 1292025600000
+    },
+    "tcg": {
+        "id": 20450925,
+        "pack_id": "CSOC-EN034",
+        "pack": "CSOC",
+        "rarity": "Hanewata",
+        "date": 1225497600000
+    }
+}

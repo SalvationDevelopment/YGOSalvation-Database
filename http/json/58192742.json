@@ -1,1 +1,47 @@
-{"id":58192742,"ot":3,"alias":0,"setcode":0,"type":17,"atk":300,"def":200,"level":1,"race":2048,"attribute":1,"category":0,"name":"Petit Moth","desc":"This small but deadly creature is better off avoided.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":58192742,"pack_id":"RB-23","pack":"RB","rarity":"Petit Moth","date":932601600000},"tcg":{"id":58192742,"pack_id":"MRD-023","pack":"MRD","rarity":"Petit Moth","date":1025049600000}}
+{
+    "id": 58192742,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 300,
+    "def": 200,
+    "level": 1,
+    "race": 2048,
+    "attribute": 1,
+    "category": 0,
+    "name": "Petit Moth",
+    "desc": "This small but deadly creature is better off avoided.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 58192742,
+        "pack_id": "RB-23",
+        "pack": "RB",
+        "rarity": "Petit Moth",
+        "date": 932601600000
+    },
+    "tcg": {
+        "id": 58192742,
+        "pack_id": "MRD-023",
+        "pack": "MRD",
+        "rarity": "Petit Moth",
+        "date": 1025049600000
+    }
+}

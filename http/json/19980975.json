@@ -1,1 +1,47 @@
-{"id":19980975,"ot":3,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":67109122,"name":"Diamond-Dust Cyclone","desc":"Select 1 monster with 4 or more Fog Counters. Destroy it and then draw 1 card for every 4 Fog Counters that were on it.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":19980975,"pack_id":"GLAS-JP048","pack":"GLAS","rarity":"Diamond-Dust Cyclone","date":1184976000000},"tcg":{"id":19980975,"pack_id":"GLAS-EN048","pack":"GLAS","rarity":"Diamond-Dust Cyclone","date":1194998400000}}
+{
+    "id": 19980975,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 67109122,
+    "name": "Diamond-Dust Cyclone",
+    "desc": "Select 1 monster with 4 or more Fog Counters. Destroy it and then draw 1 card for every 4 Fog Counters that were on it.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 19980975,
+        "pack_id": "GLAS-JP048",
+        "pack": "GLAS",
+        "rarity": "Diamond-Dust Cyclone",
+        "date": 1184976000000
+    },
+    "tcg": {
+        "id": 19980975,
+        "pack_id": "GLAS-EN048",
+        "pack": "GLAS",
+        "rarity": "Diamond-Dust Cyclone",
+        "date": 1194998400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":21507589,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1049600,"name":"Fish and Swaps","desc":"Discard 1 card to target 2 of your banished Fish, Sea Serpent, or Aqua-Type monsters; add them to your hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":21507589,"pack_id":"EP12-JP018","pack":"EP12","rarity":"Fish and Swaps","date":1350086400000},"tcg":{"id":21507589,"pack_id":"GENF-EN087","pack":"GENF","rarity":"Fish and Swaps","date":1312588800000}}
+{
+    "id": 21507589,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1049600,
+    "name": "Fish and Swaps",
+    "desc": "Discard 1 card to target 2 of your banished Fish, Sea Serpent, or Aqua-Type monsters; add them to your hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 21507589,
+        "pack_id": "EP12-JP018",
+        "pack": "EP12",
+        "rarity": "Fish and Swaps",
+        "date": 1350086400000
+    },
+    "tcg": {
+        "id": 21507589,
+        "pack_id": "GENF-EN087",
+        "pack": "GENF",
+        "rarity": "Fish and Swaps",
+        "date": 1312588800000
+    }
+}

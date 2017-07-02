@@ -1,1 +1,47 @@
-{"id":71525232,"ot":3,"alias":0,"setcode":245,"type":33,"atk":0,"def":0,"level":8,"race":8192,"attribute":32,"category":0,"name":"Gandora-X the Dragon of Demolition","desc":"When this card is Normal or Special Summoned from the hand: You can destroy as many other monsters on the field as possible, and if you do, inflict damage to your opponent equal to the highest original ATK on the field among those destroyed monsters (your choice, if tied). This card's ATK becomes equal to the damage inflicted to your opponent by this effect. Once per turn, during your End Phase: Halve your LP.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":71525232,"pack_id":"MVPC-JP001","pack":"MVPC","rarity":"Gandora-X the Dragon of Demolition","date":1461369600000},"tcg":{"id":71525232,"pack_id":"MVP1-EN049","pack":"MVP1","rarity":"Gandora-X the Dragon of Demolition","date":1469059200000}}
+{
+    "id": 71525232,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 245,
+    "type": 33,
+    "atk": 0,
+    "def": 0,
+    "level": 8,
+    "race": 8192,
+    "attribute": 32,
+    "category": 0,
+    "name": "Gandora-X the Dragon of Demolition",
+    "desc": "When this card is Normal or Special Summoned from the hand: You can destroy as many other monsters on the field as possible, and if you do, inflict damage to your opponent equal to the highest original ATK on the field among those destroyed monsters (your choice, if tied). This card's ATK becomes equal to the damage inflicted to your opponent by this effect. Once per turn, during your End Phase: Halve your LP.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 71525232,
+        "pack_id": "MVPC-JP001",
+        "pack": "MVPC",
+        "rarity": "Gandora-X the Dragon of Demolition",
+        "date": 1461369600000
+    },
+    "tcg": {
+        "id": 71525232,
+        "pack_id": "MVP1-EN049",
+        "pack": "MVP1",
+        "rarity": "Gandora-X the Dragon of Demolition",
+        "date": 1469059200000
+    }
+}

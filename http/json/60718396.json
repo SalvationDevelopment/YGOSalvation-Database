@@ -1,1 +1,47 @@
-{"id":60718396,"ot":3,"alias":0,"setcode":0,"type":1048580,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":-2147483643,"name":"Flamvell Counter","desc":"When a Spell/Trap Card is activated: Banish 1 FIRE monster with 200 DEF from your Graveyard; negate the activation, and if you do, destroy it.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":60718396,"pack_id":"ANPR-JP078","pack":"ANPR","rarity":"Flamvell Counter","date":1240012800000},"tcg":{"id":60718396,"pack_id":"ANPR-EN078","pack":"ANPR","rarity":"Flamvell Counter","date":1251763200000}}
+{
+    "id": 60718396,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 1048580,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": -2147483643,
+    "name": "Flamvell Counter",
+    "desc": "When a Spell/Trap Card is activated: Banish 1 FIRE monster with 200 DEF from your Graveyard; negate the activation, and if you do, destroy it.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 60718396,
+        "pack_id": "ANPR-JP078",
+        "pack": "ANPR",
+        "rarity": "Flamvell Counter",
+        "date": 1240012800000
+    },
+    "tcg": {
+        "id": 60718396,
+        "pack_id": "ANPR-EN078",
+        "pack": "ANPR",
+        "rarity": "Flamvell Counter",
+        "date": 1251763200000
+    }
+}

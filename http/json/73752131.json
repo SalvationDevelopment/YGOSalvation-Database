@@ -1,1 +1,47 @@
-{"id":73752131,"ot":3,"alias":0,"setcode":152,"type":33,"atk":1900,"def":1700,"level":4,"race":2,"attribute":32,"category":67371016,"name":"Skilled Dark Magician","desc":"Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves (max. 3). You can Tribute this card with 3 Spell Counters on it; Special Summon 1 \"Dark Magician\" from your hand, Deck, or Graveyard.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":73752131,"pack_id":"303-011","pack":"303","rarity":"Skilled Dark Magician","date":1032393600000},"tcg":{"id":73752131,"pack_id":"MFC-065","pack":"MFC","rarity":"Skilled Dark Magician","date":1065744000000}}
+{
+    "id": 73752131,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 152,
+    "type": 33,
+    "atk": 1900,
+    "def": 1700,
+    "level": 4,
+    "race": 2,
+    "attribute": 32,
+    "category": 67371016,
+    "name": "Skilled Dark Magician",
+    "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves (max. 3). You can Tribute this card with 3 Spell Counters on it; Special Summon 1 \"Dark Magician\" from your hand, Deck, or Graveyard.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 73752131,
+        "pack_id": "303-011",
+        "pack": "303",
+        "rarity": "Skilled Dark Magician",
+        "date": 1032393600000
+    },
+    "tcg": {
+        "id": 73752131,
+        "pack_id": "MFC-065",
+        "pack": "MFC",
+        "rarity": "Skilled Dark Magician",
+        "date": 1065744000000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":76990617,"ot":3,"alias":0,"setcode":155,"type":33,"atk":1200,"def":1000,"level":3,"race":4,"attribute":16,"category":0,"name":"Sonata the Melodious Diva","desc":"If you control a \"Melodious\" monster, you can Special Summon this card (from your hand). While this Special Summoned card is on the field, all Fairy-Type monsters you control gain 500 ATK and DEF.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":76990617,"pack_id":"DUEA-JP015","pack":"DUEA","rarity":"Sonata the Melodious Diva","date":1397865600000},"tcg":{"id":76990617,"pack_id":"DUEA-EN015","pack":"DUEA","rarity":"Sonata the Melodious Diva","date":1407974400000}}
+{
+    "id": 76990617,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 155,
+    "type": 33,
+    "atk": 1200,
+    "def": 1000,
+    "level": 3,
+    "race": 4,
+    "attribute": 16,
+    "category": 0,
+    "name": "Sonata the Melodious Diva",
+    "desc": "If you control a \"Melodious\" monster, you can Special Summon this card (from your hand). While this Special Summoned card is on the field, all Fairy-Type monsters you control gain 500 ATK and DEF.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 76990617,
+        "pack_id": "DUEA-JP015",
+        "pack": "DUEA",
+        "rarity": "Sonata the Melodious Diva",
+        "date": 1397865600000
+    },
+    "tcg": {
+        "id": 76990617,
+        "pack_id": "DUEA-EN015",
+        "pack": "DUEA",
+        "rarity": "Sonata the Melodious Diva",
+        "date": 1407974400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":69865139,"ot":3,"alias":0,"setcode":0,"type":33,"atk":0,"def":0,"level":1,"race":4,"attribute":16,"category":0,"name":"Guiding Light","desc":"When this card is Normal Summoned: You can target 1 Level 1 LIGHT monster in your Graveyard; Special Summon that target.","str1":"Special Summon?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":69865139,"pack_id":"VJMP-JP088","pack":"VJMP","rarity":"Guiding Light","date":1395360000000},"tcg":{"id":69865139,"pack_id":"NECH-EN098","pack":"NECH","rarity":"Guiding Light","date":1415232000000}}
+{
+    "id": 69865139,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": 4,
+    "attribute": 16,
+    "category": 0,
+    "name": "Guiding Light",
+    "desc": "When this card is Normal Summoned: You can target 1 Level 1 LIGHT monster in your Graveyard; Special Summon that target.",
+    "str1": "Special Summon?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 69865139,
+        "pack_id": "VJMP-JP088",
+        "pack": "VJMP",
+        "rarity": "Guiding Light",
+        "date": 1395360000000
+    },
+    "tcg": {
+        "id": 69865139,
+        "pack_id": "NECH-EN098",
+        "pack": "NECH",
+        "rarity": "Guiding Light",
+        "date": 1415232000000
+    }
+}

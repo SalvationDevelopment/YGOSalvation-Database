@@ -1,1 +1,47 @@
-{"id":79759367,"ot":3,"alias":0,"setcode":113,"type":1048580,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":-2147483584,"name":"Madolche Nights","desc":"When a monster effect is activated, if you have no monsters in your Graveyard: Negate the activation, then if you control \"Madolche Puddingcess\", shuffle 1 random card from your opponent's hand into the Deck.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":79759367,"pack_id":"LTGY-JP076","pack":"LTGY","rarity":"Madolche Nights","date":1360972800000},"tcg":{"id":79759367,"pack_id":"LTGY-EN076","pack":"LTGY","rarity":"Madolche Nights","date":1368748800000}}
+{
+    "id": 79759367,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 113,
+    "type": 1048580,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": -2147483584,
+    "name": "Madolche Nights",
+    "desc": "When a monster effect is activated, if you have no monsters in your Graveyard: Negate the activation, then if you control \"Madolche Puddingcess\", shuffle 1 random card from your opponent's hand into the Deck.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 79759367,
+        "pack_id": "LTGY-JP076",
+        "pack": "LTGY",
+        "rarity": "Madolche Nights",
+        "date": 1360972800000
+    },
+    "tcg": {
+        "id": 79759367,
+        "pack_id": "LTGY-EN076",
+        "pack": "LTGY",
+        "rarity": "Madolche Nights",
+        "date": 1368748800000
+    }
+}

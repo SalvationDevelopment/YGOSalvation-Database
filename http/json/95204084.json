@@ -1,1 +1,47 @@
-{"id":95204084,"ot":3,"alias":0,"setcode":29,"type":33,"atk":1500,"def":1200,"level":4,"race":512,"attribute":8,"category":2,"name":"Koa'ki Meiru Tornado","desc":"You can return 1 \"Iron Core of Koa'ki Meiru\" from your hand to the top of the Deck to destroy all Special Summoned monsters your opponent controls.","str1":"Destroy","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":95204084,"pack_id":"ANPR-JP021","pack":"ANPR","rarity":"Koa'ki Meiru Tornado","date":1240012800000},"tcg":{"id":95204084,"pack_id":"ANPR-EN021","pack":"ANPR","rarity":"Koa'ki Meiru Tornado","date":1251763200000}}
+{
+    "id": 95204084,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 29,
+    "type": 33,
+    "atk": 1500,
+    "def": 1200,
+    "level": 4,
+    "race": 512,
+    "attribute": 8,
+    "category": 2,
+    "name": "Koa'ki Meiru Tornado",
+    "desc": "You can return 1 \"Iron Core of Koa'ki Meiru\" from your hand to the top of the Deck to destroy all Special Summoned monsters your opponent controls.",
+    "str1": "Destroy",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 95204084,
+        "pack_id": "ANPR-JP021",
+        "pack": "ANPR",
+        "rarity": "Koa'ki Meiru Tornado",
+        "date": 1240012800000
+    },
+    "tcg": {
+        "id": 95204084,
+        "pack_id": "ANPR-EN021",
+        "pack": "ANPR",
+        "rarity": "Koa'ki Meiru Tornado",
+        "date": 1251763200000
+    }
+}

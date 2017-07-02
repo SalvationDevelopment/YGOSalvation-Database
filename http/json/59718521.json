@@ -1,1 +1,47 @@
-{"id":59718521,"ot":3,"alias":0,"setcode":0,"type":1048580,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":-2147483645,"name":"Mind Over Matter","desc":"When a monster would be Normal or Special Summoned, OR a Spell/Trap Card is activated: Tribute 1 Psychic-Type monster; negate the Summon or activation, and if you do, destroy that card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":59718521,"pack_id":"TDGS-JP073","pack":"TDGS","rarity":"Mind Over Matter","date":1208563200000},"tcg":{"id":59718521,"pack_id":"TDGS-EN073","pack":"TDGS","rarity":"Mind Over Matter","date":1218240000000}}
+{
+    "id": 59718521,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 1048580,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": -2147483645,
+    "name": "Mind Over Matter",
+    "desc": "When a monster would be Normal or Special Summoned, OR a Spell/Trap Card is activated: Tribute 1 Psychic-Type monster; negate the Summon or activation, and if you do, destroy that card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 59718521,
+        "pack_id": "TDGS-JP073",
+        "pack": "TDGS",
+        "rarity": "Mind Over Matter",
+        "date": 1208563200000
+    },
+    "tcg": {
+        "id": 59718521,
+        "pack_id": "TDGS-EN073",
+        "pack": "TDGS",
+        "rarity": "Mind Over Matter",
+        "date": 1218240000000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":31480215,"ot":3,"alias":0,"setcode":270204955,"type":4129,"atk":300,"def":300,"level":1,"race":32,"attribute":8,"category":0,"name":"Mecha Phantom Beast Warbluran","desc":"If this card is sent to the Graveyard for the Synchro Summon of a Machine-Type monster: Special Summon 1 \"Mecha Phantom Beast Token\" (Machine-Type/WIND/Level 3/ATK 0/DEF 0), also, for the rest of this turn, you cannot Special Summon any other monsters, except WIND monsters. While you control a Token, this card cannot be destroyed by battle or card effects. You can Tribute 1 other \"Mecha Phantom Beast\" monster; increase this card's Level by 1. You can only use 1 \"Mecha Phantom Beast Warbluran\" effect per turn, and only once that turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":31480215,"pack_id":"JOTL-JP022","pack":"JOTL","rarity":"Mecha Phantom Beast Warbluran","date":1366416000000},"tcg":{"id":31480215,"pack_id":"JOTL-EN022","pack":"JOTL","rarity":"Mecha Phantom Beast Warbluran","date":1375920000000}}
+{
+    "id": 31480215,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 270204955,
+    "type": 4129,
+    "atk": 300,
+    "def": 300,
+    "level": 1,
+    "race": 32,
+    "attribute": 8,
+    "category": 0,
+    "name": "Mecha Phantom Beast Warbluran",
+    "desc": "If this card is sent to the Graveyard for the Synchro Summon of a Machine-Type monster: Special Summon 1 \"Mecha Phantom Beast Token\" (Machine-Type/WIND/Level 3/ATK 0/DEF 0), also, for the rest of this turn, you cannot Special Summon any other monsters, except WIND monsters. While you control a Token, this card cannot be destroyed by battle or card effects. You can Tribute 1 other \"Mecha Phantom Beast\" monster; increase this card's Level by 1. You can only use 1 \"Mecha Phantom Beast Warbluran\" effect per turn, and only once that turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 31480215,
+        "pack_id": "JOTL-JP022",
+        "pack": "JOTL",
+        "rarity": "Mecha Phantom Beast Warbluran",
+        "date": 1366416000000
+    },
+    "tcg": {
+        "id": 31480215,
+        "pack_id": "JOTL-EN022",
+        "pack": "JOTL",
+        "rarity": "Mecha Phantom Beast Warbluran",
+        "date": 1375920000000
+    }
+}

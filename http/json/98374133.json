@@ -1,1 +1,47 @@
-{"id":98374133,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8192,"name":"Invigoration","desc":"An EARTH monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":98374133,"pack_id":"B1-29","pack":"B1","rarity":"Invigoration","date":927590400000},"tcg":{"id":98374133,"pack_id":"SDK-021","pack":"SDK","rarity":"Invigoration","date":1017360000000}}
+{
+    "id": 98374133,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8192,
+    "name": "Invigoration",
+    "desc": "An EARTH monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 98374133,
+        "pack_id": "B1-29",
+        "pack": "B1",
+        "rarity": "Invigoration",
+        "date": 927590400000
+    },
+    "tcg": {
+        "id": 98374133,
+        "pack_id": "SDK-021",
+        "pack": "SDK",
+        "rarity": "Invigoration",
+        "date": 1017360000000
+    }
+}

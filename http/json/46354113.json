@@ -1,1 +1,47 @@
-{"id":46354113,"ot":3,"alias":0,"setcode":0,"type":97,"atk":1500,"def":1300,"level":4,"race":1,"attribute":16,"category":0,"name":"Rocket Hermos Cannon","desc":"Must be Special Summoned with \"The Claw of Hermos\", using a Warrior-Type monster, and cannot be Special Summoned by other ways. If this card is Special Summoned: Target 1 other face-up monster on the field; equip this card to it. It can make a second attack during each Battle Phase, also, if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":46354113,"pack_id":"CPD1-JP010","pack":"CPD1","rarity":"Rocket Hermos Cannon","date":1431734400000},"tcg":{"id":46354113,"pack_id":"DRL2-EN010","pack":"DRL2","rarity":"Rocket Hermos Cannon","date":1437004800000}}
+{
+    "id": 46354113,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 97,
+    "atk": 1500,
+    "def": 1300,
+    "level": 4,
+    "race": 1,
+    "attribute": 16,
+    "category": 0,
+    "name": "Rocket Hermos Cannon",
+    "desc": "Must be Special Summoned with \"The Claw of Hermos\", using a Warrior-Type monster, and cannot be Special Summoned by other ways. If this card is Special Summoned: Target 1 other face-up monster on the field; equip this card to it. It can make a second attack during each Battle Phase, also, if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 46354113,
+        "pack_id": "CPD1-JP010",
+        "pack": "CPD1",
+        "rarity": "Rocket Hermos Cannon",
+        "date": 1431734400000
+    },
+    "tcg": {
+        "id": 46354113,
+        "pack_id": "DRL2-EN010",
+        "pack": "DRL2",
+        "rarity": "Rocket Hermos Cannon",
+        "date": 1437004800000
+    }
+}

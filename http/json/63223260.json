@@ -1,1 +1,47 @@
-{"id":63223260,"ot":3,"alias":0,"setcode":85,"type":33,"atk":0,"def":0,"level":1,"race":32,"attribute":16,"category":0,"name":"Photon Satellite","desc":"Once per turn: You can target 1 other \"Photon\" monster you control; the Levels of both that monster and this card become the combined current Levels of those 2 monsters.","str1":"Level becomes equal to combined Levels","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":63223260,"pack_id":"DP13-JP012","pack":"DP13","rarity":"Photon Satellite","date":1347667200000},"tcg":{"id":63223260,"pack_id":"ZTIN-EN007","pack":"ZTIN","rarity":"Photon Satellite","date":1362614400000}}
+{
+    "id": 63223260,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 85,
+    "type": 33,
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": 32,
+    "attribute": 16,
+    "category": 0,
+    "name": "Photon Satellite",
+    "desc": "Once per turn: You can target 1 other \"Photon\" monster you control; the Levels of both that monster and this card become the combined current Levels of those 2 monsters.",
+    "str1": "Level becomes equal to combined Levels",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 63223260,
+        "pack_id": "DP13-JP012",
+        "pack": "DP13",
+        "rarity": "Photon Satellite",
+        "date": 1347667200000
+    },
+    "tcg": {
+        "id": 63223260,
+        "pack_id": "ZTIN-EN007",
+        "pack": "ZTIN",
+        "rarity": "Photon Satellite",
+        "date": 1362614400000
+    }
+}

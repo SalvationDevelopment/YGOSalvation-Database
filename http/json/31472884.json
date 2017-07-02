@@ -1,1 +1,47 @@
-{"id":31472884,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Unified Front","desc":"Discard 1 monster, then target 1 face-up monster on the field; its ATK and DEF becomes the discarded monster's ATK and DEF, until the end of this turn. Monsters you control cannot attack directly during the turn you activate this card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":31472884,"pack_id":"TDIL-JP078","pack":"TDIL","rarity":"Unified Front","date":1460160000000},"tcg":{"id":31472884,"pack_id":"TDIL-EN078","pack":"TDIL","rarity":"Unified Front","date":1470268800000}}
+{
+    "id": 31472884,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Unified Front",
+    "desc": "Discard 1 monster, then target 1 face-up monster on the field; its ATK and DEF becomes the discarded monster's ATK and DEF, until the end of this turn. Monsters you control cannot attack directly during the turn you activate this card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 31472884,
+        "pack_id": "TDIL-JP078",
+        "pack": "TDIL",
+        "rarity": "Unified Front",
+        "date": 1460160000000
+    },
+    "tcg": {
+        "id": 31472884,
+        "pack_id": "TDIL-EN078",
+        "pack": "TDIL",
+        "rarity": "Unified Front",
+        "date": 1470268800000
+    }
+}

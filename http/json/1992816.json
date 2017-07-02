@@ -1,1 +1,47 @@
-{"id":1992816,"ot":3,"alias":0,"setcode":72,"type":8388641,"atk":2800,"def":3000,"level":9,"race":32,"attribute":16,"category":196608,"name":"Number 9: Dyson Sphere","desc":"2 Level 9 monsters\nOnce per Battle Step, during your opponent's turn, if this card with Xyz Material is attacked: Negate the attack (this is a Quick Effect). When this card is targeted for an attack while it has no Xyz Materials: You can target 2 monsters in your Graveyard; attach those targets to this card as Xyz Materials. During your Main Phase 1: You can detach 1 Xyz Material from this card; this card can attack your opponent directly this turn. Your opponent must control a monster with higher ATK than this card for you to activate and to resolve this effect.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":1992816,"pack_id":"ABYR-JP044","pack":"ABYR","rarity":"Number 9: Dyson Sphere","date":1342828800000},"tcg":{"id":1992816,"pack_id":"ABYR-EN044","pack":"ABYR","rarity":"Number 9: Dyson Sphere","date":1352419200000}}
+{
+    "id": 1992816,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 72,
+    "type": 8388641,
+    "atk": 2800,
+    "def": 3000,
+    "level": 9,
+    "race": 32,
+    "attribute": 16,
+    "category": 196608,
+    "name": "Number 9: Dyson Sphere",
+    "desc": "2 Level 9 monsters\nOnce per Battle Step, during your opponent's turn, if this card with Xyz Material is attacked: Negate the attack (this is a Quick Effect). When this card is targeted for an attack while it has no Xyz Materials: You can target 2 monsters in your Graveyard; attach those targets to this card as Xyz Materials. During your Main Phase 1: You can detach 1 Xyz Material from this card; this card can attack your opponent directly this turn. Your opponent must control a monster with higher ATK than this card for you to activate and to resolve this effect.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 1992816,
+        "pack_id": "ABYR-JP044",
+        "pack": "ABYR",
+        "rarity": "Number 9: Dyson Sphere",
+        "date": 1342828800000
+    },
+    "tcg": {
+        "id": 1992816,
+        "pack_id": "ABYR-EN044",
+        "pack": "ABYR",
+        "rarity": "Number 9: Dyson Sphere",
+        "date": 1352419200000
+    }
+}

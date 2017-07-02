@@ -1,1 +1,45 @@
-{"id":1861629,"ot":5,"alias":0,"setcode":515,"type":33554465,"atk":2300,"def":"-","level":3,"race":16777216,"attribute":32,"category":2147491840,"name":"Decode Talker","desc":"Link Arrows: [🡱] [🡷] [🡶] \n\n2+ Effect Monsters\nGains 500 ATK for each monster it points to. When your opponent activates a card or effect that targets a card(s) you control (Quick Effect): You can Tribute 1 monster this card points to; negate the activation, and if you do, destroy that card.","str1":" ","str2":" ","str3":" ","str4":" ","str5":" ","str6":" ","str7":" ","str8":" ","str9":" ","str10":" ","str11":" ","str12":" ","str13":" ","str14":" ","str15":" ","str16":" ","links":[1,5,7],"cardpool":"OCG Prerelease","ocg":{"id":1861629,"pack_id":"ST17-JP041","pack":"ST17","rarity":"Decode Talker","date":1490400000000},"tcg":{}}
+{
+    "id": 1861629,
+    "ot": 5,
+    "alias": 0,
+    "setcode": 515,
+    "type": 33554465,
+    "atk": 2300,
+    "def": "-",
+    "level": 3,
+    "race": 16777216,
+    "attribute": 32,
+    "category": 2147491840,
+    "name": "Decode Talker",
+    "desc": "Link Arrows: [🡱] [🡷] [🡶] \n\n2+ Effect Monsters\nGains 500 ATK for each monster it points to. When your opponent activates a card or effect that targets a card(s) you control (Quick Effect): You can Tribute 1 monster this card points to; negate the activation, and if you do, destroy that card.",
+    "str1": " ",
+    "str2": " ",
+    "str3": " ",
+    "str4": " ",
+    "str5": " ",
+    "str6": " ",
+    "str7": " ",
+    "str8": " ",
+    "str9": " ",
+    "str10": " ",
+    "str11": " ",
+    "str12": " ",
+    "str13": " ",
+    "str14": " ",
+    "str15": " ",
+    "str16": " ",
+    "links": [
+        1,
+        5,
+        7
+    ],
+    "cardpool": "OCG Prerelease",
+    "ocg": {
+        "id": 1861629,
+        "pack_id": "ST17-JP041",
+        "pack": "ST17",
+        "rarity": "Decode Talker",
+        "date": 1490400000000
+    },
+    "tcg": {}
+}

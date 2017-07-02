@@ -1,1 +1,47 @@
-{"id":54903668,"ot":3,"alias":0,"setcode":179,"type":1048580,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Yosenjus' Secret Move","desc":"When a Spell/Trap Card, or monster effect, is activated while you control at least 1 \"Yosenju\" card, and all face-up monsters you control are \"Yosenju\" monsters: Negate the activation, and if you do, destroy that card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":54903668,"pack_id":"SPTR-JP009","pack":"SPTR","rarity":"Yosenjus' Secret Move","date":1412985600000},"tcg":{"id":54903668,"pack_id":"THSF-EN009","pack":"THSF","rarity":"Yosenjus' Secret Move","date":1423785600000}}
+{
+    "id": 54903668,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 179,
+    "type": 1048580,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Yosenjus' Secret Move",
+    "desc": "When a Spell/Trap Card, or monster effect, is activated while you control at least 1 \"Yosenju\" card, and all face-up monsters you control are \"Yosenju\" monsters: Negate the activation, and if you do, destroy that card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 54903668,
+        "pack_id": "SPTR-JP009",
+        "pack": "SPTR",
+        "rarity": "Yosenjus' Secret Move",
+        "date": 1412985600000
+    },
+    "tcg": {
+        "id": 54903668,
+        "pack_id": "THSF-EN009",
+        "pack": "THSF",
+        "rarity": "Yosenjus' Secret Move",
+        "date": 1423785600000
+    }
+}

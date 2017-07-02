@@ -1,1 +1,47 @@
-{"id":89987208,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1100,"def":1000,"level":3,"race":1,"attribute":1,"category":0,"name":"Hero of the East","desc":"Feel da strength ah dis sword-swinging samurai from da Far East.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":89987208,"pack_id":null,"pack":"Vol.7","rarity":"共通","date":948949200000},"tcg":{"id":89987208,"pack_id":"LCJW-EN019","pack":"LCJW","rarity":"Hero of the East","date":1381449600000}}
+{
+    "id": 89987208,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1100,
+    "def": 1000,
+    "level": 3,
+    "race": 1,
+    "attribute": 1,
+    "category": 0,
+    "name": "Hero of the East",
+    "desc": "Feel da strength ah dis sword-swinging samurai from da Far East.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 89987208,
+        "pack_id": null,
+        "pack": "Vol.7",
+        "rarity": "共通",
+        "date": 948949200000
+    },
+    "tcg": {
+        "id": 89987208,
+        "pack_id": "LCJW-EN019",
+        "pack": "LCJW",
+        "rarity": "Hero of the East",
+        "date": 1381449600000
+    }
+}

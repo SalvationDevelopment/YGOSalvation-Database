@@ -1,1 +1,47 @@
-{"id":46652477,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1056,"name":"The Transmigration Prophecy","desc":"Target 2 cards in the Graveyard(s); shuffle those targets into the Deck(s).","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":46652477,"pack_id":"STON-JP054","pack":"STON","rarity":"The Transmigration Prophecy","date":1163635200000},"tcg":{"id":46652477,"pack_id":"STON-EN054","pack":"STON","rarity":"The Transmigration Prophecy","date":1172620800000}}
+{
+    "id": 46652477,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1056,
+    "name": "The Transmigration Prophecy",
+    "desc": "Target 2 cards in the Graveyard(s); shuffle those targets into the Deck(s).",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 46652477,
+        "pack_id": "STON-JP054",
+        "pack": "STON",
+        "rarity": "The Transmigration Prophecy",
+        "date": 1163635200000
+    },
+    "tcg": {
+        "id": 46652477,
+        "pack_id": "STON-EN054",
+        "pack": "STON",
+        "rarity": "The Transmigration Prophecy",
+        "date": 1172620800000
+    }
+}

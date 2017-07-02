@@ -1,1 +1,47 @@
-{"id":69170557,"ot":3,"alias":0,"setcode":889066819656,"type":8388641,"atk":3300,"def":2000,"level":9,"race":32,"attribute":32,"category":0,"name":"Number C40: Gimmick Puppet of Dark Strings","desc":"3 Level 9 monsters\nWhen this card is Special Summoned: Destroy the monsters with String Counters, and if you do, draw 1 card, then inflict damage to your opponent equal to the highest original ATK among those destroyed monsters in the Graveyard (your choice, if tied). Once per turn: You can detach 1 Xyz Material from this card; place 1 String Counter on each face-up monster your opponent controls.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":69170557,"pack_id":"PP16-JP011","pack":"PP16","rarity":"Number C40: Gimmick Puppet of Dark Strings","date":1395360000000},"tcg":{"id":69170557,"pack_id":"PGLD-EN020","pack":"PGLD","rarity":"Number C40: Gimmick Puppet of Dark Strings","date":1395964800000}}
+{
+    "id": 69170557,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 889066819656,
+    "type": 8388641,
+    "atk": 3300,
+    "def": 2000,
+    "level": 9,
+    "race": 32,
+    "attribute": 32,
+    "category": 0,
+    "name": "Number C40: Gimmick Puppet of Dark Strings",
+    "desc": "3 Level 9 monsters\nWhen this card is Special Summoned: Destroy the monsters with String Counters, and if you do, draw 1 card, then inflict damage to your opponent equal to the highest original ATK among those destroyed monsters in the Graveyard (your choice, if tied). Once per turn: You can detach 1 Xyz Material from this card; place 1 String Counter on each face-up monster your opponent controls.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 69170557,
+        "pack_id": "PP16-JP011",
+        "pack": "PP16",
+        "rarity": "Number C40: Gimmick Puppet of Dark Strings",
+        "date": 1395360000000
+    },
+    "tcg": {
+        "id": 69170557,
+        "pack_id": "PGLD-EN020",
+        "pack": "PGLD",
+        "rarity": "Number C40: Gimmick Puppet of Dark Strings",
+        "date": 1395964800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":83467607,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Nature's Reflection","desc":"During this turn, any effect activated by your opponent that would inflict damage becomes an effect that inflicts damage to their Life Points.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":83467607,"pack_id":"ABPF-JP065","pack":"ABPF","rarity":"Nature's Reflection","date":1258156800000},"tcg":{"id":83467607,"pack_id":"ABPF-EN065","pack":"ABPF","rarity":"Nature's Reflection","date":1265932800000}}
+{
+    "id": 83467607,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Nature's Reflection",
+    "desc": "During this turn, any effect activated by your opponent that would inflict damage becomes an effect that inflicts damage to their Life Points.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 83467607,
+        "pack_id": "ABPF-JP065",
+        "pack": "ABPF",
+        "rarity": "Nature's Reflection",
+        "date": 1258156800000
+    },
+    "tcg": {
+        "id": 83467607,
+        "pack_id": "ABPF-EN065",
+        "pack": "ABPF",
+        "rarity": "Nature's Reflection",
+        "date": 1265932800000
+    }
+}

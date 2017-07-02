@@ -1,1 +1,47 @@
-{"id":58601383,"ot":3,"alias":0,"setcode":257,"type":97,"atk":3500,"def":2800,"level":10,"race":32768,"attribute":1,"category":16777216,"name":"Gaia Drake, the Universal Force","desc":"1 \"Gaia Knight, the Force of Earth\" + 1 non-Effect Synchro Monster\nThis card cannot be targeted by, or destroyed by, the effects of Effect Monsters.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":58601383,"pack_id":"STBL-JP039","pack":"STBL","rarity":"Gaia Drake, the Universal Force","date":1279324800000},"tcg":{"id":58601383,"pack_id":"STBL-EN039","pack":"STBL","rarity":"Gaia Drake, the Universal Force","date":1289001600000}}
+{
+    "id": 58601383,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 257,
+    "type": 97,
+    "atk": 3500,
+    "def": 2800,
+    "level": 10,
+    "race": 32768,
+    "attribute": 1,
+    "category": 16777216,
+    "name": "Gaia Drake, the Universal Force",
+    "desc": "1 \"Gaia Knight, the Force of Earth\" + 1 non-Effect Synchro Monster\nThis card cannot be targeted by, or destroyed by, the effects of Effect Monsters.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 58601383,
+        "pack_id": "STBL-JP039",
+        "pack": "STBL",
+        "rarity": "Gaia Drake, the Universal Force",
+        "date": 1279324800000
+    },
+    "tcg": {
+        "id": 58601383,
+        "pack_id": "STBL-EN039",
+        "pack": "STBL",
+        "rarity": "Gaia Drake, the Universal Force",
+        "date": 1289001600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":65623423,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1300,"def":700,"level":3,"race":64,"attribute":2,"category":0,"name":"Gruesome Goo","desc":"A slime boss that is definitely tougher than it looks.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":65623423,"pack_id":null,"pack":"Booster 4","rarity":"共通","date":935643600000},"tcg":{"id":65623423,"pack_id":"AP06-EN015","pack":"AP06","rarity":"Gruesome Goo","date":1418342400000}}
+{
+    "id": 65623423,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1300,
+    "def": 700,
+    "level": 3,
+    "race": 64,
+    "attribute": 2,
+    "category": 0,
+    "name": "Gruesome Goo",
+    "desc": "A slime boss that is definitely tougher than it looks.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 65623423,
+        "pack_id": null,
+        "pack": "Booster 4",
+        "rarity": "共通",
+        "date": 935643600000
+    },
+    "tcg": {
+        "id": 65623423,
+        "pack_id": "AP06-EN015",
+        "pack": "AP06",
+        "rarity": "Gruesome Goo",
+        "date": 1418342400000
+    }
+}

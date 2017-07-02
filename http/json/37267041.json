@@ -1,1 +1,47 @@
-{"id":37267041,"ot":3,"alias":0,"setcode":15138881,"type":33,"atk":2800,"def":1000,"level":7,"race":1,"attribute":16,"category":-2147483648,"name":"Silent Swordsman LV7","desc":"Cannot be Normal Summoned/Set. Must be Special Summoned by \"Silent Swordsman LV5\", and cannot be Special Summoned by other ways. Negate all Spell effects on the field.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":37267041,"pack_id":"DI2-JPB01","pack":"DI2","rarity":"Silent Swordsman LV7","date":1104364800000},"tcg":{"id":37267041,"pack_id":"WC5-EN001","pack":"WC5","rarity":"Silent Swordsman LV7","date":1108425600000}}
+{
+    "id": 37267041,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 15138881,
+    "type": 33,
+    "atk": 2800,
+    "def": 1000,
+    "level": 7,
+    "race": 1,
+    "attribute": 16,
+    "category": -2147483648,
+    "name": "Silent Swordsman LV7",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Silent Swordsman LV5\", and cannot be Special Summoned by other ways. Negate all Spell effects on the field.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 37267041,
+        "pack_id": "DI2-JPB01",
+        "pack": "DI2",
+        "rarity": "Silent Swordsman LV7",
+        "date": 1104364800000
+    },
+    "tcg": {
+        "id": 37267041,
+        "pack_id": "WC5-EN001",
+        "pack": "WC5",
+        "rarity": "Silent Swordsman LV7",
+        "date": 1108425600000
+    }
+}

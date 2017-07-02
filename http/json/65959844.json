@@ -1,1 +1,47 @@
-{"id":65959844,"ot":3,"alias":0,"setcode":0,"type":524290,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Catalyst Field","desc":"Each turn, 1 Level 5 or higher Gemini monster you Normal Summon can be Summoned without Tributing. During your Main Phase, you can Normal Summon 1 Gemini monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Once per turn: You can target 1 card your opponent controls; banish 1 Gemini monster you control, that is treated as an Effect Monster and has gained its effects, until your opponent's End Phase, and if you do, destroy that card.","str1":"Summon without Tribute","str2":"Destroy","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":65959844,"pack_id":"INOV-JP059","pack":"INOV","rarity":"Catalyst Field","date":1468022400000},"tcg":{"id":65959844,"pack_id":"INOV-EN059","pack":"INOV","rarity":"Catalyst Field","date":1478131200000}}
+{
+    "id": 65959844,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 524290,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Catalyst Field",
+    "desc": "Each turn, 1 Level 5 or higher Gemini monster you Normal Summon can be Summoned without Tributing. During your Main Phase, you can Normal Summon 1 Gemini monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Once per turn: You can target 1 card your opponent controls; banish 1 Gemini monster you control, that is treated as an Effect Monster and has gained its effects, until your opponent's End Phase, and if you do, destroy that card.",
+    "str1": "Summon without Tribute",
+    "str2": "Destroy",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 65959844,
+        "pack_id": "INOV-JP059",
+        "pack": "INOV",
+        "rarity": "Catalyst Field",
+        "date": 1468022400000
+    },
+    "tcg": {
+        "id": 65959844,
+        "pack_id": "INOV-EN059",
+        "pack": "INOV",
+        "rarity": "Catalyst Field",
+        "date": 1478131200000
+    }
+}

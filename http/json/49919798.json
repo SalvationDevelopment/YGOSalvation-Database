@@ -1,1 +1,47 @@
-{"id":49919798,"ot":3,"alias":0,"setcode":4198,"type":2097185,"atk":1200,"def":1900,"level":4,"race":32,"attribute":8,"category":0,"name":"Symphonic Warrior Synthess","desc":"FLIP: You can add 1 \"Symphonic Warrior\" monster from your Deck to your hand, except \"Symphonic Warrior Synthess\".\nOnce per turn: You can target 1 monster you control or in your Graveyard whose original name includes \"Symphonic Warrior\", except \"Symphonic Warrior Synthess\"; until the End Phase, this card's name becomes that monster's original name, and replace this effect with that monster's original effects. You can banish this card from your Graveyard, then target 1 of your banished \"Symphonic Warrior\" monsters, except \"Symphonic Warrior Synthess\"; Special Summon it.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":49919798,"pack_id":"SECE-JP089","pack":"SECE","rarity":"Symphonic Warrior Synthess","date":1416009600000},"tcg":{"id":49919798,"pack_id":"RATE-EN091","pack":"RATE","rarity":"Symphonic Warrior Synthess","date":1486598400000}}
+{
+    "id": 49919798,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4198,
+    "type": 2097185,
+    "atk": 1200,
+    "def": 1900,
+    "level": 4,
+    "race": 32,
+    "attribute": 8,
+    "category": 0,
+    "name": "Symphonic Warrior Synthess",
+    "desc": "FLIP: You can add 1 \"Symphonic Warrior\" monster from your Deck to your hand, except \"Symphonic Warrior Synthess\".\nOnce per turn: You can target 1 monster you control or in your Graveyard whose original name includes \"Symphonic Warrior\", except \"Symphonic Warrior Synthess\"; until the End Phase, this card's name becomes that monster's original name, and replace this effect with that monster's original effects. You can banish this card from your Graveyard, then target 1 of your banished \"Symphonic Warrior\" monsters, except \"Symphonic Warrior Synthess\"; Special Summon it.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 49919798,
+        "pack_id": "SECE-JP089",
+        "pack": "SECE",
+        "rarity": "Symphonic Warrior Synthess",
+        "date": 1416009600000
+    },
+    "tcg": {
+        "id": 49919798,
+        "pack_id": "RATE-EN091",
+        "pack": "RATE",
+        "rarity": "Symphonic Warrior Synthess",
+        "date": 1486598400000
+    }
+}

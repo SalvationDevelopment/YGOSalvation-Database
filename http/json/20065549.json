@@ -1,1 +1,47 @@
-{"id":20065549,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":33554432,"name":"Non-Spellcasting Area","desc":"All face-up monsters, except for Effect Monsters, are unaffected by other Spell effects.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":20065549,"pack_id":"304-043","pack":"304","rarity":"Non-Spellcasting Area","date":1037836800000},"tcg":{"id":20065549,"pack_id":"DCR-043","pack":"DCR","rarity":"Non-Spellcasting Area","date":1070236800000}}
+{
+    "id": 20065549,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 33554432,
+    "name": "Non-Spellcasting Area",
+    "desc": "All face-up monsters, except for Effect Monsters, are unaffected by other Spell effects.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 20065549,
+        "pack_id": "304-043",
+        "pack": "304",
+        "rarity": "Non-Spellcasting Area",
+        "date": 1037836800000
+    },
+    "tcg": {
+        "id": 20065549,
+        "pack_id": "DCR-043",
+        "pack": "DCR",
+        "rarity": "Non-Spellcasting Area",
+        "date": 1070236800000
+    }
+}

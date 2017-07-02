@@ -1,1 +1,47 @@
-{"id":29876529,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":2097154,"name":"Darklight","desc":"Tribute 1 DARK monster with 1500 or more ATK; destroy all monsters that were Special Summoned this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":29876529,"pack_id":"PHSW-JP075","pack":"PHSW","rarity":"Darklight","date":1310774400000},"tcg":{"id":29876529,"pack_id":"PHSW-EN075","pack":"PHSW","rarity":"Darklight","date":1320883200000}}
+{
+    "id": 29876529,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 2097154,
+    "name": "Darklight",
+    "desc": "Tribute 1 DARK monster with 1500 or more ATK; destroy all monsters that were Special Summoned this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 29876529,
+        "pack_id": "PHSW-JP075",
+        "pack": "PHSW",
+        "rarity": "Darklight",
+        "date": 1310774400000
+    },
+    "tcg": {
+        "id": 29876529,
+        "pack_id": "PHSW-EN075",
+        "pack": "PHSW",
+        "rarity": "Darklight",
+        "date": 1320883200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":62742651,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2200,"def":1800,"level":6,"race":1048576,"attribute":1,"category":4456448,"name":"Armored Axon Kicker","desc":"If you control a face-up Psychic-Type monster, you can Normal Summon this card without Tributing. If this card destroys an opponent's monster by battle, you take damage equal to half the destroyed monster's ATK. Then, you can Special Summon 1 monster from your Graveyard with ATK less than or equal to the damage you took.","str1":"Normal Summon without Tribute","str2":"Special Summon 1 monster from your Graveyard?","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":62742651,"pack_id":"ANPR-JP029","pack":"ANPR","rarity":"Armored Axon Kicker","date":1240012800000},"tcg":{"id":62742651,"pack_id":"ANPR-EN029","pack":"ANPR","rarity":"Armored Axon Kicker","date":1251763200000}}
+{
+    "id": 62742651,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2200,
+    "def": 1800,
+    "level": 6,
+    "race": 1048576,
+    "attribute": 1,
+    "category": 4456448,
+    "name": "Armored Axon Kicker",
+    "desc": "If you control a face-up Psychic-Type monster, you can Normal Summon this card without Tributing. If this card destroys an opponent's monster by battle, you take damage equal to half the destroyed monster's ATK. Then, you can Special Summon 1 monster from your Graveyard with ATK less than or equal to the damage you took.",
+    "str1": "Normal Summon without Tribute",
+    "str2": "Special Summon 1 monster from your Graveyard?",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 62742651,
+        "pack_id": "ANPR-JP029",
+        "pack": "ANPR",
+        "rarity": "Armored Axon Kicker",
+        "date": 1240012800000
+    },
+    "tcg": {
+        "id": 62742651,
+        "pack_id": "ANPR-EN029",
+        "pack": "ANPR",
+        "rarity": "Armored Axon Kicker",
+        "date": 1251763200000
+    }
+}

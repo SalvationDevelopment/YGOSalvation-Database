@@ -1,1 +1,47 @@
-{"id":48130397,"ot":3,"alias":0,"setcode":70,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":268697608,"name":"Super Polymerization","desc":"Discard 1 card; Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from either side of the field as Fusion Materials. Cards and effects cannot be activated in response to this card's activation.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":48130397,"pack_id":"PTDN-JP046","pack":"PTDN","rarity":"Super Polymerization","date":1195776000000},"tcg":{"id":48130397,"pack_id":"PTDN-EN046","pack":"PTDN","rarity":"Super Polymerization","date":1201305600000}}
+{
+    "id": 48130397,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 70,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 268697608,
+    "name": "Super Polymerization",
+    "desc": "Discard 1 card; Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from either side of the field as Fusion Materials. Cards and effects cannot be activated in response to this card's activation.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 48130397,
+        "pack_id": "PTDN-JP046",
+        "pack": "PTDN",
+        "rarity": "Super Polymerization",
+        "date": 1195776000000
+    },
+    "tcg": {
+        "id": 48130397,
+        "pack_id": "PTDN-EN046",
+        "pack": "PTDN",
+        "rarity": "Super Polymerization",
+        "date": 1201305600000
+    }
+}

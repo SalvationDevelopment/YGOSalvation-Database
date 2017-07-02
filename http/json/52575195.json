@@ -1,1 +1,47 @@
-{"id":52575195,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1700,"def":800,"level":4,"race":32768,"attribute":16,"category":4,"name":"Vivid Knight","desc":"During either player's turn (except during the Damage Step), when your opponent targets exactly 1 LIGHT Beast-Warrior-Type monster you control (and no other cards) for an attack, or with a card effect: Banish that monster you control until your next Standby Phase, and if you do, Special Summon this card from your hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":52575195,"pack_id":"PR03-JP014","pack":"PR03","rarity":"Vivid Knight","date":1363392000000},"tcg":{"id":52575195,"pack_id":"SHSP-EN099","pack":"SHSP","rarity":"Vivid Knight","date":1383868800000}}
+{
+    "id": 52575195,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1700,
+    "def": 800,
+    "level": 4,
+    "race": 32768,
+    "attribute": 16,
+    "category": 4,
+    "name": "Vivid Knight",
+    "desc": "During either player's turn (except during the Damage Step), when your opponent targets exactly 1 LIGHT Beast-Warrior-Type monster you control (and no other cards) for an attack, or with a card effect: Banish that monster you control until your next Standby Phase, and if you do, Special Summon this card from your hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 52575195,
+        "pack_id": "PR03-JP014",
+        "pack": "PR03",
+        "rarity": "Vivid Knight",
+        "date": 1363392000000
+    },
+    "tcg": {
+        "id": 52575195,
+        "pack_id": "SHSP-EN099",
+        "pack": "SHSP",
+        "rarity": "Vivid Knight",
+        "date": 1383868800000
+    }
+}

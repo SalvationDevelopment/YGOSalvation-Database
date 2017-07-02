@@ -1,1 +1,47 @@
-{"id":17228909,"ot":3,"alias":0,"setcode":0,"type":16401,"atk":0,"def":0,"level":1,"race":65536,"attribute":1,"category":1,"name":"Jurraegg Token","desc":"This card can be used as a \"Juraegg Token\".\n\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":17228909,"pack_id":"SR04-JPTKN","pack":"","rarity":"","date":1487980800000},"tcg":{"id":17228909,"pack_id":"SR04-JPTKN","pack":"","rarity":"","date":1492041600000}}
+{
+    "id": 17228909,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 16401,
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": 65536,
+    "attribute": 1,
+    "category": 1,
+    "name": "Jurraegg Token",
+    "desc": "This card can be used as a \"Juraegg Token\".\n\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 17228909,
+        "pack_id": "SR04-JPTKN",
+        "pack": "",
+        "rarity": "",
+        "date": 1487980800000
+    },
+    "tcg": {
+        "id": 17228909,
+        "pack_id": "SR04-JPTKN",
+        "pack": "",
+        "rarity": "",
+        "date": 1492041600000
+    }
+}

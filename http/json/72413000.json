@@ -1,1 +1,47 @@
-{"id":72413000,"ot":3,"alias":0,"setcode":169,"type":33,"atk":100,"def":100,"level":1,"race":4,"attribute":16,"category":0,"name":"Fluffal Wings","desc":"If this card is in your Graveyard and you control \"Toy Vendor\": You can banish this card from your Graveyard, then target 1 \"Fluffal\" monster in your Graveyard; banish it, and if you do, draw 1 card, then you can send 1 \"Toy Vendor\" you control to the Graveyard, and if you do, draw 1 card. You can only use this effect of \"Fluffal Wings\" once per turn.","str1":"Destroy Toy Vendor","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":72413000,"pack_id":"DOCS-JP009","pack":"DOCS","rarity":"Fluffal Wings","date":1437177600000},"tcg":{"id":72413000,"pack_id":"DOCS-EN009","pack":"DOCS","rarity":"Fluffal Wings","date":1446681600000}}
+{
+    "id": 72413000,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 169,
+    "type": 33,
+    "atk": 100,
+    "def": 100,
+    "level": 1,
+    "race": 4,
+    "attribute": 16,
+    "category": 0,
+    "name": "Fluffal Wings",
+    "desc": "If this card is in your Graveyard and you control \"Toy Vendor\": You can banish this card from your Graveyard, then target 1 \"Fluffal\" monster in your Graveyard; banish it, and if you do, draw 1 card, then you can send 1 \"Toy Vendor\" you control to the Graveyard, and if you do, draw 1 card. You can only use this effect of \"Fluffal Wings\" once per turn.",
+    "str1": "Destroy Toy Vendor",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 72413000,
+        "pack_id": "DOCS-JP009",
+        "pack": "DOCS",
+        "rarity": "Fluffal Wings",
+        "date": 1437177600000
+    },
+    "tcg": {
+        "id": 72413000,
+        "pack_id": "DOCS-EN009",
+        "pack": "DOCS",
+        "rarity": "Fluffal Wings",
+        "date": 1446681600000
+    }
+}

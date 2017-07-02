@@ -1,1 +1,47 @@
-{"id":77087109,"ot":3,"alias":0,"setcode":87,"type":4129,"atk":1200,"def":600,"level":3,"race":8,"attribute":1,"category":16777216,"name":"Clock Resonator","desc":"Once per turn, this face-up Defense Position card cannot be destroyed by battle or by card effects.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":77087109,"pack_id":"EXVC-JP007","pack":"EXVC","rarity":"Clock Resonator","date":1297382400000},"tcg":{"id":77087109,"pack_id":"EXVC-EN007","pack":"EXVC","rarity":"Clock Resonator","date":1304121600000}}
+{
+    "id": 77087109,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 87,
+    "type": 4129,
+    "atk": 1200,
+    "def": 600,
+    "level": 3,
+    "race": 8,
+    "attribute": 1,
+    "category": 16777216,
+    "name": "Clock Resonator",
+    "desc": "Once per turn, this face-up Defense Position card cannot be destroyed by battle or by card effects.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 77087109,
+        "pack_id": "EXVC-JP007",
+        "pack": "EXVC",
+        "rarity": "Clock Resonator",
+        "date": 1297382400000
+    },
+    "tcg": {
+        "id": 77087109,
+        "pack_id": "EXVC-EN007",
+        "pack": "EXVC",
+        "rarity": "Clock Resonator",
+        "date": 1304121600000
+    }
+}

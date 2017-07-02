@@ -1,1 +1,47 @@
-{"id":75457624,"ot":3,"alias":0,"setcode":181,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Ritual Beast's Bond","desc":"Banish 2 \"Ritual Beast\" monsters you control; Special Summon 1 \"Ritual Beast\" monster from your Extra Deck, ignoring its Summoning conditions.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":75457624,"pack_id":"SPTR-JP031","pack":"SPTR","rarity":"Ritual Beast's Bond","date":1412985600000},"tcg":{"id":75457624,"pack_id":"THSF-EN031","pack":"THSF","rarity":"Ritual Beast's Bond","date":1423785600000}}
+{
+    "id": 75457624,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 181,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Ritual Beast's Bond",
+    "desc": "Banish 2 \"Ritual Beast\" monsters you control; Special Summon 1 \"Ritual Beast\" monster from your Extra Deck, ignoring its Summoning conditions.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 75457624,
+        "pack_id": "SPTR-JP031",
+        "pack": "SPTR",
+        "rarity": "Ritual Beast's Bond",
+        "date": 1412985600000
+    },
+    "tcg": {
+        "id": 75457624,
+        "pack_id": "THSF-EN031",
+        "pack": "THSF",
+        "rarity": "Ritual Beast's Bond",
+        "date": 1423785600000
+    }
+}

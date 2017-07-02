@@ -1,1 +1,47 @@
-{"id":19578592,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":-2143281152,"name":"Axe of Fools","desc":"The equipped monster gains 1000 ATK, but its effects are negated. During each of your Standby Phases: Inflict 500 damage to the controller of the equipped monster.","str1":"500damage","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":19578592,"pack_id":"STBL-JP058","pack":"STBL","rarity":"Axe of Fools","date":1279324800000},"tcg":{"id":19578592,"pack_id":"STBL-EN058","pack":"STBL","rarity":"Axe of Fools","date":1289001600000}}
+{
+    "id": 19578592,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": -2143281152,
+    "name": "Axe of Fools",
+    "desc": "The equipped monster gains 1000 ATK, but its effects are negated. During each of your Standby Phases: Inflict 500 damage to the controller of the equipped monster.",
+    "str1": "500damage",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 19578592,
+        "pack_id": "STBL-JP058",
+        "pack": "STBL",
+        "rarity": "Axe of Fools",
+        "date": 1279324800000
+    },
+    "tcg": {
+        "id": 19578592,
+        "pack_id": "STBL-EN058",
+        "pack": "STBL",
+        "rarity": "Axe of Fools",
+        "date": 1289001600000
+    }
+}

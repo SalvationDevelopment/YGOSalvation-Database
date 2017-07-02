@@ -1,1 +1,47 @@
-{"id":81863068,"ot":3,"alias":0,"setcode":0,"type":2097185,"atk":650,"def":500,"level":2,"race":8,"attribute":32,"category":256,"name":"Hiro's Shadow Scout","desc":"FLIP: Your opponent draws 3 cards. Both players look at the cards. If there are any Spell Cards among them, discard all those Spell Card(s) to the Graveyard.","str1":"Draw","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":81863068,"pack_id":"MR-24","pack":"MR","rarity":"Hiro's Shadow Scout","date":956188800000},"tcg":{"id":81863068,"pack_id":"MRL-024","pack":"MRL","rarity":"Hiro's Shadow Scout","date":1032134400000}}
+{
+    "id": 81863068,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2097185,
+    "atk": 650,
+    "def": 500,
+    "level": 2,
+    "race": 8,
+    "attribute": 32,
+    "category": 256,
+    "name": "Hiro's Shadow Scout",
+    "desc": "FLIP: Your opponent draws 3 cards. Both players look at the cards. If there are any Spell Cards among them, discard all those Spell Card(s) to the Graveyard.",
+    "str1": "Draw",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 81863068,
+        "pack_id": "MR-24",
+        "pack": "MR",
+        "rarity": "Hiro's Shadow Scout",
+        "date": 956188800000
+    },
+    "tcg": {
+        "id": 81863068,
+        "pack_id": "MRL-024",
+        "pack": "MRL",
+        "rarity": "Hiro's Shadow Scout",
+        "date": 1032134400000
+    }
+}

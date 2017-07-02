@@ -1,1 +1,47 @@
-{"id":64382839,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2400,"def":2100,"level":7,"race":4,"attribute":32,"category":786432,"name":"Zeta Reticulant","desc":"You can Tribute 1 \"Eva Token\" to Special Summon this card from your hand. While this card is in your Graveyard, each time a monster(s) your opponent controls is removed from play, Special Summon 1 \"Eva Token\" (Fiend-Type/DARK/Level 2/ATK 500/DEF 500).","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":64382839,"pack_id":"LE09-JP004","pack":"LE09","rarity":"Zeta Reticulant","date":1148083200000},"tcg":{"id":64382839,"pack_id":"CRMS-EN094","pack":"CRMS","rarity":"Zeta Reticulant","date":1235779200000}}
+{
+    "id": 64382839,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2400,
+    "def": 2100,
+    "level": 7,
+    "race": 4,
+    "attribute": 32,
+    "category": 786432,
+    "name": "Zeta Reticulant",
+    "desc": "You can Tribute 1 \"Eva Token\" to Special Summon this card from your hand. While this card is in your Graveyard, each time a monster(s) your opponent controls is removed from play, Special Summon 1 \"Eva Token\" (Fiend-Type/DARK/Level 2/ATK 500/DEF 500).",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 64382839,
+        "pack_id": "LE09-JP004",
+        "pack": "LE09",
+        "rarity": "Zeta Reticulant",
+        "date": 1148083200000
+    },
+    "tcg": {
+        "id": 64382839,
+        "pack_id": "CRMS-EN094",
+        "pack": "CRMS",
+        "rarity": "Zeta Reticulant",
+        "date": 1235779200000
+    }
+}

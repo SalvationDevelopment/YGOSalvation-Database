@@ -1,1 +1,47 @@
-{"id":40371092,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1600,"def":1200,"level":4,"race":1,"attribute":16,"category":0,"name":"Gaia, the Mid-Knight Sun","desc":"You can only use each effect of \"Gaia, the Mid-Knight Sun\" once per turn.\n● You can Tribute 1 other LIGHT monster you control; add 1 Level 4 DARK Warrior-Type monster from your Deck to your hand, then send 1 card from your hand to the Graveyard.\n● You can banish 1 DARK monster from your Graveyard, then target 1 monster on the field; it loses 500 ATK, until the end of your opponent's turn.","str1":"Add 1 Level 4 DARK Warrior-Type","str2":"Reduce attack by 500","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":40371092,"pack_id":"VE09-JP003","pack":"VE09","rarity":"Gaia, the Mid-Knight Sun","date":1376179200000},"tcg":{"id":40371092,"pack_id":"DUEA-EN091","pack":"DUEA","rarity":"Gaia, the Mid-Knight Sun","date":1407974400000}}
+{
+    "id": 40371092,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1600,
+    "def": 1200,
+    "level": 4,
+    "race": 1,
+    "attribute": 16,
+    "category": 0,
+    "name": "Gaia, the Mid-Knight Sun",
+    "desc": "You can only use each effect of \"Gaia, the Mid-Knight Sun\" once per turn.\n● You can Tribute 1 other LIGHT monster you control; add 1 Level 4 DARK Warrior-Type monster from your Deck to your hand, then send 1 card from your hand to the Graveyard.\n● You can banish 1 DARK monster from your Graveyard, then target 1 monster on the field; it loses 500 ATK, until the end of your opponent's turn.",
+    "str1": "Add 1 Level 4 DARK Warrior-Type",
+    "str2": "Reduce attack by 500",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 40371092,
+        "pack_id": "VE09-JP003",
+        "pack": "VE09",
+        "rarity": "Gaia, the Mid-Knight Sun",
+        "date": 1376179200000
+    },
+    "tcg": {
+        "id": 40371092,
+        "pack_id": "DUEA-EN091",
+        "pack": "DUEA",
+        "rarity": "Gaia, the Mid-Knight Sun",
+        "date": 1407974400000
+    }
+}

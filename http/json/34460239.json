@@ -1,1 +1,47 @@
-{"id":34460239,"ot":3,"alias":0,"setcode":165,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":514,"name":"Generation Shift","desc":"Target 1 face-up monster you control; destroy that target, then add 1 card with the same name as the destroyed card from your Deck to your hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":34460239,"pack_id":"SOI-JP055","pack":"SOI","rarity":"Generation Shift","date":1132185600000},"tcg":{"id":34460239,"pack_id":"SOI-EN055","pack":"SOI","rarity":"Generation Shift","date":1140220800000}}
+{
+    "id": 34460239,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 165,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 514,
+    "name": "Generation Shift",
+    "desc": "Target 1 face-up monster you control; destroy that target, then add 1 card with the same name as the destroyed card from your Deck to your hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 34460239,
+        "pack_id": "SOI-JP055",
+        "pack": "SOI",
+        "rarity": "Generation Shift",
+        "date": 1132185600000
+    },
+    "tcg": {
+        "id": 34460239,
+        "pack_id": "SOI-EN055",
+        "pack": "SOI",
+        "rarity": "Generation Shift",
+        "date": 1140220800000
+    }
+}

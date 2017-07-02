@@ -1,1 +1,47 @@
-{"id":15383415,"ot":3,"alias":0,"setcode":0,"type":33,"atk":500,"def":1000,"level":3,"race":2048,"attribute":32,"category":2050,"name":"Swarm of Scarabs","desc":"Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Target 1 monster your opponent controls; destroy that target.","str1":"变成里侧守备表示","str2":"破坏对方1只怪兽","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":15383415,"pack_id":"PH-21","pack":"PH","rarity":"Swarm of Scarabs","date":1016668800000},"tcg":{"id":15383415,"pack_id":"PGD-021","pack":"PGD","rarity":"Swarm of Scarabs","date":1058486400000}}
+{
+    "id": 15383415,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 500,
+    "def": 1000,
+    "level": 3,
+    "race": 2048,
+    "attribute": 32,
+    "category": 2050,
+    "name": "Swarm of Scarabs",
+    "desc": "Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Target 1 monster your opponent controls; destroy that target.",
+    "str1": "变成里侧守备表示",
+    "str2": "破坏对方1只怪兽",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 15383415,
+        "pack_id": "PH-21",
+        "pack": "PH",
+        "rarity": "Swarm of Scarabs",
+        "date": 1016668800000
+    },
+    "tcg": {
+        "id": 15383415,
+        "pack_id": "PGD-021",
+        "pack": "PGD",
+        "rarity": "Swarm of Scarabs",
+        "date": 1058486400000
+    }
+}

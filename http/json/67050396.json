@@ -1,1 +1,47 @@
-{"id":67050396,"ot":3,"alias":0,"setcode":210,"type":33,"atk":1800,"def":1000,"level":4,"race":1048576,"attribute":16,"category":0,"name":"Kozmo Goodwitch","desc":"During either player's turn: You can banish this card; Special Summon 1 Level 5 or higher \"Kozmo\" monster from your hand. You can only use this effect of \"Kozmo Goodwitch\" once per turn. Once per turn: You can pay 500 LP, then target 1 face-up monster your opponent controls; change it to face-down Defense Position.","str1":"Banish Kozmo Goodwitch to Special Summon 1 Level 5 or higher \"Kozmo\" Monster from hand.","str2":"Pay 500 LP to change the position of an opponent monster.","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":67050396,"pack_id":"EP16-JP002","pack":"EP16","rarity":"Kozmo Goodwitch","date":1473465600000},"tcg":{"id":67050396,"pack_id":"CORE-EN083","pack":"CORE","rarity":"Kozmo Goodwitch","date":1438819200000}}
+{
+    "id": 67050396,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 210,
+    "type": 33,
+    "atk": 1800,
+    "def": 1000,
+    "level": 4,
+    "race": 1048576,
+    "attribute": 16,
+    "category": 0,
+    "name": "Kozmo Goodwitch",
+    "desc": "During either player's turn: You can banish this card; Special Summon 1 Level 5 or higher \"Kozmo\" monster from your hand. You can only use this effect of \"Kozmo Goodwitch\" once per turn. Once per turn: You can pay 500 LP, then target 1 face-up monster your opponent controls; change it to face-down Defense Position.",
+    "str1": "Banish Kozmo Goodwitch to Special Summon 1 Level 5 or higher \"Kozmo\" Monster from hand.",
+    "str2": "Pay 500 LP to change the position of an opponent monster.",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 67050396,
+        "pack_id": "EP16-JP002",
+        "pack": "EP16",
+        "rarity": "Kozmo Goodwitch",
+        "date": 1473465600000
+    },
+    "tcg": {
+        "id": 67050396,
+        "pack_id": "CORE-EN083",
+        "pack": "CORE",
+        "rarity": "Kozmo Goodwitch",
+        "date": 1438819200000
+    }
+}

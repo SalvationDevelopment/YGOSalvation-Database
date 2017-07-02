@@ -1,1 +1,47 @@
-{"id":35787450,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":67108864,"name":"Eternal Dread","desc":"Put 2 Clock Counters on \"Clock Tower Prison\".","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":35787450,"pack_id":"DP05-JP030","pack":"DP05","rarity":"Eternal Dread","date":1161820800000},"tcg":{"id":35787450,"pack_id":"DP05-EN030","pack":"DP05","rarity":"Eternal Dread","date":1170806400000}}
+{
+    "id": 35787450,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 67108864,
+    "name": "Eternal Dread",
+    "desc": "Put 2 Clock Counters on \"Clock Tower Prison\".",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 35787450,
+        "pack_id": "DP05-JP030",
+        "pack": "DP05",
+        "rarity": "Eternal Dread",
+        "date": 1161820800000
+    },
+    "tcg": {
+        "id": 35787450,
+        "pack_id": "DP05-EN030",
+        "pack": "DP05",
+        "rarity": "Eternal Dread",
+        "date": 1170806400000
+    }
+}

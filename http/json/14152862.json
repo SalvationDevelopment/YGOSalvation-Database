@@ -1,1 +1,47 @@
-{"id":14152862,"ot":3,"alias":0,"setcode":0,"type":8388641,"atk":2700,"def":2000,"level":6,"race":2,"attribute":16,"category":-2147483647,"name":"Norito the Moral Leader","desc":"2 Level 6 Spellcaster-Type monsters\nOnce per turn, during either player's turn, when your opponent activates a Spell/Trap Card: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy it.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":14152862,"pack_id":"CPZ1-JP031","pack":"CPZ1","rarity":"Norito the Moral Leader","date":1376092800000},"tcg":{"id":14152862,"pack_id":"NUMH-EN039","pack":"NUMH","rarity":"Norito the Moral Leader","date":1373587200000}}
+{
+    "id": 14152862,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8388641,
+    "atk": 2700,
+    "def": 2000,
+    "level": 6,
+    "race": 2,
+    "attribute": 16,
+    "category": -2147483647,
+    "name": "Norito the Moral Leader",
+    "desc": "2 Level 6 Spellcaster-Type monsters\nOnce per turn, during either player's turn, when your opponent activates a Spell/Trap Card: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy it.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 14152862,
+        "pack_id": "CPZ1-JP031",
+        "pack": "CPZ1",
+        "rarity": "Norito the Moral Leader",
+        "date": 1376092800000
+    },
+    "tcg": {
+        "id": 14152862,
+        "pack_id": "NUMH-EN039",
+        "pack": "NUMH",
+        "rarity": "Norito the Moral Leader",
+        "date": 1373587200000
+    }
+}

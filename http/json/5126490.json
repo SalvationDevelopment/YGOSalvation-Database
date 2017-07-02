@@ -1,1 +1,47 @@
-{"id":5126490,"ot":3,"alias":0,"setcode":9,"type":33,"atk":3000,"def":3000,"level":10,"race":2,"attribute":16,"category":29622272,"name":"Neos Wiseman","desc":"Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by sending 1 face-up \"Elemental HERO Neos\" and 1 face-up \"Yubel\" you control to the Graveyard, and cannot be Special Summoned by other ways. This card cannot be destroyed by card effects. At the end of the Damage Step, if this card battled an opponent's monster: Inflict damage to your opponent equal to the ATK of the monster it battled, and you gain Life Points equal to that monster's DEF.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":5126490,"pack_id":"MG02-JP001","pack":"MG02","rarity":"Neos Wiseman","date":1206662400000},"tcg":{"id":5126490,"pack_id":"CSOC-EN097","pack":"CSOC","rarity":"Neos Wiseman","date":1225497600000}}
+{
+    "id": 5126490,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 9,
+    "type": 33,
+    "atk": 3000,
+    "def": 3000,
+    "level": 10,
+    "race": 2,
+    "attribute": 16,
+    "category": 29622272,
+    "name": "Neos Wiseman",
+    "desc": "Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by sending 1 face-up \"Elemental HERO Neos\" and 1 face-up \"Yubel\" you control to the Graveyard, and cannot be Special Summoned by other ways. This card cannot be destroyed by card effects. At the end of the Damage Step, if this card battled an opponent's monster: Inflict damage to your opponent equal to the ATK of the monster it battled, and you gain Life Points equal to that monster's DEF.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 5126490,
+        "pack_id": "MG02-JP001",
+        "pack": "MG02",
+        "rarity": "Neos Wiseman",
+        "date": 1206662400000
+    },
+    "tcg": {
+        "id": 5126490,
+        "pack_id": "CSOC-EN097",
+        "pack": "CSOC",
+        "rarity": "Neos Wiseman",
+        "date": 1225497600000
+    }
+}

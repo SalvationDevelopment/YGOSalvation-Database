@@ -1,1 +1,47 @@
-{"id":14733538,"ot":3,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Draco Face-Off","desc":"Reveal 1 \"Dracoslayer\" Pendulum Monster and 1 \"Dracoverlord\" Pendulum Monster from your Deck, your opponent randomly picks 1 of them for you to place in your Pendulum Zone or Special Summon (your choice), and you add the other card to your Extra Deck face-up. You can only activate 1 \"Draco Face-Off\" per turn.","str1":"Pendulum Zone","str2":"Special Summon","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":14733538,"pack_id":"BOSH-JP061","pack":"BOSH","rarity":"Draco Face-Off","date":1445040000000},"tcg":{"id":14733538,"pack_id":"BOSH-EN061","pack":"BOSH","rarity":"Draco Face-Off","date":1452729600000}}
+{
+    "id": 14733538,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Draco Face-Off",
+    "desc": "Reveal 1 \"Dracoslayer\" Pendulum Monster and 1 \"Dracoverlord\" Pendulum Monster from your Deck, your opponent randomly picks 1 of them for you to place in your Pendulum Zone or Special Summon (your choice), and you add the other card to your Extra Deck face-up. You can only activate 1 \"Draco Face-Off\" per turn.",
+    "str1": "Pendulum Zone",
+    "str2": "Special Summon",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 14733538,
+        "pack_id": "BOSH-JP061",
+        "pack": "BOSH",
+        "rarity": "Draco Face-Off",
+        "date": 1445040000000
+    },
+    "tcg": {
+        "id": 14733538,
+        "pack_id": "BOSH-EN061",
+        "pack": "BOSH",
+        "rarity": "Draco Face-Off",
+        "date": 1452729600000
+    }
+}

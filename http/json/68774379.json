@@ -1,1 +1,47 @@
-{"id":68774379,"ot":3,"alias":0,"setcode":147,"type":33,"atk":800,"def":2800,"level":6,"race":32,"attribute":16,"category":0,"name":"Cyber Barrier Dragon","desc":"This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Attack Reflector Unit\". Once per turn, while this card is in Attack Position, your opponent's next attack is negated.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":68774379,"pack_id":"SOI-JP006","pack":"SOI","rarity":"Cyber Barrier Dragon","date":1132185600000},"tcg":{"id":68774379,"pack_id":"SOI-EN006","pack":"SOI","rarity":"Cyber Barrier Dragon","date":1140220800000}}
+{
+    "id": 68774379,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 147,
+    "type": 33,
+    "atk": 800,
+    "def": 2800,
+    "level": 6,
+    "race": 32,
+    "attribute": 16,
+    "category": 0,
+    "name": "Cyber Barrier Dragon",
+    "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Attack Reflector Unit\". Once per turn, while this card is in Attack Position, your opponent's next attack is negated.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 68774379,
+        "pack_id": "SOI-JP006",
+        "pack": "SOI",
+        "rarity": "Cyber Barrier Dragon",
+        "date": 1132185600000
+    },
+    "tcg": {
+        "id": 68774379,
+        "pack_id": "SOI-EN006",
+        "pack": "SOI",
+        "rarity": "Cyber Barrier Dragon",
+        "date": 1140220800000
+    }
+}

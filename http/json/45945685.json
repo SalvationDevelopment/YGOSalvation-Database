@@ -1,1 +1,47 @@
-{"id":45945685,"ot":3,"alias":0,"setcode":22,"type":17,"atk":800,"def":1000,"level":3,"race":32,"attribute":1,"category":0,"name":"Cycroid","desc":"The most lovable and friendly of all the Vehicroids. It can arm itself with training wheels!","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":45945685,"pack_id":"CRV-JP001","pack":"CRV","rarity":"Cycroid","date":1190419200000},"tcg":{"id":45945685,"pack_id":"CRV-EN001","pack":"CRV","rarity":"Cycroid","date":1123286400000}}
+{
+    "id": 45945685,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 22,
+    "type": 17,
+    "atk": 800,
+    "def": 1000,
+    "level": 3,
+    "race": 32,
+    "attribute": 1,
+    "category": 0,
+    "name": "Cycroid",
+    "desc": "The most lovable and friendly of all the Vehicroids. It can arm itself with training wheels!",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 45945685,
+        "pack_id": "CRV-JP001",
+        "pack": "CRV",
+        "rarity": "Cycroid",
+        "date": 1190419200000
+    },
+    "tcg": {
+        "id": 45945685,
+        "pack_id": "CRV-EN001",
+        "pack": "CRV",
+        "rarity": "Cycroid",
+        "date": 1123286400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":218704,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1400,"def":1200,"level":4,"race":16384,"attribute":2,"category":262144,"name":"Fenrir","desc":"This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 2 WATER monsters in your Graveyard. When this card destroys an opponent's monster as a result of battle, your opponent skips their next Draw Phase.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":218704,"pack_id":"306-020","pack":"306","rarity":"Fenrir","date":1051142400000},"tcg":{"id":218704,"pack_id":"IOC-020","pack":"IOC","rarity":"Fenrir","date":1078099200000}}
+{
+    "id": 218704,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1400,
+    "def": 1200,
+    "level": 4,
+    "race": 16384,
+    "attribute": 2,
+    "category": 262144,
+    "name": "Fenrir",
+    "desc": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 2 WATER monsters in your Graveyard. When this card destroys an opponent's monster as a result of battle, your opponent skips their next Draw Phase.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 218704,
+        "pack_id": "306-020",
+        "pack": "306",
+        "rarity": "Fenrir",
+        "date": 1051142400000
+    },
+    "tcg": {
+        "id": 218704,
+        "pack_id": "IOC-020",
+        "pack": "IOC",
+        "rarity": "Fenrir",
+        "date": 1078099200000
+    }
+}

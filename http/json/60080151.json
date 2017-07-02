@@ -1,1 +1,47 @@
-{"id":60080151,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4456452,"name":"Memory of an Adversary","desc":"When an opponent's monster declares an attack: You take damage equal to the attacking monster's ATK, and if you do, banish that monster. During the End Phase of your opponent's next turn, Special Summon that monster to your side of the field.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":60080151,"pack_id":"ABYR-JP075","pack":"ABYR","rarity":"Memory of an Adversary","date":1342828800000},"tcg":{"id":60080151,"pack_id":"ABYR-EN075","pack":"ABYR","rarity":"Memory of an Adversary","date":1352419200000}}
+{
+    "id": 60080151,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4456452,
+    "name": "Memory of an Adversary",
+    "desc": "When an opponent's monster declares an attack: You take damage equal to the attacking monster's ATK, and if you do, banish that monster. During the End Phase of your opponent's next turn, Special Summon that monster to your side of the field.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 60080151,
+        "pack_id": "ABYR-JP075",
+        "pack": "ABYR",
+        "rarity": "Memory of an Adversary",
+        "date": 1342828800000
+    },
+    "tcg": {
+        "id": 60080151,
+        "pack_id": "ABYR-EN075",
+        "pack": "ABYR",
+        "rarity": "Memory of an Adversary",
+        "date": 1352419200000
+    }
+}

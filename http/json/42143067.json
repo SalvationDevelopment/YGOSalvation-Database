@@ -1,1 +1,47 @@
-{"id":42143067,"ot":3,"alias":0,"setcode":0,"type":33,"atk":500,"def":500,"level":2,"race":256,"attribute":1,"category":0,"name":"Doki Doki","desc":"You can discard 1 Rock-Type monster; Special Summon from your Deck, 1 Rock-Type monster that has the same original Attribute and Level as that monster, in face-up Attack Position or face-down Defense Position. You can only use this effect of \"Doki Doki\" once per turn.","str1":"Special Summon 1 Rock-Type","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":42143067,"pack_id":"INOV-JP032","pack":"INOV","rarity":"Doki Doki","date":1468022400000},"tcg":{"id":42143067,"pack_id":"INOV-EN032","pack":"INOV","rarity":"Doki Doki","date":1478131200000}}
+{
+    "id": 42143067,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 500,
+    "def": 500,
+    "level": 2,
+    "race": 256,
+    "attribute": 1,
+    "category": 0,
+    "name": "Doki Doki",
+    "desc": "You can discard 1 Rock-Type monster; Special Summon from your Deck, 1 Rock-Type monster that has the same original Attribute and Level as that monster, in face-up Attack Position or face-down Defense Position. You can only use this effect of \"Doki Doki\" once per turn.",
+    "str1": "Special Summon 1 Rock-Type",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 42143067,
+        "pack_id": "INOV-JP032",
+        "pack": "INOV",
+        "rarity": "Doki Doki",
+        "date": 1468022400000
+    },
+    "tcg": {
+        "id": 42143067,
+        "pack_id": "INOV-EN032",
+        "pack": "INOV",
+        "rarity": "Doki Doki",
+        "date": 1478131200000
+    }
+}

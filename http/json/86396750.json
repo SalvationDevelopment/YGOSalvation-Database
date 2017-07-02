@@ -1,1 +1,47 @@
-{"id":86396750,"ot":3,"alias":0,"setcode":11870389,"type":33,"atk":1800,"def":200,"level":4,"race":128,"attribute":8,"category":0,"name":"Spiritual Beast Apelio","desc":"Once per turn, during either player's turn: You can banish 1 \"Ritual Beast\" card from your Graveyard; for the rest of this turn, all \"Ritual Beast\" monsters you control will gain 500 ATK and DEF. You can only Special Summon \"Spiritual Beast Apelio(s)\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":86396750,"pack_id":"SPTR-JP025","pack":"SPTR","rarity":"Spiritual Beast Apelio","date":1412985600000},"tcg":{"id":86396750,"pack_id":"THSF-EN025","pack":"THSF","rarity":"Spiritual Beast Apelio","date":1423785600000}}
+{
+    "id": 86396750,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 11870389,
+    "type": 33,
+    "atk": 1800,
+    "def": 200,
+    "level": 4,
+    "race": 128,
+    "attribute": 8,
+    "category": 0,
+    "name": "Spiritual Beast Apelio",
+    "desc": "Once per turn, during either player's turn: You can banish 1 \"Ritual Beast\" card from your Graveyard; for the rest of this turn, all \"Ritual Beast\" monsters you control will gain 500 ATK and DEF. You can only Special Summon \"Spiritual Beast Apelio(s)\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 86396750,
+        "pack_id": "SPTR-JP025",
+        "pack": "SPTR",
+        "rarity": "Spiritual Beast Apelio",
+        "date": 1412985600000
+    },
+    "tcg": {
+        "id": 86396750,
+        "pack_id": "THSF-EN025",
+        "pack": "THSF",
+        "rarity": "Spiritual Beast Apelio",
+        "date": 1423785600000
+    }
+}

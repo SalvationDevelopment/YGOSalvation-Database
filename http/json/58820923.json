@@ -1,1 +1,47 @@
-{"id":58820923,"ot":3,"alias":0,"setcode":4722811,"type":8388641,"atk":4000,"def":0,"level":9,"race":8192,"attribute":32,"category":0,"name":"Number 95: Galaxy-Eyes Dark Matter Dragon","desc":"3 Level 9 monsters\nYou can also Xyz Summon this card by using a \"Galaxy-Eyes\" Xyz Monster you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) Cannot be used as an Xyz Material for an Xyz Summon. When this card is Xyz Summoned: You can send 3 Dragon-Type monsters with different names from your Deck to the Graveyard; your opponent banishes 3 monsters from their Deck. You can detach 1 Xyz Material from this card; this card can make up to 2 attacks on monsters during each Battle Phase this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":58820923,"pack_id":"PP17-JP015","pack":"PP17","rarity":"Number 95: Galaxy-Eyes Dark Matter Dragon","date":1426896000000},"tcg":{"id":58820923,"pack_id":"PGL2-EN015","pack":"PGL2","rarity":"Number 95: Galaxy-Eyes Dark Matter Dragon","date":1426809600000}}
+{
+    "id": 58820923,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4722811,
+    "type": 8388641,
+    "atk": 4000,
+    "def": 0,
+    "level": 9,
+    "race": 8192,
+    "attribute": 32,
+    "category": 0,
+    "name": "Number 95: Galaxy-Eyes Dark Matter Dragon",
+    "desc": "3 Level 9 monsters\nYou can also Xyz Summon this card by using a \"Galaxy-Eyes\" Xyz Monster you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) Cannot be used as an Xyz Material for an Xyz Summon. When this card is Xyz Summoned: You can send 3 Dragon-Type monsters with different names from your Deck to the Graveyard; your opponent banishes 3 monsters from their Deck. You can detach 1 Xyz Material from this card; this card can make up to 2 attacks on monsters during each Battle Phase this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 58820923,
+        "pack_id": "PP17-JP015",
+        "pack": "PP17",
+        "rarity": "Number 95: Galaxy-Eyes Dark Matter Dragon",
+        "date": 1426896000000
+    },
+    "tcg": {
+        "id": 58820923,
+        "pack_id": "PGL2-EN015",
+        "pack": "PGL2",
+        "rarity": "Number 95: Galaxy-Eyes Dark Matter Dragon",
+        "date": 1426809600000
+    }
+}

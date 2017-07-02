@@ -1,1 +1,47 @@
-{"id":3819470,"ot":3,"alias":0,"setcode":0,"type":1048580,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":-2147483647,"name":"Seven Tools of the Bandit","desc":"When a Trap Card is activated: Pay 1000 LP; negate the activation, and if you do, destroy it.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":3819470,"pack_id":"ME-68","pack":"ME","rarity":"Seven Tools of the Bandit","date":942883200000},"tcg":{"id":3819470,"pack_id":"MRD-129","pack":"MRD","rarity":"Seven Tools of the Bandit","date":1025049600000}}
+{
+    "id": 3819470,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 1048580,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": -2147483647,
+    "name": "Seven Tools of the Bandit",
+    "desc": "When a Trap Card is activated: Pay 1000 LP; negate the activation, and if you do, destroy it.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 3819470,
+        "pack_id": "ME-68",
+        "pack": "ME",
+        "rarity": "Seven Tools of the Bandit",
+        "date": 942883200000
+    },
+    "tcg": {
+        "id": 3819470,
+        "pack_id": "MRD-129",
+        "pack": "MRD",
+        "rarity": "Seven Tools of the Bandit",
+        "date": 1025049600000
+    }
+}

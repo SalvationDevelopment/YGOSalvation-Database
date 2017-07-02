@@ -1,1 +1,47 @@
-{"id":52140003,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4194304,"name":"Explosive Urchin","desc":"Activate only when your opponent activates a Trap Card. During your Standby Phase: Inflict 1000 damage to your opponent. Your opponent must control a face-up Trap Card for you to activate and resolve this effect. During your 3rd End Phase after activation, send this card to the Graveyard.","str1":"Inflict damage","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":52140003,"pack_id":"GENF-JP065","pack":"GENF","rarity":"Explosive Urchin","date":1302912000000},"tcg":{"id":52140003,"pack_id":"GENF-EN065","pack":"GENF","rarity":"Explosive Urchin","date":1312588800000}}
+{
+    "id": 52140003,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4194304,
+    "name": "Explosive Urchin",
+    "desc": "Activate only when your opponent activates a Trap Card. During your Standby Phase: Inflict 1000 damage to your opponent. Your opponent must control a face-up Trap Card for you to activate and resolve this effect. During your 3rd End Phase after activation, send this card to the Graveyard.",
+    "str1": "Inflict damage",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 52140003,
+        "pack_id": "GENF-JP065",
+        "pack": "GENF",
+        "rarity": "Explosive Urchin",
+        "date": 1302912000000
+    },
+    "tcg": {
+        "id": 52140003,
+        "pack_id": "GENF-EN065",
+        "pack": "GENF",
+        "rarity": "Explosive Urchin",
+        "date": 1312588800000
+    }
+}

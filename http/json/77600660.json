@@ -1,1 +1,47 @@
-{"id":77600660,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2400,"def":1000,"level":6,"race":1048576,"attribute":16,"category":8388608,"name":"Psychic Emperor","desc":"When this card is Normal or Special Summoned, gain 500 Life Points for each Psychic-Type monster in your Graveyard.","str1":"LP回复","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":77600660,"pack_id":"EXP3-JP015","pack":"EXP3","rarity":"Psychic Emperor","date":1284768000000},"tcg":{"id":77600660,"pack_id":"ANPR-EN084","pack":"ANPR","rarity":"Psychic Emperor","date":1251763200000}}
+{
+    "id": 77600660,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2400,
+    "def": 1000,
+    "level": 6,
+    "race": 1048576,
+    "attribute": 16,
+    "category": 8388608,
+    "name": "Psychic Emperor",
+    "desc": "When this card is Normal or Special Summoned, gain 500 Life Points for each Psychic-Type monster in your Graveyard.",
+    "str1": "LP回复",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 77600660,
+        "pack_id": "EXP3-JP015",
+        "pack": "EXP3",
+        "rarity": "Psychic Emperor",
+        "date": 1284768000000
+    },
+    "tcg": {
+        "id": 77600660,
+        "pack_id": "ANPR-EN084",
+        "pack": "ANPR",
+        "rarity": "Psychic Emperor",
+        "date": 1251763200000
+    }
+}

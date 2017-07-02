@@ -1,1 +1,47 @@
-{"id":43332022,"ot":3,"alias":0,"setcode":34,"type":4129,"atk":1200,"def":0,"level":2,"race":65536,"attribute":4,"category":2,"name":"Jurrac Gallim","desc":"When this card is destroyed by battle and sent to the Graveyard: Your opponent can discard 1 card to negate this card's effect, otherwise destroy the monster that destroyed this card.","str1":"Destroy","str2":"Discard 1 card?","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":43332022,"pack_id":"DT07-JP026","pack":"DT07","rarity":"Jurrac Gallim","date":1323129600000},"tcg":{"id":43332022,"pack_id":"DT04-EN026","pack":"DT04","rarity":"Jurrac Gallim","date":1295913600000}}
+{
+    "id": 43332022,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 34,
+    "type": 4129,
+    "atk": 1200,
+    "def": 0,
+    "level": 2,
+    "race": 65536,
+    "attribute": 4,
+    "category": 2,
+    "name": "Jurrac Gallim",
+    "desc": "When this card is destroyed by battle and sent to the Graveyard: Your opponent can discard 1 card to negate this card's effect, otherwise destroy the monster that destroyed this card.",
+    "str1": "Destroy",
+    "str2": "Discard 1 card?",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 43332022,
+        "pack_id": "DT07-JP026",
+        "pack": "DT07",
+        "rarity": "Jurrac Gallim",
+        "date": 1323129600000
+    },
+    "tcg": {
+        "id": 43332022,
+        "pack_id": "DT04-EN026",
+        "pack": "DT04",
+        "rarity": "Jurrac Gallim",
+        "date": 1295913600000
+    }
+}

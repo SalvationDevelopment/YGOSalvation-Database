@@ -1,1 +1,47 @@
-{"id":94739788,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4096,"name":"Remove Brainwashing","desc":"The control of all monsters on the field returns to the owners.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":94739788,"pack_id":"303-047","pack":"303","rarity":"Remove Brainwashing","date":1032393600000},"tcg":{"id":94739788,"pack_id":"MFC-101","pack":"MFC","rarity":"Remove Brainwashing","date":1065744000000}}
+{
+    "id": 94739788,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4096,
+    "name": "Remove Brainwashing",
+    "desc": "The control of all monsters on the field returns to the owners.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 94739788,
+        "pack_id": "303-047",
+        "pack": "303",
+        "rarity": "Remove Brainwashing",
+        "date": 1032393600000
+    },
+    "tcg": {
+        "id": 94739788,
+        "pack_id": "MFC-101",
+        "pack": "MFC",
+        "rarity": "Remove Brainwashing",
+        "date": 1065744000000
+    }
+}

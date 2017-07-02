@@ -1,1 +1,47 @@
-{"id":72714461,"ot":3,"alias":0,"setcode":152,"type":16777249,"atk":1500,"def":1500,"level":84213764,"race":2,"attribute":16,"category":0,"name":"Wisdom-Eye Magician","desc":"Pendulum Effect\nIf you have a \"Magician\" or \"Performapal\" card in your other Pendulum Zone: You can destroy this card, and if you do, place 1 \"Magician\" Pendulum Monster from your Deck in your Pendulum Zone, except \"Wisdom-Eye Magician\".\n\nMonster Effect\nYou can discard this card, then target 1 card in your Pendulum Zone, whose current Pendulum Scale is different from its original Pendulum Scale; its Pendulum Scale becomes its original Pendulum Scale until the end of this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":72714461,"pack_id":"VJMP-JP100","pack":"VJMP","rarity":"Wisdom-Eye Magician","date":1429574400000},"tcg":{"id":72714461,"pack_id":"SDMP-EN005","pack":"SDMP","rarity":"Wisdom-Eye Magician","date":1449100800000}}
+{
+    "id": 72714461,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 152,
+    "type": 16777249,
+    "atk": 1500,
+    "def": 1500,
+    "level": 84213764,
+    "race": 2,
+    "attribute": 16,
+    "category": 0,
+    "name": "Wisdom-Eye Magician",
+    "desc": "Pendulum Effect\nIf you have a \"Magician\" or \"Performapal\" card in your other Pendulum Zone: You can destroy this card, and if you do, place 1 \"Magician\" Pendulum Monster from your Deck in your Pendulum Zone, except \"Wisdom-Eye Magician\".\n\nMonster Effect\nYou can discard this card, then target 1 card in your Pendulum Zone, whose current Pendulum Scale is different from its original Pendulum Scale; its Pendulum Scale becomes its original Pendulum Scale until the end of this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 72714461,
+        "pack_id": "VJMP-JP100",
+        "pack": "VJMP",
+        "rarity": "Wisdom-Eye Magician",
+        "date": 1429574400000
+    },
+    "tcg": {
+        "id": 72714461,
+        "pack_id": "SDMP-EN005",
+        "pack": "SDMP",
+        "rarity": "Wisdom-Eye Magician",
+        "date": 1449100800000
+    }
+}

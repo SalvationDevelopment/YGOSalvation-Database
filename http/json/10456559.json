@@ -1,1 +1,47 @@
-{"id":10456559,"ot":3,"alias":0,"setcode":0,"type":33,"atk":0,"def":0,"level":1,"race":64,"attribute":2,"category":512,"name":"T.A.D.P.O.L.E.","desc":"When this card you control is destroyed by battle and sent to your Graveyard, you can add any \"T.A.D.P.O.L.E.\"(s) from your Deck to your hand.","str1":"Add \"T.A.D.P.O.L.E.\" to hand","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":10456559,"pack_id":"CRV-JP027","pack":"CRV","rarity":"T.A.D.P.O.L.E.","date":1190419200000},"tcg":{"id":10456559,"pack_id":"CRV-EN027","pack":"CRV","rarity":"T.A.D.P.O.L.E.","date":1123286400000}}
+{
+    "id": 10456559,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": 64,
+    "attribute": 2,
+    "category": 512,
+    "name": "T.A.D.P.O.L.E.",
+    "desc": "When this card you control is destroyed by battle and sent to your Graveyard, you can add any \"T.A.D.P.O.L.E.\"(s) from your Deck to your hand.",
+    "str1": "Add \"T.A.D.P.O.L.E.\" to hand",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 10456559,
+        "pack_id": "CRV-JP027",
+        "pack": "CRV",
+        "rarity": "T.A.D.P.O.L.E.",
+        "date": 1190419200000
+    },
+    "tcg": {
+        "id": 10456559,
+        "pack_id": "CRV-EN027",
+        "pack": "CRV",
+        "rarity": "T.A.D.P.O.L.E.",
+        "date": 1123286400000
+    }
+}

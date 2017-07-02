@@ -1,1 +1,47 @@
-{"id":81977953,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2300,"def":2000,"level":6,"race":8,"attribute":8,"category":262145,"name":"Desert Twister","desc":"This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play 1 EARTH and 2 WIND monsters from your Graveyard. Once per turn, you can discard 1 card to destroy 1 Spell or Trap Card on the field.","str1":"Destroy","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":81977953,"pack_id":"TAEV-JP034","pack":"TAEV","rarity":"Desert Twister","date":1178928000000},"tcg":{"id":81977953,"pack_id":"TAEV-EN034","pack":"TAEV","rarity":"Desert Twister","date":1187136000000}}
+{
+    "id": 81977953,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2300,
+    "def": 2000,
+    "level": 6,
+    "race": 8,
+    "attribute": 8,
+    "category": 262145,
+    "name": "Desert Twister",
+    "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play 1 EARTH and 2 WIND monsters from your Graveyard. Once per turn, you can discard 1 card to destroy 1 Spell or Trap Card on the field.",
+    "str1": "Destroy",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 81977953,
+        "pack_id": "TAEV-JP034",
+        "pack": "TAEV",
+        "rarity": "Desert Twister",
+        "date": 1178928000000
+    },
+    "tcg": {
+        "id": 81977953,
+        "pack_id": "TAEV-EN034",
+        "pack": "TAEV",
+        "rarity": "Desert Twister",
+        "date": 1187136000000
+    }
+}

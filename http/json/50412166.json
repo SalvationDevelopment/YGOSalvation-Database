@@ -1,1 +1,47 @@
-{"id":50412166,"ot":3,"alias":0,"setcode":0,"type":33,"atk":100,"def":100,"level":1,"race":256,"attribute":1,"category":8,"name":"Charm of Shabti","desc":"During either player's turn: You can discard this card; until the End Phase, \"Gravekeeper's\" monsters you control cannot be destroyed by battle.","str1":"名称中带有「守墓」的怪兽卡所受战斗伤害为0","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":50412166,"pack_id":"301-022","pack":"301","rarity":"Charm of Shabti","date":1021507200000},"tcg":{"id":50412166,"pack_id":"PGD-074","pack":"PGD","rarity":"Charm of Shabti","date":1058486400000}}
+{
+    "id": 50412166,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 100,
+    "def": 100,
+    "level": 1,
+    "race": 256,
+    "attribute": 1,
+    "category": 8,
+    "name": "Charm of Shabti",
+    "desc": "During either player's turn: You can discard this card; until the End Phase, \"Gravekeeper's\" monsters you control cannot be destroyed by battle.",
+    "str1": "名称中带有「守墓」的怪兽卡所受战斗伤害为0",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 50412166,
+        "pack_id": "301-022",
+        "pack": "301",
+        "rarity": "Charm of Shabti",
+        "date": 1021507200000
+    },
+    "tcg": {
+        "id": 50412166,
+        "pack_id": "PGD-074",
+        "pack": "PGD",
+        "rarity": "Charm of Shabti",
+        "date": 1058486400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":1281505,"ot":3,"alias":0,"setcode":48,"type":4129,"atk":900,"def":900,"level":2,"race":32,"attribute":16,"category":16778240,"name":"Vylon Tetra","desc":"If this card is sent from the Monster Card Zone to the Graveyard: You can pay 500 Life Points, then target 1 face-up monster you control; equip this card to that target. If the equipped monster would be destroyed, you can destroy this Equip Card instead.","str1":"Equip","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":1281505,"pack_id":"DT11-JP020","pack":"DT11","rarity":"Vylon Tetra","date":1361836800000},"tcg":{"id":1281505,"pack_id":"DT06-EN020","pack":"DT06","rarity":"Vylon Tetra","date":1328227200000}}
+{
+    "id": 1281505,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 48,
+    "type": 4129,
+    "atk": 900,
+    "def": 900,
+    "level": 2,
+    "race": 32,
+    "attribute": 16,
+    "category": 16778240,
+    "name": "Vylon Tetra",
+    "desc": "If this card is sent from the Monster Card Zone to the Graveyard: You can pay 500 Life Points, then target 1 face-up monster you control; equip this card to that target. If the equipped monster would be destroyed, you can destroy this Equip Card instead.",
+    "str1": "Equip",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 1281505,
+        "pack_id": "DT11-JP020",
+        "pack": "DT11",
+        "rarity": "Vylon Tetra",
+        "date": 1361836800000
+    },
+    "tcg": {
+        "id": 1281505,
+        "pack_id": "DT06-EN020",
+        "pack": "DT06",
+        "rarity": "Vylon Tetra",
+        "date": 1328227200000
+    }
+}

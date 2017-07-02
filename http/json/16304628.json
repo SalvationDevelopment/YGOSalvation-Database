@@ -1,1 +1,47 @@
-{"id":16304628,"ot":3,"alias":0,"setcode":12296,"type":97,"atk":2200,"def":2600,"level":6,"race":1,"attribute":1,"category":2105344,"name":"Elemental HERO Gaia","desc":"1 \"Elemental HERO\" monster + 1 EARTH monster\nMust be Fusion Summoned and cannot be Special Summoned by other ways. When this card is Fusion Summoned: Target 1 face-up monster your opponent controls; until the End Phase, its ATK is halved and this card gains the same amount of ATK.","str1":"Gain attack","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":16304628,"pack_id":"VJMP-JP036","pack":"VJMP","rarity":"Elemental HERO Gaia","date":1221955200000},"tcg":{"id":16304628,"pack_id":"ANPR-EN099","pack":"ANPR","rarity":"Elemental HERO Gaia","date":1251763200000}}
+{
+    "id": 16304628,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 12296,
+    "type": 97,
+    "atk": 2200,
+    "def": 2600,
+    "level": 6,
+    "race": 1,
+    "attribute": 1,
+    "category": 2105344,
+    "name": "Elemental HERO Gaia",
+    "desc": "1 \"Elemental HERO\" monster + 1 EARTH monster\nMust be Fusion Summoned and cannot be Special Summoned by other ways. When this card is Fusion Summoned: Target 1 face-up monster your opponent controls; until the End Phase, its ATK is halved and this card gains the same amount of ATK.",
+    "str1": "Gain attack",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 16304628,
+        "pack_id": "VJMP-JP036",
+        "pack": "VJMP",
+        "rarity": "Elemental HERO Gaia",
+        "date": 1221955200000
+    },
+    "tcg": {
+        "id": 16304628,
+        "pack_id": "ANPR-EN099",
+        "pack": "ANPR",
+        "rarity": "Elemental HERO Gaia",
+        "date": 1251763200000
+    }
+}

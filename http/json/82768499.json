@@ -1,1 +1,47 @@
-{"id":82768499,"ot":5,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Spiral Flame Strike","desc":"Activate 1 of these effects;\n● If you control an \"Odd-Eyes\" card: Target 1 card on the field; destroy it.\n● Add to your hand, 1 Level 7 \"Odd-Eyes\" monster from your Deck, or 1 face-up Level 7 \"Odd-Eyes\" Pendulum Monster from your Extra Deck.","str1":"Destroy 1 card on the field","str2":"Search \"Odd-Eyes\"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG Prerelease","ocg":{"id":82768499,"pack_id":"20AP-JP059","pack":"20AP","rarity":"Spiral Flame Strike","date":1486771200000},"tcg":{"id":82768499,"pack_id":"DPDG-EN001","pack":"DPDG","rarity":"Spiral Flame Strike","date":1495670400000}}
+{
+    "id": 82768499,
+    "ot": 5,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Spiral Flame Strike",
+    "desc": "Activate 1 of these effects;\n● If you control an \"Odd-Eyes\" card: Target 1 card on the field; destroy it.\n● Add to your hand, 1 Level 7 \"Odd-Eyes\" monster from your Deck, or 1 face-up Level 7 \"Odd-Eyes\" Pendulum Monster from your Extra Deck.",
+    "str1": "Destroy 1 card on the field",
+    "str2": "Search \"Odd-Eyes\"",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG Prerelease",
+    "ocg": {
+        "id": 82768499,
+        "pack_id": "20AP-JP059",
+        "pack": "20AP",
+        "rarity": "Spiral Flame Strike",
+        "date": 1486771200000
+    },
+    "tcg": {
+        "id": 82768499,
+        "pack_id": "DPDG-EN001",
+        "pack": "DPDG",
+        "rarity": "Spiral Flame Strike",
+        "date": 1495670400000
+    }
+}

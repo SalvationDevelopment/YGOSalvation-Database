@@ -1,1 +1,47 @@
-{"id":43644025,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262144,"name":"Cocoon Rebirth","desc":"You can Tribute 1 face-up \"Chrysalis\" monster you control to Special Summon 1 \"Neo-Spacian\" monster written in the card text of that card from either player's Graveyard.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":43644025,"pack_id":"TAEV-JP050","pack":"TAEV","rarity":"Cocoon Rebirth","date":1178928000000},"tcg":{"id":43644025,"pack_id":"TAEV-EN050","pack":"TAEV","rarity":"Cocoon Rebirth","date":1187136000000}}
+{
+    "id": 43644025,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262144,
+    "name": "Cocoon Rebirth",
+    "desc": "You can Tribute 1 face-up \"Chrysalis\" monster you control to Special Summon 1 \"Neo-Spacian\" monster written in the card text of that card from either player's Graveyard.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 43644025,
+        "pack_id": "TAEV-JP050",
+        "pack": "TAEV",
+        "rarity": "Cocoon Rebirth",
+        "date": 1178928000000
+    },
+    "tcg": {
+        "id": 43644025,
+        "pack_id": "TAEV-EN050",
+        "pack": "TAEV",
+        "rarity": "Cocoon Rebirth",
+        "date": 1187136000000
+    }
+}

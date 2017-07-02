@@ -1,1 +1,47 @@
-{"id":32202803,"ot":3,"alias":0,"setcode":136,"type":33,"atk":1100,"def":2000,"level":4,"race":16384,"attribute":16,"category":16777216,"name":"Bujingi Wolf","desc":"Other Beast, Beast-Warrior, and Winged Beast-Type monsters you control cannot be destroyed by battle.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":32202803,"pack_id":"JOTL-JP019","pack":"JOTL","rarity":"Bujingi Wolf","date":1366416000000},"tcg":{"id":32202803,"pack_id":"JOTL-EN019","pack":"JOTL","rarity":"Bujingi Wolf","date":1375920000000}}
+{
+    "id": 32202803,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 136,
+    "type": 33,
+    "atk": 1100,
+    "def": 2000,
+    "level": 4,
+    "race": 16384,
+    "attribute": 16,
+    "category": 16777216,
+    "name": "Bujingi Wolf",
+    "desc": "Other Beast, Beast-Warrior, and Winged Beast-Type monsters you control cannot be destroyed by battle.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 32202803,
+        "pack_id": "JOTL-JP019",
+        "pack": "JOTL",
+        "rarity": "Bujingi Wolf",
+        "date": 1366416000000
+    },
+    "tcg": {
+        "id": 32202803,
+        "pack_id": "JOTL-EN019",
+        "pack": "JOTL",
+        "rarity": "Bujingi Wolf",
+        "date": 1375920000000
+    }
+}

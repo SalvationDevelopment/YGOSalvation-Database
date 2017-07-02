@@ -1,1 +1,47 @@
-{"id":31828916,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262144,"name":"Machina Armored Unit","desc":"Once per turn, when a Machine-Type monster is destroyed by battle and sent to your Graveyard: You can Special Summon 1 Machine-Type monster from your Deck that has the same Attribute and less ATK than that destroyed monster in the Graveyard.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":31828916,"pack_id":"SD18-JP020","pack":"SD18","rarity":"Machina Armored Unit","date":1260576000000},"tcg":{"id":31828916,"pack_id":"SDMM-EN021","pack":"SDMM","rarity":"Machina Armored Unit","date":1266537600000}}
+{
+    "id": 31828916,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262144,
+    "name": "Machina Armored Unit",
+    "desc": "Once per turn, when a Machine-Type monster is destroyed by battle and sent to your Graveyard: You can Special Summon 1 Machine-Type monster from your Deck that has the same Attribute and less ATK than that destroyed monster in the Graveyard.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 31828916,
+        "pack_id": "SD18-JP020",
+        "pack": "SD18",
+        "rarity": "Machina Armored Unit",
+        "date": 1260576000000
+    },
+    "tcg": {
+        "id": 31828916,
+        "pack_id": "SDMM-EN021",
+        "pack": "SDMM",
+        "rarity": "Machina Armored Unit",
+        "date": 1266537600000
+    }
+}

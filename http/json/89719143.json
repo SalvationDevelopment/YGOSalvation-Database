@@ -1,1 +1,47 @@
-{"id":89719143,"ot":3,"alias":0,"setcode":4587520,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Final Fusion","desc":"During either player's Battle Step, when a Fusion Monster you control battles an opponent's Fusion Monster: Target both those Fusion Monsters; negate the attack, and if you do, each player takes damage equal to the combined ATK of both those Fusion Monsters.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":89719143,"pack_id":"CPL1-JP018","pack":"CPL1","rarity":"Final Fusion","date":1400284800000},"tcg":{"id":89719143,"pack_id":"DRLG-EN018","pack":"DRLG","rarity":"Final Fusion","date":1398384000000}}
+{
+    "id": 89719143,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4587520,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Final Fusion",
+    "desc": "During either player's Battle Step, when a Fusion Monster you control battles an opponent's Fusion Monster: Target both those Fusion Monsters; negate the attack, and if you do, each player takes damage equal to the combined ATK of both those Fusion Monsters.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 89719143,
+        "pack_id": "CPL1-JP018",
+        "pack": "CPL1",
+        "rarity": "Final Fusion",
+        "date": 1400284800000
+    },
+    "tcg": {
+        "id": 89719143,
+        "pack_id": "DRLG-EN018",
+        "pack": "DRLG",
+        "rarity": "Final Fusion",
+        "date": 1398384000000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":46239604,"ot":3,"alias":0,"setcode":18,"type":33,"atk":100,"def":2000,"level":2,"race":64,"attribute":2,"category":66048,"name":"Dupe Frog","desc":"This card's name becomes \"Des Frog\" while it is on the field. Monsters your opponent controls cannot target monsters for attacks, except this one. When this card is sent from the field to the Graveyard: You can add 1 \"Frog\" monster from your Deck or Graveyard to your hand, except \"Dupe Frog\".","str1":"Add card","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":46239604,"pack_id":"CRMS-JP028","pack":"CRMS","rarity":"Dupe Frog","date":1226707200000},"tcg":{"id":46239604,"pack_id":"CRMS-EN028","pack":"CRMS","rarity":"Dupe Frog","date":1235779200000}}
+{
+    "id": 46239604,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 18,
+    "type": 33,
+    "atk": 100,
+    "def": 2000,
+    "level": 2,
+    "race": 64,
+    "attribute": 2,
+    "category": 66048,
+    "name": "Dupe Frog",
+    "desc": "This card's name becomes \"Des Frog\" while it is on the field. Monsters your opponent controls cannot target monsters for attacks, except this one. When this card is sent from the field to the Graveyard: You can add 1 \"Frog\" monster from your Deck or Graveyard to your hand, except \"Dupe Frog\".",
+    "str1": "Add card",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 46239604,
+        "pack_id": "CRMS-JP028",
+        "pack": "CRMS",
+        "rarity": "Dupe Frog",
+        "date": 1226707200000
+    },
+    "tcg": {
+        "id": 46239604,
+        "pack_id": "CRMS-EN028",
+        "pack": "CRMS",
+        "rarity": "Dupe Frog",
+        "date": 1235779200000
+    }
+}

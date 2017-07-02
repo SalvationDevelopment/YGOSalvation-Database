@@ -1,1 +1,47 @@
-{"id":42216237,"ot":3,"alias":0,"setcode":0,"type":8225,"atk":2800,"def":2300,"level":8,"race":4,"attribute":16,"category":270336,"name":"Angel of Zera","desc":"1 Tuner + 1 or more non-Tuner monsters\nThis card gains 100 ATK for each of your opponent's banished cards. During the Standby Phase of the next turn after this card was banished: Special Summon this banished card. You can only use the effect of \"Angel of Zera\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":42216237,"pack_id":"EP14-JP008","pack":"EP14","rarity":"Angel of Zera","date":1410566400000},"tcg":{"id":42216237,"pack_id":"JOTL-EN087","pack":"JOTL","rarity":"Angel of Zera","date":1375920000000}}
+{
+    "id": 42216237,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8225,
+    "atk": 2800,
+    "def": 2300,
+    "level": 8,
+    "race": 4,
+    "attribute": 16,
+    "category": 270336,
+    "name": "Angel of Zera",
+    "desc": "1 Tuner + 1 or more non-Tuner monsters\nThis card gains 100 ATK for each of your opponent's banished cards. During the Standby Phase of the next turn after this card was banished: Special Summon this banished card. You can only use the effect of \"Angel of Zera\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 42216237,
+        "pack_id": "EP14-JP008",
+        "pack": "EP14",
+        "rarity": "Angel of Zera",
+        "date": 1410566400000
+    },
+    "tcg": {
+        "id": 42216237,
+        "pack_id": "JOTL-EN087",
+        "pack": "JOTL",
+        "rarity": "Angel of Zera",
+        "date": 1375920000000
+    }
+}

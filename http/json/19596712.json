@@ -1,1 +1,47 @@
-{"id":19596712,"ot":3,"alias":0,"setcode":117,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":-2147483648,"name":"Abyss-scale of Cetus","desc":"Equip only to a \"Mermail\" monster. It gains 800 ATK. When a Trap effect that was activated on your opponent's side of the field resolves, negate that effect, then send this card to the Graveyard.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":19596712,"pack_id":"CBLZ-JP061","pack":"CBLZ","rarity":"Abyss-scale of Cetus","date":1353110400000},"tcg":{"id":19596712,"pack_id":"CBLZ-EN061","pack":"CBLZ","rarity":"Abyss-scale of Cetus","date":1359072000000}}
+{
+    "id": 19596712,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 117,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": -2147483648,
+    "name": "Abyss-scale of Cetus",
+    "desc": "Equip only to a \"Mermail\" monster. It gains 800 ATK. When a Trap effect that was activated on your opponent's side of the field resolves, negate that effect, then send this card to the Graveyard.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 19596712,
+        "pack_id": "CBLZ-JP061",
+        "pack": "CBLZ",
+        "rarity": "Abyss-scale of Cetus",
+        "date": 1353110400000
+    },
+    "tcg": {
+        "id": 19596712,
+        "pack_id": "CBLZ-EN061",
+        "pack": "CBLZ",
+        "rarity": "Abyss-scale of Cetus",
+        "date": 1359072000000
+    }
+}

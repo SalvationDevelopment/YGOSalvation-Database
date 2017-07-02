@@ -1,1 +1,47 @@
-{"id":91998120,"ot":3,"alias":91998119,"setcode":0,"type":97,"atk":2800,"def":2600,"level":8,"race":32,"attribute":16,"category":262147,"name":"XYZ-Dragon Cannon","desc":"\"X-Head Cannon\" + \"Y-Dragon Head\" + \"Z-Metal Tank\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the Graveyard. You can discard 1 card, then target 1 card your opponent controls; destroy that target.","str1":"Destroy","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":91998120,"pack_id":"302-052","pack":"302","rarity":"XYZ-Dragon Cannon","date":1026950400000},"tcg":{"id":91998120,"pack_id":"BPT-010","pack":"BPT","rarity":"XYZ-Dragon Cannon","date":1062374400000}}
+{
+    "id": 91998120,
+    "ot": 3,
+    "alias": 91998119,
+    "setcode": 0,
+    "type": 97,
+    "atk": 2800,
+    "def": 2600,
+    "level": 8,
+    "race": 32,
+    "attribute": 16,
+    "category": 262147,
+    "name": "XYZ-Dragon Cannon",
+    "desc": "\"X-Head Cannon\" + \"Y-Dragon Head\" + \"Z-Metal Tank\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the Graveyard. You can discard 1 card, then target 1 card your opponent controls; destroy that target.",
+    "str1": "Destroy",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 91998120,
+        "pack_id": "302-052",
+        "pack": "302",
+        "rarity": "XYZ-Dragon Cannon",
+        "date": 1026950400000
+    },
+    "tcg": {
+        "id": 91998120,
+        "pack_id": "BPT-010",
+        "pack": "BPT",
+        "rarity": "XYZ-Dragon Cannon",
+        "date": 1062374400000
+    }
+}

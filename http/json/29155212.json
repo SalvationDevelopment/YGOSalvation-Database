@@ -1,1 +1,47 @@
-{"id":29155212,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1800,"def":2000,"level":6,"race":16,"attribute":32,"category":8192,"name":"Pumpking the King of Ghosts","desc":"If \"Castle of Dark Illusions\" is face-up on the field, increase the ATK and DEF of this card by 100 points. As long as this \"Castle of Dark Illusions\" remains face-up on the field, the ATK and DEF of this card continues to increase by 100 points during each of your Standby Phases. This effect continues until your 4th turn after the card is activated.","str1":"Gain attack","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":29155212,"pack_id":"ME-19","pack":"ME","rarity":"Pumpking the King of Ghosts","date":951868800000},"tcg":{"id":29155212,"pack_id":"MRD-079","pack":"MRD","rarity":"Pumpking the King of Ghosts","date":1025049600000}}
+{
+    "id": 29155212,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1800,
+    "def": 2000,
+    "level": 6,
+    "race": 16,
+    "attribute": 32,
+    "category": 8192,
+    "name": "Pumpking the King of Ghosts",
+    "desc": "If \"Castle of Dark Illusions\" is face-up on the field, increase the ATK and DEF of this card by 100 points. As long as this \"Castle of Dark Illusions\" remains face-up on the field, the ATK and DEF of this card continues to increase by 100 points during each of your Standby Phases. This effect continues until your 4th turn after the card is activated.",
+    "str1": "Gain attack",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 29155212,
+        "pack_id": "ME-19",
+        "pack": "ME",
+        "rarity": "Pumpking the King of Ghosts",
+        "date": 951868800000
+    },
+    "tcg": {
+        "id": 29155212,
+        "pack_id": "MRD-079",
+        "pack": "MRD",
+        "rarity": "Pumpking the King of Ghosts",
+        "date": 1025049600000
+    }
+}

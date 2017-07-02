@@ -1,1 +1,47 @@
-{"id":29904964,"ot":3,"alias":0,"setcode":189,"type":33,"atk":2300,"def":2100,"level":7,"race":1,"attribute":32,"category":0,"name":"Arisen Gaia the Fierce Knight","desc":"If your opponent controls more monsters than you do, you can Normal Summon this card without Tributing. If this card is Tributed: You can Special Summon 1 \"Black Luster Soldier\" monster from your hand or Graveyard. You can only use this effect of \"Arisen Gaia the Fierce Knight\" once per turn. When you Ritual Summon a \"Black Luster Soldier\" monster, you can banish this card from your Graveyard as 1 of the monsters required for the Ritual Summon.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":29904964,"pack_id":"VJMP-JP106","pack":"VJMP","rarity":"Arisen Gaia the Fierce Knight","date":1437177600000},"tcg":{"id":29904964,"pack_id":"BOSH-EN098","pack":"BOSH","rarity":"Arisen Gaia the Fierce Knight","date":1452729600000}}
+{
+    "id": 29904964,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 189,
+    "type": 33,
+    "atk": 2300,
+    "def": 2100,
+    "level": 7,
+    "race": 1,
+    "attribute": 32,
+    "category": 0,
+    "name": "Arisen Gaia the Fierce Knight",
+    "desc": "If your opponent controls more monsters than you do, you can Normal Summon this card without Tributing. If this card is Tributed: You can Special Summon 1 \"Black Luster Soldier\" monster from your hand or Graveyard. You can only use this effect of \"Arisen Gaia the Fierce Knight\" once per turn. When you Ritual Summon a \"Black Luster Soldier\" monster, you can banish this card from your Graveyard as 1 of the monsters required for the Ritual Summon.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 29904964,
+        "pack_id": "VJMP-JP106",
+        "pack": "VJMP",
+        "rarity": "Arisen Gaia the Fierce Knight",
+        "date": 1437177600000
+    },
+    "tcg": {
+        "id": 29904964,
+        "pack_id": "BOSH-EN098",
+        "pack": "BOSH",
+        "rarity": "Arisen Gaia the Fierce Knight",
+        "date": 1452729600000
+    }
+}

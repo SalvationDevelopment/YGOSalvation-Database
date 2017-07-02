@@ -1,1 +1,47 @@
-{"id":68124775,"ot":3,"alias":0,"setcode":0,"type":8225,"atk":2300,"def":1000,"level":6,"race":8192,"attribute":8,"category":4,"name":"Orient Dragon","desc":"1 Tuner + 1 or more non-Tuner monsters\nIf this card is Synchro Summoned: Target 1 Synchro Monster your opponent controls; banish that target.","str1":"Banish","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":68124775,"pack_id":"EP12-JP016","pack":"EP12","rarity":"Orient Dragon","date":1350086400000},"tcg":{"id":68124775,"pack_id":"GENF-EN085","pack":"GENF","rarity":"Orient Dragon","date":1312588800000}}
+{
+    "id": 68124775,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8225,
+    "atk": 2300,
+    "def": 1000,
+    "level": 6,
+    "race": 8192,
+    "attribute": 8,
+    "category": 4,
+    "name": "Orient Dragon",
+    "desc": "1 Tuner + 1 or more non-Tuner monsters\nIf this card is Synchro Summoned: Target 1 Synchro Monster your opponent controls; banish that target.",
+    "str1": "Banish",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 68124775,
+        "pack_id": "EP12-JP016",
+        "pack": "EP12",
+        "rarity": "Orient Dragon",
+        "date": 1350086400000
+    },
+    "tcg": {
+        "id": 68124775,
+        "pack_id": "GENF-EN085",
+        "pack": "GENF",
+        "rarity": "Orient Dragon",
+        "date": 1312588800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":22900598,"ot":3,"alias":0,"setcode":142,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262656,"name":"Vampire Takeover","desc":"If you have no card in your Field Card Zone and all face-up monsters you control (min. 1) are Zombie-Type: Activate 1 \"Vampire Kingdom\" directly from your Deck, then, you can Special Summon 1 DARK \"Vampire\" monster from your Graveyard in face-up Defense Position. You can only activate 1 \"Vampire Takeover\" per turn.","str1":"Special Summon 1 DARK \"Vampire\" monster?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":22900598,"pack_id":"SHSP-JP075","pack":"SHSP","rarity":"Vampire Takeover","date":1374278400000},"tcg":{"id":22900598,"pack_id":"SHSP-EN075","pack":"SHSP","rarity":"Vampire Takeover","date":1383868800000}}
+{
+    "id": 22900598,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 142,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262656,
+    "name": "Vampire Takeover",
+    "desc": "If you have no card in your Field Card Zone and all face-up monsters you control (min. 1) are Zombie-Type: Activate 1 \"Vampire Kingdom\" directly from your Deck, then, you can Special Summon 1 DARK \"Vampire\" monster from your Graveyard in face-up Defense Position. You can only activate 1 \"Vampire Takeover\" per turn.",
+    "str1": "Special Summon 1 DARK \"Vampire\" monster?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 22900598,
+        "pack_id": "SHSP-JP075",
+        "pack": "SHSP",
+        "rarity": "Vampire Takeover",
+        "date": 1374278400000
+    },
+    "tcg": {
+        "id": 22900598,
+        "pack_id": "SHSP-EN075",
+        "pack": "SHSP",
+        "rarity": "Vampire Takeover",
+        "date": 1383868800000
+    }
+}

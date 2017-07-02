@@ -1,1 +1,47 @@
-{"id":87685879,"ot":3,"alias":0,"setcode":0,"type":33,"atk":100,"def":1600,"level":2,"race":16384,"attribute":1,"category":1056768,"name":"Sea Koala","desc":"Once per turn: You can target 1 monster your opponent controls; change its ATK to 0 until the end of this turn. You must control a Beast-Type monster (other than this card) to activate and to resolve this effect.","str1":"攻击力变成0","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":87685879,"pack_id":"PTDN-JP037","pack":"PTDN","rarity":"Sea Koala","date":1195776000000},"tcg":{"id":87685879,"pack_id":"PTDN-EN037","pack":"PTDN","rarity":"Sea Koala","date":1201305600000}}
+{
+    "id": 87685879,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 100,
+    "def": 1600,
+    "level": 2,
+    "race": 16384,
+    "attribute": 1,
+    "category": 1056768,
+    "name": "Sea Koala",
+    "desc": "Once per turn: You can target 1 monster your opponent controls; change its ATK to 0 until the end of this turn. You must control a Beast-Type monster (other than this card) to activate and to resolve this effect.",
+    "str1": "攻击力变成0",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 87685879,
+        "pack_id": "PTDN-JP037",
+        "pack": "PTDN",
+        "rarity": "Sea Koala",
+        "date": 1195776000000
+    },
+    "tcg": {
+        "id": 87685879,
+        "pack_id": "PTDN-EN037",
+        "pack": "PTDN",
+        "rarity": "Sea Koala",
+        "date": 1201305600000
+    }
+}

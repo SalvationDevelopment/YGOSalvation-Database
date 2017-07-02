@@ -1,1 +1,47 @@
-{"id":70828912,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262146,"name":"Premature Burial","desc":"Activate this card by paying 800 LP, then target 1 monster in your Graveyard; Special Summon that target in Attack Position and equip it with this card. When this card is destroyed, destroy the equipped monster.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":70828912,"pack_id":"CA-38","pack":"CA","rarity":"Premature Burial","date":970099200000},"tcg":{"id":70828912,"pack_id":"PSV-037","pack":"PSV","rarity":"Premature Burial","date":1035072000000}}
+{
+    "id": 70828912,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262146,
+    "name": "Premature Burial",
+    "desc": "Activate this card by paying 800 LP, then target 1 monster in your Graveyard; Special Summon that target in Attack Position and equip it with this card. When this card is destroyed, destroy the equipped monster.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 70828912,
+        "pack_id": "CA-38",
+        "pack": "CA",
+        "rarity": "Premature Burial",
+        "date": 970099200000
+    },
+    "tcg": {
+        "id": 70828912,
+        "pack_id": "PSV-037",
+        "pack": "PSV",
+        "rarity": "Premature Burial",
+        "date": 1035072000000
+    }
+}

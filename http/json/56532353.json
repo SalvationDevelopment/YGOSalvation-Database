@@ -1,1 +1,47 @@
-{"id":56532353,"ot":3,"alias":0,"setcode":221,"type":97,"atk":4500,"def":3800,"level":12,"race":8192,"attribute":16,"category":0,"name":"Neo Blue-Eyes Ultimate Dragon","desc":"\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"\nAt the end of the Damage Step, if this is the only face-up card you control, and this Fusion Summoned card attacked: You can send 1 \"Blue-Eyes\" Fusion Monster from your Extra Deck to the Graveyard; this card can attack again in a row. You can use this effect of \"Neo Blue-Eyes Ultimate Dragon\" up to twice per turn. During either player's turn, when a card or effect is activated that targets a \"Blue-Eyes\" monster(s) you control: You can banish this card from your Graveyard; negate the activation, and if you do, destroy that card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":56532353,"pack_id":"MVP1-JP001","pack":"MVP1","rarity":"Neo Blue-Eyes Ultimate Dragon","date":1461369600000},"tcg":{"id":56532353,"pack_id":"MVP1-EN001","pack":"MVP1","rarity":"Neo Blue-Eyes Ultimate Dragon","date":1469059200000}}
+{
+    "id": 56532353,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 221,
+    "type": 97,
+    "atk": 4500,
+    "def": 3800,
+    "level": 12,
+    "race": 8192,
+    "attribute": 16,
+    "category": 0,
+    "name": "Neo Blue-Eyes Ultimate Dragon",
+    "desc": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"\nAt the end of the Damage Step, if this is the only face-up card you control, and this Fusion Summoned card attacked: You can send 1 \"Blue-Eyes\" Fusion Monster from your Extra Deck to the Graveyard; this card can attack again in a row. You can use this effect of \"Neo Blue-Eyes Ultimate Dragon\" up to twice per turn. During either player's turn, when a card or effect is activated that targets a \"Blue-Eyes\" monster(s) you control: You can banish this card from your Graveyard; negate the activation, and if you do, destroy that card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 56532353,
+        "pack_id": "MVP1-JP001",
+        "pack": "MVP1",
+        "rarity": "Neo Blue-Eyes Ultimate Dragon",
+        "date": 1461369600000
+    },
+    "tcg": {
+        "id": 56532353,
+        "pack_id": "MVP1-EN001",
+        "pack": "MVP1",
+        "rarity": "Neo Blue-Eyes Ultimate Dragon",
+        "date": 1469059200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":75433814,"ot":3,"alias":0,"setcode":8585288,"type":8388641,"atk":3000,"def":2000,"level":8,"race":32,"attribute":32,"category":71303170,"name":"Number 40: Gimmick Puppet of Strings","desc":"2 Level 8 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; place 1 String Counter on each face-up monster on the field, except this card. If you do, during your opponent's next End Phase: Destroy the monsters with String Counters, and if you do, inflict 500 damage to your opponent for each monster destroyed.","str1":"Place counter","str2":"Destroy and inflict damage","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":75433814,"pack_id":"OG01-JP001","pack":"OG01","rarity":"Number 40: Gimmick Puppet of Strings","date":1335139200000},"tcg":{"id":75433814,"pack_id":"JUMP-EN063","pack":"JUMP","rarity":"Number 40: Gimmick Puppet of Strings","date":1356393600000}}
+{
+    "id": 75433814,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 8585288,
+    "type": 8388641,
+    "atk": 3000,
+    "def": 2000,
+    "level": 8,
+    "race": 32,
+    "attribute": 32,
+    "category": 71303170,
+    "name": "Number 40: Gimmick Puppet of Strings",
+    "desc": "2 Level 8 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; place 1 String Counter on each face-up monster on the field, except this card. If you do, during your opponent's next End Phase: Destroy the monsters with String Counters, and if you do, inflict 500 damage to your opponent for each monster destroyed.",
+    "str1": "Place counter",
+    "str2": "Destroy and inflict damage",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 75433814,
+        "pack_id": "OG01-JP001",
+        "pack": "OG01",
+        "rarity": "Number 40: Gimmick Puppet of Strings",
+        "date": 1335139200000
+    },
+    "tcg": {
+        "id": 75433814,
+        "pack_id": "JUMP-EN063",
+        "pack": "JUMP",
+        "rarity": "Number 40: Gimmick Puppet of Strings",
+        "date": 1356393600000
+    }
+}

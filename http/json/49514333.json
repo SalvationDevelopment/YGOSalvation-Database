@@ -1,1 +1,47 @@
-{"id":49514333,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262144,"name":"Tiki Soul","desc":"Special Summon this card as an Effect Monster (Rock-Type/LIGHT/Level 4/ATK 1000/DEF 1800). (This card is also still a Trap Card.) While this card is an Effect Monster, if another Trap Card you control that is a monster would be destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard, you can Set it in the Spell & Trap Card Zone instead.","str1":"Activate effect of \"Tiki Soul\"?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":49514333,"pack_id":"STOR-JP080","pack":"STOR","rarity":"Tiki Soul","date":1289606400000},"tcg":{"id":49514333,"pack_id":"STOR-EN080","pack":"STOR","rarity":"Tiki Soul","date":1297123200000}}
+{
+    "id": 49514333,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262144,
+    "name": "Tiki Soul",
+    "desc": "Special Summon this card as an Effect Monster (Rock-Type/LIGHT/Level 4/ATK 1000/DEF 1800). (This card is also still a Trap Card.) While this card is an Effect Monster, if another Trap Card you control that is a monster would be destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard, you can Set it in the Spell & Trap Card Zone instead.",
+    "str1": "Activate effect of \"Tiki Soul\"?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 49514333,
+        "pack_id": "STOR-JP080",
+        "pack": "STOR",
+        "rarity": "Tiki Soul",
+        "date": 1289606400000
+    },
+    "tcg": {
+        "id": 49514333,
+        "pack_id": "STOR-EN080",
+        "pack": "STOR",
+        "rarity": "Tiki Soul",
+        "date": 1297123200000
+    }
+}

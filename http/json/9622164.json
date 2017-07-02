@@ -1,1 +1,47 @@
-{"id":9622164,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":263168,"name":"D.D.R. - Different Dimension Reincarnation","desc":"Discard 1 card, then target 1 of your banished monsters; Special Summon it in face-up Attack Position, and equip it with this card. When this card leaves the field, destroy the equipped monster.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":9622164,"pack_id":"SD14-JP017","pack":"SD14","rarity":"D.D.R. - Different Dimension Reincarnation","date":1197676800000},"tcg":{"id":9622164,"pack_id":"SDDE-EN018","pack":"SDDE","rarity":"D.D.R. - Different Dimension Reincarnation","date":1207094400000}}
+{
+    "id": 9622164,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 263168,
+    "name": "D.D.R. - Different Dimension Reincarnation",
+    "desc": "Discard 1 card, then target 1 of your banished monsters; Special Summon it in face-up Attack Position, and equip it with this card. When this card leaves the field, destroy the equipped monster.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 9622164,
+        "pack_id": "SD14-JP017",
+        "pack": "SD14",
+        "rarity": "D.D.R. - Different Dimension Reincarnation",
+        "date": 1197676800000
+    },
+    "tcg": {
+        "id": 9622164,
+        "pack_id": "SDDE-EN018",
+        "pack": "SDDE",
+        "rarity": "D.D.R. - Different Dimension Reincarnation",
+        "date": 1207094400000
+    }
+}

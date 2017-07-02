@@ -1,1 +1,47 @@
-{"id":73941492,"ot":1,"alias":0,"setcode":152,"type":16781345,"atk":0,"def":0,"level":134742020,"race":2,"attribute":32,"category":1879318528,"name":"Harmonizing Magician","desc":"Pendulum Effect\nAll monsters you control gain 100 ATK and DEF for each face-up \"Magician\" Pendulum Monster with different names in your Extra Deck.\n\nMonster Effect\nCannot be Special Summoned from the Extra Deck. Cannot be used as Material for a Fusion, Synchro, or Xyz Summon, unless all other Materials are \"Magician\" Pendulum Monsters. When this card is Pendulum Summoned from the hand: You can Special Summon 1 \"Magician\" Pendulum Monster from your Deck in Defense Position, except \"Harmonizing Magician\", but it has its effects negated, also banish it when it leaves the field. You can only use this effect of \"Harmonizing Magician\" once per turn.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG","ocg":{"id":73941492,"pack_id":"DBLE-JP002","pack":"DBLE","rarity":"Harmonizing Magician","date":1480118400000},"tcg":{"id":73941492,"pack_id":"PEVO-EN010","pack":"PEVO","rarity":"Harmonizing Magician","date":1498089600000}}
+{
+    "id": 73941492,
+    "ot": 1,
+    "alias": 0,
+    "setcode": 152,
+    "type": 16781345,
+    "atk": 0,
+    "def": 0,
+    "level": 134742020,
+    "race": 2,
+    "attribute": 32,
+    "category": 1879318528,
+    "name": "Harmonizing Magician",
+    "desc": "Pendulum Effect\nAll monsters you control gain 100 ATK and DEF for each face-up \"Magician\" Pendulum Monster with different names in your Extra Deck.\n\nMonster Effect\nCannot be Special Summoned from the Extra Deck. Cannot be used as Material for a Fusion, Synchro, or Xyz Summon, unless all other Materials are \"Magician\" Pendulum Monsters. When this card is Pendulum Summoned from the hand: You can Special Summon 1 \"Magician\" Pendulum Monster from your Deck in Defense Position, except \"Harmonizing Magician\", but it has its effects negated, also banish it when it leaves the field. You can only use this effect of \"Harmonizing Magician\" once per turn.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG",
+    "ocg": {
+        "id": 73941492,
+        "pack_id": "DBLE-JP002",
+        "pack": "DBLE",
+        "rarity": "Harmonizing Magician",
+        "date": 1480118400000
+    },
+    "tcg": {
+        "id": 73941492,
+        "pack_id": "PEVO-EN010",
+        "pack": "PEVO",
+        "rarity": "Harmonizing Magician",
+        "date": 1498089600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":64734921,"ot":3,"alias":0,"setcode":68,"type":33,"atk":1600,"def":0,"level":3,"race":4,"attribute":16,"category":262144,"name":"The Agent of Creation - Venus","desc":"You can pay 500 Life Points; Special Summon 1 \"Mystical Shine Ball\" from your hand or Deck.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":64734921,"pack_id":"308-008","pack":"308","rarity":"The Agent of Creation - Venus","date":1069286400000},"tcg":{"id":64734921,"pack_id":"AST-008","pack":"AST","rarity":"The Agent of Creation - Venus","date":1086048000000}}
+{
+    "id": 64734921,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 68,
+    "type": 33,
+    "atk": 1600,
+    "def": 0,
+    "level": 3,
+    "race": 4,
+    "attribute": 16,
+    "category": 262144,
+    "name": "The Agent of Creation - Venus",
+    "desc": "You can pay 500 Life Points; Special Summon 1 \"Mystical Shine Ball\" from your hand or Deck.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 64734921,
+        "pack_id": "308-008",
+        "pack": "308",
+        "rarity": "The Agent of Creation - Venus",
+        "date": 1069286400000
+    },
+    "tcg": {
+        "id": 64734921,
+        "pack_id": "AST-008",
+        "pack": "AST",
+        "rarity": "The Agent of Creation - Venus",
+        "date": 1086048000000
+    }
+}

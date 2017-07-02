@@ -1,1 +1,47 @@
-{"id":11091375,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1900,"def":1600,"level":4,"race":8192,"attribute":8,"category":0,"name":"Luster Dragon","desc":"A very beautiful dragon covered with sapphire. It does not like fights, but has incredibly high attack power.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":11091375,"pack_id":"303-004","pack":"303","rarity":"Luster Dragon","date":1032393600000},"tcg":{"id":11091375,"pack_id":"MFC-058","pack":"MFC","rarity":"Luster Dragon","date":1065744000000}}
+{
+    "id": 11091375,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1900,
+    "def": 1600,
+    "level": 4,
+    "race": 8192,
+    "attribute": 8,
+    "category": 0,
+    "name": "Luster Dragon",
+    "desc": "A very beautiful dragon covered with sapphire. It does not like fights, but has incredibly high attack power.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 11091375,
+        "pack_id": "303-004",
+        "pack": "303",
+        "rarity": "Luster Dragon",
+        "date": 1032393600000
+    },
+    "tcg": {
+        "id": 11091375,
+        "pack_id": "MFC-058",
+        "pack": "MFC",
+        "rarity": "Luster Dragon",
+        "date": 1065744000000
+    }
+}

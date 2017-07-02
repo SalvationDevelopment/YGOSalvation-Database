@@ -1,1 +1,47 @@
-{"id":45462639,"ot":3,"alias":0,"setcode":110,"type":33,"atk":1700,"def":2200,"level":6,"race":2,"attribute":32,"category":67117120,"name":"Dark Red Enchanter","desc":"If this card is Normal Summoned: Place 2 Spell Counters on it. Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. This card gains 300 ATK for each Spell Counter on it. Once per turn: You can remove 2 Spell Counters from this card; Discard 1 random card from your opponent's hand.","str1":"Place counter","str2":"手札を捨てる","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":45462639,"pack_id":"VJMP-JP019","pack":"VJMP","rarity":"Dark Red Enchanter","date":1155945600000},"tcg":{"id":45462639,"pack_id":"PTDN-EN097","pack":"PTDN","rarity":"Dark Red Enchanter","date":1201305600000}}
+{
+    "id": 45462639,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 110,
+    "type": 33,
+    "atk": 1700,
+    "def": 2200,
+    "level": 6,
+    "race": 2,
+    "attribute": 32,
+    "category": 67117120,
+    "name": "Dark Red Enchanter",
+    "desc": "If this card is Normal Summoned: Place 2 Spell Counters on it. Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. This card gains 300 ATK for each Spell Counter on it. Once per turn: You can remove 2 Spell Counters from this card; Discard 1 random card from your opponent's hand.",
+    "str1": "Place counter",
+    "str2": "手札を捨てる",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 45462639,
+        "pack_id": "VJMP-JP019",
+        "pack": "VJMP",
+        "rarity": "Dark Red Enchanter",
+        "date": 1155945600000
+    },
+    "tcg": {
+        "id": 45462639,
+        "pack_id": "PTDN-EN097",
+        "pack": "PTDN",
+        "rarity": "Dark Red Enchanter",
+        "date": 1201305600000
+    }
+}

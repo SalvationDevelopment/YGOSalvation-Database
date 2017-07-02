@@ -1,1 +1,47 @@
-{"id":15684835,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4202496,"name":"Evil Blast","desc":"Activate only when a monster is Special Summoned to your opponent's side of the field. Equip this card to that monster. It gains 500 ATK. During each of your opponent's Standby Phases, inflict 500 damage to your opponent.","str1":"Inflict damage","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":15684835,"pack_id":"ADDR-JP005","pack":"ADDR","rarity":"Evil Blast","date":1195776000000},"tcg":{"id":15684835,"pack_id":"ABPF-EN094","pack":"ABPF","rarity":"Evil Blast","date":1265932800000}}
+{
+    "id": 15684835,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4202496,
+    "name": "Evil Blast",
+    "desc": "Activate only when a monster is Special Summoned to your opponent's side of the field. Equip this card to that monster. It gains 500 ATK. During each of your opponent's Standby Phases, inflict 500 damage to your opponent.",
+    "str1": "Inflict damage",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 15684835,
+        "pack_id": "ADDR-JP005",
+        "pack": "ADDR",
+        "rarity": "Evil Blast",
+        "date": 1195776000000
+    },
+    "tcg": {
+        "id": 15684835,
+        "pack_id": "ABPF-EN094",
+        "pack": "ABPF",
+        "rarity": "Evil Blast",
+        "date": 1265932800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":64047146,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8224,"name":"Horn of the Unicorn","desc":"The equipped monster gains 700 ATK and DEF. When this card is sent from the field to the Graveyard: Return it to the top of the Deck.","str1":"Return to deck","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":64047146,"pack_id":"PS-03","pack":"PS","rarity":"Horn of the Unicorn","date":963446400000},"tcg":{"id":64047146,"pack_id":"MRL-054","pack":"MRL","rarity":"Horn of the Unicorn","date":1032134400000}}
+{
+    "id": 64047146,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8224,
+    "name": "Horn of the Unicorn",
+    "desc": "The equipped monster gains 700 ATK and DEF. When this card is sent from the field to the Graveyard: Return it to the top of the Deck.",
+    "str1": "Return to deck",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 64047146,
+        "pack_id": "PS-03",
+        "pack": "PS",
+        "rarity": "Horn of the Unicorn",
+        "date": 963446400000
+    },
+    "tcg": {
+        "id": 64047146,
+        "pack_id": "MRL-054",
+        "pack": "MRL",
+        "rarity": "Horn of the Unicorn",
+        "date": 1032134400000
+    }
+}

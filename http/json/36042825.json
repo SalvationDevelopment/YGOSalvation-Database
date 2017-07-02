@@ -1,1 +1,47 @@
-{"id":36042825,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8448,"name":"One-Shot Wand","desc":"Equip only to a Spellcaster-Type monster. It gains 800 ATK. If the equipped monster attacks or is attacked, after damage calculation: You can destroy this card, and if you do, draw 1 card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":36042825,"pack_id":"ABYR-JP051","pack":"ABYR","rarity":"One-Shot Wand","date":1342828800000},"tcg":{"id":36042825,"pack_id":"ABYR-EN051","pack":"ABYR","rarity":"One-Shot Wand","date":1352419200000}}
+{
+    "id": 36042825,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8448,
+    "name": "One-Shot Wand",
+    "desc": "Equip only to a Spellcaster-Type monster. It gains 800 ATK. If the equipped monster attacks or is attacked, after damage calculation: You can destroy this card, and if you do, draw 1 card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 36042825,
+        "pack_id": "ABYR-JP051",
+        "pack": "ABYR",
+        "rarity": "One-Shot Wand",
+        "date": 1342828800000
+    },
+    "tcg": {
+        "id": 36042825,
+        "pack_id": "ABYR-EN051",
+        "pack": "ABYR",
+        "rarity": "One-Shot Wand",
+        "date": 1352419200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":92958307,"ot":3,"alias":0,"setcode":159,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Performapal Show Down","desc":"Target any number of face-up monsters your opponent controls, up to the number of face-up Spell Cards you control; change those monsters to face-down Defense Position.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":92958307,"pack_id":"ST16-JP031","pack":"ST16","rarity":"Performapal Show Down","date":1458345600000},"tcg":{"id":92958307,"pack_id":"YS16-EN031","pack":"YS16","rarity":"Performapal Show Down","date":1464220800000}}
+{
+    "id": 92958307,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 159,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Performapal Show Down",
+    "desc": "Target any number of face-up monsters your opponent controls, up to the number of face-up Spell Cards you control; change those monsters to face-down Defense Position.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 92958307,
+        "pack_id": "ST16-JP031",
+        "pack": "ST16",
+        "rarity": "Performapal Show Down",
+        "date": 1458345600000
+    },
+    "tcg": {
+        "id": 92958307,
+        "pack_id": "YS16-EN031",
+        "pack": "YS16",
+        "rarity": "Performapal Show Down",
+        "date": 1464220800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":6740720,"ot":3,"alias":0,"setcode":0,"type":17,"atk":2500,"def":2300,"level":7,"race":8192,"attribute":16,"category":0,"name":"Seiyaryu","desc":"A mystical dragon that burns away the unworthy with its mystic flames.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":6740720,"pack_id":"15AX-JPM10","pack":"15AX","rarity":"Seiyaryu","date":931392000000},"tcg":{"id":6740720,"pack_id":"DDS-004","pack":"DDS","rarity":"Seiyaryu","date":1016496000000}}
+{
+    "id": 6740720,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 2500,
+    "def": 2300,
+    "level": 7,
+    "race": 8192,
+    "attribute": 16,
+    "category": 0,
+    "name": "Seiyaryu",
+    "desc": "A mystical dragon that burns away the unworthy with its mystic flames.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 6740720,
+        "pack_id": "15AX-JPM10",
+        "pack": "15AX",
+        "rarity": "Seiyaryu",
+        "date": 931392000000
+    },
+    "tcg": {
+        "id": 6740720,
+        "pack_id": "DDS-004",
+        "pack": "DDS",
+        "rarity": "Seiyaryu",
+        "date": 1016496000000
+    }
+}

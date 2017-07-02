@@ -1,1 +1,47 @@
-{"id":40907115,"ot":3,"alias":0,"setcode":280297653,"type":33,"atk":1500,"def":1000,"level":3,"race":1048576,"attribute":8,"category":0,"name":"Ritual Beast Tamer Wen","desc":"If this card is Normal Summoned: You can target 1 of your banished \"Ritual Beast\" monsters; Special Summon it. You can only Special Summon \"Ritual Beast Tamer Wen(s)\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":40907115,"pack_id":"SPTR-JP024","pack":"SPTR","rarity":"Ritual Beast Tamer Wen","date":1412985600000},"tcg":{"id":40907115,"pack_id":"THSF-EN024","pack":"THSF","rarity":"Ritual Beast Tamer Wen","date":1423785600000}}
+{
+    "id": 40907115,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 280297653,
+    "type": 33,
+    "atk": 1500,
+    "def": 1000,
+    "level": 3,
+    "race": 1048576,
+    "attribute": 8,
+    "category": 0,
+    "name": "Ritual Beast Tamer Wen",
+    "desc": "If this card is Normal Summoned: You can target 1 of your banished \"Ritual Beast\" monsters; Special Summon it. You can only Special Summon \"Ritual Beast Tamer Wen(s)\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 40907115,
+        "pack_id": "SPTR-JP024",
+        "pack": "SPTR",
+        "rarity": "Ritual Beast Tamer Wen",
+        "date": 1412985600000
+    },
+    "tcg": {
+        "id": 40907115,
+        "pack_id": "THSF-EN024",
+        "pack": "THSF",
+        "rarity": "Ritual Beast Tamer Wen",
+        "date": 1423785600000
+    }
+}

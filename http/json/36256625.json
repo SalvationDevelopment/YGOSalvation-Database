@@ -1,1 +1,47 @@
-{"id":36256625,"ot":3,"alias":0,"setcode":4118,"type":97,"atk":3000,"def":2000,"level":8,"race":32,"attribute":1,"category":16384,"name":"Super Vehicroid Jumbo Drill","desc":"\"Steamroid\" + \"Drillroid\" + \"Submarineroid\"\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":36256625,"pack_id":"POTD-JP036","pack":"POTD","rarity":"Super Vehicroid Jumbo Drill","date":1147910400000},"tcg":{"id":36256625,"pack_id":"POTD-EN036","pack":"POTD","rarity":"Super Vehicroid Jumbo Drill","date":1155686400000}}
+{
+    "id": 36256625,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4118,
+    "type": 97,
+    "atk": 3000,
+    "def": 2000,
+    "level": 8,
+    "race": 32,
+    "attribute": 1,
+    "category": 16384,
+    "name": "Super Vehicroid Jumbo Drill",
+    "desc": "\"Steamroid\" + \"Drillroid\" + \"Submarineroid\"\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 36256625,
+        "pack_id": "POTD-JP036",
+        "pack": "POTD",
+        "rarity": "Super Vehicroid Jumbo Drill",
+        "date": 1147910400000
+    },
+    "tcg": {
+        "id": 36256625,
+        "pack_id": "POTD-EN036",
+        "pack": "POTD",
+        "rarity": "Super Vehicroid Jumbo Drill",
+        "date": 1155686400000
+    }
+}

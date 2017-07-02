@@ -1,1 +1,47 @@
-{"id":80036543,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":256,"name":"Hope for Escape","desc":"If your opponent's LP is at least 1000 higher than yours: Pay 1000 LP; draw 1 card for every 2000 points difference between your LP and your opponent's.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":80036543,"pack_id":"STOR-JP063","pack":"STOR","rarity":"Hope for Escape","date":1289606400000},"tcg":{"id":80036543,"pack_id":"STOR-EN063","pack":"STOR","rarity":"Hope for Escape","date":1297123200000}}
+{
+    "id": 80036543,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 256,
+    "name": "Hope for Escape",
+    "desc": "If your opponent's LP is at least 1000 higher than yours: Pay 1000 LP; draw 1 card for every 2000 points difference between your LP and your opponent's.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 80036543,
+        "pack_id": "STOR-JP063",
+        "pack": "STOR",
+        "rarity": "Hope for Escape",
+        "date": 1289606400000
+    },
+    "tcg": {
+        "id": 80036543,
+        "pack_id": "STOR-EN063",
+        "pack": "STOR",
+        "rarity": "Hope for Escape",
+        "date": 1297123200000
+    }
+}

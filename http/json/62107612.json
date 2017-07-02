@@ -1,1 +1,47 @@
-{"id":62107612,"ot":3,"alias":0,"setcode":0,"type":33,"atk":0,"def":0,"level":1,"race":2,"attribute":16,"category":4194304,"name":"Dimension Wanderer","desc":"When a monster is banished by the effect of \"Galaxy-Eyes Photon Dragon\": You can send this card from your hand to the Graveyard; inflict 3000 damage to your opponent. You can only use the effect of \"Dimension Wanderer\" once per turn.","str1":"Inflict damage","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":62107612,"pack_id":"DP13-JP015","pack":"DP13","rarity":"Dimension Wanderer","date":1347667200000},"tcg":{"id":62107612,"pack_id":"ZTIN-EN010","pack":"ZTIN","rarity":"Dimension Wanderer","date":1362614400000}}
+{
+    "id": 62107612,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": 2,
+    "attribute": 16,
+    "category": 4194304,
+    "name": "Dimension Wanderer",
+    "desc": "When a monster is banished by the effect of \"Galaxy-Eyes Photon Dragon\": You can send this card from your hand to the Graveyard; inflict 3000 damage to your opponent. You can only use the effect of \"Dimension Wanderer\" once per turn.",
+    "str1": "Inflict damage",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 62107612,
+        "pack_id": "DP13-JP015",
+        "pack": "DP13",
+        "rarity": "Dimension Wanderer",
+        "date": 1347667200000
+    },
+    "tcg": {
+        "id": 62107612,
+        "pack_id": "ZTIN-EN010",
+        "pack": "ZTIN",
+        "rarity": "Dimension Wanderer",
+        "date": 1362614400000
+    }
+}

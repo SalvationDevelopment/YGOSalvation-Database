@@ -1,1 +1,47 @@
-{"id":14970113,"ot":1,"alias":0,"setcode":241,"type":8388641,"atk":-2,"def":-2,"level":4,"race":32768,"attribute":1,"category":1074012160,"name":"Zoodiac Hammerkong","desc":"3 or more Level 4 monsters\nOnce per turn, you can also Xyz Summon \"Zoodiac Hammerkong\" by using 1 \"Zoodiac\" monster you control with a different name as Xyz Material. (If you used an Xyz Monster, any Xyz Materials attached to it also become Xyz Materials on this card.) This card gains ATK and DEF equal to the ATK and DEF of all \"Zoodiac\" monsters attached to it as Materials. While this card has Xyz Material, your opponent cannot target face-up \"Zoodiac\" monsters on the field with card effects, except this one. Once per turn, during the End Phase: Detach 1 Xyz Material from this card.","str1":"Xyz Summon using another \"Zoodiac\" monster?","str2":"Detach","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG","ocg":{"id":14970113,"pack_id":"MACR-JP047","pack":"MACR","rarity":"Zoodiac Hammerkong","date":1484352000000},"tcg":{"id":14970113,"pack_id":"MACR-EN047","pack":"MACR","rarity":"Zoodiac Hammerkong","date":1493856000000}}
+{
+    "id": 14970113,
+    "ot": 1,
+    "alias": 0,
+    "setcode": 241,
+    "type": 8388641,
+    "atk": -2,
+    "def": -2,
+    "level": 4,
+    "race": 32768,
+    "attribute": 1,
+    "category": 1074012160,
+    "name": "Zoodiac Hammerkong",
+    "desc": "3 or more Level 4 monsters\nOnce per turn, you can also Xyz Summon \"Zoodiac Hammerkong\" by using 1 \"Zoodiac\" monster you control with a different name as Xyz Material. (If you used an Xyz Monster, any Xyz Materials attached to it also become Xyz Materials on this card.) This card gains ATK and DEF equal to the ATK and DEF of all \"Zoodiac\" monsters attached to it as Materials. While this card has Xyz Material, your opponent cannot target face-up \"Zoodiac\" monsters on the field with card effects, except this one. Once per turn, during the End Phase: Detach 1 Xyz Material from this card.",
+    "str1": "Xyz Summon using another \"Zoodiac\" monster?",
+    "str2": "Detach",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG",
+    "ocg": {
+        "id": 14970113,
+        "pack_id": "MACR-JP047",
+        "pack": "MACR",
+        "rarity": "Zoodiac Hammerkong",
+        "date": 1484352000000
+    },
+    "tcg": {
+        "id": 14970113,
+        "pack_id": "MACR-EN047",
+        "pack": "MACR",
+        "rarity": "Zoodiac Hammerkong",
+        "date": 1493856000000
+    }
+}

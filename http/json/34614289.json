@@ -1,1 +1,47 @@
-{"id":34614289,"ot":3,"alias":0,"setcode":178,"type":33,"atk":1600,"def":2700,"level":7,"race":1,"attribute":1,"category":0,"name":"U.A. Blockbacker","desc":"You can Special Summon this card (from your hand) by returning 1 \"U.A.\" monster you control to the hand, except \"U.A. Blockbacker\". You can only Special Summon \"U.A. Blockbacker\" once per turn this way. Once per turn, when your opponent Special Summons a monster(s): You can change their battle positions, and if you do, negate their effects.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":34614289,"pack_id":"EP15-JP025","pack":"EP15","rarity":"U.A. Blockbacker","date":1442620800000},"tcg":{"id":34614289,"pack_id":"SECE-EN088","pack":"SECE","rarity":"U.A. Blockbacker","date":1421280000000}}
+{
+    "id": 34614289,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 178,
+    "type": 33,
+    "atk": 1600,
+    "def": 2700,
+    "level": 7,
+    "race": 1,
+    "attribute": 1,
+    "category": 0,
+    "name": "U.A. Blockbacker",
+    "desc": "You can Special Summon this card (from your hand) by returning 1 \"U.A.\" monster you control to the hand, except \"U.A. Blockbacker\". You can only Special Summon \"U.A. Blockbacker\" once per turn this way. Once per turn, when your opponent Special Summons a monster(s): You can change their battle positions, and if you do, negate their effects.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 34614289,
+        "pack_id": "EP15-JP025",
+        "pack": "EP15",
+        "rarity": "U.A. Blockbacker",
+        "date": 1442620800000
+    },
+    "tcg": {
+        "id": 34614289,
+        "pack_id": "SECE-EN088",
+        "pack": "SECE",
+        "rarity": "U.A. Blockbacker",
+        "date": 1421280000000
+    }
+}

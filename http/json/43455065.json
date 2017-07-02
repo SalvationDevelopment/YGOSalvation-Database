@@ -1,1 +1,47 @@
-{"id":43455065,"ot":3,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Magical Spring","desc":"Draw a number of cards equal to the number of face-up Spell/Trap Cards your opponent controls, then discard a number of cards equal to the number of face-up Spell/Trap Cards you control. Until the end of your opponent's next turn after this card resolves, Spell/Trap Cards your opponent controls cannot be destroyed (by battle or card effect), also their activation and effects cannot be negated. You can only activate 1 \"Magical Spring\" per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":43455065,"pack_id":"DUEA-JP065","pack":"DUEA","rarity":"Magical Spring","date":1397865600000},"tcg":{"id":43455065,"pack_id":"DUEA-EN065","pack":"DUEA","rarity":"Magical Spring","date":1407974400000}}
+{
+    "id": 43455065,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Magical Spring",
+    "desc": "Draw a number of cards equal to the number of face-up Spell/Trap Cards your opponent controls, then discard a number of cards equal to the number of face-up Spell/Trap Cards you control. Until the end of your opponent's next turn after this card resolves, Spell/Trap Cards your opponent controls cannot be destroyed (by battle or card effect), also their activation and effects cannot be negated. You can only activate 1 \"Magical Spring\" per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 43455065,
+        "pack_id": "DUEA-JP065",
+        "pack": "DUEA",
+        "rarity": "Magical Spring",
+        "date": 1397865600000
+    },
+    "tcg": {
+        "id": 43455065,
+        "pack_id": "DUEA-EN065",
+        "pack": "DUEA",
+        "rarity": "Magical Spring",
+        "date": 1407974400000
+    }
+}

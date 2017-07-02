@@ -1,1 +1,47 @@
-{"id":82542267,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4,"name":"Gravedigger Ghoul","desc":"Select up to 2 Monster Card(s) from your opponent's Graveyard. Remove the selected card(s) from play.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":82542267,"pack_id":"PG-60","pack":"PG","rarity":"Gravedigger Ghoul","date":927763200000},"tcg":{"id":82542267,"pack_id":"LOB-065","pack":"LOB","rarity":"Gravedigger Ghoul","date":1015545600000}}
+{
+    "id": 82542267,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4,
+    "name": "Gravedigger Ghoul",
+    "desc": "Select up to 2 Monster Card(s) from your opponent's Graveyard. Remove the selected card(s) from play.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 82542267,
+        "pack_id": "PG-60",
+        "pack": "PG",
+        "rarity": "Gravedigger Ghoul",
+        "date": 927763200000
+    },
+    "tcg": {
+        "id": 82542267,
+        "pack_id": "LOB-065",
+        "pack": "LOB",
+        "rarity": "Gravedigger Ghoul",
+        "date": 1015545600000
+    }
+}

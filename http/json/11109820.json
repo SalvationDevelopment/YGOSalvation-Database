@@ -1,1 +1,47 @@
-{"id":11109820,"ot":3,"alias":0,"setcode":115,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Xyz Universe","desc":"Target 2 face-up Xyz Monsters on the field; send both monsters to the Graveyard, then Special Summon 1 Xyz Monster from your Extra Deck, except a \"Number\" monster, whose Rank is equal to, or 1 less than, the combined original Ranks of those 2 Xyz Monsters, and if you do, attach this card to it as an Xyz Material. If you activated this card, your opponent takes no further damage this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":11109820,"pack_id":"PRIO-JP078","pack":"PRIO","rarity":"Xyz Universe","date":1392422400000},"tcg":{"id":11109820,"pack_id":"PRIO-EN078","pack":"PRIO","rarity":"Xyz Universe","date":1400198400000}}
+{
+    "id": 11109820,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 115,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Xyz Universe",
+    "desc": "Target 2 face-up Xyz Monsters on the field; send both monsters to the Graveyard, then Special Summon 1 Xyz Monster from your Extra Deck, except a \"Number\" monster, whose Rank is equal to, or 1 less than, the combined original Ranks of those 2 Xyz Monsters, and if you do, attach this card to it as an Xyz Material. If you activated this card, your opponent takes no further damage this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 11109820,
+        "pack_id": "PRIO-JP078",
+        "pack": "PRIO",
+        "rarity": "Xyz Universe",
+        "date": 1392422400000
+    },
+    "tcg": {
+        "id": 11109820,
+        "pack_id": "PRIO-EN078",
+        "pack": "PRIO",
+        "rarity": "Xyz Universe",
+        "date": 1400198400000
+    }
+}

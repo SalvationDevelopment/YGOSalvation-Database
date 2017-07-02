@@ -1,1 +1,47 @@
-{"id":99458769,"ot":3,"alias":0,"setcode":6,"type":33,"atk":2500,"def":1800,"level":7,"race":8,"attribute":32,"category":262147,"name":"Reign-Beaux, Overlord of Dark World","desc":"If this card is discarded from your hand to your Graveyard by an opponent's card effect: Special Summon this card from the Graveyard. When this card is Special Summoned this way: Destroy all monsters your opponent controls OR all Spell/Trap Cards they control.","str1":"Special Summon","str2":"Destroy","str3":"Monster Cards","str4":"Spell/Trap Cards","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":99458769,"pack_id":"STON-JP017","pack":"STON","rarity":"Reign-Beaux, Overlord of Dark World","date":1163635200000},"tcg":{"id":99458769,"pack_id":"STON-EN017","pack":"STON","rarity":"Reign-Beaux, Overlord of Dark World","date":1172620800000}}
+{
+    "id": 99458769,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 6,
+    "type": 33,
+    "atk": 2500,
+    "def": 1800,
+    "level": 7,
+    "race": 8,
+    "attribute": 32,
+    "category": 262147,
+    "name": "Reign-Beaux, Overlord of Dark World",
+    "desc": "If this card is discarded from your hand to your Graveyard by an opponent's card effect: Special Summon this card from the Graveyard. When this card is Special Summoned this way: Destroy all monsters your opponent controls OR all Spell/Trap Cards they control.",
+    "str1": "Special Summon",
+    "str2": "Destroy",
+    "str3": "Monster Cards",
+    "str4": "Spell/Trap Cards",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 99458769,
+        "pack_id": "STON-JP017",
+        "pack": "STON",
+        "rarity": "Reign-Beaux, Overlord of Dark World",
+        "date": 1163635200000
+    },
+    "tcg": {
+        "id": 99458769,
+        "pack_id": "STON-EN017",
+        "pack": "STON",
+        "rarity": "Reign-Beaux, Overlord of Dark World",
+        "date": 1172620800000
+    }
+}

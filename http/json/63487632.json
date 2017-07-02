@@ -1,1 +1,47 @@
-{"id":63487632,"ot":3,"alias":0,"setcode":41,"type":33,"atk":2600,"def":1200,"level":8,"race":8192,"attribute":8,"category":262148,"name":"Dragunity Arma Leyvaten","desc":"You can Special Summon this card from your hand or your Graveyard by removing from play 1 face-up monster you control equipped with a \"Dragunity\" card(s). When this card is Normal or Special Summoned, you can select 1 Dragon-Type monster in your Graveyard, except \"Dragunity Arma Leyvaten\", and equip it to this card. When this card is sent to the Graveyard by your opponent's card effect, you can select 1 of the monsters that were equipped to this card when it was sent to the Graveyard, and Special Summon that monster from the Graveyard.","str1":"Equip","str2":"Special Summon","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":63487632,"pack_id":"SD19-JP001","pack":"SD19","rarity":"Dragunity Arma Leyvaten","date":1276905600000},"tcg":{"id":63487632,"pack_id":"SDDL-EN001","pack":"SDDL","rarity":"Dragunity Arma Leyvaten","date":1299196800000}}
+{
+    "id": 63487632,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 41,
+    "type": 33,
+    "atk": 2600,
+    "def": 1200,
+    "level": 8,
+    "race": 8192,
+    "attribute": 8,
+    "category": 262148,
+    "name": "Dragunity Arma Leyvaten",
+    "desc": "You can Special Summon this card from your hand or your Graveyard by removing from play 1 face-up monster you control equipped with a \"Dragunity\" card(s). When this card is Normal or Special Summoned, you can select 1 Dragon-Type monster in your Graveyard, except \"Dragunity Arma Leyvaten\", and equip it to this card. When this card is sent to the Graveyard by your opponent's card effect, you can select 1 of the monsters that were equipped to this card when it was sent to the Graveyard, and Special Summon that monster from the Graveyard.",
+    "str1": "Equip",
+    "str2": "Special Summon",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 63487632,
+        "pack_id": "SD19-JP001",
+        "pack": "SD19",
+        "rarity": "Dragunity Arma Leyvaten",
+        "date": 1276905600000
+    },
+    "tcg": {
+        "id": 63487632,
+        "pack_id": "SDDL-EN001",
+        "pack": "SDDL",
+        "rarity": "Dragunity Arma Leyvaten",
+        "date": 1299196800000
+    }
+}

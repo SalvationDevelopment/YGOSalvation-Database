@@ -1,1 +1,47 @@
-{"id":77207191,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1400,"def":1800,"level":5,"race":8,"attribute":32,"category":512,"name":"Berfomet","desc":"When this card is Normal or Flip Summoned: You can add 1 \"Gazelle the King of Mythical Beasts\" from your Deck to your hand.","str1":"Search","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":77207191,"pack_id":"G4-B1","pack":"G4","rarity":"Berfomet","date":976147200000},"tcg":{"id":77207191,"pack_id":"ABPF-EN091","pack":"ABPF","rarity":"Berfomet","date":1265932800000}}
+{
+    "id": 77207191,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1400,
+    "def": 1800,
+    "level": 5,
+    "race": 8,
+    "attribute": 32,
+    "category": 512,
+    "name": "Berfomet",
+    "desc": "When this card is Normal or Flip Summoned: You can add 1 \"Gazelle the King of Mythical Beasts\" from your Deck to your hand.",
+    "str1": "Search",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 77207191,
+        "pack_id": "G4-B1",
+        "pack": "G4",
+        "rarity": "Berfomet",
+        "date": 976147200000
+    },
+    "tcg": {
+        "id": 77207191,
+        "pack_id": "ABPF-EN091",
+        "pack": "ABPF",
+        "rarity": "Berfomet",
+        "date": 1265932800000
+    }
+}

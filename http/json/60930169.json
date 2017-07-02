@@ -1,1 +1,47 @@
-{"id":60930169,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262144,"name":"Broken Blocker","desc":"Activate only when a Defense Position monster you control, whose DEF is higher than its ATK, is destroyed by battle. Special Summon up to 2 monsters with the same name as that monster from your Deck in face-up Defense Position.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":60930169,"pack_id":"TDGS-JP069","pack":"TDGS","rarity":"Broken Blocker","date":1208563200000},"tcg":{"id":60930169,"pack_id":"TDGS-EN069","pack":"TDGS","rarity":"Broken Blocker","date":1218240000000}}
+{
+    "id": 60930169,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262144,
+    "name": "Broken Blocker",
+    "desc": "Activate only when a Defense Position monster you control, whose DEF is higher than its ATK, is destroyed by battle. Special Summon up to 2 monsters with the same name as that monster from your Deck in face-up Defense Position.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 60930169,
+        "pack_id": "TDGS-JP069",
+        "pack": "TDGS",
+        "rarity": "Broken Blocker",
+        "date": 1208563200000
+    },
+    "tcg": {
+        "id": 60930169,
+        "pack_id": "TDGS-EN069",
+        "pack": "TDGS",
+        "rarity": "Broken Blocker",
+        "date": 1218240000000
+    }
+}

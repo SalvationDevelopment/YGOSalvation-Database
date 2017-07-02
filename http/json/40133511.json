@@ -1,1 +1,47 @@
-{"id":40133511,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1600,"def":900,"level":4,"race":16384,"attribute":1,"category":8192,"name":"Bazoo the Soul-Eater","desc":"Once per turn: You can banish up to 3 monsters from your Graveyard; this card gains 300 ATK for each, until the end of your opponent's turn.","str1":"Gain ATK","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":40133511,"pack_id":"LN-13","pack":"LN","rarity":"Bazoo the Soul-Eater","date":995673600000},"tcg":{"id":40133511,"pack_id":"LON-064","pack":"LON","rarity":"Bazoo the Soul-Eater","date":1046476800000}}
+{
+    "id": 40133511,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1600,
+    "def": 900,
+    "level": 4,
+    "race": 16384,
+    "attribute": 1,
+    "category": 8192,
+    "name": "Bazoo the Soul-Eater",
+    "desc": "Once per turn: You can banish up to 3 monsters from your Graveyard; this card gains 300 ATK for each, until the end of your opponent's turn.",
+    "str1": "Gain ATK",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 40133511,
+        "pack_id": "LN-13",
+        "pack": "LN",
+        "rarity": "Bazoo the Soul-Eater",
+        "date": 995673600000
+    },
+    "tcg": {
+        "id": 40133511,
+        "pack_id": "LON-064",
+        "pack": "LON",
+        "rarity": "Bazoo the Soul-Eater",
+        "date": 1046476800000
+    }
+}

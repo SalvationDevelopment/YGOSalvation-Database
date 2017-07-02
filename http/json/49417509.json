@@ -1,1 +1,47 @@
-{"id":49417509,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1200,"def":800,"level":3,"race":16384,"attribute":1,"category":0,"name":"Wolf","desc":"Dis alpha wolf yoozes his sense a smell ta find da enemy. 'ey, quit sniffin at my socks!","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":49417509,"pack_id":null,"pack":"Booster 5","rarity":"共通","date":940136400000},"tcg":{"id":49417509,"pack_id":"LCJW-EN018","pack":"LCJW","rarity":"Wolf","date":1381449600000}}
+{
+    "id": 49417509,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1200,
+    "def": 800,
+    "level": 3,
+    "race": 16384,
+    "attribute": 1,
+    "category": 0,
+    "name": "Wolf",
+    "desc": "Dis alpha wolf yoozes his sense a smell ta find da enemy. 'ey, quit sniffin at my socks!",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 49417509,
+        "pack_id": null,
+        "pack": "Booster 5",
+        "rarity": "共通",
+        "date": 940136400000
+    },
+    "tcg": {
+        "id": 49417509,
+        "pack_id": "LCJW-EN018",
+        "pack": "LCJW",
+        "rarity": "Wolf",
+        "date": 1381449600000
+    }
+}

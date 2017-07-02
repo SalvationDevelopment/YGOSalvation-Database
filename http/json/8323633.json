@@ -1,1 +1,47 @@
-{"id":8323633,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4,"name":"Cloak and Dagger","desc":"Declare 1 Monster Card name. If your opponent Normal Summons, Special Summons, or flips that monster(s) face-up, remove that monster(s) and this card from play.","str1":"Banish","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":8323633,"pack_id":"STON-JP059","pack":"STON","rarity":"Cloak and Dagger","date":1163635200000},"tcg":{"id":8323633,"pack_id":"STON-EN059","pack":"STON","rarity":"Cloak and Dagger","date":1172620800000}}
+{
+    "id": 8323633,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4,
+    "name": "Cloak and Dagger",
+    "desc": "Declare 1 Monster Card name. If your opponent Normal Summons, Special Summons, or flips that monster(s) face-up, remove that monster(s) and this card from play.",
+    "str1": "Banish",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 8323633,
+        "pack_id": "STON-JP059",
+        "pack": "STON",
+        "rarity": "Cloak and Dagger",
+        "date": 1163635200000
+    },
+    "tcg": {
+        "id": 8323633,
+        "pack_id": "STON-EN059",
+        "pack": "STON",
+        "rarity": "Cloak and Dagger",
+        "date": 1172620800000
+    }
+}

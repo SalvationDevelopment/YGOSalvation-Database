@@ -1,1 +1,47 @@
-{"id":96700602,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4196352,"name":"Barrier Wave","desc":"Activate by Tributing 1 Synchro Monster when an opponent's monster declares an attack. Change all Attack Position monsters your opponent controls to Defense Position. Then, inflict damage to your opponent equal to the attacking monster's DEF.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":96700602,"pack_id":"DREV-JP068","pack":"DREV","rarity":"Barrier Wave","date":1271462400000},"tcg":{"id":96700602,"pack_id":"DREV-EN068","pack":"DREV","rarity":"Barrier Wave","date":1281139200000}}
+{
+    "id": 96700602,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4196352,
+    "name": "Barrier Wave",
+    "desc": "Activate by Tributing 1 Synchro Monster when an opponent's monster declares an attack. Change all Attack Position monsters your opponent controls to Defense Position. Then, inflict damage to your opponent equal to the attacking monster's DEF.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 96700602,
+        "pack_id": "DREV-JP068",
+        "pack": "DREV",
+        "rarity": "Barrier Wave",
+        "date": 1271462400000
+    },
+    "tcg": {
+        "id": 96700602,
+        "pack_id": "DREV-EN068",
+        "pack": "DREV",
+        "rarity": "Barrier Wave",
+        "date": 1281139200000
+    }
+}

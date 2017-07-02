@@ -1,1 +1,47 @@
-{"id":39537362,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":16,"name":"Ordeal of a Traveler","desc":"When an opponent's monster declares an attack: Your opponent chooses 1 random card in your hand and calls the type of the card (Monster, Spell, or Trap), and if they call it wrong, return the attacking monster to the hand.","str1":"Declare card type","str2":"Use the effect of \"Ordeal of a Traveler\"?","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":39537362,"pack_id":"PH-41","pack":"PH","rarity":"Ordeal of a Traveler","date":1016668800000},"tcg":{"id":39537362,"pack_id":"PGD-042","pack":"PGD","rarity":"Ordeal of a Traveler","date":1058486400000}}
+{
+    "id": 39537362,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 16,
+    "name": "Ordeal of a Traveler",
+    "desc": "When an opponent's monster declares an attack: Your opponent chooses 1 random card in your hand and calls the type of the card (Monster, Spell, or Trap), and if they call it wrong, return the attacking monster to the hand.",
+    "str1": "Declare card type",
+    "str2": "Use the effect of \"Ordeal of a Traveler\"?",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 39537362,
+        "pack_id": "PH-41",
+        "pack": "PH",
+        "rarity": "Ordeal of a Traveler",
+        "date": 1016668800000
+    },
+    "tcg": {
+        "id": 39537362,
+        "pack_id": "PGD-042",
+        "pack": "PGD",
+        "rarity": "Ordeal of a Traveler",
+        "date": 1058486400000
+    }
+}

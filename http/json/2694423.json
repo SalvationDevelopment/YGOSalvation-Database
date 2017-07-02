@@ -1,1 +1,47 @@
-{"id":2694423,"ot":3,"alias":0,"setcode":62,"type":33,"atk":500,"def":600,"level":2,"race":256,"attribute":1,"category":2050,"name":"Medusa Worm","desc":"Once per turn, you can flip this card into face-down Defense Position. When this card is Flip Summoned, destroy 1 monster on your opponent's side of the field.","str1":"Flip into face-down Defense Position","str2":"Destroy","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":2694423,"pack_id":"TLM-JP022","pack":"TLM","rarity":"Medusa Worm","date":1134000000000},"tcg":{"id":2694423,"pack_id":"TLM-EN022","pack":"TLM","rarity":"Medusa Worm","date":1117238400000}}
+{
+    "id": 2694423,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 62,
+    "type": 33,
+    "atk": 500,
+    "def": 600,
+    "level": 2,
+    "race": 256,
+    "attribute": 1,
+    "category": 2050,
+    "name": "Medusa Worm",
+    "desc": "Once per turn, you can flip this card into face-down Defense Position. When this card is Flip Summoned, destroy 1 monster on your opponent's side of the field.",
+    "str1": "Flip into face-down Defense Position",
+    "str2": "Destroy",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 2694423,
+        "pack_id": "TLM-JP022",
+        "pack": "TLM",
+        "rarity": "Medusa Worm",
+        "date": 1134000000000
+    },
+    "tcg": {
+        "id": 2694423,
+        "pack_id": "TLM-EN022",
+        "pack": "TLM",
+        "rarity": "Medusa Worm",
+        "date": 1117238400000
+    }
+}

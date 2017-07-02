@@ -1,1 +1,47 @@
-{"id":49389523,"ot":3,"alias":0,"setcode":0,"type":8225,"atk":2800,"def":2000,"level":8,"race":16384,"attribute":16,"category":262144,"name":"Lightning Tricorn","desc":"1 Tuner + 1 or more non-Tuner Beast-Type monsters\nIf this card is destroyed by your opponent's card (either by battle or by card effect), you can select 1 \"Thunder Unicorn\" or \"Voltic Bicorn\" in your Graveyard and Special Summon it.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":49389523,"pack_id":"DREV-JP042","pack":"DREV","rarity":"Lightning Tricorn","date":1271462400000},"tcg":{"id":49389523,"pack_id":"DREV-EN042","pack":"DREV","rarity":"Lightning Tricorn","date":1281139200000}}
+{
+    "id": 49389523,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8225,
+    "atk": 2800,
+    "def": 2000,
+    "level": 8,
+    "race": 16384,
+    "attribute": 16,
+    "category": 262144,
+    "name": "Lightning Tricorn",
+    "desc": "1 Tuner + 1 or more non-Tuner Beast-Type monsters\nIf this card is destroyed by your opponent's card (either by battle or by card effect), you can select 1 \"Thunder Unicorn\" or \"Voltic Bicorn\" in your Graveyard and Special Summon it.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 49389523,
+        "pack_id": "DREV-JP042",
+        "pack": "DREV",
+        "rarity": "Lightning Tricorn",
+        "date": 1271462400000
+    },
+    "tcg": {
+        "id": 49389523,
+        "pack_id": "DREV-EN042",
+        "pack": "DREV",
+        "rarity": "Lightning Tricorn",
+        "date": 1281139200000
+    }
+}

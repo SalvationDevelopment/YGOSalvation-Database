@@ -1,1 +1,47 @@
-{"id":55553602,"ot":3,"alias":0,"setcode":159,"type":524290,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Performapal Dramatic Theater","desc":"Monsters you control gain 200 ATK for each monster you control with a different Type. Once per turn, if you control 4 \"Performapal\" monsters with different Types: You can Special Summon 1 \"Odd-Eyes\" monster from your hand, Deck, or Graveyard.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":55553602,"pack_id":"ST16-JP021","pack":"ST16","rarity":"Performapal Dramatic Theater","date":1458345600000},"tcg":{"id":55553602,"pack_id":"YS16-EN021","pack":"YS16","rarity":"Performapal Dramatic Theater","date":1464220800000}}
+{
+    "id": 55553602,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 159,
+    "type": 524290,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Performapal Dramatic Theater",
+    "desc": "Monsters you control gain 200 ATK for each monster you control with a different Type. Once per turn, if you control 4 \"Performapal\" monsters with different Types: You can Special Summon 1 \"Odd-Eyes\" monster from your hand, Deck, or Graveyard.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 55553602,
+        "pack_id": "ST16-JP021",
+        "pack": "ST16",
+        "rarity": "Performapal Dramatic Theater",
+        "date": 1458345600000
+    },
+    "tcg": {
+        "id": 55553602,
+        "pack_id": "YS16-EN021",
+        "pack": "YS16",
+        "rarity": "Performapal Dramatic Theater",
+        "date": 1464220800000
+    }
+}

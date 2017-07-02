@@ -1,1 +1,47 @@
-{"id":96622984,"ot":3,"alias":0,"setcode":284360947,"type":33,"atk":400,"def":800,"level":2,"race":1024,"attribute":32,"category":0,"name":"Predaplant Flytrap","desc":"Once per turn: You can target 1 face-up monster your opponent controls; place 1 Predator Counter on it, and if it is Level 2 or higher, it becomes Level 1 as long as it has a Predator Counter. At the start of the Damage Step, when this card battles a monster with an equal or lower Level: You can destroy that monster, then increase this card's Level by the original Level of the destroyed monster.","str1":"Add Counter","str2":"Destory Monster","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":96622984,"pack_id":"INOV-JP006","pack":"INOV","rarity":"Predaplant Flytrap","date":1468022400000},"tcg":{"id":96622984,"pack_id":"INOV-EN006","pack":"INOV","rarity":"Predaplant Flytrap","date":1478131200000}}
+{
+    "id": 96622984,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 284360947,
+    "type": 33,
+    "atk": 400,
+    "def": 800,
+    "level": 2,
+    "race": 1024,
+    "attribute": 32,
+    "category": 0,
+    "name": "Predaplant Flytrap",
+    "desc": "Once per turn: You can target 1 face-up monster your opponent controls; place 1 Predator Counter on it, and if it is Level 2 or higher, it becomes Level 1 as long as it has a Predator Counter. At the start of the Damage Step, when this card battles a monster with an equal or lower Level: You can destroy that monster, then increase this card's Level by the original Level of the destroyed monster.",
+    "str1": "Add Counter",
+    "str2": "Destory Monster",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 96622984,
+        "pack_id": "INOV-JP006",
+        "pack": "INOV",
+        "rarity": "Predaplant Flytrap",
+        "date": 1468022400000
+    },
+    "tcg": {
+        "id": 96622984,
+        "pack_id": "INOV-EN006",
+        "pack": "INOV",
+        "rarity": "Predaplant Flytrap",
+        "date": 1478131200000
+    }
+}

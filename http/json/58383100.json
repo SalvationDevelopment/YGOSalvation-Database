@@ -1,1 +1,47 @@
-{"id":58383100,"ot":3,"alias":0,"setcode":229,"type":33,"atk":0,"def":0,"level":4,"race":1,"attribute":16,"category":0,"name":"Cipher Mirror Knight","desc":"When a \"Cipher\" monster you control is destroyed by battle and sent to your Graveyard: You can discard this card; send 1 card from your hand or field to the Graveyard, and if you do, Special Summon that destroyed monster. During the End Phase, if this card is in the Graveyard because it was sent there this turn: You can add 1 \"Cipher\" card from your Deck to your hand. You can only use this effect of \"Cipher Mirror Knight\" once per turn.","str1":"Special Summon","str2":"Add 1 \"Cipher\" card or \"Kinetic Soldier\" to hand","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":58383100,"pack_id":"INOV-JP011","pack":"INOV","rarity":"Cipher Mirror Knight","date":1468022400000},"tcg":{"id":58383100,"pack_id":"INOV-EN011","pack":"INOV","rarity":"Cipher Mirror Knight","date":1478131200000}}
+{
+    "id": 58383100,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 229,
+    "type": 33,
+    "atk": 0,
+    "def": 0,
+    "level": 4,
+    "race": 1,
+    "attribute": 16,
+    "category": 0,
+    "name": "Cipher Mirror Knight",
+    "desc": "When a \"Cipher\" monster you control is destroyed by battle and sent to your Graveyard: You can discard this card; send 1 card from your hand or field to the Graveyard, and if you do, Special Summon that destroyed monster. During the End Phase, if this card is in the Graveyard because it was sent there this turn: You can add 1 \"Cipher\" card from your Deck to your hand. You can only use this effect of \"Cipher Mirror Knight\" once per turn.",
+    "str1": "Special Summon",
+    "str2": "Add 1 \"Cipher\" card or \"Kinetic Soldier\" to hand",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 58383100,
+        "pack_id": "INOV-JP011",
+        "pack": "INOV",
+        "rarity": "Cipher Mirror Knight",
+        "date": 1468022400000
+    },
+    "tcg": {
+        "id": 58383100,
+        "pack_id": "INOV-EN011",
+        "pack": "INOV",
+        "rarity": "Cipher Mirror Knight",
+        "date": 1478131200000
+    }
+}

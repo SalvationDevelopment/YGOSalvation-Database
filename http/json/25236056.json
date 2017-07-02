@@ -1,1 +1,47 @@
-{"id":25236056,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2400,"def":1200,"level":4,"race":8192,"attribute":32,"category":0,"name":"Rare Metal Dragon","desc":"This card cannot be Normal Summoned or Set.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":25236056,"pack_id":"PP7-JP004","pack":"PP7","rarity":"Rare Metal Dragon","date":1091664000000},"tcg":{"id":25236056,"pack_id":"EP1-EN004","pack":"EP1","rarity":"Rare Metal Dragon","date":1091318400000}}
+{
+    "id": 25236056,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2400,
+    "def": 1200,
+    "level": 4,
+    "race": 8192,
+    "attribute": 32,
+    "category": 0,
+    "name": "Rare Metal Dragon",
+    "desc": "This card cannot be Normal Summoned or Set.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 25236056,
+        "pack_id": "PP7-JP004",
+        "pack": "PP7",
+        "rarity": "Rare Metal Dragon",
+        "date": 1091664000000
+    },
+    "tcg": {
+        "id": 25236056,
+        "pack_id": "EP1-EN004",
+        "pack": "EP1",
+        "rarity": "Rare Metal Dragon",
+        "date": 1091318400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":13069066,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1750,"def":2030,"level":6,"race":65536,"attribute":1,"category":0,"name":"Sword Arm of Dragon","desc":"This Jurrasic juggernaut has a spine covered in sword-like plates, and a tail to split open skulls.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":13069066,"pack_id":"B3-01","pack":"B3","rarity":"Sword Arm of Dragon","date":944006400000},"tcg":{"id":13069066,"pack_id":"LCJW-EN146","pack":"LCJW","rarity":"Sword Arm of Dragon","date":1381449600000}}
+{
+    "id": 13069066,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1750,
+    "def": 2030,
+    "level": 6,
+    "race": 65536,
+    "attribute": 1,
+    "category": 0,
+    "name": "Sword Arm of Dragon",
+    "desc": "This Jurrasic juggernaut has a spine covered in sword-like plates, and a tail to split open skulls.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 13069066,
+        "pack_id": "B3-01",
+        "pack": "B3",
+        "rarity": "Sword Arm of Dragon",
+        "date": 944006400000
+    },
+    "tcg": {
+        "id": 13069066,
+        "pack_id": "LCJW-EN146",
+        "pack": "LCJW",
+        "rarity": "Sword Arm of Dragon",
+        "date": 1381449600000
+    }
+}

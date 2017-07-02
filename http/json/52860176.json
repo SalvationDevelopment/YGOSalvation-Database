@@ -1,1 +1,47 @@
-{"id":52860176,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1200,"def":800,"level":3,"race":8,"attribute":32,"category":4096,"name":"Possessed Dark Soul","desc":"You can Tribute this face-up card; take control of all face-up Level 3 or lower monsters your opponent currently controls.","str1":"得到控制权","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":52860176,"pack_id":"SC-04","pack":"SC","rarity":"Possessed Dark Soul","date":1000944000000},"tcg":{"id":52860176,"pack_id":"LOD-004","pack":"LOD","rarity":"Possessed Dark Soul","date":1054857600000}}
+{
+    "id": 52860176,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1200,
+    "def": 800,
+    "level": 3,
+    "race": 8,
+    "attribute": 32,
+    "category": 4096,
+    "name": "Possessed Dark Soul",
+    "desc": "You can Tribute this face-up card; take control of all face-up Level 3 or lower monsters your opponent currently controls.",
+    "str1": "得到控制权",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 52860176,
+        "pack_id": "SC-04",
+        "pack": "SC",
+        "rarity": "Possessed Dark Soul",
+        "date": 1000944000000
+    },
+    "tcg": {
+        "id": 52860176,
+        "pack_id": "LOD-004",
+        "pack": "LOD",
+        "rarity": "Possessed Dark Soul",
+        "date": 1054857600000
+    }
+}

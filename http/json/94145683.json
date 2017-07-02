@@ -1,1 +1,47 @@
-{"id":94145683,"ot":3,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1310720,"name":"Swallow's Nest","desc":"Tribute 1 face-up Winged Beast-Type monster; Special Summon 1 Winged Beast-Type monster from your Deck with the same Level the Tributed monster had on the field.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":94145683,"pack_id":"EXP3-JP008","pack":"EXP3","rarity":"Swallow's Nest","date":1284768000000},"tcg":{"id":94145683,"pack_id":"RGBT-EN087","pack":"RGBT","rarity":"Swallow's Nest","date":1241222400000}}
+{
+    "id": 94145683,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1310720,
+    "name": "Swallow's Nest",
+    "desc": "Tribute 1 face-up Winged Beast-Type monster; Special Summon 1 Winged Beast-Type monster from your Deck with the same Level the Tributed monster had on the field.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 94145683,
+        "pack_id": "EXP3-JP008",
+        "pack": "EXP3",
+        "rarity": "Swallow's Nest",
+        "date": 1284768000000
+    },
+    "tcg": {
+        "id": 94145683,
+        "pack_id": "RGBT-EN087",
+        "pack": "RGBT",
+        "rarity": "Swallow's Nest",
+        "date": 1241222400000
+    }
+}

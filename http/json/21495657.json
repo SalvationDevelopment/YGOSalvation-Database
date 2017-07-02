@@ -1,1 +1,47 @@
-{"id":21495657,"ot":3,"alias":0,"setcode":12845214,"type":16777249,"atk":1500,"def":0,"level":16842755,"race":8388608,"attribute":1,"category":0,"name":"Zefraxi, Treasure of the Yang Zing","desc":"Pendulum Effect\nYou cannot Pendulum Summon monsters, except \"Yang Zing\" and \"Zefra\" monsters. This effect cannot be negated.\n\nMonster Effect\nIf this card is Pendulum Summoned, or Special Summoned from the Main Deck: You can target 1 \"Yang Zing\" or \"Zefra\" monster you control, except \"Zefraxi, Treasure of the Yang Zing\"; that face-up monster is treated as a Tuner this turn, also place this card on the bottom of the Deck when it leaves the field. You can only use this effect of \"Zefraxi, Treasure of the Yang Zing\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":21495657,"pack_id":"CROS-JP024","pack":"CROS","rarity":"Zefraxi, Treasure of the Yang Zing","date":1423872000000},"tcg":{"id":21495657,"pack_id":"CROS-EN024","pack":"CROS","rarity":"Zefraxi, Treasure of the Yang Zing","date":1431561600000}}
+{
+    "id": 21495657,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 12845214,
+    "type": 16777249,
+    "atk": 1500,
+    "def": 0,
+    "level": 16842755,
+    "race": 8388608,
+    "attribute": 1,
+    "category": 0,
+    "name": "Zefraxi, Treasure of the Yang Zing",
+    "desc": "Pendulum Effect\nYou cannot Pendulum Summon monsters, except \"Yang Zing\" and \"Zefra\" monsters. This effect cannot be negated.\n\nMonster Effect\nIf this card is Pendulum Summoned, or Special Summoned from the Main Deck: You can target 1 \"Yang Zing\" or \"Zefra\" monster you control, except \"Zefraxi, Treasure of the Yang Zing\"; that face-up monster is treated as a Tuner this turn, also place this card on the bottom of the Deck when it leaves the field. You can only use this effect of \"Zefraxi, Treasure of the Yang Zing\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 21495657,
+        "pack_id": "CROS-JP024",
+        "pack": "CROS",
+        "rarity": "Zefraxi, Treasure of the Yang Zing",
+        "date": 1423872000000
+    },
+    "tcg": {
+        "id": 21495657,
+        "pack_id": "CROS-EN024",
+        "pack": "CROS",
+        "rarity": "Zefraxi, Treasure of the Yang Zing",
+        "date": 1431561600000
+    }
+}

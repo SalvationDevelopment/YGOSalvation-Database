@@ -1,1 +1,47 @@
-{"id":81057455,"ot":3,"alias":0,"setcode":211,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Kaiju Capture Mission","desc":"Once per turn, if there are less than 3 Kaiju Counters on this card: You can target 1 \"Kaiju\" monster on the field; change it to face-down Defense Position, then place 1 Kaiju Counter on this card (max. 3). If this card in your possession is destroyed by an opponent's card and sent to your Graveyard: You can draw 2 cards. You can only use this effect of \"Kaiju Capture Mission\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":81057455,"pack_id":"EP16-JP032","pack":"EP16","rarity":"Kaiju Capture Mission","date":1473465600000},"tcg":{"id":81057455,"pack_id":"DOCS-EN089","pack":"DOCS","rarity":"Kaiju Capture Mission","date":1446681600000}}
+{
+    "id": 81057455,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 211,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Kaiju Capture Mission",
+    "desc": "Once per turn, if there are less than 3 Kaiju Counters on this card: You can target 1 \"Kaiju\" monster on the field; change it to face-down Defense Position, then place 1 Kaiju Counter on this card (max. 3). If this card in your possession is destroyed by an opponent's card and sent to your Graveyard: You can draw 2 cards. You can only use this effect of \"Kaiju Capture Mission\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 81057455,
+        "pack_id": "EP16-JP032",
+        "pack": "EP16",
+        "rarity": "Kaiju Capture Mission",
+        "date": 1473465600000
+    },
+    "tcg": {
+        "id": 81057455,
+        "pack_id": "DOCS-EN089",
+        "pack": "DOCS",
+        "rarity": "Kaiju Capture Mission",
+        "date": 1446681600000
+    }
+}

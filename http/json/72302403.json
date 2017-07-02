@@ -1,1 +1,47 @@
-{"id":72302403,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":67584,"name":"Swords of Revealing Light","desc":"Flip all monsters your opponent controls face-up. This card remains on the field for 3 of your opponent's turns. While this card is face-up on the field, monsters your opponent controls cannot declare an attack.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":72302403,"pack_id":"PG-40","pack":"PG","rarity":"Swords of Revealing Light","date":922492800000},"tcg":{"id":72302403,"pack_id":"LOB-101","pack":"LOB","rarity":"Swords of Revealing Light","date":1015545600000}}
+{
+    "id": 72302403,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 67584,
+    "name": "Swords of Revealing Light",
+    "desc": "Flip all monsters your opponent controls face-up. This card remains on the field for 3 of your opponent's turns. While this card is face-up on the field, monsters your opponent controls cannot declare an attack.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 72302403,
+        "pack_id": "PG-40",
+        "pack": "PG",
+        "rarity": "Swords of Revealing Light",
+        "date": 922492800000
+    },
+    "tcg": {
+        "id": 72302403,
+        "pack_id": "LOB-101",
+        "pack": "LOB",
+        "rarity": "Swords of Revealing Light",
+        "date": 1015545600000
+    }
+}

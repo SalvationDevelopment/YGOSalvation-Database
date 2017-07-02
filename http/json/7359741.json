@@ -1,1 +1,47 @@
-{"id":7359741,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1850,"def":800,"level":4,"race":32,"attribute":32,"category":0,"name":"Mechanicalchaser","desc":"A hunter that relentlessly pursues its target by order of the Machine King.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":7359741,"pack_id":"B2-23","pack":"B2","rarity":"Mechanicalchaser","date":935625600000},"tcg":{"id":7359741,"pack_id":"TP1-001","pack":"TP1","rarity":"Mechanicalchaser","date":1030838400000}}
+{
+    "id": 7359741,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1850,
+    "def": 800,
+    "level": 4,
+    "race": 32,
+    "attribute": 32,
+    "category": 0,
+    "name": "Mechanicalchaser",
+    "desc": "A hunter that relentlessly pursues its target by order of the Machine King.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 7359741,
+        "pack_id": "B2-23",
+        "pack": "B2",
+        "rarity": "Mechanicalchaser",
+        "date": 935625600000
+    },
+    "tcg": {
+        "id": 7359741,
+        "pack_id": "TP1-001",
+        "pack": "TP1",
+        "rarity": "Mechanicalchaser",
+        "date": 1030838400000
+    }
+}

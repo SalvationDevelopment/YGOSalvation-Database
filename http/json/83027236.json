@@ -1,1 +1,47 @@
-{"id":83027236,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":128,"name":"Light of Destruction","desc":"When an opponent's card effect sends a card(s) from their Deck to the Graveyard, send the top 3 cards of their Deck to the Graveyard.","str1":"卡组送墓","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":83027236,"pack_id":"DREV-JP080","pack":"DREV","rarity":"Light of Destruction","date":1271462400000},"tcg":{"id":83027236,"pack_id":"DREV-EN080","pack":"DREV","rarity":"Light of Destruction","date":1281139200000}}
+{
+    "id": 83027236,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 128,
+    "name": "Light of Destruction",
+    "desc": "When an opponent's card effect sends a card(s) from their Deck to the Graveyard, send the top 3 cards of their Deck to the Graveyard.",
+    "str1": "卡组送墓",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 83027236,
+        "pack_id": "DREV-JP080",
+        "pack": "DREV",
+        "rarity": "Light of Destruction",
+        "date": 1271462400000
+    },
+    "tcg": {
+        "id": 83027236,
+        "pack_id": "DREV-EN080",
+        "pack": "DREV",
+        "rarity": "Light of Destruction",
+        "date": 1281139200000
+    }
+}

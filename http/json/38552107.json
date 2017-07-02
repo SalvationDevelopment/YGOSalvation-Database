@@ -1,1 +1,47 @@
-{"id":38552107,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":32,"name":"Horn of Light","desc":"Increase the DEF of a monster equipped with this card by 800 points. When this card is sent from the field to the Graveyard, if you pay 500 Life Points, this card returns to the top of your Deck.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":38552107,"pack_id":"MR-04","pack":"MR","rarity":"Horn of Light","date":956188800000},"tcg":{"id":38552107,"pack_id":"MRL-004","pack":"MRL","rarity":"Horn of Light","date":1032134400000}}
+{
+    "id": 38552107,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 32,
+    "name": "Horn of Light",
+    "desc": "Increase the DEF of a monster equipped with this card by 800 points. When this card is sent from the field to the Graveyard, if you pay 500 Life Points, this card returns to the top of your Deck.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 38552107,
+        "pack_id": "MR-04",
+        "pack": "MR",
+        "rarity": "Horn of Light",
+        "date": 956188800000
+    },
+    "tcg": {
+        "id": 38552107,
+        "pack_id": "MRL-004",
+        "pack": "MRL",
+        "rarity": "Horn of Light",
+        "date": 1032134400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":44968687,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2500,"def":2000,"level":7,"race":1,"attribute":2,"category":0,"name":"The Legendary Fisherman III","desc":"Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"The Legendary Fisherman\", and cannot be Special Summoned by other ways. When this card is Special Summoned: You can banish all monsters your opponent controls, also this card cannot attack this turn. Cannot be destroyed by battle or card effects, also unaffected by Spell/Trap effects. Once per turn: You can return as many of your opponent's banished cards as possible to their Graveyard, and if you do, the first battle or effect damage your opponent takes this turn becomes doubled.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":44968687,"pack_id":"DOCS-JP017","pack":"DOCS","rarity":"The Legendary Fisherman III","date":1437177600000},"tcg":{"id":44968687,"pack_id":"DOCS-EN017","pack":"DOCS","rarity":"The Legendary Fisherman III","date":1446681600000}}
+{
+    "id": 44968687,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2500,
+    "def": 2000,
+    "level": 7,
+    "race": 1,
+    "attribute": 2,
+    "category": 0,
+    "name": "The Legendary Fisherman III",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"The Legendary Fisherman\", and cannot be Special Summoned by other ways. When this card is Special Summoned: You can banish all monsters your opponent controls, also this card cannot attack this turn. Cannot be destroyed by battle or card effects, also unaffected by Spell/Trap effects. Once per turn: You can return as many of your opponent's banished cards as possible to their Graveyard, and if you do, the first battle or effect damage your opponent takes this turn becomes doubled.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 44968687,
+        "pack_id": "DOCS-JP017",
+        "pack": "DOCS",
+        "rarity": "The Legendary Fisherman III",
+        "date": 1437177600000
+    },
+    "tcg": {
+        "id": 44968687,
+        "pack_id": "DOCS-EN017",
+        "pack": "DOCS",
+        "rarity": "The Legendary Fisherman III",
+        "date": 1446681600000
+    }
+}

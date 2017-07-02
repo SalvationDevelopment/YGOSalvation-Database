@@ -1,1 +1,47 @@
-{"id":12510878,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2300,"def":2000,"level":7,"race":4,"attribute":16,"category":286976,"name":"Neo-Parshath, the Sky Paladin","desc":"You can Special Summon this card (from your hand) by Tributing 1 \"Airknight Parshath\" you control. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. When this card inflicts Battle Damage to your opponent: Draw 1 card. While \"The Sanctuary in the Sky\" is on the field and your Life Points are higher than your opponent's, this card gains ATK and DEF equal to the difference in Life Points.","str1":"Draw card","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":12510878,"pack_id":"SD11-JP001","pack":"SD11","rarity":"Neo-Parshath, the Sky Paladin","date":1166054400000},"tcg":{"id":12510878,"pack_id":"STON-EN061","pack":"STON","rarity":"Neo-Parshath, the Sky Paladin","date":1172620800000}}
+{
+    "id": 12510878,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2300,
+    "def": 2000,
+    "level": 7,
+    "race": 4,
+    "attribute": 16,
+    "category": 286976,
+    "name": "Neo-Parshath, the Sky Paladin",
+    "desc": "You can Special Summon this card (from your hand) by Tributing 1 \"Airknight Parshath\" you control. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. When this card inflicts Battle Damage to your opponent: Draw 1 card. While \"The Sanctuary in the Sky\" is on the field and your Life Points are higher than your opponent's, this card gains ATK and DEF equal to the difference in Life Points.",
+    "str1": "Draw card",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 12510878,
+        "pack_id": "SD11-JP001",
+        "pack": "SD11",
+        "rarity": "Neo-Parshath, the Sky Paladin",
+        "date": 1166054400000
+    },
+    "tcg": {
+        "id": 12510878,
+        "pack_id": "STON-EN061",
+        "pack": "STON",
+        "rarity": "Neo-Parshath, the Sky Paladin",
+        "date": 1172620800000
+    }
+}

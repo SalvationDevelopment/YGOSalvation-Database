@@ -1,1 +1,47 @@
-{"id":47942531,"ot":3,"alias":0,"setcode":0,"type":33,"atk":0,"def":0,"level":6,"race":8,"attribute":32,"category":8192,"name":"Great Maju Garzett","desc":"The ATK of this card becomes twice the original ATK of 1 monster that you Tributed for the Tribute Summon of this card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":47942531,"pack_id":"305-010","pack":"305","rarity":"Great Maju Garzett","date":1045699200000},"tcg":{"id":47942531,"pack_id":"DCR-063","pack":"DCR","rarity":"Great Maju Garzett","date":1070236800000}}
+{
+    "id": 47942531,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 0,
+    "def": 0,
+    "level": 6,
+    "race": 8,
+    "attribute": 32,
+    "category": 8192,
+    "name": "Great Maju Garzett",
+    "desc": "The ATK of this card becomes twice the original ATK of 1 monster that you Tributed for the Tribute Summon of this card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 47942531,
+        "pack_id": "305-010",
+        "pack": "305",
+        "rarity": "Great Maju Garzett",
+        "date": 1045699200000
+    },
+    "tcg": {
+        "id": 47942531,
+        "pack_id": "DCR-063",
+        "pack": "DCR",
+        "rarity": "Great Maju Garzett",
+        "date": 1070236800000
+    }
+}

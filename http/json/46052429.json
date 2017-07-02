@@ -1,1 +1,47 @@
-{"id":46052429,"ot":3,"alias":0,"setcode":0,"type":130,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262152,"name":"Advanced Ritual Art","desc":"This card can be used to Ritual Summon any 1 Ritual Monster. You must also send Normal Monsters from your Deck to the Graveyard whose total Levels equal the Level of that Ritual Monster.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":46052429,"pack_id":"STON-JP045","pack":"STON","rarity":"Advanced Ritual Art","date":1163635200000},"tcg":{"id":46052429,"pack_id":"STON-EN045","pack":"STON","rarity":"Advanced Ritual Art","date":1172620800000}}
+{
+    "id": 46052429,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 130,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262152,
+    "name": "Advanced Ritual Art",
+    "desc": "This card can be used to Ritual Summon any 1 Ritual Monster. You must also send Normal Monsters from your Deck to the Graveyard whose total Levels equal the Level of that Ritual Monster.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 46052429,
+        "pack_id": "STON-JP045",
+        "pack": "STON",
+        "rarity": "Advanced Ritual Art",
+        "date": 1163635200000
+    },
+    "tcg": {
+        "id": 46052429,
+        "pack_id": "STON-EN045",
+        "pack": "STON",
+        "rarity": "Advanced Ritual Art",
+        "date": 1172620800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":36776089,"ot":3,"alias":0,"setcode":0,"type":8388641,"atk":2000,"def":0,"level":2,"race":32768,"attribute":16,"category":0,"name":"Sky Cavalry Centaurea","desc":"2 Level 2 monsters\nThis card cannot be destroyed by battle while it has Xyz Material. At the end of the Damage Step, if this card battled an opponent's monster: You can detach 1 Xyz Material from this card; return the opponent's monster from the field to the hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":36776089,"pack_id":"SECE-JP052","pack":"SECE","rarity":"Sky Cavalry Centaurea","date":1416009600000},"tcg":{"id":36776089,"pack_id":"SECE-EN052","pack":"SECE","rarity":"Sky Cavalry Centaurea","date":1421280000000}}
+{
+    "id": 36776089,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8388641,
+    "atk": 2000,
+    "def": 0,
+    "level": 2,
+    "race": 32768,
+    "attribute": 16,
+    "category": 0,
+    "name": "Sky Cavalry Centaurea",
+    "desc": "2 Level 2 monsters\nThis card cannot be destroyed by battle while it has Xyz Material. At the end of the Damage Step, if this card battled an opponent's monster: You can detach 1 Xyz Material from this card; return the opponent's monster from the field to the hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 36776089,
+        "pack_id": "SECE-JP052",
+        "pack": "SECE",
+        "rarity": "Sky Cavalry Centaurea",
+        "date": 1416009600000
+    },
+    "tcg": {
+        "id": 36776089,
+        "pack_id": "SECE-EN052",
+        "pack": "SECE",
+        "rarity": "Sky Cavalry Centaurea",
+        "date": 1421280000000
+    }
+}

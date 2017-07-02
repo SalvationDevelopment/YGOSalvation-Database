@@ -1,1 +1,47 @@
-{"id":13301895,"ot":3,"alias":0,"setcode":0,"type":524290,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Fallen Paradise","desc":"Your opponent cannot target \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", \"Raviel, Lord of Phantasms\", or \"Armityle the Chaos Phantom\" in your Monster Zones with card effects, also those monsters cannot be destroyed by your opponent's card effects while you control them. If you control \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", \"Raviel, Lord of Phantasms\" or \"Armityle the Chaos Phantom\" in your Monster Zone: You can draw 2 cards. You can only use this effect of \"Fallen Paradise\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":13301895,"pack_id":"20AP-JP008","pack":"20AP","rarity":"Fallen Paradise","date":1481932800000},"tcg":{"id":13301895,"pack_id":"DUSA-EN031","pack":"DUSA","rarity":"Fallen Paradise","date":1490832000000}}
+{
+    "id": 13301895,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 524290,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Fallen Paradise",
+    "desc": "Your opponent cannot target \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", \"Raviel, Lord of Phantasms\", or \"Armityle the Chaos Phantom\" in your Monster Zones with card effects, also those monsters cannot be destroyed by your opponent's card effects while you control them. If you control \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", \"Raviel, Lord of Phantasms\" or \"Armityle the Chaos Phantom\" in your Monster Zone: You can draw 2 cards. You can only use this effect of \"Fallen Paradise\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 13301895,
+        "pack_id": "20AP-JP008",
+        "pack": "20AP",
+        "rarity": "Fallen Paradise",
+        "date": 1481932800000
+    },
+    "tcg": {
+        "id": 13301895,
+        "pack_id": "DUSA-EN031",
+        "pack": "DUSA",
+        "rarity": "Fallen Paradise",
+        "date": 1490832000000
+    }
+}

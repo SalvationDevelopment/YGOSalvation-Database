@@ -1,1 +1,47 @@
-{"id":3298689,"ot":3,"alias":0,"setcode":18532798234773,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"The Phantom Knights' Rank-Up-Magic Launch","desc":"During the Main Phase: Target 1 DARK Xyz Monster you control with no Xyz Materials; Special Summon from your Extra Deck, 1 DARK Xyz Monster that is 1 Rank higher than that monster you control, by using it as the Xyz Material, and if you do, attach this card to it as additional Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to it also become Xyz Materials on the Summoned monster.) During your Main Phase: You can banish this card from your Graveyard, then target 1 DARK Xyz Monster you control; attach 1 \"The Phantom Knights\" monster from your hand to that monster as Xyz Material.","str1":"Add Material","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":3298689,"pack_id":"INOV-JP054","pack":"INOV","rarity":"The Phantom Knights' Rank-Up-Magic Launch","date":1468022400000},"tcg":{"id":3298689,"pack_id":"INOV-EN054","pack":"INOV","rarity":"The Phantom Knights' Rank-Up-Magic Launch","date":1478131200000}}
+{
+    "id": 3298689,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 18532798234773,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "The Phantom Knights' Rank-Up-Magic Launch",
+    "desc": "During the Main Phase: Target 1 DARK Xyz Monster you control with no Xyz Materials; Special Summon from your Extra Deck, 1 DARK Xyz Monster that is 1 Rank higher than that monster you control, by using it as the Xyz Material, and if you do, attach this card to it as additional Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to it also become Xyz Materials on the Summoned monster.) During your Main Phase: You can banish this card from your Graveyard, then target 1 DARK Xyz Monster you control; attach 1 \"The Phantom Knights\" monster from your hand to that monster as Xyz Material.",
+    "str1": "Add Material",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 3298689,
+        "pack_id": "INOV-JP054",
+        "pack": "INOV",
+        "rarity": "The Phantom Knights' Rank-Up-Magic Launch",
+        "date": 1468022400000
+    },
+    "tcg": {
+        "id": 3298689,
+        "pack_id": "INOV-EN054",
+        "pack": "INOV",
+        "rarity": "The Phantom Knights' Rank-Up-Magic Launch",
+        "date": 1478131200000
+    }
+}

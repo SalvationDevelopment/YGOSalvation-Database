@@ -1,1 +1,47 @@
-{"id":79856792,"ot":3,"alias":0,"setcode":8244,"type":33,"atk":4000,"def":0,"level":10,"race":8192,"attribute":16,"category":271404,"name":"Rainbow Dragon","desc":"Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by having 7 \"Crystal Beast\" cards with different names on your field or in your Graveyard, and cannot be Special Summoned by other ways. This card cannot activate its effects the turn it is Special Summoned. ● During either player's turn: You can send all \"Crystal Beast\" monsters you control to the Graveyard; this card gains 1000 ATK for each card sent. ● You can banish all \"Crystal Beast\" monsters in your Graveyard; shuffle all cards on the field into the Deck.","str1":"Send all \"Crystal Beast\" monsters you control to the Graveyard","str2":"Banish all \"Crystal Beast\" monsters in your Graveyard","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":79856792,"pack_id":"TAEV-JP006","pack":"TAEV","rarity":"Rainbow Dragon","date":1178928000000},"tcg":{"id":79856792,"pack_id":"TAEV-EN006","pack":"TAEV","rarity":"Rainbow Dragon","date":1187136000000}}
+{
+    "id": 79856792,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 8244,
+    "type": 33,
+    "atk": 4000,
+    "def": 0,
+    "level": 10,
+    "race": 8192,
+    "attribute": 16,
+    "category": 271404,
+    "name": "Rainbow Dragon",
+    "desc": "Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by having 7 \"Crystal Beast\" cards with different names on your field or in your Graveyard, and cannot be Special Summoned by other ways. This card cannot activate its effects the turn it is Special Summoned. ● During either player's turn: You can send all \"Crystal Beast\" monsters you control to the Graveyard; this card gains 1000 ATK for each card sent. ● You can banish all \"Crystal Beast\" monsters in your Graveyard; shuffle all cards on the field into the Deck.",
+    "str1": "Send all \"Crystal Beast\" monsters you control to the Graveyard",
+    "str2": "Banish all \"Crystal Beast\" monsters in your Graveyard",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 79856792,
+        "pack_id": "TAEV-JP006",
+        "pack": "TAEV",
+        "rarity": "Rainbow Dragon",
+        "date": 1178928000000
+    },
+    "tcg": {
+        "id": 79856792,
+        "pack_id": "TAEV-EN006",
+        "pack": "TAEV",
+        "rarity": "Rainbow Dragon",
+        "date": 1187136000000
+    }
+}

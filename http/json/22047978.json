@@ -1,1 +1,47 @@
-{"id":22047978,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":2,"name":"Battle Break","desc":"When an opponent's monster declares an attack: Your opponent can reveal 1 monster in their hand to negate this card's effect, otherwise destroy the attacking monster, then end the Battle Phase.","str1":"Reveal 1 monster to negate \"Battle Break\" effect?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":22047978,"pack_id":"ABYR-JP066","pack":"ABYR","rarity":"Battle Break","date":1342828800000},"tcg":{"id":22047978,"pack_id":"ABYR-EN066","pack":"ABYR","rarity":"Battle Break","date":1352419200000}}
+{
+    "id": 22047978,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 2,
+    "name": "Battle Break",
+    "desc": "When an opponent's monster declares an attack: Your opponent can reveal 1 monster in their hand to negate this card's effect, otherwise destroy the attacking monster, then end the Battle Phase.",
+    "str1": "Reveal 1 monster to negate \"Battle Break\" effect?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 22047978,
+        "pack_id": "ABYR-JP066",
+        "pack": "ABYR",
+        "rarity": "Battle Break",
+        "date": 1342828800000
+    },
+    "tcg": {
+        "id": 22047978,
+        "pack_id": "ABYR-EN066",
+        "pack": "ABYR",
+        "rarity": "Battle Break",
+        "date": 1352419200000
+    }
+}

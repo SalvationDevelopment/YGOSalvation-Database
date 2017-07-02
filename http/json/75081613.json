@@ -1,1 +1,47 @@
-{"id":75081613,"ot":3,"alias":0,"setcode":62,"type":33,"atk":1900,"def":400,"level":4,"race":2048,"attribute":1,"category":262272,"name":"Aztekipede, the Worm Warrior","desc":"Cannot be Normal Summoned/Set. Must be Special Summoned by banishing 1 Insect-Type monster from your Graveyard, and cannot be Special Summoned by other ways. If this card inflicts battle damage to your opponent: Send the top card of their Deck to the Graveyard.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":75081613,"pack_id":"EXP1-JP032","pack":"EXP1","rarity":"Aztekipede, the Worm Warrior","date":1221264000000},"tcg":{"id":75081613,"pack_id":"PTDN-EN089","pack":"PTDN","rarity":"Aztekipede, the Worm Warrior","date":1201305600000}}
+{
+    "id": 75081613,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 62,
+    "type": 33,
+    "atk": 1900,
+    "def": 400,
+    "level": 4,
+    "race": 2048,
+    "attribute": 1,
+    "category": 262272,
+    "name": "Aztekipede, the Worm Warrior",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by banishing 1 Insect-Type monster from your Graveyard, and cannot be Special Summoned by other ways. If this card inflicts battle damage to your opponent: Send the top card of their Deck to the Graveyard.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 75081613,
+        "pack_id": "EXP1-JP032",
+        "pack": "EXP1",
+        "rarity": "Aztekipede, the Worm Warrior",
+        "date": 1221264000000
+    },
+    "tcg": {
+        "id": 75081613,
+        "pack_id": "PTDN-EN089",
+        "pack": "PTDN",
+        "rarity": "Aztekipede, the Worm Warrior",
+        "date": 1201305600000
+    }
+}

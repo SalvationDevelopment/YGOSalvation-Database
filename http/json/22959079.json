@@ -1,1 +1,47 @@
-{"id":22959079,"ot":3,"alias":0,"setcode":8978494,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4,"name":"Dimensionhole","desc":"Select 1 monster on your side of the field and remove it from play until your next Standby Phase. While the monster is removed from play, the Monster Card Zone of the selected monster cannot be used.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":22959079,"pack_id":"TB-19","pack":"TB","rarity":"Dimensionhole","date":976752000000},"tcg":{"id":22959079,"pack_id":"PSV-069","pack":"PSV","rarity":"Dimensionhole","date":1035072000000}}
+{
+    "id": 22959079,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 8978494,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4,
+    "name": "Dimensionhole",
+    "desc": "Select 1 monster on your side of the field and remove it from play until your next Standby Phase. While the monster is removed from play, the Monster Card Zone of the selected monster cannot be used.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 22959079,
+        "pack_id": "TB-19",
+        "pack": "TB",
+        "rarity": "Dimensionhole",
+        "date": 976752000000
+    },
+    "tcg": {
+        "id": 22959079,
+        "pack_id": "PSV-069",
+        "pack": "PSV",
+        "rarity": "Dimensionhole",
+        "date": 1035072000000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":90960358,"ot":3,"alias":0,"setcode":27620428690362530,"type":4194337,"atk":2000,"def":1700,"level":6,"race":2,"attribute":32,"category":401408,"name":"Toon Dark Magician Girl","desc":"Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 monster, while you control \"Toon World\". If \"Toon World\" on the field is destroyed, destroy this card. Can attack your opponent directly, unless they control a Toon monster, in which case this card must target a Toon monster for its attacks. This card gains 300 ATK for every \"Dark Magician\" or \"Magician of Black Chaos\" in either player's Graveyard.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":90960358,"pack_id":"G6-02","pack":"G6","rarity":"Toon Dark Magician Girl","date":1008806400000},"tcg":{"id":90960358,"pack_id":"SP2-EN002","pack":"SP2","rarity":"Toon Dark Magician Girl","date":1147478400000}}
+{
+    "id": 90960358,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 27620428690362530,
+    "type": 4194337,
+    "atk": 2000,
+    "def": 1700,
+    "level": 6,
+    "race": 2,
+    "attribute": 32,
+    "category": 401408,
+    "name": "Toon Dark Magician Girl",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 monster, while you control \"Toon World\". If \"Toon World\" on the field is destroyed, destroy this card. Can attack your opponent directly, unless they control a Toon monster, in which case this card must target a Toon monster for its attacks. This card gains 300 ATK for every \"Dark Magician\" or \"Magician of Black Chaos\" in either player's Graveyard.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 90960358,
+        "pack_id": "G6-02",
+        "pack": "G6",
+        "rarity": "Toon Dark Magician Girl",
+        "date": 1008806400000
+    },
+    "tcg": {
+        "id": 90960358,
+        "pack_id": "SP2-EN002",
+        "pack": "SP2",
+        "rarity": "Toon Dark Magician Girl",
+        "date": 1147478400000
+    }
+}

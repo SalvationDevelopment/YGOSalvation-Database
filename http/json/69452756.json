@@ -1,1 +1,47 @@
-{"id":69452756,"ot":1,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4194305,"name":"Unending Nightmare","desc":"You can pay 1000 LP, then target 1 face-up Spell/Trap Card on the field; destroy it. You can only activate this effect of \"Unending Nightmare\" once per Chain.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG","ocg":{"id":69452756,"pack_id":"MACR-JP079","pack":"MACR","rarity":"Unending Nightmare","date":1484352000000},"tcg":{"id":69452756,"pack_id":"MACR-EN079","pack":"MACR","rarity":"Unending Nightmare","date":1493856000000}}
+{
+    "id": 69452756,
+    "ot": 1,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4194305,
+    "name": "Unending Nightmare",
+    "desc": "You can pay 1000 LP, then target 1 face-up Spell/Trap Card on the field; destroy it. You can only activate this effect of \"Unending Nightmare\" once per Chain.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG",
+    "ocg": {
+        "id": 69452756,
+        "pack_id": "MACR-JP079",
+        "pack": "MACR",
+        "rarity": "Unending Nightmare",
+        "date": 1484352000000
+    },
+    "tcg": {
+        "id": 69452756,
+        "pack_id": "MACR-EN079",
+        "pack": "MACR",
+        "rarity": "Unending Nightmare",
+        "date": 1493856000000
+    }
+}

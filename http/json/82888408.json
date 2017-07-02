@@ -1,1 +1,47 @@
-{"id":82888408,"ot":3,"alias":0,"setcode":4149,"type":4129,"atk":1000,"def":400,"level":2,"race":16384,"attribute":16,"category":262144,"name":"The Fabled Cerburrel","desc":"If this card is discarded to the Graveyard: Special Summon it.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":82888408,"pack_id":"DT07-JP018","pack":"DT07","rarity":"The Fabled Cerburrel","date":1352160000000},"tcg":{"id":82888408,"pack_id":"DT04-EN018","pack":"DT04","rarity":"The Fabled Cerburrel","date":1295913600000}}
+{
+    "id": 82888408,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4149,
+    "type": 4129,
+    "atk": 1000,
+    "def": 400,
+    "level": 2,
+    "race": 16384,
+    "attribute": 16,
+    "category": 262144,
+    "name": "The Fabled Cerburrel",
+    "desc": "If this card is discarded to the Graveyard: Special Summon it.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 82888408,
+        "pack_id": "DT07-JP018",
+        "pack": "DT07",
+        "rarity": "The Fabled Cerburrel",
+        "date": 1352160000000
+    },
+    "tcg": {
+        "id": 82888408,
+        "pack_id": "DT04-EN018",
+        "pack": "DT04",
+        "rarity": "The Fabled Cerburrel",
+        "date": 1295913600000
+    }
+}

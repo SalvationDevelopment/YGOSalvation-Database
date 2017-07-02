@@ -1,1 +1,47 @@
-{"id":72328962,"ot":3,"alias":0,"setcode":53,"type":33,"atk":2200,"def":2100,"level":6,"race":8,"attribute":16,"category":262152,"name":"Fabled Soulkius","desc":"If this card is in your Graveyard: You can send 2 cards, except \"Fabled Soulkius\", from your hand to the Graveyard; Special Summon this card from the Graveyard.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":72328962,"pack_id":"DT05-JP011","pack":"DT05","rarity":"Fabled Soulkius","date":1239667200000},"tcg":{"id":72328962,"pack_id":"HA03-EN004","pack":"HA03","rarity":"Fabled Soulkius","date":1291248000000}}
+{
+    "id": 72328962,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 53,
+    "type": 33,
+    "atk": 2200,
+    "def": 2100,
+    "level": 6,
+    "race": 8,
+    "attribute": 16,
+    "category": 262152,
+    "name": "Fabled Soulkius",
+    "desc": "If this card is in your Graveyard: You can send 2 cards, except \"Fabled Soulkius\", from your hand to the Graveyard; Special Summon this card from the Graveyard.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 72328962,
+        "pack_id": "DT05-JP011",
+        "pack": "DT05",
+        "rarity": "Fabled Soulkius",
+        "date": 1239667200000
+    },
+    "tcg": {
+        "id": 72328962,
+        "pack_id": "HA03-EN004",
+        "pack": "HA03",
+        "rarity": "Fabled Soulkius",
+        "date": 1291248000000
+    }
+}

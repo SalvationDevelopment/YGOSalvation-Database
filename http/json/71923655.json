@@ -1,1 +1,47 @@
-{"id":71923655,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2400,"def":2100,"level":6,"race":131072,"attribute":2,"category":262144,"name":"Sharkraken","desc":"You can Special Summon this card (from your hand) by Tributing 1 WATER monster.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":71923655,"pack_id":"LTGY-JP007","pack":"LTGY","rarity":"Sharkraken","date":1360972800000},"tcg":{"id":71923655,"pack_id":"LTGY-EN007","pack":"LTGY","rarity":"Sharkraken","date":1368748800000}}
+{
+    "id": 71923655,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2400,
+    "def": 2100,
+    "level": 6,
+    "race": 131072,
+    "attribute": 2,
+    "category": 262144,
+    "name": "Sharkraken",
+    "desc": "You can Special Summon this card (from your hand) by Tributing 1 WATER monster.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 71923655,
+        "pack_id": "LTGY-JP007",
+        "pack": "LTGY",
+        "rarity": "Sharkraken",
+        "date": 1360972800000
+    },
+    "tcg": {
+        "id": 71923655,
+        "pack_id": "LTGY-EN007",
+        "pack": "LTGY",
+        "rarity": "Sharkraken",
+        "date": 1368748800000
+    }
+}

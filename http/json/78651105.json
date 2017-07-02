@@ -1,1 +1,47 @@
-{"id":78651105,"ot":3,"alias":0,"setcode":0,"type":33,"atk":3000,"def":1200,"level":8,"race":32768,"attribute":1,"category":8195,"name":"Beast King Barbaros","desc":"You can Normal Summon/Set this card without Tributing, but its original ATK becomes 1900. You can Tribute 3 monsters to Tribute Summon (but not Set) this card. If Summoned this way: Destroy all cards your opponent controls.","str1":"Normal Summon or Set this card without Tributing","str2":"Tribute 3 monsters to Tribute Summon this card","str3":"Destroy all cards your opponent controls","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":78651105,"pack_id":"LE10-JP006","pack":"LE10","rarity":"Beast King Barbaros","date":1179705600000},"tcg":{"id":78651105,"pack_id":"CT08-EN005","pack":"CT08","rarity":"Beast King Barbaros","date":1314662400000}}
+{
+    "id": 78651105,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 3000,
+    "def": 1200,
+    "level": 8,
+    "race": 32768,
+    "attribute": 1,
+    "category": 8195,
+    "name": "Beast King Barbaros",
+    "desc": "You can Normal Summon/Set this card without Tributing, but its original ATK becomes 1900. You can Tribute 3 monsters to Tribute Summon (but not Set) this card. If Summoned this way: Destroy all cards your opponent controls.",
+    "str1": "Normal Summon or Set this card without Tributing",
+    "str2": "Tribute 3 monsters to Tribute Summon this card",
+    "str3": "Destroy all cards your opponent controls",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 78651105,
+        "pack_id": "LE10-JP006",
+        "pack": "LE10",
+        "rarity": "Beast King Barbaros",
+        "date": 1179705600000
+    },
+    "tcg": {
+        "id": 78651105,
+        "pack_id": "CT08-EN005",
+        "pack": "CT08",
+        "rarity": "Beast King Barbaros",
+        "date": 1314662400000
+    }
+}

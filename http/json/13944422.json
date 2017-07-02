@@ -1,1 +1,47 @@
-{"id":13944422,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1900,"def":700,"level":4,"race":524288,"attribute":2,"category":12582912,"name":"Granadora","desc":"When this monster is Normal Summoned, Flip Summoned, or Special Summoned, increase your Life Points by 1000 points. When this card is destroyed and sent to the Graveyard, you take 2000 points of damage.","str1":"Gain LP","str2":"ダメージを受ける","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":13944422,"pack_id":"306-030","pack":"306","rarity":"Granadora","date":1051142400000},"tcg":{"id":13944422,"pack_id":"IOC-030","pack":"IOC","rarity":"Granadora","date":1078099200000}}
+{
+    "id": 13944422,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1900,
+    "def": 700,
+    "level": 4,
+    "race": 524288,
+    "attribute": 2,
+    "category": 12582912,
+    "name": "Granadora",
+    "desc": "When this monster is Normal Summoned, Flip Summoned, or Special Summoned, increase your Life Points by 1000 points. When this card is destroyed and sent to the Graveyard, you take 2000 points of damage.",
+    "str1": "Gain LP",
+    "str2": "ダメージを受ける",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 13944422,
+        "pack_id": "306-030",
+        "pack": "306",
+        "rarity": "Granadora",
+        "date": 1051142400000
+    },
+    "tcg": {
+        "id": 13944422,
+        "pack_id": "IOC-030",
+        "pack": "IOC",
+        "rarity": "Granadora",
+        "date": 1078099200000
+    }
+}

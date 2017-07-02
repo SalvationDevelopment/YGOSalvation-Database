@@ -1,1 +1,47 @@
-{"id":25231813,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":17825792,"name":"Silver Wing","desc":"Equip only to a Level 8 or higher Dragon-Type Synchro Monster. Twice per turn, it cannot be destroyed by battle. If it would be destroyed by a card effect, you can destroy this card instead.","str1":"Activate effect of \"Silver Wing\" to avoid destruction?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":25231813,"pack_id":"ANPR-JP046","pack":"ANPR","rarity":"Silver Wing","date":1240012800000},"tcg":{"id":25231813,"pack_id":"ANPR-EN046","pack":"ANPR","rarity":"Silver Wing","date":1251763200000}}
+{
+    "id": 25231813,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 17825792,
+    "name": "Silver Wing",
+    "desc": "Equip only to a Level 8 or higher Dragon-Type Synchro Monster. Twice per turn, it cannot be destroyed by battle. If it would be destroyed by a card effect, you can destroy this card instead.",
+    "str1": "Activate effect of \"Silver Wing\" to avoid destruction?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 25231813,
+        "pack_id": "ANPR-JP046",
+        "pack": "ANPR",
+        "rarity": "Silver Wing",
+        "date": 1240012800000
+    },
+    "tcg": {
+        "id": 25231813,
+        "pack_id": "ANPR-EN046",
+        "pack": "ANPR",
+        "rarity": "Silver Wing",
+        "date": 1251763200000
+    }
+}

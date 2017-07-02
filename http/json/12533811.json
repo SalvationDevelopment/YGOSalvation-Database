@@ -1,1 +1,47 @@
-{"id":12533811,"ot":3,"alias":0,"setcode":0,"type":8388641,"atk":900,"def":900,"level":1,"race":8192,"attribute":1,"category":131072,"name":"Baby Tiragon","desc":"3 Level 1 monsters\nDuring your Main Phase 1: You can detach 1 Xyz Material from this card, then target 1 Level 1 monster you control; it can attack your opponent directly.","str1":"Direct attack","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":12533811,"pack_id":"PHSW-JP038","pack":"PHSW","rarity":"Baby Tiragon","date":1310774400000},"tcg":{"id":12533811,"pack_id":"PHSW-EN038","pack":"PHSW","rarity":"Baby Tiragon","date":1320883200000}}
+{
+    "id": 12533811,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8388641,
+    "atk": 900,
+    "def": 900,
+    "level": 1,
+    "race": 8192,
+    "attribute": 1,
+    "category": 131072,
+    "name": "Baby Tiragon",
+    "desc": "3 Level 1 monsters\nDuring your Main Phase 1: You can detach 1 Xyz Material from this card, then target 1 Level 1 monster you control; it can attack your opponent directly.",
+    "str1": "Direct attack",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 12533811,
+        "pack_id": "PHSW-JP038",
+        "pack": "PHSW",
+        "rarity": "Baby Tiragon",
+        "date": 1310774400000
+    },
+    "tcg": {
+        "id": 12533811,
+        "pack_id": "PHSW-EN038",
+        "pack": "PHSW",
+        "rarity": "Baby Tiragon",
+        "date": 1320883200000
+    }
+}

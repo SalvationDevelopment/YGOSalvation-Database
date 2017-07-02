@@ -1,1 +1,47 @@
-{"id":84536654,"ot":3,"alias":0,"setcode":165,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Form Change","desc":"Target 1 \"HERO\" Fusion Monster you control; return it to the Extra Deck, then Special Summon from your Extra Deck, 1 \"Masked HERO\" monster with the same Level as that monster's original Level, but with a different name. (This Special Summon is treated as a Special Summon with \"Mask Change\".)","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":84536654,"pack_id":"SD27-JP019","pack":"SD27","rarity":"Form Change","date":1403308800000},"tcg":{"id":84536654,"pack_id":"SDHS-EN020","pack":"SDHS","rarity":"Form Change","date":1422489600000}}
+{
+    "id": 84536654,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 165,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Form Change",
+    "desc": "Target 1 \"HERO\" Fusion Monster you control; return it to the Extra Deck, then Special Summon from your Extra Deck, 1 \"Masked HERO\" monster with the same Level as that monster's original Level, but with a different name. (This Special Summon is treated as a Special Summon with \"Mask Change\".)",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 84536654,
+        "pack_id": "SD27-JP019",
+        "pack": "SD27",
+        "rarity": "Form Change",
+        "date": 1403308800000
+    },
+    "tcg": {
+        "id": 84536654,
+        "pack_id": "SDHS-EN020",
+        "pack": "SDHS",
+        "rarity": "Form Change",
+        "date": 1422489600000
+    }
+}

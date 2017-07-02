@@ -1,1 +1,47 @@
-{"id":26964762,"ot":3,"alias":0,"setcode":3221749768,"type":33,"atk":0,"def":0,"level":1,"race":1,"attribute":32,"category":0,"name":"Destiny HERO - Dark Angel","desc":"If you have 3 or more \"Destiny HERO\" monsters in your Graveyard: You can discard this card, then target 1 \"Destiny HERO\" monster in your Graveyard; Special Summon it to your opponent's field in Defense Position. When a Spell Card or effect you activate resolves, negate that effect, and if you do, or if it did not have an effect, destroy that card. During your Standby Phase: You can banish this card and 1 \"Destiny HERO\" monster from your Graveyard; each player chooses 1 Normal Spell Card from their Deck, and places it on top of their Deck.","str1":"Special Summon \"Destiny HERO\"","str2":"Place 1 Normal Spell Card on the top of the deck","str3":"Choose 1 Normal Spell","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":26964762,"pack_id":"SPDS-JP005","pack":"SPDS","rarity":"Destiny HERO - Dark Angel","date":1470441600000},"tcg":{"id":26964762,"pack_id":"DESO-EN005","pack":"DESO","rarity":"Destiny HERO - Dark Angel","date":1479340800000}}
+{
+    "id": 26964762,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 3221749768,
+    "type": 33,
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": 1,
+    "attribute": 32,
+    "category": 0,
+    "name": "Destiny HERO - Dark Angel",
+    "desc": "If you have 3 or more \"Destiny HERO\" monsters in your Graveyard: You can discard this card, then target 1 \"Destiny HERO\" monster in your Graveyard; Special Summon it to your opponent's field in Defense Position. When a Spell Card or effect you activate resolves, negate that effect, and if you do, or if it did not have an effect, destroy that card. During your Standby Phase: You can banish this card and 1 \"Destiny HERO\" monster from your Graveyard; each player chooses 1 Normal Spell Card from their Deck, and places it on top of their Deck.",
+    "str1": "Special Summon \"Destiny HERO\"",
+    "str2": "Place 1 Normal Spell Card on the top of the deck",
+    "str3": "Choose 1 Normal Spell",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 26964762,
+        "pack_id": "SPDS-JP005",
+        "pack": "SPDS",
+        "rarity": "Destiny HERO - Dark Angel",
+        "date": 1470441600000
+    },
+    "tcg": {
+        "id": 26964762,
+        "pack_id": "DESO-EN005",
+        "pack": "DESO",
+        "rarity": "Destiny HERO - Dark Angel",
+        "date": 1479340800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":58901502,"ot":3,"alias":0,"setcode":0,"type":8225,"atk":1000,"def":1000,"level":3,"race":1,"attribute":1,"category":0,"name":"Goyo Defender","desc":"1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, if all monsters you control are EARTH Warrior-Type Synchro Monsters (min. 1): You can Special Summon \"Goyo Defender\" from your Extra Deck. When this card is targeted for an attack: You can make this card gain 1000 ATK for each EARTH Warrior-Type Synchro Monster you control (other than this card), until the end of the Damage Step.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":58901502,"pack_id":"BOSH-JP050","pack":"BOSH","rarity":"Goyo Defender","date":1445040000000},"tcg":{"id":58901502,"pack_id":"BOSH-EN050","pack":"BOSH","rarity":"Goyo Defender","date":1452729600000}}
+{
+    "id": 58901502,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8225,
+    "atk": 1000,
+    "def": 1000,
+    "level": 3,
+    "race": 1,
+    "attribute": 1,
+    "category": 0,
+    "name": "Goyo Defender",
+    "desc": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, if all monsters you control are EARTH Warrior-Type Synchro Monsters (min. 1): You can Special Summon \"Goyo Defender\" from your Extra Deck. When this card is targeted for an attack: You can make this card gain 1000 ATK for each EARTH Warrior-Type Synchro Monster you control (other than this card), until the end of the Damage Step.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 58901502,
+        "pack_id": "BOSH-JP050",
+        "pack": "BOSH",
+        "rarity": "Goyo Defender",
+        "date": 1445040000000
+    },
+    "tcg": {
+        "id": 58901502,
+        "pack_id": "BOSH-EN050",
+        "pack": "BOSH",
+        "rarity": "Goyo Defender",
+        "date": 1452729600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":40817915,"ot":3,"alias":0,"setcode":0,"type":33,"atk":300,"def":200,"level":1,"race":4096,"attribute":16,"category":1074003968,"name":"Kurivolt","desc":"You can target 1 face-up Xyz Monster that has Xyz Material; detach 1 Xyz Material from it, and if you do, Special Summon 1 \"Kurivolt\" from your Deck. This card cannot be used as a Synchro Material Monster.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":40817915,"pack_id":"ORCS-JP001","pack":"ORCS","rarity":"Kurivolt","date":1321660800000},"tcg":{"id":40817915,"pack_id":"ORCS-EN001","pack":"ORCS","rarity":"Kurivolt","date":1326499200000}}
+{
+    "id": 40817915,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 300,
+    "def": 200,
+    "level": 1,
+    "race": 4096,
+    "attribute": 16,
+    "category": 1074003968,
+    "name": "Kurivolt",
+    "desc": "You can target 1 face-up Xyz Monster that has Xyz Material; detach 1 Xyz Material from it, and if you do, Special Summon 1 \"Kurivolt\" from your Deck. This card cannot be used as a Synchro Material Monster.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 40817915,
+        "pack_id": "ORCS-JP001",
+        "pack": "ORCS",
+        "rarity": "Kurivolt",
+        "date": 1321660800000
+    },
+    "tcg": {
+        "id": 40817915,
+        "pack_id": "ORCS-EN001",
+        "pack": "ORCS",
+        "rarity": "Kurivolt",
+        "date": 1326499200000
+    }
+}

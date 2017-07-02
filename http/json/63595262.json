@@ -1,1 +1,47 @@
-{"id":63595262,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1310724,"name":"Unicorn Beacon","desc":"Select 1 removed from play Level 5 or lower Beast-Type or Winged Beast-Type monster. Remove from play 1 card in your hand and Special Summon the selected monster in Attack Position.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":63595262,"pack_id":"DREV-JP055","pack":"DREV","rarity":"Unicorn Beacon","date":1271462400000},"tcg":{"id":63595262,"pack_id":"DREV-EN055","pack":"DREV","rarity":"Unicorn Beacon","date":1281139200000}}
+{
+    "id": 63595262,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1310724,
+    "name": "Unicorn Beacon",
+    "desc": "Select 1 removed from play Level 5 or lower Beast-Type or Winged Beast-Type monster. Remove from play 1 card in your hand and Special Summon the selected monster in Attack Position.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 63595262,
+        "pack_id": "DREV-JP055",
+        "pack": "DREV",
+        "rarity": "Unicorn Beacon",
+        "date": 1271462400000
+    },
+    "tcg": {
+        "id": 63595262,
+        "pack_id": "DREV-EN055",
+        "pack": "DREV",
+        "rarity": "Unicorn Beacon",
+        "date": 1281139200000
+    }
+}

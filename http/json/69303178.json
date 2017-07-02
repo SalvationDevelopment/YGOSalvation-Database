@@ -1,1 +1,47 @@
-{"id":69303178,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2400,"def":1400,"level":6,"race":4,"attribute":16,"category":8,"name":"Majestic Mech - Ohka","desc":"You can Normal Summon this card without Tributing. If you do, during the End Phase: Send it to the Graveyard.","str1":"不用祭品召唤","str2":"Send to Graveyard","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":69303178,"pack_id":"EOJ-JP015","pack":"EOJ","rarity":"Majestic Mech - Ohka","date":1140048000000},"tcg":{"id":69303178,"pack_id":"EOJ-EN015","pack":"EOJ","rarity":"Majestic Mech - Ohka","date":1147824000000}}
+{
+    "id": 69303178,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2400,
+    "def": 1400,
+    "level": 6,
+    "race": 4,
+    "attribute": 16,
+    "category": 8,
+    "name": "Majestic Mech - Ohka",
+    "desc": "You can Normal Summon this card without Tributing. If you do, during the End Phase: Send it to the Graveyard.",
+    "str1": "不用祭品召唤",
+    "str2": "Send to Graveyard",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 69303178,
+        "pack_id": "EOJ-JP015",
+        "pack": "EOJ",
+        "rarity": "Majestic Mech - Ohka",
+        "date": 1140048000000
+    },
+    "tcg": {
+        "id": 69303178,
+        "pack_id": "EOJ-EN015",
+        "pack": "EOJ",
+        "rarity": "Majestic Mech - Ohka",
+        "date": 1147824000000
+    }
+}

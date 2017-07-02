@@ -1,1 +1,47 @@
-{"id":11646785,"ot":3,"alias":0,"setcode":8412,"type":8388641,"atk":2200,"def":2400,"level":4,"race":32,"attribute":8,"category":0,"name":"Super Quantal Mech Beast Aeroboros","desc":"2 Level 4 monsters\nCannot attack unless it has Xyz Material. Once per turn: You can detach 1 Xyz Material from this card, then target 1 other face-up monster on the field; change it to face-down Defense Position. This effect can be activated during either player's turn, if this card has \"Super Quantum Green Layer\" as Xyz Material. Once per turn: You can attach 1 \"Super Quantum\" monster from your hand or field to this card as an Xyz Material.","str1":"Change monster to face-down Defense Position","str2":"Attach \"Super Quantum Mecha Pilot\"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":11646785,"pack_id":"SPWR-JP035","pack":"SPWR","rarity":"Super Quantal Mech Beast Aeroboros","date":1447459200000},"tcg":{"id":11646785,"pack_id":"WIRA-EN035","pack":"WIRA","rarity":"Super Quantal Mech Beast Aeroboros","date":1455148800000}}
+{
+    "id": 11646785,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 8412,
+    "type": 8388641,
+    "atk": 2200,
+    "def": 2400,
+    "level": 4,
+    "race": 32,
+    "attribute": 8,
+    "category": 0,
+    "name": "Super Quantal Mech Beast Aeroboros",
+    "desc": "2 Level 4 monsters\nCannot attack unless it has Xyz Material. Once per turn: You can detach 1 Xyz Material from this card, then target 1 other face-up monster on the field; change it to face-down Defense Position. This effect can be activated during either player's turn, if this card has \"Super Quantum Green Layer\" as Xyz Material. Once per turn: You can attach 1 \"Super Quantum\" monster from your hand or field to this card as an Xyz Material.",
+    "str1": "Change monster to face-down Defense Position",
+    "str2": "Attach \"Super Quantum Mecha Pilot\"",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 11646785,
+        "pack_id": "SPWR-JP035",
+        "pack": "SPWR",
+        "rarity": "Super Quantal Mech Beast Aeroboros",
+        "date": 1447459200000
+    },
+    "tcg": {
+        "id": 11646785,
+        "pack_id": "WIRA-EN035",
+        "pack": "WIRA",
+        "rarity": "Super Quantal Mech Beast Aeroboros",
+        "date": 1455148800000
+    }
+}

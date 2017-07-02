@@ -1,1 +1,47 @@
-{"id":16940215,"ot":3,"alias":0,"setcode":42,"type":4129,"atk":200,"def":300,"level":1,"race":1024,"attribute":1,"category":-2147483647,"name":"Naturia Vein","desc":"You can Tribute this card and 1 \"Naturia\" monster to negate the activation of your opponent's Spell or Trap Card, and destroy it.","str1":"魔法陷阱发动无效并破坏","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":16940215,"pack_id":"DT03-JP010","pack":"デュエルターミナル 「反撃のジャスティス！！」","rarity":"共通","date":1222059600000},"tcg":{"id":16940215,"pack_id":"DT02-EN010","pack":"DT02","rarity":"Naturia Vein","date":1274745600000}}
+{
+    "id": 16940215,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 42,
+    "type": 4129,
+    "atk": 200,
+    "def": 300,
+    "level": 1,
+    "race": 1024,
+    "attribute": 1,
+    "category": -2147483647,
+    "name": "Naturia Vein",
+    "desc": "You can Tribute this card and 1 \"Naturia\" monster to negate the activation of your opponent's Spell or Trap Card, and destroy it.",
+    "str1": "魔法陷阱发动无效并破坏",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 16940215,
+        "pack_id": "DT03-JP010",
+        "pack": "デュエルターミナル 「反撃のジャスティス！！」",
+        "rarity": "共通",
+        "date": 1222059600000
+    },
+    "tcg": {
+        "id": 16940215,
+        "pack_id": "DT02-EN010",
+        "pack": "DT02",
+        "rarity": "Naturia Vein",
+        "date": 1274745600000
+    }
+}

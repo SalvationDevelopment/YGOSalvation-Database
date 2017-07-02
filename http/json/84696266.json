@@ -1,1 +1,47 @@
-{"id":84696266,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1700,"def":700,"level":3,"race":512,"attribute":8,"category":0,"name":"Sonic Duck","desc":"A duck which can walk at a sonic speed. Sometimes, he cannot deal with his incredible pace and loses control.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":84696266,"pack_id":"303-003","pack":"303","rarity":"Sonic Duck","date":1032393600000},"tcg":{"id":84696266,"pack_id":"MFC-057","pack":"MFC","rarity":"Sonic Duck","date":1065744000000}}
+{
+    "id": 84696266,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1700,
+    "def": 700,
+    "level": 3,
+    "race": 512,
+    "attribute": 8,
+    "category": 0,
+    "name": "Sonic Duck",
+    "desc": "A duck which can walk at a sonic speed. Sometimes, he cannot deal with his incredible pace and loses control.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 84696266,
+        "pack_id": "303-003",
+        "pack": "303",
+        "rarity": "Sonic Duck",
+        "date": 1032393600000
+    },
+    "tcg": {
+        "id": 84696266,
+        "pack_id": "MFC-057",
+        "pack": "MFC",
+        "rarity": "Sonic Duck",
+        "date": 1065744000000
+    }
+}

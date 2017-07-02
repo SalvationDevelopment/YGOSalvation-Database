@@ -1,1 +1,47 @@
-{"id":29330706,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2000,"def":2800,"level":8,"race":8192,"attribute":16,"category":8192,"name":"Armed Protector Dragon","desc":"Face-up Equip Cards you control cannot be destroyed by card effects. This card gains 500 ATK for each Equip Card equipped to this card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":29330706,"pack_id":"SHSP-JP012","pack":"SHSP","rarity":"Armed Protector Dragon","date":1374278400000},"tcg":{"id":29330706,"pack_id":"SHSP-EN012","pack":"SHSP","rarity":"Armed Protector Dragon","date":1383868800000}}
+{
+    "id": 29330706,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2000,
+    "def": 2800,
+    "level": 8,
+    "race": 8192,
+    "attribute": 16,
+    "category": 8192,
+    "name": "Armed Protector Dragon",
+    "desc": "Face-up Equip Cards you control cannot be destroyed by card effects. This card gains 500 ATK for each Equip Card equipped to this card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 29330706,
+        "pack_id": "SHSP-JP012",
+        "pack": "SHSP",
+        "rarity": "Armed Protector Dragon",
+        "date": 1374278400000
+    },
+    "tcg": {
+        "id": 29330706,
+        "pack_id": "SHSP-EN012",
+        "pack": "SHSP",
+        "rarity": "Armed Protector Dragon",
+        "date": 1383868800000
+    }
+}

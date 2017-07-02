@@ -1,1 +1,47 @@
-{"id":43262273,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4,"name":"Appointer of the Red Lotus","desc":"Pay 2000 Life Points and reveal all cards in your hand. Look at your opponent's hand and select 1 card. Remove that card from play until the End Phase of your opponent's next turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":43262273,"pack_id":"SOVR-JP080","pack":"SOVR","rarity":"Appointer of the Red Lotus","date":1247875200000},"tcg":{"id":43262273,"pack_id":"SOVR-EN080","pack":"SOVR","rarity":"Appointer of the Red Lotus","date":1258416000000}}
+{
+    "id": 43262273,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4,
+    "name": "Appointer of the Red Lotus",
+    "desc": "Pay 2000 Life Points and reveal all cards in your hand. Look at your opponent's hand and select 1 card. Remove that card from play until the End Phase of your opponent's next turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 43262273,
+        "pack_id": "SOVR-JP080",
+        "pack": "SOVR",
+        "rarity": "Appointer of the Red Lotus",
+        "date": 1247875200000
+    },
+    "tcg": {
+        "id": 43262273,
+        "pack_id": "SOVR-EN080",
+        "pack": "SOVR",
+        "rarity": "Appointer of the Red Lotus",
+        "date": 1258416000000
+    }
+}

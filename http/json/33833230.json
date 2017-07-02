@@ -1,1 +1,47 @@
-{"id":33833230,"ot":3,"alias":0,"setcode":159,"type":16777249,"atk":100,"def":100,"level":50528257,"race":131072,"attribute":2,"category":0,"name":"Performapal Seal Eel","desc":"Pendulum Effect\nOnce per turn: You can target 1 face-up monster your opponent controls; that face-up monster has its effects negated until the end of this turn (even if this card leaves the field).\n\nMonster Effect\nWhen this card is Normal or Special Summoned: You can target 1 Set Spell/Trap Card your opponent controls; that Set card cannot be activated this turn. Neither player can activate cards or effects in response to this effect's activation.","str1":"Negate Effect","str2":"Lock Set Spell/Trap","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":33833230,"pack_id":"INOV-JP004","pack":"INOV","rarity":"Performapal Seal Eel","date":1468022400000},"tcg":{"id":33833230,"pack_id":"INOV-EN004","pack":"INOV","rarity":"Performapal Seal Eel","date":1478131200000}}
+{
+    "id": 33833230,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 159,
+    "type": 16777249,
+    "atk": 100,
+    "def": 100,
+    "level": 50528257,
+    "race": 131072,
+    "attribute": 2,
+    "category": 0,
+    "name": "Performapal Seal Eel",
+    "desc": "Pendulum Effect\nOnce per turn: You can target 1 face-up monster your opponent controls; that face-up monster has its effects negated until the end of this turn (even if this card leaves the field).\n\nMonster Effect\nWhen this card is Normal or Special Summoned: You can target 1 Set Spell/Trap Card your opponent controls; that Set card cannot be activated this turn. Neither player can activate cards or effects in response to this effect's activation.",
+    "str1": "Negate Effect",
+    "str2": "Lock Set Spell/Trap",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 33833230,
+        "pack_id": "INOV-JP004",
+        "pack": "INOV",
+        "rarity": "Performapal Seal Eel",
+        "date": 1468022400000
+    },
+    "tcg": {
+        "id": 33833230,
+        "pack_id": "INOV-EN004",
+        "pack": "INOV",
+        "rarity": "Performapal Seal Eel",
+        "date": 1478131200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":15574615,"ot":3,"alias":0,"setcode":103,"type":33,"atk":4000,"def":0,"level":10,"race":32,"attribute":16,"category":262144,"name":"D.D. Jet Iron","desc":"Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 1 \"D.D. Esper Star Sparrow\", \"Beast-Warrior Puma\", \"Phoenix Beast Gairuda\", and \"Ironhammer the Giant\" from your hand and/or face-up from your side of the field to the Graveyard. You can Tribute this card to target 1 \"D.D. Esper Star Sparrow\", \"Beast-Warrior Puma\", \"Phoenix Beast Gairuda\" and \"Ironhammer the Giant\" in your Graveyard; Special Summon those targets.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":15574615,"pack_id":"DT14-JP005","pack":"DT14","rarity":"D.D. Jet Iron","date":1327363200000},"tcg":{"id":15574615,"pack_id":"DT07-EN055","pack":"DT07","rarity":"D.D. Jet Iron","date":1359676800000}}
+{
+    "id": 15574615,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 103,
+    "type": 33,
+    "atk": 4000,
+    "def": 0,
+    "level": 10,
+    "race": 32,
+    "attribute": 16,
+    "category": 262144,
+    "name": "D.D. Jet Iron",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 1 \"D.D. Esper Star Sparrow\", \"Beast-Warrior Puma\", \"Phoenix Beast Gairuda\", and \"Ironhammer the Giant\" from your hand and/or face-up from your side of the field to the Graveyard. You can Tribute this card to target 1 \"D.D. Esper Star Sparrow\", \"Beast-Warrior Puma\", \"Phoenix Beast Gairuda\" and \"Ironhammer the Giant\" in your Graveyard; Special Summon those targets.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 15574615,
+        "pack_id": "DT14-JP005",
+        "pack": "DT14",
+        "rarity": "D.D. Jet Iron",
+        "date": 1327363200000
+    },
+    "tcg": {
+        "id": 15574615,
+        "pack_id": "DT07-EN055",
+        "pack": "DT07",
+        "rarity": "D.D. Jet Iron",
+        "date": 1359676800000
+    }
+}

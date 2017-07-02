@@ -1,1 +1,47 @@
-{"id":11678191,"ot":3,"alias":0,"setcode":0,"type":1057,"atk":0,"def":0,"level":1,"race":4,"attribute":16,"category":16779264,"name":"Protective Soul Ailin","desc":"Once per turn, you can equip this card to an \"Indomitable Fighter Lei Lei\" you control, OR unequip it to Special Summon this card in face-up Attack Position. When equipped to a monster by this card's effect, you can change that monster's battle position once per turn. (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)","str1":"Equip","str2":"Special Summon","str3":"表示形式を変更","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":11678191,"pack_id":"CRV-JP024","pack":"CRV","rarity":"Protective Soul Ailin","date":1190419200000},"tcg":{"id":11678191,"pack_id":"CRV-EN024","pack":"CRV","rarity":"Protective Soul Ailin","date":1123286400000}}
+{
+    "id": 11678191,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 1057,
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": 4,
+    "attribute": 16,
+    "category": 16779264,
+    "name": "Protective Soul Ailin",
+    "desc": "Once per turn, you can equip this card to an \"Indomitable Fighter Lei Lei\" you control, OR unequip it to Special Summon this card in face-up Attack Position. When equipped to a monster by this card's effect, you can change that monster's battle position once per turn. (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)",
+    "str1": "Equip",
+    "str2": "Special Summon",
+    "str3": "表示形式を変更",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 11678191,
+        "pack_id": "CRV-JP024",
+        "pack": "CRV",
+        "rarity": "Protective Soul Ailin",
+        "date": 1190419200000
+    },
+    "tcg": {
+        "id": 11678191,
+        "pack_id": "CRV-EN024",
+        "pack": "CRV",
+        "rarity": "Protective Soul Ailin",
+        "date": 1123286400000
+    }
+}

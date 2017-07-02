@@ -1,1 +1,47 @@
-{"id":90980792,"ot":3,"alias":0,"setcode":22,"type":33,"atk":1200,"def":1500,"level":4,"race":8,"attribute":32,"category":8192,"name":"Dark Jeroid","desc":"When this card is Summoned: Target 1 face-up monster on the field; it loses 800 ATK.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":90980792,"pack_id":"301-004","pack":"301","rarity":"Dark Jeroid","date":1021507200000},"tcg":{"id":90980792,"pack_id":"PGD-056","pack":"PGD","rarity":"Dark Jeroid","date":1058486400000}}
+{
+    "id": 90980792,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 22,
+    "type": 33,
+    "atk": 1200,
+    "def": 1500,
+    "level": 4,
+    "race": 8,
+    "attribute": 32,
+    "category": 8192,
+    "name": "Dark Jeroid",
+    "desc": "When this card is Summoned: Target 1 face-up monster on the field; it loses 800 ATK.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 90980792,
+        "pack_id": "301-004",
+        "pack": "301",
+        "rarity": "Dark Jeroid",
+        "date": 1021507200000
+    },
+    "tcg": {
+        "id": 90980792,
+        "pack_id": "PGD-056",
+        "pack": "PGD",
+        "rarity": "Dark Jeroid",
+        "date": 1058486400000
+    }
+}

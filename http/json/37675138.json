@@ -1,1 +1,47 @@
-{"id":37675138,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1600,"def":200,"level":4,"race":16,"attribute":1,"category":1,"name":"Bone Crusher","desc":"When this card is Special Summoned from your Graveyard by the effect of a Zombie-Type monster: You can target 1 Spell/Trap Card your opponent controls; destroy that target. During the End Phase of the turn this card was Special Summoned: Destroy it.","str1":"Destroy","str2":"Self Destruct","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":37675138,"pack_id":"EXP2-JP034","pack":"EXP2","rarity":"Bone Crusher","date":1253318400000},"tcg":{"id":37675138,"pack_id":"CRMS-EN083","pack":"CRMS","rarity":"Bone Crusher","date":1235779200000}}
+{
+    "id": 37675138,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1600,
+    "def": 200,
+    "level": 4,
+    "race": 16,
+    "attribute": 1,
+    "category": 1,
+    "name": "Bone Crusher",
+    "desc": "When this card is Special Summoned from your Graveyard by the effect of a Zombie-Type monster: You can target 1 Spell/Trap Card your opponent controls; destroy that target. During the End Phase of the turn this card was Special Summoned: Destroy it.",
+    "str1": "Destroy",
+    "str2": "Self Destruct",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 37675138,
+        "pack_id": "EXP2-JP034",
+        "pack": "EXP2",
+        "rarity": "Bone Crusher",
+        "date": 1253318400000
+    },
+    "tcg": {
+        "id": 37675138,
+        "pack_id": "CRMS-EN083",
+        "pack": "CRMS",
+        "rarity": "Bone Crusher",
+        "date": 1235779200000
+    }
+}

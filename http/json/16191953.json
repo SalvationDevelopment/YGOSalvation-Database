@@ -1,1 +1,47 @@
-{"id":16191953,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2600,"def":1400,"level":8,"race":1048576,"attribute":1,"category":1048578,"name":"Master Gig","desc":"Once per turn, you can pay 1000 Life Points to destroy monsters your opponent controls equal to the number of face-up Psychic-Type monsters you control.","str1":"Destroy","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":16191953,"pack_id":"RGBT-JP030","pack":"RGBT","rarity":"Master Gig","date":1234569600000},"tcg":{"id":16191953,"pack_id":"RGBT-ENPP5","pack":"RGBT","rarity":"Master Gig","date":1236643200000}}
+{
+    "id": 16191953,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2600,
+    "def": 1400,
+    "level": 8,
+    "race": 1048576,
+    "attribute": 1,
+    "category": 1048578,
+    "name": "Master Gig",
+    "desc": "Once per turn, you can pay 1000 Life Points to destroy monsters your opponent controls equal to the number of face-up Psychic-Type monsters you control.",
+    "str1": "Destroy",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 16191953,
+        "pack_id": "RGBT-JP030",
+        "pack": "RGBT",
+        "rarity": "Master Gig",
+        "date": 1234569600000
+    },
+    "tcg": {
+        "id": 16191953,
+        "pack_id": "RGBT-ENPP5",
+        "pack": "RGBT",
+        "rarity": "Master Gig",
+        "date": 1236643200000
+    }
+}

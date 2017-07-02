@@ -1,1 +1,47 @@
-{"id":45215453,"ot":3,"alias":0,"setcode":48,"type":8225,"atk":1700,"def":2800,"level":7,"race":4,"attribute":16,"category":512,"name":"Vylon Delta","desc":"1 Tuner + 1 or more non-Tuner LIGHT monsters\n If this card is in face-up Defense Position during your End Phase, you can add 1 Equip Spell Card from your Deck to your hand.","str1":"Search","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":45215453,"pack_id":"DT10-JPB01","pack":"DT10","rarity":"Vylon Delta","date":1280793600000},"tcg":{"id":45215453,"pack_id":"STOR-EN099","pack":"STOR","rarity":"Vylon Delta","date":1297123200000}}
+{
+    "id": 45215453,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 48,
+    "type": 8225,
+    "atk": 1700,
+    "def": 2800,
+    "level": 7,
+    "race": 4,
+    "attribute": 16,
+    "category": 512,
+    "name": "Vylon Delta",
+    "desc": "1 Tuner + 1 or more non-Tuner LIGHT monsters\n If this card is in face-up Defense Position during your End Phase, you can add 1 Equip Spell Card from your Deck to your hand.",
+    "str1": "Search",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 45215453,
+        "pack_id": "DT10-JPB01",
+        "pack": "DT10",
+        "rarity": "Vylon Delta",
+        "date": 1280793600000
+    },
+    "tcg": {
+        "id": 45215453,
+        "pack_id": "STOR-EN099",
+        "pack": "STOR",
+        "rarity": "Vylon Delta",
+        "date": 1297123200000
+    }
+}

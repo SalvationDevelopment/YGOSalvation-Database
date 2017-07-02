@@ -1,1 +1,47 @@
-{"id":94950218,"ot":3,"alias":0,"setcode":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Reverse Breaker","desc":"Equip only to a \"Utopia\" monster. When the equipped monster declares an attack: Target 1 Spell/Trap Card your opponent controls; destroy that target. Your opponent cannot activate Spell/Trap Cards in response to this effect's activation.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":94950218,"pack_id":"PRIO-JP056","pack":"PRIO","rarity":"Reverse Breaker","date":1392422400000},"tcg":{"id":94950218,"pack_id":"PRIO-EN056","pack":"PRIO","rarity":"Reverse Breaker","date":1400198400000}}
+{
+    "id": 94950218,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 262146,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Reverse Breaker",
+    "desc": "Equip only to a \"Utopia\" monster. When the equipped monster declares an attack: Target 1 Spell/Trap Card your opponent controls; destroy that target. Your opponent cannot activate Spell/Trap Cards in response to this effect's activation.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 94950218,
+        "pack_id": "PRIO-JP056",
+        "pack": "PRIO",
+        "rarity": "Reverse Breaker",
+        "date": 1392422400000
+    },
+    "tcg": {
+        "id": 94950218,
+        "pack_id": "PRIO-EN056",
+        "pack": "PRIO",
+        "rarity": "Reverse Breaker",
+        "date": 1400198400000
+    }
+}

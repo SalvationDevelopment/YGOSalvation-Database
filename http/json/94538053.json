@@ -1,1 +1,47 @@
-{"id":94538053,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1800,"def":800,"level":4,"race":1,"attribute":8,"category":8192,"name":"Max Warrior","desc":"If this card attacks an opponent's monster, this card gains 400 ATK during the Damage Step only. If this card destroys an opponent's monster by battle, until your next Standby Phase: this card becomes Level 2 and its original ATK and DEF are halved.","str1":"攻撃力・守備力が半分になる","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":94538053,"pack_id":"SOVR-JP003","pack":"SOVR","rarity":"Max Warrior","date":1247875200000},"tcg":{"id":94538053,"pack_id":"SOVR-EN003","pack":"SOVR","rarity":"Max Warrior","date":1258416000000}}
+{
+    "id": 94538053,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1800,
+    "def": 800,
+    "level": 4,
+    "race": 1,
+    "attribute": 8,
+    "category": 8192,
+    "name": "Max Warrior",
+    "desc": "If this card attacks an opponent's monster, this card gains 400 ATK during the Damage Step only. If this card destroys an opponent's monster by battle, until your next Standby Phase: this card becomes Level 2 and its original ATK and DEF are halved.",
+    "str1": "攻撃力・守備力が半分になる",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 94538053,
+        "pack_id": "SOVR-JP003",
+        "pack": "SOVR",
+        "rarity": "Max Warrior",
+        "date": 1247875200000
+    },
+    "tcg": {
+        "id": 94538053,
+        "pack_id": "SOVR-EN003",
+        "pack": "SOVR",
+        "rarity": "Max Warrior",
+        "date": 1258416000000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":15286412,"ot":3,"alias":0,"setcode":20546,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":7,"name":"Nordic Relic Gungnir","desc":"Banish 1 \"Aesir\" or \"Nordic\" monster you control, then target 1 card on the field; destroy it, also during your 2nd End Phase after activation, return the monster you banished to activate this card to the field in face-up Attack Position.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":15286412,"pack_id":"STOR-JP070","pack":"STOR","rarity":"Nordic Relic Gungnir","date":1289606400000},"tcg":{"id":15286412,"pack_id":"STOR-EN070","pack":"STOR","rarity":"Nordic Relic Gungnir","date":1297123200000}}
+{
+    "id": 15286412,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 20546,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 7,
+    "name": "Nordic Relic Gungnir",
+    "desc": "Banish 1 \"Aesir\" or \"Nordic\" monster you control, then target 1 card on the field; destroy it, also during your 2nd End Phase after activation, return the monster you banished to activate this card to the field in face-up Attack Position.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 15286412,
+        "pack_id": "STOR-JP070",
+        "pack": "STOR",
+        "rarity": "Nordic Relic Gungnir",
+        "date": 1289606400000
+    },
+    "tcg": {
+        "id": 15286412,
+        "pack_id": "STOR-EN070",
+        "pack": "STOR",
+        "rarity": "Nordic Relic Gungnir",
+        "date": 1297123200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":3810071,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1300,"def":1000,"level":3,"race":256,"attribute":1,"category":0,"name":"Monk Fighter","desc":"Battle Damage to this card's controller from a battle involving this card becomes 0.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":3810071,"pack_id":"TLM-JP019","pack":"TLM","rarity":"Monk Fighter","date":1134000000000},"tcg":{"id":3810071,"pack_id":"TLM-EN019","pack":"TLM","rarity":"Monk Fighter","date":1117238400000}}
+{
+    "id": 3810071,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1300,
+    "def": 1000,
+    "level": 3,
+    "race": 256,
+    "attribute": 1,
+    "category": 0,
+    "name": "Monk Fighter",
+    "desc": "Battle Damage to this card's controller from a battle involving this card becomes 0.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 3810071,
+        "pack_id": "TLM-JP019",
+        "pack": "TLM",
+        "rarity": "Monk Fighter",
+        "date": 1134000000000
+    },
+    "tcg": {
+        "id": 3810071,
+        "pack_id": "TLM-EN019",
+        "pack": "TLM",
+        "rarity": "Monk Fighter",
+        "date": 1117238400000
+    }
+}

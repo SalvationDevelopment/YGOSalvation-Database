@@ -1,1 +1,47 @@
-{"id":44209392,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8192,"name":"Castle Walls","desc":"Increase the DEF of 1 face-up monster on the field by 500 points until the end of this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":44209392,"pack_id":"B2-45","pack":"B2","rarity":"Castle Walls","date":931132800000},"tcg":{"id":44209392,"pack_id":"SDY-049","pack":"SDY","rarity":"Castle Walls","date":1017360000000}}
+{
+    "id": 44209392,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8192,
+    "name": "Castle Walls",
+    "desc": "Increase the DEF of 1 face-up monster on the field by 500 points until the end of this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 44209392,
+        "pack_id": "B2-45",
+        "pack": "B2",
+        "rarity": "Castle Walls",
+        "date": 931132800000
+    },
+    "tcg": {
+        "id": 44209392,
+        "pack_id": "SDY-049",
+        "pack": "SDY",
+        "rarity": "Castle Walls",
+        "date": 1017360000000
+    }
+}

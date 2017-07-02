@@ -1,1 +1,47 @@
-{"id":42291297,"ot":3,"alias":0,"setcode":230,"type":8225,"atk":3000,"def":3000,"level":8,"race":1,"attribute":32,"category":0,"name":"Flower Cardian Lightshower","desc":"1 Tuner + 3 non-Tuner monsters\nYour opponent cannot target \"Flower Cardian\" monsters you control with card effects, also those monsters cannot be destroyed by card effects. During your opponent's Draw Phase, if they draw a card(s) for their normal draw: Inflict 1500 damage to your opponent. Once per turn, during your opponent's End Phase: Activate 1 of these effects;\n● Skip the Draw Phase of your next turn.\n● This card has its other effects negated until your opponent's next Standby Phase.","str1":"Inflict 1500 to opponent","str2":"Skip Draw Phase","str3":"Negate's this card effects","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":42291297,"pack_id":"CPF1-JP039","pack":"CPF1","rarity":"Flower Cardian Lightshower","date":1463184000000},"tcg":{"id":42291297,"pack_id":"DRL3-EN039","pack":"DRL3","rarity":"Flower Cardian Lightshower","date":1471478400000}}
+{
+    "id": 42291297,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 230,
+    "type": 8225,
+    "atk": 3000,
+    "def": 3000,
+    "level": 8,
+    "race": 1,
+    "attribute": 32,
+    "category": 0,
+    "name": "Flower Cardian Lightshower",
+    "desc": "1 Tuner + 3 non-Tuner monsters\nYour opponent cannot target \"Flower Cardian\" monsters you control with card effects, also those monsters cannot be destroyed by card effects. During your opponent's Draw Phase, if they draw a card(s) for their normal draw: Inflict 1500 damage to your opponent. Once per turn, during your opponent's End Phase: Activate 1 of these effects;\n● Skip the Draw Phase of your next turn.\n● This card has its other effects negated until your opponent's next Standby Phase.",
+    "str1": "Inflict 1500 to opponent",
+    "str2": "Skip Draw Phase",
+    "str3": "Negate's this card effects",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 42291297,
+        "pack_id": "CPF1-JP039",
+        "pack": "CPF1",
+        "rarity": "Flower Cardian Lightshower",
+        "date": 1463184000000
+    },
+    "tcg": {
+        "id": 42291297,
+        "pack_id": "DRL3-EN039",
+        "pack": "DRL3",
+        "rarity": "Flower Cardian Lightshower",
+        "date": 1471478400000
+    }
+}

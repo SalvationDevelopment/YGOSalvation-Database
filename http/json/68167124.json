@@ -1,1 +1,47 @@
-{"id":68167124,"ot":3,"alias":0,"setcode":0,"type":33,"atk":300,"def":600,"level":1,"race":1,"attribute":8,"category":16,"name":"Stinging Swordsman","desc":"When this card inflicts Battle Damage to your opponent: Return all face-up cards in your opponent's Spell & Trap Card Zones to the hand.","str1":"Return to hand","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":68167124,"pack_id":"PHSW-JP004","pack":"PHSW","rarity":"Stinging Swordsman","date":1310774400000},"tcg":{"id":68167124,"pack_id":"PHSW-EN004","pack":"PHSW","rarity":"Stinging Swordsman","date":1320883200000}}
+{
+    "id": 68167124,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 300,
+    "def": 600,
+    "level": 1,
+    "race": 1,
+    "attribute": 8,
+    "category": 16,
+    "name": "Stinging Swordsman",
+    "desc": "When this card inflicts Battle Damage to your opponent: Return all face-up cards in your opponent's Spell & Trap Card Zones to the hand.",
+    "str1": "Return to hand",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 68167124,
+        "pack_id": "PHSW-JP004",
+        "pack": "PHSW",
+        "rarity": "Stinging Swordsman",
+        "date": 1310774400000
+    },
+    "tcg": {
+        "id": 68167124,
+        "pack_id": "PHSW-EN004",
+        "pack": "PHSW",
+        "rarity": "Stinging Swordsman",
+        "date": 1320883200000
+    }
+}

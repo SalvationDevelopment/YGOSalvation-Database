@@ -1,1 +1,47 @@
-{"id":62701967,"ot":3,"alias":0,"setcode":34,"type":33,"atk":2500,"def":1400,"level":7,"race":65536,"attribute":4,"category":1056768,"name":"Jurrac Tyrannus","desc":"You can Tribute 1 Dinosaur-Type monster to have this card gain 500 ATK. When this card destroys an opponent's monster by battle and sends it to the Graveyard, this card gains 300 ATK.","str1":"Gain attack","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":62701967,"pack_id":"DT04-JP018","pack":"デュエルターミナル 「魔轟神復活！！」","rarity":"スーパーレア仕様","date":1228366800000},"tcg":{"id":62701967,"pack_id":"DT02-EN068","pack":"DT02","rarity":"Jurrac Tyrannus","date":1274745600000}}
+{
+    "id": 62701967,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 34,
+    "type": 33,
+    "atk": 2500,
+    "def": 1400,
+    "level": 7,
+    "race": 65536,
+    "attribute": 4,
+    "category": 1056768,
+    "name": "Jurrac Tyrannus",
+    "desc": "You can Tribute 1 Dinosaur-Type monster to have this card gain 500 ATK. When this card destroys an opponent's monster by battle and sends it to the Graveyard, this card gains 300 ATK.",
+    "str1": "Gain attack",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 62701967,
+        "pack_id": "DT04-JP018",
+        "pack": "デュエルターミナル 「魔轟神復活！！」",
+        "rarity": "スーパーレア仕様",
+        "date": 1228366800000
+    },
+    "tcg": {
+        "id": 62701967,
+        "pack_id": "DT02-EN068",
+        "pack": "DT02",
+        "rarity": "Jurrac Tyrannus",
+        "date": 1274745600000
+    }
+}

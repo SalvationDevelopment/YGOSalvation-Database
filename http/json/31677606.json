@@ -1,1 +1,47 @@
-{"id":31677606,"ot":3,"alias":0,"setcode":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1073742080,"name":"Black and White Wave","desc":"If there is a face-up Xyz Monster on the field with a Synchro Monster as Xyz Material: Target 1 card on the field; banish that target, and if you do, draw 1 card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":31677606,"pack_id":"JOTL-JP068","pack":"JOTL","rarity":"Black and White Wave","date":1366416000000},"tcg":{"id":31677606,"pack_id":"JOTL-EN068","pack":"JOTL","rarity":"Black and White Wave","date":1375920000000}}
+{
+    "id": 31677606,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1073742080,
+    "name": "Black and White Wave",
+    "desc": "If there is a face-up Xyz Monster on the field with a Synchro Monster as Xyz Material: Target 1 card on the field; banish that target, and if you do, draw 1 card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 31677606,
+        "pack_id": "JOTL-JP068",
+        "pack": "JOTL",
+        "rarity": "Black and White Wave",
+        "date": 1366416000000
+    },
+    "tcg": {
+        "id": 31677606,
+        "pack_id": "JOTL-EN068",
+        "pack": "JOTL",
+        "rarity": "Black and White Wave",
+        "date": 1375920000000
+    }
+}

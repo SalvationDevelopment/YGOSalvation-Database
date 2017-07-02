@@ -1,1 +1,47 @@
-{"id":42810973,"ot":3,"alias":0,"setcode":4391168,"type":8225,"atk":2300,"def":2000,"level":7,"race":1,"attribute":1,"category":4,"name":"Junk Archer","desc":"\"Junk Synchron\" + 1 or more non-Tuner monsters\nOnce per turn: You can target 1 monster your opponent controls; banish it. During the End Phase of this turn, return it to your opponent's side of the field, in the same battle position.","str1":"Banish","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":42810973,"pack_id":"DP09-JP016","pack":"DP09","rarity":"Junk Archer","date":1255737600000},"tcg":{"id":42810973,"pack_id":"DP09-EN016","pack":"DP09","rarity":"Junk Archer","date":1263513600000}}
+{
+    "id": 42810973,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4391168,
+    "type": 8225,
+    "atk": 2300,
+    "def": 2000,
+    "level": 7,
+    "race": 1,
+    "attribute": 1,
+    "category": 4,
+    "name": "Junk Archer",
+    "desc": "\"Junk Synchron\" + 1 or more non-Tuner monsters\nOnce per turn: You can target 1 monster your opponent controls; banish it. During the End Phase of this turn, return it to your opponent's side of the field, in the same battle position.",
+    "str1": "Banish",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 42810973,
+        "pack_id": "DP09-JP016",
+        "pack": "DP09",
+        "rarity": "Junk Archer",
+        "date": 1255737600000
+    },
+    "tcg": {
+        "id": 42810973,
+        "pack_id": "DP09-EN016",
+        "pack": "DP09",
+        "rarity": "Junk Archer",
+        "date": 1263513600000
+    }
+}

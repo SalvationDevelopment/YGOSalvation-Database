@@ -1,1 +1,47 @@
-{"id":68054593,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8192,"name":"Fiery Fervor","desc":"Target 1 face-up monster you control; equip this card to that target. If your opponent controls a monster with ATK higher than that same monster's original ATK, the ATK of the equipped monster becomes double the equipped monster's original ATK, during the Damage Step only.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":68054593,"pack_id":"PHSW-JP064","pack":"PHSW","rarity":"Fiery Fervor","date":1310774400000},"tcg":{"id":68054593,"pack_id":"PHSW-EN064","pack":"PHSW","rarity":"Fiery Fervor","date":1320883200000}}
+{
+    "id": 68054593,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8192,
+    "name": "Fiery Fervor",
+    "desc": "Target 1 face-up monster you control; equip this card to that target. If your opponent controls a monster with ATK higher than that same monster's original ATK, the ATK of the equipped monster becomes double the equipped monster's original ATK, during the Damage Step only.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 68054593,
+        "pack_id": "PHSW-JP064",
+        "pack": "PHSW",
+        "rarity": "Fiery Fervor",
+        "date": 1310774400000
+    },
+    "tcg": {
+        "id": 68054593,
+        "pack_id": "PHSW-EN064",
+        "pack": "PHSW",
+        "rarity": "Fiery Fervor",
+        "date": 1320883200000
+    }
+}

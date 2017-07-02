@@ -1,1 +1,47 @@
-{"id":33327029,"ot":3,"alias":0,"setcode":225,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Metalfoes Counter","desc":"If a card(s) you control is destroyed by battle or card effect: Special Summon 1 \"Metalfoes\" monster from your Deck. During either player's turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard; add 1 face-up \"Metalfoes\" Pendulum Monster from your Extra Deck to your hand.","str1":"Special Summon 1 \"Metalphosis\"","str2":"Add 1 face-up \"Metalphosis\" Pendulum Monster to your hand","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":33327029,"pack_id":"TDIL-JP072","pack":"TDIL","rarity":"Metalfoes Counter","date":1460160000000},"tcg":{"id":33327029,"pack_id":"TDIL-EN072","pack":"TDIL","rarity":"Metalfoes Counter","date":1470268800000}}
+{
+    "id": 33327029,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 225,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Metalfoes Counter",
+    "desc": "If a card(s) you control is destroyed by battle or card effect: Special Summon 1 \"Metalfoes\" monster from your Deck. During either player's turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard; add 1 face-up \"Metalfoes\" Pendulum Monster from your Extra Deck to your hand.",
+    "str1": "Special Summon 1 \"Metalphosis\"",
+    "str2": "Add 1 face-up \"Metalphosis\" Pendulum Monster to your hand",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 33327029,
+        "pack_id": "TDIL-JP072",
+        "pack": "TDIL",
+        "rarity": "Metalfoes Counter",
+        "date": 1460160000000
+    },
+    "tcg": {
+        "id": 33327029,
+        "pack_id": "TDIL-EN072",
+        "pack": "TDIL",
+        "rarity": "Metalfoes Counter",
+        "date": 1470268800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":43230671,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1400,"def":1100,"level":4,"race":524288,"attribute":1,"category":0,"name":"Ancient Lizard Warrior","desc":"Before the dawn of man, this lizard warrior ruled supreme.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":43230671,"pack_id":"RB-50","pack":"RB","rarity":"Ancient Lizard Warrior","date":932601600000},"tcg":{"id":43230671,"pack_id":"MRD-050","pack":"MRD","rarity":"Ancient Lizard Warrior","date":1025049600000}}
+{
+    "id": 43230671,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1400,
+    "def": 1100,
+    "level": 4,
+    "race": 524288,
+    "attribute": 1,
+    "category": 0,
+    "name": "Ancient Lizard Warrior",
+    "desc": "Before the dawn of man, this lizard warrior ruled supreme.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 43230671,
+        "pack_id": "RB-50",
+        "pack": "RB",
+        "rarity": "Ancient Lizard Warrior",
+        "date": 932601600000
+    },
+    "tcg": {
+        "id": 43230671,
+        "pack_id": "MRD-050",
+        "pack": "MRD",
+        "rarity": "Ancient Lizard Warrior",
+        "date": 1025049600000
+    }
+}

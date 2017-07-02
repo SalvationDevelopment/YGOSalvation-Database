@@ -1,1 +1,47 @@
-{"id":94454495,"ot":3,"alias":0,"setcode":13762560,"type":33,"atk":2300,"def":800,"level":5,"race":32,"attribute":16,"category":0,"name":"Kozmo Sliprider","desc":"If this card is Normal or Special Summoned: You can target 1 Spell/Trap Card on the field; destroy it. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; Special Summon 1 Level 4 or lower \"Kozmo\" monster from your Deck.","str1":"Destroy Spell/Trap","str2":"Special Summon \"Kozmo\"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":94454495,"pack_id":"EP16-JP003","pack":"EP16","rarity":"Kozmo Sliprider","date":1473465600000},"tcg":{"id":94454495,"pack_id":"CORE-EN084","pack":"CORE","rarity":"Kozmo Sliprider","date":1438819200000}}
+{
+    "id": 94454495,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 13762560,
+    "type": 33,
+    "atk": 2300,
+    "def": 800,
+    "level": 5,
+    "race": 32,
+    "attribute": 16,
+    "category": 0,
+    "name": "Kozmo Sliprider",
+    "desc": "If this card is Normal or Special Summoned: You can target 1 Spell/Trap Card on the field; destroy it. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; Special Summon 1 Level 4 or lower \"Kozmo\" monster from your Deck.",
+    "str1": "Destroy Spell/Trap",
+    "str2": "Special Summon \"Kozmo\"",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 94454495,
+        "pack_id": "EP16-JP003",
+        "pack": "EP16",
+        "rarity": "Kozmo Sliprider",
+        "date": 1473465600000
+    },
+    "tcg": {
+        "id": 94454495,
+        "pack_id": "CORE-EN084",
+        "pack": "CORE",
+        "rarity": "Kozmo Sliprider",
+        "date": 1438819200000
+    }
+}

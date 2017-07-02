@@ -1,1 +1,47 @@
-{"id":6602300,"ot":3,"alias":0,"setcode":0,"type":97,"atk":2800,"def":2300,"level":8,"race":128,"attribute":4,"category":4194304,"name":"Blaze Fenix, the Burning Bombardment Bird","desc":"1 Machine-Type monster + 1 Pyro-Type monster\nOnce per turn, during your Main Phase: You can inflict 300 damage to your opponent for each card on the field. This card cannot attack during the turn you activate this effect.","str1":"Inflict damage","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":6602300,"pack_id":"PP13-JP004","pack":"PP13","rarity":"Blaze Fenix, the Burning Bombardment Bird","date":1299888000000},"tcg":{"id":6602300,"pack_id":"PRC1-EN012","pack":"PRC1","rarity":"Blaze Fenix, the Burning Bombardment Bird","date":1331856000000}}
+{
+    "id": 6602300,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 97,
+    "atk": 2800,
+    "def": 2300,
+    "level": 8,
+    "race": 128,
+    "attribute": 4,
+    "category": 4194304,
+    "name": "Blaze Fenix, the Burning Bombardment Bird",
+    "desc": "1 Machine-Type monster + 1 Pyro-Type monster\nOnce per turn, during your Main Phase: You can inflict 300 damage to your opponent for each card on the field. This card cannot attack during the turn you activate this effect.",
+    "str1": "Inflict damage",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 6602300,
+        "pack_id": "PP13-JP004",
+        "pack": "PP13",
+        "rarity": "Blaze Fenix, the Burning Bombardment Bird",
+        "date": 1299888000000
+    },
+    "tcg": {
+        "id": 6602300,
+        "pack_id": "PRC1-EN012",
+        "pack": "PRC1",
+        "rarity": "Blaze Fenix, the Burning Bombardment Bird",
+        "date": 1331856000000
+    }
+}

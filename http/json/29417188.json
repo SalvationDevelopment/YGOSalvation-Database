@@ -1,1 +1,47 @@
-{"id":29417188,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1200,"def":300,"level":4,"race":1048576,"attribute":8,"category":0,"name":"Psi-Blocker","desc":"Once per turn: You can declare 1 card name; cards with that name, and their effects, cannot be used until the End of your opponent's next turn.","str1":"宣言禁止","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":29417188,"pack_id":"EXP4-JP027","pack":"EXP4","rarity":"Psi-Blocker","date":1316217600000},"tcg":{"id":29417188,"pack_id":"STBL-EN086","pack":"STBL","rarity":"Psi-Blocker","date":1289001600000}}
+{
+    "id": 29417188,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1200,
+    "def": 300,
+    "level": 4,
+    "race": 1048576,
+    "attribute": 8,
+    "category": 0,
+    "name": "Psi-Blocker",
+    "desc": "Once per turn: You can declare 1 card name; cards with that name, and their effects, cannot be used until the End of your opponent's next turn.",
+    "str1": "宣言禁止",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 29417188,
+        "pack_id": "EXP4-JP027",
+        "pack": "EXP4",
+        "rarity": "Psi-Blocker",
+        "date": 1316217600000
+    },
+    "tcg": {
+        "id": 29417188,
+        "pack_id": "STBL-EN086",
+        "pack": "STBL",
+        "rarity": "Psi-Blocker",
+        "date": 1289001600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":8284390,"ot":1,"alias":0,"setcode":8214,"type":33,"atk":1800,"def":0,"level":5,"race":32,"attribute":8,"category":0,"name":"Speedroid Rubberband Plane","desc":"If a monster is Special Summoned to your field (except during the Damage Step): You can Special Summon this card from your hand, also you cannot Special Summon monsters for the rest of this turn, except WIND monsters. You can only use this effect of \"Speedroid Rubberband Plane\" once per turn. If this card is Normal or Special Summoned: You can target 1 face-up monster on the field; it loses 600 ATK until the end of this turn.","str1":"Special Summon Speedroid 5 6 Plane","str2":"Lose 600 ATK ","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG","ocg":{"id":8284390,"pack_id":"MACR-JP008","pack":"MACR","rarity":"Speedroid Rubberband Plane","date":1484352000000},"tcg":{"id":8284390,"pack_id":"MACR-EN008","pack":"MACR","rarity":"Speedroid Rubberband Plane","date":1493856000000}}
+{
+    "id": 8284390,
+    "ot": 1,
+    "alias": 0,
+    "setcode": 8214,
+    "type": 33,
+    "atk": 1800,
+    "def": 0,
+    "level": 5,
+    "race": 32,
+    "attribute": 8,
+    "category": 0,
+    "name": "Speedroid Rubberband Plane",
+    "desc": "If a monster is Special Summoned to your field (except during the Damage Step): You can Special Summon this card from your hand, also you cannot Special Summon monsters for the rest of this turn, except WIND monsters. You can only use this effect of \"Speedroid Rubberband Plane\" once per turn. If this card is Normal or Special Summoned: You can target 1 face-up monster on the field; it loses 600 ATK until the end of this turn.",
+    "str1": "Special Summon Speedroid 5 6 Plane",
+    "str2": "Lose 600 ATK ",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG",
+    "ocg": {
+        "id": 8284390,
+        "pack_id": "MACR-JP008",
+        "pack": "MACR",
+        "rarity": "Speedroid Rubberband Plane",
+        "date": 1484352000000
+    },
+    "tcg": {
+        "id": 8284390,
+        "pack_id": "MACR-EN008",
+        "pack": "MACR",
+        "rarity": "Speedroid Rubberband Plane",
+        "date": 1493856000000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":82633039,"ot":3,"alias":0,"setcode":73,"type":8388641,"atk":2000,"def":1500,"level":4,"race":512,"attribute":8,"category":0,"name":"Castel, the Skyblaster Musketeer","desc":"2 Level 4 monsters\nYou can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; change it to face-down Defense Position. You can detach 2 Xyz Materials from this card, then target 1 other face-up card on the field; shuffle it into the Deck. You can only use 1 \"Castel, the Skyblaster Musketeer\" effect per turn, and only once that turn.","str1":"Detach 1 Xyz Material from this card to change 1 face-up monster on the field to face-down Defense Position","str2":"Detach 2 Xyz Materials from this card to shuffle 1 face-up card on the field into the Deck","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":82633039,"pack_id":"DUEA-JP054","pack":"DUEA","rarity":"Castel, the Skyblaster Musketeer","date":1397865600000},"tcg":{"id":82633039,"pack_id":"DUEA-EN054","pack":"DUEA","rarity":"Castel, the Skyblaster Musketeer","date":1407974400000}}
+{
+    "id": 82633039,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 73,
+    "type": 8388641,
+    "atk": 2000,
+    "def": 1500,
+    "level": 4,
+    "race": 512,
+    "attribute": 8,
+    "category": 0,
+    "name": "Castel, the Skyblaster Musketeer",
+    "desc": "2 Level 4 monsters\nYou can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; change it to face-down Defense Position. You can detach 2 Xyz Materials from this card, then target 1 other face-up card on the field; shuffle it into the Deck. You can only use 1 \"Castel, the Skyblaster Musketeer\" effect per turn, and only once that turn.",
+    "str1": "Detach 1 Xyz Material from this card to change 1 face-up monster on the field to face-down Defense Position",
+    "str2": "Detach 2 Xyz Materials from this card to shuffle 1 face-up card on the field into the Deck",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 82633039,
+        "pack_id": "DUEA-JP054",
+        "pack": "DUEA",
+        "rarity": "Castel, the Skyblaster Musketeer",
+        "date": 1397865600000
+    },
+    "tcg": {
+        "id": 82633039,
+        "pack_id": "DUEA-EN054",
+        "pack": "DUEA",
+        "rarity": "Castel, the Skyblaster Musketeer",
+        "date": 1407974400000
+    }
+}

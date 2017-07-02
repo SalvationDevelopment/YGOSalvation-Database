@@ -1,1 +1,47 @@
-{"id":51371017,"ot":3,"alias":0,"setcode":0,"type":2097185,"atk":900,"def":700,"level":3,"race":1,"attribute":8,"category":4194304,"name":"Princess of Tsurugi","desc":"FLIP: Inflict 500 damage to your opponent for each Spell and Trap Card on your opponent's side of the field.","str1":"Inflict damage","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":51371017,"pack_id":"ME-26","pack":"ME","rarity":"Princess of Tsurugi","date":948931200000},"tcg":{"id":51371017,"pack_id":"MRD-086","pack":"MRD","rarity":"Princess of Tsurugi","date":1025049600000}}
+{
+    "id": 51371017,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2097185,
+    "atk": 900,
+    "def": 700,
+    "level": 3,
+    "race": 1,
+    "attribute": 8,
+    "category": 4194304,
+    "name": "Princess of Tsurugi",
+    "desc": "FLIP: Inflict 500 damage to your opponent for each Spell and Trap Card on your opponent's side of the field.",
+    "str1": "Inflict damage",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 51371017,
+        "pack_id": "ME-26",
+        "pack": "ME",
+        "rarity": "Princess of Tsurugi",
+        "date": 948931200000
+    },
+    "tcg": {
+        "id": 51371017,
+        "pack_id": "MRD-086",
+        "pack": "MRD",
+        "rarity": "Princess of Tsurugi",
+        "date": 1025049600000
+    }
+}

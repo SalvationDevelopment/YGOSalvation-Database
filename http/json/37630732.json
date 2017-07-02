@@ -1,1 +1,47 @@
-{"id":37630732,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":273948672,"name":"Power Bond","desc":"Fusion Summon 1 Machine-Type Fusion Monster from your Extra Deck, using monsters from your hand or your side of the field as Fusion Materials, and it gains ATK equal to its original ATK. During the End Phase of the turn this card is activated, you take damage equal to the amount of ATK gained from this effect at the time of the Summon.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":37630732,"pack_id":"CRV-JP037","pack":"CRV","rarity":"Power Bond","date":1161820800000},"tcg":{"id":37630732,"pack_id":"CRV-EN037","pack":"CRV","rarity":"Power Bond","date":1123286400000}}
+{
+    "id": 37630732,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 273948672,
+    "name": "Power Bond",
+    "desc": "Fusion Summon 1 Machine-Type Fusion Monster from your Extra Deck, using monsters from your hand or your side of the field as Fusion Materials, and it gains ATK equal to its original ATK. During the End Phase of the turn this card is activated, you take damage equal to the amount of ATK gained from this effect at the time of the Summon.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 37630732,
+        "pack_id": "CRV-JP037",
+        "pack": "CRV",
+        "rarity": "Power Bond",
+        "date": 1161820800000
+    },
+    "tcg": {
+        "id": 37630732,
+        "pack_id": "CRV-EN037",
+        "pack": "CRV",
+        "rarity": "Power Bond",
+        "date": 1123286400000
+    }
+}

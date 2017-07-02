@@ -1,1 +1,47 @@
-{"id":23434538,"ot":3,"alias":0,"setcode":0,"type":33,"atk":500,"def":200,"level":2,"race":2048,"attribute":1,"category":256,"name":"Maxx \"C\"","desc":"During either player's turn: You can send this card from your hand to the Graveyard; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use 1 \"Maxx \"C\"\" per turn.","str1":"对方特殊召唤时抽卡","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":23434538,"pack_id":"EXP4-JP037","pack":"EXP4","rarity":"Maxx \"C\"","date":1316217600000},"tcg":{"id":23434538,"pack_id":"STOR-EN086","pack":"STOR","rarity":"Maxx \"C\"","date":1297123200000}}
+{
+    "id": 23434538,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 500,
+    "def": 200,
+    "level": 2,
+    "race": 2048,
+    "attribute": 1,
+    "category": 256,
+    "name": "Maxx \"C\"",
+    "desc": "During either player's turn: You can send this card from your hand to the Graveyard; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use 1 \"Maxx \"C\"\" per turn.",
+    "str1": "对方特殊召唤时抽卡",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 23434538,
+        "pack_id": "EXP4-JP037",
+        "pack": "EXP4",
+        "rarity": "Maxx \"C\"",
+        "date": 1316217600000
+    },
+    "tcg": {
+        "id": 23434538,
+        "pack_id": "STOR-EN086",
+        "pack": "STOR",
+        "rarity": "Maxx \"C\"",
+        "date": 1297123200000
+    }
+}

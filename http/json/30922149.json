@@ -1,1 +1,47 @@
-{"id":30922149,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Side Effects?","desc":"Your opponent draws 1 to 3 cards, then you gain 2000 LP for each card they drew with this effect.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":30922149,"pack_id":"CORE-JP080","pack":"CORE","rarity":"Side Effects?","date":1429920000000},"tcg":{"id":30922149,"pack_id":"CORE-EN080","pack":"CORE","rarity":"Side Effects?","date":1438819200000}}
+{
+    "id": 30922149,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Side Effects?",
+    "desc": "Your opponent draws 1 to 3 cards, then you gain 2000 LP for each card they drew with this effect.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 30922149,
+        "pack_id": "CORE-JP080",
+        "pack": "CORE",
+        "rarity": "Side Effects?",
+        "date": 1429920000000
+    },
+    "tcg": {
+        "id": 30922149,
+        "pack_id": "CORE-EN080",
+        "pack": "CORE",
+        "rarity": "Side Effects?",
+        "date": 1438819200000
+    }
+}

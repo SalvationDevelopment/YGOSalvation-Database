@@ -1,1 +1,47 @@
-{"id":19684740,"ot":3,"alias":0,"setcode":0,"type":8388641,"atk":2200,"def":3000,"level":6,"race":1024,"attribute":1,"category":0,"name":"Fairy Knight Ingunar","desc":"3 Level 6 monsters\nOnce per turn: You can detach 2 Xyz Materials from this card; return all other cards on the field to the hand. Your opponent cannot activate cards or effects in response to this effect's activation.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":19684740,"pack_id":"LVAL-JP055","pack":"LVAL","rarity":"Fairy Knight Ingunar","date":1384560000000},"tcg":{"id":19684740,"pack_id":"LVAL-EN055","pack":"LVAL","rarity":"Fairy Knight Ingunar","date":1390521600000}}
+{
+    "id": 19684740,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 8388641,
+    "atk": 2200,
+    "def": 3000,
+    "level": 6,
+    "race": 1024,
+    "attribute": 1,
+    "category": 0,
+    "name": "Fairy Knight Ingunar",
+    "desc": "3 Level 6 monsters\nOnce per turn: You can detach 2 Xyz Materials from this card; return all other cards on the field to the hand. Your opponent cannot activate cards or effects in response to this effect's activation.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 19684740,
+        "pack_id": "LVAL-JP055",
+        "pack": "LVAL",
+        "rarity": "Fairy Knight Ingunar",
+        "date": 1384560000000
+    },
+    "tcg": {
+        "id": 19684740,
+        "pack_id": "LVAL-EN055",
+        "pack": "LVAL",
+        "rarity": "Fairy Knight Ingunar",
+        "date": 1390521600000
+    }
+}

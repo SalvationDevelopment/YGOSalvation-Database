@@ -1,1 +1,47 @@
-{"id":84136000,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262144,"name":"The Grave of Enkindling","desc":"You can only activate this card when a monster on your side of the field is destroyed as a result of battle and sent to the Graveyard. You and your opponent each select 1 monster from your respective Graveyards and Special Summon them in Defense Position. Neither monster Special Summoned by this card's effect can change its battle position while it is face-up on the field, except with a card effect.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":84136000,"pack_id":"DP2-JP030","pack":"DP2","rarity":"The Grave of Enkindling","date":1129766400000},"tcg":{"id":84136000,"pack_id":"DP2-EN030","pack":"DP2","rarity":"The Grave of Enkindling","date":1139356800000}}
+{
+    "id": 84136000,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262144,
+    "name": "The Grave of Enkindling",
+    "desc": "You can only activate this card when a monster on your side of the field is destroyed as a result of battle and sent to the Graveyard. You and your opponent each select 1 monster from your respective Graveyards and Special Summon them in Defense Position. Neither monster Special Summoned by this card's effect can change its battle position while it is face-up on the field, except with a card effect.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 84136000,
+        "pack_id": "DP2-JP030",
+        "pack": "DP2",
+        "rarity": "The Grave of Enkindling",
+        "date": 1129766400000
+    },
+    "tcg": {
+        "id": 84136000,
+        "pack_id": "DP2-EN030",
+        "pack": "DP2",
+        "rarity": "The Grave of Enkindling",
+        "date": 1139356800000
+    }
+}

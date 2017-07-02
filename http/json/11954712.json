@@ -1,1 +1,47 @@
-{"id":11954712,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1600,"def":300,"level":3,"race":131072,"attribute":8,"category":16388,"name":"Flyfang","desc":"If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. At the end of the Battle Phase, if this card inflicted Battle Damage to your opponent: Banish this card until your next Standby Phase.","str1":"Banish","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":11954712,"pack_id":"GENF-JP019","pack":"GENF","rarity":"Flyfang","date":1302912000000},"tcg":{"id":11954712,"pack_id":"GENF-EN019","pack":"GENF","rarity":"Flyfang","date":1312588800000}}
+{
+    "id": 11954712,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1600,
+    "def": 300,
+    "level": 3,
+    "race": 131072,
+    "attribute": 8,
+    "category": 16388,
+    "name": "Flyfang",
+    "desc": "If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. At the end of the Battle Phase, if this card inflicted Battle Damage to your opponent: Banish this card until your next Standby Phase.",
+    "str1": "Banish",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 11954712,
+        "pack_id": "GENF-JP019",
+        "pack": "GENF",
+        "rarity": "Flyfang",
+        "date": 1302912000000
+    },
+    "tcg": {
+        "id": 11954712,
+        "pack_id": "GENF-EN019",
+        "pack": "GENF",
+        "rarity": "Flyfang",
+        "date": 1312588800000
+    }
+}

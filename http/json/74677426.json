@@ -1,1 +1,47 @@
-{"id":74677426,"ot":3,"alias":74677422,"setcode":59,"type":17,"atk":2400,"def":2000,"level":7,"race":8192,"attribute":32,"category":0,"name":"Red-Eyes B. Dragon","desc":"A ferocious dragon with a deadly attack.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":74677426,"pack_id":"PG-09","pack":"PG","rarity":"Red-Eyes B. Dragon","date":927763200000},"tcg":{"id":74677426,"pack_id":"LOB-070","pack":"LOB","rarity":"Red-Eyes B. Dragon","date":1015545600000}}
+{
+    "id": 74677426,
+    "ot": 3,
+    "alias": 74677422,
+    "setcode": 59,
+    "type": 17,
+    "atk": 2400,
+    "def": 2000,
+    "level": 7,
+    "race": 8192,
+    "attribute": 32,
+    "category": 0,
+    "name": "Red-Eyes B. Dragon",
+    "desc": "A ferocious dragon with a deadly attack.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 74677426,
+        "pack_id": "PG-09",
+        "pack": "PG",
+        "rarity": "Red-Eyes B. Dragon",
+        "date": 927763200000
+    },
+    "tcg": {
+        "id": 74677426,
+        "pack_id": "LOB-070",
+        "pack": "LOB",
+        "rarity": "Red-Eyes B. Dragon",
+        "date": 1015545600000
+    }
+}

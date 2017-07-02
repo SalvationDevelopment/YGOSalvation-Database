@@ -1,1 +1,47 @@
-{"id":67675300,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2800,"def":1800,"level":8,"race":8192,"attribute":2,"category":67436544,"name":"Snowdust Dragon","desc":"You can Special Summon this card (from your hand) by removing 4 Ice Counters from anywhere on the field. Other monsters with Ice Counters cannot attack or change their battle positions.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":67675300,"pack_id":"JF12-JPB07","pack":"JF12","rarity":"Snowdust Dragon","date":1324166400000},"tcg":{"id":67675300,"pack_id":"ABYR-EN093","pack":"ABYR","rarity":"Snowdust Dragon","date":1352419200000}}
+{
+    "id": 67675300,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2800,
+    "def": 1800,
+    "level": 8,
+    "race": 8192,
+    "attribute": 2,
+    "category": 67436544,
+    "name": "Snowdust Dragon",
+    "desc": "You can Special Summon this card (from your hand) by removing 4 Ice Counters from anywhere on the field. Other monsters with Ice Counters cannot attack or change their battle positions.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 67675300,
+        "pack_id": "JF12-JPB07",
+        "pack": "JF12",
+        "rarity": "Snowdust Dragon",
+        "date": 1324166400000
+    },
+    "tcg": {
+        "id": 67675300,
+        "pack_id": "ABYR-EN093",
+        "pack": "ABYR",
+        "rarity": "Snowdust Dragon",
+        "date": 1352419200000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":15169262,"ot":3,"alias":0,"setcode":57,"type":4129,"atk":300,"def":200,"level":2,"race":128,"attribute":4,"category":8192,"name":"Laval Forest Sprite","desc":"When this card is sent from the field to the Graveyard: All face-up \"Laval\" monsters you currently control gain 200 ATK for each \"Laval\" monster in your Graveyard, until the End Phase.","str1":"Gain attack","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":15169262,"pack_id":"DT09-JP026","pack":"デュエルターミナル 「ヴァイロン降臨！！」","rarity":"共通","date":1272344400000},"tcg":{"id":15169262,"pack_id":"DT05-EN026","pack":"DT05","rarity":"Laval Forest Sprite","date":1306627200000}}
+{
+    "id": 15169262,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 57,
+    "type": 4129,
+    "atk": 300,
+    "def": 200,
+    "level": 2,
+    "race": 128,
+    "attribute": 4,
+    "category": 8192,
+    "name": "Laval Forest Sprite",
+    "desc": "When this card is sent from the field to the Graveyard: All face-up \"Laval\" monsters you currently control gain 200 ATK for each \"Laval\" monster in your Graveyard, until the End Phase.",
+    "str1": "Gain attack",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 15169262,
+        "pack_id": "DT09-JP026",
+        "pack": "デュエルターミナル 「ヴァイロン降臨！！」",
+        "rarity": "共通",
+        "date": 1272344400000
+    },
+    "tcg": {
+        "id": 15169262,
+        "pack_id": "DT05-EN026",
+        "pack": "DT05",
+        "rarity": "Laval Forest Sprite",
+        "date": 1306627200000
+    }
+}

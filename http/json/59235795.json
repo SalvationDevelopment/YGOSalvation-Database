@@ -1,1 +1,47 @@
-{"id":59235795,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2000,"def":1500,"level":7,"race":524288,"attribute":8,"category":2097154,"name":"Destruction Cyclone","desc":"When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-WIND monsters.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":59235795,"pack_id":"STON-JP028","pack":"STON","rarity":"Destruction Cyclone","date":1163635200000},"tcg":{"id":59235795,"pack_id":"STON-EN028","pack":"STON","rarity":"Destruction Cyclone","date":1172620800000}}
+{
+    "id": 59235795,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2000,
+    "def": 1500,
+    "level": 7,
+    "race": 524288,
+    "attribute": 8,
+    "category": 2097154,
+    "name": "Destruction Cyclone",
+    "desc": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-WIND monsters.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 59235795,
+        "pack_id": "STON-JP028",
+        "pack": "STON",
+        "rarity": "Destruction Cyclone",
+        "date": 1163635200000
+    },
+    "tcg": {
+        "id": 59235795,
+        "pack_id": "STON-EN028",
+        "pack": "STON",
+        "rarity": "Destruction Cyclone",
+        "date": 1172620800000
+    }
+}

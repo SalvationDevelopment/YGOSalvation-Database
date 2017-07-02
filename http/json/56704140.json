@@ -1,1 +1,47 @@
-{"id":56704140,"ot":3,"alias":0,"setcode":47,"type":4129,"atk":800,"def":1200,"level":3,"race":2,"attribute":2,"category":2162688,"name":"Geomancer of the Ice Barrier","desc":"Discard 1 card and declare 1 Attribute. This card cannot be selected as an attack target by monsters with that Attribute. This effect can only be used once while this card is face-up on the field.","str1":"不能成为攻击对象","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":56704140,"pack_id":"DT04-JP027","pack":"DT04","rarity":"Geomancer of the Ice Barrier","date":1228348800000},"tcg":{"id":56704140,"pack_id":"DT02-EN077","pack":"DT02","rarity":"Geomancer of the Ice Barrier","date":1274745600000}}
+{
+    "id": 56704140,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 47,
+    "type": 4129,
+    "atk": 800,
+    "def": 1200,
+    "level": 3,
+    "race": 2,
+    "attribute": 2,
+    "category": 2162688,
+    "name": "Geomancer of the Ice Barrier",
+    "desc": "Discard 1 card and declare 1 Attribute. This card cannot be selected as an attack target by monsters with that Attribute. This effect can only be used once while this card is face-up on the field.",
+    "str1": "不能成为攻击对象",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 56704140,
+        "pack_id": "DT04-JP027",
+        "pack": "DT04",
+        "rarity": "Geomancer of the Ice Barrier",
+        "date": 1228348800000
+    },
+    "tcg": {
+        "id": 56704140,
+        "pack_id": "DT02-EN077",
+        "pack": "DT02",
+        "rarity": "Geomancer of the Ice Barrier",
+        "date": 1274745600000
+    }
+}

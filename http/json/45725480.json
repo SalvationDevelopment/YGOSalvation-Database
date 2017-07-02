@@ -1,1 +1,47 @@
-{"id":45725480,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":256,"name":"Sacred Sword of Seven Stars","desc":"Banish 1 Level 7 monster from your hand or face-up from your side of the field; draw 2 cards. You can only activate 1 \"Sacred Sword of Seven Stars\" per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":45725480,"pack_id":"LTGY-JP066","pack":"LTGY","rarity":"Sacred Sword of Seven Stars","date":1360972800000},"tcg":{"id":45725480,"pack_id":"LTGY-EN066","pack":"LTGY","rarity":"Sacred Sword of Seven Stars","date":1368748800000}}
+{
+    "id": 45725480,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 256,
+    "name": "Sacred Sword of Seven Stars",
+    "desc": "Banish 1 Level 7 monster from your hand or face-up from your side of the field; draw 2 cards. You can only activate 1 \"Sacred Sword of Seven Stars\" per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 45725480,
+        "pack_id": "LTGY-JP066",
+        "pack": "LTGY",
+        "rarity": "Sacred Sword of Seven Stars",
+        "date": 1360972800000
+    },
+    "tcg": {
+        "id": 45725480,
+        "pack_id": "LTGY-EN066",
+        "pack": "LTGY",
+        "rarity": "Sacred Sword of Seven Stars",
+        "date": 1368748800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":15939229,"ot":3,"alias":0,"setcode":279904431,"type":8388641,"atk":3500,"def":3000,"level":8,"race":8,"attribute":32,"category":0,"name":"D/D/D Duo-Dawn King Kali Yuga","desc":"2 Level 8 \"D/D\" monsters\nAfter this card is Xyz Summoned, for the rest of this turn, other cards and their effects cannot be activated on the field, and other cards' effects on the field are negated. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; destroy all Spell and Trap Cards on the field. You can detach 1 Xyz Material from this card, then target 1 \"Dark Contract\" Spell/Trap Card in your Graveyard; Set that target.","str1":"Destroy all Spell/Traps","str2":"Set a Dark Contract card","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":15939229,"pack_id":"DOCS-JP050","pack":"DOCS","rarity":"D/D/D Duo-Dawn King Kali Yuga","date":1437177600000},"tcg":{"id":15939229,"pack_id":"DOCS-EN050","pack":"DOCS","rarity":"D/D/D Duo-Dawn King Kali Yuga","date":1446681600000}}
+{
+    "id": 15939229,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 279904431,
+    "type": 8388641,
+    "atk": 3500,
+    "def": 3000,
+    "level": 8,
+    "race": 8,
+    "attribute": 32,
+    "category": 0,
+    "name": "D/D/D Duo-Dawn King Kali Yuga",
+    "desc": "2 Level 8 \"D/D\" monsters\nAfter this card is Xyz Summoned, for the rest of this turn, other cards and their effects cannot be activated on the field, and other cards' effects on the field are negated. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; destroy all Spell and Trap Cards on the field. You can detach 1 Xyz Material from this card, then target 1 \"Dark Contract\" Spell/Trap Card in your Graveyard; Set that target.",
+    "str1": "Destroy all Spell/Traps",
+    "str2": "Set a Dark Contract card",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 15939229,
+        "pack_id": "DOCS-JP050",
+        "pack": "DOCS",
+        "rarity": "D/D/D Duo-Dawn King Kali Yuga",
+        "date": 1437177600000
+    },
+    "tcg": {
+        "id": 15939229,
+        "pack_id": "DOCS-EN050",
+        "pack": "DOCS",
+        "rarity": "D/D/D Duo-Dawn King Kali Yuga",
+        "date": 1446681600000
+    }
+}

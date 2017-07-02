@@ -1,1 +1,47 @@
-{"id":36623431,"ot":3,"alias":0,"setcode":29,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1048,"name":"Iron Core of Koa'ki Meiru","desc":"During your Draw Phase, if this card is in your Graveyard, you can add this card to your hand instead of drawing, and/or send 1 \"Koa'ki Meiru\" monster from your hand to your Graveyard to add this card to your hand.","str1":"Add \"Iron Core of Koa'ki Meiru\" to your hand instead of drawing","str2":"Add to hand","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":36623431,"pack_id":"RGBT-JP055","pack":"RGBT","rarity":"Iron Core of Koa'ki Meiru","date":1234569600000},"tcg":{"id":36623431,"pack_id":"RGBT-ENPP1","pack":"RGBT","rarity":"Iron Core of Koa'ki Meiru","date":1236643200000}}
+{
+    "id": 36623431,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 29,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1048,
+    "name": "Iron Core of Koa'ki Meiru",
+    "desc": "During your Draw Phase, if this card is in your Graveyard, you can add this card to your hand instead of drawing, and/or send 1 \"Koa'ki Meiru\" monster from your hand to your Graveyard to add this card to your hand.",
+    "str1": "Add \"Iron Core of Koa'ki Meiru\" to your hand instead of drawing",
+    "str2": "Add to hand",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 36623431,
+        "pack_id": "RGBT-JP055",
+        "pack": "RGBT",
+        "rarity": "Iron Core of Koa'ki Meiru",
+        "date": 1234569600000
+    },
+    "tcg": {
+        "id": 36623431,
+        "pack_id": "RGBT-ENPP1",
+        "pack": "RGBT",
+        "rarity": "Iron Core of Koa'ki Meiru",
+        "date": 1236643200000
+    }
+}

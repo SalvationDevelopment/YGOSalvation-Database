@@ -1,1 +1,47 @@
-{"id":46195773,"ot":3,"alias":0,"setcode":6684928,"type":8225,"atk":2500,"def":1500,"level":6,"race":1,"attribute":8,"category":33562624,"name":"Turbo Warrior","desc":"\"Turbo Synchron\" + 1 or more non-Tuner monsters\nWhen this card attacks a Level 6 or higher Synchro Monster: Halve the ATK of the attack target until the end of the Damage Step. This card cannot be targeted by the effects of Level 6 or lower monsters.","str1":"攻击对象攻击变成一半","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":46195773,"pack_id":"CSOC-JP038","pack":"CSOC","rarity":"Turbo Warrior","date":1224288000000},"tcg":{"id":46195773,"pack_id":"CSOC-EN038","pack":"CSOC","rarity":"Turbo Warrior","date":1225497600000}}
+{
+    "id": 46195773,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 6684928,
+    "type": 8225,
+    "atk": 2500,
+    "def": 1500,
+    "level": 6,
+    "race": 1,
+    "attribute": 8,
+    "category": 33562624,
+    "name": "Turbo Warrior",
+    "desc": "\"Turbo Synchron\" + 1 or more non-Tuner monsters\nWhen this card attacks a Level 6 or higher Synchro Monster: Halve the ATK of the attack target until the end of the Damage Step. This card cannot be targeted by the effects of Level 6 or lower monsters.",
+    "str1": "攻击对象攻击变成一半",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 46195773,
+        "pack_id": "CSOC-JP038",
+        "pack": "CSOC",
+        "rarity": "Turbo Warrior",
+        "date": 1224288000000
+    },
+    "tcg": {
+        "id": 46195773,
+        "pack_id": "CSOC-EN038",
+        "pack": "CSOC",
+        "rarity": "Turbo Warrior",
+        "date": 1225497600000
+    }
+}

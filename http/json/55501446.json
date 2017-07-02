@@ -1,1 +1,47 @@
-{"id":55501446,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1200,"def":800,"level":3,"race":524288,"attribute":16,"category":262144,"name":"Lightserpent","desc":"If this card is sent from the hand to your Graveyard: You can Special Summon it from the Graveyard. This card cannot be used as a Synchro Material Monster.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":55501446,"pack_id":"PHSW-JP013","pack":"PHSW","rarity":"Lightserpent","date":1310774400000},"tcg":{"id":55501446,"pack_id":"PHSW-EN013","pack":"PHSW","rarity":"Lightserpent","date":1320883200000}}
+{
+    "id": 55501446,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1200,
+    "def": 800,
+    "level": 3,
+    "race": 524288,
+    "attribute": 16,
+    "category": 262144,
+    "name": "Lightserpent",
+    "desc": "If this card is sent from the hand to your Graveyard: You can Special Summon it from the Graveyard. This card cannot be used as a Synchro Material Monster.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 55501446,
+        "pack_id": "PHSW-JP013",
+        "pack": "PHSW",
+        "rarity": "Lightserpent",
+        "date": 1310774400000
+    },
+    "tcg": {
+        "id": 55501446,
+        "pack_id": "PHSW-EN013",
+        "pack": "PHSW",
+        "rarity": "Lightserpent",
+        "date": 1320883200000
+    }
+}

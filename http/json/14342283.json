@@ -1,1 +1,47 @@
-{"id":14342283,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":16785408,"name":"Token Stampede","desc":"All Tokens in Attack Position gain 1000 ATK, also they cannot be destroyed by battle.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":14342283,"pack_id":"STOR-JP076","pack":"STOR","rarity":"Token Stampede","date":1289606400000},"tcg":{"id":14342283,"pack_id":"STOR-EN076","pack":"STOR","rarity":"Token Stampede","date":1297123200000}}
+{
+    "id": 14342283,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 16785408,
+    "name": "Token Stampede",
+    "desc": "All Tokens in Attack Position gain 1000 ATK, also they cannot be destroyed by battle.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 14342283,
+        "pack_id": "STOR-JP076",
+        "pack": "STOR",
+        "rarity": "Token Stampede",
+        "date": 1289606400000
+    },
+    "tcg": {
+        "id": 14342283,
+        "pack_id": "STOR-EN076",
+        "pack": "STOR",
+        "rarity": "Token Stampede",
+        "date": 1297123200000
+    }
+}

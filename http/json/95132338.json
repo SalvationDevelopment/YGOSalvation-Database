@@ -1,1 +1,47 @@
-{"id":95132338,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":8192,"name":"Aqua Chorus","desc":"If there are monsters with the same name on the field, increase the ATK and DEF of all those monsters with the same name by 500 points.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":95132338,"pack_id":"G4-05","pack":"G4","rarity":"Aqua Chorus","date":976147200000},"tcg":{"id":95132338,"pack_id":"PCK-002","pack":"PCK","rarity":"Aqua Chorus","date":1081209600000}}
+{
+    "id": 95132338,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 8192,
+    "name": "Aqua Chorus",
+    "desc": "If there are monsters with the same name on the field, increase the ATK and DEF of all those monsters with the same name by 500 points.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 95132338,
+        "pack_id": "G4-05",
+        "pack": "G4",
+        "rarity": "Aqua Chorus",
+        "date": 976147200000
+    },
+    "tcg": {
+        "id": 95132338,
+        "pack_id": "PCK-002",
+        "pack": "PCK",
+        "rarity": "Aqua Chorus",
+        "date": 1081209600000
+    }
+}

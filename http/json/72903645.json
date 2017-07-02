@@ -1,1 +1,47 @@
-{"id":72903645,"ot":3,"alias":0,"setcode":0,"type":33,"atk":2400,"def":1200,"level":6,"race":8192,"attribute":16,"category":1,"name":"Magna-Slash Dragon","desc":"You can send 1 face-up Continuous Spell Card you control to the Graveyard to destroy 1 Spell or Trap Card your opponent controls.","str1":"Destroy","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":72903645,"pack_id":"FOTB-JP029","pack":"FOTB","rarity":"Magna-Slash Dragon","date":1171497600000},"tcg":{"id":72903645,"pack_id":"FOTB-EN029","pack":"FOTB","rarity":"Magna-Slash Dragon","date":1179273600000}}
+{
+    "id": 72903645,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2400,
+    "def": 1200,
+    "level": 6,
+    "race": 8192,
+    "attribute": 16,
+    "category": 1,
+    "name": "Magna-Slash Dragon",
+    "desc": "You can send 1 face-up Continuous Spell Card you control to the Graveyard to destroy 1 Spell or Trap Card your opponent controls.",
+    "str1": "Destroy",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 72903645,
+        "pack_id": "FOTB-JP029",
+        "pack": "FOTB",
+        "rarity": "Magna-Slash Dragon",
+        "date": 1171497600000
+    },
+    "tcg": {
+        "id": 72903645,
+        "pack_id": "FOTB-EN029",
+        "pack": "FOTB",
+        "rarity": "Magna-Slash Dragon",
+        "date": 1179273600000
+    }
+}

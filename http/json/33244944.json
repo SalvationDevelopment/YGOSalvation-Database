@@ -1,1 +1,47 @@
-{"id":33244944,"ot":3,"alias":0,"setcode":222,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262144,"name":"Contract with Exodia","desc":"If you have all 5 of \"Exodia the Forbidden One\", \"Right Arm of the Forbidden One\", \"Left Arm of the Forbidden One\", \"Right Leg of the Forbidden One\", and \"Left Leg of the Forbidden One\" in your Graveyard: Special Summon 1 \"Exodia Necross\" from your hand.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":33244944,"pack_id":"304-031","pack":"304","rarity":"Contract with Exodia","date":1037836800000},"tcg":{"id":33244944,"pack_id":"DCR-031","pack":"DCR","rarity":"Contract with Exodia","date":1070236800000}}
+{
+    "id": 33244944,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 222,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262144,
+    "name": "Contract with Exodia",
+    "desc": "If you have all 5 of \"Exodia the Forbidden One\", \"Right Arm of the Forbidden One\", \"Left Arm of the Forbidden One\", \"Right Leg of the Forbidden One\", and \"Left Leg of the Forbidden One\" in your Graveyard: Special Summon 1 \"Exodia Necross\" from your hand.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 33244944,
+        "pack_id": "304-031",
+        "pack": "304",
+        "rarity": "Contract with Exodia",
+        "date": 1037836800000
+    },
+    "tcg": {
+        "id": 33244944,
+        "pack_id": "DCR-031",
+        "pack": "DCR",
+        "rarity": "Contract with Exodia",
+        "date": 1070236800000
+    }
+}

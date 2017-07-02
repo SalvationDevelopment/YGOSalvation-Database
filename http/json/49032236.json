@@ -1,1 +1,47 @@
-{"id":49032236,"ot":3,"alias":0,"setcode":72,"type":8388641,"atk":3200,"def":4000,"level":10,"race":32,"attribute":1,"category":0,"name":"Number 81: Superdreadnought Rail Cannon Super Dora","desc":"2 Level 10 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; that target is unaffected by card effects, except for its own effects, until the end of this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":49032236,"pack_id":"SECE-JP086","pack":"SECE","rarity":"Number 81: Superdreadnought Rail Cannon Super Dora","date":1416009600000},"tcg":{"id":49032236,"pack_id":"TDIL-EN091","pack":"TDIL","rarity":"Number 81: Superdreadnought Rail Cannon Super Dora","date":1470268800000}}
+{
+    "id": 49032236,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 72,
+    "type": 8388641,
+    "atk": 3200,
+    "def": 4000,
+    "level": 10,
+    "race": 32,
+    "attribute": 1,
+    "category": 0,
+    "name": "Number 81: Superdreadnought Rail Cannon Super Dora",
+    "desc": "2 Level 10 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; that target is unaffected by card effects, except for its own effects, until the end of this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 49032236,
+        "pack_id": "SECE-JP086",
+        "pack": "SECE",
+        "rarity": "Number 81: Superdreadnought Rail Cannon Super Dora",
+        "date": 1416009600000
+    },
+    "tcg": {
+        "id": 49032236,
+        "pack_id": "TDIL-EN091",
+        "pack": "TDIL",
+        "rarity": "Number 81: Superdreadnought Rail Cannon Super Dora",
+        "date": 1470268800000
+    }
+}

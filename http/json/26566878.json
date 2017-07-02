@@ -1,1 +1,47 @@
-{"id":26566878,"ot":3,"alias":0,"setcode":0,"type":17,"atk":900,"def":200,"level":2,"race":2048,"attribute":1,"category":0,"name":"Fiend Scorpion","desc":"A huge scorpion inhabited by the soul of a fiend. Usually it holds back, but has untapped potential.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":26566878,"pack_id":"309-004","pack":"309","rarity":"Fiend Scorpion","date":1077753600000},"tcg":{"id":26566878,"pack_id":"AST-059","pack":"AST","rarity":"Fiend Scorpion","date":1086048000000}}
+{
+    "id": 26566878,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 900,
+    "def": 200,
+    "level": 2,
+    "race": 2048,
+    "attribute": 1,
+    "category": 0,
+    "name": "Fiend Scorpion",
+    "desc": "A huge scorpion inhabited by the soul of a fiend. Usually it holds back, but has untapped potential.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 26566878,
+        "pack_id": "309-004",
+        "pack": "309",
+        "rarity": "Fiend Scorpion",
+        "date": 1077753600000
+    },
+    "tcg": {
+        "id": 26566878,
+        "pack_id": "AST-059",
+        "pack": "AST",
+        "rarity": "Fiend Scorpion",
+        "date": 1086048000000
+    }
+}

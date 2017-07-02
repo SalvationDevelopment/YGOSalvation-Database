@@ -1,1 +1,47 @@
-{"id":60406591,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":786432,"name":"Sinister Seeds","desc":"When a monster you control is destroyed by a battle in which you took damage, and it was in face-up Attack Position at the start of the Damage Step and when it was destroyed: Special Summon 1 \"Sinister Seed Token\" (Plant-Type/DARK/Level 1/ATK 100/DEF 100) for every 500 points of battle damage you took from that battle.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":60406591,"pack_id":"PTDN-JP065","pack":"PTDN","rarity":"Sinister Seeds","date":1195776000000},"tcg":{"id":60406591,"pack_id":"PTDN-EN065","pack":"PTDN","rarity":"Sinister Seeds","date":1201305600000}}
+{
+    "id": 60406591,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 786432,
+    "name": "Sinister Seeds",
+    "desc": "When a monster you control is destroyed by a battle in which you took damage, and it was in face-up Attack Position at the start of the Damage Step and when it was destroyed: Special Summon 1 \"Sinister Seed Token\" (Plant-Type/DARK/Level 1/ATK 100/DEF 100) for every 500 points of battle damage you took from that battle.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 60406591,
+        "pack_id": "PTDN-JP065",
+        "pack": "PTDN",
+        "rarity": "Sinister Seeds",
+        "date": 1195776000000
+    },
+    "tcg": {
+        "id": 60406591,
+        "pack_id": "PTDN-EN065",
+        "pack": "PTDN",
+        "rarity": "Sinister Seeds",
+        "date": 1201305600000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":24094653,"ot":3,"alias":0,"setcode":70,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":268697608,"name":"Polymerization","desc":"Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":24094653,"pack_id":"LB-58","pack":"LB","rarity":"Polymerization","date":920678400000},"tcg":{"id":24094653,"pack_id":"LOB-059","pack":"LOB","rarity":"Polymerization","date":1015545600000}}
+{
+    "id": 24094653,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 70,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 268697608,
+    "name": "Polymerization",
+    "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 24094653,
+        "pack_id": "LB-58",
+        "pack": "LB",
+        "rarity": "Polymerization",
+        "date": 920678400000
+    },
+    "tcg": {
+        "id": 24094653,
+        "pack_id": "LOB-059",
+        "pack": "LOB",
+        "rarity": "Polymerization",
+        "date": 1015545600000
+    }
+}

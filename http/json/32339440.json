@@ -1,1 +1,47 @@
-{"id":32339440,"ot":3,"alias":0,"setcode":136,"type":33,"atk":1800,"def":200,"level":4,"race":32768,"attribute":16,"category":520,"name":"Bujin Yamato","desc":"Once per turn, during your End Phase: You can add 1 \"Bujin\" monster from your Deck to your hand, then send 1 card from your hand to the Graveyard. You can only control 1 \"Bujin Yamato\".","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":32339440,"pack_id":"JOTL-JP016","pack":"JOTL","rarity":"Bujin Yamato","date":1366416000000},"tcg":{"id":32339440,"pack_id":"JOTL-EN016","pack":"JOTL","rarity":"Bujin Yamato","date":1375920000000}}
+{
+    "id": 32339440,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 136,
+    "type": 33,
+    "atk": 1800,
+    "def": 200,
+    "level": 4,
+    "race": 32768,
+    "attribute": 16,
+    "category": 520,
+    "name": "Bujin Yamato",
+    "desc": "Once per turn, during your End Phase: You can add 1 \"Bujin\" monster from your Deck to your hand, then send 1 card from your hand to the Graveyard. You can only control 1 \"Bujin Yamato\".",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 32339440,
+        "pack_id": "JOTL-JP016",
+        "pack": "JOTL",
+        "rarity": "Bujin Yamato",
+        "date": 1366416000000
+    },
+    "tcg": {
+        "id": 32339440,
+        "pack_id": "JOTL-EN016",
+        "pack": "JOTL",
+        "rarity": "Bujin Yamato",
+        "date": 1375920000000
+    }
+}

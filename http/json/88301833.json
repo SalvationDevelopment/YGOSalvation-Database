@@ -1,1 +1,47 @@
-{"id":88301833,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":1040,"name":"Ascending Soul","desc":"Once per turn, when a Ritual Monster(s) is Ritual Summoned: You can target 1 monster in your Graveyard that was Tributed for the Ritual Summon; add that target to your hand.","str1":"Add to hand","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":88301833,"pack_id":"ABPF-JP059","pack":"ABPF","rarity":"Ascending Soul","date":1258156800000},"tcg":{"id":88301833,"pack_id":"ABPF-EN059","pack":"ABPF","rarity":"Ascending Soul","date":1265932800000}}
+{
+    "id": 88301833,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 1040,
+    "name": "Ascending Soul",
+    "desc": "Once per turn, when a Ritual Monster(s) is Ritual Summoned: You can target 1 monster in your Graveyard that was Tributed for the Ritual Summon; add that target to your hand.",
+    "str1": "Add to hand",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 88301833,
+        "pack_id": "ABPF-JP059",
+        "pack": "ABPF",
+        "rarity": "Ascending Soul",
+        "date": 1258156800000
+    },
+    "tcg": {
+        "id": 88301833,
+        "pack_id": "ABPF-EN059",
+        "pack": "ABPF",
+        "rarity": "Ascending Soul",
+        "date": 1265932800000
+    }
+}

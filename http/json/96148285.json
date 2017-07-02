@@ -1,1 +1,47 @@
-{"id":96148285,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262144,"name":"Triggered Summon","desc":"Activate only when a monster is Special Summoned to your opponent's side of the field. Each player can Special Summon 1 Level 4 or lower monster from their hand.","str1":"Special Summon 1 Level 4 or lower monster from your hand?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":96148285,"pack_id":"FOTB-JP046","pack":"FOTB","rarity":"Triggered Summon","date":1171497600000},"tcg":{"id":96148285,"pack_id":"FOTB-EN046","pack":"FOTB","rarity":"Triggered Summon","date":1179273600000}}
+{
+    "id": 96148285,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262144,
+    "name": "Triggered Summon",
+    "desc": "Activate only when a monster is Special Summoned to your opponent's side of the field. Each player can Special Summon 1 Level 4 or lower monster from their hand.",
+    "str1": "Special Summon 1 Level 4 or lower monster from your hand?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 96148285,
+        "pack_id": "FOTB-JP046",
+        "pack": "FOTB",
+        "rarity": "Triggered Summon",
+        "date": 1171497600000
+    },
+    "tcg": {
+        "id": 96148285,
+        "pack_id": "FOTB-EN046",
+        "pack": "FOTB",
+        "rarity": "Triggered Summon",
+        "date": 1179273600000
+    }
+}

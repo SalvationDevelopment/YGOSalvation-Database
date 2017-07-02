@@ -1,1 +1,47 @@
-{"id":23265594,"ot":3,"alias":0,"setcode":0,"type":1057,"atk":500,"def":500,"level":3,"race":32,"attribute":32,"category":17833984,"name":"Heavy Mech Support Platform","desc":"Once per turn, you can either: Target 1 Machine-Type monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card gains 500 ATK and DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":23265594,"pack_id":"RDS-JP011","pack":"RDS","rarity":"Heavy Mech Support Platform","date":1091664000000},"tcg":{"id":23265594,"pack_id":"RDS-EN011","pack":"RDS","rarity":"Heavy Mech Support Platform","date":1100908800000}}
+{
+    "id": 23265594,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 1057,
+    "atk": 500,
+    "def": 500,
+    "level": 3,
+    "race": 32,
+    "attribute": 32,
+    "category": 17833984,
+    "name": "Heavy Mech Support Platform",
+    "desc": "Once per turn, you can either: Target 1 Machine-Type monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card gains 500 ATK and DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 23265594,
+        "pack_id": "RDS-JP011",
+        "pack": "RDS",
+        "rarity": "Heavy Mech Support Platform",
+        "date": 1091664000000
+    },
+    "tcg": {
+        "id": 23265594,
+        "pack_id": "RDS-EN011",
+        "pack": "RDS",
+        "rarity": "Heavy Mech Support Platform",
+        "date": 1100908800000
+    }
+}

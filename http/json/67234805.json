@@ -1,1 +1,47 @@
-{"id":67234805,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":-2080374784,"name":"Powersink Stone","desc":"Each time a monster effect is activated, place 1 Spellstone Counter on this card (max. 2). While this card has 2 Spellstone Counters, face-up monsters on the field cannot activate their effects, and their effects are negated. During each End Phase, remove all Spellstone Counters on this card.","str1":"去除指示物","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":67234805,"pack_id":"STBL-JP078","pack":"STBL","rarity":"Powersink Stone","date":1279324800000},"tcg":{"id":67234805,"pack_id":"STBL-EN078","pack":"STBL","rarity":"Powersink Stone","date":1289001600000}}
+{
+    "id": 67234805,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": -2080374784,
+    "name": "Powersink Stone",
+    "desc": "Each time a monster effect is activated, place 1 Spellstone Counter on this card (max. 2). While this card has 2 Spellstone Counters, face-up monsters on the field cannot activate their effects, and their effects are negated. During each End Phase, remove all Spellstone Counters on this card.",
+    "str1": "去除指示物",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 67234805,
+        "pack_id": "STBL-JP078",
+        "pack": "STBL",
+        "rarity": "Powersink Stone",
+        "date": 1279324800000
+    },
+    "tcg": {
+        "id": 67234805,
+        "pack_id": "STBL-EN078",
+        "pack": "STBL",
+        "rarity": "Powersink Stone",
+        "date": 1289001600000
+    }
+}

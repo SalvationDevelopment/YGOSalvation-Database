@@ -1,1 +1,47 @@
-{"id":39512984,"ot":3,"alias":0,"setcode":4167,"type":97,"atk":2900,"def":2500,"level":9,"race":256,"attribute":1,"category":8192,"name":"Gem-Knight Master Diamond","desc":"3 \"Gem-Knight\" monsters\nMust first be Fusion Summoned. This card gains 100 ATK for each \"Gem-\" monster in your Graveyard. Once per turn: You can banish 1 Level 7 or lower \"Gem-Knight\" Fusion Monster from your Graveyard; until the End Phase, this card's name becomes that monster's, and replace this effect with that monster's original effects.","str1":"获得效果","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":39512984,"pack_id":"DT14-JP033","pack":"DT14","rarity":"Gem-Knight Master Diamond","date":1327363200000},"tcg":{"id":39512984,"pack_id":"DT07-EN083","pack":"DT07","rarity":"Gem-Knight Master Diamond","date":1359676800000}}
+{
+    "id": 39512984,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4167,
+    "type": 97,
+    "atk": 2900,
+    "def": 2500,
+    "level": 9,
+    "race": 256,
+    "attribute": 1,
+    "category": 8192,
+    "name": "Gem-Knight Master Diamond",
+    "desc": "3 \"Gem-Knight\" monsters\nMust first be Fusion Summoned. This card gains 100 ATK for each \"Gem-\" monster in your Graveyard. Once per turn: You can banish 1 Level 7 or lower \"Gem-Knight\" Fusion Monster from your Graveyard; until the End Phase, this card's name becomes that monster's, and replace this effect with that monster's original effects.",
+    "str1": "获得效果",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 39512984,
+        "pack_id": "DT14-JP033",
+        "pack": "DT14",
+        "rarity": "Gem-Knight Master Diamond",
+        "date": 1327363200000
+    },
+    "tcg": {
+        "id": 39512984,
+        "pack_id": "DT07-EN083",
+        "pack": "DT07",
+        "rarity": "Gem-Knight Master Diamond",
+        "date": 1359676800000
+    }
+}

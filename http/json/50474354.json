@@ -1,1 +1,47 @@
-{"id":50474354,"ot":3,"alias":0,"setcode":136,"type":33,"atk":1800,"def":700,"level":4,"race":512,"attribute":16,"category":0,"name":"Bujingi Peacock","desc":"During your Main Phase 2: You can send this card from your hand to the Graveyard; add 1 \"Bujin\" monster from your Deck to your hand. You cannot activate cards or effects the turn you activate this effect, except \"Bujin\" cards. You can only use the effect of \"Bujingi Peacock\" once per turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":50474354,"pack_id":"LVAL-JP027","pack":"LVAL","rarity":"Bujingi Peacock","date":1384560000000},"tcg":{"id":50474354,"pack_id":"LVAL-EN027","pack":"LVAL","rarity":"Bujingi Peacock","date":1390521600000}}
+{
+    "id": 50474354,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 136,
+    "type": 33,
+    "atk": 1800,
+    "def": 700,
+    "level": 4,
+    "race": 512,
+    "attribute": 16,
+    "category": 0,
+    "name": "Bujingi Peacock",
+    "desc": "During your Main Phase 2: You can send this card from your hand to the Graveyard; add 1 \"Bujin\" monster from your Deck to your hand. You cannot activate cards or effects the turn you activate this effect, except \"Bujin\" cards. You can only use the effect of \"Bujingi Peacock\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 50474354,
+        "pack_id": "LVAL-JP027",
+        "pack": "LVAL",
+        "rarity": "Bujingi Peacock",
+        "date": 1384560000000
+    },
+    "tcg": {
+        "id": 50474354,
+        "pack_id": "LVAL-EN027",
+        "pack": "LVAL",
+        "rarity": "Bujingi Peacock",
+        "date": 1390521600000
+    }
+}

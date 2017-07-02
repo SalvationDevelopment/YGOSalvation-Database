@@ -1,1 +1,47 @@
-{"id":48092532,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1800,"def":200,"level":4,"race":1,"attribute":32,"category":262144,"name":"D.D. Survivor","desc":"During the End Phase, if this card was banished while face-up, on your side of the field, this turn: Special Summon this banished card. This effect can only activate once per turn.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":48092532,"pack_id":"TLM-JP023","pack":"TLM","rarity":"D.D. Survivor","date":1134000000000},"tcg":{"id":48092532,"pack_id":"TLM-EN023","pack":"TLM","rarity":"D.D. Survivor","date":1117238400000}}
+{
+    "id": 48092532,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1800,
+    "def": 200,
+    "level": 4,
+    "race": 1,
+    "attribute": 32,
+    "category": 262144,
+    "name": "D.D. Survivor",
+    "desc": "During the End Phase, if this card was banished while face-up, on your side of the field, this turn: Special Summon this banished card. This effect can only activate once per turn.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 48092532,
+        "pack_id": "TLM-JP023",
+        "pack": "TLM",
+        "rarity": "D.D. Survivor",
+        "date": 1134000000000
+    },
+    "tcg": {
+        "id": 48092532,
+        "pack_id": "TLM-EN023",
+        "pack": "TLM",
+        "rarity": "D.D. Survivor",
+        "date": 1117238400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":42682609,"ot":3,"alias":0,"setcode":30,"type":33,"atk":400,"def":600,"level":2,"race":131072,"attribute":2,"category":262144,"name":"Chrysalis Dolphin","desc":"By Tributing this card while \"Neo Space\" is on the field, Special Summon 1 \"Neo-Spacian Aqua Dolphin\" from your hand or Deck.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":42682609,"pack_id":"POTD-JP006","pack":"POTD","rarity":"Chrysalis Dolphin","date":1147910400000},"tcg":{"id":42682609,"pack_id":"POTD-EN006","pack":"POTD","rarity":"Chrysalis Dolphin","date":1155686400000}}
+{
+    "id": 42682609,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 30,
+    "type": 33,
+    "atk": 400,
+    "def": 600,
+    "level": 2,
+    "race": 131072,
+    "attribute": 2,
+    "category": 262144,
+    "name": "Chrysalis Dolphin",
+    "desc": "By Tributing this card while \"Neo Space\" is on the field, Special Summon 1 \"Neo-Spacian Aqua Dolphin\" from your hand or Deck.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 42682609,
+        "pack_id": "POTD-JP006",
+        "pack": "POTD",
+        "rarity": "Chrysalis Dolphin",
+        "date": 1147910400000
+    },
+    "tcg": {
+        "id": 42682609,
+        "pack_id": "POTD-EN006",
+        "pack": "POTD",
+        "rarity": "Chrysalis Dolphin",
+        "date": 1155686400000
+    }
+}

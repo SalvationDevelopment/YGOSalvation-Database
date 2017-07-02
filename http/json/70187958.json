@@ -1,1 +1,47 @@
-{"id":70187958,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1100,"def":300,"level":2,"race":16384,"attribute":1,"category":1310720,"name":"Dark Desertapir","desc":"When this card is removed from play, you can select 1 Level 4 or lower Beast-Type monster in your Graveyard and Special Summon it.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":70187958,"pack_id":"EXP4-JP015","pack":"EXP4","rarity":"Dark Desertapir","date":1316217600000},"tcg":{"id":70187958,"pack_id":"DREV-EN084","pack":"DREV","rarity":"Dark Desertapir","date":1281139200000}}
+{
+    "id": 70187958,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1100,
+    "def": 300,
+    "level": 2,
+    "race": 16384,
+    "attribute": 1,
+    "category": 1310720,
+    "name": "Dark Desertapir",
+    "desc": "When this card is removed from play, you can select 1 Level 4 or lower Beast-Type monster in your Graveyard and Special Summon it.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 70187958,
+        "pack_id": "EXP4-JP015",
+        "pack": "EXP4",
+        "rarity": "Dark Desertapir",
+        "date": 1316217600000
+    },
+    "tcg": {
+        "id": 70187958,
+        "pack_id": "DREV-EN084",
+        "pack": "DREV",
+        "rarity": "Dark Desertapir",
+        "date": 1281139200000
+    }
+}

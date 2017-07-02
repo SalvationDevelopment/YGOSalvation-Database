@@ -1,1 +1,47 @@
-{"id":97590747,"ot":3,"alias":0,"setcode":0,"type":17,"atk":1800,"def":1000,"level":4,"race":8,"attribute":32,"category":0,"name":"La Jinn the Mystical Genie of the Lamp","desc":"A genie of the lamp that is at the beck and call of its master.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":97590747,"pack_id":"B2-20","pack":"B2","rarity":"La Jinn the Mystical Genie of the Lamp","date":935625600000},"tcg":{"id":97590747,"pack_id":"SDK-026","pack":"SDK","rarity":"La Jinn the Mystical Genie of the Lamp","date":1017360000000}}
+{
+    "id": 97590747,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 17,
+    "atk": 1800,
+    "def": 1000,
+    "level": 4,
+    "race": 8,
+    "attribute": 32,
+    "category": 0,
+    "name": "La Jinn the Mystical Genie of the Lamp",
+    "desc": "A genie of the lamp that is at the beck and call of its master.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 97590747,
+        "pack_id": "B2-20",
+        "pack": "B2",
+        "rarity": "La Jinn the Mystical Genie of the Lamp",
+        "date": 935625600000
+    },
+    "tcg": {
+        "id": 97590747,
+        "pack_id": "SDK-026",
+        "pack": "SDK",
+        "rarity": "La Jinn the Mystical Genie of the Lamp",
+        "date": 1017360000000
+    }
+}

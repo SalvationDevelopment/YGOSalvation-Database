@@ -1,1 +1,47 @@
-{"id":2099841,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Smile World","desc":"All face-up monsters currently on the field gain 100 ATK for each monster currently on the field, until the end of this turn.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":2099841,"pack_id":"AT12-JP003","pack":"AT12","rarity":"Smile World","date":1443657600000},"tcg":{"id":2099841,"pack_id":"YS16-EN022","pack":"YS16","rarity":"Smile World","date":1464220800000}}
+{
+    "id": 2099841,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Smile World",
+    "desc": "All face-up monsters currently on the field gain 100 ATK for each monster currently on the field, until the end of this turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 2099841,
+        "pack_id": "AT12-JP003",
+        "pack": "AT12",
+        "rarity": "Smile World",
+        "date": 1443657600000
+    },
+    "tcg": {
+        "id": 2099841,
+        "pack_id": "YS16-EN022",
+        "pack": "YS16",
+        "rarity": "Smile World",
+        "date": 1464220800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":55991637,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4194306,"name":"Dragon's Gunfire","desc":"If you control a Dragon-Type monster: Activate 1 of these effects.\n● Inflict 800 damage to your opponent.\n● Target 1 monster with 800 or less DEF; destroy that target.","str1":"Inflict 800 damage to your opponent.","str2":"Select 1 face-up monster with 800 or less DEF, and destroy it.","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":55991637,"pack_id":"SC-45","pack":"SC","rarity":"Dragon's Gunfire","date":1000944000000},"tcg":{"id":55991637,"pack_id":"LOD-045","pack":"LOD","rarity":"Dragon's Gunfire","date":1054857600000}}
+{
+    "id": 55991637,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4194306,
+    "name": "Dragon's Gunfire",
+    "desc": "If you control a Dragon-Type monster: Activate 1 of these effects.\n● Inflict 800 damage to your opponent.\n● Target 1 monster with 800 or less DEF; destroy that target.",
+    "str1": "Inflict 800 damage to your opponent.",
+    "str2": "Select 1 face-up monster with 800 or less DEF, and destroy it.",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 55991637,
+        "pack_id": "SC-45",
+        "pack": "SC",
+        "rarity": "Dragon's Gunfire",
+        "date": 1000944000000
+    },
+    "tcg": {
+        "id": 55991637,
+        "pack_id": "LOD-045",
+        "pack": "LOD",
+        "rarity": "Dragon's Gunfire",
+        "date": 1054857600000
+    }
+}

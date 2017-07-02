@@ -1,1 +1,47 @@
-{"id":50608164,"ot":3,"alias":0,"setcode":40968,"type":97,"atk":2500,"def":1800,"level":8,"race":1,"attribute":16,"category":0,"name":"Masked HERO Koga","desc":"Must be Special Summoned with \"Mask Change\" and cannot be Special Summoned by other ways. This card gains 500 ATK for each monster your opponent controls. Once per turn, during either player's turn: You can banish 1 \"HERO\" monster from your Graveyard, then target 1 face-up monster on the field; that target loses ATK equal to the ATK of the monster banished to activate this effect, until the end of this turn.","str1":"Banish a HERO Monster? ","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":50608164,"pack_id":"SD27-JP042","pack":"SD27","rarity":"Masked HERO Koga","date":1403308800000},"tcg":{"id":50608164,"pack_id":"SDHS-EN042","pack":"SDHS","rarity":"Masked HERO Koga","date":1422489600000}}
+{
+    "id": 50608164,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 40968,
+    "type": 97,
+    "atk": 2500,
+    "def": 1800,
+    "level": 8,
+    "race": 1,
+    "attribute": 16,
+    "category": 0,
+    "name": "Masked HERO Koga",
+    "desc": "Must be Special Summoned with \"Mask Change\" and cannot be Special Summoned by other ways. This card gains 500 ATK for each monster your opponent controls. Once per turn, during either player's turn: You can banish 1 \"HERO\" monster from your Graveyard, then target 1 face-up monster on the field; that target loses ATK equal to the ATK of the monster banished to activate this effect, until the end of this turn.",
+    "str1": "Banish a HERO Monster? ",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 50608164,
+        "pack_id": "SD27-JP042",
+        "pack": "SD27",
+        "rarity": "Masked HERO Koga",
+        "date": 1403308800000
+    },
+    "tcg": {
+        "id": 50608164,
+        "pack_id": "SDHS-EN042",
+        "pack": "SDHS",
+        "rarity": "Masked HERO Koga",
+        "date": 1422489600000
+    }
+}

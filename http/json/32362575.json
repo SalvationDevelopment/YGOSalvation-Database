@@ -1,1 +1,47 @@
-{"id":32362575,"ot":3,"alias":0,"setcode":110,"type":2097185,"atk":200,"def":700,"level":1,"race":2048,"attribute":16,"category":256,"name":"Magical Merchant","desc":"FLIP: Excavate cards from the top of your Deck until you excavate a Spell/Trap Card. Add that card to your hand, also send the remaining cards to the Graveyard.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":32362575,"pack_id":"303-025","pack":"303","rarity":"Magical Merchant","date":1032393600000},"tcg":{"id":32362575,"pack_id":"MFC-079","pack":"MFC","rarity":"Magical Merchant","date":1065744000000}}
+{
+    "id": 32362575,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 110,
+    "type": 2097185,
+    "atk": 200,
+    "def": 700,
+    "level": 1,
+    "race": 2048,
+    "attribute": 16,
+    "category": 256,
+    "name": "Magical Merchant",
+    "desc": "FLIP: Excavate cards from the top of your Deck until you excavate a Spell/Trap Card. Add that card to your hand, also send the remaining cards to the Graveyard.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 32362575,
+        "pack_id": "303-025",
+        "pack": "303",
+        "rarity": "Magical Merchant",
+        "date": 1032393600000
+    },
+    "tcg": {
+        "id": 32362575,
+        "pack_id": "MFC-079",
+        "pack": "MFC",
+        "rarity": "Magical Merchant",
+        "date": 1065744000000
+    }
+}

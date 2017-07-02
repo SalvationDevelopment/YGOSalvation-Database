@@ -1,1 +1,47 @@
-{"id":37744402,"ot":3,"alias":0,"setcode":191,"type":2097185,"atk":500,"def":1500,"level":3,"race":2,"attribute":8,"category":2101248,"name":"Wynn the Wind Charmer","desc":"FLIP: While this card is face-up on the field, take control of 1 WIND monster your opponent controls.","str1":"Take control of 1 opponent WIND monster","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":37744402,"pack_id":"TLM-JP029","pack":"TLM","rarity":"Wynn the Wind Charmer","date":1134000000000},"tcg":{"id":37744402,"pack_id":"TLM-EN029","pack":"TLM","rarity":"Wynn the Wind Charmer","date":1117238400000}}
+{
+    "id": 37744402,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 191,
+    "type": 2097185,
+    "atk": 500,
+    "def": 1500,
+    "level": 3,
+    "race": 2,
+    "attribute": 8,
+    "category": 2101248,
+    "name": "Wynn the Wind Charmer",
+    "desc": "FLIP: While this card is face-up on the field, take control of 1 WIND monster your opponent controls.",
+    "str1": "Take control of 1 opponent WIND monster",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 37744402,
+        "pack_id": "TLM-JP029",
+        "pack": "TLM",
+        "rarity": "Wynn the Wind Charmer",
+        "date": 1134000000000
+    },
+    "tcg": {
+        "id": 37744402,
+        "pack_id": "TLM-EN029",
+        "pack": "TLM",
+        "rarity": "Wynn the Wind Charmer",
+        "date": 1117238400000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":97949165,"ot":1,"alias":0,"setcode":247,"type":33,"atk":100,"def":100,"level":1,"race":512,"attribute":8,"category":0,"name":"Lyrilusc - Turquoise Warbler","desc":"If you control no monsters, you can Special Summon this card (from your hand). If this card is Special Summoned from the hand: You can Special Summon 1 \"Lyrilusc\" monster from your hand or Graveyard. You can only use this effect of \"Lyrilusc - Turquoise Warbler\" once per turn.","str1":"Special Summon \"Lyrilusc","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG","ocg":{"id":97949165,"pack_id":"MACR-JP014","pack":"MACR","rarity":"Lyrilusc - Turquoise Warbler","date":1484352000000},"tcg":{"id":97949165,"pack_id":"MACR-EN014","pack":"MACR","rarity":"Lyrilusc - Turquoise Warbler","date":1493856000000}}
+{
+    "id": 97949165,
+    "ot": 1,
+    "alias": 0,
+    "setcode": 247,
+    "type": 33,
+    "atk": 100,
+    "def": 100,
+    "level": 1,
+    "race": 512,
+    "attribute": 8,
+    "category": 0,
+    "name": "Lyrilusc - Turquoise Warbler",
+    "desc": "If you control no monsters, you can Special Summon this card (from your hand). If this card is Special Summoned from the hand: You can Special Summon 1 \"Lyrilusc\" monster from your hand or Graveyard. You can only use this effect of \"Lyrilusc - Turquoise Warbler\" once per turn.",
+    "str1": "Special Summon \"Lyrilusc",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG",
+    "ocg": {
+        "id": 97949165,
+        "pack_id": "MACR-JP014",
+        "pack": "MACR",
+        "rarity": "Lyrilusc - Turquoise Warbler",
+        "date": 1484352000000
+    },
+    "tcg": {
+        "id": 97949165,
+        "pack_id": "MACR-EN014",
+        "pack": "MACR",
+        "rarity": "Lyrilusc - Turquoise Warbler",
+        "date": 1493856000000
+    }
+}

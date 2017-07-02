@@ -1,1 +1,47 @@
-{"id":39967326,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":262144,"name":"Revival of the Immortals","desc":"Target 1 \"Earthbound Immortal\" monster in your Graveyard; Special Summon it, but it cannot declare an attack this turn, also your opponent takes no battle damage from attacks involving it.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":39967326,"pack_id":"EXP3-JP020","pack":"EXP3","rarity":"Revival of the Immortals","date":1284768000000},"tcg":{"id":39967326,"pack_id":"ANPR-EN089","pack":"ANPR","rarity":"Revival of the Immortals","date":1251763200000}}
+{
+    "id": 39967326,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 262144,
+    "name": "Revival of the Immortals",
+    "desc": "Target 1 \"Earthbound Immortal\" monster in your Graveyard; Special Summon it, but it cannot declare an attack this turn, also your opponent takes no battle damage from attacks involving it.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 39967326,
+        "pack_id": "EXP3-JP020",
+        "pack": "EXP3",
+        "rarity": "Revival of the Immortals",
+        "date": 1284768000000
+    },
+    "tcg": {
+        "id": 39967326,
+        "pack_id": "ANPR-EN089",
+        "pack": "ANPR",
+        "rarity": "Revival of the Immortals",
+        "date": 1251763200000
+    }
+}

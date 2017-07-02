@@ -1,1 +1,47 @@
-{"id":55428811,"ot":3,"alias":0,"setcode":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":288,"name":"Fifth Hope","desc":"Target 5 \"Elemental HERO\" cards in your Graveyard; shuffle them into the Deck, then draw 2 cards (draw 3 cards instead, if you had no other cards on your side of the field and in your hand when you activated this card).","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":55428811,"pack_id":"TAEV-JP045","pack":"TAEV","rarity":"Fifth Hope","date":1178928000000},"tcg":{"id":55428811,"pack_id":"TAEV-EN045","pack":"TAEV","rarity":"Fifth Hope","date":1187136000000}}
+{
+    "id": 55428811,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 288,
+    "name": "Fifth Hope",
+    "desc": "Target 5 \"Elemental HERO\" cards in your Graveyard; shuffle them into the Deck, then draw 2 cards (draw 3 cards instead, if you had no other cards on your side of the field and in your hand when you activated this card).",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 55428811,
+        "pack_id": "TAEV-JP045",
+        "pack": "TAEV",
+        "rarity": "Fifth Hope",
+        "date": 1178928000000
+    },
+    "tcg": {
+        "id": 55428811,
+        "pack_id": "TAEV-EN045",
+        "pack": "TAEV",
+        "rarity": "Fifth Hope",
+        "date": 1187136000000
+    }
+}

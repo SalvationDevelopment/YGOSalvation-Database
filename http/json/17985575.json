@@ -1,1 +1,47 @@
-{"id":17985575,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1200,"def":1100,"level":4,"race":2,"attribute":32,"category":34603008,"name":"Lord of D.","desc":"Dragon-Type monsters on the field cannot be targeted by card effects.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":17985575,"pack_id":"EX-84","pack":"EX","rarity":"Lord of D.","date":945302400000},"tcg":{"id":17985575,"pack_id":"SDK-041","pack":"SDK","rarity":"Lord of D.","date":1017360000000}}
+{
+    "id": 17985575,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1200,
+    "def": 1100,
+    "level": 4,
+    "race": 2,
+    "attribute": 32,
+    "category": 34603008,
+    "name": "Lord of D.",
+    "desc": "Dragon-Type monsters on the field cannot be targeted by card effects.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 17985575,
+        "pack_id": "EX-84",
+        "pack": "EX",
+        "rarity": "Lord of D.",
+        "date": 945302400000
+    },
+    "tcg": {
+        "id": 17985575,
+        "pack_id": "SDK-041",
+        "pack": "SDK",
+        "rarity": "Lord of D.",
+        "date": 1017360000000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":23649496,"ot":3,"alias":0,"setcode":4718592,"type":8388641,"atk":2200,"def":2200,"level":4,"race":1048576,"attribute":16,"category":0,"name":"Number 18: Heraldry Patriarch","desc":"2 Level 4 monsters\nOnce per Chain, during either player's turn, if 2 or more monsters with the same name are on the field: You can detach 1 Xyz Material from this card; choose 1 monster among those with the same name, and destroy all other monsters with that name. While this card remains face-up on the field, your opponent cannot Summon monsters with the same name as any of the monster(s) chosen for this card's effect. If this card is sent to the Graveyard: You can send 2 \"Heraldic Beast\" monsters from your Deck to the Graveyard.","str1":"Activate effect?","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":23649496,"pack_id":"LVAL-JP084","pack":"LVAL","rarity":"Number 18: Heraldry Patriarch","date":1384560000000},"tcg":{"id":23649496,"pack_id":"WSUP-EN004","pack":"WSUP","rarity":"Number 18: Heraldry Patriarch","date":1429142400000}}
+{
+    "id": 23649496,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4718592,
+    "type": 8388641,
+    "atk": 2200,
+    "def": 2200,
+    "level": 4,
+    "race": 1048576,
+    "attribute": 16,
+    "category": 0,
+    "name": "Number 18: Heraldry Patriarch",
+    "desc": "2 Level 4 monsters\nOnce per Chain, during either player's turn, if 2 or more monsters with the same name are on the field: You can detach 1 Xyz Material from this card; choose 1 monster among those with the same name, and destroy all other monsters with that name. While this card remains face-up on the field, your opponent cannot Summon monsters with the same name as any of the monster(s) chosen for this card's effect. If this card is sent to the Graveyard: You can send 2 \"Heraldic Beast\" monsters from your Deck to the Graveyard.",
+    "str1": "Activate effect?",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 23649496,
+        "pack_id": "LVAL-JP084",
+        "pack": "LVAL",
+        "rarity": "Number 18: Heraldry Patriarch",
+        "date": 1384560000000
+    },
+    "tcg": {
+        "id": 23649496,
+        "pack_id": "WSUP-EN004",
+        "pack": "WSUP",
+        "rarity": "Number 18: Heraldry Patriarch",
+        "date": 1429142400000
+    }
+}

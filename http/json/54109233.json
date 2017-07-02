@@ -1,1 +1,47 @@
-{"id":54109233,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":2,"name":"Infinite Dismissal","desc":"Level 3 or lower monsters are destroyed during the End Phase of the turn that they are Normal Summoned or Flip Summoned.","str1":"Destroy","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":54109233,"pack_id":"TB-22","pack":"TB","rarity":"Infinite Dismissal","date":976752000000},"tcg":{"id":54109233,"pack_id":"PSV-072","pack":"PSV","rarity":"Infinite Dismissal","date":1035072000000}}
+{
+    "id": 54109233,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 2,
+    "name": "Infinite Dismissal",
+    "desc": "Level 3 or lower monsters are destroyed during the End Phase of the turn that they are Normal Summoned or Flip Summoned.",
+    "str1": "Destroy",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 54109233,
+        "pack_id": "TB-22",
+        "pack": "TB",
+        "rarity": "Infinite Dismissal",
+        "date": 976752000000
+    },
+    "tcg": {
+        "id": 54109233,
+        "pack_id": "PSV-072",
+        "pack": "PSV",
+        "rarity": "Infinite Dismissal",
+        "date": 1035072000000
+    }
+}

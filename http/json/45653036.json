@@ -1,1 +1,47 @@
-{"id":45653036,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":4194307,"name":"Rain Storm","desc":"Select 1 \"Cloudian\" monster you control. Reduce that monster's ATK by 1000 or 2000 and apply the appropriate effect:\n● 1000 points: Destroy 1 Spell or Trap Card your opponent controls.\n● 2000 points: Destroy 2 cards your opponent controls.","str1":"Reduce ATK by 1000","str2":"Reduce ATK by 2000","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":45653036,"pack_id":"GLAS-JP066","pack":"GLAS","rarity":"Rain Storm","date":1184976000000},"tcg":{"id":45653036,"pack_id":"GLAS-EN066","pack":"GLAS","rarity":"Rain Storm","date":1194998400000}}
+{
+    "id": 45653036,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 4194307,
+    "name": "Rain Storm",
+    "desc": "Select 1 \"Cloudian\" monster you control. Reduce that monster's ATK by 1000 or 2000 and apply the appropriate effect:\n● 1000 points: Destroy 1 Spell or Trap Card your opponent controls.\n● 2000 points: Destroy 2 cards your opponent controls.",
+    "str1": "Reduce ATK by 1000",
+    "str2": "Reduce ATK by 2000",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 45653036,
+        "pack_id": "GLAS-JP066",
+        "pack": "GLAS",
+        "rarity": "Rain Storm",
+        "date": 1184976000000
+    },
+    "tcg": {
+        "id": 45653036,
+        "pack_id": "GLAS-EN066",
+        "pack": "GLAS",
+        "rarity": "Rain Storm",
+        "date": 1194998400000
+    }
+}

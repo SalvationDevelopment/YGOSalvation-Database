@@ -1,1 +1,47 @@
-{"id":17189532,"ot":3,"alias":0,"setcode":107,"type":33,"atk":2400,"def":1200,"level":6,"race":1,"attribute":32,"category":512,"name":"Phantom Bounzer","desc":"If this card on the field is destroyed and sent to the Graveyard: You can add 2 \"Bounzer\" cards from your Deck to your hand.","str1":"Search","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":17189532,"pack_id":"GAOV-JP011","pack":"GAOV","rarity":"Phantom Bounzer","date":1329523200000},"tcg":{"id":17189532,"pack_id":"GAOV-EN011","pack":"GAOV","rarity":"Phantom Bounzer","date":1335571200000}}
+{
+    "id": 17189532,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 107,
+    "type": 33,
+    "atk": 2400,
+    "def": 1200,
+    "level": 6,
+    "race": 1,
+    "attribute": 32,
+    "category": 512,
+    "name": "Phantom Bounzer",
+    "desc": "If this card on the field is destroyed and sent to the Graveyard: You can add 2 \"Bounzer\" cards from your Deck to your hand.",
+    "str1": "Search",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 17189532,
+        "pack_id": "GAOV-JP011",
+        "pack": "GAOV",
+        "rarity": "Phantom Bounzer",
+        "date": 1329523200000
+    },
+    "tcg": {
+        "id": 17189532,
+        "pack_id": "GAOV-EN011",
+        "pack": "GAOV",
+        "rarity": "Phantom Bounzer",
+        "date": 1335571200000
+    }
+}

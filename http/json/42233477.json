@@ -1,1 +1,47 @@
-{"id":42233477,"ot":3,"alias":0,"setcode":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Battleguard Rage","desc":"Activate this card by targeting 1 Warrior-Type monster you control. It gains 1000 ATK. Monsters destroyed by battle with it are returned to the hand instead of going to the Graveyard. When that monster leaves the field, destroy this card.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":42233477,"pack_id":"DUEA-JP068","pack":"DUEA","rarity":"Battleguard Rage","date":1397865600000},"tcg":{"id":42233477,"pack_id":"DUEA-EN068","pack":"DUEA","rarity":"Battleguard Rage","date":1407974400000}}
+{
+    "id": 42233477,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131076,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Battleguard Rage",
+    "desc": "Activate this card by targeting 1 Warrior-Type monster you control. It gains 1000 ATK. Monsters destroyed by battle with it are returned to the hand instead of going to the Graveyard. When that monster leaves the field, destroy this card.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 42233477,
+        "pack_id": "DUEA-JP068",
+        "pack": "DUEA",
+        "rarity": "Battleguard Rage",
+        "date": 1397865600000
+    },
+    "tcg": {
+        "id": 42233477,
+        "pack_id": "DUEA-EN068",
+        "pack": "DUEA",
+        "rarity": "Battleguard Rage",
+        "date": 1407974400000
+    }
+}

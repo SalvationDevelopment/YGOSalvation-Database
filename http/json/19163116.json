@@ -1,1 +1,47 @@
-{"id":19163116,"ot":3,"alias":0,"setcode":4167,"type":33,"atk":1500,"def":1200,"level":3,"race":256,"attribute":1,"category":263168,"name":"Gem-Knight Obsidian","desc":"If this card is sent from the hand to your Graveyard: You can target 1 Level 4 or lower Normal Monster in your Graveyard; Special Summon that target.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":19163116,"pack_id":"DT12-JP017","pack":"DT12","rarity":"Gem-Knight Obsidian","date":1301616000000},"tcg":{"id":19163116,"pack_id":"DT06-EN067","pack":"DT06","rarity":"Gem-Knight Obsidian","date":1337904000000}}
+{
+    "id": 19163116,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4167,
+    "type": 33,
+    "atk": 1500,
+    "def": 1200,
+    "level": 3,
+    "race": 256,
+    "attribute": 1,
+    "category": 263168,
+    "name": "Gem-Knight Obsidian",
+    "desc": "If this card is sent from the hand to your Graveyard: You can target 1 Level 4 or lower Normal Monster in your Graveyard; Special Summon that target.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 19163116,
+        "pack_id": "DT12-JP017",
+        "pack": "DT12",
+        "rarity": "Gem-Knight Obsidian",
+        "date": 1301616000000
+    },
+    "tcg": {
+        "id": 19163116,
+        "pack_id": "DT06-EN067",
+        "pack": "DT06",
+        "rarity": "Gem-Knight Obsidian",
+        "date": 1337904000000
+    }
+}

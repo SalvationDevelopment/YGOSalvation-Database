@@ -1,1 +1,47 @@
-{"id":84968490,"ot":3,"alias":0,"setcode":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":128,"name":"Needlebug Nest","desc":"Send the top 5 cards of your Deck to the Graveyard.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":84968490,"pack_id":"TDGS-JP079","pack":"TDGS","rarity":"Needlebug Nest","date":1208563200000},"tcg":{"id":84968490,"pack_id":"TDGS-EN079","pack":"TDGS","rarity":"Needlebug Nest","date":1218240000000}}
+{
+    "id": 84968490,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 4,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 128,
+    "name": "Needlebug Nest",
+    "desc": "Send the top 5 cards of your Deck to the Graveyard.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 84968490,
+        "pack_id": "TDGS-JP079",
+        "pack": "TDGS",
+        "rarity": "Needlebug Nest",
+        "date": 1208563200000
+    },
+    "tcg": {
+        "id": 84968490,
+        "pack_id": "TDGS-EN079",
+        "pack": "TDGS",
+        "rarity": "Needlebug Nest",
+        "date": 1218240000000
+    }
+}

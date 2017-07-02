@@ -1,1 +1,47 @@
-{"id":40320754,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1500,"def":1000,"level":4,"race":1024,"attribute":2,"category":262144,"name":"Lord Poison","desc":"If this card is destroyed by battle and sent to the Graveyard: Target 1 Plant-Type monster in your Graveyard, except \"Lord Poison\"; Special Summon that target.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":40320754,"pack_id":"306-028","pack":"306","rarity":"Lord Poison","date":1051142400000},"tcg":{"id":40320754,"pack_id":"IOC-028","pack":"IOC","rarity":"Lord Poison","date":1078099200000}}
+{
+    "id": 40320754,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1500,
+    "def": 1000,
+    "level": 4,
+    "race": 1024,
+    "attribute": 2,
+    "category": 262144,
+    "name": "Lord Poison",
+    "desc": "If this card is destroyed by battle and sent to the Graveyard: Target 1 Plant-Type monster in your Graveyard, except \"Lord Poison\"; Special Summon that target.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 40320754,
+        "pack_id": "306-028",
+        "pack": "306",
+        "rarity": "Lord Poison",
+        "date": 1051142400000
+    },
+    "tcg": {
+        "id": 40320754,
+        "pack_id": "IOC-028",
+        "pack": "IOC",
+        "rarity": "Lord Poison",
+        "date": 1078099200000
+    }
+}

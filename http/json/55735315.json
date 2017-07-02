@@ -1,1 +1,47 @@
-{"id":55735315,"ot":3,"alias":0,"setcode":0,"type":33,"atk":4000,"def":0,"level":8,"race":8192,"attribute":16,"category":8192,"name":"Soul Drain Dragon","desc":"Cannot be Normal Summoned/Set. Must be Special Summoned by a Dragon-Type Xyz Monster's effect in your possession, and cannot be Special Summoned by other ways. When Special Summoned, if your Life Points are lower than your opponent's: This card gains ATK equal to your current Life Point deficit, and if it does, your opponent takes no further damage this turn. This card cannot attack your opponent directly.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":55735315,"pack_id":"SHSP-JP013","pack":"SHSP","rarity":"Soul Drain Dragon","date":1374278400000},"tcg":{"id":55735315,"pack_id":"SHSP-EN013","pack":"SHSP","rarity":"Soul Drain Dragon","date":1383868800000}}
+{
+    "id": 55735315,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 4000,
+    "def": 0,
+    "level": 8,
+    "race": 8192,
+    "attribute": 16,
+    "category": 8192,
+    "name": "Soul Drain Dragon",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by a Dragon-Type Xyz Monster's effect in your possession, and cannot be Special Summoned by other ways. When Special Summoned, if your Life Points are lower than your opponent's: This card gains ATK equal to your current Life Point deficit, and if it does, your opponent takes no further damage this turn. This card cannot attack your opponent directly.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 55735315,
+        "pack_id": "SHSP-JP013",
+        "pack": "SHSP",
+        "rarity": "Soul Drain Dragon",
+        "date": 1374278400000
+    },
+    "tcg": {
+        "id": 55735315,
+        "pack_id": "SHSP-EN013",
+        "pack": "SHSP",
+        "rarity": "Soul Drain Dragon",
+        "date": 1383868800000
+    }
+}

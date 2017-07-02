@@ -1,1 +1,47 @@
-{"id":10248389,"ot":3,"alias":0,"setcode":147,"type":97,"atk":2100,"def":800,"level":7,"race":1,"attribute":1,"category":-2130698240,"name":"Cyber Blader","desc":"\"Etoile Cyber\" + \"Blade Skater\"\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. While your opponent controls only 1 monster, this card cannot be destroyed by battle. While your opponent controls only 2 monsters, double this card's ATK. While your opponent controls only 3 monsters, negate the effects of your opponent's Spell, Trap, and Effect Monsters.","str1":"","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":10248389,"pack_id":"EEN-JP032","pack":"EEN","rarity":"Cyber Blader","date":1123718400000},"tcg":{"id":10248389,"pack_id":"EEN-EN032","pack":"EEN","rarity":"Cyber Blader","date":1131148800000}}
+{
+    "id": 10248389,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 147,
+    "type": 97,
+    "atk": 2100,
+    "def": 800,
+    "level": 7,
+    "race": 1,
+    "attribute": 1,
+    "category": -2130698240,
+    "name": "Cyber Blader",
+    "desc": "\"Etoile Cyber\" + \"Blade Skater\"\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. While your opponent controls only 1 monster, this card cannot be destroyed by battle. While your opponent controls only 2 monsters, double this card's ATK. While your opponent controls only 3 monsters, negate the effects of your opponent's Spell, Trap, and Effect Monsters.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 10248389,
+        "pack_id": "EEN-JP032",
+        "pack": "EEN",
+        "rarity": "Cyber Blader",
+        "date": 1123718400000
+    },
+    "tcg": {
+        "id": 10248389,
+        "pack_id": "EEN-EN032",
+        "pack": "EEN",
+        "rarity": "Cyber Blader",
+        "date": 1131148800000
+    }
+}

@@ -1,1 +1,47 @@
-{"id":70245411,"ot":3,"alias":0,"setcode":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"category":0,"name":"Toy Vendor","desc":"Once per turn: You can discard 1 card; draw 1 card and show it, then if it is a \"Fluffal\" monster, you can Special Summon 1 monster from your hand. Otherwise, discard the card you drew. If this card is sent to the Graveyard: You can add 1 \"Edge Imp Sabres\" or 1 \"Fluffal\" monster from your Deck to your hand.","str1":"Reveal? ","str2":"Add 1 \"Furnimal\" monster? ","str3":"Special Summon?","str4":"Add 1 \"Edge Imp Scissor\"?","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":70245411,"pack_id":"NECH-JP060","pack":"NECH","rarity":"Toy Vendor","date":1405728000000},"tcg":{"id":70245411,"pack_id":"NECH-EN060","pack":"NECH","rarity":"Toy Vendor","date":1415232000000}}
+{
+    "id": 70245411,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 131074,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "category": 0,
+    "name": "Toy Vendor",
+    "desc": "Once per turn: You can discard 1 card; draw 1 card and show it, then if it is a \"Fluffal\" monster, you can Special Summon 1 monster from your hand. Otherwise, discard the card you drew. If this card is sent to the Graveyard: You can add 1 \"Edge Imp Sabres\" or 1 \"Fluffal\" monster from your Deck to your hand.",
+    "str1": "Reveal? ",
+    "str2": "Add 1 \"Furnimal\" monster? ",
+    "str3": "Special Summon?",
+    "str4": "Add 1 \"Edge Imp Scissor\"?",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 70245411,
+        "pack_id": "NECH-JP060",
+        "pack": "NECH",
+        "rarity": "Toy Vendor",
+        "date": 1405728000000
+    },
+    "tcg": {
+        "id": 70245411,
+        "pack_id": "NECH-EN060",
+        "pack": "NECH",
+        "rarity": "Toy Vendor",
+        "date": 1415232000000
+    }
+}

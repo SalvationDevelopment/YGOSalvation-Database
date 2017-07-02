@@ -1,1 +1,47 @@
-{"id":3493978,"ot":3,"alias":0,"setcode":0,"type":33,"atk":1100,"def":1200,"level":3,"race":524288,"attribute":2,"category":262144,"name":"Don Turtle","desc":"When this card is Normal Summoned or Flip Summoned, you can Special Summon any number of \"Don Turtle\"(s) from your hand.","str1":"Special Summon","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":3493978,"pack_id":"307-016","pack":"307","rarity":"Don Turtle","date":1058400000000},"tcg":{"id":3493978,"pack_id":"IOC-071","pack":"IOC","rarity":"Don Turtle","date":1078099200000}}
+{
+    "id": 3493978,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1100,
+    "def": 1200,
+    "level": 3,
+    "race": 524288,
+    "attribute": 2,
+    "category": 262144,
+    "name": "Don Turtle",
+    "desc": "When this card is Normal Summoned or Flip Summoned, you can Special Summon any number of \"Don Turtle\"(s) from your hand.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 3493978,
+        "pack_id": "307-016",
+        "pack": "307",
+        "rarity": "Don Turtle",
+        "date": 1058400000000
+    },
+    "tcg": {
+        "id": 3493978,
+        "pack_id": "IOC-071",
+        "pack": "IOC",
+        "rarity": "Don Turtle",
+        "date": 1078099200000
+    }
+}

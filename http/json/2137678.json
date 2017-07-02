@@ -1,1 +1,47 @@
-{"id":2137678,"ot":3,"alias":0,"setcode":24595,"type":33,"atk":1600,"def":1200,"level":4,"race":32,"attribute":1,"category":8192,"name":"Meklord Army of Granel","desc":"This card gains 100 ATK for each \"Meklord\" monster on the field, except this card. When this card is Normal Summoned: You can target 1 face-up monster your opponent controls; halve that target's ATK, until the end of this turn.","str1":"Halve ATK","str2":"","str3":"","str4":"","str5":"","str6":"","str7":"","str8":"","str9":"","str10":"","str11":"","str12":"","str13":"","str14":"","str15":"","str16":"","links":[],"cardpool":"OCG/TCG","ocg":{"id":2137678,"pack_id":"EXVC-JP014","pack":"EXVC","rarity":"Meklord Army of Granel","date":1297382400000},"tcg":{"id":2137678,"pack_id":"EXVC-EN014","pack":"EXVC","rarity":"Meklord Army of Granel","date":1304121600000}}
+{
+    "id": 2137678,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 24595,
+    "type": 33,
+    "atk": 1600,
+    "def": 1200,
+    "level": 4,
+    "race": 32,
+    "attribute": 1,
+    "category": 8192,
+    "name": "Meklord Army of Granel",
+    "desc": "This card gains 100 ATK for each \"Meklord\" monster on the field, except this card. When this card is Normal Summoned: You can target 1 face-up monster your opponent controls; halve that target's ATK, until the end of this turn.",
+    "str1": "Halve ATK",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "links": [],
+    "cardpool": "OCG/TCG",
+    "ocg": {
+        "id": 2137678,
+        "pack_id": "EXVC-JP014",
+        "pack": "EXVC",
+        "rarity": "Meklord Army of Granel",
+        "date": 1297382400000
+    },
+    "tcg": {
+        "id": 2137678,
+        "pack_id": "EXVC-EN014",
+        "pack": "EXVC",
+        "rarity": "Meklord Army of Granel",
+        "date": 1304121600000
+    }
+}
