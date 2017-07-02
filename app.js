@@ -58,11 +58,12 @@ primus.on('connection', function (spark) {
 	});
 });
 
-app.get('/manifest', function (request, response, next) {
+app.get('/update', function (request, response, next) {
 	jsonGenerator.getDB(function (error, newJSON) {
-		fs.writeFile('./http/manifest.json', function () {
+		const mainifest = JSON.stringify(newJSON);
+		fs.writeFile('./http/manifest.json', mainifest, function () {
 			response.setHeader('Content-Type', 'application/json');
-			response.send(JSON.stringify(newJSON));
+			response.send(mainifest);
 			next();
 		});
 	});
