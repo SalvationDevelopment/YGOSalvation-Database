@@ -17,4 +17,32 @@ function splitJSON() {
 	});
 }
 
-module.exports = splitJSON;
+var walk = require('fs-walk');
+
+function getDB(callback) {
+	var db = [];
+	walk.files('/etc', function (basedir, filename, stat, next) {
+		fs.readFile(filename, function (data) {
+			try {
+				db.push(json.parse(data));
+				next();
+			} catch () {
+				next();
+			}
+		})
+	}, function (err) {
+		if (err) {
+			callback(error, db)
+		}; {
+			else {
+				callback(null, db)
+			}
+		}
+	});
+}
+
+
+module.exports = {
+	getDB : getDB,
+	splitJSON : splitJSON
+};
