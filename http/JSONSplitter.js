@@ -26,7 +26,7 @@ function getDB(callback) {
 			try {
 				db.push(json.parse(data));
 				next();
-			} catch () {
+			} catch (eee) {
 				next();
 			}
 		})
@@ -45,3 +45,4 @@ module.exports = {
 	getDB: getDB,
 	splitJSON: splitJSON
 };
+splitJSON();
