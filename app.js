@@ -20,6 +20,7 @@ const fs = require('fs'),
 	passport = require('passport'),
 	bodyParser = require('body-parser'),
 	app = express(),
+	child_process = require('child_process'),
 	jsonGenerator = require('./generator.js'),
 	server = require('http').createServer(app),
 	Primus = require('primus'),
@@ -28,7 +29,7 @@ const fs = require('fs'),
 		parser: 'JSON'
 	});
 
-process.env.LOCALHOST_PORT = process.env.LOCALHOST_PORT || 8080;
+process.env.LOCALHOST_PORT = process.env.API_LOCALHOST_PORT || 8082;
 
 
 
@@ -66,5 +67,13 @@ app.get('/update', function (request, response, next) {
 			response.send(mainifest);
 			next();
 		});
+	});
+});
+
+app.get('/git', function gitRoute(req, res, next) {
+	res.send('Attempting to Update Server...<br />');
+	child_process.spawn('git', ['pull'], {}, function () {
+		res.send('Updated Server, generating files...');
+		next();
 	});
 });
