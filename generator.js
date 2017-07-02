@@ -21,20 +21,24 @@ function splitJSON() {
 
 function getDB(callback) {
 	var db = [];
-	walk.files('/etc', function (basedir, filename, stat, next) {
-		fs.readFile(filename, function (data) {
+	walk.files('./http/json/', function (basedir, filename, stat, next) {
+		fs.readFile(basedir + filename, function (error, data) {
 			try {
-				db.push(json.parse(data));
+				if (error) {
+					throw error;
+				}
+				db.push(JSON.parse(data));
 				next();
 			} catch (eee) {
+				console.log('failed', basedir + filename);
 				next();
 			}
-		})
+		});
 	}, function (err) {
 		if (err) {
-			callback(error, db);
+			callback(err, db);
 		} else {
-			callback(null, db)
+			callback(null, db);
 		}
 	});
 
@@ -45,4 +49,3 @@ module.exports = {
 	getDB: getDB,
 	splitJSON: splitJSON
 };
-splitJSON();

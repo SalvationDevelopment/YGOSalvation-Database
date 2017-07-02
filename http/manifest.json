@@ -1,0 +1,5 @@
+function () {
+			response.setHeader('Content-Type', 'application/json');
+			response.send(JSON.stringify(newJSON));
+			next();
+		}

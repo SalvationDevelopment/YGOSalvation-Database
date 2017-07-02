@@ -3,30 +3,24 @@
 
 process.shell = require('shelljs'); // https://github.com/shelljs/shelljs
 
-var enviroment = require('dotenv').config(),
-	database = require('./connection.js');
+var enviroment = require('dotenv').config();
 
+if (enviroment.parsed) {
+	Object.keys(enviroment.parsed).forEach(function (env) {
+		if (enviroment.parsed[env] !== process.env[env]) {
+			console.log('Enviromental Variable "' + env + '" is not in the `.env` file.');
+		}
+	});
+}
 
-Object.keys(enviroment.parsed).forEach(function (env) {
-	if (enviroment.parsed[env] !== process.env[env]) {
-		console.log('Enviromental Variable "' + env + '" is not in the `.env` file.');
-	}
-});
-
-process.database = database(function (error, database) {
-	if (error) {
-		console.log(error.message);
-	}
-
-	console.log('Connected to db');
-});
-
-var express = require('express'),
+const fs = require('fs'),
+	express = require('express'),
 	path = require('path'),
 	helmet = require('helmet'),
 	passport = require('passport'),
 	bodyParser = require('body-parser'),
 	app = express(),
+	jsonGenerator = require('./generator.js'),
 	server = require('http').createServer(app),
 	Primus = require('primus'),
 	primus = new Primus(server, {
@@ -34,7 +28,7 @@ var express = require('express'),
 		parser: 'JSON'
 	});
 
-
+process.env.LOCALHOST_PORT = process.env.LOCALHOST_PORT || 8080;
 
 
 
@@ -61,5 +55,15 @@ console.log('Application can be found at http://127.0.0.1:' + process.env.LOCALH
 primus.on('connection', function (spark) {
 	spark.write({
 		message: 'hello'
+	});
+});
+
+app.get('/manifest', function (request, response, next) {
+	jsonGenerator.getDB(function (error, newJSON) {
+		fs.writeFile('./http/manifest.json', function () {
+			response.setHeader('Content-Type', 'application/json');
+			response.send(JSON.stringify(newJSON));
+			next();
+		});
 	});
 });
