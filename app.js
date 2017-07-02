@@ -59,7 +59,8 @@ primus.on('connection', function (spark) {
 	});
 });
 
-app.get('/update', function (request, response, next) {
+
+function regenerate(request, response, next) {
 	jsonGenerator.getDB(function (error, newJSON) {
 		const mainifest = JSON.stringify(newJSON);
 		fs.writeFile('./http/manifest.json', mainifest, function () {
@@ -68,12 +69,14 @@ app.get('/update', function (request, response, next) {
 			next();
 		});
 	});
+}
+app.get('/update', function (request, response, next) {
+	regenerate(request, response, next);
 });
 
-app.get('/git', function gitRoute(req, res, next) {
-	res.send('Attempting to Update Server...<br />');
+app.get('/git', function gitRoute(request, response, next) {
+	response.send('Attempting to Update Server...<br />');
 	child_process.spawn('git', ['pull'], {}, function () {
-		res.send('Updated Server, generating files...');
-		next();
+		regenerate(request, response, next)
 	});
 });
