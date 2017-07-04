@@ -61,11 +61,12 @@ primus.on('connection', function (spark) {
 
 
 function regenerate(request, response, next) {
-	jsonGenerator.getDB(function (error, newJSON) {
+	response.setHeader('Content-Type', 'application/json');
+	jsonGenerator.getDB(response, function (error, newJSON) {
 		const mainifest = JSON.stringify(newJSON);
+		response.write('Saving!\r\n');
 		fs.writeFile('./http/manifest.json', mainifest, function () {
-			response.setHeader('Content-Type', 'application/json');
-			response.send(mainifest);
+			response.write('Completed');
 			next();
 		});
 	});
