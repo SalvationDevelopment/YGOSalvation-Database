@@ -68,7 +68,7 @@ primus.on('connection', function (spark) {
  * @param {function} next 
  */
 function regenerate(request, response, next) {
-	response.setHeader('Content-Type', 'application/json');
+
 	jsonGenerator.getDB(response, function (error, newJSON) {
 		const mainifest = JSON.stringify(newJSON);
 		response.write('Saving!\r\n');
@@ -78,30 +78,36 @@ function regenerate(request, response, next) {
 				host: '120.0.0.1',
 				path: '/git'
 			}, function (appresponse) {
-				response.write('Notified\r\n');
+				response.write('Notified!\r\n');
+				response.end();
 				next();
 			});
-			call.on('error', console.log);
+			call.on('data', function (data) {
+				response.write(data);
+			});
+			call.on('error', function (errorMessage) {
+				response.write('Unable to notify main server\r\n');
+				response.end();
+				next();
+			});
 			call.end();
 		});
 	});
 }
 
+function gitRoute(request, response, next) {
+	response.setHeader('Content-Type', 'application/json');
+	response.write('Attempting to Update Server...\r\n');
+	var gitShell = child_process.exec('git pull', {}, function (error, stdout, stderr) {
+		if (error) {
+			response.write(JSON.stringify(error) + '\r\n\r\n');
+		}
+		response.write(JSON.stringify(stdout) + '\r\n\r\n');
+		regenerate(request, response, next);
+	});
+}
+
 // Setup routes
-app.get('/update', function (request, response, next) {
-	regenerate(request, response, next);
-});
-
-app.get('/git', function gitRoute(request, response, next) {
-	response.send('Attempting to Update Server...<br />');
-	child_process.spawn('git', ['pull'], {}, function () {
-		regenerate(request, response, next);
-	});
-});
-
-app.post('/git', function gitRoute(request, response, next) {
-	response.sendStatus(200);
-	child_process.spawn('git', ['pull'], {}, function () {
-		regenerate(request, response, next);
-	});
-});
+app.get('/update', regenerate);
+app.get('/git', gitRoute);
+app.post('/git', gitRoute);
