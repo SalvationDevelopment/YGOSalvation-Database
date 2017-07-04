@@ -25,12 +25,13 @@ function getDB(callback) {
 		fs.readFile(basedir + filename, function (error, data) {
 			try {
 				if (error) {
+					console.log('File Read Error', error)
 					throw error;
 				}
 				db.push(JSON.parse(data));
 				next();
 			} catch (eee) {
-				console.log('failed', basedir + filename, eee);
+				console.log('failed', data.length, basedir + filename, eee);
 				next();
 			}
 		});
