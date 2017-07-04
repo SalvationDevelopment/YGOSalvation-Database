@@ -30,7 +30,7 @@ function getDB(callback) {
 				db.push(JSON.parse(data));
 				next();
 			} catch (eee) {
-				console.log('failed', basedir + filename);
+				console.log('failed', basedir + filename, eee);
 				next();
 			}
 		});

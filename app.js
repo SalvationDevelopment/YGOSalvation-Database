@@ -77,6 +77,6 @@ app.get('/update', function (request, response, next) {
 app.get('/git', function gitRoute(request, response, next) {
 	response.send('Attempting to Update Server...<br />');
 	child_process.spawn('git', ['pull'], {}, function () {
-		regenerate(request, response, next)
+		regenerate(request, response, next);
 	});
 });
