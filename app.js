@@ -14,6 +14,7 @@ if (enviroment.parsed) {
 }
 
 const fs = require('fs'),
+	http = require('http'),
 	express = require('express'),
 	path = require('path'),
 	helmet = require('helmet'),
@@ -53,24 +54,40 @@ app.use(express['static'](path.join(__dirname, '/http')));
 server.listen(process.env.LOCALHOST_PORT);
 console.log('Application can be found at http://127.0.0.1:' + process.env.LOCALHOST_PORT);
 
+// Setup websocket connection for doing stuff.
 primus.on('connection', function (spark) {
 	spark.write({
 		message: 'hello'
 	});
 });
 
-
+/**
+ * Regenerate database manifest
+ * @param {Object} request - Express request object
+ * @param {Object} response 
+ * @param {function} next 
+ */
 function regenerate(request, response, next) {
 	response.setHeader('Content-Type', 'application/json');
 	jsonGenerator.getDB(response, function (error, newJSON) {
 		const mainifest = JSON.stringify(newJSON);
 		response.write('Saving!\r\n');
 		fs.writeFile('./http/manifest.json', mainifest, function () {
-			response.write('Completed');
-			next();
+			response.write('Saved, Notifying...\r\n');
+			var call = http.get({
+				host: '120.0.0.1',
+				path: '/git'
+			}, function (appresponse) {
+				response.write('Notified\r\n');
+				next();
+			});
+			call.on('error', console.log);
+			call.end();
 		});
 	});
 }
+
+// Setup routes
 app.get('/update', function (request, response, next) {
 	regenerate(request, response, next);
 });
