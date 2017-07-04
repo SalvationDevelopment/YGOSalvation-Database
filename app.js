@@ -98,3 +98,10 @@ app.get('/git', function gitRoute(request, response, next) {
 		regenerate(request, response, next);
 	});
 });
+
+app.post('/git', function gitRoute(request, response, next) {
+	response.sendStatus(200);
+	child_process.spawn('git', ['pull'], {}, function () {
+		regenerate(request, response, next);
+	});
+});
