@@ -14,7 +14,7 @@ if (enviroment.parsed) {
 }
 
 const fs = require('fs'),
-	http = require('http'),
+	http = require('https'),
 	express = require('express'),
 	path = require('path'),
 	helmet = require('helmet'),
@@ -87,6 +87,7 @@ function regenerate(request, response, next) {
 			});
 			call.on('error', function (errorMessage) {
 				response.write('Unable to notify main server\r\n');
+				response.write(JSON.stringify(errorMessage));
 				response.end();
 				next();
 			});
