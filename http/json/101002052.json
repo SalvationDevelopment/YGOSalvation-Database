@@ -9,11 +9,12 @@
     "setcode": 0,
     "type": 33554465,
     "atk": 1400,
+    "def": "-",
     "level": 2,
     "race": 64,
     "attribute": 2,
     "name": "Mastar Boy",
+    "desc": "Link Arrows: [\ud83e\udc77], [\ud83e\udc76]\n\n2 WATER monsters\nAll WATER monsters on the field gain 500 ATK and DEF. All FIRE monsters on the field lose 400 ATK and DEF. If this card is destroyed by battle or card effect: You can target 1 WATER monster in your GY; add it to your hand. You can only use this effect of \"Mastar Boy\" once per turn.",
     "links": "[\ud83e\udc77], [\ud83e\udc76]",
-    "desc": "2 WATER monsters\nAll WATER monsters on the field gain 500 ATK and DEF. All FIRE monsters on the field lose 400 ATK and DEF. If this card is destroyed by battle or card effect: You can target 1 WATER monster in your GY; add it to your hand. You can only use this effect of \"Mastar Boy\" once per turn.",
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/d/de/MastarBoy-CIBR-JP-OP.png/revision/latest?cb=20170704120332"
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/d/de/MastarBoy-CIBR-JP-OP.png/revision/latest?"
 }
