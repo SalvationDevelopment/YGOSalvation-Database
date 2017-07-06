@@ -1,0 +1,19 @@
+{
+    "ocg": {
+        "pack": "CIBR",
+        "pack_id": "CIBR-JP058",
+        "date": "2017-07-08"
+    },
+    "tcg": {},
+    "id": 101002058,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "name": "Battle for the Starrelics",
+    "desc": "Banish 1 face-up monster you control (until the End Phase), then target 1 face-up monster your opponent controls; that target loses ATK and DEF equal to the banished monster's original ATK and DEF.",
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/d/d2/BattlefortheStarrelics-CIBR-JP-OP.png/revision/latest?"
+}
