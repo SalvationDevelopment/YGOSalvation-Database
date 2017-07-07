@@ -2,6 +2,8 @@
 'use strict';
 
 process.shell = require('shelljs'); // https://github.com/shelljs/shelljs
+process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '0';
+
 
 var enviroment = require('dotenv').config();
 
