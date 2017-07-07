@@ -1,0 +1,19 @@
+{
+    "ocg": {
+        "pack": "VJMP",
+        "pack_id": "VJMP-JP136",
+        "date": "2017-07-21"
+    },
+    "tcg": {},
+    "id": 100200136,
+    "setcode": 147,
+    "type": 33,
+    "atk": 1000,
+    "def": 1000,
+    "level": 2,
+    "race": 16777216,
+    "attribute": 16,
+    "name": "Cyberse Converter",
+    "desc": "If all monsters you control are Cyberse monsters (min. 1), you can Special Summon this card (from your hand). You can only Special Summon \"Cyberse Converter\" once per turn this way. When this card is Normal Summoned: You can target 1 face-up monster you control; it becomes Cyberse-Type until the end of this turn.",
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/2/23/CyberseConverter-VJMP-JP-OP.png/revision/latest?"
+}
