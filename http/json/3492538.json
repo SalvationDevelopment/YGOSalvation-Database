@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 3492538,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "GameBoy Duel Monsters Promos: Series 2",
+        "pack": "GameBoy Duel Monsters Promos: Series 2",
         "rarity": "Insect Armor with Laser Cannon",
-        "date": 931392000000
+        "date": "1999-07-08"
     },
     "tcg": {
         "id": 3492538,
         "pack_id": "NUMH-EN057",
         "pack": "NUMH",
         "rarity": "Insect Armor with Laser Cannon",
-        "date": 1373587200000
-    }
+        "date": "2013-07-12"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/e/ea/InsectArmorwithLaserCannon-NUMH-EN-SR-1E.png/revision/latest?"
 }

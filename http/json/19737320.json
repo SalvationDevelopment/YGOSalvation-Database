@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 19737320,
-        "pack_id": null,
-        "pack": "Vol.7",
+        "pack_id": "Launcher Spider",
+        "pack": "Launcher Spider",
         "rarity": "共通",
-        "date": 948949200000
+        "date": "2000-01-27"
     },
     "tcg": {
         "id": 19737320,
         "pack_id": "TP8-EN013",
         "pack": "TP8",
         "rarity": "Gatekeeper",
-        "date": 1146182400000
-    }
+        "date": "2006-04-28"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/0/0c/Gatekeeper-TP8-EN-C-UE.jpg/revision/latest?"
 }

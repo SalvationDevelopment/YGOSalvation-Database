@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Raidraptor - Rudder Strix",
-    "desc": "If this card is Normal Summoned, or Special Summoned from the hand by the effect of a \"Raidraptor\" card: You can inflict 600 damage to your opponent. When this card is targeted for an attack by an opponent's monster: You can Special Summon up to 2 \"Raidraptor\" monsters from your hand, and if you do, monsters your opponent controls cannot target the monster(s) Special Summoned by this effect for attacks for the rest of this turn.",
+    "desc": "If this card is Special Summoned from the hand by the effect of a \"Raidraptor\" card, or Normal Summoned: You can inflict 600 damage to your opponent. When an opponent's monster declares an attack that targets this card: You can Special Summon up to 2 \"Raidraptor\" monsters from your hand, and if you do, monsters your opponent controls cannot target those monsters for attacks this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,12 @@
         "pack_id": "CP17-JP014",
         "pack": "CP17",
         "rarity": "Raidraptor - Rudder Strix\n",
-        "date": 1494633600000
+        "date": "2017-05-13"
     },
-    "tcg": {}
+    "tcg": {
+        "date": "2017-07-06",
+        "pack": "CP17",
+        "pack_id": "CP17-JP014"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/f/f9/RaidraptorRudderStrix-BLLR-EN-UR-1E.png/revision/latest?"
 }

@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 97612389,
-        "pack_id": null,
-        "pack": "Booster 7",
+        "pack_id": "Mechanical Trap Power",
+        "pack": "Mechanical Trap Power",
         "rarity": "共通",
-        "date": 951886800000
+        "date": "2000-03-01"
     },
     "tcg": {
         "id": 97612389,
         "pack_id": "LCJW-EN222",
         "pack": "LCJW",
         "rarity": "Monster Tamer",
-        "date": 1381449600000
-    }
+        "date": "2013-10-11"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/9/98/MonsterTamer-LCJW-EN-C-1E.png/revision/latest?"
 }

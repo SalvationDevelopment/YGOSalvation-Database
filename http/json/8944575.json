@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 8944575,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Fiend Collection A",
+        "pack": "Fiend Collection A",
         "rarity": "The Drdek",
-        "date": 918086400000
+        "date": "1999-02-04"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/1/1a/TheDrdek-V1-JP-C.jpg/revision/latest?"
 }

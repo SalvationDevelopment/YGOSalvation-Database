@@ -32,10 +32,10 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 43694075,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Pink Millennium Eye",
+        "pack": "Pink Millennium Eye",
         "rarity": "Novox's Prayer",
-        "date": 953769600000
+        "date": "2000-03-23"
     },
     "tcg": {
         "id": 43694075,
@@ -43,5 +43,6 @@
         "pack": "TP2",
         "rarity": "Novox's Prayer",
         "date": 1033430400000
-    }
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/f/fa/NovoxsPrayer-TP2-NA-R-UE.jpg/revision/latest?"
 }

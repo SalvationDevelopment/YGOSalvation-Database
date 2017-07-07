@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 30090452,
-        "pack_id": null,
-        "pack": "Vol.7",
+        "pack_id": "Launcher Spider",
+        "pack": "Launcher Spider",
         "rarity": "共通",
-        "date": 948949200000
+        "date": "2000-01-27"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/f/f5/Zanki-V7-JP-C.jpg/revision/latest?"
 }

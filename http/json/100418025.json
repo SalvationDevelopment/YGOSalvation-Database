@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Cyberdark Inferno",
-    "desc": "Your opponent cannot target \"Cyberdark\" Effect Monsters you control equipped with Equip Cards with card effects, also they cannot be destroyed by your opponent's card effects. You can target 1 \"Cyberdark\" monster you control; return it to the hand, then immediately after this effect resolves, you can Normal Summon 1 \"Cyberdark\" monster. You can only use this effect of \"Cyberdark Inferno\" once per turn. If this card you control is destroyed by an opponent's card effect: You can add 1 \"Polymerization\" Spell Card or \"Fusion\" Spell Card from your Deck to your hand.",
+    "desc": "Your opponent cannot target \"Cyberdark\" Effect Monsters you control equipped with Equip Cards with card effects, also they cannot be destroyed by your opponent's card effects. You can target 1 \"Cyberdark\" monster you control; return it to the hand, then immediately after this effect resolves, you can Normal Summon 1 \"Cyberdark\" monster. You can only use this effect of \"Cyberdark Inferno\" once per turn. If this card in its owner's control is destroyed by an opponent's card effect: You can add 1 \"Polymerization\" Spell or \"Fusion\" Spell from your Deck to your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,8 @@
         "pack_id": "DP18-JP025",
         "pack": "DP18",
         "rarity": "Cyberdark Inferno",
-        "date": 1496448000000
+        "date": "2017-06-03"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/b/b6/CyberdarkInferno-DP18-JP-SR.png/revision/latest?"
 }

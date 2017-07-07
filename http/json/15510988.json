@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 15510988,
-        "pack_id": null,
-        "pack": "Vol.1",
+        "pack_id": "Dark Magician",
+        "pack": "Dark Magician",
         "rarity": "共通",
-        "date": 918104400000
+        "date": "1999-02-04"
     },
     "tcg": {
         "id": 15510988,
         "pack_id": "CP01-EN012",
         "pack": "CP01",
         "rarity": "Thunder Kid",
-        "date": 1163203200000
-    }
+        "date": "2006-11-11"
+    },
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/7/79/ThunderKid-CP01-EN-C-UE.jpg/revision/latest?"
 }

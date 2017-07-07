@@ -32,10 +32,10 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 3627449,
-        "pack_id": null,
-        "pack": "Dark Ceremony Edition",
+        "pack_id": "TP2-KR007",
+        "pack": "TP2",
         "rarity": "スーパーレア仕様",
-        "date": 953787600000
+        "date": "2000-03-23"
     },
     "tcg": {
         "id": 3627449,
@@ -43,5 +43,6 @@
         "pack": "TP2",
         "rarity": "Skull Guardian",
         "date": 1033430400000
-    }
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/6/68/SkullGuardian-TP2-NA-R-UE.jpg/revision/latest?"
 }

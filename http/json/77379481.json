@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 77379481,
-        "pack_id": "PH-15",
-        "pack": "PH",
+        "pack_id": "306-011",
+        "pack": "306",
         "rarity": "Sasuke Samurai",
-        "date": 1016668800000
+        "date": "2003-04-24"
     },
     "tcg": {
         "id": 77379481,
-        "pack_id": "PGD-015",
-        "pack": "PGD",
+        "pack_id": "IOC-011",
+        "pack": "IOC",
         "rarity": "Sasuke Samurai",
-        "date": 1058486400000
-    }
+        "date": "2004-03-01"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/4/4f/SasukeSamurai3-DR2-EN-C-UE.jpg/revision/latest?"
 }

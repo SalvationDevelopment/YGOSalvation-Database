@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 27094595,
-        "pack_id": null,
-        "pack": "Booster 1",
+        "pack_id": "Zombie Collection",
+        "pack": "Zombie Collection",
         "rarity": "共通",
-        "date": 920264400000
+        "date": "1999-03-01"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/8/8c/GraveyardandtheHandofInvitation-B01-JP-C.jpg/revision/latest?"
 }

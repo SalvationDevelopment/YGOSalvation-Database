@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 0,
-    "name": "Cybnet Backdoor",
-    "desc": "Target 1 Cyberse monster you control; banish it, and if you do, add 1 Cyberse monster with ATK less than the banished monster's original ATK from your Deck to your hand. During your next Standby Phase, return that banished monster to the field, and if you do, it can attack directly that turn. You can only activate 1 \"Cybnet Backdoor\" per turn.",
+    "name": "Cynet Backdoor",
+    "desc": "Target 1 Cyberse monster you control; banish it, and if you do, add 1 Cyberse monster with ATK less than the banished monster's original ATK from your Deck to your hand. During your next Standby Phase, return that banished monster to the field, and if you do, it can attack directly that turn. You can only activate 1 \"Cynet Backdoor\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,8 @@
         "pack_id": "SD32-JP023",
         "pack": "SD32",
         "rarity": "Cybnet Backdoor",
-        "date": 1497657600000
+        "date": "2017-06-17"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/d/d0/CynetBackdoor-SD32-JP-SR.png/revision/latest?"
 }

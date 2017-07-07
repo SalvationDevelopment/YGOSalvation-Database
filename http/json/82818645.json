@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 82818645,
-        "pack_id": null,
-        "pack": "Booster 6",
+        "pack_id": "Pack 11",
+        "pack": "Pack 11",
         "rarity": "共通",
-        "date": 944024400000
+        "date": "1999-12-01"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/9/9c/RockSpirit-B06-JP-C.jpg/revision/latest?"
 }

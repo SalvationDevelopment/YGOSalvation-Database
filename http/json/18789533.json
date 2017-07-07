@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Dot Scaper",
-    "desc": "If this card is sent to the GY: You can Special Summon it. If this card is banished: You can Special Summon it. You can only use 1 \"Dot Scraper\" effect per turn. You can only use each effect of \"Dot Scraper\" once per Duel.",
+    "desc": "If this card is sent to the GY: You can Special Summon it. If this card is banished: You can Special Summon it. You can only use 1 \"Dot Scaper\" effect per turn. You can only use each effect of \"Dot Scaper\" once per Duel.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,8 @@
         "pack_id": "SD32-JP002",
         "pack": "SD32",
         "rarity": "Dot Scaper",
-        "date": 1497657600000
+        "date": "2017-06-17"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/8/85/DotScaper-SD32-JP-C.png/revision/latest?"
 }

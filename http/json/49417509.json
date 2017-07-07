@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 49417509,
-        "pack_id": null,
-        "pack": "Booster 5",
+        "pack_id": "Shadows in the Labyrinth",
+        "pack": "Shadows in the Labyrinth",
         "rarity": "共通",
-        "date": 940136400000
+        "date": "1999-10-17"
     },
     "tcg": {
         "id": 49417509,
         "pack_id": "LCJW-EN018",
         "pack": "LCJW",
         "rarity": "Wolf",
-        "date": 1381449600000
-    }
+        "date": "2013-10-11"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/2/2b/Wolf-LCJW-EN-C-1E.png/revision/latest?"
 }

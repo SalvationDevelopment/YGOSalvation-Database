@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Dragonoid Generator",
-    "desc": "Activate this card by paying 1000 LP. During your Main Phase: You can Special Summon 1 \"Dragonoid Token\" (Machine/EARTH/Level 1/ATK 300/DEF 300) in Attack Position, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn. During the End Phase of this turn, make your opponent Special Summon 1 \"Dragonoid Token\" to their field in Attack Position. You can use this effect of \"Dragonoid Generator\" up to twice per turn.",
+    "desc": "Activate this card by paying 1000 LP. During your Main Phase: You can Special Summon 1 \"Dragonoid Token\" (Machine/EARTH/Level 1/ATK 300/DEF 300) in Attack Position, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, also during the End Phase of this turn, make your opponent Special Summon 1 \"Dragonoid Token\" to their field in Attack Position. You can use this effect of \"Dragonoid Generator\" up to twice per turn.",
     "str1": " ",
     "str2": " ",
     "str3": " ",
@@ -35,7 +35,8 @@
         "pack_id": "CIBR-JP054",
         "pack": "CIBR",
         "rarity": "Dragonoid Generator",
-        "date": 1499472000000
+        "date": "2017-07-08"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/5/52/DragonoidGenerator-CIBR-JP-R.png/revision/latest?"
 }

@@ -30,12 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "STOR",
+        "pack_id": "STOR-JP044",
+        "date": "2010-11-13"
+    },
     "tcg": {
         "id": 29765339,
         "pack_id": "STOR-EN044",
-        "pack": "Storm Of Ragnarok",
+        "pack": "STOR",
         "rarity": "Super Rare",
-        "date": 1297141200000
-    }
+        "date": "2011-02-08"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/2/2d/Watthydra-STOR-EN-SR-1E.png/revision/latest?"
 }

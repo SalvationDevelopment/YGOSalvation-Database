@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 26932788,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Special Summon Collection A",
+        "pack": "Special Summon Collection A",
         "rarity": "Javelin Beetle",
-        "date": 953769600000
+        "date": "2000-03-23"
     },
     "tcg": {
         "id": 26932788,
         "pack_id": "PP01-EN013",
         "pack": "PP01",
         "rarity": "Javelin Beetle",
-        "date": 1191801600000
-    }
+        "date": "2007-10-08"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/f/fa/JavelinBeetle-PP01-EN-SR-UE.jpg/revision/latest?"
 }

@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 60715406,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "All Normal Monsters",
+        "pack": "All Normal Monsters",
         "rarity": "Tentacle Plant",
-        "date": 940118400000
+        "date": "1999-10-17"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/6/65/TentaclePlant-B05-JP-C.jpg/revision/latest?"
 }

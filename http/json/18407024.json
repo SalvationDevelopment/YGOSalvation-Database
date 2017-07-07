@@ -30,12 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "DREV",
+        "pack_id": "DREV-JP024",
+        "date": "2010-04-17"
+    },
     "tcg": {
         "id": 18407024,
         "pack_id": "DREV-EN024",
-        "pack": "Duelist Revolution",
+        "pack": "DREV",
         "rarity": "Common",
-        "date": 1282021200000
-    }
+        "date": "2010-08-07"
+    },
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/8/84/Wattbetta-DREV-EN-C-1E.jpg/revision/latest?"
 }

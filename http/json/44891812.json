@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Superheavy Samurai Helper",
-    "desc": "During damage calculation, if your Defense Position monster battles an opponent's monster, and you have no Spell/Traps in your GY (Quick Effect): You can discard this card, then target 1 \"Superheavy Samurai\" monster you control, except the battling monster; that battling monster you control gains DEF equal to the targeted monster's DEF, during that damage calculation only. When an opponent's monster declares a direct attack: You can banish this card from your GY, then target 1 \"Superheavy Samurai\" monster in your GY; Special Summon it.",
+    "desc": "During damage calculation, if your Defense Position monster battles an opponent's monster while you have no Spells/Traps in your GY (Quick Effect): You can discard this card, then target 1 \"Superheavy Samurai\" monster you control other than the battling monster; your battling monster gains DEF equal to that monster's DEF, during that damage calculation only. When an opponent's monster declares a direct attack: You can banish this card from your GY, then target 1 \"Superheavy Samurai\" monster in your GY; Special Summon it.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,12 @@
         "pack_id": "CP17-JP009",
         "pack": "CP17",
         "rarity": "Superheavy Samurai Otasu-Ke\n",
-        "date": 1494633600000
+        "date": "2017-05-13"
     },
-    "tcg": {}
+    "tcg": {
+        "date": "2017-07-06",
+        "pack": "BLLR",
+        "pack_id": "BLLR-EN009"
+    },
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/6/6f/SuperheavySamuraiHelper-BLLR-EN-UR-1E.png/revision/latest?"
 }

@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 17115745,
-        "pack_id": null,
-        "pack": "Booster 3",
+        "pack_id": "Pack 7",
+        "pack": "Pack 7",
         "rarity": "共通",
-        "date": 931150800000
+        "date": "1999-07-05"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/9/97/Yormungarde-B03-JP-C.jpg/revision/latest?"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Performapal Odd-Eyes Synchron",
-    "desc": "Pendulum Effect\nOnce per turn: You can target 1 \"Performapal\" or \"Odd-Eyes\" monster you control; this turn, that face-up monster is treated as a Tuner, also it becomes Level 1 (even if this card leaves the field).\n\nMonster Effect\nIf this card, Special Summoned from the Extra Deck, is used as material for a Synchro Summon, banish it. When this card is Normal Summoned: You can target 1 Level 3 or lower \"Performapal\" or \"Odd-Eyes\" monster in your GY; Special Summon it, but it has its effects negated. Once per turn: You can target 1 card in your Pendulum Zone; Special Summon it, but it has its effects negated (if any), and if you do, immediately after this effect resolves, Synchro Summon 1 Synchro Monster using only that monster and this card.",
+    "desc": "Pendulum Effect\nOnce per turn: You can target 1 \"Performapal\" or \"Odd-Eyes\" monster you control; this turn, that face-up monster is treated as a Tuner, also its Level becomes 1 (even if this card leaves the field).\n\nMonster Effect\nIf this card, Special Summoned from the Extra Deck, is used as Synchro Material, banish it. When this card is Normal Summoned: You can target 1 Level 3 or lower \"Performapal\" or \"Odd-Eyes\" monster in your GY; Special Summon it, but it has its effects negated. Once per turn: You can target 1 card in your Pendulum Zone; Special Summon it, but it has its effects negated (if any), and if you do, immediately after this effect resolves, Synchro Summon 1 Synchro Monster using only that monster and this card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,12 @@
         "pack_id": "CP17-JP004",
         "pack": "CP17",
         "rarity": "Performapal Odd-Eyes Synchron",
-        "date": 1494633600000
+        "date": "2017-05-13"
     },
-    "tcg": {}
+    "tcg": {
+        "date": "2017-07-06",
+        "pack": "BLLR",
+        "pack_id": "BLLR-EN004"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/7/72/PerformapalOddEyesSynchron-BLLR-EN-ScR-1E.png/revision/latest?"
 }

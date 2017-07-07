@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 65623423,
-        "pack_id": null,
-        "pack": "Booster 4",
+        "pack_id": "Pack 8",
+        "pack": "Pack 8",
         "rarity": "共通",
-        "date": 935643600000
+        "date": "1999-08-26"
     },
     "tcg": {
         "id": 65623423,
         "pack_id": "AP06-EN015",
         "pack": "AP06",
         "rarity": "Gruesome Goo",
-        "date": 1418342400000
-    }
+        "date": "2014-12-12"
+    },
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/b/b8/GruesomeGoo-AP06-EN-SP-UE.png/revision/latest?"
 }

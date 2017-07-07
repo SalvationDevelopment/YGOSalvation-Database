@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Magibullet Fiend Zamiel",
-    "desc": "You can Tribute Summon this card by Tributing 1 \"Magibullet\" monster. You can activate \"Magibullet\" Spells/Traps from your hand during either player’s turn. During your opponent’s End Phase: You can draw 1 card for each \"Magibullet\" Spell/Trap Card you activated this turn while this card was face-up. You can only use this effect of \"Magibullet Fiend Zamiel\" once per turn.",
+    "desc": "You can Tribute Summon this card face-up by Tributing 1 \"Magibullet\" monster. You can activate \"Magibullet\" Spells/Traps from your hand during either player's turn. During your opponent's End Phase: You can draw 1 card for each \"Magibullet\" Spell/Trap you activated this turn while this card was face-up on the field. You can only use this effect of \"Magibullet Fiend Zamiel\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,8 @@
         "pack_id": "DBSW-JP022",
         "pack": "DBSW",
         "rarity": "Magibullet Fiend Zamiel",
-        "date": 1502409600000
+        "date": "2017-08-11"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/8/88/MagibulletFiendZamiel-DBSW-JP-OP.png/revision/latest?"
 }

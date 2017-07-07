@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 56606928,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Harpie Lady",
+        "pack": "Harpie Lady",
         "rarity": "Eternal Drought",
-        "date": 932601600000
+        "date": "1999-07-22"
     },
     "tcg": {
         "id": 56606928,
         "pack_id": "GLD4-EN033",
         "pack": "GLD4",
         "rarity": "Eternal Drought",
-        "date": 1308873600000
-    }
+        "date": "2011-06-24"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/3/3d/EternalDrought-GLD4-EN-C-LE.png/revision/latest?"
 }

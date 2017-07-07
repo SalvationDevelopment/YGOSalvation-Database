@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 89904598,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Red Eyes B. Dragon",
+        "pack": "Red Eyes B. Dragon",
         "rarity": "Anthrosaurus",
-        "date": 927763200000
+        "date": "1999-05-27"
     },
     "tcg": {
         "id": 89904598,
         "pack_id": "LCJW-EN016",
         "pack": "LCJW",
         "rarity": "Anthrosaurus",
-        "date": 1381449600000
-    }
+        "date": "2013-10-11"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/a/a1/Anthrosaurus-LCJW-EN-C-1E.png/revision/latest?"
 }

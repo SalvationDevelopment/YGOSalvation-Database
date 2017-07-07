@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 97973387,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "All Normal Monsters",
+        "pack": "All Normal Monsters",
         "rarity": "Droll Bird",
-        "date": 920246400000
+        "date": "1999-03-01"
     },
     "tcg": {
         "id": 97973387,
         "pack_id": "WCPP-EN001",
         "pack": "WCPP",
         "rarity": "Droll Bird",
-        "date": 1281744000000
-    }
+        "date": "2010-08-14"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/1/1b/DrollBird-WP11-EN-SR-LE.jpg/revision/latest?"
 }

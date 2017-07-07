@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Rainbow Weathery Arciel",
-    "desc": "Link Arrows: [🡷] [🡳] [🡶] \n\n3 “Weathery” monsters\n \"Weathery\" monsters that this card points to gain this effect: ● When a card or effect is activated: You can banish this card; negate the activation, and if you do, destroy it. When your opponent would Special Summon a monster(s): You can send this Link Summoned card to the GY; negate that Special Summon, and if you do, destroy that monster(s). Once per turn, during the Standby Phase, if this card was banished to activate the effect of a “Weathery” card since the last Standby Phase: You can Special Summon this card.",
+    "desc": "Link Arrows: [🡷] [🡳] [🡶]\n\n3 \"Weathery\" monsters\nWhen your opponent would Special Summon a monster(s) (Quick Effect): You can send this Link Summoned card to the GY; negate the Special Summon, and if you do, destroy that monster. Once per turn, during the Standby Phase of the next turn after this card on the field was banished to activate a \"Weathery\" card's effect: You can Special Summon this banished card. \"Weathery\" Effect Monsters this card points to gain this effect.\n● When a card or effect is activated (Quick Effect): You can banish this card; negate the activation, and if you do, destroy that card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,14 +28,19 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "links": [],
+    "links": [
+        5,
+        6,
+        7
+    ],
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 100419035,
         "pack_id": "DBSW-JP035",
         "pack": "DBSW",
         "rarity": "Rainbow Weathery Arciel",
-        "date": 1502409600000
+        "date": "2017-08-11"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/3/3f/RainbowWeatheryArciel-DBSW-JP-OP.png/revision/latest?"
 }

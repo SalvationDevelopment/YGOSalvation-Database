@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 262656,
     "name": "Mermail Abyssteus",
-    "desc": "You can discard 1 other WATER monster to the Graveyard; Special Summon this card from your hand. When you do: Add 1 Level 4 or lower \"Mermail\" monster from your Deck to your hand. You can only use this effect of \"Mermail Abyssteus\" once per turn.",
+    "desc": "You can discard 1 other WATER monster to the GY; Special Summon this card from your hand. If Summoned this way: Add 1 Level 4 or lower \"Mermail\" monster from your Deck to your hand. You can only use this effect of \"Mermail Abyssteus\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "EP13-JP034",
         "pack": "EP13",
         "rarity": "Mermail Abyssteus",
-        "date": 1368835200000
+        "date": "2013-05-18"
     },
     "tcg": {
         "id": 22446869,
         "pack_id": "CBLZ-EN083",
         "pack": "CBLZ",
         "rarity": "Mermail Abyssteus",
-        "date": 1359072000000
-    }
+        "date": "2013-01-25"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/8/8c/MermailAbyssteus-BLLR-EN-ScR-1E.png/revision/latest?"
 }

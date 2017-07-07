@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 89558090,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Fiend Collection A",
+        "pack": "Fiend Collection A",
         "rarity": "Dark Prisoner",
-        "date": 920678400000
+        "date": "1999-03-06"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/e/eb/DarkPrisoner-SB-JP-C.jpg/revision/latest?"
 }

@@ -32,10 +32,11 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 36904469,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Red Eyes B. Dragon",
+        "pack": "Red Eyes B. Dragon",
         "rarity": "Akihiron",
-        "date": 927590400000
+        "date": "1999-05-25"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/2/2f/Akihiron-V3-JP-R.jpg/revision/latest?"
 }

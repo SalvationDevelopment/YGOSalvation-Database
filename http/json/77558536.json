@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Raiden, Hand of the Lightsworn",
-    "desc": "During your Main Phase: You can send the top 2 cards of your Deck to the Graveyard, then if any \"Lightsworn\" monsters were sent to the Graveyard by this effect, this card gains 200 ATK until the end of your opponent's turn. You can only use this effect of \"Raiden, Hand of the Lightsworn\" once per turn. Once per turn, during your End Phase: Send the top 2 cards of your Deck to the Graveyard.",
+    "desc": "During your Main Phase: You can send the top 2 cards of your Deck to the GY, then if any \"Lightsworn\" monsters were sent to the GY by this effect, this card gains 200 ATK until the end of your opponent's turn. You can only use this effect of \"Raiden, Hand of the Lightsworn\" once per turn. Once per turn, during your End Phase: Send the top 2 cards of your Deck to the GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "DS14-JPLS3",
         "pack": "DS14",
         "rarity": "Raiden, Hand of the Lightsworn",
-        "date": 1385164800000
+        "date": "2013-11-23"
     },
     "tcg": {
         "id": 77558536,
         "pack_id": "SDLI-EN003",
         "pack": "SDLI",
         "rarity": "Raiden, Hand of the Lightsworn",
-        "date": 1403827200000
-    }
+        "date": "2014-06-27"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/8/82/RaidenHandoftheLightsworn-BLLR-EN-UR-1E.png/revision/latest?"
 }

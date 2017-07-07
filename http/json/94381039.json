@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 11,
     "name": "Celestia, Lightsworn Angel",
-    "desc": "When you Tribute Summon this card by Tributing a \"Lightsworn\" monster: You can send the top 4 cards of your Deck to the Graveyard, then target up to 2 cards your opponent controls; destroy those targets.",
+    "desc": "When you Tribute Summon this card by Tributing a \"Lightsworn\" monster: You can send the top 4 cards of your Deck to the GY, then target up to 2 cards your opponent controls; destroy those targets.",
     "str1": "Destroy",
     "str2": "",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "LODT-EN024",
         "pack": "LODT",
         "rarity": "Celestia, Lightsworn Angel",
-        "date": 1203724800000
+        "date": "2008-02-23"
     },
     "tcg": {
         "id": 94381039,
         "pack_id": "LODT-EN024",
         "pack": "LODT",
         "rarity": "Celestia, Lightsworn Angel",
-        "date": 1209772800000
-    }
+        "date": "2008-05-03"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/7/7c/CelestiaLightswornAngel-BLLR-EN-UR-1E.png/revision/latest?"
 }

@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 71280811,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Special Gift Collection",
+        "pack": "Special Gift Collection",
         "rarity": "Yaranzo",
-        "date": 928195200000
+        "date": "1999-06-01"
     },
     "tcg": {
         "id": 71280811,
         "pack_id": "MP1-005",
         "pack": "MP1",
         "rarity": "Yaranzo",
-        "date": 1040342400000
-    }
+        "date": "2002-12-20"
+    },
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/2/23/Yaranzo-LCYW-EN-SR-1E.jpg/revision/latest?"
 }

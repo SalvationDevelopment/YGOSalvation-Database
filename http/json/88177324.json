@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": -2147475456,
     "name": "Number 107: Galaxy-Eyes Tachyon Dragon",
-    "desc": "2 Level 8 monsters\nOnce per Battle Phase, at the start of your Battle Phase: You can detach 1 Xyz Material from this card; negate the effects of all other face-up monsters currently on the field, also their ATK and DEF become their original ATK and DEF, and if you do any of these, during the Battle Phase this turn, each time an opponent's card effect resolves, this card gains 1000 ATK until the end of the Battle Phase, also, it can make a second attack during each Battle Phase this turn.",
+    "desc": "2 Level 8 monsters\nOnce per Battle Phase, at the start of your Battle Phase: You can detach 1 material from this card; all other face-up monsters currently on the field have their effects negated, also their ATK and DEF become their original ATK and DEF, and if you do any of these, during the Battle Phase this turn, each time an opponent's card effect resolves, this card gains 1000 ATK until the end of the Battle Phase, also, it can make a second attack during each Battle Phase this turn.",
     "str1": "Negate effect",
     "str2": "",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "LTGY-JP044",
         "pack": "LTGY",
         "rarity": "Number 107: Galaxy-Eyes Tachyon Dragon",
-        "date": 1360972800000
+        "date": "2013-02-16"
     },
     "tcg": {
         "id": 88177324,
         "pack_id": "LTGY-EN044",
         "pack": "LTGY",
         "rarity": "Number 107: Galaxy-Eyes Tachyon Dragon",
-        "date": 1368748800000
-    }
+        "date": "2013-05-17"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/0/09/Number107GalaxyEyesTachyonDragon-BLLR-EN-UR-1E.png/revision/latest?"
 }

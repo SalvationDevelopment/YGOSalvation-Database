@@ -32,10 +32,10 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 15367030,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Miracle of Nature",
+        "pack": "Miracle of Nature",
         "rarity": "Gokibore",
-        "date": 942883200000
+        "date": "1999-11-18"
     },
     "tcg": {
         "id": 15367030,
@@ -43,5 +43,6 @@
         "pack": "MDP2",
         "rarity": "Gokibore",
         "date": 1167091200000
-    }
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/c/cc/Gokibore-MDP2-EN-R-LE.jpg/revision/latest?"
 }

@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 8327462,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "All Fusion Monsters",
+        "pack": "All Fusion Monsters",
         "rarity": "Skullbird",
-        "date": 931132800000
+        "date": "1999-07-05"
     },
     "tcg": {
         "id": 8327462,
         "pack_id": "OP02-EN022",
         "pack": "OP02",
         "rarity": "Skullbird",
-        "date": 1469059200000
-    }
+        "date": "2016-07-21"
+    },
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/3/3d/Skullbird-OP02-EN-SP-UE.png/revision/latest?"
 }

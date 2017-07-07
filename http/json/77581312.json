@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 77581312,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Warrior Collection A",
+        "pack": "Warrior Collection A",
         "rarity": "Masked Clown",
-        "date": 920678400000
+        "date": "1999-03-06"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/a/ad/MaskedClown-SB-JP-C.jpg/revision/latest?"
 }

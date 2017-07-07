@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Predaplast",
-    "desc": "Reveal any number of \"Predap\" cards in your hand, then target that many face-up monsters your opponent controls; place 1 Predator Counter on each of those monsters, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter. If a \"Predaplant\" monster you control would be destroyed by battle, you can banish this card from your Graveyard instead.",
+    "desc": "Reveal any number of \"Predap\" cards in your hand, then target that many face-up monsters your opponent controls; place 1 Predator Counter on each of those monsters, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter. If a \"Predaplant\" monster you control would be destroyed by battle, you can banish this card from your GY instead.",
     "str1": "Banish Predator Blast",
     "str2": "",
     "str3": "",
@@ -35,7 +35,8 @@
         "pack_id": "DBLE-JP005",
         "pack": "DBLE",
         "rarity": "Predaplast",
-        "date": 1480118400000
+        "date": "2016-11-26"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/f/f1/Predaplast-DBLE-JP-UPR.png/revision/latest?"
 }

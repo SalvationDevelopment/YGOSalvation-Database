@@ -10,8 +10,8 @@
     "race": 32768,
     "attribute": 32,
     "category": 0,
-    "name": "Performapal Odd-Eyes Minotaur",
-    "desc": "Pendulum Effect\nIf a \"Performapal\" or \"Odd-Eyes\" monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.\n\nMonster Effect\nIf a Pendulum Monster you control attacks an opponent's monster, during damage calculation: You can make that opponent's monster lose 100 ATK for each \"Performapal\" and \"Odd-Eyes\" card you control, during that damage calculation only.",
+    "name": "Performapal Odd-Eyes Minitaurus",
+    "desc": "Pendulum Effect\nIf your \"Performapal\" or \"Odd-Eyes\" monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.\n\nMonster Effect\nDuring damage calculation, if your Pendulum Monster attacks an opponent's monster: You can make that opponent's monster lose 100 ATK for each \"Performapal\" and \"Odd-Eyes\" card you control, during damage calculation only.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,12 @@
         "pack_id": "CP17-JP002",
         "pack": "CP17",
         "rarity": "Performapal Odd-Eyes Minotaur\n",
-        "date": 1494633600000
+        "date": "2017-05-13"
     },
-    "tcg": {}
+    "tcg": {
+        "date": "2017-07-06",
+        "pack": "BLLR",
+        "pack_id": "BLLR-EN002"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/c/c6/PerformapalOddEyesMinitaurus-BLLR-EN-UR-1E.png/revision/latest?"
 }

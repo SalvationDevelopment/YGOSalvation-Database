@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Cactus Bouncer",
-    "desc": "This card cannot be Special Summoned. While a Plant-Type monster other than this card is face-up on the field, neither player can Special Summon monsters.",
+    "desc": "Cannot be Special Summoned. While another Plant monster is on the field, neither player can Special Summon monsters.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "EXP3-JP035",
         "pack": "EXP3",
         "rarity": "Cactus Bouncer",
-        "date": 1284768000000
+        "date": "2010-09-18"
     },
     "tcg": {
         "id": 31615285,
         "pack_id": "ABPF-EN084",
         "pack": "ABPF",
         "rarity": "Cactus Bouncer",
-        "date": 1265932800000
-    }
+        "date": "2010-02-12"
+    },
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/2/26/CactusBouncer-BLLR-EN-UR-1E.png/revision/latest?"
 }

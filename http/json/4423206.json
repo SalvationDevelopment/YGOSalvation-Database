@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 3407872,
     "name": "M-X-Saber Invoker",
-    "desc": "2 Level 3 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; Special Summon 1 Level 4 EARTH Warrior or Beast-Warrior-Type monster from your Deck, in Defense Position, but destroy it during the End Phase.",
+    "desc": "2 Level 3 monsters\nOnce per turn: You can detach 1 material from this card; Special Summon 1 Level 4 EARTH Warrior or Beast-Warrior monster from your Deck, in Defense Position, but destroy it during the End Phase.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "DB12-JPS03",
         "pack": "DB12",
         "rarity": "M-X-Saber Invoker",
-        "date": 1322265600000
+        "date": "2011-11-26"
     },
     "tcg": {
         "id": 4423206,
         "pack_id": "ORCS-EN099",
         "pack": "ORCS",
         "rarity": "M-X-Saber Invoker",
-        "date": 1326499200000
-    }
+        "date": "2012-01-14"
+    },
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/b/b4/MXSaberInvoker-BLLR-EN-ScR-1E.png/revision/latest?"
 }

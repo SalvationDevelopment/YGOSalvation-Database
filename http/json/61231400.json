@@ -33,15 +33,16 @@
     "ocg": {
         "id": 61231400,
         "pack_id": "CBLZ-JP041",
-        "pack": "ＣＯＳＭＯ　ＢＬＡＺＥＲ",
+        "pack": "TLM",
         "rarity": "共通",
-        "date": null
+        "date": "2013-02-13"
     },
     "tcg": {
         "id": 61231400,
         "pack_id": "CBLZ-EN041",
         "pack": "CBLZ",
         "rarity": "Pyrotech Mech - Shiryu",
-        "date": 1359072000000
-    }
+        "date": "2013-01-25"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/c/c8/PyrotechMechShiryu-BP02-EN-R-1E.png/revision/latest?"
 }

@@ -10,8 +10,8 @@
     "race": 32,
     "attribute": 1,
     "category": 1,
-    "name": "Superheavy Samurai Steam Fiend Tetsudo'o",
-    "desc": "1 \"Superheavy Samurai\" Tuner + 2 or more non-Tuner \"Superheavy Samurai\" monsters\nThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. Once per turn: You can discard up to 2 cards, then target that many cards your opponent controls; destroy them. Once per turn: You can banish as many Spell/Traps from the GY as possible, and if you do, inflict 200 damage to your opponent for each card banished.",
+    "name": "Superheavy Samurai Steam Train King",
+    "desc": "1 \"Superheavy Samurai\" Tuner + 2+ non-Tuner \"Superheavy Samurai\" monsters\nThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. Once per turn: You can discard up to 2 cards, then target that many cards your opponent controls; destroy them. Once per turn: You can banish all Spells and Traps from the GYs, and if you do, inflict 200 damage to your opponent for each card banished.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,12 @@
         "pack_id": "CP17-JP011",
         "pack": "CP17",
         "rarity": "Superheavy Samurai Steam Fiend Tetsudo'o",
-        "date": 1494633600000
+        "date": "2017-05-13"
     },
-    "tcg": {}
+    "tcg": {
+        "date": "2017-07-06",
+        "pack": "CP17",
+        "pack_id": "CP17-JP011"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/1/14/SuperheavySamuraiSteamTrainKing-BLLR-EN-UR-1E.png/revision/latest?"
 }

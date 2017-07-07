@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 94716515,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Harpie Lady",
+        "pack": "Harpie Lady",
         "rarity": "Eradicating Aerosol",
-        "date": 932601600000
+        "date": "1999-07-22"
     },
     "tcg": {
         "id": 94716515,
         "pack_id": "GLD4-EN034",
         "pack": "GLD4",
         "rarity": "Eradicating Aerosol",
-        "date": 1308873600000
-    }
+        "date": "2011-06-24"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/8/83/EradicatingAerosol-GLD4-EN-C-LE.png/revision/latest?"
 }

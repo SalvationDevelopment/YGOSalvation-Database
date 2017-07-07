@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 24194033,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "All Normal Monsters",
+        "pack": "All Normal Monsters",
         "rarity": "Dorover",
-        "date": 922492800000
+        "date": "1999-03-27"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/7/71/Dorover-V2-JP-C.jpg/revision/latest?"
 }

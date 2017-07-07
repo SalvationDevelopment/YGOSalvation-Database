@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 64154377,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "All Normal Monsters",
+        "pack": "All Normal Monsters",
         "rarity": "Embryonic Beast",
-        "date": 920246400000
+        "date": "1999-03-01"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/9/94/EmbryonicBeast-B01-JP-C.jpg/revision/latest?"
 }

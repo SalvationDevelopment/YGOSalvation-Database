@@ -10,7 +10,7 @@
     "race": 0,
     "attribute": 0,
     "category": 0,
-    "name": "Trickstar Lightstage",
+    "name": "Trickstar Light Stage",
     "desc": "When this card is activated: You can add 1 \"Trickstar\" monster from your Deck to your hand. Once per turn: You can target 1 Set card in your opponent's Spell & Trap Zone; while this card is face-up on the field, that Set card cannot be activated until the End Phase, also during that End Phase, your opponent must activate it or send it to the GY. Each time a \"Trickstar\" monster you control inflicts battle or effect damage to your opponent, inflict 200 damage to your opponent.",
     "str1": "",
     "str2": "",
@@ -35,7 +35,8 @@
         "pack_id": "COTD-JP053",
         "pack": "COTD",
         "rarity": "Trickstar Lightstage",
-        "date": 1492214400000
+        "date": "2017-04-15"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/f/fc/TrickstarLightStage-COTD-JP-C.png/revision/latest?"
 }

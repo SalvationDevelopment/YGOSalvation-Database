@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 1,
     "name": "Stargrail Shrine Maiden Eve",
-    "desc": "Link Arrows: [🡰] [🡲] \n\n2 monsters with different Types and Attributes\nWhile this card is linked, it cannot be destroyed by battle or card effects, also your opponent cannot target it with card effects. If a monster(s) this card points to would be destroyed by a card effect, you can send this card to the GY instead. If this card is sent from the field to the GY: You can Special Summon 1 \"Stargrail\" monster from your hand.",
+    "desc": "Link Arrows: [🡰] [🡲]\n\n2 monsters with different Types and Attributes\nWhile this card is linked, it cannot be destroyed by battle or card effects, also your opponent cannot target it with card effects. If a monster(s) this card points to would be destroyed by a card effect, you can send this card to the GY instead. If this card is sent from the field to the GY: You can Special Summon 1 \"Stargrail\" monster from your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -38,7 +38,8 @@
         "pack_id": "COTD-JP048",
         "pack": "COTD",
         "rarity": "Stargrail Shrine Maiden Eve",
-        "date": 1492214400000
+        "date": "2017-04-15"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/2/28/StargrailShrineMaidenEve-COTD-JP-R.png/revision/latest?"
 }

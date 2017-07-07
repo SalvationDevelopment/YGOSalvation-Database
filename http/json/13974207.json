@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Denko Sekka",
-    "desc": "Cannot be Special Summoned. While you control no Set Spell/Trap Cards, neither player can Set Spell/Trap Cards nor activate Spell/Trap Cards that are Set on the field.",
+    "desc": "Cannot be Special Summoned. While you control no Set Spells/Traps, neither player can Set Spells/Traps nor activate Spell/Trap Cards that are Set on the field.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "NECH-JP041",
         "pack": "NECH",
         "rarity": "Denko Sekka",
-        "date": 1405728000000
+        "date": "2014-07-19"
     },
     "tcg": {
         "id": 13974207,
         "pack_id": "NECH-EN041",
         "pack": "NECH",
         "rarity": "Denko Sekka",
-        "date": 1415232000000
-    }
+        "date": "2014-11-06"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/3/33/DenkoSekka-BLLR-EN-ScR-1E.png/revision/latest?"
 }

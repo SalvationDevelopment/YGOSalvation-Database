@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Red Rising Dragon",
-    "desc": "1 Fiend-Type Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: You can target 1 \"Resonator\" monster in your GY; Special Summon it. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except DARK Dragon-Type Synchro Monsters. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 2 Level 1 \"Resonator\" monsters in your GY; Special Summon both of them.",
+    "desc": "1 Fiend Tuner + 1+ non-Tuner monsters\nWhen this card is Synchro Summoned: You can target 1 \"Resonator\" monster in your GY; Special Summon it. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except DARK Dragon Synchro Monsters. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 2 Level 1 \"Resonator\" monsters in your GY; Special Summon both of them.",
     "str1": "Special Summon \"Resonator\"",
     "str2": "Special Summon Level 1 \"Resonator\"",
     "str3": "",
@@ -35,7 +35,8 @@
         "pack_id": "VP16-JP002",
         "pack": "VP16",
         "rarity": "Red Rising Dragon",
-        "date": 1469059200000
+        "date": "2016-07-21"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/e/ee/RedRisingDragon-VP16-JP-UR.png/revision/latest?"
 }

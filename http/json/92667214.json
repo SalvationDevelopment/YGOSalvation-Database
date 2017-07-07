@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 92667214,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Shadows in the Labyrinth",
+        "pack": "Shadows in the Labyrinth",
         "rarity": "Clown Zombie",
-        "date": 948931200000
+        "date": "2000-01-27"
     },
     "tcg": {
         "id": 92667214,
         "pack_id": "TP6-EN020",
         "pack": "TP6",
         "rarity": "Clown Zombie",
-        "date": 1117584000000
-    }
+        "date": "2005-06-01"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/4/48/ClownZombie-TP6-EN-C-UE.jpg/revision/latest?"
 }

@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 14181608,
-        "pack_id": null,
-        "pack": "Booster 7",
+        "pack_id": "Mechanical Trap Power",
+        "pack": "Mechanical Trap Power",
         "rarity": "共通",
-        "date": 951886800000
+        "date": "2000-03-01"
     },
     "tcg": {
         "id": 14181608,
         "pack_id": "CP08-EN012",
         "pack": "CP08",
         "rarity": "Mushroom Man",
-        "date": 1231113600000
-    }
+        "date": "2009-01-05"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/4/46/MushroomMan-CP08-EN-C-UE.jpg/revision/latest?"
 }

@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 61201220,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Zombie Collection",
+        "pack": "Zombie Collection",
         "rarity": "Phantom Ghost",
-        "date": 920246400000
+        "date": "1999-03-01"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/0/07/PhantomGhost-B01-JP-C.jpg/revision/latest?"
 }

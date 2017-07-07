@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Vision HERO Witch Raider",
-    "desc": "To Tribute Summon this card face-up, you can Tribute Traps(s) you control, as well as monsters. When this card is Normal Summoned: You can destroy all Spells and Traps your opponent controls. You cannot Special Summon monsters the turn you activate this effect, except \"HERO\" monsters.",
+    "desc": "To Tribute Summon this card face-up, you can Tribute Trap(s) you control, as well as monsters. When this card is Normal Summoned: You can destroy all Spells and Traps your opponent controls. You cannot Special Summon monsters during the turn you activate this effect, except \"HERO\" monsters.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,12 @@
         "pack_id": "CP17-JP030",
         "pack": "CP17",
         "rarity": "Vision HERO Witch Raider",
-        "date": 1494633600000
+        "date": "2017-05-13"
     },
-    "tcg": {}
+    "tcg": {
+        "date": "2017-07-06",
+        "pack": "CP17",
+        "pack_id": "CP17-JP030"
+    },
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/4/4f/VisionHEROWitchRaider-BLLR-EN-ScR-1E.png/revision/latest?"
 }

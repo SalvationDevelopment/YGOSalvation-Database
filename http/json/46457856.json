@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 46457856,
-        "pack_id": null,
-        "pack": "Vol.1",
+        "pack_id": "Dark Magician",
+        "pack": "Dark Magician",
         "rarity": "共通",
-        "date": 918104400000
+        "date": "1999-02-04"
     },
     "tcg": {
         "id": 46457856,
         "pack_id": "LCJW-EN144",
         "pack": "LCJW",
         "rarity": "Tomozaurus",
-        "date": 1381449600000
-    }
+        "date": "2013-10-11"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/e/ea/Tomozaurus-LCJW-EN-C-1E.png/revision/latest?"
 }

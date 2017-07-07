@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 39399168,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Pink Millennium Eye",
+        "pack": "Pink Millennium Eye",
         "rarity": "Resurrection of Chakra",
-        "date": 953769600000
+        "date": "2000-03-23"
     },
     "tcg": {
         "id": 39399168,
         "pack_id": "NUMH-EN053",
         "pack": "NUMH",
         "rarity": "Resurrection of Chakra",
-        "date": 1373587200000
-    }
+        "date": "2013-07-12"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/a/ad/ResurrectionofChakra-NUMH-EN-SR-1E.png/revision/latest?"
 }

@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Time Maiden",
-    "desc": "If you control no monsters, you can Special Summon this card (from your hand). This card can be treated as 2 Tributes for the Tribute Summon of a \"Timelord\" monster. You can Tribute this card; add 1 \"Timelord\" monster with 0 ATK from your Deck to your hand. You can banish this card from your GY; Special Summon 1 \"Timelord\" monster with 0 ATK from your Deck, ignoring its Summoning conditions. You cannot Special Summon other monsters the turn you activate this effect.",
+    "desc": "If you control no monsters, you can Special Summon this card (from your hand). This card can be treated as 2 Tributes for the Tribute Summon of a \"Timelord\" monster. You can Tribute this card; add 1 \"Timelord\" monster with 0 ATK from your Deck to your hand. You can banish this card from your GY; Special Summon 1 \"Timelord\" monster with 0 ATK from your Deck, ignoring its Summoning conditions. You cannot Special Summon other monsters during the turn you activate this effect.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -32,10 +32,15 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 27107590,
-        "pack_id": "Female",
-        "pack": "Female",
+        "pack_id": "CP17-JP040",
+        "pack": "CP17",
         "rarity": "Time Maiden",
-        "date": 1494633600000
+        "date": "2017-05-13"
     },
-    "tcg": {}
+    "tcg": {
+        "date": "2017-07-06",
+        "pack": "CP17",
+        "pack_id": "CP17-JP040"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/9/91/TimeMaiden-BLLR-EN-ScR-1E.png/revision/latest?"
 }

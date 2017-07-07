@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 40575313,
-        "pack_id": null,
-        "pack": "Starter Box 劇場限定版",
+        "pack_id": "Invitation to the Dark",
+        "pack": "Invitation to the Dark",
         "rarity": "共通",
-        "date": 920696400000
+        "date": "1999-03-06"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/7/73/ShadowSpecter-SB-JP-C.jpg/revision/latest?"
 }

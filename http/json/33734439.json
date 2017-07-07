@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 33734439,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Special Gift Collection",
+        "pack": "Special Gift Collection",
         "rarity": "Three-Legged Zombies",
-        "date": 928195200000
+        "date": "1999-06-01"
     },
     "tcg": {
         "id": 33734439,
         "pack_id": "MP1-010",
         "pack": "MP1",
         "rarity": "Three-Legged Zombies",
-        "date": 1040342400000
-    }
+        "date": "2002-12-20"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/c/cc/ThreeLeggedZombies-LCYW-EN-SR-1E.jpg/revision/latest?"
 }

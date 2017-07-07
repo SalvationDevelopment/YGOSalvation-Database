@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Ojama Token",
-    "desc": "Special Summoned with the effect of \"Ojama Trio\". This Token cannot be used as a Tribute for a Tribute Summon. When it is destroyed, the controller takes 300 damage.",
+    "desc": "This card can be used as an \"Ojama Token\".\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,6 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {}
+    "ocg": {
+        "pack": "17TP",
+        "pack_id": "17TP-JP315",
+        "date": "2017-07-01"
+    },
+    "tcg": {},
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/1/16/OjamaToken-17TP-JP-C.png/revision/latest?"
 }

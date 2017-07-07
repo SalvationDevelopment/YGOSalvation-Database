@@ -32,10 +32,10 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 96967123,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Machine Collection A",
+        "pack": "Machine Collection A",
         "rarity": "Dharma Cannon",
-        "date": 935625600000
+        "date": "1999-08-26"
     },
     "tcg": {
         "id": 96967123,
@@ -43,5 +43,6 @@
         "pack": "TP2",
         "rarity": "Dharma Cannon",
         "date": 1033430400000
-    }
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/b/be/DharmaCannon-TP2-NA-C-UE.jpg/revision/latest?"
 }

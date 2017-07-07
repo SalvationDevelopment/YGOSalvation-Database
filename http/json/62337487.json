@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 62337487,
-        "pack_id": null,
-        "pack": "Dark Ceremony Edition",
+        "pack_id": "Mechanical Trap Power",
+        "pack": "Mechanical Trap Power",
         "rarity": "スーパーレア仕様",
-        "date": 953787600000
+        "date": "2000-03-23"
     },
     "tcg": {
         "id": 62337487,
         "pack_id": "TP7-EN003",
         "pack": "TP7",
         "rarity": "Fortress Whale",
-        "date": 1130803200000
-    }
+        "date": "2005-11-01"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/1/18/FortressWhale-TP7-EN-SR-UE.png/revision/latest?"
 }

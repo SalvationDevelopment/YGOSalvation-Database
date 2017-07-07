@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Magibullet Shooter Caspar",
-    "desc": "You can activate \"Magibullet\" Spells/Traps from your hand during either player's turn. If a \"Magibullet\" Spell/Trap is activated in the same column as this card: You can add 1 \"Magibullet\" card with a different name from that activated card from your Deck to your hand. You can only use this effect of \"Magibullet Shooter Caspar\" once per turn.",
+    "desc": "You can activate \"Magibullet\" Spells/Traps from your hand during either player's turn. If a Spell/Trap is activated in the same column as this card: You can add 1 \"Magibullet\" card with a different name from that activated card from your Deck to your hand. You can only use this effect of \"Magibullet Shooter Caspar\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -32,10 +32,11 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 100419016,
-        "pack_id": "DBSW-JP0??",
+        "pack_id": "DBSW-JP016",
         "pack": "DBSW",
         "rarity": "Magibullet Shooter Caspar",
-        "date": 1502409600000
+        "date": "2017-08-11"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/b/bd/MagibulletShooterCaspar-DBSW-JP-OP.png/revision/latest?"
 }

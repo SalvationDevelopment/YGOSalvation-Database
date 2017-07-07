@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 51228280,
-        "pack_id": null,
-        "pack": "Vol.5",
+        "pack_id": "Gate Guardian",
+        "pack": "Gate Guardian",
         "rarity": "レア仕様",
-        "date": 938062800000
+        "date": "1999-09-23"
     },
     "tcg": {
         "id": 51228280,
         "pack_id": "MDP2-EN018",
         "pack": "MDP2",
         "rarity": "Dungeon Worm",
-        "date": 1167091200000
-    }
+        "date": "2006-12-26"
+    },
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/1/1d/DungeonWorm-LCJW-EN-C-1E.png/revision/latest?"
 }

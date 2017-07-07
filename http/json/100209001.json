@@ -14,7 +14,11 @@
     "race": 16777216,
     "attribute": 16,
     "name": "Cyberse Accelerator",
-    "desc": "Link Arrows: [🡰], [🡳], [🡲]\n\n2+ monsters, except Tokens\nDuring the Battle Phase: You can target 1 Cyberse monster this card points to, then activate 1 of these Quick Effects;\n● It gains 2000 ATK until the end of this turn.\n● It can make up to 2 attacks on monsters during each Battle Phase this turn.\nThis card cannot attack the turn this effect is activated. You can only use this effect of \"Cyberse Accelerator\" once per turn.",
-    "links": "[🡰], [🡳], [🡲]",
+    "desc": "Link Arrows: [🡰] [🡳] [🡲]\n\n2+ monsters, except Tokens\nDuring the Battle Phase: You can target 1 Cyberse monster this card points to, then activate 1 of these Quick Effects;\n● It gains 2000 ATK until the end of this turn.\n● It can make up to 2 attacks on monsters during each Battle Phase this turn.\nThis card cannot attack the turn this effect is activated. You can only use this effect of \"Cyberse Accelerator\" once per turn.",
+    "links": [
+        3,
+        4,
+        6
+    ],
     "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/a/a2/CyberseAccelerator-VP17-JP-OP.png/revision/latest?"
 }

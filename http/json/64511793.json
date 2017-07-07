@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 64511793,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Warrior Collection A",
+        "pack": "Warrior Collection A",
         "rarity": "Eyearmor",
-        "date": 918086400000
+        "date": "1999-02-04"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/5/54/Eyearmor-V1-JP-C.jpg/revision/latest?"
 }

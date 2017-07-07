@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 65393205,
-        "pack_id": null,
-        "pack": "Dark Ceremony Edition",
+        "pack_id": "Black Luster Soldier",
+        "pack": "Black Luster Soldier",
         "rarity": "スーパーレア仕様",
-        "date": 953787600000
+        "date": "2000-03-23"
     },
     "tcg": {
         "id": 65393205,
         "pack_id": "NUMH-EN052",
         "pack": "NUMH",
         "rarity": "Chakra",
-        "date": 1373587200000
-    }
+        "date": "2013-07-12"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/4/48/Chakra-NUMH-EN-SR-1E.png/revision/latest?"
 }

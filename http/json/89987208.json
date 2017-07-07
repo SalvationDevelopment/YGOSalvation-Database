@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 89987208,
-        "pack_id": null,
-        "pack": "Vol.7",
+        "pack_id": "Launcher Spider",
+        "pack": "Launcher Spider",
         "rarity": "共通",
-        "date": 948949200000
+        "date": "2000-01-27"
     },
     "tcg": {
         "id": 89987208,
         "pack_id": "LCJW-EN019",
         "pack": "LCJW",
         "rarity": "Hero of the East",
-        "date": 1381449600000
-    }
+        "date": "2013-10-11"
+    },
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/d/dd/HerooftheEast-LCJW-EN-C-1E.png/revision/latest?"
 }

@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 11793047,
-        "pack_id": null,
-        "pack": "Booster 4",
+        "pack_id": "Pack 7",
+        "pack": "Pack 7",
         "rarity": "共通",
-        "date": 935643600000
+        "date": "1999-08-26"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/7/7e/GorgonEgg-B04-JP-C.jpg/revision/latest?"
 }

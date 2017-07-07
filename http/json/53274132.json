@@ -33,15 +33,16 @@
     "ocg": {
         "id": 53274132,
         "pack_id": "CSOC-JP017",
-        "pack": "",
+        "pack": "CSOC",
         "rarity": "",
-        "date": 1216425600000
+        "date": "2008-07-19"
     },
     "tcg": {
         "id": 53274132,
         "pack_id": "CSOC-EN017",
         "pack": "CSOC",
         "rarity": "Iron Chain Repairman",
-        "date": 1225497600000
-    }
+        "date": "2008-11-01"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/6/67/IronChainRepairman-CSOC-EN-R-1E.jpg/revision/latest?"
 }

@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 8208,
     "name": "Missus Radiant",
-    "desc": "Link Arrows: [🡷] [🡶] \n\n2 EARTH monsters\nAll EARTH monsters on the field gain 500 ATK and DEF. All WIND monsters on the field lose 400 ATK and DEF. If this card is destroyed by battle or card effect: You can target 1 EARTH monster in your GY; add it to your hand. You can only use this effect of \"Missus Radiant\" once per turn.",
+    "desc": "Link Arrows: [🡷] [🡶]\n\n2 EARTH monsters\nAll EARTH monsters on the field gain 500 ATK and DEF. All WIND monsters on the field lose 400 ATK and DEF. If this card is destroyed by battle or card effect: You can target 1 EARTH monster in your GY; add it to your hand. You can only use this effect of \"Missus Radiant\" once per turn.",
     "str1": " ",
     "str2": " ",
     "str3": " ",
@@ -38,7 +38,8 @@
         "pack_id": "COTD-JP052",
         "pack": "COTD",
         "rarity": "Missus Radiant",
-        "date": 1492214400000
+        "date": "2017-04-15"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/7/76/MissusRadiant-COTD-JP-R.png/revision/latest?"
 }

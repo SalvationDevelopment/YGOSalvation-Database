@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 1,
     "name": "Raidraptor - Final Fortress Falcon",
-    "desc": "3 Level 12 monsters\nWhile this card has a \"Raidraptor\" Xyz Monster as material, it is unaffected by other cards' effects. Once per turn: You can detach 1 material from this card; return all of your banished \"Raidraptor\" monsters to the GY. Up to twice per turn, when this attacking card destroys a monster by battle: You can banish 1 \"Raidraptor\" monster from your GY; this card can attack again in a row.",
+    "desc": "3 Level 12 monsters\nIf this card has a \"Raidraptor\" Xyz Monster as Xyz Material, it is unaffected by other cards' effects. Once per turn: You can detach 1 material from this card; return all your banished \"Raidraptor\" monsters to your GY. Up to twice per turn, when this attacking card destroys a monster by battle: You can banish 1 \"Raidraptor\" Xyz Monster from your GY; this card can attack again in a row.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,12 @@
         "pack_id": "CP17-JP015",
         "pack": "CP17",
         "rarity": "Raidraptor - Final Fortress Falcon",
-        "date": 1494633600000
+        "date": "2017-05-13"
     },
-    "tcg": {}
+    "tcg": {
+        "date": "2017-07-06",
+        "pack": "CP17",
+        "pack_id": "CP17-JP015"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/2/22/RaidraptorFinalFortressFalcon-BLLR-EN-UR-1E.png/revision/latest?"
 }

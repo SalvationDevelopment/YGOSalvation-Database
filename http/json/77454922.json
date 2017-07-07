@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 77454922,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Mechanical Trap Power",
+        "pack": "Mechanical Trap Power",
         "rarity": "Fortress Whale's Oath",
-        "date": 953769600000
+        "date": "2000-03-23"
     },
     "tcg": {
         "id": 77454922,
         "pack_id": "TP7-EN011",
         "pack": "TP7",
         "rarity": "Fortress Whale's Oath",
-        "date": 1130803200000
-    }
+        "date": "2005-11-01"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/8/87/FortressWhalesOath-TP7-EN-C-UE.jpg/revision/latest?"
 }

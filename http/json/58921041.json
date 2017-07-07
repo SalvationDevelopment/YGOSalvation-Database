@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Anti-Spell Fragrance",
-    "desc": "Both players must Set Spell Cards before activating them, and cannot activate them until their next turn.",
+    "desc": "Both players must Set Spell Cards before activating them, and cannot activate them until their next turn after Setting them.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "G4-07",
         "pack": "G4",
         "rarity": "Anti-Spell Fragrance",
-        "date": 976147200000
+        "date": "2000-12-07"
     },
     "tcg": {
         "id": 58921041,
         "pack_id": "PCY-002",
         "pack": "PCY",
         "rarity": "Anti-Spell Fragrance",
-        "date": 1069113600000
-    }
+        "date": "2003-11-18"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/0/07/AntiSpellFragrance-BLLR-EN-UR-1E.png/revision/latest?"
 }

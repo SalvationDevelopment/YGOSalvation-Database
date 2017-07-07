@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 29948642,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "All Normal Monsters",
+        "pack": "All Normal Monsters",
         "rarity": "Dig Beak",
-        "date": 920246400000
+        "date": "1999-03-01"
     },
     "tcg": {
         "id": 29948642,
         "pack_id": "TP7-EN019",
         "pack": "TP7",
         "rarity": "Dig Beak",
-        "date": 1130803200000
-    }
+        "date": "2005-11-01"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/9/92/DigBeak-TP7-EN-C-UE.jpg/revision/latest?"
 }

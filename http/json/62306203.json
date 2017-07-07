@@ -10,8 +10,8 @@
     "race": 16777216,
     "attribute": 16,
     "category": 1,
-    "name": "Salvegent Driver",
-    "desc": "If a Cyberse Link Monster(s) you control is destroyed by an opponent's card effect, while this card is in your hand or GY: You can Special Summon this card. You can discard 1 Spell, then target 1 Cyberse monster in your GY; Special Summon it, but it cannot attack directly this turn. You can only use each effect of \"Salvegent Driver\" once per turn.",
+    "name": "Salvagent Driver",
+    "desc": "If a Cyberse Link Monster(s) you control is destroyed by an opponent's card effect, while this card is in your hand or GY: You can Special Summon this card. You can discard 1 Spell, then target 1 Cyberse monster in your GY; Special Summon it, but it cannot attack directly this turn. You can only use each effect of \"Salvagent Driver\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,8 @@
         "pack_id": "COTD-JP005",
         "pack": "COTD",
         "rarity": "Salvegent Driver",
-        "date": 1492214400000
+        "date": "2017-04-15"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/f/f0/SalvagentDriver-COTD-JP-SR.png/revision/latest?"
 }

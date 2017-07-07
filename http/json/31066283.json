@@ -32,10 +32,10 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 31066283,
-        "pack_id": null,
-        "pack": "公式カードカタログ ザ・ヴァリュアブル・ブック 1 付録カード",
+        "pack_id": "TP2-KR010",
+        "pack": "TP2",
         "rarity": "ウルトラレア仕様",
-        "date": 935125200000
+        "date": "1999-08-20"
     },
     "tcg": {
         "id": 31066283,
@@ -43,5 +43,6 @@
         "pack": "TP2",
         "rarity": "Revival of Dokurorider",
         "date": 1033430400000
-    }
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/c/c0/RevivalofDokurorider-TP2-NA-R-UE.jpg/revision/latest?"
 }

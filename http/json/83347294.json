@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 1,
     "name": "Odd-Eyes Lancer Dragon",
-    "desc": "If a Pendulum Monster(s) you control is destroyed by battle or card effect, while this card is in your hand: You can Tribute 1 monster; Special Summon this card. If this card attacks, your opponent cannot activate any Spell/Traps until the end of the Damage Step. If an \"Odd-Eyes\" card(s) you control would be destroyed by battle or card effect, you can destroy 1 \"Odd-Eyes\" card in your hand, Monster Zone, or Pendulum Zone instead.",
+    "desc": "If a Pendulum Monster you control is destroyed by battle or card effect: You can Tribute 1 monster; Special Summon this card from your hand. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If an \"Odd-Eyes\" card(s) you control would be destroyed by battle or card effect, you can destroy 1 \"Odd-Eyes\" card in your hand, Monster Zone, or Pendulum Zone instead.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,12 @@
         "pack_id": "CP17-JP001",
         "pack": "CP17",
         "rarity": "Odd-Eyes Lancer Dragon",
-        "date": 1494633600000
+        "date": "2017-05-13"
     },
-    "tcg": {}
+    "tcg": {
+        "date": "2017-07-06",
+        "pack": "BLLR",
+        "pack_id": "BLLR-EN001"
+    },
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/9/90/OddEyesLancerDragon-BLLR-EN-UR-1E.png/revision/latest?"
 }

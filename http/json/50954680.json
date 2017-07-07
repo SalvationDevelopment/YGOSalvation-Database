@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 0,
     "name": "Crystal Wing Synchro Dragon",
-    "desc": "1 Tuner + 1 or more non-Tuner Synchro Monsters\nOnce per turn, during either player's turn, when another monster's effect is activated: You can negate the activation, and if you do, destroy that monster, and if you do that, this card gains ATK equal to the destroyed monster's original ATK until the end of this turn. If this card battles a Level 5 or higher monster your opponent controls, during damage calculation: This card gains ATK equal to the current ATK of the opponent's monster it is battling during that damage calculation only.",
+    "desc": "1 Tuner + 1+ non-Tuner Synchro Monsters\nOnce per turn, when another monster's effect is activated (Quick Effect): You can negate the activation, and if you do, destroy that monster, and if you do that, this card gains ATK equal to the destroyed monster's original ATK until the end of this turn. If this card battles an opponent's Level 5 or higher monster, during damage calculation: This card gains ATK equal to the current ATK of the opponent's monster it is battling during that damage calculation only.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "SHVI-JP049",
         "pack": "SHVI",
         "rarity": "Crystal Wing Synchro Dragon",
-        "date": 1452297600000
+        "date": "2016-01-09"
     },
     "tcg": {
         "id": 50954680,
         "pack_id": "SHVI-EN049",
         "pack": "SHVI",
         "rarity": "Crystal Wing Synchro Dragon",
-        "date": 1462406400000
-    }
+        "date": "2016-05-05"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/7/75/CrystalWingSynchroDragon-BLLR-EN-ScR-1E.png/revision/latest?"
 }

@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 7562372,
-        "pack_id": null,
-        "pack": "Limited Edition － 城之内パック －",
+        "pack_id": "Rulings",
+        "pack": "Rulings",
         "rarity": "シークレットレア仕様",
-        "date": 928213200000
+        "date": "1999-06-01"
     },
     "tcg": {
         "id": 7562372,
         "pack_id": "MP1-008",
         "pack": "MP1",
         "rarity": "Megasonic Eye",
-        "date": 1040342400000
-    }
+        "date": "2002-12-20"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/5/5b/MegasonicEye-LCYW-EN-SR-1E.jpg/revision/latest?"
 }

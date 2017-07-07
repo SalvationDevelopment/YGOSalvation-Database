@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 81933259,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Pink Millennium Eye",
+        "pack": "Pink Millennium Eye",
         "rarity": "Beastly Mirror Ritual",
-        "date": 945475200000
+        "date": "1999-12-18"
     },
     "tcg": {
         "id": 81933259,
         "pack_id": "PRC1-EN002",
         "pack": "PRC1",
         "rarity": "Beastly Mirror Ritual",
-        "date": 1331856000000
-    }
+        "date": "2012-03-16"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/f/fd/BeastlyMirrorRitual-PRC1-EN-SR-1E.png/revision/latest?"
 }

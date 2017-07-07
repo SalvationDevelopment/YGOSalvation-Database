@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 38116136,
-        "pack_id": null,
-        "pack": "Booster 5",
+        "pack_id": "Pack 7",
+        "pack": "Pack 7",
         "rarity": "共通",
-        "date": 940136400000
+        "date": "1999-10-17"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/a/ae/MachineAttacker-B05-JP-C.jpg/revision/latest?"
 }

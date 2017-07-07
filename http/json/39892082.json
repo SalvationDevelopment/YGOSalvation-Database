@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 71303168,
     "name": "Balloon Lizard",
-    "desc": "Put 1 counter on this card during each of your Standby Phases. When this card is destroyed, inflict damage to the controller of the card that destroyed it equal to the number of counters X 400 points.",
+    "desc": "Put 1 counter on this card during each of your Standby Phases. When this card is destroyed, inflict damage to the controller of the card that destroyed it equal to the number of counters x 400 points.",
     "str1": "カウンターを乗せる",
     "str2": "ダメージを与える",
     "str3": "",
@@ -42,6 +42,7 @@
         "pack_id": "IOC-072",
         "pack": "IOC",
         "rarity": "Balloon Lizard",
-        "date": 1078099200000
-    }
+        "date": "2004-03-01"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/6/61/BalloonLizard-DR2-EN-C-UE.png/revision/latest?"
 }

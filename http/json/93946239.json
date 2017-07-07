@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 264,
     "name": "Into the Void",
-    "desc": "Activate only if you have 3 or more cards in your hand. Draw 1 card. During the End Phase of this turn, discard all the cards in your hand.",
+    "desc": "If you have 3 or more cards in your hand: Draw 1 card, and if you do, during the End Phase of this turn, discard your entire hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "TSHD-JP049",
         "pack": "TSHD",
         "rarity": "Into the Void",
-        "date": 1266624000000
+        "date": "2010-02-20"
     },
     "tcg": {
         "id": 93946239,
         "pack_id": "TSHD-EN049",
         "pack": "TSHD",
         "rarity": "Into the Void",
-        "date": 1273190400000
-    }
+        "date": "2010-05-07"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/1/1d/IntotheVoid-BLLR-EN-UR-1E.png/revision/latest?"
 }

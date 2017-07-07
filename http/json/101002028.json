@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 0,
     "name": "Mermail Abyssnereia",
-    "desc": "You can discard this card, then target 1 WATER monster you control (Quick Effect); destroy 1 other WATER monster you control or in your hand, and if you do, the targeted monster gains ATK and DEF equal to the destroyed monster's original ATK and DEF until the end of this turn. If this card is sent from the field to the GY: You can draw 1 card, then discard 1 card. You can only use each effect of \"Mermail Abyssnereia\" once per turn.",
+    "desc": "Quick Effect: You can discard this card, then target 1 WATER monster you control; destroy 1 other WATER monster you control or in your hand, and if you do, the targeted monster gains ATK and DEF equal to the destroyed monster's original ATK and DEF until the end of this turn. If this card is sent from the field to the GY: You can draw 1 card, then discard 1 card. You can only use each effect of \"Mermail Abyssnereia\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,8 @@
         "pack_id": "CIBR-JP028",
         "pack": "CIBR",
         "rarity": "Mermail Abyssnelia",
-        "date": 1499472000000
+        "date": "2017-07-08"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/d/d1/MermailAbyssnereia-CIBR-JP-C.png/revision/latest?"
 }

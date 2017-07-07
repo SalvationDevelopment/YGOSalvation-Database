@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Trigate Wizard",
-    "desc": "Link Markers: Top, Left, Right\n\n2+ monsters, except Tokens\nThis card gains these effects depending on the number of monsters in a Mutual Link with it.\n● 1 or more: If a monster in a Mutual Link with this card battles an opponent's monster, any battle damage it inflicts to your opponent is doubled.\n● 2 or more: Once per turn: You can target 1 card on the field; banish it.\n● 3: Once per turn, when a card or effect is activated (Quick Effect): You can negate the activation, and if you do, banish that card.",
+    "desc": "Link Arrows: [🡱] [🡰] [🡲]\n\n2+ monsters, except Tokens\nThis card gains these effects depending on the number of monsters co-linked with it.\n● 1 or more: If a monster co-linked with this card battles an opponent's monster, any battle damage it inflicts to your opponent is doubled.\n● 2 or more: Once per turn: You can target 1 card on the field; banish it.\n● 3: Once per turn, when a card or effect is activated (Quick Effect): You can negate the activation, and if you do, banish that card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -39,7 +39,8 @@
         "pack_id": "SD32-JP042",
         "pack": "SD32",
         "rarity": "Trigate Wizard",
-        "date": 1497657600000
+        "date": "2017-06-17"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/d/d6/TrigateWizard-SD32-JP-UR.png/revision/latest?"
 }

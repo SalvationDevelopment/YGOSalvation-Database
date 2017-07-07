@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Performapal Odd-Eyes Dissolver",
-    "desc": "Pendulum Effect\nOnce per turn: You can Fusion Summon 1 Dragon Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials.\n\nMonster Effect\nAt the start of the Damage Step, if a Pendulum Monster you control battles an opponent's monster: You can Special Summon this card from your hand, and if you do, that monster you control cannot be destroyed by that battle. You can only use this effect of \"Performapal Odd-Eyes Dissolver\" once per turn. Once per turn: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using cards in your Pendulum Zones and/or monsters you control as Fusion Materials, including this card.",
+    "desc": "Pendulum Effect\nOnce per turn: You can Fusion Summon 1 Dragon Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials.\n\nMonster Effect\nAt the start of the Damage Step, if your Pendulum Monster battles an opponent's monster: You can Special Summon this card from your hand, and if you do, your monster cannot be destroyed by that battle. You can only use this effect of \"Performapal Odd-Eyes Dissolver\" once per turn. During your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using this card you control as Fusion Material, as well as other monsters you control or cards in your Pendulum Zones.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,12 @@
         "pack_id": "CP17-JP003",
         "pack": "CP17",
         "rarity": "Performapal Odd-Eyes Dissolver\n",
-        "date": 1494633600000
+        "date": "2017-05-13"
     },
-    "tcg": {}
+    "tcg": {
+        "date": "2017-07-06",
+        "pack": "BLLR",
+        "pack_id": "BLLR-EN003"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/0/02/PerformapalOddEyesDissolver-BLLR-EN-UR-1E.png/revision/latest?"
 }

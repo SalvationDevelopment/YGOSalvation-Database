@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Kamion, the Timelord",
-    "desc": "Cannot be Special Summoned from the Deck. If you control no monsters, you can Normal Summon this card without Tributing. Cannot be destroyed by battle or card effects, also you take no battle damage from attacks involving this card. At the end of the Battle Phase, if this card battled: Shuffle 1 card your opponent controls into the Deck, and if you do, inflict 500 damage to your opponent. Neither player can activate cards or effects in response to this effect's activation. Once per turn, during your Standby Phase: Shuffle this card into the Deck.",
+    "desc": "Cannot be Special Summoned from the Deck. If you control no monsters, you can Normal Summon this card without Tributing. Cannot be destroyed by battle or card effects. You take no battle damage from attacks involving this card. At the end of the Battle Phase, if this card battled: Shuffle 1 card your opponent controls into the Deck, and if you do, inflict 500 damage to your opponent. Neither player can activate cards or effects in response to this effect's activation. Once per turn, during your Standby Phase: Shuffle this card into the Deck.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,12 @@
         "pack_id": "CP17-JP039",
         "pack": "CP17",
         "rarity": "Kamion, the Timelord",
-        "date": 1494633600000
+        "date": "2017-05-13"
     },
-    "tcg": {}
+    "tcg": {
+        "date": "2017-07-06",
+        "pack": "CP17",
+        "pack_id": "CP17-JP039"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/f/fb/KamiontheTimelord-BLLR-EN-UR-1E.png/revision/latest?"
 }

@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 43905751,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Fiend Collection A",
+        "pack": "Fiend Collection A",
         "rarity": "Madjinn Gunn",
-        "date": 920678400000
+        "date": "1999-03-06"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/0/0b/MadjinnGunn-SB-JP-C.png/revision/latest?"
 }

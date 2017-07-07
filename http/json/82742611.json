@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 82742611,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "All Normal Monsters",
+        "pack": "All Normal Monsters",
         "rarity": "Serpent Marauder",
-        "date": 920678400000
+        "date": "1999-03-06"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/9/99/SerpentMarauder-SB-JP-C.jpg/revision/latest?"
 }

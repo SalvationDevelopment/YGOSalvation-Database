@@ -32,10 +32,11 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 68870276,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Harpie Lady",
+        "pack": "Harpie Lady",
         "rarity": "Fiend Reflection #1",
-        "date": 932601600000
+        "date": "1999-07-22"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/9/96/FiendReflection1-V4-JP-C.jpg/revision/latest?"
 }

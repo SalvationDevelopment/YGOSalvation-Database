@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 15507080,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Spellcaster Collection A",
+        "pack": "Spellcaster Collection A",
         "rarity": "Sectarian of Secrets",
-        "date": 918086400000
+        "date": "1999-02-04"
     },
     "tcg": {
         "id": 15507080,
         "pack_id": "TP8-EN019",
         "pack": "TP8",
         "rarity": "Sectarian of Secrets",
-        "date": 1146182400000
-    }
+        "date": "2006-04-28"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/1/1d/SectarianofSecrets-TP8-EN-C-UE.jpg/revision/latest?"
 }

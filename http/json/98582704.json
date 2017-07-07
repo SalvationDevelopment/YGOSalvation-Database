@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 98582704,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Fairy Collection",
+        "pack": "Fairy Collection",
         "rarity": "Wing Egg Elf",
-        "date": 938044800000
+        "date": "1999-09-23"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/4/4d/WingEggElf-V5-JP-C.jpg/revision/latest?"
 }

@@ -10,7 +10,7 @@
     "race": 32768,
     "attribute": 32,
     "category": 0,
-    "name": "Gladiator Beast Andabatae",
+    "name": "Gladiator Beast Andabata",
     "desc": "\"Gladiator Beast Augustus\" + 2 \"Gladiator Beast\" monsters\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) If Summoned this way: You can Special Summon 1 Level 7 or lower \"Gladiator Beast\" Fusion Monster from your Extra Deck, ignoring its Summoning conditions. At the end of the Battle Phase, if this card battled: You can return it to the Extra Deck; Special Summon 2 \"Gladiator Beast\" monsters from your Deck.",
     "str1": "",
     "str2": "",
@@ -35,7 +35,12 @@
         "pack_id": "CP17-JP026",
         "pack": "CP17",
         "rarity": "Gladiator Beast Andabatae\n",
-        "date": 1494633600000
+        "date": "2017-05-13"
     },
-    "tcg": {}
+    "tcg": {
+        "date": "2017-07-06",
+        "pack": "CP17",
+        "pack_id": "CP17-JP026"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/b/b7/GladiatorBeastAndabata-BLLR-EN-UR-1E.png/revision/latest?"
 }

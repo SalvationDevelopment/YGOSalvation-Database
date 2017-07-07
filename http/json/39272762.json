@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": -1073700864,
     "name": "Neo Galaxy-Eyes Photon Dragon",
-    "desc": "3 Level 8 monsters\nWhen this card is Xyz Summoned using \"Galaxy-Eyes Photon Dragon\" as any of its Materials: Negate the effects of all other face-up cards currently on the field. Once per turn: You can detach 1 Xyz Material from this card; detach all Xyz Materials from monsters your opponent controls, then this card gains 500 ATK for each, also it can attack up to that many times during each Battle Phase this turn.",
+    "desc": "3 Level 8 monsters\nIf this card is Xyz Summoned using \"Galaxy-Eyes Photon Dragon\" as any of its materials: All other face-up cards currently on the field have their effects negated. Once per turn: You can detach 1 material from this card; detach all materials from monsters your opponent controls, then this card gains 500 ATK for each, also it can attack up to that many times during each Battle Phase this turn.",
     "str1": "Negate effect",
     "str2": "取除素材",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "GAOV-JP041",
         "pack": "GAOV",
         "rarity": "Neo Galaxy-Eyes Photon Dragon",
-        "date": 1329523200000
+        "date": "2012-02-18"
     },
     "tcg": {
         "id": 39272762,
         "pack_id": "GAOV-EN041",
         "pack": "GAOV",
         "rarity": "Neo Galaxy-Eyes Photon Dragon",
-        "date": 1335571200000
-    }
+        "date": "2012-04-28"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/c/c1/NeoGalaxyEyesPhotonDragon-BLLR-EN-UR-1E.png/revision/latest?"
 }

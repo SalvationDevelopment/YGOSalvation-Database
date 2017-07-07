@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Metaphys Factor",
-    "desc": "Each turn, 1 Level 5 or higher \"Metaphys\" monster you Normal Summon can be Summoned without Tributing, but if you do so using this effect, banish that monster during the End Phase of next turn (even if this card leaves the field). Your opponent cannot activate cards or effects in response to the activation of your \"Metaphys\" monsters' effects.",
+    "desc": "Each turn, 1 Level 5 or higher \"Metaphys\" monster you Normal Summon can be Summoned without Tributing, but if you do so using this effect, banish that monster during the End Phase of the next turn (even if this card leaves the field). Your opponent cannot activate cards or effects in response to the activation of your \"Metaphys\" monsters' effects.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,8 @@
         "pack_id": "CIBR-JP059",
         "pack": "CIBR",
         "rarity": "Metaphys Factor",
-        "date": 1499472000000
+        "date": "2017-07-08"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/6/6b/MetaphysFactor-CIBR-JP-C.png/revision/latest?"
 }

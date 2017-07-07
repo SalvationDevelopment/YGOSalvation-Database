@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 1,
     "name": "Hydralander the Orbital Shadowlite Weapon",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) while all monsters in your GY have different names from each other (min. 5), and cannot be Special Summoned by other ways. Once per turn (Quick Effect): You can send the top 3 cards of your Deck to the GY; destroy 1 card on the field. All monsters in your GY must have different names from each other (min. 2) to activate and to resolve this effect.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) while all monsters in your GY have different names from each other (min. 5). Once per turn (Quick Effect): You can send the top 3 cards of your Deck to the GY; destroy 1 card on the field. All monsters in your GY must have different names from each other (min. 2) to activate and to resolve this effect.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,8 @@
         "pack_id": "COTD-JP035",
         "pack": "COTD",
         "rarity": "Hydralander the Orbital Shadowlite Weapon",
-        "date": 1492214400000
+        "date": "2017-04-15"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/4/42/HydralandertheOrbitalShadowliteWeapon-COTD-JP-C.png/revision/latest?"
 }

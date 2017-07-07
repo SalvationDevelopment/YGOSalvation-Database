@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262155,
     "name": "Judgment Dragon",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 4 or more \"Lightsworn\" monsters with different names in your Graveyard, and cannot be Special Summoned by other ways. You can pay 1000 LP; destroy all other cards on the field. Once per turn, during your End Phase: Send the top 4 cards of your Deck to the Graveyard.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 4 or more \"Lightsworn\" monsters with different names in your GY. You can pay 1000 LP; destroy all other cards on the field. Once per turn, during your End Phase: Send the top 4 cards of your Deck to the GY.",
     "str1": "Special Summon",
     "str2": "Destroy",
     "str3": "从卡组送4张卡去墓地",
@@ -35,13 +35,14 @@
         "pack_id": "LODT-JP026",
         "pack": "LODT",
         "rarity": "Judgment Dragon",
-        "date": 1203724800000
+        "date": "2008-02-23"
     },
     "tcg": {
         "id": 57774843,
         "pack_id": "LODT-EN026",
         "pack": "LODT",
         "rarity": "Judgment Dragon",
-        "date": 1209772800000
-    }
+        "date": "2008-05-03"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/a/a7/JudgmentDragon-BLLR-EN-UR-1E.png/revision/latest?"
 }

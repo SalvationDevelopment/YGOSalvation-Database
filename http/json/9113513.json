@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Ostinato",
-    "desc": "If you control no monsters: Fusion Summon 1 \"Melodious\" Fusion Monster from your Extra Deck, using 2 monsters from your hand or Deck as Fusion Materials. During the End Phase of this turn, destroy the monster Fusion Summoned by this effect, and if you do, if all the Fusion Materials that were used for its Fusion Summon are in your Graveyard, you can Special Summon all of them.",
+    "desc": "If you control no monsters: Fusion Summon 1 \"Melodious\" Fusion Monster from your Extra Deck, using 2 monsters from your hand or Deck as Fusion Materials. During the End Phase of this turn, destroy the monster Fusion Summoned by this effect, and if you do, if all the Fusion Materials that were used for its Fusion Summon are in your GY, you can Special Summon all of them.",
     "str1": "Special Summon Fusion Materials",
     "str2": "",
     "str3": "",
@@ -35,7 +35,8 @@
         "pack_id": "DBLE-JP006",
         "pack": "DBLE",
         "rarity": "Ostinato",
-        "date": 1480118400000
+        "date": "2016-11-26"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/1/19/Ostinato-DBLE-JP-UPR.png/revision/latest?"
 }

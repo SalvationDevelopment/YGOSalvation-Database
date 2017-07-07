@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 66836598,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "All Normal Monsters",
+        "pack": "All Normal Monsters",
         "rarity": "Waterdragon Fairy",
-        "date": 948931200000
+        "date": "2000-01-27"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/9/9c/WaterdragonFairy-V7-JP-C.png/revision/latest?"
 }

@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 732302,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Zombie Collection",
+        "pack": "Zombie Collection",
         "rarity": "Temple of Skulls",
-        "date": 931132800000
+        "date": "1999-07-05"
     },
     "tcg": {
         "id": 732302,
         "pack_id": "TP8-EN016",
         "pack": "TP8",
         "rarity": "Temple of Skulls",
-        "date": 1146182400000
-    }
+        "date": "2006-04-28"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/1/1e/TempleofSkulls-OP02-EN-SP-UE.png/revision/latest?"
 }

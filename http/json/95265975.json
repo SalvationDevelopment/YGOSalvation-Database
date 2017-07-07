@@ -32,10 +32,11 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 95265975,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Zombie Collection",
+        "pack": "Zombie Collection",
         "rarity": "Ghoul with an Appetite",
-        "date": 948931200000
+        "date": "2000-01-27"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/9/97/GhoulwithanAppetite-V7-JP-C-Reprint.png/revision/latest?"
 }

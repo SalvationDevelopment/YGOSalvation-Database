@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 0,
-    "name": "Abyss Script - Abyss Entertainment",
-    "desc": "You can Tribute 1 \"Abyss Actor\" monster, then target 1 \"Abyss Script\" Spell in your GY; Set that card. You can only use this effect of \"Abyss Script - Abyss Entertainment\" up to twice per turn. If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can Special Summon any number of \"Abyss Actor\" Pendulum Monsters from your Deck.",
+    "name": "Abyss Script - Abysstainment",
+    "desc": "You can Tribute 1 \"Abyss Actor\" monster, then target 1 \"Abyss Script\" Spell in your GY; Set it to your field. You can use this effect of \"Abyss Script - Abysstainment\" up to twice per turn. If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can Special Summon any number of \"Abyss Actor\" Pendulum Monsters from your Deck.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,12 @@
         "pack_id": "CP17-JP013",
         "pack": "CP17",
         "rarity": "Abyss Script - Abyss Entertainment",
-        "date": 1494633600000
+        "date": "2017-05-13"
     },
-    "tcg": {}
+    "tcg": {
+        "date": "2017-07-06",
+        "pack": "CP17",
+        "pack_id": "CP17-JP013"
+    },
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/8/88/AbyssScriptAbysstainment-BLLR-EN-UR-1E.png/revision/latest?"
 }

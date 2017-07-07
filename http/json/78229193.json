@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 1,
     "name": "White Aura Dolphin",
-    "desc": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn: You can target 1 face-up monster your opponent controls; its ATK becomes half its original ATK until the end of this turn. If this card you control is destroyed by an opponent's card (by battle or card effect) and sent to your GY: You can banish 1 other WATER monster from your GY; Special Summon this card, and if you do, it is treated as a Tuner.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn: You can target 1 face-up monster your opponent controls; its ATK becomes half its original ATK until the end of this turn. If this card you control is destroyed by an opponent's card (by battle or card effect) and sent to your GY: You can banish 1 other WATER monster from your GY; Special Summon this card, and if you do, it is treated as a Tuner.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,12 @@
         "pack_id": "CP17-JP019",
         "pack": "CP17",
         "rarity": "White Aura Dolphin",
-        "date": 1494633600000
+        "date": "2017-05-13"
     },
-    "tcg": {}
+    "tcg": {
+        "date": "2017-07-06",
+        "pack": "CP17",
+        "pack_id": "CP17-JP019"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/c/c7/WhiteAuraDolphin-BLLR-EN-ScR-1E.png/revision/latest?"
 }

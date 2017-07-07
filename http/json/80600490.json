@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 80600490,
-        "pack_id": null,
-        "pack": "Starter Box",
+        "pack_id": "Warrior Collection A",
+        "pack": "Warrior Collection A",
         "rarity": "共通",
-        "date": 921733200000
+        "date": "1999-03-18"
     },
     "tcg": {
         "id": 80600490,
         "pack_id": "LCJW-EN014",
         "pack": "LCJW",
         "rarity": "Kageningen",
-        "date": 1381449600000
-    }
+        "date": "2013-10-11"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/a/a4/Kageningen-LCJW-EN-C-1E.png/revision/latest?"
 }

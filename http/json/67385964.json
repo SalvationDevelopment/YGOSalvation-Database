@@ -10,8 +10,8 @@
     "race": 32768,
     "attribute": 32,
     "category": 1,
-    "name": "Gladiator Beast Noxius",
-    "desc": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand, and if you do, change the attack target to this card and perform damage calculation, also this card cannot be destroyed by that battle. If this card is Special Summoned by a \"Gladiator Beast\" monster's effect: You can send 1 \"Gladiator Beast\" monster from your Deck to the GY. At the end of the Battle Phase, if this card battled: You can shuffle this card into the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Noxius\".",
+    "name": "Gladiator Beast Noxious",
+    "desc": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand, and if you do, change the attack target to this card, and proceed to damage calculation. This card cannot be destroyed by that battle. If this card is Special Summoned by the effect of a \"Gladiator Beast\" monster: You can send 1 \"Gladiator Beast\" monster from your Deck to the GY. At the end of the Battle Phase, if this card battled: You can shuffle it into the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Noxious\".",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,12 @@
         "pack_id": "CP17-JP025",
         "pack": "CP17",
         "rarity": "Gladiator Beast Noxius",
-        "date": 1494633600000
+        "date": "2017-05-13"
     },
-    "tcg": {}
+    "tcg": {
+        "date": "2017-07-06",
+        "pack": "CP17",
+        "pack_id": "CP17-JP025"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/5/52/GladiatorBeastNoxious-BLLR-EN-ScR-1E.png/revision/latest?"
 }

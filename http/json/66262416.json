@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 1,
     "name": "Destiny HERO - Dreamer",
-    "desc": "During damage calculation, if a \"Destiny HERO\" monster you control battles while this card is in your GY: You can Special Summon this card, and if you do, make that monster you control unable be destroyed by that battle, you take no battle damage from that battle, also banish this card when it leaves the field. You can only use this effect of \"Destiny HERO - Dreamer\" once per turn.",
+    "desc": "During damage calculation, if your \"Destiny HERO\" monster battles and this card is in your GY: You can Special Summon this card, make that monster unable to be destroyed by that battle, and if you do, you take no battle damage from that battle. If Summoned this way, banish this card when it leaves the field. You can only use this effect of \"Destiny HERO - Dreamer\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,12 @@
         "pack_id": "CP17-JP028",
         "pack": "CP17",
         "rarity": "Destiny HERO - Dreamguy",
-        "date": 1494633600000
+        "date": "2017-05-13"
     },
-    "tcg": {}
+    "tcg": {
+        "date": "2017-07-06",
+        "pack": "CP17",
+        "pack_id": "CP17-JP028"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/0/0b/DestinyHERODreamer-BLLR-EN-UR-1E.png/revision/latest?"
 }

@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 96643568,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "All Normal Monsters",
+        "pack": "All Normal Monsters",
         "rarity": "Wetha",
-        "date": 940118400000
+        "date": "1999-10-17"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/c/c0/Wetha-B05-JP-C.jpg/revision/latest?"
 }

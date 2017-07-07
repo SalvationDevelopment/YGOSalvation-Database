@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 0,
     "name": "Zaphion, the Timelord",
-    "desc": "Cannot be Special Summoned from the Deck. If you control no monsters, you can Normal Summon this card without Tributing. Cannot be destroyed by battle or card effects, also you take no battle damage from attacks involving this card. At the end of the Battle Phase, if this card battled: Shuffle all Spells and Traps your opponent controls into the Deck. If this card is sent from the field to the GY: You can draw 1 card. Once per turn, during your Standby Phase: Shuffle this card into the Deck.",
+    "desc": "Cannot be Special Summoned from the Deck. If you control no monsters, you can Normal Summon this card without Tributing. Cannot be destroyed by battle or card effects. You take no battle damage from attacks involving this card. At the end of the Battle Phase, if this card battled: Shuffle all Spells and Traps your opponent controls into the Deck. If this card is sent from the field to the GY: You can draw 1 card. Once per turn, during your Standby Phase: Shuffle this card into the Deck.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,12 @@
         "pack_id": "CP17-JP037",
         "pack": "CP17",
         "rarity": "Zaphion, the Timelord",
-        "date": 1494633600000
+        "date": "2017-05-13"
     },
-    "tcg": {}
+    "tcg": {
+        "date": "2017-07-06",
+        "pack": "CP17",
+        "pack_id": "CP17-JP037"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/c/cd/ZaphiontheTimelord-BLLR-EN-UR-1E.png/revision/latest?"
 }

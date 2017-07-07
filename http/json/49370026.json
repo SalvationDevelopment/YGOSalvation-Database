@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 49370026,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Spellcaster Collection A",
+        "pack": "Spellcaster Collection A",
         "rarity": "Genin",
-        "date": 921715200000
+        "date": "1999-03-18"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/d/d1/Genin-SB-JP-C.jpg/revision/latest?"
 }

@@ -32,10 +32,11 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 44956694,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "SD32-JP006",
+        "pack": "SD32",
         "rarity": "ROM Cloudia",
-        "date": 1497657600000
+        "date": "2017-06-17"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/9/90/ROMCloudia-SD32-JP-NPR.png/revision/latest?"
 }

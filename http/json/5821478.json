@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 1,
     "name": "Topologic Bomber Dragon",
-    "desc": "Link Arrows: [🡱] [🡷] [🡳] [🡶] \n\n2+ Effect Monsters\nIf another monster(s) is Special Summoned to a zone a Link Monster on the field points to while this monster is on the field: Destroy all monsters in the Main Monster Zones, also, for the rest of this turn, other monsters you control cannot attack. If this card attacks an opponent's monster, after damage calculation: Inflict damage to your opponent equal to the original ATK of the opponent's monster.",
+    "desc": "Link Arrows: [🡱] [🡷] [🡳] [🡶]\n\n2+ Effect Monsters\nIf another monster(s) is Special Summoned to a zone a Link Monster on the field points to while this monster is on the field: Destroy all monsters in the Main Monster Zones, also, for the rest of this turn, other monsters you control cannot attack. If this card attacks an opponent's monster, after damage calculation: Inflict damage to your opponent equal to the original ATK of the opponent's monster.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,7 +40,8 @@
         "pack_id": "COTD-JP046",
         "pack": "COTD",
         "rarity": "Topologic Bomber Dragon",
-        "date": 1492214400000
+        "date": "2017-04-15"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/4/4d/TopologicBomberDragon-COTD-JP-UR.png/revision/latest?"
 }

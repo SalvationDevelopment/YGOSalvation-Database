@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 62210247,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Fairy Collection",
+        "pack": "Fairy Collection",
         "rarity": "Lunar Queen Elzaim",
-        "date": 920678400000
+        "date": "1999-03-06"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/f/fa/LunarQueenElzaim-SB-JP-C.jpg/revision/latest?"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 1,
     "name": "Supreme King Dragon Dark Rebellion",
-    "desc": "2 Level 4 DARK Pendulum Monsters\nOnce per turn, if this card battles an opponent's monster, before damage calculation: You can detach 1 material from this card; change the ATK of the opponent's monster to 0, and if you do, this card gains ATK equal to that monster's original ATK. These changes last until the end of this turn. During the Battle Phase (Quick Effect): You can return this card to the Extra Deck; Special Summon up to 2 face-up \"Supreme King Dragon\" and/or \"Supreme King Gate\" Pendulum Monsters from your Extra Deck in Defense Position.",
+    "desc": "2 Level 4 DARK Pendulum Monsters\nOnce per turn, if this card battles an opponent's monster, before damage calculation: You can detach 1 material from this card; change the ATK of the opponent's monster to 0, and if you do, this card gains ATK equal to that monster's original ATK (these changes last until the end of this turn). During the Battle Phase (Quick Effect): You can return this card to the Extra Deck; Special Summon up to 2 face-up \"Supreme King Dragon\" and/or \"Supreme King Gate\" Pendulum Monsters from your Extra Deck in Defense Position.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,8 @@
         "pack_id": "COTD-JP041",
         "pack": "COTD",
         "rarity": "Supreme King Dragon Dark Rebellion",
-        "date": 1492214400000
+        "date": "2017-04-15"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/3/3a/SupremeKingDragonDarkRebellion-COTD-JP-R.png/revision/latest?"
 }

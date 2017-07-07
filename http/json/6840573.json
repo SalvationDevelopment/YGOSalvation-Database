@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 6840573,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Red Eyes B. Dragon",
+        "pack": "Red Eyes B. Dragon",
         "rarity": "Barox",
-        "date": 927763200000
+        "date": "1999-05-27"
     },
     "tcg": {
         "id": 6840573,
         "pack_id": "AP02-EN018",
         "pack": "AP02",
         "rarity": "Barox",
-        "date": 1366329600000
-    }
+        "date": "2013-04-19"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/c/c4/Barox-AP02-EN-SP-UE.png/revision/latest?"
 }

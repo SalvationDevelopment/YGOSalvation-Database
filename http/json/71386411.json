@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Superheavy Samurai Fist",
-    "desc": "During your Battle Phase, if a \"Superheavy Samurai\" monster you controlled destroyed an opponent's monster by battle, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control. If you have no Spell/Traps in your GY and this card is in your GY: You can target 1 \"Superheavy Samurai\" Synchro Monster you control; you cannot Special Summon monsters for the rest of this turn, except \"Superheavy Samurai\" monsters, also reduce the targeted monster's Level by 1, and if you do, Special Summon this card. You can only use each effect of \"Superheavy Samurai Fist\" once per turn.",
+    "desc": "During your Battle Phase, if your \"Superheavy Samurai\" monster destroyed an opponent's monster by battle this Battle Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using materials you control, including this card. If you have no Spells/Traps in your GY: You can target 1 \"Superheavy Samurai\" Synchro Monster you control; reduce its Level by 1, and if you do, Special Summon this card from your GY, also you cannot Special Summon monsters for the rest of this turn, except \"Superheavy Samurai\" monsters. You can only use each effect of \"Superheavy Samurai Fist\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,12 @@
         "pack_id": "CP17-JP010",
         "pack": "CP17",
         "rarity": "Superheavy Samurai Kobu-C\n",
-        "date": 1494633600000
+        "date": "2017-05-13"
     },
-    "tcg": {}
+    "tcg": {
+        "date": "2017-07-06",
+        "pack": "CP17",
+        "pack_id": "CP17-JP010"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/a/a5/SuperheavySamuraiFist-BLLR-EN-UR-1E.png/revision/latest?"
 }

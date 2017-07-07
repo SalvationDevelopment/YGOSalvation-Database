@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 58074572,
-        "pack_id": null,
-        "pack": "Starter Box 劇場限定版",
+        "pack_id": "Miracle of Nature",
+        "pack": "Miracle of Nature",
         "rarity": "共通",
-        "date": 920696400000
+        "date": "1999-03-06"
     },
     "tcg": {
         "id": 58074572,
         "pack_id": "WCPP-EN020",
         "pack": "WCPP",
         "rarity": "Mooyan Curry",
-        "date": 1281744000000
-    }
+        "date": "2010-08-14"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/8/8c/MooyanCurry-WP11-EN-SR-LE.jpg/revision/latest?"
 }

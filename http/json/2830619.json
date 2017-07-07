@@ -32,10 +32,10 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 2830619,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Harpie Lady",
+        "pack": "Harpie Lady",
         "rarity": "Flame Viper",
-        "date": 932601600000
+        "date": "1999-07-22"
     },
     "tcg": {
         "id": 2830619,
@@ -43,5 +43,6 @@
         "pack": "MDP2",
         "rarity": "Flame Viper",
         "date": 1167091200000
-    }
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/3/3a/FlameViper-MDP2-EN-C-LE.png/revision/latest?"
 }

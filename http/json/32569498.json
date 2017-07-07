@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 32569498,
-        "pack_id": null,
-        "pack": "Booster 5",
+        "pack_id": "Pack 8",
+        "pack": "Pack 8",
         "rarity": "共通",
-        "date": 940136400000
+        "date": "1999-10-17"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/3/30/Korogashi-B05-JP-C.jpg/revision/latest?"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 512,
     "name": "Sangan",
-    "desc": "If this card is sent from the field to the Graveyard: Add 1 monster with 1500 or less ATK from your Deck to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. You can only use this effect of \"Sangan\" once per turn.",
+    "desc": "If this card is sent from the field to the GY: Add 1 monster with 1500 or less ATK from your Deck to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. You can only use this effect of \"Sangan\" once per turn.",
     "str1": "Search card group",
     "str2": "",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "ME-08",
         "pack": "ME",
         "rarity": "Sangan",
-        "date": 942883200000
+        "date": "1999-11-18"
     },
     "tcg": {
         "id": 26202165,
         "pack_id": "MRD-069",
         "pack": "MRD",
         "rarity": "Sangan",
-        "date": 1025049600000
-    }
+        "date": "2002-06-26"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/d/da/Sangan-YS17-EN-1E-OP.png/revision/latest?"
 }

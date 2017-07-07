@@ -30,6 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {}
+    "ocg": {
+        "pack": "Errata",
+        "pack_id": "Errata",
+        "date": "2013-02-21"
+    },
+    "tcg": {},
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/5/55/FluffToken-VJMP-JP-C.png/revision/latest?"
 }

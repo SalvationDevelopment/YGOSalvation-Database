@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 59750328,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "‎MP01-JP017",
+        "pack": "‎MP01",
         "rarity": "Card of Demise",
-        "date": 1450483200000
+        "date": "2015-12-19"
     },
     "tcg": {
         "id": 59750328,
         "pack_id": "MIL1-EN014",
         "pack": "MIL1",
         "rarity": "Card of Demise",
-        "date": 1460592000000
-    }
+        "date": "2016-04-14"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/b/b1/CardofDemise-MIL1-EN-UR-1E.png/revision/latest?"
 }

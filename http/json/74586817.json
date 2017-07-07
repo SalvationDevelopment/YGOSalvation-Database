@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "PSY-Framelord Omega",
-    "desc": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, during either player's Main Phase: You can banish this card from the field and 1 random card from your opponent's hand, face-up, until your next Standby Phase. Once per turn, during your opponent's Standby Phase: You can target 1 banished card; return it to the Graveyard. If this card is in your Graveyard: You can target 1 other card in either player's Graveyard; shuffle both that card and this card from the Graveyard into the Deck.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn, during the Main Phase (Quick Effect): You can banish both this face-up card from the field and 1 random card from your opponent's hand, face-up, until your next Standby Phase. Once per turn, during your opponent's Standby Phase: You can target 1 banished card; return it to the GY. If this card is in your GY: You can target 1 other card in the GY; shuffle both that card and this card from the GY into the Deck.",
     "str1": "Banish",
     "str2": "Back to Grave",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "SPHR-JP035",
         "pack": "SPHR",
         "rarity": "PSY-Framelord Omega",
-        "date": 1440201600000
+        "date": "2015-08-22"
     },
     "tcg": {
         "id": 74586817,
         "pack_id": "HSRD-EN035",
         "pack": "HSRD",
         "rarity": "PSY-Framelord Omega",
-        "date": 1443657600000
-    }
+        "date": "2015-10-01"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/b/bb/PSYFramelordOmega-BLLR-EN-ScR-1E.png/revision/latest?"
 }

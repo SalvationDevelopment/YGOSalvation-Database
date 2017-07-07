@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Encode Talker",
-    "desc": "Link Markers: Top, Bottom, Bottom-Right\n\n2+ Cyberse monsters\nOnce per turn, before damage calculation, if a monster you control that this card points to battles an opponent's monster with higher ATK: You can activate this effect; make that monster you control unable to be destroyed by that battle, you take no battle damage from that battle, also, after damage calculation, this card or 1 monster it points to gains ATK equal to the current ATK of that opponent's monster, until the end of this turn.",
+    "desc": "Link Arrows: [🡱] [🡳] [🡶]\n\n2+ Cyberse monsters\nOnce per turn, if your monster this card points to battles an opponent's monster with higher ATK, before damage calculation: You can activate this effect; make that monster you control unable to be destroyed by that battle, you take no battle damage from that battle, also, after damage calculation, this card or 1 monster it points to gains ATK equal to the current ATK of that opponent's monster, until the end of this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -39,7 +39,8 @@
         "pack_id": "SD32-JP041",
         "pack": "SD32",
         "rarity": "Encode Talker",
-        "date": 1497657600000
+        "date": "2017-06-17"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/e/e0/EncodeTalker-SD32-JP-UR.png/revision/latest?"
 }

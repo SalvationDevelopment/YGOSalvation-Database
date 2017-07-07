@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Gladiator Beast Tamer Editor",
-    "desc": "2 Level 5 or higher \"Gladiator Beast\" monsters\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) Cannot be used as a Fusion Material. Once per turn: You can Special Summon 1 \"Gladiator Beast\" Fusion Monster from your Extra Deck, except \"Gladiator Beast Tamer Editor\", ignoring its Summoning conditions. At the end of the Battle Phase, if a \"Gladiator Beast\" monster(s) you control battled: You can shuffle 1 of those monsters into the Deck or Extra Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck.",
+    "desc": "2 Level 5 or higher \"Gladiator Beast\" monsters\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) Cannot be used as Fusion Material. Once per turn: You can Special Summon 1 \"Gladiator Beast\" Fusion Monster from your Extra Deck, except \"Gladiator Beast Tamer Editor\", ignoring its Summoning conditions. At the end of the Battle Phase, if your \"Gladiator Beast\" monster battled: You can shuffle that monster into the Deck or Extra Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,12 @@
         "pack_id": "CP17-JP027",
         "pack": "CP17",
         "rarity": "Gladiator Beast Tamer Editor\n",
-        "date": 1494633600000
+        "date": "2017-05-13"
     },
-    "tcg": {}
+    "tcg": {
+        "date": "2017-07-06",
+        "pack": "CP17",
+        "pack_id": "CP17-JP027"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/b/bd/GladiatorBeastTamerEditor-BLLR-EN-ScR-1E.png/revision/latest?"
 }

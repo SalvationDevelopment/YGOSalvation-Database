@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Crystal Hoard",
-    "desc": "Once per turn, if a face-up \"Crystal Beast\" monster(s) you control is destroyed by battle or card effect: You can Special Summon 1 \"Crystal Beast\" monster from your Deck. You can send this face-up card from the field to the Graveyard, then target 1 \"Crystal Beast\" card you control and 1 other card on the field; return them to the hand. You cannot activate these effects in the same Chain.",
+    "desc": "Once per turn, if a face-up \"Crystal Beast\" monster(s) you control is destroyed by battle or card effect: You can Special Summon 1 \"Crystal Beast\" monster from your Deck. You can send this face-up card from the field to the GY, then target 1 \"Crystal Beast\" card you control and 1 other card on the field; return them to the hand. You cannot activate these effects in the same Chain.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,8 @@
         "pack_id": "SECE-JP084",
         "pack": "SECE",
         "rarity": "Crystal Hoard",
-        "date": 1416009600000
+        "date": "2014-11-15"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/9/92/CrystalHoard-SECE-JP-C.png/revision/latest?"
 }

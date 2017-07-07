@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 0,
     "name": "Sadion, the Timelord",
-    "desc": "Cannot be Special Summoned from the Deck. If you control no monsters, you can Normal Summon this card without Tributing. Cannot be destroyed by battle or card effects, also you take no battle damage from attacks involving this card. At the end of the Battle Phase, if this card battled and you have less than 4000 LP: Your LP becomes 4000. Once per turn, during your Standby Phase: Shuffle this card into the Deck.",
+    "desc": "Cannot be Special Summoned from the Deck. If you control no monsters, you can Normal Summon this card without Tributing. Cannot be destroyed by battle or card effects. You take no battle damage from attacks involving this card. At the end of the Battle Phase, if this card battled and your LP is less than 4000: Your LP becomes 4000. Once per turn, during your Standby Phase: Shuffle this card into the Deck.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,12 @@
         "pack_id": "CP17-JP038",
         "pack": "CP17",
         "rarity": "Sadion, the Timelord",
-        "date": 1494633600000
+        "date": "2017-05-13"
     },
-    "tcg": {}
+    "tcg": {
+        "date": "2017-07-06",
+        "pack": "CP17",
+        "pack_id": "CP17-JP038"
+    },
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/5/5c/SadiontheTimelord-BLLR-EN-UR-1E.png/revision/latest?"
 }

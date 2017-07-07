@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 71950093,
-        "pack_id": null,
-        "pack": "Vol.6",
+        "pack_id": "Great Moth",
+        "pack": "Great Moth",
         "rarity": "共通",
-        "date": 942901200000
+        "date": "1999-11-18"
     },
     "tcg": {
         "id": 71950093,
         "pack_id": "CP07-EN012",
         "pack": "CP07",
         "rarity": "Shovel Crusher",
-        "date": 1220227200000
-    }
+        "date": "2008-09-01"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/3/36/ShovelCrusher-CP07-EN-C-UE.png/revision/latest?"
 }

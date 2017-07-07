@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 49998907,
-        "pack_id": "EE3-JP113",
-        "pack": "Expert Edition Volume 3",
+        "pack_id": "RDS-JP053",
+        "pack": "RDS",
         "rarity": "共通",
-        "date": 1134018000000
+        "date": "2004-08-05"
     },
     "tcg": {
         "id": 49998907,
         "pack_id": "RDS-EN053",
-        "pack": "Rise Of Destiny",
+        "pack": "RDS",
         "rarity": "Common",
-        "date": 1101877200000
-    }
+        "date": "2004-11-20"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/7/7d/FruitsofKozaky%27sStudiesDR3-EN-C-UE.jpg/revision/latest?"
 }

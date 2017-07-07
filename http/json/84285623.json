@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 84285623,
-        "pack_id": null,
-        "pack": "Vol.1",
+        "pack_id": "Dark Magician",
+        "pack": "Dark Magician",
         "rarity": "共通",
-        "date": 918104400000
+        "date": "1999-02-04"
     },
     "tcg": {
         "id": 84285623,
         "pack_id": "TP7-EN016",
         "pack": "TP7",
         "rarity": "Haniwa",
-        "date": 1130803200000
-    }
+        "date": "2005-11-01"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/6/64/Haniwa-TP7-EN-C-UE.jpg/revision/latest?"
 }

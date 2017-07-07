@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 1,
     "name": "Stargrail Swordsman Aurum",
-    "desc": "Link Arrows: [🡷] [🡶] \n\n2 \"Stargrail\" monsters\nGains 300 ATK for each \"Starrelic\" monster with a different name in your GY. You can Tribute 1 \"Stargrail\" monster this card points to, then target 1 monster in your GY, except the Tributed monster; Special Summon it to your field to a zone this card points to. You can only use this effect of \"Stargrail Swordsman Aurum\" once per turn. If this card is sent from the field to the GY: You can Special Summon 1 \"Stargrail\" monster from your hand.",
+    "desc": "Link Arrows: [🡷] [🡶]\n\n2 \"Stargrail\" monsters\nGains 300 ATK for each \"Starrelic\" monster with a different name in your GY. You can Tribute 1 \"Stargrail\" monster this card points to, then target 1 monster in your GY, except the Tributed monster; Special Summon it to your field to a zone this card points to. You can only use this effect of \"Stargrail Swordsman Aurum\" once per turn. If this card is sent from the field to the GY: You can Special Summon 1 \"Stargrail\" monster from your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -38,7 +38,8 @@
         "pack_id": "COTD-JP049",
         "pack": "COTD",
         "rarity": "Stargrail Swordsman Aurum",
-        "date": 1492214400000
+        "date": "2017-04-15"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/1/1e/StargrailSwordsmanAurum-COTD-JP-SR.png/revision/latest?"
 }

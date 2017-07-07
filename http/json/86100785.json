@@ -32,10 +32,10 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 86100785,
-        "pack_id": null,
-        "pack": "Booster 4",
+        "pack_id": "Pack 8",
+        "pack": "Pack 8",
         "rarity": "共通",
-        "date": 935643600000
+        "date": "1999-08-26"
     },
     "tcg": {
         "id": 86100785,
@@ -43,5 +43,6 @@
         "pack": "MDP2",
         "rarity": "Zone Eater",
         "date": 1167091200000
-    }
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/6/63/ZoneEater-MDP2-EN-C-LE.jpg/revision/latest?"
 }

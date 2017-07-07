@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Jurassic Impact",
-    "desc": "If you control 2 or more Dinosaur monsters and your LP is lower than your opponent's: Destroy as many monsters on the field as possible, and if you do, take 1000 damage for monster destroyed, then inflict damage to your opponent equal to the damage you took. Until the end of the next turn after this card resolves, neither player can Normal or Special Summon monsters.",
+    "desc": "If you control 2 or more Dinosaur monsters and your LP is lower than your opponent's: Destroy as many monsters on the field as possible, and if you do, take 1000 damage for each monster destroyed, then inflict damage to your opponent, equal to the damage you took. Until the end of the next turn after this card is activated, neither player can Normal or Special Summon.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,12 @@
         "pack_id": "CP17-JP034",
         "pack": "CP17",
         "rarity": "Jurassic Impact",
-        "date": 1494633600000
+        "date": "2017-05-13"
     },
-    "tcg": {}
+    "tcg": {
+        "date": "2017-07-06",
+        "pack": "CP17",
+        "pack_id": "CP17-JP034"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/b/bc/JurassicImpact-BLLR-EN-UR-1E.png/revision/latest?"
 }

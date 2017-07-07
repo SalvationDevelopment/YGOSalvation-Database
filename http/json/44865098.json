@@ -32,10 +32,11 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 44865098,
-        "pack_id": null,
-        "pack": "Vol.7",
+        "pack_id": "Launcher Spider",
+        "pack": "Launcher Spider",
         "rarity": "共通",
-        "date": 948949200000
+        "date": "2000-01-27"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/7/7f/CyberSoldier-V7-JP-C.jpg/revision/latest?"
 }

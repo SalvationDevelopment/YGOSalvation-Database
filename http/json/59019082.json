@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 264,
     "name": "Garoth, Lightsworn Warrior",
-    "desc": "Each time a card(s) is sent from your Deck to the Graveyard by the effect of a \"Lightsworn\" monster you control, except \"Garoth, Lightsworn Warrior\": Send the top 2 cards of your Deck to the Graveyard, then draw 1 card for each \"Lightsworn\" monster sent to the Graveyard by this effect.",
+    "desc": "Each time a card(s) is sent from your Deck to the GY by the effect of a \"Lightsworn\" monster you control, except \"Garoth, Lightsworn Warrior\": Send the top 2 cards of your Deck to the GY, then draw 1 card for each \"Lightsworn\" monster sent to the GY by this effect.",
     "str1": "从卡组送2张卡去墓地",
     "str2": "",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "LODT-JP020",
         "pack": "LODT",
         "rarity": "Garoth, Lightsworn Warrior",
-        "date": 1203724800000
+        "date": "2008-02-23"
     },
     "tcg": {
         "id": 59019082,
         "pack_id": "LODT-EN020",
         "pack": "LODT",
         "rarity": "Garoth, Lightsworn Warrior",
-        "date": 1209772800000
-    }
+        "date": "2008-05-03"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/0/07/GarothLightswornWarrior-BLLR-EN-UR-1E.png/revision/latest?"
 }

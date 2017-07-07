@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 9197735,
-        "pack_id": null,
-        "pack": "Booster 6",
+        "pack_id": "Pack 12",
+        "pack": "Pack 12",
         "rarity": "共通",
-        "date": 944024400000
+        "date": "1999-12-01"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/6/66/DragonStatue-B06-JP-C.jpg/revision/latest?"
 }

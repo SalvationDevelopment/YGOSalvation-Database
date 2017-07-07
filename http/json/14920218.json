@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 0,
     "name": "Oafdragon Magician",
-    "desc": "Pendulum Effect\nIf you have a \"Magician\" card in your other Pendulum Zone: You can add 1 face-up \"Magician\" or \"Odd-Eyes\" Pendulum Monster from your Extra Deck to your hand, except \"Oafdragon Magician\". You can only use this effect of \"Oafdragon Magician\" once per turn.\n\nMonster Effect\nIf this card is Normal or Special Summoned: You can target 1 \"Magician\" Pendulum Monster or 1 \"Odd-Eyes\" monster in your Graveyard, except \"Oafdragon Magician\"; add it to your hand. You can only use this effect of \"Oafdragon Magician\" once per turn.",
+    "desc": "Pendulum Effect\nIf you have a \"Magician\" card in your other Pendulum Zone: You can add 1 face-up \"Magician\" or \"Odd-Eyes\" Pendulum Monster from your Extra Deck to your hand, except \"Oafdragon Magician\". You can only use this effect of \"Oafdragon Magician\" once per turn.\n\nMonster Effect\nIf this card is Normal or Special Summoned: You can target 1 \"Magician\" Pendulum Monster or \"Odd-Eyes\" monster in your Graveyard, except \"Oafdragon Magician\"; add it to your hand. You can only use this effect of \"Oafdragon Magician\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "SD29-JP004",
         "pack": "SD29",
         "rarity": "Oafdragon Magician",
-        "date": 1434758400000
+        "date": "2015-06-20"
     },
     "tcg": {
         "id": 14920218,
         "pack_id": "SDMP-EN004",
         "pack": "SDMP",
         "rarity": "Oafdragon Magician",
-        "date": 1449100800000
-    }
+        "date": "2015-12-03"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/c/c6/OafdragonMagician-PEVO-EN-SR-1E.png/revision/latest?"
 }

@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": -2147483640,
     "name": "Effect Veiler",
-    "desc": "During your opponent's Main Phase: You can send this card from your hand to the Graveyard, then target 1 face-up Effect Monster your opponent controls; that face-up monster your opponent controls has its effects negated until the end of this turn (this is a Quick Effect).",
+    "desc": "During your opponent's Main Phase (Quick Effect): You can send this card from your hand to the GY, then target 1 Effect Monster your opponent controls; that face-up monster your opponent controls has its effects negated until the end of this turn.",
     "str1": "怪兽的效果无效",
     "str2": "",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "DREV-JP002",
         "pack": "DREV",
         "rarity": "Effect Veiler",
-        "date": 1271462400000
+        "date": "2010-04-17"
     },
     "tcg": {
         "id": 97268402,
         "pack_id": "DREV-EN002",
         "pack": "DREV",
         "rarity": "Effect Veiler",
-        "date": 1281139200000
-    }
+        "date": "2010-08-07"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/d/d1/EffectVeiler-YS17-EN-1E-OP.png/revision/latest?"
 }

@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 17733394,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Zombie Collection",
+        "pack": "Zombie Collection",
         "rarity": "Wood Remains",
-        "date": 922492800000
+        "date": "1999-03-27"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/c/c6/WoodRemains-V2-JP-C.jpg/revision/latest?"
 }

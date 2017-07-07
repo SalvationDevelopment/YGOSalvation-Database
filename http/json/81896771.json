@@ -30,12 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "DREV",
+        "pack_id": "DREV-JP026",
+        "date": "2010-04-17"
+    },
     "tcg": {
         "id": 81896771,
         "pack_id": "DREV-EN026",
-        "pack": "Duelist Revolution",
+        "pack": "DREV",
         "rarity": "Common",
-        "date": 1282021200000
-    }
+        "date": "2010-08-07"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/f/f1/Wattpheasant-DREV-EN-C-1E.jpg/revision/latest?"
 }

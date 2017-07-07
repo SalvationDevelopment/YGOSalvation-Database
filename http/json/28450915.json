@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 28450915,
-        "pack_id": null,
-        "pack": "Booster 5",
+        "pack_id": "Pack 8",
+        "pack": "Pack 8",
         "rarity": "共通",
-        "date": 940136400000
+        "date": "1999-10-17"
     },
     "tcg": {
         "id": 28450915,
         "pack_id": "AP07-EN014",
         "pack": "AP07",
         "rarity": "Invader from Another Dimension",
-        "date": 1433376000000
-    }
+        "date": "2015-06-04"
+    },
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/2/24/InvaderfromAnotherDimension-AP07-EN-SP-UE.png/revision/latest?"
 }

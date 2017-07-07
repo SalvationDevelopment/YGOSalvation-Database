@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 56713552,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "All Normal Monsters",
+        "pack": "All Normal Monsters",
         "rarity": "Obese Marmot of Nefariousness",
-        "date": 927590400000
+        "date": "1999-05-25"
     },
     "tcg": {
         "id": 56713552,
         "pack_id": "WCPP-EN003",
         "pack": "WCPP",
         "rarity": "Obese Marmot of Nefariousness",
-        "date": 1281744000000
-    }
+        "date": "2010-08-14"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/e/ea/ObeseMarmotofNefariousness-WP11-EN-SR-LE.png/revision/latest?"
 }

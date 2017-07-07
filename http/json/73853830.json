@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 67117056,
     "name": "Crusader of Endymion",
-    "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n● Once per turn, you can place 1 Spell Counter on a face-up card on the field that you can place a Spell Counter on. If you do, this card gains 600 ATK until the End Phase.",
+    "desc": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● Once per turn: You can target 1 face-up card on the field that you can place a Spell Counter on; place 1 Spell Counter on it, and if you do, this card gains 600 ATK until the end of this turn.",
     "str1": "Place spell counter",
     "str2": "Select card to place a Spell Counter on",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "SOVR-JP030",
         "pack": "SOVR",
         "rarity": "Crusader of Endymion",
-        "date": 1247875200000
+        "date": "2009-07-18"
     },
     "tcg": {
         "id": 73853830,
         "pack_id": "SOVR-EN030",
         "pack": "SOVR",
         "rarity": "Crusader of Endymion",
-        "date": 1258416000000
-    }
+        "date": "2009-11-17"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/a/a7/CrusaderofEndymion-BLLR-EN-UR-1E.png/revision/latest?"
 }

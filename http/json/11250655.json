@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 11250655,
-        "pack_id": null,
-        "pack": "Booster 4",
+        "pack_id": "Pack 8",
+        "pack": "Pack 8",
         "rarity": "共通",
-        "date": 935643600000
+        "date": "1999-08-26"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/a/a6/EmperoroftheLandandSea-B04-JP-C.png/revision/latest?"
 }

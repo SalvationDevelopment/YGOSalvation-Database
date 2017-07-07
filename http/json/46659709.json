@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Galaxy Soldier",
-    "desc": "You can send 1 other LIGHT monster from your hand to the Graveyard; Special Summon this card from your hand in Defense Position. When this card is Special Summoned: You can add 1 \"Galaxy\" monster from your Deck to your hand. You can only use this effect of \"Galaxy Soldier\" once per turn.",
+    "desc": "You can send 1 other LIGHT monster from your hand to the GY; Special Summon this card from your hand in Defense Position. When this card is Special Summoned: You can add 1 \"Galaxy\" monster from your Deck to your hand. You can only use this effect of \"Galaxy Soldier\" once per turn.",
     "str1": "Add 1 \"Galaxy\" monster from your Deck to your hand?",
     "str2": "",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "PRIO-JP085",
         "pack": "PRIO",
         "rarity": "Galaxy Soldier",
-        "date": 1392422400000
+        "date": "2014-02-15"
     },
     "tcg": {
         "id": 46659709,
         "pack_id": "WSUP-EN010",
         "pack": "WSUP",
         "rarity": "Galaxy Soldier",
-        "date": 1429142400000
-    }
+        "date": "2015-04-16"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/c/ca/GalaxySoldier-BLLR-EN-UR-1E.png/revision/latest?"
 }

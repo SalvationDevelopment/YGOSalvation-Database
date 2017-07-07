@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 84103702,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "All Normal Monsters",
+        "pack": "All Normal Monsters",
         "rarity": "Kanikabuto",
-        "date": 942883200000
+        "date": "1999-11-18"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/b/b0/Kanikabuto-V6-JP-C.jpg/revision/latest?"
 }

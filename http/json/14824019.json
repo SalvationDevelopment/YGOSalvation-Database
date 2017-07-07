@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 512,
     "name": "Spellbook Magician of Prophecy",
-    "desc": "When this card is Normal Summoned or flipped face-up: Add 1 \"Spellbook\" Spell Card from your Deck to your hand.",
+    "desc": "If this card is Normal Summoned or flipped face-up: Add 1 \"Spellbook\" Spell from your Deck to your hand.",
     "str1": "Add to hand",
     "str2": "",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "REDU-JP015",
         "pack": "REDU",
         "rarity": "Spellbook Magician of Prophecy",
-        "date": 1334361600000
+        "date": "2012-04-14"
     },
     "tcg": {
         "id": 14824019,
         "pack_id": "REDU-EN015",
         "pack": "REDU",
         "rarity": "Spellbook Magician of Prophecy",
-        "date": 1345248000000
-    }
+        "date": "2012-08-18"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/c/c2/SpellbookMagicianofProphecy-BLLR-EN-UR-1E.png/revision/latest?"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Akashic Magician",
-    "desc": "Link Arrows: [🡱] [🡳] \n\n2 monsters with the same Type, except Tokens\nIf this card is Link Summoned: Return to the hand all monsters this card points to. Once per turn: You can declare 1 card name; excavate cards from the top of your Deck, equal to the total number of Link Arrows the monsters co-linked with this card have, add the declared card to your hand if it is among the excavated cards, also send the remaining cards to the GY. You can only Link Summon \"Akashic Magician\" once per turn.",
+    "desc": "Link Arrows: [🡱] [🡳]\n\n2 monsters with the same Type, except Tokens\nIf this card is Link Summoned: Return to the hand all monsters this card points to. Once per turn: You can declare 1 card name; excavate cards from the top of your Deck, equal to the total number of Link Arrows the monsters co-linked with this card have, add the declared card to your hand if it is among the excavated cards, also send the remaining cards to the GY. You can only Link Summon \"Akashic Magician\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -38,7 +38,8 @@
         "pack_id": "CIBR-JP051",
         "pack": "CIBR",
         "rarity": "Akashic Magician",
-        "date": 1499472000000
+        "date": "2017-07-08"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/a/af/AkashicMagician-CIBR-JP-SR.png/revision/latest?"
 }

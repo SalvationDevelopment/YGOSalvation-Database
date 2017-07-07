@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Evilswarm Exciton Knight",
-    "desc": "2 Level 4 monsters\nOnce per chain, during your Main Phase or your opponent's Battle Phase, if your opponent has more total cards in their hand and their side of the field than you do: You can detach 1 Xyz Material from this card; destroy all other cards on the field, also your opponent takes no further damage this turn (this is a Quick Effect).",
+    "desc": "2 Level 4 monsters\nOnce per chain, during your Main Phase or your opponent's Battle Phase, if your opponent has more total cards in their hand and field than you do (Quick Effect): You can detach 1 material from this card; destroy all other cards on the field, also your opponent takes no further damage this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "LVAL-JP056",
         "pack": "LVAL",
         "rarity": "Evilswarm Exciton Knight",
-        "date": 1384560000000
+        "date": "2013-11-16"
     },
     "tcg": {
         "id": 46772449,
         "pack_id": "LVAL-EN056",
         "pack": "LVAL",
         "rarity": "Evilswarm Exciton Knight",
-        "date": 1390521600000
-    }
+        "date": "2014-01-24"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/b/b2/EvilswarmExcitonKnight-BLLR-EN-UR-1E.png/revision/latest?"
 }

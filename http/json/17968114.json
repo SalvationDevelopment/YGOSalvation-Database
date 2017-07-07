@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 17968114,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "All Normal Monsters",
+        "pack": "All Normal Monsters",
         "rarity": "Amazon of the Seas",
-        "date": 935625600000
+        "date": "1999-08-26"
     },
     "tcg": {
         "id": 17968114,
         "pack_id": "CP05-EN012",
         "pack": "CP05",
         "rarity": "Amazon of the Seas",
-        "date": 1199750400000
-    }
+        "date": "2008-01-08"
+    },
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/7/77/AmazonoftheSeas-AP06-EN-SP-UE.png/revision/latest?"
 }

@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 23659124,
-        "pack_id": null,
-        "pack": "Vol.6",
+        "pack_id": "Great Moth",
+        "pack": "Great Moth",
         "rarity": "共通",
-        "date": 942901200000
+        "date": "1999-11-18"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/5/57/SeaKingDragon-V6-JP-C.jpg/revision/latest?"
 }

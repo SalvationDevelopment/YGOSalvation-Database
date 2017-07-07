@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 94042337,
-        "pack_id": null,
-        "pack": "Vol.6",
+        "pack_id": "Great Moth",
+        "pack": "Great Moth",
         "rarity": "共通",
-        "date": 942901200000
+        "date": "1999-11-18"
     },
     "tcg": {
         "id": 94042337,
         "pack_id": "TP8-EN015",
         "pack": "TP8",
         "rarity": "Violent Rain",
-        "date": 1146182400000
-    }
+        "date": "2006-04-28"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/1/10/ViolentRain-TP8-EN-C-UE.jpg/revision/latest?"
 }

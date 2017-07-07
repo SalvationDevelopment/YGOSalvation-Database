@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Transmodify",
-    "desc": "Send 1 face-up monster you control to the Graveyard; Special Summon from your Deck, 1 monster with the same Type and Attribute as that monster in the Graveyard, but 1 Level higher. You can only activate 1 \"Transmodify\" per turn.",
+    "desc": "Send 1 face-up monster you control to the GY; Special Summon from your Deck, 1 monster with the same Type and Attribute as that monster in the GY, but 1 Level higher. You can only activate 1 \"Transmodify\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "JOTL-JP067",
         "pack": "JOTL",
         "rarity": "Transmodify",
-        "date": 1366416000000
+        "date": "2013-04-20"
     },
     "tcg": {
         "id": 5288597,
         "pack_id": "JOTL-EN067",
         "pack": "JOTL",
         "rarity": "Transmodify",
-        "date": 1375920000000
-    }
+        "date": "2013-08-08"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/8/86/Transmodify-BLLR-EN-UR-1E.png/revision/latest?"
 }

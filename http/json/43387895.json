@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 1,
     "name": "Supreme King Dragon Starving Venom",
-    "desc": "2 DARK Pendulum Monsters\nMust be either Fusion Summoned, or Special Summoned by Tributing the above cards you control (in which case you do not use \"Polymerization\"), and cannot be Special Summoned by other ways. Once per turn: You can target 1 face-up monster on the field (other than this card) or 1 monster in either player's GY; until the End Phase, this card's name becomes that target's original name, and replace this effect with that target's original effects, also if a monster you control attacks a Defense Position monster this turn, inflict piercing battle damage to your opponent.",
+    "desc": "2 DARK Pendulum Monsters\nMust be either Fusion Summoned, or Special Summoned by Tributing the above cards you control (in which case you do not use \"Polymerization\"). Once per turn: You can target 1 monster that is in the GY or face-up on the field (other than this card); until the End Phase, this card's name becomes that target's original name, and replace this effect with that target's original effects, also if a monster you control attacks a Defense Position monster this turn, inflict piercing battle damage to your opponent.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,8 @@
         "pack_id": "COTD-JP038",
         "pack": "COTD",
         "rarity": "Supreme King Dragon Starving Venom",
-        "date": 1492214400000
+        "date": "2017-04-15"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/e/e8/SupremeKingDragonStarvingVenom-COTD-JP-R.png/revision/latest?"
 }

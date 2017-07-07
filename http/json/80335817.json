@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Timebreaker Magician",
-    "desc": "Pendulum Effect\nEach turn, the first Pendulum Monster(s) you control that would be destroyed by an opponent's card effect, is not destroyed.\n\nMonster Effect\nWhen this card is Pendulum Summoned from the hand (and no other cards are Pendulum Summoned at the same time): You can make this card's ATK become double its original ATK. Once per turn: You can target 1 monster on the field; banish both it and this card from the field, but return them in your next Standby Phase.",
+    "desc": "Pendulum Effect\nEach turn, the first Pendulum Monster(s) you control that would be destroyed by an opponent's card effect, is not destroyed.\n\nMonster Effect\nWhen this card is Pendulum Summoned from the hand (and no other cards are Pendulum Summoned at the same time): You can make this card's ATK become double its original ATK. Once per turn: You can target 1 monster on the field; banish both it and this card from the field until your next Standby Phase.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "BOSH-JP002",
         "pack": "BOSH",
         "rarity": "Timebreaker Magician",
-        "date": 1445040000000
+        "date": "2015-10-17"
     },
     "tcg": {
         "id": 80335817,
         "pack_id": "BOSH-EN002",
         "pack": "BOSH",
         "rarity": "Timebreaker Magician",
-        "date": 1452729600000
-    }
+        "date": "2016-01-14"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/e/eb/TimebreakerMagician-PEVO-EN-SR-1E.png/revision/latest?"
 }

@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 0,
     "name": "Fire King Avatar Ganesha",
-    "desc": "When a monster effect is activated (Quick Effect): You can negate the activation, and if you do, destroy 1 other FIRE monster from your hand or field. If this card is destroyed and sent to the GY: You can target 1 FIRE Beast, Beast-Warrior, or Winged Beast monster in your GY, except \"Fire King Avatar Ganesha\"; Special Summon it, but it has its effects negated, also destroy it during the End Phase. You can only use each effect of \"Fire King Avatar Ganesha\" once per turn.",
+    "desc": "When a monster effect is activated (Quick Effect): You can negate the activation, and if you do, destroy 1 other FIRE monster you control or in your hand. If this card is destroyed and sent to the GY: You can target 1 FIRE Beast, Beast-Warrior, or Winged Beast monster in your GY, except \"Fire King Avatar Ganesha\"; Special Summon it, but it has its effects negated, also destroy it during the End Phase. You can only use each effect of \"Fire King Avatar Ganesha\" once per turn.",
     "str1": " ",
     "str2": " ",
     "str3": " ",
@@ -30,6 +30,11 @@
     "str16": " ",
     "links": [],
     "cardpool": "OCG",
-    "ocg": {},
-    "tcg": {}
+    "ocg": {
+        "pack": "CIBR",
+        "pack_id": "CIBR-JP029",
+        "date": "2017-07-08"
+    },
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/9/90/FireKingAvatarGanesha-CIBR-JP-C.png/revision/latest?"
 }

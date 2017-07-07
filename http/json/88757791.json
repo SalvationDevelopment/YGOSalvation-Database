@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Dharma-Eye Magician",
-    "desc": "Pendulum Effect\nOnce per turn: You can reveal 1 Pendulum Monster from your hand, then target 1 \"Magician\" card in your Pendulum Zone; that target's Pendulum Scale becomes the same as the revealed Pendulum Monster's, until the end of this turn (even if this card leaves the field).\n\nMonster Effect\nWhile this Pendulum Summoned card is on the field, \"Magician\" Pendulum Monsters you control cannot be destroyed by your opponent's card effects during the turn this card was Pendulum Summoned.",
+    "desc": "Pendulum Effect\nOnce per turn: You can reveal 1 Pendulum Monster in your hand, then target 1 \"Magician\" card in your Pendulum Zone; that target's Pendulum Scale becomes the same as the revealed Pendulum Monster's, until the end of this turn (even if this card leaves the field).\n\nMonster Effect\nWhile this Pendulum Summoned card is on the field, \"Magician\" Pendulum Monsters you control cannot be destroyed by your opponent's card effects during the turn this card was Pendulum Summoned.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "VP15-JPA05",
         "pack": "VP15",
         "rarity": "Dharma-Eye Magician",
-        "date": 1432771200000
+        "date": "2015-05-28"
     },
     "tcg": {
         "id": 88757791,
         "pack_id": "BOSH-EN096",
         "pack": "BOSH",
         "rarity": "Dharma-Eye Magician",
-        "date": 1452729600000
-    }
+        "date": "2016-01-14"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/a/a5/DharmaEyeMagician-PEVO-EN-SR-1E.png/revision/latest?"
 }

@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 53832650,
-        "pack_id": null,
-        "pack": "Vol.1",
+        "pack_id": "Dark Magician",
+        "pack": "Dark Magician",
         "rarity": "共通",
-        "date": 918104400000
+        "date": "1999-02-04"
     },
     "tcg": {
         "id": 53832650,
         "pack_id": "LCJW-EN013",
         "pack": "LCJW",
         "rarity": "Meotoko",
-        "date": 1381449600000
-    }
+        "date": "2013-10-11"
+    },
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/0/09/Meotoko-LCJW-EN-C-1E.png/revision/latest?"
 }

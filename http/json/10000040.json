@@ -11,7 +11,7 @@
     "attribute": 64,
     "category": 0,
     "name": "Holactie the Creator of Light",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters whose original names are \"Slifer the Sky Dragon\", \"Obelisk the Tormentor\", and \"The Winged Dragon of Ra\", and cannot be Special Summoned by other ways. This card's Special Summon cannot be negated. The player that Special Summons this card wins the Duel.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters whose original names are \"Slifer the Sky Dragon\", \"Obelisk the Tormentor\", and \"The Winged Dragon of Ra\". This card's Special Summon cannot be negated. The player that Special Summons this card wins the Duel.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 10000040,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "YGOPR-JP001",
+        "pack": "YGOPR",
         "rarity": "Holactie the Creator of Light",
-        "date": 1323475200000
+        "date": "2011-12-10"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/b/bf/HolactietheCreatorofLight-YGOPR-JP-UR.png/revision/latest?"
 }

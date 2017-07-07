@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 17238333,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Red Eyes B. Dragon",
+        "pack": "Red Eyes B. Dragon",
         "rarity": "Wretched Ghost of the Attic",
-        "date": 927763200000
+        "date": "1999-05-27"
     },
     "tcg": {
         "id": 17238333,
         "pack_id": "TP8-EN018",
         "pack": "TP8",
         "rarity": "Wretched Ghost of the Attic",
-        "date": 1146182400000
-    }
+        "date": "2006-04-28"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/a/ad/WretchedGhostoftheAttic-TP8-EN-C-UE.jpg/revision/latest?"
 }

@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 71746462,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "All Normal Monsters",
+        "pack": "All Normal Monsters",
         "rarity": "Sea Kamen",
-        "date": 935625600000
+        "date": "1999-08-26"
     },
     "tcg": {
         "id": 71746462,
         "pack_id": "AP06-EN014",
         "pack": "AP06",
         "rarity": "Sea Kamen",
-        "date": 1418342400000
-    }
+        "date": "2014-12-12"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/f/fc/SeaKamen-AP06-EN-SP-UE.png/revision/latest?"
 }

@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 4,
     "name": "Junk Collector",
-    "desc": "You can banish this card you control and 1 Normal Trap that meets its activation conditions from your GY (Quick Effect); this effect becomes that Trap's effect when that card is activated.",
+    "desc": "Quick Effect: You can banish this card you control and 1 Normal Trap that meets its activation conditions from your GY; this effect becomes that Trap's effect when that card is activated.",
     "str1": "获得并发动墓地的通常陷阱的效果",
     "str2": "Please select 1 Normal Trap Card",
     "str3": "",
@@ -35,7 +35,8 @@
         "pack_id": "DDY2-JP001",
         "pack": "DDY2",
         "rarity": "Junk Collector",
-        "date": 1258761600000
+        "date": "2009-11-21"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/0/0b/JunkCollector-DDY2-JP-UR.png/revision/latest?"
 }

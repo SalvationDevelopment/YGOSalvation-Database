@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 11714098,
-        "pack_id": null,
-        "pack": "Booster 5",
+        "pack_id": "Pack 8",
+        "pack": "Pack 8",
         "rarity": "共通",
-        "date": 940136400000
+        "date": "1999-10-17"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/c/c2/30000YearWhiteTurtle-B05-JP-C.png/revision/latest?"
 }

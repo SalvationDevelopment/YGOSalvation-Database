@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Lunalight Crimson Fox",
-    "desc": "If this card is sent to the Graveyard by a card effect: You can target 1 face-up monster your opponent controls; its ATK becomes 0 until the end of this turn. During either player's turn, when a card or effect is activated that targets a \"Lunalight\" monster(s) you control: You can banish this card from your Graveyard; negate the activation, and if you do, both players gain 1000 LP.",
+    "desc": "If this card is sent to the GY by a card effect: You can target 1 face-up monster your opponent controls; change its ATK to 0 until the end of this turn. When a card or effect is activated that targets a \"Lunalight\" monster(s) you control (Quick Effect): You can banish this card from your GY; negate the activation, and if you do, each player gains 1000 LP.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,7 +35,8 @@
         "pack_id": "VJMP-JP112",
         "pack": "VJMP",
         "rarity": "Lunalight Crimson Fox",
-        "date": 1453334400000
+        "date": "2016-01-21"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/2/2e/LunalightCrimsonFox-DBLE-JP-NPR.png/revision/latest?"
 }

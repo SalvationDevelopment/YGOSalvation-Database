@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 62671448,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "All Normal Monsters",
+        "pack": "All Normal Monsters",
         "rarity": "Toad Master",
-        "date": 938044800000
+        "date": "1999-09-23"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/a/a1/ToadMaster-V5-JP-C-Reprint.jpg/revision/latest?"
 }

@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Superheavy Samurai Daihachi",
-    "desc": "When this card is Normal or Special Summoned: You can change its battle position. This card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. If you have no Spell/Trap Cards in your Graveyard: You can change this card you control from face-up Defense Position to Attack Position, and if you do, add 1 \"Superheavy Samurai Soul\" monster from your Deck to your hand. You can only use this effect of \"Superheavy Samurai Daihachi\" once per turn.",
+    "desc": "When this card is Normal or Special Summoned: You can change its battle position. This card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. If you have no Spells/Traps in your GY: You can change this card you control from face-up Defense Position to Attack Position, and if you do, add 1 \"Superheavy Samurai Soul\" monster from your Deck to your hand. You can only use this effect of \"Superheavy Samurai Daihachi\" once per turn.",
     "str1": "Change battle position",
     "str2": "Search 1 \"Superheavy Samurai Soul\"",
     "str3": "",
@@ -35,7 +35,8 @@
         "pack_id": "DBLE-JP016",
         "pack": "DBLE",
         "rarity": "Superheavy Samurai Daihachi",
-        "date": 1480118400000
+        "date": "2016-11-26"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/3/3b/SuperheavySamuraiDaihachi-DBLE-JP-UPR.png/revision/latest?"
 }

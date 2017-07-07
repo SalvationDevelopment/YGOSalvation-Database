@@ -32,16 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 41182875,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Pink Millennium Eye",
+        "pack": "Pink Millennium Eye",
         "rarity": "Javelin Beetle Pact",
-        "date": 953769600000
+        "date": "2000-03-23"
     },
     "tcg": {
         "id": 41182875,
         "pack_id": "PP01-EN012",
         "pack": "PP01",
         "rarity": "Javelin Beetle Pact",
-        "date": 1191801600000
-    }
+        "date": "2007-10-08"
+    },
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/9/97/JavelinBeetlePact-PP01-EN-SR-UE.jpg/revision/latest?"
 }

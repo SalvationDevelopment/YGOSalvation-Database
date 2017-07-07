@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 78402798,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "All Normal Monsters",
+        "pack": "All Normal Monsters",
         "rarity": "Night Lizard",
-        "date": 951868800000
+        "date": "2000-03-01"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/3/3c/NightLizard-B07-JP-C.jpg/revision/latest?"
 }

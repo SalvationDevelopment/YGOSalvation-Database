@@ -32,10 +32,11 @@
     "cardpool": "OCG",
     "ocg": {
         "id": 10859908,
-        "pack_id": "",
-        "pack": "",
+        "pack_id": "Machine Collection A",
+        "pack": "Machine Collection A",
         "rarity": "Holograh",
-        "date": 922492800000
+        "date": "1999-03-27"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/1/1b/Holograh-V2-JP-C.jpg/revision/latest?"
 }

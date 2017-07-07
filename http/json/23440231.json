@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 0,
     "name": "Infernoid Devyaty",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or Graveyard) by banishing 3 \"Infernoid\" monsters from your hand or Graveyard while the total Levels and Ranks of all Effect Monsters you control are 8 or lower, and cannot be Special Summoned by other ways. When this card is Special Summoned: You can destroy all Spell and Trap Cards on the field, except \"Void\" cards. Once per turn, during either player's turn, when another monster's effect is activated: You can Tribute 1 monster; negate the activation, and if you do, banish it.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by banishing 3 \"Infernoid\" monsters from your hand or GY while the total Levels and Ranks of all Effect Monsters you control are 8 or lower. When this card is Special Summoned: You can destroy all Spells and Traps on the field, except \"Void\" cards. Once per turn, when another monster's effect is activated (Quick Effect): You can Tribute 1 monster; negate the activation, and if you do, banish it.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,13 +35,14 @@
         "pack_id": "CROS-JP032",
         "pack": "CROS",
         "rarity": "Infernoid Devyaty",
-        "date": 1423872000000
+        "date": "2015-02-14"
     },
     "tcg": {
         "id": 23440231,
         "pack_id": "CROS-EN032",
         "pack": "CROS",
         "rarity": "Infernoid Devyaty",
-        "date": 1431561600000
-    }
+        "date": "2015-05-14"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/b/b7/InfernoidDevyaty-BLLR-EN-UR-1E.png/revision/latest?"
 }
