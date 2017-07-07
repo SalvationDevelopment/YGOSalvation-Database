@@ -75,7 +75,7 @@ function regenerate(request, response, next) {
 		fs.writeFile('./http/manifest.json', mainifest, function () {
 			response.write('Saved, Notifying...\r\n');
 			var call = http.get({
-				host: '120.0.0.1',
+				host: 'ygopro.us',
 				path: '/git'
 			}, function (appresponse) {
 				response.write('Notified!\r\n');
