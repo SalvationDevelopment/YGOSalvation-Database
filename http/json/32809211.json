@@ -10,8 +10,8 @@
     "race": 32,
     "attribute": 32,
     "category": 131072,
-    "name": "Jinzo",
-    "desc": "Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field.",
+    "name": "Jinzo #7",
+    "desc": "This monster can attack your opponent's Life Points directly.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 32809211,
-        "pack_id": "CA-00",
-        "pack": "CA",
-        "rarity": "Jinzo",
-        "date": "2000-09-28"
+        "pack_id": "RB-35",
+        "pack": "RB",
+        "rarity": "Jinzo #7",
+        "date": "1999-09-23"
     },
     "tcg": {
         "id": 32809211,
-        "pack_id": "PSV-000",
-        "pack": "PSV",
-        "rarity": "Jinzo",
-        "date": "2002-10-20"
+        "pack_id": "MRD-035",
+        "pack": "MRD",
+        "rarity": "Jinzo #7",
+        "date": "2002-06-26"
     },
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/e/ef/Jinzo-DUSA-EN-UR-1E.png/revision/latest?"
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/3/36/Jinzo7-DB1-EN-C-UE.jpg/revision/latest?"
 }
