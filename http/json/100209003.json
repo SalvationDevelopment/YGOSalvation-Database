@@ -1,0 +1,22 @@
+{
+    "ocg": {
+        "pack": "VP17",
+        "pack_id": "VP17-JP003"
+    },
+    "tcg": {},
+    "id": 100209003,
+    "setcode": 0,
+    "type": 33554465,
+    "atk": 2000,
+    "def": "-",
+    "level": 2,
+    "race": 4,
+    "attribute": 16,
+    "name": "Trickstar Bloody Mary",
+    "desc": "Link Arrows: [🡷] [🡲]\n\n2 \"Trickstar\" monsters\nEach time a “Trickstar” monster(s) is Normal or Special Summoned to a zone this card points to, you gain 200 LP. You can discard 1 “Trickstar” card; each player draws 1 card. If your LP is 2000 or more higher than your opponent’s LP, you draw 2 cards instead. You can only activate this effect of \"Trickstar Bloody Mary\" once per turn.",
+    "links": [
+        4,
+        5
+    ],
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/2/29/TrickstarBloodyMary-VP17-JP-OP.png/revision/latest?"
+}
