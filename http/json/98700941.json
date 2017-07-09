@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 394241,
     "name": "Trickstar Lilybell",
-    "desc": "If this card is added to your hand, except by drawing it: You can Special Summon this card. You can only use this effect of \"Trickstar Lilybell\" once per turn. This card can attack directly. When this card inflicts battle damage to your opponent: You can target 1 \"Trickstar\" monster in your GY; add it to your hand.",
+    "desc": "If this card is added to your hand, except by drawing it: You can Special Summon it from your hand. You can only use this effect of \"Trickstar Lilybell\" once per turn. This card can attack directly. When this card inflicts battle damage to your opponent: You can target 1 \"Trickstar\" monster in your GY; add it to your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Trickstar Lilybell",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/2/28/TrickstarLilybell-COTD-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-JP006"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/8/8f/TrickstarLilybell-COTD-EN-1E-OP.png/revision/latest?"
 }

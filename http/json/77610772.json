@@ -10,8 +10,8 @@
     "race": 2,
     "attribute": 2,
     "category": 1,
-    "name": "Stargrail Shrine Maiden Eve",
-    "desc": "Link Arrows: [🡰] [🡲]\n\n2 monsters with different Types and Attributes\nWhile this card is linked, it cannot be destroyed by battle or card effects, also your opponent cannot target it with card effects. If a monster(s) this card points to would be destroyed by a card effect, you can send this card to the GY instead. If this card is sent from the field to the GY: You can Special Summon 1 \"Stargrail\" monster from your hand.",
+    "name": "Ib the World Chalice Priestess",
+    "desc": "Link Arrows: [🡰] [🡲]\n\n2 monsters with different Types and Attributes\nThis linked card cannot be destroyed by battle or card effects. Your opponent cannot target this linked card with card effects. If a monster(s) this card points to would be destroyed by a card effect, you can send this card to the GY instead. If this card is sent from the field to the GY: You can Special Summon 1 \"World Chalice\" monster from your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,6 +40,10 @@
         "rarity": "Stargrail Shrine Maiden Eve",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/2/28/StargrailShrineMaidenEve-COTD-JP-R.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-JP048"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/a/a9/IbtheWorldChalicePriestess-COTD-EN-1E-OP.png/revision/latest?"
 }

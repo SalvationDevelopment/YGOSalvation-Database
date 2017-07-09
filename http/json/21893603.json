@@ -10,8 +10,8 @@
     "race": 4,
     "attribute": 16,
     "category": 1,
-    "name": "Stargrail's Fairy Ries",
-    "desc": "If this card is Normal or Special Summoned: You can add 1 \"Stargrail\" monster from your Deck to your hand. If this card is in your GY: You can send 1 monster from your hand or field to the GY; add this card to your hand. You can only use each effect of \"Stargrail Fairy Ries\" once per turn.",
+    "name": "Lee the World Chalice Fairy",
+    "desc": "If this card is Normal or Special Summoned: You can add 1 \"World Chalice\" monster from your Deck to your hand. If this card is in your GY: You can send 1 monster from your hand or field to the GY; add this card to your hand. You can only use each effect of \"Lee the World Challice Fairy\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Stargrail's Fairy Ries",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/f/fb/StargrailsFairyRies-COTD-JP-R.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-JP022"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/2/21/LeetheWorldChaliceFairy-COTD-EN-1E-OP.png/revision/latest?"
 }

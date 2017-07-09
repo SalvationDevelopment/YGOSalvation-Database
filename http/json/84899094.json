@@ -10,8 +10,8 @@
     "race": 8192,
     "attribute": 8,
     "category": 1,
-    "name": "Stargrail's Protector Dragon",
-    "desc": "When a card or effect is activated that targets a monster(s) you control that is linked (Quick Effect): You can send this card from your hand or field to the GY; negate the activation, and if you do, destroy that card. You can banish this card from your GY, then target 1 Normal Monster in your GY; Special Summon it in Defense Position to your zone a Link Monster points to. You can only use this effect of \"Stargrail's Protector Dragon\" once per turn.",
+    "name": "World Chalice Guardragon",
+    "desc": "When a card or effect is activated that targets your linked monster (Quick Effect): You can send this card from your hand or field to the GY; negate the activation, and if you do, destroy that card. You can banish this card from your GY, then target 1 Normal Monster in your GY; Special Summon it in Defense Position to your zone a Link Monster points to. You can only use this effect of \"World Chalice Guardragon\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Stargrail's Protector Dragon",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/0/07/StargrailsProtectorDragon-COTD-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-JP021"
+    },
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/7/71/WorldChaliceGuardragon-COTD-EN-1E-OP.png/revision/latest?"
 }

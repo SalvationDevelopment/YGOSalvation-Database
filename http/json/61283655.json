@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 1,
     "name": "Trickstar Candina",
-    "desc": "When this card is Normal Summoned: You can add 1 \"Trickstar\" card from your Deck to your hand. Each time your opponent activates a Spell/Trap, inflict 200 damage to your opponent immediately after it resolves.",
+    "desc": "When this card is Normal Summoned: You can add 1 \"Trickstar\" card from your Deck to your hand. Each time your opponent activates a Spell/Trap Card, inflict 200 damage to them immediately after it resolves.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Trickstar Candina",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/4/4a/TrickstarCandina-COTD-JP-R.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-JP008"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/f/fb/TrickstarCandina-COTD-EN-1E-OP.png/revision/latest?"
 }

@@ -10,8 +10,8 @@
     "race": 8192,
     "attribute": 8,
     "category": 1,
-    "name": "Stargrail Dragon Imduk",
-    "desc": "Link Arrows: [🡱]\n\n1 Normal Monster, except a Token\nDuring your Main Phase, you can Normal Summon 1 \"Stargrail\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) At the start of the Damage Step, if this card battles an opponent's monster this card points to: You can destroy that opponent's monster. If this card is sent from the field to the GY: You can Special Summon 1 \"Stargrail\" monster from your hand.",
+    "name": "Imduk the World Chalice Dragon",
+    "desc": "Link Arrows: [🡱]\n\n1 Normal Monster, except a Token\nDuring your Main Phase, you can Normal Summon 1 \"World Chalice\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) At the start of the Damage Step, if this card battles an opponent's monster this card points to: You can destroy that opponent's monster. If this card is sent from the field to the GY: You can Special Summon 1 \"World Chalice\" monster from your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -39,6 +39,10 @@
         "rarity": "Stargrail Dragon Imduk",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/a/ad/StargrailDragonImduk-COTD-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-JP047"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/2/21/ImduktheWorldChaliceDragon-COTD-EN-1E-OP.png/revision/latest?"
 }
