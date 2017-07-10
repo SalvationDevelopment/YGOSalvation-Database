@@ -10,7 +10,7 @@
     "race": 0,
     "attribute": 0,
     "category": 0,
-    "name": "Return to the Frontlines",
+    "name": "Back to the Front",
     "desc": "Target 1 monster in your GY; Special Summon it in Defense Position.",
     "str1": "",
     "str2": "",
@@ -37,6 +37,10 @@
         "rarity": "Return to the Frontlines",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/5/5e/ReturntotheFrontlines-COTD-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-JP077"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/c/ce/BacktotheFront-COTD-EN-1E-OP.png/revision/latest?"
 }

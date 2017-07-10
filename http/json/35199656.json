@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 1,
     "name": "Trickstar Lycoris",
-    "desc": "Quick Effect: You can reveal this card in your hand, then target 1 \"Trickstar\" monster you control, except \"Trickstar Lycorissica\"; Special Summon this card, and if you do, return that monster to the hand. Each time a card(s) is added to your opponent's hand, inflict 200 damage to your opponent for each.",
+    "desc": "(Quick Effect): You can reveal this card in your hand, then target 1 \"Trickstar\" monster you control, except \"Trickstar Lycoris\"; Special Summon this card, and if you do, return that monster to the hand. Each time a card(s) is added to your opponent's hand, inflict 200 damage to them for each.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Trickstar Lycorissica",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/e/e0/TrickstarLycoris-COTD-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-JP007"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/9/98/TrickstarLycoris-COTD-EN-1E-OP.png/revision/latest?"
 }

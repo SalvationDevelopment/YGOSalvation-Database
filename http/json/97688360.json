@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 1,
     "name": "Gouki Twistcobra",
-    "desc": "Quick Effect: You can Tribute 1 \"Gouki\" monster, then target 1 \"Gouki\" monster you control; it gains ATK equal to the original ATK of the Tributed monster, until the end of this turn. If this card is sent from the field to the GY: You can add 1 \"Gouki\" card from your Deck to your hand, except \"Gouki Twistcobra\". You can only use each effect of \"Gouki Twistcobra\" once per turn.",
+    "desc": "(Quick Effect): You can Tribute 1 \"Gouki\" monster, then target 1 \"Gouki\" monster you control; it gains ATK equal to the original ATK of the Tributed monster until the end of this turn. If this card is sent from the field to the GY: You can add 1 \"Gouki\" card from your Deck to your hand, except \"Gouki Twistcobra\". You can only use each effect of \"Gouki Twistcobra\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Gouki Twist Cobra",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/a/a5/GoukiTwistcobra-COTD-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-JP009"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/9/9e/GoukiTwistcobra-COTD-EN-1E-OP.png/revision/latest?"
 }

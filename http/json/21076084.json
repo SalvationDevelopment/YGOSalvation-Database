@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 1092,
     "name": "Trickstar Reincarnation",
-    "desc": "Banish your opponent's entire hand, and if you do, they draw the same number of cards you banished. You can banish this card from your GY, then target 1 \"Trickstar\" monster in your GY; Special Summon it.",
+    "desc": "Banish your opponent's entire hand, and if you do, they draw the same number of cards. You can banish this card from your GY, then target 1 \"Trickstar\" monster in your GY; Special Summon it.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Trickstar Reincarnation",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/0/06/TrickstarReincarnation-COTD-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-JP068"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/c/cd/TrickstarReincarnation-COTD-EN-1E-OP.png/revision/latest?"
 }

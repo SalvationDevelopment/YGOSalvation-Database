@@ -10,8 +10,8 @@
     "race": 32,
     "attribute": 32,
     "category": 0,
-    "name": "Starrelic - Stargrail",
-    "desc": "If a monster(s) is Special Summoned from the Extra Deck: You can Tribute this card; send that monster(s) to the GY. You can only use each of the following effects of \"Starrelic - Stargrail\" once per turn.\n● If this face-up card that was Normal Summoned/Set leaves the field: You can Special Summon 2 \"Stargrail\" monsters from your Deck, except \"Starrelic - Stargrail\".\n● During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; add 1 \"Starrelic\" card from your Deck to your hand.",
+    "name": "World Legacy - \"World Chalice\"",
+    "desc": "If a monster(s) is Special Summoned from the Extra Deck (except during the Damage Step): You can Tribute this card; send that monster(s) to the GY. You can only use each of the following effects of \"World Legacy - \"World Chalice\"\" once per turn.\n● If this face-up Normal Summoned/Set card leaves the field: You can Special Summon 2 \"World Chalice\" monsters from your Deck, except \"World Legacy - \"World Chalice\"\".\n● During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; add 1 \"World Legacy\" card from your Deck to your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Starrelic - Stargrail",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/a/a4/StarrelicStargrail-COTD-JP-R.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-JP023"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/4/4d/WorldLegacyWorldChalice-COTD-EN-1E-OP.png/revision/latest?"
 }
