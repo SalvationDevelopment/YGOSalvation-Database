@@ -1,0 +1,19 @@
+{
+    "ocg": {
+        "pack": "CIBR",
+        "pack_id": "CIBR-JP039",
+        "date": "2017-07-08"
+    },
+    "tcg": {},
+    "id": 101002039,
+    "setcode": 0,
+    "type": 33,
+    "atk": 0,
+    "def": 0,
+    "level": 9,
+    "race": 2,
+    "attribute": 16,
+    "name": "Elemental Grace Doriado",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) while there are 6 or more different Attributes among the monsters in the GYs. Gains 500 ATK and DEF for every different Attribute among the monsters in the GYs. When your opponent would Special Summon a monster(s) (Quick Effect): You can banish 3 monsters from your GY; negate the Special Summon, and if you do, destroy that monster.",
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/5/5b/ElementalGraceDoriado-CIBR-JP-SR.png/revision/latest?"
+}
