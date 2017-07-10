@@ -26,8 +26,10 @@ function getDB(response, callback) {
 
 		try {
 			db.push(JSON.parse(data));
+
 		} catch (error) {
 			response.write('Can not Parsed! ' + basedir + filename);
+			console.log('ERROR!', basedir + filename)
 		}
 	});
 	callback(null, db);
