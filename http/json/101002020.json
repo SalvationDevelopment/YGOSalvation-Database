@@ -1,0 +1,19 @@
+{
+    "ocg": {
+        "pack": "CIBR",
+        "pack_id": "CIBR-JP020",
+        "date": "2017-07-08"
+    },
+    "tcg": {},
+    "id": 101002020,
+    "setcode": 516,
+    "type": 2097185,
+    "atk": 1100,
+    "def": 900,
+    "level": 2,
+    "race": 2048,
+    "attribute": 1,
+    "name": "Crawler Ranvier",
+    "desc": "FLIP: You can target up to 2 \"Crawler\" monsters in your GY; add them to your hand.\nIf this face-up card in its owner's control leaves the field because of an opponent's card effect: You can Special Summon 2 \"Crawler\" monsters with different names from your Deck in face-down Defense Position, except \"Crawler Ranvier\". You can only use each effect of \"Crawler Ranvier\" once per turn.",
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/8/8e/CrawlerRanvier-CIBR-JP-C.png/revision/latest?"
+}

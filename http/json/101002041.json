@@ -1,0 +1,19 @@
+{
+    "ocg": {
+        "pack": "CIBR",
+        "pack_id": "CIBR-JP041",
+        "date": "2017-07-08"
+    },
+    "tcg": {},
+    "id": 101002041,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2200,
+    "def": 100,
+    "level": 4,
+    "race": 1,
+    "attribute": 2,
+    "name": "Medic Muscler",
+    "desc": "Any battle damage this card would inflict to a player makes that player gain that much LP, instead.",
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/7/75/MedicMuscler-CIBR-JP-NR.png/revision/latest?"
+}
