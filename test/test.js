@@ -11,11 +11,15 @@ describe('Card form', function () {
                 assert.isString(card.name);
                 done();
             });
+            it('should be have a desc', function (done) {
+                assert.isString(card.desc);
+                done();
+            });
             it('should be have an id', function (done) {
                 assert.isNumber(card.id);
                 done();
             });
-            it('should be have an type', function (done) {
+            it('should be have a type', function (done) {
                 assert.isNumber(card.type);
                 done();
             });
