@@ -1,0 +1,22 @@
+{
+    "ocg": {
+        "pack": "SJMP",
+        "pack_id": "SJMP-JP006",
+        "date": "2017-08-04"
+    },
+    "tcg": {},
+    "id": 100204006,
+    "setcode": 0,
+    "type": 33554465,
+    "atk": 300,
+    "def": "-",
+    "level": 1,
+    "race": 16777216,
+    "attribute": 32,
+    "name": "Linkuriboh",
+    "desc": "Link Arrows: [🡳]\n\n1 Level 1 monster\nWhen an opponent's monster declares an attack: You can Tribute this card; change the ATK of that opponent's monster to 0 until the end of this turn. If this card is in your GY (Quick Effect): You can Tribute 1 Level 1 monster; Special Summon this card. You can only use this effect of \"Linkuriboh\" once per turn.",
+    "links": [
+        6
+    ],
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/3/35/Linkuriboh-SJMP-JP-OP.png/revision/latest?"
+}
