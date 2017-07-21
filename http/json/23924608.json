@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 0,
-    "name": "Heavy Dust Storm",
-    "desc": "Target up to 2 Spell/Traps on the field; destroy them. You cannot conduct your Battle Phase the turn you activate this card.",
+    "name": "Heavy Storm Duster",
+    "desc": "Target up to 2 Spells/Traps on the field; destroy them. You cannot conduct your Battle Phase the turn you activate this card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Heavy Dust Storm",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/7/7d/HeavyDustStorm-COTD-JP-R.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-JP076"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/8/89/HeavyStormDuster-COTD-EN-SR-1E.png/revision/latest?"
 }

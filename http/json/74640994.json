@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Female",
+        "pack_id": "Female",
+        "date": "2017-09-09"
+    },
     "tcg": {
         "id": 74640994,
         "pack_id": "MACR-EN085",

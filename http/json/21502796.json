@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 131,
     "name": "Ryko, Lightsworn Hunter",
-    "desc": "FLIP: Apply these effects in sequence.\n● You can target 1 card on the field; destroy that target.\n● Send the top 3 cards of your Deck to the Graveyard.",
+    "desc": "FLIP: Apply these effects (simultaneously).\n● You can destroy 1 card on the field.\n● Send the top 3 cards of your Deck to the GY.",
     "str1": "Destroy",
     "str2": "Destroy a card?",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Ryko, Lightsworn Hunter",
         "date": "2008-05-03"
     },
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/a/a4/RykoLightswornHunter-SDLI-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/9/97/RykoLightswornHunter-YS17-EN-C-1E.png/revision/latest?"
 }

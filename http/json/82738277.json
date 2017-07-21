@@ -10,8 +10,8 @@
     "race": 2048,
     "attribute": 1,
     "category": 1,
-    "name": "Traptrix Coronatus",
-    "desc": "Unaffected by the effects of \"Hole\" Normal Traps. When this card is Normal Summoned: You can add 1 \"Traptrix\" monster from your Deck to your hand. Once per turn (Quick Effect): You can target 1 Set Spell/Trap you control; return that target to the hand, then you can Set 1 Spell/Trap from your hand.",
+    "name": "Traptrix Mantis",
+    "desc": "When this card is Normal Summoned: You can add 1 \"Traptrix\" monster from your Deck to your hand. Unaffected by the effects of \"Hole\" Normal Traps. Once per turn (Quick Effect): You can target 1 Set Spell/Trap you control; return that target to the hand, then you can Set 1 Spell/Trap from your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Traptrix Coronatus",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/d/d0/TraptrixCoronatus-COTD-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-JP030"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/1/16/TraptrixMantis-COTD-EN-SR-1E.png/revision/latest?"
 }

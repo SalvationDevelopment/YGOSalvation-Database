@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Swift Scarecrow",
-    "desc": "When an opponent's monster declares a direct attack: You can discard this card; negate the attack, then end the Battle Phase (this is a Quick Effect).",
+    "desc": "When an opponent's monster declares a direct attack (Quick Effect): You can discard this card; negate the attack, then end the Battle Phase.",
     "str1": "攻击无效并结束战斗阶段",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Swift Scarecrow",
         "date": "2010-11-06"
     },
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/b/b1/SwiftScarecrow-SDSE-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/6/66/SwiftScarecrow-YS17-EN-C-1E.png/revision/latest?"
 }

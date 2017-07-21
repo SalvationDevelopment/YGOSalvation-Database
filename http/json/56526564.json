@@ -10,7 +10,7 @@
     "race": 0,
     "attribute": 0,
     "category": 2,
-    "name": "Breakdown Trap Hole",
+    "name": "Break Off Trap Hole",
     "desc": "When a Link Monster is Link Summoned: Destroy all monsters on the field that are not linked.",
     "str1": "",
     "str2": "",
@@ -37,6 +37,10 @@
         "rarity": "Breakdown Trap Hole",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/7/7f/BreakdownTrapHole-COTD-JP-SR.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-JP075"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/1/1f/BreakOffTrapHole-COTD-JP-SR.png/revision/latest?"
 }

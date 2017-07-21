@@ -10,8 +10,8 @@
     "race": 32,
     "attribute": 1,
     "category": 0,
-    "name": "Gaiasaber, the Virtual Knight",
-    "desc": "Link Arrows: [🡰] [🡲] [🡳]\n\n2+ monsters",
+    "name": "Gaia Saber, the Lightning Shadow",
+    "desc": "Link Arrows: [🡰] [🡳] [🡲]\n\n2+ monsters",
     "str1": " ",
     "str2": " ",
     "str3": " ",
@@ -41,6 +41,10 @@
         "rarity": "Gaiasaber, the Virtual Knight",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/e/e1/GaiasabertheVirtualKnight-COTD-JP-SR.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-JP051"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/f/fb/GaiaSabertheLightningShadow-COTD-EN-ScR-1E.png/revision/latest?"
 }

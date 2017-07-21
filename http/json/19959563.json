@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Punishment Dragon",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) while 4 or more of your \"Lightsworn\" monsters with different names are banished, and cannot be Special Summoned by other ways. Once per turn (Quick Effect): You can pay 1000 LP; shuffle all face-up banished cards and all cards in the GY into the Deck, except \"Lightsworn\" monsters. Once per turn, if your \"Lightsworn\" monster activates its effect: Send the top 4 cards of your Deck to the GY.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by possessing 4 or more banished \"Lightsworn\" monsters with different names. Once per turn (Quick Effect): You can pay 1000 LP; shuffle into the Decks, all cards in the GYs and all face-up banished cards, except \"Lightsworn\" monsters. Once per turn, if your \"Lightsworn\" monster's effect is activated: Send the top 4 cards of your Deck to the GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Punishment Dragon",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/b/bd/PunishmentDragon-COTD-JP-UR.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-JP028"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/6/68/PunishmentDragon-COTD-EN-UR-1E.png/revision/latest?"
 }

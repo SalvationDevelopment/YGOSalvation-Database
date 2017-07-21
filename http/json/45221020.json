@@ -37,6 +37,10 @@
         "rarity": "Treasure Pander",
         "date": "2017-04-15"
     },
-    "tcg": {},
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-JP032"
+    },
     "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/a/ad/TreasurePander-COTD-JP-C.png/revision/latest?"
 }

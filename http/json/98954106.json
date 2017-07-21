@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Jar of Avarice",
-    "desc": "Target 5 cards in your Graveyard, except \"Jar of Avarice\"; shuffle all 5 into the Deck, then draw 1 card. You can only activate 1 \"Jar of Avarice\" per turn.",
+    "desc": "Target 5 cards in your GY, except \"Jar of Avarice\"; shuffle all 5 into the Deck, then draw 1 card. You can only activate 1 \"Jar of Avarice\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Jar of Avarice",
         "date": "2015-05-14"
     },
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/b/b2/JarofAvarice-SR03-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/7/77/JarofAvarice-YS17-EN-C-1E.png/revision/latest?"
 }

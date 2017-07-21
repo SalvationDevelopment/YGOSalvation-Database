@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 1036,
     "name": "Ryko, Twilightsworn Fighter",
-    "desc": "If this card is Normal Summoned or flipped face-up: You can banish 1 \"Lightsworn\" monster from your hand or GY; banish 1 card on the field. Once per turn, if another of your \"Lightsworn\" monsters activates its effect: Send the top 3 cards of your Deck to the GY.",
+    "desc": "If this card is Normal Summoned or flipped face-up: You can banish 1 \"Lightsworn\" monster from your hand or GY; banish 1 card on the field. Once per turn, if your other \"Lightsworn\" monster's effect is activated: Send the top 3 cards of your Deck to the GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Ryko, Twilightsworn Fighter",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/6/65/RykoTwilightswornFighter-COTD-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-JP027"
+    },
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/3/33/RykoTwilightswornFighter-COTD-EN-R-1E.png/revision/latest?"
 }

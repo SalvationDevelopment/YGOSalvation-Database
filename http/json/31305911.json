@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 20971520,
     "name": "Marshmallon",
-    "desc": "After damage calculation, if this card was attacked, and was face-down at the start of the Damage Step: The attacking player takes 1000 damage. Cannot be destroyed by battle.",
+    "desc": "Cannot be destroyed by battle. After damage calculation, if this card was attacked, and was face-down at the start of the Damage Step: The attacking player takes 1000 damage.",
     "str1": "1000damage",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Marshmallon",
         "date": "2007-10-08"
     },
-    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/0/00/Marshmallon-LDK2-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/c/c2/Marshmallon-YS17-EN-C-1E.png/revision/latest?"
 }

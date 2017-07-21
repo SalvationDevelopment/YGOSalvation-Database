@@ -30,7 +30,11 @@
     "str16": " ",
     "links": [],
     "cardpool": "TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Female",
+        "pack_id": "Female",
+        "date": "2017-09-09"
+    },
     "tcg": {
         "id": 39373426,
         "pack_id": "RATE-EN089",
