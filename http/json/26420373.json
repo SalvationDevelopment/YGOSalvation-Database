@@ -10,8 +10,8 @@
     "race": 32,
     "attribute": 8,
     "category": 0,
-    "name": "Speedroid Passing Rider",
-    "desc": "Pendulum Effect\nOnce per turn: You can send 1 \"Speedroid\" Tuner from your hand or face-up from your field to the GY; increase or reduce this card's Pendulum Scale by the sent monster's original Level (min. 1), until the end of this turn.\n\nMonster Effect\nIf there are no monsters on the field, you can Special Summon this card (from your hand). You can only Special Summon \"Speedroid Passing Rider\" once per turn this way. When this card is Tribute Summoned: You can target 1 Level 4 or lower \"Speedroid\" monster in your GY; Special Summon it. Monsters your opponent controls cannot target \"Speedroid\" monsters for attacks, except this one.",
+    "name": "Speedroid Passinglider",
+    "desc": "Pendulum Effect\nOnce per turn: You can send 1 \"Speedroid\" Tuner from your hand or face-up from your field to the GY; increase or reduce (min. 1) this card's Pendulum Scale by the original Level of the sent monster until the end of this turn.\n\nMonster Effect\nIf there are no monsters on the field, you can Special Summon this card (from your hand). You can only Special Summon \"Speedroid Passinglider\" once per turn this way. When this card is Tribute Summoned: You can target 1 Level 4 or lower \"Speedroid\" monster in your GY; Special Summon it. Your opponent's monsters cannot target \"Speedroid\" monsters for attacks, except this one.",
     "str1": "Change Pendulum Scale",
     "str2": "Increase",
     "str3": "Decrease",
@@ -39,8 +39,8 @@
     },
     "tcg": {
         "date": "2017-08-03",
-        "pack": "VJMP",
-        "pack_id": "VJMP-JP123"
+        "pack": "COTD",
+        "pack_id": "COTD-EN098"
     },
-    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/3/3b/SpeedroidPassingRider-VJMP-JP-UR.png/revision/latest?"
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/7/70/SpeedroidPassinglider-COTD-EN-C-1E.png/revision/latest?"
 }

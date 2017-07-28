@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Junk Breaker",
-    "desc": "During your Main Phase, if this card was Normal Summoned this turn: You can Tribute this card; all face-up monsters currently on the field have their effects negated until the end of this turn.",
+    "desc": "During your Main Phase, if this card was Normal Summoned this turn: You can Tribute this card; all face-up monsters on the field have their effects negated until the end of this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Junk Breaker",
         "date": "2015-03-20"
     },
-    "tcg": {},
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/5/5b/JunkBreaker-VJMP-JP-UR.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-EN090"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/6/68/JunkBreaker-COTD-EN-C-1E.png/revision/latest?"
 }

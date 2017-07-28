@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Gogogo Aristera & Dexia",
-    "desc": "While another \"Gogogo\" monster is on the field, monsters your opponent controls cannot target face-up \"Gogogo\" monsters for attacks, also your opponent cannot target face-up \"Gogogo\" monsters with card effects. An Xyz Monster that was Summoned using only this card and other \"Gogogo\" monsters as Xyz Material gains this effect.\n● When it is Xyz Summoned: You can target 1 face-up Attack Position monster your opponent controls; change it to Defense Position, and if you do, its DEF becomes 0.",
+    "desc": "While another \"Gogogo\" monster is on the field, your opponent's monsters cannot target \"Gogogo\" monsters for attacks, also your opponent cannot target \"Gogogo\" monsters on the field with card effects. An Xyz Monster that was Summoned using only this card and other \"Gogogo\" monsters as material gains this effect.\n● When it is Xyz Summoned: You can target 1 face-up Attack Position monster your opponent controls; change it to Defense Position, and if you do, change its DEF to 0.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Gogogo Aristera & Dexia",
         "date": "2015-09-19"
     },
-    "tcg": {},
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/6/68/GogogoAristeraDexia-VJMP-JP-UR.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-EN092"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/8/8c/GogogoAristeraDexia-COTD-EN-C-1E.png/revision/latest?"
 }

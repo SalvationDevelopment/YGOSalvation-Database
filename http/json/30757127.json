@@ -10,8 +10,8 @@
     "race": 1,
     "attribute": 32,
     "category": 0,
-    "name": "Destiny HERO - Deadlyguy",
-    "desc": "1 \"Destiny HERO\" monster + 1 DARK Effect Monster\nQuick Effect: You can discard 1 card; send 1 \"Destiny HERO\" monster from your hand or Deck to the GY, and if you do, all \"Destiny HERO\" monsters you currently control gain 200 ATK for each \"Destiny HERO\" monster currently in your GY, until the end of this turn. You can only use this effect of \"Destiny HERO - Deadlyguy\" once per turn.",
+    "name": "Destiny HERO - Dangerous",
+    "desc": "1 \"Destiny HERO\" monster + 1 DARK Effect Monster\n(Quick Effect): You can discard 1 card; send 1 \"Destiny HERO\" monster from your hand or Deck to the GY, and if you do, \"Destiny HERO\" monsters you control gain 200 ATK for each \"Destiny HERO\" monster in your GY until the end of this turn. You can only use this effect of \"Destiny HERO - Dangerous\" once per turn.",
     "str1": "Gain Attack",
     "str2": "",
     "str3": "",
@@ -39,8 +39,8 @@
     },
     "tcg": {
         "date": "2017-08-03",
-        "pack": "VP16",
-        "pack_id": "VP16-JP001"
+        "pack": "COTD",
+        "pack_id": "COTD-EN096"
     },
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/4/4d/DestinyHERODeadlyguy-VP16-JP-UR.png/revision/latest?"
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/b/bb/DestinyHERODangerous-COTD-EN-C-1E.png/revision/latest?"
 }

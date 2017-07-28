@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Wicked Acolyte Chilam Sabak",
-    "desc": "If you have 5 or more cards in your hand, you can Normal Summon this card without Tributing. When this card is destroyed by battle and sent to the Graveyard: You can Special Summon this card in Defense Position and treat it as a Tuner monster. You can only use this effect of \"Wicked Acolyte Chilam Sabak\" once per turn.",
+    "desc": "If you have 5 or more cards in your hand, you can Normal Summon this card without Tributing. When this card is destroyed by battle and sent to the GY: You can Special Summon this card in Defense Position, and if you do, it is treated as a Tuner. You can only use this effect of \"Wicked Acolyte Chilam Sabak\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Wicked Acolyte Chilam Sabak",
         "date": "2016-03-19"
     },
-    "tcg": {},
-    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/1/10/WickedAcolyteChilamSabak-VJMP-JP-UR.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-EN093"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/6/6c/WickedAcolyteChilamSabak-COTD-EN-C-1E.png/revision/latest?"
 }

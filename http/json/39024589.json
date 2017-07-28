@@ -10,8 +10,8 @@
     "race": 8,
     "attribute": 32,
     "category": 0,
-    "name": "Abyss Actor - Dandy Supporting Actor",
-    "desc": "Pendulum Effect\nWhen you Pendulum Summon a monster(s): You can add 1 face-up Level 1 or 8 \"Abyss Actor\" Pendulum Monster from your Extra Deck to your hand.\n\nMonster Effect\nIf you have 2 \"Abyss Actor\" cards in your Pendulum Zones: You can Tribute this card; Special Summon 1 Level 1 or 8 \"Abyss Actor\" Pendulum Monster, that is either in your hand or face-up in your Extra Deck. You can only use this effect of \"Abyss Actor - Dandy Supporting Actor\" once per turn.",
+    "name": "Abyss Actor - Trendy Understudy",
+    "desc": "Pendulum Effect\nWhen you Pendulum Summon a monster: You can add 1 face-up Level 1 or 8 \"Abyss Actor\" Pendulum Monster from your Extra Deck to your hand.\n\nMonster Effect\nIf you have 2 \"Abyss Actor\" cards in your Pendulum Zones: You can Tribute this card; Special Summon 1 Level 1 or 8 \"Abyss Actor\" Pendulum Monster from your hand or face-up from your Extra Deck. You can only use this effect of \"Abyss Actor - Trendy Understudy\" once per turn.",
     "str1": "Add \"Abyss Actor\" to hand",
     "str2": "Special Summon \"Abyss Actor\"",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Abyss Actor - Dandy Supporting Actor",
         "date": "2016-07-21"
     },
-    "tcg": {},
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/2/28/AbyssActorDandySupportingActor-VP16-JP-UR.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-EN097"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/2/29/AbyssActorTrendyUnderstudy-COTD-EN-C-1E.png/revision/latest?"
 }

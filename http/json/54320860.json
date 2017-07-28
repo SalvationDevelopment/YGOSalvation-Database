@@ -10,8 +10,8 @@
     "race": 8,
     "attribute": 32,
     "category": 0,
-    "name": "Infernity Bishop",
-    "desc": "If this is the only card in your hand, you can Special Summon it (from your hand). You can only Special Summon \"Infernity Bishop\" once per turn this way. If an \"Infernity\" monster(s) you control would be destroyed by battle or card effect while you have no cards in your hand, you can banish this card from your GY instead.",
+    "name": "Infernity Patriarch",
+    "desc": "If this is the only card in your hand, you can Special Summon it (from your hand). You can only Special Summon \"Infernity Patriarch\" once per turn this way. While you have no cards in your hand, if an \"Infernity\" monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Infernity Bishop",
         "date": "2015-09-19"
     },
-    "tcg": {},
-    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/5/5d/InfernityBishop-VJMP-JP-UR.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-EN091"
+    },
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/4/4c/InfernityPatriarch-COTD-EN-C-1E.png/revision/latest?"
 }
