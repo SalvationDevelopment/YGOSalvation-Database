@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Smile Universe",
-    "desc": "Special Summon as many face-up Pendulum Monsters from your Extra Deck as possible, but they have their effects negated (if any), then your opponent gains LP equal to the combined original ATK of the Summoned monsters. You cannot Normal or Special Summon other monsters, and monsters you control cannot attack, the turn you activate this card.",
+    "desc": "Special Summon as many face-up Pendulum Monsters from your Extra Deck as possible, but they have their effects negated (if any), then your opponent gains LP equal to the total original ATK of those Special Summoned monsters. You cannot Normal or Special Summon other monsters, or attack, during the turn you activate this card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -42,5 +42,5 @@
         "pack": "COTD",
         "pack_id": "COTD-JP056"
     },
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/a/a2/SmileUniverse-COTD-JP-C.png/revision/latest?"
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/b/b7/SmileUniverse-COTD-EN-C-1E.png/revision/latest?"
 }

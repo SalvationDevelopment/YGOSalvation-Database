@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Recall",
-    "desc": "When your opponent activates a monster effect: Your opponent draws 1 card, also negate the monster effect activation, and if you do, destroy it.",
+    "desc": "When your opponent activates a monster effect: Negate the activation, and if you do, destroy that card, also your opponent draws 1 card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,7 +40,7 @@
     "tcg": {
         "date": "2017-08-03",
         "pack": "COTD",
-        "pack_id": "COTD-JP078"
+        "pack_id": "COTD-EN078"
     },
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/3/31/Recall-COTD-JP-R.png/revision/latest?"
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/1/1d/Recall-COTD-EN-R-1E.png/revision/latest?"
 }

@@ -11,7 +11,7 @@
     "attribute": 64,
     "category": 8200,
     "name": "Slifer the Sky Dragon",
-    "desc": "Requires 3 Tributes to Normal Summon (cannot be Normal Set). This card's Normal Summon cannot be negated. When Normal Summoned, cards and effects cannot be activated. Once per turn, during the End Phase, if this card was Special Summoned: Send it to the Graveyard. This card gains 1000 ATK and DEF for each card in your hand. If a monster(s) is Normal or Special Summoned to your opponent's field in face-up Attack Position: That monster(s) loses 2000 ATK, then if its ATK has been reduced to 0 as a result, destroy it.",
+    "desc": "Requires 3 Tributes to Normal Summon (cannot be Normal Set). This card's Normal Summon cannot be negated. When Normal Summoned, cards and effects cannot be activated. Once per turn, during the End Phase, if this card was Special Summoned: Send it to the GY. Gains 1000 ATK and DEF for each card in your hand. If a monster(s) is Normal or Special Summoned to your opponent's field in Attack Position: That monster(s) loses 2000 ATK, then if its ATK has been reduced to 0 as a result, destroy it.",
     "str1": "Send to Graveyard",
     "str2": "Lower attack",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Slifer the Sky Dragon",
         "date": "2012-08-27"
     },
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/0/04/SlifertheSkyDragon-MVP1-EN-GUR-1E.png/revision/latest?"
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/2/25/SlifertheSkyDragon-JMPS-EN-LE-OP.png/revision/latest?"
 }

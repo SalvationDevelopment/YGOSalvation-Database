@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Supreme King Dragon Clear Wing",
-    "desc": "1 Tuner + 1+ non-Tuner DARK Pendulum Monsters\nIf this card is Synchro Summoned: You can destroy all face-up monsters your opponent controls. Once per turn, if this card battles an opponent's monster, before damage calculation: You can destroy that opponent's monster, and if you do, inflict damage to your opponent equal to the destroyed monster's original ATK. If this card is in your GY: You can Tribute 2 \"Supreme King Dragon\" monsters; Special Summon this card.",
+    "desc": "1 Tuner + 1+ non-Tuner DARK Pendulum Monsters\nIf this card is Synchro Summoned: You can destroy all face-up monsters your opponent controls. Once per turn, before damage calculation, if this card battles an opponent's monster: You can destroy that monster, and if you do, inflict damage to your opponent equal to the destroyed monster's original ATK. If this card is in your GY: You can Tribute 2 \"Supreme King Dragon\" monsters; Special Summon this card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Supreme King Dragon Clear Wing",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/8/8d/SupremeKingDragonClearWing-COTD-JP-R.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-EN039"
+    },
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/c/c5/SupremeKingDragonClearWing-COTD-EN-R-1E.png/revision/latest?"
 }

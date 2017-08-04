@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Pulse Mines",
-    "desc": "If you control a Machine monster: If your opponent controls any Attack Position monsters, change them to Defense Position, also each time your opponent Normal or Special Summons a monster(s) this turn, change that monster(s) to Defense Position.",
+    "desc": "If you control a Machine monster: Change your opponent's Attack Position monsters (if any) to Defense Position, also, until the end of this turn, if a monster(s) is Normal or Special Summoned to your opponent's field, change them to Defense Position.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Pulse Bomb",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/b/b6/PulseMines-COTD-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-JP069"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/5/51/PulseMines-COTD-EN-C-1E.png/revision/latest?"
 }

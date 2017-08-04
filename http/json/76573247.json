@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 131072,
     "name": "Alien Infiltrator",
-    "desc": "Once per turn, this card can move to an adjacent unoccupied Monster Card Zone. If no Spell, Trap or Monster Card on your opponent's side of the field is in the same column as this card, it can attack your opponent directly.",
+    "desc": "Once per turn, this card can move to an adjacent (horizontal) unoccupied Monster Card Zone. If no Spell, Trap or Monster Card on your opponent's side of the field is in the same column as this card, it can attack your opponent directly.",
     "str1": "移动位置",
     "str2": "",
     "str3": "",

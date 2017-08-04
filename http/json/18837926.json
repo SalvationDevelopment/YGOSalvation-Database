@@ -10,7 +10,7 @@
     "race": 1,
     "attribute": 1,
     "category": 1,
-    "name": "Mauled Captain",
+    "name": "Motivating Captain",
     "desc": "When this card is Normal Summoned: You can target 1 Level 4 or lower monster in your GY; Special Summon it in Defense Position, but it has its effects negated.",
     "str1": "",
     "str2": "",
@@ -37,6 +37,10 @@
         "rarity": "Mauled Captain",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/f/fc/MauledCaptain-COTD-JP-R.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-EN031"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/e/e5/MotivatingCaptain-COTD-EN-R-1E.png/revision/latest?"
 }

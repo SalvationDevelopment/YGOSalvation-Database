@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Air Cracking Storm",
-    "desc": "Equip only to a Machine monster. When the equipped monster destroys an opponent's monster by its attack: You can activate this effect; the equipped monster can make a second attack during this Battle Phase. Monsters you control cannot attack the turn you activate this effect, except the equipped monster.",
+    "desc": "Equip only to a Machine monster. When that attacking monster destroys your opponent's monster by battle: You can activate this effect; it can make a second attack during this Battle Phase. Your other monsters cannot attack the turn you activate this effect.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Aircrack Storm",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/d/da/AirCrackingStorm-COTD-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-EN055"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/8/84/AirCrackingStorm-COTD-EN-C-1E.png/revision/latest?"
 }

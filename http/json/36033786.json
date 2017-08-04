@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 280576,
     "name": "Cyberse Wizard",
-    "desc": "Once per turn: You can target 1 Attack Position monster your opponent controls; change it to Defense Position, and if you do, for the rest of this turn, monsters you control cannot attack, except to attack that monster, also if a Cyberse monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "desc": "Once per turn: You can target 1 Attack Position opponent's monster; change it to Defense Position, and if you do, for the rest of this turn, your monsters cannot attack, except to attack that monster, and if your Cyberse monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,7 +40,7 @@
     "tcg": {
         "date": "2017-08-03",
         "pack": "COTD",
-        "pack_id": "COTD-JP001"
+        "pack_id": "COTD-EN001"
     },
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/0/0c/CyberseWizard-COTD-JP-SR.png/revision/latest?"
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/3/36/CyberseWizard-COTD-EN-SR-1E.png/revision/latest?"
 }

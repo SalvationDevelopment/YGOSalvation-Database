@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "March of the Dark Brigade",
-    "desc": "Target 1 \"Lightsworn\" monster in your GY; add it to your hand, then banish cards from the top of your Deck equal to that monster's original Level. You can only activate 1 \"March of the Night Brigade\" per turn.",
+    "desc": "Target 1 \"Lightsworn\" monster in your GY that has a Level; add it to your hand, then banish a number of cards from the top of your Deck equal to the original Level of that monster in your hand. You can only activate 1 \"March of the Dark Brigade\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -42,5 +42,5 @@
         "pack": "COTD",
         "pack_id": "COTD-JP059"
     },
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/7/72/MarchoftheDarkBrigade-COTD-JP-R.png/revision/latest?"
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/0/08/MarchoftheDarkBrigade-COTD-EN-UR-1E.png/revision/latest?"
 }

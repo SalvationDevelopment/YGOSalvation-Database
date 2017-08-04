@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Dark World Brainwashing",
-    "desc": "When an opponent's monster effect is activated while you have 3 or more cards in your hand: You can target 1 \"Dark World\" monster on the field; return it to the hand, and if you do, the activated opponent's effect becomes \"Discard 1 random card from your opponent's hand\".",
+    "desc": "When an opponent's monster activates its effect, if you have 3 or more cards in your hand (except during the Damage Step): You can target 1 \"Dark World\" monster on the field; return it to the hand, and if you do, the activated effect becomes \"Discard 1 random card from your opponent's hand\".",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Dark World Brainwashing",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/5/59/DarkWorldBrainwashing-COTD-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-EN074"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/f/f0/DarkWorldBrainwashing-COTD-EN-C-1E.png/revision/latest?"
 }

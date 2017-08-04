@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 1,
     "name": "Jack Wyvern",
-    "desc": "You can banish this card and 1 Machine monster you control, then target 1 DARK monster in your GY; Special Summon it. You can only use this effect of \"Jack Wyvern\" once per turn.",
+    "desc": "You can banish this card and 1 face-up Machine monster you control, then target 1 DARK monster in your GY; Special Summon it. You can only use this effect of \"Jack Wyvern\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Jack Wyvern",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/0/03/JackWyvern-COTD-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-EN013"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/d/dd/JackWyvern-COTD-EN-C-1E.png/revision/latest?"
 }

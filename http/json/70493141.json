@@ -10,8 +10,8 @@
     "race": 4096,
     "attribute": 16,
     "category": 1,
-    "name": "The Immortal Hermit of Thunder",
-    "desc": "You can Special Summon this card (from your hand) by paying 3000 LP. If this card Summoned this way is destroyed by an opponent's card (by battle or card effect) while its owner controls it: Gain 5000 LP.",
+    "name": "The Ascended of Thunder",
+    "desc": "You can Special Summon this card (from your hand) by paying 3000 LP. If this card Summoned this way in its owner's control is destroyed by an opponent's card (by battle or card effect): Gain 5000 LP.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "The Immortal Hermit of Thunder",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/a/ac/TheImmortalHermitofThunder-COTD-JP-NR.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-EN036"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/3/3a/TheAscendedofThunder-COTD-EN-SP-1E.png/revision/latest?"
 }

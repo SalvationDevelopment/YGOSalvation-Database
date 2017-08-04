@@ -10,8 +10,8 @@
     "race": 16384,
     "attribute": 1,
     "category": 1,
-    "name": "Treasure Pander",
-    "desc": "You can banish up to 3 Spell/Traps from your GY, face-down; Special Summon 1 Normal Monster from your Deck with the same Level as the number of cards banished this way.",
+    "name": "Treasure Panda",
+    "desc": "You can banish up to 3 Spells/Traps from your GY face-down; Special Summon 1 Normal Monster from your Deck, whose Level equals the number of cards banished to activate this effect.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,7 +40,7 @@
     "tcg": {
         "date": "2017-08-03",
         "pack": "COTD",
-        "pack_id": "COTD-JP032"
+        "pack_id": "COTD-EN032"
     },
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/a/ad/TreasurePander-COTD-JP-C.png/revision/latest?"
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/2/21/TreasurePanda-COTD-EN-C-1E.png/revision/latest?"
 }

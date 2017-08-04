@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "TCG Prerelease",
-    "ocg": {},
+    "ocg": {
+        "pack": "EP17",
+        "pack_id": "EP17-JP023",
+        "date": "2017-09-09"
+    },
     "tcg": {
         "id": 35699,
         "pack_id": "MACR-EN086",

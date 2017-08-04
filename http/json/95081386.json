@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Three Strikes Barrier",
-    "desc": "If your opponent controls exactly 3 cards: Activate 1 of these effects;\n● This turn, monsters you control cannot be destroyed by battle.\n● This turn, you take no battle damage.\n● This turn, each time a monster you control inflicts battle damage to your opponent, gain LP equal to the battle damage inflicted.",
+    "desc": "If your opponent controls exactly 3 cards: Activate 1 of these effects;\n● this turn, your monsters cannot be destroyed by battle.\n● this turn, you take no battle damage.\n● this turn, each time your monster inflicts battle damage to your opponent, you gain the same amount of LP.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -38,5 +38,5 @@
         "date": "2017-04-15"
     },
     "tcg": {},
-    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/2/2e/ThreeStrikesBarrier-COTD-JP-C.png/revision/latest?"
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/1/1a/ThreeStrikesBarrier-COTD-EN-C-1E.png/revision/latest?"
 }

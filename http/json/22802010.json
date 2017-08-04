@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 0,
-    "name": "Blind Ruination",
-    "desc": "Roll a six-sided die twice, and destroy all face-up monsters on the field whose Level/Rank is lower than the total result.",
+    "name": "Blind Obliteration",
+    "desc": "Roll a six-sided die twice and destroy all face-up monsters with Levels/Ranks lower than the total roll.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Blind Ruination",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/1/11/BlindRuination-COTD-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-EN079"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/0/07/BlindObliteration-COTD-EN-R-1E.png/revision/latest?"
 }

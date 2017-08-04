@@ -37,6 +37,10 @@
         "rarity": "Launcher Commander",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/a/a3/LauncherCommander-COTD-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-EN004"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/f/fd/LauncherCommander-COTD-EN-C-1E.png/revision/latest?"
 }

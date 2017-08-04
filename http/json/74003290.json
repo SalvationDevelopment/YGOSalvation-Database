@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Lost Wind",
-    "desc": "Target 1 face-up Special Summoned monster on the field; it has its effects negated, also its original ATK is halved. If a monster is Special Summoned from your opponent's Extra Deck, while this card is in the Graveyard (except during the Damage Step): You can Set this card, but banish it when it leaves the field.",
+    "desc": "Target 1 face-up Special Summoned monster on the field; it has its effects negated, also its original ATK is halved. If a monster is Special Summoned from your opponent's Extra Deck, while this card is in the GY (except during the Damage Step): You can Set this card, but banish it when it leaves the field.",
     "str1": "Activate Effect",
     "str2": "Set Bewildering Wind",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Lost Wind",
         "date": "2017-02-09"
     },
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/9/90/LostWind-RATE-EN-R-1E.png/revision/latest?"
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/e/e4/LostWind-OP05-EN-SR-UE.png/revision/latest?"
 }

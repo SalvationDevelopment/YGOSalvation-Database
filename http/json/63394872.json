@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Senet Switch",
-    "desc": "Once per turn, during your Main Phase, you can move 1 monster on your side of the field to an adjacent unoccupied Monster Card Zone.",
+    "desc": "Once per turn, during your Main Phase, you can move 1 monster on your side of the field to an adjacent (horizontal) unoccupied Monster Card Zone.",
     "str1": "移動",
     "str2": "モンスターカードゾーンを選択してください",
     "str3": "",
@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "CDIP",
+        "pack_id": "CDIP-JP048",
+        "date": "2006-08-10"
+    },
     "tcg": {
         "id": 63394872,
         "pack_id": "CDIP-EN048",

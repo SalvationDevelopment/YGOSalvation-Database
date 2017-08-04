@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 2048,
     "name": "Castle Link",
-    "desc": "Once per turn: You can target 1 Link Monster on the field; move it to a Main Monster Zone it points to, except to its controller's opponent's field. Once per turn: You can switch the placements of 2 Link Monsters in your Main Monster Zones or 2 Link Monsters in your opponent's Main Monster Zones.",
+    "desc": "Once per turn: You can target 1 Link Monster on the field; move it to a Main Monster Zone it points to on its controller's field. Once per turn: You can switch the locations of 2 Link Monsters in your Main Monster Zones or 2 Link Monsters in your opponent's Main Monster Zones.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -42,5 +42,5 @@
         "pack": "COTD",
         "pack_id": "COTD-JP065"
     },
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/e/ea/CastleLink-COTD-JP-SR.png/revision/latest?"
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/b/b4/CastleLink-COTD-EN-UR-1E.png/revision/latest?"
 }

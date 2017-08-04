@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 1,
     "name": "Jain, Twilightsworn General",
-    "desc": "Once per turn: You can banish 1 \"Lightsworn\" monster from your hand or GY, then target 1 face-up monster on the field; it loses ATK and DEF equal to the banished monster's Level x 300, until the end of this turn. Once per turn, if another of your \"Lightsworn\" monsters activates its effect: Send the top 2 cards of your Deck to the GY.",
+    "desc": "Once per turn: You can banish 1 \"Lightsworn\" monster from your hand or GY, then target 1 face-up monster on the field; it loses ATK and DEF equal to the banished monster's Level x 300, until the end of this turn. Once per turn, if your other \"Lightsworn\" monster's effect is activated: Send the top 2 cards of your Deck to the GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Jain, Twilightsworn General",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/5/51/JainTwilightswornGeneral-COTD-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-EN024"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/c/cb/JainTwilightswornGeneral-COTD-EN-C-1E.png/revision/latest?"
 }

@@ -10,8 +10,8 @@
     "race": 16,
     "attribute": 1,
     "category": 1,
-    "name": "Zombiena",
-    "desc": "If this card in its owner's possession is destroyed by an opponent's card (by battle or card effect): You can target 1 Level 4 or lower monster in your GY, except \"Zombiena\"; Special Summon it.",
+    "name": "Zombina",
+    "desc": "If this card in its owner's possession is destroyed by an opponent's card (by battle or card effect): You can target 1 Level 4 or lower monster in your GY, except \"Zombina\"; Special Summon it.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Zombiena",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/4/4c/Zombiena-COTD-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-EN033"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/0/0d/Zombina-COTD-EN-C-1E.png/revision/latest?"
 }

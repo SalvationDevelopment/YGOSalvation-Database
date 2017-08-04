@@ -30,13 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "STBL",
+        "pack_id": "STBL-JP022",
+        "date": "2010-07-17"
+    },
     "tcg": {
         "id": 93724592,
         "pack_id": "STBL-EN022",
-        "pack": "Starstrike Blast",
+        "pack": "STBL",
         "rarity": "Super Rare",
-        "date": 1289883600000
+        "date": "2010-11-06"
     },
     "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/5/58/KarakuriNinjamdl339Sazank-STBL-EN-SR-1E.jpg/revision/latest?"
 }

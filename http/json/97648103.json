@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 0,
-    "name": "World Legacy Aegis",
-    "desc": "Target 2 \"World Chalice\" monsters with different names in your GY; add them to your hand. If a Link Monster(s) you control that is linked would be destroyed by battle, you can banish this card from your GY instead. You can only activate 1 \"Starrelic's Aegis\" per turn.",
+    "name": "World Legacy's Heart",
+    "desc": "Target 2 \"World Chalice\" monsters in your GY with different names; add them to your hand. If your linked Link Monster would be destroyed by battle, you can banish this card from your GY instead. You can only activate 1 \"World Legacy's Heart\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Starrelic's Aegis",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/3/3b/WorldLegacyAegis-COTD-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-EN058"
+    },
+    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/0/02/WorldLegacysHeart-COTD-EN-C-1E.png/revision/latest?"
 }

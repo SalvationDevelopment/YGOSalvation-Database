@@ -10,8 +10,8 @@
     "race": 1024,
     "attribute": 32,
     "category": 1,
-    "name": "Predaplant Banksia Ogre",
-    "desc": "You can Special Summon this card (from your hand) by Tributing 1 monster your opponent controls with a Predator Counter. If this card is sent from the field to the GY: Place 1 Predator Counter on each face-up monster your opponent controls, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter.",
+    "name": "Predaplant Banksiogre",
+    "desc": "You can Special Summon this card (from your hand) by Tributing 1 opponent's monster with a Predator Counter. If this card is sent from the field to the GY: Place 1 Predator Counter on each face-up monster your opponent controls, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Predaplant Banksia Ogre",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/7/7f/PredaplantBanksiaOgre-COTD-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-EN016"
+    },
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/3/31/PredaplantBanksiogre-COTD-EN-C-1E.png/revision/latest?"
 }

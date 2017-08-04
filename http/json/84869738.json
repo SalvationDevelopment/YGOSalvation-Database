@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 0,
-    "name": "Supreme King's Wrath",
-    "desc": "If you control \"Supreme King Z-ARC\": Destroy as many monsters you control as possible, except \"Supreme King Z-ARC\", and if you do, Special Summon up to 4 \"Supreme King Dragon\" monsters with different names from your hand, Deck, Extra Deck, and/or GY, ignoring their Summoning conditions. You can banish this card from your GY, then target 1 \"Supreme King Dragon\" Xyz Monster you control; attach 2 \"Supreme King Dragon\" monsters from your GY and/or face-up from your Extra Deck to it as materials.",
+    "name": "Supreme Rage",
+    "desc": "If you control \"Supreme King Z-ARC\": Destroy as many monsters you control as possible, except \"Supreme King Z-ARC\", and if you do, Special Summon up to 4 \"Supreme King Dragon\" monsters with different names from your hand, Deck, Extra Deck, and/or GY, ignoring their Summoning conditions. You can banish this card from your GY, then target 1 \"Supreme King Dragon\" Xyz Monster you control; attach 2 \"Supreme King Dragon\" monsters to it as materials, from your GY and/or face-up from your Extra Deck.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Supreme King's Wrath",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/9/9d/SupremeKingsWrath-COTD-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-EN070"
+    },
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/9/90/SupremeRage-COTD-EN-C-1E.png/revision/latest?"
 }

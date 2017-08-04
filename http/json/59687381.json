@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Defense Zone",
-    "desc": "While a player controls a monster(s) in their Main Monster Zone, cards in that player's Spell & Trap Zone that are in the same column as those monsters cannot be destroyed by their opponent's card effects, also their opponent cannot target those cards with card effects.",
+    "desc": "For each monster a player controls in their Main Monster Zone, their Spells/Traps in the same column as that monster cannot be destroyed by their opponent's card effects, and their opponent cannot target them with card effects.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Defense Zone",
         "date": "2017-04-15"
     },
-    "tcg": {},
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/2/25/DefenseZone-COTD-JP-NR.png/revision/latest?"
+    "tcg": {
+        "date": "2017-08-03",
+        "pack": "COTD",
+        "pack_id": "COTD-JP066"
+    },
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/2/24/DefenseZone-COTD-EN-SP-1E.png/revision/latest?"
 }
