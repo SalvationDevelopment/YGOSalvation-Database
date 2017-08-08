@@ -10,8 +10,8 @@
     "race": 1048576,
     "attribute": 32,
     "category": 1,
-    "name": "Number 89: Computerbeast Diablosis",
-    "desc": "2 Level 7 monsters\nOnce per turn: You can detach 1 material from this card; look at your opponent's Extra Deck, also banish 1 monster from their Extra Deck face-down. At the end of the Battle Phase, if this card destroyed a monster by battle: You can target 1 card in your opponent's GY; banish it face-down. If a card(s) in your opponent's possession is banished face-down (except during the Damage Step): You can banish cards from the top of your opponent's Deck face-down, equal to the number of their face-down banished cards. You can only use this effect of \"Number 89: Computerbeast Diablosis\" once per turn.",
+    "name": "Number 89: Diablosis the Mind Hacker",
+    "desc": "2 Level 7 monsters\nOnce per turn: You can detach 1 material from this card; look at your opponent's Extra Deck and banish 1 monster from it, face-down. At the end of the Battle Phase, if this card destroyed a monster by battle: You can target 1 card in your opponent's GY; banish it, face-down. If a card your opponent owns and possesses is banished face-down while you control this card (except during the Damage Step): You can banish cards from the top of your opponent's Deck, face-down, equal to their face-down banished cards. You can only use this effect of \"Number 89: Diablosis the Mind Hacker\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -38,5 +38,5 @@
         "date": "2017-05-13"
     },
     "tcg": {},
-    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/3/3f/Number89ComputerbeastDiablosis-CP17-JP-UR.png/revision/latest?"
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/d/de/Number89DiablosistheMindHacker-YCSW-EN-LE-OP.png/revision/latest?"
 }
