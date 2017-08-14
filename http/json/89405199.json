@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 89405199,
-        "pack_id": "EE3-JP055",
-        "pack": "Expert Edition Volume 3",
+        "pack_id": "SOD-JP055",
+        "pack": "SOD",
         "rarity": "スーパーレア仕様",
-        "date": 1134018000000
+        "date": "2004-05-27"
     },
     "tcg": {
         "id": 89405199,
         "pack_id": "SOD-EN055",
-        "pack": "Soul Of The Duelist",
+        "pack": "SOD",
         "rarity": "Super Rare",
-        "date": 1096606800000
+        "date": "2004-10-01"
     },
     "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/4/4a/Greed-DR3-EN-SR-UE.png/revision/latest?"
 }

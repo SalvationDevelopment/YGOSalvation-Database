@@ -30,13 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "STBL",
+        "pack_id": "STBL-JP030",
+        "date": "2010-07-17"
+    },
     "tcg": {
         "id": 60668166,
         "pack_id": "STBL-EN030",
-        "pack": "Starstrike Blast",
+        "pack": "STBL",
         "rarity": "Super Rare",
-        "date": 1289883600000
+        "date": "2010-11-06"
     },
     "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/2/28/NaturiaCherries-STBL-EN-SR-1E.jpg/revision/latest?"
 }
