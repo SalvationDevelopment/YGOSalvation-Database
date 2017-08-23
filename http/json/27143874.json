@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Dino-Sewing",
-    "desc": "Cannot be destroyed by battle. If this card is targeted for an attack: This card gains 1000 ATK and DEF. If this card attacked, after damage calculation: The ATK gained from this effect returns to 0.",
+    "desc": "Cannot be destroyed by battle. If this card is targeted for an attack: This card gains 1000 ATK and DEF. If this card attacked, after damage calculation: The ATK and DEF gained from this effect returns to 0.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Dino-Sewing",
         "date": "2016-11-03"
     },
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/3/3d/DinoSewing-INOV-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/0/0f/DinoSewing-MP17-EN-C-1E.png/revision/latest?"
 }

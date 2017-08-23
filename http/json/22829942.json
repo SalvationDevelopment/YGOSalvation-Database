@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "EP17",
+        "pack_id": "EP17-JP049",
+        "date": "2017-09-09"
+    },
     "tcg": {
         "id": 22829942,
         "pack_id": "RATE-ENSP1",
@@ -38,5 +42,5 @@
         "rarity": "Fusion Recycling Plant",
         "date": "2017-02-04"
     },
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/d/d5/FusionRecyclingPlant-RATE-EN-R-1E.png/revision/latest?"
+    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/8/81/FusionRecyclingPlant-MP17-EN-R-1E.png/revision/latest?"
 }

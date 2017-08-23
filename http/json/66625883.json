@@ -30,13 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "STBL",
+        "pack_id": "STBL-JP021",
+        "date": "2010-07-17"
+    },
     "tcg": {
         "id": 66625883,
         "pack_id": "STBL-EN021",
-        "pack": "Starstrike Blast",
+        "pack": "STBL",
         "rarity": "Common",
-        "date": 1289883600000
+        "date": "2010-11-06"
     },
     "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/b/bd/KarakuriStrategistmdl248Nishipachi-STBL-EN-C-1E.jpg/revision/latest?"
 }

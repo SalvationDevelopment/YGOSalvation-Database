@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "EP17",
+        "pack_id": "EP17-JP051",
+        "date": "2017-09-09"
+    },
     "tcg": {
         "id": 42378577,
         "pack_id": "MACR-ENSP1",

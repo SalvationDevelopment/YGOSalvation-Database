@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 6297941,
-        "pack_id": null,
-        "pack": "Vol.6",
+        "pack_id": "TP6-KR019",
+        "pack": "TP6",
         "rarity": "共通",
-        "date": 942901200000
+        "date": "1999-11-18"
     },
     "tcg": {
         "id": 6297941,
         "pack_id": "TP6-EN019",
-        "pack": "Tournament Pack 6",
+        "pack": "TP6",
         "rarity": "Common",
-        "date": 1117602000000
+        "date": "2005-06-01"
     },
     "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/1/1f/Burglar-TP6-EN-C-UE.jpg/revision/latest?"
 }
