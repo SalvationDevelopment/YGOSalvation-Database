@@ -1,0 +1,23 @@
+{
+    "ocg": {
+        "pack": "17CC",
+        "pack_id": "17CC-JP001",
+        "date": "2017-09-09"
+    },
+    "tcg": {},
+    "id": 100220001,
+    "setcode": 257,
+    "type": 33554465,
+    "atk": 1300,
+    "def": "-",
+    "level": 2,
+    "race": 16777216,
+    "attribute": 32,
+    "name": "Code Talker",
+    "desc": "Link Arrows: [🡱] [🡳]\n\n2 Effect Monsters\nGains 500 ATK for each monster it points to. Cannot be destroyed by battle or your opponent's card effects, while it points to a monster.",
+    "links": [
+        1,
+        6
+    ],
+    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/d/d1/CodeTalker-17CC-JP-OP.png/revision/latest?"
+}
