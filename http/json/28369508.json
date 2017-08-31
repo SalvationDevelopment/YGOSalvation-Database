@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Banishes itself from your Graveyard",
+        "pack_id": "Banishes itself from your Graveyard",
+        "date": "2017-09-09"
+    },
     "tcg": {
         "id": 28369508,
         "pack_id": "INOV-EN085",

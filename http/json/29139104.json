@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 29139104,
-        "pack_id": "EE04-JP206",
-        "pack": "Expert Edition Volume 4",
+        "pack_id": "EOJ-JP026",
+        "pack": "EOJ",
         "rarity": "共通",
-        "date": 1190437200000
+        "date": "2006-02-16"
     },
     "tcg": {
         "id": 29139104,
-        "pack_id": "EOJ-EN026",
-        "pack": "Enemy Of Justice",
+        "pack_id": "DR04-EN206",
+        "pack": "DR04",
         "rarity": "Common",
-        "date": 1147842000000
+        "date": "2007-11-14"
     },
     "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/5/5b/AvalanchingAussa-DR04-NA-C-UE.png/revision/latest?"
 }

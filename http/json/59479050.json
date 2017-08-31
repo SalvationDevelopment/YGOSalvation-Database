@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 1074003977,
     "name": "Number 71: Rebarian Shark",
-    "desc": "2 Level 3 monsters\nOnce per turn: You can target 1 \"Number\" Xyz Monster in your GY, except \"Number 71: Rebarian Shark\"; Special Summon it, and if you do, attach 1 material from this card to it. If this card is sent to the GY: You can choose 1 \"Rank-Up-Magic\" Spell from your Deck and place it on top of your Deck.",
+    "desc": "2 Level 3 monsters\nOnce per turn, if this card has material: You can target 1 \"Number\" Xyz Monster in your GY, except \"Number 71: Rebarian Shark\"; Special Summon it, and if you do, attach 1 material from this card to it. If this card is sent to the GY: You can choose 1 \"Rank-Up-Magic\" Spell from your Deck and place it on top of your Deck.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Number 71: Rebarian Shark",
         "date": "2017-05-13"
     },
-    "tcg": {},
+    "tcg": {
+        "date": "2017-08-24",
+        "pack": "CT14",
+        "pack_id": "CT14-EN005"
+    },
     "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/d/d7/Number71RebarianShark-CT14-EN-SR-LE.png/revision/latest?"
 }

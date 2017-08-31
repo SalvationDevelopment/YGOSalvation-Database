@@ -30,7 +30,11 @@
     "str16": " ",
     "links": [],
     "cardpool": "TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "EP17",
+        "pack_id": "EP17-JP010",
+        "date": "2017-09-09"
+    },
     "tcg": {
         "id": 95218695,
         "pack_id": "RATE-EN083",

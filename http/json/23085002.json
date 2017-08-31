@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 33554441,
     "name": "Number 68: Sanaphond the Sky Prison",
-    "desc": "2 Level 8 monsters\nGains 100 ATK and DEF for each monster in the GYs. Once per turn: You can detach 1 material from this card; until the end of your opponent's turn, this card cannot be destroyed by card effects, also neither player can Special Summon monsters from the GYs.",
+    "desc": "2 Level 8 monsters\nGains 100 ATK and DEF for each monster in the GYs. Once per turn: You can detach 1 material from this card; until the end of your opponent's next turn, this card cannot be destroyed by card effects, also neither player can Special Summon monsters from the GYs.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Number 68: Sanaphond the Sky Prison",
         "date": "2017-05-13"
     },
-    "tcg": {},
+    "tcg": {
+        "date": "2017-08-24",
+        "pack": "CT14",
+        "pack_id": "CT14-EN008"
+    },
     "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/9/91/Number68SanaphondtheSkyPrison-CT14-EN-SR-LE.png/revision/latest?"
 }

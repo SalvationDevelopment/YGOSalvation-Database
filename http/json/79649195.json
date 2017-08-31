@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 79649195,
-        "pack_id": "308-055",
-        "pack": "天空の聖域",
+        "pack_id": "EE2-JP167",
+        "pack": "EE2",
         "rarity": "共通",
-        "date": 1069304400000
+        "date": "2005-03-17"
     },
     "tcg": {
         "id": 79649195,
         "pack_id": "AST-055",
-        "pack": "Ancient Sanctuary",
+        "pack": "AST",
         "rarity": "Common",
-        "date": 1086066000000
+        "date": "2004-06-01"
     },
     "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/6/68/ArmorBreak-DR2-EN-C-UE.png/revision/latest?"
 }
