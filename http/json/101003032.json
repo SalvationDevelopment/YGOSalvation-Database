@@ -1,0 +1,19 @@
+{
+    "ocg": {
+        "pack": "EXFO",
+        "pack_id": "EXFO-JP032",
+        "date": "2017-10-14"
+    },
+    "tcg": {},
+    "id": 101003032,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1300,
+    "def": 1500,
+    "level": 4,
+    "race": 512,
+    "attribute": 32,
+    "name": "Mikuratori",
+    "desc": "This card gains the appropriate effect, based on its location in the Main Monster Zone.\n● Left-most: Gains 1000 ATK and DEF.\n● Right-most: This card can make up to 2 attacks on monsters during each Battle Phase.\n● Middle: Cannot be destroyed by your opponent's card effects. Your opponent cannot target this card with card effects.\n● Other: Monsters in the same column as this card cannot activate their effects.",
+    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/9/95/Mikuratori-EXFO-JP-OP.png/revision/latest?"
+}
