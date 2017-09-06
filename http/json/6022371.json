@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 0,
     "name": "Water Dragon Cluster",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with the effect of a \"Bonding\" Spell/Trap. If this card is Special Summoned: You can activate this effect; until the end of this turn, change the ATK of all Effect Monsters your opponent currently controls to 0, also they cannot activate their effects. Quick Effect: You can Tribute this card; Special Summon 2 copies of \"Water Dragon\" from your hand and/or Deck in Defense Position, ignoring their Summoning conditions.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with the effect of a \"Bonding\" Spell/Trap. If this card is Special Summoned: You can activate this effect; Effect Monsters your opponent currently controls cannot activate their effects for the rest of this turn, also change their ATK to 0 until the end of this turn. (Quick Effect): You can Tribute this card; Special Summon 2 \"Water Dragon\" from your hand and/or Deck in Defense Position, ignoring their Summoning conditions.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Water Dragon Cluster",
         "date": "2017-06-03"
     },
-    "tcg": {},
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/1/10/WaterDragonCluster-DP18-JP-UR.png/revision/latest?"
+    "tcg": {
+        "date": "2017-09-07",
+        "pack": "DP18",
+        "pack_id": "DP18-JP036"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/10/WaterDragonCluster-DP18-JP-UR.png/revision/latest?"
 }

@@ -1,5 +1,9 @@
 {
-    "ocg": {},
+    "ocg": {
+        "pack": "EP17",
+        "pack_id": "EP17-JP052",
+        "date": "2017-09-09"
+    },
     "tcg": {
         "pack": "COTD",
         "pack_id": "COTD-EN081",
@@ -15,5 +19,5 @@
     "attribute": 32,
     "name": "Samurai Skull",
     "desc": "When this card is Normal Summoned: You can send 1 Zombie monster from your Deck to the GY. If this face-up card in its owner's control leaves the field because of an opponent's card effect: You can Special Summon 1 Level 4 or lower Zombie monster from your Deck, except \"Samurai Skull\".",
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/4/47/SamuraiSkull-COTD-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/47/SamuraiSkull-COTD-EN-C-1E.png/revision/latest?"
 }

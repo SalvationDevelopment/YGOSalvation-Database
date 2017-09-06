@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262146,
     "name": "Gearfried the Red-Eyes Iron Knight",
-    "desc": "Once per turn, if an Equip Card(s) is equipped to this card: You can destroy that Equip Card(s), then you can destroy 1 Spell/Trap your opponent controls. Once per turn: You can send 1 Equip Card you control that is equipped to this card to the GY, then target 1 Level 7 or lower \"Red-Eyes\" monster in your GY; Special Summon it.",
+    "desc": "Once per turn, if either player equips an Equip Card(s) to this card: You can destroy those Equip Cards, then you can destroy 1 Spell/Trap your opponent controls. Once per turn: You can send 1 Equip Card you control that is equipped to this card to the GY, then target 1 Level 7 or lower \"Red-Eyes\" monster in your GY; Special Summon it.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Red-Eyes Metal Knight Gearfried",
         "date": "2017-06-03"
     },
-    "tcg": {},
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/e/ef/GearfriedtheRedEyesIronKnight-DP18-JP-SR.png/revision/latest?"
+    "tcg": {
+        "date": "2017-09-07",
+        "pack": "DP18",
+        "pack_id": "DP18-JP002"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/GearfriedtheRedEyesIronKnight-LEDU-DE-UR-1E.png/revision/latest?"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Cyberdarkness Dragon",
-    "desc": "5 \"Cyberdark\" Effect Monsters\nMust first be Fusion Summoned. If this card is Special Summoned: You can equip 1 Dragon or Machine monster from your GY to this card. This card gains ATK equal to the original ATK of the monster equipped to it by this effect. When your opponent activates a card or effect (Quick Effect): You can send 1 Equip Card you control to the GY; negate the activation, and if you do, destroy that card.",
+    "desc": "5 \"Cyberdark\" Effect Monsters\nMust first be Fusion Summoned. If this card is Special Summoned: You can equip 1 Dragon or Machine monster from your GY to this card. Gains ATK equal to the original ATK of the monster equipped to it by this effect. When your opponent activates a card or effect (Quick Effect): You can send 1 Equip Card you control to the GY; negate the activation, and if you do, destroy that card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Cyberdarkness Dragon",
         "date": "2017-06-03"
     },
-    "tcg": {},
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/1/17/CyberdarknessDragon-DP18-JP-UR.png/revision/latest?"
+    "tcg": {
+        "date": "2017-09-07",
+        "pack": "DP18",
+        "pack_id": "DP18-JP024"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/17/CyberdarknessDragon-DP18-JP-UR.png/revision/latest?"
 }

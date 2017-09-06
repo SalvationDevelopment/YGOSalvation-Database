@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 2,
     "name": "Rage of Kairyu-Shin",
-    "desc": "If \"Umi\" is on the field: Target monsters your opponent controls, up to the number of WATER monsters you control whose original Level is 5 or higher; destroy them, and if you do, those Monster Zones cannot be used until the end of the next turn. You can only activate 1 \"Rage of Kairyu-Shin\" per turn.",
+    "desc": "If \"Umi\" is on the field: Target monsters your opponent controls, up to the number of WATER monsters you control whose original Levels are 5 or higher; destroy them, and if you do, the zones they were in cannot be used until the end of the next turn. You can only activate 1 \"Rage of Kairyu-Shin\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Rage of Kairyu-Shin",
         "date": "2017-06-03"
     },
-    "tcg": {},
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/1/15/RageofKairyuShin-DP18-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-09-07",
+        "pack": "DP18",
+        "pack_id": "DP18-JP017"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/15/RageofKairyuShin-DP18-JP-C.png/revision/latest?"
 }

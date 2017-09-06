@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 270849,
     "name": "Red-Eyes Baby Dragon",
-    "desc": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Level 7 or lower \"Red-Eyes\" monster from your Deck, and if you do, equip this card from your GY to that monster. It gains 300 ATK. If this card is sent to the GY while equipped to a monster: You can add 1 Level 1 Dragon monster from your Deck or GY to your hand.",
+    "desc": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Level 7 or lower \"Red-Eyes\" monster from your Deck, and if you do, equip this card from the GY to it. It gains 300 ATK. If this card is sent to the GY while equipped to a monster: You can add 1 Level 1 Dragon monster from your Deck or GY to your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Red-Eyes Baby Dragon",
         "date": "2017-06-03"
     },
-    "tcg": {},
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/0/0e/RedEyesBabyDragon-DP18-JP-R.png/revision/latest?"
+    "tcg": {
+        "date": "2017-09-07",
+        "pack": "DP18",
+        "pack_id": "DP18-JP001"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/72/RedEyesBabyDragon-LEDU-DE-UR-1E.png/revision/latest?"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Bonding - DHO",
-    "desc": "Shuffle 1 \"Deuterion\", 1 \"Hydrogeddon\", and 1 \"Oxygeddon\" from your hand and/or GY into the Deck; Special Summon 1 \"Water Dragon Cluster\" from your hand or GY. You can banish this card from your GY; add 1 \"Water Dragon\" or \"Water Dragon Cluster\" from your Deck or GY to your hand.",
+    "desc": "Shuffle 1 \"Duoterion\", 1 \"Hydrogeddon\", and 1 \"Oxygeddon\" from your hand and/or GY into the Deck; Special Summon 1 \"Water Dragon Cluster\" from your hand or GY. You can banish this card from your GY; add 1 \"Water Dragon\" or \"Water Dragon Cluster\" from your Deck or GY to your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Bonding - DHO",
         "date": "2017-06-03"
     },
-    "tcg": {},
-    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/3/37/BondingDHO-DP18-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-09-07",
+        "pack": "DP18",
+        "pack_id": "DP18-JP039"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/37/BondingDHO-DP18-JP-C.png/revision/latest?"
 }

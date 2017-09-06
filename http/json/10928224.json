@@ -10,8 +10,8 @@
     "race": 16384,
     "attribute": 1,
     "category": 270337,
-    "name": "Amazoness Pet Baby Tiger",
-    "desc": "This card's name becomes \"Amazoness Tiger\" while it is on the field or in the GY. If an \"Amazoness\" monster(s) is Normal or Special Summoned to your field while this card is in your hand or GY (except during the Damage Step): You can Special Summon this card. You can only use this effect of \"Amazoness Pet Baby Tiger\" once per turn. Gains 100 ATK for each \"Amazoness\" card in your GY.",
+    "name": "Amazoness Baby Tiger",
+    "desc": "This card's name becomes \"Amazoness Tiger\" while on the field or in the GY. If an \"Amazoness\" monster(s) is Normal or Special Summoned to your field while this card is in your hand or GY: You can Special Summon this card. You can only use this effect of \"Amazoness Baby Tiger\" once per turn. Gains 100 ATK for each \"Amazoness\" card in your GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Amazoness Pet Baby Tiger",
         "date": "2017-06-03"
     },
-    "tcg": {},
-    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/5/5f/AmazonessPetBabyTiger-DP18-JP-R.png/revision/latest?"
+    "tcg": {
+        "date": "2017-09-07",
+        "pack": "DP18",
+        "pack_id": "DP18-JP009"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/02/AmazonessBabyTiger-DP18-JP-R.png/revision/latest?"
 }

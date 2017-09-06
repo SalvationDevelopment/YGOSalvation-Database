@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 514,
     "name": "Sea Stealth Attack",
-    "desc": "When this card is activated: You can activate 1 \"Umi\" directly from your hand or GY. While \"Umi\" is on the field, this card gains these effects.\n● Once per turn: You can banish 1 WATER monster you control until the End Phase; this turn, face-up Spell/Traps you control cannot be destroyed by your opponent's card effects (even if this card leaves the field).\n● At the start of the Damage Step, if a WATER monster you control whose original Level is 5 or higher battles an opponent's monster: Destroy that opponent's monster.",
+    "desc": "When this card is activated: You can activate 1 \"Umi\" from your hand or GY. While \"Umi\" is on the field, this face-up card gains these effects.\n● Once per turn: You can banish 1 WATER monster you control until the End Phase; this turn, face-up Spells/Traps you control cannot be destroyed by your opponent's card effects (even if this card leaves the field).\n● At the start of the Damage Step, if your WATER monster whose original Level is 5 or higher battles an opponent's monster: Destroy that opponent's monster.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Sea Stealth Attack",
         "date": "2017-06-03"
     },
-    "tcg": {},
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/0/07/SeaStealthAttack-DP18-JP-R.png/revision/latest?"
+    "tcg": {
+        "date": "2017-09-07",
+        "pack": "DP18",
+        "pack_id": "DP18-JP018"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/07/SeaStealthAttack-DP18-JP-R.png/revision/latest?"
 }

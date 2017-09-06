@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Cyberdark Claw",
-    "desc": "If this card is sent to the GY while equipped to a monster: You can target 1 \"Cyberdark\" monster in your GY; add it to your hand. You can only use each of these effects of \"Cyberdark Claw\" once per turn.\n● You can discard this card; add 1 \"Cyberdark\" Spell/Trap Card from your Deck to your hand.\n● If a monster this card is equipped to battles, during damage calculation: You can send 1 monster from your Extra Deck to the GY.",
+    "desc": "If this card is sent to the GY while equipped to a monster: You can target 1 \"Cyberdark\" monster in your GY; add it to your hand. You can only use each of the following effects of \"Cyberdark Claw\" once per turn.\n● You can discard this card; add 1 \"Cyberdark\" Spell/Trap from your Deck to your hand.\n● During damage calculation, if a monster equipped with this card battles: You can send 1 monster from your Extra Deck to the GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Cyberdark Claw",
         "date": "2017-06-03"
     },
-    "tcg": {},
-    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/2/29/CyberdarkClaw-DP18-JP-R.png/revision/latest?"
+    "tcg": {
+        "date": "2017-09-07",
+        "pack": "DP18",
+        "pack_id": "DP18-JP023"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/29/CyberdarkClaw-DP18-JP-R.png/revision/latest?"
 }

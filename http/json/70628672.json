@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 0,
-    "name": "Red Roid Call",
-    "desc": "When a Spell/Trap, or monster effect, is activated while you control a \"roid\" Fusion Monster: Negate the activation, then the player who attempted to activate that card or effect sends all cards with the same name as the negated card from their Deck and Extra Deck to the GY. You can banish this card from your GY, then target 1 \"roid\" monster in your GY; add it to your hand. You can only use this effect of \"Red Roid Call\" once per turn.",
+    "name": "Emergeroid Call",
+    "desc": "When a Spell/Trap Card, or monster effect, is activated while you control a \"roid\" Fusion Monster: Negate the activation, then send all cards with the same name as that card from the activating player's Deck and Extra Deck to the GY. You can banish this card from the GY, then target 1 \"roid\" monster in your GY; add it to your hand. You can only use this effect of \"Emergeroid Call\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Red Roid Call",
         "date": "2017-06-03"
     },
-    "tcg": {},
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/1/17/RedRoidCall-DP18-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-09-07",
+        "pack": "DP18",
+        "pack_id": "DP18-JP032"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e2/EmergeroidCall-DP18-JP-C.png/revision/latest?"
 }

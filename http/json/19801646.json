@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 513,
     "name": "The Legendary Fisherman II",
-    "desc": "This card's name becomes \"The Legendary Fisherman\" while it is on the field or in the GY. While \"Umi\" is on the field, this card is unaffected by other monsters' effects. If this face-up card is destroyed by battle, or leaves the field because of an opponent's card effect while its owner controls it: You can add 1 Level 7 WATER monster from your Deck to your hand.",
+    "desc": "This card's name becomes \"The Legendary Fisherman\" while on the field or in the GY. While \"Umi\" is on the field, this card is unaffected by other monsters' effects. If this face-up card is destroyed by battle, or leaves the field because of an opponent's card effect while its owner controls it: You can add 1 Level 7 WATER monster from your Deck to your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "The Legendary Fisherman II",
         "date": "2017-06-03"
     },
-    "tcg": {},
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/a/a7/TheLegendaryFishermanII-DP18-JP-R.png/revision/latest?"
+    "tcg": {
+        "date": "2017-09-07",
+        "pack": "DP18",
+        "pack_id": "DP18-JP015"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/44/TheLegendaryFishermanII-LEDU-DE-SR-1E.png/revision/latest?"
 }

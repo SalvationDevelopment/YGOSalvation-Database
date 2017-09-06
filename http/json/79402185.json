@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Bonding - D2O",
-    "desc": "Tribute 2 \"Deuterion\" and 1 \"Oxygeddon\" from your hand and/or field; Special Summon 1 \"Water Dragon\" or \"Water Dragon Cluster\" from your hand, Deck, or GY. (This Special Summon is treated as a Special Summon with \"Bonding - H2O\".) If \"Water Dragon\" or \"Water Dragon Cluster\" is sent from the field to your GY while this card is in your GY: Add this card to your hand. You can only use this effect of \"Bonding - D2O\" once per turn.",
+    "desc": "Tribute 2 \"Duoterion\" and 1 \"Oxygeddon\" in your hand and/or field; Special Summon 1 \"Water Dragon\" or \"Water Dragon Cluster\" from your hand, Deck, or GY. (This is treated as a Special Summon with the effect of \"Bonding - H2O\".) If \"Water Dragon\" or \"Water Dragon Cluster\" is sent from the field to your GY while this card is in your GY: Add this card to your hand. You can only use this effect of \"Bonding - D2O\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Bonding - D2O",
         "date": "2017-06-03"
     },
-    "tcg": {},
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/6/62/BondingD2O-DP18-JP-C.png/revision/latest?"
+    "tcg": {
+        "date": "2017-09-07",
+        "pack": "DP18",
+        "pack_id": "DP18-JP038"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/62/BondingD2O-DP18-JP-C.png/revision/latest?"
 }

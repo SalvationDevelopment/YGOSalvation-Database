@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 0,
     "name": "Mixeroid",
-    "desc": "You can Tribute 1 Machine monster; Special Summon 1 non-WIND \"roid\" monster from your Deck. You can pay half your LP, then banish any number of Machine monsters from your GY, including this card; Special Summon 1 \"roid\" Fusion Monster from your Extra Deck with a Level equal to the total number of monsters banished to activate this effect, ignoring its Summoning conditions, but destroy it during the End Phase. You can only use each effect of \"Mixeroid\" once per turn.",
+    "desc": "You can Tribute 1 Machine monster; Special Summon 1 non-WIND \"roid\" monster from your Deck. You can pay half your LP and banish any number of Machine monsters from your GY, including this card; Special Summon from your Extra Deck, 1 \"roid\" Fusion Monster with the same Level as the number of those banished monsters, ignoring its Summoning conditions, but destroy it during the End Phase. You can only use each effect of \"Mixeroid\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Mixeroid",
         "date": "2017-06-03"
     },
-    "tcg": {},
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/0/0c/Mixeroid-DP18-JP-R.png/revision/latest?"
+    "tcg": {
+        "date": "2017-09-07",
+        "pack": "DP18",
+        "pack_id": "DP18-JP029"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0c/Mixeroid-DP18-JP-R.png/revision/latest?"
 }

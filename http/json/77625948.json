@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 17965056,
     "name": "Cyberdark Edge",
-    "desc": "When this card is Normal Summoned, select 1 Level 3 or lower Dragon-Type monster in your Graveyard and equip it to this card. This card gains ATK equal to the equipped card's ATK. This card can attack your opponent directly. If it attacks using this effect, its ATK is halved during damage calculation only. If this card would be destroyed by battle, the equipped monster is destroyed instead.",
+    "desc": "If this card is Normal Summoned: Target 1 Level 3 or lower Dragon monster in your GY; equip that Dragon monster to this card. Gains ATK equal to the original ATK of the monster equipped to it by this effect. This card can attack  directly. If it does using this effect, its ATK is halved during damage calculation only. If this card would be destroyed by battle, destroy the monster equipped to it by its effect, instead.",
     "str1": "Equip",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Cyberdark Edge",
         "date": "2006-11-15"
     },
-    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/9/9b/CyberdarkEdgeDT04-EN-DNPR-DT.jpg/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9b/CyberdarkEdgeDT04-EN-DNPR-DT.jpg/revision/latest?"
 }

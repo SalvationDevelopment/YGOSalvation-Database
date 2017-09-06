@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 40960,
     "name": "Red-Eyes Fang with Chain",
-    "desc": "Target 1 \"Red-Eyes\" monster you control; equip this card to it. It can make up to 2 attacks on monsters during each Battle Phase. You can send this equipped card to the GY, then target 1 Effect Monster on the field; equip that target to the monster this card was equipped to. While equipped by this effect, the equipped monster's ATK and DEF become equal to that monster's.",
+    "desc": "Target 1 \"Red-Eyes\" monster you control; equip this card to it. It can make up to 2 attacks on monsters during each Battle Phase. You can send this Equip Card to the GY, then target 1 Effect Monster on the field; equip that target to the monster this card was equipped to, and if you do, while a monster is equipped to it by this effect, its ATK/DEF become equal to the original ATK/DEF of that equipped monster.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Red-Eyes Fang with Chain",
         "date": "2017-06-03"
     },
-    "tcg": {},
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/d/df/RedEyesFangwithChain-DP18-JP-R.png/revision/latest?"
+    "tcg": {
+        "date": "2017-09-07",
+        "pack": "DP18",
+        "pack_id": "DP18-JP004"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/df/RedEyesFangwithChain-DP18-JP-R.png/revision/latest?"
 }

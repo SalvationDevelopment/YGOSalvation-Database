@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 33288,
     "name": "Amazoness Call",
-    "desc": "Take 1 \"Amazoness\" card from your Deck, except \"Amazoness Call\", and either add it to your hand or send it to the GY. You can banish this card from your GY, then target 1 \"Amazoness\" monster you control; this turn, other monsters you control cannot attack, also that monster can attack all monsters your opponent controls, once each. You can only activate 1 \"Amazoness Call\" per turn.",
+    "desc": "Take 1 \"Amazoness\" card from your Deck, except \"Amazoness Call\", and either add it to your hand or send it to the GY. During your Main Phase: You can banish this card from your GY, then target 1 \"Amazoness\" monster you control; this turn, that monster can attack all monsters your opponent controls, once each, also other monsters you control cannot attack. You can only activate 1 \"Amazoness Call\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Amazoness Call",
         "date": "2017-06-03"
     },
-    "tcg": {},
-    "picture": "https://vignette4.wikia.nocookie.net/yugioh/images/c/c5/AmazonessCall-DP18-JP-R.png/revision/latest?"
+    "tcg": {
+        "date": "2017-09-07",
+        "pack": "DP18",
+        "pack_id": "DP18-JP010"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/AmazonessCall-DP18-JP-R.png/revision/latest?"
 }

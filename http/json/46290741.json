@@ -10,8 +10,8 @@
     "race": 131072,
     "attribute": 2,
     "category": 2147746305,
-    "name": "Stronghold Whale",
-    "desc": "If this card is in your hand or GY: You can Tribute 2 WATER monsters; Special Summon this card. You can only use this effect of \"Stronghold Whale\" once per turn. If this card is Special Summoned: You can Set 1 \"Sea Stealth Attack\" directly from your Deck. Once per turn, when your opponent activates a card or effect that targets exactly 1 WATER monster you control (and no other cards) (Quick Effect): You can negate the activation, and if you do, destroy that card.",
+    "name": "Citadel Whale",
+    "desc": "If this card is in your hand or GY: You can Tribute 2 WATER monsters; Special Summon this card. You can only use this effect of \"Citadel Whale\" once per turn. If this card is Special Summoned: You can Set 1 \"Sea Stealth Attack\" directly from your Deck. Once per turn, when your opponent activates a card or effect that targets 1 WATER monster you control (and no other cards) (Quick Effect): You can negate the activation, and if you do, destroy that card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Stronghold Whale",
         "date": "2017-06-03"
     },
-    "tcg": {},
-    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/a/a1/StrongholdWhale-DP18-JP-SR.png/revision/latest?"
+    "tcg": {
+        "date": "2017-09-07",
+        "pack": "DP18",
+        "pack_id": "DP18-JP016"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3d/CitadelWhale-DP18-JP-SR.png/revision/latest?"
 }

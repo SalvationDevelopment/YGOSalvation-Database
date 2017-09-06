@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 270340,
-    "name": "Amazoness Ambush",
-    "desc": "Once per turn, during the Battle Phase: You can Special Summon 1 \"Amazoness\" monster from your hand, and if you do, it gains 500 ATK until the end of this turn (even if this card leaves the field). If your \"Amazoness\" monster battles an opponent's monster, after damage calculation: You can banish that opponent's monster. If this card on the field is destroyed and sent to the GY: You can target 1 \"Amazoness\" monster in your GY; Special Summon it.",
+    "name": "Amazoness Onslaught",
+    "desc": "Once per turn, during the Battle Phase: You can Special Summon 1 \"Amazoness\" monster from your hand, and if you do, it gains 500 ATK until the end of this turn (even if this card leaves the field). After damage calculation, if your \"Amazoness\" monster battled an opponent's monster while this card is already face-up in your Spell & Trap Zone: You can banish that opponent's monster. If this card on the field is destroyed and sent to the GY: You can target 1 \"Amazoness\" monster in your GY; Special Summon it.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Amazoness Ambush",
         "date": "2017-06-03"
     },
-    "tcg": {},
-    "picture": "https://vignette1.wikia.nocookie.net/yugioh/images/c/cc/AmazonessAmbush-DP18-JP-R.png/revision/latest?"
+    "tcg": {
+        "date": "2017-09-07",
+        "pack": "DP18",
+        "pack_id": "DP18-JP011"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c9/AmazonessOnslaught-DP18-JP-R.png/revision/latest?"
 }

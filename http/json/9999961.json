@@ -30,13 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "DREV",
+        "pack_id": "DREV-JP056",
+        "date": "2010-04-17"
+    },
     "tcg": {
         "id": 9999961,
         "pack_id": "DREV-EN056",
-        "pack": "Duelist Revolution",
+        "pack": "DREV",
         "rarity": "Common",
-        "date": 1282021200000
+        "date": "2010-08-07"
     },
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/b/bd/BeastRage-DREV-EN-C-1E.jpg/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bd/BeastRage-DREV-EN-C-1E.jpg/revision/latest?"
 }

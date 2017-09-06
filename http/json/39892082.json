@@ -32,10 +32,10 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 39892082,
-        "pack_id": "307-017",
-        "pack": "暗黒の侵略者",
+        "pack_id": "EE2-JP073",
+        "pack": "EE2",
         "rarity": "共通",
-        "date": 1058418000000
+        "date": "2005-03-17"
     },
     "tcg": {
         "id": 39892082,
@@ -44,5 +44,5 @@
         "rarity": "Balloon Lizard",
         "date": "2004-03-01"
     },
-    "picture": "https://vignette3.wikia.nocookie.net/yugioh/images/6/61/BalloonLizard-DR2-EN-C-UE.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/61/BalloonLizard-DR2-EN-C-UE.png/revision/latest?"
 }
