@@ -6,7 +6,8 @@
     },
     "tcg": {
         "pack": "EP17",
-        "pack_id": "EP17-JP018"
+        "pack_id": "EP17-JP018",
+        "date": "2017-10-19"
     },
     "id": 100420018,
     "setcode": 238,
@@ -17,10 +18,10 @@
     "race": 1,
     "attribute": 1,
     "name": "SPYRAL Double Helix",
-    "desc": "Link Arrows: [🡰] [🡳]\n\n2 \"SPYRAL\" monsters\nThis card's name becomes \"SPYRAL Super Agent\" while it is on the field or in the GY. You can declare 1 card type (Monster, Spell, or Trap); reveal the top card of your opponent's Deck, and if it is the declared type, take 1 \"SPYRAL\" monster from your Deck or GY, and either add it to your hand or Special Summon it to your zone this card points to. You can only use this effect of \"SPYRAL Double Helix\" once per turn.",
+    "desc": "Link Arrows: [🡰] [🡳]\n\n2 \"SPYRAL\" monsters\nThis card's name becomes \"SPYRAL Super Agent\" while on the field or in the GY. You can declare 1 card type (Monster, Spell, or Trap); reveal the top card of your opponent's Deck, and if it is the declared type, take 1 \"SPYRAL\" monster from your Deck or GY, and either add it to your hand or Special Summon it to your zone this card points to. You can only use this effect of \"SPYRAL Double Helix\" once per turn.",
     "links": [
         3,
         6
     ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/SPYRALDoubleHelix-EP17-JP-OP.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/80/SPYRALDoubleHelix-EP17-JP-ScR.png/revision/latest?"
 }

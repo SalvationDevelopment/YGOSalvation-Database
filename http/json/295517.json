@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 2105344,
     "name": "A Legendary Ocean",
-    "desc": "This card's name is treated as \"Umi\". Reduce the Level of all WATER monsters in both players' hands and on the field by 1. All WATER monsters gain 200 ATK and DEF.",
+    "desc": "(This card's name is always treated as \"Umi\".)\nAll WATER monsters on the field gain 200 ATK/DEF. Reduce the Level of all WATER monsters in both players' hands and on the field by 1.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "A Legendary Ocean",
         "date": "2003-06-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/94/ALegendaryOcean-SDRE-EN-C-1E.jpg/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/ff/ALegendaryOcean-LEDU-EN-C-1E.png/revision/latest?"
 }

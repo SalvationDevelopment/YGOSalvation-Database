@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 270336,
     "name": "Amazoness Village",
-    "desc": "All \"Amazoness\" monsters gain 200 ATK. Once per turn, when an \"Amazoness\" monster is destroyed by battle or by a card effect and sent to the Graveyard: You can Special Summon 1 \"Amazoness\" monster from your Deck with a Level less than or equal to that \"Amazoness\" monster in the Graveyard.",
+    "desc": "All \"Amazoness\" monsters gain 200 ATK. Once per turn, when an \"Amazoness\" monster is destroyed by battle or card effect and sent to the GY: You can Special Summon 1 \"Amazoness\" monster from your Deck with a Level less than or equal to that \"Amazoness\" monster in the GY.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Amazoness Village",
         "date": "2010-08-07"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1e/AmazonessVillage-LCJW-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/AmazonessVillage-LEDU-EN-C-1E.png/revision/latest?"
 }

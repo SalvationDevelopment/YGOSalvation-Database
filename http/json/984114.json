@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 1040,
     "name": "Expressroid",
-    "desc": "When this card is Summoned: You can target 2 \"roid\" monsters in your Graveyard, except \"Expressroid\"; add those targets to your hand.",
+    "desc": "When this card is Summoned: You can target 2 \"roid\" monsters in your GY, except \"Expressroid\"; add those targets to your hand.",
     "str1": "Add card",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Expressroid",
         "date": "2007-07-25"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/72/Expressroid-HSRD-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/83/Expressroid-LEDU-EN-C-1E.png/revision/latest?"
 }

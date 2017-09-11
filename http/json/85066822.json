@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 270336,
     "name": "Water Dragon",
-    "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by the effect of \"Bonding - H2O\". While this card is face-up on the field, the ATK of FIRE monsters and Pyro-Type monsters become 0. When this card is destroyed and sent to the Graveyard, you can Special Summon 2 \"Hydrogeddon\"s and 1 \"Oxygeddon\" from your Graveyard.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Bonding - H2O\". The ATK of FIRE monsters and Pyro monsters on the field becomes 0. When this card is destroyed and sent to the GY: You can target 2 \"Hydrogeddon\" and 1 \"Oxygeddon\" in your GY; Special Summon them.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Water Dragon",
         "date": "2005-11-05"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a3/WaterDragon-MF02-EN-NPR-LE.jpg/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a2/WaterDragon-LEDU-EN-C-1E.png/revision/latest?"
 }

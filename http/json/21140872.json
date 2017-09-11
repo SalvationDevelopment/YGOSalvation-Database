@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 33824769,
     "name": "Red-Eyes Slash Dragon",
-    "desc": "\"Red-Eyes B. Dragon\" + 1 Warrior monster\nWhen a \"Red-Eyes\" monster declares an attack: You can target 1 Warrior monster in your GY; equip it to this card as an Equip Spell Card with this effect.\n● The equipped monster gains 200 ATK.\nWhen a card or effect is activated that targets a card(s) you control (Quick Effect): You can send 1 Equip Card you control to the GY; negate the activation, and if you do, destroy that card. If this card is destroyed by battle or card effect: You can Special Summon as many monsters that were equipped to this card as possible from your GY.",
+    "desc": "\"Red-Eyes B. Dragon\" + 1 Warrior monster\nWhen a \"Red-Eyes\" monster declares an attack: You can target 1 Warrior monster in your GY; equip it to this card as an Equip Spell with this effect. ● The equipped monster gains 200 ATK.\nWhen a card or effect is activated that targets a card you control (Quick Effect): You can send 1 Equip Card you control to the GY; negate the activation, and if you do, destroy that card. If this card is destroyed by battle or card effect: You can Special Summon as many monsters from your GY as possible, that were equipped to this card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -42,5 +42,5 @@
         "pack": "DP18",
         "pack_id": "DP18-JP003"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/99/RedEyesSlashDragon-LEDU-DE-UR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c1/RedEyesSlashDragon-LEDU-EN-UR-1E.png/revision/latest?"
 }

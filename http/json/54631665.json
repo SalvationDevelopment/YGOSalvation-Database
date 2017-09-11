@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "EP17",
+        "pack_id": "EP17-JP031",
+        "date": "2017-09-09"
+    },
     "tcg": {
         "id": 54631665,
         "pack_id": "INOV-EN089",
