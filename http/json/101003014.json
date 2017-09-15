@@ -1,0 +1,19 @@
+{
+    "ocg": {
+        "pack": "EXFO",
+        "pack_id": "EXFO-JP014",
+        "date": "2017-10-14"
+    },
+    "tcg": {},
+    "id": 101003014,
+    "setcode": 524,
+    "type": 33,
+    "atk": 2000,
+    "def": 2500,
+    "level": 5,
+    "race": 1048576,
+    "attribute": 16,
+    "name": "Jack Knight of the Blue Sky",
+    "desc": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) to that column. You can only Special Summon \"Jack Knight of the Blue Sky\" once per turn this way. If this card is Normal or Special Summoned from the hand: You can add \"Jack Knight\" cards with different names from your Deck to your hand, except \"Jack Knight of the Blue Sky\", equal to the number of your opponent's cards in the same column as this card. You can only use this effect of \"Jack Knight of the Blue Sky\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/99/JackKnightoftheBlueSky-EXFO-JP-OP.png/revision/latest?"
+}

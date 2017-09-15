@@ -1,0 +1,19 @@
+{
+    "ocg": {
+        "pack": "DP19",
+        "pack_id": "DP19-JP014",
+        "date": "2017-11-11"
+    },
+    "tcg": {},
+    "id": 101419014,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1400,
+    "def": 2200,
+    "level": 4,
+    "race": 32,
+    "attribute": 32,
+    "name": "BM-4 Bomb Spider",
+    "desc": "Once per turn: You can target 1 DARK Machine monster you control and 1 face-up card your opponent controls; destroy them. If a monster you control whose original Attribute and Type are DARK and Machine destroys a monster(s) your opponent controls by battle or by its own effect and sends it to the GY: You can inflict damage to your opponent equal to half the original ATK of 1 of those destroyed monsters in the GY. You can only use this effect of \"BM-4 Bomb Spider\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/79/BM4BombSpider-DP19-JP-OP.png/revision/latest?"
+}
