@@ -1,0 +1,24 @@
+{
+    "ocg": {
+        "pack": "EXFO",
+        "pack_id": "EXFO-JP045",
+        "date": "2017-10-14"
+    },
+    "tcg": {},
+    "id": 101003045,
+    "setcode": 523,
+    "type": 33554465,
+    "atk": 0,
+    "def": "-",
+    "level": 3,
+    "race": 8,
+    "attribute": 32,
+    "name": "Tindangle Acute Cerberus",
+    "desc": "Link Arrows: [🡷] [🡱] [🡶]\n\n3 \"Tindangle\" monsters\nIf you have 3 or more \"Tindangle\" monsters with different names in your GY, including at least 1 \"Tindangle Base Gardna\", this card gains 3000 ATK. Gains 600 ATK for each \"Tindangle\" monster it points to. At the end of the Battle Phase, if this card declared an attack: You can Special Summon 1 \"Tindangle Token\" (Fiend/DARK/Level 1/ATK 0/DEF 0).",
+    "links": [
+        1,
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4f/TindangleAcuteCerberus-EXFO-JP-OP.png/revision/latest?"
+}
