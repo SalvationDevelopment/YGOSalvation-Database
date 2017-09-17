@@ -6,7 +6,7 @@
     },
     "tcg": {},
     "id": 27561302,
-    "setcode": 519,
+    "setcode": 265,
     "type": 131074,
     "atk": 0,
     "def": 0,
@@ -14,6 +14,6 @@
     "race": 0,
     "attribute": 0,
     "name": "Rain Weathery Pattern",
-    "desc": "You can only control 1 \"Rain Weathery Condition\". \"Weathery\" Effect Monsters in your Main Monster Zone in the same column as this card or adjacent to that Main Monster Zone gain this effect.\n● Quick Effect: You can banish this card, then target 1 Spell/Trap your opponent controls; return it to the hand.",
-    "picture": "https://vignette2.wikia.nocookie.net/yugioh/images/1/13/RainWeatheryCondition-DBSW-JP-OP.png/revision/latest?"
+    "desc": "You can only control 1 \"Rain Weathery Pattern\". \"Weathery\" Effect Monsters in your Main Monster Zone in the same column as this card, and Main Monster Zones adjacent to that zone, gain this effect.\n● (Quick Effect): You can banish this card, then target 1 Spell/Trap your opponent controls; return it to the hand.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f6/RainWeatheryPattern-DBSW-JP-C.png/revision/latest?"
 }

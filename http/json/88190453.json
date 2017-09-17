@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 88190453,
-        "pack_id": "EE04-JP135",
-        "pack": "Expert Edition Volume 4",
+        "pack_id": "SOI-JP015",
+        "pack": "SOI",
         "rarity": "共通",
-        "date": 1190437200000
+        "date": "2005-11-17"
     },
     "tcg": {
         "id": 88190453,
         "pack_id": "SOI-EN015",
-        "pack": "Shadow Of Infinity",
+        "pack": "SOI",
         "rarity": "Common",
-        "date": 1140238800000
+        "date": "2006-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/ChainThrasher-DR04-NA-C-UE.png/revision/latest?"
 }

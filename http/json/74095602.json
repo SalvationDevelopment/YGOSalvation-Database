@@ -30,13 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "STON",
+        "pack_id": "STON-JP049",
+        "date": "2006-11-16"
+    },
     "tcg": {
         "id": 74095602,
         "pack_id": "STON-EN049",
-        "pack": "Strike Of Neos",
+        "pack": "STON",
         "rarity": "Common",
-        "date": 1172638800000
+        "date": "2007-02-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/12/ChangeofHeroReflectorRay-LCGX-EN-C-1E.png/revision/latest?"
 }

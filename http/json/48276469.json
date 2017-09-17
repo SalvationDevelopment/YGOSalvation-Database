@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 48276469,
-        "pack_id": "EE3-JP116",
-        "pack": "Expert Edition Volume 3",
+        "pack_id": "RDS-JP056",
+        "pack": "RDS",
         "rarity": "レア仕様",
-        "date": 1134018000000
+        "date": "2004-08-05"
     },
     "tcg": {
         "id": 48276469,
         "pack_id": "RDS-EN056",
-        "pack": "Rise Of Destiny",
+        "pack": "RDS",
         "rarity": "Rare",
-        "date": 1101877200000
+        "date": "2004-11-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5f/ChainBurst-DR3-EN-R-UE.png/revision/latest?"
 }

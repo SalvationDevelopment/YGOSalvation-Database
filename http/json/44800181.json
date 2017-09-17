@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "CDIP",
+        "pack_id": "CDIP-JP029",
+        "date": "2006-08-10"
+    },
     "tcg": {
         "id": 44800181,
         "pack_id": "CDIP-EN029",
