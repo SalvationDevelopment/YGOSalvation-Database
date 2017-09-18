@@ -1,0 +1,19 @@
+{
+    "ocg": {
+        "pack": "EXFO",
+        "pack_id": "EXFO-JP007",
+        "date": "2017-10-14"
+    },
+    "tcg": {},
+    "id": 101003007,
+    "setcode": 258,
+    "type": 33,
+    "atk": 1100,
+    "def": 2000,
+    "level": 2,
+    "race": 8192,
+    "attribute": 32,
+    "name": "Shellrokket Dragon",
+    "desc": "When a Link Monster's effect is activated that targets this card (Quick Effect): You can destroy this card, then destroy 1 monster in the same column as the zone this card was in, and if there is a monster in the zone(s) adjacent to that destroyed monster, destroy them. During the End Phase, if this card is in the GY because it was destroyed by battle or card effect and sent there from the field this turn: You can Special Summon 1 \"rokket\" monster from your Deck, except \"Shellrokket Dragon\". You can only use each effect of \"Shellrokket Dragon\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/31/ShellrokketDragon-EXFO-JP-OP.png/revision/latest?"
+}
