@@ -1,0 +1,19 @@
+{
+    "ocg": {},
+    "tcg": {
+        "pack": "LEDD",
+        "pack_id": "LEDD-ENA00",
+        "date": "2017-10-05"
+    },
+    "id": 100240001,
+    "setcode": 4258,
+    "type": 97,
+    "atk": 3000,
+    "def": 2500,
+    "level": 8,
+    "race": 8192,
+    "attribute": 32,
+    "name": "Dark Magician the Dragon Knight",
+    "desc": "\"Dark Magician\" + 1 Dragon monster\nThis card's name becomes \"Dark Magician\" while on the field or in the GY. Your opponent cannot target Spells/Traps you control with card effects, also they cannot be destroyed by your opponent's card effects.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/68/DarkMagiciantheDragonKnight-LEDD-EN-1E-OP.png/revision/latest?"
+}
