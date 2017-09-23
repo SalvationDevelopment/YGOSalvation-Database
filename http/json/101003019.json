@@ -1,0 +1,19 @@
+{
+    "ocg": {
+        "pack": "EXFO",
+        "pack_id": "EXFO-JP019",
+        "date": "2017-10-14"
+    },
+    "tcg": {},
+    "id": 101003019,
+    "setcode": 524,
+    "type": 33,
+    "atk": 2400,
+    "def": 2400,
+    "level": 8,
+    "race": 1048576,
+    "attribute": 16,
+    "name": "Jack Knight of the Azure Blue",
+    "desc": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) to that column. You can only Special Summon \"Jack Knight of the Azure Blue\" once per turn this way. Once per turn (Quick Effect): You can target 1 “Jack Knight” monster you control; move that monster you control to another of your Main Monster Zones.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cc/JackKnightoftheAzureBlue-EXFO-JP-OP.png/revision/latest?"
+}
