@@ -31,7 +31,8 @@ const fs = require('fs'),
     primus = new Primus(server, {
         transformer: 'websockets',
         parser: 'JSON'
-    });
+    }),
+    mutex = false;
 
 process.env.LOCALHOST_PORT = process.env.API_LOCALHOST_PORT || 8082;
 
@@ -65,6 +66,9 @@ primus.on('connection', function(spark) {
     });
 });
 
+function unsetMutex() {
+    mutex = false;
+}
 /**
  * Regenerate database manifest
  * @param {Object} request - Express request object
@@ -73,13 +77,22 @@ primus.on('connection', function(spark) {
  */
 function regenerate(request, response, next) {
 
+    if (mutex) {
+        response.write('An update is in progress currently, wait 15 seconds.\r\n');
+        response.end();
+        next();
+        return;
+    }
+
+    mutex = true;
+    setTimeout(unsetMutex, 15000);
     jsonGenerator.getDB(response, function(error, newJSON) {
         const mainifest = JSON.stringify(newJSON);
         response.write('Saving!\r\n');
         fs.writeFile('./http/manifest.json', mainifest, function() {
             response.write('Saved, Notifying...\r\n');
             var call = http.get({
-                host: 'ygopro.us',
+                host: 'ygosalvation.com',
                 path: '/git'
             }, function(appresponse) {
                 response.write('Notified!\r\n');
