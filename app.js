@@ -31,8 +31,9 @@ const fs = require('fs'),
     primus = new Primus(server, {
         transformer: 'websockets',
         parser: 'JSON'
-    }),
-    mutex = false;
+    });
+
+let mutex = false;
 
 process.env.LOCALHOST_PORT = process.env.API_LOCALHOST_PORT || 8082;
 
