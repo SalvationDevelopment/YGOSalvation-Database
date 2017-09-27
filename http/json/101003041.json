@@ -1,0 +1,23 @@
+{
+    "ocg": {
+        "pack": "EXFO",
+        "pack_id": "EXFO-JP041",
+        "date": "2017-10-14"
+    },
+    "tcg": {},
+    "id": 101003041,
+    "setcode": 0,
+    "type": 33554465,
+    "atk": 1200,
+    "def": "-",
+    "level": 2,
+    "race": 16777216,
+    "attribute": 4,
+    "name": "Flame Administrator",
+    "desc": "Link Arrows: [🡰] [🡶]\n\n2 Cyberse monsters\nAll Link Monsters you control gain 800 ATK. You can only control 1 \"Flame Administrator\".",
+    "links": [
+        3,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/FlameAdministrator-EXFO-JP-OP.png/revision/latest?"
+}
