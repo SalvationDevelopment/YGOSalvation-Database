@@ -1,0 +1,18 @@
+{
+  "ocg": {},
+  "tcg": {
+    "pack": "Circuit Break",
+    "pack_id": "CIBR-EN082",
+    "date": "2017-10-19"
+  },
+  "id": 101002082,
+  "setcode": 262,
+  "type": 161,
+  "atk": 2300,
+  "def": 0,
+  "race": 16,
+  "attribute": 32,
+  "name": "Vendread Chimera",
+  "desc": "You can Ritual Summon this card with any \"Vendread\" Ritual Spell. When a card or effect is activated that would destroy a card on the field (Quick Effect): You can banish 1 Zombie monster from your GY; negate the activation, and if you do, destroy that card. If this card is Tributed, or banished, for a Ritual Summon: All monsters your opponent controls lose 500 ATK/DEF. You can only use this effect of \"Vendread Chimera\" once per turn.",
+  "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c2/VendreadChimera-CIBR-SP-ScR-1E.png/revision/latest?cb=20171007160101"
+}
