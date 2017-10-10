@@ -1,0 +1,23 @@
+{
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP050",
+        "date": "2017-10-14"
+    },
+    "tcg": {},
+    "id": 101003050,
+    "setcode": 0,
+    "type": 33554465,
+    "atk": 1400,
+    "def": "-",
+    "level": 2,
+    "links": [
+        5,
+        7
+    ],
+    "race": 16384,
+    "attribute": 4,
+    "name": "Do-Little Chimera",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 FIRE monsters\nAll FIRE monsters on the field gain 500 ATK/DEF, also all WATER monsters on the field lose 400 ATK/DEF. If this card is destroyed by battle or card effect: You can target 1 FIRE monster in your GY; add it to your hand. You can only use this effect of \"Do-Little Chimera\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7f/DoLittleChimera-EXFO-JP-OP.png/revision/latest?cb=20171010121209"
+}
