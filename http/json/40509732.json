@@ -1,0 +1,19 @@
+{
+    "ocg": {},
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE081",
+        "date": "2017-10-19"
+    },
+    "id": 40509732,
+    "setcode": 0,
+    "type": 8225,
+    "atk": 2600,
+    "def": 1400,
+    "level": 7,
+    "race": 32,
+    "attribute": 1,
+    "name": "Samurai Destroyer",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nIf this card battles an opponent's monster, your opponent's cards and effects cannot be activated until the end of the Damage Step, also that opponent's monster has its effects negated during the Battle Phase only. If this face-up card in its owner's control leaves the field because of an opponent's card effect: You can target 1 Machine monster in your GY; Special Summon it.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/05/SamuraiDestroyer-CIBR-SP-R-1E.png/revision/latest?cb=20171010144214"
+}
