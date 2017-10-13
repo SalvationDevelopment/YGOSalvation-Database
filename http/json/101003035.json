@@ -1,0 +1,19 @@
+{
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP035",
+        "date": "2017-10-14"
+    },
+    "tcg": {},
+    "id": 101003035,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2000,
+    "def": 2000,
+    "level": 4,
+    "race": 32,
+    "attribute": 16,
+    "name": "Inspect Boarder",
+    "desc": "Cannot be Normal or Special Summoned while you control a monster. Each turn, each player can only activate monster effects up to the number of monster card types (Ritual, Fusion, Synchro, Xyz, Pendulum, and Link) on the field.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cf/InspectBoarder-EXFO-JP-SR.png/revision/latest?cb=20171013151746"
+}

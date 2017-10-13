@@ -1,0 +1,19 @@
+{
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP030",
+        "date": "2017-10-14"
+    },
+    "tcg": {},
+    "id": 101003030,
+    "setcode": 0,
+    "type": 2097185,
+    "atk": 200,
+    "def": 2000,
+    "level": 2,
+    "race": 512,
+    "attribute": 8,
+    "name": "Janshimatsu",
+    "desc": "FLIP: You can draw 1 card, then discard 1 card.\nOnce per turn: You can change this card to face-down Defense Position.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/da/Back-JP.png/revision/latest?cb=20100726082049"
+}

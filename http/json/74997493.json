@@ -1,0 +1,25 @@
+{
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP048",
+        "date": "2017-10-14"
+    },
+    "tcg": {},
+    "id": 74997493,
+    "setcode": 0,
+    "type": 33554465,
+    "atk": 2800,
+    "def": "-",
+    "level": 4,
+    "links": [
+        1,
+        4,
+        5,
+        6
+    ],
+    "race": 8192,
+    "attribute": 1,
+    "name": "Skulldeat, the Chained Dracoserpent",
+    "desc": "Link Arrows: [🡷][🡳][🡲][🡱]\n\n2+ monsters with different names\nThis card gains effects based on the number of monsters used for its Link Summon.\n● 2+: If a monster(s) is Normal or Special Summoned to a zone this card points to: That monster(s) gains 300 ATK/DEF.\n● 3+: Once per turn: You can Special Summon 1 monster from your hand.\n● 4: When this card is Link Summoned: You can draw 4 cards, then place 3 cards from your hand on the bottom of your Deck in any order.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d5/SkulldeattheChainedDracoserpent-EXFO-JP-UR.png/revision/latest?cb=20171013152100"
+}

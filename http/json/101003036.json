@@ -1,0 +1,19 @@
+{
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP036",
+        "date": "2017-10-14"
+    },
+    "tcg": {},
+    "id": 101003036,
+    "setcode": 0,
+    "type": 33,
+    "atk": 2700,
+    "def": 2100,
+    "level": 7,
+    "race": 65536,
+    "attribute": 32,
+    "name": "Overtex Coatls",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by shuffling 5 of your banished Dinosaur monsters into the Deck. Once per turn, when your opponent activates a Spell/Trap Card (Quick Effect): You can destroy 1 Dinosaur monster in your hand or field, and if you do, negate that activation, and if you do that, destroy that card. If this card is sent to the GY by a card effect: You can add 1 \"Evolution Pill\" Spell from your Deck to your hand. You can only use this effect of \"Overtex Coatls\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0d/OvertexCoatls-EXFO-JP-R.png/revision/latest?cb=20171013151757"
+}

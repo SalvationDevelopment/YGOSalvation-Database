@@ -1,0 +1,19 @@
+{
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP008",
+        "date": "2017-10-14"
+    },
+    "tcg": {},
+    "id": 32472237,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1700,
+    "def": 1400,
+    "level": 4,
+    "race": 8192,
+    "attribute": 32,
+    "name": "Metalrokket Dragon",
+    "desc": "When a Link Monster's effect is activated that targets this face-up card on the field (Quick Effect): You can destroy this card, then destroy all cards your opponent controls in the same column as the zone this card was in. During the End Phase, if this card is in the GY because it was destroyed on the field by battle or card effect and sent there this turn: You can Special Summon 1 \"Rokket\" monster from your Deck, except \"Metalrokket Dragon\". You can only use each effect of \"Metalrokket Dragon\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4d/MetalrokketDragon-EXFO-JP-C.png/revision/latest?cb=20171013151041"
+}

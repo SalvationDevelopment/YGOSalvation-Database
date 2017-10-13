@@ -1,0 +1,19 @@
+{
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP003",
+        "date": "2017-10-14"
+    },
+    "tcg": {},
+    "id": 101003003,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1200,
+    "def": 1600,
+    "level": 4,
+    "race": 16777216,
+    "attribute": 16,
+    "name": "Striping Partner",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. If the activation of a monster effect on your field is negated: You can Special Summon this card from your hand. When this card is Special Summoned: You can target 1 Level 4 or lower Cyberse monster in your GY; Special Summon it. You can only use this effect of \"Striping Partner\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5f/StripingPartner-EXFO-JP-C.png/revision/latest?cb=20171013150921"
+}
