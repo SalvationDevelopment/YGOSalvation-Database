@@ -1,7 +1,8 @@
 {
     "ocg": {
-        "pack": "DP19",
-        "pack_id": "DP19-JP038"
+        "pack": "Duelist Pack: Legend Duelist 2",
+        "pack_id": "DP19-JP038",
+        "date": "2017-11-11"
     },
     "tcg": {},
     "id": 100407038,
@@ -13,6 +14,6 @@
     "race": 0,
     "attribute": 0,
     "name": "Rainbow Bridge",
-    "desc": "Add 1 “Crystal” Spell/Trap from your Deck to your hand, except “Violet Crystal” or “Crystal Counter”.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b2/RainbowBridge-DP19-JP-OP.png/revision/latest?"
+    "desc": "Add 1 \"Crystal\" Spell/Trap from your Deck to your hand, except \"Violet Crystal\" or \"Crystal Counter\".",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b2/RainbowBridge-DP19-JP-OP.png/revision/latest?cb=20170929032405"
 }

@@ -1,6 +1,6 @@
 {
     "ocg": {
-        "pack": "DP19",
+        "pack": "Duelist Pack: Legend Duelist 2",
         "pack_id": "DP19-JP017",
         "date": "2017-11-11"
     },
@@ -15,5 +15,5 @@
     "attribute": 0,
     "name": "Gun Cannon Shot",
     "desc": "Once per turn, if a card or effect that performs a coin toss is activated, apply these effects immediately after it resolves, based on the number of Heads.\n● 1+: Inflict 500 damage to your opponent.\n● 2+: Destroy 1 card your opponent controls.\n● 3+: Look at your opponent's hand, also discard 1 card from their hand.\nWhen a card or effect that performs 2 or more coin tosses is activated: You can banish this card from your GY; all the results from those coin tosses are treated as Heads.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/GunCannonShot-DP19-JP-OP.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/GunCannonShot-DP19-JP-OP.png/revision/latest?cb=20170915150944"
 }
