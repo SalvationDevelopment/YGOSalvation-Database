@@ -1,0 +1,24 @@
+{
+    "ocg": {
+        "pack": "LINK VRAINS Pack",
+        "pack_id": "LVP1-JP011",
+        "date": "2017-11-25"
+    },
+    "tcg": {},
+    "id": 100223011,
+    "setcode": 56,
+    "type": 33554465,
+    "atk": 2400,
+    "def": "-",
+    "level": 3,
+    "links": [
+        1,
+        5,
+        7
+    ],
+    "race": 1,
+    "attribute": 16,
+    "name": "Kyrios, Dominion of the Lightsworn",
+    "desc": "Link Arrows: [🡷][🡱][🡶]\n\n3 monsters with the same Attribute but different Types\nIf this face-up card is destroyed by battle, or leaves the field because of an opponent's card effect while its owner controls it: You can target 1 card in your GY; add it to your hand. You can only use each of the following effects of \"Kyrios, Dominion of the Lightsworn\" once per turn.\n● If this card is Link Summoned: You can send 1 card from your Deck to the GY.\n● If a card(s) is sent from your Deck to the GY by a card effect: Send the top 3 cards of your Deck to the GY.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f1/KyriosDominionoftheLightsworn-LVP1-JP-OP.png/revision/latest?cb=20171015100701"
+}

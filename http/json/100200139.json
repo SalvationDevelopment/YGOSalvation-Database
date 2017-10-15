@@ -1,0 +1,23 @@
+{
+    "ocg": {
+        "pack": "V Jump December 2017 promotional card",
+        "pack_id": "VJMP-JP139",
+        "date": "2017-10-21"
+    },
+    "tcg": {},
+    "id": 100200139,
+    "setcode": 0,
+    "type": 33554465,
+    "atk": 1100,
+    "def": "-",
+    "level": 2,
+    "links": [
+        1,
+        6
+    ],
+    "race": 16777216,
+    "attribute": 16,
+    "name": "Security Dragon",
+    "desc": "Link Arrows: [🡱][🡳]\n\n2 monsters\nOnce while face-up on the field, if this card is co-linked: You can target 1 monster your opponent controls; return it to the hand. You can only use this effect of \"Security Dragon\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/24/SecurityDragon-VJMP-JP-OP.png/revision/latest?cb=20171015101137"
+}

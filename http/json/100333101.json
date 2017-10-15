@@ -1,0 +1,19 @@
+{
+    "ocg": {
+        "pack": "Structure Deck: Powercode Link",
+        "pack_id": "SD33-JP001",
+        "date": "2017-12-09"
+    },
+    "tcg": {},
+    "id": 100333101,
+    "setcode": 0,
+    "type": 33,
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "race": 16777216,
+    "attribute": 32,
+    "name": "Dongle Token",
+    "desc": "Summoned by the effect of \"Dongle Acorn\"",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e1/CharismaToken-VJMP-JP-C.png/revision/latest?cb=20130220164651"
+}
