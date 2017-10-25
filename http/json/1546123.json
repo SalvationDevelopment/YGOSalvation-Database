@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 16384,
     "name": "Cyber End Dragon",
-    "desc": "\"Cyber Dragon\" + \"Cyber Dragon\" + \"Cyber Dragon\"\nA Fusion Summon of this card can only be done with the above Fusion Material Monsters. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "desc": "\"Cyber Dragon\" + \"Cyber Dragon\" + \"Cyber Dragon\"\nA Fusion Summon of this card can only be done with the above Fusion Materials. If this card attacks a Defense Position monster, inflict piercing battle damage.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 1546123,
         "pack_id": "CRV-JP036",
-        "pack": "CRV",
+        "pack": "Cybernetic Revolution",
         "rarity": "Cyber End Dragon",
         "date": "2005-05-26"
     },
     "tcg": {
         "id": 1546123,
-        "pack_id": "CRV-EN036",
-        "pack": "CRV",
+        "pack_id": "CRV-DE036",
+        "pack": "Cybernetic Revolution",
         "rarity": "Cyber End Dragon",
-        "date": "2005-08-06"
+        "date": "2005-08-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/70/CyberEndDragon-DL17-EN-R-UE-Red.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0d/CyberEndDragon-LEDD-EN-C-1E.png/revision/latest?cb=20171005215549"
 }

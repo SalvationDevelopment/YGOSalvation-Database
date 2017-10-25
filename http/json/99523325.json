@@ -2,7 +2,7 @@
     "id": 99523325,
     "ot": 3,
     "alias": 0,
-    "setcode": 46,
+    "setcode": 0,
     "type": 2,
     "atk": 0,
     "def": 0,
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 99523325,
         "pack_id": "ABPF-JP056",
-        "pack": "ABPF",
+        "pack": "Absolute Powerforce",
         "rarity": "Gravekeeper's Stele",
         "date": "2009-11-14"
     },
     "tcg": {
         "id": 99523325,
-        "pack_id": "ABPF-EN056",
-        "pack": "ABPF",
+        "pack_id": "ABPF-DE056",
+        "pack": "Absolute Powerforce",
         "rarity": "Gravekeeper's Stele",
-        "date": "2010-02-12"
+        "date": "2010-02-11"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1e/GravekeepersStele-LCJW-EN-UR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1e/GravekeepersStele-LCJW-EN-UR-1E.png/revision/latest?cb=20131014110745"
 }

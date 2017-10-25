@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Kuriboh Token",
-    "desc": "This card can be used as a \"Kuriboh Token\".\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+    "desc": "Special Summoned with the effect of \"Multiply\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,10 @@
     "ocg": {
         "id": 40703223,
         "pack_id": "AT06-JP010",
-        "pack": "AT06",
+        "pack": "Advanced Tournament Pack 2014 Vol.2",
         "rarity": "",
         "date": "2014-04-19"
     },
     "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ae/KuribohToken-AT06-JP-C.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ae/KuribohToken-AT06-JP-C.png/revision/latest?cb=20140718161642"
 }

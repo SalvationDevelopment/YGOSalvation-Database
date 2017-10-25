@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 512,
     "name": "Vylon Delta",
-    "desc": "1 Tuner + 1 or more non-Tuner LIGHT monsters\n If this card is in face-up Defense Position during your End Phase, you can add 1 Equip Spell Card from your Deck to your hand.",
+    "desc": "1 Tuner + 1 or more non-Tuner LIGHT monsters\nIf this card is in face-up Defense Position during your End Phase, you can add 1 Equip Spell Card from your Deck to your hand.",
     "str1": "Search",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 45215453,
         "pack_id": "DT10-JPB01",
-        "pack": "DT10",
+        "pack": "Duel Terminal Acceleration Guide 5 promotional card",
         "rarity": "Vylon Delta",
         "date": "2010-08-03"
     },
     "tcg": {
         "id": 45215453,
         "pack_id": "STOR-EN099",
-        "pack": "STOR",
+        "pack": "Storm of Ragnarok",
         "rarity": "Vylon Delta",
         "date": "2011-02-08"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/VylonDelta-STOR-EN-ScR-UE.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/VylonDelta-STOR-EN-ScR-UE.png/revision/latest?cb=20120621214826"
 }

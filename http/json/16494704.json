@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Odd-Eyes Advent",
-    "desc": "This card can be used to Ritual Summon any Dragon-Type Ritual Monster from your hand or Graveyard. You must also Tribute Pendulum Monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. If your opponent controls 2 or more monsters and you control no monsters, you can also send \"Odd-Eyes\" monsters from your Extra Deck to the Graveyard. You can only activate 1 \"Odd-Eyes Advent\" per turn.",
+    "desc": "This card can be used to Ritual Summon any Dragon Ritual Monster from your hand or GY. You must also Tribute Pendulum Monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. If your opponent controls 2 or more monsters and you control no monsters, you can also send \"Odd-Eyes\" monsters from your Extra Deck to the GY. You can only activate 1 \"Odd-Eyes Advent\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 16494704,
         "pack_id": "BOSH-JP066",
-        "pack": "BOSH",
+        "pack": "Breakers of Shadow",
         "rarity": "Odd-Eyes Advent",
         "date": "2015-10-17"
     },
     "tcg": {
         "id": 16494704,
-        "pack_id": "BOSH-EN066",
-        "pack": "BOSH",
+        "pack_id": "BOSH-DE066",
+        "pack": "Breakers of Shadow",
         "rarity": "Odd-Eyes Advent",
         "date": "2016-01-14"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d5/OddEyesAdvent-BOSH-EN-R-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3a/OddEyesAdvent-LEDD-EN-C-1E.png/revision/latest?cb=20171005220334"
 }

@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 3,
     "name": "Flying Fortress SKY FIRE",
-    "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with the effect of \"Summon Reactor・SK\". Once per turn, you can send 1 card from your hand to the Graveyard to destroy 1 card your opponent controls. Once during each of your opponent's turns, you can activate 1 of the following effects:\n● When your opponent Normal Summons or Special Summons a monster, destroy it and inflict 800 damage to your opponent.\n● When your opponent Sets a card, destroy it and inflict 800 damage to your opponent.",
+    "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with the effect of \"Summon Reactor&#x30FB;SK\". Once per turn, you can send 1 card from your hand to the Graveyard to destroy 1 card your opponent controls. Once during each of your opponent's turns, you can activate 1 of the following effects:\n● When your opponent Normal Summons or Special Summons a monster, destroy it and inflict 800 damage to your opponent.\n● When your opponent Sets a card, destroy it and inflict 800 damage to your opponent.",
     "str1": "Destroy",
     "str2": "Monster destruction",
     "str3": "Destroy face-down card",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 16898077,
         "pack_id": "CRMS-JP016",
-        "pack": "CRMS",
+        "pack": "Crimson Crisis",
         "rarity": "Flying Fortress SKY FIRE",
         "date": "2008-11-15"
     },
     "tcg": {
         "id": 16898077,
         "pack_id": "CRMS-EN016",
-        "pack": "CRMS",
+        "pack": "Crimson Crisis",
         "rarity": "Flying Fortress SKY FIRE",
         "date": "2009-02-28"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7c/FlyingFortressSKYFIRE-CRMS-EN-R-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7c/FlyingFortressSKYFIRE-CRMS-EN-R-1E.png/revision/latest?cb=20090625022340"
 }

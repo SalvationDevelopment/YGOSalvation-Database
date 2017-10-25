@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 8192,
     "name": "Lost Guardian",
-    "desc": "The original DEF of this card equals the number of your banished Rock-Type monsters × 700.",
+    "desc": "The original DEF of this card equals the number of your banished Rock-Type monsters &#xD7; 700.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 45871897,
         "pack_id": "TLM-JP011",
-        "pack": "TLM",
+        "pack": "The Lost Millennium",
         "rarity": "Lost Guardian",
         "date": "2005-02-24"
     },
     "tcg": {
         "id": 45871897,
         "pack_id": "TLM-EN011",
-        "pack": "TLM",
+        "pack": "The Lost Millennium",
         "rarity": "Lost Guardian",
         "date": "2005-05-28"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/57/LostGuardian-TU08-EN-R-UE.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/57/LostGuardian-TU08-EN-R-UE.png/revision/latest?cb=20120623102418"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Crystal Vanguard",
-    "desc": "Pendulum Effect\nYour opponent cannot target \"Crystal Beast\" cards, \"Rainbow Dragon\", and \"Rainbow Dark Dragon\" you control with card effects.\n\nMonster Effect\nYou can Tribute this card; add 1 \"Rainbow Dragon\", 1 \"Rainbow Dark Dragon\", 1 \"Crystal Beast\" monster, or 1 \"Crystal\" Spell/Trap Card (except \"Crystal Counter\" or \"Violet Crystal\") from your Deck to your hand.",
+    "desc": "Pendulum Effect\nYour opponent cannot target \"Crystal Beast\" cards you control, or \"Ultimate Crystal God\" monsters, \"Rainbow Dragon\", or \"Rainbow Dark Dragon\" in your Monster Zone, with card effects.\n\nMonster Effect\nYou can Tribute this card; add 1 \"Crystal Beast\" or \"Ultimate Crystal God\" monster, \"Crystal\" Spell/Trap, \"Rainbow Dragon\", or \"Rainbow Dark Dragon\" from your Deck to your hand, except \"Crystal Counter\" or \"Violet Crystal\".",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,10 @@
     "ocg": {
         "id": 87475570,
         "pack_id": "SECE-JP081",
-        "pack": "SECE",
+        "pack": "Secrets of Eternity",
         "rarity": "Crystal Vanguard",
         "date": "2014-11-15"
     },
     "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/32/CrystalVanguard-SECE-JP-R.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/32/CrystalVanguard-SECE-JP-R.png/revision/latest?cb=20141114105426"
 }

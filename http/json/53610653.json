@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 1318912,
     "name": "Bound Wand",
-    "desc": "Equip only to a Spellcaster-Type monster that has a Level. It gains ATK equal to its Level × 100. If the equipped monster is destroyed by your opponent's card (by battle or card effect) and sent to the Graveyard, and this card is sent to the Graveyard as a result: You can Special Summon that monster.",
+    "desc": "Equip only to a Spellcaster-Type monster that has a Level. It gains ATK equal to its Level &#xD7; 100. If the equipped monster is destroyed by your opponent's card (by battle or card effect) and sent to the Graveyard, and this card is sent to the Graveyard as a result: You can Special Summon that monster.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 53610653,
         "pack_id": "GAOV-JP051",
-        "pack": "GAOV",
+        "pack": "Galactic Overlord",
         "rarity": "Bound Wand",
         "date": "2012-02-18"
     },
     "tcg": {
         "id": 53610653,
         "pack_id": "GAOV-EN051",
-        "pack": "GAOV",
+        "pack": "Galactic Overlord",
         "rarity": "Bound Wand",
         "date": "2012-04-28"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/00/BoundWand-BP03-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/00/BoundWand-BP03-EN-C-1E.png/revision/latest?cb=20140802062800"
 }

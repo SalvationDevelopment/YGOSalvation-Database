@@ -1,12 +1,12 @@
 {
     "ocg": {
-        "pack": "EP17",
+        "pack": "Extra Pack 2017",
         "pack_id": "EP17-JP001",
         "date": "2017-09-09"
     },
     "tcg": {
-        "pack": "EP17",
-        "pack_id": "EP17-JP001",
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE098",
         "date": "2017-10-19"
     },
     "id": 74937659,
@@ -18,10 +18,10 @@
     "race": 8388608,
     "attribute": 1,
     "name": "Subterror Behemoth Fiendess",
-    "desc": "Link Arrows: [🡷] [🡶]\n\n2 Flip monsters\nGains ATK equal to the total original Levels of the \"Subterror\" monsters used as its Link Materials x 100. During your Main Phase: You can send 1 Flip monster from your Deck to the GY, and if you do, Special Summon 1 monster from your hand to your zone this card points to in face-down Defense Position. You can only use this effect of \"Subterror Behemoth Fiendess\" once per turn. Once per turn, if a monster this card points to is flipped face-up: Add 1 Flip monster from your Deck or GY to your hand.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 Flip monsters\nGains ATK equal to the combined original Levels of the \"Subterror\" monsters used for its Link Summon x 100. During your Main Phase: You can send 1 Flip monster from your Deck to the GY, and if you do, Special Summon 1 monster from your hand in face-down Defense Position to your zone this card points to. You can only use this effect of \"Subterror Behemoth Fiendess\" once per turn. Once per turn, if a monster this card points to is flipped face-up: Add 1 Flip monster from your Deck or GY to your hand.",
     "links": [
         5,
         7
     ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3a/SubterrorBehemothFiendess-EP17-JP-ScR.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d6/SubterrorBehemothFiendess-CIBR-EN-SR-1E.png/revision/latest?cb=20171020170854"
 }

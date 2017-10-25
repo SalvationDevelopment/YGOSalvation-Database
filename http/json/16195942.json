@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Dark Rebellion Xyz Dragon",
-    "desc": "2 Level 4 monsters\nYou can detach 2 Xyz Materials from this card, then target 1 face-up monster your opponent controls; its ATK becomes half its current ATK, and if it does, this card gains that lost ATK.",
+    "desc": "2 Level 4 monsters\nYou can detach 2 materials from this card, then target 1 face-up monster your opponent controls; its ATK becomes half its current ATK, and if it does, this card gains that lost ATK.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 16195942,
         "pack_id": "NECH-JP053",
-        "pack": "NECH",
+        "pack": "The New Challengers",
         "rarity": "Dark Rebellion Xyz Dragon",
         "date": "2014-07-19"
     },
     "tcg": {
         "id": 16195942,
-        "pack_id": "NECH-EN053",
-        "pack": "NECH",
+        "pack_id": "NECH-DE053",
+        "pack": "The New Challengers",
         "rarity": "Dark Rebellion Xyz Dragon",
         "date": "2014-11-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c0/DarkRebellionXyzDragon-WIRA-EN-R-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0a/DarkRebellionXyzDragon-LEDD-EN-UR-1E.png/revision/latest?cb=20171005220748"
 }

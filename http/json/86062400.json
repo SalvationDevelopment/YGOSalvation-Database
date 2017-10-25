@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Xyz Avenger",
-    "desc": "This card is unaffected by the effects of Xyz Monsters. When this card is destroyed by battle with an Xyz Monster and sent to the Graveyard: Activate 1 of these effects, depending on the Rank of the Xyz Monster that destroyed this card.\n● Rank 3 or lower: Your opponent sends 1 card from their Extra Deck to the Graveyard.\n● Rank 4: Choose 1 card in your opponent's Extra Deck and send it to the Graveyard.\n ● Rank 5 or higher: Your opponent sends as many cards from their Extra Deck to the Graveyard as possible, but not more than the Xyz Monster's Rank.",
+    "desc": "This card is unaffected by the effects of Xyz Monsters. When this card is destroyed by battle with an Xyz Monster and sent to the Graveyard: Activate 1 of these effects, depending on the Rank of the Xyz Monster that destroyed this card.\n● Rank 3 or lower: Your opponent sends 1 card from their Extra Deck to the Graveyard.\n● Rank 4: Choose 1 card in your opponent's Extra Deck and send it to the Graveyard.\n● Rank 5 or higher: Your opponent sends as many cards from their Extra Deck to the Graveyard as possible, but not more than the Xyz Monster's Rank.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 86062400,
         "pack_id": "LVAL-JP042",
-        "pack": "LVAL",
+        "pack": "Legacy of the Valiant",
         "rarity": "Xyz Avenger",
         "date": "2013-11-16"
     },
     "tcg": {
         "id": 86062400,
-        "pack_id": "LVAL-EN042",
-        "pack": "LVAL",
+        "pack_id": "LVAL-FR042",
+        "pack": "Legacy of the Valiant",
         "rarity": "Xyz Avenger",
-        "date": "2014-01-24"
+        "date": "2014-01-23"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/32/XyzAvenger-LVAL-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/32/XyzAvenger-LVAL-EN-C-1E.png/revision/latest?cb=20140125095858"
 }

@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 0,
     "name": "Nobledragon Magician",
-    "desc": "Pendulum Effect\nUnless you have a \"Magician\" card in your other Pendulum Zone, destroy this card.\n\nMonster Effect\nCannot be used as a Synchro Material, except for the Synchro Summon of a Dragon-Type Synchro Monster. If this card is used as a Synchro Material, unless all other Synchro Materials are \"Odd-Eyes\" monsters, place this card on the bottom of the Deck. If this card is in your hand or Graveyard: You can target 1 Level 7 or higher \"Odd-Eyes\" monster you control; reduce its Level by 3, and if you do, Special Summon this card.",
+    "desc": "Pendulum Effect\nUnless you have a \"Magician\" card in your other Pendulum Zone, destroy this card.\n\nMonster Effect\nCannot be used as Synchro Material, except for the Synchro Summon of a Dragon Synchro Monster. If this card is used as Synchro Material, unless all other Synchro Materials are \"Odd-Eyes\" monsters, place this card on the bottom of the Deck. If this card is in your hand or GY: You can target 1 Level 7 or higher \"Odd-Eyes\" monster you control; reduce its Level by 3, and if you do, Special Summon this card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 88935103,
         "pack_id": "SD29-JP003",
-        "pack": "SD29",
+        "pack": "Structure Deck: Master of Pendulum‎",
         "rarity": "Nobledragon Magician",
         "date": "2015-06-20"
     },
     "tcg": {
         "id": 88935103,
-        "pack_id": "SDMP-EN003",
-        "pack": "SDMP",
+        "pack_id": "SDMP-DE003",
+        "pack": "Master of Pendulum Structure Deck",
         "rarity": "Nobledragon Magician",
         "date": "2015-12-03"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a0/NobledragonMagician-PEVO-EN-SR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/97/NobledragonMagician-LEDD-EN-C-1E.png/revision/latest?cb=20171005220221"
 }

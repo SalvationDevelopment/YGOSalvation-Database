@@ -1,10 +1,14 @@
 {
     "ocg": {
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "pack_id": "CIBR-JP068",
         "date": "2017-07-08"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE068",
+        "date": "2017-10-19"
+    },
     "id": 27664101,
     "setcode": 0,
     "type": 1048580,
@@ -15,5 +19,5 @@
     "attribute": 0,
     "name": "Link Restart",
     "desc": "When a Spell/Trap Card, or monster effect, is activated that would inflict damage to you: Negate the activation, and if you do, Special Summon 1 Link Monster from your GY.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8a/LinkRestart-CIBR-JP-C.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9e/LinkRestart-CIBR-EN-C-1E.png/revision/latest?cb=20171020172918"
 }

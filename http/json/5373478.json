@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 8192,
     "name": "Cyber Dragon Zwei",
-    "desc": "If this card attacks an opponent's monster, it gains 300 ATK during the Damage Step only. Once per turn: You can reveal 1 Spell Card in your hand; this card's name becomes \"Cyber Dragon\" until the End Phase. This card's name becomes \"Cyber Dragon\" while it is in the Graveyard.",
+    "desc": "If this card attacks an opponent's monster, it gains 300 ATK during the Damage Step only. Once per turn: You can reveal 1 Spell in your hand; this card's name becomes \"Cyber Dragon\" until the End Phase. This card's name becomes \"Cyber Dragon\" while in the GY.",
     "str1": "Treat this card as \"Cyber Dragon\"",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 5373478,
         "pack_id": "ABPF-JP035",
-        "pack": "ABPF",
+        "pack": "Absolute Powerforce",
         "rarity": "Cyber Dragon Zwei",
         "date": "2009-11-14"
     },
     "tcg": {
         "id": 5373478,
-        "pack_id": "ABPF-EN035",
-        "pack": "ABPF",
+        "pack_id": "ABPF-DE035",
+        "pack": "Absolute Powerforce",
         "rarity": "Cyber Dragon Zwei",
-        "date": "2010-02-12"
+        "date": "2010-02-11"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2b/CyberDragonZwei-SDCR-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7a/CyberDragonZwei-LEDD-EN-C-1E.png/revision/latest?cb=20171005214952"
 }

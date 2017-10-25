@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 32768,
     "name": "Cyber Twin Dragon",
-    "desc": "\"Cyber Dragon\" + \"Cyber Dragon\"\nA Fusion Summon of this card can only be done with the above Fusion Material Monsters. This card can make a second attack during each Battle Phase.",
+    "desc": "\"Cyber Dragon\" + \"Cyber Dragon\"\nA Fusion Summon of this card can only be done with the above Fusion Materials. This card can make a second attack during each Battle Phase.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 74157028,
         "pack_id": "CRV-JP035",
-        "pack": "CRV",
+        "pack": "Cybernetic Revolution",
         "rarity": "Cyber Twin Dragon",
         "date": "2005-05-26"
     },
     "tcg": {
         "id": 74157028,
-        "pack_id": "CRV-EN035",
-        "pack": "CRV",
+        "pack_id": "CRV-DE035",
+        "pack": "Cybernetic Revolution",
         "rarity": "Cyber Twin Dragon",
-        "date": "2005-08-06"
+        "date": "2005-08-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fa/CyberTwinDragon-SDCR-EN-UR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/39/CyberTwinDragon-LEDD-EN-C-1E.png/revision/latest?cb=20171005215630"
 }

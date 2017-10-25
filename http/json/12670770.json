@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Cyber Network",
-    "desc": "Destroy this card during your 3rd Standby Phase after activation. Once per turn, if \"Cyber Dragon\" is on the field: You can banish 1 LIGHT Machine-Type monster from your Deck. When this card is sent from the field to the Graveyard: Special Summon as many of your banished LIGHT Machine-Type monsters as possible, and if you do, destroy all Spell and Trap Cards you control. Monsters that were Special Summoned by this effect cannot activate their effects. You cannot conduct your Battle Phase the turn you activate this effect.",
+    "desc": "Destroy this card during your 3rd Standby Phase after activation. Once per turn, if \"Cyber Dragon\" is on the field: You can banish 1 LIGHT Machine monster from your Deck. When this card is sent from the field to the GY: Special Summon as many of your banished LIGHT Machine monsters as possible, and if you do, destroy all Spells and Traps you control. Monsters that were Special Summoned by this effect cannot activate their effects. You cannot conduct your Battle Phase the turn you activate this effect.",
     "str1": "Banish 1 LIGHT Machine-Type monster from your Deck?",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 12670770,
         "pack_id": "SD26-JP029",
-        "pack": "SD26",
+        "pack": "Structure Deck: Lightning Strike of the Mechlight Dragon",
         "rarity": "Cyber Network",
         "date": "2013-12-07"
     },
     "tcg": {
         "id": 12670770,
-        "pack_id": "SDCR-EN029",
-        "pack": "SDCR",
+        "pack_id": "SDCR-DE029",
+        "pack": "Cyber Dragon Revolution Structure Deck",
         "rarity": "Cyber Network",
         "date": "2014-02-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/07/CyberNetwork-SDCR-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/01/CyberNetwork-LEDD-EN-C-1E.png/revision/latest?cb=20171005215445"
 }

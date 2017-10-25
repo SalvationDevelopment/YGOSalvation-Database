@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 263235,
     "name": "Machina Fortress",
-    "desc": "You can discard Machine-Type monster(s) whose total Levels equal 8 or more, then Special Summon this card (from your hand or Graveyard). If this card is destroyed by battle and sent to the Graveyard: Target 1 card your opponent controls; destroy that target. Before resolving an opponent's monster effect that targets this face-up card, look at your opponent's hand and discard 1 card from their hand.",
+    "desc": "You can discard Machine monster(s) whose total Levels equal 8 or more, then Special Summon this card (from your hand or GY). If this card is destroyed by battle and sent to the GY: Target 1 card your opponent controls; destroy that target. Before resolving an opponent's monster effect that targets this face-up card, look at your opponent's hand and discard 1 card from their hand.",
     "str1": "Destroy 1 card your opponent controls",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 5556499,
         "pack_id": "SD18-JP001",
-        "pack": "SD18",
+        "pack": "Structure Deck: Machiners Command",
         "rarity": "Machina Fortress",
         "date": "2009-12-12"
     },
     "tcg": {
         "id": 5556499,
-        "pack_id": "SDMM-EN001",
-        "pack": "SDMM",
+        "pack_id": "SDMM-DE001",
+        "pack": "Machina Mayhem Structure Deck",
         "rarity": "Machina Fortress",
-        "date": "2010-02-19"
+        "date": "2010-02-18"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f8/MachinaFortress-AP06-EN-C-UE.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c0/MachinaFortress-LEDD-EN-C-1E.png/revision/latest?cb=20171005215215"
 }

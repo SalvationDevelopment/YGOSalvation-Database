@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Security Block",
-    "desc": "Target 1 Cyberse monster on the field; for the rest of this turn, neither player takes any battle damage, also the targeted monster cannot be destroyed by battle.",
+    "desc": "Target 1 Cyberse monster on the field; this turn, neither player takes battle damage, also that monster cannot be destroyed by battle.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002053,
         "pack_id": "CIBR-JP053",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Security Block",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/82/SecurityBlock-CIBR-JP-C.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE053",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d2/SecurityBlock-CIBR-EN-R-1E.png/revision/latest?cb=20171020172546"
 }

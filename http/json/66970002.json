@@ -2,7 +2,7 @@
     "id": 66970002,
     "ot": 3,
     "alias": 0,
-    "setcode": 1329338779147672944847,
+    "setcode": 1.329338779147673e+21,
     "type": 8388641,
     "atk": 2600,
     "def": 2000,
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 66970002,
         "pack_id": "ST13-JPV01",
-        "pack": "ST13",
+        "pack": "Starter Deck 2013 Enhancement Pack",
         "rarity": "Number C39: Utopia Ray V",
         "date": "2013-03-16"
     },
     "tcg": {
         "id": 66970002,
-        "pack_id": "YS13-ENV01",
-        "pack": "YS13",
+        "pack_id": "YS13-DEV01",
+        "pack": "Super Starter Power-Up Pack",
         "rarity": "Number C39: Utopia Ray V",
-        "date": "2013-06-14"
+        "date": "2013-06-13"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/94/NumberC39UtopiaRayV-YS13-EN-UR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/94/NumberC39UtopiaRayV-YS13-EN-UR-1E.png/revision/latest?cb=20130629181404"
 }

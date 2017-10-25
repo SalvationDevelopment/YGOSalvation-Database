@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 0,
     "name": "Fluff Token",
-    "desc": "This card can be used as a \"Fluff Token\".\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+    "desc": "Special Summoned with the effect of \"Dandylion\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -31,10 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "pack": "",
-        "pack_id": "Errata",
+        "pack": "V Jump April 2013 Tokens",
+        "pack_id": "N/A",
         "date": "2013-02-21"
     },
     "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/55/FluffToken-VJMP-JP-C.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/55/FluffToken-VJMP-JP-C.png/revision/latest?cb=20130602044241"
 }

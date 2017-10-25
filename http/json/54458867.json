@@ -1,10 +1,14 @@
 {
     "ocg": {
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "pack_id": "CIBR-JP055",
         "date": "2017-07-08"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE055",
+        "date": "2017-10-19"
+    },
     "id": 54458867,
     "setcode": 0,
     "type": 65538,
@@ -14,6 +18,6 @@
     "race": 0,
     "attribute": 0,
     "name": "Squib Draw",
-    "desc": "Target 1 \"rokket\" monster you control; destroy it, and if you do, draw 2 cards. You can only activate 1 \"Squib Draw\" per turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/88/SquibDraw-CIBR-JP-R.png/revision/latest?"
+    "desc": "Target 1 \"Rokket\" monster you control; destroy it, and if you do, draw 2 cards. You can only activate 1 \"Squib Draw\" per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cf/SquibDraw-CIBR-EN-ScR-1E.png/revision/latest?cb=20171020172555"
 }

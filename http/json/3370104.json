@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": -2147483392,
     "name": "Cyber Phoenix",
-    "desc": "While this card is in Attack Position, negate any Spell/Trap effects that target exactly 1 Machine-Type monster you control (and no other cards). When this card is destroyed by battle and sent to the Graveyard: You can draw 1 card.",
+    "desc": "While this card is in Attack Position, negate any Spell/Trap effects that target 1 Machine monster you control (and no other cards). When this card is destroyed by battle and sent to the GY: You can draw 1 card.",
     "str1": "Draw card",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 3370104,
         "pack_id": "EOJ-JP009",
-        "pack": "EOJ",
+        "pack": "Enemy of Justice",
         "rarity": "Cyber Phoenix",
         "date": "2006-02-16"
     },
     "tcg": {
         "id": 3370104,
-        "pack_id": "EOJ-EN009",
-        "pack": "EOJ",
+        "pack_id": "EOJ-DE009",
+        "pack": "Enemy of Justice",
         "rarity": "Cyber Phoenix",
-        "date": "2006-05-17"
+        "date": "2006-05-13"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a3/CyberPhoenix-BP03-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cd/CyberPhoenix-LEDD-EN-C-1E.png/revision/latest?cb=20171005215112"
 }

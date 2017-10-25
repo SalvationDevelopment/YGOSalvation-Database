@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Altergeist Marionetter",
-    "desc": "When this card is Normal Summoned: You can Set 1 \"Altergeist\" Trap directly from your Deck. You can target 1 \"Altergeist\" card you control and 1 \"Altergeist\" monster in your GY; send that card on the field to the GY, and if you do, Special Summon that other monster from the GY. You can only use this effect of \"Altergeist Marionetter\" once per turn.",
+    "desc": "When this card is Normal Summoned: You can Set 1 \"Altergeist\" Trap directly from your Deck to your Spell & Trap Zone. You can target 1 \"Altergeist\" card you control and 1 \"Altergeist\" monster in your GY; send that card on the field to the GY, and if you do, Special Summon that other monster from your GY. You can only use this effect of \"Altergeist Marionetter\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002012,
         "pack_id": "CIBR-JP012",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Altergeist Marionetter",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0b/AltergeistMarionetter-CIBR-JP-SR.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE012",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/AltergeistMarionetter-CIBR-EN-UR-1E.png/revision/latest?cb=20171020171623"
 }

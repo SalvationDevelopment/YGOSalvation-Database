@@ -2,7 +2,7 @@
     "id": 17393207,
     "ot": 3,
     "alias": 0,
-    "setcode": 46,
+    "setcode": 0,
     "type": 33,
     "atk": 1600,
     "def": 1500,
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 17393207,
         "pack_id": "FOTB-JP015",
-        "pack": "FOTB",
+        "pack": "Force of the Breaker",
         "rarity": "Gravekeeper's Commandant",
         "date": "2007-02-15"
     },
     "tcg": {
         "id": 17393207,
-        "pack_id": "FOTB-EN015",
-        "pack": "FOTB",
+        "pack_id": "FOTB-FR015",
+        "pack": "Force of the Breaker",
         "rarity": "Gravekeeper's Commandant",
-        "date": "2007-05-16"
+        "date": "2007-05-05"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/44/GravekeepersCommandant-LCYW-EN-UR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/44/GravekeepersCommandant-LCYW-EN-UR-1E.png/revision/latest?cb=20130906205818"
 }

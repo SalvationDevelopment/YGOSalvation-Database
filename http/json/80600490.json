@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 80600490,
-        "pack_id": "Warrior Collection A",
-        "pack": "",
+        "pack_id": "",
+        "pack": "Starter Box",
         "rarity": "共通",
         "date": "1999-03-18"
     },
     "tcg": {
         "id": 80600490,
-        "pack_id": "LCJW-EN014",
-        "pack": "LCJW",
+        "pack_id": "LCJW-DE014",
+        "pack": "Legendary Collection 4: Joey's World Mega Pack",
         "rarity": "Kageningen",
-        "date": "2013-10-11"
+        "date": "2013-10-10"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a4/Kageningen-LCJW-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a4/Kageningen-LCJW-EN-C-1E.png/revision/latest?cb=20131011065441"
 }

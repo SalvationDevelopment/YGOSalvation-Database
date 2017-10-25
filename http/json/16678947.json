@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 5242882,
     "name": "Psi-Curse",
-    "desc": "When a Psychic-Type monster you control is destroyed by battle with an opponent's attacking monster and sent to the Graveyard: Target the opponent's monster; destroy that target, and if you do, inflict damage to your opponent equal to the Level of your destroyed Psychic-Type monster × 300.",
+    "desc": "When a Psychic-Type monster you control is destroyed by battle with an opponent's attacking monster and sent to the Graveyard: Target the opponent's monster; destroy that target, and if you do, inflict damage to your opponent equal to the Level of your destroyed Psychic-Type monster &#xD7; 300.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 16678947,
         "pack_id": "ABPF-JP078",
-        "pack": "ABPF",
+        "pack": "Absolute Powerforce",
         "rarity": "Psi-Curse",
         "date": "2009-11-14"
     },
     "tcg": {
         "id": 16678947,
-        "pack_id": "ABPF-EN078",
-        "pack": "ABPF",
+        "pack_id": "ABPF-DE078",
+        "pack": "Absolute Powerforce",
         "rarity": "Psi-Curse",
-        "date": "2010-02-12"
+        "date": "2010-02-11"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/08/PsiCurse-BP03-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/08/PsiCurse-BP03-EN-C-1E.png/revision/latest?cb=20140804102956"
 }

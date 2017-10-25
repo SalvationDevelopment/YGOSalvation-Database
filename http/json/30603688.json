@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Apprentice Illusion Magician",
-    "desc": "You can Special Summon this card (from your hand) by discarding 1 card. If this card is Normal or Special Summoned: You can add 1 \"Dark Magician\" from your Deck to your hand. During damage calculation (in either player's turn), if your other DARK Spellcaster-Type monster battles an opponent's monster: You can send this card from your hand or face-up from your field to the Graveyard; that monster you control gains 2000 ATK and DEF during that damage calculation only.",
+    "desc": "You can Special Summon this card (from your hand) by discarding 1 card. If this card is Normal or Special Summoned: You can add 1 \"Dark Magician\" from your Deck to your hand. During damage calculation, if your other DARK Spellcaster monster battles an opponent's monster (Quick Effect): You can send this card from your hand or face-up from your field to the GY; that monster you control gains 2000 ATK/DEF during that damage calculation only.",
     "str1": "Add \"Dark Magician\" to hand",
     "str2": "Gain ATK/DEF",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 30603688,
         "pack_id": "VJMP-JP122",
-        "pack": "VJMP",
+        "pack": "V Jump November 2016",
         "rarity": "Apprentice Illusion Magician",
         "date": "2016-09-21"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/ApprenticeIllusionMagician-JUMP-NA-UR-LE.png/revision/latest?"
+    "tcg": {
+        "pack": "Weekly Shonen Jump April 2017 membership",
+        "pack_id": "JUMP-EN080",
+        "date": "2017-05-01"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/86/ApprenticeIllusionMagician-LEDD-EN-UR-1E.png/revision/latest?cb=20171005213059"
 }

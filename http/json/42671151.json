@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8650752,
     "name": "The Golden Apples",
-    "desc": "When you take battle damage while you control no monsters: Gain LP equal to the battle damage you took, and if you do, Special Summon 1 \"Malus Token\" (Fiend-Type/DARK/Level 1/ATK ?/DEF ?). Its ATK/DEF are each equal to the amount of LP you gained by this effect.",
+    "desc": "When you take battle damage while you control no monsters: Gain LP equal to the battle damage you took, and if you do, Special Summon 1 \"Malus Token\" (Fiend/DARK/Level 1/ATK&#xA0;?/DEF&#xA0;?). Its ATK/DEF are each equal to the amount of LP you gained by this effect.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 42671151,
         "pack_id": "STOR-JP071",
-        "pack": "STOR",
+        "pack": "Storm of Ragnarok",
         "rarity": "The Golden Apples",
         "date": "2010-11-13"
     },
     "tcg": {
         "id": 42671151,
         "pack_id": "STOR-EN071",
-        "pack": "STOR",
+        "pack": "Storm of Ragnarok",
         "rarity": "The Golden Apples",
         "date": "2011-02-08"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e6/TheGoldenApples-LEDU-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e6/TheGoldenApples-LEDU-EN-C-1E.png/revision/latest?cb=20170907223109"
 }

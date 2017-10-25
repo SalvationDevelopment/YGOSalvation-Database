@@ -2,7 +2,7 @@
     "id": 92781606,
     "ot": 3,
     "alias": 0,
-    "setcode": 260,
+    "setcode": 0,
     "type": 33554465,
     "atk": 2000,
     "def": "-",
@@ -10,8 +10,8 @@
     "race": 2048,
     "attribute": 1,
     "category": 0,
-    "name": "Excrawler Qualiark",
-    "desc": "Link Arrows: [🡷] [🡶]\n\n2 \"Crawler\" monsters, except \"Acid Crawler\"\nIf this face-up card is destroyed by battle, or leaves the field because of an opponent's card effect while its owner controls it: You can target 2 \"Crawler\" monsters with different names in your GY, except \"Acid Crawler\"; Special Summon them in face-down Defense Position. This card gains effects based on the number of \"Crawler\" monsters you control.\n● 2 or more: All monsters you control gain 300 ATK and DEF.\n● 4 or more: Your opponent's cards and effects cannot be activated during the Battle Phase.\n● 6 or more: Monsters you control can attack directly.",
+    "name": "X-Krawler Qualiark",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 \"Krawler\" monsters\nIf this face-up card is destroyed by battle, or leaves the field because of an opponent's card effect while its owner controls it: You can target 2 \"Krawler\" monsters with different names in your GY; Special Summon them in face-down Defense Position. Apply these effects based on the number of \"Krawler\" monsters you control.\n● 2+: All monsters you control gain 300 ATK/DEF.\n● 4+: Your opponent's cards and effects cannot be activated during the Battle Phase.\n● 6+: Your monsters can attack directly.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -36,10 +36,14 @@
     "ocg": {
         "id": 101002050,
         "pack_id": "CIBR-JP050",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Excrawler Qualiark",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/00/ExcrawlerQualiark-CIBR-JP-UR.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE050",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/23/XKrawlerQualiark-CIBR-EN-SR-1E.png/revision/latest?cb=20171020172454"
 }

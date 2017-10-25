@@ -2,7 +2,7 @@
     "id": 46955770,
     "ot": 3,
     "alias": 0,
-    "setcode": 46,
+    "setcode": 0,
     "type": 33,
     "atk": 1800,
     "def": 1500,
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 46955770,
         "pack_id": "EP14-JP025",
-        "pack": "EP14",
+        "pack": "Extra Pack: Knights of Order",
         "rarity": "Gravekeeper's Heretic",
         "date": "2014-09-13"
     },
     "tcg": {
         "id": 46955770,
-        "pack_id": "LVAL-EN084",
-        "pack": "LVAL",
+        "pack_id": "LVAL-DE084",
+        "pack": "Legacy of the Valiant",
         "rarity": "Gravekeeper's Heretic",
-        "date": "2014-01-24"
+        "date": "2014-01-23"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f7/GravekeepersHeretic-MP14-EN-R-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f7/GravekeepersHeretic-MP14-EN-R-1E.png/revision/latest?cb=20140908010355"
 }

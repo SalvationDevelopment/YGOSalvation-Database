@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Metaphys Dimension",
-    "desc": "If your opponent Special Summon a monster(s), except during the Damage Step: You can target 1 of your banished \"Metaphys\" monsters; Special Summon it, but banish it during the End Phase of the next turn (even if this card leaves the field). If another \"Metaphys\" card(s) in your possession is banished while this card is face-up on the field (except during the Damage Step): You can target 1 card your opponent controls; banish it. You can only use each effect of \"Metaphys Dimension\" once per turn.",
+    "desc": "If your opponent Special Summons a monster (except during the Damage Step): You can target 1 of your banished \"Metaphys\" monsters; Special Summon it, but banish it during the End Phase of the next turn. If your other \"Metaphys\" card in its owner's possession is banished while this card is already face-up in your Spell & Trap Zone: You can target 1 card your opponent controls; banish it. You can only use each effect of \"Metaphys Dimension\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002075,
         "pack_id": "CIBR-JP075",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Metaphys Dimension",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/aa/MetaphysDimension-CIBR-JP-C.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE075",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/75/MetaphysDimension-CIBR-EN-R-1E.png/revision/latest?cb=20171020173024"
 }

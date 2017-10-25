@@ -2,7 +2,7 @@
     "id": 79867938,
     "ot": 3,
     "alias": 0,
-    "setcode": 132,
+    "setcode": 0,
     "type": 33,
     "atk": 1000,
     "def": 1800,
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 79867938,
         "pack_id": "LTGY-JP016",
-        "pack": "LTGY",
+        "pack": "Lord of the Tachyon Galaxy",
         "rarity": "Battlin' Boxer Headgeared",
         "date": "2013-02-16"
     },
     "tcg": {
         "id": 79867938,
-        "pack_id": "LTGY-EN016",
-        "pack": "LTGY",
+        "pack_id": "LTGY-DE016",
+        "pack": "Lord of the Tachyon Galaxy",
         "rarity": "Battlin' Boxer Headgeared",
-        "date": "2013-05-17"
+        "date": "2013-05-16"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/45/BattlinBoxerHeadgeared-MP14-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/45/BattlinBoxerHeadgeared-MP14-EN-C-1E.png/revision/latest?cb=20140904211157"
 }

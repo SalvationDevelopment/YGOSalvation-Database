@@ -2,7 +2,7 @@
     "id": 83293307,
     "ot": 3,
     "alias": 0,
-    "setcode": 260,
+    "setcode": 0,
     "type": 2097185,
     "atk": 900,
     "def": 1200,
@@ -10,8 +10,8 @@
     "race": 2048,
     "attribute": 1,
     "category": 0,
-    "name": "Crawler Receptor",
-    "desc": "FLIP: You can add 1 \"Crawler\" monster from your Deck to your hand, except \"Acid Crawler\".\nIf this face-up card in its owner's control leaves the field because of an opponent's card effect: You can Special Summon 2 \"Crawler\" monsters with different names from your Deck in face-down Defense Position, except \"Crawler Receptor\" and \"Acid Crawler\". You can only use each effect of \"Crawler Receptor\" once per turn.",
+    "name": "Krawler Receptor",
+    "desc": "FLIP: You can add 1 \"Krawler\" monster from your Deck to your hand.\nIf this face-up card in its owner's control leaves the field because of an opponent's card effect: You can Special Summon 2 \"Krawler\" monsters with different names from your Deck in face-down Defense Position, except \"Krawler Receptor\". You can only use each effect of \"Krawler Receptor\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002019,
         "pack_id": "CIBR-JP019",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Crawler Receptor",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9e/CrawlerReceptor-CIBR-JP-C.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE019",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/KrawlerReceptor-CIBR-EN-C-1E.png/revision/latest?cb=20171020171812"
 }

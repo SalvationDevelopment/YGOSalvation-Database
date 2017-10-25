@@ -2,7 +2,7 @@
     "id": 15710054,
     "ot": 3,
     "alias": 0,
-    "setcode": 260,
+    "setcode": 0,
     "type": 2097185,
     "atk": 500,
     "def": 1800,
@@ -10,8 +10,8 @@
     "race": 2048,
     "attribute": 1,
     "category": 0,
-    "name": "Crawler Axon",
-    "desc": "FLIP: You can target 1 Spell/Trap on the field; destroy it.\nIf this face-up card in its owner's control leaves the field because of an opponent's card effect: You can Special Summon 2 \"Crawler\" monsters with different names from your Deck in face-down Defense Position, except \"Crawler Axon\" and \"Acid Crawler\". You can only use each effect of \"Crawler Axon\" once per turn.",
+    "name": "Krawler Axon",
+    "desc": "FLIP: You can target 1 Spell/Trap on the field; destroy it.\nIf this face-up card in its owner's control leaves the field because of an opponent's card effect: You can Special Summon 2 \"Krawler\" monsters with different names from your Deck in face-down Defense Position, except \"Krawler Axon\". You can only use each effect of \"Krawler Axon\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002017,
         "pack_id": "CIBR-JP017",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Crawler Axon",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4a/CrawlerAxon-CIBR-JP-C.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE017",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/34/KrawlerAxon-CIBR-EN-C-1E.png/revision/latest?cb=20171020171803"
 }

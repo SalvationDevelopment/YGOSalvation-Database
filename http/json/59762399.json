@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Performapal Odd-Eyes Light Phoenix",
-    "desc": "Pendulum Effect\nWhen an opponent's monster declares a direct attack while you have a card in your other Pendulum Zone: You can destroy the card in your other Pendulum Zone, and if you do, Special Summon this card.\n\nMonster Effect\nDuring either player's turn: You can Tribute this card, then target 1 \"Performapal\" monster you control; it gains 1000 ATK until the end of this turn.",
+    "desc": "Pendulum Effect\nWhen an opponent's monster declares a direct attack while you have a card in your other Pendulum Zone: You can destroy the card in your other Pendulum Zone, and if you do, Special Summon this card.\n\nMonster Effect\n(Quick Effect): You can Tribute this card, then target 1 \"Performapal\" monster you control; it gains 1000 ATK until the end of this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 59762399,
         "pack_id": "SHVI-JP003",
-        "pack": "SHVI",
+        "pack": "Shining Victories",
         "rarity": "Performapal Odd-Eyes Light Phoenix",
         "date": "2016-01-09"
     },
     "tcg": {
         "id": 59762399,
-        "pack_id": "SHVI-EN003",
-        "pack": "SHVI",
+        "pack_id": "SHVI-DE003",
+        "pack": "Shining Victories",
         "rarity": "Performapal Odd-Eyes Light Phoenix",
         "date": "2016-05-05"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d5/PerformapalOddEyesLightPhoenix-SP17-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4c/PerformapalOddEyesLightPhoenix-LEDD-EN-C-1E.png/revision/latest?cb=20171005220007"
 }

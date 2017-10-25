@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 786432,
     "name": "Lamb Token",
-    "desc": "This card can be used as a \"Lamb Token\".\n\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+    "desc": "Special Summoned with the effect of \"Stray Lambs\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,10 @@
     "ocg": {
         "id": 60764583,
         "pack_id": "17TP-JP216",
-        "pack": "17TP",
+        "pack": "Tournament Pack 2017 Vol.2",
         "rarity": "",
         "date": "2017-04-01"
     },
     "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/01/LambToken-17TP-JP-C.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/01/LambToken-17TP-JP-C.png/revision/latest?cb=20170415102242"
 }

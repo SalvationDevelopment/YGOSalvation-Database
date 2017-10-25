@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 6,
     "name": "Catoblepas and the Witch of Fate",
-    "desc": "When your opponent Special Summons a monster(s), you can remove from play 1 monster with ? ATK from your Graveyard to destroy that Special Summoned monster(s).",
+    "desc": "When your opponent Special Summons a monster(s), you can remove from play 1 monster with&#xA0;? ATK from your Graveyard to destroy that Special Summoned monster(s).",
     "str1": "Destroy",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 54360049,
         "pack_id": "SOVR-JP014",
-        "pack": "SOVR",
+        "pack": "Stardust Overdrive",
         "rarity": "Catoblepas and the Witch of Fate",
         "date": "2009-07-18"
     },
     "tcg": {
         "id": 54360049,
-        "pack_id": "SOVR-EN014",
-        "pack": "SOVR",
+        "pack_id": "SOVR-DE014",
+        "pack": "Stardust Overdrive",
         "rarity": "Catoblepas and the Witch of Fate",
-        "date": "2009-11-17"
+        "date": "2009-11-12"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/CatoblepasandtheWitchofFate-SOVR-EN-R-UE.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/CatoblepasandtheWitchofFate-SOVR-EN-R-UE.png/revision/latest?cb=20150321180634"
 }

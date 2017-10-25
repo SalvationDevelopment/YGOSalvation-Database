@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Legendary Knight Timaeus",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Legend of Heart\", and cannot be Special Summoned by other ways. When this card is Special Summoned: You can target 1 face-up Spell/Trap Card on the field; banish that target. When this card is targeted for an attack: You can target 1 Spell Card in your Graveyard; Set that target.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Legend of Heart\". When this card is Special Summoned: You can target 1 face-up Spell/Trap on the field; banish that target. When this card is targeted for an attack: You can target 1 Spell in your GY; Set that target.",
     "str1": "Banish 1 face-up Spell/Trap Card?",
     "str2": "Set 1 Spell Card from your Graveyard?",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 80019195,
         "pack_id": "CPL1-JP001",
-        "pack": "CPL1",
+        "pack": "Collectors Pack: Duelist of Legend Version",
         "rarity": "Legendary Knight Timaeus",
         "date": "2014-05-17"
     },
     "tcg": {
         "id": 80019195,
-        "pack_id": "DRLG-EN001",
-        "pack": "DRLG",
+        "pack_id": "DRLG-DE001",
+        "pack": "Dragons of Legend",
         "rarity": "Legendary Knight Timaeus",
-        "date": "2014-04-25"
+        "date": "2014-04-24"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e3/LegendaryKnightTimaeus-DRL3-EN-UR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/17/LegendaryKnightTimaeus-LEDD-EN-C-1E.png/revision/latest?cb=20171005213203"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Pot of Riches",
-    "desc": "Shuffle 3 Pendulum Monsters into the Deck, from your Graveyard and/or face-up in your Extra Deck, then draw 2 cards. You can only activate 1 \"Pot of Riches\" per turn. You cannot Special Summon the turn you activate this card, except by Pendulum Summon.",
+    "desc": "Shuffle 3 Pendulum Monsters into the Deck, from your GY and/or face-up from your Extra Deck, then draw 2 cards. You can only activate 1 \"Pot of Riches\" per turn. You cannot Special Summon the turn you activate this card, except by Pendulum Summon.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 96598015,
         "pack_id": "SECE-JP063",
-        "pack": "SECE",
+        "pack": "Secrets of Eternity",
         "rarity": "Pot of Riches",
         "date": "2014-11-15"
     },
     "tcg": {
         "id": 96598015,
-        "pack_id": "SECE-EN063",
-        "pack": "SECE",
+        "pack_id": "SECE-DE063",
+        "pack": "Secrets of Eternity",
         "rarity": "Pot of Riches",
         "date": "2015-01-15"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/00/PotofRiches-MP15-EN-ScR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/64/PotofRiches-LEDD-EN-C-1E.png/revision/latest?cb=20171005220438"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Eternal Soul",
-    "desc": "Every \"Dark Magician\" in your Monster Zone is unaffected by your opponent's card effects. If this face-up card leaves the field: Destroy all monsters you control. You can only use the following effect of \"Eternal Soul\" once per turn. You can activate 1 of these effects;\n● Special Summon 1 \"Dark Magician\" from your hand or Graveyard.\n● Add 1 \"Dark Magic Attack\" or \"Thousand Knives\" from your Deck to your hand.",
+    "desc": "Every \"Dark Magician\" in your Monster Zone is unaffected by your opponent's card effects. If this face-up card leaves the field: Destroy all monsters you control. You can only use the following effect of \"Eternal Soul\" once per turn. You can activate 1 of these effects;\n● Special Summon 1 \"Dark Magician\" from your hand or GY.\n● Add 1 \"Dark Magic Attack\" or \"Thousand Knives\" from your Deck to your hand.",
     "str1": "      ",
     "str2": "Special Summon 1 \"Dark Magician\" from your hand or Graveyard.",
     "str3": "Add 1 \"Dark Magic Attack\" or \"Thousand Knives\" from your Deck to your hand.",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 48680970,
         "pack_id": "15AX-JPY03",
-        "pack": "15AX",
+        "pack": "Duelist Road -Piece of Memory- Side: Yami Yugi",
         "rarity": "Eternal Soul",
         "date": "2015-01-10"
     },
     "tcg": {
         "id": 48680970,
-        "pack_id": "LDK2-ENS06",
-        "pack": "LDK2",
+        "pack_id": "LDK2-DES06",
+        "pack": "Legendary Decks II",
         "rarity": "Eternal Soul",
         "date": "2016-10-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/EternalSoul-LDK2-EN-ScR-LE.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fd/EternalSoul-LEDD-EN-UR-1E.png/revision/latest?cb=20171005213846"
 }

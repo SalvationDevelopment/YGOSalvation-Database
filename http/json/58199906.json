@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Cybernetic Fusion Support",
-    "desc": "Pay half your LP; once, if you Fusion Summon a Machine-Type Fusion Monster this turn, you can banish monsters from your hand, Graveyard, and/or your side of the field as the Fusion Materials. You can only activate 1 \"Cybernetic Fusion Support\" per turn.",
+    "desc": "Pay half your LP; once, if you Fusion Summon a Machine Fusion Monster this turn, you can banish monsters from your hand, field, and/or GY as the Fusion Materials. You can only activate 1 \"Cybernetic Fusion Support\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 58199906,
         "pack_id": "GS06-JP014",
-        "pack": "GS06",
+        "pack": "Gold Series 2014",
         "rarity": "Cybernetic Fusion Support",
         "date": "2014-01-11"
     },
     "tcg": {
         "id": 58199906,
-        "pack_id": "CROS-EN092",
-        "pack": "CROS",
+        "pack_id": "CROS-DE092",
+        "pack": "Crossed Souls",
         "rarity": "Cybernetic Fusion Support",
         "date": "2015-05-14"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d9/CyberneticFusionSupport-MP16-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/74/CyberneticFusionSupport-LEDD-EN-C-1E.png/revision/latest?cb=20171005215303"
 }

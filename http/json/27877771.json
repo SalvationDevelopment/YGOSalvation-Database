@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002008,
         "pack_id": "CIBR-JP008",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Sniffing Dragon",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/ba/SnifferDragon-CIBR-JP-C.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE008",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/23/SnifferDragon-CIBR-EN-C-1E.png/revision/latest?cb=20171020171521"
 }

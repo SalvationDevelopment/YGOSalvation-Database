@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Ancient Gear Token",
-    "desc": "This card can be used as an \"Ancient Gear Token\".\n\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+    "desc": "Special Summoned with the effect of \"Ancient Gear Catapult\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 44052075,
         "pack_id": "SR03-JPTKN",
-        "pack": "SR03",
+        "pack": "Structure Deck R: Machine Dragon Re-Volt",
         "rarity": "",
         "date": "2016-09-24"
     },
     "tcg": {
         "id": 44052075,
-        "pack_id": "SR03-ENTKN",
-        "pack": "SR03",
+        "pack_id": "SR03-DETKN",
+        "pack": "Machine Reactor Structure Deck",
         "rarity": "",
         "date": "2017-04-13"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/56/AncientGearToken-SR03-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/56/AncientGearToken-SR03-EN-C-1E.png/revision/latest?cb=20170411221040"
 }

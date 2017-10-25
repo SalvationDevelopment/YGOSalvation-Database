@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 8192,
     "name": "Dragunity Knight - Gae Bulg",
-    "desc": "1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monsters \n If this card attacks or is attacked, during the Damage Step you can remove from play 1 (only) Winged Beast-Type monster from your Graveyard, to have this card gain the ATK of that monster until the End Phase.",
+    "desc": "1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monsters \nIf this card attacks or is attacked, during the Damage Step you can remove from play 1 (only) Winged Beast-Type monster from your Graveyard, to have this card gain the ATK of that monster until the End Phase.",
     "str1": "Gain attack",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 900787,
         "pack_id": "DT06-JP037",
-        "pack": "DT06",
+        "pack": "Duel Terminal - Dragunity of the Hurricane!!",
         "rarity": "Dragunity Knight - Gae Bulg",
         "date": "2009-07-01"
     },
     "tcg": {
         "id": 900787,
         "pack_id": "DT03-EN087",
-        "pack": "DT03",
+        "pack": "Duel Terminal 3",
         "rarity": "Dragunity Knight - Gae Bulg",
         "date": "2010-09-25"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e3/DragunityKnightGaeBulg-HA03-EN-ScR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e3/DragunityKnightGaeBulg-HA03-EN-ScR-1E.png/revision/latest?cb=20101211144956"
 }

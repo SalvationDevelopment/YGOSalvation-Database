@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "The Accumulator",
-    "desc": "Gains ATK equal to the combined Link Arrows of all Link Monsters on the field x 300.",
+    "desc": "Gains ATK equal to the combined Link Ratings of all Link Monsters on the field x 300.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002031,
         "pack_id": "CIBR-JP031",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "The Accumulator",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/TheAccumulator-CIBR-JP-C.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE031",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/TheAccumulator-CIBR-EN-C-1E.png/revision/latest?cb=20171020172041"
 }

@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 1,
     "name": "Amazoness Empress",
-    "desc": "\"Amazoness Queen\" + 1 \"Amazoness\" monster\nOther \"Amazoness\" cards you control cannot be destroyed by battle or card effects. If an \"Amazoness\" monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this face-up Fusion Summoned card is destroyed by battle, or leaves the field because of an opponent's card effect while its owner controls it: You can Special Summon 1 \"Amazoness Queen\" from your hand, Deck, or GY.",
+    "desc": "\"Amazoness Queen\" + 1 \"Amazoness\" monster\nOther \"Amazoness\" cards you control cannot be destroyed by battle or card effects. If your \"Amazoness\" monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this face-up Fusion Summoned card is destroyed by battle, or leaves the field because of an opponent's card effect while its owner controls it: You can Special Summon 1 \"Amazoness Queen\" from your hand, Deck, or GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 4591250,
         "pack_id": "CP17-JP023",
-        "pack": "CP17",
+        "pack": "Collectors Pack 2017",
         "rarity": "Amazoness Empress",
         "date": "2017-05-13"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0d/AmazonessEmpress-CP17-JP-SR.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE095",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e4/AmazonessEmpress-CIBR-EN-C-1E.png/revision/latest?cb=20171020170938"
 }

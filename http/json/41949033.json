@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 41949033,
-        "pack_id": "EX-63",
-        "pack": "EX",
+        "pack_id": "",
+        "pack": "Vol.4",
         "rarity": "Dark Assailant",
         "date": "1999-07-22"
     },
     "tcg": {
         "id": 41949033,
         "pack_id": "SDK-015",
-        "pack": "SDK",
+        "pack": "Starter Deck: Kaiba",
         "rarity": "Dark Assailant",
-        "date": 1017360000000
+        "date": "2002-03-29"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8d/DarkAssailant-SDK-NA-C-UE.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8d/DarkAssailant-SDK-NA-C-UE.png/revision/latest?cb=20090401060101"
 }

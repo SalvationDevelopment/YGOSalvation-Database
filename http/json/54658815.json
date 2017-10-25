@@ -1,10 +1,14 @@
 {
     "ocg": {
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "pack_id": "CIBR-JP069",
         "date": "2017-07-08"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE069",
+        "date": "2017-10-19"
+    },
     "id": 54658815,
     "setcode": 0,
     "type": 4,
@@ -14,6 +18,6 @@
     "race": 0,
     "attribute": 0,
     "name": "Remote Rebirth",
-    "desc": "Target 1 monster in your opponent's GY; Special Summon it to your opponent's Main Monster Zone a Link Monster you control points to.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f5/RemoteRebirth-CIBR-JP-C.png/revision/latest?"
+    "desc": "Target 1 monster in your opponent's GY; Special Summon it in an opponent's Main Monster Zone your Link Monster points to.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f0/RemoteRebirth-CIBR-EN-C-1E.png/revision/latest?cb=20171020172920"
 }

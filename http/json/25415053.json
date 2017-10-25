@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 0,
     "name": "Shinobird Token",
-    "desc": "This card can be used as a \"Shinobird Token\".\n\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+    "desc": "Special Summoned with the effect of \"Shinobaron Peacock\"\n \"Shinobaroness Peacock\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,10 @@
     "ocg": {
         "id": 25415053,
         "pack_id": "AT16-JP010",
-        "pack": "AT16",
+        "pack": "Advanced Tournament Pack 2016 Vol.4",
         "rarity": "",
         "date": "2016-10-01"
     },
     "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/ShinobirdToken-AT16-JP-C.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/ShinobirdToken-AT16-JP-C.png/revision/latest?cb=20161111191838"
 }

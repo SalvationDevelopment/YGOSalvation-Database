@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "V-LAN Hydra",
-    "desc": "Link Arrows: [🡱] [🡰] [🡳]\n\n2+ monsters, except Tokens\nGains 300 ATK for each monster co-linked to it. You can target 1 Link 3 or lower monster co-linked to this card; you cannot Special Summon monsters with the same number of Link Arrows as that monster for the rest of this turn, also Tribute that monster, and if you do, Special Summon \"V-LAN Tokens\" (Cyberse/LIGHT/Level 1/ATK 0/DEF 0) equal to the number of Link Arrows the Tributed monster had. You can only use this effect of \"V-LAN Hydra\" once per turn.",
+    "desc": "Link Arrows: [🡱][🡰][🡳]\n\n2+ monsters, except Tokens\nGains 300 ATK for each monster co-linked to it. You can target 1 Link 3 or lower monster co-linked to this card; you cannot Special Summon monsters with the same Link Rating as that monster for the rest of this turn, also Tribute that monster, and if you do, Special Summon \"V-LAN Tokens\" (Cyberse/LIGHT/Level 1/ATK 0/DEF 0) equal to the Tributed monster's Link Rating. You can only use this effect of \"V-LAN Hydra\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,10 +37,10 @@
     "ocg": {
         "id": 100200133,
         "pack_id": "VJMP-JP133",
-        "pack": "VJMP",
+        "pack": "V Jump August 2017 promotional card",
         "rarity": "V-LAN Hydra",
         "date": "2017-06-21"
     },
     "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/19/VLANHydra-VJMP-JP-UR.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/19/VLANHydra-VJMP-JP-UR.png/revision/latest?cb=20170621060812"
 }

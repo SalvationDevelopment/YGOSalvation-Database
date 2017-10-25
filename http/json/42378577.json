@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Pendulum Switch",
-    "desc": "You can target 1 card in your Pendulum Zone; Special Summon it. You can target 1 Pendulum Monster in your Monster Zone; place it in your Pendulum Zone. You can only use 1 \"Pendulum Switch\" effect per turn, and only once that turn.",
+    "desc": "You can target 1 card in your Pendulum Zone; Special Summon it. You can target 1 Pendulum Monster in your Monster Zone; place that pendulum Monster in your Pendulum Zone. You can only use 1 \"Pendulum Switch\" effect per turn, and only once that turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -31,16 +31,16 @@
     "links": [],
     "cardpool": "TCG",
     "ocg": {
-        "pack": "EP17",
+        "pack": "Extra Pack 2017",
         "pack_id": "EP17-JP051",
         "date": "2017-09-09"
     },
     "tcg": {
         "id": 42378577,
-        "pack_id": "MACR-ENSP1",
-        "pack": "MACR",
+        "pack_id": "MACR-DESP1",
+        "pack": "Maximum Crisis Sneak Peek Participation Card",
         "rarity": "Pendulum Switch",
         "date": "2017-04-29"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/32/PendulumSwitch-MACR-EN-R-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f9/PendulumSwitch-LEDD-EN-C-1E.png/revision/latest?cb=20171005220537"
 }

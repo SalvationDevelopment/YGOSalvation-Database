@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Cyber Dragon Nova",
-    "desc": "2 Level 5 Machine-Type monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 \"Cyber Dragon\" in your Graveyard; Special Summon that target. Once per turn, during either player's turn: You can banish 1 \"Cyber Dragon\" from your hand or face-up from your Monster Zone; this card gains 2100 ATK until the end of this turn. If this card in your possession is sent to your Graveyard by your opponent's card effect: You can Special Summon 1 Machine-Type Fusion Monster from your Extra Deck.",
+    "desc": "2 Level 5 Machine monsters\nOnce per turn: You can detach 1 material from this card, then target 1 \"Cyber Dragon\" in your GY; Special Summon that target. Once per turn (Quick Effect): You can banish 1 \"Cyber Dragon\" from your hand or face-up from your Monster Zone; this card gains 2100 ATK until the end of this turn. If this card in your possession is sent to your GY by your opponent's card effect: You can Special Summon 1 Machine Fusion Monster from your Extra Deck.",
     "str1": "Special Summon 1 Cyber Dragon",
     "str2": "Banish 1 Cyber Dragon",
     "str3": "Special Summon 1 Fusion Monster",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 58069384,
         "pack_id": "SD26-JP038",
-        "pack": "SD26",
+        "pack": "Structure Deck: Blitzkrieg of the Mechlight Dragons",
         "rarity": "Cyber Dragon Nova",
         "date": "2013-12-07"
     },
     "tcg": {
         "id": 58069384,
-        "pack_id": "SDCR-EN038",
-        "pack": "SDCR",
+        "pack_id": "SDCR-DE038",
+        "pack": "Cyber Dragon Revolution Structure Deck",
         "rarity": "Cyber Dragon Nova",
         "date": "2014-02-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/08/CyberDragonNova-OP01-EN-C-UE.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ab/CyberDragonNova-LEDD-EN-C-1E.png/revision/latest?cb=20171005215729"
 }

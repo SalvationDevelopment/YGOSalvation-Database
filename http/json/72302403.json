@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 67584,
     "name": "Swords of Revealing Light",
-    "desc": "Flip all monsters your opponent controls face-up. This card remains on the field for 3 of your opponent's turns. While this card is face-up on the field, monsters your opponent controls cannot declare an attack.",
+    "desc": "After this card's activation, it remains on the field, but destroy it during the End Phase of your opponent's 3rd turn. When this card is activated: If your opponent controls a face-down monster, flip all monsters they control face-up. While this card is face-up on the field, your opponent's monsters cannot declare an attack.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 72302403,
-        "pack_id": "PG-40",
-        "pack": "PG",
+        "pack_id": "",
+        "pack": "Vol.2",
         "rarity": "Swords of Revealing Light",
         "date": "1999-03-27"
     },
     "tcg": {
         "id": 72302403,
         "pack_id": "LOB-101",
-        "pack": "LOB",
+        "pack": "Legend of Blue Eyes White Dragon",
         "rarity": "Swords of Revealing Light",
         "date": "2002-03-08"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bf/SwordsofRevealingLight-SDMY-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e3/SwordsofRevealingLight-LEDD-EN-C-1E.png/revision/latest?cb=20171005213748"
 }

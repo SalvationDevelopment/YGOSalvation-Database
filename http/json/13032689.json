@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 1073750016,
     "name": "Xyz Unit",
-    "desc": "Equip only to a face-up Xyz Monster. It gains ATK equal to its Rank × 200. If the equipped monster you control would detach its Xyz Material to activate its effect: You can detach this card as 1 of the Xyz Materials.",
+    "desc": "Equip only to a face-up Xyz Monster. It gains ATK equal to its Rank &#xD7; 200. If the equipped monster you control would detach its Xyz Material to activate its effect: You can detach this card as 1 of the Xyz Materials.",
     "str1": "Activate effect of \"Xyz Unit\"?",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 13032689,
         "pack_id": "GAOV-JP062",
-        "pack": "GAOV",
+        "pack": "Galactic Overlord",
         "rarity": "Xyz Unit",
         "date": "2012-02-18"
     },
     "tcg": {
         "id": 13032689,
         "pack_id": "GAOV-EN062",
-        "pack": "GAOV",
+        "pack": "Galactic Overlord",
         "rarity": "Xyz Unit",
         "date": "2012-04-28"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a8/XyzUnit-YS13-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a8/XyzUnit-YS13-EN-C-1E.png/revision/latest?cb=20131022161644"
 }

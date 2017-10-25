@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Legend of Heart",
-    "desc": "Pay 2000 LP and Tribute 1 Warrior-Type monster; banish up to 3 \"Legendary Dragon\" Spell Cards with different names from your hand and/or Graveyard, and if you do, Special Summon that many \"Legendary Knight\" monsters with different names from your hand, Deck, and/or Graveyard. You can only activate 1 \"Legend of Heart\" per turn.",
+    "desc": "Pay 2000 LP and Tribute 1 Warrior monster; banish up to 3 \"Legendary Dragon\" Spells with different names from your hand and/or GY, and if you do, Special Summon that many \"Legendary Knight\" monsters with different names from your hand, Deck, and/or GY. You can only activate 1 \"Legend of Heart\" per turn.",
     "str1": "Banish Another?",
     "str2": "Banish Another? ",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 89397517,
         "pack_id": "CPL1-JP006",
-        "pack": "CPL1",
+        "pack": "Collectors Pack: Duelist of Legend Version",
         "rarity": "Legend of Heart",
         "date": "2014-05-17"
     },
     "tcg": {
         "id": 89397517,
-        "pack_id": "DRLG-EN006",
-        "pack": "DRLG",
+        "pack_id": "DRLG-DE006",
+        "pack": "Dragons of Legend",
         "rarity": "Legend of Heart",
-        "date": "2014-04-25"
+        "date": "2014-04-24"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a5/LegendofHeart-DRL3-EN-UR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/23/LegendofHeart-LEDD-EN-C-1E.png/revision/latest?cb=20171005213746"
 }

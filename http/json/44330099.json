@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Emissary of Darkness Token",
-    "desc": "This card can be used as an \"Emissary of Darkness Token\".\n\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+    "desc": "Special Summoned with the effect of \"Gorz the Emissary of Darkness\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -32,11 +32,11 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 44330099,
-        "pack_id": "17TP-JP215",
-        "pack": "17TP",
+        "pack_id": "N/A",
+        "pack": "V Jump April 2013 Tokens",
         "rarity": "",
         "date": "2013-02-21"
     },
     "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/61/EmissaryofDarknessToken-17TP-JP-C.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/61/EmissaryofDarknessToken-17TP-JP-C.png/revision/latest?cb=20170415102234"
 }

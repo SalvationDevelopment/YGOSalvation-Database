@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Quiet Life",
-    "desc": "Activate this card only if you control no monsters at the start of your Main Phase 1. Neither player can Special Summon monsters during the turn they Normal Summoned/Set a monster. Neither player can Normal Summon/Set monsters during the turn they Special Summoned a monster(s).",
+    "desc": "Activate this card at the start of your Main Phase 1, if you control no monsters. If any player Normal Summons/Sets a monster, that player cannot Special Summon that turn. If any player Special Summons a monster, that player cannot Normal Summon/Set that turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 31980955,
         "pack_id": "CP17-JP024",
-        "pack": "CP17",
+        "pack": "Collectors Pack 2017",
         "rarity": "Quiet Life",
         "date": "2017-05-13"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9e/QuietLife-CP17-JP-C.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE096",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e8/QuietLife-CIBR-EN-SR-1E.png/revision/latest?cb=20171020170904"
 }

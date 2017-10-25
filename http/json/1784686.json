@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "The Eye of Timaeus",
-    "desc": "(This card is also always treated as \"Legendary Dragon Timaeus\".)\nTarget 1 \"Dark Magician\" monster you control; Fusion Summon 1 Fusion Monster from your Extra Deck that lists that monster on the field as a Fusion Material, using it as the Fusion Material. You can only activate 1 \"The Eye of Timaeus\" per turn.",
+    "desc": "(This card is also always treated as \"Legendary Dragon Timaeus\".)\nTarget 1 \"Dark Magician\" monster you control; Fusion Summon 1 Fusion Monster from your Extra Deck that lists that monster on the field as Fusion Material, using it as the Fusion Material. You can only activate 1 \"The Eye of Timaeus\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 1784686,
         "pack_id": "CPL1-JP005",
-        "pack": "CPL1",
+        "pack": "Collectors Pack: Duelist of Legend Version",
         "rarity": "The Eye of Timaeus",
         "date": "2014-05-17"
     },
     "tcg": {
         "id": 1784686,
-        "pack_id": "DRLG-EN005",
-        "pack": "DRLG",
+        "pack_id": "DRLG-DE005",
+        "pack": "Dragons of Legend",
         "rarity": "The Eye of Timaeus",
-        "date": "2014-04-25"
+        "date": "2014-04-24"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8f/TheEyeofTimaeus-DRL3-EN-UR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/TheEyeofTimaeus-LEDD-EN-C-1E.png/revision/latest?cb=20171005213643"
 }

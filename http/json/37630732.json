@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 273948672,
     "name": "Power Bond",
-    "desc": "Fusion Summon 1 Machine-Type Fusion Monster from your Extra Deck, using monsters from your hand or your side of the field as Fusion Materials, and it gains ATK equal to its original ATK. During the End Phase of the turn this card is activated, you take damage equal to the amount of ATK gained from this effect at the time of the Summon.",
+    "desc": "Fusion Summon 1 Machine Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials, and it gains ATK equal to its original ATK. During the End Phase of the turn this card is activated, you take damage equal to the amount of ATK gained from this effect at the time of the Summon.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 37630732,
         "pack_id": "CRV-JP037",
-        "pack": "CRV",
+        "pack": "Cybernetic Revolution",
         "rarity": "Power Bond",
         "date": "2005-05-26"
     },
     "tcg": {
         "id": 37630732,
-        "pack_id": "CRV-EN037",
-        "pack": "CRV",
+        "pack_id": "CRV-DE037",
+        "pack": "Cybernetic Revolution",
         "rarity": "Power Bond",
-        "date": "2005-08-06"
+        "date": "2005-08-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/47/PowerBond-SDCR-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/01/PowerBond-LEDD-EN-C-1E.png/revision/latest?cb=20171005215346"
 }

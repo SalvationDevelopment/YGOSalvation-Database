@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "The Claw of Hermos",
-    "desc": "(This card is also always treated as \"Legendary Dragon Hermos\".)\nSend 1 monster from your hand or field to the Graveyard, of the Type that is listed on a Fusion Monster that can only be Special Summoned with \"The Claw of Hermos\" (if that card is Set, reveal it), then Special Summon that Fusion Monster from your Extra Deck. You can only activate 1 \"The Claw of Hermos\" per turn.",
+    "desc": "(This card is also always treated as \"Legendary Dragon Hermos\".)\nSend 1 monster from your hand or field to the GY, of the Type that is listed on a Fusion Monster that can only be Special Summoned with \"The Claw of Hermos\" (if that card is Set, reveal it), then Special Summon that Fusion Monster from your Extra Deck. You can only activate 1 \"The Claw of Hermos\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 46232525,
         "pack_id": "CPD1-JP013",
-        "pack": "CPD1",
+        "pack": "Collectors Pack: Duelist of Destiny Version",
         "rarity": "The Claw of Hermos",
         "date": "2015-05-16"
     },
     "tcg": {
         "id": 46232525,
-        "pack_id": "DRL2-EN013",
-        "pack": "DRL2",
+        "pack_id": "DRL2-DE013",
+        "pack": "Dragons of Legend 2",
         "rarity": "The Claw of Hermos",
         "date": "2015-07-16"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/42/TheClawofHermos-DRL3-EN-UR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/76/TheClawofHermos-LEDD-EN-C-1E.png/revision/latest?cb=20171005213652"
 }

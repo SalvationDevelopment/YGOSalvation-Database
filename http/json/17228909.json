@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 1,
     "name": "Jurraegg Token",
-    "desc": "This card can be used as a \"Juraegg Token\".\n\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+    "desc": "Special Summoned with the effect of \"Lost World\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 17228909,
         "pack_id": "SR04-JPTKN",
-        "pack": "SR04",
+        "pack": "Structure Deck R - Dinobeast's Pulse -",
         "rarity": "",
         "date": "2017-02-25"
     },
     "tcg": {
         "id": 17228909,
-        "pack_id": "SR04-ENTKN",
-        "pack": "SR04",
+        "pack_id": "SR04-DETKN",
+        "pack": "Dinosmasher's Fury Structure Deck",
         "rarity": "",
         "date": "2017-04-13"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/62/JurraeggToken-SR04-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/62/JurraeggToken-SR04-EN-C-1E.png/revision/latest?cb=20170411222117"
 }

@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 2,
     "category": 0,
-    "name": "Duck Dropper",
-    "desc": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with these effects.\n● Cannot be destroyed by card effects, also neither player can target this card with card effects.\n● The attacks from monsters your opponent controls become direct attacks.",
+    "name": "Duck Dummy",
+    "desc": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with these effects.\n● Cannot be destroyed by card effects. Neither player can target this card with card effects.\n● The attacks from your opponent's monsters become direct attacks.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002033,
         "pack_id": "CIBR-JP033",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Duck Dropper",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/45/DuckDropper-CIBR-JP-C.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE033",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6d/DuckDummy-CIBR-EN-C-1E.png/revision/latest?cb=20171020172115"
 }

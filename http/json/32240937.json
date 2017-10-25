@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": -2147483648,
     "name": "Ultimate Obedient Fiend",
-    "desc": "This card can only attack if this card is the only card on your side of the field and if you also have no cards in your hand. Negate the effects of Effect Monsters destroyed by this card.",
+    "desc": "This card can only attack if this card is the only card on your side of the field and if you also have no cards in your hand. The effects of Effect Monsters that this card destroys are negated.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 32240937,
         "pack_id": "303-028",
-        "pack": "303",
+        "pack": "Champion of Black Magic",
         "rarity": "Ultimate Obedient Fiend",
         "date": "2002-09-19"
     },
     "tcg": {
         "id": 32240937,
         "pack_id": "MFC-082",
-        "pack": "MFC",
+        "pack": "Magician's Force",
         "rarity": "Ultimate Obedient Fiend",
         "date": "2003-10-10"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/87/UltimateObedientFiend-MFC-NA-SP-1E.jpg/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d9/UltimateObedientFiend-DR1-EN-C-UE.png/revision/latest?cb=20140210001057"
 }

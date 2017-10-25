@@ -10,8 +10,8 @@
     "race": 8192,
     "attribute": 32,
     "category": 0,
-    "name": "Destrudo, the Dead Drake of Dread",
-    "desc": "If this card is in your hand or GY: You can pay half your LP, then target 1 Level 6 or lower monster you control; Special Summon this card, but reduce its Level by the Level of the targeted monster, also place this card on the bottom of the Deck when it leaves the field. You can only use this effect of \"Destrudo, the Dead Drake of Dread\" once per turn.",
+    "name": "Destrudo the Lost Dragon's Frisson",
+    "desc": "If this card is in your hand or GY: You can pay half your LP, then target 1 Level 6 or lower monster you control; Special Summon this card, and if you do, this card's Level is reduced by the Level of the targeted monster, also place this card on the bottom of the Deck if it leaves the field. You can only use this effect of \"Destrudo the Lost Dragon's Frisson\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002038,
         "pack_id": "CIBR-JP038",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Destrudo, the Dead Drake of Dread",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4c/DestrudotheDeadDrakeofDread-CIBR-JP-R.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE038",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/DestrudotheLostDragonsFrisson-CIBR-EN-R-1E.png/revision/latest?cb=20171020172218"
 }

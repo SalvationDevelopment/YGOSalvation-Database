@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Cyber Dragon Drei",
-    "desc": "When this card is Normal Summoned: You can make all \"Cyber Dragons\" you currently control become Level 5. You cannot Special Summon any monsters during the turn you activate this effect, except Machine-Type monsters. If this card is banished: You can target 1 \"Cyber Dragon\" you control; it cannot be destroyed by battle or by card effects this turn. This card's name becomes \"Cyber Dragon\" while it is on the field or in the Graveyard.",
+    "desc": "When this card is Normal Summoned: You can make all \"Cyber Dragon\" you currently control become Level 5. You cannot Special Summon any monsters during the turn you activate this effect, except Machine monsters. If this card is banished: You can target 1 \"Cyber Dragon\" you control; it cannot be destroyed by battle or card effects this turn. This card's name becomes \"Cyber Dragon\" while on the field or in the GY.",
     "str1": "Activate Effect?",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 59281922,
         "pack_id": "SD26-JP002",
-        "pack": "SD26",
+        "pack": "Structure Deck: Blitzkrieg of the Mechlight Dragons",
         "rarity": "Cyber Dragon Drei",
         "date": "2013-12-07"
     },
     "tcg": {
         "id": 59281922,
-        "pack_id": "SDCR-EN002",
-        "pack": "SDCR",
+        "pack_id": "SDCR-DE002",
+        "pack": "Cyber Dragon Revolution Structure Deck",
         "rarity": "Cyber Dragon Drei",
         "date": "2014-02-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/51/CyberDragonDrei-SDCR-EN-SR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dd/CyberDragonDrei-LEDD-EN-C-1E.png/revision/latest?cb=20171005215001"
 }

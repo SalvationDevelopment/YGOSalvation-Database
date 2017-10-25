@@ -10,8 +10,8 @@
     "race": 8,
     "attribute": 1,
     "category": 1,
-    "name": "Number 41: Baguska",
-    "desc": "2 Level 4 monsters\nWhile this card is in Attack Position, your opponent cannot target it with card effects, also it cannot be destroyed by your opponent's card effects. While this card is in Defense Position, change all face-up monsters on the field to Defense Position, also negate the activated effects of Defense Position monsters on the field. Once per turn, during your Standby Phase, you must detach 1 material from this card (this is not optional), or this card is destroyed.",
+    "name": "Number 41: Bagooska the Terribly Tired Tapir",
+    "desc": "2 Level 4 monsters\nOnce per turn, during your Standby Phase, detach 1 material from this card. If you cannot, destroy it. This Attack Position card cannot be destroyed by your opponent's card effects. Your opponent cannot target this Attack Position card with card effects. While this card is in face-up Defense Position, change all face-up monsters on the field to Defense Position, also negate the activated effects of monsters that were in Defense Position when that effect was activated.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 90590303,
         "pack_id": "CP17-JP042",
-        "pack": "CP17",
+        "pack": "Collectors Pack 2017",
         "rarity": "Number 41: Baguska",
         "date": "2017-05-13"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/38/Number41Baguska-CP17-JP-R.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE097",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/75/Number41BagooskatheTerriblyTiredTapir-CIBR-EN-SR-1E.png/revision/latest?cb=20171020170859"
 }

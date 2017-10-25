@@ -2,7 +2,7 @@
     "id": 3381441,
     "ot": 3,
     "alias": 0,
-    "setcode": 46,
+    "setcode": 0,
     "type": 33,
     "atk": 1000,
     "def": 1500,
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 3381441,
         "pack_id": "EXP3-JP031",
-        "pack": "EXP3",
+        "pack": "Extra Pack Volume 3",
         "rarity": "Gravekeeper's Priestess",
         "date": "2010-09-18"
     },
     "tcg": {
         "id": 3381441,
-        "pack_id": "ABPF-ENSP1",
-        "pack": "ABPF",
+        "pack_id": "ABPF-DESP1",
+        "pack": "Absolute Powerforce Sneak Peek Participation Card",
         "rarity": "Gravekeeper's Priestess",
         "date": "2010-02-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/54/GravekeepersPriestess-LCJW-EN-R-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/54/GravekeepersPriestess-LCJW-EN-R-1E.png/revision/latest?cb=20131014111743"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8224,
     "name": "Xyz Soul",
-    "desc": "Target 1 Xyz Monster in either player's Graveyard; all monsters you currently control gain ATK equal to its Rank × 200, then you can shuffle it into the Extra Deck. This ATK increase lasts until the End Phase.",
+    "desc": "Target 1 Xyz Monster in either player's Graveyard; all monsters you currently control gain ATK equal to its Rank &#xD7; 200, then you can shuffle it into the Extra Deck. This ATK increase lasts until the End Phase.",
     "str1": "Return Monster to Extra Deck?",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 11228035,
         "pack_id": "REDU-JP073",
-        "pack": "REDU",
+        "pack": "Return of the Duelist",
         "rarity": "Xyz Soul",
         "date": "2012-04-14"
     },
     "tcg": {
         "id": 11228035,
         "pack_id": "REDU-EN073",
-        "pack": "REDU",
+        "pack": "Return of the Duelist",
         "rarity": "Xyz Soul",
         "date": "2012-08-18"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ea/XyzSoul-REDU-EN-C-UE.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ea/XyzSoul-REDU-EN-C-UE.png/revision/latest?cb=20120928191105"
 }

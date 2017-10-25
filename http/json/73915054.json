@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Sheep Token",
-    "desc": "This card can be used as any Token.",
+    "desc": "Special Summoned with the effect of \"Scapegoat\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 73915054,
         "pack_id": "TKN-JP001",
-        "pack": "TKN",
+        "pack": "Cyberdark Impact 2-Pack Set",
         "rarity": "",
         "date": "2006-08-10"
     },
     "tcg": {
         "id": 73915054,
         "pack_id": "TKN1-EN001",
-        "pack": "TKN1",
+        "pack": "San Diego Comic-Con promotional cards",
         "rarity": "",
         "date": "2006-07-20"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/49/Token-LC04-EN-UR-LE-SheepBlue.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/49/Token-LC04-EN-UR-LE-SheepBlue.png/revision/latest?cb=20131020042129"
 }

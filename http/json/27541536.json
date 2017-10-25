@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Altergeist Protocol",
-    "desc": "The activated effects of \"Altergeist\" cards you control, and their activation, cannot be negated. When your opponent activates a monster effect: You can send 1 other face-up \"Altergeist\" card you control to the GY; negate the activation, and if you do, destroy that card. You can only use this effect of \"Altergeist Protocol\" once per turn.",
+    "desc": "The activation and effects of \"Altergeist\" cards activated on your field cannot be negated. When your opponent activates a monster effect: You can send 1 other face-up \"Altergeist\" card you control to the GY; Negate the activation, and if you do, destroy it. You can only use this effect of \"Altergeist Protocol\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002071,
         "pack_id": "CIBR-JP071",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Altergeist Protocol",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4e/AltergeistProtocol-CIBR-JP-C.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE071",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cf/AltergeistProtocol-CIBR-EN-SR-1E.png/revision/latest?cb=20171020172928"
 }

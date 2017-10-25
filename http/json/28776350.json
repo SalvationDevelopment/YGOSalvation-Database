@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Akashic Magician",
-    "desc": "Link Arrows: [🡱] [🡳]\n\n2 monsters with the same Type, except Tokens\nIf this card is Link Summoned: Return to the hand all monsters this card points to. Once per turn: You can declare 1 card name; excavate cards from the top of your Deck, equal to the total number of Link Arrows the monsters co-linked with this card have, add the declared card to your hand if it is among the excavated cards, also send the remaining cards to the GY. You can only Link Summon \"Akashic Magician\" once per turn.",
+    "desc": "Link Arrows: [🡱][🡳]\n\n2 monsters with the same Type, except Tokens\nYou can only Link Summon \"Akashic Magician(s)\" once per turn. If this card is Link Summoned: Return all monsters this card points to to the hand. Once per turn: You can declare 1 card name; excavate cards from the top of your Deck, equal to the total Link Rating of the Link Monsters co-linked to this card, then if you excavated any copies of the declared card, add them to your hand, also send the remaining cards to the GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -36,10 +36,14 @@
     "ocg": {
         "id": 101002051,
         "pack_id": "CIBR-JP051",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Akashic Magician",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/AkashicMagician-CIBR-JP-SR.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE051",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/de/AkashicMagician-CIBR-EN-ScR-1E.png/revision/latest?cb=20171020172500"
 }

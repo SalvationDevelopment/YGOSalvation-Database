@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Altergeist Kunquery",
-    "desc": "When an opponent's monster declares an attack while you control an \"Altergeist\" card: You can Special Summon this card from your hand, and if you do, negate the attack. If this card is Special Summoned: You can target 1 face-up card your opponent controls; while this monster is face-up on the field, negate the effects of that face-up card while it is on the field.",
+    "desc": "When an opponent's monster declares an attack, if you control an \"Altergeist\" card: You can Special Summon this card from your hand, and if you do, negate that attack. If this card is Special Summoned: You can target 1 face-up card your opponent controls; negate the effects of that card while it and this monster are face-up on the field.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002015,
         "pack_id": "CIBR-JP015",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Altergeist Kuntieri",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0f/AltergeistKunquery-CIBR-JP-C.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE015",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/70/AltergeistKunquery-CIBR-EN-C-1E.png/revision/latest?cb=20171020171641"
 }

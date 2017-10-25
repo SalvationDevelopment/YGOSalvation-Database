@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 2,
     "name": "That Wacky Magic!",
-    "desc": "Banish all Spell Cards from your Graveyard; destroy all face-up monsters your opponent controls with DEF less than or equal to the number of Spell Cards you banished × 300.",
+    "desc": "Banish all Spell Cards from your Graveyard; destroy all face-up monsters your opponent controls with DEF less than or equal to the number of Spell Cards you banished &#xD7; 300.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 50427388,
         "pack_id": "GAOV-JP063",
-        "pack": "GAOV",
+        "pack": "Galactic Overlord",
         "rarity": "That Wacky Magic!",
         "date": "2012-02-18"
     },
     "tcg": {
         "id": 50427388,
         "pack_id": "GAOV-EN063",
-        "pack": "GAOV",
+        "pack": "Galactic Overlord",
         "rarity": "That Wacky Magic!",
         "date": "2012-04-28"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7c/ThatWackyMagic-GAOV-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7c/ThatWackyMagic-GAOV-EN-C-1E.png/revision/latest?cb=20120429212132"
 }

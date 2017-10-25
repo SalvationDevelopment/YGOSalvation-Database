@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Tri-Gate Wizard",
-    "desc": "Link Arrows: [🡰] [🡱] [🡲]\n\n2+ monsters, except Tokens\nThis card gains these effects depending on the number of monsters co-linked to it.\n● 1 or more: If a monster co-linked to this card battles an opponent's monster, any battle damage it inflicts to your opponent is doubled.\n● 2 or more: Once per turn: You can target 1 card on the field; banish it.\n● 3: Once per turn, when a card or effect is activated (Quick Effect): You can negate the activation, and if you do, banish that card.",
+    "desc": "Link Arrows: [🡰][🡱][🡲]\n\n2+ monsters, except Tokens\nThis card gains these effects depending on the number of monsters co-linked to it.\n● 1 or more: If a monster co-linked to this card battles an opponent's monster, any battle damage it inflicts to your opponent is doubled.\n● 2 or more: Once per turn: You can target 1 card on the field; banish it.\n● 3: Once per turn, when a card or effect is activated (Quick Effect): You can negate the activation, and if you do, banish that card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,10 +37,14 @@
     "ocg": {
         "id": 32617464,
         "pack_id": "SD32-JP042",
-        "pack": "SD32",
+        "pack": "Structure Deck: Cyberse Link",
         "rarity": "Trigate Wizard",
         "date": "2017-06-17"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8a/TriGateWizard-SD32-JP-UR.png/revision/latest?"
+    "tcg": {
+        "pack": "Structure Deck: Cyberse Link",
+        "pack_id": "SD??-DE0??",
+        "date": "2017-11-02"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8a/TriGateWizard-SD32-JP-UR.png/revision/latest?cb=20170616151100"
 }

@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": -2113927168,
     "name": "Big Shield Gardna",
-    "desc": "During either player's turn, when this face-down card (and no other cards) is targeted by a Spell Card: Change this card to face-up Defense Position, and if you do, negate the Spell Card's activation. If this card is attacked, change it to Attack Position at the end of the Damage Step.",
+    "desc": "When a Spell Card is activated that targets this face-down card (and no other cards) (Quick Effect): Change this card to face-up Defense Position, and if you do, negate the activation. If this card is attacked, change it to Attack Position at the end of the Damage Step.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 65240384,
         "pack_id": "G5-02",
-        "pack": "G5",
+        "pack": "GameBoy Duel Monsters Promos: Series 5",
         "rarity": "Big Shield Gardna",
         "date": "2001-07-05"
     },
     "tcg": {
         "id": 65240384,
         "pack_id": "DB1-EN097",
-        "pack": "DB1",
+        "pack": "Dark Beginning 1",
         "rarity": "Big Shield Gardna",
         "date": "2004-10-12"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c8/BigShieldGardna-LDK2-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/BigShieldGardna-LEDD-EN-C-1E.png/revision/latest?cb=20171005213401"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 268436483,
     "name": "Performapal U Go Golem",
-    "desc": "Pendulum Effect\nOnce per turn, if a monster is Fusion Summoned to your field (except during the Damage Step): You can add 1 \"Performapal\", \"Odd-Eyes\", or \"Magician\" Pendulum Monster from your Graveyard or face-up in your Extra Deck to your hand.\n\nMonster Effect\nOnce per turn, during your Main Phase, if this card was Pendulum Summoned this turn: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using this card you control and Dragon-Type monsters you control as Fusion Materials.",
+    "desc": "Pendulum Effect\nOnce per turn, if a monster is Fusion Summoned to your field (except during the Damage Step): You can add 1 \"Performapal\", \"Odd-Eyes\", or \"Magician\" Pendulum Monster from your GY or face-up in your Extra Deck to your hand.\n\nMonster Effect\nOnce per turn, during your Main Phase, if this card was Pendulum Summoned this turn: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using this card you control and Dragon monsters you control as Fusion Materials.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 73511233,
         "pack_id": "MACR-JP004",
-        "pack": "MACR",
+        "pack": "Maximum Crisis",
         "rarity": "Performapal U Go Golem",
         "date": "2017-01-14"
     },
     "tcg": {
         "id": 73511233,
-        "pack_id": "MACR-EN004",
-        "pack": "MACR",
+        "pack_id": "MACR-DE004",
+        "pack": "Maximum Crisis",
         "rarity": "Performapal U Go Golem",
         "date": "2017-05-04"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fa/PerformapalUGoGolem-MACR-EN-R-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/PerformapalUGoGolem-LEDD-EN-C-1E.png/revision/latest?cb=20171005220107"
 }

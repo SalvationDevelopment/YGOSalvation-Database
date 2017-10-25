@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Metaphys Nephthys",
-    "desc": "If this card is Special Summoned by a \"Metaphys\" monster's effect: You can banish all Set Spells and Traps on the field. Once per turn, during the Standby Phase, if this card was banished last turn: You can shuffle this banished card into the Deck; add 1 \"Metaphys\" card from your Deck to your hand, except \"Metaphys Nephthys\".",
+    "desc": "If this card is Special Summoned by the effect of a \"Metaphys\" monster: You can banish all Set Spells and Traps on the field. If this card is banished, during the Standby Phase of the next turn: You can shuffle this banished card into the Deck; add 1 \"Metaphys\" card from your Deck to your hand, except \"Metaphys Nephthys\".",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002025,
         "pack_id": "CIBR-JP025",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Metaphys Nephthys",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/87/MetaphysNephthys-CIBR-JP-C.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE025",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2e/MetaphysNephthys-CIBR-EN-SR-1E.png/revision/latest?cb=20171020171941"
 }

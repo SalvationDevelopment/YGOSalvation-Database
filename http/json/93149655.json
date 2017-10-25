@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Odd-Eyes Phantom Dragon",
-    "desc": "Pendulum Effect\nOnce per turn, when an attack is declared involving a face-up monster you control and an opponent's monster, if you have an \"Odd-Eyes\" card in your other Pendulum Zone: You can make that monster you control gain 1200 ATK until the end of the Battle Phase (even if this card leaves the field).\n\nMonster Effect\nWhen this Pendulum Summoned card inflicts battle damage to your opponent by attacking: You can inflict damage to your opponent equal to the number of \"Odd-Eyes\" cards in your Pendulum Zones x 1200. You can only use this effect of \"Odd-Eyes Phantom Dragon\" once per turn.",
+    "desc": "Pendulum Effect\nOnce per turn, when an attack is declared involving your face-up monster and an opponent's monster, if you have an \"Odd-Eyes\" card in your other Pendulum Zone: You can make that monster you control gain 1200 ATK until the end of the Battle Phase (even if this card leaves the field).\n\nMonster Effect\nWhen this Pendulum Summoned card inflicts battle damage to your opponent by attacking: You can inflict damage to your opponent equal to the number of \"Odd-Eyes\" cards in your Pendulum Zones x 1200. You can only use this effect of \"Odd-Eyes Phantom Dragon\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 93149655,
         "pack_id": "YA01-JP001",
-        "pack": "YA01",
+        "pack": "Yu-Gi-Oh! ARC-V Volume 1",
         "rarity": "Odd-Eyes Phantom Dragon",
         "date": "2016-04-04"
     },
     "tcg": {
         "id": 93149655,
         "pack_id": "YA01-EN001",
-        "pack": "YA01",
+        "pack": "Yu-Gi-Oh! ARC-V Volume 1",
         "rarity": "Odd-Eyes Phantom Dragon",
         "date": "2017-04-04"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4e/OddEyesPhantomDragon-YA01-EN-UR-LE.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/93/OddEyesPhantomDragon-LEDD-EN-C-1E.png/revision/latest?cb=20171005215948"
 }

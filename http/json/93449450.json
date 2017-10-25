@@ -1,12 +1,12 @@
 {
     "ocg": {
-        "pack": "EP17",
+        "pack": "Extra Pack 2017",
         "pack_id": "EP17-JP041",
         "date": "2017-09-09"
     },
     "tcg": {
-        "pack": "COTD",
-        "pack_id": "COTD-EN087",
+        "pack": "Code of the Duelist",
+        "pack_id": "COTD-DE087",
         "date": "2017-08-03"
     },
     "id": 93449450,
@@ -19,5 +19,5 @@
     "attribute": 8,
     "name": "F.A. Hang On Mach",
     "desc": "Gains ATK equal to its Level x 300. Unaffected by activated effects from an opponent's monster whose original Level/Rank is lower than this card's Level. Each time a \"F.A.\" Spell/Trap Card or effect is activated: You can increase this card's Level by 1. If this card is Level 7 or higher, any card sent to your opponent's GY is banished instead.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/51/FAHangOnMach-COTD-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/51/FAHangOnMach-COTD-EN-C-1E.png/revision/latest?cb=20170804100253"
 }

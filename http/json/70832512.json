@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 2,
     "name": "Absolute Crusader",
-    "desc": "When a Level 5 or higher monster is Special Summoned: Tribute this face-up card on the field; destroy that Level 5 or higher monster.",
+    "desc": "If a Level 5 or higher monster(s) is Special Summoned: Tribute this face-up card; destroy that Level 5 or higher monster(s).",
     "str1": "Destroy",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 70832512,
         "pack_id": "GENF-JP036",
-        "pack": "GENF",
+        "pack": "Generation Force",
         "rarity": "Absolute Crusader",
         "date": "2011-04-16"
     },
     "tcg": {
         "id": 70832512,
         "pack_id": "GENF-EN036",
-        "pack": "GENF",
+        "pack": "Generation Force",
         "rarity": "Absolute Crusader",
         "date": "2011-08-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/21/AbsoluteCrusader-GENF-EN-SR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d8/AbsoluteCrusader-LEDD-EN-C-1E.png/revision/latest?cb=20171005213406"
 }

@@ -2,7 +2,7 @@
     "id": 66393507,
     "ot": 3,
     "alias": 0,
-    "setcode": 260,
+    "setcode": 0,
     "type": 33554465,
     "atk": 1900,
     "def": "-",
@@ -10,8 +10,8 @@
     "race": 2048,
     "attribute": 1,
     "category": 0,
-    "name": "Excrawler Neurogos",
-    "desc": "Link Arrows: [🡰] [🡲]\n\n2 Insect monsters\n\"Crawler\" monsters this card points to, except \"Acid Crawler\", cannot be destroyed by battle, gain 300 ATK and DEF, and any battle damage they inflict to your opponent from attacks involving them and an opponent's monster is doubled. If this face-up card is destroyed by battle, or leaves the field because of an opponent's card effect while its owner controls it: You can target 2 \"Crawler\" monsters with different names in your GY, except \"Acid Crawler\"; Special Summon them in face-down Defense Position.",
+    "name": "X-Krawler Neurogos",
+    "desc": "Link Arrows: [🡰][🡲]\n\n2 Insect monsters\n\"Krawler\" monsters this card points to cannot be destroyed by battle, gain 300 ATK/DEF, and if they battle your opponent's monster, any battle damage they inflict to your opponent is doubled. If this face-up card is destroyed by battle, or leaves the field because of an opponent's card effect while its owner controls it: You can target 2 \"Krawler\" monsters with different names in your GY; Special Summon them in face-down Defense Position.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -36,10 +36,14 @@
     "ocg": {
         "id": 101002049,
         "pack_id": "CIBR-JP049",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Excrawler Neurogos",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/85/ExcrawlerNeurogos-CIBR-JP-R.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE049",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/XKrawlerNeurogos-CIBR-EN-C-1E.png/revision/latest?cb=20171020172450"
 }

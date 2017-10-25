@@ -2,7 +2,7 @@
     "id": 86325573,
     "ot": 3,
     "alias": 0,
-    "setcode": 132,
+    "setcode": 0,
     "type": 33,
     "atk": 1100,
     "def": 1400,
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 86325573,
         "pack_id": "PRIO-JP008",
-        "pack": "PRIO",
+        "pack": "Primal Origin",
         "rarity": "Battlin' Boxer Big Bandage",
         "date": "2014-02-15"
     },
     "tcg": {
         "id": 86325573,
-        "pack_id": "PRIO-EN008",
-        "pack": "PRIO",
+        "pack_id": "PRIO-DE008",
+        "pack": "Primal Origin",
         "rarity": "Battlin' Boxer Big Bandage",
-        "date": "2014-05-16"
+        "date": "2014-05-15"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e1/BattlinBoxerBigBandage-PRIO-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e1/BattlinBoxerBigBandage-PRIO-EN-C-1E.png/revision/latest?cb=20140518175318"
 }

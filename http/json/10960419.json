@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Time Magic Hammer",
-    "desc": "Must be Special Summoned with \"The Claw of Hermos\", using a Spellcaster-Type monster, and cannot be Special Summoned by other ways. If this card is Special Summoned: Target 1 other face-up monster on the field; equip this card to it. At the start of the Damage Step, if it battles an opponent's monster: You can roll a six-sided die, and banish that opponent's monster until the Standby Phase of the Nth turn after this effect's activation (N = the result).",
+    "desc": "Must be Special Summoned with \"The Claw of Hermos\", using a Spellcaster monster. If this card is Special Summoned: Target 1 other face-up monster on the field; equip this card to it. At the start of the Damage Step, if it battles an opponent's monster: You can roll a six-sided die, and banish that opponent's monster until the Standby Phase of the Nth turn after this effect's activation (N = the result).",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 10960419,
         "pack_id": "CPD1-JP009",
-        "pack": "CPD1",
+        "pack": "Collectors Pack: Duelist of Destiny Version",
         "rarity": "Time Magic Hammer",
         "date": "2015-05-16"
     },
     "tcg": {
         "id": 10960419,
-        "pack_id": "DRL2-EN009",
-        "pack": "DRL2",
+        "pack_id": "DRL2-DE009",
+        "pack": "Dragons of Legend 2",
         "rarity": "Time Magic Hammer",
         "date": "2015-07-16"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1b/TimeMagicHammer-DRL3-EN-UR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1e/TimeMagicHammer-LEDD-EN-C-1E.png/revision/latest?cb=20171005214231"
 }

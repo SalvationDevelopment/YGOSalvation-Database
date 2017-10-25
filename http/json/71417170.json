@@ -30,13 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Starstrike Blast",
+        "pack_id": "STBL-JP066",
+        "date": "2010-07-17"
+    },
     "tcg": {
         "id": 71417170,
         "pack_id": "STBL-EN066",
         "pack": "Starstrike Blast",
         "rarity": "Common",
-        "date": 1289883600000
+        "date": "2010-11-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f7/DefendersIntersect-STBL-EN-C-1E.jpg/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f7/DefendersIntersect-STBL-EN-C-1E.jpg/revision/latest?cb=20101118003233"
 }

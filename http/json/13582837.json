@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 4194560,
     "name": "Infernity Randomizer",
-    "desc": "Once per turn, while you have no cards in your hand, you can draw 1 card and reveal it. For a Monster Card drawn with this effect, inflict damage to your opponent equal to the Level of that monster × 200. For a Spell or Trap Card, you take 500 damage.",
+    "desc": "Once per turn, while you have no cards in your hand, you can draw 1 card and reveal it. For a Monster Card drawn with this effect, inflict damage to your opponent equal to the Level of that monster &#xD7; 200. For a Spell or Trap Card, you take 500 damage.",
     "str1": "Draw card",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 13582837,
         "pack_id": "TSHD-JP013",
-        "pack": "TSHD",
+        "pack": "The Shining Darkness",
         "rarity": "Infernity Randomizer",
         "date": "2010-02-20"
     },
     "tcg": {
         "id": 13582837,
-        "pack_id": "TSHD-EN013",
-        "pack": "TSHD",
+        "pack_id": "TSHD-DE013",
+        "pack": "The Shining Darkness",
         "rarity": "Infernity Randomizer",
-        "date": "2010-05-07"
+        "date": "2010-05-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/InfernityRandomizer-TSHD-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/InfernityRandomizer-TSHD-EN-C-1E.png/revision/latest?cb=20100516041447"
 }

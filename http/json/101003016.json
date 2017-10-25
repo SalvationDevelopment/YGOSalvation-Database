@@ -1,6 +1,6 @@
 {
     "ocg": {
-        "pack": "EXFO",
+        "pack": "Extreme Force",
         "pack_id": "EXFO-JP016",
         "date": "2017-10-14"
     },
@@ -14,6 +14,6 @@
     "race": 1048576,
     "attribute": 16,
     "name": "Jack Knight of the Flickering Flame",
-    "desc": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) to that column. You can only Special Summon \"Jack Knight of the Flickering Flame\" once per turn this way. If an opponent's card in the same column as this card is destroyed by battle or leaves the field: You can Special Summon 1 \"Jack Knight\" monster from your hand.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/de/JackKnightoftheFlickeringFlame-EXFO-JP-OP.png/revision/latest?"
+    "desc": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) to that column. You can only Special Summon \"Jack Knight of the Flickering Flame\" once per turn this way. If an opponent's card in this card's column is destroyed by battle or leaves the field: You can Special Summon 1 \"Jack Knight\" monster from your hand.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/df/JackKnightoftheFlickeringFlame-EXFO-JP-C.png/revision/latest?cb=20171013151241"
 }

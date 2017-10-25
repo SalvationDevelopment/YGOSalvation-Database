@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "World Legacy - \"World Armor\"",
-    "desc": "When a monster is Flip Summoned: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"World Legacy\" card from your Deck to your hand. If you control this Normal Summoned/Set monster (Quick Effect): You can target 1 face-up monster your opponent controls that was Special Summoned from the Extra Deck; return both it and this card to the hand. You can only use each effect of \"World Legacy - \"World Armor\"\" once per turn.",
+    "desc": "When a monster is Flip Summoned: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"World Legacy\" card from your Deck to your hand. If this Normal Summoned/Set card is on the field (Quick Effect): You can target 1 face-up opponent's monster that was Special Summoned from the Extra Deck; return both that monster and this card to the hand. You can only use each effect of \"World Legacy - \"World Armor\"\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002022,
         "pack_id": "CIBR-JP022",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Starrelic - Stararmor",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/62/WorldLegacyWorldArmor-CIBR-JP-R.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE022",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1a/WorldLegacyWorldArmor-CIBR-EN-R-1E.png/revision/latest?cb=20171020171855"
 }

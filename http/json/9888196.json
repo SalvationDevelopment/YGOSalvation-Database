@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 6291523,
     "name": "Ally of Justice Decisive Armor",
-    "desc": "1 Tuner + 2 or more non-Tuner monsters \n Once per turn, if your opponent controls a face-up LIGHT monster(s), you can activate 1 of these effects:\n● Select 1 Set card your opponent controls and destroy it.\n● Send 1 card from your hand to the Graveyard to destroy all Spell/Trap Cards your opponent controls.\n● Send all cards in your hand to the Graveyard to look at your opponent's hand and send all LIGHT monsters in their hand to the Graveyard. Then, inflict damage to your opponent equal to the total ATK of the opponent's monsters sent to the Graveyard.",
+    "desc": "1 Tuner + 2 or more non-Tuner monsters \nOnce per turn, if your opponent controls a face-up LIGHT monster(s), you can activate 1 of these effects:\n● Select 1 Set card your opponent controls and destroy it.\n● Send 1 card from your hand to the Graveyard to destroy all Spell/Trap Cards your opponent controls.\n● Send all cards in your hand to the Graveyard to look at your opponent's hand and send all LIGHT monsters in their hand to the Graveyard. Then, inflict damage to your opponent equal to the total ATK of the opponent's monsters sent to the Graveyard.",
     "str1": "Select 1 Set card your opponent controls and destroy it. ",
     "str2": "Send 1 card from your hand to the Graveyard to destroy all Spell/Trap Cards your opponent controls.  ",
     "str3": "Send all cards in your hand to the Graveyard",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 9888196,
         "pack_id": "DT06-JP040",
-        "pack": "DT06",
+        "pack": "Duel Terminal - Dragunity of the Hurricane!!",
         "rarity": "Ally of Justice Decisive Armor",
         "date": "2009-07-01"
     },
     "tcg": {
         "id": 9888196,
         "pack_id": "DT03-EN090",
-        "pack": "DT03",
+        "pack": "Duel Terminal 3",
         "rarity": "Ally of Justice Decisive Armor",
         "date": "2010-09-25"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a9/AllyofJusticeDecisiveArmor-HA03-EN-ScR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a9/AllyofJusticeDecisiveArmor-HA03-EN-ScR-1E.png/revision/latest?cb=20101211150042"
 }

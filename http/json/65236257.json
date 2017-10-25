@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Tellarknight Genesis",
-    "desc": "Destroy Spell/Trap Cards on the field equal to the number of other \"tellarknight\" cards you control. ",
+    "desc": "Destroy Spell/Trap Cards on the field equal to the number of other \"tellarknight\" cards you control.&#xA0;",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 65236257,
         "pack_id": "INOV-JP062",
-        "pack": "INOV",
+        "pack": "Invasion: Vengeance",
         "rarity": "Tellarknight Genesis",
         "date": "2016-07-09"
     },
     "tcg": {
         "id": 65236257,
-        "pack_id": "INOV-EN062",
-        "pack": "INOV",
+        "pack_id": "INOV-DE062",
+        "pack": "Invasion: Vengeance",
         "rarity": "Tellarknight Genesis",
         "date": "2016-11-03"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e7/TellarknightGenesis-INOV-EN-SR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e7/TellarknightGenesis-INOV-EN-SR-1E.png/revision/latest?cb=20161101155049"
 }

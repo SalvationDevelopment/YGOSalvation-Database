@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 0,
     "name": "Altergeist Silquitous",
-    "desc": "(Quick Effect): You can return 1 other \"Altergeist\" card you control to the hand, then target 1 card your opponent controls; return it to the hand. If this card is sent from the field to the GY: You can target 1 \"Altergeist\" Trap in your GY; add it to your hand. You can only use each effect of \"Altergeist Silquitous\" once per turn.",
+    "desc": "(Quick Effect): You can return 1 other \"Altergeist\" card you control to the hand, then target 1 card your opponent controls; return it to the hand. If this card is sent from the field to the GY: You can target 1 \"Altergeist\" Trap in your GY; add that card to your hand. You can only use each effect of \"Altergeist Silquitous\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002013,
         "pack_id": "CIBR-JP013",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Altergeist Sylkitas",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3a/AltergeistSilquitous-CIBR-JP-C.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE013",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7a/AltergeistSilquitous-CIBR-EN-SR-1E.png/revision/latest?cb=20171020171635"
 }

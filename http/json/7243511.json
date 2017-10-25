@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 2,
     "name": "Koalo-Koala",
-    "desc": "\"Sea Koala\" + \"Tree Otter\"\n You can send 1 Beast-Type monster from your hand to the Graveyard to target 1 monster your opponent controls; destroy it.",
+    "desc": "\"Sea Koala\" + \"Tree Otter\"\nYou can send 1 Beast-Type monster from your hand to the Graveyard to target 1 monster your opponent controls; destroy it.",
     "str1": "Destroy",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 7243511,
         "pack_id": "JF10-JP010",
-        "pack": "JF10",
+        "pack": "Jump Festa 2010 - Promotion Pack",
         "rarity": "Koalo-Koala",
         "date": "2009-12-19"
     },
     "tcg": {
         "id": 7243511,
         "pack_id": "ORCS-EN094",
-        "pack": "ORCS",
+        "pack": "Order of Chaos",
         "rarity": "Koalo-Koala",
         "date": "2012-01-14"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/27/KoaloKoala-ORCS-EN-C-UE.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/27/KoaloKoala-ORCS-EN-C-UE.png/revision/latest?cb=20120330213036"
 }

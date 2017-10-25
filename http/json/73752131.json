@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 67371016,
     "name": "Skilled Dark Magician",
-    "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves (max. 3). You can Tribute this card with 3 Spell Counters on it; Special Summon 1 \"Dark Magician\" from your hand, Deck, or Graveyard.",
+    "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves (max. 3). You can Tribute this card with 3 Spell Counters on it; Special Summon 1 \"Dark Magician\" from your hand, Deck, or GY.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 73752131,
         "pack_id": "303-011",
-        "pack": "303",
+        "pack": "Champion of Black Magic",
         "rarity": "Skilled Dark Magician",
         "date": "2002-09-19"
     },
     "tcg": {
         "id": 73752131,
         "pack_id": "MFC-065",
-        "pack": "MFC",
+        "pack": "Magician's Force",
         "rarity": "Skilled Dark Magician",
         "date": "2003-10-10"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8e/SkilledDarkMagician-SDMY-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/28/SkilledDarkMagician-LEDD-EN-C-1E.png/revision/latest?cb=20171005213200"
 }

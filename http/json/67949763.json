@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 786432,
     "name": "Corrupted Keys",
-    "desc": "Target 1 face-up Xyz Monster you control; Special Summon 3 \"Umbral Horror Mirage Tokens\" (Fiend-Type/DARK/Level 1/ATK ?/DEF 0). (When Summoned, each Token's ATK becomes equal to that Xyz Monster's current ATK. They cannot attack your opponent directly or be Tributed, except for a Tribute Summon.) When that face-up Xyz Monster leaves the field, destroy these Tokens.",
+    "desc": "Target 1 face-up Xyz Monster you control; Special Summon 3 \"Umbral Horror Mirage Tokens\" (Fiend-Type/DARK/Level 1/ATK&#xA0;?/DEF 0). (When Summoned, each Token's ATK becomes equal to that Xyz Monster's current ATK. They cannot attack your opponent directly or be Tributed, except for a Tribute Summon.) When that face-up Xyz Monster leaves the field, destroy these Tokens.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 67949763,
         "pack_id": "JOTL-JP072",
-        "pack": "JOTL",
+        "pack": "Judgment of the Light",
         "rarity": "Corrupted Keys",
         "date": "2013-04-20"
     },
     "tcg": {
         "id": 67949763,
-        "pack_id": "JOTL-EN072",
-        "pack": "JOTL",
+        "pack_id": "JOTL-DE072",
+        "pack": "Judgment of the Light",
         "rarity": "Corrupted Keys",
         "date": "2013-08-08"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c6/CorruptedKeys-JOTL-EN-R-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c6/CorruptedKeys-JOTL-EN-R-1E.png/revision/latest?cb=20150918145925"
 }

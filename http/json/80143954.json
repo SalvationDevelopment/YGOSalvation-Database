@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Altergeist Camouflage",
-    "desc": "Target 1 \"Altergeist\" monster you control; equip this card to it. It cannot be targeted for attacks, but does not prevent your opponent from attacking you directly. When an opponent’s monster effect that targets the equipped monster resolves, negate that effect. If an \"Altergeist\" card(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead.",
+    "desc": "Target 1 \"Altergeist\" monster you control; equip this card to it. Your opponent cannot target it for attacks, but it does not prevent your opponent from attacking you directly. Negate an opponent's monster effect that activates by targeting the equipped monster. If an \"Altergeist\" card(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002070,
         "pack_id": "CIBR-JP070",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Altergeist Camouflage",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/86/AltergeistCamouflage-CIBR-JP-C.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE070",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/df/AltergeistCamouflage-CIBR-EN-R-1E.png/revision/latest?cb=20171020172933"
 }

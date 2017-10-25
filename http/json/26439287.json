@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Proto-Cyber Dragon",
-    "desc": "This card's name becomes \"Cyber Dragon\" while it is on the field.",
+    "desc": "This card's name becomes \"Cyber Dragon\" while on the field.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 26439287,
         "pack_id": "SOI-JP010",
-        "pack": "SOI",
+        "pack": "Shadow of Infinity",
         "rarity": "Proto-Cyber Dragon",
         "date": "2005-11-17"
     },
     "tcg": {
         "id": 26439287,
         "pack_id": "SOI-EN010",
-        "pack": "SOI",
+        "pack": "Shadow of Infinity",
         "rarity": "Proto-Cyber Dragon",
         "date": "2006-02-18"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7c/ProtoCyberDragon-SDCR-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fa/ProtoCyberDragon-LEDD-EN-C-1E.png/revision/latest?cb=20171005215059"
 }

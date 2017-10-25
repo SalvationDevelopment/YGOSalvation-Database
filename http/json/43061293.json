@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 138412032,
     "name": "Fire Darts",
-    "desc": "Activate only while you have no cards in your hand. Roll a six-sided die 3 times, and inflict damage to your opponent equal to the sum of the die rolls × 100.",
+    "desc": "Activate only while you have no cards in your hand. Roll a six-sided die 3 times, and inflict damage to your opponent equal to the sum of the die rolls &#xD7; 100.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 43061293,
         "pack_id": "CRV-JP049",
-        "pack": "CRV",
+        "pack": "Cybernetic Revolution",
         "rarity": "Fire Darts",
         "date": "2005-05-26"
     },
     "tcg": {
         "id": 43061293,
-        "pack_id": "CRV-EN049",
-        "pack": "CRV",
+        "pack_id": "CRV-DE049",
+        "pack": "Cybernetic Revolution",
         "rarity": "Fire Darts",
-        "date": "2005-08-06"
+        "date": "2005-08-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/72/FireDarts-DR04-NA-C-UE.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/72/FireDarts-DR04-NA-C-UE.png/revision/latest?cb=20080526035635"
 }

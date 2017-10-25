@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": -2147483648,
     "name": "Skull Meister",
-    "desc": "During either player's turn, when a card effect is activated in your opponent's Graveyard, you can send this card from your hand to the Graveyard to negate the effect.",
+    "desc": "When a card effect is activated in your opponent's GY (Quick Effect): You can send this card from your hand to the GY; negate that effect.",
     "str1": "墓地的卡发动的效果无效",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 67750322,
         "pack_id": "EXP4-JP022",
-        "pack": "EXP4",
+        "pack": "Extra Pack Volume 4",
         "rarity": "Skull Meister",
         "date": "2011-09-17"
     },
     "tcg": {
         "id": 67750322,
         "pack_id": "STBL-EN081",
-        "pack": "STBL",
+        "pack": "Starstrike Blast",
         "rarity": "Skull Meister",
         "date": "2010-11-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/31/SkullMeister-STBL-EN-ScR-1E.jpg/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d7/SkullMeister-COTD-EN-SR-LE.png/revision/latest?cb=20170919164710"
 }

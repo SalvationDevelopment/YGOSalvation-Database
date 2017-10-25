@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 0,
     "name": "Tornado Dragon",
-    "desc": "2 Level 4 monsters\nOnce per turn, during either player’s turn: You can detach 1 Xyz Material from this card, then target 1 Spell/Trap Card on the field; destroy it.",
+    "desc": "2 Level 4 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 Spell/Trap Card on the field; destroy it.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -31,16 +31,16 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "pack": "EP17",
+        "pack": "Extra Pack 2017",
         "pack_id": "EP17-JP050",
         "date": "2017-09-09"
     },
     "tcg": {
         "id": 6983839,
-        "pack_id": "MACR-EN081",
-        "pack": "MACR",
+        "pack_id": "MACR-DE081",
+        "pack": "Maximum Crisis",
         "rarity": "Tornado Dragon",
         "date": "2017-05-04"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b3/TornadoDragon-MACR-EN-ScR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b3/TornadoDragon-MACR-EN-ScR-1E.png/revision/latest?cb=20170505164713"
 }

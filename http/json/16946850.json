@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Synthetic Seraphim Token",
-    "desc": "This card can be used as a \"Synthetic Seraphim Token\".\n\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+    "desc": "Special Summoned with the effect of \"Synthetic Seraphim\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -31,10 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "pack": "SR05",
+        "pack": "Structure Deck R: Surge of Divine Light",
         "pack_id": "SR05-JPTKN",
         "date": "2017-09-23"
     },
     "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/48/SyntheticSeraphimToken-SR05-JP-OP.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/83/SyntheticSeraphimToken-SR05-JP-C.png/revision/latest?cb=20170922150728"
 }

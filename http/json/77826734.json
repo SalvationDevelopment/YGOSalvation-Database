@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Pendulum Reborn",
-    "desc": "Special Summon 1 face-up Pendulum Monster from your Extra Deck, or 1 Pendulum Monster from your Graveyard.",
+    "desc": "Special Summon 1 face-up Pendulum Monster from your Extra Deck, or 1 Pendulum Monster from your GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 77826734,
         "pack_id": "BOSH-JP077",
-        "pack": "BOSH",
+        "pack": "Breakers of Shadow",
         "rarity": "Pendulum Reborn",
         "date": "2015-10-17"
     },
     "tcg": {
         "id": 77826734,
-        "pack_id": "BOSH-EN077",
-        "pack": "BOSH",
+        "pack_id": "BOSH-DE077",
+        "pack": "Breakers of Shadow",
         "rarity": "Pendulum Reborn",
         "date": "2016-01-14"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/68/PendulumReborn-PEVO-EN-SR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8e/PendulumReborn-LEDD-EN-C-1E.png/revision/latest?cb=20171005220532"
 }

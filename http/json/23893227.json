@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Cyber Dragon Core",
-    "desc": "When this card is Normal Summoned: Add 1 \"Cyber\" Spell/Trap Card from your Deck to your hand. If your opponent controls a monster and you control no monsters: You can banish this card from your Graveyard; Special Summon 1 \"Cyber Dragon\" monster from your Deck. You can only use 1 \"Cyber Dragon Core\" effect per turn, and only once that turn. This card's name becomes \"Cyber Dragon\" while it is on the field or in the Graveyard.",
+    "desc": "When this card is Normal Summoned: Add 1 \"Cyber\" Spell/Trap from your Deck to your hand. If only your opponent controls a monster: You can banish this card from your GY; Special Summon 1 \"Cyber Dragon\" monster from your Deck. You can only use 1 \"Cyber Dragon Core\" effect per turn, and only once that turn. This card's name becomes \"Cyber Dragon\" while on the field or in the GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 23893227,
         "pack_id": "SD26-JP001",
-        "pack": "SD26",
+        "pack": "Structure Deck: Blitzkrieg of the Mechlight Dragons",
         "rarity": "Cyber Dragon Core",
         "date": "2013-12-07"
     },
     "tcg": {
         "id": 23893227,
-        "pack_id": "SDCR-EN001",
-        "pack": "SDCR",
+        "pack_id": "SDCR-DE001",
+        "pack": "Cyber Dragon Revolution Structure Deck",
         "rarity": "Cyber Dragon Core",
         "date": "2014-02-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7e/CyberDragonCore-OP02-EN-C-UE.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8a/CyberDragonCore-LEDD-EN-C-1E.png/revision/latest?cb=20171005215054"
 }

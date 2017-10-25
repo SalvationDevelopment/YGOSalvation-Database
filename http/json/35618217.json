@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Lunalight Kaleido Chick",
-    "desc": "Once per turn: You can send 1 \"Lunalight\" monster from your Deck or Extra Deck to the GY; this card's name can be treated as the sent monster's, if used as a Fusion Material this turn. If this card is sent to the GY by a card effect: You can target 1 \"Polymerization\" in your GY; add it to your hand. You can only use this effect of \"Lunalight Kaleido Chick\" once per turn. If this card is banished: You can activate this effect; this turn, your opponent's cards and effects cannot be activated during the Battle Phase.",
+    "desc": "Once per turn: You can send 1 \"Lunalight\" monster from your Deck or Extra Deck to the GY; the name of this face-up card on the field can be treated as the sent monster's, if used as Fusion Material this turn. If this card is sent to the GY by a card effect: You can target 1 \"Polymerization\" in your GY; add it to your hand. You can only use this effect of \"Lunalight Kaleido Chick\" once per turn. If this card is banished: You can activate this effect; this turn, your opponent's cards and effects cannot be activated during the Battle Phase.",
     "str1": "Change Name",
     "str2": "Search \"Polymerization\"",
     "str3": "Limit effects",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 35618217,
         "pack_id": "DBLE-JP010",
-        "pack": "DBLE",
+        "pack": "Dimension Box Limited Edition",
         "rarity": "Lunalight Kaleido Chick",
         "date": "2016-11-26"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c2/LunalightKaleidoChick-DBLE-JP-UPR.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE091",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/15/LunalightKaleidoChick-CIBR-EN-C-1E.png/revision/latest?cb=20171020171038"
 }

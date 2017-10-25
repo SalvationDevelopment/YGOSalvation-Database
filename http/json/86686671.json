@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Cyber Repair Plant",
-    "desc": "If \"Cyber Dragon\" is in your Graveyard: You can activate 1 of these effects. If you have 3 or more \"Cyber Dragons\" in your Graveyard at activation, you can activate both effects and resolve in sequence. You can only activate 1 \"Cyber Repair Plant\" per turn.\n● Add 1 LIGHT Machine-Type monster from your Deck to your hand.\n● Target 1 LIGHT Machine-Type monster in your Graveyard; shuffle that target into your Deck.",
+    "desc": "If \"Cyber Dragon\" is in your GY: You can activate 1 of these effects. If you have 3 or more \"Cyber Dragon\" in your GY at activation, you can activate both effects and resolve in sequence. You can only activate 1 \"Cyber Repair Plant\" per turn.\n● Add 1 LIGHT Machine monster from your Deck to your hand.\n● Target 1 LIGHT Machine monster in your GY; shuffle that target into your Deck.",
     "str1": "Add 1 LIGHT Machine-Type monster from your Deck to your hand.",
     "str2": "Target 1 LIGHT Machine-Type monster in your Graveyard; shuffle that target into the Deck.",
     "str3": "Activate both effects??",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 86686671,
         "pack_id": "SD26-JP019",
-        "pack": "SD26",
+        "pack": "Structure Deck: Blitzkrieg of the Mechlight Dragons",
         "rarity": "Cyber Repair Plant",
         "date": "2013-12-07"
     },
     "tcg": {
         "id": 86686671,
-        "pack_id": "SDCR-EN019",
-        "pack": "SDCR",
+        "pack_id": "SDCR-DE019",
+        "pack": "Cyber Dragon Revolution Structure Deck",
         "rarity": "Cyber Repair Plant",
         "date": "2014-02-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/07/CyberRepairPlant-SDCR-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/03/CyberRepairPlant-LEDD-EN-C-1E.png/revision/latest?cb=20171005215251"
 }

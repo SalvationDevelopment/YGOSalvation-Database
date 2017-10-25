@@ -1,8 +1,8 @@
 {
     "ocg": {},
     "tcg": {
-        "pack": "CIBR",
-        "pack_id": "CIBR-EN086",
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE086",
         "date": "2017-10-19"
     },
     "id": 101002086,
@@ -15,5 +15,5 @@
     "attribute": 8,
     "name": "F.A. Whip Crosser",
     "desc": "Gains ATK equal to its Level x 300. Your opponent must pay 300 LP to activate the effect of a monster whose original Level/Rank is lower than this card's Level. Each time a \"F.A.\" Spell/Trap Card or effect is activated: You can increase this card's Level by 1. If this card is Level 7 or higher, your opponent cannot discard or send cards from their hand to the GY to activate a card effect.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/FAWhipCrosser-CIBR-EN-1E-OP.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/47/FAWhipCrosser-CIBR-EN-C-1E.png/revision/latest?cb=20171020171137"
 }

@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 4198400,
     "name": "Morphtronic Vacuumen",
-    "desc": "● While in Attack Position: Once per turn, you can send 1 card equipped to this card to the Graveyard to inflict 500 damage to your opponent. \n ● While in Defense Position: Once per turn, you can equip 1 face-up Attack Position monster your opponent controls to this card. (You can only equip 1 monster at a time to this card.)",
+    "desc": "● While in Attack Position: Once per turn, you can send 1 card equipped to this card to the Graveyard to inflict 500 damage to your opponent. \n● While in Defense Position: Once per turn, you can equip 1 face-up Attack Position monster your opponent controls to this card. (You can only equip 1 monster at a time to this card.)",
     "str1": "Inflict 500 damage",
     "str2": "Equip",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 48868994,
         "pack_id": "TSHD-JP017",
-        "pack": "TSHD",
+        "pack": "The Shining Darkness",
         "rarity": "Morphtronic Vacuumen",
         "date": "2010-02-20"
     },
     "tcg": {
         "id": 48868994,
-        "pack_id": "TSHD-EN017",
-        "pack": "TSHD",
+        "pack_id": "TSHD-DE017",
+        "pack": "The Shining Darkness",
         "rarity": "Morphtronic Vacuumen",
-        "date": "2010-05-07"
+        "date": "2010-05-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8e/MorphtronicVacuumen-TSHD-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8e/MorphtronicVacuumen-TSHD-EN-C-1E.png/revision/latest?cb=20100517141531"
 }

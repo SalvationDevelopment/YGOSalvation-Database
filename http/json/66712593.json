@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": -2145386496,
     "name": "Element Soldier",
-    "desc": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field:\n● WATER: Control of this card cannot switch.\n● EARTH: Negate the effect of an Effect Monster that this card destroyed by battle.",
+    "desc": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: ● WATER: Control of this card cannot switch. ● EARTH: Negate the effect of an Effect Monster that this card destroyed by battle.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 66712593,
         "pack_id": "SOD-JP024",
-        "pack": "SOD",
+        "pack": "Soul of the Duelist",
         "rarity": "Element Soldier",
         "date": "2004-05-27"
     },
     "tcg": {
         "id": 66712593,
-        "pack_id": "SOD-EN024",
-        "pack": "SOD",
+        "pack_id": "SOD-DE024",
+        "pack": "Soul of the Duelist",
         "rarity": "Element Soldier",
         "date": "2004-10-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d3/ElementSoldier-DR3-EN-C-UE.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d3/ElementSoldier-DR3-EN-C-UE.png/revision/latest?cb=20160615193725"
 }

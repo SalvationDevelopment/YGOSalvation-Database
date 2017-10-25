@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Personal Spoofing",
-    "desc": "Once per turn: You can shuffle 1 \"Altergeist\" card from your hand or face-up from your field into the Main Deck; add 1 \"Altergeist\" monster from your Deck to your hand.",
+    "desc": "Once per turn: You can shuffle 1 other \"Altergeist\" card from your hand or face-up from your field into the Main Deck; add 1 \"Altergeist\" monster from your Deck to your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002072,
         "pack_id": "CIBR-JP072",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Personal Spoofing",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e3/PersonalSpoofing-CIBR-JP-C.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE072",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/ff/PersonalSpoofing-CIBR-EN-R-1E.png/revision/latest?cb=20171020173010"
 }

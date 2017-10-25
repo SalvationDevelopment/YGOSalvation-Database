@@ -1,6 +1,6 @@
 {
     "ocg": {
-        "pack": "EXFO",
+        "pack": "Extreme Force",
         "pack_id": "EXFO-JP010",
         "date": "2017-10-14"
     },
@@ -14,6 +14,6 @@
     "race": 8,
     "attribute": 32,
     "name": "Tindangle Base Gardna",
-    "desc": "If you control a Set monster, you can Special Summon this card (from your hand) in Defense Position. You can only Special Summon \"Tindangle Base Gardna\" once per turn this way. If a monster(s) is Normal or Special Summoned to a zone an opponent's Link Monster points to while this monster is on the field: You can Tribute this card; Special Summon 1 \"Tindangle\" monster from your hand or Deck in Attack Position or face-down Defense Position.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/13/TindangleBaseGardna-EXFO-JP-OP.png/revision/latest?"
+    "desc": "If you control a Set monster, you can Special Summon this card (from your hand) in Defense Position. You can only Special Summon \"Tindangle Base Gardna\" once per turn this way. If a monster(s) is Normal or Special Summoned to a zone an opponent's Link Monster points to while this monster is on the field (except during the Damage Step): You can Tribute this card; Special Summon 1 \"Tindangle\" monster from your hand or Deck in Attack Position or face-down Defense Position.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/42/TindangleBaseGardna-EXFO-JP-C.png/revision/latest?cb=20171013151117"
 }

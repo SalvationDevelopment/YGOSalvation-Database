@@ -2,7 +2,7 @@
     "id": 76589815,
     "ot": 3,
     "alias": 0,
-    "setcode": 132,
+    "setcode": 0,
     "type": 8388641,
     "atk": 0,
     "def": 1300,
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 76589815,
         "pack_id": "SHSP-JP049",
-        "pack": "SHSP",
+        "pack": "Shadow Specters",
         "rarity": "Battlin' Boxer Cheat Commissioner",
         "date": "2013-07-20"
     },
     "tcg": {
         "id": 76589815,
-        "pack_id": "SHSP-EN049",
-        "pack": "SHSP",
+        "pack_id": "SHSP-DE049",
+        "pack": "Shadow Specters",
         "rarity": "Battlin' Boxer Cheat Commissioner",
-        "date": "2013-11-08"
+        "date": "2013-11-07"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/da/BattlinBoxerCheatCommissioner-MP14-EN-R-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/da/BattlinBoxerCheatCommissioner-MP14-EN-R-1E.png/revision/latest?cb=20140907211110"
 }

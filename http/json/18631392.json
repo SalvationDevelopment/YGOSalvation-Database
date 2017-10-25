@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 3416584,
     "name": "Ma'at",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 1 LIGHT Dragon-Type monster and 1 LIGHT Fairy-Type monster you control to the Graveyard, and cannot be Special Summoned by other ways. Once per turn: You can declare 3 card names; excavate the top 3 cards of your Deck, add any of them that you named to your hand, also send the remaining cards to the Graveyard. This card's ATK and DEF each become equal to the number of cards added to your hand by this effect × 1000.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 1 LIGHT Dragon-Type monster and 1 LIGHT Fairy-Type monster you control to the Graveyard, and cannot be Special Summoned by other ways. Once per turn: You can declare 3 card names; excavate the top 3 cards of your Deck, add any of them that you named to your hand, also send the remaining cards to the Graveyard. This card's ATK and DEF each become equal to the number of cards added to your hand by this effect &#xD7; 1000.",
     "str1": "宣言卡名",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 18631392,
         "pack_id": "PP14-JP004",
-        "pack": "PP14",
+        "pack": "Premium Pack 14",
         "rarity": "Ma'at",
         "date": "2012-03-17"
     },
     "tcg": {
         "id": 18631392,
-        "pack_id": "PRC1-EN017",
-        "pack": "PRC1",
+        "pack_id": "PRC1-DE017",
+        "pack": "Premium Collection",
         "rarity": "Ma'at",
-        "date": "2012-03-16"
+        "date": "2012-03-15"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8d/Maat-SP14-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8d/Maat-SP14-EN-C-1E.png/revision/latest?cb=20140224120630"
 }

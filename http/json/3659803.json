@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 271581188,
     "name": "Overload Fusion",
-    "desc": "Banish, from your side of the field or your Graveyard, the Fusion Material Monsters that are listed on a DARK Machine-Type Fusion Monster Card, then Special Summon that Fusion Monster from your Extra Deck. (This Special Summon is treated as a Fusion Summon.)",
+    "desc": "Fusion Summon 1 DARK Machine Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 3659803,
         "pack_id": "POTD-JP042",
-        "pack": "POTD",
+        "pack": "Power of the Duelist",
         "rarity": "Overload Fusion",
         "date": "2006-05-18"
     },
     "tcg": {
         "id": 3659803,
-        "pack_id": "POTD-EN042",
-        "pack": "POTD",
+        "pack_id": "POTD-DE042",
+        "pack": "Power of the Duelist",
         "rarity": "Overload Fusion",
         "date": "2006-08-16"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6a/OverloadFusion-DT07-EN-DNPR-DT.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e0/OverloadFusion-LEDD-EN-C-1E.png/revision/latest?cb=20171005215350"
 }

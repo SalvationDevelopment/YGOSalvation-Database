@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Hippo Token",
-    "desc": "This card can be used as a \"Hippo Token\".\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+    "desc": "Special Summoned with the effect of \"Hippo Carnival\"\n \"Super Hippo Carnival\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 18027139,
         "pack_id": "AT06-JP009",
-        "pack": "AT06",
+        "pack": "Advanced Tournament Pack 2014 Vol.2",
         "rarity": "",
         "date": "2014-04-19"
     },
     "tcg": {
         "id": 18027139,
-        "pack_id": "YS16-ENT01",
-        "pack": "YS16",
+        "pack_id": "YS16-DET01",
+        "pack": "Starter Deck - Yuya",
         "rarity": "",
         "date": "2016-05-26"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/90/HippoToken-YS16-EN-C-1E-Orange.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/90/HippoToken-YS16-EN-C-1E-Orange.png/revision/latest?cb=20160526085016"
 }

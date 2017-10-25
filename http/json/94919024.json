@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Lunalight Crimson Fox",
-    "desc": "If this card is sent to the GY by a card effect: You can target 1 face-up monster your opponent controls; change its ATK to 0 until the end of this turn. When a card or effect is activated that targets a \"Lunalight\" monster(s) you control (Quick Effect): You can banish this card from your GY; negate the activation, and if you do, each player gains 1000 LP.",
+    "desc": "If this card is sent to the GY by a card effect: You can target 1 face-up monster your opponent controls; change its ATK to 0 until the end of this turn. When a card or effect is activated that targets a \"Lunalight\" monster you control (Quick Effect): You can banish this card from your GY; negate the activation, and if you do, each player gains 1000 LP.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 94919024,
         "pack_id": "VJMP-JP112",
-        "pack": "VJMP",
+        "pack": "V Jump March 2016 promotional card",
         "rarity": "Lunalight Crimson Fox",
         "date": "2016-01-21"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2e/LunalightCrimsonFox-DBLE-JP-NPR.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE090",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/99/LunalightCrimsonFox-CIBR-EN-C-1E.png/revision/latest?cb=20171020171043"
 }

@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 8193,
     "name": "Fortune Lady Wind",
-    "desc": "This card's ATK and DEF are equal to its Level × 300. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When this card is Normal Summoned, you can destroy a number of Spell or Trap Cards your opponent controls equal to the number of face-up \"Fortune Lady\" monsters you control.",
+    "desc": "This card's ATK and DEF are equal to its Level &#xD7; 300. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When this card is Normal Summoned, you can destroy a number of Spell or Trap Cards your opponent controls equal to the number of face-up \"Fortune Lady\" monsters you control.",
     "str1": "Increase level",
     "str2": "Destroy Spell/Trap",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 82693917,
         "pack_id": "SOVR-JP009",
-        "pack": "SOVR",
+        "pack": "Stardust Overdrive",
         "rarity": "Fortune Lady Wind",
         "date": "2009-07-18"
     },
     "tcg": {
         "id": 82693917,
-        "pack_id": "SOVR-EN009",
-        "pack": "SOVR",
+        "pack_id": "SOVR-DE009",
+        "pack": "Stardust Overdrive",
         "rarity": "Fortune Lady Wind",
-        "date": "2009-11-17"
+        "date": "2009-11-12"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2f/FortuneLadyWind-SOVR-EN-R-1E.jpg/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2f/FortuneLadyWind-SOVR-EN-R-1E.jpg/revision/latest?cb=20100722081029"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 270336,
     "name": "Dragonecro Nethersoul Dragon",
-    "desc": "2 Zombie-Type monsters\nMust first be Fusion Summoned. Monsters cannot be destroyed by battle with this card. At the end of the Damage Step, if this card battled a monster that has an original Level: That monster's ATK becomes 0, also, if that monster is still face-up on the field, Special Summon 1 \"Dark Soul Token\" (Zombie-Type/DARK/Level ?/ATK ?/DEF 0). (When Summoned, its Level and ATK become equal to the original Level and ATK of that monster.) You can only control 1 \"Dragonecro Nethersoul Dragon\".",
+    "desc": "2 Zombie-Type monsters\nMust first be Fusion Summoned. Monsters cannot be destroyed by battle with this card. At the end of the Damage Step, if this card battled a monster that has an original Level: That monster's ATK becomes 0, also, if that monster is still face-up on the field, Special Summon 1 \"Dark Soul Token\" (Zombie-Type/DARK/Level&#xA0;?/ATK&#xA0;?/DEF 0). (When Summoned, its Level and ATK become equal to the original Level and ATK of that monster.) You can only control 1 \"Dragonecro Nethersoul Dragon\".",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 8198620,
         "pack_id": "PP16-JP006",
-        "pack": "PP16",
+        "pack": "Premium Pack 16",
         "rarity": "Dragonecro Nethersoul Dragon",
         "date": "2014-03-21"
     },
     "tcg": {
         "id": 8198620,
-        "pack_id": "PGLD-EN015",
-        "pack": "PGLD",
+        "pack_id": "PGLD-DE015",
+        "pack": "Premium Gold",
         "rarity": "Dragonecro Nethersoul Dragon",
-        "date": "2014-03-28"
+        "date": "2014-03-27"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bc/DragonecroNethersoulDragon-PGLD-EN-GScR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bc/DragonecroNethersoulDragon-PGLD-EN-GScR-1E.png/revision/latest?cb=20140327215134"
 }

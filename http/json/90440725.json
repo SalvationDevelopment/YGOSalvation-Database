@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 270336,
     "name": "Cyber Shadow Gardna",
-    "desc": "Activate only during your opponent's Main Phase. After activation, Special Summon this card; it is treated as an Effect Monster Card (Machine-Type/EARTH/Level 4/ATK ?/DEF ?). (This card is still treated as a Trap Card.) If this card is selected as an attack target, the ATK and DEF of this card become the ATK and DEF of the attacking monster. This card is Set in its Spell & Trap Card Zone during your opponent's End Phase.",
+    "desc": "During your opponent's Main Phase: Special Summon this card as an Effect Monster (Machine/EARTH/Level 4/ATK&#xA0;?/DEF&#xA0;?). (This card is also still a Trap.) When an opponent's monster declares an attack that targets this card: The ATK/DEF of this card become the ATK/DEF of the attacking monster. Once per turn, during your opponent's End Phase: Set this card in its Spell & Trap Zone.",
     "str1": "セット",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 90440725,
         "pack_id": "CDIP-JP058",
-        "pack": "CDIP",
+        "pack": "Cyberdark Impact",
         "rarity": "Cyber Shadow Gardna",
         "date": "2006-08-10"
     },
     "tcg": {
         "id": 90440725,
-        "pack_id": "CDIP-EN058",
-        "pack": "CDIP",
+        "pack_id": "CDIP-FR058",
+        "pack": "Cyberdark Impact",
         "rarity": "Cyber Shadow Gardna",
-        "date": "2006-11-15"
+        "date": "2006-11-04"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a4/CyberShadowGardna-CDIP-EN-SR-1E.jpg/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/48/CyberShadowGardna-LEDD-EN-C-1E.png/revision/latest?cb=20171005215447"
 }

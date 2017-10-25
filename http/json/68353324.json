@@ -1,10 +1,14 @@
 {
     "ocg": {
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "pack_id": "CIBR-JP040",
         "date": "2017-07-08"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE040",
+        "date": "2017-10-19"
+    },
     "id": 68353324,
     "setcode": 120,
     "type": 33,
@@ -15,5 +19,5 @@
     "attribute": 2,
     "name": "Nimble Beaver",
     "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 3 or lower \"Nimble\" monster from your Deck or GY.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/21/NimbleBeaver-CIBR-JP-NR.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/NimbleBeaver-CIBR-EN-SP-1E.png/revision/latest?cb=20171020172313"
 }

@@ -1,12 +1,16 @@
 {
     "ocg": {
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "pack_id": "CIBR-JP011",
         "date": "2017-07-08"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE011",
+        "date": "2017-10-19"
+    },
     "id": 26655293,
-    "setcode": 258,
+    "setcode": 0,
     "type": 33,
     "atk": 1800,
     "def": 1200,
@@ -14,6 +18,6 @@
     "race": 8192,
     "attribute": 32,
     "name": "Magnarokket Dragon",
-    "desc": "When a Link Monster's effect is activated that targets this card (Quick Effect): You can destroy this card, then send 1 monster on the field to the GY. During the End Phase, if this card is in the GY because it was destroyed by battle or card effect and sent there from the field this turn: You can Special Summon 1 \"rokket\" monster from your Deck, except \"Magnarokket Dragon\". You can only use each effect of \"Magnarokket Dragon\" once per turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3c/MagnarokketDragon-CIBR-JP-C.png/revision/latest?"
+    "desc": "When a Link Monster's effect is activated that targets this face-up card on the field (Quick Effect): You can destroy this card, then send 1 monster on the field to the GY. During the End Phase, if this card is in the GY because it was destroyed on the field by battle or card effect and sent there this turn: You can Special Summon 1 \"Rokket\" monster from your Deck, except \"Magnarokket Dragon\". You can only use each effect of \"Magnarokket Dragon\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9e/MagnarokketDragon-CIBR-EN-UR-1E.png/revision/latest?cb=20171020171539"
 }

@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 0,
     "name": "Mecha Phantom Beast Token",
-    "desc": "This card can be used as a \"Mecha Phantom Beast Token\".\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+    "desc": "Special Summoned with the effect of \"Mecha Phantom Beast\"\n \"Aerial Recharge\"\n \"Vertical Landing\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,10 @@
     "ocg": {
         "id": 94973029,
         "pack_id": "AT01-JP010",
-        "pack": "AT01",
+        "pack": "Advanced Tournament Pack 2013 Vol.1",
         "rarity": "",
         "date": "2013-01-01"
     },
     "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/MechaPhantomBeastToken-17TP-JP-C.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/MechaPhantomBeastToken-17TP-JP-C.png/revision/latest?cb=20170706210116"
 }

@@ -2,7 +2,7 @@
     "id": 61679541,
     "ot": 3,
     "alias": 0,
-    "setcode": 132,
+    "setcode": 0,
     "type": 33,
     "atk": 800,
     "def": 1000,
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 61679541,
         "pack_id": "SHSP-JP007",
-        "pack": "SHSP",
+        "pack": "Shadow Specters",
         "rarity": "Battlin' Boxer Rabbit Puncher",
         "date": "2013-07-20"
     },
     "tcg": {
         "id": 61679541,
-        "pack_id": "SHSP-EN007",
-        "pack": "SHSP",
+        "pack_id": "SHSP-DE007",
+        "pack": "Shadow Specters",
         "rarity": "Battlin' Boxer Rabbit Puncher",
-        "date": "2013-11-08"
+        "date": "2013-11-07"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/55/BattlinBoxerRabbitPuncher-MP14-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/55/BattlinBoxerRabbitPuncher-MP14-EN-C-1E.png/revision/latest?cb=20140907210350"
 }

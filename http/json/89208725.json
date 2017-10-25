@@ -1,10 +1,14 @@
 {
     "ocg": {
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "pack_id": "CIBR-JP076",
         "date": "2017-07-08"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE076",
+        "date": "2017-10-19"
+    },
     "id": 89208725,
     "setcode": 0,
     "type": 4,
@@ -15,5 +19,5 @@
     "attribute": 0,
     "name": "Metaverse",
     "desc": "Take 1 Field Spell from your Deck, and either activate it or add it to your hand.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/06/Metaverse-CIBR-JP-R.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4e/Metaverse-CIBR-EN-R-1E.png/revision/latest?cb=20171020173105"
 }

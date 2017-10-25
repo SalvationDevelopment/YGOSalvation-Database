@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002014,
         "pack_id": "CIBR-JP014",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Altergeist Meluseek",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ed/AltergeistMeluseek-CIBR-JP-R.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE014",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/90/AltergeistMeluseek-CIBR-EN-UR-1E.png/revision/latest?cb=20171020171637"
 }

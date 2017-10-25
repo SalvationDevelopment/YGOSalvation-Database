@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 17039362,
     "name": "Armored Cybern",
-    "desc": "Once per turn, you can either: Target 1 \"Cyber Dragon\" you control, or 1 Fusion Monster you control that lists \"Cyber Dragon\" as a Fusion Material Monster; equip this card to that target, OR: Unequip this card and Special Summon it in face-up Attack Position. Once per turn, while equipped to a monster by this effect: You can target 1 face-up monster on the field; the equipped monster loses exactly 1000 ATK, and if it does, destroy that target. (A monster can only be equipped with 1 Union monster at a time. If the equipped monster would be destroyed, destroy this card instead.)",
+    "desc": "Once per turn, you can either: Target 1 \"Cyber Dragon\" you control, or 1 Fusion Monster you control that lists \"Cyber Dragon\" as Fusion Material; equip this card to that target, OR: Unequip this card and Special Summon it. Once per turn, while equipped to a monster by this effect: You can target 1 face-up monster on the field; the equipped monster loses exactly 1000 ATK (even if this card leaves the field), and if it does, destroy that target. If the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
     "str1": "モンスターに装備する",
     "str2": "装備を解除する",
     "str3": "モンスターを破壊する",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 67159705,
         "pack_id": "PTDN-JP009",
-        "pack": "PTDN",
+        "pack": "Phantom Darkness",
         "rarity": "Armored Cybern",
         "date": "2007-11-23"
     },
     "tcg": {
         "id": 67159705,
-        "pack_id": "PTDN-EN009",
-        "pack": "PTDN",
+        "pack_id": "PTDN-DE009",
+        "pack": "Phantom Darkness",
         "rarity": "Armored Cybern",
         "date": "2008-01-26"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/93/ArmoredCybern-SDCR-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/96/ArmoredCybern-LEDD-EN-C-1E.png/revision/latest?cb=20171005215209"
 }

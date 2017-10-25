@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Twin Triangle Dragon",
-    "desc": "Link Arrows: [🡳] [🡲]\n\n2 Level 4 or lower Dragon monsters, except Tokens\nWhen this card is Link Summoned: You can pay 500 LP, then target 1 Level 5 or higher monster in your GY; Special Summon it to your zone this card points to, but it has its effects negated, also it cannot attack this turn.",
+    "desc": "Link Arrows: [🡳][🡲]\n\n2 Level 4 or lower Dragon monsters, except Tokens\nWhen this card is Link Summoned: You can pay 500 LP, then target 1 Level 5 or higher monster in your GY; Special Summon it to your zone this card points to, but it cannot attack this turn, also it has its effects negated.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -36,10 +36,14 @@
     "ocg": {
         "id": 101002046,
         "pack_id": "CIBR-JP046",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Twin Triangle Dragon",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f8/TwinTriangleDragon-CIBR-JP-SR.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE046",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/84/TwinTriangleDragon-CIBR-EN-R-1E.png/revision/latest?cb=20171020172409"
 }

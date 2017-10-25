@@ -1,10 +1,14 @@
 {
     "ocg": {
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "pack_id": "CIBR-JP064",
         "date": "2017-07-08"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE064",
+        "date": "2017-10-19"
+    },
     "id": 92481084,
     "setcode": 0,
     "type": 524290,
@@ -13,7 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "name": "Altar of the Mind's Eye",
+    "name": "Temple of the Mind's Eye",
     "desc": "Any battle damage a player takes becomes 1000.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/db/AltaroftheMindsEye-CIBR-JP-C.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5e/TempleoftheMindsEye-CIBR-EN-C-1E.png/revision/latest?cb=20171020172817"
 }

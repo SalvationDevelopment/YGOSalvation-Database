@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 0,
     "name": "Mecha Phantom Beast Raiten",
-    "desc": "You can discard 1 card; Special Summon 1 \"Mecha Phantom Beast Token\" (Machine/WIND/Level 3/ATK 0/DEF 0), also you cannot use monsters as materials for a Fusion, Synchro, Xyz, or Link Summon for the rest of this turn, except \"Mecha Phantom Beast\" monsters. This card's Level is increased by the total Levels of all \"Mecha Phantom Beast Tokens\" you control. While you control a Token, this card cannot be destroyed by battle or card effects.",
+    "desc": "You can discard 1 card; Special Summon 1 \"Mecha Phantom Beast Token\" (Machine/WIND/Level 3/ATK 0/DEF 0), also you can only use \"Mecha Phantom Beast\" monsters as Fusion, Synchro, Xyz, or Link Material for a Summon, for the rest of this turn. This card's Level is increased by the total Levels of all \"Mecha Phantom Beast Tokens\" you control. While you control a Token, this card cannot be destroyed by battle or card effects.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002030,
         "pack_id": "CIBR-JP030",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Mecha Phantom Beast Raiten",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c2/MechaPhantomBeastRaiten-CIBR-JP-R.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE030",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a8/MechaPhantomBeastRaiten-CIBR-EN-C-1E.png/revision/latest?cb=20171020172036"
 }

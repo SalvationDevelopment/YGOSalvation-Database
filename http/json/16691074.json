@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 0,
     "name": "Odd-Eyes Absolute Dragon",
-    "desc": "2 Level 7 monsters\nWhen any player's monster declares an attack: You can detach 1 Xyz Material from this card; negate the attack, then you can Special Summon 1 \"Odd-Eyes\" monster from your hand or Graveyard. If this Xyz Summoned card is sent to the Graveyard: You can Special Summon 1 \"Odd-Eyes\" monster from your Extra Deck, except \"Odd-Eyes Absolute Dragon\". You can only use each effect of \"Odd-Eyes Absolute Dragon\" once per turn.",
+    "desc": "2 Level 7 monsters\nWhen any player's monster declares an attack: You can detach 1 material from this card; negate the attack, then you can Special Summon 1 \"Odd-Eyes\" monster from your hand or GY. If this Xyz Summoned card is sent to the GY: You can Special Summon 1 \"Odd-Eyes\" monster from your Extra Deck, except \"Odd-Eyes Absolute Dragon\". You can only use each effect of \"Odd-Eyes Absolute Dragon\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 16691074,
         "pack_id": "SD29-JP042",
-        "pack": "SD29",
+        "pack": "Structure Deck: Master of Pendulum‎",
         "rarity": "Odd-Eyes Absolute Dragon",
         "date": "2015-06-20"
     },
     "tcg": {
         "id": 16691074,
-        "pack_id": "SDMP-EN042",
-        "pack": "SDMP",
+        "pack_id": "SDMP-DE042",
+        "pack": "Master of Pendulum Structure Deck",
         "rarity": "Odd-Eyes Absolute Dragon",
         "date": "2015-12-03"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ac/OddEyesAbsoluteDragon-PEVO-EN-SR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/OddEyesAbsoluteDragon-LEDD-EN-C-1E.png/revision/latest?cb=20171005220759"
 }

@@ -10,7 +10,7 @@
     "race": 0,
     "attribute": 0,
     "category": 4194304,
-    "name": "Xyz Xtreme !!",
+    "name": "Xyz Xtreme !!",
     "desc": "When an Xyz Monster you control is destroyed by battle: Pay 1000 Life Points; you reveal 1 Xyz Monster from the Extra Deck with a Rank less than or equal to that destroyed monster's, and so can your opponent (simultaneously). The player who revealed the monster with lower ATK takes damage equal to the difference between the revealed monsters' ATK's. If the opponent doesn't reveal a monster, inflict damage to your opponent equal to the ATK of your revealed monster.",
     "str1": "相手に見せるカードを選んでください",
     "str2": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 57319935,
         "pack_id": "ABYR-JP070",
-        "pack": "ABYR",
+        "pack": "Abyss Rising",
         "rarity": "Xyz Xtreme !!",
         "date": "2012-07-21"
     },
     "tcg": {
         "id": 57319935,
-        "pack_id": "ABYR-EN070",
-        "pack": "ABYR",
+        "pack_id": "ABYR-DE070",
+        "pack": "Abyss Rising",
         "rarity": "Xyz Xtreme !!",
-        "date": "2012-11-09"
+        "date": "2012-11-08"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6a/XyzXtreme-ABYR-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6a/XyzXtreme-ABYR-EN-C-1E.png/revision/latest?cb=20140701173200"
 }

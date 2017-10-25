@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Dark Magic Inheritance",
-    "desc": "Banish 2 Spell Cards from your Graveyard; add 1 Spell/Trap Card from your Deck to your hand, that specifically lists the card \"Dark Magician\" or \"Dark Magician Girl\" in its text, except \"Dark Magic Inheritance\". You can only activate 1 \"Dark Magic Inheritance\" per turn.",
+    "desc": "Banish 2 Spells from your GY; add 1 Spell/Trap from your Deck to your hand, that specifically lists the card \"Dark Magician\" or \"Dark Magician Girl\" in its text, except \"Dark Magic Inheritance\". You can only activate 1 \"Dark Magic Inheritance\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 41735184,
         "pack_id": "SDMY-JP022",
-        "pack": "SDMY",
+        "pack": "Structure Deck: Yugi Muto",
         "rarity": "Dark Magic Inheritance",
         "date": "2016-06-18"
     },
     "tcg": {
         "id": 41735184,
-        "pack_id": "SDMY-EN025",
-        "pack": "SDMY",
+        "pack_id": "SDMY-DE025",
+        "pack": "Structure Deck: Yugi Muto",
         "rarity": "Dark Magic Inheritance",
         "date": "2016-10-20"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b5/DarkMagicInheritance-SDMY-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/ba/DarkMagicInheritance-LEDD-EN-C-1E.png/revision/latest?cb=20171005213628"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Machina Armored Unit",
-    "desc": "Once per turn, when a Machine-Type monster is destroyed by battle and sent to your Graveyard: You can Special Summon 1 Machine-Type monster from your Deck that has the same Attribute and less ATK than that destroyed monster in the Graveyard.",
+    "desc": "Once per turn, when a Machine monster is destroyed by battle and sent to your GY: You can Special Summon 1 Machine monster from your Deck that has the same Attribute and less ATK than that destroyed monster in the GY.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 31828916,
         "pack_id": "SD18-JP020",
-        "pack": "SD18",
+        "pack": "Structure Deck: Machiners Command",
         "rarity": "Machina Armored Unit",
         "date": "2009-12-12"
     },
     "tcg": {
         "id": 31828916,
-        "pack_id": "SDMM-EN021",
-        "pack": "SDMM",
+        "pack_id": "SDMM-DE021",
+        "pack": "Machina Mayhem Structure Deck",
         "rarity": "Machina Armored Unit",
-        "date": "2010-02-19"
+        "date": "2010-02-18"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/20/MachinaArmoredUnit-SDCR-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cd/MachinaArmoredUnit-LEDD-EN-C-1E.png/revision/latest?cb=20171005215436"
 }

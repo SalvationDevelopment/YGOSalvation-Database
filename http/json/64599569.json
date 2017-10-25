@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 40968,
     "name": "Chimeratech Overdragon",
-    "desc": "\"Cyber Dragon\" + 1 or more Machine-Type monsters\nMust be Fusion Summoned and cannot be Special Summoned by other ways. When this card is Fusion Summoned: Send all other cards you control to the Graveyard. The original ATK and DEF of this card each become equal to the number of Fusion Material Monsters used for its Fusion Summon x 800. Each turn, this card can attack your opponent's monsters a number of times equal to the number of Fusion Material Monsters used for its Fusion Summon.",
+    "desc": "\"Cyber Dragon\" + 1+ Machine monsters\nMust be Fusion Summoned. If this card is Fusion Summoned: Send all other cards you control to the GY. The original ATK/DEF of this card each become equal to the number of Fusion Materials used for its Fusion Summon x 800. Each turn, this card can attack your opponent's monsters a number of times equal to the number of Fusion Materials used for its Fusion Summon.",
     "str1": "这张卡以外的卡送去墓地",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 64599569,
         "pack_id": "POTD-JP034",
-        "pack": "POTD",
+        "pack": "Power of the Duelist",
         "rarity": "Chimeratech Overdragon",
         "date": "2006-05-18"
     },
     "tcg": {
         "id": 64599569,
-        "pack_id": "POTD-EN034",
-        "pack": "POTD",
+        "pack_id": "POTD-DE034",
+        "pack": "Power of the Duelist",
         "rarity": "Chimeratech Overdragon",
         "date": "2006-08-16"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/76/ChimeratechOverdragon-PGLD-EN-GUR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c3/ChimeratechOverdragon-LEDD-EN-C-1E.png/revision/latest?cb=20171005215634"
 }

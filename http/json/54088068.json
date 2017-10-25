@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002006,
         "pack_id": "CIBR-JP006",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Gouki Headbutt Bat",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f8/GoukiHeadbatt-CIBR-JP-C.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE006",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/GoukiHeadbatt-CIBR-EN-C-1E.png/revision/latest?cb=20171020171438"
 }

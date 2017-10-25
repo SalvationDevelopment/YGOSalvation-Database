@@ -1,10 +1,14 @@
 {
     "ocg": {
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "pack_id": "CIBR-JP063",
         "date": "2017-07-08"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE063",
+        "date": "2017-10-19"
+    },
     "id": 65993085,
     "setcode": 0,
     "type": 262146,
@@ -13,7 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "name": "Excessive Burial",
-    "desc": "Activate this card by discarding 1 monster, then target 1 monster in your GY whose original Level is less than the discarded monster's; Special Summon it, and if you do, equip this card to it. Negate the effects of the equipped monster. You can only activate 1 \"Excessive Burial\" per turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/74/ExcessiveBurial-CIBR-JP-SR.png/revision/latest?"
+    "name": "Overdone Burial",
+    "desc": "Activate this card by discarding 1 monster, then target 1 monster in your GY whose Level is lower than the discarded monster's original Level; Special Summon it and equip it with this card. The equipped monster has its effects negated. You can only activate 1 \"Overdone Burial\" per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/99/OverdoneBurial-CIBR-EN-ScR-1E.png/revision/latest?cb=20171020172743"
 }

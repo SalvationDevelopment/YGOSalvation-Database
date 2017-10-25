@@ -10,8 +10,8 @@
     "race": 512,
     "attribute": 8,
     "category": 0,
-    "name": "Lyrilusc - Recite Starling",
-    "desc": "2+ Level 1 monsters\nIf this card is Xyz Summoned: You can target 1 face-up monster on the field; it gains 300 ATK and DEF for each material currently attached to this card. Once per turn: You can detach 1 material from this card; add 1 Level 1 Winged Beast monster from your Deck to your hand. Any battle damage you take from attacks involving this Xyz Summoned card is also inflicted to your opponent.",
+    "name": "Lyrilusc - Recital Starling",
+    "desc": "2+ Level 1 monsters\nIf this card is Xyz Summoned: You can target 1 face-up monster on the field; it gains 300 ATK/DEF for each material attached to this card. Once per turn: You can detach 1 material from this card; add 1 Level 1 Winged Beast monster from your Deck to your hand. All battle damage you take from battles involving this Xyz Summoned card is also inflicted to your opponent.",
     "str1": "Gain 300 ATK/DEF",
     "str2": "Search Level 1 Winged Beast-Type monster",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 8491961,
         "pack_id": "DBLE-JP015",
-        "pack": "DBLE",
+        "pack": "Dimension Box Limited Edition",
         "rarity": "Lyrilusc - Recite Starling",
         "date": "2016-11-26"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/76/LyriluscReciteStarling-DBLE-JP-UPR.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE092",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b8/LyriluscRecitalStarling-CIBR-EN-C-1E.png/revision/latest?cb=20171020170955"
 }

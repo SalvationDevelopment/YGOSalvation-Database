@@ -10,8 +10,8 @@
     "race": 256,
     "attribute": 1,
     "category": 0,
-    "name": "Ama-no-Iwato",
-    "desc": "Cannot be Special Summoned. Monsters cannot activate their effects, except Spirit monsters. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.",
+    "name": "Amano-Iwato",
+    "desc": "Cannot be Special Summoned. Monsters cannot activate their effects, except Spirit monsters. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002036,
         "pack_id": "CIBR-JP036",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Ama-no-Iwato",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/17/AmanoIwato-CIBR-JP-C.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE036",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/45/AmanoIwato-CIBR-EN-C-1E.png/revision/latest?cb=20171020172209"
 }

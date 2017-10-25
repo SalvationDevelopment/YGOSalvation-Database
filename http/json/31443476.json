@@ -1,10 +1,14 @@
 {
     "ocg": {
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "pack_id": "CIBR-JP056",
         "date": "2017-07-08"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-EN056",
+        "date": "2017-10-19"
+    },
     "id": 31443476,
     "setcode": 0,
     "type": 65538,
@@ -13,7 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "name": "Quick Revolve",
-    "desc": "Special Summon 1 \"rokket\" monster from your Deck, but it cannot attack, also it is destroyed during the End Phase.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/47/QuickRevolve-CIBR-JP-SR.png/revision/latest?"
+    "name": "Quick Launch",
+    "desc": "Special Summon 1 \"Rokket\" monster from your Deck, but it cannot attack, also destroy it during the End Phase.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2a/QuickLaunch-CIBR-EN-ScR-1E.png/revision/latest?cb=20171020172638"
 }

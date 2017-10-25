@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 65539,
     "name": "Evolution Burst",
-    "desc": "If you control a \"Cyber Dragon\": Target 1 card your opponent controls; destroy that target. \"Cyber Dragons\" cannot attack the turn you activate this card.",
+    "desc": "If you control \"Cyber Dragon\": Target 1 card your opponent controls; destroy that target. \"Cyber Dragon\" cannot attack the turn you activate this card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 52875873,
         "pack_id": "DT01-JP045",
-        "pack": "DT01",
+        "pack": "Duel Terminal - Synchro Awakening!!",
         "rarity": "Evolution Burst",
         "date": "2008-04-12"
     },
     "tcg": {
         "id": 52875873,
-        "pack_id": "HA01-EN030",
-        "pack": "HA01",
+        "pack_id": "HA01-DE030",
+        "pack": "Hidden Arsenal",
         "rarity": "Evolution Burst",
         "date": "2009-11-05"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c2/EvolutionBurst-SDCR-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/01/EvolutionBurst-LEDD-EN-C-1E.png/revision/latest?cb=20171005215300"
 }

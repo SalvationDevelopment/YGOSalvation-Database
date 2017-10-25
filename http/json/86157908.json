@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Performapal Odd-Eyes Unicorn",
-    "desc": "Pendulum Effect\nOnce, while this card is in your Pendulum Zone, when an \"Odd-Eyes\" monster you control declares an attack: You can target 1 other \"Performapal\" monster you control; that attacking monster gains ATK equal to the original ATK of the targeted monster on the field, until the end of the Battle Phase (even if this card leaves the field).\n\nMonster Effect\nWhen this card is Normal or Special Summoned: You can target 1 \"Performapal\" monster in your Graveyard; gain LP equal to its ATK.",
+    "desc": "Pendulum Effect\nOnce, while this card is in your Pendulum Zone, when your \"Odd-Eyes\" monster declares an attack: You can target 1 other \"Performapal\" monster you control; that attacking monster gains ATK equal to the original ATK of the targeted monster on the field, until the end of the Battle Phase (even if this card leaves the field).\n\nMonster Effect\nWhen this card is Normal or Special Summoned: You can target 1 \"Performapal\" monster in your GY; gain LP equal to its ATK.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 86157908,
         "pack_id": "SHVI-JP004",
-        "pack": "SHVI",
+        "pack": "Shining Victories",
         "rarity": "Performapal Odd-Eyes Unicorn",
         "date": "2016-01-09"
     },
     "tcg": {
         "id": 86157908,
-        "pack_id": "SHVI-EN004",
-        "pack": "SHVI",
+        "pack_id": "SHVI-DE004",
+        "pack": "Shining Victories",
         "rarity": "Performapal Odd-Eyes Unicorn",
         "date": "2016-05-05"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/PerformapalOddEyesUnicorn-SP17-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e6/PerformapalOddEyesUnicorn-LEDD-EN-C-1E.png/revision/latest?cb=20171005220051"
 }

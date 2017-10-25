@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 0,
     "name": "Odd-Eyes Vortex Dragon",
-    "desc": "1 \"Odd-Eyes\" monster + 1 Pendulum Monster\nWhen this card is Special Summoned: You can target 1 face-up Attack Position monster your opponent controls; return it to the hand. During either player's turn, when a Spell/Trap Card or another monster's effect is activated: You can shuffle 1 face-up Pendulum Monster from your Extra Deck into the Deck, negate the activation, and if you do, destroy that card. You can only use each effect of \"Odd-Eyes Vortex Dragon\" once per turn.",
+    "desc": "1 \"Odd-Eyes\" monster + 1 Pendulum Monster\nWhen this card is Special Summoned: You can target 1 opponent's face-up Attack Position monster; return it to the hand. When a Spell/Trap Card or another monster's effect is activated (Quick Effect): You can shuffle 1 face-up Pendulum Monster from your Extra Deck into the Deck, negate the activation, and if you do, destroy that card. You can only use each effect of \"Odd-Eyes Vortex Dragon\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 53262004,
         "pack_id": "DOCS-JP045",
-        "pack": "DOCS",
+        "pack": "Dimension of Chaos",
         "rarity": "Odd-Eyes Vortex Dragon",
         "date": "2015-07-18"
     },
     "tcg": {
         "id": 53262004,
-        "pack_id": "DOCS-EN045",
-        "pack": "DOCS",
+        "pack_id": "DOCS-DE045",
+        "pack": "Dimension of Chaos",
         "rarity": "Odd-Eyes Vortex Dragon",
         "date": "2015-11-05"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/39/OddEyesVortexDragon-PEVO-EN-SR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ed/OddEyesVortexDragon-LEDD-EN-C-1E.png/revision/latest?cb=20171005220637"
 }

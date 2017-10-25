@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Dragon Lord Token",
-    "desc": "This card can be used as a \"Dragon Lord Token\".\n\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+    "desc": "Special Summoned with the effect of \"Ruins of the Divine Dragon Lords\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 69868556,
         "pack_id": "SR02-JPTKN",
-        "pack": "SR02",
+        "pack": "Structure Deck R: Revival of the Great Divine Dragon",
         "rarity": "",
         "date": "2016-02-06"
     },
     "tcg": {
         "id": 69868556,
-        "pack_id": "SR02-ENTKN",
-        "pack": "SR02",
+        "pack_id": "SR02-DETKN",
+        "pack": "Rise of the True Dragons Structure Deck",
         "rarity": "",
         "date": "2016-07-07"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/86/DragonLordToken-SR02-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/86/DragonLordToken-SR02-EN-C-1E.png/revision/latest?cb=20160706183806"
 }

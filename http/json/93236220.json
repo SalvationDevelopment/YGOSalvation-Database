@@ -1,10 +1,14 @@
 {
     "ocg": {
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "pack_id": "CIBR-JP058",
         "date": "2017-07-08"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE058",
+        "date": "2017-10-19"
+    },
     "id": 93236220,
     "setcode": 254,
     "type": 65538,
@@ -13,7 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "name": "Battle for the World Legacy",
-    "desc": "Banish 1 face-up monster you control (until the End Phase), then target 1 face-up monster your opponent controls; that target loses ATK and DEF equal to the banished monster's original ATK and DEF.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6a/BattlefortheWorldLegacy-CIBR-JP-C.png/revision/latest?"
+    "name": "World Legacy Clash",
+    "desc": "Banish 1 face-up monster you control (until the End Phase), then target 1 face-up monster your opponent controls; that target loses ATK/DEF equal to the original ATK/DEF of that banished monster.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8e/WorldLegacyClash-CIBR-EN-C-1E.png/revision/latest?cb=20171020172647"
 }

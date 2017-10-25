@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 16777216,
     "name": "The Fabled Kudabbi",
-    "desc": "1 \"Fabled\" Tuner + 1 or more non-Tuner monsters \nThis card gains the following effect based on the number of cards in your hand:\n ● 0: This card cannot be destroyed by battle or card effects.\n ● 3 or more: Destroy this card during the End Phase.",
+    "desc": "1 \"Fabled\" Tuner + 1 or more non-Tuner monsters \nThis card gains the following effect based on the number of cards in your hand:\n● 0: This card cannot be destroyed by battle or card effects.\n● 3 or more: Destroy this card during the End Phase.",
     "str1": "Self-destruct",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 89194103,
         "pack_id": "DT08-JP040",
-        "pack": "DT08",
+        "pack": "Duel Terminal - Pulse of the Trishula!!",
         "rarity": "The Fabled Kudabbi",
         "date": "2010-01-21"
     },
     "tcg": {
         "id": 89194103,
         "pack_id": "DT04-EN090",
-        "pack": "DT04",
+        "pack": "Duel Terminal 4",
         "rarity": "The Fabled Kudabbi",
         "date": "2011-01-25"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/12/TheFabledKudabbi-HA04-EN-ScR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/12/TheFabledKudabbi-HA04-EN-ScR-1E.png/revision/latest?cb=20120225064703"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Krystal Avatar",
-    "desc": "When an opponent's monster declares a direct attack, if its ATK is greater than or equal to your LP: Special Summon this card in Attack Position as an Effect Monster (Warrior-Type/LIGHT/Level 4/ATK ?/DEF 0) that has ATK equal to your LP, then change the attack target to this card. (This card is also still a Trap Card.) If this card Summoned this way is destroyed by battle, after damage calculation: Inflict damage to your opponent equal to its ATK.",
+    "desc": "When an opponent's monster declares a direct attack, if its ATK is greater than or equal to your LP: Special Summon this card in Attack Position as an Effect Monster (Warrior-Type/LIGHT/Level 4/ATK&#xA0;?/DEF 0) that has ATK equal to your LP, then change the attack target to this card. (This card is also still a Trap Card.) If this card Summoned this way is destroyed by battle, after damage calculation: Inflict damage to your opponent equal to its ATK.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 20960340,
         "pack_id": "MVP1-JP011",
-        "pack": "MVP1",
+        "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
         "rarity": "Krystal Avatar",
         "date": "2016-04-23"
     },
     "tcg": {
         "id": 20960340,
-        "pack_id": "MVP1-EN011",
-        "pack": "MVP1",
+        "pack_id": "MVP1-DE011",
+        "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
         "rarity": "Krystal Avatar",
         "date": "2016-07-21"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/61/KrystalAvatar-MVP1-EN-GUR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/61/KrystalAvatar-MVP1-EN-GUR-1E.png/revision/latest?cb=20170112233449"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 268697610,
     "name": "Future Fusion",
-    "desc": "During your 1st Standby Phase after this card's activation: Show 1 Fusion Monster in your Extra Deck and send the Fusion Materials listed on it from your Main Deck to the Graveyard. During your 2nd Standby Phase after this card's activation: Fusion Summon 1 Fusion Monster from your Extra Deck with the same name as the monster you showed, and target it with this card. When this card leaves the field, destroy that target. When that target is destroyed, destroy this card.",
+    "desc": "During your 1st Standby Phase after this card's activation: Show 1 Fusion Monster in your Extra Deck and send the Fusion Materials listed on it from your Main Deck to the GY. During your 2nd Standby Phase after this card's activation: Fusion Summon 1 Fusion Monster from your Extra Deck with the same name as the monster you showed, and target it with this card. When this card leaves the field, destroy that target. When that target is destroyed, destroy this card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 77565204,
         "pack_id": "POTD-JP044",
-        "pack": "POTD",
+        "pack": "Power of the Duelist",
         "rarity": "Future Fusion",
         "date": "2006-05-18"
     },
     "tcg": {
         "id": 77565204,
-        "pack_id": "POTD-EN044",
-        "pack": "POTD",
+        "pack_id": "POTD-DE044",
+        "pack": "Power of the Duelist",
         "rarity": "Future Fusion",
         "date": "2006-08-16"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/20/FutureFusion-DUSA-EN-UR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/FutureFusion-LEDD-EN-C-1E.png/revision/latest?cb=20171005215355"
 }

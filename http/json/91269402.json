@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Cyberse Beacon",
-    "desc": "If you took damage by battle or by an opponent's card effect this turn: Add 1 Level 4 or lower Cyberse monster from your Deck to your hand. You can only activate 1 \"Cyberse Beacon\" per turn.",
+    "desc": "If you took damage by battle or an opponent's card effect this turn: Add 1 Level 4 or lower Cyberse monster from your Deck to your hand. You can only activate 1 \"Cyberse Beacon\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,10 @@
     "ocg": {
         "id": 101002067,
         "pack_id": "CIBR-JP067",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Cyberse Beacon",
         "date": "2017-07-08"
     },
     "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7f/CyberseBeacon-CIBR-JP-R.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/10/CyberseBeacon-CIBR-EN-C-1E.png/revision/latest?cb=20171020172830"
 }

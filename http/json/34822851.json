@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 0,
     "name": "Infernoid Token",
-    "desc": "This card can be used as an \"Infernoid Token\".\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+    "desc": "Special Summoned with the effect of \"Void Expansion\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,10 @@
     "ocg": {
         "id": 34822851,
         "pack_id": "AT09-JP009",
-        "pack": "AT09",
+        "pack": "Advanced Tournament Pack 2015 Vol.1",
         "rarity": "",
         "date": "2015-01-01"
     },
     "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5d/InfernoidToken-AT09-JP-C.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5d/InfernoidToken-AT09-JP-C.png/revision/latest?cb=20150120130403"
 }

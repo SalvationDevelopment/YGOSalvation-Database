@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Amazoness Pet Liger",
-    "desc": "\"Amazoness Tiger\" + 1 \"Amazoness\" monster\nIf this card attacks, during damage calculation: You can make this card gain 500 ATK during that damage calculation only. If an \"Amazoness\" monster you control attacks an opponent's monster, after damage calculation: You can target 1 face-up monster your opponent controls; it loses 800 ATK. Monsters your opponent controls cannot attack \"Amazoness\" monsters, except this one.",
+    "desc": "\"Amazoness Tiger\" + 1 \"Amazoness\" monster\nOnce per battle, if this card attacks, during damage calculation: You can make this card gain 500 ATK during that damage calculation only. If your \"Amazoness\" monster attacked an opponent's monster, after damage calculation: You can target 1 face-up monster your opponent controls; it loses 800 ATK. Monsters your opponent controls cannot attack \"Amazoness\" monsters you control, except this one.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 68507541,
         "pack_id": "CP17-JP022",
-        "pack": "CP17",
+        "pack": "Collectors Pack 2017",
         "rarity": "Amazoness Pet Liger",
         "date": "2017-05-13"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f1/AmazonessPetLiger-CP17-JP-C.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE094",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c2/AmazonessPetLiger-CIBR-EN-C-1E.png/revision/latest?cb=20171020170943"
 }

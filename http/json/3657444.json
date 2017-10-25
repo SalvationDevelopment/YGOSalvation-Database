@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 1316,
     "name": "Cyber Valley",
-    "desc": "You can use 1 of these effects.\n● When this card is targeted for an attack by an opponent's monster: You can banish this card; draw 1 card, then end the Battle Phase.\n● You can target 1 face-up monster you control and this card; banish both that target and this card, then draw 2 cards.\n● You can target 1 card in your Graveyard; banish this card and 1 card from your hand, then place that target on top of the Deck.",
+    "desc": "You can use 1 of these effects.\n● When this card is targeted for an attack by an opponent's monster: You can banish this card; draw 1 card, then end the Battle Phase.\n● You can target 1 face-up monster you control and this card; banish both that target and this card, then draw 2 cards.\n● You can target 1 card in your GY; banish both this card and 1 card from your hand, then place that target on top of the Deck.",
     "str1": "Banish Cyber Valley; draw 1 card, then end the Battle Phase.",
     "str2": "Target 1 face-up monster you control and this card; banish both that target and this card, then draw 2 cards.",
     "str3": "Target 1 card in your Graveyard; banish this card and 1 card from your hand, then place that target on top of the Deck.",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 3657444,
         "pack_id": "PTDN-JP010",
-        "pack": "PTDN",
+        "pack": "Phantom Darkness",
         "rarity": "Cyber Valley",
         "date": "2007-11-23"
     },
     "tcg": {
         "id": 3657444,
-        "pack_id": "PTDN-EN010",
-        "pack": "PTDN",
+        "pack_id": "PTDN-DE010",
+        "pack": "Phantom Darkness",
         "rarity": "Cyber Valley",
         "date": "2008-01-26"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c4/CyberValley-SDCR-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/CyberValley-LEDD-EN-C-1E.png/revision/latest?cb=20171005215105"
 }

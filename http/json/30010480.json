@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Gouki Thunder Ogre",
-    "desc": "Link Arrows: [🡷] [🡱] [🡶]\n\n2+ \"Gouki\" monsters\nDuring the Main Phase, the turn player can Normal Summon 1 monster to their zone this card points to in addition to their Normal Summon/Set. (They can only gain this effect once per turn.) If a monster(s) this card points to is destroyed by battle or card effect: You can make this card gain 400 ATK.",
+    "desc": "Link Arrows: [🡷][🡱][🡶]\n\n2+ \"Gouki\" monsters\nIf a monster(s) this card points to is destroyed by battle or card effect: You can make this card gain 400 ATK. The turn player applies the following effect while this monster is on the field.\n● During their Main Phase, they can Normal Summon 1 monster from their hand to their zone this card points to, in addition to their Normal Summon/Set. (They can only gain this effect once per turn.)",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,10 +37,14 @@
     "ocg": {
         "id": 30010480,
         "pack_id": "CIBR-JP045",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Gouki Thunder Ogre",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/31/GoukiThunderOgre-CIBR-JP-UR.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE045",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/07/GoukiThunderOgre-CIBR-EN-UR-1E.png/revision/latest?cb=20171020172404"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Dark Summoning Beast",
-    "desc": "You can Tribute this card; Special Summon 1 \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\" from your hand or Deck, ignoring its Summoning conditions, also monsters you control cannot attack for the rest of this turn. You can only use this effect of \"Dark Summoning Beast\" once per turn. You can banish this card from your Graveyard; add 1 \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or “Raviel, Lord of Phantasms\" from your Deck to your hand.",
+    "desc": "You can Tribute this card; Special Summon 1 \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\" from your hand or Deck, ignoring its Summoning conditions, also monsters you control cannot attack for the rest of this turn. You can only use this effect of \"Dark Summoning Beast\" once per turn. You can banish this card from your Graveyard; add 1 \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or &#x201C;Raviel, Lord of Phantasms\" from your Deck to your hand.",
     "str1": "Tribute Dark Summoning Beast",
     "str2": "Banish Dark Summoning Beast",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 87917187,
         "pack_id": "20AP-JP007",
-        "pack": "20AP",
+        "pack": "20th Anniversary Pack 1st Wave",
         "rarity": "Dark Summoning Beast",
         "date": "2016-12-17"
     },
     "tcg": {
         "id": 87917187,
-        "pack_id": "DUSA-EN030",
-        "pack": "DUSA",
+        "pack_id": "DUSA-DE030",
+        "pack": "Duelist Saga",
         "rarity": "Dark Summoning Beast",
         "date": "2017-03-30"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/69/DarkSummoningBeast-DUSA-EN-UR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/69/DarkSummoningBeast-DUSA-EN-UR-1E.png/revision/latest?cb=20170330172352"
 }

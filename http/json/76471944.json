@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Superheavy Samurai Ninja Sarutobi",
-    "desc": "1 Machine-Type Tuner + 1 or more non-Tuner \"Superheavy Samurai\" monsters\nThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. Once per turn, during either player’s turn, if you have no Spell/Trap Cards in your Graveyard: You can target 1 Spell/Trap Card on the field; destroy it, and if you do, inflict 500 damage to your opponent.",
+    "desc": "1 Machine-Type Tuner + 1 or more non-Tuner \"Superheavy Samurai\" monsters\nThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. Once per turn, during either player's turn, if you have no Spell/Trap Cards in your Graveyard: You can target 1 Spell/Trap Card on the field; destroy it, and if you do, inflict 500 damage to your opponent.",
     "str1": "Destroy Spell/Trap Card",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 76471944,
         "pack_id": "INOV-JP042",
-        "pack": "INOV",
+        "pack": "Invasion: Vengeance",
         "rarity": "Superheavy Samurai Ninja Sarutobi",
         "date": "2016-07-09"
     },
     "tcg": {
         "id": 76471944,
-        "pack_id": "INOV-EN042",
-        "pack": "INOV",
+        "pack_id": "INOV-DE042",
+        "pack": "Invasion: Vengeance",
         "rarity": "Superheavy Samurai Ninja Sarutobi",
         "date": "2016-11-03"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/db/SuperheavySamuraiNinjaSarutobi-MP17-EN-R-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/db/SuperheavySamuraiNinjaSarutobi-MP17-EN-R-1E.png/revision/latest?cb=20170823083728"
 }

@@ -2,7 +2,7 @@
     "id": 76925842,
     "ot": 3,
     "alias": 0,
-    "setcode": 520,
+    "setcode": 266,
     "type": 33,
     "atk": 1900,
     "def": 1400,
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 76925842,
         "pack_id": "EXP1-JP025",
-        "pack": "EXP1",
+        "pack": "Extra Pack",
         "rarity": "Darknight Parshath",
         "date": "2008-09-13"
     },
     "tcg": {
         "id": 76925842,
-        "pack_id": "PTDN-EN082",
-        "pack": "PTDN",
+        "pack_id": "PTDN-DE082",
+        "pack": "Phantom Darkness",
         "rarity": "Darknight Parshath",
         "date": "2008-01-26"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/73/DarknightParshath-LCYW-EN-C-1E.jpg/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/73/DarknightParshath-LCYW-EN-C-1E.jpg/revision/latest?cb=20121011220454"
 }

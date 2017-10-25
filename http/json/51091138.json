@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 0,
-    "name": "Blasting Wire",
-    "desc": "Target 1 card in the same column as this Set card; destroy it.",
+    "name": "Fuse Line",
+    "desc": "While this card is Set: Target 1 card on the field in this card's column; destroy it.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002078,
         "pack_id": "CIBR-JP078",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Blasting Wire",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d8/BlastingWire-CIBR-JP-C.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE078",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e0/FuseLine-CIBR-EN-ScR-1E.png/revision/latest?cb=20171020173116"
 }

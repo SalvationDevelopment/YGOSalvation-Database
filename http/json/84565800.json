@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Legendary Knight Hermos",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Legend of Heart\", and cannot be Special Summoned by other ways. When this card is Special Summoned: You can target 1 face-up Spell/Trap Card on the field; banish that target. Once per turn, when this card is targeted for an attack: You can target 1 Effect Monster in your Graveyard; until the End Phase of your next turn, this card's name becomes that target's, and replace this effect with that target's original effects.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Legend of Heart\". When this card is Special Summoned: You can target 1 face-up Spell/Trap on the field; banish that target. Once per turn, when this card is targeted for an attack: You can target 1 Effect Monster in your GY; until the End Phase of your next turn, this card's name becomes that target's original name, and replace this effect with that target's original effects.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 84565800,
         "pack_id": "CPD1-JP008",
-        "pack": "CPD1",
+        "pack": "Collectors Pack: Duelist of Destiny Version",
         "rarity": "Legendary Knight Hermos",
         "date": "2015-05-16"
     },
     "tcg": {
         "id": 84565800,
-        "pack_id": "DRL2-EN008",
-        "pack": "DRL2",
+        "pack_id": "DRL2-DE008",
+        "pack": "Dragons of Legend 2",
         "rarity": "Legendary Knight Hermos",
         "date": "2015-07-16"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/77/LegendaryKnightHermos-DRL3-EN-UR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d5/LegendaryKnightHermos-LEDD-EN-C-1E.png/revision/latest?cb=20171005213311"
 }

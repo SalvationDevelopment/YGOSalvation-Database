@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Dragonoid Token",
-    "desc": "\n\tAnime\n\n",
+    "desc": "Special Summoned with the effect of \"Dragonoid Generator\"",
     "str1": " ",
     "str2": " ",
     "str3": " ",
@@ -30,7 +30,11 @@
     "str16": " ",
     "links": [],
     "cardpool": "OCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Tournament Pack 2017 Vol.4",
+        "pack_id": "17TP-JP416",
+        "date": "2017-10-01"
+    },
     "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/Back-EN.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8c/DragonoidToken-17TP-JP-C.png/revision/latest?cb=20171009164416"
 }

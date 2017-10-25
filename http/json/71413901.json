@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 67117057,
     "name": "Breaker the Magical Warrior",
-    "desc": "If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). This card gains 300 ATK for each Spell Counter on it. You can remove 1 Spell Counter from this card, then target 1 Spell/Trap Card on the field; destroy that target.",
+    "desc": "If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). Gains 300 ATK for each Spell Counter on it. You can remove 1 Spell Counter from this card, then target 1 Spell/Trap on the field; destroy that target.",
     "str1": "Place spell counter",
     "str2": "Gain attack",
     "str3": "Destroy 1 Spell or Trap Card",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 71413901,
         "pack_id": "303-017",
-        "pack": "303",
+        "pack": "Champion of Black Magic",
         "rarity": "Breaker the Magical Warrior",
         "date": "2002-09-19"
     },
     "tcg": {
         "id": 71413901,
         "pack_id": "MFC-071",
-        "pack": "MFC",
+        "pack": "Magician's Force",
         "rarity": "Breaker the Magical Warrior",
         "date": "2003-10-10"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/09/BreakertheMagicalWarrior-BP03-EN-R-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3c/BreakertheMagicalWarrior-LEDD-EN-C-1E.png/revision/latest?cb=20171005213307"
 }

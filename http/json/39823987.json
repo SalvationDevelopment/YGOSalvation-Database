@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 4456450,
     "name": "Sun Dragon Inti",
-    "desc": "\"Fire Ant Ascator\" + 1 or more non-Tuner monsters\n If this card is destroyed by battle and sent to the Graveyard: Destroy the monster that destroyed this card, and if you do, inflict damage to your opponent equal to half the ATK that monster had on the field. If this card on the field is destroyed, during the Standby Phase of the next turn: You can target 1 \"Moon Dragon Quilla\" in your Graveyard; Special Summon that target.",
+    "desc": "\"Fire Ant Ascator\" + 1 or more non-Tuner monsters\nIf this card is destroyed by battle and sent to the Graveyard: Destroy the monster that destroyed this card, and if you do, inflict damage to your opponent equal to half the ATK that monster had on the field. If this card on the field is destroyed, during the Standby Phase of the next turn: You can target 1 \"Moon Dragon Quilla\" in your Graveyard; Special Summon that target.",
     "str1": "Destroy",
     "str2": "Activate effect of \"Sun Dragon Inti\"?",
     "str3": "Special Summon",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 39823987,
         "pack_id": "ABPF-JP042",
-        "pack": "ABPF",
+        "pack": "Absolute Powerforce",
         "rarity": "Sun Dragon Inti",
         "date": "2009-11-14"
     },
     "tcg": {
         "id": 39823987,
-        "pack_id": "ABPF-EN042",
-        "pack": "ABPF",
+        "pack_id": "ABPF-DE042",
+        "pack": "Absolute Powerforce",
         "rarity": "Sun Dragon Inti",
-        "date": "2010-02-12"
+        "date": "2010-02-11"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bd/SunDragonInti-LC5D-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bd/SunDragonInti-LC5D-EN-C-1E.png/revision/latest?cb=20141028215452"
 }

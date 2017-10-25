@@ -1,10 +1,14 @@
 {
     "ocg": {
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "pack_id": "CIBR-JP041",
         "date": "2017-07-08"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE041",
+        "date": "2017-10-19"
+    },
     "id": 4848423,
     "setcode": 0,
     "type": 33,
@@ -13,7 +17,7 @@
     "level": 4,
     "race": 1,
     "attribute": 2,
-    "name": "Medic Muscler",
-    "desc": "Any battle damage this card would inflict to a player makes that player gain that much LP, instead.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/75/MedicMuscler-CIBR-JP-NR.png/revision/latest?"
+    "name": "Muscle Medic",
+    "desc": "If a player would take damage from a battle involving this card, they gain that much LP, instead.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9f/MuscleMedic-CIBR-EN-SP-1E.png/revision/latest?cb=20171020172317"
 }

@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Tyrant Burst Dragon",
-    "desc": "Must be Special Summoned with \"The Fang of Critias\", using \"Tyrant Wing\", and cannot be Special Summoned by other ways. This card can attack all monsters your opponent controls, once each. You can target 1 face-up monster you control; equip this monster to that target. It gains 400 ATK and DEF, also it can make 3 attacks during each Battle Phase.",
+    "desc": "Must be Special Summoned with \"The Fang of Critias\", using \"Tyrant Wing\". This card can attack all your opponent's monsters, once each. You can target 1 face-up monster you control; equip this monster to that target. It gains 400 ATK/DEF, also it can make 3 attacks during each Battle Phase.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 58293343,
         "pack_id": "CPD1-JP004",
-        "pack": "CPD1",
+        "pack": "Collectors Pack: Duelist of Destiny Version",
         "rarity": "Tyrant Burst Dragon",
         "date": "2015-05-16"
     },
     "tcg": {
         "id": 58293343,
-        "pack_id": "DRL2-EN004",
-        "pack": "DRL2",
+        "pack_id": "DRL2-DE004",
+        "pack": "Dragons of Legend 2",
         "rarity": "Tyrant Burst Dragon",
         "date": "2015-07-16"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/TyrantBurstDragon-DRL3-EN-UR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/76/TyrantBurstDragon-LEDD-EN-C-1E.png/revision/latest?cb=20171005214100"
 }

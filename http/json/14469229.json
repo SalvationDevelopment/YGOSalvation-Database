@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 0,
     "name": "Crystal Protector",
-    "desc": "Pendulum Effect\nEach turn, the first \"Crystal Beast\" card(s), \"Rainbow Dragon(s)\" and/or \"Rainbow Dark Dragon(s)\" you control that would be destroyed by a card effect, is not destroyed.\n\nMonster Effect\nDuring damage calculation, if your \"Crystal Beast\" monster battles an opponent's monster (Quick Effect): You can Tribute this card from your hand or field; your battling monster's ATK and DEF each become double its original ATK and DEF during that damage calculation only, but it is destroyed at the end of this Damage Step.",
+    "desc": "Pendulum Effect\nEach turn, the first \"Crystal Beast\" card(s), \"Ultimate Crystal God\" monster(s), \"Rainbow Dragon(s)\" and/or \"Rainbow Dark Dragon(s)\" you control that would be destroyed by a card effect, is not destroyed.\n\nMonster Effect\nDuring damage calculation, if your \"Crystal Beast\" monster battles an opponent's monster (Quick Effect): You can Tribute this card from your hand or field; your battling monster's ATK/DEF each become double its original ATK/DEF during that damage calculation only, but it is destroyed at the end of this Damage Step.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,10 @@
     "ocg": {
         "id": 14469229,
         "pack_id": "SECE-JP082",
-        "pack": "SECE",
+        "pack": "Secrets of Eternity",
         "rarity": "Crystal Protector",
         "date": "2014-11-15"
     },
     "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/CrystalProtector-SECE-JP-R.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/CrystalProtector-SECE-JP-R.png/revision/latest?cb=20141114105357"
 }

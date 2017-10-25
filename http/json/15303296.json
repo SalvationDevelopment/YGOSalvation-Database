@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 15303296,
-        "pack_id": "EX-51",
-        "pack": "EX",
+        "pack_id": "",
+        "pack": "Booster 1",
         "rarity": "Ryu-Kishin",
         "date": "1999-03-01"
     },
     "tcg": {
         "id": 15303296,
         "pack_id": "SDK-003",
-        "pack": "SDK",
+        "pack": "Starter Deck: Kaiba",
         "rarity": "Ryu-Kishin",
-        "date": 1017360000000
+        "date": "2002-03-29"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/65/RyuKishin-SDK-NA-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/65/RyuKishin-SDK-NA-C-1E.png/revision/latest?cb=20160517115819"
 }

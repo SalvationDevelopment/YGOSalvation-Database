@@ -10,8 +10,8 @@
     "race": 16777216,
     "attribute": 8,
     "category": 0,
-    "name": "Link In-Flyer",
-    "desc": "You can Special Summon this card (from your hand) to your zone a Link Monster on the field points to. You can only Special Summon \"Link In-Flyer\" once per turn this way.",
+    "name": "Link Infra-Flier",
+    "desc": "You can Special Summon this card (from your hand) to your zone a Link Monster points to. You can only Special Summon \"Link Infra-Flier\" once per turn this way.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002003,
         "pack_id": "CIBR-JP003",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Link In-Flyer",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5e/LinkInFlyer-CIBR-JP-R.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE003",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ad/LinkInfraFlier-CIBR-EN-C-1E.png/revision/latest?cb=20171020171353"
 }

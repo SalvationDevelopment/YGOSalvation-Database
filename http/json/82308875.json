@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 134488328,
     "name": "Number 7: Lucky Straight",
-    "desc": "3 Level 7 monsters\nYou can detach 1 Xyz Material from this card; roll a six-sided die twice and this card's ATK becomes the larger number rolled × 700 until your opponent's next End Phase, then if the total roll was exactly 7, apply 1 of these effects.\n● Send all other cards on the field to the Graveyard.\n● Special Summon 1 monster from your hand or from either Graveyard.\n● Draw 3 cards, then discard 2 cards.",
+    "desc": "3 Level 7 monsters\nYou can detach 1 Xyz Material from this card; roll a six-sided die twice and this card's ATK becomes the larger number rolled &#xD7; 700 until your opponent's next End Phase, then if the total roll was exactly 7, apply 1 of these effects.\n● Send all other cards on the field to the Graveyard.\n● Special Summon 1 monster from your hand or from either Graveyard.\n● Draw 3 cards, then discard 2 cards.",
     "str1": "Roll dice",
     "str2": "Send all other cards on the field to the Graveyard",
     "str3": "Special Summon 1 monster from your hand or either player's Graveyard",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 82308875,
         "pack_id": "VE06-JP005",
-        "pack": "VE06",
+        "pack": "V Jump Edition 6",
         "rarity": "Number 7: Lucky Straight",
         "date": "2011-10-21"
     },
     "tcg": {
         "id": 82308875,
         "pack_id": "GAOV-EN091",
-        "pack": "GAOV",
+        "pack": "Galactic Overlord",
         "rarity": "Number 7: Lucky Straight",
         "date": "2012-04-28"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9b/Number7LuckyStraight-SP14-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9b/Number7LuckyStraight-SP14-EN-C-1E.png/revision/latest?cb=20140224113149"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Performapal Gatlinghoul",
-    "desc": "1 \"Performapal\" monster + 1 Level 5 or higher DARK monster\nIf this card is Fusion Summoned: You can inflict 200 damage to your opponent for each card on the field, then, if this card was Fusion Summoned using a Pendulum Monster as Material, destroy 1 monster your opponent controls, and if you do, inflict damage to your opponent equal to that monster's original ATK. You can only use this effect of \"Performapal Gatlinghoul\" once per turn.",
+    "desc": "1 \"Performapal\" monster + 1 Level 5 or higher DARK monster\nIf this card is Fusion Summoned: You can inflict 200 damage to your opponent for each card on the field, then, if this card was Fusion Summoned using a Pendulum Monster as material, destroy 1 monster your opponent controls, and if you do, inflict damage to your opponent equal to that monster's original ATK. You can only use this effect of \"Performapal Gatlinghoul\" once per turn.",
     "str1": "Destroy Opponent Monster",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 49820233,
         "pack_id": "MACR-JP040",
-        "pack": "MACR",
+        "pack": "Maximum Crisis",
         "rarity": "Performapal Gatlinghoul",
         "date": "2017-01-14"
     },
     "tcg": {
         "id": 49820233,
-        "pack_id": "MACR-EN040",
-        "pack": "MACR",
+        "pack_id": "MACR-DE040",
+        "pack": "Maximum Crisis",
         "rarity": "Performapal Gatlinghoul",
         "date": "2017-05-04"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/41/PerformapalGatlinghoul-MACR-EN-UR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/48/PerformapalGatlinghoul-LEDD-EN-C-1E.png/revision/latest?cb=20171005220642"
 }

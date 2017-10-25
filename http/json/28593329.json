@@ -1,10 +1,14 @@
 {
     "ocg": {
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "pack_id": "CIBR-JP005",
         "date": "2017-07-08"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE005",
+        "date": "2017-10-19"
+    },
     "id": 28593329,
     "setcode": 0,
     "type": 33,
@@ -14,6 +18,6 @@
     "race": 4,
     "attribute": 32,
     "name": "Dark Angel",
-    "desc": "When your Fairy monster is targeted for an attack: You can Tribute that monster and send this card from your hand to the GY, then target 1 face-up monster you control; change the attack target to that monster you control, and if you do, it gains ATK equal to the original ATK of the Tributed Fairy monster until the end of this turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9e/DarkAngel-CIBR-JP-R.png/revision/latest?"
+    "desc": "When your Fairy monster is targeted for an attack: You can Tribute it and send this card from your hand to the GY, then target 1 face-up monster you control; change the attack target to your targeted monster, and if you do, it gains ATK equal to the original ATK of the Tributed monster, until the end of this turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e7/DarkAngel-CIBR-EN-C-1E.png/revision/latest?cb=20171020171434"
 }

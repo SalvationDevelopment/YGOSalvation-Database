@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Chimeratech Rampage Dragon",
-    "desc": "2 or more \"Cyber Dragon\" monsters\nA Fusion Summon of this card can only be done with the above Fusion Materials. When this card is Fusion Summoned: You can target Spell/Trap Cards on the field, up to the number of Fusion Materials used for its Fusion Summon; destroy them. Once per turn: You can send up to 2 LIGHT Machine-Type monsters from your Deck to the Graveyard, and if you do, for each monster sent to the Graveyard, this card gains 1 additional attack during each Battle Phase this turn.",
+    "desc": "2+ \"Cyber Dragon\" monsters\nA Fusion Summon of this card can only be done with the above Fusion Materials. When this card is Fusion Summoned: You can target Spells/Traps on the field, up to the number of Fusion Materials used for its Fusion Summon; destroy them. Once per turn: You can send up to 2 LIGHT Machine monsters from your Deck to the GY, and if you do, for each monster sent to the GY, this card gains 1 additional attack during each Battle Phase this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 84058253,
         "pack_id": "CROS-JP089",
-        "pack": "CROS",
+        "pack": "Crossed Souls",
         "rarity": "Chimeratech Rampage Dragon",
         "date": "2015-02-14"
     },
     "tcg": {
         "id": 84058253,
-        "pack_id": "BOSH-EN093",
-        "pack": "BOSH",
+        "pack_id": "BOSH-DE093",
+        "pack": "Breakers of Shadow",
         "rarity": "Chimeratech Rampage Dragon",
         "date": "2016-01-14"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a0/ChimeratechRampageDragon-BOSH-EN-SR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b2/ChimeratechRampageDragon-LEDD-EN-C-1E.png/revision/latest?cb=20171004074619"
 }

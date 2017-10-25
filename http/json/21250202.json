@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Odd-Eyes Persona Dragon",
-    "desc": "Pendulum Effect\nOnce per turn, during the End Phase, if your opponent activated a card or effect this turn that targeted exactly 1 \"Odd-Eyes\" Pendulum Monster you controlled (and no other cards) while this card was in your Pendulum Zone: Special Summon this card, and if you do, place 1 face-up \"Odd-Eyes\" Pendulum Monster from your Extra Deck in your Pendulum Zone, except \"Odd-Eyes Persona Dragon\".\n\nMonster Effect\nOnce per turn, during either player's turn: You can target 1 face-up monster on the field that was Special Summoned from the Extra Deck; it has its effects negated, until the end of this turn.",
+    "desc": "Pendulum Effect\nOnce per turn, during the End Phase, if your opponent activated a card or effect this turn that targeted 1 \"Odd-Eyes\" Pendulum Monster you controlled (and no other cards) while this card was in your Pendulum Zone: Special Summon this card, and if you do, place 1 face-up \"Odd-Eyes\" Pendulum Monster from your Extra Deck in your Pendulum Zone, except \"Odd-Eyes Persona Dragon\".\n\nMonster Effect\nOnce per turn (Quick Effect): You can target 1 face-up monster on the field that was Special Summoned from the Extra Deck; it has its effects negated, until the end of this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 21250202,
         "pack_id": "VJMP-JP114",
-        "pack": "VJMP",
+        "pack": "V Jump May 2016 promotional card",
         "rarity": "Odd-Eyes Persona Dragon",
         "date": "2016-03-19"
     },
     "tcg": {
         "id": 21250202,
         "pack_id": "JUMP-EN079",
-        "pack": "JUMP",
+        "pack": "Weekly Shonen Jump January 2017 membership",
         "rarity": "Odd-Eyes Persona Dragon",
-        "date": 1484524800000
+        "date": "2017-01-16"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/37/OddEyesPersonaDragon-JUMP-NA-UR-LE.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7e/OddEyesPersonaDragon-LEDD-EN-C-1E.png/revision/latest?cb=20171005215954"
 }

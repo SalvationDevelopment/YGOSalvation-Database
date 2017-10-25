@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Dark Renewal",
-    "desc": "When your opponent Normal or Special Summons a monster(s): Target 1 of those monsters and 1 Spellcaster-Type monster you control; send both monsters to the Graveyard, then you can Special Summon 1 DARK Spellcaster-Type monster from your Deck or Graveyard.",
+    "desc": "When your opponent Normal or Special Summons a monster(s): Target 1 of those monsters and 1 Spellcaster monster you control; send both monsters to the GY, then you can Special Summon 1 DARK Spellcaster monster from your Deck or GY.",
     "str1": "Activate Effect?",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 9287078,
         "pack_id": "15AY-JPB00",
-        "pack": "15AY",
+        "pack": "Memories of the Duel King: Battle City Arc",
         "rarity": "Dark Renewal",
         "date": "2014-07-05"
     },
     "tcg": {
         "id": 9287078,
-        "pack_id": "YGLD-ENB00",
-        "pack": "YGLD",
+        "pack_id": "YGLD-DEB00",
+        "pack": "Yugi's Legendary Decks",
         "rarity": "Dark Renewal",
         "date": "2015-11-12"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/DarkRenewal-YGLD-EN-ScR-LE.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/04/DarkRenewal-LEDD-EN-C-1E.png/revision/latest?cb=20171005213859"
 }

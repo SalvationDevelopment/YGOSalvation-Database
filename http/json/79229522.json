@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 8192,
     "name": "Chimeratech Fortress Dragon",
-    "desc": "\"Cyber Dragon\" + 1 or more Machine-Type monsters\nCannot be used as a Fusion Material. Must first be Special Summoned (from your Extra Deck) by sending the above cards from either field to the Graveyard. (You do not use \"Polymerization\".) The original ATK of this card becomes 1000 x the number of Fusion Materials used for its Special Summon.",
+    "desc": "\"Cyber Dragon\" + 1+ Machine monsters\nCannot be used as Fusion Material. Must first be Special Summoned (from your Extra Deck) by sending the above cards from either field to the GY. (You do not use \"Polymerization\".) The original ATK of this card becomes 1000 x the number of Fusion Materials used for its Special Summon.",
     "str1": "Please select a \"Cyber Dragon\"",
     "str2": "Please select 1 or more Machine-Type monsters",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 79229522,
         "pack_id": "VJMP-JP025",
-        "pack": "VJMP",
+        "pack": "V Jump October 2007 promotional card",
         "rarity": "Chimeratech Fortress Dragon",
         "date": "2007-08-21"
     },
     "tcg": {
         "id": 79229522,
-        "pack_id": "CT07-EN013",
-        "pack": "CT07",
+        "pack_id": "CT07-DE013",
+        "pack": "Collectible Tins 2010 Wave 1",
         "rarity": "Chimeratech Fortress Dragon",
-        "date": "2010-08-31"
+        "date": "2010-08-26"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/ff/ChimeratechFortressDragon-DUSA-EN-UR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7f/ChimeratechFortressDragon-LEDD-EN-C-1E.png/revision/latest?cb=20171005215641"
 }

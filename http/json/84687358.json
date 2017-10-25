@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Mirror Force Dragon",
-    "desc": "Must be Special Summoned with \"The Fang of Critias\", using \"Mirror Force\", and cannot be Special Summoned by other ways. When a monster(s) you control is targeted for an attack or by an opponent's card effect (except during the Damage Step): You can destroy all cards your opponent controls.",
+    "desc": "Must be Special Summoned with \"The Fang of Critias\", using \"Mirror Force\". When a monster(s) you control is targeted for an attack or by an opponent's card effect (except during the Damage Step): You can destroy all cards your opponent controls.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 84687358,
         "pack_id": "CPD1-JP005",
-        "pack": "CPD1",
+        "pack": "Collectors Pack: Duelist of Destiny Version",
         "rarity": "Mirror Force Dragon",
         "date": "2015-05-16"
     },
     "tcg": {
         "id": 84687358,
-        "pack_id": "DRL2-EN005",
-        "pack": "DRL2",
+        "pack_id": "DRL2-DE005",
+        "pack": "Dragons of Legend 2",
         "rarity": "Mirror Force Dragon",
         "date": "2015-07-16"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9c/MirrorForceDragon-DRL3-EN-UR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8d/MirrorForceDragon-LEDD-EN-C-1E.png/revision/latest?cb=20171005214104"
 }

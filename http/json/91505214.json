@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Trickstar Narkissus",
-    "desc": "If your opponent takes effect damage (except during the Damage Step): You can Special Summon this card from your hand. You can only use this effect of \"Trickstar Narkissus\" once per turn. Each time a monster in your opponent's hand or GY activates its effect, inflict 200 damage to your opponent immediately after it resolves.",
+    "desc": "If your opponent takes effect damage (except during the Damage Step): You can Special Summon this card from your hand. You can only use this effect of \"Trickstar Narkissus\" once per turn. Each time your opponent activates a monster effect in their hand or GY, inflict 200 damage to them immediately after it resolves.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002004,
         "pack_id": "CIBR-JP004",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Trickstar Narkiss",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/50/TrickstarNarkissus-CIBR-JP-C.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE004",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f8/TrickstarNarkissus-CIBR-EN-R-1E.png/revision/latest?cb=20171020171429"
 }

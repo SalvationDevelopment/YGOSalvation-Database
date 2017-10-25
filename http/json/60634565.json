@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 258,
     "name": "Reptilianne Hydra",
-    "desc": "1 \"Reptilianne\" Tuner + 1 or more non-Tuner monsters\n When this card is Synchro Summoned, destroy all face-up monsters with 0 ATK that your opponent controls, and draw 1 card for each monster destroyed.",
+    "desc": "1 \"Reptilianne\" Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned, destroy all face-up monsters with 0 ATK that your opponent controls, and draw 1 card for each monster destroyed.",
     "str1": "破坏和抽卡",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 60634565,
         "pack_id": "SOVR-JP042",
-        "pack": "SOVR",
+        "pack": "Stardust Overdrive",
         "rarity": "Reptilianne Hydra",
         "date": "2009-07-18"
     },
     "tcg": {
         "id": 60634565,
-        "pack_id": "SOVR-EN042",
-        "pack": "SOVR",
+        "pack_id": "SOVR-DE042",
+        "pack": "Stardust Overdrive",
         "rarity": "Reptilianne Hydra",
-        "date": "2009-11-17"
+        "date": "2009-11-12"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/35/ReptilianneHydra-SOVR-EN-SR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/35/ReptilianneHydra-SOVR-EN-SR-1E.png/revision/latest?cb=20100105141330"
 }

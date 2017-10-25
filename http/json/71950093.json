@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 71950093,
-        "pack_id": "Great Moth",
-        "pack": "",
+        "pack_id": "",
+        "pack": "Vol.6",
         "rarity": "共通",
         "date": "1999-11-18"
     },
     "tcg": {
         "id": 71950093,
-        "pack_id": "CP07-EN012",
-        "pack": "CP07",
+        "pack_id": "CP07-DE012",
+        "pack": "Champion Pack: Game Seven",
         "rarity": "Shovel Crusher",
         "date": "2008-09-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/36/ShovelCrusher-CP07-EN-C-UE.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/36/ShovelCrusher-CP07-EN-C-UE.png/revision/latest?cb=20081114035457"
 }

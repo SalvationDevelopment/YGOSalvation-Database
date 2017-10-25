@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Storming Mirror Force",
-    "desc": "When an opponent's monster declares an attack: Return all Attack Position monsters your opponent controls to the hand.",
+    "desc": "When an opponent's monster declares an attack: Return all your opponent's Attack Position monsters to the hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 5650082,
         "pack_id": "CORE-JP076",
-        "pack": "CORE",
+        "pack": "Clash of Rebellions",
         "rarity": "Storming Mirror Force",
         "date": "2015-04-25"
     },
     "tcg": {
         "id": 5650082,
-        "pack_id": "CORE-EN076",
-        "pack": "CORE",
+        "pack_id": "CORE-DE076",
+        "pack": "Clash of Rebellions",
         "rarity": "Storming Mirror Force",
         "date": "2015-08-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d8/StormingMirrorForce-PGL3-EN-GUR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/de/StormingMirrorForce-LEDD-EN-C-1E.png/revision/latest?cb=20171005215533"
 }

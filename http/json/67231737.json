@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Link Bumper",
-    "desc": "Link Arrows: [🡰] [🡱]\n\n2 Cyberse monsters\nOnce per turn, at the end of the Damage Step, if your monster this card points to attacked an opponent's Link Monster: You can activate this effect; for each Link Monster you currently control (other than this card), that monster gains 1 additional attack on opponent's Link Monsters during this Battle Phase. Monsters you control cannot attack the turn you activate this effect, except that monster.",
+    "desc": "Link Arrows: [🡰][🡱]\n\n2 Cyberse monsters\nOnce per turn, at the end of the Damage Step, if your monster this card points to attacked an opponent's Link Monster: You can activate this effect; the monster that attacked gains 1 additional attack on an opponent's Link Monster during this Battle Phase for each Link Monster you currently control, except this card. Your monsters (except that monster) cannot attack the turn you activate this effect.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -36,10 +36,14 @@
     "ocg": {
         "id": 101002043,
         "pack_id": "CIBR-JP043",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Link Bumper",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/LinkBumper-CIBR-JP-SR.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE043",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/LinkBumper-CIBR-EN-SR-1E.png/revision/latest?cb=20171020172326"
 }

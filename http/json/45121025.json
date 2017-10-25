@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 45121025,
-        "pack_id": "EX-66",
-        "pack": "EX",
+        "pack_id": "",
+        "pack": "Vol.4",
         "rarity": "Ogre of the Black Shadow",
         "date": "1999-07-22"
     },
     "tcg": {
         "id": 45121025,
         "pack_id": "SDK-019",
-        "pack": "SDK",
+        "pack": "Starter Deck: Kaiba",
         "rarity": "Ogre of the Black Shadow",
-        "date": 1017360000000
+        "date": "2002-03-29"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8e/OgreoftheBlackShadow-SDK-NA-C-UE.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8e/OgreoftheBlackShadow-SDK-NA-C-UE.png/revision/latest?cb=20090401061132"
 }

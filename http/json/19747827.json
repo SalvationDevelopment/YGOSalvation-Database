@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Red-Eyes Black Dragon Sword",
-    "desc": "Must be Special Summoned with \"The Claw of Hermos\", using a Dragon-Type monster, and cannot be Special Summoned by other ways. If this card is Special Summoned: Target 1 other face-up monster on the field; equip this card to it. It gains 1000 ATK, and 500 ATK and DEF for each Dragon-Type monster on the field and in the Graveyards.",
+    "desc": "Must be Special Summoned with \"The Claw of Hermos\", using a Dragon monster. If this card is Special Summoned: Target 1 other face-up monster on the field; equip this card to it. It gains 1000 ATK, and 500 ATK/DEF for each Dragon monster on the field and in the GYs.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 19747827,
         "pack_id": "CPD1-JP012",
-        "pack": "CPD1",
+        "pack": "Collectors Pack: Duelist of Destiny Version",
         "rarity": "Red-Eyes Black Dragon Sword",
         "date": "2015-05-16"
     },
     "tcg": {
         "id": 19747827,
-        "pack_id": "DRL2-EN012",
-        "pack": "DRL2",
+        "pack_id": "DRL2-DE012",
+        "pack": "Dragons of Legend 2",
         "rarity": "Red-Eyes Black Dragon Sword",
         "date": "2015-07-16"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f7/RedEyesBlackDragonSword-DRL3-EN-UR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/08/RedEyesBlackDragonSword-LEDD-EN-C-1E.png/revision/latest?cb=20171005214206"
 }

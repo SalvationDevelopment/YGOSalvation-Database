@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Pendulum Storm",
-    "desc": "Destroy as many cards in each player's Pendulum Zones as possible, then you can destroy 1 Spell/Trap Card your opponent controls.",
+    "desc": "Destroy as many cards in the Pendulum Zones as possible, then you can destroy 1 Spell/Trap your opponent controls.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 83461421,
         "pack_id": "BOSH-JP057",
-        "pack": "BOSH",
+        "pack": "Breakers of Shadow",
         "rarity": "Pendulum Storm",
         "date": "2015-10-17"
     },
     "tcg": {
         "id": 83461421,
-        "pack_id": "BOSH-EN057",
-        "pack": "BOSH",
+        "pack_id": "BOSH-DE057",
+        "pack": "Breakers of Shadow",
         "rarity": "Pendulum Storm",
         "date": "2016-01-14"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/29/PendulumStorm-PEVO-EN-SR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/22/PendulumStorm-LEDD-EN-C-1E.png/revision/latest?cb=20171005220434"
 }

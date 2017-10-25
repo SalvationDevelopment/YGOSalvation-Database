@@ -10,8 +10,8 @@
     "race": 8192,
     "attribute": 32,
     "category": 0,
-    "name": "Conjoined Bird Renrin",
-    "desc": "Once per turn, you can either: Target 1 monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card can make a second attack during each Battle Phase, its original ATK becomes 1000, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+    "name": "Leng Ling",
+    "desc": "Once per turn, you can either: Target 1 face-up monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. The original ATK of a monster equipped with this card becomes 1000, it can make a second attack during each Battle Phase, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002034,
         "pack_id": "CIBR-JP034",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Conjoined Bird Renrin",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2c/ConjoinedBirdRenrin-CIBR-JP-C.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE034",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d5/LengLing-CIBR-EN-C-1E.png/revision/latest?cb=20171020172124"
 }

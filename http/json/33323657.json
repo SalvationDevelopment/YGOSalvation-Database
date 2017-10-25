@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 9437184,
     "name": "Psychic Soul",
-    "desc": "Tribute 1 Psychic-Type monster you control. Gain Life Points equal to the Level of the Tributed monster × 300.",
+    "desc": "Tribute 1 Psychic-Type monster you control. Gain Life Points equal to the Level of the Tributed monster &#xD7; 300.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 33323657,
         "pack_id": "ANPR-JP077",
-        "pack": "ANPR",
+        "pack": "Ancient Prophecy",
         "rarity": "Psychic Soul",
         "date": "2009-04-18"
     },
     "tcg": {
         "id": 33323657,
-        "pack_id": "ANPR-EN077",
-        "pack": "ANPR",
+        "pack_id": "ANPR-DE077",
+        "pack": "Ancient Prophecy",
         "rarity": "Psychic Soul",
-        "date": "2009-09-01"
+        "date": "2009-08-27"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3a/PsychicSoul-ANPR-EN-C-1E.jpg/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3a/PsychicSoul-ANPR-EN-C-1E.jpg/revision/latest?cb=20090824235849"
 }

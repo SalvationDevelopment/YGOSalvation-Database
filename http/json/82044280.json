@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 0,
     "name": "Clear Wing Synchro Dragon",
-    "desc": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, during either player's turn, when another Level 5 or higher monster activates its effect on the field: You can negate the activation, and if you do, destroy it. Once per turn, during either player's turn, when a monster effect is activated that targets exactly 1 Level 5 or higher monster on the field (and no other cards): You can negate the activation, and if you do, destroy it. If this card's effect destroys a monster, this card gains ATK equal to the destroyed monster's original ATK until the end of this turn.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn, when another Level 5 or higher monster activates its effect on the field (Quick Effect): You can negate the activation, and if you do, destroy it. Once per turn, when a monster effect is activated that targets 1 Level 5 or higher monster on the field (and no other cards) (Quick Effect): You can negate the activation, and if you do, destroy it. If this card's effect destroys a monster, this card gains ATK equal to the destroyed monster's original ATK until the end of this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 82044280,
         "pack_id": "CROS-JP046",
-        "pack": "CROS",
+        "pack": "Crossed Souls",
         "rarity": "Clear Wing Synchro Dragon",
         "date": "2015-02-14"
     },
     "tcg": {
         "id": 82044280,
-        "pack_id": "CROS-EN046",
-        "pack": "CROS",
+        "pack_id": "CROS-DE046",
+        "pack": "Crossed Souls",
         "rarity": "Clear Wing Synchro Dragon",
         "date": "2015-05-14"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/02/ClearWingSynchroDragon-MP16-EN-ScR-UE.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/62/ClearWingSynchroDragon-LEDD-EN-UR-1E.png/revision/latest?cb=20171005220647"
 }

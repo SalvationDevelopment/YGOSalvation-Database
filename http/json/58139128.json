@@ -2,7 +2,7 @@
     "id": 58139128,
     "ot": 3,
     "alias": 0,
-    "setcode": 46,
+    "setcode": 0,
     "type": 33,
     "atk": 1500,
     "def": 1500,
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 58139128,
         "pack_id": "LVAL-JP033",
-        "pack": "LVAL",
+        "pack": "Legacy of the Valiant",
         "rarity": "Gravekeeper's Shaman",
         "date": "2013-11-16"
     },
     "tcg": {
         "id": 58139128,
-        "pack_id": "LVAL-EN033",
-        "pack": "LVAL",
+        "pack_id": "LVAL-DE033",
+        "pack": "Legacy of the Valiant",
         "rarity": "Gravekeeper's Shaman",
-        "date": "2014-01-24"
+        "date": "2014-01-23"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/GravekeepersShaman-MP14-EN-SR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/GravekeepersShaman-MP14-EN-SR-1E.png/revision/latest?cb=20140908004508"
 }

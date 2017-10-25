@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 4456448,
     "name": "Summon Reactor・SK",
-    "desc": "The first time a monster(s) is Summoned to your opponent's side of the field each turn, inflict 800 damage to your opponent. During the Battle Phase of the turn this effect is activated, you can negate the attack of 1 monster your opponent controls. You can send 1 face-up \"Trap Reactor・Y FI\", 1 face-up \"Spell Reactor・RE\" and this face-up card you control to the Graveyard to Special Summon 1 \"Flying Fortress SKY FIRE\" from your hand, Deck, or Graveyard.",
+    "desc": "The first time a monster(s) is Summoned to your opponent's side of the field each turn, inflict 800 damage to your opponent. During the Battle Phase of the turn this effect is activated, you can negate the attack of 1 monster your opponent controls. You can send 1 face-up \"Trap Reactor&#x30FB;Y FI\", 1 face-up \"Spell Reactor&#x30FB;RE\" and this face-up card you control to the Graveyard to Special Summon 1 \"Flying Fortress SKY FIRE\" from your hand, Deck, or Graveyard.",
     "str1": "Inflict damage",
     "str2": "Negate attack",
     "str3": "Special Summon",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 89493368,
         "pack_id": "CRMS-JP012",
-        "pack": "CRMS",
+        "pack": "Crimson Crisis",
         "rarity": "Summon Reactor・SK",
         "date": "2008-11-15"
     },
     "tcg": {
         "id": 89493368,
         "pack_id": "CRMS-EN012",
-        "pack": "CRMS",
+        "pack": "Crimson Crisis",
         "rarity": "Summon Reactor・SK",
         "date": "2009-02-28"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/23/SummonReactorSK-CRMS-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/23/SummonReactorSK-CRMS-EN-C-1E.png/revision/latest?cb=20090625022750"
 }

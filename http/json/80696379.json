@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 0,
     "name": "Odd-Eyes Meteorburst Dragon",
-    "desc": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card is Special Summoned: You can target 1 card in your Pendulum Zone; Special Summon it, also this card cannot attack for the rest of this turn. You can only use this effect of \"Odd-Eyes Meteorburst Dragon\" once per turn. Monsters in your opponent's possession cannot activate their effects during the Battle Phase.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nWhen this card is Special Summoned: You can target 1 card in your Pendulum Zone; Special Summon it, also this card cannot attack for the rest of this turn. You can only use this effect of \"Odd-Eyes Meteorburst Dragon\" once per turn. Monsters in your opponent's possession cannot activate their effects during the Battle Phase.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 80696379,
         "pack_id": "SD29-JP041",
-        "pack": "SD29",
+        "pack": "Structure Deck: Master of Pendulum‎",
         "rarity": "Odd-Eyes Meteorburst Dragon",
         "date": "2015-06-20"
     },
     "tcg": {
         "id": 80696379,
-        "pack_id": "SDMP-EN041",
-        "pack": "SDMP",
+        "pack_id": "SDMP-DE041",
+        "pack": "Master of Pendulum Structure Deck",
         "rarity": "Odd-Eyes Meteorburst Dragon",
         "date": "2015-12-03"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/38/OddEyesMeteorburstDragon-PEVO-EN-SR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/66/OddEyesMeteorburstDragon-LEDD-EN-C-1E.png/revision/latest?cb=20171005220743"
 }

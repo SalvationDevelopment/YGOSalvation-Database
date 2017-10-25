@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Wightprincess",
-    "desc": "This card’s name becomes \"Skull Servant\" while it is in the Graveyard. If this card is Normal or Special Summoned: You can send 1 \"Wightprince\" from your Deck to the Graveyard. During either player's turn: You can send this card from your hand or field to the Graveyard; all monsters currently on the field lose ATK and DEF equal to their own Level/Rank x 300, until the end of this turn.",
+    "desc": "This card's name becomes \"Skull Servant\" while it is in the Graveyard. If this card is Normal or Special Summoned: You can send 1 \"Wightprince\" from your Deck to the Graveyard. During either player's turn: You can send this card from your hand or field to the Graveyard; all monsters currently on the field lose ATK and DEF equal to their own Level/Rank x 300, until the end of this turn.",
     "str1": "Send \"Wightprince\" to the graveyard",
     "str2": "Lose ATK/DEF",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 90243945,
         "pack_id": "RATE-JP033",
-        "pack": "RATE",
+        "pack": "Raging Tempest",
         "rarity": "Wightprincess",
         "date": "2016-10-08"
     },
     "tcg": {
         "id": 90243945,
-        "pack_id": "RATE-EN033",
-        "pack": "RATE",
+        "pack_id": "RATE-DE033",
+        "pack": "Raging Tempest",
         "rarity": "Wightprincess",
         "date": "2017-02-09"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/99/Wightprincess-MP17-EN-C-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/99/Wightprincess-MP17-EN-C-1E.png/revision/latest?cb=20170823085051"
 }

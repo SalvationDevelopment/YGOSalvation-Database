@@ -10,7 +10,7 @@
     "race": 8192,
     "attribute": 1,
     "category": 0,
-    "name": "Soldier Dragon",
+    "name": "Soldier Dragons",
     "desc": "Once per turn, when your opponent activates a card or effect (Quick Effect): You can Special Summon 1 Level 2 or lower Dragon monster from your Deck.",
     "str1": "",
     "str2": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002032,
         "pack_id": "CIBR-JP032",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Soldier Dragon",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/19/SoldierDragon-CIBR-JP-C.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE032",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a8/SoldierDragons-CIBR-EN-C-1E.png/revision/latest?cb=20171020172120"
 }

@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 0,
-    "name": "World Legacy Puppet",
-    "desc": "You can target 1 face-down monster you control; change it to face-up Attack or Defense Position. You can shuffle 1 \"Crawler\" monster from your GY into the Deck, except \"Acid Crawler\", then target 1 face-up monster you control; change it to face-down Defense Position. You can only use 1 \"World Legacy Puppet\" effect per turn, and only once that turn.",
+    "name": "World Legacy Pawns",
+    "desc": "You can target 1 face-down monster you control; change it to face-up Attack or Defense Position. You can shuffle 1 \"Krawler\" monster from your GY into the Main Deck, then target 1 face-up monster you control; change it to face-down Defense Position. You can only use 1 \"World Legacy Pawns\" effect per turn, and only once that turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,10 +33,14 @@
     "ocg": {
         "id": 101002073,
         "pack_id": "CIBR-JP073",
-        "pack": "CIBR",
+        "pack": "Circuit Break",
         "rarity": "Starrelic's Puppet",
         "date": "2017-07-08"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fc/WorldLegacyPuppet-CIBR-JP-C.png/revision/latest?"
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE073",
+        "date": "2017-10-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f9/WorldLegacyPawns-CIBR-EN-C-1E.png/revision/latest?cb=20171020173013"
 }
