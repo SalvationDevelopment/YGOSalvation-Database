@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Duelist Alliance",
-    "desc": "If there is a card in the Pendulum Zone: Add 1 \"Pendulum\" Pendulum Monster or \"Pendulum\" Spell/Trap Card from your Deck to your hand. You can only activate 1 \"Duelist Alliance\" per turn.",
+    "desc": "If there is a card in the Pendulum Zone: Add 1 \"Pendulum\" Pendulum Monster or \"Pendulum\" Spell/Trap from your Deck to your hand. You can only activate 1 \"Duelist Alliance\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 37469904,
         "pack_id": "MACR-JP063",
-        "pack": "MACR",
+        "pack": "Maximum Crisis",
         "rarity": "Duelist Alliance",
         "date": "2017-01-14"
     },
     "tcg": {
         "id": 37469904,
-        "pack_id": "MACR-EN063",
-        "pack": "MACR",
+        "pack_id": "MACR-DE063",
+        "pack": "Maximum Crisis",
         "rarity": "Duelist Alliance",
         "date": "2017-05-04"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7d/DuelistAlliance-MACR-EN-ScR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5f/DuelistAlliance-LEDD-EN-C-1E.png/revision/latest?cb=20171005220339"
 }
