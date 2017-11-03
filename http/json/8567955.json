@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Balancer Lord",
-    "desc": "Once per turn: You can pay 1000 LP; you can Normal Summon 1 Cyberse monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this card is banished: You can Special Summon 1 Level 4 or lower monster from your hand. You can only use this effect of \"Balancer Lord\" once per turn.",
+    "desc": "Once per turn: You can pay 1000 LP; during your Main Phase this turn, you can Normal Summon 1 Cyberse monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this card is banished: You can Special Summon 1 Level 4 or lower monster from your hand. You can only use this effect of \"Balancer Lord\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Balancer Lord",
         "date": "2017-06-17"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9b/BalancerLord-SD32-JP-NPR.png/revision/latest?cb=20170616150305"
+    "tcg": {
+        "pack": "Structure Deck: Cyberse Link",
+        "pack_id": "SDCL-DE005",
+        "date": "2017-11-02"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6b/BalancerLord-SDCL-EN-C-1E.png/revision/latest?cb=20171101130401"
 }

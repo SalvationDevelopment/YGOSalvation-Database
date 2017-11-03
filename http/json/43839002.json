@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Cynet Backdoor",
-    "desc": "Target 1 Cyberse monster you control; banish it, and if you do, add 1 Cyberse monster with ATK less than the banished monster's original ATK from your Deck to your hand. During your next Standby Phase, return that banished monster to the field, and if you do, it can attack directly that turn. You can only activate 1 \"Cynet Backdoor\" per turn.",
+    "desc": "Target 1 Cyberse monster you control; banish it, and if you do, add 1 Cyberse monster from your Deck to your hand, whose ATK is lower than that monster's original ATK. During your next Standby Phase, return that monster banished by this effect to the field, and it can attack directly that turn. You can only activate 1 \"Cynet Backdoor\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Cybnet Backdoor",
         "date": "2017-06-17"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d0/CynetBackdoor-SD32-JP-SR.png/revision/latest?cb=20170616150658"
+    "tcg": {
+        "pack": "Structure Deck: Cyberse Link",
+        "pack_id": "SDCL-DE023",
+        "date": "2017-11-02"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/CynetBackdoor-SDCL-EN-SR-1E.png/revision/latest?cb=20171101130723"
 }

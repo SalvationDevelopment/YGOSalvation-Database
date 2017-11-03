@@ -10,8 +10,8 @@
     "race": 16777216,
     "attribute": 16,
     "category": 0,
-    "name": "Kleinant",
-    "desc": "While this Normal Summoned/Set card is on the field, Cyberse monsters you control gain 500 ATK and DEF during your turn only. If this card on the field would be destroyed by battle or card effect, you can destroy 1 Cyberse monster you control or in your hand instead.",
+    "name": "Cliant",
+    "desc": "While this Normal Summoned/Set card is face-up on the field, all Cyberse monsters you control gain 500 ATK/DEF during your turn only. If this card on the field would be destroyed by battle or card effect, you can destroy 1 Cyberse monster in your hand or face-up on your field instead.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Kleinant",
         "date": "2017-06-17"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/Kleinant-SD32-JP-NPR.png/revision/latest?cb=20170616150232"
+    "tcg": {
+        "pack": "Structure Deck: Cyberse Link",
+        "pack_id": "SDCL-DE003",
+        "date": "2017-11-02"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/97/Cliant-SDCL-EN-C-1E.png/revision/latest?cb=20171101130329"
 }

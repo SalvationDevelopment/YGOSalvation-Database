@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Dotscaper",
-    "desc": "If this card is sent to the GY: You can Special Summon it. If this card is banished: You can Special Summon it. You can only use 1 \"Dotscaper\" effect per turn. You can only use each effect of \"Dotscaper\" once per Duel.",
+    "desc": "If this card is sent to the GY: You can Special Summon this card. If this card is banished: You can Special Summon this card. You can only use 1 \"Dotscaper\" effect per turn, and only once that turn. You can only use each effect of \"Dotscaper\" once per Duel.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Dot Scaper",
         "date": "2017-06-17"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7a/Dotscaper-SD32-JP-C.png/revision/latest?cb=20170616150225"
+    "tcg": {
+        "pack": "Structure Deck: Cyberse Link",
+        "pack_id": "SDCL-DE002",
+        "date": "2017-11-02"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/35/Dotscaper-SDCL-EN-C-1E.png/revision/latest?cb=20171101130323"
 }

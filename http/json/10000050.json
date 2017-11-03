@@ -2,7 +2,7 @@
     "id": 10000050,
     "ot": 0,
     "alias": 0,
-    "setcode": 161,
+    "setcode": 0,
     "type": 16401,
     "atk": 0,
     "def": 0,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 0,
-    "name": "DO NOT USE",
-    "desc": "Dummy Card for 1784686",
+    "name": "Holactie the Creator of Light",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters whose original names are \"Slifer the Sky Dragon\", \"Obelisk the Tormentor\", and \"The Winged Dragon of Ra\". This card's Special Summon cannot be negated. The player that Special Summons this card wins the Duel.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,9 +33,10 @@
     "ocg": {
         "id": 10000050,
         "pack_id": "YGOPR-JP001",
-        "pack": "",
+        "pack": "Duel Art Campaign Promo Card",
         "rarity": "",
-        "date": 1323475200000
+        "date": "2011-12-10"
     },
-    "tcg": {}
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bf/HolactietheCreatorofLight-YGOPR-JP-UR.png/revision/latest?cb=20150202011901"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Dual Assembwurm",
-    "desc": "If this card is in your hand or GY: You can banish 2 Cyberse monsters from your hand and/or face-up from your field; Special Summon this card, but its ATK becomes halved. You can only use this effect of \"Dual Assembwurm\" once per turn. Once per turn: You can banish 1 card from your hand; banish 1 monster on the field with ATK less than or equal to this card's.",
+    "desc": "If this card is in your hand or GY: You can banish 2 other Cyberse monsters from your hand and/or face-up from your field; Special Summon this card, but its ATK becomes halved. You can only use this effect of \"Dual Assembwurm\" once per turn. Once per turn: You can banish 1 card from your hand; banish 1 monster on the field with ATK less than or equal to this card's.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Dual Assembloom",
         "date": "2017-06-17"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bf/DualAssembwurm-SD32-JP-SR.png/revision/latest?cb=20170616150335"
+    "tcg": {
+        "pack": "Structure Deck: Cyberse Link",
+        "pack_id": "SDCL-DE008",
+        "date": "2017-11-02"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1e/DualAssembwurm-SDCL-EN-SR-1E.png/revision/latest?cb=20171101130424"
 }

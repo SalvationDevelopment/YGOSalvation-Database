@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 1,
     "name": "Proxy Dragon",
-    "desc": "Link Arrows: [🡰] [🡲]\n\n2 monsters\nIf a card(s) you control would be destroyed by battle or card effect, you can destroy 1 of your monsters this card points to, instead.",
+    "desc": "Link Arrows: [🡰][🡲]\n\n2 monsters\nIf a card(s) you control would be destroyed by battle or card effect, you can destroy 1 of your monsters this card points to, instead.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -36,14 +36,14 @@
     "ocg": {
         "id": 22862454,
         "pack_id": "VJMP-JP131",
-        "pack": "VJMP",
+        "pack": "V Jump June 2017 promotional card",
         "rarity": "Proxy Dragon",
         "date": "2017-04-21"
     },
     "tcg": {
         "date": "2017-08-24",
-        "pack": "CT14",
-        "pack_id": "CT14-EN003"
+        "pack": "2017 Mega-Tins",
+        "pack_id": "CT14-DEN003"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/84/ProxyDragon-CT14-EN-UR-LE.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/84/ProxyDragon-CT14-EN-UR-LE.png/revision/latest?cb=20170824231617"
 }

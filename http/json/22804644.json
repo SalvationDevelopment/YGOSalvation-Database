@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Doom Virus Dragon",
-    "desc": "Must be Special Summoned with \"The Fang of Critias\", using \"Crush Card Virus\", and cannot be Special Summoned by other ways. If this card is Special Summoned: Check your opponent's hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this effect's activation, and destroy all those monsters with 1500 or more ATK.",
+    "desc": "Must be Special Summoned with \"The Fang of Critias\", using \"Crush Card Virus\". If this card is Special Summoned: Look at your opponent's hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this effect's activation, and destroy all those monsters with 1500 or more ATK.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -33,16 +33,16 @@
     "ocg": {
         "id": 22804644,
         "pack_id": "CPD1-JP003",
-        "pack": "CPD1",
+        "pack": "Collectors Pack: Duelist of Destiny Version",
         "rarity": "Doom Virus Dragon",
         "date": "2015-05-16"
     },
     "tcg": {
         "id": 22804644,
-        "pack_id": "DRL2-EN003",
-        "pack": "DRL2",
+        "pack_id": "DRL2-DE003",
+        "pack": "Dragons of Legend 2",
         "rarity": "Doom Virus Dragon",
         "date": "2015-07-16"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/45/DoomVirusDragon-DRL2-EN-ScR-1E.png/revision/latest?"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e8/DoomVirusDragon-LEDD-EN-C-1E.png/revision/latest?cb=20171005214054"
 }

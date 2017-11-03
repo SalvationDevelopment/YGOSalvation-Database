@@ -30,13 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Tactical Evolution",
+        "pack_id": "TAEV-JP022",
+        "date": "2007-05-12"
+    },
     "tcg": {
         "id": 95166228,
         "pack_id": "TAEV-EN022",
         "pack": "Tactical Evolution",
         "rarity": "Rare",
-        "date": 1187154000000
+        "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3c/Grasschopper-TAEV-EN-R-1E.jpg/revision/latest?cb=20070906023004"
 }

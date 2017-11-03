@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262160,
     "name": "Jester Confit",
-    "desc": "You can Special Summon this card from your hand in face-up Attack Position. If you do, return this card and 1 face-up monster your opponent controls to the hand during the End Phase of your opponent's next turn. You can only control 1 face-up \"Jester Confit\".",
+    "desc": "You can only control 1 \"Jester Confit\". You can Special Summon this card (from your hand) in Attack Position. If Summoned this way, during your opponent's next End Phase: Target 1 face-up monster your opponent controls; return both that target and this face-up card to the hand.",
     "str1": "Return to hand",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Jester Confit",
         "date": "2009-08-27"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3a/JesterConfit-ANPR-EN-SR-UE.jpg/revision/latest?cb=20091028173105"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4c/JesterConfit-SDCL-EN-C-1E.png/revision/latest?cb=20171101130637"
 }

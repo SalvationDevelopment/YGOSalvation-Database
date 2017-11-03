@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Encode Talker",
-    "desc": "Link Arrows: [🡱][🡳][🡶]\n\n2+ Cyberse monsters\nOnce per turn, if your monster this card points to battles an opponent's monster with higher ATK, before damage calculation: You can make your monster unable to be destroyed by that battle, you take no battle damage from that battle, also, after damage calculation, this card or 1 monster it points to gains ATK equal to the current ATK of that opponent's monster until the end of this turn.",
+    "desc": "Link Arrows: [🡱][🡳][🡶]\n\n2+ Cyberse monsters\nOnce per turn, before damage calculation, if your monster this card points to battles an opponent's monster with higher ATK than it: You can make that monster unable to be destroyed by that battle, also you take no battle damage from that battle. After that damage calculation, have this card or 1 monster it points to gain ATK equal to the ATK of that battled opponent's monster, until the end of this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -43,8 +43,8 @@
     },
     "tcg": {
         "pack": "Structure Deck: Cyberse Link",
-        "pack_id": "SD??-DE0??",
+        "pack_id": "SDCL-DE041",
         "date": "2017-11-02"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e0/EncodeTalker-SD32-JP-UR.png/revision/latest?cb=20170616151050"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a4/EncodeTalker-SDCL-EN-UR-1E.png/revision/latest?cb=20171101131052"
 }

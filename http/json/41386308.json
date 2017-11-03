@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Mathematician",
-    "desc": "When this card is Normal Summoned: You can send 1 Level 4 or lower monster from your Deck to the Graveyard. When this card is destroyed by battle and sent to the Graveyard: You can draw 1 card.",
+    "desc": "When this card is Normal Summoned: You can send 1 Level 4 or lower monster from your Deck to the GY. When this card is destroyed by battle and sent to the GY: You can draw 1 card.",
     "str1": "Send 1 Level 4 or lower monster from your Deck to the Graveyard?",
     "str2": "Draw 1 card?",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Mathematician",
         "date": "2014-04-24"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/ff/Mathematician-SR01-EN-C-1E.png/revision/latest?cb=20160131150519"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/99/Mathematician-SDCL-EN-C-1E.png/revision/latest?cb=20171101130613"
 }

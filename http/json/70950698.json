@@ -10,8 +10,8 @@
     "race": 16777216,
     "attribute": 32,
     "category": 0,
-    "name": "Boot Stagguard",
-    "desc": "When a Cyberse monster is Normal Summoned to your field: You can Special Summon this card from your hand. You can only use this effect of \"Boot Stagguard\" once per turn. When this card inflicts battle damage to your opponent: You can Special Summon 1 \"Stag Token\" (Cyberse/EARTH/Level 1/ATK 0/DEF 0).",
+    "name": "Boot Staggered",
+    "desc": "When a Cyberse monster is Normal Summoned to your field: You can Special Summon this card from your hand. You can only use this effect of \"Boot Staggered\" once per turn. When this card inflicts battle damage to your opponent: You can Special Summon 1 \"Stag Token\" (Cyberse/EARTH/Level 1/ATK 0/DEF 0).",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Boot Stagguard",
         "date": "2017-06-17"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/38/BootStagguard-SD32-JP-NPR.png/revision/latest?cb=20170616150324"
+    "tcg": {
+        "pack": "Structure Deck: Cyberse Link",
+        "pack_id": "SDCL-DE007",
+        "date": "2017-11-02"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/91/BootStaggered-SD32-JP-NPR.png/revision/latest?cb=20170616150324"
 }

@@ -30,13 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Generation Force",
+        "pack_id": "GENF-JP051",
+        "date": "2011-04-16"
+    },
     "tcg": {
         "id": 6430659,
         "pack_id": "GENF-EN051",
         "pack": "Generation Force",
         "rarity": "Super Rare",
-        "date": 1313470800000
+        "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/ff/InfectedMail-SP13-EN-C-1E.png/revision/latest?cb=20130510083320"
 }

@@ -30,13 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Extreme Victory",
+        "pack_id": "EXVC-JP034",
+        "date": "2011-02-11"
+    },
     "tcg": {
         "id": 50893987,
         "pack_id": "EXVC-EN034",
         "pack": "Extreme Victory",
         "rarity": "Common",
-        "date": 1305003600000
+        "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/43/GladiatorBeastTygerius-EXVC-EN-C-UE.png/revision/latest?cb=20120621210832"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Moon Mirror Shield",
-    "desc": "If the equipped monster battles an opponent's monster, during damage calculation: The equipped monster's ATK and DEF become equal to the ATK or DEF (whichever is higher) of the opponent's battling monster +100, during damage calculation only. If this face-up card is sent from the field to the Graveyard: Pay 500 LP; place this card on either the top or bottom of your Deck.",
+    "desc": "If the equipped monster battles your opponent's monster, during damage calculation: The equipped monster's ATK/DEF become equal to the ATK or DEF (whichever is higher) of the opponent's battling monster +100, during damage calculation only. If this face-up card is sent from the field to the GY: Pay 500 LP; place this card on either the top or bottom of your Deck.",
     "str1": "Top",
     "str2": "Bottom",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Moon Mirror Shield",
         "date": "2015-05-14"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ea/MoonMirrorShield-MP16-EN-R-1E.png/revision/latest?cb=20160901205440"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b3/MoonMirrorShield-SDCL-EN-C-1E.png/revision/latest?cb=20171101130845"
 }

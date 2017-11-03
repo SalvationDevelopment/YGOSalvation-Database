@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262160,
     "name": "Kinka-byo",
-    "desc": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: You can target 1 Level 1 monster in your Graveyard; Special Summon that target, but banish it when this card leaves the field.",
+    "desc": "Cannot be Special Summoned. When this card is Normal Summoned or flipped face-up: You can target 1 Level 1 monster in your GY; Special Summon that target, but banish it when this card leaves the field. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.",
     "str1": "Return to hand",
     "str2": "Special Summon",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Kinka-byo",
         "date": "2008-08-09"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ee/Kinkabyo-AP08-EN-C-UE.png/revision/latest?cb=20151029022539"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7c/Kinkabyo-SDCL-EN-C-1E.png/revision/latest?cb=20171101130712"
 }

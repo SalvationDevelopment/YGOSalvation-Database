@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Digitron",
-    "desc": "A subspecies found in electronic space. Somehow there's quite a bit of information about it.",
+    "desc": "A subspecies found in electronic space. There's little information on it.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Digitron",
         "date": "2017-06-17"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/99/Digitron-SD32-JP-C.png/revision/latest?cb=20170616150216"
+    "tcg": {
+        "pack": "Structure Deck: Cyberse Link",
+        "pack_id": "SDCL-DE001",
+        "date": "2017-11-02"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f7/Digitron-SDCL-EN-C-1E.png/revision/latest?cb=20171101130318"
 }
