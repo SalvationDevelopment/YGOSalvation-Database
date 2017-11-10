@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 35052053,
-        "pack_id": "EE3-JP124",
-        "pack": "Expert Edition Volume 3",
+        "pack_id": "FET-JP004",
+        "pack": "Flaming Eternity",
         "rarity": "共通",
-        "date": 1134018000000
+        "date": "2004-11-25"
     },
     "tcg": {
         "id": 35052053,
         "pack_id": "FET-EN004",
         "pack": "Flaming Eternity",
         "rarity": "Common",
-        "date": 1109653200000
+        "date": "2005-02-26"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/86/InsectKnight-BP01-EN-C-1E.png/revision/latest?cb=20120616113825"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/86/InsectKnight-BP01-EN-C-1E.png"
 }

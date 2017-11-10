@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 274440,
     "name": "Tragoedia",
-    "desc": "When you take battle damage: You can Special Summon this card from your hand. This card gains 600 ATK and DEF for each card in your hand. Once per turn: You can send 1 monster from your hand to the Graveyard, then target 1 face-up monster your opponent controls with the same Level the sent monster had in the hand; take control of that face-up monster. Once per turn: You can target 1 monster in your Graveyard; this card's Level becomes the same as that target's, until the end of this turn.",
+    "desc": "When you take battle damage: You can Special Summon this card from your hand. Gains 600 ATK/DEF for each card in your hand. Once per turn: You can send 1 monster from your hand to the GY, then target 1 face-up monster your opponent controls with the same Level the sent monster had in the hand; take control of that face-up monster. Once per turn: You can target 1 monster in your GY; this card's Level becomes the same as that target's, until the end of this turn.",
     "str1": "Special Summon",
     "str2": "Send 1 monster from your hand to the Graveyard to target 1 face-up monster your opponent controls with the same Level as the sent monster",
     "str3": "Target 1 monster in your Graveyard; this card's Level becomes the same as that target's, until the End Phase",
@@ -44,5 +44,5 @@
         "rarity": "Tragoedia",
         "date": "2010-11-13"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f8/Tragoedia-SR01-EN-C-1E.png/revision/latest?cb=20160131150313"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8e/Tragoedia-SDCL-EN-C-1E.png"
 }

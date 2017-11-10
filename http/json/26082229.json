@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 26082229,
-        "pack_id": "EE3-JP084",
-        "pack": "Expert Edition Volume 3",
+        "pack_id": "RDS-JP024",
+        "pack": "Rise of Destiny",
         "rarity": "共通",
-        "date": 1134018000000
+        "date": "2004-08-05"
     },
     "tcg": {
         "id": 26082229,
-        "pack_id": "RDS-EN024",
-        "pack": "Rise Of Destiny",
+        "pack_id": "RDS-FR024",
+        "pack": "Rise of Destiny",
         "rarity": "Common",
-        "date": 1101877200000
+        "date": "2004-11-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d6/InvasionofFlames-DR3-EN-C-UE.png/revision/latest?cb=20160615204149"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d6/InvasionofFlames-DR3-EN-C-UE.png"
 }

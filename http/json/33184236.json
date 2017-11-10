@@ -30,13 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Storm of Ragnarok",
+        "pack_id": "STBL-JP071",
+        "date": "2010-11-13"
+    },
     "tcg": {
         "id": 33184236,
         "pack_id": "STBL-EN071",
-        "pack": "Starstrike Blast",
+        "pack": "Storm of Ragnarok",
         "rarity": "Common",
-        "date": 1289883600000
+        "date": "2011-02-08"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7c/KarakuriTrickHouse-STBL-EN-C-1E.jpg/revision/latest?cb=20101118003712"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7c/KarakuriTrickHouse-STBL-EN-C-1E.jpg"
 }

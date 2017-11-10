@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 8456,
     "name": "Card Trooper",
-    "desc": "Once per turn: You can choose a number from 1 to 3, then send that many cards from the top of your Deck to the Graveyard; this card gains 500 ATK for each card sent to the Graveyard this way, until the end of this turn. If this card you control is destroyed and sent to your Graveyard: Draw 1 card.",
+    "desc": "Once per turn: You can choose a number from 1 to 3, then send that many cards from the top of your Deck to the GY; this card gains 500 ATK for each card sent to the GY this way, until the end of this turn. If this card you control is destroyed and sent to your GY: Draw 1 card.",
     "str1": "Gain attack",
     "str2": "Draw card",
     "str3": "Send how many cards to Graveyard?",
@@ -44,5 +44,5 @@
         "rarity": "Card Trooper",
         "date": "2007-02-07"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/74/CardTrooper-SR03-EN-C-1E.png/revision/latest?cb=20170411220458"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ce/CardTrooper-SDCL-EN-C-1E.png"
 }

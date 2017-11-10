@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Recoded Alive",
-    "desc": "Target 1 Link-3 Cyberse Link Monster you control or in your GY; banish it, and if you do, Special Summon 1 \"Code Talker\" monster from your Extra Deck. If you control no monsters in the Extra Monster Zone: You can banish this card from your GY, then target 1 of your banished \"Code Talker\" monsters; Special Summon it.",
+    "desc": "Target 1 Link-3 Cyberse Link Monster you control or is in your GY; banish it, and if you do, Special Summon 1 \"Code Talker\" monster from your Extra Deck. If you control no monsters in the Extra Monster Zone: You can banish this card from your GY, then target 1 of your banished \"Code Talker\" monsters; Special Summon it.",
     "str1": " ",
     "str2": " ",
     "str3": " ",
@@ -37,6 +37,10 @@
         "rarity": "Recoded Alive",
         "date": "2017-06-17"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9f/RecodedAlive-SD32-JP-NPR.png/revision/latest?cb=20170616150852"
+    "tcg": {
+        "pack": "Structure Deck: Cyberse Link",
+        "pack_id": "SDCL-DE032",
+        "date": "2017-11-02"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/98/RecodedAlive-SDCL-EN-C-1E.png"
 }

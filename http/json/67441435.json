@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262152,
     "name": "Glow-Up Bulb",
-    "desc": "If this card is in the Graveyard: You can send the top card of your Deck to the Graveyard, and if you do, Special Summon this card. You can only use this effect of \"Glow-Up Bulb\" once per Duel.",
+    "desc": "If this card is in your GY: You can send the top card of your Deck to the GY, and if you do, Special Summon this card. You can only use this effect of \"Glow-Up Bulb\" once per Duel.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Glow-Up Bulb",
         "date": "2010-11-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4f/GlowUpBulb-PGL2-EN-GUR-1E.png/revision/latest?cb=20150320150238"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6b/GlowUpBulb-SDCL-EN-C-1E.png"
 }

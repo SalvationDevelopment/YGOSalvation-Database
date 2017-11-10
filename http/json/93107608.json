@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 93107608,
-        "pack_id": "EE3-JP025",
-        "pack": "Expert Edition Volume 3",
+        "pack_id": "SOD-JP025",
+        "pack": "Soul of the Duelist",
         "rarity": "共通",
-        "date": 1134018000000
+        "date": "2004-05-27"
     },
     "tcg": {
         "id": 93107608,
-        "pack_id": "SOD-EN025",
-        "pack": "Soul Of The Duelist",
+        "pack_id": "SOD-DE025",
+        "pack": "Soul of the Duelist",
         "rarity": "Common",
-        "date": 1096606800000
+        "date": "2004-10-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/30/HowlingInsect-DL13-EN-R-UE-Blue.jpg/revision/latest?cb=20120225211132"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/30/HowlingInsect-DL13-EN-R-UE-Blue.jpg"
 }

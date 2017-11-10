@@ -30,13 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Storm of Ragnarok",
+        "pack_id": "STOR-JP052",
+        "date": "2010-11-13"
+    },
     "tcg": {
         "id": 80204957,
         "pack_id": "STOR-EN052",
-        "pack": "Storm Of Ragnarok",
+        "pack": "Storm of Ragnarok",
         "rarity": "Common",
-        "date": 1297141200000
+        "date": "2011-02-08"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/34/KarakuriCashCache-STOR-EN-C-1E.png/revision/latest?cb=20110216071242"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/34/KarakuriCashCache-STOR-EN-C-1E.png"
 }

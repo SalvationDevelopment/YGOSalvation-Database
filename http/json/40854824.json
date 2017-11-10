@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Over the Rainbow",
-    "desc": "If a monster under your control with \"Rainbow Dragon\" or \"Rainbow Dark Dragon\" as its original name activated its effect this turn: Special Summon any number of \"Crystal Beast\" monsters with different names from your Deck.",
+    "desc": "If a monster whose original name is \"Rainbow Dragon\" or \"Rainbow Dark Dragon\" activated its effect this turn, while you controlled it: Special Summon any number of \"Crystal Beast\" monsters with different names from your Deck.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -38,5 +38,5 @@
         "date": "2014-11-15"
     },
     "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c3/OvertheRainbow-SECE-JP-C.png/revision/latest?cb=20141114105327"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c3/OvertheRainbow-SECE-JP-C.png"
 }

@@ -32,10 +32,10 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 94675535,
-        "pack_id": null,
+        "pack_id": "",
         "pack": "Vol.2",
         "rarity": "共通",
-        "date": 922510800000
+        "date": "1999-03-27"
     },
     "tcg": {
         "id": 94675535,
@@ -44,5 +44,5 @@
         "rarity": "Larvas",
         "date": "2002-03-08"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/38/Larvas-LOB-NA-C-1E.jpg/revision/latest?cb=20090329052611"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/38/Larvas-LOB-NA-C-1E.jpg"
 }
