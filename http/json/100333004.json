@@ -1,0 +1,19 @@
+{
+    "ocg": {
+        "pack": "Structure Deck: Powercode Link",
+        "pack_id": "SD33-JP004",
+        "date": "2017-12-09"
+    },
+    "tcg": {},
+    "id": 100333004,
+    "setcode": 0,
+    "type": 33,
+    "atk": 1400,
+    "def": 200,
+    "level": 3,
+    "race": 16777216,
+    "attribute": 4,
+    "name": "Flame Buffalo",
+    "desc": "If this face-up card leaves the field: You can discard 1 Cyberse monster, and if you do, draw 2 cards. You can only use this effect of \"Flame Buffalo\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/ba/FlameBuffalo-SD33-JP-OP.png"
+}

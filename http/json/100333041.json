@@ -1,0 +1,24 @@
+{
+    "ocg": {
+        "pack": "Structure Deck: Powercode Link",
+        "pack_id": "SD33-JP041",
+        "date": "2017-12-09"
+    },
+    "tcg": {},
+    "id": 100333041,
+    "setcode": 0,
+    "type": 33554433,
+    "atk": 1800,
+    "def": "-",
+    "level": 3,
+    "links": [
+        5,
+        6,
+        7
+    ],
+    "race": 16777216,
+    "attribute": 32,
+    "name": "Traffic Ghost",
+    "desc": "Link Arrows: [🡷][🡳][🡶]\n\n3 monsters",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/05/TrafficGhost-SD33-JP-OP.png"
+}

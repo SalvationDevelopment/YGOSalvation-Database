@@ -1,0 +1,23 @@
+{
+    "ocg": {
+        "pack": "Structure Deck: Powercode Link",
+        "pack_id": "SD33-JP042",
+        "date": "2017-12-09"
+    },
+    "tcg": {},
+    "id": 100333042,
+    "setcode": 0,
+    "type": 33554433,
+    "atk": 1200,
+    "def": "-",
+    "level": 2,
+    "links": [
+        5,
+        7
+    ],
+    "race": 16777216,
+    "attribute": 16,
+    "name": "LANpholinkus",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 monsters",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e6/LANpholinkus-SD33-JP-OP.png"
+}
