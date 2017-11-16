@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 2097696,
     "name": "Photon Veil",
-    "desc": "Shuffle 3 LIGHT monsters from your hand into the Deck, then add 1 to 3 Level 4 or lower LIGHT monsters from your Deck to the hand. If you add 2 or more monsters, they must have the same name.",
+    "desc": "Shuffle 3 LIGHT monsters from your hand into the Deck, then add 1 to 3 Level 4 or lower LIGHT monsters from your Deck to your hand. If you add 2 or more monsters, they must have the same name.",
     "str1": "Add more cards to hand?",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Photon Veil",
         "date": "2011-11-10"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/PhotonVeil-AP02-EN-C-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/PhotonVeil-SPWA-EN-SR-1E.png"
 }

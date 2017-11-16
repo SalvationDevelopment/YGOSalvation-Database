@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Scrap-Iron Statue",
-    "desc": "When a Spell/Trap Card that is already face-up on your opponent's side of the field activates its effect: Destroy that card, also, after that, Set this card face-down instead of sending it to the Graveyard. If this card is sent to the Graveyard: You can target 1 \"Junk\" monster in your Graveyard; Special Summon it in Defense Position. You can only use each effect of \"Scrap-Iron Statue\" once per turn.",
+    "desc": "When a Spell/Trap Card that is already face-up on your opponent's field activates its effect: Destroy that card, also, after that, Set this card face-down instead of sending it to the GY. If this card is sent to the GY: You can target 1 \"Junk\" monster in your GY; Special Summon it in Defense Position. You can only use each effect of \"Scrap-Iron Statue\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Scrap-Iron Statue",
         "date": "2015-08-27"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ec/ScrapIronStatue-SDSE-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/47/ScrapIronStatue-SPWA-EN-SR-1E.png"
 }

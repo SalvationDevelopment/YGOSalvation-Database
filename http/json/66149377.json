@@ -4,7 +4,11 @@
         "pack_id": "DBSW-JP026",
         "date": "2017-08-11"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Spirit Warriors",
+        "pack_id": "SPWA-DE026",
+        "date": "2017-11-16"
+    },
     "id": 66149377,
     "setcode": 264,
     "type": 4,
@@ -13,7 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "name": "Magibullet - Dancing Needle",
-    "desc": "If you control a \"Magibullet\" monster: Target up to 3 cards in any GY(s); banish them. You can only activate 1 \"Magibullet - Dancing Needle\" per turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/07/MagibulletDancingNeedle-DBSW-JP-C.png"
+    "name": "Magical Musket - Dancing Needle",
+    "desc": "If you control a \"Magical Musket\" monster: Target up to 3 cards in the GYs; banish them. You can only activate 1 \"Magical Musket - Dancing Needle\" per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3f/MagicalMusketDancingNeedle-SPWA-EN-ScR-1E.png"
 }

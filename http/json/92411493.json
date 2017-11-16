@@ -10,8 +10,8 @@
     "race": 4,
     "attribute": 2,
     "category": 0,
-    "name": "Rainy Weathery Lazula",
-    "desc": "If this card is Special Summoned: You can place 1 \"Weathery\" Spell/Trap from your hand in your Spell & Trap Zone face-up. You can only use this effect of \"Rainy Weathery Lazula\" once per turn. Once per turn, during the Standby Phase of the next turn after this card on the field was banished to activate a \"Weathery\" card's effect: You can Special Summon this banished card.",
+    "name": "The Weather Painter Rain",
+    "desc": "If this card is Special Summoned: You can place 1 \"The Weather\" Spell/Trap from your hand face-up in your Spell & Trap Zone. You can only use this effect of \"The Weather Painter Rain\" once per turn. Once per turn, during the Standby Phase of the turn after this card was banished from the field to activate a \"The Weather\" card's effect: You can Special Summon this banished card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Rainy Weathery Lazula",
         "date": "2017-08-11"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0f/RainyWeatheryLazula-DBSW-JP-C.png"
+    "tcg": {
+        "pack": "Spirit Warriors",
+        "pack_id": "SPWA-DE030",
+        "date": "2017-11-16"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a7/TheWeatherPainterRain-SPWA-EN-SR-1E.png"
 }

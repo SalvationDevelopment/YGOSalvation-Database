@@ -4,7 +4,11 @@
         "pack_id": "DBSW-JP029",
         "date": "2017-08-11"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Spirit Warriors",
+        "pack_id": "SPWA-DE029",
+        "date": "2017-11-16"
+    },
     "id": 65017789,
     "setcode": 265,
     "type": 33,
@@ -13,7 +17,7 @@
     "level": 3,
     "race": 4,
     "attribute": 1,
-    "name": "Snow Weathery Ciel",
-    "desc": "When this card is Normal Summoned: You can place 1 \"Weathery\" Spell/Trap from your Deck in your Spell & Trap Zone face-up. You can only use this effect of \"Snow Weathery Ciel\" once per turn. Once per turn, during the Standby Phase of the next turn after this card on the field was banished to activate a \"Weathery\" card's effect: You can Special Summon this banished card.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7c/SnowWeatheryCiel-DBSW-JP-SR.png"
+    "name": "The Weather Painter Snow",
+    "desc": "When this card is Normal Summoned: You can place 1 \"The Weather\" Spell/Trap from your Deck face-up in your Spell & Trap Zone. You can only use this effect of \"The Weather Painter Snow\" once per turn. Once per turn, during the Standby Phase of the turn after this card was banished from the field to activate a \"The Weather\" card's effect: You can Special Summon this banished card.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2f/TheWeatherPainterSnow-SPWA-EN-ScR-1E.png"
 }

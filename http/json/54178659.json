@@ -10,8 +10,8 @@
     "race": 4,
     "attribute": 16,
     "category": 0,
-    "name": "Rainbow Weathery Arciel",
-    "desc": "Link Arrows: [🡷][🡳][🡶]\n\n3 \"Weathery\" monsters\nWhen your opponent would Special Summon a monster(s) (Quick Effect): You can send this Link Summoned card to the GY; negate the Special Summon, and if you do, destroy that monster. Once per turn, during the Standby Phase of the next turn after this card on the field was banished to activate a \"Weathery\" card's effect: You can Special Summon this banished card. \"Weathery\" Effect Monsters this card points to gain this effect.\n● When a card or effect is activated (Quick Effect): You can banish this card; negate the activation, and if you do, destroy that card.",
+    "name": "The Weather Painter Rainbow",
+    "desc": "Link Arrows: [🡷][🡳][🡶]\n\n3 \"The Weather\" monsters\nWhen your opponent would Special Summon a monster(s) (Quick Effect): You can send this Link Summoned card to the GY; negate the Summon, and if you do, destroy that monster(s). Once per turn, during the Standby Phase of the turn after this card was banished from the field to activate a \"The Weather\" card's effect: You can Special Summon this banished card. \"The Weather\" Effect Monsters this card points to gain the following effect.\n● When a card or effect is activated (Quick Effect): You can banish this card; negate the activation, and if you do, destroy that card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -41,6 +41,10 @@
         "rarity": "Rainbow Weathery Arciel",
         "date": "2017-08-11"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d1/RainbowWeatheryArciel-DBSW-JP-UR.png"
+    "tcg": {
+        "pack": "Spirit Warriors",
+        "pack_id": "SPWA-DE035",
+        "date": "2017-11-16"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/65/TheWeatherPainterRainbow-SPWA-EN-ScR-1E.png"
 }

@@ -4,7 +4,11 @@
         "pack_id": "DBSW-JP036",
         "date": "2017-08-11"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Spirit Warriors",
+        "pack_id": "SPWA-DE036",
+        "date": "2017-11-16"
+    },
     "id": 80577258,
     "setcode": 265,
     "type": 131074,
@@ -13,7 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "name": "Snowy Weathery Pattern",
-    "desc": "You can only control 1 \"Snowy Weathery Pattern\". \"Weathery\" Effect Monsters in your Main Monster Zone in the same column as this card, and Main Monster Zones adjacent to that zone, gain this effect.\n● (Quick Effect): You can banish this card; add 1 \"Weathery\" card from your Deck to your hand, also you cannot add cards from the Deck to your hand except by drawing them for the rest of this turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d1/SnowyWeatheryPattern-DBSW-JP-C.png"
+    "name": "The Weather Snowy Canvas",
+    "desc": "\"The Weather\" Effect Monsters in your Main Monster Zones of this card's column and its adjacent columns gain this effect.\n● You can banish this card (Quick Effect); add 1 \"The Weather\" card from your Deck to your hand, also you cannot add cards from your Deck to your hand for the rest of this turn, except by drawing them.\nYou can only control 1 \"The Weather Snowy Canvas\".",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2c/TheWeatherSnowyCanvas-SPWA-EN-SR-1E.png"
 }

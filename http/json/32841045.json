@@ -10,8 +10,8 @@
     "race": 8,
     "attribute": 16,
     "category": 0,
-    "name": "Magibullet Shooter Caspar",
-    "desc": "You can activate \"Magibullet\" Spell/Trap Cards from your hand during either player's turn. If a Spell/Trap Card is activated in the same column as this card (except during the Damage Step): You can add 1 \"Magibullet\" card with a different name from that activated card from your Deck to your hand. You can only use this effect of \"Magibullet Shooter Caspar\" once per turn.",
+    "name": "Magical Musketeer Caspar",
+    "desc": "During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand. If a Spell/Trap Card is activated in this card's column: You can add 1 \"Magical Musket\" card from your Deck to your hand, but not a card with the same name as that activated card. You can only use this effect of \"Magical Musketeer Caspar\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Magibullet Shooter Caspar",
         "date": "2017-08-11"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/MagibulletShooterCaspar-DBSW-JP-SR.png"
+    "tcg": {
+        "pack": "Spirit Warriors",
+        "pack_id": "SPWA-DE016",
+        "date": "2017-11-16"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7b/MagicalMusketeerCaspar-SPWA-EN-ScR-1E.png"
 }

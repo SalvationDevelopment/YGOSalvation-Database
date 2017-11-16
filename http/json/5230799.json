@@ -4,7 +4,11 @@
         "pack_id": "DBSW-JP018",
         "date": "2017-08-11"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Spirit Warriors",
+        "pack_id": "SPWA-DE018",
+        "date": "2017-11-16"
+    },
     "id": 5230799,
     "setcode": 264,
     "type": 33,
@@ -13,7 +17,7 @@
     "level": 3,
     "race": 8,
     "attribute": 16,
-    "name": "Magibullet Shooter The Kid",
-    "desc": "You can activate \"Magibullet\" Spell/Trap Cards from your hand during either player's turn. If a Spell/Trap Card is activated in the same column as this card (except during the Damage Step): You can discard 1 \"Magibullet\" card; draw 2 cards. You can only use this effect of \"Magibullet Shooter The Kid\" once per turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/43/MagibulletShooterTheKid-DBSW-JP-C.png"
+    "name": "Magical Musketeer Kidbrave",
+    "desc": "During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand. If a Spell/Trap Card is activated in this card's column: You can discard 1 \"Magical Musket\" card; draw 2 cards. You can only use this effect of \"Magical Musketeer Kidbrave\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/88/MagicalMusketeerKidbrave-SPWA-EN-SR-1E.png"
 }

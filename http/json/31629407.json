@@ -4,7 +4,11 @@
         "pack_id": "DBSW-JP019",
         "date": "2017-08-11"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Spirit Warriors",
+        "pack_id": "SPWA-DE019",
+        "date": "2017-11-16"
+    },
     "id": 31629407,
     "setcode": 264,
     "type": 33,
@@ -13,7 +17,7 @@
     "level": 4,
     "race": 8,
     "attribute": 16,
-    "name": "Magibullet Shooter Star",
-    "desc": "You can activate \"Magibullet\" Spell/Trap Cards from your hand during either player's turn. If a Spell/Trap Card is activated in the same column as this card (except during the Damage Step): You can Special Summon 1 Level 4 or lower \"Magibullet\" monster from your Deck in Defense Position, except \"Magibullet Shooter Star\". You can only use this effect of \"Magibullet Shooter Star\" once per turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/66/MagibulletShooterStar-DBSW-JP-SR.png"
+    "name": "Magical Musketeer Starfire",
+    "desc": "During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand. If a Spell/Trap Card is activated in this card's column: You can Special Summon 1 Level 4 or lower \"Magical Musket\" monster from your Deck in Defense Position, except \"Magical Musketeer Starfire\". You can only use this effect of \"Magical Musketeer Starfire\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/02/MagicalMusketeerStarfire-SPWA-EN-ScR-1E.png"
 }

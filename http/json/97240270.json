@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 97240270,
-        "pack_id": "EE04-JP003",
-        "pack": "Expert Edition Volume 4",
+        "pack_id": "CRV-JP003",
+        "pack": "Cybernetic Revolution",
         "rarity": "共通",
-        "date": 1190437200000
+        "date": "2005-05-26"
     },
     "tcg": {
         "id": 97240270,
-        "pack_id": "CRV-EN003",
+        "pack_id": "CRV-DE003",
         "pack": "Cybernetic Revolution",
         "rarity": "Common",
-        "date": 1123304400000
+        "date": "2005-08-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bb/MadLobster-DR04-NA-C-UE.png"
 }

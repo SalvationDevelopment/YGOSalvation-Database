@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 2105368,
     "name": "Honest",
-    "desc": "During your Main Phase: You can return this face-up card from the field to the hand. During either player's Damage Step, when a LIGHT monster you control battles: You can send this card from your hand to the Graveyard; that monster gains ATK equal to the ATK of the opponent's monster it is battling, until the end of this turn.",
+    "desc": "During your Main Phase: You can return this face-up card from the field to the hand. During the Damage Step, when a LIGHT monster you control battles (Quick Effect): You can send this card from your hand to the GY; that monster gains ATK equal to the ATK of the opponent's monster it is battling, until the end of this turn.",
     "str1": "Return to hand",
     "str2": "Gain attack",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Honest",
         "date": "2008-05-03"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fb/Honest-DUSA-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/Honest-SPWA-EN-SR-1E.png"
 }

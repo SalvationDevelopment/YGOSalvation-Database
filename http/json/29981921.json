@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": -2130706431,
     "name": "Legendary Six Samurai - Shi En",
-    "desc": "1 Warrior-Type Tuner + 1 or more non-Tuner \"Six Samurai\" monsters\nOnce per turn, during either player's turn, when your opponent activates a Spell/Trap Card: You can negate the activation, and if you do, destroy it. If this card would be destroyed, you can destroy another face-up \"Six Samurai\" monster you control instead.",
+    "desc": "1 Warrior Tuner + 1+ non-Tuner \"Six Samurai\" monsters\nOnce per turn, when your opponent activates a Spell/Trap Card (Quick Effect): You can negate the activation, and if you do, destroy it. If this card on the field would be destroyed by battle or card effect, you can destroy another \"Six Samurai\" monster you control instead.",
     "str1": "Negate Spell/Trap",
     "str2": "Activate \"Legendary Six Samurai - Shi En\" effect to avoid destruction?",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Legendary Six Samurai - Shi En",
         "date": "2011-02-08"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/77/LegendarySixSamuraiShiEn-RYMP-EN-SR-LE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/LegendarySixSamuraiShiEn-SPWA-EN-ScR-1E.png"
 }

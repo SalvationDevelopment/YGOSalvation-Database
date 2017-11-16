@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 2098184,
     "name": "Beckoning Light",
-    "desc": "Discard your entire hand, then for each card you discarded to the Graveyard by this effect, add 1 LIGHT monster from your Graveyard to your hand.",
+    "desc": "Discard your entire hand, then for each card you discarded to the GY by this effect, add 1 LIGHT monster from your GY to your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Beckoning Light",
         "date": "2004-05-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/86/BeckoningLight-SDLI-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/BeckoningLight-SPWA-EN-SR-1E.png"
 }

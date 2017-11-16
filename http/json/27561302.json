@@ -4,7 +4,11 @@
         "pack_id": "DBSW-JP037",
         "date": "2017-08-11"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Spirit Warriors",
+        "pack_id": "SPWA-DE037",
+        "date": "2017-11-16"
+    },
     "id": 27561302,
     "setcode": 265,
     "type": 131074,
@@ -13,7 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "name": "Rain Weathery Pattern",
-    "desc": "You can only control 1 \"Rain Weathery Pattern\". \"Weathery\" Effect Monsters in your Main Monster Zone in the same column as this card, and Main Monster Zones adjacent to that zone, gain this effect.\n● (Quick Effect): You can banish this card, then target 1 Spell/Trap your opponent controls; return it to the hand.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f6/RainWeatheryPattern-DBSW-JP-C.png"
+    "name": "The Weather Rainy Canvas",
+    "desc": "\"The Weather\" Effect Monsters in your Main Monster Zones of this card's column and its adjacent columns gain this effect.\n● You can banish this card, then target 1 Spell/Trap your opponent controls (Quick Effect); return it to the hand.\nYou can only control 1 \"The Weather Rainy Canvas\".",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b8/TheWeatherRainyCanvas-SPWA-EN-SR-1E.png"
 }

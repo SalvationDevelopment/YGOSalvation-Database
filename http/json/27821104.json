@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Asceticism of the Six Samurai",
-    "desc": "Select 1 face-up \"Six Samurai\" monster you control. Special Summon 1 \"Six Samurai\" monster from your Deck with a different name but equal ATK to the selected monster. During the End Phase of this turn, destroy the selected monster.",
+    "desc": "Target 1 \"Six Samurai\" monster you control; Special Summon 1 \"Six Samurai\" monster from your Deck with the same ATK but a different name, and if you do, destroy it during the End Phase of this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Asceticism of the Six Samurai",
         "date": "2011-02-08"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1b/AsceticismoftheSixSamurai-STOR-EN-R-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cd/AsceticismoftheSixSamurai-SPWA-EN-SR-1E.png"
 }

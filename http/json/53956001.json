@@ -4,7 +4,11 @@
         "pack_id": "DBSW-JP038",
         "date": "2017-08-11"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Spirit Warriors",
+        "pack_id": "SPWA-DE038",
+        "date": "2017-11-16"
+    },
     "id": 53956001,
     "setcode": 265,
     "type": 131074,
@@ -13,7 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "name": "Cloudy Weathery Pattern",
-    "desc": "You can only control 1 \"Cloudy Weathery Pattern\". \"Weathery\" Effect Monsters in your Main Monster Zone in the same column as this card, and Main Monster Zones adjacent to that zone, gain this effect.\n● (Quick Effect, except during the Damage Step): You can banish this card, then target 1 face-up monster on the field; this turn, its ATK becomes half its current ATK, also it can attack directly.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1b/CloudyWeatheryPattern-DBSW-JP-C.png"
+    "name": "The Weather Cloudy Canvas",
+    "desc": "\"The Weather\" Effect Monsters in your Main Monster Zones of this card's column and its adjacent columns gain this effect.\n● You can banish this card, then target 1 face-up monster on the field (except during the Damage Step) (Quick Effect); halve its current ATK for the rest of this turn, but it can attack directly this turn.\nYou can only control 1 \"The Weather Cloudy Canvas\".",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/03/TheWeatherCloudyCanvas-SPWA-EN-SR-1E.png"
 }

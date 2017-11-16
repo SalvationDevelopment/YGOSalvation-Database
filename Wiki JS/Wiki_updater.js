@@ -5,7 +5,7 @@ var scraperjs = require('scraperjs'),
     //sleep = require('sleep'),
     input_file = require('./updater_input.json'),
     SETCODES = require('./utility/setcode.json'),
-    id_update = [],
+    id_update = {},
     bad_page = [],
     json_path = '..\\http\\json\\',
     markers;
@@ -34,7 +34,7 @@ function bad_pages() {
                 wiki_url = card_json.name+'_(card)';
             }
             json_create(card_json, wiki_url, filename, next);
-            //bad_page.pop(card_json.id);
+            bad_page = [];
         });
     }
 }
@@ -70,7 +70,7 @@ function json_create(card_json, wiki_url, filename, next) {
                 });
                 filename = json_path + String(card_json.id) + '.json';
                 id_update[old_id] = card_json.id;
-                fs.writeFileSync('./id_update.json', JSON.stringify(id_update, null, 4));
+                fs.writeFileSync('./utility/id_update.json', JSON.stringify(id_update, null, 4));
             }
             card_json.setcode = card.setcode;
             card_json.name = card.English.trim().replace('Check translation','');
@@ -121,7 +121,7 @@ function json_create(card_json, wiki_url, filename, next) {
         catch (error) {
             console.log("\tProblem with "+card_json.id+" "+card_json.name+'\n\t'+error);
             bad_page.push(card_json.id);
-            fs.writeFileSync('./bad_page.json', JSON.stringify(bad_page, null, 4));      
+            fs.writeFileSync('./utility/bad_page.json', JSON.stringify(bad_page, null, 4));      
             bad_pages();         
         }  
         //sleep.sleep(3);

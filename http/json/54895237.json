@@ -4,7 +4,11 @@
         "pack_id": "DBSW-JP032",
         "date": "2017-08-11"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Spirit Warriors",
+        "pack_id": "SPWA-DE032",
+        "date": "2017-11-16"
+    },
     "id": 54895237,
     "setcode": 265,
     "type": 33,
@@ -13,7 +17,7 @@
     "level": 3,
     "race": 4,
     "attribute": 4,
-    "name": "Sunny Weathery Bengala",
-    "desc": "If this card is in your GY: You can send 1 face-up Continuous Spell/Trap you control to the GY; Special Summon this card in Defense Position, and if you do, place 1 \"Weathery\" Spell/Trap from your hand in your Spell & Trap Zone face-up. You can only use this effect of \"Sunny Weathery Bengala\" once per turn. Once per turn, during the Standby Phase of the next turn after this card on the field was banished to activate a \"Weathery\" card's effect: You can Special Summon this banished card.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/36/SunnyWeatheryBengala-DBSW-JP-C.png"
+    "name": "The Weather Painter Sun",
+    "desc": "If this card is in your GY: You can send 1 face-up Continuous Spell/Trap you control to the GY; Special Summon this card in Defense Position, and if you do, place 1 \"The Weather\" Spell/Trap from your hand face-up in your Spell & Trap Zone. You can only use this effect of \"The Weather Painter Sun\" once per turn. Once per turn, during the Standby Phase of the turn after this card was banished from the field to activate a \"The Weather\" card's effect: You can Special Summon this banished card.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c2/TheWeatherPainterSun-SPWA-EN-ScR-1E.png"
 }

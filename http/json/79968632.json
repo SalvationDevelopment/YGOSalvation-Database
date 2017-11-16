@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 0,
-    "name": "Shadow Art of the Six Samurai",
-    "desc": "Send 1 monster you control to the GY, then target 1 of your banished \"Six Samurai\" monsters; Special Summon it. You can only activate 1 \"Shadow Art of the Six Samurai\" per turn.",
+    "name": "Secret Skills of the Six Samurai",
+    "desc": "Send 1 monster you control to the GY, then target 1 of your banished \"Six Samurai\" monsters; Special Summon it. You can only activate 1 \"Secret Skills of the Six Samurai\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Shadow Art of the Six Samurai",
         "date": "2017-08-11"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4f/ShadowArtoftheSixSamurai-DBSW-JP-SR.png"
+    "tcg": {
+        "pack": "Spirit Warriors",
+        "pack_id": "SPWA-DE007",
+        "date": "2017-11-16"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3d/SecretSkillsoftheSixSamurai-SPWA-EN-ScR-1E.png"
 }

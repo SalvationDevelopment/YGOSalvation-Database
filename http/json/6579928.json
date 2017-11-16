@@ -2,7 +2,7 @@
     "id": 6579928,
     "ot": 3,
     "alias": 0,
-    "setcode": 61,
+    "setcode": 4001853,
     "type": 33,
     "atk": 1900,
     "def": 1000,
@@ -10,8 +10,8 @@
     "race": 1,
     "attribute": 1,
     "category": 0,
-    "name": "Shadow Six Samurai - Kizaru",
-    "desc": "When this card is Special Summoned: You can add 1 \"Six Samurai\" monster from your Deck to your hand that has a different Attribute from any monster you control. If exactly 1 \"Six Samurai\" monster you control (and no other cards) would be destroyed by a card effect, you can banish this card from your GY instead.",
+    "name": "Secret Six Samurai - Kizaru",
+    "desc": "When this card is Special Summoned: You can add from your Deck to your hand, 1 \"Six Samurai\" monster with a different Attribute from every monster you control. If exactly 1 \"Six Samurai\" monster you control (and no other cards) would be destroyed by card effect, you can banish this card from your GY instead.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Shadow Six Samurai - Kizaru",
         "date": "2017-08-11"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/85/ShadowSixSamuraiKizaru-DBSW-JP-C.png"
+    "tcg": {
+        "pack": "Spirit Warriors",
+        "pack_id": "SPWA-DE005",
+        "date": "2017-11-16"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/32/SecretSixSamuraiKizaru-SPWA-EN-ScR-1E.png"
 }

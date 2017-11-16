@@ -10,8 +10,8 @@
     "race": 8,
     "attribute": 16,
     "category": 0,
-    "name": "Magibullet Fiend Zamiel",
-    "desc": "You can Tribute Summon this card face-up by Tributing 1 \"Magibullet\" monster. You can activate \"Magibullet\" Spell/Trap Cards from your hand during either player's turn. During your opponent's End Phase: You can draw 1 card for each \"Magibullet\" Spell/Trap Card you activated this turn while this card was face-up on the field. You can only use this effect of \"Magibullet Fiend Zamiel\" once per turn.",
+    "name": "Magical Musket Mastermind Zakiel",
+    "desc": "You can Tribute Summon this card face-up by Tributing 1 \"Magical Musket\" monster. During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand. Once per turn, during your opponent's End Phase: You can draw cards equal to the number of \"Magical Musket\" Spell/Trap Cards you activated this turn while this card was face-up on your field. You can only use this effect of \"Magical Musket Mastermind Zakiel\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Magibullet Fiend Zamiel",
         "date": "2017-08-11"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/70/MagibulletFiendZamiel-DBSW-JP-UR.png"
+    "tcg": {
+        "pack": "Spirit Warriors",
+        "pack_id": "SPWA-DE022",
+        "date": "2017-11-16"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e7/MagicalMusketMastermindZakiel-SPWA-EN-ScR-1E.png"
 }

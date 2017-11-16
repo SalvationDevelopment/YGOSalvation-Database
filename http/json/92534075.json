@@ -4,7 +4,11 @@
         "pack_id": "DBSW-JP027",
         "date": "2017-08-11"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Spirit Warriors",
+        "pack_id": "SPWA-DE027",
+        "date": "2017-11-16"
+    },
     "id": 92534075,
     "setcode": 264,
     "type": 131076,
@@ -13,7 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "name": "Magibullet - Devil's Deal",
-    "desc": "\"Magibullet\" monsters you control cannot be destroyed by card effects. If this card in your possession is sent to your GY by an opponent's card effect: You can add 1 \"Magibullet\" card from your Deck or GY to your hand, except \"Magibullet - Devil's Deal\". You can only activate 1 \"Magibullet - Devil's Deal\" per turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8b/MagibulletDevilsDeal-DBSW-JP-C.png"
+    "name": "Magical Musket - Fiendish Deal",
+    "desc": "\"Magical Musket\" monsters you control cannot be destroyed by card effects. If this card in your possession is sent to your GY by an opponent's card effect: You can add 1 \"Magical Musket\" card from your Deck or GY to your hand, except \"Magical Musket - Fiendish Deal\". You can only activate 1 \"Magical Musket - Fiendish Deal\" per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/51/MagicalMusketFiendishDeal-SPWA-EN-SR-1E.png"
 }

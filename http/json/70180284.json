@@ -2,7 +2,7 @@
     "id": 70180284,
     "ot": 3,
     "alias": 0,
-    "setcode": 61,
+    "setcode": 4001853,
     "type": 33,
     "atk": 1700,
     "def": 1200,
@@ -10,8 +10,8 @@
     "race": 1,
     "attribute": 32,
     "category": 0,
-    "name": "Shadow Six Samurai - Douji",
-    "desc": "When another \"Six Samurai\" monster(s) is Normal or Special Summoned to your field while this monster is on the field (except during the Damage Step): You can send 1 \"Six Samurai\" card from your Deck to the GY. If exactly 1 \"Six Samurai\" monster you control (and no other cards) would be destroyed by a card effect, you can banish this card from your GY instead.",
+    "name": "Secret Six Samurai - Doji",
+    "desc": "When another \"Six Samurai\" monster is Normal or Special Summoned to your field (except during the Damage Step): You can send 1 \"Six Samurai\" card from your Deck to the GY. If exactly 1 \"Six Samurai\" monster you control (and no other cards) would be destroyed by card effect, you can banish this card from your GY instead.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Shadow Six Samurai - Douji",
         "date": "2017-08-11"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/84/ShadowSixSamuraiDouji-DBSW-JP-C.png"
+    "tcg": {
+        "pack": "Spirit Warriors",
+        "pack_id": "SPWA-DE004",
+        "date": "2017-11-16"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/SecretSixSamuraiDoji-SPWA-EN-ScR-1E.png"
 }

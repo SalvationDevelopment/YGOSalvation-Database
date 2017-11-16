@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 263192,
     "name": "Legendary Six Samurai - Shinai",
-    "desc": "If you control a face-up \"Legendary Six Samurai - Mizuho\", you can Special Summon this card from your hand. If this card is Tributed, select 1 \"Six Samurai\" monster in your Graveyard, and add it to your hand, except \"Legendary Six Samurai - Shinai\".",
+    "desc": "If you control \"Legendary Six Samurai - Mizuho\", you can Special Summon this card (from your hand). If this card on the field is Tributed: Target 1 \"Six Samurai\" monster in your GY, except \"Legendary Six Samurai - Shinai\"; add it to your hand.",
     "str1": "Recover from Graveyard",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Legendary Six Samurai - Shinai",
         "date": "2011-02-08"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d3/LegendarySixSamuraiShinai-STOR-EN-C-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b1/LegendarySixSamuraiShinai-SPWA-EN-SR-1E.png"
 }

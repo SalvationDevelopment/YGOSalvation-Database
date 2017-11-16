@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 0,
-    "name": "Magibullet - Death-perado",
-    "desc": "If you control a \"Magibullet\" monster: Target 1 face-up card on the field; destroy it. You can only activate 1 \"Magibullet - Death-perado\" per turn.",
+    "name": "Magical Musket - Desperado",
+    "desc": "If you control a \"Magical Musket\" monster: Target 1 face-up card on the field; destroy it. You can only activate 1 \"Magical Musket - Desperado\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Magibullet - Death-perado",
         "date": "2017-08-11"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9f/MagibulletDeathperado-DBSW-JP-C.png"
+    "tcg": {
+        "pack": "Spirit Warriors",
+        "pack_id": "SPWA-DE025",
+        "date": "2017-11-16"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/64/MagicalMusketDesperado-SPWA-EN-SR-1E.png"
 }

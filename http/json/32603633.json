@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Backs to the Wall",
-    "desc": "Pay Life Points so that you only have 100 left. Special Summon as many \"Six Samurai\" monsters from your Graveyard as possible. You cannot Special Summon more than 1 monster with the same name, or a monster that has the same name as a monster you control.",
+    "desc": "Pay LP so that you only have 100 left; Special Summon as many \"Six Samurai\" monsters with different names from your GY as possible. You cannot Special Summon a monster with the same name as a monster you already control.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Backs to the Wall",
         "date": "2007-05-05"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/63/BackstotheWall-FOTB-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cc/BackstotheWall-SPWA-EN-SR-1E.png"
 }
