@@ -96,8 +96,11 @@ async.each(input_file, function (line, next){
                 if(ocg_list != undefined){
                     card_json.id = parseInt(PRERELEASE[card_json.ocg.pack_id.split('-JP')[0]] + card_json.ocg.pack_id.split('-JP')[1]);
                 }
-                else{
+                else if(tcg_list != undefined){
                     card_json.id = parseInt(PRERELEASE[card_json.tcg.pack_id.split('-DE')[0]] + card_json.tcg.pack_id.split('-DE')[1]);
+                }
+                else{
+                    card_json.id = undefined;
                 }
             }
 
