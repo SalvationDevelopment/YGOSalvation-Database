@@ -126,7 +126,22 @@ function gitRoute(request, response, next) {
     });
 }
 
+function cdbRoute(request, response, next) {
+    response.setHeader('Content-Type', 'text/html');
+    response.write('Attempting to Update card database sqlite file...\r\n');
+    var gitShell = child_process.exec('git pull', {}, function(error, stdout, stderr) {
+        if (error) {
+            response.write(JSON.stringify(error) + '\r\n\r\n');
+        }
+        response.write(JSON.stringify(stdout) + '\r\n\r\n');
+        jsonGenerator.generateCDB({}, response, function(){
+            
+        });
+    });
+}
+
 // Setup routes
 app.get('/update', regenerate);
 app.get('/git', gitRoute);
+app.get('/cdb', cdbRoute);
 app.post('/git', gitRoute);
