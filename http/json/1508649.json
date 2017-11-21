@@ -1,0 +1,23 @@
+{
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP046",
+        "date": "2017-10-14"
+    },
+    "tcg": {},
+    "id": 1508649,
+    "setcode": 259,
+    "type": 33554465,
+    "atk": 1500,
+    "def": "-",
+    "level": 2,
+    "race": 2,
+    "attribute": 4,
+    "name": "Altergeist Hextia",
+    "desc": "Link Arrows: [🡳][🡲]\n\n2 \"Altergeist\" monsters\nGains ATK equal to the combined original ATK of all \"Altergeist\" monsters this card points to. When a Spell/Trap Card or effect is activated (Quick Effect): You can Tribute 1 \"Altergeist\" monster this card points to; negate the activation, and if you do, destroy that card. If this card is sent from the field to the GY: You can add 1 \"Altegeist\" card from your Deck to your hand. You can only use this effect of \"Altergeist Hextia\" once per turn.",
+    "links": [
+        4,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/83/AltergeistHextia-EXFO-JP-SR.png"
+}

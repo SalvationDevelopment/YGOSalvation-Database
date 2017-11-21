@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 22512237,
-        "pack_id": "EE04-JP018",
-        "pack": "Expert Edition Volume 4",
+        "pack_id": "CRV-JP018",
+        "pack": "Cybernetic Revolution",
         "rarity": "共通",
-        "date": 1190437200000
+        "date": "2005-05-26"
     },
     "tcg": {
         "id": 22512237,
-        "pack_id": "CRV-EN018",
+        "pack_id": "CRV-DE018",
         "pack": "Cybernetic Revolution",
         "rarity": "Common",
-        "date": 1123304400000
+        "date": "2005-08-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/MechanicalHound-DR04-NA-C-UE.png"
 }
