@@ -1,0 +1,23 @@
+{
+    "ocg": {
+        "pack": "LINK VRAINS Pack",
+        "pack_id": "LVP1-JP096",
+        "date": "2017-11-25"
+    },
+    "tcg": {},
+    "id": 100223096,
+    "setcode": 0,
+    "type": 33554465,
+    "atk": 1800,
+    "def": "-",
+    "level": 2,
+    "links": [
+        5,
+        7
+    ],
+    "race": 2,
+    "attribute": 32,
+    "name": "Aleister the Meltdown Invoker",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 monsters with different Types and Attributes\nThis card's name becomes \"Aleister the Invoker\" while on the field or in the GY. If a Fusion Monster is Fusion Summoned: You can discard 1 card, and if you do, add 1 \"Invocation\" or \"The Book of the Law\" from your Deck to your hand. If this face-up card in its owner's control leaves the field because of an opponent's card effect: You can add 1 \"Omega Summon\" from your Deck to your hand.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/84/AleistertheMeltdownInvoker-LVP1-JP-SR.png"
+}
