@@ -1,0 +1,23 @@
+{
+    "ocg": {
+        "pack": "LINK VRAINS Pack",
+        "pack_id": "LVP1-JP021",
+        "date": "2017-11-25"
+    },
+    "tcg": {},
+    "id": 61888819,
+    "setcode": 659466,
+    "type": 33554465,
+    "atk": 2000,
+    "def": "-",
+    "level": 2,
+    "links": [
+        1,
+        6
+    ],
+    "race": 8,
+    "attribute": 16,
+    "name": "Steelswarm Origin",
+    "desc": "Link Arrows: [🡱][🡳]\n\n2 \"lswarm\" monsters\nWhile this card is in an Extra Monster Zone, neither player can Special Summon monsters from the Extra Deck to Main Monster Zones, except to zones this card points to. While this card points to a monster, this card cannot be destroyed by battle or card effects, also neither player can target it with card effects. Once per turn, when a monster(s) on the field is destroyed by battle or card effect: You can Special Summon Level 4 or lower \"lswarm\" monsters from your Deck in Defense Position, up the number of monsters destroyed.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/de/SteelswarmOrigin-LVP1-JP-SR.png"
+}
