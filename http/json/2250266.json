@@ -30,13 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Extreme Victory",
+        "pack_id": "EXVC-JP011",
+        "date": "2011-02-11"
+    },
     "tcg": {
         "id": 2250266,
         "pack_id": "EXVC-EN011",
         "pack": "Extreme Victory",
         "rarity": "Common",
-        "date": 1305003600000
+        "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/MorphtronicStaplen-EXVC-EN-C-1E.jpg"
 }

@@ -1,0 +1,24 @@
+{
+    "ocg": {
+        "pack": "LINK VRAINS Pack",
+        "pack_id": "LVP1-JP071",
+        "date": "2017-11-25"
+    },
+    "tcg": {},
+    "id": 85216896,
+    "setcode": 196,
+    "type": 33554465,
+    "atk": 2500,
+    "def": "-",
+    "level": 3,
+    "links": [
+        5,
+        6,
+        7
+    ],
+    "race": 8388608,
+    "attribute": 16,
+    "name": "Zefra Metaltron",
+    "desc": "Link Arrows: [🡷][🡳][🡶]\n\n2+ monsters that were Special Summoned from the Extra Deck\nIf a monster this card points to that was Special Summoned from the Extra Deck is destroyed by battle or an opponent's card effect: You can add to your hand, 1 monster from your GY or 1 face-up Pendulum Monster from your Extra Deck. You can target 1 other monster you control and 1 monster your opponent controls that were Special Summoned from the Extra Deck; banish both monsters until the End Phase. You can only use each effect of \"Zefra Metaltron\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/66/ZefraMetaltron-LVP1-JP-SR.png"
+}
