@@ -11,13 +11,12 @@ var scraperjs = require('scraperjs'),
     PRERELEASE = require('./utility/prerelease.json'),
     markers;
 
-async.each(input_file, function (line, next){
-    line = line.replace('_',' ').trim();
+async.each(input_file, function (wiki_url, next){
     scraperjs.StaticScraper.create()
-        .request({ url:'http://yugioh.wikia.com/wiki/'+line })
+        .request({ url: encodeURI('http://yugioh.wikia.com/wiki/'+wiki_url).replace('#','').replace('?','%3F'), encoding: 'utf8', headers: {connection: 'keep-alive'}, agent: false })
         .scrape(function($) {
             // Setcode operation
-            console.log('Reading: '+line);
+            console.log('Reading: '+encodeURI('http://yugioh.wikia.com/wiki/'+wiki_url));
             setcode = []; 
             $('dt').filter(function() {
                 return $(this).text().match(/Archetypes and series(.*)/);
