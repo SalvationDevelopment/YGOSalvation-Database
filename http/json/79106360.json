@@ -1,48 +1,23 @@
 {
+    "ocg": {
+        "pack": "Curse of Anubis",
+        "pack_id": "CA-41",
+        "date": "2000-09-28"
+    },
+    "tcg": {
+        "pack": "Pharaoh's Servant",
+        "pack_id": "PSV-040",
+        "date": "2002-10-20"
+    },
     "id": 79106360,
-    "ot": 3,
-    "alias": 0,
-    "setcode": 0,
+    "setcode": 207,
     "type": 2097185,
     "atk": 800,
     "def": 700,
     "level": 3,
     "race": 256,
     "attribute": 1,
-    "category": 262312,
-    "name": "Morphing Jar",
-    "desc": "FLIP: Both players discard their entire hands, then draw 5 cards.",
-    "str1": "",
-    "str2": "",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "links": [],
-    "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 79106360,
-        "pack_id": "",
-        "pack": "Booster 5",
-        "rarity": "Morphing Jar",
-        "date": "1999-10-17"
-    },
-    "tcg": {
-        "id": 79106360,
-        "pack_id": "TP2-001",
-        "pack": "Tournament Pack: 2nd Season",
-        "rarity": "Morphing Jar",
-        "date": "2002-10-01"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4a/MorphingJar-PGLD-EN-GUR-1E.png"
+    "name": "Morphing Jar #2",
+    "desc": "FLIP: Shuffle all monsters on the field into the Deck. Then, each player excavates cards from the top of their Deck, until they excavate the same number of monsters they shuffled into their Main Deck. Special Summon all excavated Level 4 or lower monsters in face-down Defense Position, also send the remaining cards to the Graveyard.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/MorphingJar2-SP14-EN-C-1E.png"
 }
