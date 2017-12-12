@@ -1,0 +1,19 @@
+{
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP008",
+        "date": "2018-01-13"
+    },
+    "tcg": {},
+    "id": 101004008,
+    "setcode": 251,
+    "type": 33,
+    "atk": 1400,
+    "def": 1900,
+    "level": 4,
+    "race": 4,
+    "attribute": 16,
+    "name": "Trickstar Shakunage",
+    "desc": "You can discard 1 \"Trickstar\" card, then target 1 \"Trickstar\" Link Monster in your GY: Special Summon it. You can only use this effect of \"Trickstar Shakunage\" once per turn. Each time a card(s) is banished from your opponent's GY, inflict 200 damage to them for each.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/07/TrickstarShakunage-FLOD-JP-OP.png"
+}

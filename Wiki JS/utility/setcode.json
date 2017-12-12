@@ -54,6 +54,7 @@
  "Neos": "0x9",
  "Steelswarm": "0x100a",
  "X-Saber": "0x100d",
+ "Elementsaber": "0x400d",
  "Watt": "0xe",
  "Meklord Emperor": "0x3013",
  "Meklord Army": "0x6013",
@@ -328,10 +329,11 @@
  "The Weather": "0x109",
  "Parshath": "0x10a",
  "Tindangle": "0x10b",
- "Jack Knight": "0x10c",
+ "Mekk-Knight": "0x10c",
  "Mythical Beast": "0x10d",
  "Evolution Pill": "0x10e",
  "Borrel": "0x10f", 
  "Eyes Restrict": "0x110",
- "Armed Dragon": "0x111"
+ "Armed Dragon": "0x111",
+ "Elemental Lord": "0x212"
 }

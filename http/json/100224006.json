@@ -1,0 +1,19 @@
+{
+    "ocg": {
+        "pack": "Premium Pack 20",
+        "pack_id": "PP20-JP006",
+        "date": "2018-03-10"
+    },
+    "tcg": {},
+    "id": 100224006,
+    "setcode": 242,
+    "type": 2,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "name": "Pendulum Halt",
+    "desc": "If you have 3 or more face-up Pendulum Monsters with different names in your Extra Deck: Draw 2 cards, also for the rest of this turn after this card resolves, you cannot add cards from your Deck to your hand.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2a/PendulumHalt-PP20-JP-OP.png"
+}

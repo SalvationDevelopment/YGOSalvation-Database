@@ -1,0 +1,22 @@
+{
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP039",
+        "date": "2018-01-13"
+    },
+    "tcg": {},
+    "id": 101004039,
+    "setcode": 251,
+    "type": 33554465,
+    "atk": 100,
+    "def": "-",
+    "level": 1,
+    "links": [
+        6
+    ],
+    "race": 4,
+    "attribute": 16,
+    "name": "Trickstar Bloom",
+    "desc": "Link Arrows: [🡳]\n\n1 Level 2 or lower \"Trickstar\" monster\nIf this card is Link Summoned: You can make your opponent draw 1 card. If a \"Trickstar\" monster(s) this card points to is destroyed by battle or card effect: You can inflict 200 damage to your opponent for each card in their hand. You can only use this effect of \"Trickstar Bloom\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0d/TrickstarBloom-FLOD-JP-OP.png"
+}
