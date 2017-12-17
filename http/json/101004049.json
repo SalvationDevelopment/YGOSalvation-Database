@@ -1,0 +1,23 @@
+{
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP049",
+        "date": "2018-01-13"
+    },
+    "tcg": {},
+    "id": 101004049,
+    "setcode": 88,
+    "type": 33554465,
+    "atk": 1800,
+    "def": "-",
+    "level": 2,
+    "links": [
+        5,
+        7
+    ],
+    "race": 32,
+    "attribute": 16,
+    "name": "Wind-Up Maintenance Zenmaicon",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 \"Wind-Up\" monsters\nIf this card is destroyed and sent to the GY: You can target 1 \"Wind-Up\" Xyz Monster you control; attach this card to it as material. You can only use each of the following effects of \"Wind-Up Maintenance Zenmaicon\" once per turn.\n● If this card is Link Summoned: You can add 1 \"Wind-Up\" card from your Deck to your hand.\n● You can banish 1 face-up \"Wind-Up\" monster you control, face-down; Special Summon 1 monster with the same name from your Deck.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d3/WindUpMaintenanceZenmaicon-FLOD-JP-OP.png"
+}

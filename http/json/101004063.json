@@ -1,0 +1,19 @@
+{
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP063",
+        "date": "2018-01-13"
+    },
+    "tcg": {},
+    "id": 101004063,
+    "setcode": 0,
+    "type": 65538,
+    "atk": 0,
+    "def": 0,
+    "level": 0,
+    "race": 0,
+    "attribute": 0,
+    "name": "Bound Link",
+    "desc": "Target 1 Link Monster you control or in your GY; return it to the Extra Deck, and if you do, draw cards equal to its Link Rating, then place cards from your hand on the bottom of the Deck in any order, equal to the number of cards you drew with this effect. You can only activate 1 \"Bound Link\" per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/BoundLink-FLOD-JP-OP.png"
+}
