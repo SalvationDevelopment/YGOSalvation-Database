@@ -216,4 +216,4 @@ async function generate(filename) {
 }
 
 
-generate('cards.cdb');
+//generate('cards.cdb');
