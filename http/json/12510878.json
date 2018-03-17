@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 286976,
     "name": "Neo-Parshath, the Sky Paladin",
-    "desc": "You can Special Summon this card (from your hand) by Tributing 1 \"Airknight Parshath\" you control. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. When this card inflicts Battle Damage to your opponent: Draw 1 card. While \"The Sanctuary in the Sky\" is on the field and your Life Points are higher than your opponent's, this card gains ATK and DEF equal to the difference in Life Points.",
+    "desc": "You can Special Summon this card (from your hand) by Tributing 1 \"Airknight Parshath\". If this card attacks a Defense Position monster, inflict piercing battle damage. If this card inflicts battle damage to your opponent: Draw 1 card. While \"The Sanctuary in the Sky\" is on the field and your LP is higher than your opponent's, this card gains ATK/DEF equal to the difference in LP.",
     "str1": "Draw card",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Neo-Parshath, the Sky Paladin",
         "date": "2007-02-24"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/98/NeoParshaththeSkyPaladin-CT08-EN-SR-LE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/53/NeoParshaththeSkyPaladin-SR05-EN-C-1E.png"
 }

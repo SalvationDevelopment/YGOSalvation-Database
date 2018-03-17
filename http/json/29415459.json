@@ -1,7 +1,15 @@
 {
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP017",
+        "date": "2017-10-14"
+    },
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE017",
+        "date": "2018-02-01"
+    },
     "id": 29415459,
-    "ot": 1,
-    "alias": 0,
     "setcode": 268,
     "type": 33,
     "atk": 2200,
@@ -9,24 +17,7 @@
     "level": 7,
     "race": 1048576,
     "attribute": 16,
-    "category": 262145,
-    "name": "Jack Knight of the Golden Blossom",
-    "desc": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) to that column. You can only Special Summon \"Jack Knight of the Golden Blossom\" once per turn this way. You can banish 1 \"Jack Knight\" monster from your GY, then target 1 Spell/Trap on the field in this card's column; destroy it.",
-    "str1": "",
-    "str2": "",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG"
+    "name": "Mekk-Knight Yellow Star",
+    "desc": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) in that column. You can only Special Summon \"Mekk-Knight Yellow Star\" once per turn this way. You can banish 1 \"Mekk-Knight\" monster from your GY, then target 1 Spell/Trap in this card's column; destroy it.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ef/MekkKnightYellowStar-EXFO-EN-R-1E.png"
 }

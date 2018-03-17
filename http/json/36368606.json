@@ -1,7 +1,15 @@
 {
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP067",
+        "date": "2017-10-14"
+    },
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE067",
+        "date": "2018-02-01"
+    },
     "id": 36368606,
-    "ot": 1,
-    "alias": 0,
     "setcode": 0,
     "type": 4,
     "atk": 0,
@@ -9,24 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "category": 262146,
     "name": "Cynet Refresh",
-    "desc": "When an opponent's Cyberse monster declares an attack: Destroy as many monsters in the Main Monster Zones as possible, and if you do, during the End Phase of this turn, Special Summon as many Cyberse Link Monsters among those destroyed monsters in the GY as possible to their owner's fields. When your opponent activates a monster effect: You can banish this card from your GY; Cyberse Link Monsters you control are unaffected by card effects (except their own) until the end of this turn.",
-    "str1": "",
-    "str2": "",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG"
+    "desc": "When an opponent's Cyberse monster declares an attack: Destroy all monsters in the Main Monster Zones. During the End Phase of this turn, Special Summon from the GY as many Cyberse Link Monsters as possible, to their owner's fields, that were destroyed by this effect. When an opponent's monster activates its effect: You can banish this card from your GY; Cyberse Link Monsters you currently control are unaffected by other card effects, until the end of this turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8a/CynetRefresh-EXFO-EN-C-1E.png"
 }

@@ -1,32 +1,24 @@
 {
+    "ocg": {
+        "pack": "Structure Deck: Powercode Link",
+        "pack_id": "SD33-JP040",
+        "date": "2017-12-09"
+    },
+    "tcg": {},
     "id": 15844566,
-    "ot": 1,
-    "alias": 0,
     "setcode": 257,
-    "type": 67108897,
+    "type": 33554465,
     "atk": 2300,
-    "def": 41,
+    "def": "-",
     "level": 3,
+    "links": [
+        3,
+        4,
+        5
+    ],
     "race": 16777216,
     "attribute": 4,
-    "category": 2147491840,
     "name": "Powercode Talker",
-    "desc": "3 monsters\r\nOnce per turn: You can target 1 face-up monster on the field; it has its effects negated until the end of this turn. Once per turn, during damage calculation, if this card battles an opponent's monster: You can Tribute 1 monster this card points to; this card's ATK becomes double its original ATK during that damage calculation only.",
-    "str1": "Negate effect",
-    "str2": "ATK becomes equal to original ATK * 2",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG"
+    "desc": "Link Arrows: [🡰][🡷][🡲]\n\n3 monsters\nOnce per turn: You can target 1 face-up monster on the field; it has its effects negated until the end of this turn. Once per turn, during damage calculation, if this card battles an opponent's monster (Quick Effect): You can Tribute 1 monster this card points to; this card's ATK becomes double its original ATK during that damage calculation only.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b2/PowercodeTalker-SD33-JP-UR.png"
 }

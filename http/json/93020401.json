@@ -1,7 +1,15 @@
 {
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP016",
+        "date": "2017-10-14"
+    },
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE016",
+        "date": "2018-02-01"
+    },
     "id": 93020401,
-    "ot": 1,
-    "alias": 0,
     "setcode": 268,
     "type": 33,
     "atk": 800,
@@ -9,24 +17,7 @@
     "level": 6,
     "race": 1048576,
     "attribute": 16,
-    "category": 262144,
-    "name": "Jack Knight of the Amber Shade",
-    "desc": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) to that column. You can only Special Summon \"Jack Knight of the Amber Shade\" once per turn this way. If an opponent's card in this card's column is destroyed by battle or leaves the field: You can Special Summon 1 \"Jack Knight\" monster from your hand.",
-    "str1": "",
-    "str2": "",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG"
+    "name": "Mekk-Knight Orange Sunset",
+    "desc": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) in that column. You can only Special Summon \"Mekk-Knight Orange Sunset\" once per turn this way. If an opponent's card in this card's column is destroyed by battle, or leaves the field: You can Special Summon 1 \"Mekk-Knight\" monster from your hand.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/86/MekkKnightOrangeSunset-EXFO-EN-C-1E.png"
 }

@@ -1,7 +1,15 @@
 {
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP051",
+        "date": "2017-10-14"
+    },
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE051",
+        "date": "2018-02-01"
+    },
     "id": 73275815,
-    "ot": 1,
-    "alias": 0,
     "setcode": 137,
     "type": 2,
     "atk": 0,
@@ -9,24 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "category": 2,
-    "name": "Linkage Hole",
-    "desc": "If you control a Link 4 or higher monster: Destroy monsters your opponent controls, up to the number of Link 3 or higher monsters you control. You can only activate 1 \"Linkage Hole\" per turn.",
-    "str1": "",
-    "str2": "",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG"
+    "name": "Link Hole",
+    "desc": "If you control a Link-4 or higher monster: Destroy monsters your opponent controls, up to the number of Link-3 or higher monsters you control. You can only activate 1 \"Link Hole\" per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ed/LinkHole-EXFO-EN-C-1E.png"
 }

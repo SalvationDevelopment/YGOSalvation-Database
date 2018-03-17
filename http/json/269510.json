@@ -1,32 +1,23 @@
 {
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP052",
+        "date": "2017-10-14"
+    },
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE052",
+        "date": "2018-02-01"
+    },
     "id": 269510,
-    "ot": 1,
-    "alias": 0,
     "setcode": 0,
     "type": 524290,
     "atk": 0,
-    "def": 0,
+    "def": "-",
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "category": 8192,
     "name": "Fire Prison",
-    "desc": "All Dragon monsters on the field gain 300 DEF. Neither player can Link Summon a monster with a lower Link Rating than a Link Monster on the field. Monsters cannot attack, except Link Monsters. If 2 or more Cyberse Link Monsters are on the field, apply these effects.\r\n● Negate the activated effects of Cyberse monsters.\r\n● Cyberse monsters on the field cannot attack, monsters cannot target them for attacks, also neither player can target them with card effects.",
-    "str1": "",
-    "str2": "",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG"
+    "desc": "All Dragon monsters on the field gain 300 DEF. If any Link Monster is on the field, neither player can Link Summon a monster with a lower Link Rating than the highest Link Rating on the field. Monsters cannot attack, except Link Monsters. Apply the following effects while 2 or more Cyberse Link Monsters are on the field.\n● Negate the activated effects of Cyberse monsters.\n● Cyberse monsters cannot attack, cannot be targeted for attacks, and cannot be targeted by card effects.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9c/FirePrison-EXFO-EN-C-1E.png"
 }

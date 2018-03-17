@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8192,
     "name": "Crystal Release",
-    "desc": "Equip only to a \"Crystal Beast\" monster. It gains 800 ATK. When this card is sent from the field to the Graveyard: You can place 1 \"Crystal Beast\" monster from your Deck face-up in your Spell & Trap Card Zone as a Continuous Spell Card.",
+    "desc": "Equip only to a \"Crystal Beast\" monster. It gains 800 ATK. When this card is sent from the field to the GY: You can place 1 \"Crystal Beast\" monster from your Deck face-up in your Spell & Trap Zone as a Continuous Spell.",
     "str1": "Place 1 \"Crystal Beast\" monster from your Deck face-up in your Spell/Trap Zone",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Crystal Release",
         "date": "2008-01-22"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ac/CrystalRelease-RYMP-EN-C-1E.jpg"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/91/CrystalRelease-LED2-EN-C-1E.png"
 }

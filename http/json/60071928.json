@@ -1,7 +1,11 @@
 {
+    "ocg": {
+        "pack": "Premium Pack 20",
+        "pack_id": "PP20-JP012",
+        "date": "2018-03-10"
+    },
+    "tcg": {},
     "id": 60071928,
-    "ot": 1,
-    "alias": 0,
     "setcode": 0,
     "type": 4129,
     "atk": 100,
@@ -9,24 +13,7 @@
     "level": 1,
     "race": 32,
     "attribute": 1,
-    "category": 262144,
     "name": "Righty Driver",
     "desc": "For a Synchro Summon, you can substitute this card for any 1 \"Synchron\" Tuner. If this card is Normal Summoned: You can Special Summon 1 \"Lefty Driver\" from your hand, Deck, or GY. You can only use this effect of \"Righty Driver\" once per turn.",
-    "str1": "Special Summon \"Lefty Driver\"",
-    "str2": "",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c9/RightyDriver-PP20-JP-C.png"
 }

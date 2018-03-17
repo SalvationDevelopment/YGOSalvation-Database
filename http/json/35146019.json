@@ -1,7 +1,15 @@
 {
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP070",
+        "date": "2017-10-14"
+    },
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE070",
+        "date": "2018-02-01"
+    },
     "id": 35146019,
-    "ot": 1,
-    "alias": 0,
     "setcode": 259,
     "type": 4,
     "atk": 0,
@@ -9,24 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "category": 262160,
-    "name": "Altergeist Materialization",
-    "desc": "Activate this card by targeting 1 \"Altergeist\" monster in your GY; Special Summon it in Attack Position, and if you do, equip this card to it. When this card leaves the field, destroy the equipped monster. You can banish this card from your GY, then target 1 \"Altergeist\" Trap in your GY; add it to your hand. You can only use this effect of \"Altergeist Materialization\" once per turn.",
-    "str1": "",
-    "str2": "",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG"
+    "name": "Altergeist Manifestation",
+    "desc": "Target 1 \"Altergeist\" monster in your GY; Special Summon it in Attack Position and equip it with this card. When this card leaves the field, destroy that monster. You can banish this card from your GY, then target 1 \"Altergeist\" Trap in your GY; add it to your hand. You can only use this effect of \"Altergeist Manifestation\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/75/AltergeistManifestation-EXFO-EN-SR-1E.png"
 }

@@ -1,7 +1,15 @@
 {
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP054",
+        "date": "2017-10-14"
+    },
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE054",
+        "date": "2018-02-01"
+    },
     "id": 63053267,
-    "ot": 1,
-    "alias": 0,
     "setcode": 0,
     "type": 131074,
     "atk": 0,
@@ -9,24 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "category": 528,
     "name": "Nagel's Protection",
-    "desc": "\"Tindangle\" monsters in your Main Monster Zone cannot be destroyed by battle or your opponent's card effects. The first battle damage your \"Tindangle\" monster inflicts to your opponent each turn becomes doubled. You can banish this card from your GY and discard 1 \"Tindangle\" card; add 1 \"Nagel's Protection\" from your Deck to your hand. You can only use this effect of \"Nagel's Protection\" once per turn.",
-    "str1": "",
-    "str2": "",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG"
+    "desc": "\"Tindangle\" monsters in your Main Monster Zone cannot be destroyed by battle or your opponent's card effects. Once per turn, if your \"Tindangle\" monster inflicts battle damage to your opponent, the damage becomes doubled. You can banish this card from your GY and discard 1 \"Tindangle\" card; add 1 \"Nagel's Protection\" from your Deck to your hand. You can only use this effect of \"Nagel's Protection\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/85/NagelsProtection-EXFO-EN-C-1E.png"
 }

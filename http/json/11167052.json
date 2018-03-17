@@ -1,7 +1,11 @@
 {
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP074",
+        "date": "2018-01-13"
+    },
+    "tcg": {},
     "id": 11167052,
-    "ot": 1,
-    "alias": 0,
     "setcode": 0,
     "type": 131076,
     "atk": 0,
@@ -9,24 +13,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "category": 262160,
     "name": "Elemental Training",
     "desc": "Your opponent cannot target \"Temple of the Elemental Lords\" you control with card effects, also it cannot be destroyed by card effects. Once per turn: You can Tribute 1 monster; Special Summon 1 \"Elementsaber\" monster from your Deck with a different original Attribute from that monster's. You can send this face-up card to the GY; discard your entire hand, then add \"Elemental Lord\" monsters from your GY to your hand, equal to the number of cards you discarded.",
-    "str1": "Special Summon",
-    "str2": "Discard & search \"Elemental Lord\"(s)",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/ElementalTraining-FLOD-JP-C.png"
 }

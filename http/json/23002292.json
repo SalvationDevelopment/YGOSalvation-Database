@@ -1,7 +1,11 @@
 {
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP068",
+        "date": "2018-01-13"
+    },
+    "tcg": {},
     "id": 23002292,
-    "ot": 1,
-    "alias": 0,
     "setcode": 0,
     "type": 1048580,
     "atk": 0,
@@ -9,24 +13,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "category": 2147483648,
     "name": "Red Reboot",
     "desc": "When your opponent activates a Trap Card: Negate the activation, and if you do, Set that card face-down, then your opponent can Set 1 Trap directly from their Deck. For the rest of this turn after this card resolves, your opponent cannot activate Trap Cards. You can activate this card from your hand by paying half your LP.",
-    "str1": "Set 1 Trap from the Deck?",
-    "str2": "",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2b/RedReboot-FLOD-JP-C.png"
 }

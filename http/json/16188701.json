@@ -1,7 +1,11 @@
 {
+    "ocg": {
+        "pack": "Structure Deck: Powercode Link",
+        "pack_id": "SD33-JP005",
+        "date": "2017-12-09"
+    },
+    "tcg": {},
     "id": 16188701,
-    "ot": 1,
-    "alias": 0,
     "setcode": 0,
     "type": 33,
     "atk": 1700,
@@ -9,24 +13,7 @@
     "level": 4,
     "race": 16777216,
     "attribute": 16,
-    "category": 528,
     "name": "Lady Debugger",
     "desc": "If this card is Normal or Special Summoned: You can add 1 Level 3 or lower Cyberse monster from your Deck to your hand. You can only use this effect of \"Lady Debugger\" once per turn.",
-    "str1": "",
-    "str2": "",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/12/LadyDebugger-SD33-JP-SR.png"
 }

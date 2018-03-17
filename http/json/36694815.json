@@ -1,7 +1,15 @@
 {
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP005",
+        "date": "2017-10-14"
+    },
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE005",
+        "date": "2018-02-01"
+    },
     "id": 36694815,
-    "ot": 1,
-    "alias": 0,
     "setcode": 0,
     "type": 33,
     "atk": 1500,
@@ -9,24 +17,7 @@
     "level": 4,
     "race": 16777216,
     "attribute": 1,
-    "category": 262144,
-    "name": "Bitlooper",
-    "desc": "You can send 1 Level 2 or lower monster from your hand to the GY; Special Summon this card from your hand. You can only use this effect of \"Bitlooper\" once per turn.",
-    "str1": "",
-    "str2": "",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG"
+    "name": "Bitrooper",
+    "desc": "You can send 1 Level 2 or lower monster from your hand to the GY; Special Summon this card from your hand. You can only use this effect of \"Bitrooper\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/Bitrooper-EXFO-EN-C-1E.png"
 }

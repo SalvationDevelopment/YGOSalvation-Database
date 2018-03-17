@@ -1,32 +1,23 @@
 {
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP007",
+        "date": "2017-10-14"
+    },
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE007",
+        "date": "2018-02-01"
+    },
     "id": 5087128,
-    "ot": 1,
-    "alias": 0,
-    "setcode": 258,
+    "setcode": 0,
     "type": 33,
     "atk": 1100,
     "def": 2000,
     "level": 2,
     "race": 8192,
     "attribute": 32,
-    "category": 262146,
-    "name": "Shellrokket Dragon",
-    "desc": "When a Link Monster's effect is activated that targets this face-up card on the field (Quick Effect): You can destroy this card, then destroy 1 monster in the same column as the zone this card was in, and if there is a monster(s) in the zones adjacent (horizontal) to that destroyed monster, destroy that monster(s). During the End Phase, if this card is in the GY because it was destroyed on the field by battle or card effect and sent there this turn: You can Special Summon 1 \"Rokket\" monster from your Deck, except \"Shellrokket Dragon\". You can only use each effect of \"Shellrokket Dragon\" once per turn.",
-    "str1": "",
-    "str2": "",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG"
+    "name": "Shelrokket Dragon",
+    "desc": "When a Link Monster's effect is activated that targets this face-up card on the field (Quick Effect): You can destroy this card, then destroy 1 monster in the column this card was in, and if you do, destroy any monsters in that card's adjacent zones. During the End Phase, if this card is in the GY because it was destroyed on the field by battle or card effect and sent there this turn: You can Special Summon 1 \"Rokket\" monster from your Deck, except \"Shelrokket Dragon\". You can only use each effect of \"Shelrokket Dragon\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/49/ShelrokketDragon-EXFO-EN-R-1E.png"
 }

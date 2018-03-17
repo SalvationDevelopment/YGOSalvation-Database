@@ -1,7 +1,15 @@
 {
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP071",
+        "date": "2017-10-14"
+    },
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE071",
+        "date": "2018-02-01"
+    },
     "id": 62530723,
-    "ot": 1,
-    "alias": 0,
     "setcode": 254,
     "type": 131076,
     "atk": 0,
@@ -9,24 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "category": 2147491840,
-    "name": "Whisper of the World Legacy",
-    "desc": "When this card is activated: You can target 1 Level 5 or higher monster on the field; it gains 1000 ATK/DEF until the end of this turn (even if this card leaves the field). When an opponent's Spell Card or effect activated in the same column as a \"Jack Knight\" monster you control resolves, negate that effect.",
-    "str1": "Increase ATK and DEF?",
-    "str2": "",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG"
+    "name": "World Legacy Whispers",
+    "desc": "When this card is activated: You can target 1 Level 5 or higher monster on the field; it gains 1000 ATK/DEF until the end of this turn. Negate any opponent's Spell Card effect that activates in the same column as a \"Mekk-Knight\" monster you control.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1e/WorldLegacyWhispers-EXFO-EN-R-1E.png"
 }

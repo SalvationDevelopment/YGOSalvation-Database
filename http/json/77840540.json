@@ -1,7 +1,15 @@
 {
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 2",
+        "pack_id": "DP19-JP009",
+        "date": "2017-11-11"
+    },
+    "tcg": {
+        "pack": "Legendary Duelists: Ancient Millennium",
+        "pack_id": "LED2-DE009",
+        "date": "2018-02-22"
+    },
     "id": 77840540,
-    "ot": 3,
-    "alias": 0,
     "setcode": 0,
     "type": 65538,
     "atk": 0,
@@ -9,24 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "category": 0,
     "name": "Cocoon of Ultra Evolution",
     "desc": "Tribute 1 Insect monster from either field equipped with an Equip Card, and if you do, Special Summon 1 Insect monster from your Deck, ignoring its Summoning conditions. During your Main Phase: You can banish this card from your GY, then target 1 Insect monster in your GY; shuffle it into the Deck, then draw 1 card. You can only use this effect of \"Cocoon of Ultra Evolution\" once per turn.",
-    "str1": "",
-    "str2": "",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG/TCG"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f5/CocoonofUltraEvolution-LED2-EN-UR-1E.png"
 }

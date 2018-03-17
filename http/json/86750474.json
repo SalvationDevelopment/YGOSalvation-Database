@@ -1,32 +1,24 @@
 {
+    "ocg": {
+        "pack": "LINK VRAINS Box",
+        "pack_id": "LVB1-JP006",
+        "date": "2017-12-23"
+    },
+    "tcg": {},
     "id": 86750474,
-    "ot": 1,
-    "alias": 0,
     "setcode": 251,
-    "type": 67108897,
+    "type": 33554465,
     "atk": 2200,
-    "def": 168,
+    "def": "-",
     "level": 3,
+    "links": [
+        1,
+        3,
+        4
+    ],
     "race": 4,
     "attribute": 16,
-    "category": 4456448,
     "name": "Trickstar Foxywitch",
-    "desc": "2+ Fairy monsters\r\nIf this card is Special Summoned: You can inflict 200 damage to your opponent for each card they control. If this Link Summoned card is destroyed by battle or card effect: You can Special Summon 1 Link-2 or lower \"Trickstar\" monster from your Extra Deck, then inflict 200 damage to your opponent for each card they control. You can only use each effect of \"Trickstar Foxywitch\" once per turn.",
-    "str1": "Damage",
-    "str2": "Special Summon & damage",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG"
+    "desc": "Link Arrows: [🡱][🡰][🡲]\n\n2+ Fairy monsters\nIf this card is Special Summoned: You can inflict 200 damage to your opponent for each card they control. If this Link Summoned card is destroyed by battle or card effect: You can Special Summon 1 Link-2 or lower \"Trickstar\" monster from your Extra Deck, then inflict 200 damage to your opponent for each card they control. You can only use each effect of \"Trickstar Foxywitch\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/df/TrickstarFoxywitch-LVB1-JP-UR.png"
 }

@@ -1,7 +1,15 @@
 {
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP069",
+        "date": "2017-10-14"
+    },
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE069",
+        "date": "2018-02-01"
+    },
     "id": 99157310,
-    "ot": 1,
-    "alias": 0,
     "setcode": 267,
     "type": 4,
     "atk": 0,
@@ -9,24 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "category": 262144,
     "name": "Tindangle Delaunay",
-    "desc": "When you take battle damage from an opponent's attacking monster while you have 3 or more \"Tindangle\" monsters with different names in your GY: Destroy the attacking monster, and if you do, Special Summon 1 \"Tindangle Acute Cerberus\" from your Extra Deck. If you control no monsters in the Extra Monster Zone: You can banish this card from your GY, then target 3 \"Tindangle\" monsters with different names in your GY; Special Summon them in face-down Defense Position.",
-    "str1": "",
-    "str2": "",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG"
+    "desc": "When you take battle damage from an opponent's attacking monster while you have 3 or more \"Tindangle\" monsters with different names in your GY: You can destroy the attacking monster, and if you do, Special Summon 1 \"Tindangle Acute Cerberus\" from your Extra Deck. If you control no monsters in the Extra Monster Zone: You can banish this card from your GY, then target 3 \"Tindangle\" monsters with different names in your GY; Special Summon them in face-down Defense Position.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2f/TindangleDelaunay-EXFO-EN-C-1E.png"
 }

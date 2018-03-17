@@ -1,7 +1,15 @@
 {
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP077",
+        "date": "2017-10-14"
+    },
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE077",
+        "date": "2018-02-01"
+    },
     "id": 50696588,
-    "ot": 1,
-    "alias": 0,
     "setcode": 0,
     "type": 4,
     "atk": 0,
@@ -9,24 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "category": 0,
-    "name": "GUY Dance",
-    "desc": "Choose 1 of your opponent's unused Main Monster Zones; if your opponent would Normal Summon/Set or Special Summon a monster to a Main Monster Zone while the chosen zone can be used, they must use that zone. This effect is applied until a monster is placed in that zone. You can only apply this effect of \"GUY Dance\" once per Duel.",
-    "str1": "",
-    "str2": "",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG"
+    "name": "Dai Dance",
+    "desc": "Choose 1 opponent's unused Main Monster Zones; if your opponent would Normal Summon/Set or Special Summon a monster to their Main Monster Zone, and the chosen zone can be used, they must use that zone. (They cannot Summon multiple monsters to their Main Monster Zones while this effect is applied.) This effect is applies until the zone is occupied or becomes unusable. You can only apply the effect of \"Dai Dance\" once per Duel.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/58/DaiDance-EXFO-EN-C-1E.png"
 }

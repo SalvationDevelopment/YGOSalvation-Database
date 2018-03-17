@@ -1,7 +1,15 @@
 {
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP024",
+        "date": "2017-10-14"
+    },
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE024",
+        "date": "2018-02-01"
+    },
     "id": 54965929,
-    "ot": 1,
-    "alias": 0,
     "setcode": 269,
     "type": 16777249,
     "atk": 1500,
@@ -9,24 +17,7 @@
     "level": 67371012,
     "race": 2,
     "attribute": 16,
-    "category": 67379200,
     "name": "Mythical Beast Medusa",
-    "desc": "[ Pendulum Effect ]\r\nIf you have no cards in your other Pendulum Zone: You can target 1 monster in your GY that you can place a Spell Counter on; destroy this card, and if you do, Special Summon that monster, and if you do that, place 1 Spell Counter on it. You can only use this effect of \"Mythical Beast Medusa\" once per turn.\r\n----------------------------------------\r\n[ Monster Effect ]\r\nEach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Once per turn, during the Battle Phase (Quick Effect): You can remove 2 Spell Counters from your field, then target 1 face-up monster on the field; its ATK/DEF become half its current ATK/DEF until the end of this turn.",
-    "str1": "Destroy and Special Summon",
-    "str2": "Halve ATK/DEF",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG"
+    "desc": "Pendulum Effect\nIf you have no card in your other Pendulum Zone: You can target 1 monster in your GY that you can place a Spell Counter on; destroy this card, and if you do, Special Summon that monster, and if you do that, place 1 Spell Counter on it. You can only use this effect of \"Mythical Beast Medusa\" once per turn.\n\nMonster Effect\nEach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Once per turn, during the Battle Phase (Quick Effect): You can remove 2 Spell Counters from your field, then target 1 face-up monster on the field; its ATK/DEF become half its current ATK/DEF until the end of this turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/be/MythicalBeastMedusa-EXFO-EN-SR-1E.png"
 }

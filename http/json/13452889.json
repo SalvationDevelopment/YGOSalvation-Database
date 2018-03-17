@@ -4,7 +4,11 @@
         "pack_id": "EXFO-JP040",
         "date": "2017-10-14"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE040",
+        "date": "2018-02-01"
+    },
     "id": 13452889,
     "setcode": 69,
     "type": 33554465,
@@ -18,7 +22,7 @@
     ],
     "race": 16777216,
     "attribute": 32,
-    "name": "Vector Square Archfiend",
-    "desc": "Link Arrows: [🡷][🡱][🡲]\n\n2+ Cyberse monsters\nWhen this card destroys an opponent's monster by battle and sends it to the GY: You can Tribute 1 monster this card points to; Special Summon the destroyed monster to either player's zone this card points to, and if it is Special Summoned to your opponent's field, this card can make a second attack during this Battle Phase.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/37/VectorSquareArchfiend-EXFO-JP-SR.png"
+    "name": "Vector Scare Archfiend",
+    "desc": "Link Arrows: [🡷][🡱][🡲]\n\n2+ Cyberse monsters\nWhen this card destroys an opponent's monster by battle and sends it to the GY: You can Tribute 1 monster that this card points to; Special Summon that destroyed monster to any zone this card points to. If you Special Summon to your opponent's field by this effect, this card can make a second attack during this Battle Phase (although your opponent gains control of that Special Summoned monster).",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/VectorScareArchfiend-EXFO-EN-R-1E.png"
 }

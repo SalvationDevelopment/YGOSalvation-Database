@@ -30,13 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Strike of Neos",
+        "pack_id": "STON-JP029",
+        "date": "2006-11-16"
+    },
     "tcg": {
         "id": 12624008,
-        "pack_id": "STON-EN029",
-        "pack": "Strike Of Neos",
+        "pack_id": "STON-FR029",
+        "pack": "Strike of Neos",
         "rarity": "Common",
-        "date": 1172638800000
+        "date": "2007-02-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/RadiantSpirit-STON-EN-C-1E.jpg"
 }

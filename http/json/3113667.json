@@ -1,7 +1,15 @@
 {
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 2",
+        "pack_id": "DP19-JP016",
+        "date": "2017-11-11"
+    },
+    "tcg": {
+        "pack": "Legendary Duelists: Ancient Millennium",
+        "pack_id": "LED2-DE016",
+        "date": "2018-02-22"
+    },
     "id": 3113667,
-    "ot": 3,
-    "alias": 0,
     "setcode": 0,
     "type": 524290,
     "atk": 0,
@@ -9,24 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "category": 262144,
     "name": "Heavy Metal Raiders",
     "desc": "The first time each DARK Machine monster you control would be destroyed by battle each turn, it is not destroyed, and if you took battle damage from that battle, it gains that much ATK after damage calculation, and keeps that ATK gain as long as this card is on the field. Once per turn, if a monster you control that was originally a DARK Machine destroys a card(s) on the field by battle or by card effect: You can Special Summon 1 DARK Machine monster from your hand.",
-    "str1": "",
-    "str2": "",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG/TCG"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b2/HeavyMetalRaiders-LED2-EN-SR-1E.png"
 }

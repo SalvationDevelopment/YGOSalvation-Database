@@ -1,7 +1,11 @@
 {
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP012",
+        "date": "2018-01-13"
+    },
+    "tcg": {},
     "id": 84976088,
-    "ot": 1,
-    "alias": 0,
     "setcode": 0,
     "type": 33,
     "atk": 1600,
@@ -9,24 +13,7 @@
     "level": 5,
     "race": 8192,
     "attribute": 32,
-    "category": 262144,
     "name": "Background Dragon",
     "desc": "If this card is in your GY and you control no cards: You can Special Summon both this card and 1 Level 4 or lower Dragon monster from your hand in Defense Position, but banish this card when it leaves the field. You can only use this effect of \"Background Dragon\" once per turn.",
-    "str1": "",
-    "str2": "",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/94/BackgroundDragon-FLOD-JP-C.png"
 }

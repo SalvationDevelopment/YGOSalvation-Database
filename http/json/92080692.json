@@ -1,7 +1,15 @@
 {
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP078",
+        "date": "2017-10-14"
+    },
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE078",
+        "date": "2018-02-01"
+    },
     "id": 92080692,
-    "ot": 1,
-    "alias": 0,
     "setcode": 0,
     "type": 1048580,
     "atk": 0,
@@ -9,24 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "category": 2164260864,
-    "name": "Critical Timing",
-    "desc": "When your opponent activates a Spell/Trap Card, or monster effect, while they have a card with the same name in their GY: Negate the activation, and if you do, destroy that card.",
-    "str1": "",
-    "str2": "",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG"
+    "name": "Showdown of the Secret Sense Scroll Techniques",
+    "desc": "When your opponent activates a Spell/Trap Card, or monster effect, with the same name as a card in their GY: Negate the activation, and if you do, destroy that card.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/68/ShowdownoftheSecretSensesScrollTechniques-EXFO-EN-C-1E.png"
 }

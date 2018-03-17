@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 4980736,
     "name": "Phantom Skyblaster",
-    "desc": "When this card is Normal or Flip Summoned: You can Special Summon any number of \"Skyblaster Tokens\" (Fiend-Type/DARK/Level 4/ATK 500/DEF 500), up to the number of monsters you control. During each of your Standby Phases: You can inflict 300 damage to your opponent for each \"Skyblaster\" monster you control. \"Skyblaster\" monsters you control cannot declare an attack during the turn you activate this effect.",
+    "desc": "When this card is Normal or Flip Summoned: You can Special Summon any number of \"Skyblaster Tokens\" (Fiend/DARK/Level 4/ATK 500/DEF 500), up to the number of monsters you control. Once per turn, during your Standby Phase: You can inflict 300 damage to your opponent for each \"Skyblaster\" monster you control. \"Skyblaster\" monsters you control cannot declare an attack during the turn you activate this effect.",
     "str1": "Special Summon",
     "str2": "Inflict damage",
     "str3": "Special Summon \"Skyblaster Tokens\"?",
@@ -44,5 +44,5 @@
         "rarity": "Phantom Skyblaster",
         "date": "2008-01-22"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/05/PhantomSkyblaster-DT06-EN-DNPR-DT.jpg"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/85/PhantomSkyblaster-OP06-EN-C-UE.png"
 }
