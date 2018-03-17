@@ -1,32 +1,23 @@
 {
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP006",
+        "date": "2017-10-14"
+    },
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE006",
+        "date": "2018-02-01"
+    },
     "id": 63092423,
-    "ot": 1,
-    "alias": 0,
     "setcode": 0,
-    "type": 33554465,
+    "type": 33,
     "atk": 0,
     "def": 2100,
     "level": 6,
     "race": 8192,
     "attribute": 1,
-    "category": 67371008,
-    "name": "Beltlink Wall Dragon",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. When you Link Summon: You can Special Summon this card from your hand, and if you do, place 2 counters on it. Neither player can Link Summon a monster with a higher Link Rating than the number of counters on this card. Monsters cannot attack, except Link Monsters. If a monster is Link Summoned: Remove 2 counters from this card. Once per turn, during the Standby Phase: Place 1 counter on this card.",
-    "str1": "",
-    "str2": "",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG"
+    "name": "Linkbelt Wall Dragon",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. When you Link Summon: You can Special Summon this card from your hand, and if you do, place 2 counters on it. If a monster is Link Summoned: Remove 2 of these counters from this card (or all, if less than 2). Once per turn, during each Standby Phase: Place 1 of these counters on this card. No monster can be Link Summoned unless this card has at least as many of these counters as that monster's Link Rating. Monsters cannot attack, except Link Monsters.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d9/LinkbeltWallDragon-EXFO-EN-C-1E.png"
 }
