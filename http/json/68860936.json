@@ -1,7 +1,15 @@
 {
+    "ocg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-JP009",
+        "date": "2017-10-14"
+    },
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE009",
+        "date": "2018-02-01"
+    },
     "id": 68860936,
-    "ot": 1,
-    "alias": 0,
     "setcode": 267,
     "type": 2097185,
     "atk": 500,
@@ -9,24 +17,7 @@
     "level": 4,
     "race": 8,
     "attribute": 32,
-    "category": 262144,
     "name": "Tindangle Angel",
-    "desc": "FLIP: You can Special Summon 1 Flip monster from your hand or GY in face-down Defense Position, except \"Tindangle Angel\", then if this effect is activated during your opponent's Battle Phase, end the Battle Phase. You can only use this effect of \"Tindangle Angel\" once per turn.",
-    "str1": "",
-    "str2": "",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG"
+    "desc": "FLIP: You can Special Summon 1 Flip monster from your hand or GY in face-down Defense Position, except \"Tindangle Angel\", then if it is your opponent's Battle Phase, end the Battle Phase. You can only use this effect of \"Tindangle Angel\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/TindangleAngel-EXFO-EN-C-1E.png"
 }
