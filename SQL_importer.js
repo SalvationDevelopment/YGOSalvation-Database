@@ -1,7 +1,6 @@
-/*jslint node: true, plusplus: true, unparam: false, nomen: true, bitwise:true*/
 'use strict';
-var time = 0;
-var zlib = require('zlib'),
+const time = 0,
+    zlib = require('zlib'),
     fs = require('fs'),
     path = require('path'),
     spawn = require('child_process').spawn,
@@ -10,19 +9,7 @@ var zlib = require('zlib'),
     SQL = require('sql.js'),
     jsonfile = require('jsonfile');
 
-function getBanlist() {
-    var banlist = {},
-        files = fs.readdirSync('../http/banlist/');
-    files.forEach(function(filename) {
-        if (filename.indexOf('.js') > -1) {
-            var listname = filename.slice(0, -3);
-            banlist[listname] = require('../http/banlist/' + '/' + filename);
-        }
-    });
-    return banlist;
-}
 
-var banlistfiles = getBanlist();
 
 
 function gitError(error) {
@@ -50,9 +37,9 @@ function getotString(ot) {
 }
 
 function getdates(file, callback) {
-    var filebuffer = fs.readFileSync('../http/ygopro/databases/pack/' + file),
+    var filebuffer = fs.readFileSync(file),
         db = new SQL.Database(filebuffer),
-        string = "SELECT * FROM pack;",
+        string = 'SELECT * FROM pack;',
         texts = db.prepare(string),
         asObject = {
             texts: texts.getAsObject({
@@ -76,12 +63,12 @@ function getdates(file, callback) {
 }
 
 function getcards(file, callback) {
-    fs.readFile('../http/ygopro/databases/' + file, function(error, filebuffer) {
+    fs.readFile(file, function(error, filebuffer) {
         if (error) {
             console.log(error);
         }
         var db = new SQL.Database(filebuffer),
-            string = "SELECT * FROM datas, texts WHERE datas.id = texts.id;",
+            string = 'SELECT * FROM datas, texts WHERE datas.id = texts.id;',
             texts = db.prepare(string),
             asObject = {
                 texts: texts.getAsObject({
@@ -91,9 +78,6 @@ function getcards(file, callback) {
             output = [],
             row,
             i,
-            linkMarkers = jsonfile.readFileSync("../http/linkmarkersmap.json"),
-            ocg_packs = jsonfile.readFileSync("../http/manifest/manifest_ja-pack.json"),
-            tcg_packs = jsonfile.readFileSync("../http/manifest/manifest_en-pack.json"),
             packs = {};
 
 
@@ -119,14 +103,14 @@ function getcards(file, callback) {
         });
         while (texts.step()) { //
             row = texts.getAsObject();
-            row.links = linkMarkers[row.id] || [];
+
             row.cardpool = getotString(row.ot);
-            row.ocg = getCardObject(row.id, ocg_packs);
-            row.tcg = getCardObject(row.id, tcg_packs);
+            //row.ocg = getCardObject(row.id, ocg_packs);
+            //row.tcg = getCardObject(row.id, tcg_packs);
             output.push(row);
         }
         db.close();
-        callback(output);
+        callback(null, output);
         return output;
     });
 
@@ -134,32 +118,6 @@ function getcards(file, callback) {
 
     // Bind new values
 
-}
-
-function getpacks(file) {
-    var filebuffer = fs.readFileSync('../http/ygopro/databases/pack/' + file),
-        db = new SQL.Database(filebuffer),
-        string = "SELECT * FROM pack;",
-        texts = db.prepare(string),
-        asObject = {
-            texts: texts.getAsObject({
-                'id': 1
-            })
-        },
-        output = [],
-        row;
-
-    // Bind new values
-    texts.bind({
-        name: 1,
-        id: 2
-    });
-    while (texts.step()) { //
-        row = texts.getAsObject();
-        output.push(row);
-    }
-    db.close();
-    return output;
 }
 
 
@@ -176,28 +134,28 @@ function inversionID(db) {
 
 
 function cardIs(cat, obj) {
-    if (cat === "monster" && (obj.race !== 0 || obj.level !== 0 || obj.attribute !== 0)) {
+    if (cat === 'monster' && (obj.race !== 0 || obj.level !== 0 || obj.attribute !== 0)) {
         return true;
     }
-    if (cat === "spell") {
+    if (cat === 'spell') {
         return (obj.type & 2) === 2;
     }
-    if (cat === "trap") {
+    if (cat === 'trap') {
         return (obj.type & 4) === 4;
     }
-    if (cat === "fusion") {
+    if (cat === 'fusion') {
         return (obj.type & 64) === 64;
     }
-    if (cat === "synchro") {
+    if (cat === 'synchro') {
         return (obj.type & 8192) === 8192;
     }
-    if (cat === "xyz") {
+    if (cat === 'xyz') {
         return (obj.type & 8388608) === 8388608;
     }
 }
 
 function parseLevelScales(card) {
-    var output = "",
+    var output = '',
         leftScale,
         rightScale,
         pendulumLevel,
@@ -216,28 +174,46 @@ function parseLevelScales(card) {
     return output + '</span>';
 }
 
+function splitJSON(inject) {
 
-function generate(callback) {
-    fs.writeFile('../http/manifest/banlist.json', JSON.stringify(banlistfiles, null, 1), function() {});
 
-    fs.readdir('../http/ygopro/databases/pack', function(err, packs) {
-        packs.forEach(function(pack) {
+    inject.forEach(function(card) {
+        var data = JSON.stringify(card, null, 4),
+            id = './http/json/' + card.id.toString() + '.json';
+        try {
+            const old = fs.readFileSync('./http/json/' + data.id + '.json');
+
             try {
-                fs.writeFileSync('../http/manifest/manifest_' + pack.slice(0, -3) + '.json', JSON.stringify(getdates(pack)));
-                console.log('    Generated ../http/manifest/manifest_' + pack.slice(0, -3) + '.json');
+
+                fs.writeFileSync(id, Object.assign(card, data, JSON.parse(old)));
             } catch (e) {
-                console.log(e);
+                console.log('unable to write', id);
+                fs.writeFileSync(id, data);
             }
-        });
-        getcards('0-en-OCGTCG.cdb', function(output) {
-            fs.writeFile('../http/manifest/manifest_0-en-OCGTCG.json', JSON.stringify(output), function() {
-                console.log('    Generated ../http/manifest/manifest_0-en-OCGTCG.json');
-            });
-        });
+        } catch (e0) {
+            fs.writeFileSync(id, data);
+        }
 
 
     });
 }
 
+async function generate(filename) {
+    const cardData = new Promise(function(resolve, reject) {
+        getcards('cards.cdb', function(error, result) {
+            if (error) {
+                reject(error);
+                return;
+            }
+            resolve(result);
+        });
+    });
 
-module.exports = generate;
+    cardData.then(function(data) {
+        splitJSON(data);
+
+    }).catch(console.log);
+}
+
+
+generate('cards.cdb');
