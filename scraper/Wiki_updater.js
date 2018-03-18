@@ -54,15 +54,15 @@ function json_create(card_json, wiki_url, filename, next) {
             // Scrape most of the other card information
             try {
                 jQuery_data($);
+                card_json.tcg = {};
+                card_json.ocg = {};                
                 if (card.tcg_list != undefined) {
-                    old_date = card_json.tcg.date;
                     card.tcg_list = card.tcg_list.trim().split('\n');
                     card_json.tcg.pack = card.tcg_list[2].trim();
                     card_json.tcg.pack_id = card.tcg_list[1].trim();
                     card_json.tcg.date = card.tcg_list[0].trim();
                 }
                 if (card.ocg_list != undefined) {
-                    old_date = card_json.ocg.date;
                     card.ocg_list = card.ocg_list.trim().split('\n');
                     card_json.ocg.pack = card.ocg_list[2].trim();
                     card_json.ocg.pack_id = card.ocg_list[1].trim();
