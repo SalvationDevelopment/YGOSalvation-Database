@@ -4,7 +4,11 @@
         "pack_id": "SR05-JP025",
         "date": "2017-09-23"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Wave of Light Structure Deck",
+        "pack_id": "SR05-DE025",
+        "date": "2018-01-18"
+    },
     "id": 15449853,
     "setcode": 266,
     "type": 131074,
@@ -14,6 +18,6 @@
     "race": 0,
     "attribute": 0,
     "name": "The Sanctum of Parshath",
-    "desc": "This card's name becomes \"The Sanctuary in the Sky\" while on the field or in the GY. All Fairy monsters on the field gain 300 ATK/DEF. Set Spells/Traps on the field cannot be destroyed by card effects, also neither player can target them with card effects. Once per turn: You can target 3 Fairy monsters and/or Counter Traps in your GY with different names; place them on top of your Deck in any order.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/91/TheSanctumofParshath-SR05-JP-SR.png"
+    "desc": "This card's name becomes \"The Sanctuary in the Sky\" while on the field or in the GY. Fairy monsters on the field gain 300 ATK/DEF. Set Spells/Traps cannot be targeted by, or destroyed by, card effects. Once per turn: You can target a total of 3 Fairy monsters and/or Counter Traps with different names in your GY; place them on top of your Deck in any order.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/aa/TheSanctumofParshath-SR05-EN-SR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 64,
     "name": "Delinquent Duo",
-    "desc": "Pay 1000 Life Points. Your opponent randomly selects and discards 1 card from his/her hand and then selects and discards another card from his/her hand.",
+    "desc": "Pay 1000 LP; your opponent discards 1 random card, and if they have any other cards in hand, discard 1 more card of their choice.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Delinquent Duo",
         "date": "2004-10-12"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/DelinquentDuo-DB1-EN-SR-UE.jpg"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7c/DelinquentDuo-LCKC-EN-ScR-1E.png"
 }

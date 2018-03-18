@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 16777216,
     "name": "Fake Trap",
-    "desc": "You can only activate this card when your opponent uses an effect of a Spell, Trap, or Effect Monster to destroy Trap Card(s) on your side of the field. Destroy this card as a substitute of those Trap Card(s) and the other Trap Card(s) are not destroyed. If a Set card(s) would have been destroyed, pick up and see the Set card(s).",
+    "desc": "Activate only when your opponent activates a Spell, Trap, or Effect Monster's effect that would destroy a Trap Card(s) you control. Destroy this card instead. (If the cards that would have been destroyed are face-down, you can look at them to confirm.)",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Fake Trap",
         "date": "2002-06-26"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/63/FakeTrap-MRD-EN-R-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fe/FakeTrap-MRD-NA-R-UE-Reprint.png"
 }

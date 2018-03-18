@@ -4,7 +4,11 @@
         "pack_id": "EXFO-JP022",
         "date": "2017-10-14"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE022",
+        "date": "2018-02-01"
+    },
     "id": 91182675,
     "setcode": 269,
     "type": 16777249,
@@ -14,6 +18,6 @@
     "race": 2,
     "attribute": 32,
     "name": "Mythical Beast Jackal",
-    "desc": "Pendulum Effect\nIf you have no cards in your other Pendulum Zone: You can target 1 card you control that you can place a Spell Counter on; destroy this card, and if you do, place 1 Spell Counter on that card. You can only use this effect of \"Mythical Beast Jackal\" once per turn.\n\nMonster Effect\nEach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from your field, then Tribute this card; Special Summon 1 \"Mythical Beast\" Effect Monster from your Deck, except \"Mythical Beast Jackal\".",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0d/MythicalBeastJackal-EXFO-JP-R.png"
+    "desc": "Pendulum Effect\nIf you have no card in your other Pendulum Zone: You can target 1 card you control that you can place a Spell Counter on; destroy this card, and if you do, place 1 Spell Counter on that card. You can only use this effect of \"Mythical Beast Jackal\" once per turn.\n\nMonster Effect\nEach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from your field and Tribute this card; Special Summon 1 \"Mythical Beast\" Effect Monster from your Deck, except \"Mythical Beast Jackal\".",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6e/MythicalBeastJackal-EXFO-EN-R-1E.png"
 }

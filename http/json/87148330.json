@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 1048832,
     "name": "Tethys, Goddess of Light",
-    "desc": "While this card is face-up on the field, when you draw a Fairy-Type monster(s), you can reveal 1 of those monsters to draw 1 more card.",
+    "desc": "When you draw a Fairy monster(s) (except during the Damage Step): You can reveal 1 of those monsters; draw 1 card. This card must be face-up on the field to activate and to resolve this effect.",
     "str1": "Draw card",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Tethys, Goddess of Light",
         "date": "2009-02-28"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f5/TethysGoddessofLight-SDLS-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/TethysGoddessofLight-SR05-EN-C-1E.png"
 }

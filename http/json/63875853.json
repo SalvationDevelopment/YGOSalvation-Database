@@ -4,7 +4,11 @@
         "pack_id": "EXFO-JP065",
         "date": "2017-10-14"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE065",
+        "date": "2018-02-01"
+    },
     "id": 63875853,
     "setcode": 0,
     "type": 65538,
@@ -13,7 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "name": "Role Reversal",
-    "desc": "Swap both players' LP. Your LP must be higher than your opponent's to activate and to resolve this effect.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/88/RoleReversal-EXFO-JP-NR.png"
+    "name": "Trading Places",
+    "desc": "If your LP is higher than your opponent's, switch your LP with your opponent.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/52/TradingPlaces-EXFO-EN-C-1E.png"
 }

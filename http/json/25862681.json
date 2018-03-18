@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 8650753,
     "name": "Ancient Fairy Dragon",
-    "desc": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn: You can Special Summon 1 Level 4 or lower monster from your hand. You cannot conduct your Battle Phase the turn you activate this effect. Once per turn: You can destroy as many Field Spell Cards on the field as possible, and if you do, gain 1000 LP, then you can add 1 Field Spell Card from your Deck to your hand.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn: You can Special Summon 1 Level 4 or lower monster from your hand. You cannot conduct your Battle Phase the turn you activate this effect. Once per turn: You can destroy as many Field Spells on the field as possible, and if you do, gain 1000 LP, then you can add 1 Field Spell from your Deck to your hand.",
     "str1": "Special Summon 1 Level 4 or lower monster from your hand",
     "str2": "Destroy a Field Spell Card",
     "str3": "Add 1 Field Spell Card to Hand?",
@@ -44,5 +44,5 @@
         "rarity": "Ancient Fairy Dragon",
         "date": "2009-08-18"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/be/AncientFairyDragon-LC5D-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8e/AncientFairyDragon-LCKC-EN-UR-1E.png"
 }

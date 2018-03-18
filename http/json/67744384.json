@@ -4,7 +4,11 @@
         "pack_id": "EXFO-JP012",
         "date": "2017-10-14"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE012",
+        "date": "2018-02-01"
+    },
     "id": 67744384,
     "setcode": 267,
     "type": 2097185,
@@ -13,7 +17,7 @@
     "level": 3,
     "race": 8,
     "attribute": 32,
-    "name": "Tindangle Apostle",
-    "desc": "FLIP: You can change up to 3 Set monsters you control to face-up Defense Position, then if they are all \"Tindangle\" monsters, you can add up to that many \"Tindangle\" cards from your Deck to your hand. You can only use this effect of \"Tindangle Apostle\" once per turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7a/TindangleApostle-EXFO-JP-C.png"
+    "name": "Tindangle Protector",
+    "desc": "FLIP: You can change up to 3 face-down Defense Position monsters you control to face-up Defense Position, then if all those monsters are \"Tindangle\" monsters, you can add up to that many \"Tindangle\" cards from your Deck to your hand. You can only use this effect of \"Tindangle Protector\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3e/TindangleProtector-EXFO-EN-C-1E.png"
 }

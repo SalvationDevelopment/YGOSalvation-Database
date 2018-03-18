@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 2097155,
     "name": "Eradicator Epidemic Virus",
-    "desc": "Tribute 1 DARK monster with 2500 or more ATK, and declare 1 card type (Spell or Trap); check your opponent's hand, all Spell/Trap Cards they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all cards of that type.",
+    "desc": "Tribute 1 DARK monster with 2500 or more ATK, and declare 1 type of card (Spell or Trap); look at your opponent's hand, all Spells/Traps they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all cards of that type.",
     "str1": "Spell Card",
     "str2": "Trap Card",
     "str3": "Please choose the card type",
@@ -44,5 +44,5 @@
         "rarity": "Eradicator Epidemic Virus",
         "date": "2007-05-05"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/EradicatorEpidemicVirus-SDMP-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9e/EradicatorEpidemicVirus-LCKC-EN-UR-1E.png"
 }

@@ -4,7 +4,11 @@
         "pack_id": "EXFO-JP080",
         "date": "2017-10-14"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE080",
+        "date": "2018-02-01"
+    },
     "id": 55573346,
     "setcode": 0,
     "type": 4,
@@ -13,7 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "name": "Accidetonation",
+    "name": "Oops!",
     "desc": "Target 1 card you control; destroy it.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d0/Accidetonation-EXFO-JP-NR.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7a/Oops-EXFO-EN-C-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 264192,
     "name": "VW-Tiger Catapult",
-    "desc": "\"V-Tiger Jet\" + \"W-Wing Catapult\"\nThis card can only be Special Summoned from your Extra Deck by removing from play the above cards you control. (You do not use \"Polymerization\"). You can discard 1 card from your hand to change the battle position of 1 monster your opponent controls. (Flip Effects are not activated at this time.)",
+    "desc": "\"V-Tiger Jet\" + \"W-Wing Catapult\"\nMust first be Special Summoned from your Extra Deck by banish the above cards you control. (You do not use \"Polymerization\"). You can discard 1 card, then target 1 monster your opponent controls; change that target's battle position. (Flip Effects are not activated.)",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "VW-Tiger Catapult",
         "date": "2005-11-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6f/VWTigerCatapult-DR04-NA-C-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3f/VWTigerCatapult-LCKC-EN-UR-1E.png"
 }

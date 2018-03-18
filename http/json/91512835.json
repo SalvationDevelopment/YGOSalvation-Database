@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 794624,
     "name": "Insect Queen",
-    "desc": "Cannot declare an attack unless you Tribute 1 monster. This card gains 200 ATK for each Insect-Type monster on the field. During the End Phase, if this card destroyed an opponent's monster by battle this turn: Special Summon 1 \"Insect Monster Token\" (Insect-Type/EARTH/Level 1/ATK 100/DEF 100) in Attack Position.",
+    "desc": "This card gains 200 ATK for each Insect monster on the field. Cannot declare an attack unless you Tribute 1 monster. Once per turn, during the End Phase, if this card destroyed an opponent's monster by battle this turn: Special Summon 1 \"Insect Monster Token\" (Insect/EARTH/Level 1/ATK 100/DEF 100) in Attack Position.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Insect Queen",
         "date": "2004-09-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f3/InsectQueen-DPBC-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/82/InsectQueen-LED2-EN-C-1E.png"
 }

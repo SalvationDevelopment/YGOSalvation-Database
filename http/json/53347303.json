@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": -2147213304,
     "name": "Blue-Eyes Shining Dragon",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by Tributing 1 \"Blue-Eyes Ultimate Dragon\", and cannot be Special Summoned by other ways. This card gains 300 ATK for each Dragon-Type monster in your Graveyard. During either player's turn, when a card or effect is activated that targets this card (except during the Damage Step): You can negate that effect.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by Tributing 1 \"Blue-Eyes Ultimate Dragon\". Gains 300 ATK for each Dragon monster in your GY. When a card or effect is activated that targets this card (Quick Effect): You can negate that effect.",
     "str1": "Negate the effect?",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Blue-Eyes Shining Dragon",
         "date": "2004-08-13"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/75/BlueEyesShiningDragon-DPRP-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/86/BlueEyesShiningDragon-LCKC-EN-ScR-1E.png"
 }

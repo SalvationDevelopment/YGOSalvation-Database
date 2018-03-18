@@ -30,13 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Starstrike Blast",
+        "pack_id": "STBL-JP005",
+        "date": "2010-07-17"
+    },
     "tcg": {
         "id": 44236692,
         "pack_id": "STBL-EN005",
         "pack": "Starstrike Blast",
         "rarity": "Common",
-        "date": 1289883600000
+        "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/NecroLinker-STBL-EN-C-1E.jpg"
 }

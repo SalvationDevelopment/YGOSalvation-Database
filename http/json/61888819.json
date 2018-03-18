@@ -4,7 +4,11 @@
         "pack_id": "LVP1-JP021",
         "date": "2017-11-25"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE093",
+        "date": "2018-02-01"
+    },
     "id": 61888819,
     "setcode": 659466,
     "type": 33554465,
@@ -18,6 +22,6 @@
     "race": 8,
     "attribute": 16,
     "name": "Steelswarm Origin",
-    "desc": "Link Arrows: [🡱][🡳]\n\n2 \"lswarm\" monsters\nWhile this card is in an Extra Monster Zone, neither player can Special Summon monsters from the Extra Deck to Main Monster Zones, except to zones this card points to. While this card points to a monster, this card cannot be destroyed by battle or card effects, also neither player can target it with card effects. Once per turn, when a monster(s) on the field is destroyed by battle or card effect: You can Special Summon Level 4 or lower \"lswarm\" monsters from your Deck in Defense Position, up the number of monsters destroyed.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/de/SteelswarmOrigin-LVP1-JP-SR.png"
+    "desc": "Link Arrows: [🡱][🡳]\n\n2 \"lswarm\" monsters \nWhile this card is in an Extra Monster Zone, if a monster would be Special Summoned from the Extra Deck to the Main Monster Zone, it must be Summoned in the zone this card points to. While this card points to a monster, neither player can target it with card effects, also it cannot be destroyed by battle or card effect. Once per turn, when a monster(s) on the field is destroyed by battle or by card effect: You can Special Summon Level 4 or lower \"lswarm\" monsters from your Deck in Defense Position, up the number destroyed.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/SteelswarmOrigin-EXFO-EN-R-1E.png"
 }

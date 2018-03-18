@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Insect Monster Token",
-    "desc": "Special Summon with the effect of \"Metamorphosed Insect Queen\".",
+    "desc": "Special Summoned with the effect of \"Insect Queen\".",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,6 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/62/InsectMonsterToken-DAR-EN-VG.png"
 }

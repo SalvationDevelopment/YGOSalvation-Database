@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "B-Buster Drake",
-    "desc": "Once per turn, you can either: Target 1 LIGHT Machine-Type monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card is unaffected by your opponent's Spell effects, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead. If this card is sent from the field to the Graveyard: You can add 1 Union monster from your Deck to your hand.",
+    "desc": "Once per turn, you can either: Target 1 LIGHT Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card is unaffected by your opponent's Spell effects, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead. If this card is sent from the field to the GY: You can add 1 Union monster from your Deck to your hand.",
     "str1": "Equip this card",
     "str2": "Special Summon this card",
     "str3": "Add 1 Union to hand",
@@ -44,5 +44,5 @@
         "rarity": "B-Buster Drake",
         "date": "2016-10-20"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/55/BBusterDrake-SDKS-EN-SR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/10/BBusterDrake-LCKC-EN-ScR-1E.png"
 }

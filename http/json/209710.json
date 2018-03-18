@@ -4,7 +4,11 @@
         "pack_id": "EXFO-JP004",
         "date": "2017-10-14"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE004",
+        "date": "2018-02-01"
+    },
     "id": 209710,
     "setcode": 0,
     "type": 33,
@@ -14,6 +18,6 @@
     "race": 16777216,
     "attribute": 32,
     "name": "Flick Clown",
-    "desc": "If you control 2 or more Cyberse monsters (other than this card) and you have no cards in your hand: You can pay 1000 LP; draw 1 card. You can only use this effect of \"Flick Clown\" once per turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/63/FlickClown-EXFO-JP-R.png"
+    "desc": "If you control at least 2 other Cyberse monsters and you have no cards in your hand: You can pay 1000 LP; draw 1 card. You can only use this effect of \"Flick Clown\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/30/FlickClown-EXFO-EN-C-1E.png"
 }

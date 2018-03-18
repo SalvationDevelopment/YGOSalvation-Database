@@ -4,7 +4,11 @@
         "pack_id": "DP19-JP040",
         "date": "2017-11-11"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Legendary Duelists: Ancient Millennium",
+        "pack_id": "LED2-DE040",
+        "date": "2018-02-22"
+    },
     "id": 36328300,
     "setcode": 52,
     "type": 4,
@@ -13,7 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "name": "Ultimate Crystal Formation",
-    "desc": "When your \"Crystal Beast\" monster is destroyed by battle: Send 7 \"Crystal Beast\" cards with different names from your hand, Deck, and/or face-up from your field to the GY; Special Summon 1 \"Ultimate Crystal God\" Fusion Monster from your Extra Deck. (This is treated as a Fusion Summon.) If a face-up \"Ultimate Crystal God\" monster, \"Rainbow Dragon\", or \"Rainbow Dark Dragon\" leaves your Monster Zone because of an opponent's card effect and is still in your possession: You can banish this card from your GY; place any number of \"Crystal Beast\" monsters from your GY in your Spell & Trap Zone face-up as Continuous Spells.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/UltimateCrystalFormation-DP19-JP-SR.png"
+    "name": "Ultimate Crystal Magic",
+    "desc": "When your \"Crystal Beast\" monster is destroyed by battle: You can send 7 \"Crystal Beast\" cards with different names from your hand, Deck, and/or face-up from your field to the GY; Special Summon 1 \"Ultimate Crystal\" Fusion Monster from your Extra Deck. (This is treated as a Fusion Summon.) If a face-up \"Ultimate Crystal\" monster you control leaves the field because of an opponent's card effect: You can banish this card from your GY; place any number of \"Crystal Beast\" monsters from your GY face-up in your Spell & Trap Zone as Continuous Spells.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/83/UltimateCrystalMagic-LED2-EN-SR-1E.png"
 }

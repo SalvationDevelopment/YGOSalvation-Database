@@ -4,7 +4,11 @@
         "pack_id": "EXFO-JP076",
         "date": "2017-10-14"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE076",
+        "date": "2018-02-01"
+    },
     "id": 24207889,
     "setcode": 0,
     "type": 131076,
@@ -13,7 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "name": "Sensor Differentiation",
-    "desc": "Each player can only control 1 monster of each Type. Send all other face-up monsters they control to the GY.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2d/SensorDifferentiation-EXFO-JP-SR.png"
+    "name": "There Can Be Only One",
+    "desc": "Each player can only control 1 monster of each Type. If a player controls 2 or more monsters of the same Type, they must send some to the GY so they control no more than 1 monster of that Type.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2d/ThereCanBeOnlyOne-EXFO-EN-SR-1E.png"
 }

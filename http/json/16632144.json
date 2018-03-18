@@ -4,7 +4,11 @@
         "pack_id": "EXFO-JP029",
         "date": "2017-10-14"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE029",
+        "date": "2018-02-01"
+    },
     "id": 16632144,
     "setcode": 0,
     "type": 4129,
@@ -13,7 +17,7 @@
     "level": 1,
     "race": 1,
     "attribute": 2,
-    "name": "Angrappler",
+    "name": "Grappler Angler",
     "desc": "When this card inflicts battle damage to your opponent by a direct attack: You can target 1 monster in your GY; Special Summon it in Defense Position.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1a/Angrappler-EXFO-JP-C.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a3/GrapplerAngler-EXFO-EN-C-1E.png"
 }

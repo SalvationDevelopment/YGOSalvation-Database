@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 1669772,
-        "pack_id": "EE3-JP118",
-        "pack": "Expert Edition Volume 3",
+        "pack_id": "RDS-JP058",
+        "pack": "Rise of Destiny",
         "rarity": "共通",
-        "date": 1134018000000
+        "date": "2004-08-05"
     },
     "tcg": {
         "id": 1669772,
-        "pack_id": "RDS-EN058",
-        "pack": "Rise Of Destiny",
+        "pack_id": "RDS-FR058",
+        "pack": "Rise of Destiny",
         "rarity": "Common",
-        "date": 1101877200000
+        "date": "2004-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2d/SpellPurification-DR3-EN-C-UE.png"
 }

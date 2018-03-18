@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 327686,
     "name": "Enishi, Shien's Chancellor",
-    "desc": "Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by banishing 2 \"Six Samurai\" monsters from your Graveyard, and cannot be Special Summoned by other ways. Once per turn: You can target 1 face-up monster; destroy that target. This card cannot declare an attack the turn you activate this effect.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 2 \"Six Samurai\" monsters from your GY. Once per turn: You can target 1 face-up monster; destroy that target. This card cannot attack the turn this effect is activated.",
     "str1": "表侧表示存在的1只怪兽破坏",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Enishi, Shien's Chancellor",
         "date": "2007-11-03"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/88/EnishiShiensChancellor-SDWA-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/20/EnishiShiensChancellor-OP06-EN-C-UE.png"
 }

@@ -4,7 +4,11 @@
         "pack_id": "EXFO-JP049",
         "date": "2017-10-14"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE049",
+        "date": "2018-02-01"
+    },
     "id": 1482001,
     "setcode": 0,
     "type": 33554465,
@@ -13,10 +17,10 @@
     "level": 1,
     "race": 2,
     "attribute": 1,
-    "name": "Ventriloquist Clara & Rushka",
+    "name": "Clara & Rushka, the Ventriloduo",
     "desc": "Link Arrows: [🡱]\n\n1 Normal Summoned/Set monster\nCannot be Link Summoned, except during Main Phase 2.",
     "links": [
         1
     ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bb/VentriloquistClaraRushka-EXFO-JP-SR.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b9/ClaraRushkatheVentriloduo-EXFO-EN-UR-1E.png"
 }

@@ -4,7 +4,11 @@
         "pack_id": "EXFO-JP043",
         "date": "2017-10-14"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE043",
+        "date": "2018-02-01"
+    },
     "id": 2220237,
     "setcode": 0,
     "type": 33554465,
@@ -16,7 +20,7 @@
     ],
     "race": 16777216,
     "attribute": 16,
-    "name": "Security Gardna",
-    "desc": "Link Arrows: [🡲]\n\n1 Cyberse Link Monster\nCannot be used as Link Material. You can only control 1 \"Security Gardna\". After you Special Summon this card, you take no effect damage this turn. The first time you would take battle or effect damage each turn, you do not.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1a/SecurityGardna-EXFO-JP-R.png"
+    "name": "Secure Gardna",
+    "desc": "Link Arrows: [🡲]\n\n1 Cyberse Link Monster\nAfter you Special Summon this card, you take no effect damage for the rest of this turn. Once per turn, if you would take battle or effect damage, you take no damage. Cannot be used as Link Material. You can only control 1 \"Secure Gardna\".",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/SecureGardna-EXFO-EN-C-1E.png"
 }

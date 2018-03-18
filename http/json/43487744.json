@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "White Hole",
-    "desc": "Activate only when your opponent activates \"Dark Hole\". The monsters you control are not destroyed.",
+    "desc": "When your opponent activates \"Dark Hole\": Monsters you control cannot be destroyed by that \"Dark Hole's\" effect.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "White Hole",
         "date": "2002-09-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/WhiteHole-TU04-EN-C-UE.jpg"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/46/WhiteHole-LCKC-EN-ScR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": -2147483645,
     "name": "Divine Punishment",
-    "desc": "Activate only if \"The Sanctuary in the Sky\" is face-up on the field. Negate the activation of a Spell Card, Trap Card, or Effect Monster's effect, and destroy that card.",
+    "desc": "When a Spell/Trap Card or monster effect, is activated while \"The Sanctuary in the Sky\" is on the field: Negate the activation, and if you do, destroy it.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Divine Punishment",
         "date": "2011-06-09"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/66/DivinePunishment-SDLS-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3e/DivinePunishment-SR05-EN-C-1E.png"
 }

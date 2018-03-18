@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8192,
     "name": "Shrink",
-    "desc": "Target 1 face-up monster on the field; the original ATK of that monster is halved until the end of this turn.",
+    "desc": "Target 1 face-up monster on the field; its original ATK becomes halved until the end of this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Shrink",
         "date": "2006-05-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/67/Shrink-SDKS-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/Shrink-LCKC-EN-UR-1E.png"
 }

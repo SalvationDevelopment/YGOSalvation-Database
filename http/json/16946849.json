@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 786432,
     "name": "Synthetic Seraphim",
-    "desc": "Each time a Counter Trap Card is activated, Special Summon 1 \"Synthetic Seraphim Token\" (Fairy-Type/LIGHT/Level 1/ATK 300/DEF 300).",
+    "desc": "Each time a Counter Trap Card is activated, immediately after it resolves, Special Summon 1 \"Synthetic Seraphim Token\" (Fairy/LIGHT/Level 1/ATK 300/DEF 300).",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Synthetic Seraphim",
         "date": "2006-08-16"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/12/SyntheticSeraphim-POTD-EN-C-1E.jpg"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/SyntheticSeraphim-SR05-EN-C-1E.png"
 }

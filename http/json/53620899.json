@@ -4,7 +4,11 @@
         "pack_id": "EXFO-JP030",
         "date": "2017-10-14"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE030",
+        "date": "2018-02-01"
+    },
     "id": 53620899,
     "setcode": 0,
     "type": 2097185,
@@ -13,7 +17,7 @@
     "level": 2,
     "race": 512,
     "attribute": 8,
-    "name": "Janshimatsu",
+    "name": "Mahjong Munia Maidens",
     "desc": "FLIP: You can draw 1 card, then discard 1 card.\nOnce per turn: You can change this card to face-down Defense Position.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8d/Janshimatsu-EXFO-JP-C.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/68/MahjongMuniaMaidens-EXFO-EN-C-1E.png"
 }

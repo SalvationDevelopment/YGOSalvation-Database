@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Fiend's Sanctuary",
-    "desc": "Special Summon 1 \"Metal Fiend Token\" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0). It cannot attack. Your opponent takes any battle damage you would have taken from battles involving it. During each of your Standby Phases, pay 1000 LP or destroy this Token.",
+    "desc": "Special Summon 1 \"Metal Fiend Token\" (Fiend/DARK/Level 1/ATK 0/DEF 0). It cannot attack. Your opponent takes any battle damage you would have taken from battles involving it. During each of your Standby Phases, pay 1000 LP or destroy this Token.",
     "str1": "Pay 1000LP to maintain \"Metal Fiend Tokens\"?",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Fiend's Sanctuary",
         "date": "2008-01-08"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/65/FiendsSanctuary-DPRP-EN-R-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/84/FiendsSanctuary-LCKC-EN-ScR-1E.png"
 }

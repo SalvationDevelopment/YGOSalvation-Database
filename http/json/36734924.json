@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Priestess with Eyes of Blue",
-    "desc": "During either player's turn, when a card or effect is activated that targets this face-up card: You can send 1 Effect Monster you control to the Graveyard, and if you do, add up to 2 \"Blue-Eyes\" monsters with different names from your Deck to your hand. If this card is in your Graveyard: You can target 1 \"Blue-Eyes\" monster you control; shuffle it into the Deck, and if you do, Special Summon this card. You can only use 1 \"Priestess with Eyes of Blue\" effect per turn, and only once that turn.",
+    "desc": "When a card or effect is activated that targets this face-up card: You can send 1 Effect Monster you control to the GY, and if you do, add up to 2 \"Blue-Eyes\" monsters with different names from your Deck to your hand. If this card is in your GY: You can target 1 \"Blue-Eyes\" monster you control; shuffle it into the Deck, and if you do, Special Summon this card. You can only use 1 \"Priestess with Eyes of Blue\" effect per turn, and only once that turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Priestess with Eyes of Blue",
         "date": "2016-05-05"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e4/PriestesswithEyesofBlue-MP17-EN-SR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/65/PriestesswithEyesofBlue-LCKC-EN-ScR-1E.png"
 }

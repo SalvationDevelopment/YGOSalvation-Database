@@ -4,7 +4,11 @@
         "pack_id": "EXFO-JP038",
         "date": "2017-10-14"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE038",
+        "date": "2018-02-01"
+    },
     "id": 40669071,
     "setcode": 257,
     "type": 33554465,
@@ -14,11 +18,11 @@
     "race": 16777216,
     "attribute": 8,
     "name": "Excode Talker",
-    "desc": "Link Arrows: [🡰][🡱][🡲]\n\n2+ Cyberse monsters\nWhen this card is Link Summoned: You can choose unused Main Monster Zones, equal to the number of monsters in the Extra Monster Zones; while this card is face-up on the field, those zone(s) cannot be used. You can only use this effect of \"Excode Talker\" once per turn. Monsters this card points to gain 500 ATK, also they cannot be destroyed by card effects.",
+    "desc": "Link Arrows: [🡰][🡱][🡲]\n\n2+ Cyberse monsters\nWhen this card is Link Summoned: You can choose unused Main Monster Zones equal to the number of monsters currently in the Extra Monster Zones; those zones cannot be used while this monster is face-up on the field. You can only use this effect of \"Excode Talker\" once per turn. Monsters this card points to gain 500 ATK, also they cannot be destroyed by card effects.",
     "links": [
         1,
         3,
         4
     ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/87/ExcodeTalker-EXFO-JP-UR.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/da/ExcodeTalker-EXFO-EN-UR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Dragon Shrine",
-    "desc": "Send 1 Dragon-Type monster from your Deck to the Graveyard, then, if that monster in your Graveyard is a Dragon-Type Normal Monster, you can send 1 more Dragon-Type monster from your Deck to the Graveyard. You can only activate 1 \"Dragon Shrine\" per turn.",
+    "desc": "Send 1 Dragon monster from your Deck to the GY, then, if that monster in your GY is a Dragon Normal Monster, you can send 1 more Dragon monster from your Deck to the GY. You can only activate 1 \"Dragon Shrine\" per turn.",
     "str1": " Send another Dragon-Type Monster to the Graveyard?",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Dragon Shrine",
         "date": "2013-09-12"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/DragonShrine-DPRP-EN-R-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/DragonShrine-LCKC-EN-ScR-1E.png"
 }

@@ -4,7 +4,11 @@
         "pack_id": "EXFO-JP062",
         "date": "2017-10-14"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE062",
+        "date": "2018-02-01"
+    },
     "id": 64697431,
     "setcode": 0,
     "type": 2,
@@ -13,7 +17,7 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
-    "name": "Localized Trunade",
+    "name": "Hey, Trunade!",
     "desc": "Return all Set Spells and Traps on the field to the hand.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/60/LocalizedTrunade-EXFO-JP-SR.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3f/HeyTrunade-EXFO-EN-ScR-1E.png"
 }

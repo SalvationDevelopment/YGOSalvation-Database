@@ -4,7 +4,11 @@
         "pack_id": "EXFO-JP033",
         "date": "2017-10-14"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE033",
+        "date": "2018-02-01"
+    },
     "id": 42908201,
     "setcode": 0,
     "type": 33,
@@ -13,7 +17,7 @@
     "level": 4,
     "race": 16384,
     "attribute": 1,
-    "name": "Desmania Devil",
+    "name": "Desmanian Devil",
     "desc": "When this card destroys an opponent's  monster by battle: You can add 1 Level 4 or lower Beast monster from your Deck to your hand.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/75/DesmaniaDevil-EXFO-JP-C.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5f/DesmanianDevil-EXFO-EN-R-1E.png"
 }

@@ -4,7 +4,11 @@
         "pack_id": "SR05-JP001",
         "date": "2017-09-23"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Wave of Light Structure Deck",
+        "pack_id": "SR05-DE001",
+        "date": "2018-01-18"
+    },
     "id": 16261341,
     "setcode": 266,
     "type": 33,
@@ -14,6 +18,6 @@
     "race": 4,
     "attribute": 16,
     "name": "Sacred Arch-Airknight Parshath",
-    "desc": "If you activate a Counter Trap Card, OR if you negate the activation of a Spell/Trap Card, or monster effect, while this card is in your hand or GY (except during the Damage Step): You can banish 2 other Fairy monsters from your hand, field, and/or GY; Special Summon this card. If this card attacks a Defense Position monster, inflict piercing battle damage. When this card inflicts battle damage to your opponent: You can add 1 \"Parshath\" card or 1 Counter Trap from your Deck to your hand.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7c/SacredArchAirknightParshath-SR05-JP-UR.png"
+    "desc": "If you activate a Counter Trap Card, OR if you negate the activation of a Spell/Trap Card, or monster effect (except during the Damage Step): You can banish 2 other Fairy monsters from your hand, field and/or GY; Special Summon this card from the GY (if it was there when you activated/negated) or hand (even if not). If this card attacks a Defense Position monster, inflict piercing battle damage. When this card inflicts battle damage to your opponent: You can add 1 \"Parshath\" card or 1 Counter Trap from your Deck to your hand.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8b/SacredArchAirknightParshath-SR05-EN-UR-1E.png"
 }

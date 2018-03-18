@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Number S39: Utopia the Lightning",
-    "desc": "3 Level 5 LIGHT monsters\nYou can also Xyz Summon this card by using a Rank 4 \"Utopia\" monster you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) Cannot be used as an Xyz Material for an Xyz Summon. If this card battles, your opponent cannot activate cards or effects until the end of the Damage Step. Once per Chain, during damage calculation in either player's turn, if this card battles an opponent's monster while this card has a \"Utopia\" Xyz Monster as Xyz Material: You can detach 2 Xyz Materials from this card; this card's ATK becomes 5000 during that damage calculation only.",
+    "desc": "3 Level 5 LIGHT monsters\nYou can also Xyz Summon this card by using a Rank 4 \"Utopia\" monster you control as material. (Transfer its Xyz Materials to this card.) Cannot be used as material for an Xyz Summon. If this card battles, your opponent cannot activate cards or effects until the end of the Damage Step. Once per Chain, during damage calculation, if this card battles an opponent's monster while this card has a \"Utopia\" Xyz Monster as material (Quick Effect): You can detach 2 materials from this card; this card's ATK becomes 5000 during that damage calculation only.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Number S39: Utopia the Lightning",
         "date": "2016-03-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3e/NumberS39UtopiatheLightning-OP04-EN-UtR-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/90/NumberS39UtopiatheLightning-LCKC-EN-ScR-1E.png"
 }

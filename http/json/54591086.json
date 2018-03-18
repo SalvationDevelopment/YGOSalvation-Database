@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 128,
     "name": "Virus Cannon",
-    "desc": "Tribute any number of non-Token monsters you control. For each Tributed monster, your opponent selects 1 Spell Card from their Deck and sends it to the Graveyard.",
+    "desc": "Tribute any number of monsters, except Tokens; your opponent sends an equal number of Spells from their Deck to the GY (or all their Spells, if lower than the number of Tributes).",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Virus Cannon",
         "date": "2008-11-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/VirusCannon-CSOC-EN-R-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e3/VirusCannon-LCKC-EN-UR-1E.png"
 }

@@ -4,7 +4,11 @@
         "pack_id": "EXFO-JP037",
         "date": "2017-10-14"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE037",
+        "date": "2018-02-01"
+    },
     "id": 87170768,
     "setcode": 0,
     "type": 33,
@@ -13,7 +17,7 @@
     "level": 6,
     "race": 2048,
     "attribute": 1,
-    "name": "Contacting \"C\"",
-    "desc": "When your opponent Normal or Special Summons a monster(s), except during the Damage Step: You can Special Summon this card from your hand to your opponent's field in Defense Position. If you would Fusion, Synchro, Xyz, or Link Summon, you must use this face-up card on the field as material.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b1/ContactingC-EXFO-JP-NR.png"
+    "name": "Contact \"C\"",
+    "desc": "When your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can Special Summon this card from your hand to the opponent's field in Defense Position. This card's controller cannot Fusion, Synchro, Xyz, or Link Summon unless they use this card as material.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ed/ContactC-EXFO-EN-C-1E.png"
 }

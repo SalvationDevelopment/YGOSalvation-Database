@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": -2145386494,
     "name": "Herald of Orange Light",
-    "desc": "During either player's turn, when an effect of an opponent's monster is activated: You can send this card and 1 other Fairy-Type monster from your hand to the Graveyard; negate the activation, and if you do, destroy it.",
+    "desc": "When your opponent activates a monster effect (Quick Effect): You can send this card and 1 other Fairy monster from your hand to the GY; negate the activation, and if you do, destroy it.",
     "str1": "效果怪兽的效果的发动无效并破坏",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Herald of Orange Light",
         "date": "2008-08-09"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a5/HeraldofOrangeLight-BP03-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/93/HeraldofOrangeLight-SR05-EN-C-1E.png"
 }

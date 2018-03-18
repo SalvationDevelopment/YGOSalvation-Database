@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 2359296,
     "name": "Azure-Eyes Silver Dragon",
-    "desc": "1 Tuner + 1 or more non-Tuner Normal Monsters\nIf this card is Special Summoned: Dragon-Type monsters you currently control cannot be targeted or destroyed by card effects until the end of the next turn. Once per turn, during your Standby Phase: You can target 1 Normal Monster in your Graveyard; Special Summon that target.",
+    "desc": "1 Tuner + 1+ non-Tuner Normal Monsters\nIf this card is Special Summoned: Until the end of the next turn, neither player can target Dragon monsters you currently control with card effects, also they cannot be destroyed by card effects. Once per turn, during your Standby Phase: You can target 1 Normal Monster in your GY; Special Summon it.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Azure-Eyes Silver Dragon",
         "date": "2013-09-12"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/30/AzureEyesSilverDragon-LDK2-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/db/AzureEyesSilverDragon-LCKC-EN-ScR-1E.png"
 }

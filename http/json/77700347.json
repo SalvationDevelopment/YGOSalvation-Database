@@ -30,13 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Extreme Victory",
+        "pack_id": "EXVC-JP004",
+        "date": "2011-02-11"
+    },
     "tcg": {
         "id": 77700347,
         "pack_id": "EXVC-EN004",
         "pack": "Extreme Victory",
         "rarity": "Rare",
-        "date": 1305003600000
+        "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/75/NecroDefender-EXVC-EN-R-1E.jpg"
 }

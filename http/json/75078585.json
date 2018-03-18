@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Scramble Egg",
-    "desc": "If a monster(s) you control is destroyed by battle or card effect and sent to the GY: Special Summon 1 \"Sonic Chick\" from your hand, Deck, or GY.",
+    "desc": "If a monster(s) you control is destroyed by battle or card effect and sent to the GY: You can Special Summon 1 \"Sonic Chick\" from your hand, Deck, or GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,6 +37,10 @@
         "rarity": "Scramble Egg",
         "date": "2015-01-01"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/ScrambleEgg-AT09-JP-NPR.png"
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE099",
+        "date": "2018-02-01"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/15/ScrambleEgg-EXFO-EN-C-1E.png"
 }

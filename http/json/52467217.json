@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Gozuki",
-    "desc": "During your Main Phase: You can send 1 Zombie-Type monster from your Deck to the Graveyard. If this card is sent to the Graveyard: You can banish 1 Zombie-Type monster from your Graveyard, except \"Gozuki\"; Special Summon 1 Zombie-Type monster from your hand. You can only use each effect of \"Gozuki\" once per turn.",
+    "desc": "During your Main Phase: You can send 1 Zombie monster from your Deck to the GY. If this card is sent to the GY: You can banish 1 Zombie monster from your GY, except \"Gozuki\"; Special Summon 1 Zombie monster from your hand. You can only use each effect of \"Gozuki\" once per turn.",
     "str1": "Send 1 Zombie-Type monster to graveyard",
     "str2": "Special Summon 1 Zombie-Type monster",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Gozuki",
         "date": "2017-03-30"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/03/Gozuki-DUSA-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5c/Gozuki-OP06-EN-C-UE.png"
 }

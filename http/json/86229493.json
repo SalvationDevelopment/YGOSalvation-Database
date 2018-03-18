@@ -30,13 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Strike of Neos",
+        "pack_id": "STON-JP030",
+        "date": "2006-11-16"
+    },
     "tcg": {
         "id": 86229493,
-        "pack_id": "STON-EN030",
-        "pack": "Strike Of Neos",
+        "pack_id": "STON-FR030",
+        "pack": "Strike of Neos",
         "rarity": "Common",
-        "date": 1172638800000
+        "date": "2007-02-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ab/UmbralSoul-STON-EN-C-UE.png"
 }

@@ -2111,6 +2111,7 @@ function Primus(url, options) {
   primus.options = options;                     // Reference to the supplied options.
   primus.timers = new TickTock(this);           // Contains all our timers.
   primus.socket = null;                         // Reference to the internal connection.
+  primus.latency = 0;                           // Latency between messages.
   primus.disconnect = false;                    // Did we receive a disconnect packet?
   primus.transport = options.transport;         // Transport options.
   primus.transformers = {                       // Message transformers.
@@ -2131,7 +2132,7 @@ function Primus(url, options) {
   // - online: Reconnect when we're back online.
   //
   if ('string' === typeof options.strategy) {
-    options.strategy = options.strategy.split(/\s?,\s?/g);
+    options.strategy = options.strategy.split(/\s?\,\s?/g);
   }
 
   if (false === options.strategy) {
@@ -2334,7 +2335,8 @@ Primus.prototype.reserved.events = {
  * @api private
  */
 Primus.prototype.initialise = function initialise(options) {
-  var primus = this;
+  var primus = this
+    , start;
 
   primus.recovery
   .on('reconnected', primus.emits('reconnected'))
@@ -2356,6 +2358,8 @@ Primus.prototype.initialise = function initialise(options) {
     if (readyState !== primus.readyState) {
       primus.emit('readyStateChange', 'opening');
     }
+
+    start = +new Date();
   });
 
   primus.on('incoming::open', function opened() {
@@ -3252,7 +3256,7 @@ Primus.prototype.decoder = function decoder(data, fn) {
 
   fn(err, data);
 };
-Primus.prototype.version = "7.1.0";
+Primus.prototype.version = "7.0.2";
 
 if (
      'undefined' !== typeof document
@@ -3284,7 +3288,7 @@ if (
   // lower then 5.1.4
   //
   var ua = (navigator.userAgent || '').toLowerCase()
-    , parsed = ua.match(/.+(?:rv|it|ra|ie)[/: ](\d+)\.(\d+)(?:\.(\d+))?/) || []
+    , parsed = ua.match(/.+(?:rv|it|ra|ie)[\/: ](\d+)\.(\d+)(?:\.(\d+))?/) || []
     , version = +[parsed[1], parsed[2]].join('.');
 
   if (

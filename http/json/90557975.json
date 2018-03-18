@@ -30,13 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Gladiator's Assault",
+        "pack_id": "GLAS-JP067",
+        "date": "2007-07-21"
+    },
     "tcg": {
         "id": 90557975,
-        "pack_id": "GLAS-EN067",
+        "pack_id": "GLAS-IT067",
         "pack": "Gladiator's Assault",
         "rarity": "Super Rare",
-        "date": 1195016400000
+        "date": "2007-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/Updraft-GLAS-EN-SR-1E.png"
 }

@@ -30,13 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Extreme Victory",
+        "pack_id": "EXVC-JP062",
+        "date": "2011-02-11"
+    },
     "tcg": {
         "id": 15103313,
         "pack_id": "EXVC-EN062",
         "pack": "Extreme Victory",
         "rarity": "Common",
-        "date": 1305003600000
+        "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a4/SelfMummification-EXVC-EN-SP-1E.jpg"
 }

@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": -2146435063,
     "name": "Herald of Purple Light",
-    "desc": "During either player's turn, when your opponent activates a Trap Card: You can send this card and 1 other Fairy-Type monster from your hand to the Graveyard; negate the activation, and if you do, destroy it.",
+    "desc": "When your opponent activates a Trap Card (Quick Effect): You can send this card and 1 other Fairy monster from your hand to the GY; negate the activation, and if you do, destroy it.",
     "str1": "对方的陷阱卡的发动无效",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Herald of Purple Light",
         "date": "2006-05-13"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/03/HeraldofPurpleLight-BP03-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e2/HeraldofPurpleLight-SR05-EN-C-1E.png"
 }

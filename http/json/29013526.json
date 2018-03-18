@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 29013526,
-        "pack_id": "EE04-JP209",
-        "pack": "Expert Edition Volume 4",
+        "pack_id": "EOJ-JP029",
+        "pack": "Enemy of Justice",
         "rarity": "共通",
-        "date": 1190437200000
+        "date": "2006-02-16"
     },
     "tcg": {
         "id": 29013526,
-        "pack_id": "EOJ-EN029",
-        "pack": "Enemy Of Justice",
+        "pack_id": "EOJ-DE029",
+        "pack": "Enemy of Justice",
         "rarity": "Common",
-        "date": 1147842000000
+        "date": "2006-05-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cc/StormingWynn-DR04-NA-C-UE.png"
 }

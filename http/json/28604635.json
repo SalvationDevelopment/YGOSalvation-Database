@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 28604635,
-        "pack_id": "EE04-JP114",
-        "pack": "Expert Edition Volume 4",
+        "pack_id": "EEN-JP054",
+        "pack": "Elemental Energy",
         "rarity": "共通",
-        "date": 1190437200000
+        "date": "2005-08-11"
     },
     "tcg": {
         "id": 28604635,
-        "pack_id": "EEN-EN054",
+        "pack_id": "EEN-DE054",
         "pack": "Elemental Energy",
         "rarity": "Common",
-        "date": 1131166800000
+        "date": "2005-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fd/WeedOut-DR04-NA-C-UE.png"
 }

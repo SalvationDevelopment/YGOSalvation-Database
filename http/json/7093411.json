@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 16777728,
     "name": "Crystal Beast Sapphire Pegasus",
-    "desc": "When this card is Summoned: You can place 1 \"Crystal Beast\" monster from your hand, Deck, or Graveyard face-up in your Spell & Trap Card Zone as a Continuous Spell Card. If this face-up card is destroyed while it is in a Monster Card Zone, you can place it face-up in your Spell & Trap Card Zone as a Continuous Spell Card, instead of sending it to the Graveyard.",
+    "desc": "When this card is Summoned: You can place 1 \"Crystal Beast\" monster from your hand, Deck, or GY face-up in your Spell & Trap Zone as a Continuous Spell. If this face-up card is destroyed in a Monster Card Zone, you can place it face-up in your Spell & Trap Zone as a Continuous Spell, instead of sending it to the GY.",
     "str1": "Place in Spell/Trap zone instead of destruction",
     "str2": "Place in Spell/Trap zone",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Crystal Beast Sapphire Pegasus",
         "date": "2007-05-05"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1d/CrystalBeastSapphirePegasus-RYMP-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6f/CrystalBeastSapphirePegasus-LED2-EN-C-1E.png"
 }

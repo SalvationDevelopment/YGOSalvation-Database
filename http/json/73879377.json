@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 10,
     "name": "Armed Dragon LV7",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Armed Dragon LV5\", and cannot be Special Summoned by other ways. You can send 1 monster from your hand to the Graveyard; destroy all face-up monsters your opponent controls with ATK less than or equal to the sent monster's ATK.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Armed Dragon LV5\". You can send 1 monster from your hand to the GY; destroy all monsters your opponent controls with ATK less than or equal to the sent monster's ATK.",
     "str1": "Destroy",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Armed Dragon LV7",
         "date": "2004-10-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6e/ArmedDragonLV7-LCYW-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c8/ArmedDragonLV7-LED2-EN-C-1E.png"
 }

@@ -4,7 +4,11 @@
         "pack_id": "EXFO-JP031",
         "date": "2017-10-14"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE031",
+        "date": "2018-02-01"
+    },
     "id": 89015998,
     "setcode": 0,
     "type": 33,
@@ -13,7 +17,7 @@
     "level": 3,
     "race": 1048576,
     "attribute": 32,
-    "name": "D.D. Pursuer",
-    "desc": "(Quick Effect): You can target 1 face-up monster you control; banish it until the End Phase of the next turn. You can only use this effect of \"D.D. Pursuer\" once per turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cf/DDPursuer-EXFO-JP-R.png"
+    "name": "D.D. Seeker",
+    "desc": "(Quick Effect): You can target 1 face-up monster you control; banish it until the End Phase of the next turn. You can only use this effect of \"D.D. Seeker\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/de/DDSeeker-EXFO-EN-C-1E.png"
 }

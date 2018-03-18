@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 1032,
     "name": "Spell Reproduction",
-    "desc": "Send 2 Spell Cards from your hand to the Graveyard, then target 1 Spell Card in your Graveyard; add that target to your hand.",
+    "desc": "Send 2 Spells from your hand to the GY, then target 1 Spell in your GY; add it to your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Spell Reproduction",
         "date": "2003-12-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/59/SpellReproduction-LCJW-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/SpellReproduction-LCKC-EN-UR-1E.png"
 }

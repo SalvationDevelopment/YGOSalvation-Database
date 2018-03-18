@@ -4,7 +4,11 @@
         "pack_id": "EXFO-JP061",
         "date": "2017-10-14"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE061",
+        "date": "2018-02-01"
+    },
     "id": 38203732,
     "setcode": 242,
     "type": 2,
@@ -14,6 +18,6 @@
     "race": 0,
     "attribute": 0,
     "name": "Pendulum Paradox",
-    "desc": "Add 2 face-up Pendulum Monsters with the same Pendulum Scale but different names from your Extra Deck to your hand. You can only activate 1 \"Pendulum Paradox\" per turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3a/PendulumParadox-EXFO-JP-R.png"
+    "desc": "Add 2 face-up Pendulum Monsters with the same Pendulum Scale but different names, from your Extra Deck to your hand. You can only activate 1 \"Pendulum Paradox\" per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/48/PendulumParadox-EXFO-EN-ScR-1E.png"
 }

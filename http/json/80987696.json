@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Time Machine",
-    "desc": "When exactly 1 monster is destroyed by battle and sent to the Graveyard: Special Summon that monster to the same side of the field it was on, in the same battle position it was in when destroyed.",
+    "desc": "When a monster is destroyed by battle and sent to the GY: Special Summon that monster to the same side of the field it was on, in the same battle position it was in when destroyed.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Time Machine",
         "date": "2008-11-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1b/TimeMachine-BP02-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8b/TimeMachine-LED2-EN-C-1E.png"
 }

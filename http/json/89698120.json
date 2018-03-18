@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 89698120,
-        "pack_id": "EE3-JP083",
-        "pack": "Expert Edition Volume 3",
+        "pack_id": "RDS-JP023",
+        "pack": "Rise of Destiny",
         "rarity": "共通",
-        "date": 1134018000000
+        "date": "2004-08-05"
     },
     "tcg": {
         "id": 89698120,
-        "pack_id": "RDS-EN023",
-        "pack": "Rise Of Destiny",
+        "pack_id": "RDS-FR023",
+        "pack": "Rise of Destiny",
         "rarity": "Common",
-        "date": 1101877200000
+        "date": "2004-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cd/TacticalEspionageExpert-DR3-EN-C-UE.png"
 }

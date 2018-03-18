@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 528,
     "name": "The King of D.",
-    "desc": "This card's name becomes \"Lord of D.\" while on the field. When this card is Normal Summoned: You can discard 1 Spell/Trap; add 1 \"The Flute of Summoning Dragon\", \"The Melody of Awakening Dragon\", or \"Dragon Revival Rhapsody\" from your Deck to your hand.",
+    "desc": "This card's name becomes &#x201C;Lord of D.&#x201D; while on the field. When this card is Normal Summoned: You can discard 1 Spell/Trap; add 1 &#x201C;The Flute of Summoning Dragon&#x201D;, &#x201C;The Melody of Awakening Dragon&#x201D;, or &#x201C;Dragon Revival Rhapsody&#x201D; from your Deck to your hand.",
     "str1": "Search",
     "str2": "",
     "str3": "",
@@ -28,5 +28,6 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/72/TheKingofD-LC06-EN-UR-LE.png"
 }

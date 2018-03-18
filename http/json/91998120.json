@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262147,
     "name": "XYZ-Dragon Cannon",
-    "desc": "\"X-Head Cannon\" + \"Y-Dragon Head\" + \"Z-Metal Tank\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the Graveyard. You can discard 1 card, then target 1 card your opponent controls; destroy that target.",
+    "desc": "\"X-Head Cannon\" + \"Y-Dragon Head\" + \"Z-Metal Tank\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the GY. You can discard 1 card, then target 1 card your opponent controls; destroy that target.",
     "str1": "Destroy",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "XYZ-Dragon Cannon",
         "date": "2003-09-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/24/XYZDragonCannon-SDKS-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fd/XYZDragonCannon-LCKC-EN-UR-1E.png"
 }

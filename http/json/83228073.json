@@ -33,10 +33,14 @@
     "ocg": {
         "id": 83228073,
         "pack_id": "308-027",
-        "pack": "天空の聖域",
+        "pack": "The Sanctuary in the Sky",
         "rarity": "共通",
-        "date": 1069304400000
+        "date": "2003-11-20"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Ancient Sanctuary",
+        "pack_id": "AST-DE027",
+        "date": "2004-05-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9e/TwoThousandNeedles-DR2-EN-C-UE.png"
 }

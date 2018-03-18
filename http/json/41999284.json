@@ -4,7 +4,11 @@
         "pack_id": "SJMP-JP006",
         "date": "2017-08-04"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Weekly Shonen Jump November 2017 membership",
+        "pack_id": "JUMP-EN082",
+        "date": "2017-12-01"
+    },
     "id": 41999284,
     "setcode": 164,
     "type": 33554465,
@@ -18,5 +22,5 @@
     "links": [
         6
     ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1e/Linkuriboh-JUMP-NA-LE-OP.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/Linkuriboh-JUMP-NA-UR-LE.png"
 }

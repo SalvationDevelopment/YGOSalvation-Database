@@ -30,13 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Strike of Neos",
+        "pack_id": "STON-JP027",
+        "date": "2006-11-16"
+    },
     "tcg": {
         "id": 50957346,
-        "pack_id": "STON-EN027",
-        "pack": "Strike Of Neos",
+        "pack_id": "STON-FR027",
+        "pack": "Strike of Neos",
         "rarity": "Common",
-        "date": 1172638800000
+        "date": "2007-02-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/RagingEarth-STON-EN-C-1E.jpg"
 }

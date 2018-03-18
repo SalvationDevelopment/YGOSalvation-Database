@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 512,
     "name": "Ojamagic",
-    "desc": "When this card is sent from the hand or the field to the Graveyard, add 1 each of \"Ojama Green\", \"Ojama Yellow\" and \"Ojama Black\" from your Deck to your hand.",
+    "desc": "If this card is sent from the hand or the field to the GY: Add 1 each of \"Ojama Green\", \"Ojama Yellow\" and \"Ojama Black\" from your Deck to your hand.",
     "str1": "Search",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Ojamagic",
         "date": "2005-11-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/07/Ojamagic-DR04-NA-R-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/24/Ojamagic-LED2-EN-C-1E.png"
 }

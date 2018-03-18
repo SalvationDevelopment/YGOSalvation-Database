@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 288,
     "name": "Vortex Trooper",
-    "desc": "When this card is Normal Summoned: You can shuffle 2 cards from your hand into the Deck, then draw 2 cards. When this card is destroyed: Draw 1 card.",
+    "desc": "When this card is Normal Summoned: You can shuffle 2 cards from your hand into the Deck, then draw 2 cards. If this card is destroyed: Draw 1 card.",
     "str1": "滤抽",
     "str2": "Draw card",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Vortex Trooper",
         "date": "2007-12-10"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a4/VortexTrooper-BP01-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e9/VortexTrooper-LED2-EN-C-1E.png"
 }

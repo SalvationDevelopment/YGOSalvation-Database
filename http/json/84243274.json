@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 264196,
     "name": "VWXYZ-Dragon Catapult Cannon",
-    "desc": "\"VW-Tiger Catapult\" + \"XYZ-Dragon Cannon\"\nThis card can only be Special Summoned from your Extra Deck by removing from play the above cards you control. (You do not use \"Polymerization\"). Once per turn, remove from play 1 card your opponent controls. When this card attacks, you can change the battle position of the attack target. (Flip Effects are not activated at this time.)",
+    "desc": "\"VW-Tiger Catapult\" + \"XYZ-Dragon Cannon\"\nMust first be Special Summoned from your Extra Deck by banishing the above cards you control. (You do not use \"Polymerization\"). Once per turn: You can target 1 card your opponent controls; banish that target. When this card declares an attack on an opponent's monster: You can target the attack target; change that attack target's battle position. (Flip Effects are not activated.)",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "VWXYZ-Dragon Catapult Cannon",
         "date": "2005-11-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/50/VWXYZDragonCatapultCannon-DR04-NA-R-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ce/VWXYZDragonCatapultCannon-LED2-EN-C-1E.png"
 }

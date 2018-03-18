@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 2359303,
     "name": "Dark Armed Dragon",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 3 DARK monsters in your Graveyard, and cannot be Special Summoned by other ways. You can banish 1 DARK monster from your Graveyard, then target 1 card on the field; destroy that target.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 3 DARK monsters in your GY. You can banish 1 DARK monster from your GY, then target 1 card on the field; destroy that target.",
     "str1": "不能通常召唤",
     "str2": "墓地暗属性三张时才能特殊召唤",
     "str3": "破坏场上一张卡",
@@ -44,5 +44,5 @@
         "rarity": "Dark Armed Dragon",
         "date": "2008-01-26"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a8/DarkArmedDragon-DUSA-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ad/DarkArmedDragon-LCKC-EN-ScR-1E.png"
 }

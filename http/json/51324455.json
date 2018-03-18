@@ -30,13 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Generation Force",
+        "pack_id": "GENF-JP068",
+        "date": "2011-04-16"
+    },
     "tcg": {
         "id": 51324455,
         "pack_id": "GENF-EN068",
         "pack": "Generation Force",
         "rarity": "Common",
-        "date": 1313470800000
+        "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fe/UnderworldEggClutch-GENF-EN-C-1E.jpg"
 }

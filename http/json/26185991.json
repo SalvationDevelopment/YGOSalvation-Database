@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262144,
     "name": "Pinch Hopper",
-    "desc": "When this card you control is sent to your Graveyard: You can Special Summon 1 Insect-Type monster from your hand.",
+    "desc": "When this card you control is sent to your GY: You can Special Summon 1 Insect monster from your hand.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Pinch Hopper",
         "date": "2004-03-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/93/PinchHopper-DL13-EN-R-UE-Blue.jpg"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bb/PinchHopper-LED2-EN-C-1E.png"
 }

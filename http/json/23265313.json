@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Cost Down",
-    "desc": "Discard 1 card; until the End Phase, reduce the Levels of all monsters in your hand by 2 (even after they are Summoned).",
+    "desc": "Discard 1 card; for the rest of this turn, reduce the Levels of all monsters in your hand by 2 (even after they are Summoned).",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Cost Down",
         "date": "2003-12-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c9/CostDown-DPKB-EN-R-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a9/CostDown-LCKC-EN-ScR-1E.png"
 }

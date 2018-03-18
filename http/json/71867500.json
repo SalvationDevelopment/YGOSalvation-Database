@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Dragon Revival Rhapsody",
-    "desc": "If you control a Spellcaster monster: You can target up to 2 Dragon monsters in your GY, including at least 1 Normal Monster; Special Summon them. Your opponent takes no damage this turn. You can only activate 1 \"Dragon Revival Rhapsody\" per turn.",
+    "desc": "If you control a Spellcaster monster: You can target up to 2 Dragon monsters in your GY, including at least 1 Normal Monster; Special Summon them. Your opponent takes no damage this turn. You can only activate 1 &#x201C;Dragon Revival Rhapsody&#x201D; per turn.",
     "str1": "Target another monster?",
     "str2": "",
     "str3": "",
@@ -28,5 +28,6 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2e/DragonRevivalRhapsody-LC06-EN-UR-LE.png"
 }

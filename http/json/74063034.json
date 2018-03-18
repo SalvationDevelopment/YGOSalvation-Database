@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Invocation",
-    "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand as Fusion Materials. If Summoning an \"Invoked\" Fusion Monster this way, you can also banish monsters from your field and/or either player's Graveyard as Fusion Materials. If this card is in your Graveyard: You can target 1 of your banished \"Aleister the Invoker\"; shuffle this card into the Deck, and if you do, add that card to your hand. You can only use this effect of \"Invocation\" once per turn.",
+    "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand as Fusion Material. If Summoning an \"Invoked\" Fusion Monster this way, you can also banish monsters from your field and/or either player's GY as Fusion Material. If this card is in your GY: You can target 1 of your banished \"Aleister the Invoker\"; shuffle this card into the Deck, and if you do, add that card to your hand. You can only use this effect of \"Invocation\" once per turn.",
     "str1": "Activate Effect",
     "str2": "Return to deck",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Invocation",
         "date": "2017-02-23"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/21/Invocation-FUEN-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/66/Invocation-OP06-EN-UtR-UE.png"
 }

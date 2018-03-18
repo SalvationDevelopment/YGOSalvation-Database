@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 40867519,
-        "pack_id": "EE04-JP140",
-        "pack": "Expert Edition Volume 4",
+        "pack_id": "SOI-JP020",
+        "pack": "Shadow of Infinity",
         "rarity": "共通",
-        "date": 1190437200000
+        "date": "2005-11-17"
     },
     "tcg": {
         "id": 40867519,
         "pack_id": "SOI-EN020",
-        "pack": "Shadow Of Infinity",
+        "pack": "Shadow of Infinity",
         "rarity": "Common",
-        "date": 1140238800000
+        "date": "2006-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cb/SilentInsect-DR04-NA-C-UE.png"
 }

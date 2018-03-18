@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Heavy Mech Support Armor",
-    "desc": "If this card is Normal Summoned: You can target 1 Union monster in your Graveyard; Special Summon it. Once per turn, you can either: Target 1 Machine-Type monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. Your opponent cannot target a monster equipped with this card with card effects, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+    "desc": "If this card is Normal Summoned: You can target 1 Union monster in your GY; Special Summon it. Once per turn, you can either: Target 1 Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. Your opponent cannot target a monster equipped with this card with card effects, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
     "str1": "Equip this card",
     "str2": "Unequip this card",
     "str3": "Special Summon",
@@ -44,5 +44,5 @@
         "rarity": "Heavy Mech Support Armor",
         "date": "2016-10-20"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f1/HeavyMechSupportArmor-SDKS-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b5/HeavyMechSupportArmor-LCKC-EN-UR-1E.png"
 }

@@ -4,7 +4,11 @@
         "pack_id": "EXFO-JP032",
         "date": "2017-10-14"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE032",
+        "date": "2018-02-01"
+    },
     "id": 15419596,
     "setcode": 0,
     "type": 33,
@@ -13,7 +17,7 @@
     "level": 4,
     "race": 512,
     "attribute": 32,
-    "name": "Mikuratori",
-    "desc": "This card gains the appropriate effect, based on its location in the Main Monster Zone.\n● Left-most: Gains 1000 ATK/DEF.\n● Right-most: This card can make up to 2 attacks on monsters during each Battle Phase.\n● Middle: Cannot be destroyed by your opponent's card effects. Your opponent cannot target this card with card effects.\n● Other: Monsters in this card's column cannot activate their effects.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/53/Mikuratori-EXFO-JP-C.png"
+    "name": "Ghost Bird of Bewitchment",
+    "desc": "This card gains an effect based on your Main Monster Zone it is in.\n● Leftmost: Gains 1000 ATK/DEF.\n● Rightmost: Can make up to 2 attacks on monsters during each Battle Phase.\n● Center: Your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects.\n● Others: Monsters in this column cannot activate their effects.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/GhostBirdofBewitchment-EXFO-EN-R-1E.png"
 }

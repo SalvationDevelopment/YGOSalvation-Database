@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 0,
     "name": "Windwitch - Winter Bell",
-    "desc": "1 Tuner + 1 or more non-Tuner WIND monsters\nYou can target 1 \"Windwitch\" monster in your Graveyard; inflict damage to your opponent equal to that target's Level x 200. During either player's Battle Phase: You can target 1 \"Windwitch\" monster you control; Special Summon 1 monster from your hand with a Level less than or equal to that monster, but it cannot attack this turn. You can only use each effect of \"Windwitch - Winter Bell\" once per turn.",
+    "desc": "1 Tuner + 1+ non-Tuner WIND monsters\nYou can target 1 \"Windwitch\" monster in your GY; inflict damage to your opponent equal to that target's Level x 200. During the Battle Phase (Quick Effect): You can target 1 \"Windwitch\" monster you control; Special Summon 1 monster from your hand with a Level less than or equal to that monster, but it cannot attack this turn. You can only use each effect of \"Windwitch - Winter Bell\" once per turn.",
     "str1": "Burn Damage",
     "str2": "Special Summon \"Wind Witch\"",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Windwitch - Winter Bell",
         "date": "2017-02-09"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e1/WindwitchWinterBell-RATE-EN-R-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/97/WindwitchWinterBell-OP06-EN-SR-UE.png"
 }

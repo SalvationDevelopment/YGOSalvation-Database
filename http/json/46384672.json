@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 262154,
     "name": "Armed Dragon LV5",
-    "desc": "You can send 1 monster from your hand to the Graveyard to target 1 face-up monster your opponent controls with ATK less than or equal to the sent monster's ATK; destroy that target. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Armed Dragon LV7\" from your hand or Deck.",
+    "desc": "You can send 1 monster from your hand to the GY, then target 1 face-up monster your opponent controls with ATK less than or equal to the sent monster's ATK; destroy that target. During the End Phase, if this card destroyed a monster by battle this turn: You can send this card to the GY; Special Summon 1 \"Armed Dragon LV7\" from your hand or Deck.",
     "str1": "Destroy",
     "str2": "Special Summon",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Armed Dragon LV5",
         "date": "2004-10-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6b/ArmedDragonLV5-LCYW-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0b/ArmedDragonLV5-LED2-EN-C-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Paleozoic Canadia",
-    "desc": "Target 1 face-up monster your opponent controls; change it to face-down Defense Position. Once per Chain, when a Trap Card is activated while this card is in your Graveyard: Special Summon this card as a Normal Monster (Aqua-Type/WATER/Level 2/ATK 1200/DEF 0). (This card is NOT treated as a Trap Card.) If Summoned this way, this card is unaffected by monster effects, also banish it when it leaves the field.",
+    "desc": "Target 1 face-up monster your opponent controls; change it to face-down Defense Position. Once per Chain, when a Trap Card is activated while this card is in your GY: You can Special Summon this card as a Normal Monster (Aqua/WATER/Level 2/ATK 1200/DEF 0). (This card is NOT treated as a Trap.) If Summoned this way, this card is unaffected by monster effects, also banish it when it leaves the field.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Paleozoic Canadia",
         "date": "2016-08-04"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2e/PaleozoicCanadia-MP17-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c2/PaleozoicCanadia-OP06-EN-SR-UE.png"
 }

@@ -4,7 +4,11 @@
         "pack_id": "EXFO-JP019",
         "date": "2017-10-14"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-EN019",
+        "date": "2018-02-01"
+    },
     "id": 92204263,
     "setcode": 268,
     "type": 33,
@@ -13,7 +17,7 @@
     "level": 8,
     "race": 1048576,
     "attribute": 16,
-    "name": "Jack Knight of the Azure Blue",
-    "desc": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) to that column. You can only Special Summon \"Jack Knight of the Azure Blue\" once per turn this way. Once per turn (Quick Effect): You can target 1 &#x201C;Jack Knight&#x201D; monster you control; move that monster you control to another of your Main Monster Zones.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5c/JackKnightoftheAzureBlue-EXFO-JP-R.png"
+    "name": "Mekk-Knight Indigo Eclipse",
+    "desc": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) in that column. You can only Special Summon \"Mekk-Knight Indigo Eclipse\" once per turn this way. Once per turn (Quick Effect): You can target 1 \"Mekk-Knight\" monster you control; move that target to another of your Main Monster Zones.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/84/MekkKnightIndigoEclipse-EXFO-EN-SR-1E.png"
 }

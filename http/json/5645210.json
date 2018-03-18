@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 8192,
     "name": "Splendid Venus",
-    "desc": "All non-Fairy-Type monsters lose 500 ATK and DEF. The activation and effects of Spell/Trap Cards you control cannot be negated.",
+    "desc": "All non-Fairy monsters lose 500 ATK/DEF. The activation and effects of Spell/Trap Cards activated on your field cannot be negated.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Splendid Venus",
         "date": "2008-08-09"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4d/SplendidVenus-BP02-EN-R-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d3/SplendidVenus-SR05-EN-C-1E.png"
 }

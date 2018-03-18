@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 262154,
     "name": "Dragunity Legionnaire",
-    "desc": "When this card is Normal Summoned, you can select 1 Level 3 or lower \"Dragunity\" Dragon-Type monster in your Graveyard, and equip it to this card as an Equip Card. You can send 1 \"Dragunity\" card from your Spell & Trap Card Zone to the Graveyard to select 1 face-up monster your opponent controls, and destroy it.",
+    "desc": "When this card is Normal Summoned: You can target 1 Level 3 or lower Dragon \"Dragunity\" monster in your GY; equip that target to this card. You can send 1 \"Dragunity\" card from your Spell & Trap Zone to the GY, then target 1 face-up monster your opponent controls; destroy that target.",
     "str1": "Equip",
     "str2": "对方场上表侧表示存在的1只怪兽破坏",
     "str3": "",
@@ -44,5 +44,5 @@
         "rarity": "Dragunity Legionnaire",
         "date": "2010-09-25"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ce/DragunityLegionnaire-SDDL-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e2/DragunityLegionnaire-LCKC-EN-UR-1E.png"
 }

@@ -30,13 +30,17 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Starstrike Blast",
+        "pack_id": "STBL-JP027",
+        "date": "2010-07-17"
+    },
     "tcg": {
         "id": 61380658,
         "pack_id": "STBL-EN027",
         "pack": "Starstrike Blast",
         "rarity": "Common",
-        "date": 1289883600000
+        "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c4/Watthopper-STBL-EN-C-1E.jpg"
 }

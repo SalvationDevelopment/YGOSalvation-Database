@@ -4,7 +4,11 @@
         "pack_id": "EXFO-JP001",
         "date": "2017-10-14"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE001",
+        "date": "2018-02-01"
+    },
     "id": 14575467,
     "setcode": 0,
     "type": 17,
@@ -14,6 +18,6 @@
     "race": 16,
     "attribute": 1,
     "name": "Zombino",
-    "desc": "the two of them got along so well\ntogether in death and together in undeath\nthey would never leave each other\n\nthat is why they will never meet again",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/79/Zombino-EXFO-JP-NR.png"
+    "desc": "The two are so close\nThey die and return to life\nInseparable",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/Zombino-EXFO-EN-C-1E.png"
 }

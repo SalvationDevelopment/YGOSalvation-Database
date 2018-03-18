@@ -32,17 +32,17 @@
     "cardpool": "OCG/TCG",
     "ocg": {
         "id": 86652646,
-        "pack_id": "EE3-JP003",
-        "pack": "Expert Edition Volume 3",
+        "pack_id": "SOD-JP003",
+        "pack": "Soul of the Duelist",
         "rarity": "共通",
-        "date": 1134018000000
+        "date": "2004-05-27"
     },
     "tcg": {
         "id": 86652646,
-        "pack_id": "SOD-EN003",
-        "pack": "Soul Of The Duelist",
+        "pack_id": "SOD-DE003",
+        "pack": "Soul of the Duelist",
         "rarity": "Common",
-        "date": 1096606800000
+        "date": "2004-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/31/SkullDogMarron-DR3-EN-C-UE.png"
 }

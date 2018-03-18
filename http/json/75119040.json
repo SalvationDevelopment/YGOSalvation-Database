@@ -4,7 +4,11 @@
         "pack_id": "EXFO-JP045",
         "date": "2017-10-14"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE045",
+        "date": "2018-02-01"
+    },
     "id": 75119040,
     "setcode": 267,
     "type": 33554465,
@@ -14,11 +18,11 @@
     "race": 8,
     "attribute": 32,
     "name": "Tindangle Acute Cerberus",
-    "desc": "Link Arrows: [🡷][🡱][🡶]\n\n3 \"Tindangle\" monsters\nIf you have 3 or more \"Tindangle\" monsters with different names in your GY, including at least 1 \"Tindangle Base Gardna\", this card gains 3000 ATK. Gains 500 ATK for each \"Tindangle\" monster it points to. At the end of the Battle Phase, if this card declared an attack: You can Special Summon 1 \"Tindangle Token\" (Fiend/DARK/Level 1/ATK 0/DEF 0).",
+    "desc": "Link Arrows: [🡷][🡱][🡶]\n\n3 \"Tindangle\" monsters\nGains 3000 ATK if you have 3 or more \"Tindangle\" monsters with different names in your GY, including \"Tindangle Base Gardna\". Gains 500 ATK for each \"Tindangle\" monster it points to. At the end of the Battle Phase, if this card declared an attack: You can Special Summon 1 \"Tindangle Token\" (Fiend/DARK/Level 1/ATK 0/DEF 0).",
     "links": [
         1,
         5,
         7
     ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a6/TindangleAcuteCerberus-EXFO-JP-UR.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/51/TindangleAcuteCerberus-EXFO-EN-C-1E.png"
 }
