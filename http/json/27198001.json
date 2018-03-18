@@ -1,11 +1,7 @@
 {
-    "ocg": {
-        "pack": "Premium Pack 20",
-        "pack_id": "PP20-JP014",
-        "date": "2018-03-10"
-    },
-    "tcg": {},
     "id": 27198001,
+    "ot": 1,
+    "alias": 0,
     "setcode": 0,
     "type": 33,
     "atk": 2200,
@@ -13,7 +9,24 @@
     "level": 6,
     "race": 16,
     "attribute": 4,
+    "category": 802816,
     "name": "Nine-Tailed Fox",
     "desc": "If this card is in your hand or GY: You can Tribute 2 monsters; Special Summon this card. You can only use this effect of \"Nine-Tailed Fox\" once per turn. If this card Special Summoned from the GY attacks a Defense Position monster, inflict piercing battle damage. If this card is destroyed by battle or card effect and sent to the GY: You can Special Summon 2 \"Fox Tokens\" (Zombie/FIRE/Level 2/ATK 500/DEF 500).",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ed/NineTailedFox-PP20-JP-C.png"
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "cardpool": "OCG"
 }

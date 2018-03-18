@@ -199,21 +199,20 @@ function splitJSON(inject) {
 }
 
 async function generate(filename) {
-    const cardData = new Promise(function(resolve, reject) {
-        getcards('cards.cdb', function(error, result) {
-            if (error) {
-                reject(error);
-                return;
-            }
-            resolve(result);
+    try {
+        const cardData = new Promise(function(resolve, reject) {
+            getcards(filename, function(error, result) {
+                if (error) {
+                    reject(error);
+                    return;
+                }
+                resolve(result);
+            });
         });
-    });
 
-    cardData.then(function(data) {
-        splitJSON(data);
+        cardData.then(function(data) {
+            splitJSON(data);
 
-    }).catch(console.log);
+        }).catch(console.log);
+    } catch (e) { console.log(filename, e) }
 }
-
-
-//generate('cards.cdb');

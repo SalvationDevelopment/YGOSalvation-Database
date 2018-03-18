@@ -1,11 +1,7 @@
 {
-    "ocg": {
-        "pack": "Premium Pack 20",
-        "pack_id": "PP20-JP015",
-        "date": "2018-03-10"
-    },
-    "tcg": {},
     "id": 39033131,
+    "ot": 1,
+    "alias": 0,
     "setcode": 0,
     "type": 4,
     "atk": 0,
@@ -13,7 +9,24 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
+    "category": 262144,
     "name": "Haunted Shrine",
     "desc": "If you control no monsters: Target 1 Zombie monster in your GY; Special Summon it. If you control no monsters: You can banish this card from your GY, then target 1 Zombie monster in your GY; Special Summon it, but it has its effects negated. You can only use 1 \"Haunted Shrine\" effect per turn, and only once that turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e9/HauntedShrine-PP20-JP-C.png"
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "cardpool": "OCG"
 }

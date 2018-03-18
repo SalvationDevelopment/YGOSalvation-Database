@@ -1,23 +1,32 @@
 {
-    "ocg": {
-        "pack": "LINK VRAINS Box",
-        "pack_id": "LVB1-JP016",
-        "date": "2017-12-23"
-    },
-    "tcg": {},
     "id": 12023931,
+    "ot": 1,
+    "alias": 0,
     "setcode": 0,
-    "type": 33554465,
+    "type": 67108897,
     "atk": 1900,
-    "def": "-",
+    "def": 5,
     "level": 2,
-    "links": [
-        5,
-        7
-    ],
     "race": 8192,
     "attribute": 32,
+    "category": 8192,
     "name": "Booster Dragon",
-    "desc": "Link Arrows: [🡷][🡶]\n\n2 \"Rokket\" monsters\nOnce per turn: You can target 1 other face-up monster on the field; it gains 500 ATK/DEF. Your opponent cannot activate cards or effects in response to this effect's activation. If this Link Summoned card is destroyed by battle or card effect and sent to the GY: You can target 1 other Dragon monster in your GY; Special Summon it. You can only use this effect of \"Booster Dragon\" once per turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/57/BoosterDragon-LVB1-JP-UR.png"
+    "desc": "2 \"Rokket\" monsters\r\nOnce per turn: You can target 1 other face-up monster on the field; it gains 500 ATK/DEF. Your opponent cannot activate cards or effects in response to this effect's activation. If this Link Summoned card is destroyed by battle or card effect and sent to the GY: You can target 1 other Dragon monster in your GY; Special Summon it. You can only use this effect of \"Booster Dragon\" once per turn.",
+    "str1": "Increase ATK/DEF",
+    "str2": "Special Summon",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "cardpool": "OCG"
 }

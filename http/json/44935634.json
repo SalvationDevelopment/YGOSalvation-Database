@@ -1,11 +1,7 @@
 {
-    "ocg": {
-        "pack": "Premium Pack 20",
-        "pack_id": "PP20-JP013",
-        "date": "2018-03-10"
-    },
-    "tcg": {},
     "id": 44935634,
+    "ot": 1,
+    "alias": 0,
     "setcode": 0,
     "type": 33,
     "atk": 300,
@@ -13,7 +9,24 @@
     "level": 2,
     "race": 32,
     "attribute": 1,
+    "category": 528,
     "name": "Lefty Driver",
     "desc": "If this card is Special Summoned: You can make this card become Level 3 until the end of this turn. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; add 1 \"Righty Driver\" from your Deck to your hand. You can only use this effect of \"Lefty Driver\" once per turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/94/LeftyDriver-PP20-JP-C.png"
+    "str1": "Change Level to 3",
+    "str2": "Search \"Righty Driver\"",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "cardpool": "OCG"
 }
