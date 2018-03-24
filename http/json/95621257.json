@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 95621257,
-        "pack_id": "DT01-JP017",
         "pack": "Duel Terminal - Synchro Awakening!!",
-        "rarity": "Flamvell Magician",
+        "pack_id": "DT01-JP017",
         "date": "2008-04-12"
     },
     "tcg": {
-        "id": 95621257,
-        "pack_id": "HA01-DE008",
         "pack": "Hidden Arsenal",
-        "rarity": "Flamvell Magician",
+        "pack_id": "HA01-DE008",
         "date": "2009-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/ba/FlamvellMagician-HA01-EN-SR-LE.png"

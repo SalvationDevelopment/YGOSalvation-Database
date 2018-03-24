@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 68395509,
-        "pack_id": "DOCS-JP027",
         "pack": "Dimension of Chaos",
-        "rarity": "Majespecter Crow - Yata",
+        "pack_id": "DOCS-JP027",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 68395509,
-        "pack_id": "DOCS-DE027",
         "pack": "Dimension of Chaos",
-        "rarity": "Majespecter Crow - Yata",
+        "pack_id": "DOCS-DE027",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c1/MajespecterCrowYata-MP16-EN-C-1E.png"

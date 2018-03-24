@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 83550869,
-        "pack_id": "COTD-JP027",
         "pack": "Code of the Duelist",
-        "rarity": "Ryko, Twilightsworn Fighter",
+        "pack_id": "COTD-JP027",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE027"
+        "pack_id": "COTD-DE027",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/RykoTwilightswornFighter-COTD-EN-R-1E.png"
 }

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 19302550,
-        "pack_id": "SD30-JP002",
         "pack": "Structure Deck: Pendulum Domination",
-        "rarity": "D/D Savant Newton",
+        "pack_id": "SD30-JP002",
         "date": "2015-12-12"
     },
     "tcg": {
-        "id": 19302550,
-        "pack_id": "SDPD-DE002",
         "pack": "Pendulum Domination Structure Deck",
-        "rarity": "D/D Savant Newton",
+        "pack_id": "SDPD-DE002",
         "date": "2017-01-19"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a5/DDSavantNewton-SDPD-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 13662809,
-        "pack_id": "SPDS-JP027",
         "pack": "Booster SP: Destiny Soldiers",
-        "rarity": "Abyss Script - Rise of the Abyss King",
+        "pack_id": "SPDS-JP027",
         "date": "2016-08-06"
     },
     "tcg": {
-        "id": 13662809,
-        "pack_id": "DESO-DE027",
         "pack": "Destiny Soldiers",
-        "rarity": "Abyss Script - Rise of the Abyss King",
+        "pack_id": "DESO-DE027",
         "date": "2016-11-17"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bb/AbyssScriptRiseoftheAbyssKing-DESO-EN-ScR-1E.png"

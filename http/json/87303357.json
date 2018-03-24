@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 87303357,
-        "pack_id": "SM-08",
         "pack": "Spell of Mask",
-        "rarity": "共通",
+        "pack_id": "SM-08",
         "date": "2001-04-19"
     },
     "tcg": {
-        "id": 87303357,
-        "pack_id": "LON-009",
         "pack": "Labyrinth of Nightmare",
-        "rarity": "Shining Abyss",
+        "pack_id": "LON-009",
         "date": "2003-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1a/ShiningAbyss-DB1-EN-C-UE.png"

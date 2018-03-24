@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53855409,
-        "pack_id": "STOR-JP002",
         "pack": "Storm of Ragnarok",
-        "rarity": "Doppelwarrior",
+        "pack_id": "STOR-JP002",
         "date": "2010-11-13"
     },
     "tcg": {
-        "id": 53855409,
-        "pack_id": "STOR-EN002",
         "pack": "Storm of Ragnarok",
-        "rarity": "Doppelwarrior",
+        "pack_id": "STOR-EN002",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bf/Doppelwarrior-SDSE-EN-C-1E.png"

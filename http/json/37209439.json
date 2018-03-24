@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 37209439,
-        "pack_id": "DOCS-JP069",
         "pack": "Dimension of Chaos",
-        "rarity": "Dark Contract with Errors",
+        "pack_id": "DOCS-JP069",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 37209439,
-        "pack_id": "DOCS-DE069",
         "pack": "Dimension of Chaos",
-        "rarity": "Dark Contract with Errors",
+        "pack_id": "DOCS-DE069",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fe/DarkContractwithErrors-SDPD-EN-C-1E.png"

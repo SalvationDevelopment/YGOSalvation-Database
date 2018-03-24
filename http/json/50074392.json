@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 50074392,
-        "pack_id": "LVAL-JP041",
         "pack": "Legacy of the Valiant",
-        "rarity": "Sirenorca",
+        "pack_id": "LVAL-JP041",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 50074392,
-        "pack_id": "LVAL-DE041",
         "pack": "Legacy of the Valiant",
-        "rarity": "Sirenorca",
+        "pack_id": "LVAL-DE041",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ac/Sirenorca-LVAL-EN-C-1E.png"

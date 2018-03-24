@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 61049315,
-        "pack_id": "DT04-JP021",
         "pack": "Duel Terminal - Demon Roar God Revival!!",
-        "rarity": "レア仕様",
+        "pack_id": "DT04-JP021",
         "date": "2008-12-04"
     },
     "tcg": {
-        "id": 61049315,
-        "pack_id": "DT02-EN071",
         "pack": "Duel Terminal 2",
-        "rarity": "Naturia Rosewhip",
+        "pack_id": "DT02-EN071",
         "date": "2010-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8e/NaturiaRosewhip-HA02-EN-SR-1E.jpg"

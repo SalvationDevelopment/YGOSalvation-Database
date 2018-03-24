@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 61623148,
-        "pack_id": "PTDN-JP062",
         "pack": "Phantom Darkness",
-        "rarity": "Dark World Grimoire",
+        "pack_id": "PTDN-JP062",
         "date": "2007-11-23"
     },
     "tcg": {
-        "id": 61623148,
-        "pack_id": "PTDN-DE062",
         "pack": "Phantom Darkness",
-        "rarity": "Dark World Grimoire",
+        "pack_id": "PTDN-DE062",
         "date": "2008-01-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/69/DarkWorldGrimoire-LCJW-EN-C-1E.png"

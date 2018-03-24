@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 98336111,
-        "pack_id": "STON-JP020",
         "pack": "Strike of Neos",
-        "rarity": "Fusion Devourer",
+        "pack_id": "STON-JP020",
         "date": "2006-11-16"
     },
     "tcg": {
-        "id": 98336111,
-        "pack_id": "STON-FR020",
         "pack": "Strike of Neos",
-        "rarity": "Fusion Devourer",
+        "pack_id": "STON-FR020",
         "date": "2007-02-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e3/FusionDevourer-STON-EN-R-1E.jpg"

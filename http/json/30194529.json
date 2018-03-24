@@ -35,16 +35,14 @@
     ],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 30194529,
-        "pack_id": "COTD-JP050",
         "pack": "Code of the Duelist",
-        "rarity": "Stargrail Warrior Ningirsu",
+        "pack_id": "COTD-JP050",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE050"
+        "pack_id": "COTD-DE050",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c9/NingirsutheWorldChaliceWarrior-COTD-EN-ScR-1E.png"
 }

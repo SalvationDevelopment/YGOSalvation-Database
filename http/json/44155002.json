@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 44155002,
-        "pack_id": "DT07-JP039",
         "pack": "Duel Terminal - Charge of the Genex!!",
-        "rarity": "The Fabled Unicore",
+        "pack_id": "DT07-JP039",
         "date": "2009-10-01"
     },
     "tcg": {
-        "id": 44155002,
-        "pack_id": "DT04-EN039",
         "pack": "Duel Terminal 4",
-        "rarity": "The Fabled Unicore",
+        "pack_id": "DT04-EN039",
         "date": "2011-01-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/14/TheFabledUnicore-HA04-EN-ScR-1E.png"

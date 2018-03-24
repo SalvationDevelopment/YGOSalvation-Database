@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 59593925,
-        "pack_id": "EXVC-JP048",
         "pack": "Extreme Victory",
-        "rarity": "Resonant Destruction",
+        "pack_id": "EXVC-JP048",
         "date": "2011-02-11"
     },
     "tcg": {
-        "id": 59593925,
-        "pack_id": "EXVC-EN048",
         "pack": "Extreme Victory",
-        "rarity": "Resonant Destruction",
+        "pack_id": "EXVC-EN048",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/ResonantDestruction-LC5D-EN-C-1E.png"

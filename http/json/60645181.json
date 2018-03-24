@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 60645181,
-        "pack_id": "REDU-JP041",
         "pack": "Return of the Duelist",
-        "rarity": "Heroic Champion - Excalibur",
+        "pack_id": "REDU-JP041",
         "date": "2012-04-14"
     },
     "tcg": {
-        "id": 60645181,
-        "pack_id": "CT09-DE002",
         "pack": "Collectible Tins 2012 Wave 1",
-        "rarity": "Heroic Champion - Excalibur",
+        "pack_id": "CT09-DE002",
         "date": "2012-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/42/HeroicChampionExcalibur-REDU-EN-UR-1E.png"

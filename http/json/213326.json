@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 213326,
-        "pack_id": "EOJ-JP039",
         "pack": "Enemy of Justice",
-        "rarity": "E - Emergency Call",
+        "pack_id": "EOJ-JP039",
         "date": "2006-02-16"
     },
     "tcg": {
-        "id": 213326,
-        "pack_id": "EOJ-DE039",
         "pack": "Enemy of Justice",
-        "rarity": "E - Emergency Call",
+        "pack_id": "EOJ-DE039",
         "date": "2006-05-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2f/EEmergencyCall-SDHS-EN-C-1E.png"

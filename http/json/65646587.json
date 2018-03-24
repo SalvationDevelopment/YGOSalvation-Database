@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 65646587,
-        "pack_id": "PP19-JP004",
         "pack": "Premium Pack 19",
-        "rarity": "Pendulum Fusion",
+        "pack_id": "PP19-JP004",
         "date": "2017-03-11"
     },
     "tcg": {
-        "id": 65646587,
-        "pack_id": "DPDG-DE005",
         "pack": "Duelist Pack: Dimensional Guardians",
-        "rarity": "Pendulum Fusion",
+        "pack_id": "DPDG-DE005",
         "date": "2017-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/06/PendulumFusion-DPDG-EN-SR-1E.png"

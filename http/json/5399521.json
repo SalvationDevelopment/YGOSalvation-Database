@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 5399521,
-        "pack_id": "DOCS-JP085",
         "pack": "Dimension of Chaos",
-        "rarity": "Symphonic Warrior Miccs",
+        "pack_id": "DOCS-JP085",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 5399521,
-        "pack_id": "RATE-DE096",
         "pack": "Raging Tempest",
-        "rarity": "Symphonic Warrior Miccs",
+        "pack_id": "RATE-DE096",
         "date": "2017-02-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/92/SymphonicWarriorMiccs-MP17-EN-C-1E.png"

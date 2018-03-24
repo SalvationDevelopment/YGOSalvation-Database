@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 43096270,
-        "pack_id": "ST12-JP001",
         "pack": "Starter Deck 2012",
-        "rarity": "Alexandrite Dragon",
+        "pack_id": "ST12-JP001",
         "date": "2012-03-17"
     },
     "tcg": {
-        "id": 43096270,
-        "pack_id": "PHSW-DESP1",
         "pack": "Photon Shockwave Sneak Peek Participation Card",
-        "rarity": "Alexandrite Dragon",
+        "pack_id": "PHSW-DESP1",
         "date": "2011-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a7/AlexandriteDragon-LDK2-EN-C-1E.png"

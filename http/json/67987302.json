@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67987302,
-        "pack_id": "EXP3-JP039",
         "pack": "Extra Pack Volume 3",
-        "rarity": "Earthbound Linewalker",
+        "pack_id": "EXP3-JP039",
         "date": "2010-09-18"
     },
     "tcg": {
-        "id": 67987302,
-        "pack_id": "ABPF-DE088",
         "pack": "Absolute Powerforce",
-        "rarity": "Earthbound Linewalker",
+        "pack_id": "ABPF-DE088",
         "date": "2010-02-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b5/EarthboundLinewalker-LC5D-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 10526791,
-        "pack_id": "EEN-JP035",
         "pack": "Elemental Energy",
-        "rarity": "Elemental HERO Wildedge",
+        "pack_id": "EEN-JP035",
         "date": "2005-08-11"
     },
     "tcg": {
-        "id": 10526791,
-        "pack_id": "EEN-DE035",
         "pack": "Elemental Energy",
-        "rarity": "Elemental HERO Wildedge",
+        "pack_id": "EEN-DE035",
         "date": "2005-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/ElementalHEROWildedge-LCGX-EN-C-1E.png"

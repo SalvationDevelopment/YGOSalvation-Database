@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53982768,
-        "pack_id": "SC-01",
         "pack": "Struggle of Chaos",
-        "rarity": "Dark Ruler Ha Des",
+        "pack_id": "SC-01",
         "date": "2001-09-20"
     },
     "tcg": {
-        "id": 53982768,
-        "pack_id": "LOD-001",
         "pack": "Legacy of Darkness",
-        "rarity": "Dark Ruler Ha Des",
+        "pack_id": "LOD-001",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/DarkRulerHaDes-BP01-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 36708764,
-        "pack_id": "CPD1-JP014",
         "pack": "Collectors Pack: Duelist of Destiny Version",
-        "rarity": "Roulette Spider",
+        "pack_id": "CPD1-JP014",
         "date": "2015-05-16"
     },
     "tcg": {
-        "id": 36708764,
-        "pack_id": "DRL2-DE014",
         "pack": "Dragons of Legend 2",
-        "rarity": "Roulette Spider",
+        "pack_id": "DRL2-DE014",
         "date": "2015-07-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/RouletteSpider-LDK2-EN-C-1E.png"

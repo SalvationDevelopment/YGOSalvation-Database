@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 22061412,
-        "pack_id": "YG06-JP001",
         "pack": "Yu-Gi-Oh! GX Volume 6",
-        "rarity": "Elemental HERO The Shining",
+        "pack_id": "YG06-JP001",
         "date": "2009-11-04"
     },
     "tcg": {
-        "id": 22061412,
-        "pack_id": "YG06-EN001",
         "pack": "Yu-Gi-Oh! GX Volume 6",
-        "rarity": "Elemental HERO The Shining",
+        "pack_id": "YG06-EN001",
         "date": "2011-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/db/ElementalHEROTheShining-PRC1-EN-ScR-LE.png"

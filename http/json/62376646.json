@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 62376646,
-        "pack_id": "COTD-JP054",
         "pack": "Code of the Duelist",
-        "rarity": "Gouki Rematch",
+        "pack_id": "COTD-JP054",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE054"
+        "pack_id": "COTD-DE054",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/02/GoukiReMatch-COTD-EN-SR-1E.png"
 }

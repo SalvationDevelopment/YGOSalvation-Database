@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 37780349,
-        "pack_id": "SPDS-JP002",
         "pack": "Booster SP: Destiny Soldiers",
-        "rarity": "Destiny HERO - Dynatag",
+        "pack_id": "SPDS-JP002",
         "date": "2016-08-06"
     },
     "tcg": {
-        "id": 37780349,
-        "pack_id": "DESO-DE002",
         "pack": "Destiny Soldiers",
-        "rarity": "Destiny HERO - Dynatag",
+        "pack_id": "DESO-DE002",
         "date": "2016-11-17"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/DestinyHERODynatag-DESO-EN-SR-1E.png"

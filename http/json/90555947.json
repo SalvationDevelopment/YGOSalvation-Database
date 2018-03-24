@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 90555947,
-        "pack_id": "NECH-JP088",
         "pack": "The New Challengers",
-        "rarity": "Naturia Gaiastrio",
+        "pack_id": "NECH-JP088",
         "date": "2014-07-19"
     },
     "tcg": {
-        "id": 90555947,
-        "pack_id": "WSUP-DE033",
         "pack": "World Superstars",
-        "rarity": "Naturia Gaiastrio",
+        "pack_id": "WSUP-DE033",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f4/NaturiaGaiastrio-WSUP-EN-SR-1E.png"

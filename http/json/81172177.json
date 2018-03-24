@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legacy of Darkness",
+        "pack_id": "LOD-098",
+        "date": "2003-06-06"
+    },
+    "ocg": {
+        "pack": "Mythological Age",
+        "pack_id": "MA-50",
+        "date": "2001-11-29"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/99/FiendComedian-LOD-NA-C-1E.jpg"
 }

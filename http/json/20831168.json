@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 20831168,
-        "pack_id": "SC-38",
         "pack": "Struggle of Chaos",
-        "rarity": "Lizard Soldier",
+        "pack_id": "SC-38",
         "date": "2001-09-20"
     },
     "tcg": {
-        "id": 20831168,
-        "pack_id": "LOD-038",
         "pack": "Legacy of Darkness",
-        "rarity": "Lizard Soldier",
+        "pack_id": "LOD-038",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e9/LizardSoldier-LOD-NA-C-1E.jpg"

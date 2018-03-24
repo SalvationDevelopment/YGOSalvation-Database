@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 38679204,
-        "pack_id": "DT11-JP021",
-        "pack": "デュエルターミナル 「オメガの裁き！！」",
-        "rarity": "共通",
-        "date": 1291179600000
-    },
+    "ocg": {},
     "tcg": {
-        "id": 38679204,
-        "pack_id": "DT06-EN021",
         "pack": "Duel Terminal 6a",
-        "rarity": "Vylon Stella",
+        "pack_id": "DT06-EN021",
         "date": "2012-02-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b6/VylonStella-BP02-EN-C-UE.png"

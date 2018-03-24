@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 5186893,
-        "pack_id": "SD15-JP001",
         "pack": "Structure Deck: Undead World",
-        "rarity": "Red-Eyes Zombie Dragon",
+        "pack_id": "SD15-JP001",
         "date": "2008-06-21"
     },
     "tcg": {
-        "id": 5186893,
-        "pack_id": "SDZW-DE001",
         "pack": "Zombie World Structure Deck",
-        "rarity": "Red-Eyes Zombie Dragon",
+        "pack_id": "SDZW-DE001",
         "date": "2008-10-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7b/RedEyesZombieDragon-LCJW-EN-R-1E.png"

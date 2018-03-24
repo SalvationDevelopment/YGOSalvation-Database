@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 43573231,
-        "pack_id": "GAOV-JP012",
         "pack": "Galactic Overlord",
-        "rarity": "Morpho Butterspy",
+        "pack_id": "GAOV-JP012",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 43573231,
-        "pack_id": "GAOV-EN012",
         "pack": "Galactic Overlord",
-        "rarity": "Morpho Butterspy",
+        "pack_id": "GAOV-EN012",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bf/MorphoButterspy-GAOV-EN-C-1E.png"

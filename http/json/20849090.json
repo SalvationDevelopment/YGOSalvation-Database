@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 20849090,
-        "pack_id": "EP16-JP004",
         "pack": "Extra Pack 2016",
-        "rarity": "Kozmo Forerunner",
+        "pack_id": "EP16-JP004",
         "date": "2016-09-10"
     },
     "tcg": {
-        "id": 20849090,
-        "pack_id": "CORE-DE085",
         "pack": "Clash of Rebellions",
-        "rarity": "Kozmo Forerunner",
+        "pack_id": "CORE-DE085",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9b/KozmoForerunner-PGL3-EN-GScR-1E.png"

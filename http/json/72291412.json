@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 72291412,
-        "pack_id": "DOCS-JP012",
         "pack": "Dimension of Chaos",
-        "rarity": "D/D Necro Slime",
+        "pack_id": "DOCS-JP012",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 72291412,
-        "pack_id": "DOCS-DE012",
         "pack": "Dimension of Chaos",
-        "rarity": "D/D Necro Slime",
+        "pack_id": "DOCS-DE012",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bf/DDNecroSlime-SP17-EN-C-1E.png"

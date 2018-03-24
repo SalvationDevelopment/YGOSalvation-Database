@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99597615,
-        "pack_id": "MR-05",
         "pack": "Magic Ruler",
-        "rarity": "Malevolent Nuzzler",
+        "pack_id": "MR-05",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 99597615,
-        "pack_id": "SYE-036",
         "pack": "Starter Deck: Yugi Evolution",
-        "rarity": "Malevolent Nuzzler",
+        "pack_id": "SYE-036",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4a/MalevolentNuzzler-YS15-EU-C-1E.png"

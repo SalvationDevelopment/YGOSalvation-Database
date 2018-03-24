@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 15013468,
-        "pack_id": "PP7-JP002",
         "pack": "Premium Pack 7",
-        "rarity": "Andro Sphinx",
+        "pack_id": "PP7-JP002",
         "date": "2004-08-05"
     },
     "tcg": {
-        "id": 15013468,
-        "pack_id": "EP1-DE002",
         "pack": "Exclusive Pack",
-        "rarity": "Andro Sphinx",
+        "pack_id": "EP1-DE002",
         "date": "2004-08-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5d/AndroSphinx-EP1-EN-UR-UE.png"

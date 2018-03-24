@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 9718968,
-        "pack_id": "DP13-JP013",
         "pack": "Duelist Pack: Kaito Edition",
-        "rarity": "Photon Slasher",
+        "pack_id": "DP13-JP013",
         "date": "2012-09-15"
     },
     "tcg": {
-        "id": 9718968,
-        "pack_id": "ZTIN-DE008",
         "pack": "Zexal Collection",
-        "rarity": "Photon Slasher",
+        "pack_id": "ZTIN-DE008",
         "date": "2013-03-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/68/PhotonSlasher-ZTIN-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 60082869,
-        "pack_id": "CA-11",
         "pack": "Curse of Anubis",
-        "rarity": "Dust Tornado",
+        "pack_id": "CA-11",
         "date": "2000-09-28"
     },
     "tcg": {
-        "id": 60082869,
-        "pack_id": "PSV-011",
         "pack": "Pharaoh's Servant",
-        "rarity": "Dust Tornado",
+        "pack_id": "PSV-011",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d2/DustTornado-YS15-EU-C-1E.png"

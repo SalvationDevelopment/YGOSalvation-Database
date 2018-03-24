@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 66752837,
-        "pack_id": "CORE-JP024",
         "pack": "Clash of Rebellions",
-        "rarity": "Keeper of the Shrine",
+        "pack_id": "CORE-JP024",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 66752837,
-        "pack_id": "CORE-DE024",
         "pack": "Clash of Rebellions",
-        "rarity": "Keeper of the Shrine",
+        "pack_id": "CORE-DE024",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c9/KeeperoftheShrine-SDKS-EN-C-1E.png"

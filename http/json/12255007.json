@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12255007,
-        "pack_id": "SHVI-JP005",
         "pack": "Shining Victories",
-        "rarity": "Performapal Fireflux",
+        "pack_id": "SHVI-JP005",
         "date": "2016-01-09"
     },
     "tcg": {
-        "id": 12255007,
-        "pack_id": "SHVI-DE005",
         "pack": "Shining Victories",
-        "rarity": "Performapal Fireflux",
+        "pack_id": "SHVI-DE005",
         "date": "2016-05-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/db/PerformapalFireflux-MP17-EN-C-1E.png"

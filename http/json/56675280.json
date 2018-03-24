@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 56675280,
-        "pack_id": "ST16-JP005",
         "pack": "Starter Deck 2016",
-        "rarity": "Performapal Parrotrio",
+        "pack_id": "ST16-JP005",
         "date": "2016-03-19"
     },
     "tcg": {
-        "id": 56675280,
-        "pack_id": "YS16-DE005",
         "pack": "Starter Deck - Yuya",
-        "rarity": "Performapal Parrotrio",
+        "pack_id": "YS16-DE005",
         "date": "2016-05-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b5/PerformapalParrotrio-YS16-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 17548456,
-        "pack_id": "DT07-JP041",
         "pack": "Duel Terminal - Charge of the Genex!!",
-        "rarity": "Jurrac Meteor",
+        "pack_id": "DT07-JP041",
         "date": "2009-10-01"
     },
     "tcg": {
-        "id": 17548456,
-        "pack_id": "DT04-EN041",
         "pack": "Duel Terminal 4",
-        "rarity": "Jurrac Meteor",
+        "pack_id": "DT04-EN041",
         "date": "2011-01-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/31/JurracMeteor-HA04-EN-ScR-1E.png"

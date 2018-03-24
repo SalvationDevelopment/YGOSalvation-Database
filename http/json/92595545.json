@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 92595545,
-        "pack_id": "PHSW-JP014",
         "pack": "Photon Shockwave",
-        "rarity": "Plasma Ball",
+        "pack_id": "PHSW-JP014",
         "date": "2011-07-16"
     },
     "tcg": {
-        "id": 92595545,
-        "pack_id": "PHSW-DE014",
         "pack": "Photon Shockwave",
-        "rarity": "Plasma Ball",
+        "pack_id": "PHSW-DE014",
         "date": "2011-11-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/PlasmaBall-PHSW-EN-C-1E.png"

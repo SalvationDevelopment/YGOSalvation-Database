@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 92142169,
-        "pack_id": "ST13-JPV05",
         "pack": "Starter Deck 2013 Enhancement Pack",
-        "rarity": "Bite Bug",
+        "pack_id": "ST13-JPV05",
         "date": "2013-03-16"
     },
     "tcg": {
-        "id": 92142169,
-        "pack_id": "YS13-DEV05",
         "pack": "Super Starter Power-Up Pack",
-        "rarity": "Bite Bug",
+        "pack_id": "YS13-DEV05",
         "date": "2013-06-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/90/BiteBug-YS13-EN-C-1E.png"

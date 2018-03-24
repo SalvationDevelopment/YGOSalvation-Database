@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 91070115,
-        "pack_id": "GLAS-JP034",
         "pack": "Gladiator's Assault",
-        "rarity": "Alien Telepath",
+        "pack_id": "GLAS-JP034",
         "date": "2007-07-21"
     },
     "tcg": {
-        "id": 91070115,
-        "pack_id": "GLAS-IT034",
         "pack": "Gladiator's Assault",
-        "rarity": "Alien Telepath",
+        "pack_id": "GLAS-IT034",
         "date": "2007-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/61/AlienTelepath-GLAS-EN-R-1E.png"

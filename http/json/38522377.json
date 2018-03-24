@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 38522377,
-        "pack_id": "EXVC-JP015",
         "pack": "Extreme Victory",
-        "rarity": "Meklord Astro Dragon Asterisk",
+        "pack_id": "EXVC-JP015",
         "date": "2011-02-11"
     },
     "tcg": {
-        "id": 38522377,
-        "pack_id": "EXVC-EN015",
         "pack": "Extreme Victory",
-        "rarity": "Meklord Astro Dragon Asterisk",
+        "pack_id": "EXVC-EN015",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/05/MeklordAstroDragonAsterisk-LC5D-EN-ScR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 52467217,
-        "pack_id": "PP19-JP017",
         "pack": "Premium Pack 19",
-        "rarity": "Gozuki",
+        "pack_id": "PP19-JP017",
         "date": "2017-03-11"
     },
     "tcg": {
-        "id": 52467217,
-        "pack_id": "DUSA-DE020",
         "pack": "Duelist Saga",
-        "rarity": "Gozuki",
+        "pack_id": "DUSA-DE020",
         "date": "2017-03-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5c/Gozuki-OP06-EN-C-UE.png"

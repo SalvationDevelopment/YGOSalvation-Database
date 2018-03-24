@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 68597372,
-        "pack_id": "GENF-JP042",
         "pack": "Generation Force",
-        "rarity": "Wind-Up Zenmaister",
+        "pack_id": "GENF-JP042",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 68597372,
-        "pack_id": "GENF-EN042",
         "pack": "Generation Force",
-        "rarity": "Wind-Up Zenmaister",
+        "pack_id": "GENF-EN042",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f9/WindUpZenmaister-BP01-EN-R-1E.png"

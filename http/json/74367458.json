@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 74367458,
-        "pack_id": "304-005",
         "pack": "Power of the Guardian",
-        "rarity": "Guardian Elma",
+        "pack_id": "304-005",
         "date": "2002-11-21"
     },
     "tcg": {
-        "id": 74367458,
-        "pack_id": "DCR-005",
         "pack": "Dark Crisis",
-        "rarity": "Guardian Elma",
+        "pack_id": "DCR-005",
         "date": "2003-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a5/GuardianElma-LCYW-EN-C-1E.png"

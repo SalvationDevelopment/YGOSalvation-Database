@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 46796664,
-        "pack_id": "SD30-JP003",
         "pack": "Structure Deck: Pendulum Domination",
-        "rarity": "D/D Savant Copernicus",
+        "pack_id": "SD30-JP003",
         "date": "2015-12-12"
     },
     "tcg": {
-        "id": 46796664,
-        "pack_id": "SDPD-DE003",
         "pack": "Pendulum Domination Structure Deck",
-        "rarity": "D/D Savant Copernicus",
+        "pack_id": "SDPD-DE003",
         "date": "2017-01-19"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/08/DDSavantCopernicus-SDPD-EN-C-1E.png"

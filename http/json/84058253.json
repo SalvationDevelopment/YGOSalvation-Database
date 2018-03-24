@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 84058253,
-        "pack_id": "CROS-JP089",
         "pack": "Crossed Souls",
-        "rarity": "Chimeratech Rampage Dragon",
+        "pack_id": "CROS-JP089",
         "date": "2015-02-14"
     },
     "tcg": {
-        "id": 84058253,
-        "pack_id": "BOSH-DE093",
         "pack": "Breakers of Shadow",
-        "rarity": "Chimeratech Rampage Dragon",
+        "pack_id": "BOSH-DE093",
         "date": "2016-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b2/ChimeratechRampageDragon-LEDD-EN-C-1E.png"

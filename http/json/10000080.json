@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 10000080,
-        "pack_id": "DP16-JP001",
         "pack": "Duelist Pack: Battle City",
-        "rarity": "The Winged Dragon of Ra - Sphere Mode",
+        "pack_id": "DP16-JP001",
         "date": "2015-06-06"
     },
     "tcg": {
-        "id": 10000080,
-        "pack_id": "DPBC-EN001",
         "pack": "Duelist Pack: Battle City",
-        "rarity": "The Winged Dragon of Ra - Sphere Mode",
+        "pack_id": "DPBC-EN001",
         "date": "2015-06-19"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6f/TheWingedDragonofRaSphereMode-CIBR-EN-SR-LE.png"

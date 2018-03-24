@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 28990150,
-        "pack_id": "PHSW-JP015",
         "pack": "Photon Shockwave",
-        "rarity": "Photon Cerberus",
+        "pack_id": "PHSW-JP015",
         "date": "2011-07-16"
     },
     "tcg": {
-        "id": 28990150,
-        "pack_id": "PHSW-DE015",
         "pack": "Photon Shockwave",
-        "rarity": "Photon Cerberus",
+        "pack_id": "PHSW-DE015",
         "date": "2011-11-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/23/PhotonCerberus-NUMH-EN-SR-1E.png"

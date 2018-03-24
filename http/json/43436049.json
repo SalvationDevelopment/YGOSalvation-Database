@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 43436049,
-        "pack_id": "VJMP-JP099",
         "pack": "V Jump Spring 2015 subscription bonus",
-        "rarity": "Junk Breaker",
+        "pack_id": "VJMP-JP099",
         "date": "2015-03-20"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE090"
+        "pack_id": "COTD-DE090",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/68/JunkBreaker-COTD-EN-C-1E.png"
 }

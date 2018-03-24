@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65446452,
-        "pack_id": "CPD1-JP043",
         "pack": "Collectors Pack: Duelist of Destiny Version",
-        "rarity": "Aquarium Set",
+        "pack_id": "CPD1-JP043",
         "date": "2015-05-16"
     },
     "tcg": {
-        "id": 65446452,
-        "pack_id": "DRL2-DE043",
         "pack": "Dragons of Legend 2",
-        "rarity": "Aquarium Set",
+        "pack_id": "DRL2-DE043",
         "date": "2015-07-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4f/AquariumSet-DRL2-EN-SR-1E.png"

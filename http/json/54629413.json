@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 54629413,
-        "pack_id": "EP14-JP046",
         "pack": "Extra Pack: Knights of Order",
-        "rarity": "Guerilla Kite",
+        "pack_id": "EP14-JP046",
         "date": "2014-09-13"
     },
     "tcg": {
-        "id": 54629413,
-        "pack_id": "WSUP-DE040",
         "pack": "World Superstars",
-        "rarity": "Guerilla Kite",
+        "pack_id": "WSUP-DE040",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/db/GuerillaKite-WSUP-EN-SR-1E.png"

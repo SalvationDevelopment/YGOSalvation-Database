@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 2311603,
-        "pack_id": "TB-10",
         "pack": "Thousand Eyes Bible",
-        "rarity": "Overdrive",
+        "pack_id": "TB-10",
         "date": "2000-12-14"
     },
     "tcg": {
-        "id": 2311603,
-        "pack_id": "PSV-060",
         "pack": "Pharaoh's Servant",
-        "rarity": "Overdrive",
+        "pack_id": "PSV-060",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d6/Overdrive-DEM2-EN-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64726269,
-        "pack_id": "DUEA-JP084",
         "pack": "Duelist Alliance",
-        "rarity": "Star Seraph Scale",
+        "pack_id": "DUEA-JP084",
         "date": "2014-04-19"
     },
     "tcg": {
-        "id": 64726269,
-        "pack_id": "WSUP-DE019",
         "pack": "World Superstars",
-        "rarity": "Star Seraph Scale",
+        "pack_id": "WSUP-DE019",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/31/StarSeraphScale-WSUP-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 84845628,
-        "pack_id": "CORE-JP040",
         "pack": "Clash of Rebellions",
-        "rarity": "Bird of Paradise Lost",
+        "pack_id": "CORE-JP040",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 84845628,
-        "pack_id": "CORE-DE040",
         "pack": "Clash of Rebellions",
-        "rarity": "Bird of Paradise Lost",
+        "pack_id": "CORE-DE040",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/65/BirdofParadiseLost-MP16-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 11913700,
-        "pack_id": "PTDN-JP048",
         "pack": "Phantom Darkness",
-        "rarity": "Instant Neo Space",
+        "pack_id": "PTDN-JP048",
         "date": "2007-11-23"
     },
     "tcg": {
-        "id": 11913700,
-        "pack_id": "PTDN-DE048",
         "pack": "Phantom Darkness",
-        "rarity": "Instant Neo Space",
+        "pack_id": "PTDN-DE048",
         "date": "2008-01-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cd/InstantNeoSpace-LCGX-EN-C-1E.png"

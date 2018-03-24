@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 82213171,
-        "pack_id": "SD12-JP003",
         "pack": "Structure Deck: Curse of Darkness",
-        "rarity": "Prometheus, King of the Shadows",
+        "pack_id": "SD12-JP003",
         "date": "2007-03-08"
     },
     "tcg": {
-        "id": 82213171,
-        "pack_id": "FOTB-FR063",
         "pack": "Force of the Breaker",
-        "rarity": "Prometheus, King of the Shadows",
+        "pack_id": "FOTB-FR063",
         "date": "2007-05-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9c/PrometheusKingoftheShadows-DESO-EN-SR-1E.png"

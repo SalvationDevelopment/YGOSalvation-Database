@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 57288708,
-        "pack_id": "COTD-JP023",
         "pack": "Code of the Duelist",
-        "rarity": "Starrelic - Stargrail",
+        "pack_id": "COTD-JP023",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE023"
+        "pack_id": "COTD-DE023",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/30/WorldLegacyWorldChalice-COTD-EN-R-1E.png"
 }

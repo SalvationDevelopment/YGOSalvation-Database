@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 4611269,
-        "pack_id": "PP12-JP005",
         "pack": "Premium Pack 12",
-        "rarity": "Lion Alligator",
+        "pack_id": "PP12-JP005",
         "date": "2010-03-20"
     },
     "tcg": {
-        "id": 4611269,
-        "pack_id": "LC02-EN008",
         "pack": "Legendary Collection 2: The Duel Academy Years",
-        "rarity": "Lion Alligator",
+        "pack_id": "LC02-EN008",
         "date": "2011-10-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c3/LionAlligator-BP03-EN-R-1E.png"

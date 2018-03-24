@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 18828179,
-        "pack_id": "EXP1-JP006",
         "pack": "Extra Pack",
-        "rarity": "Cranium Fish",
+        "pack_id": "EXP1-JP006",
         "date": "2008-09-13"
     },
     "tcg": {
-        "id": 18828179,
-        "pack_id": "TAEV-FR083",
         "pack": "Tactical Evolution",
-        "rarity": "Cranium Fish",
+        "pack_id": "TAEV-FR083",
         "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e2/CraniumFish-TAEV-EN-ScR-1E.jpg"

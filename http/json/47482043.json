@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 47482043,
-        "pack_id": "RATE-JP070",
         "pack": "Raging Tempest",
-        "rarity": "Ancient Gear Reborn",
+        "pack_id": "RATE-JP070",
         "date": "2016-10-08"
     },
     "tcg": {
-        "id": 47482043,
-        "pack_id": "RATE-DE070",
         "pack": "Raging Tempest",
-        "rarity": "Ancient Gear Reborn",
+        "pack_id": "RATE-DE070",
         "date": "2017-02-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/22/AncientGearReborn-MP17-EN-R-1E.png"

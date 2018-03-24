@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 11082056,
-        "pack_id": "CPD1-JP006",
         "pack": "Collectors Pack: Duelist of Destiny Version",
-        "rarity": "The Fang of Critias",
+        "pack_id": "CPD1-JP006",
         "date": "2015-05-16"
     },
     "tcg": {
-        "id": 11082056,
-        "pack_id": "DRL2-DE006",
         "pack": "Dragons of Legend 2",
-        "rarity": "The Fang of Critias",
+        "pack_id": "DRL2-DE006",
         "date": "2015-07-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/77/TheFangofCritias-LCKC-EN-UR-1E.png"

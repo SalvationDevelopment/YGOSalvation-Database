@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 69105797,
-        "pack_id": "INOV-JP008",
         "pack": "Invasion: Vengeance",
-        "rarity": "Predaplant Squid Drosera",
+        "pack_id": "INOV-JP008",
         "date": "2016-07-09"
     },
     "tcg": {
-        "id": 69105797,
-        "pack_id": "INOV-DE008",
         "pack": "Invasion: Vengeance",
-        "rarity": "Predaplant Squid Drosera",
+        "pack_id": "INOV-DE008",
         "date": "2016-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/65/PredaplantSquidDrosera-MP17-EN-C-1E.png"

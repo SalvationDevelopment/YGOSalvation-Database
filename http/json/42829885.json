@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 42829885,
-        "pack_id": "MR-45",
         "pack": "Magic Ruler",
-        "rarity": "The Forceful Sentry",
+        "pack_id": "MR-45",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 42829885,
-        "pack_id": "DB1-EN029",
         "pack": "Dark Beginning 1",
-        "rarity": "The Forceful Sentry",
+        "pack_id": "DB1-EN029",
         "date": "2004-10-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/TheForcefulSentry-SRL-EN-UR-UE.png"

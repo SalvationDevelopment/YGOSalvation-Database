@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 84814897,
-        "pack_id": "302-009",
         "pack": "Advent of Union",
-        "rarity": "Kiryu",
+        "pack_id": "302-009",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 84814897,
-        "pack_id": "MFC-009",
         "pack": "Magician's Force",
-        "rarity": "Kiryu",
+        "pack_id": "MFC-009",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/12/Kiryu-DR1-EN-C-UE.jpg"

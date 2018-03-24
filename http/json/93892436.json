@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 93892436,
-        "pack_id": "ST16-JP003",
         "pack": "Starter Deck 2016",
-        "rarity": "Performapal Swincobra",
+        "pack_id": "ST16-JP003",
         "date": "2016-03-19"
     },
     "tcg": {
-        "id": 93892436,
-        "pack_id": "YS16-DE003",
         "pack": "Starter Deck - Yuya",
-        "rarity": "Performapal Swincobra",
+        "pack_id": "YS16-DE003",
         "date": "2016-05-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/49/PerformapalSwincobra-YS16-EN-C-1E.png"

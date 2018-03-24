@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 21686473,
-        "pack_id": "YA03-JP001",
         "pack": "Yu-Gi-Oh! ARC-V Volume 3",
-        "rarity": "D/D/D Destiny King Zero Laplace",
+        "pack_id": "YA03-JP001",
         "date": "2017-04-04"
     },
     "tcg": {
-        "date": "2018-03-08",
         "pack": "Yu-Gi-Oh! ARC-V Volume 3",
-        "pack_id": "YA03-EN001"
+        "pack_id": "YA03-EN001",
+        "date": "2018-03-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/DDDDestinyKingZeroLaplace-YA03-EN-UR-LE.png"
 }

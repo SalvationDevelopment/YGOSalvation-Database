@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 8967776,
-        "pack_id": "MG03-JP001",
         "pack": "Master Guide 3 promotional cards",
-        "rarity": "Sephylon, the Ultimate Timelord",
+        "pack_id": "MG03-JP001",
         "date": "2011-03-25"
     },
     "tcg": {
-        "id": 8967776,
-        "pack_id": "JUMP-EN054",
         "pack": "Shonen Jump December 2011 subscription bonus",
-        "rarity": "Sephylon, the Ultimate Timelord",
+        "pack_id": "JUMP-EN054",
         "date": "2011-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b3/SephylontheUltimateTimelord-PGL2-EN-GUR-1E.png"

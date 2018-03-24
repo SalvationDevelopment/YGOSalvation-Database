@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 89662736,
-        "pack_id": "SHSP-JP023",
         "pack": "Shadow Specters",
-        "rarity": "Bujingi Crow",
+        "pack_id": "SHSP-JP023",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 89662736,
-        "pack_id": "SHSP-DE023",
         "pack": "Shadow Specters",
-        "rarity": "Bujingi Crow",
+        "pack_id": "SHSP-DE023",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/91/BujingiCrow-MP14-EN-R-1E.png"

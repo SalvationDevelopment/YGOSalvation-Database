@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 2359348,
-        "pack_id": "DOCS-JP077",
         "pack": "Dimension of Chaos",
-        "rarity": "Pendulum Area",
+        "pack_id": "DOCS-JP077",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 2359348,
-        "pack_id": "DOCS-DE077",
         "pack": "Dimension of Chaos",
-        "rarity": "Pendulum Area",
+        "pack_id": "DOCS-DE077",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/13/PendulumArea-DOCS-EN-R-1E.png"

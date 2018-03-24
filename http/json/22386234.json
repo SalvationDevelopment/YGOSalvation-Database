@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 22386234,
-        "pack_id": "EXVC-JP036",
         "pack": "Extreme Victory",
-        "rarity": "Aurora Paragon",
+        "pack_id": "EXVC-JP036",
         "date": "2011-02-11"
     },
     "tcg": {
-        "id": 22386234,
-        "pack_id": "EXVC-EN036",
         "pack": "Extreme Victory",
-        "rarity": "Aurora Paragon",
+        "pack_id": "EXVC-EN036",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/21/AuroraParagon-EXVC-EN-C-UE.png"

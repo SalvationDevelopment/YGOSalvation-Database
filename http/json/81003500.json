@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81003500,
-        "pack_id": "EOJ-JP036",
         "pack": "Enemy of Justice",
-        "rarity": "Elemental HERO Necroid Shaman",
+        "pack_id": "EOJ-JP036",
         "date": "2006-02-16"
     },
     "tcg": {
-        "id": 81003500,
-        "pack_id": "EOJ-DE036",
         "pack": "Enemy of Justice",
-        "rarity": "Elemental HERO Necroid Shaman",
+        "pack_id": "EOJ-DE036",
         "date": "2006-05-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/92/ElementalHERONecroidShaman-LCGX-EN-C-1E.png"

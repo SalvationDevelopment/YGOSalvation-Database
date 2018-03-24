@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 71829750,
-        "pack_id": "MA-07",
         "pack": "Mythological Age",
-        "rarity": "共通",
+        "pack_id": "MA-07",
         "date": "2001-11-29"
     },
     "tcg": {
-        "id": 71829750,
-        "pack_id": "LOD-057",
         "pack": "Legacy of Darkness",
-        "rarity": "Serpentine Princess",
+        "pack_id": "LOD-057",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/03/SerpentinePrincess-DB2-EN-C-UE.png"

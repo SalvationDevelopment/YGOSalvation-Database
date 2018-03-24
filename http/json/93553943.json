@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 93553943,
-        "pack_id": "PG-14",
         "pack": "Phantom God",
-        "rarity": "Man Eater",
+        "pack_id": "PG-14",
         "date": "2000-08-10"
     },
     "tcg": {
-        "id": 93553943,
-        "pack_id": "LOB-075",
         "pack": "Legend of Blue Eyes White Dragon",
-        "rarity": "Man Eater",
+        "pack_id": "LOB-075",
         "date": "2002-03-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/43/ManEater-LOB-NA-C-1E.jpg"

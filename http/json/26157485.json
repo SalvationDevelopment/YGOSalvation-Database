@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 26157485,
-        "pack_id": "CSOC-JP019",
         "pack": "Crossroads of Chaos",
-        "rarity": "",
+        "pack_id": "CSOC-JP019",
         "date": "2008-07-19"
     },
     "tcg": {
-        "id": 26157485,
-        "pack_id": "CSOC-EN019",
         "pack": "Crossroads of Chaos",
-        "rarity": "Iron Chain Blaster",
+        "pack_id": "CSOC-EN019",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f6/IronChainBlaster-CSOC-EN-C-1E.png"

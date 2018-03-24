@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 26781870,
-        "pack_id": "INOV-JP070",
         "pack": "Invasion: Vengeance",
-        "rarity": "Fraud Freeze",
+        "pack_id": "INOV-JP070",
         "date": "2016-07-09"
     },
     "tcg": {
-        "id": 26781870,
-        "pack_id": "INOV-DE070",
         "pack": "Invasion: Vengeance",
-        "rarity": "Fraud Freeze",
+        "pack_id": "INOV-DE070",
         "date": "2016-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bf/FraudFreeze-INOV-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 29353756,
-        "pack_id": "ST13-JPV03",
         "pack": "Starter Deck 2013 Enhancement Pack",
-        "rarity": "ZW - Eagle Claw",
+        "pack_id": "ST13-JPV03",
         "date": "2013-03-16"
     },
     "tcg": {
-        "id": 29353756,
-        "pack_id": "YS13-DEV03",
         "pack": "Super Starter Power-Up Pack",
-        "rarity": "ZW - Eagle Claw",
+        "pack_id": "YS13-DEV03",
         "date": "2013-06-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0d/ZWEagleClaw-YS13-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 50755,
-        "pack_id": "NTR-JP003",
         "pack": "Yu-Gi-Oh! NIGHTMARE TROUBADOUR Bundles",
-        "rarity": "Magician's Circle",
+        "pack_id": "NTR-JP003",
         "date": "2005-07-27"
     },
     "tcg": {
-        "id": 50755,
-        "pack_id": "NTR-EN003",
         "pack": "Yu-Gi-Oh! NIGHTMARE TROUBADOUR Bundles",
-        "rarity": "Magician's Circle",
+        "pack_id": "NTR-EN003",
         "date": "2005-08-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dc/MagiciansCircle-SDMY-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 97077563,
-        "pack_id": "CA-12",
         "pack": "Curse of Anubis",
-        "rarity": "Call of the Haunted",
+        "pack_id": "CA-12",
         "date": "2000-09-28"
     },
     "tcg": {
-        "id": 97077563,
-        "pack_id": "PSV-012",
         "pack": "Pharaoh's Servant",
-        "rarity": "Call of the Haunted",
+        "pack_id": "PSV-012",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f3/CalloftheHaunted-YS17-EN-C-1E.png"

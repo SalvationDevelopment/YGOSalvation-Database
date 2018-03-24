@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 60187739,
-        "pack_id": "TDGS-JP001",
         "pack": "The Duelist Genesis",
-        "rarity": "Turbo Booster",
+        "pack_id": "TDGS-JP001",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 60187739,
-        "pack_id": "TDGS-EN001",
         "pack": "The Duelist Genesis",
-        "rarity": "Turbo Booster",
+        "pack_id": "TDGS-EN001",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5e/TurboBooster-TDGS-EN-C-1E.jpg"

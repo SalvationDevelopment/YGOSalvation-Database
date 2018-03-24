@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 48791583,
-        "pack_id": "SPFE-JP031",
         "pack": "Booster SP: Fusion Enforcers",
-        "rarity": "Invoked Magellanica",
+        "pack_id": "SPFE-JP031",
         "date": "2016-11-12"
     },
     "tcg": {
-        "id": 48791583,
-        "pack_id": "FUEN-DE031",
         "pack": "Fusion Enforcers",
-        "rarity": "Invoked Magellanica",
+        "pack_id": "FUEN-DE031",
         "date": "2017-02-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/70/InvokedMagellanica-FUEN-EN-ScR-1E.png"

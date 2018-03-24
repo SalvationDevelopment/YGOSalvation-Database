@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 68371799,
-        "pack_id": "VJMP-JP079",
         "pack": "V Jump June 2013 promotional card",
-        "rarity": "Archfiend Commander",
+        "pack_id": "VJMP-JP079",
         "date": "2013-04-20"
     },
     "tcg": {
-        "id": 68371799,
-        "pack_id": "JUMP-EN067",
         "pack": "Weekly Shonen Jump December 2013 membership",
-        "rarity": "Archfiend Commander",
+        "pack_id": "JUMP-EN067",
         "date": "2013-12-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/ArchfiendCommander-CT11-EN-SR-LE.png"

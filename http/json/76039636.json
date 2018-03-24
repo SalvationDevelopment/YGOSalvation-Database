@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 76039636,
-        "pack_id": "SOI-JP024",
         "pack": "Shadow of Infinity",
-        "rarity": "Doom Dozer",
+        "pack_id": "SOI-JP024",
         "date": "2005-11-17"
     },
     "tcg": {
-        "id": 76039636,
-        "pack_id": "SOI-EN024",
         "pack": "Shadow of Infinity",
-        "rarity": "Doom Dozer",
+        "pack_id": "SOI-EN024",
         "date": "2006-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a3/DoomDozer-DL14-EN-R-UE-Blue.png"

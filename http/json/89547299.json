@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 89547299,
-        "pack_id": "CSOC-JP021",
         "pack": "Crossroads of Chaos",
-        "rarity": "",
+        "pack_id": "CSOC-JP021",
         "date": "2008-07-19"
     },
     "tcg": {
-        "id": 89547299,
-        "pack_id": "CSOC-EN021",
         "pack": "Crossroads of Chaos",
-        "rarity": "Power Injector",
+        "pack_id": "CSOC-EN021",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/22/PowerInjector-CSOC-EN-C-UE.png"

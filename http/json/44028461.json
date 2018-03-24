@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 44028461,
-        "pack_id": "STBL-JP065",
         "pack": "Starstrike Blast",
-        "rarity": "Blackback",
+        "pack_id": "STBL-JP065",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 44028461,
-        "pack_id": "STBL-EN065",
         "pack": "Starstrike Blast",
-        "rarity": "Blackback",
+        "pack_id": "STBL-EN065",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/38/Blackback-LC5D-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 20281581,
-        "pack_id": "ST16-JP004",
         "pack": "Starter Deck 2016",
-        "rarity": "Performapal Momoncarpet",
+        "pack_id": "ST16-JP004",
         "date": "2016-03-19"
     },
     "tcg": {
-        "id": 20281581,
-        "pack_id": "YS16-DE004",
         "pack": "Starter Deck - Yuya",
-        "rarity": "Performapal Momoncarpet",
+        "pack_id": "YS16-DE004",
         "date": "2016-05-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/44/PerformapalMomoncarpet-YS16-EN-SR-1E.png"

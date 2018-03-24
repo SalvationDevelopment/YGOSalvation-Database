@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 85709845,
-        "pack_id": "GAOV-JP067",
         "pack": "Galactic Overlord",
-        "rarity": "Gamushara",
+        "pack_id": "GAOV-JP067",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 85709845,
-        "pack_id": "GAOV-EN067",
         "pack": "Galactic Overlord",
-        "rarity": "Gamushara",
+        "pack_id": "GAOV-EN067",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/62/Gamushara-GAOV-EN-C-1E.png"

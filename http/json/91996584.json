@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 91996584,
-        "pack_id": "MR-27",
         "pack": "Magic Ruler",
-        "rarity": "Whiptail Crow",
+        "pack_id": "MR-27",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 91996584,
-        "pack_id": "MRL-027",
         "pack": "Spell Ruler",
-        "rarity": "Whiptail Crow",
+        "pack_id": "MRL-027",
         "date": "2002-09-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/55/WhiptailCrow-SRL-EN-C-UE.png"

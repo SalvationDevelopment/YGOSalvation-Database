@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 70074904,
-        "pack_id": "EX3-002",
         "pack": "Duel Monsters Expert 3 Promos",
-        "rarity": "D.D. Assailant",
+        "pack_id": "EX3-002",
         "date": "2004-02-05"
     },
     "tcg": {
-        "id": 70074904,
-        "pack_id": "DBT-EN002",
         "pack": "Yu-Gi-Oh! Destiny Board Traveler Bundles",
-        "rarity": "D.D. Assailant",
+        "pack_id": "DBT-EN002",
         "date": "2004-10-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/15/DDAssailant-BP02-EN-R-1E.png"

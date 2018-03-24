@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 85754829,
-        "pack_id": "DT02-JP031",
         "pack": "Duel Terminal - Invasion of Worms!!!!",
-        "rarity": "Worm Gulse",
+        "pack_id": "DT02-JP031",
         "date": "2008-06-24"
     },
     "tcg": {
-        "id": 85754829,
-        "pack_id": "DT01-EN081",
         "pack": "Duel Terminal 1",
-        "rarity": "Worm Gulse",
+        "pack_id": "DT01-EN081",
         "date": "2010-01-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4f/WormGulse-GLD3-EN-C-LE.png"

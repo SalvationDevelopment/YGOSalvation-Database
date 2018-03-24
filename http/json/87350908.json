@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 87350908,
-        "pack_id": "GX03-JP003",
         "pack": "Yu-Gi-Oh! GX SPIRIT CALLER Bundles",
-        "rarity": "Masked Chopper",
+        "pack_id": "GX03-JP003",
         "date": "2006-11-30"
     },
     "tcg": {
-        "id": 87350908,
-        "pack_id": "GX03-EN003",
         "pack": "Yu-Gi-Oh! GX SPIRIT CALLER Bundles",
-        "rarity": "Masked Chopper",
+        "pack_id": "GX03-EN003",
         "date": "2007-01-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/aa/MaskedChopper-GX03-EN-SR-UE.png"

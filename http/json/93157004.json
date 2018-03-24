@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 93157004,
-        "pack_id": "DT11-JP039",
-        "pack": "DT11",
-        "rarity": "Vylon Omega",
-        "date": "2013-02-26"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 93157004,
-        "pack_id": "DT06-EN039",
         "pack": "Duel Terminal 6a",
-        "rarity": "Vylon Omega",
+        "pack_id": "DT06-EN039",
         "date": "2012-02-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4f/VylonOmega-HA06-EN-ScR-1E.png"

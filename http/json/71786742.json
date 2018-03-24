@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 71786742,
-        "pack_id": "GENF-JP030",
         "pack": "Generation Force",
-        "rarity": "Geargiano",
+        "pack_id": "GENF-JP030",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 71786742,
-        "pack_id": "GENF-EN030",
         "pack": "Generation Force",
-        "rarity": "Geargiano",
+        "pack_id": "GENF-EN030",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/35/Geargiano-SDGR-EN-C-1E.png"

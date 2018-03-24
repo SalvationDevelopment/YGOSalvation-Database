@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 25586143,
-        "pack_id": "SPFE-JP009",
         "pack": "Booster SP: Fusion Enforcers",
-        "rarity": "Predaplant Chimerafflesia",
+        "pack_id": "SPFE-JP009",
         "date": "2016-11-12"
     },
     "tcg": {
-        "id": 25586143,
-        "pack_id": "FUEN-DE009",
         "pack": "Fusion Enforcers",
-        "rarity": "Predaplant Chimerafflesia",
+        "pack_id": "FUEN-DE009",
         "date": "2017-02-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e3/PredaplantChimerafflesia-FUEN-EN-ScR-1E.png"

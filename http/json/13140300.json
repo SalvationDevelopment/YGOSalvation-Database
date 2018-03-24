@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 13140300,
-        "pack_id": "GAOV-JP002",
         "pack": "Galactic Overlord",
-        "rarity": "Hieratic Seal of the Sun Dragon Overlord",
+        "pack_id": "GAOV-JP002",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 13140300,
-        "pack_id": "GAOV-EN002",
         "pack": "Galactic Overlord",
-        "rarity": "Hieratic Seal of the Sun Dragon Overlord",
+        "pack_id": "GAOV-EN002",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/HieraticSealoftheSunDragonOverlord-GAOV-EN-C-1E.png"

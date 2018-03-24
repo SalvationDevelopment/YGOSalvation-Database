@@ -31,18 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 29590752,
-        "pack_id": "EXP1-JP013",
         "pack": "Extra Pack",
-        "rarity": "Gladiator Beast Octavius",
+        "pack_id": "EXP1-JP013",
         "date": "2008-09-13"
     },
-    "tcg": {
-        "id": 29590752,
-        "pack_id": "GLAS-IT000",
-        "pack": "Gladiator's Assault",
-        "rarity": "Gladiator Beast Octavius",
-        "date": "2007-11-03"
-    },
+    "tcg": {},
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/99/GladiatorBeastOctavius-LCGX-EN-UR-1E.png"
 }

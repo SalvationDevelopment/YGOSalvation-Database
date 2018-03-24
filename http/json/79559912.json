@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 79559912,
-        "pack_id": "COTD-JP042",
         "pack": "Code of the Duelist",
-        "rarity": "D/D/D Wave Emperor Executive Caesar",
+        "pack_id": "COTD-JP042",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE042"
+        "pack_id": "COTD-DE042",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e9/DDDWaveHighKingCaesar-COTD-EN-SR-1E.png"
 }

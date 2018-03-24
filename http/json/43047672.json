@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 43047672,
-        "pack_id": "CP17-JP015",
         "pack": "Collectors Pack 2017",
-        "rarity": "Raidraptor - Final Fortress Falcon",
+        "pack_id": "CP17-JP015",
         "date": "2017-05-13"
     },
     "tcg": {
-        "date": "2017-07-06",
         "pack": "Battles of Legend: Light's Revenge",
-        "pack_id": "BLLR-DE015"
+        "pack_id": "BLLR-DE015",
+        "date": "2017-07-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/22/RaidraptorFinalFortressFalcon-BLLR-EN-UR-1E.png"
 }

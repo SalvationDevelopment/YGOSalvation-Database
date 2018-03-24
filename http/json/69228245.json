@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 69228245,
-        "pack_id": "INOV-JP005",
         "pack": "Invasion: Vengeance",
-        "rarity": "Performapal Changeraffe",
+        "pack_id": "INOV-JP005",
         "date": "2016-07-09"
     },
     "tcg": {
-        "id": 69228245,
-        "pack_id": "INOV-DE005",
         "pack": "Invasion: Vengeance",
-        "rarity": "Performapal Changeraffe",
+        "pack_id": "INOV-DE005",
         "date": "2016-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fd/PerformapalChangeraffe-MP17-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53347303,
-        "pack_id": "VB7-JP001",
         "pack": "The Valuable Book 7",
-        "rarity": "Blue-Eyes Shining Dragon",
+        "pack_id": "VB7-JP001",
         "date": "2004-08-25"
     },
     "tcg": {
-        "id": 53347303,
-        "pack_id": "MOV-EN001",
         "pack": "Movie Pack",
-        "rarity": "Blue-Eyes Shining Dragon",
+        "pack_id": "MOV-EN001",
         "date": "2004-08-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/86/BlueEyesShiningDragon-LCKC-EN-ScR-1E.png"

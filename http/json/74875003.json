@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 74875003,
-        "pack_id": "CPL1-JP024",
         "pack": "Collectors Pack: Duelist of Legend Version",
-        "rarity": "Ra's Disciple",
+        "pack_id": "CPL1-JP024",
         "date": "2014-05-17"
     },
     "tcg": {
-        "id": 74875003,
-        "pack_id": "DRLG-DE024",
         "pack": "Dragons of Legend",
-        "rarity": "Ra's Disciple",
+        "pack_id": "DRLG-DE024",
         "date": "2014-04-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9e/RasDisciple-DRL3-EN-UR-1E.png"

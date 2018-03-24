@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 564541,
-        "pack_id": "EXP2-JP036",
         "pack": "Extra Pack Volume 2",
-        "rarity": "Totem Dragon",
+        "pack_id": "EXP2-JP036",
         "date": "2009-09-19"
     },
     "tcg": {
-        "id": 564541,
-        "pack_id": "CRMS-EN085",
         "pack": "Crimson Crisis",
-        "rarity": "Totem Dragon",
+        "pack_id": "CRMS-EN085",
         "date": "2009-02-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c4/TotemDragon-CRMS-EN-SR-1E.png"

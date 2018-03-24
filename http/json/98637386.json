@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 98637386,
-        "pack_id": "SPHR-JP039",
         "pack": "Booster SP: Highspeed Riders",
-        "rarity": "Goyo Predator",
+        "pack_id": "SPHR-JP039",
         "date": "2015-08-22"
     },
     "tcg": {
-        "id": 98637386,
-        "pack_id": "HSRD-DE039",
         "pack": "High-Speed Riders",
-        "rarity": "Goyo Predator",
+        "pack_id": "HSRD-DE039",
         "date": "2015-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c6/GoyoPredator-HSRD-EN-UR-1E.png"

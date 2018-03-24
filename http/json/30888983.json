@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 30888983,
-        "pack_id": "LE8-JP003",
         "pack": "Limited Edition 8",
-        "rarity": "The Selection",
+        "pack_id": "LE8-JP003",
         "date": "2005-05-21"
     },
     "tcg": {
-        "id": 30888983,
-        "pack_id": "TDGS-EN093",
         "pack": "The Duelist Genesis",
-        "rarity": "The Selection",
+        "pack_id": "TDGS-EN093",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/10/TheSelection-TDGS-EN-R-1E.jpg"

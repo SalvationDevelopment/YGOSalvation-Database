@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Magician's Force",
+        "pack_id": "MFC-097",
+        "date": "2003-10-10"
+    },
+    "ocg": {
+        "pack": "Champion of Black Magic",
+        "pack_id": "303-043",
+        "date": "2002-09-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/15/DramaticRescue-GLD3-EN-C-LE.jpg"
 }

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 96570609,
-        "pack_id": "SR01-JP000",
         "pack": "Structure Deck R: Advent of the True Monarch",
-        "rarity": "Ehther the Heavenly Monarch",
+        "pack_id": "SR01-JP000",
         "date": "2015-09-19"
     },
     "tcg": {
-        "id": 96570609,
-        "pack_id": "SR01-DE000",
         "pack": "Emperor of Darkness Structure Deck",
-        "rarity": "Ehther the Heavenly Monarch",
+        "pack_id": "SR01-DE000",
         "date": "2016-01-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/14/EhthertheHeavenlyMonarch-SR01-EN-UR-1E.png"

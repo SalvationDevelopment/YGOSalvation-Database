@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 458748,
-        "pack_id": "SPFE-JP036",
         "pack": "Booster SP: Fusion Enforcers",
-        "rarity": "The Book of the Law",
+        "pack_id": "SPFE-JP036",
         "date": "2016-11-12"
     },
     "tcg": {
-        "id": 458748,
-        "pack_id": "FUEN-DE036",
         "pack": "Fusion Enforcers",
-        "rarity": "The Book of the Law",
+        "pack_id": "FUEN-DE036",
         "date": "2017-02-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/77/TheBookoftheLaw-FUEN-EN-ScR-1E.png"

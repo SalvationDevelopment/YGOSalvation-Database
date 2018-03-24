@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 73881652,
-        "pack_id": "RATE-JP071",
         "pack": "Raging Tempest",
-        "rarity": "Zoodiac Combo",
+        "pack_id": "RATE-JP071",
         "date": "2016-10-08"
     },
     "tcg": {
-        "id": 73881652,
-        "pack_id": "RATE-DE071",
         "pack": "Raging Tempest",
-        "rarity": "Zoodiac Combo",
+        "pack_id": "RATE-DE071",
         "date": "2017-02-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d8/ZoodiacCombo-MP17-EN-C-1E.png"

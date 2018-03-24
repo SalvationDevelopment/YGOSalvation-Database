@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 18803791,
-        "pack_id": "CPD1-JP019",
         "pack": "Collectors Pack: Duelist of Destiny Version",
-        "rarity": "Dark Dragon Ritual",
+        "pack_id": "CPD1-JP019",
         "date": "2015-05-16"
     },
     "tcg": {
-        "id": 18803791,
-        "pack_id": "DRL2-DE019",
         "pack": "Dragons of Legend 2",
-        "rarity": "Dark Dragon Ritual",
+        "pack_id": "DRL2-DE019",
         "date": "2015-07-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c0/DarkDragonRitual-DRL2-EN-SR-1E.png"

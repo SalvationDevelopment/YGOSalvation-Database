@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 87106146,
-        "pack_id": "TSHD-JP070",
         "pack": "The Shining Darkness",
-        "rarity": "Damage Gate",
+        "pack_id": "TSHD-JP070",
         "date": "2010-02-20"
     },
     "tcg": {
-        "id": 87106146,
-        "pack_id": "TSHD-DE070",
         "pack": "The Shining Darkness",
-        "rarity": "Damage Gate",
+        "pack_id": "TSHD-DE070",
         "date": "2010-05-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/47/DamageGate-BP03-EN-C-1E.png"

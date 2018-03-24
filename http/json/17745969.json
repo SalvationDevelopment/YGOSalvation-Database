@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 17745969,
-        "pack_id": "DP18-JP030",
         "pack": "Duelist Pack: Legend Duelist",
-        "rarity": "Super Vehicroid - Mobile Base",
+        "pack_id": "DP18-JP030",
         "date": "2017-06-03"
     },
     "tcg": {
-        "date": "2017-09-07",
         "pack": "Legendary Duelists",
-        "pack_id": "LEDU-DE030"
+        "pack_id": "LEDU-DE030",
+        "date": "2017-09-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/65/SuperVehicroidMobileBase-LEDU-EN-SR-1E.png"
 }

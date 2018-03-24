@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 27004302,
-        "pack_id": "DT09-JP020",
-        "pack": "DT09",
-        "rarity": "Gem-Armadillo",
-        "date": "2012-11-06"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 27004302,
-        "pack_id": "DT05-EN020",
         "pack": "Duel Terminal 5a",
-        "rarity": "Gem-Armadillo",
+        "pack_id": "DT05-EN020",
         "date": "2011-05-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d5/GemArmadillo-HA05-EN-ScR-1E.png"

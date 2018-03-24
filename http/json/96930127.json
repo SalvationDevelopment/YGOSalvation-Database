@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 96930127,
-        "pack_id": "STBL-JP034",
         "pack": "Starstrike Blast",
-        "rarity": "Chain Dog",
+        "pack_id": "STBL-JP034",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 96930127,
-        "pack_id": "STBL-EN034",
         "pack": "Starstrike Blast",
-        "rarity": "Chain Dog",
+        "pack_id": "STBL-EN034",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dd/ChainDog-BP03-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 96008713,
-        "pack_id": "G4-15",
         "pack": "Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist: Jonouchi Deck promotional cards",
-        "rarity": "Magical Arm Shield",
+        "pack_id": "G4-15",
         "date": "2000-12-07"
     },
     "tcg": {
-        "id": 96008713,
-        "pack_id": "TP8-DE001",
         "pack": "Tournament Pack 8",
-        "rarity": "Magical Arm Shield",
+        "pack_id": "TP8-DE001",
         "date": "2006-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/52/MagicalArmShield-BP03-EN-C-1E.png"

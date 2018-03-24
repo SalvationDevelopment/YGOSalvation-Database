@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 14816688,
-        "pack_id": "DOCS-JP053",
         "pack": "Dimension of Chaos",
-        "rarity": "Shuffle Reborn",
+        "pack_id": "DOCS-JP053",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 14816688,
-        "pack_id": "DOCS-DE053",
         "pack": "Dimension of Chaos",
-        "rarity": "Shuffle Reborn",
+        "pack_id": "DOCS-DE053",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/55/ShuffleReborn-SDCL-EN-C-1E.png"

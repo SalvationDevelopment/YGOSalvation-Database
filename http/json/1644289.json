@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1644289,
-        "pack_id": "DT12-JP045",
         "pack": "Duel Terminal - Xyz Startup!!",
-        "rarity": "共通",
+        "pack_id": "DT12-JP045",
         "date": "2011-04-01"
     },
     "tcg": {
-        "id": 1644289,
-        "pack_id": "DT06-EN095",
         "pack": "Duel Terminal 6b",
-        "rarity": "Vylon Segment",
+        "pack_id": "DT06-EN095",
         "date": "2012-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/39/VylonSegment-HA06-EN-SR-1E.png"

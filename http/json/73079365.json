@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 73079365,
-        "pack_id": "CA-17",
         "pack": "Curse of Anubis",
-        "rarity": "Gust",
+        "pack_id": "CA-17",
         "date": "2000-09-28"
     },
     "tcg": {
-        "id": 73079365,
-        "pack_id": "PSV-017",
         "pack": "Pharaoh's Servant",
-        "rarity": "Gust",
+        "pack_id": "PSV-017",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d7/Gust-PSV-EU-C-1E.jpg"

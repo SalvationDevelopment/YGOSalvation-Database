@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 61032879,
-        "pack_id": "YSD3-JP022",
         "pack": "Starter Deck 2008",
-        "rarity": "Synchronized Realm",
+        "pack_id": "YSD3-JP022",
         "date": "2008-03-15"
     },
     "tcg": {
-        "id": 61032879,
-        "pack_id": "5DS1-DE022",
         "pack": "Starter Deck: Yu-Gi-Oh! 5D's",
-        "rarity": "Synchronized Realm",
+        "pack_id": "5DS1-DE022",
         "date": "2008-08-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/SynchronizedRealm-5DS1-EN-C-1E.png"

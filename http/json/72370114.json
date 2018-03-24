@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 72370114,
-        "pack_id": "DS14-JPMS3",
         "pack": "Duelist Set: Version Machine-Gear Troopers",
-        "rarity": "Geargiattacker",
+        "pack_id": "DS14-JPMS3",
         "date": "2013-11-23"
     },
     "tcg": {
-        "id": 72370114,
-        "pack_id": "SDGR-DE002",
         "pack": "Geargia Rampage Structure Deck",
-        "rarity": "Geargiattacker",
+        "pack_id": "SDGR-DE002",
         "date": "2014-10-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/eb/Geargiattacker-SDGR-EN-SR-1E.png"

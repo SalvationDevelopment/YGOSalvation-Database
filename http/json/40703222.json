@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 40703222,
-        "pack_id": "TR-01",
         "pack": "The Thousand Rule Bible",
-        "rarity": "Multiply",
+        "pack_id": "TR-01",
         "date": "2000-12-21"
     },
     "tcg": {
-        "id": 40703222,
-        "pack_id": "CRMS-EN090",
         "pack": "Crimson Crisis",
-        "rarity": "Multiply",
+        "pack_id": "CRMS-EN090",
         "date": "2009-02-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5a/Multiply-YGLD-EN-C-1E-B.png"

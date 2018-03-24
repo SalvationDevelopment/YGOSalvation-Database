@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 87288189,
-        "pack_id": "SECE-JP035",
         "pack": "Secrets of Eternity",
-        "rarity": "Caius the Mega Monarch",
+        "pack_id": "SECE-JP035",
         "date": "2014-11-15"
     },
     "tcg": {
-        "id": 87288189,
-        "pack_id": "SECE-DE035",
         "pack": "Secrets of Eternity",
-        "rarity": "Caius the Mega Monarch",
+        "pack_id": "SECE-DE035",
         "date": "2015-01-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/38/CaiustheMegaMonarch-MP15-EN-UR-1E.png"

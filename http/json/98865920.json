@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 98865920,
-        "pack_id": "GENF-JP003",
         "pack": "Generation Force",
-        "rarity": "Achacha Archer",
+        "pack_id": "GENF-JP003",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 98865920,
-        "pack_id": "GENF-EN003",
         "pack": "Generation Force",
-        "rarity": "Achacha Archer",
+        "pack_id": "GENF-EN003",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b2/AchachaArcher-YS13-EN-C-1E.png"

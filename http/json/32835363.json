@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 32835363,
-        "pack_id": "GENF-JP052",
         "pack": "Generation Force",
-        "rarity": "Cracking",
+        "pack_id": "GENF-JP052",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 32835363,
-        "pack_id": "GENF-EN052",
         "pack": "Generation Force",
-        "rarity": "Cracking",
+        "pack_id": "GENF-EN052",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/28/Cracking-GENF-EN-C-1E.jpg"

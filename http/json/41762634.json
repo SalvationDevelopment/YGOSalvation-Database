@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 41762634,
-        "pack_id": "",
         "pack": "Booster 2",
-        "rarity": "Giant Flea",
+        "pack_id": "",
         "date": "1999-05-25"
     },
     "tcg": {
-        "id": 41762634,
-        "pack_id": "TP1-017",
         "pack": "Tournament Pack: 1st Season",
-        "rarity": "Giant Flea",
+        "pack_id": "TP1-017",
         "date": "2002-09-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6a/GiantFlea-TP1-NA-C-UE.jpg"

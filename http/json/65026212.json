@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65026212,
-        "pack_id": "EXP3-JP022",
         "pack": "Extra Pack Volume 3",
-        "rarity": "Koa'ki Meiru Maximus",
+        "pack_id": "EXP3-JP022",
         "date": "2010-09-18"
     },
     "tcg": {
-        "id": 65026212,
-        "pack_id": "SOVR-DE081",
         "pack": "Stardust Overdrive",
-        "rarity": "Koa'ki Meiru Maximus",
+        "pack_id": "SOVR-DE081",
         "date": "2009-11-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4b/KoakiMeiruMaximus-SOVR-EN-UR-UE.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 93124273,
-        "pack_id": "EP16-JP044",
         "pack": "Extra Pack 2016",
-        "rarity": "Samurai Cavalry of Reptier",
+        "pack_id": "EP16-JP044",
         "date": "2016-09-10"
     },
     "tcg": {
-        "id": 93124273,
-        "pack_id": "DOCS-DESP1",
         "pack": "Dimension of Chaos Sneak Peek Participation Card",
-        "rarity": "Samurai Cavalry of Reptier",
+        "pack_id": "DOCS-DESP1",
         "date": "2015-10-31"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c3/SamuraiCavalryofReptier-DOCS-EN-R-1E.png"

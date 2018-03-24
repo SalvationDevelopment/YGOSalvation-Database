@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65622692,
-        "pack_id": "302-005",
         "pack": "Advent of Union",
-        "rarity": "Y-Dragon Head",
+        "pack_id": "302-005",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 65622692,
-        "pack_id": "MFC-005",
         "pack": "Magician's Force",
-        "rarity": "Y-Dragon Head",
+        "pack_id": "MFC-005",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/63/YDragonHead-LCKC-EN-UR-1E.png"

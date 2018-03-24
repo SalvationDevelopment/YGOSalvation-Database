@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12493482,
-        "pack_id": "G3-01",
         "pack": "Yu-Gi-Oh! Duel Monsters III: Tri-Holy God Advent promotional cards",
-        "rarity": "Dunames Dark Witch",
+        "pack_id": "G3-01",
         "date": "2000-07-13"
     },
     "tcg": {
-        "id": 12493482,
-        "pack_id": "TP8-DE004",
         "pack": "Tournament Pack 8",
-        "rarity": "Dunames Dark Witch",
+        "pack_id": "TP8-DE004",
         "date": "2006-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/DunamesDarkWitch-LCJW-EN-UR-1E.png"

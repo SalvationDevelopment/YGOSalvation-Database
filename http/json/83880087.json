@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 83880087,
-        "pack_id": "20AP-JP056",
         "pack": "20th Anniversary Pack 2nd Wave",
-        "rarity": "Light Wing Shield",
+        "pack_id": "20AP-JP056",
         "date": "2017-02-11"
     },
     "tcg": {
-        "id": 83880087,
-        "pack_id": "DUSA-DE039",
         "pack": "Duelist Saga",
-        "rarity": "Light Wing Shield",
+        "pack_id": "DUSA-DE039",
         "date": "2017-03-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7a/LightWingShield-DUSA-EN-UR-1E.png"

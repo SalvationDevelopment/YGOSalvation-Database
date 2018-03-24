@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 7914843,
-        "pack_id": "S2-04",
         "pack": "PlayStation True Duel Monsters Promos: Series 2",
-        "rarity": "Electromagnetic Bagworm",
+        "pack_id": "S2-04",
         "date": "2001-09-06"
     },
     "tcg": {
-        "id": 7914843,
-        "pack_id": "ABYR-DE090",
         "pack": "Abyss Rising",
-        "rarity": "Electromagnetic Bagworm",
+        "pack_id": "ABYR-DE090",
         "date": "2012-11-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/37/ElectromagneticBagworm-BP03-EN-C-1E.png"

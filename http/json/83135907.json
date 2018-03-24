@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 83135907,
-        "pack_id": "DREV-JP020",
         "pack": "Duelist Revolution",
-        "rarity": "Scrap Goblin",
+        "pack_id": "DREV-JP020",
         "date": "2010-04-17"
     },
     "tcg": {
-        "id": 83135907,
-        "pack_id": "DREV-EN020",
         "pack": "Duelist Revolution",
-        "rarity": "Scrap Goblin",
+        "pack_id": "DREV-EN020",
         "date": "2010-08-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bf/ScrapGoblin-DREV-EN-C-1E.jpg"

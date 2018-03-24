@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 37313786,
-        "pack_id": "TB-03",
         "pack": "Thousand Eyes Bible",
-        "rarity": "Gamble",
+        "pack_id": "TB-03",
         "date": "2000-12-14"
     },
     "tcg": {
-        "id": 37313786,
-        "pack_id": "PSV-053",
         "pack": "Pharaoh's Servant",
-        "rarity": "Gamble",
+        "pack_id": "PSV-053",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c0/Gamble-DB1-EN-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 93749093,
-        "pack_id": "MVP1-JP013",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Marshmacaron",
+        "pack_id": "MVP1-JP013",
         "date": "2016-04-23"
     },
     "tcg": {
-        "id": 93749093,
-        "pack_id": "MVP1-DE013",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Marshmacaron",
+        "pack_id": "MVP1-DE013",
         "date": "2016-07-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/72/Marshmacaron-MVP1-EN-GUR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 41141943,
-        "pack_id": "DOCS-JP005",
         "pack": "Dimension of Chaos",
-        "rarity": "Superheavy Samurai Transporter",
+        "pack_id": "DOCS-JP005",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 41141943,
-        "pack_id": "DOCS-DE005",
         "pack": "Dimension of Chaos",
-        "rarity": "Superheavy Samurai Transporter",
+        "pack_id": "DOCS-DE005",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ad/SuperheavySamuraiTransporter-MP16-EN-C-1E.png"

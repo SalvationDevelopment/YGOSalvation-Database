@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 77334267,
-        "pack_id": "DB12-JPS02",
         "pack": "Duelist Box 2012",
-        "rarity": "Wind-Up Arsenal Zenmaioh",
+        "pack_id": "DB12-JPS02",
         "date": "2011-11-26"
     },
     "tcg": {
-        "id": 77334267,
-        "pack_id": "ORCS-EN098",
         "pack": "Order of Chaos",
-        "rarity": "Wind-Up Arsenal Zenmaioh",
+        "pack_id": "ORCS-EN098",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/37/WindUpArsenalZenmaioh-ORCS-EN-ScR-1E.png"

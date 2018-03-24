@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 76986005,
-        "pack_id": "EOJ-JP008",
         "pack": "Enemy of Justice",
-        "rarity": "Cyber Kirin",
+        "pack_id": "EOJ-JP008",
         "date": "2006-02-16"
     },
     "tcg": {
-        "id": 76986005,
-        "pack_id": "EOJ-DE008",
         "pack": "Enemy of Justice",
-        "rarity": "Cyber Kirin",
+        "pack_id": "EOJ-DE008",
         "date": "2006-05-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/54/CyberKirin-DR04-NA-C-UE.png"

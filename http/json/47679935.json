@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 47679935,
-        "pack_id": "SPFE-JP034",
         "pack": "Booster SP: Fusion Enforcers",
-        "rarity": "Magical Meltdown",
+        "pack_id": "SPFE-JP034",
         "date": "2016-11-12"
     },
     "tcg": {
-        "id": 47679935,
-        "pack_id": "FUEN-DE034",
         "pack": "Fusion Enforcers",
-        "rarity": "Magical Meltdown",
+        "pack_id": "FUEN-DE034",
         "date": "2017-02-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0c/MagicalMeltdown-FUEN-EN-ScR-1E.png"

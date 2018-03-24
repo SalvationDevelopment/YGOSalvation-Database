@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 88552992,
-        "pack_id": "REDU-JP011",
         "pack": "Return of the Duelist",
-        "rarity": "Chronomaly Golden Jet",
+        "pack_id": "REDU-JP011",
         "date": "2012-04-14"
     },
     "tcg": {
-        "id": 88552992,
-        "pack_id": "REDU-EN011",
         "pack": "Return of the Duelist",
-        "rarity": "Chronomaly Golden Jet",
+        "pack_id": "REDU-EN011",
         "date": "2012-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9e/ChronomalyGoldenJet-REDU-EN-C-1E.png"

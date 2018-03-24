@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 47421985,
-        "pack_id": "DT02-JP038",
         "pack": "Duel Terminal - Invasion of Worms!!!!",
-        "rarity": "ウルトラレア仕様",
+        "pack_id": "DT02-JP038",
         "date": "2008-06-24"
     },
     "tcg": {
-        "id": 47421985,
-        "pack_id": "DT01-EN088",
         "pack": "Duel Terminal 1",
-        "rarity": "Hydro Genex",
+        "pack_id": "DT01-EN088",
         "date": "2010-01-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7a/HydroGenex-TSHD-EN-SR-1E.png"

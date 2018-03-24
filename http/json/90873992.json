@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 90873992,
-        "pack_id": "",
         "pack": "Vol.4",
-        "rarity": "Warrior Elimination",
+        "pack_id": "",
         "date": "1999-07-22"
     },
     "tcg": {
-        "id": 90873992,
-        "pack_id": "TP7-DE002",
         "pack": "Tournament Pack 7",
-        "rarity": "Warrior Elimination",
+        "pack_id": "TP7-DE002",
         "date": "2005-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d7/WarriorElimination-LCKC-EN-UR-1E.png"

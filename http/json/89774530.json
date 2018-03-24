@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 89774530,
-        "pack_id": "REDU-JP008",
         "pack": "Return of the Duelist",
-        "rarity": "Heroic Challenger - Double Lance",
+        "pack_id": "REDU-JP008",
         "date": "2012-04-14"
     },
     "tcg": {
-        "id": 89774530,
-        "pack_id": "REDU-EN008",
         "pack": "Return of the Duelist",
-        "rarity": "Heroic Challenger - Double Lance",
+        "pack_id": "REDU-EN008",
         "date": "2012-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/44/HeroicChallengerDoubleLance-REDU-EN-R-1E.png"

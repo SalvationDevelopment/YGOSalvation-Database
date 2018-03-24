@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 42851643,
-        "pack_id": "GAOV-JP015",
         "pack": "Galactic Overlord",
-        "rarity": "Jumbo Drill",
+        "pack_id": "GAOV-JP015",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 42851643,
-        "pack_id": "GAOV-EN015",
         "pack": "Galactic Overlord",
-        "rarity": "Jumbo Drill",
+        "pack_id": "GAOV-EN015",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/77/JumboDrill-SDGR-EN-C-1E.png"

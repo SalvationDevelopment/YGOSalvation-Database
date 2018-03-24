@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58481572,
-        "pack_id": "SD27-JP044",
         "pack": "Structure Deck: HERO's Strike",
-        "rarity": "Masked HERO Dark Law",
+        "pack_id": "SD27-JP044",
         "date": "2014-06-21"
     },
     "tcg": {
-        "id": 58481572,
-        "pack_id": "SDHS-DE044",
         "pack": "HERO Strike Structure Deck",
-        "rarity": "Masked HERO Dark Law",
+        "pack_id": "SDHS-DE044",
         "date": "2015-01-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/ba/MaskedHERODarkLaw-DUSA-EN-UR-1E.png"

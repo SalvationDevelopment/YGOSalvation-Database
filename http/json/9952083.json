@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 9952083,
-        "pack_id": "PTDN-JP057",
         "pack": "Phantom Darkness",
-        "rarity": "Chain Summoning",
+        "pack_id": "PTDN-JP057",
         "date": "2007-11-23"
     },
     "tcg": {
-        "id": 9952083,
-        "pack_id": "PTDN-DE057",
         "pack": "Phantom Darkness",
-        "rarity": "Chain Summoning",
+        "pack_id": "PTDN-DE057",
         "date": "2008-01-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f6/ChainSummoning-OP05-EN-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 37649320,
-        "pack_id": "EP16-JP042",
         "pack": "Extra Pack 2016",
-        "rarity": "Paleozoic Opabinia",
+        "pack_id": "EP16-JP042",
         "date": "2016-09-10"
     },
     "tcg": {
-        "id": 37649320,
-        "pack_id": "INOV-DE099",
         "pack": "Invasion: Vengeance",
-        "rarity": "Paleozoic Opabinia",
+        "pack_id": "INOV-DE099",
         "date": "2016-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c1/PaleozoicOpabinia-MP17-EN-SR-1E.png"

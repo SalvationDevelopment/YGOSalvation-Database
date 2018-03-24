@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65393205,
-        "pack_id": "",
         "pack": "Dark Ceremony Edition",
-        "rarity": "スーパーレア仕様",
+        "pack_id": "",
         "date": "2000-03-23"
     },
     "tcg": {
-        "id": 65393205,
-        "pack_id": "NUMH-DE052",
         "pack": "Number Hunters",
-        "rarity": "Chakra",
+        "pack_id": "NUMH-DE052",
         "date": "2013-07-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/48/Chakra-NUMH-EN-SR-1E.png"

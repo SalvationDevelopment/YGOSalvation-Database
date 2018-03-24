@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 94940436,
-        "pack_id": "SOI-JP038",
         "pack": "Shadow of Infinity",
-        "rarity": "Magnet Circle LV2",
+        "pack_id": "SOI-JP038",
         "date": "2005-11-17"
     },
     "tcg": {
-        "id": 94940436,
-        "pack_id": "SOI-EN038",
         "pack": "Shadow of Infinity",
-        "rarity": "Magnet Circle LV2",
+        "pack_id": "SOI-EN038",
         "date": "2006-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/ff/MagnetCircleLV2-DR04-NA-C-UE.png"

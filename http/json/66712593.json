@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 66712593,
-        "pack_id": "SOD-JP024",
         "pack": "Soul of the Duelist",
-        "rarity": "Element Soldier",
+        "pack_id": "SOD-JP024",
         "date": "2004-05-27"
     },
     "tcg": {
-        "id": 66712593,
-        "pack_id": "SOD-DE024",
         "pack": "Soul of the Duelist",
-        "rarity": "Element Soldier",
+        "pack_id": "SOD-DE024",
         "date": "2004-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d3/ElementSoldier-DR3-EN-C-UE.png"

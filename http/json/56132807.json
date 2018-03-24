@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 56132807,
-        "pack_id": "MVP1-JP015",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Apple Magician Girl",
+        "pack_id": "MVP1-JP015",
         "date": "2016-04-23"
     },
     "tcg": {
-        "id": 56132807,
-        "pack_id": "MVP1-DE015",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Apple Magician Girl",
+        "pack_id": "MVP1-DE015",
         "date": "2016-07-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/65/AppleMagicianGirl-MVP1-EN-GUR-1E.png"

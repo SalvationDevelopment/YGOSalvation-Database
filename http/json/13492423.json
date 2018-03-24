@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 13492423,
-        "pack_id": "REDU-JP004",
         "pack": "Return of the Duelist",
-        "rarity": "Photon Caesar",
+        "pack_id": "REDU-JP004",
         "date": "2012-04-14"
     },
     "tcg": {
-        "id": 13492423,
-        "pack_id": "REDU-EN004",
         "pack": "Return of the Duelist",
-        "rarity": "Photon Caesar",
+        "pack_id": "REDU-EN004",
         "date": "2012-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3e/PhotonCaesar-REDU-EN-C-1E.png"

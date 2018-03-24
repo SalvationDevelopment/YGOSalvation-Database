@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99150062,
-        "pack_id": "DT04-JP019",
         "pack": "Duel Terminal - Demon Roar God Revival!!",
-        "rarity": "共通",
+        "pack_id": "DT04-JP019",
         "date": "2008-12-04"
     },
     "tcg": {
-        "id": 99150062,
-        "pack_id": "DT02-EN069",
         "pack": "Duel Terminal 2",
-        "rarity": "Naturia Antjaw",
+        "pack_id": "DT02-EN069",
         "date": "2010-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/00/NaturiaAntjaw-HA02-EN-SR-1E.jpg"

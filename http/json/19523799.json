@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 19523799,
-        "pack_id": "",
         "pack": "Booster 2",
-        "rarity": "Ookazi",
+        "pack_id": "",
         "date": "1999-05-25"
     },
     "tcg": {
-        "id": 19523799,
-        "pack_id": "SDK-023",
         "pack": "Starter Deck: Kaiba",
-        "rarity": "Ookazi",
+        "pack_id": "SDK-023",
         "date": "2002-03-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/89/Ookazi-5DS2-EN-C-1E.png"

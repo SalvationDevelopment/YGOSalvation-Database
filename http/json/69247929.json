@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 69247929,
-        "pack_id": "STON-JP001",
         "pack": "Strike of Neos",
-        "rarity": "Gene-Warped Warwolf",
+        "pack_id": "STON-JP001",
         "date": "2006-11-16"
     },
     "tcg": {
-        "id": 69247929,
-        "pack_id": "STON-FR001",
         "pack": "Strike of Neos",
-        "rarity": "Gene-Warped Warwolf",
+        "pack_id": "STON-FR001",
         "date": "2007-02-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8d/GeneWarpedWarwolf-YS16-EN-C-1E.png"

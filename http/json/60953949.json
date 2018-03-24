@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 60953949,
-        "pack_id": "PRIO-JP032",
         "pack": "Primal Origin",
-        "rarity": "Ancient Gear Box",
+        "pack_id": "PRIO-JP032",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 60953949,
-        "pack_id": "PRIO-DE032",
         "pack": "Primal Origin",
-        "rarity": "Ancient Gear Box",
+        "pack_id": "PRIO-DE032",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4a/AncientGearBox-SR03-EN-C-1E.png"

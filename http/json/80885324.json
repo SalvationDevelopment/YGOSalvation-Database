@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80885324,
-        "pack_id": "CSOC-JP015",
         "pack": "Crossroads of Chaos",
-        "rarity": "",
+        "pack_id": "CSOC-JP015",
         "date": "2008-07-19"
     },
     "tcg": {
-        "id": 80885324,
-        "pack_id": "CSOC-EN015",
         "pack": "Crossroads of Chaos",
-        "rarity": "Search Striker",
+        "pack_id": "CSOC-EN015",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5a/SearchStriker-CSOC-EN-R-1E.jpg"

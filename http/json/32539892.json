@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 32539892,
-        "pack_id": "MR-15",
         "pack": "Magic Ruler",
-        "rarity": "Minar",
+        "pack_id": "MR-15",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 32539892,
-        "pack_id": "DB1-EN010",
         "pack": "Dark Beginning 1",
-        "rarity": "Minar",
+        "pack_id": "DB1-EN010",
         "date": "2004-10-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bf/Minar-DB1-EN-C-UE.jpg"

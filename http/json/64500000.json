@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64500000,
-        "pack_id": "302-006",
         "pack": "Advent of Union",
-        "rarity": "Z-Metal Tank",
+        "pack_id": "302-006",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 64500000,
-        "pack_id": "MFC-006",
         "pack": "Magician's Force",
-        "rarity": "Z-Metal Tank",
+        "pack_id": "MFC-006",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6e/ZMetalTank-LCKC-EN-UR-1E.png"

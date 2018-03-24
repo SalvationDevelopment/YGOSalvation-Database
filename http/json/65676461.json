@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65676461,
-        "pack_id": "GAOV-JP042",
         "pack": "Galactic Overlord",
-        "rarity": "Number 32: Shark Drake",
+        "pack_id": "GAOV-JP042",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 65676461,
-        "pack_id": "GAOV-EN042",
         "pack": "Galactic Overlord",
-        "rarity": "Number 32: Shark Drake",
+        "pack_id": "GAOV-EN042",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/76/Number32SharkDrake-PGLD-EN-GUR-1E.png"

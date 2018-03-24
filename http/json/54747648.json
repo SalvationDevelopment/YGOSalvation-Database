@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 54747648,
-        "pack_id": "ST14-JP020",
         "pack": "Starter Deck 2014",
-        "rarity": "Green Turtle Summoner",
+        "pack_id": "ST14-JP020",
         "date": "2014-03-21"
     },
     "tcg": {
-        "id": 54747648,
-        "pack_id": "YS14-DE020",
         "pack": "Super Starter: Space-Time Showdown",
-        "rarity": "Green Turtle Summoner",
+        "pack_id": "YS14-DE020",
         "date": "2014-07-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d9/GreenTurtleSummoner-YS14-EN-C-1E.png"

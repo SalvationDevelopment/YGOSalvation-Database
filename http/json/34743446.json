@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 34743446,
-        "pack_id": "",
         "pack": "Booster 7",
-        "rarity": "Blocker",
+        "pack_id": "",
         "date": "2000-03-01"
     },
     "tcg": {
-        "id": 34743446,
-        "pack_id": "TP8-DE017",
         "pack": "Tournament Pack 8",
-        "rarity": "Blocker",
+        "pack_id": "TP8-DE017",
         "date": "2006-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3d/Blocker-TP8-EN-C-UE.jpg"

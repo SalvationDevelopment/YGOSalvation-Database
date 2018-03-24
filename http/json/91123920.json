@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 91123920,
-        "pack_id": "308-009",
         "pack": "The Sanctuary in the Sky",
-        "rarity": "The Agent of Force - Mars",
+        "pack_id": "308-009",
         "date": "2003-11-20"
     },
     "tcg": {
-        "id": 91123920,
-        "pack_id": "AST-DE009",
         "pack": "Ancient Sanctuary",
-        "rarity": "The Agent of Force - Mars",
+        "pack_id": "AST-DE009",
         "date": "2004-05-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b3/TheAgentofForceMars-SDLS-EN-C-1E.png"

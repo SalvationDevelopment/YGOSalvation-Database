@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 30608985,
-        "pack_id": "ST13-JP007",
         "pack": "Starter Deck 2013",
-        "rarity": "Magical Undertaker",
+        "pack_id": "ST13-JP007",
         "date": "2013-03-16"
     },
     "tcg": {
-        "id": 30608985,
-        "pack_id": "YS13-DE007",
         "pack": "Super Starter: V for Victory",
-        "rarity": "Magical Undertaker",
+        "pack_id": "YS13-DE007",
         "date": "2013-06-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/02/MagicalUndertaker-BP03-EN-C-1E.png"

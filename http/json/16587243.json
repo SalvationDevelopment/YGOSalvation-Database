@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 16587243,
-        "pack_id": "307-003",
         "pack": "Invader of Darkness",
-        "rarity": "共通",
+        "pack_id": "307-003",
         "date": "2003-07-17"
     },
     "tcg": {
-        "id": 16587243,
-        "pack_id": "IOC-058",
         "pack": "Invasion of Chaos",
-        "rarity": "Neo Bug",
+        "pack_id": "IOC-058",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9d/NeoBug-DR2-EN-C-UE.png"

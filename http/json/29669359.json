@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 29669359,
-        "pack_id": "DP12-JP015",
         "pack": "Duelist Pack: Yuma Edition",
-        "rarity": "Number 61: Volcasaurus",
+        "pack_id": "DP12-JP015",
         "date": "2011-10-15"
     },
     "tcg": {
-        "id": 29669359,
-        "pack_id": "ZTIN-DE002",
         "pack": "Zexal Collection",
-        "rarity": "Number 61: Volcasaurus",
+        "pack_id": "ZTIN-DE002",
         "date": "2013-03-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ac/Number61Volcasaurus-PGL3-EN-GUR-1E.png"

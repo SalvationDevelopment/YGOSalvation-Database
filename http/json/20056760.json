@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 20056760,
-        "pack_id": "DOCS-JP032",
         "pack": "Dimension of Chaos",
-        "rarity": "Graydle Slime",
+        "pack_id": "DOCS-JP032",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 20056760,
-        "pack_id": "DOCS-DE032",
         "pack": "Dimension of Chaos",
-        "rarity": "Graydle Slime",
+        "pack_id": "DOCS-DE032",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/GraydleSlime-DOCS-EN-R-1E.png"

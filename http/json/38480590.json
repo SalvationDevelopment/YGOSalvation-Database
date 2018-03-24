@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 38480590,
-        "pack_id": "SM-29",
         "pack": "Spell of Mask",
-        "rarity": "Lady Panther",
+        "pack_id": "SM-29",
         "date": "2001-04-19"
     },
     "tcg": {
-        "id": 38480590,
-        "pack_id": "LON-030",
         "pack": "Labyrinth of Nightmare",
-        "rarity": "Lady Panther",
+        "pack_id": "LON-030",
         "date": "2003-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7b/LadyPanther-LON-EN-C-UE.png"

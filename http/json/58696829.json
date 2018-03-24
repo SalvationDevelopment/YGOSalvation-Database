@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58696829,
-        "pack_id": "SM-42",
         "pack": "Spell of Mask",
-        "rarity": "Bio-Mage",
+        "pack_id": "SM-42",
         "date": "2001-04-19"
     },
     "tcg": {
-        "id": 58696829,
-        "pack_id": "LON-043",
         "pack": "Labyrinth of Nightmare",
-        "rarity": "Bio-Mage",
+        "pack_id": "LON-043",
         "date": "2003-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d5/BioMage-LON-EN-C-UE.jpg"

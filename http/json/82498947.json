@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 82498947,
-        "pack_id": "DT07-JP032",
         "pack": "Duel Terminal - Charge of the Genex!!",
-        "rarity": "Defender of the Ice Barrier",
+        "pack_id": "DT07-JP032",
         "date": "2009-10-01"
     },
     "tcg": {
-        "id": 82498947,
-        "pack_id": "DT04-EN032",
         "pack": "Duel Terminal 4",
-        "rarity": "Defender of the Ice Barrier",
+        "pack_id": "DT04-EN032",
         "date": "2011-01-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/57/DefenderoftheIceBarrier-HA04-EN-SR-1E.png"

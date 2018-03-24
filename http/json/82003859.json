@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 82003859,
-        "pack_id": "MR-34",
         "pack": "Magic Ruler",
-        "rarity": "Toll",
+        "pack_id": "MR-34",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 82003859,
-        "pack_id": "DB1-EN019",
         "pack": "Dark Beginning 1",
-        "rarity": "Toll",
+        "pack_id": "DB1-EN019",
         "date": "2004-10-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e2/Toll-DB1-EN-C-UE.jpg"

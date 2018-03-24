@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 22147147,
-        "pack_id": "POTD-JP043",
         "pack": "Power of the Duelist",
-        "rarity": "Cyclone Blade",
+        "pack_id": "POTD-JP043",
         "date": "2006-05-18"
     },
     "tcg": {
-        "id": 22147147,
-        "pack_id": "POTD-DE043",
         "pack": "Power of the Duelist",
-        "rarity": "Cyclone Blade",
+        "pack_id": "POTD-DE043",
         "date": "2006-08-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9a/CycloneBlade-LCGX-EN-C-1E.png"

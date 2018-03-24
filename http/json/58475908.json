@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58475908,
-        "pack_id": "GENF-JP017",
         "pack": "Generation Force",
-        "rarity": "Wind-Up Snail",
+        "pack_id": "GENF-JP017",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 58475908,
-        "pack_id": "GENF-EN017",
         "pack": "Generation Force",
-        "rarity": "Wind-Up Snail",
+        "pack_id": "GENF-EN017",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/73/WindUpSnail-GENF-EN-R-1E.jpg"

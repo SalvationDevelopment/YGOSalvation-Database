@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45159319,
-        "pack_id": "TLM-JP014",
         "pack": "The Lost Millennium",
-        "rarity": "Moai Interceptor Cannons",
+        "pack_id": "TLM-JP014",
         "date": "2005-02-24"
     },
     "tcg": {
-        "id": 45159319,
-        "pack_id": "TLM-EN014",
         "pack": "The Lost Millennium",
-        "rarity": "Moai Interceptor Cannons",
+        "pack_id": "TLM-EN014",
         "date": "2005-05-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fc/MoaiInterceptorCannons-DR3-EN-C-UE.png"

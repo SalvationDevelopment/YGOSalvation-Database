@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 83584898,
-        "pack_id": "STBL-JP057",
         "pack": "Starstrike Blast",
-        "rarity": "Darkworld Shackles",
+        "pack_id": "STBL-JP057",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 83584898,
-        "pack_id": "STBL-EN057",
         "pack": "Starstrike Blast",
-        "rarity": "Darkworld Shackles",
+        "pack_id": "STBL-EN057",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ea/DarkworldShackles-BP01-EN-C-1E.png"

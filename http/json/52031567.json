@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 52031567,
-        "pack_id": "GX1-JPB01",
-        "pack": "GX1",
-        "rarity": "Elemental HERO Mudballman",
-        "date": "2008-12-27"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 52031567,
-        "pack_id": "MDP2-EN002",
         "pack": "McDonald's Promotional Cards 2",
-        "rarity": "Elemental HERO Mudballman",
+        "pack_id": "MDP2-EN002",
         "date": "2006-12-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7a/ElementalHEROMudballman-RYMP-EN-C-UE.png"

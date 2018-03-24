@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 85893201,
-        "pack_id": "SHSP-JP077",
         "pack": "Shadow Specters",
-        "rarity": "Chain Ignition",
+        "pack_id": "SHSP-JP077",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 85893201,
-        "pack_id": "SHSP-DE077",
         "pack": "Shadow Specters",
-        "rarity": "Chain Ignition",
+        "pack_id": "SHSP-DE077",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/df/ChainIgnition-SHSP-EN-C-UE.png"

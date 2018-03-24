@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 8192,
     "name": "Double Byte Dragon",
-    "desc": "2 Link Monsters\r\nGains ATK equal to the total Link Rating of the monsters used for its Link Summon x 300. Unaffected by other monsters' effects, except Link Monsters'. Cannot be destroyed by battle, except with a Link Monster.",
+    "desc": "Link Arrows: [🡱][🡳]\n\n2 Link Monsters\nGains ATK equal to the total Link Rating of the monsters used for its Link Summon x 300. Unaffected by other monsters' effects, except Link Monsters'. Cannot be destroyed by battle, except with a Link Monster.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "LINK VRAINS Box",
+        "pack_id": "LVB1-JP001",
+        "date": "2017-12-23"
+    },
+    "links": [
+        1,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/96/DoubleByteDragon-LVB1-JP-UR.png"
 }

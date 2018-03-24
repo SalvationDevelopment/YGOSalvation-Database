@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 22754505,
-        "pack_id": "TDGS-JP006",
         "pack": "The Duelist Genesis",
-        "rarity": "Small Piece Golem",
+        "pack_id": "TDGS-JP006",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 22754505,
-        "pack_id": "TDGS-EN006",
         "pack": "The Duelist Genesis",
-        "rarity": "Small Piece Golem",
+        "pack_id": "TDGS-EN006",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bb/SmallPieceGolem-TDGS-EN-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 21844577,
-        "pack_id": "PP8-JP001",
         "pack": "Premium Pack 8",
-        "rarity": "Elemental HERO Avian",
+        "pack_id": "PP8-JP001",
         "date": "2004-12-18"
     },
     "tcg": {
-        "id": 21844577,
-        "pack_id": "TLM-EN001",
         "pack": "The Lost Millennium",
-        "rarity": "Elemental HERO Avian",
+        "pack_id": "TLM-EN001",
         "date": "2005-05-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2b/ElementalHEROAvian-SDHS-EN-C-1E.png"

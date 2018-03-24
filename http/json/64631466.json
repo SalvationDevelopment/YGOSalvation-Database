@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64631466,
-        "pack_id": "MR-29",
         "pack": "Magic Ruler",
-        "rarity": "Relinquished",
+        "pack_id": "MR-29",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 64631466,
-        "pack_id": "DB1-EN015",
         "pack": "Dark Beginning 1",
-        "rarity": "Relinquished",
+        "pack_id": "DB1-EN015",
         "date": "2004-10-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/48/Relinquished-LED2-EN-C-1E.png"

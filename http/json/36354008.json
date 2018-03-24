@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 36354008,
-        "pack_id": "G6-04",
         "pack": "GameBoy Duel Monsters Promos: Series 6",
-        "rarity": "Gilford the Lightning",
+        "pack_id": "G6-04",
         "date": "2001-12-20"
     },
     "tcg": {
-        "id": 36354008,
-        "pack_id": "CT2-DE001",
         "pack": "Collectible Tins 2005",
-        "rarity": "Gilford the Lightning",
+        "pack_id": "CT2-DE001",
         "date": "2005-09-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d9/GilfordtheLightning-MIL1-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 61344030,
-        "pack_id": "DP13-JP022",
         "pack": "Duelist Pack: Kaito Edition",
-        "rarity": "Starliege Paladynamo",
+        "pack_id": "DP13-JP022",
         "date": "2012-09-15"
     },
     "tcg": {
-        "id": 61344030,
-        "pack_id": "ZTIN-DE014",
         "pack": "Zexal Collection",
-        "rarity": "Starliege Paladynamo",
+        "pack_id": "ZTIN-DE014",
         "date": "2013-03-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f9/StarliegePaladynamo-DPDG-EN-R-1E.png"

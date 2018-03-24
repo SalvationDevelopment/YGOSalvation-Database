@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 18809562,
-        "pack_id": "MVP1-JP020",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Magical Contract Door",
+        "pack_id": "MVP1-JP020",
         "date": "2016-04-23"
     },
     "tcg": {
-        "id": 18809562,
-        "pack_id": "MVP1-DE020",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Magical Contract Door",
+        "pack_id": "MVP1-DE020",
         "date": "2016-07-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d6/MagicalContractDoor-MVP1-EN-GUR-1E.png"

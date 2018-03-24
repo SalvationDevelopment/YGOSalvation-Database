@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 83407038,
-        "pack_id": "DP18-JP011",
         "pack": "Duelist Pack: Legend Duelist",
-        "rarity": "Amazoness Ambush",
+        "pack_id": "DP18-JP011",
         "date": "2017-06-03"
     },
     "tcg": {
-        "date": "2017-09-07",
         "pack": "Legendary Duelists",
-        "pack_id": "LEDU-DE011"
+        "pack_id": "LEDU-DE011",
+        "date": "2017-09-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4f/AmazonessOnslaught-LEDU-EN-R-1E.png"
 }

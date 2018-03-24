@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 36750412,
-        "pack_id": "YSD3-JP013",
         "pack": "Starter Deck 2008",
-        "rarity": "Magna Drago",
+        "pack_id": "YSD3-JP013",
         "date": "2008-03-15"
     },
     "tcg": {
-        "id": 36750412,
-        "pack_id": "5DS1-DE013",
         "pack": "Starter Deck: Yu-Gi-Oh! 5D's",
-        "rarity": "Magna Drago",
+        "pack_id": "5DS1-DE013",
         "date": "2008-08-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1e/MagnaDrago-SDMP-EN-C-1E.png"

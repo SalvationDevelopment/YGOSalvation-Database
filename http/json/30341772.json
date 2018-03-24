@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 30341772,
-        "pack_id": "PP15-JP010",
         "pack": "Premium Pack 15",
-        "rarity": "Utopia Buster",
+        "pack_id": "PP15-JP010",
         "date": "2013-03-16"
     },
     "tcg": {
-        "id": 30341772,
-        "pack_id": "PGLD-DE009",
         "pack": "Premium Gold",
-        "rarity": "Utopia Buster",
+        "pack_id": "PGLD-DE009",
         "date": "2014-03-27"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ea/UtopiaBuster-PGLD-EN-GScR-1E.png"

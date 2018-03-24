@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 16241441,
-        "pack_id": "TAEV-JP010",
         "pack": "Tactical Evolution",
-        "rarity": "Chrysalis Larva",
+        "pack_id": "TAEV-JP010",
         "date": "2007-05-12"
     },
     "tcg": {
-        "id": 16241441,
-        "pack_id": "TAEV-FR010",
         "pack": "Tactical Evolution",
-        "rarity": "Chrysalis Larva",
+        "pack_id": "TAEV-FR010",
         "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/24/ChrysalisLarva-TAEV-EN-C-1E.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1834107,
-        "pack_id": "DREV-JP050",
         "pack": "Duelist Revolution",
-        "rarity": "Wattcine",
+        "pack_id": "DREV-JP050",
         "date": "2010-04-17"
     },
     "tcg": {
-        "id": 1834107,
-        "pack_id": "DREV-EN050",
         "pack": "Duelist Revolution",
-        "rarity": "Wattcine",
+        "pack_id": "DREV-EN050",
         "date": "2010-08-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c1/Wattcine-DREV-EN-C-1E.jpg"

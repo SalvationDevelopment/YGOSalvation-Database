@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 93469007,
-        "pack_id": "CRMS-JP051",
         "pack": "Crimson Crisis",
-        "rarity": "Assault Overload",
+        "pack_id": "CRMS-JP051",
         "date": "2008-11-15"
     },
     "tcg": {
-        "id": 93469007,
-        "pack_id": "CRMS-EN051",
         "pack": "Crimson Crisis",
-        "rarity": "Assault Overload",
+        "pack_id": "CRMS-EN051",
         "date": "2009-02-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6d/AssaultOverload-CRMS-EN-C-1E.png"

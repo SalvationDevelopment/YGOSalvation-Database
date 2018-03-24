@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 34710660,
-        "pack_id": "15AY-JPA00",
         "pack": "Memories of the Duel King: Duelist Kingdom Arc",
-        "rarity": "Electromagnetic Turtle",
+        "pack_id": "15AY-JPA00",
         "date": "2014-03-08"
     },
     "tcg": {
-        "id": 34710660,
-        "pack_id": "YGLD-DEA00",
         "pack": "Yugi's Legendary Decks",
-        "rarity": "Electromagnetic Turtle",
+        "pack_id": "YGLD-DEA00",
         "date": "2015-11-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fe/ElectromagneticTurtle-YGLD-EN-ScR-LE.png"

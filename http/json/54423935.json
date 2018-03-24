@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 54423935,
-        "pack_id": "PP19-JP007",
         "pack": "Premium Pack 19",
-        "rarity": "Raidraptors Replica",
+        "pack_id": "PP19-JP007",
         "date": "2017-03-11"
     },
     "tcg": {
-        "id": 54423935,
-        "pack_id": "DPDG-DE008",
         "pack": "Duelist Pack: Dimensional Guardians",
-        "rarity": "Raidraptor Replica",
+        "pack_id": "DPDG-DE008",
         "date": "2017-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/04/RaidraptorReplica-DPDG-EN-UR-1E.png"

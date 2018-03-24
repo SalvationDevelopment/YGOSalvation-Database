@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 3580032,
-        "pack_id": "EONK-JP001",
         "pack": "Duel Field EX Epic of Noble Knights: Holy Sword of Guidance",
-        "rarity": "Merlin",
+        "pack_id": "EONK-JP001",
         "date": "2014-12-20"
     },
     "tcg": {
-        "id": 3580032,
-        "pack_id": "NKRT-DE001",
         "pack": "Noble Knights of the Round Table Box Set",
-        "rarity": "Merlin",
+        "pack_id": "NKRT-DE001",
         "date": "2014-11-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/41/Merlin-NKRT-EN-PlR-LE.png"

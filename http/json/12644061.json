@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12644061,
-        "pack_id": "DE02-JP160",
         "pack": "Duelist Edition Volume 2",
-        "rarity": "Advanced Dark",
+        "pack_id": "DE02-JP160",
         "date": "2012-05-12"
     },
     "tcg": {
-        "id": 12644061,
-        "pack_id": "REDU-EN094",
         "pack": "Return of the Duelist",
-        "rarity": "Advanced Dark",
+        "pack_id": "REDU-EN094",
         "date": "2012-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/19/AdvancedDark-REDU-EN-ScR-1E.png"

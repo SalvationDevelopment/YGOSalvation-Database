@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 78387742,
-        "pack_id": "POTD-JP038",
         "pack": "Power of the Duelist",
-        "rarity": "Fake Hero",
+        "pack_id": "POTD-JP038",
         "date": "2006-05-18"
     },
     "tcg": {
-        "id": 78387742,
-        "pack_id": "POTD-DE038",
         "pack": "Power of the Duelist",
-        "rarity": "Fake Hero",
+        "pack_id": "POTD-DE038",
         "date": "2006-08-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/43/FakeHero-LCGX-EN-R-1E.png"

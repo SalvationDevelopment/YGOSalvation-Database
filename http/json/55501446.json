@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55501446,
-        "pack_id": "PHSW-JP013",
         "pack": "Photon Shockwave",
-        "rarity": "Lightserpent",
+        "pack_id": "PHSW-JP013",
         "date": "2011-07-16"
     },
     "tcg": {
-        "id": 55501446,
-        "pack_id": "PHSW-DE013",
         "pack": "Photon Shockwave",
-        "rarity": "Lightserpent",
+        "pack_id": "PHSW-DE013",
         "date": "2011-11-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c4/Lightserpent-PHSW-EN-SR-1E.png"

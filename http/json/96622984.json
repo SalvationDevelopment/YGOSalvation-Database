@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 96622984,
-        "pack_id": "INOV-JP006",
         "pack": "Invasion: Vengeance",
-        "rarity": "Predaplant Flytrap",
+        "pack_id": "INOV-JP006",
         "date": "2016-07-09"
     },
     "tcg": {
-        "id": 96622984,
-        "pack_id": "INOV-DE006",
         "pack": "Invasion: Vengeance",
-        "rarity": "Predaplant Flytrap",
+        "pack_id": "INOV-DE006",
         "date": "2016-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/PredaplantFlytrap-MP17-EN-R-1E.png"

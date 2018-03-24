@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 42810973,
-        "pack_id": "DP09-JP016",
         "pack": "Duelist Pack: Yusei 2",
-        "rarity": "Junk Archer",
+        "pack_id": "DP09-JP016",
         "date": "2009-10-17"
     },
     "tcg": {
-        "id": 42810973,
-        "pack_id": "DP09-DE016",
         "pack": "Duelist Pack: Yusei 2",
-        "rarity": "Junk Archer",
+        "pack_id": "DP09-DE016",
         "date": "2010-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cc/JunkArcher-LC5D-EN-SR-1E.png"

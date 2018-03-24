@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 50243722,
-        "pack_id": "SHSP-JP070",
         "pack": "Shadow Specters",
-        "rarity": "Burst Rebirth",
+        "pack_id": "SHSP-JP070",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 50243722,
-        "pack_id": "SHSP-DE070",
         "pack": "Shadow Specters",
-        "rarity": "Burst Rebirth",
+        "pack_id": "SHSP-DE070",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/eb/BurstRebirth-SHSP-EN-R-1E.png"

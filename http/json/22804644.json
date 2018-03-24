@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 22804644,
-        "pack_id": "CPD1-JP003",
         "pack": "Collectors Pack: Duelist of Destiny Version",
-        "rarity": "Doom Virus Dragon",
+        "pack_id": "CPD1-JP003",
         "date": "2015-05-16"
     },
     "tcg": {
-        "id": 22804644,
-        "pack_id": "DRL2-DE003",
         "pack": "Dragons of Legend 2",
-        "rarity": "Doom Virus Dragon",
+        "pack_id": "DRL2-DE003",
         "date": "2015-07-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7d/DoomVirusDragon-LCKC-EN-UR-1E.png"

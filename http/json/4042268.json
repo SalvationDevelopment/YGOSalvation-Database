@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 4042268,
-        "pack_id": "TB-45",
         "pack": "Thousand Eyes Bible",
-        "rarity": "共通",
+        "pack_id": "TB-45",
         "date": "2000-12-14"
     },
     "tcg": {
-        "id": 4042268,
-        "pack_id": "PSV-095",
         "pack": "Pharaoh's Servant",
-        "rarity": "Island Turtle",
+        "pack_id": "PSV-095",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a8/IslandTurtle-SDJ-NA-C-UE.png"

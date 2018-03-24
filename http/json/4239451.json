@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 4239451,
-        "pack_id": "DUEA-JP010",
         "pack": "Duelist Alliance",
-        "rarity": "Performapal Turn Toad",
+        "pack_id": "DUEA-JP010",
         "date": "2014-04-19"
     },
     "tcg": {
-        "id": 4239451,
-        "pack_id": "DUEA-DE010",
         "pack": "Duelist Alliance",
-        "rarity": "Performapal Turn Toad",
+        "pack_id": "DUEA-DE010",
         "date": "2014-08-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1e/PerformapalTurnToad-MP15-EN-R-1E.png"

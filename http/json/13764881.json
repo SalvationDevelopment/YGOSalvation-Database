@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 13764881,
-        "pack_id": "SPHR-JP018",
         "pack": "Booster SP: Highspeed Riders",
-        "rarity": "Chain Resonator",
+        "pack_id": "SPHR-JP018",
         "date": "2015-08-22"
     },
     "tcg": {
-        "id": 13764881,
-        "pack_id": "HSRD-DE018",
         "pack": "High-Speed Riders",
-        "rarity": "Chain Resonator",
+        "pack_id": "HSRD-DE018",
         "date": "2015-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/30/ChainResonator-DPDG-EN-C-1E.png"

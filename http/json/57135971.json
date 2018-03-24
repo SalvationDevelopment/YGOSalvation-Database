@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 57135971,
-        "pack_id": "DP18-JP004",
         "pack": "Duelist Pack: Legend Duelist",
-        "rarity": "Red-Eyes Fang with Chain",
+        "pack_id": "DP18-JP004",
         "date": "2017-06-03"
     },
     "tcg": {
-        "date": "2017-09-07",
         "pack": "Legendary Duelists",
-        "pack_id": "LEDU-DE004"
+        "pack_id": "LEDU-DE004",
+        "date": "2017-09-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/87/RedEyesFangwithChain-LEDU-EN-UR-1E.png"
 }

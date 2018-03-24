@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 85839825,
-        "pack_id": "YSD6-JP023",
         "pack": "Starter Deck 2011",
-        "rarity": "Xyz Energy",
+        "pack_id": "YSD6-JP023",
         "date": "2011-03-19"
     },
     "tcg": {
-        "id": 85839825,
-        "pack_id": "YS11-DE023",
         "pack": "Starter Deck: Dawn of the Xyz",
-        "rarity": "Xyz Energy",
+        "pack_id": "YS11-DE023",
         "date": "2011-07-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ef/XyzEnergy-YS12-EN-C-1E.png"

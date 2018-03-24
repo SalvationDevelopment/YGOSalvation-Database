@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 5318639,
-        "pack_id": "MR-47",
         "pack": "Magic Ruler",
-        "rarity": "Mystical Space Typhoon",
+        "pack_id": "MR-47",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 5318639,
-        "pack_id": "SYE-037",
         "pack": "Starter Deck: Yugi Evolution",
-        "rarity": "Mystical Space Typhoon",
+        "pack_id": "SYE-037",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/43/MysticalSpaceTyphoon-YS17-EN-C-1E.png"

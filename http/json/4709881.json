@@ -34,16 +34,14 @@
     ],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 4709881,
-        "pack_id": "COTD-JP049",
         "pack": "Code of the Duelist",
-        "rarity": "Stargrail Swordsman Aurum",
+        "pack_id": "COTD-JP049",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE049"
+        "pack_id": "COTD-DE049",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/32/AuramtheWorldChaliceBlademaster-COTD-EN-SR-1E.png"
 }

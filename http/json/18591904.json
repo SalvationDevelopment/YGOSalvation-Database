@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 18591904,
-        "pack_id": "MR-35",
         "pack": "Magic Ruler",
-        "rarity": "Final Destiny",
+        "pack_id": "MR-35",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 18591904,
-        "pack_id": "DB1-EN020",
         "pack": "Dark Beginning 1",
-        "rarity": "Final Destiny",
+        "pack_id": "DB1-EN020",
         "date": "2004-10-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c9/FinalDestiny-DB1-EN-C-UE.jpg"

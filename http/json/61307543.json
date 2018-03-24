@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "The Dark Illusion",
+        "pack_id": "TDIL-DE099",
+        "date": "2016-08-04"
+    },
+    "ocg": {
+        "pack": "Extra Pack 2016",
+        "pack_id": "EP16-JP041",
+        "date": "2016-09-10"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/aa/PaleozoicAnomalocaris-MP17-EN-SR-1E.png"
 }

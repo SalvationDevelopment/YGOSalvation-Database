@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58843503,
-        "pack_id": "TDGS-JP007",
         "pack": "The Duelist Genesis",
-        "rarity": "Medium Piece Golem",
+        "pack_id": "TDGS-JP007",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 58843503,
-        "pack_id": "TDGS-EN007",
         "pack": "The Duelist Genesis",
-        "rarity": "Medium Piece Golem",
+        "pack_id": "TDGS-EN007",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/be/MediumPieceGolem-TDGS-EN-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 73915051,
-        "pack_id": "L3-06",
         "pack": "Limited Edition 3: Joey Pack",
-        "rarity": "Scapegoat",
+        "pack_id": "L3-06",
         "date": "2001-04-01"
     },
     "tcg": {
-        "id": 73915051,
-        "pack_id": "SDJ-041",
         "pack": "Starter Deck: Joey",
-        "rarity": "Scapegoat",
+        "pack_id": "SDJ-041",
         "date": "2003-03-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/Scapegoat-OP05-EN-C-UE.png"

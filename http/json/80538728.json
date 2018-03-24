@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80538728,
-        "pack_id": "PHSW-JP023",
         "pack": "Photon Shockwave",
-        "rarity": "Wind-Up Knight",
+        "pack_id": "PHSW-JP023",
         "date": "2011-07-16"
     },
     "tcg": {
-        "id": 80538728,
-        "pack_id": "PHSW-DE023",
         "pack": "Photon Shockwave",
-        "rarity": "Wind-Up Knight",
+        "pack_id": "PHSW-DE023",
         "date": "2011-11-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6b/WindUpKnight-PHSW-EN-R-1E.png"

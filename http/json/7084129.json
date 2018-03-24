@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 7084129,
-        "pack_id": "TDIL-JP019",
         "pack": "The Dark Illusion",
-        "rarity": "Magician's Rod",
+        "pack_id": "TDIL-JP019",
         "date": "2016-04-09"
     },
     "tcg": {
-        "id": 7084129,
-        "pack_id": "TDIL-DE019",
         "pack": "The Dark Illusion",
-        "rarity": "Magician's Rod",
+        "pack_id": "TDIL-DE019",
         "date": "2016-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8f/MagiciansRod-LEDD-EN-C-1E.png"

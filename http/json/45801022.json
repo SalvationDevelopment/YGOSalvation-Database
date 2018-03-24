@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45801022,
-        "pack_id": "DREV-JP025",
         "pack": "Duelist Revolution",
-        "rarity": "Wattlemur",
+        "pack_id": "DREV-JP025",
         "date": "2010-04-17"
     },
     "tcg": {
-        "id": 45801022,
-        "pack_id": "DREV-EN025",
         "pack": "Duelist Revolution",
-        "rarity": "Wattlemur",
+        "pack_id": "DREV-EN025",
         "date": "2010-08-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/60/Wattlemur-BPW2-NA-C-1E.png"

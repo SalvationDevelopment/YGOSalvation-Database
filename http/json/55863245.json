@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55863245,
-        "pack_id": "JF15-JP009",
         "pack": "Jump Festa 2015 - Promotion Pack",
-        "rarity": "Tatsunoko",
+        "pack_id": "JF15-JP009",
         "date": "2014-12-20"
     },
     "tcg": {
-        "id": 55863245,
-        "pack_id": "CORE-DE098",
         "pack": "Clash of Rebellions",
-        "rarity": "Tatsunoko",
+        "pack_id": "CORE-DE098",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cb/Tatsunoko-MP16-EN-ScR-1E.png"

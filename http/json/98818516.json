@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 98818516,
-        "pack_id": "",
         "pack": "Vol.3",
-        "rarity": "Frenzied Panda",
+        "pack_id": "",
         "date": "1999-05-27"
     },
     "tcg": {
-        "id": 98818516,
-        "pack_id": "LOB-081",
         "pack": "Legend of Blue Eyes White Dragon",
-        "rarity": "Frenzied Panda",
+        "pack_id": "LOB-081",
         "date": "2002-03-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9d/FrenziedPanda-LOB-EN-C-UE.png"

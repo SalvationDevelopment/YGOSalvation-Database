@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 71249758,
-        "pack_id": "STBL-JP063",
         "pack": "Starstrike Blast",
-        "rarity": "D2 Shield",
+        "pack_id": "STBL-JP063",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 71249758,
-        "pack_id": "STBL-EN063",
         "pack": "Starstrike Blast",
-        "rarity": "D2 Shield",
+        "pack_id": "STBL-EN063",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f8/D2Shield-STBL-EN-SR-1E.jpg"

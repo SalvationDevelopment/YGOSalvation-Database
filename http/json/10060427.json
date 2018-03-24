@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 10060427,
-        "pack_id": "SOVR-JP028",
         "pack": "Stardust Overdrive",
-        "rarity": "Koa'ki Meiru Rooklord",
+        "pack_id": "SOVR-JP028",
         "date": "2009-07-18"
     },
     "tcg": {
-        "id": 10060427,
-        "pack_id": "SOVR-DE028",
         "pack": "Stardust Overdrive",
-        "rarity": "Koa'ki Meiru Rooklord",
+        "pack_id": "SOVR-DE028",
         "date": "2009-11-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/35/KoakiMeiruRooklord-SOVR-EN-SR-1E.jpg"

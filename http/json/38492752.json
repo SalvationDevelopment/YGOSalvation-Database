@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 38492752,
-        "pack_id": "DT11-JP018",
-        "pack": "DT11",
-        "rarity": "Laval Cannon",
-        "date": "2013-02-26"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 38492752,
-        "pack_id": "DT06-EN018",
         "pack": "Duel Terminal 6a",
-        "rarity": "Laval Cannon",
+        "pack_id": "DT06-EN018",
         "date": "2012-02-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/23/LavalCannon-HA06-EN-ScR-1E.png"

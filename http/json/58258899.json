@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58258899,
-        "pack_id": "EXVC-JP054",
         "pack": "Extreme Victory",
-        "rarity": "TGX300",
+        "pack_id": "EXVC-JP054",
         "date": "2011-02-11"
     },
     "tcg": {
-        "id": 58258899,
-        "pack_id": "EXVC-EN054",
         "pack": "Extreme Victory",
-        "rarity": "TGX300",
+        "pack_id": "EXVC-EN054",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/63/TGX300-LC5D-EN-C-1E.png"

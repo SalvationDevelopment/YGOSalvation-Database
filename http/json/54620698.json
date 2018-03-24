@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 54620698,
-        "pack_id": "DT09-JP018",
-        "pack": "DT09",
-        "rarity": "Gem-Knight Tourmaline",
-        "date": "2012-11-06"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 54620698,
-        "pack_id": "DT05-EN018",
         "pack": "Duel Terminal 5a",
-        "rarity": "Gem-Knight Tourmaline",
+        "pack_id": "DT05-EN018",
         "date": "2011-05-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cd/GemKnightTourmaline-SP15-EN-C-1E.png"

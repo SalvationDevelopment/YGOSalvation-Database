@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 22959079,
-        "pack_id": "TB-19",
         "pack": "Thousand Eyes Bible",
-        "rarity": "Dimensionhole",
+        "pack_id": "TB-19",
         "date": "2000-12-14"
     },
     "tcg": {
-        "id": 22959079,
-        "pack_id": "PSV-069",
         "pack": "Pharaoh's Servant",
-        "rarity": "Dimensionhole",
+        "pack_id": "PSV-069",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/32/Dimensionhole-DB1-EN-C-UE.jpg"

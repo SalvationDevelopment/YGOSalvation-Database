@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 22339232,
-        "pack_id": "STBL-JP035",
         "pack": "Starstrike Blast",
-        "rarity": "Wightmare",
+        "pack_id": "STBL-JP035",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 22339232,
-        "pack_id": "STBL-EN035",
         "pack": "Starstrike Blast",
-        "rarity": "Wightmare",
+        "pack_id": "STBL-EN035",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ab/Wightmare-STBL-EN-SP-1E.jpg"

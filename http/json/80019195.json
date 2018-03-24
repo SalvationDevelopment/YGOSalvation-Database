@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80019195,
-        "pack_id": "CPL1-JP001",
         "pack": "Collectors Pack: Duelist of Legend Version",
-        "rarity": "Legendary Knight Timaeus",
+        "pack_id": "CPL1-JP001",
         "date": "2014-05-17"
     },
     "tcg": {
-        "id": 80019195,
-        "pack_id": "DRLG-DE001",
         "pack": "Dragons of Legend",
-        "rarity": "Legendary Knight Timaeus",
+        "pack_id": "DRLG-DE001",
         "date": "2014-04-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/17/LegendaryKnightTimaeus-LEDD-EN-C-1E.png"

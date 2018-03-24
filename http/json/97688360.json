@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 97688360,
-        "pack_id": "COTD-JP009",
         "pack": "Code of the Duelist",
-        "rarity": "Gouki Twist Cobra",
+        "pack_id": "COTD-JP009",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE009"
+        "pack_id": "COTD-DE009",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/89/GoukiTwistcobra-COTD-EN-SR-1E.png"
 }

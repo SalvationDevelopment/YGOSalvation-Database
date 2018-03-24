@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45803070,
-        "pack_id": "PRIO-JP025",
         "pack": "Primal Origin",
-        "rarity": "Traptrix Dionaea",
+        "pack_id": "PRIO-JP025",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 45803070,
-        "pack_id": "PRIO-DE025",
         "pack": "Primal Origin",
-        "rarity": "Traptrix Dionaea",
+        "pack_id": "PRIO-DE025",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/52/TraptrixDionaea-MP15-EN-R-1E.png"

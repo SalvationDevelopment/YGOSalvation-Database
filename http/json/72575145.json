@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 72575145,
-        "pack_id": "302-029",
         "pack": "Advent of Union",
-        "rarity": "Demotion",
+        "pack_id": "302-029",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 72575145,
-        "pack_id": "MFC-029",
         "pack": "Magician's Force",
-        "rarity": "Demotion",
+        "pack_id": "MFC-029",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/Demotion-DR1-EN-C-UE.png"

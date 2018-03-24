@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53567095,
-        "pack_id": "EOJ-JP055",
         "pack": "Enemy of Justice",
-        "rarity": "Icarus Attack",
+        "pack_id": "EOJ-JP055",
         "date": "2006-02-16"
     },
     "tcg": {
-        "id": 53567095,
-        "pack_id": "EOJ-DE055",
         "pack": "Enemy of Justice",
-        "rarity": "Icarus Attack",
+        "pack_id": "EOJ-DE055",
         "date": "2006-05-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cf/IcarusAttack-WIRA-EN-SR-1E.png"

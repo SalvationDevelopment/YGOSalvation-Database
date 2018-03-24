@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 73698349,
-        "pack_id": "302-012",
         "pack": "Advent of Union",
-        "rarity": "Giant Orc",
+        "pack_id": "302-012",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 73698349,
-        "pack_id": "MFC-012",
         "pack": "Magician's Force",
-        "rarity": "Giant Orc",
+        "pack_id": "MFC-012",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6c/GiantOrc-DR1-EN-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 17494901,
-        "pack_id": "ORCS-JP048",
         "pack": "Order of Chaos",
-        "rarity": "Gagagabolt",
+        "pack_id": "ORCS-JP048",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 17494901,
-        "pack_id": "ORCS-EN048",
         "pack": "Order of Chaos",
-        "rarity": "Gagagabolt",
+        "pack_id": "ORCS-EN048",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0a/Gagagabolt-SP14-EN-C-1E.png"

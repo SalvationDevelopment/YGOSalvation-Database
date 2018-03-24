@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 22512237,
-        "pack_id": "CRV-JP018",
         "pack": "Cybernetic Revolution",
-        "rarity": "共通",
+        "pack_id": "CRV-JP018",
         "date": "2005-05-26"
     },
     "tcg": {
-        "id": 22512237,
-        "pack_id": "CRV-DE018",
         "pack": "Cybernetic Revolution",
-        "rarity": "Common",
+        "pack_id": "CRV-DE018",
         "date": "2005-08-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/MechanicalHound-DR04-NA-C-UE.png"

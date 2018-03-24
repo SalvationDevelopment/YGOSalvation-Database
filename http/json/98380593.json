@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 98380593,
-        "pack_id": "RGBT-JP060",
         "pack": "Raging Battle",
-        "rarity": "Supremacy Berry",
+        "pack_id": "RGBT-JP060",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 98380593,
-        "pack_id": "RGBT-EN060",
         "pack": "Raging Battle",
-        "rarity": "Supremacy Berry",
+        "pack_id": "RGBT-EN060",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/24/SupremacyBerry-RGBT-EN-SP-1E.png"

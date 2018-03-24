@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 90812044,
-        "pack_id": "PP19-JP008",
         "pack": "Premium Pack 19",
-        "rarity": "Chain Summon",
+        "pack_id": "PP19-JP008",
         "date": "2017-03-11"
     },
     "tcg": {
-        "id": 90812044,
-        "pack_id": "DUSA-DE011",
         "pack": "Duelist Saga",
-        "rarity": "Chain Summon",
+        "pack_id": "DUSA-DE011",
         "date": "2017-03-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/57/ChainSummon-DUSA-EN-UR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 39229392,
-        "pack_id": "LVAL-JP005",
         "pack": "Legacy of the Valiant",
-        "rarity": "Overlay Sentinel",
+        "pack_id": "LVAL-JP005",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 39229392,
-        "pack_id": "LVAL-DE005",
         "pack": "Legacy of the Valiant",
-        "rarity": "Overlay Sentinel",
+        "pack_id": "LVAL-DE005",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8c/OverlaySentinel-LVAL-EN-C-1E.png"

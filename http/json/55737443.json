@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55737443,
-        "pack_id": "SD7-JP001",
         "pack": "Structure Deck: Invincible Fortress",
-        "rarity": "Exxod, Master of The Guard",
+        "pack_id": "SD7-JP001",
         "date": "2005-12-08"
     },
     "tcg": {
-        "id": 55737443,
-        "pack_id": "SD7-DE001",
         "pack": "Structure Deck: Invincible Fortress",
-        "rarity": "Exxod, Master of The Guard",
+        "pack_id": "SD7-DE001",
         "date": "2006-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/63/ExxodMasterofTheGuard-WCPP-EN-R-LE.jpg"

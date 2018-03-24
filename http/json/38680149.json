@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 38680149,
-        "pack_id": "RGBT-JP046",
         "pack": "Raging Battle",
-        "rarity": "Mind Trust",
+        "pack_id": "RGBT-JP046",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 38680149,
-        "pack_id": "RGBT-EN046",
         "pack": "Raging Battle",
-        "rarity": "Mind Trust",
+        "pack_id": "RGBT-EN046",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/13/MindTrust-RGBT-EN-C-1E.png"

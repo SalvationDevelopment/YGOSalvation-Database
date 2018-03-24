@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 57962537,
-        "pack_id": "ORCS-JP023",
         "pack": "Order of Chaos",
-        "rarity": "Wind-Up Rat",
+        "pack_id": "ORCS-JP023",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 57962537,
-        "pack_id": "ORCS-EN023",
         "pack": "Order of Chaos",
-        "rarity": "Wind-Up Rat",
+        "pack_id": "ORCS-EN023",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/be/WindUpRat-ORCS-EN-SR-1E.png"

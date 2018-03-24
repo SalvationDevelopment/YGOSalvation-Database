@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 51543904,
-        "pack_id": "OG03-JP001",
         "pack": "Numbers Guide 3 promotional card",
-        "rarity": "Number 99: Utopic Dragon",
+        "pack_id": "OG03-JP001",
         "date": "2014-05-02"
     },
     "tcg": {
-        "id": 51543904,
-        "pack_id": "NECH-DE099",
         "pack": "The New Challengers",
-        "rarity": "Number 99: Utopic Dragon",
+        "pack_id": "NECH-DE099",
         "date": "2014-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/94/Number99UtopicDragon-MP15-EN-ScR-1E.png"

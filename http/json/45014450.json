@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 45014450,
-        "pack_id": "CP17-JP006",
         "pack": "Collectors Pack 2017",
-        "rarity": "Odd-Eyes Venom Dragon",
+        "pack_id": "CP17-JP006",
         "date": "2017-05-13"
     },
     "tcg": {
-        "date": "2017-07-06",
         "pack": "Battles of Legend: Light's Revenge",
-        "pack_id": "BLLR-DE006"
+        "pack_id": "BLLR-DE006",
+        "date": "2017-07-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fe/OddEyesVenomDragon-BLLR-EN-ScR-1E.png"
 }

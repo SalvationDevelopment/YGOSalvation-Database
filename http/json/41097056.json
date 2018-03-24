@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 41097056,
-        "pack_id": "SPHR-JP013",
         "pack": "Booster SP: Highspeed Riders",
-        "rarity": "Synchro Cracker",
+        "pack_id": "SPHR-JP013",
         "date": "2015-08-22"
     },
     "tcg": {
-        "id": 41097056,
-        "pack_id": "HSRD-DE013",
         "pack": "High-Speed Riders",
-        "rarity": "Synchro Cracker",
+        "pack_id": "HSRD-DE013",
         "date": "2015-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/49/SynchroCracker-HSRD-EN-C-1E.png"

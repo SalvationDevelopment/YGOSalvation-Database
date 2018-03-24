@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 3105404,
-        "pack_id": "CORE-JP068",
         "pack": "Clash of Rebellions",
-        "rarity": "Brilliant Spark",
+        "pack_id": "CORE-JP068",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 3105404,
-        "pack_id": "CORE-DE068",
         "pack": "Clash of Rebellions",
-        "rarity": "Brilliant Spark",
+        "pack_id": "CORE-DE068",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/35/BrilliantSpark-MP16-EN-C-1E.png"

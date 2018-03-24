@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 62279055,
-        "pack_id": "P4-06",
         "pack": "Premium Pack 4",
-        "rarity": "Magic Cylinder",
+        "pack_id": "P4-06",
         "date": "2001-01-18"
     },
     "tcg": {
-        "id": 62279055,
-        "pack_id": "LON-104",
         "pack": "Labyrinth of Nightmare",
-        "rarity": "Magic Cylinder",
+        "pack_id": "LON-104",
         "date": "2003-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/87/MagicCylinder-SDMY-EN-C-1E.png"

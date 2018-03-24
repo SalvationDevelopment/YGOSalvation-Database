@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 68077936,
-        "pack_id": "MVP1-JP009",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Induced Explosion",
+        "pack_id": "MVP1-JP009",
         "date": "2016-04-23"
     },
     "tcg": {
-        "id": 68077936,
-        "pack_id": "MVP1-DE009",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Induced Explosion",
+        "pack_id": "MVP1-DE009",
         "date": "2016-07-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2f/InducedExplosion-MVP1-EN-GUR-1E.png"

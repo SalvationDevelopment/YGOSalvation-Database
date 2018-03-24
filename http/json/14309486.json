@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 14309486,
-        "pack_id": "SECE-JP033",
         "pack": "Secrets of Eternity",
-        "rarity": "Koa'ki Meiru Overload",
+        "pack_id": "SECE-JP033",
         "date": "2014-11-15"
     },
     "tcg": {
-        "id": 14309486,
-        "pack_id": "SECE-DE033",
         "pack": "Secrets of Eternity",
-        "rarity": "Koa'ki Meiru Overload",
+        "pack_id": "SECE-DE033",
         "date": "2015-01-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fd/KoakiMeiruOverload-SECE-EN-R-1E.png"

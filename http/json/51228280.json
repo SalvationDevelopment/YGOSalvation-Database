@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 51228280,
-        "pack_id": "",
         "pack": "Vol.5",
-        "rarity": "レア仕様",
+        "pack_id": "",
         "date": "1999-09-23"
     },
     "tcg": {
-        "id": 51228280,
-        "pack_id": "MDP2-EN018",
         "pack": "McDonald's Promotional Cards 2",
-        "rarity": "Dungeon Worm",
+        "pack_id": "MDP2-EN018",
         "date": "2006-12-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1d/DungeonWorm-LCJW-EN-C-1E.png"

@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 23924608,
-        "pack_id": "COTD-JP076",
         "pack": "Code of the Duelist",
-        "rarity": "Heavy Dust Storm",
+        "pack_id": "COTD-JP076",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE076"
+        "pack_id": "COTD-DE076",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/89/HeavyStormDuster-COTD-EN-SR-1E.png"
 }

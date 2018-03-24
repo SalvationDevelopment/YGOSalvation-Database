@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 62337487,
-        "pack_id": "",
         "pack": "Dark Ceremony Edition",
-        "rarity": "スーパーレア仕様",
+        "pack_id": "",
         "date": "2000-03-23"
     },
     "tcg": {
-        "id": 62337487,
-        "pack_id": "TP7-DE003",
         "pack": "Tournament Pack 7",
-        "rarity": "Fortress Whale",
+        "pack_id": "TP7-DE003",
         "date": "2005-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/FortressWhale-TP7-EN-SR-UE.png"

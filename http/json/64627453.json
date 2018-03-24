@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64627453,
-        "pack_id": "JF09-JP009",
         "pack": "Jump Festa 2009 - Promotion Pack",
-        "rarity": "Ojama Blue",
+        "pack_id": "JF09-JP009",
         "date": "2008-12-20"
     },
     "tcg": {
-        "id": 64627453,
-        "pack_id": "RGBT-EN097",
         "pack": "Raging Battle",
-        "rarity": "Ojama Blue",
+        "pack_id": "RGBT-EN097",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2b/OjamaBlue-OP06-EN-C-UE.png"

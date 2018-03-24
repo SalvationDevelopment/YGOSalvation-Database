@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12670770,
-        "pack_id": "SD26-JP029",
         "pack": "Structure Deck: Lightning Strike of the Mechlight Dragon",
-        "rarity": "Cyber Network",
+        "pack_id": "SD26-JP029",
         "date": "2013-12-07"
     },
     "tcg": {
-        "id": 12670770,
-        "pack_id": "SDCR-DE029",
         "pack": "Cyber Dragon Revolution Structure Deck",
-        "rarity": "Cyber Network",
+        "pack_id": "SDCR-DE029",
         "date": "2014-02-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/01/CyberNetwork-LEDD-EN-C-1E.png"

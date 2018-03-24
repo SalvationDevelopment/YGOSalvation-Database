@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 69695704,
-        "pack_id": "EXP3-JP001",
         "pack": "Extra Pack Volume 3",
-        "rarity": "Battlestorm",
+        "pack_id": "EXP3-JP001",
         "date": "2010-09-18"
     },
     "tcg": {
-        "id": 69695704,
-        "pack_id": "RGBT-ENSP1",
         "pack": "Raging Battle Sneak Peek Participation Card",
-        "rarity": "Battlestorm",
+        "pack_id": "RGBT-ENSP1",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5c/Battlestorm-BP03-EN-R-1E.png"

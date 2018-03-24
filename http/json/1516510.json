@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1516510,
-        "pack_id": "SECE-JP045",
         "pack": "Secrets of Eternity",
-        "rarity": "Rune-Eyes Pendulum Dragon",
+        "pack_id": "SECE-JP045",
         "date": "2014-11-15"
     },
     "tcg": {
-        "id": 1516510,
-        "pack_id": "SECE-DE045",
         "pack": "Secrets of Eternity",
-        "rarity": "Rune-Eyes Pendulum Dragon",
+        "pack_id": "SECE-DE045",
         "date": "2015-01-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/RuneEyesPendulumDragon-SDMP-EN-C-1E.png"

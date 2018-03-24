@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64554883,
-        "pack_id": "GAOV-JP045",
         "pack": "Galactic Overlord",
-        "rarity": "Number 25: Force Focus",
+        "pack_id": "GAOV-JP045",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 64554883,
-        "pack_id": "GAOV-EN045",
         "pack": "Galactic Overlord",
-        "rarity": "Number 25: Force Focus",
+        "pack_id": "GAOV-EN045",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/42/Number25ForceFocus-SP14-EN-C-1E.png"

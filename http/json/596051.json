@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 596051,
-        "pack_id": "MR-50",
         "pack": "Magic Ruler",
-        "rarity": "Snake Fang",
+        "pack_id": "MR-50",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 596051,
-        "pack_id": "SRL-EN050",
         "pack": "Spell Ruler",
-        "rarity": "Snake Fang",
+        "pack_id": "SRL-EN050",
         "date": "2004-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/SnakeFang-SRL-NA-C-UE.png"

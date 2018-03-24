@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 41249545,
-        "pack_id": "SOI-JP031",
         "pack": "Shadow of Infinity",
-        "rarity": "Grass Phantom",
+        "pack_id": "SOI-JP031",
         "date": "2005-11-17"
     },
     "tcg": {
-        "id": 41249545,
-        "pack_id": "SOI-EN031",
         "pack": "Shadow of Infinity",
-        "rarity": "Grass Phantom",
+        "pack_id": "SOI-EN031",
         "date": "2006-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8e/GrassPhantom-DR04-NA-C-UE.png"

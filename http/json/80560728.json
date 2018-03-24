@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80560728,
-        "pack_id": "MVP1-JP025",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Dimension Mirage",
+        "pack_id": "MVP1-JP025",
         "date": "2016-04-23"
     },
     "tcg": {
-        "id": 80560728,
-        "pack_id": "MVP1-DE025",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Dimension Mirage",
+        "pack_id": "MVP1-DE025",
         "date": "2016-07-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fc/DimensionMirage-MVP1-EN-GUR-1E.png"

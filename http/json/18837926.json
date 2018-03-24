@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 18837926,
-        "pack_id": "COTD-JP031",
         "pack": "Code of the Duelist",
-        "rarity": "Mauled Captain",
+        "pack_id": "COTD-JP031",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE031"
+        "pack_id": "COTD-DE031",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/MotivatingCaptain-COTD-EN-R-1E.png"
 }

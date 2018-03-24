@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 86559484,
-        "pack_id": "EP15-JP053",
         "pack": "Extra Pack 2015",
-        "rarity": "Xyz-Raypierce",
+        "pack_id": "EP15-JP053",
         "date": "2015-09-19"
     },
     "tcg": {
-        "id": 86559484,
-        "pack_id": "WSUP-DE046",
         "pack": "World Superstars",
-        "rarity": "Xyz-Raypierce",
+        "pack_id": "WSUP-DE046",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/31/XyzRaypierce-WSUP-EN-SR-1E.png"

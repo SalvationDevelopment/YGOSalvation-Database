@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 9327502,
-        "pack_id": "PP11-JP001",
         "pack": "Premium Pack 11",
-        "rarity": "Elemental HERO Voltic",
+        "pack_id": "PP11-JP001",
         "date": "2007-12-22"
     },
     "tcg": {
-        "id": 9327502,
-        "pack_id": "PP02-DE014",
         "pack": "Premium Pack 2",
-        "rarity": "Elemental HERO Voltic",
+        "pack_id": "PP02-DE014",
         "date": "2008-07-31"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2f/ElementalHEROVoltic-SDHS-EN-C-1E.png"

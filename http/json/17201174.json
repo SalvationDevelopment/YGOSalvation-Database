@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 17201174,
-        "pack_id": "GAOV-JP008",
         "pack": "Galactic Overlord",
-        "rarity": "Hammer Shark",
+        "pack_id": "GAOV-JP008",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 17201174,
-        "pack_id": "GAOV-EN008",
         "pack": "Galactic Overlord",
-        "rarity": "Hammer Shark",
+        "pack_id": "GAOV-EN008",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9d/HammerShark-SP14-EN-C-1E.png"

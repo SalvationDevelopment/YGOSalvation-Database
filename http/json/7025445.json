@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 7025445,
-        "pack_id": "STBL-JP007",
         "pack": "Starstrike Blast",
-        "rarity": "Power Giant",
+        "pack_id": "STBL-JP007",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 7025445,
-        "pack_id": "STBL-EN007",
         "pack": "Starstrike Blast",
-        "rarity": "Power Giant",
+        "pack_id": "STBL-EN007",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/ba/PowerGiant-BP02-EN-C-1E.png"

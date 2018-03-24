@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1372887,
-        "pack_id": "LVAL-JP070",
         "pack": "Legacy of the Valiant",
-        "rarity": "Shared Ride",
+        "pack_id": "LVAL-JP070",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 1372887,
-        "pack_id": "LVAL-DE070",
         "pack": "Legacy of the Valiant",
-        "rarity": "Shared Ride",
+        "pack_id": "LVAL-DE070",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/01/SharedRide-PGL3-EN-GUR-1E.png"

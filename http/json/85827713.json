@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 85827713,
-        "pack_id": "PRIO-JP074",
         "pack": "Primal Origin",
-        "rarity": "Ghostrick Night",
+        "pack_id": "PRIO-JP074",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 85827713,
-        "pack_id": "PRIO-DE074",
         "pack": "Primal Origin",
-        "rarity": "Ghostrick Night",
+        "pack_id": "PRIO-DE074",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/00/GhostrickNight-PRIO-EN-C-1E.png"

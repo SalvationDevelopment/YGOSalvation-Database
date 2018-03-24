@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 15169262,
-        "pack_id": "DT09-JP026",
-        "pack": "デュエルターミナル 「ヴァイロン降臨！！」",
-        "rarity": "共通",
-        "date": 1272344400000
-    },
+    "ocg": {},
     "tcg": {
-        "id": 15169262,
-        "pack_id": "DT05-EN026",
         "pack": "Duel Terminal 5a",
-        "rarity": "Laval Forest Sprite",
+        "pack_id": "DT05-EN026",
         "date": "2011-05-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/LavalForestSprite-HA05-EN-SR-UE.jpg"

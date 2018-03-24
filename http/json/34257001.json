@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 34257001,
-        "pack_id": "DREV-JP003",
         "pack": "Duelist Revolution",
-        "rarity": "Dash Warrior",
+        "pack_id": "DREV-JP003",
         "date": "2010-04-17"
     },
     "tcg": {
-        "id": 34257001,
-        "pack_id": "DREV-EN003",
         "pack": "Duelist Revolution",
-        "rarity": "Dash Warrior",
+        "pack_id": "DREV-EN003",
         "date": "2010-08-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/17/DashWarrior-DP10-EN-C-1E.png"

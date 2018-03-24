@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 43813459,
-        "pack_id": "PP14-JP010",
         "pack": "Premium Pack 14",
-        "rarity": "Photon Current",
+        "pack_id": "PP14-JP010",
         "date": "2012-03-17"
     },
     "tcg": {
-        "id": 43813459,
-        "pack_id": "PRC1-DE023",
         "pack": "Premium Collection",
-        "rarity": "Photon Current",
+        "pack_id": "PRC1-DE023",
         "date": "2012-03-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/PhotonCurrent-PRC1-EN-SR-1E.png"

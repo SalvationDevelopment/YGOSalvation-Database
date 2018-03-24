@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 79649195,
-        "pack_id": "EE2-JP167",
         "pack": "Expert Edition Volume.2",
-        "rarity": "共通",
+        "pack_id": "EE2-JP167",
         "date": "2005-03-17"
     },
     "tcg": {
-        "id": 79649195,
-        "pack_id": "AST-DE055",
         "pack": "Ancient Sanctuary",
-        "rarity": "Common",
+        "pack_id": "AST-DE055",
         "date": "2004-05-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/68/ArmorBreak-DR2-EN-C-UE.png"

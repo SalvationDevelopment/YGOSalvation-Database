@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 59281922,
-        "pack_id": "SD26-JP002",
         "pack": "Structure Deck: Blitzkrieg of the Mechlight Dragons",
-        "rarity": "Cyber Dragon Drei",
+        "pack_id": "SD26-JP002",
         "date": "2013-12-07"
     },
     "tcg": {
-        "id": 59281922,
-        "pack_id": "SDCR-DE002",
         "pack": "Cyber Dragon Revolution Structure Deck",
-        "rarity": "Cyber Dragon Drei",
+        "pack_id": "SDCR-DE002",
         "date": "2014-02-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dd/CyberDragonDrei-LEDD-EN-C-1E.png"

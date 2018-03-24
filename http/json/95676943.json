@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 95676943,
-        "pack_id": "EP16-JP048",
         "pack": "Extra Pack 2016",
-        "rarity": "Extinction on Schedule",
+        "pack_id": "EP16-JP048",
         "date": "2016-09-10"
     },
     "tcg": {
-        "id": 95676943,
-        "pack_id": "CORE-DE081",
         "pack": "Clash of Rebellions",
-        "rarity": "Extinction on Schedule",
+        "pack_id": "CORE-DE081",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/97/ExtinctiononSchedule-SR04-EN-C-1E.png"

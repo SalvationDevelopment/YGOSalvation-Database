@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 3146695,
-        "pack_id": "EXVC-JP071",
         "pack": "Extreme Victory",
-        "rarity": "Psychic Reactor",
+        "pack_id": "EXVC-JP071",
         "date": "2011-02-11"
     },
     "tcg": {
-        "id": 3146695,
-        "pack_id": "EXVC-EN071",
         "pack": "Extreme Victory",
-        "rarity": "Psychic Reactor",
+        "pack_id": "EXVC-EN071",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/57/PsychicReactor-BP03-EN-C-1E.png"

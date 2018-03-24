@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 76384284,
-        "pack_id": "CRMS-JP078",
         "pack": "Crimson Crisis",
-        "rarity": "",
+        "pack_id": "CRMS-JP078",
         "date": "2008-11-15"
     },
     "tcg": {
-        "id": 76384284,
-        "pack_id": "CRMS-EN078",
         "pack": "Crimson Crisis",
-        "rarity": "Trojan Gladiator Beast",
+        "pack_id": "CRMS-EN078",
         "date": "2009-02-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b2/TrojanGladiatorBeast-CRMS-EN-C-1E.png"

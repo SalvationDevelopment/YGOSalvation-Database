@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 42940404,
-        "pack_id": "SD18-JP002",
         "pack": "Structure Deck: Machiners Command",
-        "rarity": "Machina Gearframe",
+        "pack_id": "SD18-JP002",
         "date": "2009-12-12"
     },
     "tcg": {
-        "id": 42940404,
-        "pack_id": "SDMM-DE002",
         "pack": "Machina Mayhem Structure Deck",
-        "rarity": "Machina Gearframe",
+        "pack_id": "SDMM-DE002",
         "date": "2010-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e7/MachinaGearframe-SDMM-EN-SR-UE.png"

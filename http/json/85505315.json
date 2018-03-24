@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 85505315,
-        "pack_id": "DT10-JP030",
-        "pack": "DT10",
-        "rarity": "Steelswarm Mantis",
-        "date": "2013-02-26"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 85505315,
-        "pack_id": "DT05-EN080",
         "pack": "Duel Terminal 5b",
-        "rarity": "Steelswarm Mantis",
+        "pack_id": "DT05-EN080",
         "date": "2011-09-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/da/SteelswarmMantis-HA05-EN-ScR-UE.png"

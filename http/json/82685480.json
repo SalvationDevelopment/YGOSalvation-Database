@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 82685480,
-        "pack_id": "DP18-JP017",
         "pack": "Duelist Pack: Legend Duelist",
-        "rarity": "Rage of Kairyu-Shin",
+        "pack_id": "DP18-JP017",
         "date": "2017-06-03"
     },
     "tcg": {
-        "date": "2017-09-07",
         "pack": "Legendary Duelists",
-        "pack_id": "LEDU-DE017"
+        "pack_id": "LEDU-DE017",
+        "date": "2017-09-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e1/RageofKairyuShin-LEDU-EN-R-1E.png"
 }

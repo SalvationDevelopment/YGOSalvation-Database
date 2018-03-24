@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63259351,
-        "pack_id": "POTD-JP021",
         "pack": "Power of the Duelist",
-        "rarity": "Miracle Jurassic Egg",
+        "pack_id": "POTD-JP021",
         "date": "2006-05-18"
     },
     "tcg": {
-        "id": 63259351,
-        "pack_id": "POTD-DE021",
         "pack": "Power of the Duelist",
-        "rarity": "Miracle Jurassic Egg",
+        "pack_id": "POTD-DE021",
         "date": "2006-08-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f1/MiracleJurassicEgg-SR04-EN-C-1E.png"

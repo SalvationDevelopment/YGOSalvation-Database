@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 11159464,
-        "pack_id": "DT02-JP032",
         "pack": "Duel Terminal - Invasion of Worms!!!!",
-        "rarity": "Worm Hope",
+        "pack_id": "DT02-JP032",
         "date": "2008-06-24"
     },
     "tcg": {
-        "id": 11159464,
-        "pack_id": "DT01-EN082",
         "pack": "Duel Terminal 1",
-        "rarity": "Worm Hope",
+        "pack_id": "DT01-EN082",
         "date": "2010-01-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/83/WormHope-GLD3-EN-C-LE.png"

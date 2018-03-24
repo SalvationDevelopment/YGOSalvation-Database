@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Vendread Charge",
-    "desc": "Send 1 Zombie monster from your hand or face-up from your field to the GY; Special Summon 1 \"Vendread\" monster from your Deck. You can only activate 1 \"Vendread Charge\" per turn.",
+    "desc": "Send 1 Zombie monster from your hand or face-up from the field to the GY; Special Summon 1 \"Vendread\" monster from your Deck. You can only activate 1 \"Vendread Charge\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE084",
+        "date": "2018-02-01"
+    },
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/56/VendreadCharge-EXFO-EN-R-1E.png"
 }

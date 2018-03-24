@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 9925982,
-        "pack_id": "CPL1-JP031",
         "pack": "Collectors Pack: Duelist of Legend Version",
-        "rarity": "Black Wing Revenge",
+        "pack_id": "CPL1-JP031",
         "date": "2014-05-17"
     },
     "tcg": {
-        "id": 9925982,
-        "pack_id": "DRLG-DE031",
         "pack": "Dragons of Legend",
-        "rarity": "Black Wing Revenge",
+        "pack_id": "DRLG-DE031",
         "date": "2014-04-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/BlackWingRevenge-DRLG-EN-SR-1E.png"

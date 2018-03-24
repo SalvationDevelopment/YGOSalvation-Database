@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 96501677,
-        "pack_id": "FET-JP013",
         "pack": "Flaming Eternity",
-        "rarity": "Catnipped Kitty",
+        "pack_id": "FET-JP013",
         "date": "2004-11-25"
     },
     "tcg": {
-        "id": 96501677,
-        "pack_id": "FET-EN013",
         "pack": "Flaming Eternity",
-        "rarity": "Catnipped Kitty",
+        "pack_id": "FET-EN013",
         "date": "2005-02-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ac/CatnippedKitty-DR3-EN-C-UE.png"

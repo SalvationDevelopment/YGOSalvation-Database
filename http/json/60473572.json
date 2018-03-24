@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 60473572,
-        "pack_id": "TDIL-JP021",
         "pack": "The Dark Illusion",
-        "rarity": "Metalfoes Steelen",
+        "pack_id": "TDIL-JP021",
         "date": "2016-04-09"
     },
     "tcg": {
-        "id": 60473572,
-        "pack_id": "TDIL-DE021",
         "pack": "The Dark Illusion",
-        "rarity": "Metalfoes Steelen",
+        "pack_id": "TDIL-DE021",
         "date": "2016-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/80/MetalfoesSteelen-MP17-EN-C-1E.png"

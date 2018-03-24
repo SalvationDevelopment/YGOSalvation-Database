@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 2542230,
-        "pack_id": "SPHR-JP026",
         "pack": "Booster SP: Highspeed Riders",
-        "rarity": "Red Cocoon",
+        "pack_id": "SPHR-JP026",
         "date": "2015-08-22"
     },
     "tcg": {
-        "id": 2542230,
-        "pack_id": "HSRD-DE026",
         "pack": "High-Speed Riders",
-        "rarity": "Red Cocoon",
+        "pack_id": "HSRD-DE026",
         "date": "2015-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6c/RedCocoon-HSRD-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 97439806,
-        "pack_id": "DT04-JP014",
         "pack": "Duel Terminal - Demon Roar God Revival!!",
-        "rarity": "Fabled Kushano",
+        "pack_id": "DT04-JP014",
         "date": "2008-12-04"
     },
     "tcg": {
-        "id": 97439806,
-        "pack_id": "DT02-EN064",
         "pack": "Duel Terminal 2",
-        "rarity": "Fabled Kushano",
+        "pack_id": "DT02-EN064",
         "date": "2010-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b9/FabledKushano-HA02-EN-SR-1E.jpg"

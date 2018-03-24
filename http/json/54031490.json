@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 54031490,
-        "pack_id": "STOR-JP048",
         "pack": "Storm of Ragnarok",
-        "rarity": "Shien's Smoke Signal",
+        "pack_id": "STOR-JP048",
         "date": "2010-11-13"
     },
     "tcg": {
-        "id": 54031490,
-        "pack_id": "STOR-EN048",
         "pack": "Storm of Ragnarok",
-        "rarity": "Shien's Smoke Signal",
+        "pack_id": "STOR-EN048",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ef/ShiensSmokeSignal-SPWA-EN-SR-1E.png"

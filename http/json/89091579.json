@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 89091579,
-        "pack_id": "",
         "pack": "Starter Box: Theatrical Release",
-        "rarity": "Basic Insect",
+        "pack_id": "",
         "date": "1999-03-06"
     },
     "tcg": {
-        "id": 89091579,
-        "pack_id": "LOB-008",
         "pack": "Legend of Blue Eyes White Dragon",
-        "rarity": "Basic Insect",
+        "pack_id": "LOB-008",
         "date": "2002-03-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8f/BasicInsect-LOB-EN-C-UE.jpg"

@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 4,
-    "name": "Designator From the Grave",
-    "desc": "Target 1 monster in your opponent's GY; banish it, and if you do, monsters with the same name as that banished monster have their effects negated until the end of the next turn.",
+    "name": "Called by the Grave",
+    "desc": "Target 1 monster in your opponent's GY; banish it, and if you do, monsters with the same original name as that banished monster have their effects negated until the end of the next turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP065",
+        "date": "2018-01-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ea/CalledbytheGrave-FLOD-JP-C.png"
 }

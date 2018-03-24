@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45531624,
-        "pack_id": "MVPL-JP002",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Duel Set",
-        "rarity": "Celtic Guard of Noble Arms",
+        "pack_id": "MVPL-JP002",
         "date": "2016-04-21"
     },
     "tcg": {
-        "id": 45531624,
-        "pack_id": "MVP1-DE048",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Celtic Guard of Noble Arms",
+        "pack_id": "MVP1-DE048",
         "date": "2016-07-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/CelticGuardofNobleArms-MVP1-EN-GUR-1E.png"

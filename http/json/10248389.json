@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 10248389,
-        "pack_id": "EEN-JP032",
         "pack": "Elemental Energy",
-        "rarity": "Cyber Blader",
+        "pack_id": "EEN-JP032",
         "date": "2005-08-11"
     },
     "tcg": {
-        "id": 10248389,
-        "pack_id": "EEN-DE032",
         "pack": "Elemental Energy",
-        "rarity": "Cyber Blader",
+        "pack_id": "EEN-DE032",
         "date": "2005-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/46/CyberBlader-DR04-NA-R-UE.png"

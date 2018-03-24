@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 62873545,
-        "pack_id": "GB7-003",
         "pack": "GameBoy Duel Monsters Promos: Series 7",
-        "rarity": "Dragon Master Knight",
+        "pack_id": "GB7-003",
         "date": "2002-07-04"
     },
     "tcg": {
-        "id": 62873545,
-        "pack_id": "UE02-EN001",
         "pack": "Ultimate Edition 2",
-        "rarity": "Dragon Master Knight",
+        "pack_id": "UE02-EN001",
         "date": "2006-11-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/10/DragonMasterKnight-LCKC-EN-ScR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53054833,
-        "pack_id": "SPHR-JP003",
         "pack": "Booster SP: Highspeed Riders",
-        "rarity": "Speedroid Double Yoyo",
+        "pack_id": "SPHR-JP003",
         "date": "2015-08-22"
     },
     "tcg": {
-        "id": 53054833,
-        "pack_id": "HSRD-DE003",
         "pack": "High-Speed Riders",
-        "rarity": "Speedroid Double Yoyo",
+        "pack_id": "HSRD-DE003",
         "date": "2015-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1a/SpeedroidDoubleYoyo-SP17-EN-C-1E.png"

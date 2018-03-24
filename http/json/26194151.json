@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 26194151,
-        "pack_id": "PP19-JP012",
         "pack": "Premium Pack 19",
-        "rarity": "Necroid Synchro",
+        "pack_id": "PP19-JP012",
         "date": "2017-03-11"
     },
     "tcg": {
-        "id": 26194151,
-        "pack_id": "DUSA-DE015",
         "pack": "Duelist Saga",
-        "rarity": "Necroid Synchro",
+        "pack_id": "DUSA-DE015",
         "date": "2017-03-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/NecroidSynchro-DUSA-EN-UR-1E.png"

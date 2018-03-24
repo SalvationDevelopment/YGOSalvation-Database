@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 83725008,
-        "pack_id": "TDGS-JP025",
         "pack": "The Duelist Genesis",
-        "rarity": "Jenis, Lightsworn Mender",
+        "pack_id": "TDGS-JP025",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 83725008,
-        "pack_id": "TDGS-EN025",
         "pack": "The Duelist Genesis",
-        "rarity": "Jenis, Lightsworn Mender",
+        "pack_id": "TDGS-EN025",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b3/JenisLightswornMender-AP05-EN-SR-UE.png"

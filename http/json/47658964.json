@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 47658964,
-        "pack_id": "DT09-JP044",
-        "pack": "DT09",
-        "rarity": "Searing Fire Wall",
-        "date": "2012-11-06"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 47658964,
-        "pack_id": "DT05-EN044",
         "pack": "Duel Terminal 5a",
-        "rarity": "Searing Fire Wall",
+        "pack_id": "DT05-EN044",
         "date": "2011-05-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c1/SearingFireWall-HA05-EN-SR-UE.png"

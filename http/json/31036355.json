@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 31036355,
-        "pack_id": "MA-33",
         "pack": "Mythological Age",
-        "rarity": "Creature Swap",
+        "pack_id": "MA-33",
         "date": "2001-11-29"
     },
     "tcg": {
-        "id": 31036355,
-        "pack_id": "LOD-081",
         "pack": "Legacy of Darkness",
-        "rarity": "Creature Swap",
+        "pack_id": "LOD-081",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/00/CreatureSwap-SDGR-EN-C-1E.png"

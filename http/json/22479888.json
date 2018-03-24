@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 22479888,
-        "pack_id": "DP1-JP030",
         "pack": "Duelist Pack: Jaden Yuki",
-        "rarity": "Clay Charge",
+        "pack_id": "DP1-JP030",
         "date": "2005-10-20"
     },
     "tcg": {
-        "id": 22479888,
-        "pack_id": "DP1-EN030",
         "pack": "Duelist Pack: Jaden Yuki",
-        "rarity": "Clay Charge",
+        "pack_id": "DP1-EN030",
         "date": "2006-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2f/ClayCharge-LCGX-EN-C-1E.png"

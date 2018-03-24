@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 48531733,
-        "pack_id": "",
         "pack": "Booster 2",
-        "rarity": "Bolt Penguin",
+        "pack_id": "",
         "date": "1999-05-25"
     },
     "tcg": {
-        "id": 48531733,
-        "pack_id": "PRIO-DE090",
         "pack": "Primal Origin",
-        "rarity": "Bolt Penguin",
+        "pack_id": "PRIO-DE090",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a8/BoltPenguin-PRIO-EN-C-1E.png"

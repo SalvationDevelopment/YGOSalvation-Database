@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 38568567,
-        "pack_id": "RGBT-JP049",
         "pack": "Raging Battle",
-        "rarity": "Wonder Clover",
+        "pack_id": "RGBT-JP049",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 38568567,
-        "pack_id": "RGBT-EN049",
         "pack": "Raging Battle",
-        "rarity": "Wonder Clover",
+        "pack_id": "RGBT-EN049",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c3/WonderClover-RGBT-EN-C-1E.png"

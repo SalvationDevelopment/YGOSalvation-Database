@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 27618634,
-        "pack_id": "308-010",
         "pack": "The Sanctuary in the Sky",
-        "rarity": "共通",
+        "pack_id": "308-010",
         "date": "2003-11-20"
     },
     "tcg": {
-        "id": 27618634,
-        "pack_id": "AST-DE010",
         "pack": "Ancient Sanctuary",
-        "rarity": "Common",
+        "pack_id": "AST-DE010",
         "date": "2004-05-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/97/TheUnhappyGirl-DR2-EN-C-UE.png"

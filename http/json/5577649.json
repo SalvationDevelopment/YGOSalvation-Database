@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 5577649,
-        "pack_id": "STBL-JP073",
         "pack": "Starstrike Blast",
-        "rarity": "Scrap Crash",
+        "pack_id": "STBL-JP073",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 5577649,
-        "pack_id": "STBL-EN073",
         "pack": "Starstrike Blast",
-        "rarity": "Scrap Crash",
+        "pack_id": "STBL-EN073",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/19/ScrapCrash-STBL-EN-C-1E.png"

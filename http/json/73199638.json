@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 73199638,
-        "pack_id": "SD23-JP022",
         "pack": "Structure Deck: Roar of the Sea Emperor",
-        "rarity": "Call of the Atlanteans",
+        "pack_id": "SD23-JP022",
         "date": "2012-06-16"
     },
     "tcg": {
-        "id": 73199638,
-        "pack_id": "SDRE-DE023",
         "pack": "Realm of the Sea Emperor Structure Deck",
-        "rarity": "Call of the Atlanteans",
+        "pack_id": "SDRE-DE023",
         "date": "2012-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cf/CalloftheAtlanteans-BP03-EN-C-1E.png"

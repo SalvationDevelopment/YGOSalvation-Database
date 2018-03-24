@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 88071625,
-        "pack_id": "LE17-JP001",
         "pack": "Limited Edition 17",
-        "rarity": "The Tyrant Neptune",
+        "pack_id": "LE17-JP001",
         "date": "2009-10-21"
     },
     "tcg": {
-        "id": 88071625,
-        "pack_id": "CT08-DE018",
         "pack": "Collectible Tins 2011 Wave 2",
-        "rarity": "The Tyrant Neptune",
+        "pack_id": "CT08-DE018",
         "date": "2011-10-27"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a2/TheTyrantNeptune-CT08-EN-SR-LE.png"

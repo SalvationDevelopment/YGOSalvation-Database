@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12235475,
-        "pack_id": "DT06-JP015",
         "pack": "Duel Terminal - Dragunity of the Hurricane!!",
-        "rarity": "Fabled Ashenveil",
+        "pack_id": "DT06-JP015",
         "date": "2009-07-01"
     },
     "tcg": {
-        "id": 12235475,
-        "pack_id": "DT03-EN065",
         "pack": "Duel Terminal 3",
-        "rarity": "Fabled Ashenveil",
+        "pack_id": "DT03-EN065",
         "date": "2010-09-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/79/FabledAshenveil-BP03-EN-C-1E.png"

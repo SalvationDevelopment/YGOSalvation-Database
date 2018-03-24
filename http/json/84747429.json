@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 84747429,
-        "pack_id": "GENF-JP021",
         "pack": "Generation Force",
-        "rarity": "Airorca",
+        "pack_id": "GENF-JP021",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 84747429,
-        "pack_id": "GENF-EN021",
         "pack": "Generation Force",
-        "rarity": "Airorca",
+        "pack_id": "GENF-EN021",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/02/Airorca-BP03-EN-C-1E.png"

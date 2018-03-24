@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 61705417,
-        "pack_id": "CA-08",
         "pack": "Curse of Anubis",
-        "rarity": "Graverobber",
+        "pack_id": "CA-08",
         "date": "2000-09-28"
     },
     "tcg": {
-        "id": 61705417,
-        "pack_id": "PSV-008",
         "pack": "Pharaoh's Servant",
-        "rarity": "Graverobber",
+        "pack_id": "PSV-008",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b5/Graverobber-DB1-EN-C-UE.jpg"

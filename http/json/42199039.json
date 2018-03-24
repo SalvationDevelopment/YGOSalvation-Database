@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 42199039,
-        "pack_id": "NECH-JP068",
         "pack": "The New Challengers",
-        "rarity": "Cursed Bamboo Sword",
+        "pack_id": "NECH-JP068",
         "date": "2014-07-19"
     },
     "tcg": {
-        "id": 42199039,
-        "pack_id": "NECH-DE068",
         "pack": "The New Challengers",
-        "rarity": "Cursed Bamboo Sword",
+        "pack_id": "NECH-DE068",
         "date": "2014-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/24/CursedBambooSword-NECH-EN-SP-1E.png"

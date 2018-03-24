@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 39978267,
-        "pack_id": "304-011",
         "pack": "Power of the Guardian",
-        "rarity": "Cyber Raider",
+        "pack_id": "304-011",
         "date": "2002-11-21"
     },
     "tcg": {
-        "id": 39978267,
-        "pack_id": "DCR-011",
         "pack": "Dark Crisis",
-        "rarity": "Cyber Raider",
+        "pack_id": "DCR-011",
         "date": "2003-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e7/CyberRaider-BPW2-NA-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 11987744,
-        "pack_id": "304-002",
         "pack": "Power of the Guardian",
-        "rarity": "Nin-Ken Dog",
+        "pack_id": "304-002",
         "date": "2002-11-21"
     },
     "tcg": {
-        "id": 11987744,
-        "pack_id": "DCR-002",
         "pack": "Dark Crisis",
-        "rarity": "Nin-Ken Dog",
+        "pack_id": "DCR-002",
         "date": "2003-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/db/NinKenDog-DCR-NA-C-1E.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 95993388,
-        "pack_id": "CROS-JP083",
         "pack": "Crossed Souls",
-        "rarity": "Landrobe the Rock Vassal",
+        "pack_id": "CROS-JP083",
         "date": "2015-02-14"
     },
     "tcg": {
-        "id": 95993388,
-        "pack_id": "SR01-DE012",
         "pack": "Emperor of Darkness Structure Deck",
-        "rarity": "Landrobe the Rock Vassal",
+        "pack_id": "SR01-DE012",
         "date": "2016-01-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b6/LandrobetheRockVassal-SR01-EN-C-1E.png"

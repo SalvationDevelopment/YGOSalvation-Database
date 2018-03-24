@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 93483212,
-        "pack_id": "STOR-JP040",
         "pack": "Storm of Ragnarok",
-        "rarity": "Odin, Father of the Aesir",
+        "pack_id": "STOR-JP040",
         "date": "2010-11-13"
     },
     "tcg": {
-        "id": 93483212,
-        "pack_id": "STOR-EN040",
         "pack": "Storm of Ragnarok",
-        "rarity": "Odin, Father of the Aesir",
+        "pack_id": "STOR-EN040",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f3/OdinFatheroftheAesir-LC5D-EN-ScR-1E.png"

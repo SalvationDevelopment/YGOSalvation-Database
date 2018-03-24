@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 9897998,
-        "pack_id": "GENF-JP028",
         "pack": "Generation Force",
-        "rarity": "Gusto Codor",
+        "pack_id": "GENF-JP028",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 9897998,
-        "pack_id": "GENF-EN028",
         "pack": "Generation Force",
-        "rarity": "Gusto Codor",
+        "pack_id": "GENF-EN028",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/48/GustoCodor-GENF-EN-C-1E.jpg"

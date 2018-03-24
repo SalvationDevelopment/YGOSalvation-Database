@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 96561011,
-        "pack_id": "SD1-JP001",
         "pack": "Structure Deck: Dragon's Roar",
-        "rarity": "Red-Eyes Darkness Dragon",
+        "pack_id": "SD1-JP001",
         "date": "2004-12-09"
     },
     "tcg": {
-        "id": 96561011,
-        "pack_id": "SD1-DE001",
         "pack": "Structure Deck: Dragon's Roar",
-        "rarity": "Red-Eyes Darkness Dragon",
+        "pack_id": "SD1-DE001",
         "date": "2005-01-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/90/RedEyesDarknessDragon-LCJW-EN-C-1E.png"

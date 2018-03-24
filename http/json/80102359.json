@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80102359,
-        "pack_id": "RGBT-JP029",
         "pack": "Raging Battle",
-        "rarity": "Reinforced Human Psychic Borg",
+        "pack_id": "RGBT-JP029",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 80102359,
-        "pack_id": "RGBT-EN029",
         "pack": "Raging Battle",
-        "rarity": "Reinforced Human Psychic Borg",
+        "pack_id": "RGBT-EN029",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/72/ReinforcedHumanPsychicBorg-RGBT-EN-SR-1E.png"

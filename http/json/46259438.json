@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 46259438,
-        "pack_id": "SPRG-JP011",
         "pack": "Booster SP: Raging Masters",
-        "rarity": "Contract Laundering",
+        "pack_id": "SPRG-JP011",
         "date": "2014-08-09"
     },
     "tcg": {
-        "id": 46259438,
-        "pack_id": "DOCS-DE096",
         "pack": "Dimension of Chaos",
-        "rarity": "Contract Laundering",
+        "pack_id": "DOCS-DE096",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/51/ContractLaundering-SDPD-EN-C-1E.png"

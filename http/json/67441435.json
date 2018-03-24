@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67441435,
-        "pack_id": "STBL-JP018",
         "pack": "Starstrike Blast",
-        "rarity": "Glow-Up Bulb",
+        "pack_id": "STBL-JP018",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 67441435,
-        "pack_id": "STBL-EN018",
         "pack": "Starstrike Blast",
-        "rarity": "Glow-Up Bulb",
+        "pack_id": "STBL-EN018",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6b/GlowUpBulb-SDCL-EN-C-1E.png"

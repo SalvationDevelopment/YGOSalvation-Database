@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 35537251,
-        "pack_id": "PRIO-JP088",
         "pack": "Primal Origin",
-        "rarity": "Battlin' Boxer Shadow",
+        "pack_id": "PRIO-JP088",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 35537251,
-        "pack_id": "WSUP-DE013",
         "pack": "World Superstars",
-        "rarity": "Battlin' Boxer Shadow",
+        "pack_id": "WSUP-DE013",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/BattlinBoxerShadow-WSUP-EN-SR-1E.png"

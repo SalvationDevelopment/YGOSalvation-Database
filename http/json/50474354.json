@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 50474354,
-        "pack_id": "LVAL-JP027",
         "pack": "Legacy of the Valiant",
-        "rarity": "Bujingi Peacock",
+        "pack_id": "LVAL-JP027",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 50474354,
-        "pack_id": "LVAL-DE027",
         "pack": "Legacy of the Valiant",
-        "rarity": "Bujingi Peacock",
+        "pack_id": "LVAL-DE027",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/01/BujingiPeacock-MP14-EN-R-1E.png"

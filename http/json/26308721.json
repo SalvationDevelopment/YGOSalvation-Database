@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 26308721,
-        "pack_id": "SPFE-JP003",
         "pack": "Booster SP: Fusion Enforcers",
-        "rarity": "Predaplant Pterapenthes",
+        "pack_id": "SPFE-JP003",
         "date": "2016-11-12"
     },
     "tcg": {
-        "id": 26308721,
-        "pack_id": "FUEN-DE003",
         "pack": "Fusion Enforcers",
-        "rarity": "Predaplant Pterapenthes",
+        "pack_id": "FUEN-DE003",
         "date": "2017-02-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8b/PredaplantPterapenthes-FUEN-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67808837,
-        "pack_id": "ST16-JP002",
         "pack": "Starter Deck 2016",
-        "rarity": "Performapal King Bear",
+        "pack_id": "ST16-JP002",
         "date": "2016-03-19"
     },
     "tcg": {
-        "id": 67808837,
-        "pack_id": "YS16-DE002",
         "pack": "Starter Deck - Yuya",
-        "rarity": "Performapal King Bear",
+        "pack_id": "YS16-DE002",
         "date": "2016-05-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/03/PerformapalKingBear-YS16-EN-UR-1E.png"

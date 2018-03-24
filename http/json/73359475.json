@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 73359475,
-        "pack_id": "EP14-JP026",
         "pack": "Extra Pack: Knights of Order",
-        "rarity": "Noble Knight Peredur",
+        "pack_id": "EP14-JP026",
         "date": "2014-09-13"
     },
     "tcg": {
-        "id": 73359475,
-        "pack_id": "LVAL-DE085",
         "pack": "Legacy of the Valiant",
-        "rarity": "Noble Knight Peredur",
+        "pack_id": "LVAL-DE085",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b9/NobleKnightPeredur-NKRT-EN-PlR-LE.png"

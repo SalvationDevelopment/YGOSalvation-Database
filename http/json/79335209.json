@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 79335209,
-        "pack_id": "306-002",
         "pack": "Controller of Chaos",
-        "rarity": "Ojama Black",
+        "pack_id": "306-002",
         "date": "2003-04-24"
     },
     "tcg": {
-        "id": 79335209,
-        "pack_id": "IOC-002",
         "pack": "Invasion of Chaos",
-        "rarity": "Ojama Black",
+        "pack_id": "IOC-002",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/64/OjamaBlack-DP2-EN-C-1E.jpg"

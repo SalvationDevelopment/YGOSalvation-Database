@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 34688023,
-        "pack_id": "CROS-JP012",
         "pack": "Crossed Souls",
-        "rarity": "Edge Imp Saw",
+        "pack_id": "CROS-JP012",
         "date": "2015-02-14"
     },
     "tcg": {
-        "id": 34688023,
-        "pack_id": "CROS-DE012",
         "pack": "Crossed Souls",
-        "rarity": "Edge Imp Saw",
+        "pack_id": "CROS-DE012",
         "date": "2015-05-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ae/EdgeImpSaw-SP17-EN-C-1E.png"

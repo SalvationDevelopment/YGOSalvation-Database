@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 10000010,
-        "pack_id": "VJMP-JP046",
         "pack": "V Jump February 2010 promotional card",
-        "rarity": "The Winged Dragon of Ra",
+        "pack_id": "VJMP-JP046",
         "date": "2009-12-19"
     },
     "tcg": {
-        "id": 10000010,
-        "pack_id": "JUMP-EN045",
         "pack": "Shonen Jump Vol. 9, Issue 1",
-        "rarity": "The Winged Dragon of Ra",
+        "pack_id": "JUMP-EN045",
         "date": "2011-01-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/TheWingedDragonofRa-LDK2-EN-UR-LE.png"

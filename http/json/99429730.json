@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99429730,
-        "pack_id": "LVAL-JP019",
         "pack": "Legacy of the Valiant",
-        "rarity": "Sylvan Guardioak",
+        "pack_id": "LVAL-JP019",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 99429730,
-        "pack_id": "LVAL-DE019",
         "pack": "Legacy of the Valiant",
-        "rarity": "Sylvan Guardioak",
+        "pack_id": "LVAL-DE019",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/36/SylvanGuardioak-MP14-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 8522996,
-        "pack_id": "EP14-JP030",
         "pack": "Extra Pack: Knights of Order",
-        "rarity": "The First Monarch",
+        "pack_id": "EP14-JP030",
         "date": "2014-09-13"
     },
     "tcg": {
-        "id": 8522996,
-        "pack_id": "LVAL-DE089",
         "pack": "Legacy of the Valiant",
-        "rarity": "The First Monarch",
+        "pack_id": "LVAL-DE089",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a3/TheFirstMonarch-SR01-EN-C-1E.png"

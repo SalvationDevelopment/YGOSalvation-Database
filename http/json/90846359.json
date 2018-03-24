@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 90846359,
-        "pack_id": "302-048",
         "pack": "Advent of Union",
-        "rarity": "Rivalry of Warlords",
+        "pack_id": "302-048",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 90846359,
-        "pack_id": "MFC-048",
         "pack": "Magician's Force",
-        "rarity": "Rivalry of Warlords",
+        "pack_id": "MFC-048",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/53/RivalryofWarlords-SDWA-EN-C-1E.png"

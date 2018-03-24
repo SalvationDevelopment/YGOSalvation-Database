@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 41201386,
-        "pack_id": "DOCS-JP054",
         "pack": "Dimension of Chaos",
-        "rarity": "Rank-Up-Magic Raid Force",
+        "pack_id": "DOCS-JP054",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 41201386,
-        "pack_id": "DOCS-DE054",
         "pack": "Dimension of Chaos",
-        "rarity": "Rank-Up-Magic Raid Force",
+        "pack_id": "DOCS-DE054",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5b/RankUpMagicRaidForce-DOCS-EN-R-1E.png"

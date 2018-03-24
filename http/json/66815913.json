@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 66815913,
-        "pack_id": "RATE-JP023",
         "pack": "Raging Tempest",
-        "rarity": "Shinobird Crane",
+        "pack_id": "RATE-JP023",
         "date": "2016-10-08"
     },
     "tcg": {
-        "id": 66815913,
-        "pack_id": "RATE-DE023",
         "pack": "Raging Tempest",
-        "rarity": "Shinobird Crane",
+        "pack_id": "RATE-DE023",
         "date": "2017-02-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/29/ShinobirdCrane-MP17-EN-C-1E.png"

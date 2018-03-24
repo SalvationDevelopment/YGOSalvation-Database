@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 51391183,
-        "pack_id": "SPDS-JP022",
         "pack": "Booster SP: Destiny Soldiers",
-        "rarity": "Abyss Actor - Wild Hope",
+        "pack_id": "SPDS-JP022",
         "date": "2016-08-06"
     },
     "tcg": {
-        "id": 51391183,
-        "pack_id": "DESO-DE022",
         "pack": "Destiny Soldiers",
-        "rarity": "Abyss Actor - Wild Hope",
+        "pack_id": "DESO-DE022",
         "date": "2016-11-17"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/AbyssActorWildHope-DESO-EN-ScR-1E.png"

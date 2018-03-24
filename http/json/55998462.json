@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55998462,
-        "pack_id": "MR-07",
         "pack": "Magic Ruler",
-        "rarity": "共通",
+        "pack_id": "MR-07",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 55998462,
-        "pack_id": "MRL-007",
         "pack": "Spell Ruler",
-        "rarity": "Metal Fish",
+        "pack_id": "MRL-007",
         "date": "2002-09-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/MetalFish-SRL-EN-C-UE.png"

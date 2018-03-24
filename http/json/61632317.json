@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 61632317,
-        "pack_id": "TDGS-JP009",
         "pack": "The Duelist Genesis",
-        "rarity": "Sinister Sprocket",
+        "pack_id": "TDGS-JP009",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 61632317,
-        "pack_id": "TDGS-EN009",
         "pack": "The Duelist Genesis",
-        "rarity": "Sinister Sprocket",
+        "pack_id": "TDGS-EN009",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c2/SinisterSprocket-TDGS-EN-SR-1E.png"

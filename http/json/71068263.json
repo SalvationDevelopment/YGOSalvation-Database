@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 71068263,
-        "pack_id": "",
         "pack": "Limited Edition: Yugi Pack",
-        "rarity": "Stuffed Animal",
+        "pack_id": "",
         "date": "1999-06-01"
     },
     "tcg": {
-        "id": 71068263,
-        "pack_id": "TP2-019",
         "pack": "Tournament Pack: 2nd Season",
-        "rarity": "Stuffed Animal",
+        "pack_id": "TP2-019",
         "date": "2002-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/StuffedAnimal-MP1-NA-C-UE.jpg"

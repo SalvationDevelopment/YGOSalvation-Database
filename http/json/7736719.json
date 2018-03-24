@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 7736719,
-        "pack_id": "WC08-JPB01",
-        "pack": "WC08",
-        "rarity": "Vortex Trooper",
-        "date": "2013-06-26"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 7736719,
-        "pack_id": "GLAS-DESE2",
         "pack": "Gladiator's Assault: Special Edition",
-        "rarity": "Vortex Trooper",
+        "pack_id": "GLAS-DESE2",
         "date": "2007-12-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e9/VortexTrooper-LED2-EN-C-1E.png"

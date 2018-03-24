@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 14391920,
-        "pack_id": "PP7-JP007",
         "pack": "Premium Pack 7",
-        "rarity": "Inferno Tempest",
+        "pack_id": "PP7-JP007",
         "date": "2004-08-05"
     },
     "tcg": {
-        "id": 14391920,
-        "pack_id": "EP1-DE007",
         "pack": "Exclusive Pack",
-        "rarity": "Inferno Tempest",
+        "pack_id": "EP1-DE007",
         "date": "2004-08-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/InfernoTempest-EP1-EN-C-UE.png"

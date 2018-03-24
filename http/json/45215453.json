@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45215453,
-        "pack_id": "DT10-JPB01",
         "pack": "Duel Terminal Acceleration Guide 5 promotional card",
-        "rarity": "Vylon Delta",
+        "pack_id": "DT10-JPB01",
         "date": "2010-08-03"
     },
     "tcg": {
-        "id": 45215453,
-        "pack_id": "STOR-EN099",
         "pack": "Storm of Ragnarok",
-        "rarity": "Vylon Delta",
+        "pack_id": "STOR-EN099",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/VylonDelta-STOR-EN-ScR-UE.png"

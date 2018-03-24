@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 50260683,
-        "pack_id": "LVAL-JP082",
         "pack": "Legacy of the Valiant",
-        "rarity": "Number 36: Chronomaly Chateau Huyuk",
+        "pack_id": "LVAL-JP082",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 50260683,
-        "pack_id": "WSUP-DE002",
         "pack": "World Superstars",
-        "rarity": "Number 36: Chronomaly Chateau Huyuk",
+        "pack_id": "WSUP-DE002",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7b/Number36ChronomalyChateauHuyuk-WSUP-EN-SR-1E.png"

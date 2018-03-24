@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 28630501,
-        "pack_id": "SPTR-JP005",
         "pack": "Booster SP: Tribe Force",
-        "rarity": "Yosenju Kama 3",
+        "pack_id": "SPTR-JP005",
         "date": "2014-10-11"
     },
     "tcg": {
-        "id": 28630501,
-        "pack_id": "THSF-DE005",
         "pack": "The Secret Forces",
-        "rarity": "Yosenju Kama 3",
+        "pack_id": "THSF-DE005",
         "date": "2015-02-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/36/YosenjuKama3-SP17-EN-C-1E.png"

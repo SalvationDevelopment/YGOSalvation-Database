@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 22610082,
-        "pack_id": "G5-B1",
-        "pack": "G5",
-        "rarity": "The Mask of Remnants",
-        "date": "2001-07-05"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 22610082,
-        "pack_id": "TAEV-DESE2",
         "pack": "Tactical Evolution: Special Edition",
-        "rarity": "The Mask of Remnants",
+        "pack_id": "TAEV-DESE2",
         "date": "2007-09-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/df/TheMaskofRemnants-TAEV-EN-SR-LE.jpg"

@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 44179224,
-        "pack_id": "CP17-JP012",
         "pack": "Collectors Pack 2017",
-        "rarity": "Abyss Actor - Curtain Raiser\n",
+        "pack_id": "CP17-JP012",
         "date": "2017-05-13"
     },
     "tcg": {
-        "date": "2017-07-06",
         "pack": "Battles of Legend: Light's Revenge",
-        "pack_id": "BLLR-DE012"
+        "pack_id": "BLLR-DE012",
+        "date": "2017-07-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/AbyssActorCurtainRaiser-BLLR-EN-UR-1E.png"
 }

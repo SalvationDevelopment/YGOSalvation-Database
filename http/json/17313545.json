@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 17313545,
-        "pack_id": "RGBT-JP027",
         "pack": "Raging Battle",
-        "rarity": "Brain Golem",
+        "pack_id": "RGBT-JP027",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 17313545,
-        "pack_id": "RGBT-EN027",
         "pack": "Raging Battle",
-        "rarity": "Brain Golem",
+        "pack_id": "RGBT-EN027",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7b/BrainGolem-RGBT-EN-R-1E.png"

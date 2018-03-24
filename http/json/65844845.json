@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65844845,
-        "pack_id": "GAOV-JP031",
         "pack": "Galactic Overlord",
-        "rarity": "Inzektor Giga-Cricket",
+        "pack_id": "GAOV-JP031",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 65844845,
-        "pack_id": "GAOV-EN031",
         "pack": "Galactic Overlord",
-        "rarity": "Inzektor Giga-Cricket",
+        "pack_id": "GAOV-EN031",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/09/InzektorGigaCricket-GAOV-EN-R-1E.png"

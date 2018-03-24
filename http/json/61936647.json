@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 61936647,
-        "pack_id": "SPWR-JP010",
         "pack": "Booster SP: Wing Raiders",
-        "rarity": "Phantom Knights' Sword",
+        "pack_id": "SPWR-JP010",
         "date": "2015-11-14"
     },
     "tcg": {
-        "id": 61936647,
-        "pack_id": "WIRA-DE010",
         "pack": "Wing Raiders",
-        "rarity": "Phantom Knights' Sword",
+        "pack_id": "WIRA-DE010",
         "date": "2016-02-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/62/PhantomKnightsSword-WIRA-EN-R-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 36970611,
-        "pack_id": "SPHR-JP037",
         "pack": "Booster SP: Highspeed Riders",
-        "rarity": "PSY-Frame Overload",
+        "pack_id": "SPHR-JP037",
         "date": "2015-08-22"
     },
     "tcg": {
-        "id": 36970611,
-        "pack_id": "HSRD-DE037",
         "pack": "High-Speed Riders",
-        "rarity": "PSY-Frame Overload",
+        "pack_id": "HSRD-DE037",
         "date": "2015-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7d/PSYFrameOverload-HSRD-EN-R-1E.png"

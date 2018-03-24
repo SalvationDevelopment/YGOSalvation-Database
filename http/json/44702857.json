@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 44702857,
-        "pack_id": "POTD-JP023",
         "pack": "Power of the Duelist",
-        "rarity": "Bitelon",
+        "pack_id": "POTD-JP023",
         "date": "2006-05-18"
     },
     "tcg": {
-        "id": 44702857,
-        "pack_id": "POTD-DE023",
         "pack": "Power of the Duelist",
-        "rarity": "Bitelon",
+        "pack_id": "POTD-DE023",
         "date": "2006-08-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d6/Bitelon-POTD-EN-C-1E.jpg"

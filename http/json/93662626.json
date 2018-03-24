@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 93662626,
-        "pack_id": "DOCS-JP031",
         "pack": "Dimension of Chaos",
-        "rarity": "Igknight Veteran",
+        "pack_id": "DOCS-JP031",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 93662626,
-        "pack_id": "DOCS-DE031",
         "pack": "Dimension of Chaos",
-        "rarity": "Igknight Veteran",
+        "pack_id": "DOCS-DE031",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ee/IgknightVeteran-MP16-EN-C-1E.png"

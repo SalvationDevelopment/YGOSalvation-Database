@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 85080444,
-        "pack_id": "PRIO-JP014",
         "pack": "Primal Origin",
-        "rarity": "Artifact Aegis",
+        "pack_id": "PRIO-JP014",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 85080444,
-        "pack_id": "PRIO-DE014",
         "pack": "Primal Origin",
-        "rarity": "Artifact Aegis",
+        "pack_id": "PRIO-DE014",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/59/ArtifactAegis-MP15-EN-C-1E.png"

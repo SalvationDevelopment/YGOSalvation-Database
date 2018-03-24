@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 60508057,
-        "pack_id": "CPF1-JP004",
         "pack": "Collectors Pack: Duelist of Flash Version",
-        "rarity": "Raidraptor - Napalm Dragonius",
+        "pack_id": "CPF1-JP004",
         "date": "2016-05-14"
     },
     "tcg": {
-        "id": 60508057,
-        "pack_id": "DRL3-DE004",
         "pack": "Dragons of Legend: Unleashed",
-        "rarity": "Raidraptor - Napalm Dragonius",
+        "pack_id": "DRL3-DE004",
         "date": "2016-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/RaidraptorNapalmDragonius-DRL3-EN-UR-1E.png"

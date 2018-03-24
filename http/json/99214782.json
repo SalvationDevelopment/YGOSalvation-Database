@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 99214782,
-        "pack_id": "DT11-JP029",
-        "pack": "DT11",
-        "rarity": "Steelswarm Sentinel",
-        "date": "2013-02-26"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 99214782,
-        "pack_id": "DT06-EN029",
         "pack": "Duel Terminal 6a",
-        "rarity": "Steelswarm Sentinel",
+        "pack_id": "DT06-EN029",
         "date": "2012-02-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9e/SteelswarmSentinel-HA06-EN-SR-1E.png"

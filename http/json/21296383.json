@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 21296383,
-        "pack_id": "DREV-JP012",
         "pack": "Duelist Revolution",
-        "rarity": "Unibird",
+        "pack_id": "DREV-JP012",
         "date": "2010-04-17"
     },
     "tcg": {
-        "id": 21296383,
-        "pack_id": "DREV-EN012",
         "pack": "Duelist Revolution",
-        "rarity": "Unibird",
+        "pack_id": "DREV-EN012",
         "date": "2010-08-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/44/Unibird-DREV-EN-SR-1E.jpg"

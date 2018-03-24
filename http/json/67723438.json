@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67723438,
-        "pack_id": "TDGS-JP053",
         "pack": "The Duelist Genesis",
-        "rarity": "Emergency Teleport",
+        "pack_id": "TDGS-JP053",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 67723438,
-        "pack_id": "TDGS-EN053",
         "pack": "The Duelist Genesis",
-        "rarity": "Emergency Teleport",
+        "pack_id": "TDGS-EN053",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/66/EmergencyTeleport-PGL3-EN-GUR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81197327,
-        "pack_id": "DP1-JP013",
         "pack": "Duelist Pack: Jaden Yuki",
-        "rarity": "Elemental HERO Steam Healer",
+        "pack_id": "DP1-JP013",
         "date": "2005-10-20"
     },
     "tcg": {
-        "id": 81197327,
-        "pack_id": "DP1-EN013",
         "pack": "Duelist Pack: Jaden Yuki",
-        "rarity": "Elemental HERO Steam Healer",
+        "pack_id": "DP1-EN013",
         "date": "2006-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/46/ElementalHEROSteamHealer-LCGX-EN-R-1E.png"

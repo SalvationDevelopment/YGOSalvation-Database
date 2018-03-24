@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 49587396,
-        "pack_id": "",
         "pack": "Vol.7",
-        "rarity": "共通",
+        "pack_id": "",
         "date": "2000-01-27"
     },
     "tcg": {
-        "id": 49587396,
-        "pack_id": "LCJW-DE174",
         "pack": "Legendary Collection 4: Joey's World Mega Pack",
-        "rarity": "Ancient Tool",
+        "pack_id": "LCJW-DE174",
         "date": "2013-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/17/AncientTool-LCJW-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64238008,
-        "pack_id": "CDIP-JP042",
         "pack": "Cyberdark Impact",
-        "rarity": "Linear Accelerator Cannon",
+        "pack_id": "CDIP-JP042",
         "date": "2006-08-10"
     },
     "tcg": {
-        "id": 64238008,
-        "pack_id": "CDIP-FR042",
         "pack": "Cyberdark Impact",
-        "rarity": "Linear Accelerator Cannon",
+        "pack_id": "CDIP-FR042",
         "date": "2006-11-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/LinearAcceleratorCannon-CDIP-EN-C-1E.jpg"

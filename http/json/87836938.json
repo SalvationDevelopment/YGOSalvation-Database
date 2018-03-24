@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 87836938,
-        "pack_id": "DT09-JP031",
-        "pack": "DT09",
-        "rarity": "Vylon Vanguard",
-        "date": "2012-11-06"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 87836938,
-        "pack_id": "DT05-EN031",
         "pack": "Duel Terminal 5a",
-        "rarity": "Vylon Vanguard",
+        "pack_id": "DT05-EN031",
         "date": "2011-05-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/38/VylonVanguard-HA05-EN-SR-UE.png"

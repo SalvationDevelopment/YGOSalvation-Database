@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1200843,
-        "pack_id": "TDGS-JP056",
         "pack": "The Duelist Genesis",
-        "rarity": "Mirror of Yata",
+        "pack_id": "TDGS-JP056",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 1200843,
-        "pack_id": "TDGS-EN056",
         "pack": "The Duelist Genesis",
-        "rarity": "Mirror of Yata",
+        "pack_id": "TDGS-EN056",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6e/MirrorofYata-TDGS-EN-C-UE.png"

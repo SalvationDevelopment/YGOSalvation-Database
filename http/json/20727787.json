@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 20727787,
-        "pack_id": "303-048",
         "pack": "Champion of Black Magic",
-        "rarity": "Disarmament",
+        "pack_id": "303-048",
         "date": "2002-09-19"
     },
     "tcg": {
-        "id": 20727787,
-        "pack_id": "MFC-102",
         "pack": "Magician's Force",
-        "rarity": "Disarmament",
+        "pack_id": "MFC-102",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/99/Disarmament-DR1-EN-C-UE.png"

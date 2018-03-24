@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 10097168,
-        "pack_id": "CSOC-JP036",
         "pack": "Crossroads of Chaos",
-        "rarity": "Tiger Dragon",
+        "pack_id": "CSOC-JP036",
         "date": "2008-07-19"
     },
     "tcg": {
-        "id": 10097168,
-        "pack_id": "CSOC-EN036",
         "pack": "Crossroads of Chaos",
-        "rarity": "Tiger Dragon",
+        "pack_id": "CSOC-EN036",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/43/TigerDragon-LCKC-EN-UR-1E.png"

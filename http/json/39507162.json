@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 39507162,
-        "pack_id": "VJC-005",
         "pack": "V Jump July 2002 promotional card",
-        "rarity": "Blade Knight",
+        "pack_id": "VJC-005",
         "date": "2002-05-21"
     },
     "tcg": {
-        "id": 39507162,
-        "pack_id": "CT1-DE002",
         "pack": "Collectible Tins 2004",
-        "rarity": "Blade Knight",
+        "pack_id": "CT1-DE002",
         "date": "2004-09-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/75/BladeKnight-LDK2-EN-C-1E.png"

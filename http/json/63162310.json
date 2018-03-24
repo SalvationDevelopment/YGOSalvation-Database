@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63162310,
-        "pack_id": "PS-05",
         "pack": "Pharaoh's Servant",
-        "rarity": "Wall Shadow",
+        "pack_id": "PS-05",
         "date": "2000-07-13"
     },
     "tcg": {
-        "id": 63162310,
-        "pack_id": "SRL-EN056",
         "pack": "Spell Ruler",
-        "rarity": "Wall Shadow",
+        "pack_id": "SRL-EN056",
         "date": "2004-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/WallShadow-LCJW-EN-C-1E.png"

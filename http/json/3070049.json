@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 3070049,
-        "pack_id": "JF12-JPB08",
         "pack": "Jump Festa 2012 - 18th Distribution Promotion Pack",
-        "rarity": "Snow Dragon",
+        "pack_id": "JF12-JPB08",
         "date": "2011-12-18"
     },
     "tcg": {
-        "id": 3070049,
-        "pack_id": "ABYR-DE094",
         "pack": "Abyss Rising",
-        "rarity": "Snow Dragon",
+        "pack_id": "ABYR-DE094",
         "date": "2012-11-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/51/SnowDragon-ABYR-EN-C-1E.png"

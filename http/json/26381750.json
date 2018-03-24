@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 26381750,
-        "pack_id": "DT09-JP023",
-        "pack": "デュエルターミナル 「ヴァイロン降臨！！」",
-        "rarity": "レア仕様",
-        "date": 1272344400000
-    },
+    "ocg": {},
     "tcg": {
-        "id": 26381750,
-        "pack_id": "DT05-EN023",
         "pack": "Duel Terminal 5a",
-        "rarity": "Soaring Eagle Above the Searing Land",
+        "pack_id": "DT05-EN023",
         "date": "2011-05-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/08/SoaringEagleAbovetheSearingLand-HA05-EN-SR-UE.png"

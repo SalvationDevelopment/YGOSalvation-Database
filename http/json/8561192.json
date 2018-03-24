@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 8561192,
-        "pack_id": "LVAL-JP058",
         "pack": "Legacy of the Valiant",
-        "rarity": "Leo, the Keeper of the Sacred Tree",
+        "pack_id": "LVAL-JP058",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 8561192,
-        "pack_id": "LVAL-DE058",
         "pack": "Legacy of the Valiant",
-        "rarity": "Leo, the Keeper of the Sacred Tree",
+        "pack_id": "LVAL-DE058",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/99/LeotheKeeperoftheSacredTree-AP07-EN-SR-UE.png"

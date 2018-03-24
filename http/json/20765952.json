@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 20765952,
-        "pack_id": "SM-16",
         "pack": "Spell of Mask",
-        "rarity": "Mask of Dispel",
+        "pack_id": "SM-16",
         "date": "2001-04-19"
     },
     "tcg": {
-        "id": 20765952,
-        "pack_id": "LON-017",
         "pack": "Labyrinth of Nightmare",
-        "rarity": "Mask of Dispel",
+        "pack_id": "LON-017",
         "date": "2003-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/66/MaskofDispel-DB1-EN-C-UE.jpg"

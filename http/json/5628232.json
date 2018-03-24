@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 5628232,
-        "pack_id": "",
         "pack": "Limited Edition: Yugi Pack",
-        "rarity": "Flying Penguin",
+        "pack_id": "",
         "date": "1999-06-01"
     },
     "tcg": {
-        "id": 5628232,
-        "pack_id": "MP1-011",
         "pack": "McDonald's Promotional Cards",
-        "rarity": "Flying Penguin",
+        "pack_id": "MP1-011",
         "date": "2002-12-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0a/FlyingPenguin-MP1-NA-C-UE.jpg"

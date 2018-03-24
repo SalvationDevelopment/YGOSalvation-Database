@@ -34,10 +34,8 @@
     ],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 101002044,
-        "pack_id": "CIBR-JP044",
         "pack": "Circuit Break",
-        "rarity": "Trickstar Sweet Devil",
+        "pack_id": "CIBR-JP044",
         "date": "2017-07-08"
     },
     "tcg": {

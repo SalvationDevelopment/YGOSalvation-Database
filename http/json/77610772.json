@@ -34,16 +34,14 @@
     ],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 77610772,
-        "pack_id": "COTD-JP048",
         "pack": "Code of the Duelist",
-        "rarity": "Stargrail Shrine Maiden Eve",
+        "pack_id": "COTD-JP048",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE048"
+        "pack_id": "COTD-DE048",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ad/IbtheWorldChalicePriestess-COTD-EN-SR-1E.png"
 }

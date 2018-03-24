@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 78780140,
-        "pack_id": "",
         "pack": "Vol.4",
-        "rarity": "共通",
+        "pack_id": "",
         "date": "1999-07-22"
     },
     "tcg": {
-        "id": 78780140,
-        "pack_id": "MRD-052",
         "pack": "Metal Raiders",
-        "rarity": "Trent",
+        "pack_id": "MRD-052",
         "date": "2002-06-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/eb/Trent-MRD-NA-C-UE.jpg"

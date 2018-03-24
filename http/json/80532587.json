@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 80532587,
-        "pack_id": "EP15-JP033",
         "pack": "Extra Pack 2015",
-        "rarity": "Elder Entity N'tss",
+        "pack_id": "EP15-JP033",
         "date": "2015-09-19"
     },
     "tcg": {
-        "date": "2017-08-24",
         "pack": "2017 Mega-Tins",
-        "pack_id": "CT14-DE009"
+        "pack_id": "CT14-DE009",
+        "date": "2017-08-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/ElderEntityNtss-CT14-EN-SR-LE.png"
 }

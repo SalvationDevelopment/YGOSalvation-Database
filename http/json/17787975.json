@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 17787975,
-        "pack_id": "MVP1-JP023",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Dimension Sphinx",
+        "pack_id": "MVP1-JP023",
         "date": "2016-04-23"
     },
     "tcg": {
-        "id": 17787975,
-        "pack_id": "MVP1-DE023",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Dimension Sphinx",
+        "pack_id": "MVP1-DE023",
         "date": "2016-07-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7c/DimensionSphinx-MVP1-EN-GUR-1E.png"

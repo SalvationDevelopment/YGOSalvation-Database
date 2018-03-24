@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 40703393,
-        "pack_id": "SC-13",
         "pack": "Struggle of Chaos",
-        "rarity": "The Puppet Magic of Dark Ruler",
+        "pack_id": "SC-13",
         "date": "2001-09-20"
     },
     "tcg": {
-        "id": 40703393,
-        "pack_id": "LOD-013",
         "pack": "Legacy of Darkness",
-        "rarity": "The Puppet Magic of Dark Ruler",
+        "pack_id": "LOD-013",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/28/ThePuppetMagicofDarkRuler-DB2-EN-C-UE.png"

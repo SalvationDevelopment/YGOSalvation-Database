@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63422098,
-        "pack_id": "SHSP-JP058",
         "pack": "Shadow Specters",
-        "rarity": "Giganticastle",
+        "pack_id": "SHSP-JP058",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 63422098,
-        "pack_id": "SHSP-DE058",
         "pack": "Shadow Specters",
-        "rarity": "Giganticastle",
+        "pack_id": "SHSP-DE058",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/27/Giganticastle-SHSP-EN-R-1E.png"

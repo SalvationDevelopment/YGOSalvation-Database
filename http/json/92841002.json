@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 92841002,
-        "pack_id": "SHSP-JP011",
         "pack": "Shadow Specters",
-        "rarity": "Mythic Water Dragon",
+        "pack_id": "SHSP-JP011",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 92841002,
-        "pack_id": "SHSP-DE011",
         "pack": "Shadow Specters",
-        "rarity": "Mythic Water Dragon",
+        "pack_id": "SHSP-DE011",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4b/MythicWaterDragon-MP14-EN-C-1E.png"

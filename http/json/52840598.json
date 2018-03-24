@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 52840598,
-        "pack_id": "DP10-JP014",
         "pack": "Duelist Pack: Yusei 3",
-        "rarity": "Bri Synchron",
+        "pack_id": "DP10-JP014",
         "date": "2010-10-16"
     },
     "tcg": {
-        "id": 52840598,
-        "pack_id": "DP10-DE014",
         "pack": "Duelist Pack: Yusei 3",
-        "rarity": "Bri Synchron",
+        "pack_id": "DP10-DE014",
         "date": "2011-01-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/17/BriSynchron-LC5D-EN-C-1E.png"

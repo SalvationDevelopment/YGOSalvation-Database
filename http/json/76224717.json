@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 76224717,
-        "pack_id": "EP13-JP019",
         "pack": "Extra Pack: Sword of Knights",
-        "rarity": "Advance Zone",
+        "pack_id": "EP13-JP019",
         "date": "2013-05-18"
     },
     "tcg": {
-        "id": 76224717,
-        "pack_id": "REDU-EN088",
         "pack": "Return of the Duelist",
-        "rarity": "Advance Zone",
+        "pack_id": "REDU-EN088",
         "date": "2012-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6e/AdvanceZone-OP01-EN-C-UE.png"

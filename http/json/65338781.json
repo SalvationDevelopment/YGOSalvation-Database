@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65338781,
-        "pack_id": "DOCS-JP036",
         "pack": "Dimension of Chaos",
-        "rarity": "Skilled Red Magician",
+        "pack_id": "DOCS-JP036",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 65338781,
-        "pack_id": "DOCS-DE036",
         "pack": "Dimension of Chaos",
-        "rarity": "Skilled Red Magician",
+        "pack_id": "DOCS-DE036",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/30/SkilledRedMagician-DOCS-EN-R-1E.png"

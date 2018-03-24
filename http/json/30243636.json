@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 30243636,
-        "pack_id": "PS-17",
         "pack": "Pharaoh's Servant",
-        "rarity": "Hungry Burger",
+        "pack_id": "PS-17",
         "date": "2000-07-13"
     },
     "tcg": {
-        "id": 30243636,
-        "pack_id": "SRL-EN068",
         "pack": "Spell Ruler",
-        "rarity": "Hungry Burger",
+        "pack_id": "SRL-EN068",
         "date": "2004-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2d/HungryBurger-SRL-NA-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 69529567,
-        "pack_id": "DREV-JP007",
         "pack": "Duelist Revolution",
-        "rarity": "Playful Possum",
+        "pack_id": "DREV-JP007",
         "date": "2010-04-17"
     },
     "tcg": {
-        "id": 69529567,
-        "pack_id": "DREV-EN007",
         "pack": "Duelist Revolution",
-        "rarity": "Playful Possum",
+        "pack_id": "DREV-EN007",
         "date": "2010-08-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7b/PlayfulPossum-BPW2-NA-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 75652080,
-        "pack_id": "DREV-JP046",
         "pack": "Duelist Revolution",
-        "rarity": "Double Cyclone",
+        "pack_id": "DREV-JP046",
         "date": "2010-04-17"
     },
     "tcg": {
-        "id": 75652080,
-        "pack_id": "DREV-EN046",
         "pack": "Duelist Revolution",
-        "rarity": "Double Cyclone",
+        "pack_id": "DREV-EN046",
         "date": "2010-08-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cc/DoubleCyclone-SDSE-EN-C-1E.png"

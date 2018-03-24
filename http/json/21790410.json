@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 21790410,
-        "pack_id": "ORCS-JP019",
         "pack": "Order of Chaos",
-        "rarity": "Inzektor Centipede",
+        "pack_id": "ORCS-JP019",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 21790410,
-        "pack_id": "ORCS-EN019",
         "pack": "Order of Chaos",
-        "rarity": "Inzektor Centipede",
+        "pack_id": "ORCS-EN019",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c6/InzektorCentipede-AP01-EN-SR-UE.png"

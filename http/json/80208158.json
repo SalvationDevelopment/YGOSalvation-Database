@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80208158,
-        "pack_id": "DT14-JP001",
         "pack": "Duel Terminal - Ouroboros, Wicked Dragon of Destruction!!",
-        "rarity": "D.D. Esper Star Sparrow",
+        "pack_id": "DT14-JP001",
         "date": "2012-01-24"
     },
     "tcg": {
-        "id": 80208158,
-        "pack_id": "DT07-EN051",
         "pack": "Duel Terminal 7b",
-        "rarity": "D.D. Esper Star Sparrow",
+        "pack_id": "DT07-EN051",
         "date": "2013-02-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/DDEsperStarSparrow-BPW2-NA-C-1E.png"

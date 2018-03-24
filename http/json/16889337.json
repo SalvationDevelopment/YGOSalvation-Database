@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 16889337,
-        "pack_id": "SHSP-JP035",
         "pack": "Shadow Specters",
-        "rarity": "Aratama",
+        "pack_id": "SHSP-JP035",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 16889337,
-        "pack_id": "SHSP-DE035",
         "pack": "Shadow Specters",
-        "rarity": "Aratama",
+        "pack_id": "SHSP-DE035",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d0/Aratama-SHSP-EN-R-1E.png"

@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "V Jump April 2018 promotional card",
+        "pack_id": "VJMP-JP143",
+        "date": "2018-02-21"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/15/KeeperofDragonicMagic-VJMP-JP-UR.png"
 }

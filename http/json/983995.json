@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 983995,
-        "pack_id": "REDU-JP079",
         "pack": "Return of the Duelist",
-        "rarity": "Rebound",
+        "pack_id": "REDU-JP079",
         "date": "2012-04-14"
     },
     "tcg": {
-        "id": 983995,
-        "pack_id": "REDU-EN079",
         "pack": "Return of the Duelist",
-        "rarity": "Rebound",
+        "pack_id": "REDU-EN079",
         "date": "2012-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/08/Rebound-REDU-EN-SR-1E.png"

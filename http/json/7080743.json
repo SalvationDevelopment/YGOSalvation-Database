@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 7080743,
-        "pack_id": "CPL1-JP037",
         "pack": "Collectors Pack: Duelist of Legend Version",
-        "rarity": "Express Train Trolley Olley",
+        "pack_id": "CPL1-JP037",
         "date": "2014-05-17"
     },
     "tcg": {
-        "id": 7080743,
-        "pack_id": "DRLG-DE037",
         "pack": "Dragons of Legend",
-        "rarity": "Express Train Trolley Olley",
+        "pack_id": "DRLG-DE037",
         "date": "2014-04-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/88/ExpressTrainTrolleyOlley-DRLG-EN-ScR-1E.png"

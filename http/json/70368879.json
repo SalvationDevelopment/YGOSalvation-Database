@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 70368879,
-        "pack_id": "MR-33",
         "pack": "Magic Ruler",
-        "rarity": "Upstart Goblin",
+        "pack_id": "MR-33",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 70368879,
-        "pack_id": "DB1-EN018",
         "pack": "Dark Beginning 1",
-        "rarity": "Upstart Goblin",
+        "pack_id": "DB1-EN018",
         "date": "2004-10-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/99/UpstartGoblin-LCYW-EN-UR-1E.png"

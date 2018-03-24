@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 59344077,
-        "pack_id": "TB-21",
         "pack": "Thousand Eyes Bible",
-        "rarity": "Magic Drain",
+        "pack_id": "TB-21",
         "date": "2000-12-14"
     },
     "tcg": {
-        "id": 59344077,
-        "pack_id": "PSV-071",
         "pack": "Pharaoh's Servant",
-        "rarity": "Magic Drain",
+        "pack_id": "PSV-071",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a5/MagicDrain-BP01-EN-C-1E.png"

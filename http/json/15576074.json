@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 15576074,
-        "pack_id": "STOR-JP056",
         "pack": "Storm of Ragnarok",
-        "rarity": "Resonator Engine",
+        "pack_id": "STOR-JP056",
         "date": "2010-11-13"
     },
     "tcg": {
-        "id": 15576074,
-        "pack_id": "STOR-EN056",
         "pack": "Storm of Ragnarok",
-        "rarity": "Resonator Engine",
+        "pack_id": "STOR-EN056",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/84/ResonatorEngine-LC5D-EN-C-1E.png"

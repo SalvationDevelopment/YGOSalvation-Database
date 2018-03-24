@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 42599677,
-        "pack_id": "CA-42",
         "pack": "Curse of Anubis",
-        "rarity": "共通",
+        "pack_id": "CA-42",
         "date": "2000-09-28"
     },
     "tcg": {
-        "id": 42599677,
-        "pack_id": "PSV-041",
         "pack": "Pharaoh's Servant",
-        "rarity": "Flame Champion",
+        "pack_id": "PSV-041",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fb/FlameChampion-PSV-NA-C-1E.jpg"

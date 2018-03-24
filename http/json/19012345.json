@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 19012345,
-        "pack_id": "VJMP-JP049",
         "pack": "V Jump Spring 2010 subscription bonus",
-        "rarity": "Gash the Dust Lord",
+        "pack_id": "VJMP-JP049",
         "date": "2010-03-20"
     },
     "tcg": {
-        "id": 19012345,
-        "pack_id": "NUMH-DE015",
         "pack": "Number Hunters",
-        "rarity": "Gash the Dust Lord",
+        "pack_id": "NUMH-DE015",
         "date": "2013-07-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/GashtheDustLord-NUMH-EN-SR-1E.png"

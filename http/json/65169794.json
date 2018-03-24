@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65169794,
-        "pack_id": "MR-03",
         "pack": "Magic Ruler",
-        "rarity": "Black Pendant",
+        "pack_id": "MR-03",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 65169794,
-        "pack_id": "DB1-EN003",
         "pack": "Dark Beginning 1",
-        "rarity": "Black Pendant",
+        "pack_id": "DB1-EN003",
         "date": "2004-10-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bf/BlackPendant-YS15-EU-C-1E.png"

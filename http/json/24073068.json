@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 24073068,
-        "pack_id": "COTD-JP010",
         "pack": "Code of the Duelist",
-        "rarity": "Gouki Suplex Rex",
+        "pack_id": "COTD-JP010",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE010"
+        "pack_id": "COTD-DE010",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/09/GoukiSuprex-COTD-EN-R-1E.png"
 }

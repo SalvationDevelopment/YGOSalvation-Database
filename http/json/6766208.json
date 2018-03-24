@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 6766208,
-        "pack_id": "COTD-JP040",
         "pack": "Code of the Duelist",
-        "rarity": "D/D/D Gust Emperor Executive Alexander",
+        "pack_id": "COTD-JP040",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE040"
+        "pack_id": "COTD-DE040",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c1/DDDGustHighKingAlexander-COTD-EN-R-1E.png"
 }

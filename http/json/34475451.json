@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 34475451,
-        "pack_id": "CPL1-JP038",
         "pack": "Collectors Pack: Duelist of Legend Version",
-        "rarity": "Construction Train Signal Red",
+        "pack_id": "CPL1-JP038",
         "date": "2014-05-17"
     },
     "tcg": {
-        "id": 34475451,
-        "pack_id": "DRLG-DE038",
         "pack": "Dragons of Legend",
-        "rarity": "Construction Train Signal Red",
+        "pack_id": "DRLG-DE038",
         "date": "2014-04-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/17/ConstructionTrainSignalRed-DRLG-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 8316565,
-        "pack_id": "PRIO-JP090",
         "pack": "Primal Origin",
-        "rarity": "Jolt Counter",
+        "pack_id": "PRIO-JP090",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 8316565,
-        "pack_id": "WSUP-DE015",
         "pack": "World Superstars",
-        "rarity": "Jolt Counter",
+        "pack_id": "WSUP-DE015",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f6/JoltCounter-WSUP-EN-SR-1E.png"

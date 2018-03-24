@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 52263685,
-        "pack_id": "GENF-JP062",
         "pack": "Generation Force",
-        "rarity": "Peeking Goblin",
+        "pack_id": "GENF-JP062",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 52263685,
-        "pack_id": "GENF-EN062",
         "pack": "Generation Force",
-        "rarity": "Peeking Goblin",
+        "pack_id": "GENF-EN062",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e0/PeekingGoblin-GENF-EN-SP-1E.png"

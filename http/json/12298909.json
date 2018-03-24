@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12298909,
-        "pack_id": "EXP1-JP030",
         "pack": "Extra Pack",
-        "rarity": "Prime Material Dragon",
+        "pack_id": "EXP1-JP030",
         "date": "2008-09-13"
     },
     "tcg": {
-        "id": 12298909,
-        "pack_id": "PTDN-DE087",
         "pack": "Phantom Darkness",
-        "rarity": "Prime Material Dragon",
+        "pack_id": "PTDN-DE087",
         "date": "2008-01-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e3/PrimeMaterialDragon-PGLD-EN-GUR-1E.png"

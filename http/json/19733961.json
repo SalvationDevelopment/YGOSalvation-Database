@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 19733961,
-        "pack_id": "CRV-JP030",
         "pack": "Cybernetic Revolution",
-        "rarity": "Batteryman C",
+        "pack_id": "CRV-JP030",
         "date": "2005-05-26"
     },
     "tcg": {
-        "id": 19733961,
-        "pack_id": "CRV-DE030",
         "pack": "Cybernetic Revolution",
-        "rarity": "Batteryman C",
+        "pack_id": "CRV-DE030",
         "date": "2005-08-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/72/BatterymanC-DR04-NA-C-UE.png"

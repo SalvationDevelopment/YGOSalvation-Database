@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81385346,
-        "pack_id": "SC-46",
         "pack": "Struggle of Chaos",
-        "rarity": "Stamping Destruction",
+        "pack_id": "SC-46",
         "date": "2001-09-20"
     },
     "tcg": {
-        "id": 81385346,
-        "pack_id": "LOD-046",
         "pack": "Legacy of Darkness",
-        "rarity": "Stamping Destruction",
+        "pack_id": "LOD-046",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f4/StampingDestruction-BP03-EN-C-1E.png"

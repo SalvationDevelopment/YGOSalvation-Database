@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55885348,
-        "pack_id": "EP16-JP008",
         "pack": "Extra Pack 2016",
-        "rarity": "Kozmo Dark Destroyer",
+        "pack_id": "EP16-JP008",
         "date": "2016-09-10"
     },
     "tcg": {
-        "id": 55885348,
-        "pack_id": "DOCS-DE085",
         "pack": "Dimension of Chaos",
-        "rarity": "Kozmo Dark Destroyer",
+        "pack_id": "DOCS-DE085",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/KozmoDarkDestroyer-PGL3-EN-GScR-1E.png"

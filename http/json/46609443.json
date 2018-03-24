@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 46609443,
-        "pack_id": "LE12-JP003",
         "pack": "Limited Edition 12",
-        "rarity": "Chaos-End Master",
+        "pack_id": "LE12-JP003",
         "date": "2008-05-21"
     },
     "tcg": {
-        "id": 46609443,
-        "pack_id": "RGBT-EN092",
         "pack": "Raging Battle",
-        "rarity": "Chaos-End Master",
+        "pack_id": "RGBT-EN092",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/42/ChaosEndMaster-RGBT-EN-ScR-1E.png"

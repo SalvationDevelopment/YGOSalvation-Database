@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 74203495,
-        "pack_id": "SPHR-JP032",
         "pack": "Booster SP: Highspeed Riders",
-        "rarity": "PSY-Framegear Delta",
+        "pack_id": "SPHR-JP032",
         "date": "2015-08-22"
     },
     "tcg": {
-        "id": 74203495,
-        "pack_id": "HSRD-DE032",
         "pack": "High-Speed Riders",
-        "rarity": "PSY-Framegear Delta",
+        "pack_id": "HSRD-DE032",
         "date": "2015-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3a/PSYFramegearDelta-HSRD-EN-R-1E.png"

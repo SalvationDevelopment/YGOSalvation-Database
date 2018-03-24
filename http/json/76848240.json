@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 76848240,
-        "pack_id": "301-049",
         "pack": "The New Ruler",
-        "rarity": "共通",
+        "pack_id": "301-049",
         "date": "2002-05-16"
     },
     "tcg": {
-        "id": 76848240,
-        "pack_id": "PGD-101",
         "pack": "Pharaonic Guardian",
-        "rarity": "Common",
+        "pack_id": "PGD-101",
         "date": "2003-07-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/NonAggressionArea-DR1-EN-C-UE.png"

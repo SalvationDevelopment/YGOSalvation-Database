@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 8483333,
-        "pack_id": "WJMP-JP007",
         "pack": "Weekly Shōnen Jump 2007, Issue 2",
-        "rarity": "Mosaic Manticore",
+        "pack_id": "WJMP-JP007",
         "date": "2006-12-11"
     },
     "tcg": {
-        "id": 8483333,
-        "pack_id": "CSOC-EN094",
         "pack": "Crossroads of Chaos",
-        "rarity": "Mosaic Manticore",
+        "pack_id": "CSOC-EN094",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/32/MosaicManticore-BP02-EN-R-1E.png"

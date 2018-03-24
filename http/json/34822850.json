@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 34822850,
-        "pack_id": "SECE-JP058",
         "pack": "Secrets of Eternity",
-        "rarity": "Void Expansion",
+        "pack_id": "SECE-JP058",
         "date": "2014-11-15"
     },
     "tcg": {
-        "id": 34822850,
-        "pack_id": "SECE-DE058",
         "pack": "Secrets of Eternity",
-        "rarity": "Void Expansion",
+        "pack_id": "SECE-DE058",
         "date": "2015-01-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ed/VoidExpansion-MP15-EN-R-1E.png"

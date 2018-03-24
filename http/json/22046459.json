@@ -31,18 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 22046459,
-        "pack_id": "PS-10",
         "pack": "Pharaoh's Servant",
-        "rarity": "Megamorph",
+        "pack_id": "PS-10",
         "date": "2000-07-13"
     },
-    "tcg": {
-        "id": 22046459,
-        "pack_id": "MRL-061",
-        "pack": "MRL",
-        "rarity": "Megamorph",
-        "date": "2002-09-16"
-    },
+    "tcg": {},
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cf/Megamorph-SDKS-EN-C-1E.png"
 }

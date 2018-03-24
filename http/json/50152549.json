@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 50152549,
-        "pack_id": "",
         "pack": "Vol.7",
-        "rarity": "Paralyzing Potion",
+        "pack_id": "",
         "date": "2000-01-27"
     },
     "tcg": {
-        "id": 50152549,
-        "pack_id": "MRD-137",
         "pack": "Metal Raiders",
-        "rarity": "Paralyzing Potion",
+        "pack_id": "MRD-137",
         "date": "2002-06-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d7/ParalyzingPotion-MRD-NA-C-UE.png"

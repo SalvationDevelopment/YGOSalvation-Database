@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 95714077,
-        "pack_id": "GENF-JP054",
         "pack": "Generation Force",
-        "rarity": "Wind-Up Factory",
+        "pack_id": "GENF-JP054",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 95714077,
-        "pack_id": "GENF-EN054",
         "pack": "Generation Force",
-        "rarity": "Wind-Up Factory",
+        "pack_id": "GENF-EN054",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5d/WindUpFactory-TU08-EN-C-UE.png"

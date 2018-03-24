@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 97809599,
-        "pack_id": "G4-11",
         "pack": "Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist: Kaiba Deck promotional cards",
-        "rarity": "Seal of the Ancients",
+        "pack_id": "G4-11",
         "date": "2000-12-07"
     },
     "tcg": {
-        "id": 97809599,
-        "pack_id": "PCK-003",
         "pack": "Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge",
-        "rarity": "Seal of the Ancients",
+        "pack_id": "PCK-003",
         "date": "2004-04-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4e/SealoftheAncients-PCK-NA-PScR-UE.jpg"

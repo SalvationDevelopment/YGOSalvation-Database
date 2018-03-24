@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45184165,
-        "pack_id": "DOCS-JP014",
         "pack": "Dimension of Chaos",
-        "rarity": "Raidraptor - Skull Eagle",
+        "pack_id": "DOCS-JP014",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 45184165,
-        "pack_id": "DOCS-DE014",
         "pack": "Dimension of Chaos",
-        "rarity": "Raidraptor - Skull Eagle",
+        "pack_id": "DOCS-DE014",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/RaidraptorSkullEagle-MP16-EN-C-1E.png"

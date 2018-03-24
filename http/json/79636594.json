@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 79636594,
-        "pack_id": "NECH-JP003",
         "pack": "The New Challengers",
-        "rarity": "Block Spider",
+        "pack_id": "NECH-JP003",
         "date": "2014-07-19"
     },
     "tcg": {
-        "id": 79636594,
-        "pack_id": "NECH-DE003",
         "pack": "The New Challengers",
-        "rarity": "Block Spider",
+        "pack_id": "NECH-DE003",
         "date": "2014-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/77/BlockSpider-NECH-EN-C-1E.png"

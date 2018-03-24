@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 26420373,
-        "pack_id": "VJMP-JP123",
         "pack": "V Jump December 2016",
-        "rarity": "Speedroid Passing Rider",
+        "pack_id": "VJMP-JP123",
         "date": "2016-10-21"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE098"
+        "pack_id": "COTD-DE098",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/70/SpeedroidPassinglider-COTD-EN-C-1E.png"
 }

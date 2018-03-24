@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 51566770,
-        "pack_id": "WC09-JP003",
         "pack": "Yu-Gi-Oh! 5D's STARDUST ACCELERATOR － WORLD CHAMPIONSHIP 2009 － Bundles",
-        "rarity": "Infernity Guardian",
+        "pack_id": "WC09-JP003",
         "date": "2009-03-26"
     },
     "tcg": {
-        "id": 51566770,
-        "pack_id": "GLD3-EN029",
         "pack": "Gold Series 3",
-        "rarity": "Infernity Guardian",
+        "pack_id": "GLD3-EN029",
         "date": "2010-06-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e0/InfernityGuardian-GLD3-EN-C-LE.jpg"

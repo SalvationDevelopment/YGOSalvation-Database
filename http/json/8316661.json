@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 8316661,
-        "pack_id": "DT05-JP012",
         "pack": "Duel Terminal - Champion of Chaos!!",
-        "rarity": "共通",
+        "pack_id": "DT05-JP012",
         "date": "2009-04-14"
     },
     "tcg": {
-        "id": 8316661,
-        "pack_id": "DT03-EN012",
         "pack": "Duel Terminal 3",
-        "rarity": "Fabled Miztoji",
+        "pack_id": "DT03-EN012",
         "date": "2010-09-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/92/FabledMiztoji-HA03-EN-SR-1E.jpg"

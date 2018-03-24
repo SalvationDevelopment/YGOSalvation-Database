@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 37445295,
-        "pack_id": "DUEA-JP023",
         "pack": "Duelist Alliance",
-        "rarity": "Shaddoll Falco",
+        "pack_id": "DUEA-JP023",
         "date": "2014-04-19"
     },
     "tcg": {
-        "id": 37445295,
-        "pack_id": "DUEA-DE023",
         "pack": "Duelist Alliance",
-        "rarity": "Shaddoll Falco",
+        "pack_id": "DUEA-DE023",
         "date": "2014-08-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3d/ShaddollFalco-MP15-EN-R-1E.png"

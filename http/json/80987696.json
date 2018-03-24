@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80987696,
-        "pack_id": "G3-B2",
         "pack": "Yu-Gi-Oh! Duel Monsters 3: Tri-Holy God Advent Game Guide 2 promotional card",
-        "rarity": "Time Machine",
+        "pack_id": "G3-B2",
         "date": "2000-08-10"
     },
     "tcg": {
-        "id": 80987696,
-        "pack_id": "CSOC-EN091",
         "pack": "Crossroads of Chaos",
-        "rarity": "Time Machine",
+        "pack_id": "CSOC-EN091",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8b/TimeMachine-LED2-EN-C-1E.png"

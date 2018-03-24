@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 35183853,
-        "pack_id": "SHSP-JP063",
         "pack": "Shadow Specters",
-        "rarity": "Bujin Regalia - The Mirror",
+        "pack_id": "SHSP-JP063",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 35183853,
-        "pack_id": "SHSP-DE063",
         "pack": "Shadow Specters",
-        "rarity": "Bujin Regalia - The Mirror",
+        "pack_id": "SHSP-DE063",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/BujinRegaliaTheMirror-MP14-EN-R-1E.png"

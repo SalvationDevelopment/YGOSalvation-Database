@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 51701885,
-        "pack_id": "PHSW-JP027",
         "pack": "Photon Shockwave",
-        "rarity": "D.D. Telepon",
+        "pack_id": "PHSW-JP027",
         "date": "2011-07-16"
     },
     "tcg": {
-        "id": 51701885,
-        "pack_id": "PHSW-DE027",
         "pack": "Photon Shockwave",
-        "rarity": "D.D. Telepon",
+        "pack_id": "PHSW-DE027",
         "date": "2011-11-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/DDTelepon-PHSW-EN-R-1E.jpg"

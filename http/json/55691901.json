@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55691901,
-        "pack_id": "",
         "pack": "Vol.4",
-        "rarity": "Great Bill",
+        "pack_id": "",
         "date": "1999-07-22"
     },
     "tcg": {
-        "id": 55691901,
-        "pack_id": "WCPP-EN006",
         "pack": "World Championship 2010 Card Pack",
-        "rarity": "Great Bill",
+        "pack_id": "WCPP-EN006",
         "date": "2010-08-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c2/GreatBill-WP11-EN-SR-LE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 75500286,
-        "pack_id": "VB09-JP002",
         "pack": "The Valuable Book 9",
-        "rarity": "Gold Sarcophagus",
+        "pack_id": "VB09-JP002",
         "date": "2006-08-24"
     },
     "tcg": {
-        "id": 75500286,
-        "pack_id": "SJCS-EN005",
         "pack": "Shonen Jump Championship 2007 B",
-        "rarity": "Gold Sarcophagus",
+        "pack_id": "SJCS-EN005",
         "date": "2007-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/GoldSarcophagus-SDCL-EN-C-1E.png"

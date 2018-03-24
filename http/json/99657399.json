@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99657399,
-        "pack_id": "GENF-JP063",
         "pack": "Generation Force",
-        "rarity": "Asleep at the Switch",
+        "pack_id": "GENF-JP063",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 99657399,
-        "pack_id": "GENF-EN063",
         "pack": "Generation Force",
-        "rarity": "Asleep at the Switch",
+        "pack_id": "GENF-EN063",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6b/AsleepattheSwitch-GENF-EN-C-1E.jpg"

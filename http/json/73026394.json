@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 73026394,
-        "pack_id": "DP04-JP030",
         "pack": "Duelist Pack: Zane Truesdale",
-        "rarity": "Fusion Guard",
+        "pack_id": "DP04-JP030",
         "date": "2006-10-26"
     },
     "tcg": {
-        "id": 73026394,
-        "pack_id": "DP04-EN030",
         "pack": "Duelist Pack: Zane Truesdale",
-        "rarity": "Fusion Guard",
+        "pack_id": "DP04-EN030",
         "date": "2007-03-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/FusionGuard-DP04-EN-SR-1E.png"

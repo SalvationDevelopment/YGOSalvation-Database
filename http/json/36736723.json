@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 36736723,
-        "pack_id": "SD28-JP002",
         "pack": "Structure Deck: Synchron Extreme",
-        "rarity": "Rush Warrior",
+        "pack_id": "SD28-JP002",
         "date": "2014-12-06"
     },
     "tcg": {
-        "id": 36736723,
-        "pack_id": "SDSE-DE002",
         "pack": "Synchron Extreme Structure Deck",
-        "rarity": "Rush Warrior",
+        "pack_id": "SDSE-DE002",
         "date": "2015-08-27"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d6/RushWarrior-SDSE-EN-C-1E.png"

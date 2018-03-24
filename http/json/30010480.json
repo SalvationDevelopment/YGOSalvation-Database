@@ -35,10 +35,8 @@
     ],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 30010480,
-        "pack_id": "CIBR-JP045",
         "pack": "Circuit Break",
-        "rarity": "Gouki Thunder Ogre",
+        "pack_id": "CIBR-JP045",
         "date": "2017-07-08"
     },
     "tcg": {

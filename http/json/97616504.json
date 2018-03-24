@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 98592,
     "name": "Brandish Mechanoid Hercules Base",
-    "desc": "Activate only if you control no monsters in your Main Monster Zones. The equipped monster can make up to 2 attacks on monsters during each Battle Phase, but it cannot attack directly. If the equipped monster destroys a monster by its attack while you have 3 or more Spells in your GY: Draw 1 card. If this card is sent from the field to the GY by a card effect: You can target up to 3 \"Brandish\" cards in your GY, except \"Brandish Mechanoid Hercules Base\"; shuffle them into the Deck.",
+    "desc": "Activate only if you control no monsters in your Main Monster Zone. The equipped monster cannot attack directly, but can make 2 attacks on monsters during each Battle Phase. If the equipped monster destroys a monster by battle and if you have 3 or more Spells in your GY: Draw 1 card. If this card is sent from the field to the GY by a card effect: You can target up to 3 &#x201C;Brandish&#x201D; cards in your GY, except &#x201C;Brandish Mechanoid Hercules Base&#x201D;; shuffle them into the Deck.",
     "str1": "Draw",
     "str2": "Return to Deck",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Deck Build Pack: Dark Savers",
+        "pack_id": "DBDS-JP037",
+        "date": "2018-02-24"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/97/BrandishMechanoidHerculesBase-DBDS-JP-C.png"
 }

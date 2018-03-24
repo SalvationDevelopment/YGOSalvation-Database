@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 25244515,
-        "pack_id": "SECE-JP027",
         "pack": "Secrets of Eternity",
-        "rarity": "Yosenju Tsujik",
+        "pack_id": "SECE-JP027",
         "date": "2014-11-15"
     },
     "tcg": {
-        "id": 25244515,
-        "pack_id": "SECE-DE027",
         "pack": "Secrets of Eternity",
-        "rarity": "Yosenju Tsujik",
+        "pack_id": "SECE-DE027",
         "date": "2015-01-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/aa/YosenjuTsujik-SECE-EN-C-1E.png"

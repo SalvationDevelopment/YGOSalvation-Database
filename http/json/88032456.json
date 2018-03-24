@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 88032456,
-        "pack_id": "CPD1-JP027",
         "pack": "Collectors Pack: Duelist of Destiny Version",
-        "rarity": "Mimicat",
+        "pack_id": "CPD1-JP027",
         "date": "2015-05-16"
     },
     "tcg": {
-        "id": 88032456,
-        "pack_id": "DRL2-DE027",
         "pack": "Dragons of Legend 2",
-        "rarity": "Mimicat",
+        "pack_id": "DRL2-DE027",
         "date": "2015-07-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ee/Mimicat-LED2-EN-R-1E.png"

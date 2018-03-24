@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 89974904,
-        "pack_id": "PP19-JP014",
         "pack": "Premium Pack 19",
-        "rarity": "Synchro Call",
+        "pack_id": "PP19-JP014",
         "date": "2017-03-11"
     },
     "tcg": {
-        "id": 89974904,
-        "pack_id": "DUSA-DE017",
         "pack": "Duelist Saga",
-        "rarity": "Synchro Call",
+        "pack_id": "DUSA-DE017",
         "date": "2017-03-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/66/SynchroCall-DUSA-EN-UR-1E.png"

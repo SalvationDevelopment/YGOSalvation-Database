@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65367484,
-        "pack_id": "ORCS-JP008",
         "pack": "Order of Chaos",
-        "rarity": "Photon Thrasher",
+        "pack_id": "ORCS-JP008",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 65367484,
-        "pack_id": "ORCS-EN008",
         "pack": "Order of Chaos",
-        "rarity": "Photon Thrasher",
+        "pack_id": "ORCS-EN008",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/54/PhotonThrasher-YS17-EN-C-1E.png"

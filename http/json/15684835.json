@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 15684835,
-        "pack_id": "ADDR-JP005",
         "pack": "Academy Duel Disk Osiris Red promotional cards",
-        "rarity": "Evil Blast",
+        "pack_id": "ADDR-JP005",
         "date": "2007-11-23"
     },
     "tcg": {
-        "id": 15684835,
-        "pack_id": "ABPF-DE094",
         "pack": "Absolute Powerforce",
-        "rarity": "Evil Blast",
+        "pack_id": "ABPF-DE094",
         "date": "2010-02-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3a/EvilBlast-ABPF-EN-R-1E.png"

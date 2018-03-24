@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 72053645,
-        "pack_id": "MR-20",
         "pack": "Magic Ruler",
-        "rarity": "Weather Report",
+        "pack_id": "MR-20",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 72053645,
-        "pack_id": "SRL-EN020",
         "pack": "Spell Ruler",
-        "rarity": "Weather Report",
+        "pack_id": "SRL-EN020",
         "date": "2004-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ad/WeatherReport-SRL-EN-C-UE.png"

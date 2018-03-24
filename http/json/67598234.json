@@ -35,16 +35,14 @@
     ],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 67598234,
-        "pack_id": "COTD-JP051",
         "pack": "Code of the Duelist",
-        "rarity": "Gaiasaber, the Virtual Knight",
+        "pack_id": "COTD-JP051",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE051"
+        "pack_id": "COTD-DE051",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fb/GaiaSabertheLightningShadow-COTD-EN-ScR-1E.png"
 }

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 84847656,
-        "pack_id": "TDGS-JP022",
         "pack": "The Duelist Genesis",
-        "rarity": "Telekinetic Shocker",
+        "pack_id": "TDGS-JP022",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 84847656,
-        "pack_id": "TDGS-EN022",
         "pack": "The Duelist Genesis",
-        "rarity": "Telekinetic Shocker",
+        "pack_id": "TDGS-EN022",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/52/TelekineticShocker-BP03-EN-R-1E.png"

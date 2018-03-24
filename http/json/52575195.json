@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 52575195,
-        "pack_id": "PR03-JP014",
         "pack": "Promotion Pack 3: Part B",
-        "rarity": "Vivid Knight",
+        "pack_id": "PR03-JP014",
         "date": "2013-03-16"
     },
     "tcg": {
-        "id": 52575195,
-        "pack_id": "SHSP-DE099",
         "pack": "Shadow Specters",
-        "rarity": "Vivid Knight",
+        "pack_id": "SHSP-DE099",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a2/VividKnight-SHSP-EN-R-1E.png"

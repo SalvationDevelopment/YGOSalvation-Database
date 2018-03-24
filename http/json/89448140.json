@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 89448140,
-        "pack_id": "MVP1-JP028",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Magicians' Defense",
+        "pack_id": "MVP1-JP028",
         "date": "2016-04-23"
     },
     "tcg": {
-        "id": 89448140,
-        "pack_id": "MVP1-DE028",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Magicians' Defense",
+        "pack_id": "MVP1-DE028",
         "date": "2016-07-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f6/MagiciansDefense-MVP1-EN-GUR-1E.png"

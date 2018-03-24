@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 18963306,
-        "pack_id": "CPF1-JP029",
         "pack": "Collectors Pack: Duelist of Flash Version",
-        "rarity": "Galaxy-Eyes Cipher Dragon",
+        "pack_id": "CPF1-JP029",
         "date": "2016-05-14"
     },
     "tcg": {
-        "id": 18963306,
-        "pack_id": "DRL3-DE029",
         "pack": "Dragons of Legend: Unleashed",
-        "rarity": "Galaxy-Eyes Cipher Dragon",
+        "pack_id": "DRL3-DE029",
         "date": "2016-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/83/GalaxyEyesCipherDragon-DPDG-EN-SR-1E.png"

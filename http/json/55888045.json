@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55888045,
-        "pack_id": "OG02-JP001",
         "pack": "Numbers Guide 2 promotional card",
-        "rarity": "Number C106: Giant Red Hand",
+        "pack_id": "OG02-JP001",
         "date": "2013-04-04"
     },
     "tcg": {
-        "id": 55888045,
-        "pack_id": "DRLG-DE049",
         "pack": "Dragons of Legend",
-        "rarity": "Number C106: Giant Red Hand",
+        "pack_id": "DRLG-DE049",
         "date": "2014-04-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cd/NumberC106GiantRedHand-DRLG-EN-SR-1E.png"

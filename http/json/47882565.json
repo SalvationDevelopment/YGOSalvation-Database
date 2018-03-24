@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 47882565,
-        "pack_id": "RATE-JP056",
         "pack": "Raging Tempest",
-        "rarity": "Rank-Up-Magic Cipher Ascension",
+        "pack_id": "RATE-JP056",
         "date": "2016-10-08"
     },
     "tcg": {
-        "id": 47882565,
-        "pack_id": "RATE-DE056",
         "pack": "Raging Tempest",
-        "rarity": "Rank-Up-Magic Cipher Ascension",
+        "pack_id": "RATE-DE056",
         "date": "2017-02-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ac/RankUpMagicCipherAscension-MP17-EN-C-1E.png"

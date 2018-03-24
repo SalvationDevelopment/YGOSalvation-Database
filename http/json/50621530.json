@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 50621530,
-        "pack_id": "YSD4-JP007",
         "pack": "Starter Deck 2009",
-        "rarity": "Powered Tuner",
+        "pack_id": "YSD4-JP007",
         "date": "2009-03-14"
     },
     "tcg": {
-        "id": 50621530,
-        "pack_id": "5DS2-EN007",
         "pack": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
-        "rarity": "Powered Tuner",
+        "pack_id": "5DS2-EN007",
         "date": "2009-06-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/54/PoweredTuner-5DS2-EN-C-1E.png"

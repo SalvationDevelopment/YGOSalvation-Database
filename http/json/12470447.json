@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12470447,
-        "pack_id": "MR-32",
         "pack": "Magic Ruler",
-        "rarity": "Curse of Fiend",
+        "pack_id": "MR-32",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 12470447,
-        "pack_id": "SRL-EN032",
         "pack": "Spell Ruler",
-        "rarity": "Curse of Fiend",
+        "pack_id": "SRL-EN032",
         "date": "2004-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f9/CurseofFiend-SRL-EN-SP-UE.jpg"

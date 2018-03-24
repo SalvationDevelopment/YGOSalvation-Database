@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65984457,
-        "pack_id": "EXP1-JP014",
         "pack": "Extra Pack",
-        "rarity": "Gladiator Beast Torax",
+        "pack_id": "EXP1-JP014",
         "date": "2008-09-13"
     },
     "tcg": {
-        "id": 65984457,
-        "pack_id": "GLAS-IT081",
         "pack": "Gladiator's Assault",
-        "rarity": "Gladiator Beast Torax",
+        "pack_id": "GLAS-IT081",
         "date": "2007-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0d/GladiatorBeastTorax-GLAS-EN-SR-1E.png"

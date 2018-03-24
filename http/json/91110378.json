@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 91110378,
-        "pack_id": "DUEA-JP085",
         "pack": "Duelist Alliance",
-        "rarity": "Star Seraph Sovereignty",
+        "pack_id": "DUEA-JP085",
         "date": "2014-04-19"
     },
     "tcg": {
-        "id": 91110378,
-        "pack_id": "WSUP-DE020",
         "pack": "World Superstars",
-        "rarity": "Star Seraph Sovereignty",
+        "pack_id": "WSUP-DE020",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0f/StarSeraphSovereignty-WSUP-EN-PScR-1E.png"

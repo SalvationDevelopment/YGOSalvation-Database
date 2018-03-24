@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 24611934,
-        "pack_id": "",
         "pack": "EX Starter Box",
-        "rarity": "Ryu-Kishin Powered",
+        "pack_id": "",
         "date": "1999-12-16"
     },
     "tcg": {
-        "id": 24611934,
-        "pack_id": "SDK-024",
         "pack": "Starter Deck: Kaiba",
-        "rarity": "Ryu-Kishin Powered",
+        "pack_id": "SDK-024",
         "date": "2002-03-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/30/RyuKishinPowered-DB2-EN-C-UE.png"

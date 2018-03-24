@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 13604200,
-        "pack_id": "GB8-003",
         "pack": "GameBoy Duel Monsters Promos: Series 8",
-        "rarity": "Sage's Stone",
+        "pack_id": "GB8-003",
         "date": "2003-03-20"
     },
     "tcg": {
-        "id": 13604200,
-        "pack_id": "ROD-EN003",
         "pack": "Yu-Gi-Oh! Reshef of Destruction Bundles",
-        "rarity": "Sage's Stone",
+        "pack_id": "ROD-EN003",
         "date": "2004-06-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/74/SagesStone-LCYW-EN-R-1E.png"

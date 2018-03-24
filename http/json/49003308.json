@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 49003308,
-        "pack_id": "305-001",
         "pack": "Threat of the Dark Demon World",
-        "rarity": "Gagagigo",
+        "pack_id": "305-001",
         "date": "2003-02-20"
     },
     "tcg": {
-        "id": 49003308,
-        "pack_id": "DCR-054",
         "pack": "Dark Crisis",
-        "rarity": "Gagagigo",
+        "pack_id": "DCR-054",
         "date": "2003-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/98/Gagagigo-DR1-EN-C-UE.png"

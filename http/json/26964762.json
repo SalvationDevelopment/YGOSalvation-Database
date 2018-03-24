@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 26964762,
-        "pack_id": "SPDS-JP005",
         "pack": "Booster SP: Destiny Soldiers",
-        "rarity": "Destiny HERO - Dark Angel",
+        "pack_id": "SPDS-JP005",
         "date": "2016-08-06"
     },
     "tcg": {
-        "id": 26964762,
-        "pack_id": "DESO-DE005",
         "pack": "Destiny Soldiers",
-        "rarity": "Destiny HERO - Dark Angel",
+        "pack_id": "DESO-DE005",
         "date": "2016-11-17"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9d/DestinyHERODarkAngel-DESO-EN-ScR-1E.png"

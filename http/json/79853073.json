@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 79853073,
-        "pack_id": "S2-02",
         "pack": "PlayStation True Duel Monsters Promos: Series 2",
-        "rarity": "Cipher Soldier",
+        "pack_id": "S2-02",
         "date": "2001-09-06"
     },
     "tcg": {
-        "id": 79853073,
-        "pack_id": "WC4-002",
         "pack": "Yu-Gi-Oh! World Championship Tournament 2004 Bundles",
-        "rarity": "Cipher Soldier",
+        "pack_id": "WC4-002",
         "date": "2004-02-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/09/CipherSoldier-OP03-EN-C-UE.png"

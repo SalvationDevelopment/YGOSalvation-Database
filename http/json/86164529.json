@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 86164529,
-        "pack_id": "",
         "pack": "Booster 4",
-        "rarity": "Aqua Dragon",
+        "pack_id": "",
         "date": "1999-08-26"
     },
     "tcg": {
-        "id": 86164529,
-        "pack_id": "MDP2-EN013",
         "pack": "McDonald's Promotional Cards 2",
-        "rarity": "Aqua Dragon",
+        "pack_id": "MDP2-EN013",
         "date": "2006-12-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/29/AquaDragon-MDP2-EN-C-LE.png"

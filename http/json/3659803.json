@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 3659803,
-        "pack_id": "POTD-JP042",
         "pack": "Power of the Duelist",
-        "rarity": "Overload Fusion",
+        "pack_id": "POTD-JP042",
         "date": "2006-05-18"
     },
     "tcg": {
-        "id": 3659803,
-        "pack_id": "POTD-DE042",
         "pack": "Power of the Duelist",
-        "rarity": "Overload Fusion",
+        "pack_id": "POTD-DE042",
         "date": "2006-08-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/OverloadFusion-OP06-EN-SR-UE.png"

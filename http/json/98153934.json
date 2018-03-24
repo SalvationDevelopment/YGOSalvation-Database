@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 98153934,
-        "pack_id": "SPWR-JP008",
         "pack": "Booster SP: Wing Raiders",
-        "rarity": "Phantom Knights' Spear",
+        "pack_id": "SPWR-JP008",
         "date": "2015-11-14"
     },
     "tcg": {
-        "id": 98153934,
-        "pack_id": "WIRA-DE008",
         "pack": "Wing Raiders",
-        "rarity": "Phantom Knights' Spear",
+        "pack_id": "WIRA-DE008",
         "date": "2016-02-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/be/PhantomKnightsSpear-WIRA-EN-R-1E.png"

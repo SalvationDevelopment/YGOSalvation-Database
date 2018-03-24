@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 17183908,
-        "pack_id": "DUEA-JP061",
         "pack": "Duelist Alliance",
-        "rarity": "Yang Zing Path",
+        "pack_id": "DUEA-JP061",
         "date": "2014-04-19"
     },
     "tcg": {
-        "id": 17183908,
-        "pack_id": "DUEA-DE061",
         "pack": "Duelist Alliance",
-        "rarity": "Yang Zing Path",
+        "pack_id": "DUEA-DE061",
         "date": "2014-08-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/15/YangZingPath-MP15-EN-ScR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 32104431,
-        "pack_id": "TDIL-JP075",
         "pack": "The Dark Illusion",
-        "rarity": "Destruction Sword Memories",
+        "pack_id": "TDIL-JP075",
         "date": "2016-04-09"
     },
     "tcg": {
-        "id": 32104431,
-        "pack_id": "TDIL-DE075",
         "pack": "The Dark Illusion",
-        "rarity": "Destruction Sword Memories",
+        "pack_id": "TDIL-DE075",
         "date": "2016-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/94/DestructionSwordMemories-MP17-EN-C-1E.png"

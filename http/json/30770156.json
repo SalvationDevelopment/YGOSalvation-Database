@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 30770156,
-        "pack_id": "EXP3-JP040",
         "pack": "Extra Pack Volume 3",
-        "rarity": "Core Transport Unit",
+        "pack_id": "EXP3-JP040",
         "date": "2010-09-18"
     },
     "tcg": {
-        "id": 30770156,
-        "pack_id": "ABPF-DE089",
         "pack": "Absolute Powerforce",
-        "rarity": "Core Transport Unit",
+        "pack_id": "ABPF-DE089",
         "date": "2010-02-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e2/CoreTransportUnit-ABPF-EN-ScR-1E.png"

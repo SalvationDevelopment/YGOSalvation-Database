@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 20721929,
-        "pack_id": "TLM-JP004",
         "pack": "The Lost Millennium",
-        "rarity": "Elemental HERO Sparkman",
+        "pack_id": "TLM-JP004",
         "date": "2005-02-24"
     },
     "tcg": {
-        "id": 20721929,
-        "pack_id": "TLM-EN004",
         "pack": "The Lost Millennium",
-        "rarity": "Elemental HERO Sparkman",
+        "pack_id": "TLM-EN004",
         "date": "2005-05-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/ff/ElementalHEROSparkman-DEM2-EN-C-UE.png"

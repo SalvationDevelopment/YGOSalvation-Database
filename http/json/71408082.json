@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 71408082,
-        "pack_id": "CPD1-JP018",
         "pack": "Collectors Pack: Duelist of Destiny Version",
-        "rarity": "Paladin of Dark Dragon",
+        "pack_id": "CPD1-JP018",
         "date": "2015-05-16"
     },
     "tcg": {
-        "id": 71408082,
-        "pack_id": "DRL2-DE018",
         "pack": "Dragons of Legend 2",
-        "rarity": "Paladin of Dark Dragon",
+        "pack_id": "DRL2-DE018",
         "date": "2015-07-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c2/PaladinofDarkDragon-DRL2-EN-ScR-1E.png"

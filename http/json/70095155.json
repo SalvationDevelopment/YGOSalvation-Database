@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 70095155,
-        "pack_id": "CRV-JP015",
         "pack": "Cybernetic Revolution",
-        "rarity": "Cyber Dragon",
+        "pack_id": "CRV-JP015",
         "date": "2005-05-26"
     },
     "tcg": {
-        "id": 70095155,
-        "pack_id": "CRV-DE015",
         "pack": "Cybernetic Revolution",
-        "rarity": "Cyber Dragon",
+        "pack_id": "CRV-DE015",
         "date": "2005-08-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/35/CyberDragon-LEDD-EN-C-1E.png"

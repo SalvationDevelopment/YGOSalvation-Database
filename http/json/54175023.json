@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 54175023,
-        "pack_id": "MVP1-JP024",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Dimension Guardian",
+        "pack_id": "MVP1-JP024",
         "date": "2016-04-23"
     },
     "tcg": {
-        "id": 54175023,
-        "pack_id": "MVP1-DE024",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Dimension Guardian",
+        "pack_id": "MVP1-DE024",
         "date": "2016-07-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/32/DimensionGuardian-MVP1-EN-GUR-1E.png"

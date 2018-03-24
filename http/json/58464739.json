@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 58464739,
-        "pack_id": "COTD-JP069",
         "pack": "Code of the Duelist",
-        "rarity": "Pulse Bomb",
+        "pack_id": "COTD-JP069",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE069"
+        "pack_id": "COTD-DE069",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dc/PulseMines-COTD-EN-C-UE.png"
 }

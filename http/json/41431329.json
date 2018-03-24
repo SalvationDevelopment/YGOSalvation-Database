@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 41431329,
-        "pack_id": "DT09-JP030",
-        "pack": "DT09",
-        "rarity": "Vylon Cube",
-        "date": "2012-06-04"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 41431329,
-        "pack_id": "DT05-EN030",
         "pack": "Duel Terminal 5a",
-        "rarity": "Vylon Cube",
+        "pack_id": "DT05-EN030",
         "date": "2011-05-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/57/VylonCube-HA05-EN-SR-UE.png"

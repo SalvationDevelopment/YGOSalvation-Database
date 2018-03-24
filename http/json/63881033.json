@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63881033,
-        "pack_id": "DUEA-JP090",
         "pack": "Duelist Alliance",
-        "rarity": "Marshalling Field",
+        "pack_id": "DUEA-JP090",
         "date": "2014-04-19"
     },
     "tcg": {
-        "id": 63881033,
-        "pack_id": "WSUP-DE025",
         "pack": "World Superstars",
-        "rarity": "Marshalling Field",
+        "pack_id": "WSUP-DE025",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/14/MarshallingField-WSUP-EN-PScR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 46871387,
-        "pack_id": "PRIO-JP082",
         "pack": "Primal Origin",
-        "rarity": "Number 55: Gogogo Goliath",
+        "pack_id": "PRIO-JP082",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 46871387,
-        "pack_id": "WSUP-DE007",
         "pack": "World Superstars",
-        "rarity": "Number 55: Gogogo Goliath",
+        "pack_id": "WSUP-DE007",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/59/Number55GogogoGoliath-WSUP-EN-SR-1E.png"

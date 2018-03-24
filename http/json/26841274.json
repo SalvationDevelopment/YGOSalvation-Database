@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 26841274,
-        "pack_id": "SPDS-JP008",
         "pack": "Booster SP: Destiny Soldiers",
-        "rarity": "D-Fusion",
+        "pack_id": "SPDS-JP008",
         "date": "2016-08-06"
     },
     "tcg": {
-        "id": 26841274,
-        "pack_id": "DESO-DE008",
         "pack": "Destiny Soldiers",
-        "rarity": "D-Fusion",
+        "pack_id": "DESO-DE008",
         "date": "2016-11-17"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/07/DFusion-DESO-EN-ScR-1E.png"

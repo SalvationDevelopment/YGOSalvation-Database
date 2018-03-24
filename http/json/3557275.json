@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 3557275,
-        "pack_id": "LVAL-JP001",
         "pack": "Legacy of the Valiant",
-        "rarity": "White Duston",
+        "pack_id": "LVAL-JP001",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 3557275,
-        "pack_id": "LVAL-DE001",
         "pack": "Legacy of the Valiant",
-        "rarity": "White Duston",
+        "pack_id": "LVAL-DE001",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/WhiteDuston-LVAL-EN-SP-UE.png"

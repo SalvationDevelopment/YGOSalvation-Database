@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63049052,
-        "pack_id": "LVAL-JP075",
         "pack": "Legacy of the Valiant",
-        "rarity": "Bujin Regalia - The Jewel",
+        "pack_id": "LVAL-JP075",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 63049052,
-        "pack_id": "LVAL-DE075",
         "pack": "Legacy of the Valiant",
-        "rarity": "Bujin Regalia - The Jewel",
+        "pack_id": "LVAL-DE075",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7b/BujinRegaliaTheJewel-MP14-EN-C-1E.png"

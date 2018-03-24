@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64389297,
-        "pack_id": "PS-08",
         "pack": "Pharaoh's Servant",
-        "rarity": "Magical Labyrinth",
+        "pack_id": "PS-08",
         "date": "2000-07-13"
     },
     "tcg": {
-        "id": 64389297,
-        "pack_id": "SRL-EN059",
         "pack": "Spell Ruler",
-        "rarity": "Magical Labyrinth",
+        "pack_id": "SRL-EN059",
         "date": "2004-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/27/MagicalLabyrinth-LCJW-EN-C-1E.png"

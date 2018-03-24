@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 16638212,
-        "pack_id": "STOR-JP004",
         "pack": "Storm of Ragnarok",
-        "rarity": "D.D. Sprite",
+        "pack_id": "STOR-JP004",
         "date": "2010-11-13"
     },
     "tcg": {
-        "id": 16638212,
-        "pack_id": "STOR-EN004",
         "pack": "Storm of Ragnarok",
-        "rarity": "D.D. Sprite",
+        "pack_id": "STOR-EN004",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6e/DDSprite-SR05-EN-C-1E.png"

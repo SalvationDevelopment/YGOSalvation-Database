@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55599882,
-        "pack_id": "PRIO-JP064",
         "pack": "Primal Origin",
-        "rarity": "Bujintervention",
+        "pack_id": "PRIO-JP064",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 55599882,
-        "pack_id": "LVAL-DEDE4",
         "pack": "Legacy of the Valiant: Deluxe Edition",
-        "rarity": "Bujintervention",
+        "pack_id": "LVAL-DEDE4",
         "date": "2014-03-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b5/Bujintervention-MP15-EN-C-1E.png"

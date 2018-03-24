@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 73648243,
-        "pack_id": "SOI-JP032",
         "pack": "Shadow of Infinity",
-        "rarity": "Sand Moth",
+        "pack_id": "SOI-JP032",
         "date": "2005-11-17"
     },
     "tcg": {
-        "id": 73648243,
-        "pack_id": "SOI-EN032",
         "pack": "Shadow of Infinity",
-        "rarity": "Sand Moth",
+        "pack_id": "SOI-EN032",
         "date": "2006-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/23/SandMoth-DR04-NA-R-UE.png"

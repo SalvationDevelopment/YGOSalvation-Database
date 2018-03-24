@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63595262,
-        "pack_id": "DREV-JP055",
         "pack": "Duelist Revolution",
-        "rarity": "Unicorn Beacon",
+        "pack_id": "DREV-JP055",
         "date": "2010-04-17"
     },
     "tcg": {
-        "id": 63595262,
-        "pack_id": "DREV-EN055",
         "pack": "Duelist Revolution",
-        "rarity": "Unicorn Beacon",
+        "pack_id": "DREV-EN055",
         "date": "2010-08-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/06/UnicornBeacon-DREV-EN-SR-1E.jpg"

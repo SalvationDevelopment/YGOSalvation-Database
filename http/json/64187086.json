@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64187086,
-        "pack_id": "EXP3-JP028",
         "pack": "Extra Pack Volume 3",
-        "rarity": "Earthbound Revival",
+        "pack_id": "EXP3-JP028",
         "date": "2010-09-18"
     },
     "tcg": {
-        "id": 64187086,
-        "pack_id": "SOVR-DE087",
         "pack": "Stardust Overdrive",
-        "rarity": "Earthbound Revival",
+        "pack_id": "SOVR-DE087",
         "date": "2009-11-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/44/EarthboundRevival-LC5D-EN-C-1E.png"

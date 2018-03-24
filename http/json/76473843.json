@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 76473843,
-        "pack_id": "DOCS-JP058",
         "pack": "Dimension of Chaos",
-        "rarity": "Majesty's Pegasus",
+        "pack_id": "DOCS-JP058",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 76473843,
-        "pack_id": "DOCS-DE058",
         "pack": "Dimension of Chaos",
-        "rarity": "Majesty's Pegasus",
+        "pack_id": "DOCS-DE058",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ab/MajestysPegasus-DOCS-EN-SR-1E.png"

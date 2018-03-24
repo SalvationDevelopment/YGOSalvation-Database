@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 97617181,
-        "pack_id": "DP13-JP029",
         "pack": "Duelist Pack: Kaito Edition",
-        "rarity": "Galaxy Zero",
+        "pack_id": "DP13-JP029",
         "date": "2012-09-15"
     },
     "tcg": {
-        "id": 97617181,
-        "pack_id": "ZTIN-DE018",
         "pack": "Zexal Collection",
-        "rarity": "Galaxy Zero",
+        "pack_id": "ZTIN-DE018",
         "date": "2013-03-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5a/GalaxyZero-ZTIN-EN-SR-1E.png"

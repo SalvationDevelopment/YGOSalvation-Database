@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 48539234,
-        "pack_id": "CA-24",
         "pack": "Curse of Anubis",
-        "rarity": "Appropriate",
+        "pack_id": "CA-24",
         "date": "2000-09-28"
     },
     "tcg": {
-        "id": 48539234,
-        "pack_id": "PSV-024",
         "pack": "Pharaoh's Servant",
-        "rarity": "Appropriate",
+        "pack_id": "PSV-024",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6a/Appropriate-RP02-EN-C-UE.png"

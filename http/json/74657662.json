@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 74657662,
-        "pack_id": "DT09-JP045",
-        "pack": "DT09",
-        "rarity": "Vylon Material",
-        "date": "2012-06-04"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 74657662,
-        "pack_id": "DT05-EN045",
         "pack": "Duel Terminal 5a",
-        "rarity": "Vylon Material",
+        "pack_id": "DT05-EN045",
         "date": "2011-05-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/VylonMaterial-HA05-EN-SR-UE.png"

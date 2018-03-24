@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 26022485,
-        "pack_id": "SOD-JP053",
         "pack": "Soul of the Duelist",
-        "rarity": "レア仕様",
+        "pack_id": "SOD-JP053",
         "date": "2004-05-27"
     },
     "tcg": {
-        "id": 26022485,
-        "pack_id": "SOD-DE053",
         "pack": "Soul of the Duelist",
-        "rarity": "Rare",
+        "pack_id": "SOD-DE053",
         "date": "2004-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/eb/EnervatingMist-DR3-EN-R-UE.png"

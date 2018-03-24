@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 96355986,
-        "pack_id": "CA-15",
         "pack": "Curse of Anubis",
-        "rarity": "Enchanted Javelin",
+        "pack_id": "CA-15",
         "date": "2000-09-28"
     },
     "tcg": {
-        "id": 96355986,
-        "pack_id": "PSV-015",
         "pack": "Pharaoh's Servant",
-        "rarity": "Enchanted Javelin",
+        "pack_id": "PSV-015",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6a/EnchantedJavelin-PSV-EU-C-UE.png"

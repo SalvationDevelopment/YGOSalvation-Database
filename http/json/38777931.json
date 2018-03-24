@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 38777931,
-        "pack_id": "LVAL-JP071",
         "pack": "Legacy of the Valiant",
-        "rarity": "Release, Reverse, Burst",
+        "pack_id": "LVAL-JP071",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 38777931,
-        "pack_id": "LVAL-DE071",
         "pack": "Legacy of the Valiant",
-        "rarity": "Release, Reverse, Burst",
+        "pack_id": "LVAL-DE071",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/23/ReleaseReverseBurst-LVAL-EN-C-1E.png"

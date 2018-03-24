@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 28637168,
-        "pack_id": "ST13-JPV06",
         "pack": "Starter Deck 2013 Enhancement Pack",
-        "rarity": "Crane Crane",
+        "pack_id": "ST13-JPV06",
         "date": "2013-03-16"
     },
     "tcg": {
-        "id": 28637168,
-        "pack_id": "YS13-DEV06",
         "pack": "Super Starter Power-Up Pack",
-        "rarity": "Crane Crane",
+        "pack_id": "YS13-DEV06",
         "date": "2013-06-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/83/CraneCrane-SDCL-EN-C-1E.png"

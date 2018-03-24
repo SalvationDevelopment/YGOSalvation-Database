@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81777047,
-        "pack_id": "PS-49",
         "pack": "Pharaoh's Servant",
-        "rarity": "Luminous Spark",
+        "pack_id": "PS-49",
         "date": "2000-07-13"
     },
     "tcg": {
-        "id": 81777047,
-        "pack_id": "DB1-EN063",
         "pack": "Dark Beginning 1",
-        "rarity": "Luminous Spark",
+        "pack_id": "DB1-EN063",
         "date": "2004-10-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f9/LuminousSpark-DLG1-NA-C-UE.png"

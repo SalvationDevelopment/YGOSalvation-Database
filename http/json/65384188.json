@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65384188,
-        "pack_id": "LVAL-JP069",
         "pack": "Legacy of the Valiant",
-        "rarity": "Stand-Off",
+        "pack_id": "LVAL-JP069",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 65384188,
-        "pack_id": "LVAL-DE069",
         "pack": "Legacy of the Valiant",
-        "rarity": "Stand-Off",
+        "pack_id": "LVAL-DE069",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c6/StandOff-LVAL-EN-SP-1E.png"

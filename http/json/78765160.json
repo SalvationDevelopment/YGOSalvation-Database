@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 78765160,
-        "pack_id": "RATE-JP074",
         "pack": "Raging Tempest",
-        "rarity": "Shiranui Style Samsara",
+        "pack_id": "RATE-JP074",
         "date": "2016-10-08"
     },
     "tcg": {
-        "id": 78765160,
-        "pack_id": "RATE-DE074",
         "pack": "Raging Tempest",
-        "rarity": "Shiranui Style Samsara",
+        "pack_id": "RATE-DE074",
         "date": "2017-02-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/ShiranuiStyleSamsara-MP17-EN-C-1E.png"

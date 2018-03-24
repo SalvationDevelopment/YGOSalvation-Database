@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 97385276,
-        "pack_id": "RGBT-JP002",
         "pack": "Raging Battle",
-        "rarity": "Level Warrior",
+        "pack_id": "RGBT-JP002",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 97385276,
-        "pack_id": "RGBT-EN002",
         "pack": "Raging Battle",
-        "rarity": "Level Warrior",
+        "pack_id": "RGBT-EN002",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/06/LevelWarrior-BP01-EN-C-1E.png"

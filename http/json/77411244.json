@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 77411244,
-        "pack_id": "SDKS-JP002",
         "pack": "Structure Deck: Seto Kaiba",
-        "rarity": "B-Buster Drake",
+        "pack_id": "SDKS-JP002",
         "date": "2016-06-18"
     },
     "tcg": {
-        "id": 77411244,
-        "pack_id": "SDKS-DE002",
         "pack": "Structure Deck: Seto Kaiba",
-        "rarity": "B-Buster Drake",
+        "pack_id": "SDKS-DE002",
         "date": "2016-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/10/BBusterDrake-LCKC-EN-ScR-1E.png"

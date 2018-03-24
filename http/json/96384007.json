@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 96384007,
-        "pack_id": "PP9-JP006",
         "pack": "Premium Pack 9",
-        "rarity": "Machina Defender",
+        "pack_id": "PP9-JP006",
         "date": "2005-12-17"
     },
     "tcg": {
-        "id": 96384007,
-        "pack_id": "SDMM-DE008",
         "pack": "Machina Mayhem Structure Deck",
-        "rarity": "Machina Defender",
+        "pack_id": "SDMM-DE008",
         "date": "2010-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b1/MachinaDefender-LCYW-EN-ScR-UE.png"

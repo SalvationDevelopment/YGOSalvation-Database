@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 13220032,
-        "pack_id": "DT09-JP032",
-        "pack": "デュエルターミナル 「ヴァイロン降臨！！」",
-        "rarity": "共通",
-        "date": 1272344400000
-    },
+    "ocg": {},
     "tcg": {
-        "id": 13220032,
-        "pack_id": "DT05-EN032",
         "pack": "Duel Terminal 5a",
-        "rarity": "Vylon Charger",
+        "pack_id": "DT05-EN032",
         "date": "2011-05-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/00/VylonCharger-HA05-EN-SR-UE.png"

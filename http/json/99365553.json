@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99365553,
-        "pack_id": "SD22-KR001",
         "pack": "Structure Deck: Dragonic Legion",
-        "rarity": "Lightpulsar Dragon",
+        "pack_id": "SD22-KR001",
         "date": "2011-03-06"
     },
     "tcg": {
-        "id": 99365553,
-        "pack_id": "SDDC-DE001",
         "pack": "Dragons Collide Structure Deck",
-        "rarity": "Lightpulsar Dragon",
+        "pack_id": "SDDC-DE001",
         "date": "2012-02-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/00/LightpulsarDragon-PGLD-EN-GUR-1E.png"

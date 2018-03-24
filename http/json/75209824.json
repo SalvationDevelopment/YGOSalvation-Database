@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 75209824,
-        "pack_id": "TLM-JP021",
         "pack": "The Lost Millennium",
-        "rarity": "Guardian Statue",
+        "pack_id": "TLM-JP021",
         "date": "2005-02-24"
     },
     "tcg": {
-        "id": 75209824,
-        "pack_id": "TLM-EN021",
         "pack": "The Lost Millennium",
-        "rarity": "Guardian Statue",
+        "pack_id": "TLM-EN021",
         "date": "2005-05-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/GuardianStatue-DR3-EN-C-UE.png"

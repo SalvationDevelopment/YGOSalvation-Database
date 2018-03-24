@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 42291297,
-        "pack_id": "CPF1-JP039",
         "pack": "Collectors Pack: Duelist of Flash Version",
-        "rarity": "Flower Cardian Lightshower",
+        "pack_id": "CPF1-JP039",
         "date": "2016-05-14"
     },
     "tcg": {
-        "id": 42291297,
-        "pack_id": "DRL3-DE039",
         "pack": "Dragons of Legend: Unleashed",
-        "rarity": "Flower Cardian Lightshower",
+        "pack_id": "DRL3-DE039",
         "date": "2016-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/23/FlowerCardianLightshower-DRL3-EN-ScR-1E.png"

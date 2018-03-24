@@ -2,7 +2,7 @@
     "id": 67466547,
     "ot": 1,
     "alias": 0,
-    "setcode": 276,
+    "setcode": 532,
     "type": 33,
     "atk": 0,
     "def": 2000,
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Deck Build Pack: Dark Savers",
+        "pack_id": "DBDS-JP016",
+        "date": "2018-02-24"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/31/HelmerHelmsmanoftheSkyfangBrigade-DBDS-JP-C.png"
 }

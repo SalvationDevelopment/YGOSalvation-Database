@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 31111109,
-        "pack_id": "MG02-JP002",
         "pack": "Master Guide 2 promotional cards",
-        "rarity": "Elemental HERO Divine Neos",
+        "pack_id": "MG02-JP002",
         "date": "2008-03-28"
     },
     "tcg": {
-        "id": 31111109,
-        "pack_id": "CSOC-EN098",
         "pack": "Crossroads of Chaos",
-        "rarity": "Elemental HERO Divine Neos",
+        "pack_id": "CSOC-EN098",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bf/ElementalHERODivineNeos-RYMP-EN-C-1E.jpg"

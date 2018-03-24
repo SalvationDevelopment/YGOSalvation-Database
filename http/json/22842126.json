@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 22842126,
-        "pack_id": "SR01-JP023",
         "pack": "Structure Deck R: Advent of the True Monarch",
-        "rarity": "Pantheism of the Monarchs",
+        "pack_id": "SR01-JP023",
         "date": "2015-09-19"
     },
     "tcg": {
-        "id": 22842126,
-        "pack_id": "SR01-DE023",
         "pack": "Emperor of Darkness Structure Deck",
-        "rarity": "Pantheism of the Monarchs",
+        "pack_id": "SR01-DE023",
         "date": "2016-01-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9f/PantheismoftheMonarchs-SR01-EN-SR-1E.png"

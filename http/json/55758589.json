@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55758589,
-        "pack_id": "PP14-JP002",
         "pack": "Premium Pack 14",
-        "rarity": "Photon Wyvern",
+        "pack_id": "PP14-JP002",
         "date": "2012-03-17"
     },
     "tcg": {
-        "id": 55758589,
-        "pack_id": "PRC1-DE015",
         "pack": "Premium Collection",
-        "rarity": "Photon Wyvern",
+        "pack_id": "PRC1-DE015",
         "date": "2012-03-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/39/PhotonWyvern-BP02-EN-R-1E.png"

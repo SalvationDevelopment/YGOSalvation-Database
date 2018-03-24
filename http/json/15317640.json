@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 15317640,
-        "pack_id": "SOI-JP013",
         "pack": "Shadow of Infinity",
-        "rarity": "B.E.S. Covered Core",
+        "pack_id": "SOI-JP013",
         "date": "2005-11-17"
     },
     "tcg": {
-        "id": 15317640,
-        "pack_id": "SOI-EN013",
         "pack": "Shadow of Infinity",
-        "rarity": "B.E.S. Covered Core",
+        "pack_id": "SOI-EN013",
         "date": "2006-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/BESCoveredCore-DR04-NA-SR-UE.png"

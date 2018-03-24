@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 31571902,
-        "pack_id": "SD15-JP002",
         "pack": "Structure Deck: Undead World",
-        "rarity": "Malevolent Mech - Goku En",
+        "pack_id": "SD15-JP002",
         "date": "2008-06-21"
     },
     "tcg": {
-        "id": 31571902,
-        "pack_id": "SDZW-DE002",
         "pack": "Zombie World Structure Deck",
-        "rarity": "Malevolent Mech - Goku En",
+        "pack_id": "SDZW-DE002",
         "date": "2008-10-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ef/MalevolentMechGokuEn-LCJW-EN-C-1E.png"

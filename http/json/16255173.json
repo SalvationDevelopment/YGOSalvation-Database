@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 16255173,
-        "pack_id": "CPF1-JP008",
         "pack": "Collectors Pack: Duelist of Flash Version",
-        "rarity": "The Grand Jupiter",
+        "pack_id": "CPF1-JP008",
         "date": "2016-05-14"
     },
     "tcg": {
-        "id": 16255173,
-        "pack_id": "DRL3-DE008",
         "pack": "Dragons of Legend: Unleashed",
-        "rarity": "The Grand Jupiter",
+        "pack_id": "DRL3-DE008",
         "date": "2016-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/19/TheGrandJupiter-DRL3-EN-ScR-1E.png"

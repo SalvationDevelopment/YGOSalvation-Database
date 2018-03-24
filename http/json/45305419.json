@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45305419,
-        "pack_id": "SOI-JP043",
         "pack": "Shadow of Infinity",
-        "rarity": "Symbol of Heritage",
+        "pack_id": "SOI-JP043",
         "date": "2005-11-17"
     },
     "tcg": {
-        "id": 45305419,
-        "pack_id": "SOI-EN043",
         "pack": "Shadow of Infinity",
-        "rarity": "Symbol of Heritage",
+        "pack_id": "SOI-EN043",
         "date": "2006-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1a/SymbolofHeritage-DR04-NA-C-UE.png"

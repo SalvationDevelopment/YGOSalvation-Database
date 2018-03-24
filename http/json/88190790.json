@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 88190790,
-        "pack_id": "ADDR-JP004",
         "pack": "Academy Duel Disk Osiris Red promotional cards",
-        "rarity": "Assault Armor",
+        "pack_id": "ADDR-JP004",
         "date": "2007-11-23"
     },
     "tcg": {
-        "id": 88190790,
-        "pack_id": "CRMS-EN092",
         "pack": "Crimson Crisis",
-        "rarity": "Assault Armor",
+        "pack_id": "CRMS-EN092",
         "date": "2009-02-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fa/AssaultArmor-DT04-EN-DRPR-DT.jpg"

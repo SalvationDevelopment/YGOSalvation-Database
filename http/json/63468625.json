@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63468625,
-        "pack_id": "VJMP-JP055",
         "pack": "V Jump February 2011 promotional card",
-        "rarity": "Meklord Astro Mekanikle",
+        "pack_id": "VJMP-JP055",
         "date": "2010-12-18"
     },
     "tcg": {
-        "id": 63468625,
-        "pack_id": "WQ11-EN001",
         "pack": "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2011 Qualifier",
-        "rarity": "Meklord Astro Mekanikle",
+        "pack_id": "WQ11-EN001",
         "date": "2011-05-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ec/MeklordAstroMekanikle-LC5D-EN-ScR-1E.png"

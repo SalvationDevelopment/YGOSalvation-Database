@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 8785161,
-        "pack_id": "DOCS-JP013",
         "pack": "Dimension of Chaos",
-        "rarity": "Raidraptor - Wild Vulture",
+        "pack_id": "DOCS-JP013",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 8785161,
-        "pack_id": "DOCS-DE013",
         "pack": "Dimension of Chaos",
-        "rarity": "Raidraptor - Wild Vulture",
+        "pack_id": "DOCS-DE013",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2a/RaidraptorWildVulture-MP16-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 21323861,
-        "pack_id": "",
         "pack": "Vol.4",
-        "rarity": "Acid Rain",
+        "pack_id": "",
         "date": "1999-07-22"
     },
     "tcg": {
-        "id": 21323861,
-        "pack_id": "DL8-EN001",
         "pack": "Duelist League Series 8 participation card",
-        "rarity": "Acid Rain",
+        "pack_id": "DL8-EN001",
         "date": "2005-06-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/01/AcidRain-DT02-EN-DNPR-DT.png"

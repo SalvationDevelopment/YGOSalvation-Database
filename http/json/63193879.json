@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63193879,
-        "pack_id": "DP15-JP004",
         "pack": "Duelist Pack: Kamishiro Siblings Edition",
-        "rarity": "Saber Shark",
+        "pack_id": "DP15-JP004",
         "date": "2013-10-19"
     },
     "tcg": {
-        "id": 63193879,
-        "pack_id": "DUSA-DE004",
         "pack": "Duelist Saga",
-        "rarity": "Saber Shark",
+        "pack_id": "DUSA-DE004",
         "date": "2017-03-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f5/SaberShark-DUSA-EN-UR-1E.png"

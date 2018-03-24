@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 33725002,
-        "pack_id": "JOTL-JP002",
         "pack": "Judgment of the Light",
-        "rarity": "V Salamander",
+        "pack_id": "JOTL-JP002",
         "date": "2013-04-20"
     },
     "tcg": {
-        "id": 33725002,
-        "pack_id": "JOTL-DE002",
         "pack": "Judgment of the Light",
-        "rarity": "V Salamander",
+        "pack_id": "JOTL-DE002",
         "date": "2013-08-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/30/VSalamander-JOTL-EN-R-1E.png"

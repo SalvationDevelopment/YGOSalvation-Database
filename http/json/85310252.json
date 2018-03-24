@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 85310252,
-        "pack_id": "VE10-JP004",
         "pack": "V Jump Edition 10",
-        "rarity": "Dododo Driver",
+        "pack_id": "VE10-JP004",
         "date": "2014-01-11"
     },
     "tcg": {
-        "id": 85310252,
-        "pack_id": "NECH-DE093",
         "pack": "The New Challengers",
-        "rarity": "Dododo Driver",
+        "pack_id": "NECH-DE093",
         "date": "2014-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/97/DododoDriver-NECH-EN-C-1E.png"

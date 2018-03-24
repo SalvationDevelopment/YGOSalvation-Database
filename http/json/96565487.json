@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 96565487,
-        "pack_id": "DT01-JP011",
         "pack": "Duel Terminal - Synchro Awakening!!",
-        "rarity": "Blizzard Warrior",
+        "pack_id": "DT01-JP011",
         "date": "2008-04-12"
     },
     "tcg": {
-        "id": 96565487,
-        "pack_id": "HA01-DE002",
         "pack": "Hidden Arsenal",
-        "rarity": "Blizzard Warrior",
+        "pack_id": "HA01-DE002",
         "date": "2009-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f3/BlizzardWarrior-HA01-EN-SR-LE.png"

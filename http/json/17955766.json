@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 17955766,
-        "pack_id": "POTD-JP003",
         "pack": "Power of the Duelist",
-        "rarity": "Neo-Spacian Aqua Dolphin",
+        "pack_id": "POTD-JP003",
         "date": "2006-05-18"
     },
     "tcg": {
-        "id": 17955766,
-        "pack_id": "POTD-DE003",
         "pack": "Power of the Duelist",
-        "rarity": "Neo-Spacian Aqua Dolphin",
+        "pack_id": "POTD-DE003",
         "date": "2006-08-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7b/NeoSpacianAquaDolphin-LCGX-EN-C-1E.png"

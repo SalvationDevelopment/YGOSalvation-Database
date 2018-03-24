@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 92125819,
-        "pack_id": "EP13-JP001",
         "pack": "Extra Pack: Sword of Knights",
-        "rarity": "Noble Knight Artorigus",
+        "pack_id": "EP13-JP001",
         "date": "2013-05-18"
     },
     "tcg": {
-        "id": 92125819,
-        "pack_id": "GAOV-ENSP1",
         "pack": "Galactic Overlord Sneak Peek Participation Card",
-        "rarity": "Noble Knight Artorigus",
+        "pack_id": "GAOV-ENSP1",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6d/NobleKnightArtorigus-NKRT-EN-PlR-LE.png"

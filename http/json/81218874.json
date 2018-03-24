@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 81218874,
-        "pack_id": "DT11-JP049",
-        "pack": "デュエルターミナル 「オメガの裁き！！」",
-        "rarity": "共通",
-        "date": 1291179600000
-    },
+    "ocg": {},
     "tcg": {
-        "id": 81218874,
-        "pack_id": "DT06-EN049",
         "pack": "Duel Terminal 6a",
-        "rarity": "Infestation Ripples",
+        "pack_id": "DT06-EN049",
         "date": "2012-02-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b8/InfestationRipples-HA06-EN-SR-1E.png"

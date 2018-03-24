@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58098303,
-        "pack_id": "CDIP-JP014",
         "pack": "Cyberdark Impact",
-        "rarity": "Flame Ogre",
+        "pack_id": "CDIP-JP014",
         "date": "2006-08-10"
     },
     "tcg": {
-        "id": 58098303,
-        "pack_id": "CDIP-FR014",
         "pack": "Cyberdark Impact",
-        "rarity": "Flame Ogre",
+        "pack_id": "CDIP-FR014",
         "date": "2006-11-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/FlameOgre-CDIP-EN-C-UE.png"

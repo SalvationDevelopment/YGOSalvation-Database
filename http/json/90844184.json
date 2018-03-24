@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 90844184,
-        "pack_id": "G3-06",
         "pack": "Yu-Gi-Oh! Duel Monsters III: Tri-Holy God Advent promotional cards",
-        "rarity": "Garma Sword",
+        "pack_id": "G3-06",
         "date": "2000-07-13"
     },
     "tcg": {
-        "id": 90844184,
-        "pack_id": "TP8-DE005",
         "pack": "Tournament Pack 8",
-        "rarity": "Garma Sword",
+        "pack_id": "TP8-DE005",
         "date": "2006-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/65/GarmaSword-TP8-EN-SR-UE.jpg"

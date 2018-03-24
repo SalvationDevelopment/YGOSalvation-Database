@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 82841979,
-        "pack_id": "TDGS-JP035",
         "pack": "The Duelist Genesis",
-        "rarity": "Yamato-no-Kami",
+        "pack_id": "TDGS-JP035",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 82841979,
-        "pack_id": "TDGS-EN035",
         "pack": "The Duelist Genesis",
-        "rarity": "Yamato-no-Kami",
+        "pack_id": "TDGS-EN035",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cf/YamatonoKami-TDGS-EN-R-1E.png"

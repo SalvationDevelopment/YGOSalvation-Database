@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 27750191,
-        "pack_id": "RATE-JP031",
         "pack": "Raging Tempest",
-        "rarity": "Yokotuner",
+        "pack_id": "RATE-JP031",
         "date": "2016-10-08"
     },
     "tcg": {
-        "id": 27750191,
-        "pack_id": "INOV-DESE4",
         "pack": "Invasion: Vengeance Special Edition",
-        "rarity": "Yokotuner",
+        "pack_id": "INOV-DESE4",
         "date": "2016-12-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7a/Yokotuner-RATE-EN-C-1E.png"

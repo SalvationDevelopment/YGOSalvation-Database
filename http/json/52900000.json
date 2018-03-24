@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 52900000,
-        "pack_id": "RATE-JP038",
         "pack": "Raging Tempest",
-        "rarity": "Shinobaron Peacock",
+        "pack_id": "RATE-JP038",
         "date": "2016-10-08"
     },
     "tcg": {
-        "id": 52900000,
-        "pack_id": "RATE-DE038",
         "pack": "Raging Tempest",
-        "rarity": "Shinobaron Peacock",
+        "pack_id": "RATE-DE038",
         "date": "2017-02-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b6/ShinobaronPeacock-MP17-EN-R-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 47349310,
-        "pack_id": "GENF-JP020",
         "pack": "Generation Force",
-        "rarity": "Skystarray",
+        "pack_id": "GENF-JP020",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 47349310,
-        "pack_id": "GENF-EN020",
         "pack": "Generation Force",
-        "rarity": "Skystarray",
+        "pack_id": "GENF-EN020",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/98/Skystarray-BPW2-NA-C-1E.png"

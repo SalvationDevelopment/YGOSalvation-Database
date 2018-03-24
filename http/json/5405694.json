@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 5405694,
-        "pack_id": "",
         "pack": "Premium Pack 2",
-        "rarity": "Black Luster Soldier",
+        "pack_id": "",
         "date": "1999-12-18"
     },
     "tcg": {
-        "id": 5405694,
-        "pack_id": "WCS-003",
         "pack": "Yu-Gi-Oh! World Championship 2003 prize cards",
-        "rarity": "Black Luster Soldier",
+        "pack_id": "WCS-003",
         "date": "2003-06-27"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3f/BlackLusterSoldier-YGLD-EN-C-1E.png"

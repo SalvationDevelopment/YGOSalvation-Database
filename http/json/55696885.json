@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55696885,
-        "pack_id": "SD12-JP005",
         "pack": "Structure Deck: Curse of Darkness",
-        "rarity": "Plague Wolf",
+        "pack_id": "SD12-JP005",
         "date": "2007-03-08"
     },
     "tcg": {
-        "id": 55696885,
-        "pack_id": "FOTB-FR065",
         "pack": "Force of the Breaker",
-        "rarity": "Plague Wolf",
+        "pack_id": "FOTB-FR065",
         "date": "2007-05-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/29/PlagueWolf-LCJW-EN-C-1E.png"

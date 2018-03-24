@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 49417509,
-        "pack_id": "",
         "pack": "Booster 5",
-        "rarity": "共通",
+        "pack_id": "",
         "date": "1999-10-17"
     },
     "tcg": {
-        "id": 49417509,
-        "pack_id": "LCJW-DE018",
         "pack": "Legendary Collection 4: Joey's World Mega Pack",
-        "rarity": "Wolf",
+        "pack_id": "LCJW-DE018",
         "date": "2013-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2b/Wolf-LCJW-EN-C-1E.png"

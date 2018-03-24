@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 60461077,
-        "pack_id": "COTD-JP011",
         "pack": "Code of the Duelist",
-        "rarity": "Gouki Rising Scorpio",
+        "pack_id": "COTD-JP011",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE011"
+        "pack_id": "COTD-DE011",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/GoukiRiscorpio-COTD-EN-R-1E.png"
 }

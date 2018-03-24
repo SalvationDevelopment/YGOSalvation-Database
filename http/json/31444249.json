@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 31444249,
-        "pack_id": "CORE-JP063",
         "pack": "Clash of Rebellions",
-        "rarity": "Void Imagination",
+        "pack_id": "CORE-JP063",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 31444249,
-        "pack_id": "CORE-DE063",
         "pack": "Clash of Rebellions",
-        "rarity": "Void Imagination",
+        "pack_id": "CORE-DE063",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/20/VoidImagination-CORE-EN-SR-1E.png"

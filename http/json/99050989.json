@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99050989,
-        "pack_id": "306-026",
         "pack": "Controller of Chaos",
-        "rarity": "Drillago",
+        "pack_id": "306-026",
         "date": "2003-04-24"
     },
     "tcg": {
-        "id": 99050989,
-        "pack_id": "IOC-026",
         "pack": "Invasion of Chaos",
-        "rarity": "Drillago",
+        "pack_id": "IOC-026",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/19/Drillago-LCJW-EN-C-1E.png"

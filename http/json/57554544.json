@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 57554544,
-        "pack_id": "CROS-JP088",
         "pack": "Crossed Souls",
-        "rarity": "Fire King Island",
+        "pack_id": "CROS-JP088",
         "date": "2015-02-14"
     },
     "tcg": {
-        "id": 57554544,
-        "pack_id": "SHVI-DE092",
         "pack": "Shining Victories",
-        "rarity": "Fire King Island",
+        "pack_id": "SHVI-DE092",
         "date": "2016-05-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/FireKingIsland-SHVI-EN-C-1E.png"

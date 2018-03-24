@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 33423043,
-        "pack_id": "306-039",
         "pack": "Controller of Chaos",
-        "rarity": "D.D. Designator",
+        "pack_id": "306-039",
         "date": "2003-04-24"
     },
     "tcg": {
-        "id": 33423043,
-        "pack_id": "IOC-039",
         "pack": "Invasion of Chaos",
-        "rarity": "D.D. Designator",
+        "pack_id": "IOC-039",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cd/DDDesignator-DR2-EN-SR-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 97024987,
-        "pack_id": "CORE-JP028",
         "pack": "Clash of Rebellions",
-        "rarity": "Igknight Templar",
+        "pack_id": "CORE-JP028",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 97024987,
-        "pack_id": "CORE-DE028",
         "pack": "Clash of Rebellions",
-        "rarity": "Igknight Templar",
+        "pack_id": "CORE-DE028",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dc/IgknightTemplar-MP16-EN-UR-1E.png"

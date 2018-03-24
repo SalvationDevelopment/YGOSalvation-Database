@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 2525268,
-        "pack_id": "SD16-JP003",
         "pack": "Structure Deck: Lord of the Magician",
-        "rarity": "Defender, the Magical Knight",
+        "pack_id": "SD16-JP003",
         "date": "2008-12-13"
     },
     "tcg": {
-        "id": 2525268,
-        "pack_id": "SDSC-DE003",
         "pack": "Spellcaster's Command Structure Deck",
-        "rarity": "Defender, the Magical Knight",
+        "pack_id": "SDSC-DE003",
         "date": "2009-03-31"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ed/DefendertheMagicalKnight-BP03-EN-C-1E.png"

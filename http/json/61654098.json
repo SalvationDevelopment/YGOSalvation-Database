@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 61654098,
-        "pack_id": "COTD-JP057",
         "pack": "Code of the Duelist",
-        "rarity": "Encounter with the Starrelic",
+        "pack_id": "COTD-JP057",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE057"
+        "pack_id": "COTD-DE057",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/WorldLegacyDiscovery-COTD-EN-R-1E.png"
 }

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 3682106,
-        "pack_id": "SC-15",
         "pack": "Struggle of Chaos",
-        "rarity": "Double Snare",
+        "pack_id": "SC-15",
         "date": "2001-09-20"
     },
     "tcg": {
-        "id": 3682106,
-        "pack_id": "LOD-015",
         "pack": "Legacy of Darkness",
-        "rarity": "Double Snare",
+        "pack_id": "LOD-015",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e6/DoubleSnare-DB2-EN-C-UE.png"

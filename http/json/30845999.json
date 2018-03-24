@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 30845999,
-        "pack_id": "NECH-JP074",
         "pack": "The New Challengers",
-        "rarity": "Qlipper Launch",
+        "pack_id": "NECH-JP074",
         "date": "2014-07-19"
     },
     "tcg": {
-        "id": 30845999,
-        "pack_id": "NECH-DE074",
         "pack": "The New Challengers",
-        "rarity": "Qlipper Launch",
+        "pack_id": "NECH-DE074",
         "date": "2014-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7a/QlipperLaunch-MP15-EN-C-1E.png"

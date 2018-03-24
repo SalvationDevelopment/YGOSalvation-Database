@@ -31,18 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99518961,
-        "pack_id": "",
         "pack": "Booster 6",
-        "rarity": "Restructer Revolution",
+        "pack_id": "",
         "date": "1999-12-01"
     },
-    "tcg": {
-        "id": 99518961,
-        "pack_id": "DL5-EN001",
-        "pack": "DL5",
-        "rarity": "Restructer Revolution",
-        "date": "2005-06-01"
-    },
+    "tcg": {},
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/RestructerRevolution-DB2-EN-C-UE.png"
 }

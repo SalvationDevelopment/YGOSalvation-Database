@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 95905259,
-        "pack_id": "ORCS-JP032",
         "pack": "Order of Chaos",
-        "rarity": "Chow Len the Prophet",
+        "pack_id": "ORCS-JP032",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 95905259,
-        "pack_id": "ORCS-EN032",
         "pack": "Order of Chaos",
-        "rarity": "Chow Len the Prophet",
+        "pack_id": "ORCS-EN032",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/ff/ChowLentheProphet-BP03-EN-R-1E.png"

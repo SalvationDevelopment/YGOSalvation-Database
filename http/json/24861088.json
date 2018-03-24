@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 24861088,
-        "pack_id": "LVAL-JP081",
         "pack": "Legacy of the Valiant",
-        "rarity": "Chronomaly Nebra Disk",
+        "pack_id": "LVAL-JP081",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 24861088,
-        "pack_id": "WSUP-DE001",
         "pack": "World Superstars",
-        "rarity": "Chronomaly Nebra Disk",
+        "pack_id": "WSUP-DE001",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1b/ChronomalyNebraDisk-WSUP-EN-PScR-1E.png"

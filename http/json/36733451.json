@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 36733451,
-        "pack_id": "SD14-JP002",
         "pack": "Structure Deck: Advent of the Emperor",
-        "rarity": "Dimensional Alchemist",
+        "pack_id": "SD14-JP002",
         "date": "2007-12-15"
     },
     "tcg": {
-        "id": 36733451,
-        "pack_id": "SDDE-DE002",
         "pack": "The Dark Emperor Structure Deck",
-        "rarity": "Dimensional Alchemist",
+        "pack_id": "SDDE-DE002",
         "date": "2008-04-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/60/DimensionalAlchemist-GLD3-EN-GUR-LE.jpg"

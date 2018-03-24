@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 29834183,
-        "pack_id": "DOCS-JP035",
         "pack": "Dimension of Chaos",
-        "rarity": "Graydle Eagle",
+        "pack_id": "DOCS-JP035",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 29834183,
-        "pack_id": "DOCS-DE035",
         "pack": "Dimension of Chaos",
-        "rarity": "Graydle Eagle",
+        "pack_id": "DOCS-DE035",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0a/GraydleEagle-DOCS-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 54407825,
-        "pack_id": "EP14-JP049",
         "pack": "Extra Pack: Knights of Order",
-        "rarity": "Earthshattering Event",
+        "pack_id": "EP14-JP049",
         "date": "2014-09-13"
     },
     "tcg": {
-        "id": 54407825,
-        "pack_id": "WSUP-DE042",
         "pack": "World Superstars",
-        "rarity": "Earthshattering Event",
+        "pack_id": "WSUP-DE042",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2e/EarthshatteringEvent-WSUP-EN-PScR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 26099457,
-        "pack_id": "GAOV-JP053",
         "pack": "Galactic Overlord",
-        "rarity": "Falling Current",
+        "pack_id": "GAOV-JP053",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 26099457,
-        "pack_id": "GAOV-EN053",
         "pack": "Galactic Overlord",
-        "rarity": "Falling Current",
+        "pack_id": "GAOV-EN053",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/28/FallingCurrent-GAOV-EN-C-1E.png"

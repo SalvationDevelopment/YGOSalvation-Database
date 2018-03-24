@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 15502037,
-        "pack_id": "SDMY-JP003",
         "pack": "Structure Deck: Yugi Muto",
-        "rarity": "Gamma The Electromagnet Warrior",
+        "pack_id": "SDMY-JP003",
         "date": "2016-06-18"
     },
     "tcg": {
-        "id": 15502037,
-        "pack_id": "SDMY-DE003",
         "pack": "Structure Deck: Yugi Muto",
-        "rarity": "Gamma The Electromagnet Warrior",
+        "pack_id": "SDMY-DE003",
         "date": "2016-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/GammaTheElectromagnetWarrior-SDMY-EN-SR-1E.png"

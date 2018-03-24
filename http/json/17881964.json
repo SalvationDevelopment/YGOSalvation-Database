@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 17881964,
-        "pack_id": "",
         "pack": "Starter Box: Theatrical Release",
-        "rarity": "Darkfire Dragon",
+        "pack_id": "",
         "date": "1999-03-06"
     },
     "tcg": {
-        "id": 17881964,
-        "pack_id": "LOB-019",
         "pack": "Legend of Blue Eyes White Dragon",
-        "rarity": "Darkfire Dragon",
+        "pack_id": "LOB-019",
         "date": "2002-03-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/de/DarkfireDragon-LOB-EN-R-UE.png"

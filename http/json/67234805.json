@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67234805,
-        "pack_id": "STBL-JP078",
         "pack": "Starstrike Blast",
-        "rarity": "Powersink Stone",
+        "pack_id": "STBL-JP078",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 67234805,
-        "pack_id": "STBL-EN078",
         "pack": "Starstrike Blast",
-        "rarity": "Powersink Stone",
+        "pack_id": "STBL-EN078",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/42/PowersinkStone-STBL-EN-C-1E.jpg"

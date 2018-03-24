@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 93220472,
-        "pack_id": "SC-40",
         "pack": "Struggle of Chaos",
-        "rarity": "Cave Dragon",
+        "pack_id": "SC-40",
         "date": "2001-09-20"
     },
     "tcg": {
-        "id": 93220472,
-        "pack_id": "LOD-040",
         "pack": "Legacy of Darkness",
-        "rarity": "Cave Dragon",
+        "pack_id": "LOD-040",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/76/CaveDragon-LCJW-EN-C-1E.png"

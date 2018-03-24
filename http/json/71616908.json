@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 71616908,
-        "pack_id": "DT12-JP033",
         "pack": "Duel Terminal - Xyz Startup!!",
-        "rarity": "Gem-Knight Amethyst",
+        "pack_id": "DT12-JP033",
         "date": "2011-04-01"
     },
     "tcg": {
-        "id": 71616908,
-        "pack_id": "DT06-EN083",
         "pack": "Duel Terminal 6b",
-        "rarity": "Gem-Knight Amethyst",
+        "pack_id": "DT06-EN083",
         "date": "2012-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bb/GemKnightAmethyst-HA06-EN-ScR-1E.png"

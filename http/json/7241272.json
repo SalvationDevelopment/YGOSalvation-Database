@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 7241272,
-        "pack_id": "MP01-JP002",
         "pack": "Millennium Pack (OCG)",
-        "rarity": "Curse of Dragonfire",
+        "pack_id": "MP01-JP002",
         "date": "2015-12-19"
     },
     "tcg": {
-        "id": 7241272,
-        "pack_id": "MIL1-DE002",
         "pack": "Millennium Pack",
-        "rarity": "Curse of Dragonfire",
+        "pack_id": "MIL1-DE002",
         "date": "2016-04-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7b/CurseofDragonfire-MIL1-EN-UR-1E.png"

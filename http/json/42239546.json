@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 42239546,
-        "pack_id": "TAEV-JP011",
         "pack": "Tactical Evolution",
-        "rarity": "Chrysalis Mole",
+        "pack_id": "TAEV-JP011",
         "date": "2007-05-12"
     },
     "tcg": {
-        "id": 42239546,
-        "pack_id": "TAEV-FR011",
         "pack": "Tactical Evolution",
-        "rarity": "Chrysalis Mole",
+        "pack_id": "TAEV-FR011",
         "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/96/ChrysalisMole-TAEV-EN-C-1E.jpg"

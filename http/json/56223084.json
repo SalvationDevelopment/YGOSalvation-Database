@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 56223084,
-        "pack_id": "PHSW-JP010",
         "pack": "Photon Shockwave",
-        "rarity": "Needle Sunfish",
+        "pack_id": "PHSW-JP010",
         "date": "2011-07-16"
     },
     "tcg": {
-        "id": 56223084,
-        "pack_id": "PHSW-DE010",
         "pack": "Photon Shockwave",
-        "rarity": "Needle Sunfish",
+        "pack_id": "PHSW-DE010",
         "date": "2011-11-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/05/NeedleSunfish-BP02-EN-C-1E.png"

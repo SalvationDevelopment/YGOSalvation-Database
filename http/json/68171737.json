@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 68171737,
-        "pack_id": "",
         "pack": "Booster 7",
-        "rarity": "共通",
+        "pack_id": "",
         "date": "2000-03-01"
     },
     "tcg": {
-        "id": 68171737,
-        "pack_id": "MDP2-EN020",
         "pack": "McDonald's Promotional Cards 2",
-        "rarity": "Stone Dragon",
+        "pack_id": "MDP2-EN020",
         "date": "2006-12-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c3/StoneDragon-MDP2-EN-C-LE.jpg"

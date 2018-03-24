@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 3810071,
-        "pack_id": "TLM-JP019",
         "pack": "The Lost Millennium",
-        "rarity": "Monk Fighter",
+        "pack_id": "TLM-JP019",
         "date": "2005-02-24"
     },
     "tcg": {
-        "id": 3810071,
-        "pack_id": "TLM-EN019",
         "pack": "The Lost Millennium",
-        "rarity": "Monk Fighter",
+        "pack_id": "TLM-EN019",
         "date": "2005-05-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/MonkFighter-DR3-EN-C-UE.png"

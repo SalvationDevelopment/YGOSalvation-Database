@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 67111213,
-        "pack_id": "DT10-JP014",
-        "pack": "デュエルターミナル 「インヴェルズの侵略！！」",
-        "rarity": "共通",
-        "date": 1280811600000
-    },
+    "ocg": {},
     "tcg": {
-        "id": 67111213,
-        "pack_id": "DT05-EN064",
         "pack": "Duel Terminal 5b",
-        "rarity": "Gishki Abyss",
+        "pack_id": "DT05-EN064",
         "date": "2011-09-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a4/GishkiAbyss-HA05-EN-SR-UE.png"

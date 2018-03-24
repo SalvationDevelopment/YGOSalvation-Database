@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 94092230,
-        "pack_id": "DT11-JP032",
-        "pack": "DT11",
-        "rarity": "Steelswarm Hercules",
-        "date": "2012-11-07"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 94092230,
-        "pack_id": "DT06-EN032",
         "pack": "Duel Terminal 6a",
-        "rarity": "Steelswarm Hercules",
+        "pack_id": "DT06-EN032",
         "date": "2012-02-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/SteelswarmHercules-HA06-EN-ScR-1E.png"

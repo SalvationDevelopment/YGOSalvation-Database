@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 40164421,
-        "pack_id": "DS14-JPLS2",
         "pack": "Duelist Set: Version Lightlord Judgment",
-        "rarity": "Minerva, Lightsworn Maiden",
+        "pack_id": "DS14-JPLS2",
         "date": "2013-11-23"
     },
     "tcg": {
-        "id": 40164421,
-        "pack_id": "SDLI-DE002",
         "pack": "Realm of Light Structure Deck",
-        "rarity": "Minerva, Lightsworn Maiden",
+        "pack_id": "SDLI-DE002",
         "date": "2014-06-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b6/MinervaLightswornMaiden-SDLI-EN-SR-1E.png"

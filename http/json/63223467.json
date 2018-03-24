@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63223467,
-        "pack_id": "EXP2-JP026",
         "pack": "Extra Pack Volume 2",
-        "rarity": "Rai-Mei",
+        "pack_id": "EXP2-JP026",
         "date": "2009-09-19"
     },
     "tcg": {
-        "id": 63223467,
-        "pack_id": "CSOC-EN085",
         "pack": "Crossroads of Chaos",
-        "rarity": "Rai-Mei",
+        "pack_id": "CSOC-EN085",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/05/RaiMei-CSOC-EN-SR-UE.png"

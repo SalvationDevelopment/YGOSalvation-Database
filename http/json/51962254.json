@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 51962254,
-        "pack_id": "GX03-JP002",
         "pack": "Yu-Gi-Oh! GX SPIRIT CALLER Bundles",
-        "rarity": "Hunter Owl",
+        "pack_id": "GX03-JP002",
         "date": "2006-11-30"
     },
     "tcg": {
-        "id": 51962254,
-        "pack_id": "GX03-EN002",
         "pack": "Yu-Gi-Oh! GX SPIRIT CALLER Bundles",
-        "rarity": "Hunter Owl",
+        "pack_id": "GX03-EN002",
         "date": "2007-01-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ee/HunterOwl-SDDL-EN-C-1E.jpg"

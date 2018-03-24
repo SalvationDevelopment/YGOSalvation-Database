@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 18897163,
-        "pack_id": "CP17-JP008",
         "pack": "Collectors Pack 2017",
-        "rarity": "D/D/D Superdoom King Darkness Armageddon",
+        "pack_id": "CP17-JP008",
         "date": "2017-05-13"
     },
     "tcg": {
-        "date": "2017-07-06",
         "pack": "Battles of Legend: Light's Revenge",
-        "pack_id": "BLLR-DE008"
+        "pack_id": "BLLR-DE008",
+        "date": "2017-07-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8e/DDDSuperDoomKingDarkArmageddon-BLLR-EN-UR-1E.png"
 }

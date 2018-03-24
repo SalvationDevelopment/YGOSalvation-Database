@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64788463,
-        "pack_id": "LE4-002",
         "pack": "Limited Edition 4",
-        "rarity": "King's Knight",
+        "pack_id": "LE4-002",
         "date": "2002-05-28"
     },
     "tcg": {
-        "id": 64788463,
-        "pack_id": "EEN-DE006",
         "pack": "Elemental Energy",
-        "rarity": "King's Knight",
+        "pack_id": "EEN-DE006",
         "date": "2005-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1e/KingsKnight-SDMY-EN-C-1E.png"

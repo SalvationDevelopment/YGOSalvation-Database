@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 13455953,
-        "pack_id": "STOR-JP016",
         "pack": "Storm of Ragnarok",
-        "rarity": "Dverg of the Nordic Alfar",
+        "pack_id": "STOR-JP016",
         "date": "2010-11-13"
     },
     "tcg": {
-        "id": 13455953,
-        "pack_id": "STOR-EN016",
         "pack": "Storm of Ragnarok",
-        "rarity": "Dverg of the Nordic Alfar",
+        "pack_id": "STOR-EN016",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fa/DvergoftheNordicAlfar-LC5D-EN-ScR-1E.png"

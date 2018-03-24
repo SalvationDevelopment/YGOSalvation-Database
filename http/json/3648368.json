@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 3648368,
-        "pack_id": "DT03-JP025",
         "pack": "Duel Terminal - Justice Strikes Back!!",
-        "rarity": "Ally of Justice Searcher",
+        "pack_id": "DT03-JP025",
         "date": "2008-09-22"
     },
     "tcg": {
-        "id": 3648368,
-        "pack_id": "DT02-EN025",
         "pack": "Duel Terminal 2",
-        "rarity": "Ally of Justice Searcher",
+        "pack_id": "DT02-EN025",
         "date": "2010-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7e/AllyofJusticeSearcher-HA02-EN-SR-1E.png"

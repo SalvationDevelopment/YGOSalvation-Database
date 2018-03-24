@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 30914564,
-        "pack_id": "307-014",
         "pack": "Invader of Darkness",
-        "rarity": "Sacred Crane",
+        "pack_id": "307-014",
         "date": "2003-07-17"
     },
     "tcg": {
-        "id": 30914564,
-        "pack_id": "IOC-069",
         "pack": "Invasion of Chaos",
-        "rarity": "Sacred Crane",
+        "pack_id": "IOC-069",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8d/SacredCrane-BP03-EN-C-1E.png"

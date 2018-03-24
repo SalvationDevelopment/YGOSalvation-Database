@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 69296555,
-        "pack_id": "SC-29",
         "pack": "Struggle of Chaos",
-        "rarity": "Array of Revealing Light",
+        "pack_id": "SC-29",
         "date": "2001-09-20"
     },
     "tcg": {
-        "id": 69296555,
-        "pack_id": "LOD-029",
         "pack": "Legacy of Darkness",
-        "rarity": "Array of Revealing Light",
+        "pack_id": "LOD-029",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c1/ArrayofRevealingLight-DB2-EN-C-UE.png"

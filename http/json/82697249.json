@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 82697249,
-        "pack_id": "CPF1-JP025",
         "pack": "Collectors Pack: Duelist of Flash Version",
-        "rarity": "Number 59: Crooked Cook",
+        "pack_id": "CPF1-JP025",
         "date": "2016-05-14"
     },
     "tcg": {
-        "id": 82697249,
-        "pack_id": "DRL3-DE025",
         "pack": "Dragons of Legend: Unleashed",
-        "rarity": "Number 59: Crooked Cook",
+        "pack_id": "DRL3-DE025",
         "date": "2016-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0d/Number59CrookedCook-DRL3-EN-UR-1E.png"

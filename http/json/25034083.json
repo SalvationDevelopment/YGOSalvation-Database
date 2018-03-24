@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 25034083,
-        "pack_id": "POTD-JP010",
         "pack": "Power of the Duelist",
-        "rarity": "Decoyroid",
+        "pack_id": "POTD-JP010",
         "date": "2006-05-18"
     },
     "tcg": {
-        "id": 25034083,
-        "pack_id": "POTD-DE010",
         "pack": "Power of the Duelist",
-        "rarity": "Decoyroid",
+        "pack_id": "POTD-DE010",
         "date": "2006-08-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5f/Decoyroid-POTD-EN-C-1E.jpg"

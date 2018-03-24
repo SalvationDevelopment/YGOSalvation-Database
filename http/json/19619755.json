@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 19619755,
-        "pack_id": "CP17-JP005",
         "pack": "Collectors Pack 2017",
-        "rarity": "Performapal Five-Rainbow Magician",
+        "pack_id": "CP17-JP005",
         "date": "2017-05-13"
     },
     "tcg": {
-        "date": "2017-07-06",
         "pack": "Battles of Legend: Light's Revenge",
-        "pack_id": "BLLR-DE005"
+        "pack_id": "BLLR-DE005",
+        "date": "2017-07-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9e/PerformapalFiveRainbowMagician-BLLR-EN-UR-1E.png"
 }

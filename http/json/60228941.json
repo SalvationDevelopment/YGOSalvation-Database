@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 60228941,
-        "pack_id": "SD21-JP002",
         "pack": "Structure Deck: Devil's Gate",
-        "rarity": "Snoww, Unlight of Dark World",
+        "pack_id": "SD21-JP002",
         "date": "2011-06-18"
     },
     "tcg": {
-        "id": 60228941,
-        "pack_id": "SDGU-DE002",
         "pack": "Gates of the Underworld Structure Deck",
-        "rarity": "Snoww, Unlight of Dark World",
+        "pack_id": "SDGU-DE002",
         "date": "2011-10-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/63/SnowwUnlightofDarkWorld-LCJW-EN-ScR-1E.png"

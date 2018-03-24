@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 32768,
     "name": "Ruin, Angel of Oblivion",
-    "desc": "You can Ritual Summon this card with \"Endless of the World\". This card's name becomes \"Ruin, Queen of Oblivion\" while on the field or in the hand. If this card is Ritual Summoned: This card can make up to 2 attacks on monsters during each Battle Phase this turn. If this card is sent to the GY: You can target 1 Ritual Monster you control; while that monster is face-up on your field, when your Ritual Monster declares an attack, your opponent's cards and effects cannot be activated.",
+    "desc": "You can Ritual Summon this card with \"Endless of the World\". This card's name becomes \"Ruin, Queen of Oblivion\" while in the hand or on the field. If this card is Ritual Summoned: This card can make a second attack on monsters during each Battle Phase this turn. If this card is sent to the GY: You can target 1 face-up Ritual Monster you control; while that monster is face-up on your field, when a Ritual Monster you control declares an attack, your opponent cannot activate cards or effects.",
     "str1": "Can attack twice",
     "str2": "Provide effect",
     "str3": "Affected by \"Ruin, Angel of Oblivion\"",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP027",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c0/RuinAngelofOblivion-CYHO-JP-OP.png"
 }

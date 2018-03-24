@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58628539,
-        "pack_id": "YSD6-JP032",
         "pack": "Starter Deck 2011",
-        "rarity": "Xyz Effect",
+        "pack_id": "YSD6-JP032",
         "date": "2011-03-19"
     },
     "tcg": {
-        "id": 58628539,
-        "pack_id": "YS11-DE032",
         "pack": "Starter Deck: Dawn of the Xyz",
-        "rarity": "Xyz Effect",
+        "pack_id": "YS11-DE032",
         "date": "2011-07-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/XyzEffect-SP14-EN-C-1E.png"

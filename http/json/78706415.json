@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 78706415,
-        "pack_id": "MA-06",
         "pack": "Mythological Age",
-        "rarity": "Fiber Jar",
+        "pack_id": "MA-06",
         "date": "2001-11-29"
     },
     "tcg": {
-        "id": 78706415,
-        "pack_id": "LOD-056",
         "pack": "Legacy of Darkness",
-        "rarity": "Fiber Jar",
+        "pack_id": "LOD-056",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/67/FiberJar-LCJW-EN-C-1E.png"

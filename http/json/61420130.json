@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 61420130,
-        "pack_id": "EP16-JP034",
         "pack": "Extra Pack 2016",
-        "rarity": "Paleozoic Hallucigenia",
+        "pack_id": "EP16-JP034",
         "date": "2016-09-10"
     },
     "tcg": {
-        "id": 61420130,
-        "pack_id": "TDIL-DE096",
         "pack": "The Dark Illusion",
-        "rarity": "Paleozoic Hallucigenia",
+        "pack_id": "TDIL-DE096",
         "date": "2016-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/82/PaleozoicHallucigenia-OP06-EN-SR-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 98162242,
-        "pack_id": "308-020",
         "pack": "The Sanctuary in the Sky",
-        "rarity": "レア仕様",
+        "pack_id": "308-020",
         "date": "2003-11-20"
     },
     "tcg": {
-        "id": 98162242,
-        "pack_id": "AST-DE020",
         "pack": "Ancient Sanctuary",
-        "rarity": "Super Rare",
+        "pack_id": "AST-DE020",
         "date": "2004-05-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4f/NeedleBurrower-DR2-EN-R-UE.png"

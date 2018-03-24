@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 29802344,
-        "pack_id": "",
         "pack": "Vol.5",
-        "rarity": "Snakeyashi",
+        "pack_id": "",
         "date": "1999-09-23"
     },
     "tcg": {
-        "date": "2017-08-01",
         "pack": "OTS Tournament Pack 5",
-        "pack_id": "OP05-PT014"
+        "pack_id": "OP05-PT014",
+        "date": "2017-08-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f3/Snakeyashi-OP05-EN-SP-UE.png"
 }

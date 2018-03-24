@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 35262428,
-        "pack_id": "DREV-JP060",
         "pack": "Duelist Revolution",
-        "rarity": "Wiseman's Chalice",
+        "pack_id": "DREV-JP060",
         "date": "2010-04-17"
     },
     "tcg": {
-        "id": 35262428,
-        "pack_id": "DREV-EN060",
         "pack": "Duelist Revolution",
-        "rarity": "Wiseman's Chalice",
+        "pack_id": "DREV-EN060",
         "date": "2010-08-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/WisemansChalice-DREV-EN-SR-1E.jpg"

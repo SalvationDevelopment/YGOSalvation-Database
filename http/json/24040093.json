@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 24040093,
-        "pack_id": "DT04-JP012",
         "pack": "Duel Terminal - Demon Roar God Revival!!",
-        "rarity": "スーパーレア仕様",
+        "pack_id": "DT04-JP012",
         "date": "2008-12-04"
     },
     "tcg": {
-        "id": 24040093,
-        "pack_id": "DT02-EN062",
         "pack": "Duel Terminal 2",
-        "rarity": "Fabled Grimro",
+        "pack_id": "DT02-EN062",
         "date": "2010-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/99/FabledGrimro-GLD5-EN-GUR-LE.png"

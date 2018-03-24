@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 52101615,
-        "pack_id": "FET-JP028",
         "pack": "Flaming Eternity",
-        "rarity": "The Dark - Hex-Sealed Fusion",
+        "pack_id": "FET-JP028",
         "date": "2004-11-25"
     },
     "tcg": {
-        "id": 52101615,
-        "pack_id": "FET-EN028",
         "pack": "Flaming Eternity",
-        "rarity": "The Dark - Hex-Sealed Fusion",
+        "pack_id": "FET-EN028",
         "date": "2005-02-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9d/TheDarkHexSealedFusion-LCYW-EN-C-1E.jpg"

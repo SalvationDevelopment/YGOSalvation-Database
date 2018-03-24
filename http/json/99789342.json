@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99789342,
-        "pack_id": "P4-04",
         "pack": "Premium Pack 4",
-        "rarity": "Dark Magic Curtain",
+        "pack_id": "P4-04",
         "date": "2001-01-18"
     },
     "tcg": {
-        "id": 99789342,
-        "pack_id": "PP01-DE008",
         "pack": "Premium Pack",
-        "rarity": "Dark Magic Curtain",
+        "pack_id": "PP01-DE008",
         "date": "2007-10-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8a/DarkMagicCurtain-LEDD-EN-C-1E.png"

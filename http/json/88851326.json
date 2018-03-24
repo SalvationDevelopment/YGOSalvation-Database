@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 88851326,
-        "pack_id": "20AP-JP001",
         "pack": "20th Anniversary Pack 1st Wave",
-        "rarity": "Legacy of the Duelist",
+        "pack_id": "20AP-JP001",
         "date": "2016-12-17"
     },
     "tcg": {
-        "id": 88851326,
-        "pack_id": "DUSA-DE024",
         "pack": "Duelist Saga",
-        "rarity": "Legacy of the Duelist",
+        "pack_id": "DUSA-DE024",
         "date": "2017-03-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0f/LegacyoftheDuelist-DUSA-EN-UR-1E.png"

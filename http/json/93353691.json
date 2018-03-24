@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 93353691,
-        "pack_id": "DDY3-JP004",
         "pack": "Duel Disk - Yusei Version DX 2010",
-        "rarity": "Driven Daredevil",
+        "pack_id": "DDY3-JP004",
         "date": "2010-11-20"
     },
     "tcg": {
-        "id": 93353691,
-        "pack_id": "ORCS-EN097",
         "pack": "Order of Chaos",
-        "rarity": "Driven Daredevil",
+        "pack_id": "ORCS-EN097",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6d/DrivenDaredevil-LC5D-EN-R-1E.png"

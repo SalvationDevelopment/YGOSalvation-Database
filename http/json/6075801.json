@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 6075801,
-        "pack_id": "SR02-JP002",
         "pack": "Structure Deck R: Revival of the Great Divine Dragon",
-        "rarity": "Paladin of Felgrand",
+        "pack_id": "SR02-JP002",
         "date": "2016-02-06"
     },
     "tcg": {
-        "id": 6075801,
-        "pack_id": "SR02-DE003",
         "pack": "Rise of the True Dragons Structure Deck",
-        "rarity": "Paladin of Felgrand",
+        "pack_id": "SR02-DE003",
         "date": "2016-07-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a5/PaladinofFelgrand-OP03-EN-SR-UE.png"

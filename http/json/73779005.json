@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 73779005,
-        "pack_id": "EP15-JP048",
         "pack": "Extra Pack 2015",
-        "rarity": "Dragoons of Draconia",
+        "pack_id": "EP15-JP048",
         "date": "2015-09-19"
     },
     "tcg": {
-        "id": 73779005,
-        "pack_id": "SECE-DESP1",
         "pack": "Secrets of Eternity Sneak Peek Participation Card",
-        "rarity": "Dragoons of Draconia",
+        "pack_id": "SECE-DESP1",
         "date": "2015-01-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bc/DragoonsofDraconia-SECE-EN-R-1E.png"

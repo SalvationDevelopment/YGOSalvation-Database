@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 76403456,
-        "pack_id": "20AP-JP010",
         "pack": "20th Anniversary Pack 1st Wave",
-        "rarity": "Power Wall",
+        "pack_id": "20AP-JP010",
         "date": "2016-12-17"
     },
     "tcg": {
-        "id": 76403456,
-        "pack_id": "DUSA-DE033",
         "pack": "Duelist Saga",
-        "rarity": "Power Wall",
+        "pack_id": "DUSA-DE033",
         "date": "2017-03-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0c/PowerWall-DUSA-EN-UR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 7892180,
-        "pack_id": "PS-02",
         "pack": "Pharaoh's Servant",
-        "rarity": "Psychic Kappa",
+        "pack_id": "PS-02",
         "date": "2000-07-13"
     },
     "tcg": {
-        "id": 7892180,
-        "pack_id": "SRL-EN053",
         "pack": "Spell Ruler",
-        "rarity": "Psychic Kappa",
+        "pack_id": "SRL-EN053",
         "date": "2004-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7b/PsychicKappa-SRL-NA-C-UE.png"

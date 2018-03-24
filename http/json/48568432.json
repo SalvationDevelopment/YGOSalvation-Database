@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 48568432,
-        "pack_id": "TSHD-JP031",
         "pack": "The Shining Darkness",
-        "rarity": "Trigon",
+        "pack_id": "TSHD-JP031",
         "date": "2010-02-20"
     },
     "tcg": {
-        "id": 48568432,
-        "pack_id": "TSHD-DE031",
         "pack": "The Shining Darkness",
-        "rarity": "Trigon",
+        "pack_id": "TSHD-DE031",
         "date": "2010-05-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/29/Trigon-TSHD-EN-C-1E.png"

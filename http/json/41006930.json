@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 41006930,
-        "pack_id": "306-007",
         "pack": "Controller of Chaos",
-        "rarity": "Strike Ninja",
+        "pack_id": "306-007",
         "date": "2003-04-24"
     },
     "tcg": {
-        "id": 41006930,
-        "pack_id": "IOC-007",
         "pack": "Invasion of Chaos",
-        "rarity": "Strike Ninja",
+        "pack_id": "IOC-007",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/StrikeNinja-LCJW-EN-C-1E.png"

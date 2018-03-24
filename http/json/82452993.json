@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 82452993,
-        "pack_id": "TLM-JP060",
         "pack": "The Lost Millennium",
-        "rarity": "Lone Wolf",
+        "pack_id": "TLM-JP060",
         "date": "2005-02-24"
     },
     "tcg": {
-        "id": 82452993,
-        "pack_id": "TLM-EN060",
         "pack": "The Lost Millennium",
-        "rarity": "Lone Wolf",
+        "pack_id": "TLM-EN060",
         "date": "2005-05-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1c/LoneWolf-DR3-EN-C-UE.png"

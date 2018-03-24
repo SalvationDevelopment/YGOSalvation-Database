@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 43017476,
-        "pack_id": "DP18-JP037",
         "pack": "Duelist Pack: Legend Duelist",
-        "rarity": "Deuterion",
+        "pack_id": "DP18-JP037",
         "date": "2017-06-03"
     },
     "tcg": {
-        "date": "2017-09-07",
         "pack": "Legendary Duelists",
-        "pack_id": "LEDU-DE037"
+        "pack_id": "LEDU-DE037",
+        "date": "2017-09-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e0/Duoterion-LEDU-EN-SR-1E.png"
 }

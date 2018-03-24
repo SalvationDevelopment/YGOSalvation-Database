@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 42868711,
-        "pack_id": "307-011",
         "pack": "Invader of Darkness",
-        "rarity": "共通",
+        "pack_id": "307-011",
         "date": "2003-07-17"
     },
     "tcg": {
-        "id": 42868711,
-        "pack_id": "IOC-066",
         "pack": "Invasion of Chaos",
-        "rarity": "Gora Turtle of Illusion",
+        "pack_id": "IOC-066",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/49/GoraTurtleofIllusion-DR2-EN-C-UE.png"

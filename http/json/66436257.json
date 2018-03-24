@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 66436257,
-        "pack_id": "PTDN-JP012",
         "pack": "Phantom Darkness",
-        "rarity": "Volcanic Counter",
+        "pack_id": "PTDN-JP012",
         "date": "2007-11-23"
     },
     "tcg": {
-        "id": 66436257,
-        "pack_id": "PTDN-DE012",
         "pack": "Phantom Darkness",
-        "rarity": "Volcanic Counter",
+        "pack_id": "PTDN-DE012",
         "date": "2008-01-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/20/VolcanicCounter-SDOK-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58293343,
-        "pack_id": "CPD1-JP004",
         "pack": "Collectors Pack: Duelist of Destiny Version",
-        "rarity": "Tyrant Burst Dragon",
+        "pack_id": "CPD1-JP004",
         "date": "2015-05-16"
     },
     "tcg": {
-        "id": 58293343,
-        "pack_id": "DRL2-DE004",
         "pack": "Dragons of Legend 2",
-        "rarity": "Tyrant Burst Dragon",
+        "pack_id": "DRL2-DE004",
         "date": "2015-07-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/96/TyrantBurstDragon-LCKC-EN-UR-1E.png"

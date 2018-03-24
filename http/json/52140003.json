@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 52140003,
-        "pack_id": "GENF-JP065",
         "pack": "Generation Force",
-        "rarity": "Explosive Urchin",
+        "pack_id": "GENF-JP065",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 52140003,
-        "pack_id": "GENF-EN065",
         "pack": "Generation Force",
-        "rarity": "Explosive Urchin",
+        "pack_id": "GENF-EN065",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/de/ExplosiveUrchin-GENF-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 43225434,
-        "pack_id": "CPL1-JP017",
         "pack": "Collectors Pack: Duelist of Legend Version",
-        "rarity": "Battle Fusion",
+        "pack_id": "CPL1-JP017",
         "date": "2014-05-17"
     },
     "tcg": {
-        "id": 43225434,
-        "pack_id": "DRLG-DE017",
         "pack": "Dragons of Legend",
-        "rarity": "Battle Fusion",
+        "pack_id": "DRLG-DE017",
         "date": "2014-04-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f4/BattleFusion-FUEN-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58786132,
-        "pack_id": "CROS-JP085",
         "pack": "Crossed Souls",
-        "rarity": "Lucius the Shadow Vassal",
+        "pack_id": "CROS-JP085",
         "date": "2015-02-14"
     },
     "tcg": {
-        "id": 58786132,
-        "pack_id": "SR01-DE010",
         "pack": "Emperor of Darkness Structure Deck",
-        "rarity": "Lucius the Shadow Vassal",
+        "pack_id": "SR01-DE010",
         "date": "2016-01-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4e/LuciustheShadowVassal-SR01-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 97268402,
-        "pack_id": "DREV-JP002",
         "pack": "Duelist Revolution",
-        "rarity": "Effect Veiler",
+        "pack_id": "DREV-JP002",
         "date": "2010-04-17"
     },
     "tcg": {
-        "id": 97268402,
-        "pack_id": "DREV-EN002",
         "pack": "Duelist Revolution",
-        "rarity": "Effect Veiler",
+        "pack_id": "DREV-EN002",
         "date": "2010-08-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2e/EffectVeiler-YS17-EN-C-1E.png"

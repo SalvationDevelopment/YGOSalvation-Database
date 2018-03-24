@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 83303851,
-        "pack_id": "SD30-JP001",
         "pack": "Structure Deck: Pendulum Domination",
-        "rarity": "D/D/D Chaos King Apocalypse",
+        "pack_id": "SD30-JP001",
         "date": "2015-12-12"
     },
     "tcg": {
-        "id": 83303851,
-        "pack_id": "SDPD-DE001",
         "pack": "Pendulum Domination Structure Deck",
-        "rarity": "D/D/D Chaos King Apocalypse",
+        "pack_id": "SDPD-DE001",
         "date": "2017-01-19"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5e/DDDChaosKingApocalypse-SDPD-EN-UR-1E.png"

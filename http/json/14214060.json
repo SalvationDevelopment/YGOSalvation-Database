@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 14214060,
-        "pack_id": "REDU-JP001",
         "pack": "Return of the Duelist",
-        "rarity": "Trance the Magic Swordsman",
+        "pack_id": "REDU-JP001",
         "date": "2012-04-14"
     },
     "tcg": {
-        "id": 14214060,
-        "pack_id": "REDU-EN001",
         "pack": "Return of the Duelist",
-        "rarity": "Trance the Magic Swordsman",
+        "pack_id": "REDU-EN001",
         "date": "2012-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/TrancetheMagicSwordsman-YS13-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 29071332,
-        "pack_id": "DP08-JP016",
         "pack": "Duelist Pack: Yusei",
-        "rarity": "Armory Arm",
+        "pack_id": "DP08-JP016",
         "date": "2008-10-18"
     },
     "tcg": {
-        "id": 29071332,
-        "pack_id": "DP08-DE016",
         "pack": "Duelist Pack: Yusei",
-        "rarity": "Armory Arm",
+        "pack_id": "DP08-DE016",
         "date": "2009-02-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/35/ArmoryArm-LC5D-EN-ScR-1E.png"

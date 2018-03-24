@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 51858200,
-        "pack_id": "SPFE-JP013",
         "pack": "Booster SP: Fusion Enforcers",
-        "rarity": "Predaplanet",
+        "pack_id": "SPFE-JP013",
         "date": "2016-11-12"
     },
     "tcg": {
-        "id": 51858200,
-        "pack_id": "FUEN-DE013",
         "pack": "Fusion Enforcers",
-        "rarity": "Predaplanet",
+        "pack_id": "FUEN-DE013",
         "date": "2017-02-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/51/Predaplanet-FUEN-EN-SR-1E.png"

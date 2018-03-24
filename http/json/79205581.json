@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 79205581,
-        "pack_id": "DP09-JP029",
         "pack": "Duelist Pack: Yusei 2",
-        "rarity": "Scrubbed Raid",
+        "pack_id": "DP09-JP029",
         "date": "2009-10-17"
     },
     "tcg": {
-        "id": 79205581,
-        "pack_id": "DP09-DE029",
         "pack": "Duelist Pack: Yusei 2",
-        "rarity": "Scrubbed Raid",
+        "pack_id": "DP09-DE029",
         "date": "2010-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/59/ScrubbedRaid-DP09-EN-SR-1E.png"

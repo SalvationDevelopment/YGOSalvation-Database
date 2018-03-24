@@ -31,18 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55948544,
-        "pack_id": "JCY-001",
         "pack": "Yu-Gi-Oh! Volume 31",
-        "rarity": "Judgment of the Pharaoh",
+        "pack_id": "JCY-001",
         "date": "2002-12-04"
     },
-    "tcg": {
-        "id": 55948544,
-        "pack_id": "JUMP-EN008",
-        "pack": "JUMP",
-        "rarity": "Judgment of the Pharaoh",
-        "date": 1154390400000
-    },
+    "tcg": {},
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d1/JudgmentofthePharaoh-JUMP-EN-UR-LE.png"
 }

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 46089249,
-        "pack_id": "STBL-JP056",
         "pack": "Starstrike Blast",
-        "rarity": "Koa'ki Ring",
+        "pack_id": "STBL-JP056",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 46089249,
-        "pack_id": "STBL-EN056",
         "pack": "Starstrike Blast",
-        "rarity": "Koa'ki Ring",
+        "pack_id": "STBL-EN056",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c2/KoakiRing-STBL-EN-C-1E.png"

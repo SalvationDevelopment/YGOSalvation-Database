@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 11264180,
-        "pack_id": "EXVC-JP053",
         "pack": "Extreme Victory",
-        "rarity": "TGX1-HL",
+        "pack_id": "EXVC-JP053",
         "date": "2011-02-11"
     },
     "tcg": {
-        "id": 11264180,
-        "pack_id": "EXVC-EN053",
         "pack": "Extreme Victory",
-        "rarity": "TGX1-HL",
+        "pack_id": "EXVC-EN053",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/59/TGX1HL-LC5D-EN-UR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 23471572,
-        "pack_id": "CA-13",
         "pack": "Curse of Anubis",
-        "rarity": "Solomon's Lawbook",
+        "pack_id": "CA-13",
         "date": "2000-09-28"
     },
     "tcg": {
-        "id": 23471572,
-        "pack_id": "PSV-013",
         "pack": "Pharaoh's Servant",
-        "rarity": "Solomon's Lawbook",
+        "pack_id": "PSV-013",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b4/SolomonsLawbook-PSV-EN-C-UE.jpg"

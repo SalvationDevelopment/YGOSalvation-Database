@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 87624166,
-        "pack_id": "ANPR-JP048",
         "pack": "Ancient Prophecy",
-        "rarity": "Ancient Forest",
+        "pack_id": "ANPR-JP048",
         "date": "2009-04-18"
     },
     "tcg": {
-        "id": 87624166,
-        "pack_id": "ANPR-DE048",
         "pack": "Ancient Prophecy",
-        "rarity": "Ancient Forest",
+        "pack_id": "ANPR-DE048",
         "date": "2009-08-27"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/39/AncientForest-ANPR-EN-SR-UE.jpg"

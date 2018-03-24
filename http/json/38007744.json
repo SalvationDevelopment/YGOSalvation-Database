@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 38007744,
-        "pack_id": "LVAL-JP008",
         "pack": "Legacy of the Valiant",
-        "rarity": "Chronomaly Moai Carrier",
+        "pack_id": "LVAL-JP008",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 38007744,
-        "pack_id": "LVAL-DE008",
         "pack": "Legacy of the Valiant",
-        "rarity": "Chronomaly Moai Carrier",
+        "pack_id": "LVAL-DE008",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/24/ChronomalyMoaiCarrier-MP14-EN-C-1E.png"

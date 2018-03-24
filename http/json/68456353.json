@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 68456353,
-        "pack_id": "STBL-JP075",
         "pack": "Starstrike Blast",
-        "rarity": "Exterio's Fang",
+        "pack_id": "STBL-JP075",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 68456353,
-        "pack_id": "STBL-EN075",
         "pack": "Starstrike Blast",
-        "rarity": "Exterio's Fang",
+        "pack_id": "STBL-EN075",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/24/ExteriosFang-STBL-EN-C-1E.jpg"

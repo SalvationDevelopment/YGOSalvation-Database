@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99659159,
-        "pack_id": "SD19-JP021",
         "pack": "Structure Deck: Dragunity Drive",
-        "rarity": "Dragon Mastery",
+        "pack_id": "SD19-JP021",
         "date": "2010-06-19"
     },
     "tcg": {
-        "id": 99659159,
-        "pack_id": "SDDL-DE022",
         "pack": "Dragunity Legion Structure Deck",
-        "rarity": "Dragon Mastery",
+        "pack_id": "SDDL-DE022",
         "date": "2011-03-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cb/DragonMastery-SDDL-EN-C-1E.png"

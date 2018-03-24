@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 26920296,
-        "pack_id": "EP15-JP038",
         "pack": "Extra Pack 2015",
-        "rarity": "Dreamland",
+        "pack_id": "EP15-JP038",
         "date": "2015-09-19"
     },
     "tcg": {
-        "date": "2017-08-24",
         "pack": "2017 Mega-Tins",
-        "pack_id": "CT14-DE006"
+        "pack_id": "CT14-DE006",
+        "date": "2017-08-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/Dreamland-CT14-EN-SR-LE.png"
 }

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80769747,
-        "pack_id": "CSOC-JP018",
         "pack": "Crossroads of Chaos",
-        "rarity": "",
+        "pack_id": "CSOC-JP018",
         "date": "2008-07-19"
     },
     "tcg": {
-        "id": 80769747,
-        "pack_id": "CSOC-EN018",
         "pack": "Crossroads of Chaos",
-        "rarity": "Iron Chain Snake",
+        "pack_id": "CSOC-EN018",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/05/IronChainSnake-CSOC-EN-C-1E.jpg"

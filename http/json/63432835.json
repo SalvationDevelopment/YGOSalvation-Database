@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63432835,
-        "pack_id": "",
         "pack": "Vol.2",
-        "rarity": "共通",
+        "pack_id": "",
         "date": "1999-03-27"
     },
     "tcg": {
-        "id": 63432835,
-        "pack_id": "LCJW-DE015",
         "pack": "Legendary Collection 4: Joey's World Mega Pack",
-        "rarity": "Stone Armadiller",
+        "pack_id": "LCJW-DE015",
         "date": "2013-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/aa/StoneArmadiller-LCJW-EN-C-1E.png"

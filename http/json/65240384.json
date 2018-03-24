@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65240384,
-        "pack_id": "G5-02",
         "pack": "GameBoy Duel Monsters Promos: Series 5",
-        "rarity": "Big Shield Gardna",
+        "pack_id": "G5-02",
         "date": "2001-07-05"
     },
     "tcg": {
-        "id": 65240384,
-        "pack_id": "DB1-EN097",
         "pack": "Dark Beginning 1",
-        "rarity": "Big Shield Gardna",
+        "pack_id": "DB1-EN097",
         "date": "2004-10-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/BigShieldGardna-LEDD-EN-C-1E.png"

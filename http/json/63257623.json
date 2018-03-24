@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63257623,
-        "pack_id": "LVAL-JP015",
         "pack": "Legacy of the Valiant",
-        "rarity": "Sylvan Peaskeeper",
+        "pack_id": "LVAL-JP015",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 63257623,
-        "pack_id": "LVAL-DE015",
         "pack": "Legacy of the Valiant",
-        "rarity": "Sylvan Peaskeeper",
+        "pack_id": "LVAL-DE015",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/SylvanPeaskeeper-MP14-EN-R-1E.png"

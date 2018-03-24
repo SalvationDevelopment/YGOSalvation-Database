@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 97120394,
-        "pack_id": "DP16-JP004",
         "pack": "Duelist Pack: Battle City",
-        "rarity": "Anti-Magic Arrows",
+        "pack_id": "DP16-JP004",
         "date": "2015-06-06"
     },
     "tcg": {
-        "id": 97120394,
-        "pack_id": "DPBC-EN004",
         "pack": "Duelist Pack: Battle City",
-        "rarity": "Anti-Magic Arrows",
+        "pack_id": "DPBC-EN004",
         "date": "2015-06-19"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/91/AntiMagicArrows-DPBC-EN-UR-1E.png"

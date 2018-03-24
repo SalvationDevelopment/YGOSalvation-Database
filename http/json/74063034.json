@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 74063034,
-        "pack_id": "SPFE-JP035",
         "pack": "Booster SP: Fusion Enforcers",
-        "rarity": "Invocation",
+        "pack_id": "SPFE-JP035",
         "date": "2016-11-12"
     },
     "tcg": {
-        "id": 74063034,
-        "pack_id": "FUEN-DE035",
         "pack": "Fusion Enforcers",
-        "rarity": "Invocation",
+        "pack_id": "FUEN-DE035",
         "date": "2017-02-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/66/Invocation-OP06-EN-UtR-UE.png"

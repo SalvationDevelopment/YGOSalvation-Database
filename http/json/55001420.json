@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55001420,
-        "pack_id": "EE2-JP141",
         "pack": "Expert Edition Volume.2",
-        "rarity": "Arcane Archer of the Forest",
+        "pack_id": "EE2-JP141",
         "date": "2005-03-17"
     },
     "tcg": {
-        "id": 55001420,
-        "pack_id": "AST-029",
         "pack": "Ancient Sanctuary",
-        "rarity": "Arcane Archer of the Forest",
+        "pack_id": "AST-029",
         "date": "2004-06-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/37/ArcaneArcheroftheForest-DR2-EN-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 39892082,
-        "pack_id": "EE2-JP073",
         "pack": "Expert Edition Volume.2",
-        "rarity": "共通",
+        "pack_id": "EE2-JP073",
         "date": "2005-03-17"
     },
     "tcg": {
-        "id": 39892082,
-        "pack_id": "IOC-072",
         "pack": "Invasion of Chaos",
-        "rarity": "Balloon Lizard",
+        "pack_id": "IOC-072",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/61/BalloonLizard-DR2-EN-C-UE.png"

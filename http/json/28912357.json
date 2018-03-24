@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 28912357,
-        "pack_id": "REDU-JP046",
         "pack": "Return of the Duelist",
-        "rarity": "Gear Gigant X",
+        "pack_id": "REDU-JP046",
         "date": "2012-04-14"
     },
     "tcg": {
-        "id": 28912357,
-        "pack_id": "REDU-EN046",
         "pack": "Return of the Duelist",
-        "rarity": "Gear Gigant X",
+        "pack_id": "REDU-EN046",
         "date": "2012-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b9/GearGigantX-SDGR-EN-C-1E.png"

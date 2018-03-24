@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 70043345,
-        "pack_id": "EP15-JP032",
         "pack": "Extra Pack 2015",
-        "rarity": "U.A. Penalty Box",
+        "pack_id": "EP15-JP032",
         "date": "2015-09-19"
     },
     "tcg": {
-        "id": 70043345,
-        "pack_id": "CROS-DE089",
         "pack": "Crossed Souls",
-        "rarity": "U.A. Penalty Box",
+        "pack_id": "CROS-DE089",
         "date": "2015-05-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f1/UAPenaltyBox-CROS-EN-C-1E.png"

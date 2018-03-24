@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65236257,
-        "pack_id": "INOV-JP062",
         "pack": "Invasion: Vengeance",
-        "rarity": "Tellarknight Genesis",
+        "pack_id": "INOV-JP062",
         "date": "2016-07-09"
     },
     "tcg": {
-        "id": 65236257,
-        "pack_id": "INOV-DE062",
         "pack": "Invasion: Vengeance",
-        "rarity": "Tellarknight Genesis",
+        "pack_id": "INOV-DE062",
         "date": "2016-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e7/TellarknightGenesis-INOV-EN-SR-1E.png"

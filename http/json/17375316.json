@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 17375316,
-        "pack_id": "MR-38",
         "pack": "Magic Ruler",
-        "rarity": "Confiscation",
+        "pack_id": "MR-38",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 17375316,
-        "pack_id": "DB1-EN023",
         "pack": "Dark Beginning 1",
-        "rarity": "Confiscation",
+        "pack_id": "DB1-EN023",
         "date": "2004-10-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/72/Confiscation-CP04-EN-R-UE.png"

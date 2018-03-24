@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58268433,
-        "pack_id": "FET-JP018",
         "pack": "Flaming Eternity",
-        "rarity": "Blade Rabbit",
+        "pack_id": "FET-JP018",
         "date": "2004-11-25"
     },
     "tcg": {
-        "id": 58268433,
-        "pack_id": "FET-EN018",
         "pack": "Flaming Eternity",
-        "rarity": "Blade Rabbit",
+        "pack_id": "FET-EN018",
         "date": "2005-02-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/00/BladeRabbit-DR3-EN-C-UE.png"

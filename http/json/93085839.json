@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 93085839,
-        "pack_id": "EP14-JP033",
         "pack": "Extra Pack: Knights of Order",
-        "rarity": "Noble Knight Eachtar",
+        "pack_id": "EP14-JP033",
         "date": "2014-09-13"
     },
     "tcg": {
-        "id": 93085839,
-        "pack_id": "PRIO-DE082",
         "pack": "Primal Origin",
-        "rarity": "Noble Knight Eachtar",
+        "pack_id": "PRIO-DE082",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fd/NobleKnightEachtar-MP15-EN-SR-1E.png"

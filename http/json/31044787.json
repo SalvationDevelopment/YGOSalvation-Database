@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 31044787,
-        "pack_id": "CORE-JP077",
         "pack": "Clash of Rebellions",
-        "rarity": "Ferret Flames",
+        "pack_id": "CORE-JP077",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 31044787,
-        "pack_id": "CORE-DE077",
         "pack": "Clash of Rebellions",
-        "rarity": "Ferret Flames",
+        "pack_id": "CORE-DE077",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dd/FerretFlames-MP16-EN-C-1E.png"

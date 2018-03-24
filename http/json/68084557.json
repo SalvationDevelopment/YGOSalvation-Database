@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 68084557,
-        "pack_id": "PP15-JP005",
         "pack": "Premium Pack 15",
-        "rarity": "Power Tool Mecha Dragon",
+        "pack_id": "PP15-JP005",
         "date": "2013-03-16"
     },
     "tcg": {
-        "id": 68084557,
-        "pack_id": "PGLD-DE005",
         "pack": "Premium Gold",
-        "rarity": "Power Tool Mecha Dragon",
+        "pack_id": "PGLD-DE005",
         "date": "2014-03-27"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/30/PowerToolMechaDragon-PGLD-EN-GScR-1E.png"

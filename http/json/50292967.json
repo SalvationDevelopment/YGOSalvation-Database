@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 50292967,
-        "pack_id": "GENF-JP071",
         "pack": "Generation Force",
-        "rarity": "Past Image",
+        "pack_id": "GENF-JP071",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 50292967,
-        "pack_id": "GENF-EN071",
         "pack": "Generation Force",
-        "rarity": "Past Image",
+        "pack_id": "GENF-EN071",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/df/PastImage-GENF-EN-C-1E.png"

@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 82224646,
-        "pack_id": "CP17-JP004",
         "pack": "Collectors Pack 2017",
-        "rarity": "Performapal Odd-Eyes Synchron",
+        "pack_id": "CP17-JP004",
         "date": "2017-05-13"
     },
     "tcg": {
-        "date": "2017-07-06",
         "pack": "Battles of Legend: Light's Revenge",
-        "pack_id": "BLLR-DE004"
+        "pack_id": "BLLR-DE004",
+        "date": "2017-07-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/72/PerformapalOddEyesSynchron-BLLR-EN-ScR-1E.png"
 }

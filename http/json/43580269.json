@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 43580269,
-        "pack_id": "EX3-001",
         "pack": "Duel Monsters Expert 3 Promos",
-        "rarity": "Emes the Infinity",
+        "pack_id": "EX3-001",
         "date": "2004-02-05"
     },
     "tcg": {
-        "id": 43580269,
-        "pack_id": "DBT-EN001",
         "pack": "Yu-Gi-Oh! Destiny Board Traveler Bundles",
-        "rarity": "Emes the Infinity",
+        "pack_id": "DBT-EN001",
         "date": "2004-10-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/45/EmestheInfinity-DBT-EN-SR-UE.png"

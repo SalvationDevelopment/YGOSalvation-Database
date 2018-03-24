@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 38479725,
-        "pack_id": "SOD-JP029",
         "pack": "Soul of the Duelist",
-        "rarity": "The Trojan Horse",
+        "pack_id": "SOD-JP029",
         "date": "2004-05-27"
     },
     "tcg": {
-        "id": 38479725,
-        "pack_id": "SOD-DE029",
         "pack": "Soul of the Duelist",
-        "rarity": "The Trojan Horse",
+        "pack_id": "SOD-DE029",
         "date": "2004-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/TheTrojanHorse-DR3-EN-C-UE.png"

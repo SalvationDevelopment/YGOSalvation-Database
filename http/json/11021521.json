@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 11021521,
-        "pack_id": "302-021",
         "pack": "Advent of Union",
-        "rarity": "Neko Mane King",
+        "pack_id": "302-021",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 11021521,
-        "pack_id": "MFC-021",
         "pack": "Magician's Force",
-        "rarity": "Neko Mane King",
+        "pack_id": "MFC-021",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/19/NekoManeKing-LCJW-EN-C-1E.png"

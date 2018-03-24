@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 10131855,
-        "pack_id": "COTD-JP074",
         "pack": "Code of the Duelist",
-        "rarity": "Dark World Brainwashing",
+        "pack_id": "COTD-JP074",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE074"
+        "pack_id": "COTD-DE074",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f0/DarkWorldBrainwashing-COTD-EN-C-1E.png"
 }

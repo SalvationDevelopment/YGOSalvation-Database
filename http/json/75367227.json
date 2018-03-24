@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 75367227,
-        "pack_id": "SHSP-JP052",
         "pack": "Shadow Specters",
-        "rarity": "Ghostrick Alucard",
+        "pack_id": "SHSP-JP052",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 75367227,
-        "pack_id": "SHSP-DE052",
         "pack": "Shadow Specters",
-        "rarity": "Ghostrick Alucard",
+        "pack_id": "SHSP-DE052",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/76/GhostrickAlucard-WIRA-EN-R-1E.png"

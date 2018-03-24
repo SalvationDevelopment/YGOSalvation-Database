@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 61231400,
-        "pack_id": "CBLZ-JP041",
-        "pack": "",
-        "rarity": "共通",
-        "date": "2013-02-13"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 61231400,
-        "pack_id": "CBLZ-DE041",
         "pack": "Cosmo Blazer",
-        "rarity": "Pyrotech Mech - Shiryu",
+        "pack_id": "CBLZ-DE041",
         "date": "2013-01-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c8/PyrotechMechShiryu-BP02-EN-R-1E.png"

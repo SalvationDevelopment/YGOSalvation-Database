@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 47198668,
-        "pack_id": "SPRG-JP005",
         "pack": "Booster SP: Raging Masters",
-        "rarity": "D/D/D Doom King Armageddon",
+        "pack_id": "SPRG-JP005",
         "date": "2014-08-09"
     },
     "tcg": {
-        "id": 47198668,
-        "pack_id": "SDPD-DE006",
         "pack": "Pendulum Domination Structure Deck",
-        "rarity": "D/D/D Doom King Armageddon",
+        "pack_id": "SDPD-DE006",
         "date": "2017-01-19"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9b/DDDDoomKingArmageddon-SDPD-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 23122036,
-        "pack_id": "SHSP-JP072",
         "pack": "Shadow Specters",
-        "rarity": "Intrigue Shield",
+        "pack_id": "SHSP-JP072",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 23122036,
-        "pack_id": "SHSP-DE072",
         "pack": "Shadow Specters",
-        "rarity": "Intrigue Shield",
+        "pack_id": "SHSP-DE072",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ac/IntrigueShield-BP03-EN-C-1E.png"

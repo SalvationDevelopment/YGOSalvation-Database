@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 42280216,
-        "pack_id": "ABPF-JP019",
         "pack": "Absolute Powerforce",
-        "rarity": "Oracle of the Sun",
+        "pack_id": "ABPF-JP019",
         "date": "2009-11-14"
     },
     "tcg": {
-        "id": 42280216,
-        "pack_id": "ABPF-DE019",
         "pack": "Absolute Powerforce",
-        "rarity": "Oracle of the Sun",
+        "pack_id": "ABPF-DE019",
         "date": "2010-02-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fb/OracleoftheSun-LC5D-EN-C-1E.png"

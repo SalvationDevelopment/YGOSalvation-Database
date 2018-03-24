@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 69069911,
-        "pack_id": "YZ01-JP001",
         "pack": "Yu-Gi-Oh! ZEXAL Volume 1",
-        "rarity": "Kachi Kochi Dragon",
+        "pack_id": "YZ01-JP001",
         "date": "2011-06-03"
     },
     "tcg": {
-        "id": 69069911,
-        "pack_id": "YZ01-EN001",
         "pack": "Yu-Gi-Oh! ZEXAL Volume 1",
-        "rarity": "Kachi Kochi Dragon",
+        "pack_id": "YZ01-EN001",
         "date": "2012-06-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bf/KachiKochiDragon-MACR-EN-SR-LE.png"

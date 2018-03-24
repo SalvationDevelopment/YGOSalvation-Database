@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81167171,
-        "pack_id": "DD2-JP002",
         "pack": "Academy Duel Disk",
-        "rarity": "Hero Spirit",
+        "pack_id": "DD2-JP002",
         "date": "2005-12-01"
     },
     "tcg": {
-        "id": 81167171,
-        "pack_id": "DPK-ENSE3",
         "pack": "Duelist Pack: Special Edition",
-        "rarity": "Hero Spirit",
+        "pack_id": "DPK-ENSE3",
         "date": "2007-03-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f1/HeroSpirit-LCGX-EN-C-1E.png"

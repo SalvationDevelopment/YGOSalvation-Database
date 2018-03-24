@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 66214679,
-        "pack_id": "PTDN-JP016",
         "pack": "Phantom Darkness",
-        "rarity": "Dark Horus",
+        "pack_id": "PTDN-JP016",
         "date": "2007-11-23"
     },
     "tcg": {
-        "id": 66214679,
-        "pack_id": "PTDN-DE016",
         "pack": "Phantom Darkness",
-        "rarity": "Dark Horus",
+        "pack_id": "PTDN-DE016",
         "date": "2008-01-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/34/DarkHorus-LCYW-EN-C-1E.png"

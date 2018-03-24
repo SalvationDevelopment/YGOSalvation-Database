@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 66607691,
-        "pack_id": "SOI-JP045",
         "pack": "Shadow of Infinity",
-        "rarity": "Photon Generator Unit",
+        "pack_id": "SOI-JP045",
         "date": "2005-11-17"
     },
     "tcg": {
-        "id": 66607691,
-        "pack_id": "SOI-EN045",
         "pack": "Shadow of Infinity",
-        "rarity": "Photon Generator Unit",
+        "pack_id": "SOI-EN045",
         "date": "2006-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/66/PhotonGeneratorUnit-DR04-NA-C-UE.png"

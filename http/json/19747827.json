@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 19747827,
-        "pack_id": "CPD1-JP012",
         "pack": "Collectors Pack: Duelist of Destiny Version",
-        "rarity": "Red-Eyes Black Dragon Sword",
+        "pack_id": "CPD1-JP012",
         "date": "2015-05-16"
     },
     "tcg": {
-        "id": 19747827,
-        "pack_id": "DRL2-DE012",
         "pack": "Dragons of Legend 2",
-        "rarity": "Red-Eyes Black Dragon Sword",
+        "pack_id": "DRL2-DE012",
         "date": "2015-07-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/08/RedEyesBlackDragonSword-LEDD-EN-C-1E.png"

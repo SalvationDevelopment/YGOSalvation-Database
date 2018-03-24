@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55488859,
-        "pack_id": "PHSW-JP016",
         "pack": "Photon Shockwave",
-        "rarity": "Evoltile Gephyro",
+        "pack_id": "PHSW-JP016",
         "date": "2011-07-16"
     },
     "tcg": {
-        "id": 55488859,
-        "pack_id": "PHSW-DE016",
         "pack": "Photon Shockwave",
-        "rarity": "Evoltile Gephyro",
+        "pack_id": "PHSW-DE016",
         "date": "2011-11-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2a/EvoltileGephyro-PHSW-EN-C-1E.png"

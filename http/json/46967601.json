@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 46967601,
-        "pack_id": "STBL-JP059",
         "pack": "Starstrike Blast",
-        "rarity": "Cursed Bill",
+        "pack_id": "STBL-JP059",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 46967601,
-        "pack_id": "STBL-EN059",
         "pack": "Starstrike Blast",
-        "rarity": "Cursed Bill",
+        "pack_id": "STBL-EN059",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dd/CursedBill-STBL-EN-C-1E.png"

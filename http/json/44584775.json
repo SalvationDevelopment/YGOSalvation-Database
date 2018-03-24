@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 44584775,
-        "pack_id": "TAEV-JP067",
         "pack": "Tactical Evolution",
-        "rarity": "Damage = Reptile",
+        "pack_id": "TAEV-JP067",
         "date": "2007-05-12"
     },
     "tcg": {
-        "id": 44584775,
-        "pack_id": "TAEV-FR067",
         "pack": "Tactical Evolution",
-        "rarity": "Damage = Reptile",
+        "pack_id": "TAEV-FR067",
         "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/07/DamageReptile-TAEV-EN-R-1E.png"

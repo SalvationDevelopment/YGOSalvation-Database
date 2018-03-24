@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 52346240,
-        "pack_id": "DREV-JP033",
         "pack": "Duelist Revolution",
-        "rarity": "Lock Cat",
+        "pack_id": "DREV-JP033",
         "date": "2010-04-17"
     },
     "tcg": {
-        "id": 52346240,
-        "pack_id": "DREV-EN033",
         "pack": "Duelist Revolution",
-        "rarity": "Lock Cat",
+        "pack_id": "DREV-EN033",
         "date": "2010-08-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b8/LockCat-DREV-EN-C-1E.jpg"

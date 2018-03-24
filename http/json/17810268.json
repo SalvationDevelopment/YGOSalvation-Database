@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 17810268,
-        "pack_id": "GLAS-JP010",
         "pack": "Gladiator's Assault",
-        "rarity": "Cloudian - Acid Cloud",
+        "pack_id": "GLAS-JP010",
         "date": "2007-07-21"
     },
     "tcg": {
-        "id": 17810268,
-        "pack_id": "GLAS-IT010",
         "pack": "Gladiator's Assault",
-        "rarity": "Cloudian - Acid Cloud",
+        "pack_id": "GLAS-IT010",
         "date": "2007-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/46/CloudianAcidCloud-GLAS-EN-R-1E.png"

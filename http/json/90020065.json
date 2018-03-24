@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 90020065,
-        "pack_id": "PS-23",
         "pack": "Pharaoh's Servant",
-        "rarity": "Jigen Bakudan",
+        "pack_id": "PS-23",
         "date": "2000-07-13"
     },
     "tcg": {
-        "id": 90020065,
-        "pack_id": "SRL-EN074",
         "pack": "Spell Ruler",
-        "rarity": "Jigen Bakudan",
+        "pack_id": "SRL-EN074",
         "date": "2004-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f4/JigenBakudan-SRL-NA-SSP-UE.png"

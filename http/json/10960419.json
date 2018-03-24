@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 10960419,
-        "pack_id": "CPD1-JP009",
         "pack": "Collectors Pack: Duelist of Destiny Version",
-        "rarity": "Time Magic Hammer",
+        "pack_id": "CPD1-JP009",
         "date": "2015-05-16"
     },
     "tcg": {
-        "id": 10960419,
-        "pack_id": "DRL2-DE009",
         "pack": "Dragons of Legend 2",
-        "rarity": "Time Magic Hammer",
+        "pack_id": "DRL2-DE009",
         "date": "2015-07-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1e/TimeMagicHammer-LEDD-EN-C-1E.png"

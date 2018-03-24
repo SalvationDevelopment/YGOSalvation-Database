@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 50785356,
-        "pack_id": "YSD6-JP007",
         "pack": "Starter Deck 2011",
-        "rarity": "Feedback Warrior",
+        "pack_id": "YSD6-JP007",
         "date": "2011-03-19"
     },
     "tcg": {
-        "id": 50785356,
-        "pack_id": "YS11-DE007",
         "pack": "Starter Deck: Dawn of the Xyz",
-        "rarity": "Feedback Warrior",
+        "pack_id": "YS11-DE007",
         "date": "2011-07-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/52/FeedbackWarrior-YS12-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 10239627,
-        "pack_id": "CORE-JP041",
         "pack": "Clash of Rebellions",
-        "rarity": "Magical Abductor",
+        "pack_id": "CORE-JP041",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 10239627,
-        "pack_id": "CORE-DE041",
         "pack": "Clash of Rebellions",
-        "rarity": "Magical Abductor",
+        "pack_id": "CORE-DE041",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9e/MagicalAbductor-PEVO-EN-SR-1E.png"

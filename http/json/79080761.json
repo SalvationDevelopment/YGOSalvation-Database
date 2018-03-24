@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 79080761,
-        "pack_id": "RGBT-JP032",
         "pack": "Raging Battle",
-        "rarity": "Gigastone Omega",
+        "pack_id": "RGBT-JP032",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 79080761,
-        "pack_id": "RGBT-EN032",
         "pack": "Raging Battle",
-        "rarity": "Gigastone Omega",
+        "pack_id": "RGBT-EN032",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/ff/GigastoneOmega-RGBT-EN-C-1E.png"

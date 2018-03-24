@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 48712195,
-        "pack_id": "STON-JP046",
         "pack": "Strike of Neos",
-        "rarity": "Card Trader",
+        "pack_id": "STON-JP046",
         "date": "2006-11-16"
     },
     "tcg": {
-        "id": 48712195,
-        "pack_id": "STON-FR046",
         "pack": "Strike of Neos",
-        "rarity": "Card Trader",
+        "pack_id": "STON-FR046",
         "date": "2007-02-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e7/CardTrader-BP02-EN-R-1E.png"

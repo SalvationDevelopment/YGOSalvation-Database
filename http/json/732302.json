@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 732302,
-        "pack_id": "",
         "pack": "Booster 3",
-        "rarity": "Temple of Skulls",
+        "pack_id": "",
         "date": "1999-07-05"
     },
     "tcg": {
-        "id": 732302,
-        "pack_id": "TP8-DE016",
         "pack": "Tournament Pack 8",
-        "rarity": "Temple of Skulls",
+        "pack_id": "TP8-DE016",
         "date": "2006-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1e/TempleofSkulls-OP02-EN-SP-UE.png"

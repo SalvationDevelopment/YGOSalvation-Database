@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65743242,
-        "pack_id": "MG1-JP002",
         "pack": "Master Guide promotional cards",
-        "rarity": "Call of the Earthbound",
+        "pack_id": "MG1-JP002",
         "date": "2004-09-28"
     },
     "tcg": {
-        "id": 65743242,
-        "pack_id": "PTDN-DE096",
         "pack": "Phantom Darkness",
-        "rarity": "Call of the Earthbound",
+        "pack_id": "PTDN-DE096",
         "date": "2008-01-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f3/CalloftheEarthbound-PTDN-EN-R-1E.png"

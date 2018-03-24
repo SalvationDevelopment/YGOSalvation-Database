@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65260293,
-        "pack_id": "RDS-JP013",
         "pack": "Rise of Destiny",
-        "rarity": "Element Magician",
+        "pack_id": "RDS-JP013",
         "date": "2004-08-05"
     },
     "tcg": {
-        "id": 65260293,
-        "pack_id": "RDS-FR013",
         "pack": "Rise of Destiny",
-        "rarity": "Element Magician",
+        "pack_id": "RDS-FR013",
         "date": "2004-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/ElementMagician-DR3-EN-C-UE.png"

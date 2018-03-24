@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 5556499,
-        "pack_id": "SD18-JP001",
         "pack": "Structure Deck: Machiners Command",
-        "rarity": "Machina Fortress",
+        "pack_id": "SD18-JP001",
         "date": "2009-12-12"
     },
     "tcg": {
-        "id": 5556499,
-        "pack_id": "SDMM-DE001",
         "pack": "Machina Mayhem Structure Deck",
-        "rarity": "Machina Fortress",
+        "pack_id": "SDMM-DE001",
         "date": "2010-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c0/MachinaFortress-LEDD-EN-C-1E.png"

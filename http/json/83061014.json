@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 83061014,
-        "pack_id": "ORCS-JP038",
         "pack": "Order of Chaos",
-        "rarity": "Numen erat Testudo",
+        "pack_id": "ORCS-JP038",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 83061014,
-        "pack_id": "ORCS-EN038",
         "pack": "Order of Chaos",
-        "rarity": "Numen erat Testudo",
+        "pack_id": "ORCS-EN038",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3f/NumeneratTestudo-ORCS-EN-C-1E.png"

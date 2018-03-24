@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 62125438,
-        "pack_id": "SD28-JP003",
         "pack": "Structure Deck: Synchron Extreme",
-        "rarity": "Synchron Carrier",
+        "pack_id": "SD28-JP003",
         "date": "2014-12-06"
     },
     "tcg": {
-        "id": 62125438,
-        "pack_id": "SDSE-DE003",
         "pack": "Synchron Extreme Structure Deck",
-        "rarity": "Synchron Carrier",
+        "pack_id": "SDSE-DE003",
         "date": "2015-08-27"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/SynchronCarrier-SDSE-EN-C-1E.png"

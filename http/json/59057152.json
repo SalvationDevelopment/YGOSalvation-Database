@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 59057152,
-        "pack_id": "EP13-JP032",
         "pack": "Extra Pack: Sword of Knights",
-        "rarity": "Noble Knight Medraut",
+        "pack_id": "EP13-JP032",
         "date": "2013-05-18"
     },
     "tcg": {
-        "id": 59057152,
-        "pack_id": "CBLZ-DE081",
         "pack": "Cosmo Blazer",
-        "rarity": "Noble Knight Medraut",
+        "pack_id": "CBLZ-DE081",
         "date": "2013-01-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/92/NobleKnightMedraut-NKRT-EN-PlR-LE.png"

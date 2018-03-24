@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 30575681,
-        "pack_id": "EONK-JP002",
         "pack": "Duel Field EX Epic of Noble Knights: Holy Sword of Guidance",
-        "rarity": "Noble Knight Bedwyr",
+        "pack_id": "EONK-JP002",
         "date": "2014-12-20"
     },
     "tcg": {
-        "id": 30575681,
-        "pack_id": "NKRT-DE002",
         "pack": "Noble Knights of the Round Table Box Set",
-        "rarity": "Noble Knight Bedwyr",
+        "pack_id": "NKRT-DE002",
         "date": "2014-11-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/28/NobleKnightBedwyr-NKRT-EN-PlR-LE.png"

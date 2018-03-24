@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 77207191,
-        "pack_id": "G4-B1",
         "pack": "Yu-Gi-Oh! Duel Monsters IV: Battle of Great Duelist Game Guide 1 promotional card",
-        "rarity": "Berfomet",
+        "pack_id": "G4-B1",
         "date": "2000-12-07"
     },
     "tcg": {
-        "id": 77207191,
-        "pack_id": "ABPF-DE091",
         "pack": "Absolute Powerforce",
-        "rarity": "Berfomet",
+        "pack_id": "ABPF-DE091",
         "date": "2010-02-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a8/Berfomet-SDMY-EN-C-1E.png"

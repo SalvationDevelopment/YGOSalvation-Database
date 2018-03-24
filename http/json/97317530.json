@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 97317530,
-        "pack_id": "LVAL-JP036",
         "pack": "Legacy of the Valiant",
-        "rarity": "Kalantosa, Mystical Beast of the Forest",
+        "pack_id": "LVAL-JP036",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 97317530,
-        "pack_id": "LVAL-DE036",
         "pack": "Legacy of the Valiant",
-        "rarity": "Kalantosa, Mystical Beast of the Forest",
+        "pack_id": "LVAL-DE036",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/74/KalantosaMysticalBeastoftheForest-LVAL-EN-C-UE.png"

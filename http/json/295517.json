@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 295517,
-        "pack_id": "MA-30",
         "pack": "Mythological Age",
-        "rarity": "A Legendary Ocean",
+        "pack_id": "MA-30",
         "date": "2001-11-29"
     },
     "tcg": {
-        "id": 295517,
-        "pack_id": "LOD-078",
         "pack": "Legacy of Darkness",
-        "rarity": "A Legendary Ocean",
+        "pack_id": "LOD-078",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/ff/ALegendaryOcean-LEDU-EN-C-1E.png"

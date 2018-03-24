@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80250319,
-        "pack_id": "INOV-JP030",
         "pack": "Invasion: Vengeance",
-        "rarity": "Graydle Slime Jr.",
+        "pack_id": "INOV-JP030",
         "date": "2016-07-09"
     },
     "tcg": {
-        "id": 80250319,
-        "pack_id": "INOV-DE030",
         "pack": "Invasion: Vengeance",
-        "rarity": "Graydle Slime Jr.",
+        "pack_id": "INOV-DE030",
         "date": "2016-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/80/GraydleSlimeJr-INOV-EN-C-1E.png"

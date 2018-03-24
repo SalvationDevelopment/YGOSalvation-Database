@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 51194046,
-        "pack_id": "SECE-JP020",
         "pack": "Secrets of Eternity",
-        "rarity": "Qliphort Monolith",
+        "pack_id": "SECE-JP020",
         "date": "2014-11-15"
     },
     "tcg": {
-        "id": 51194046,
-        "pack_id": "SECE-DE020",
         "pack": "Secrets of Eternity",
-        "rarity": "Qliphort Monolith",
+        "pack_id": "SECE-DE020",
         "date": "2015-01-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f6/QliphortMonolith-PEVO-EN-SR-1E.png"

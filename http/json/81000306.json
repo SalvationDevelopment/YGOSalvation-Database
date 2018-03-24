@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81000306,
-        "pack_id": "ORCS-JP047",
         "pack": "Order of Chaos",
-        "rarity": "Full-Force Strike",
+        "pack_id": "ORCS-JP047",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 81000306,
-        "pack_id": "BP02-DE166",
         "pack": "Battle Pack 2: War of the Giants",
-        "rarity": "Full-Force Strike",
+        "pack_id": "BP02-DE166",
         "date": "2013-06-27"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/38/FullForceStrike-BP02-EN-R-1E.png"

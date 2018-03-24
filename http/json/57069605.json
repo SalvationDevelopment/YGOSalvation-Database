@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 57069605,
-        "pack_id": "305-043",
         "pack": "Threat of the Dark Demon World",
-        "rarity": "Frozen Soul",
+        "pack_id": "305-043",
         "date": "2003-02-20"
     },
     "tcg": {
-        "id": 57069605,
-        "pack_id": "DCR-096",
         "pack": "Dark Crisis",
-        "rarity": "Frozen Soul",
+        "pack_id": "DCR-096",
         "date": "2003-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/12/FrozenSoul-DR1-EN-C-UE.jpg"

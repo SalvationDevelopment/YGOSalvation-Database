@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 68462976,
-        "pack_id": "CSOC-JP061",
         "pack": "Crossroads of Chaos",
-        "rarity": "Secret Village of the Spellcasters",
+        "pack_id": "CSOC-JP061",
         "date": "2008-07-19"
     },
     "tcg": {
-        "id": 68462976,
-        "pack_id": "CSOC-EN061",
         "pack": "Crossroads of Chaos",
-        "rarity": "Secret Village of the Spellcasters",
+        "pack_id": "CSOC-EN061",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bd/SecretVillageoftheSpellcasters-OP05-EN-C-UE.png"

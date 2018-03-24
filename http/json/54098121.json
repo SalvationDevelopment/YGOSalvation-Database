@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 54098121,
-        "pack_id": "",
         "pack": "Booster 5",
-        "rarity": "Mysterious Puppeteer",
+        "pack_id": "",
         "date": "1999-10-17"
     },
     "tcg": {
-        "id": 54098121,
-        "pack_id": "SDK-043",
         "pack": "Starter Deck: Kaiba",
-        "rarity": "Mysterious Puppeteer",
+        "pack_id": "SDK-043",
         "date": "2002-03-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/MysteriousPuppeteer-SKE-EN-C-1E.jpg"

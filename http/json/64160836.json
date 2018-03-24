@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64160836,
-        "pack_id": "EXP2-JP035",
         "pack": "Extra Pack Volume 2",
-        "rarity": "Alien Kid",
+        "pack_id": "EXP2-JP035",
         "date": "2009-09-19"
     },
     "tcg": {
-        "id": 64160836,
-        "pack_id": "CRMS-EN084",
         "pack": "Crimson Crisis",
-        "rarity": "Alien Kid",
+        "pack_id": "CRMS-EN084",
         "date": "2009-02-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/99/AlienKid-CRMS-EN-SR-UE.png"

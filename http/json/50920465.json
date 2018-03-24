@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 50920465,
-        "pack_id": "PRIO-JP007",
         "pack": "Primal Origin",
-        "rarity": "Blizzard Thunderbird",
+        "pack_id": "PRIO-JP007",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 50920465,
-        "pack_id": "PRIO-DE007",
         "pack": "Primal Origin",
-        "rarity": "Blizzard Thunderbird",
+        "pack_id": "PRIO-DE007",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/de/BlizzardThunderbird-MP15-EN-C-1E.png"

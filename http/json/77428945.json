@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 77428945,
-        "pack_id": "SHSP-JP043",
         "pack": "Shadow Specters",
-        "rarity": "Terrene Toothed Tsuchinoko",
+        "pack_id": "SHSP-JP043",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 77428945,
-        "pack_id": "SHSP-DE043",
         "pack": "Shadow Specters",
-        "rarity": "Terrene Toothed Tsuchinoko",
+        "pack_id": "SHSP-DE043",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d3/TerreneToothedTsuchinoko-SHSP-EN-C-UE.png"

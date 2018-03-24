@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 78355370,
-        "pack_id": "SDMY-JP005",
         "pack": "Structure Deck: Yugi Muto",
-        "rarity": "Kuribohrn",
+        "pack_id": "SDMY-JP005",
         "date": "2016-06-18"
     },
     "tcg": {
-        "id": 78355370,
-        "pack_id": "SDMY-DE005",
         "pack": "Structure Deck: Yugi Muto",
-        "rarity": "Kuribohrn",
+        "pack_id": "SDMY-DE005",
         "date": "2016-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bd/Kuribohrn-SDMY-EN-C-1E.png"

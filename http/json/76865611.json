@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 76865611,
-        "pack_id": "EXVC-JP010",
         "pack": "Extreme Victory",
-        "rarity": "Morphtronic Lantron",
+        "pack_id": "EXVC-JP010",
         "date": "2011-02-11"
     },
     "tcg": {
-        "id": 76865611,
-        "pack_id": "EXVC-EN010",
         "pack": "Extreme Victory",
-        "rarity": "Morphtronic Lantron",
+        "pack_id": "EXVC-EN010",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ac/MorphtronicLantron-EXVC-EN-C-1E.jpg"

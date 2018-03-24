@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65536818,
-        "pack_id": "INOV-JP048",
         "pack": "Invasion: Vengeance",
-        "rarity": "Denglong, First of the Yang Zing",
+        "pack_id": "INOV-JP048",
         "date": "2016-07-09"
     },
     "tcg": {
-        "id": 65536818,
-        "pack_id": "INOV-DE048",
         "pack": "Invasion: Vengeance",
-        "rarity": "Denglong, First of the Yang Zing",
+        "pack_id": "INOV-DE048",
         "date": "2016-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5a/DenglongFirstoftheYangZing-INOV-EN-UR-1E.png"

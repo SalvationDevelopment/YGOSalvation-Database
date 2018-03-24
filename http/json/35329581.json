@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 35329581,
-        "pack_id": "CPL1-JP032",
         "pack": "Collectors Pack: Duelist of Legend Version",
-        "rarity": "Shadow Impulse",
+        "pack_id": "CPL1-JP032",
         "date": "2014-05-17"
     },
     "tcg": {
-        "id": 35329581,
-        "pack_id": "DRLG-DE032",
         "pack": "Dragons of Legend",
-        "rarity": "Shadow Impulse",
+        "pack_id": "DRLG-DE032",
         "date": "2014-04-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6d/ShadowImpulse-DRLG-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 94535485,
-        "pack_id": "CPF1-JP019",
         "pack": "Collectors Pack: Duelist of Flash Version",
-        "rarity": "Hand-Holding Genie",
+        "pack_id": "CPF1-JP019",
         "date": "2016-05-14"
     },
     "tcg": {
-        "id": 94535485,
-        "pack_id": "DRL3-DE019",
         "pack": "Dragons of Legend: Unleashed",
-        "rarity": "Hand-Holding Genie",
+        "pack_id": "DRL3-DE019",
         "date": "2016-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a2/HandHoldingGenie-DRL3-EN-UR-1E.png"

@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 19089195,
-        "pack_id": "DP18-JP018",
         "pack": "Duelist Pack: Legend Duelist",
-        "rarity": "Sea Stealth Attack",
+        "pack_id": "DP18-JP018",
         "date": "2017-06-03"
     },
     "tcg": {
-        "date": "2017-09-07",
         "pack": "Legendary Duelists",
-        "pack_id": "LEDU-DE018"
+        "pack_id": "LEDU-DE018",
+        "date": "2017-09-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/46/SeaStealthAttack-LEDU-EN-R-1E.png"
 }

@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 40619741,
-        "pack_id": "DT09-JP033",
-        "pack": "デュエルターミナル 「ヴァイロン降臨！！」",
-        "rarity": "レア仕様",
-        "date": 1272344400000
-    },
+    "ocg": {},
     "tcg": {
-        "id": 40619741,
-        "pack_id": "DT05-EN033",
         "pack": "Duel Terminal 5a",
-        "rarity": "Vylon Soldier",
+        "pack_id": "DT05-EN033",
         "date": "2011-05-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d5/VylonSoldier-BP02-EN-C-1E.png"

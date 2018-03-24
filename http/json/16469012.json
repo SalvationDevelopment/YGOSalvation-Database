@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 16469012,
-        "pack_id": "CMC-JP003",
         "pack": "Yu-Gi-Oh! Capsule Monster Coliseum promotional cards",
-        "rarity": "Teva",
+        "pack_id": "CMC-JP003",
         "date": "2004-07-29"
     },
     "tcg": {
-        "id": 16469012,
-        "pack_id": "CMC-EN003",
         "pack": "Yu-Gi-Oh! Capsule Monster Coliseum promotional cards",
-        "rarity": "Teva",
+        "pack_id": "CMC-EN003",
         "date": "2004-11-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/94/Teva-CMC-EN-SR-UE.png"

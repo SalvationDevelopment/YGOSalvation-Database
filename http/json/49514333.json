@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 49514333,
-        "pack_id": "STOR-JP080",
         "pack": "Storm of Ragnarok",
-        "rarity": "Tiki Soul",
+        "pack_id": "STOR-JP080",
         "date": "2010-11-13"
     },
     "tcg": {
-        "id": 49514333,
-        "pack_id": "STOR-EN080",
         "pack": "Storm of Ragnarok",
-        "rarity": "Tiki Soul",
+        "pack_id": "STOR-EN080",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f9/TikiSoul-BP02-EN-C-1E.png"

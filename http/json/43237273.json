@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 43237273,
-        "pack_id": "POTD-JP005",
         "pack": "Power of the Duelist",
-        "rarity": "Neo-Spacian Dark Panther",
+        "pack_id": "POTD-JP005",
         "date": "2006-05-18"
     },
     "tcg": {
-        "id": 43237273,
-        "pack_id": "POTD-DE005",
         "pack": "Power of the Duelist",
-        "rarity": "Neo-Spacian Dark Panther",
+        "pack_id": "POTD-DE005",
         "date": "2006-08-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/57/NeoSpacianDarkPanther-LCGX-EN-C-1E.png"

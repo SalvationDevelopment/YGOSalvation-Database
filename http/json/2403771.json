@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 2403771,
-        "pack_id": "RGBT-JP042",
         "pack": "Raging Battle",
-        "rarity": "Power Tool Dragon",
+        "pack_id": "RGBT-JP042",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 2403771,
-        "pack_id": "RGBT-EN042",
         "pack": "Raging Battle",
-        "rarity": "Power Tool Dragon",
+        "pack_id": "RGBT-EN042",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d0/PowerToolDragon-LC5D-EN-C-1E.png"

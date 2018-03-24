@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 24566654,
-        "pack_id": "RGBT-JP064",
         "pack": "Raging Battle",
-        "rarity": "Crimson Fire",
+        "pack_id": "RGBT-JP064",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 24566654,
-        "pack_id": "RGBT-EN064",
         "pack": "Raging Battle",
-        "rarity": "Crimson Fire",
+        "pack_id": "RGBT-EN064",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/15/CrimsonFire-LC5D-EN-R-1E.png"

@@ -31,18 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99000151,
-        "pack_id": "WC11-JP001",
         "pack": "Yu-Gi-Oh! 5D's WORLD CHAMPIONSHIP 2011 － OVER THE NEXUS － Bundles",
-        "rarity": "Necro Fleur",
+        "pack_id": "WC11-JP001",
         "date": "2011-02-24"
     },
-    "tcg": {
-        "id": 99000151,
-        "pack_id": "WC11-EN001",
-        "pack": "WC11",
-        "rarity": "Necro Fleur",
-        "date": 1304985600000
-    },
+    "tcg": {},
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e8/NecroFleur-WC11-EN-UR-UE.jpg"
 }

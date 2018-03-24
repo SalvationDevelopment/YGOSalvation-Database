@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 19221310,
-        "pack_id": "VS15-JPS00",
         "pack": "Duelist Entry Deck VS",
-        "rarity": "Odd-Eyes Saber Dragon",
+        "pack_id": "VS15-JPS00",
         "date": "2015-03-21"
     },
     "tcg": {
-        "id": 19221310,
-        "pack_id": "YS15-DEY00",
         "pack": "2-Player Starter Deck Yuya & Declan",
-        "rarity": "Odd-Eyes Saber Dragon",
+        "pack_id": "YS15-DEY00",
         "date": "2015-05-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/21/OddEyesSaberDragon-YS15-EU-UR-1E.png"

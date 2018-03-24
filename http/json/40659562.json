@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 40659562,
-        "pack_id": "PH-25",
         "pack": "Pharaonic Guardian",
-        "rarity": "Guardian Sphinx",
+        "pack_id": "PH-25",
         "date": "2002-03-21"
     },
     "tcg": {
-        "id": 40659562,
-        "pack_id": "PGD-025",
         "pack": "Pharaonic Guardian",
-        "rarity": "Guardian Sphinx",
+        "pack_id": "PGD-025",
         "date": "2003-07-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/86/GuardianSphinx-BP01-EN-C-1E.png"

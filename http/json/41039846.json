@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 41039846,
-        "pack_id": "SHSP-JP042",
         "pack": "Shadow Specters",
-        "rarity": "Swarm of Crows",
+        "pack_id": "SHSP-JP042",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 41039846,
-        "pack_id": "SHSP-DE042",
         "pack": "Shadow Specters",
-        "rarity": "Swarm of Crows",
+        "pack_id": "SHSP-DE042",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3b/SwarmofCrows-SHSP-EN-R-UE.png"

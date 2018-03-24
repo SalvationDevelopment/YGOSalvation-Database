@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45452224,
-        "pack_id": "TDGS-JP034",
         "pack": "The Duelist Genesis",
-        "rarity": "Kinka-byo",
+        "pack_id": "TDGS-JP034",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 45452224,
-        "pack_id": "TDGS-EN034",
         "pack": "The Duelist Genesis",
-        "rarity": "Kinka-byo",
+        "pack_id": "TDGS-EN034",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7c/Kinkabyo-SDCL-EN-C-1E.png"

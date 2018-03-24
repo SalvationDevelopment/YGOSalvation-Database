@@ -34,10 +34,8 @@
     ],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 101002050,
-        "pack_id": "CIBR-JP050",
         "pack": "Circuit Break",
-        "rarity": "Excrawler Qualiark",
+        "pack_id": "CIBR-JP050",
         "date": "2017-07-08"
     },
     "tcg": {

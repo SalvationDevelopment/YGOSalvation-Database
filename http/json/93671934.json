@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 93671934,
-        "pack_id": "EE1-JP204",
         "pack": "Expert Edition Volume.1",
-        "rarity": "共通",
+        "pack_id": "EE1-JP204",
         "date": "2004-09-23"
     },
     "tcg": {
-        "id": 93671934,
-        "pack_id": "DCR-042",
         "pack": "Dark Crisis",
-        "rarity": "Morale Boost",
+        "pack_id": "DCR-042",
         "date": "2003-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/98/MoraleBoost-DR1-EN-C-UE.png"

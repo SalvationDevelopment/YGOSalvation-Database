@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 23869735,
-        "pack_id": "POTD-JP058",
         "pack": "Power of the Duelist",
-        "rarity": "Fossil Excavation",
+        "pack_id": "POTD-JP058",
         "date": "2006-05-18"
     },
     "tcg": {
-        "id": 23869735,
-        "pack_id": "POTD-DE058",
         "pack": "Power of the Duelist",
-        "rarity": "Fossil Excavation",
+        "pack_id": "POTD-DE058",
         "date": "2006-08-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1e/FossilExcavation-SR04-EN-C-1E.png"

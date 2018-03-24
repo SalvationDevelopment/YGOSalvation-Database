@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 85936485,
-        "pack_id": "302-003",
         "pack": "Advent of Union",
-        "rarity": "United Resistance",
+        "pack_id": "302-003",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 85936485,
-        "pack_id": "MFC-003",
         "pack": "Magician's Force",
-        "rarity": "United Resistance",
+        "pack_id": "MFC-003",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/UnitedResistance-MFC-NA-C-1E.jpg"

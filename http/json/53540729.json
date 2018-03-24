@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53540729,
-        "pack_id": "PHSW-JP022",
         "pack": "Photon Shockwave",
-        "rarity": "Wind-Up Warrior",
+        "pack_id": "PHSW-JP022",
         "date": "2011-07-16"
     },
     "tcg": {
-        "id": 53540729,
-        "pack_id": "PHSW-DE022",
         "pack": "Photon Shockwave",
-        "rarity": "Wind-Up Warrior",
+        "pack_id": "PHSW-DE022",
         "date": "2011-11-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/90/WindUpWarrior-BP01-EN-C-1E.png"

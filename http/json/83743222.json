@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 83743222,
-        "pack_id": "CPD1-JP011",
         "pack": "Collectors Pack: Duelist of Destiny Version",
-        "rarity": "Goddess Bow",
+        "pack_id": "CPD1-JP011",
         "date": "2015-05-16"
     },
     "tcg": {
-        "id": 83743222,
-        "pack_id": "DRL2-DE011",
         "pack": "Dragons of Legend 2",
-        "rarity": "Goddess Bow",
+        "pack_id": "DRL2-DE011",
         "date": "2015-07-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/GoddessBow-LEDD-EN-C-1E.png"

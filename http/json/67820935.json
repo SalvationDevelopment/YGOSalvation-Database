@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67820935,
-        "pack_id": "RATE-JP080",
         "pack": "Raging Tempest",
-        "rarity": "Massivemorph",
+        "pack_id": "RATE-JP080",
         "date": "2016-10-08"
     },
     "tcg": {
-        "id": 67820935,
-        "pack_id": "RATE-DE080",
         "pack": "Raging Tempest",
-        "rarity": "Massivemorph",
+        "pack_id": "RATE-DE080",
         "date": "2017-02-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/74/Massivemorph-MP17-EN-C-1E.png"

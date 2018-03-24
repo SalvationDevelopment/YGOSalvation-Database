@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 88728507,
-        "pack_id": "SHSP-JP029",
         "pack": "Shadow Specters",
-        "rarity": "Vampire Sorcerer",
+        "pack_id": "SHSP-JP029",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 88728507,
-        "pack_id": "SHSP-DE029",
         "pack": "Shadow Specters",
-        "rarity": "Vampire Sorcerer",
+        "pack_id": "SHSP-DE029",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/60/VampireSorcerer-MP14-EN-UR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 86915847,
-        "pack_id": "PP12-JP002",
         "pack": "Premium Pack 12",
-        "rarity": "Armored Bee",
+        "pack_id": "PP12-JP002",
         "date": "2010-03-20"
     },
     "tcg": {
-        "id": 86915847,
-        "pack_id": "PRC1-DE007",
         "pack": "Premium Collection",
-        "rarity": "Armored Bee",
+        "pack_id": "PRC1-DE007",
         "date": "2012-03-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/24/ArmoredBee-PRC1-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 286392,
-        "pack_id": "SD28-JP041",
         "pack": "Structure Deck: Synchron Extreme",
-        "rarity": "Jet Warrior",
+        "pack_id": "SD28-JP041",
         "date": "2014-12-06"
     },
     "tcg": {
-        "id": 286392,
-        "pack_id": "SDSE-DE041",
         "pack": "Synchron Extreme Structure Deck",
-        "rarity": "Jet Warrior",
+        "pack_id": "SDSE-DE041",
         "date": "2015-08-27"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2c/JetWarrior-SDSE-EN-UR-1E.png"

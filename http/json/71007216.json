@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 71007216,
-        "pack_id": "DBLE-JP014",
         "pack": "Dimension Box Limited Edition",
-        "rarity": "Windwitch - Glass Bell",
+        "pack_id": "DBLE-JP014",
         "date": "2016-11-26"
     },
     "tcg": {
-        "id": 71007216,
-        "pack_id": "RATE-DE098",
         "pack": "Raging Tempest",
-        "rarity": "Windwitch - Glass Bell",
+        "pack_id": "RATE-DE098",
         "date": "2017-02-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e4/WindwitchGlassBell-RATE-EN-UR-1E.png"

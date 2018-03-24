@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80321197,
-        "pack_id": "TF06-JP003",
         "pack": "Yu-Gi-Oh! 5D's Tag Force 6 promotional cards",
-        "rarity": "Crimson Blader",
+        "pack_id": "TF06-JP003",
         "date": "2011-09-22"
     },
     "tcg": {
-        "id": 80321197,
-        "pack_id": "CBLZ-DE093",
         "pack": "Cosmo Blazer",
-        "rarity": "Crimson Blader",
+        "pack_id": "CBLZ-DE093",
         "date": "2013-01-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/69/CrimsonBlader-LC5D-EN-ScR-1E.png"

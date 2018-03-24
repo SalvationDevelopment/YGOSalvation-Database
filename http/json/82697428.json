@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 82697428,
-        "pack_id": "CP17-JP030",
         "pack": "Collectors Pack 2017",
-        "rarity": "Vision HERO Witch Raider",
+        "pack_id": "CP17-JP030",
         "date": "2017-05-13"
     },
     "tcg": {
-        "date": "2017-07-06",
         "pack": "Battles of Legend: Light's Revenge",
-        "pack_id": "BLLR-DE026"
+        "pack_id": "BLLR-DE026",
+        "date": "2017-07-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4f/VisionHEROWitchRaider-BLLR-EN-ScR-1E.png"
 }

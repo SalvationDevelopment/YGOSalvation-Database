@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 77027445,
-        "pack_id": "",
         "pack": "Vol.1",
-        "rarity": "Power of Kaishin",
+        "pack_id": "",
         "date": "1999-02-04"
     },
     "tcg": {
-        "id": 77027445,
-        "pack_id": "LOB-044",
         "pack": "Legend of Blue Eyes White Dragon",
-        "rarity": "Power of Kaishin",
+        "pack_id": "LOB-044",
         "date": "2002-03-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b3/PowerofKaishin-LOB-NA-SP-UE-Reprint.png"

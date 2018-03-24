@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 68299524,
-        "pack_id": "MVP1-JP006",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Pandemic Dragon",
+        "pack_id": "MVP1-JP006",
         "date": "2016-04-23"
     },
     "tcg": {
-        "id": 68299524,
-        "pack_id": "MVP1-DE006",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Pandemic Dragon",
+        "pack_id": "MVP1-DE006",
         "date": "2016-07-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/02/PandemicDragon-MVP1-EN-GUR-1E.png"

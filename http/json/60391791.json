@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 60391791,
-        "pack_id": "303-035",
         "pack": "Champion of Black Magic",
-        "rarity": "Senri Eye",
+        "pack_id": "303-035",
         "date": "2002-09-19"
     },
     "tcg": {
-        "id": 60391791,
-        "pack_id": "MFC-089",
         "pack": "Magician's Force",
-        "rarity": "Senri Eye",
+        "pack_id": "MFC-089",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cf/SenriEye-DR1-EN-C-UE.png"

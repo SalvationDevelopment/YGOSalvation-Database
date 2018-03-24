@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 79178930,
-        "pack_id": "STBL-JP072",
         "pack": "Starstrike Blast",
-        "rarity": "Karakuri Klock",
+        "pack_id": "STBL-JP072",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 79178930,
-        "pack_id": "STBL-EN072",
         "pack": "Starstrike Blast",
-        "rarity": "Karakuri Klock",
+        "pack_id": "STBL-EN072",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ce/KarakuriKlock-STBL-EN-SR-1E.jpg"

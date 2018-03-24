@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 25700114,
-        "pack_id": "LVAL-JP080",
         "pack": "Legacy of the Valiant",
-        "rarity": "Duston Roller",
+        "pack_id": "LVAL-JP080",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 25700114,
-        "pack_id": "LVAL-DE080",
         "pack": "Legacy of the Valiant",
-        "rarity": "Duston Roller",
+        "pack_id": "LVAL-DE080",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/DustonRoller-LVAL-EN-SP-1E.png"

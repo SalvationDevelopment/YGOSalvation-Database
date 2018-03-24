@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 29216967,
-        "pack_id": "CPZ1-JP008",
         "pack": "Collectors Pack: ZEXAL Version",
-        "rarity": "Gimmick Puppet Scissor Arms",
+        "pack_id": "CPZ1-JP008",
         "date": "2013-08-10"
     },
     "tcg": {
-        "id": 29216967,
-        "pack_id": "NUMH-DE008",
         "pack": "Number Hunters",
-        "rarity": "Gimmick Puppet Scissor Arms",
+        "pack_id": "NUMH-DE008",
         "date": "2013-07-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/GimmickPuppetScissorArms-NUMH-EN-SR-1E.png"

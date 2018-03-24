@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81820689,
-        "pack_id": "",
         "pack": "Booster 2",
-        "rarity": "The Inexperienced Spy",
+        "pack_id": "",
         "date": "1999-05-25"
     },
     "tcg": {
-        "id": 81820689,
-        "pack_id": "SDK-037",
         "pack": "Starter Deck: Kaiba",
-        "rarity": "The Inexperienced Spy",
+        "pack_id": "SDK-037",
         "date": "2002-03-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7c/TheInexperiencedSpy-SKE-EN-C-1E.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 98666339,
-        "pack_id": "CDIP-JP052",
         "pack": "Cyberdark Impact",
-        "rarity": "Dimensional Inversion",
+        "pack_id": "CDIP-JP052",
         "date": "2006-08-10"
     },
     "tcg": {
-        "id": 98666339,
-        "pack_id": "CDIP-FR052",
         "pack": "Cyberdark Impact",
-        "rarity": "Dimensional Inversion",
+        "pack_id": "CDIP-FR052",
         "date": "2006-11-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5e/DimensionalInversion-CP07-EN-C-UE.png"

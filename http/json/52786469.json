@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 52786469,
-        "pack_id": "DT09-JP024",
-        "pack": "デュエルターミナル 「ヴァイロン降臨！！」",
-        "rarity": "レア仕様",
-        "date": 1272344400000
-    },
+    "ocg": {},
     "tcg": {
-        "id": 52786469,
-        "pack_id": "DT05-EN024",
         "pack": "Duel Terminal 5a",
-        "rarity": "Laval Warrior",
+        "pack_id": "DT05-EN024",
         "date": "2011-05-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c6/LavalWarrior-HA05-EN-SR-UE.png"

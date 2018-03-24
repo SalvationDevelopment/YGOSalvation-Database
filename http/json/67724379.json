@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67724379,
-        "pack_id": "",
         "pack": "EX Starter Box",
-        "rarity": "Koumori Dragon",
+        "pack_id": "",
         "date": "1999-12-16"
     },
     "tcg": {
-        "id": 67724379,
-        "pack_id": "SDK-006",
         "pack": "Starter Deck: Kaiba",
-        "rarity": "Koumori Dragon",
+        "pack_id": "SDK-006",
         "date": "2002-03-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/55/KoumoriDragon-SKE-EN-C-1E.jpg"

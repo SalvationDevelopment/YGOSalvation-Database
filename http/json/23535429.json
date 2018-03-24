@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 23535429,
-        "pack_id": "DREV-JP006",
         "pack": "Duelist Revolution",
-        "rarity": "Stronghold Guardian",
+        "pack_id": "DREV-JP006",
         "date": "2010-04-17"
     },
     "tcg": {
-        "id": 23535429,
-        "pack_id": "DREV-EN006",
         "pack": "Duelist Revolution",
-        "rarity": "Stronghold Guardian",
+        "pack_id": "DREV-EN006",
         "date": "2010-08-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8c/StrongholdGuardian-DP10-EN-C-1E.png"

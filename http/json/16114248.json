@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 16114248,
-        "pack_id": "CPL1-JP019",
         "pack": "Collectors Pack: Duelist of Legend Version",
-        "rarity": "Pair Cycroid",
+        "pack_id": "CPL1-JP019",
         "date": "2014-05-17"
     },
     "tcg": {
-        "id": 16114248,
-        "pack_id": "DRLG-DE019",
         "pack": "Dragons of Legend",
-        "rarity": "Pair Cycroid",
+        "pack_id": "DRLG-DE019",
         "date": "2014-04-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ce/PairCycroid-DRLG-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 19327348,
-        "pack_id": "TDGS-JP026",
         "pack": "The Duelist Genesis",
-        "rarity": "Dharc the Dark Charmer",
+        "pack_id": "TDGS-JP026",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 19327348,
-        "pack_id": "TDGS-EN026",
         "pack": "The Duelist Genesis",
-        "rarity": "Dharc the Dark Charmer",
+        "pack_id": "TDGS-EN026",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/ba/DharctheDarkCharmer-TDGS-EN-C-UE.png"

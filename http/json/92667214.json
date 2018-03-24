@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 92667214,
-        "pack_id": "",
         "pack": "Vol.7",
-        "rarity": "Clown Zombie",
+        "pack_id": "",
         "date": "2000-01-27"
     },
     "tcg": {
-        "id": 92667214,
-        "pack_id": "TP6-DE020",
         "pack": "Tournament Pack 6",
-        "rarity": "Clown Zombie",
+        "pack_id": "TP6-DE020",
         "date": "2005-06-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/48/ClownZombie-TP6-EN-C-UE.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 21488686,
-        "pack_id": "TDGS-JP071",
         "pack": "The Duelist Genesis",
-        "rarity": "Psychic Rejuvenation",
+        "pack_id": "TDGS-JP071",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 21488686,
-        "pack_id": "TDGS-EN071",
         "pack": "The Duelist Genesis",
-        "rarity": "Psychic Rejuvenation",
+        "pack_id": "TDGS-EN071",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/39/PsychicRejuvenation-TDGS-EN-C-UE.png"

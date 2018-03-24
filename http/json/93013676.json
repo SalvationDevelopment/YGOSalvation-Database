@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 93013676,
-        "pack_id": "MR-12",
         "pack": "Magic Ruler",
-        "rarity": "Maha Vailo",
+        "pack_id": "MR-12",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 93013676,
-        "pack_id": "SRL-EN012",
         "pack": "Spell Ruler",
-        "rarity": "Maha Vailo",
+        "pack_id": "SRL-EN012",
         "date": "2004-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6c/MahaVailo-YS15-EU-C-1E.png"

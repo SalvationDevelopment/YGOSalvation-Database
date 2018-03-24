@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 2295440,
-        "pack_id": "RGBT-JP045",
         "pack": "Raging Battle",
-        "rarity": "One for One",
+        "pack_id": "RGBT-JP045",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 2295440,
-        "pack_id": "RGBT-EN045",
         "pack": "Raging Battle",
-        "rarity": "One for One",
+        "pack_id": "RGBT-EN045",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/59/OneforOne-SDPD-EN-C-1E.png"

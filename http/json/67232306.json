@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67232306,
-        "pack_id": "PHSW-JP067",
         "pack": "Photon Shockwave",
-        "rarity": "Mirror Mail",
+        "pack_id": "PHSW-JP067",
         "date": "2011-07-16"
     },
     "tcg": {
-        "id": 67232306,
-        "pack_id": "PHSW-DE067",
         "pack": "Photon Shockwave",
-        "rarity": "Mirror Mail",
+        "pack_id": "PHSW-DE067",
         "date": "2011-11-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5e/MirrorMail-PHSW-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65396880,
-        "pack_id": "302-041",
         "pack": "Advent of Union",
-        "rarity": "Huge Revolution",
+        "pack_id": "302-041",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 65396880,
-        "pack_id": "MFC-041",
         "pack": "Magician's Force",
-        "rarity": "Huge Revolution",
+        "pack_id": "MFC-041",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cc/HugeRevolution-DR1-EN-C-UE.png"

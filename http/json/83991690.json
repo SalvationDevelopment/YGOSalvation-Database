@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 83991690,
-        "pack_id": "JF11-JP007",
         "pack": "Jump Festa 2011 - Promotion Pack",
-        "rarity": "Buten",
+        "pack_id": "JF11-JP007",
         "date": "2010-12-18"
     },
     "tcg": {
-        "id": 83991690,
-        "pack_id": "GAOV-EN095",
         "pack": "Galactic Overlord",
-        "rarity": "Buten",
+        "pack_id": "GAOV-EN095",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f0/Buten-GAOV-EN-C-UE.png"

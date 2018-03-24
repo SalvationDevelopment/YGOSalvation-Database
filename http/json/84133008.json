@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 84133008,
-        "pack_id": "",
         "pack": "Booster 6",
-        "rarity": "Monster Eye",
+        "pack_id": "",
         "date": "1999-12-01"
     },
     "tcg": {
-        "id": 84133008,
-        "pack_id": "WCPP-EN008",
         "pack": "World Championship 2010 Card Pack",
-        "rarity": "Monster Eye",
+        "pack_id": "WCPP-EN008",
         "date": "2010-08-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e6/MonsterEye-WP11-EN-SR-LE.jpg"

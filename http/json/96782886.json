@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 96782886,
-        "pack_id": "TDGS-JP016",
         "pack": "The Duelist Genesis",
-        "rarity": "Mind Master",
+        "pack_id": "TDGS-JP016",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 96782886,
-        "pack_id": "TDGS-EN016",
         "pack": "The Duelist Genesis",
-        "rarity": "Mind Master",
+        "pack_id": "TDGS-EN016",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e9/MindMaster-TDGS-EN-R-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 92373006,
-        "pack_id": "EXP1-JP015",
         "pack": "Extra Pack",
-        "rarity": "Test Tiger",
+        "pack_id": "EXP1-JP015",
         "date": "2008-09-13"
     },
     "tcg": {
-        "id": 92373006,
-        "pack_id": "GLAS-IT082",
         "pack": "Gladiator's Assault",
-        "rarity": "Test Tiger",
+        "pack_id": "GLAS-IT082",
         "date": "2007-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d0/TestTiger-RYMP-EN-C-1E.png"

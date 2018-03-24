@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 77936940,
-        "pack_id": "GB8-B01",
         "pack": "Yu-Gi-Oh! Duel Monsters 8: Reshef of Destruction Game Guide 1 Promos",
-        "rarity": "Gernia",
+        "pack_id": "GB8-B01",
         "date": "2003-03-20"
     },
     "tcg": {
-        "id": 77936940,
-        "pack_id": "CP04-DE001",
         "pack": "Champion Pack: Game Four",
-        "rarity": "Gernia",
+        "pack_id": "CP04-DE001",
         "date": "2007-09-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fc/Gernia-GLD5-EN-C-LE.png"

@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 24037702,
-        "pack_id": "COTD-JP059",
         "pack": "Code of the Duelist",
-        "rarity": "March of the Night Brigade",
+        "pack_id": "COTD-JP059",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE059"
+        "pack_id": "COTD-DE059",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/08/MarchoftheDarkBrigade-COTD-EN-UR-1E.png"
 }

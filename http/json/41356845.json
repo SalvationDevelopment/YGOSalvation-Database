@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 41356845,
-        "pack_id": "",
         "pack": "Yu-Gi-Oh! Duel Monsters II: Dark duel Stories promotional cards",
-        "rarity": "Acid Trap Hole",
+        "pack_id": "",
         "date": "1999-07-08"
     },
     "tcg": {
-        "id": 41356845,
-        "pack_id": "DDS-005",
         "pack": "Yu-Gi-Oh! Dark Duel Stories",
-        "rarity": "Acid Trap Hole",
+        "pack_id": "DDS-005",
         "date": "2002-03-19"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/02/AcidTrapHole-MIL1-EN-R-1E.png"

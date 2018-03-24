@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 17141718,
-        "pack_id": "CPF1-JP032",
         "pack": "Collectors Pack: Duelist of Flash Version",
-        "rarity": "Flower Cardian Zebra Grass",
+        "pack_id": "CPF1-JP032",
         "date": "2016-05-14"
     },
     "tcg": {
-        "id": 17141718,
-        "pack_id": "DRL3-DE032",
         "pack": "Dragons of Legend: Unleashed",
-        "rarity": "Flower Cardian Zebra Grass",
+        "pack_id": "DRL3-DE032",
         "date": "2016-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/34/FlowerCardianZebraGrass-DRL3-EN-UR-1E.png"

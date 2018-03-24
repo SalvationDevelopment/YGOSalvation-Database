@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 8327462,
-        "pack_id": "",
         "pack": "Booster 3",
-        "rarity": "Skullbird",
+        "pack_id": "",
         "date": "1999-07-05"
     },
     "tcg": {
-        "id": 8327462,
-        "pack_id": "OP02-DE022",
         "pack": "OTS Tournament Pack 2",
-        "rarity": "Skullbird",
+        "pack_id": "OP02-DE022",
         "date": "2016-07-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3d/Skullbird-OP02-EN-SP-UE.png"

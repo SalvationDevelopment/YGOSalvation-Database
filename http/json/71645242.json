@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 71645242,
-        "pack_id": "CSOC-JP048",
         "pack": "Crossroads of Chaos",
-        "rarity": "Black Garden",
+        "pack_id": "CSOC-JP048",
         "date": "2008-07-19"
     },
     "tcg": {
-        "id": 71645242,
-        "pack_id": "CSOC-EN048",
         "pack": "Crossroads of Chaos",
-        "rarity": "Black Garden",
+        "pack_id": "CSOC-EN048",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/14/BlackGarden-LC5D-EN-ScR-1E.png"

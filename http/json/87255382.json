@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 87255382,
-        "pack_id": "LVAL-JP083",
         "pack": "Legacy of the Valiant",
-        "rarity": "Heraldic Beast Amphisbaena",
+        "pack_id": "LVAL-JP083",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 87255382,
-        "pack_id": "WSUP-DE003",
         "pack": "World Superstars",
-        "rarity": "Heraldic Beast Amphisbaena",
+        "pack_id": "WSUP-DE003",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a9/HeraldicBeastAmphisbaena-WSUP-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 2122975,
-        "pack_id": "TAEV-JP077",
         "pack": "Tactical Evolution",
-        "rarity": "Trap Reclamation",
+        "pack_id": "TAEV-JP077",
         "date": "2007-05-12"
     },
     "tcg": {
-        "id": 2122975,
-        "pack_id": "TAEV-FR077",
         "pack": "Tactical Evolution",
-        "rarity": "Trap Reclamation",
+        "pack_id": "TAEV-FR077",
         "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/70/TrapReclamation-TAEV-EN-R-UE.png"

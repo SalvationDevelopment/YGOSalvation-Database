@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55553602,
-        "pack_id": "ST16-JP021",
         "pack": "Starter Deck 2016",
-        "rarity": "Performapal Dramatic Theater",
+        "pack_id": "ST16-JP021",
         "date": "2016-03-19"
     },
     "tcg": {
-        "id": 55553602,
-        "pack_id": "YS16-DE021",
         "pack": "Starter Deck - Yuya",
-        "rarity": "Performapal Dramatic Theater",
+        "pack_id": "YS16-DE021",
         "date": "2016-05-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b1/PerformapalDramaticTheater-YS16-EN-C-1E.png"

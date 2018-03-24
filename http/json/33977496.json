@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 33977496,
-        "pack_id": "304-028",
         "pack": "Power of the Guardian",
-        "rarity": "Thousand Needles",
+        "pack_id": "304-028",
         "date": "2002-11-21"
     },
     "tcg": {
-        "id": 33977496,
-        "pack_id": "DCR-028",
         "pack": "Dark Crisis",
-        "rarity": "Thousand Needles",
+        "pack_id": "DCR-028",
         "date": "2003-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/df/ThousandNeedles-DR1-EN-C-UE.png"

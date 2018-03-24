@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 25880422,
-        "pack_id": "",
         "pack": "Vol.7",
-        "rarity": "Block Attack",
+        "pack_id": "",
         "date": "2000-01-27"
     },
     "tcg": {
-        "id": 25880422,
-        "pack_id": "MRD-133",
         "pack": "Metal Raiders",
-        "rarity": "Block Attack",
+        "pack_id": "MRD-133",
         "date": "2002-06-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b9/BlockAttack-DB2-EN-C-UE.png"

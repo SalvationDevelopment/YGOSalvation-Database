@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 74191942,
-        "pack_id": "MR-49",
         "pack": "Magic Ruler",
-        "rarity": "Painful Choice",
+        "pack_id": "MR-49",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 74191942,
-        "pack_id": "DB1-EN033",
         "pack": "Dark Beginning 1",
-        "rarity": "Painful Choice",
+        "pack_id": "DB1-EN033",
         "date": "2004-10-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/da/PainfulChoice-DLG1-NA-C-UE.png"

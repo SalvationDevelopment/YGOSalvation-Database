@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 35950025,
-        "pack_id": "DP13-JP017",
         "pack": "Duelist Pack: Kaito Edition",
-        "rarity": "Galaxy Knight",
+        "pack_id": "DP13-JP017",
         "date": "2012-09-15"
     },
     "tcg": {
-        "id": 35950025,
-        "pack_id": "ZTIN-DE012",
         "pack": "Zexal Collection",
-        "rarity": "Galaxy Knight",
+        "pack_id": "ZTIN-DE012",
         "date": "2013-03-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3b/GalaxyKnight-ZTIN-EN-UR-1E.png"

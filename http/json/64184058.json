@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64184058,
-        "pack_id": "SPDS-JP003",
         "pack": "Booster SP: Destiny Soldiers",
-        "rarity": "Destiny HERO - Decider",
+        "pack_id": "SPDS-JP003",
         "date": "2016-08-06"
     },
     "tcg": {
-        "id": 64184058,
-        "pack_id": "DESO-DE003",
         "pack": "Destiny Soldiers",
-        "rarity": "Destiny HERO - Decider",
+        "pack_id": "DESO-DE003",
         "date": "2016-11-17"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/52/DestinyHERODecider-DESO-EN-ScR-1E.png"

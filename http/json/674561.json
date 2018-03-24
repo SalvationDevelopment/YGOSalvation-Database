@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 674561,
-        "pack_id": "PTDN-JP054",
         "pack": "Phantom Darkness",
-        "rarity": "Dark Eruption",
+        "pack_id": "PTDN-JP054",
         "date": "2007-11-23"
     },
     "tcg": {
-        "id": 674561,
-        "pack_id": "PTDN-DE054",
         "pack": "Phantom Darkness",
-        "rarity": "Dark Eruption",
+        "pack_id": "PTDN-DE054",
         "date": "2008-01-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d0/DarkEruption-SDPD-EN-C-1E.png"

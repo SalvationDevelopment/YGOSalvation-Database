@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 71181155,
-        "pack_id": "GX02-JP001",
         "pack": "Yu-Gi-Oh! GX Tag Force Bundles",
-        "rarity": "Phantom Beast Cross-Wing",
+        "pack_id": "GX02-JP001",
         "date": "2006-09-14"
     },
     "tcg": {
-        "id": 71181155,
-        "pack_id": "GX02-EN001",
         "pack": "Yu-Gi-Oh! GX Tag Force Bundles",
-        "rarity": "Phantom Beast Cross-Wing",
+        "pack_id": "GX02-EN001",
         "date": "2006-11-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/49/PhantomBeastCrossWing-GLD2-EN-C-LE.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 35052053,
-        "pack_id": "FET-JP004",
         "pack": "Flaming Eternity",
-        "rarity": "共通",
+        "pack_id": "FET-JP004",
         "date": "2004-11-25"
     },
     "tcg": {
-        "id": 35052053,
-        "pack_id": "FET-EN004",
         "pack": "Flaming Eternity",
-        "rarity": "Common",
+        "pack_id": "FET-EN004",
         "date": "2005-02-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/86/InsectKnight-BP01-EN-C-1E.png"

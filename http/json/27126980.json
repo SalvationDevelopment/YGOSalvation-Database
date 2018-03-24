@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 27126980,
-        "pack_id": "DT09-JP017",
-        "pack": "DT09",
-        "rarity": "Gem-Knight Sapphire",
-        "date": "2012-11-06"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 27126980,
-        "pack_id": "DT05-EN017",
         "pack": "Duel Terminal 5a",
-        "rarity": "Gem-Knight Sapphire",
+        "pack_id": "DT05-EN017",
         "date": "2011-05-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5e/GemKnightSapphire-HA05-EN-SR-UE.jpg"

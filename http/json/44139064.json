@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 44139064,
-        "pack_id": "DP18-JP031",
         "pack": "Duelist Pack: Legend Duelist",
-        "rarity": "Megaroid City",
+        "pack_id": "DP18-JP031",
         "date": "2017-06-03"
     },
     "tcg": {
-        "date": "2017-09-07",
         "pack": "Legendary Duelists",
-        "pack_id": "LEDU-DE031"
+        "pack_id": "LEDU-DE031",
+        "date": "2017-09-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9b/MegaroidCity-LEDU-EN-R-1E.png"
 }

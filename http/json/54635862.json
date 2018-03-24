@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 54635862,
-        "pack_id": "ST13-JPV07",
         "pack": "Starter Deck 2013 Enhancement Pack",
-        "rarity": "Gentlemander",
+        "pack_id": "ST13-JPV07",
         "date": "2013-03-16"
     },
     "tcg": {
-        "id": 54635862,
-        "pack_id": "YS13-DEV07",
         "pack": "Super Starter Power-Up Pack",
-        "rarity": "Gentlemander",
+        "pack_id": "YS13-DEV07",
         "date": "2013-06-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/30/Gentlemander-BP03-EN-C-1E.png"

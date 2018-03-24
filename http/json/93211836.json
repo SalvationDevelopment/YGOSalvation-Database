@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 93211836,
-        "pack_id": "DT04-JP025",
         "pack": "Duel Terminal - Demon Roar God Revival!!",
-        "rarity": "スーパーレア仕様",
+        "pack_id": "DT04-JP025",
         "date": "2008-12-04"
     },
     "tcg": {
-        "id": 93211836,
-        "pack_id": "DT02-EN075",
         "pack": "Duel Terminal 2",
-        "rarity": "Genex Army",
+        "pack_id": "DT02-EN075",
         "date": "2010-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/92/GenexArmy-HA02-EN-ScR-1E.jpg"

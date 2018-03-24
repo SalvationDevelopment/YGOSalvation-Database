@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 75356564,
-        "pack_id": "",
         "pack": "Vol.1",
-        "rarity": "Petit Dragon",
+        "pack_id": "",
         "date": "1999-02-04"
     },
     "tcg": {
-        "id": 75356564,
-        "pack_id": "LOB-024",
         "pack": "Legend of Blue Eyes White Dragon",
-        "rarity": "Petit Dragon",
+        "pack_id": "LOB-024",
         "date": "2002-03-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ac/PetitDragon-LOB-NA-C-1E.jpg"

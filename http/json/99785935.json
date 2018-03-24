@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99785935,
-        "pack_id": "G3-07",
         "pack": "Yu-Gi-Oh! Duel Monsters III: Tri-Holy God Advent promotional cards",
-        "rarity": "Alpha The Magnet Warrior",
+        "pack_id": "G3-07",
         "date": "2000-07-13"
     },
     "tcg": {
-        "id": 99785935,
-        "pack_id": "DOR-001",
         "pack": "Yu-Gi-Oh! The Duelists of the Roses",
-        "rarity": "Alpha The Magnet Warrior",
+        "pack_id": "DOR-001",
         "date": "2003-02-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ae/AlphaTheMagnetWarrior-SDMY-EN-C-1E.png"

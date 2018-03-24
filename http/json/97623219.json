@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 97623219,
-        "pack_id": "FET-JP010",
         "pack": "Flaming Eternity",
-        "rarity": "Element Valkyrie",
+        "pack_id": "FET-JP010",
         "date": "2004-11-25"
     },
     "tcg": {
-        "id": 97623219,
-        "pack_id": "FET-EN010",
         "pack": "Flaming Eternity",
-        "rarity": "Element Valkyrie",
+        "pack_id": "FET-EN010",
         "date": "2005-02-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/13/ElementValkyrie-DR3-EN-C-UE.png"

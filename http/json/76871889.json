@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE084",
+        "date": "2017-10-19"
+    },
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4e/VendreadNights-CIBR-EN-SR-1E.png"
 }

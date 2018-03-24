@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 23314220,
-        "pack_id": "COTD-JP062",
         "pack": "Code of the Duelist",
-        "rarity": "Spellbook of Galdrabok",
+        "pack_id": "COTD-JP062",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE062"
+        "pack_id": "COTD-DE062",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8f/SpellbookofKnowledge-COTD-EN-UR-1E.png"
 }

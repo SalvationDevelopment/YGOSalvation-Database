@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 11705261,
-        "pack_id": "VE10-JP005",
         "pack": "V Jump Edition 10",
-        "rarity": "Xyz Change Tactics",
+        "pack_id": "VE10-JP005",
         "date": "2014-01-11"
     },
     "tcg": {
-        "id": 11705261,
-        "pack_id": "NECH-DE094",
         "pack": "The New Challengers",
-        "rarity": "Xyz Change Tactics",
+        "pack_id": "NECH-DE094",
         "date": "2014-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/XyzChangeTactics-NECH-EN-R-1E.png"

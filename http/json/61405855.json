@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 61405855,
-        "pack_id": "G4-09",
         "pack": "Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist: Jonouchi Deck promotional cards",
-        "rarity": "Sword of Dragon's Soul",
+        "pack_id": "G4-09",
         "date": "2000-12-07"
     },
     "tcg": {
-        "id": 61405855,
-        "pack_id": "PCJ-EN003",
         "pack": "Yu-Gi-Oh! Power of Chaos: Joey the Passion",
-        "rarity": "Sword of Dragon's Soul",
+        "pack_id": "PCJ-EN003",
         "date": "2004-06-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8c/SwordofDragonsSoul-PCJ-EN-PScR-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 87047161,
-        "pack_id": "PRIO-JP005",
         "pack": "Primal Origin",
-        "rarity": "Mermaid Shark",
+        "pack_id": "PRIO-JP005",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 87047161,
-        "pack_id": "PRIO-DE005",
         "pack": "Primal Origin",
-        "rarity": "Mermaid Shark",
+        "pack_id": "PRIO-DE005",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e8/MermaidShark-PRIO-EN-R-1E.png"

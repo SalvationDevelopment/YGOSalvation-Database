@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55010259,
-        "pack_id": "MVP1-JP018",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Gold Gadget",
+        "pack_id": "MVP1-JP018",
         "date": "2016-04-23"
     },
     "tcg": {
-        "id": 55010259,
-        "pack_id": "MVP1-DE018",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Gold Gadget",
+        "pack_id": "MVP1-DE018",
         "date": "2016-07-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b8/GoldGadget-MVP1-EN-GUR-1E.png"

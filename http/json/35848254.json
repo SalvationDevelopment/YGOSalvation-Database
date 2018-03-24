@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 35848254,
-        "pack_id": "PHSW-JP051",
         "pack": "Photon Shockwave",
-        "rarity": "Photon Lead",
+        "pack_id": "PHSW-JP051",
         "date": "2011-07-16"
     },
     "tcg": {
-        "id": 35848254,
-        "pack_id": "PHSW-DE051",
         "pack": "Photon Shockwave",
-        "rarity": "Photon Lead",
+        "pack_id": "PHSW-DE051",
         "date": "2011-11-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9b/PhotonLead-PHSW-EN-C-1E.png"

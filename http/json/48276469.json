@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 48276469,
-        "pack_id": "RDS-JP056",
         "pack": "Rise of Destiny",
-        "rarity": "レア仕様",
+        "pack_id": "RDS-JP056",
         "date": "2004-08-05"
     },
     "tcg": {
-        "id": 48276469,
-        "pack_id": "RDS-FR056",
         "pack": "Rise of Destiny",
-        "rarity": "Rare",
+        "pack_id": "RDS-FR056",
         "date": "2004-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5f/ChainBurst-DR3-EN-R-UE.png"

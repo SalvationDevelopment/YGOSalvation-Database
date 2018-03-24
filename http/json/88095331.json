@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 88095331,
-        "pack_id": "EP12-JP034",
         "pack": "Extra Pack 2012",
-        "rarity": "Evoltile Najasho",
+        "pack_id": "EP12-JP034",
         "date": "2012-10-13"
     },
     "tcg": {
-        "id": 88095331,
-        "pack_id": "ORCS-EN083",
         "pack": "Order of Chaos",
-        "rarity": "Evoltile Najasho",
+        "pack_id": "ORCS-EN083",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/EvoltileNajasho-ORCS-EN-SR-UE.png"

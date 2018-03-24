@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80485722,
-        "pack_id": "SHSP-JP034",
         "pack": "Shadow Specters",
-        "rarity": "Vampire Hunter",
+        "pack_id": "SHSP-JP034",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 80485722,
-        "pack_id": "SHSP-DE034",
         "pack": "Shadow Specters",
-        "rarity": "Vampire Hunter",
+        "pack_id": "SHSP-DE034",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/VampireHunter-MP14-EN-SR-1E.png"

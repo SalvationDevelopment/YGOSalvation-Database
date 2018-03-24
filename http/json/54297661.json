@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 54297661,
-        "pack_id": "MVP1-JP021",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Dimension Reflector",
+        "pack_id": "MVP1-JP021",
         "date": "2016-04-23"
     },
     "tcg": {
-        "id": 54297661,
-        "pack_id": "MVP1-DE021",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Dimension Reflector",
+        "pack_id": "MVP1-DE021",
         "date": "2016-07-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/eb/DimensionReflector-MVP1-EN-GUR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 70902743,
-        "pack_id": "WJMP-JP010",
         "pack": "Weekly Shōnen Jump 2008, Issue 18",
-        "rarity": "Red Dragon Archfiend",
+        "pack_id": "WJMP-JP010",
         "date": "2008-03-31"
     },
     "tcg": {
-        "id": 70902743,
-        "pack_id": "CT05-EN002",
         "pack": "Collectible Tins 2008 Wave 1",
-        "rarity": "Red Dragon Archfiend",
+        "pack_id": "CT05-EN002",
         "date": "2008-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/27/RedDragonArchfiend-HSRD-EN-C-1E.png"

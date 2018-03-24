@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 31477025,
-        "pack_id": "CA-45",
         "pack": "Curse of Anubis",
-        "rarity": "共通",
+        "pack_id": "CA-45",
         "date": "2000-09-28"
     },
     "tcg": {
-        "id": 31477025,
-        "pack_id": "PSV-044",
         "pack": "Pharaoh's Servant",
-        "rarity": "Mr. Volcano",
+        "pack_id": "PSV-044",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a2/MrVolcano-PSV-NA-C-1E.jpg"

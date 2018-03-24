@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 43385557,
-        "pack_id": "TDGS-JP043",
         "pack": "The Duelist Genesis",
-        "rarity": "Magical Android",
+        "pack_id": "TDGS-JP043",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 43385557,
-        "pack_id": "TDGS-EN043",
         "pack": "The Duelist Genesis",
-        "rarity": "Magical Android",
+        "pack_id": "TDGS-EN043",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bf/MagicalAndroid-LC5D-EN-UR-1E.png"

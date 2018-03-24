@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 92035412,
-        "pack_id": "DT11-JP044",
-        "pack": "DT11",
-        "rarity": "Vylon Element",
-        "date": "2013-02-26"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 92035412,
-        "pack_id": "DT06-EN044",
         "pack": "Duel Terminal 6a",
-        "rarity": "Vylon Element",
+        "pack_id": "DT06-EN044",
         "date": "2012-02-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/46/VylonElement-HA06-EN-SR-1E.png"

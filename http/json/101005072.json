@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262164,
     "name": "Return of the World",
-    "desc": "If this card is activated: Banish 1 Ritual Monster from your Deck. You can send this card to the GY, then activate 1 of these effects;\r\n● Tribute 1 monster from your hand or field, or shuffle 1 Ritual Monster from your GY into the Deck, whose Level equals or exceeds the Level of the Ritual Monster banished by this card's effect, then Ritual Summon that banished Ritual Monster. You must be able to Ritual Summon to activate and to resolve this effect.\r\n● Add the monster banished by this card's effect to your hand.\r\nYou can only use 1 \"Return of the World\" effect per turn, and only once that turn.",
+    "desc": "When this card is activated: Banish 1 Ritual Monster from your Deck. You can only use the following effect of \"Return of the World\" once per turn. You can send this card to the GY, then activate 1 of these effects;\n&#x2022; Ritual Summon the Ritual Monster banished by this card's effect, by Tributing 1 monster from your hand whose Level equals or exceeds that banished monster's OR by shuffling into the Deck, 1 Ritual Monster from your GY whose Level equals or exceeds that banished monster's.\n&#x2022; Add the monster banished by this card's effect to your hand.",
     "str1": "Ritual Summon the banished monster",
     "str2": "Add the banished monster to hand",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP072",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dd/ReturnoftheWorld-CYHO-JP-OP.png"
 }

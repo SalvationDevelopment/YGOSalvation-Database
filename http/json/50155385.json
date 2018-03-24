@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 50155385,
-        "pack_id": "EP15-JP052",
         "pack": "Extra Pack 2015",
-        "rarity": "Spiritual Whisper",
+        "pack_id": "EP15-JP052",
         "date": "2015-09-19"
     },
     "tcg": {
-        "id": 50155385,
-        "pack_id": "WSUP-DE045",
         "pack": "World Superstars",
-        "rarity": "Spiritual Whisper",
+        "pack_id": "WSUP-DE045",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/db/SpiritualWhisper-WSUP-EN-SR-1E.png"

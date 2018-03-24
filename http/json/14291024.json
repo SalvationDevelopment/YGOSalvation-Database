@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 14291024,
-        "pack_id": "MA-10",
         "pack": "Mythological Age",
-        "rarity": "Gradius' Option",
+        "pack_id": "MA-10",
         "date": "2001-11-29"
     },
     "tcg": {
-        "id": 14291024,
-        "pack_id": "LOD-060",
         "pack": "Legacy of Darkness",
-        "rarity": "Gradius' Option",
+        "pack_id": "LOD-060",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/47/GradiusOption-DB2-EN-C-UE.png"

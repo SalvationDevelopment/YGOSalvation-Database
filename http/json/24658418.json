@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 24658418,
-        "pack_id": "PRIO-JP003",
         "pack": "Primal Origin",
-        "rarity": "Galaxy Tyranno",
+        "pack_id": "PRIO-JP003",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 24658418,
-        "pack_id": "PRIO-DE003",
         "pack": "Primal Origin",
-        "rarity": "Galaxy Tyranno",
+        "pack_id": "PRIO-DE003",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cb/GalaxyTyranno-MP15-EN-R-1E.png"

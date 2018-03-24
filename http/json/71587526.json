@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 71587526,
-        "pack_id": "SOI-JP053",
         "pack": "Shadow of Infinity",
-        "rarity": "Karma Cut",
+        "pack_id": "SOI-JP053",
         "date": "2005-11-17"
     },
     "tcg": {
-        "id": 71587526,
-        "pack_id": "SOI-EN053",
         "pack": "Shadow of Infinity",
-        "rarity": "Karma Cut",
+        "pack_id": "SOI-EN053",
         "date": "2006-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2e/KarmaCut-PGL2-EN-GUR-1E.png"

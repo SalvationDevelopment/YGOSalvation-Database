@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53274132,
-        "pack_id": "CSOC-JP017",
         "pack": "Crossroads of Chaos",
-        "rarity": "",
+        "pack_id": "CSOC-JP017",
         "date": "2008-07-19"
     },
     "tcg": {
-        "id": 53274132,
-        "pack_id": "CSOC-EN017",
         "pack": "Crossroads of Chaos",
-        "rarity": "Iron Chain Repairman",
+        "pack_id": "CSOC-EN017",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/67/IronChainRepairman-CSOC-EN-R-1E.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 75902998,
-        "pack_id": "MP01-JP026",
         "pack": "Millennium Pack (OCG)",
-        "rarity": "Trap Hole of Spikes",
+        "pack_id": "MP01-JP026",
         "date": "2015-12-19"
     },
     "tcg": {
-        "id": 75902998,
-        "pack_id": "MIL1-DE022",
         "pack": "Millennium Pack",
-        "rarity": "Trap Hole of Spikes",
+        "pack_id": "MIL1-DE022",
         "date": "2016-04-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1e/TrapHoleofSpikes-MIL1-EN-SR-1E.png"

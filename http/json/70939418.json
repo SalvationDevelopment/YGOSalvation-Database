@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 70939418,
-        "pack_id": "RATE-JP005",
         "pack": "Raging Tempest",
-        "rarity": "Speedroid Gum Prize",
+        "pack_id": "RATE-JP005",
         "date": "2016-10-08"
     },
     "tcg": {
-        "id": 70939418,
-        "pack_id": "RATE-DE005",
         "pack": "Raging Tempest",
-        "rarity": "Speedroid Gum Prize",
+        "pack_id": "RATE-DE005",
         "date": "2017-02-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4a/SpeedroidGumPrize-MP17-EN-C-1E.png"

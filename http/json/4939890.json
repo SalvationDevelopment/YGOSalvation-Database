@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 4939890,
-        "pack_id": "DUEA-JP024",
         "pack": "Duelist Alliance",
-        "rarity": "Shaddoll Hedgehog",
+        "pack_id": "DUEA-JP024",
         "date": "2014-04-19"
     },
     "tcg": {
-        "id": 4939890,
-        "pack_id": "DUEA-DE024",
         "pack": "Duelist Alliance",
-        "rarity": "Shaddoll Hedgehog",
+        "pack_id": "DUEA-DE024",
         "date": "2014-08-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ed/ShaddollHedgehog-MP15-EN-C-1E.png"

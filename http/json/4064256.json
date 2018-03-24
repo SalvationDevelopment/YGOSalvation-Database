@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 4064256,
-        "pack_id": "SD15-JP016",
         "pack": "Structure Deck: Undead World",
-        "rarity": "Zombie World",
+        "pack_id": "SD15-JP016",
         "date": "2008-06-21"
     },
     "tcg": {
-        "id": 4064256,
-        "pack_id": "SDZW-DE017",
         "pack": "Zombie World Structure Deck",
-        "rarity": "Zombie World",
+        "pack_id": "SDZW-DE017",
         "date": "2008-10-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8c/ZombieWorld-LCJW-EN-UR-1E.png"

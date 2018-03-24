@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 14124483,
-        "pack_id": "20AP-JP005",
         "pack": "20th Anniversary Pack 1st Wave",
-        "rarity": "Elemental HERO Honest Neos",
+        "pack_id": "20AP-JP005",
         "date": "2016-12-17"
     },
     "tcg": {
-        "id": 14124483,
-        "pack_id": "DUSA-DE028",
         "pack": "Duelist Saga",
-        "rarity": "Elemental HERO Honest Neos",
+        "pack_id": "DUSA-DE028",
         "date": "2017-03-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/95/ElementalHEROHonestNeos-DUSA-EN-UR-1E.png"

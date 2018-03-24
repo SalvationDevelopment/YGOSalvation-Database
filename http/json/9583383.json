@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 9583383,
-        "pack_id": "ABYR-JP001",
         "pack": "Abyss Rising",
-        "rarity": "Gagaga Caesar",
+        "pack_id": "ABYR-JP001",
         "date": "2012-07-21"
     },
     "tcg": {
-        "id": 9583383,
-        "pack_id": "ABYR-DE001",
         "pack": "Abyss Rising",
-        "rarity": "Gagaga Caesar",
+        "pack_id": "ABYR-DE001",
         "date": "2012-11-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/be/GagagaCaesar-ABYR-EN-R-1E.png"

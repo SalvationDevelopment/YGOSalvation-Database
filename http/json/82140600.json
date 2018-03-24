@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 82140600,
-        "pack_id": "EP14-JP039",
         "pack": "Extra Pack: Knights of Order",
-        "rarity": "Avalon",
+        "pack_id": "EP14-JP039",
         "date": "2014-09-13"
     },
     "tcg": {
-        "id": 82140600,
-        "pack_id": "PRIO-DE088",
         "pack": "Primal Origin",
-        "rarity": "Avalon",
+        "pack_id": "PRIO-DE088",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/96/Avalon-MP15-EN-SR-1E.png"

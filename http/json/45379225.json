@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45379225,
-        "pack_id": "CSOC-JP041",
         "pack": "Crossroads of Chaos",
-        "rarity": "Psychic Lifetrancer",
+        "pack_id": "CSOC-JP041",
         "date": "2008-07-19"
     },
     "tcg": {
-        "id": 45379225,
-        "pack_id": "CSOC-EN041",
         "pack": "Crossroads of Chaos",
-        "rarity": "Psychic Lifetrancer",
+        "pack_id": "CSOC-EN041",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/PsychicLifetrancer-CSOC-EN-R-1E.jpg"

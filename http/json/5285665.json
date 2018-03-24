@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 5285665,
-        "pack_id": "SOI-JP004",
         "pack": "Shadow of Infinity",
-        "rarity": "Elemental HERO Neo Bubbleman",
+        "pack_id": "SOI-JP004",
         "date": "2005-11-17"
     },
     "tcg": {
-        "id": 5285665,
-        "pack_id": "SOI-EN004",
         "pack": "Shadow of Infinity",
-        "rarity": "Elemental HERO Neo Bubbleman",
+        "pack_id": "SOI-EN004",
         "date": "2006-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/da/ElementalHERONeoBubbleman-DR04-NA-C-UE.png"

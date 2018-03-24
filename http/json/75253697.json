@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 75253697,
-        "pack_id": "YZ05-JP001",
         "pack": "Yu-Gi-Oh! ZEXAL Volume 5",
-        "rarity": "Number 72: Shogi Rook",
+        "pack_id": "YZ05-JP001",
         "date": "2013-08-02"
     },
     "tcg": {
-        "id": 75253697,
-        "pack_id": "YZ05-EN001",
         "pack": "Yu-Gi-Oh! ZEXAL Volume 5",
-        "rarity": "Number 72: Shogi Rook",
+        "pack_id": "YZ05-EN001",
         "date": "2014-07-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3b/Number72ShogiRook-YZ05-EN-UR-LE.png"

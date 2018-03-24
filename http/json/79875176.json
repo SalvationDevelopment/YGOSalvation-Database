@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 79875176,
-        "pack_id": "PE-09",
         "pack": "Structure Deck: Pegasus J. Crawford Edition",
-        "rarity": "Toon Cannon Soldier",
+        "pack_id": "PE-09",
         "date": "2002-03-21"
     },
     "tcg": {
-        "id": 79875176,
-        "pack_id": "TP6-DE001",
         "pack": "Tournament Pack 6",
-        "rarity": "Toon Cannon Soldier",
+        "pack_id": "TP6-DE001",
         "date": "2005-06-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/ToonCannonSoldier-LCYW-EN-R-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67098114,
-        "pack_id": "STOR-JP039",
         "pack": "Storm of Ragnarok",
-        "rarity": "Loki, Lord of the Aesir",
+        "pack_id": "STOR-JP039",
         "date": "2010-11-13"
     },
     "tcg": {
-        "id": 67098114,
-        "pack_id": "STOR-EN039",
         "pack": "Storm of Ragnarok",
-        "rarity": "Loki, Lord of the Aesir",
+        "pack_id": "STOR-EN039",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3e/LokiLordoftheAesir-LC5D-EN-ScR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 89719143,
-        "pack_id": "CPL1-JP018",
         "pack": "Collectors Pack: Duelist of Legend Version",
-        "rarity": "Final Fusion",
+        "pack_id": "CPL1-JP018",
         "date": "2014-05-17"
     },
     "tcg": {
-        "id": 89719143,
-        "pack_id": "DRLG-DE018",
         "pack": "Dragons of Legend",
-        "rarity": "Final Fusion",
+        "pack_id": "DRLG-DE018",
         "date": "2014-04-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bd/FinalFusion-DRLG-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 10209545,
-        "pack_id": "302-010",
         "pack": "Advent of Union",
-        "rarity": "Decayed Commander",
+        "pack_id": "302-010",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 10209545,
-        "pack_id": "MFC-010",
         "pack": "Magician's Force",
-        "rarity": "Decayed Commander",
+        "pack_id": "MFC-010",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d7/DecayedCommander-DR1-EN-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 88301393,
-        "pack_id": "SECE-JP018",
         "pack": "Secrets of Eternity",
-        "rarity": "Infernoid Attondel",
+        "pack_id": "SECE-JP018",
         "date": "2014-11-15"
     },
     "tcg": {
-        "id": 88301393,
-        "pack_id": "SECE-DE018",
         "pack": "Secrets of Eternity",
-        "rarity": "Infernoid Attondel",
+        "pack_id": "SECE-DE018",
         "date": "2015-01-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8b/InfernoidAttondel-MP15-EN-C-1E.png"

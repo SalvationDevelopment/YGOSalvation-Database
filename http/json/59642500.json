@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 59642500,
-        "pack_id": "PP17-JP011",
         "pack": "Premium Pack 17",
-        "rarity": "Masked HERO Anki",
+        "pack_id": "PP17-JP011",
         "date": "2015-03-21"
     },
     "tcg": {
-        "id": 59642500,
-        "pack_id": "PGL2-DE011",
         "pack": "Premium Gold: Return of the Bling",
-        "rarity": "Masked HERO Anki",
+        "pack_id": "PGL2-DE011",
         "date": "2015-03-19"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/88/MaskedHEROAnki-PGL2-EN-GScR-1E.png"

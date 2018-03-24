@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 23299957,
-        "pack_id": "POTD-JP040",
         "pack": "Power of the Duelist",
-        "rarity": "Vehicroid Connection Zone",
+        "pack_id": "POTD-JP040",
         "date": "2006-05-18"
     },
     "tcg": {
-        "id": 23299957,
-        "pack_id": "POTD-DE040",
         "pack": "Power of the Duelist",
-        "rarity": "Vehicroid Connection Zone",
+        "pack_id": "POTD-DE040",
         "date": "2006-08-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4b/VehicroidConnectionZone-LEDU-EN-C-1E.png"

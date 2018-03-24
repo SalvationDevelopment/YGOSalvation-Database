@@ -2,7 +2,7 @@
     "id": 27847700,
     "ot": 3,
     "alias": 24094653,
-    "setcode": 0,
+    "setcode": 70,
     "type": 2,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 268697608,
     "name": "Polymerization",
-    "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials.",
+    "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legend of Blue Eyes White Dragon",
+        "pack_id": "LOB-059",
+        "date": "2002-03-08"
+    },
+    "ocg": {
+        "pack": "Starter Box: Theatrical Release",
+        "pack_id": "",
+        "date": "1999-03-06"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/Polymerization-LCKC-EN-ScR-1E.png"
 }

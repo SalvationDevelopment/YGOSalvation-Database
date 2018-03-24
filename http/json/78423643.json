@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 78423643,
-        "pack_id": "CA-02",
-        "pack": "CA",
-        "rarity": "Three-Headed Geedo",
-        "date": "2002-06-20"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 78423643,
-        "pack_id": "PSV-002",
         "pack": "Pharaoh's Servant",
-        "rarity": "Three-Headed Geedo",
+        "pack_id": "PSV-002",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/37/ThreeHeadedGeedo-PSV-NA-C-1E.jpg"

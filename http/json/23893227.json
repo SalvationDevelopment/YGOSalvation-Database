@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 23893227,
-        "pack_id": "SD26-JP001",
         "pack": "Structure Deck: Blitzkrieg of the Mechlight Dragons",
-        "rarity": "Cyber Dragon Core",
+        "pack_id": "SD26-JP001",
         "date": "2013-12-07"
     },
     "tcg": {
-        "id": 23893227,
-        "pack_id": "SDCR-DE001",
         "pack": "Cyber Dragon Revolution Structure Deck",
-        "rarity": "Cyber Dragon Core",
+        "pack_id": "SDCR-DE001",
         "date": "2014-02-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8a/CyberDragonCore-LEDD-EN-C-1E.png"

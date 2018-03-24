@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 2370081,
-        "pack_id": "",
         "pack": "Booster 2",
-        "rarity": "Steel Shell",
+        "pack_id": "",
         "date": "1999-05-25"
     },
     "tcg": {
-        "id": 2370081,
-        "pack_id": "TP1-007",
         "pack": "Tournament Pack: 1st Season",
-        "rarity": "Steel Shell",
+        "pack_id": "TP1-007",
         "date": "2002-09-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7c/SteelShell-TP1-EU-R-UE.jpg"

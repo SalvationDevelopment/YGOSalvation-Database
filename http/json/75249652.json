@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 75249652,
-        "pack_id": "DOCS-JP076",
         "pack": "Dimension of Chaos",
-        "rarity": "Blazing Mirror Force",
+        "pack_id": "DOCS-JP076",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 75249652,
-        "pack_id": "DOCS-DE076",
         "pack": "Dimension of Chaos",
-        "rarity": "Blazing Mirror Force",
+        "pack_id": "DOCS-DE076",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e4/BlazingMirrorForce-PGL3-EN-GUR-1E.png"

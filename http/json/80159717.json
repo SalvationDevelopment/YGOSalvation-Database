@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80159717,
-        "pack_id": "DT07-JP040",
         "pack": "Duel Terminal - Charge of the Genex!!",
-        "rarity": "Dragunity Knight - Trident",
+        "pack_id": "DT07-JP040",
         "date": "2009-10-01"
     },
     "tcg": {
-        "id": 80159717,
-        "pack_id": "DT04-EN040",
         "pack": "Duel Terminal 4",
-        "rarity": "Dragunity Knight - Trident",
+        "pack_id": "DT04-EN040",
         "date": "2011-01-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/29/DragunityKnightTrident-HA04-EN-ScR-1E.png"

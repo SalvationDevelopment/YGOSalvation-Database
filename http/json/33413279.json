@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 33413279,
-        "pack_id": "DE04-JP069",
-        "pack": "Duelist Edition Volume 4",
-        "rarity": "共通",
-        "date": 1344661200000
-    },
+    "ocg": {},
     "tcg": {
-        "id": 33413279,
-        "pack_id": "SOVR-DE044",
         "pack": "Stardust Overdrive",
-        "rarity": "Explosive Magician",
+        "pack_id": "SOVR-DE044",
         "date": "2009-11-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0c/ExplosiveMagician-SOVR-EN-UR-1E.png"

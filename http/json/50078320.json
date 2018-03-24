@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 50078320,
-        "pack_id": "BOSH-JP041",
         "pack": "Breakers of Shadow",
-        "rarity": "Engraver of the Mark",
+        "pack_id": "BOSH-JP041",
         "date": "2015-10-17"
     },
     "tcg": {
-        "id": 50078320,
-        "pack_id": "DOCS-DESE3",
         "pack": "Dimension of Chaos: Special Edition",
-        "rarity": "Engraver of the Mark",
+        "pack_id": "DOCS-DESE3",
         "date": "2015-12-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/50/EngraveroftheMark-MP16-EN-C-1E.png"

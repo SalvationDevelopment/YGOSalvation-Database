@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 68477598,
-        "pack_id": "TDIL-JP079",
         "pack": "The Dark Illusion",
-        "rarity": "Pendulum Hole",
+        "pack_id": "TDIL-JP079",
         "date": "2016-04-09"
     },
     "tcg": {
-        "id": 68477598,
-        "pack_id": "TDIL-DE079",
         "pack": "The Dark Illusion",
-        "rarity": "Pendulum Hole",
+        "pack_id": "TDIL-DE079",
         "date": "2016-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cf/PendulumHole-MP17-EN-C-1E.png"

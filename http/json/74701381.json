@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 74701381,
-        "pack_id": "CA-26",
         "pack": "Curse of Anubis",
-        "rarity": "DNA Surgery",
+        "pack_id": "CA-26",
         "date": "2000-09-28"
     },
     "tcg": {
-        "id": 74701381,
-        "pack_id": "PSV-026",
         "pack": "Pharaoh's Servant",
-        "rarity": "DNA Surgery",
+        "pack_id": "PSV-026",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a3/DNASurgery-DL18-EN-R-UE-Purple.png"

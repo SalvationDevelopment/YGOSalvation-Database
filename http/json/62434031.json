@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 62434031,
-        "pack_id": "LVAL-JP018",
         "pack": "Legacy of the Valiant",
-        "rarity": "Sylvan Flowerknight",
+        "pack_id": "LVAL-JP018",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 62434031,
-        "pack_id": "LVAL-DE018",
         "pack": "Legacy of the Valiant",
-        "rarity": "Sylvan Flowerknight",
+        "pack_id": "LVAL-DE018",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/db/SylvanFlowerknight-MP14-EN-SR-1E.png"

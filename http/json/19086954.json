@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 19086954,
-        "pack_id": "302-013",
         "pack": "Advent of Union",
-        "rarity": "Second Goblin",
+        "pack_id": "302-013",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 19086954,
-        "pack_id": "MFC-013",
         "pack": "Magician's Force",
-        "rarity": "Second Goblin",
+        "pack_id": "MFC-013",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a2/SecondGoblin-DR1-EN-C-UE.png"

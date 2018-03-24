@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 39399168,
-        "pack_id": "",
         "pack": "Dark Ceremony Edition",
-        "rarity": "Resurrection of Chakra",
+        "pack_id": "",
         "date": "2000-03-23"
     },
     "tcg": {
-        "id": 39399168,
-        "pack_id": "NUMH-DE053",
         "pack": "Number Hunters",
-        "rarity": "Resurrection of Chakra",
+        "pack_id": "NUMH-DE053",
         "date": "2013-07-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ad/ResurrectionofChakra-NUMH-EN-SR-1E.png"

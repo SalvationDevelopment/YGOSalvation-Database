@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64274292,
-        "pack_id": "302-044",
         "pack": "Advent of Union",
-        "rarity": "Meteorain",
+        "pack_id": "302-044",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 64274292,
-        "pack_id": "MFC-044",
         "pack": "Magician's Force",
-        "rarity": "Meteorain",
+        "pack_id": "MFC-044",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e9/Meteorain-DR1-EN-C-UE.png"

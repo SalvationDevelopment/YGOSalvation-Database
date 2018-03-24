@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 91148083,
-        "pack_id": "STOR-KR046",
-        "pack": "스톰 오브 라그나로크",
-        "rarity": "共通",
-        "date": 1297054800000
-    },
+    "ocg": {},
     "tcg": {
-        "id": 91148083,
-        "pack_id": "STOR-EN046",
         "pack": "Storm of Ragnarok",
-        "rarity": "Gotterdammerung",
+        "pack_id": "STOR-EN046",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ce/Gotterdammerung-LC5D-EN-C-1E.png"

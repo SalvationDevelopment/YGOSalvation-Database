@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 94215860,
-        "pack_id": "STOR-JP037",
         "pack": "Storm of Ragnarok",
-        "rarity": "Yaksha",
+        "pack_id": "STOR-JP037",
         "date": "2010-11-13"
     },
     "tcg": {
-        "id": 94215860,
-        "pack_id": "STOR-EN037",
         "pack": "Storm of Ragnarok",
-        "rarity": "Yaksha",
+        "pack_id": "STOR-EN037",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/Yaksha-BP01-EN-C-1E.png"

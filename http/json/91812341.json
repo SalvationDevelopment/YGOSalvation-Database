@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 91812341,
-        "pack_id": "JOTL-JP033",
         "pack": "Judgment of the Light",
-        "rarity": "Traptrix Myrmeleo",
+        "pack_id": "JOTL-JP033",
         "date": "2013-04-20"
     },
     "tcg": {
-        "id": 91812341,
-        "pack_id": "JOTL-DE033",
         "pack": "Judgment of the Light",
-        "rarity": "Traptrix Myrmeleo",
+        "pack_id": "JOTL-DE033",
         "date": "2013-08-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/eb/TraptrixMyrmeleo-PGL2-EN-GUR-1E.png"

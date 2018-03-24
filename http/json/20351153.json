@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 20351153,
-        "pack_id": "DREV-JP018",
         "pack": "Duelist Revolution",
-        "rarity": "Hypnocorn",
+        "pack_id": "DREV-JP018",
         "date": "2010-04-17"
     },
     "tcg": {
-        "id": 20351153,
-        "pack_id": "DREV-EN018",
         "pack": "Duelist Revolution",
-        "rarity": "Hypnocorn",
+        "pack_id": "DREV-EN018",
         "date": "2010-08-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/41/Hypnocorn-BP03-EN-C-1E.png"

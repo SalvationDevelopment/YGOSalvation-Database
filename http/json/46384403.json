@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 46384403,
-        "pack_id": "JF11-JP009",
         "pack": "Jump Festa 2011 - Promotion Pack",
-        "rarity": "Nimble Manta",
+        "pack_id": "JF11-JP009",
         "date": "2010-12-18"
     },
     "tcg": {
-        "id": 46384403,
-        "pack_id": "GAOV-EN097",
         "pack": "Galactic Overlord",
-        "rarity": "Nimble Manta",
+        "pack_id": "GAOV-EN097",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/02/NimbleManta-GAOV-EN-C-1E.png"

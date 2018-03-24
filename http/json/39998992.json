@@ -34,10 +34,8 @@
     ],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 101002048,
-        "pack_id": "CIBR-JP048",
         "pack": "Circuit Break",
-        "rarity": "Excrawler Synapses",
+        "pack_id": "CIBR-JP048",
         "date": "2017-07-08"
     },
     "tcg": {

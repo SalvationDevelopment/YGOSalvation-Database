@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 70089580,
-        "pack_id": "LTGY-JP013",
         "pack": "Lord of the Tachyon Galaxy",
-        "rarity": "Aurora Wing",
+        "pack_id": "LTGY-JP013",
         "date": "2013-02-16"
     },
     "tcg": {
-        "id": 70089580,
-        "pack_id": "LTGY-DE013",
         "pack": "Lord of the Tachyon Galaxy",
-        "rarity": "Aurora Wing",
+        "pack_id": "LTGY-DE013",
         "date": "2013-05-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8d/AuroraWing-LTGY-EN-C-1E.png"

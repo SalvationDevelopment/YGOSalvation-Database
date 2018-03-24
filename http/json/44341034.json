@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 44341034,
-        "pack_id": "ABPF-JP010",
         "pack": "Absolute Powerforce",
-        "rarity": "Dark Bug",
+        "pack_id": "ABPF-JP010",
         "date": "2009-11-14"
     },
     "tcg": {
-        "id": 44341034,
-        "pack_id": "ABPF-DE010",
         "pack": "Absolute Powerforce",
-        "rarity": "Dark Bug",
+        "pack_id": "ABPF-DE010",
         "date": "2010-02-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/06/DarkBug-ABPF-EN-R-1E.png"

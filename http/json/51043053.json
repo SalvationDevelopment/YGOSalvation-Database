@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 51043053,
-        "pack_id": "PRIO-JP004",
         "pack": "Primal Origin",
-        "rarity": "Heliosphere Dragon",
+        "pack_id": "PRIO-JP004",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 51043053,
-        "pack_id": "PRIO-DE004",
         "pack": "Primal Origin",
-        "rarity": "Heliosphere Dragon",
+        "pack_id": "PRIO-DE004",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/34/HeliosphereDragon-MP15-EN-C-1E.png"

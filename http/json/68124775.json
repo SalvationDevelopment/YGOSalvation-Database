@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 68124775,
-        "pack_id": "EP12-JP016",
         "pack": "Extra Pack 2012",
-        "rarity": "Orient Dragon",
+        "pack_id": "EP12-JP016",
         "date": "2012-10-13"
     },
     "tcg": {
-        "id": 68124775,
-        "pack_id": "GENF-EN085",
         "pack": "Generation Force",
-        "rarity": "Orient Dragon",
+        "pack_id": "GENF-EN085",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4e/OrientDragon-LC5D-EN-UR-1E.png"

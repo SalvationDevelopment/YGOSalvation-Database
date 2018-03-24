@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81863068,
-        "pack_id": "MR-24",
         "pack": "Magic Ruler",
-        "rarity": "Hiro's Shadow Scout",
+        "pack_id": "MR-24",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 81863068,
-        "pack_id": "DB1-EN012",
         "pack": "Dark Beginning 1",
-        "rarity": "Hiro's Shadow Scout",
+        "pack_id": "DB1-EN012",
         "date": "2004-10-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/HirosShadowScout-DB1-EN-C-UE.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 47222536,
-        "pack_id": "TDIL-JP057",
         "pack": "The Dark Illusion",
-        "rarity": "Dark Magical Circle",
+        "pack_id": "TDIL-JP057",
         "date": "2016-04-09"
     },
     "tcg": {
-        "id": 47222536,
-        "pack_id": "TDIL-DE057",
         "pack": "The Dark Illusion",
-        "rarity": "Dark Magical Circle",
+        "pack_id": "TDIL-DE057",
         "date": "2016-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/DarkMagicalCircle-LEDD-EN-UR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 83980492,
-        "pack_id": "JF15-JP007",
         "pack": "Jump Festa 2015 - Promotion Pack",
-        "rarity": "Dragong",
+        "pack_id": "JF15-JP007",
         "date": "2014-12-20"
     },
     "tcg": {
-        "id": 83980492,
-        "pack_id": "CORE-DE096",
         "pack": "Clash of Rebellions",
-        "rarity": "Dragong",
+        "pack_id": "CORE-DE096",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5c/Dragong-CORE-EN-R-1E.png"

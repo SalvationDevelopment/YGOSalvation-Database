@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 86825483,
-        "pack_id": "GAOV-JP064",
         "pack": "Galactic Overlord",
-        "rarity": "Constellar Belt",
+        "pack_id": "GAOV-JP064",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 86825483,
-        "pack_id": "GAOV-EN064",
         "pack": "Galactic Overlord",
-        "rarity": "Constellar Belt",
+        "pack_id": "GAOV-EN064",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/30/ConstellarBelt-SPWA-EN-SR-1E.png"

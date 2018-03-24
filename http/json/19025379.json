@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 19025379,
-        "pack_id": "CPD1-JP016",
         "pack": "Collectors Pack: Duelist of Destiny Version",
-        "rarity": "Lord of the Red",
+        "pack_id": "CPD1-JP016",
         "date": "2015-05-16"
     },
     "tcg": {
-        "id": 19025379,
-        "pack_id": "DRL2-DE016",
         "pack": "Dragons of Legend 2",
-        "rarity": "Lord of the Red",
+        "pack_id": "DRL2-DE016",
         "date": "2015-07-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/64/LordoftheRed-DRL3-EN-UR-1E.png"

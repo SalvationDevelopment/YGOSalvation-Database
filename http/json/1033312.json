@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1033312,
-        "pack_id": "DOCS-JP065",
         "pack": "Dimension of Chaos",
-        "rarity": "Painful Decision",
+        "pack_id": "DOCS-JP065",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 1033312,
-        "pack_id": "DOCS-DE065",
         "pack": "Dimension of Chaos",
-        "rarity": "Painful Decision",
+        "pack_id": "DOCS-DE065",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d5/PainfulDecision-SR04-EN-C-1E.png"

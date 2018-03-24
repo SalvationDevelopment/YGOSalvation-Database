@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 88241506,
-        "pack_id": "SD25-JP005",
         "pack": "Structure Deck: The Blue-Eyed Dragon's Thundering Descent",
-        "rarity": "Maiden with Eyes of Blue",
+        "pack_id": "SD25-JP005",
         "date": "2013-06-15"
     },
     "tcg": {
-        "id": 88241506,
-        "pack_id": "SDBE-DE006",
         "pack": "Saga of Blue-Eyes White Dragon Structure Deck",
-        "rarity": "Maiden with Eyes of Blue",
+        "pack_id": "SDBE-DE006",
         "date": "2013-09-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/78/MaidenwithEyesofBlue-LCKC-EN-ScR-1E.png"

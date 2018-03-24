@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55100740,
-        "pack_id": "INOV-JP023",
         "pack": "Invasion: Vengeance",
-        "rarity": "Chemicritter Hydron Hawk",
+        "pack_id": "INOV-JP023",
         "date": "2016-07-09"
     },
     "tcg": {
-        "id": 55100740,
-        "pack_id": "INOV-DE023",
         "pack": "Invasion: Vengeance",
-        "rarity": "Chemicritter Hydron Hawk",
+        "pack_id": "INOV-DE023",
         "date": "2016-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/ChemicritterHydronHawk-INOV-EN-C-1E.png"

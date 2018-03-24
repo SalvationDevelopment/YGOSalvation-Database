@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 87819421,
-        "pack_id": "SD27-JP020",
         "pack": "Structure Deck: HERO's Strike",
-        "rarity": "Mask Charge",
+        "pack_id": "SD27-JP020",
         "date": "2014-06-21"
     },
     "tcg": {
-        "id": 87819421,
-        "pack_id": "SDHS-DE021",
         "pack": "HERO Strike Structure Deck",
-        "rarity": "Mask Charge",
+        "pack_id": "SDHS-DE021",
         "date": "2015-01-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7e/MaskCharge-SDHS-EN-C-1E.png"

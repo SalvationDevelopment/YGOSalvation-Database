@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 48310593,
-        "pack_id": "SHVI-JP069",
         "pack": "Shining Victories",
-        "rarity": "Finite Cards",
+        "pack_id": "SHVI-JP069",
         "date": "2016-01-09"
     },
     "tcg": {
-        "id": 48310593,
-        "pack_id": "SHVI-DE069",
         "pack": "Shining Victories",
-        "rarity": "Finite Cards",
+        "pack_id": "SHVI-DE069",
         "date": "2016-05-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/FiniteCards-MP17-EN-C-1E.png"

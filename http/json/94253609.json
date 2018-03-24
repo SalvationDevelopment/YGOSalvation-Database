@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 94253609,
-        "pack_id": "EOJ-JP056",
         "pack": "Enemy of Justice",
-        "rarity": "Elemental Absorber",
+        "pack_id": "EOJ-JP056",
         "date": "2006-02-16"
     },
     "tcg": {
-        "id": 94253609,
-        "pack_id": "EOJ-DE056",
         "pack": "Enemy of Justice",
-        "rarity": "Elemental Absorber",
+        "pack_id": "EOJ-DE056",
         "date": "2006-05-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/56/ElementalAbsorber-DR04-NA-C-UE.png"

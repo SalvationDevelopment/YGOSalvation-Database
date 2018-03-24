@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 70771599,
-        "pack_id": "COTD-JP039",
         "pack": "Code of the Duelist",
-        "rarity": "Supreme King Dragon Clear Wing",
+        "pack_id": "COTD-JP039",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE039"
+        "pack_id": "COTD-DE039",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7d/SupremeKingDragonClearWing-LEDD-EN-C-1E.png"
 }

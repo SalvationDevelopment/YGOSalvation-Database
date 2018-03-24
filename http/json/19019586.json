@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 19019586,
-        "pack_id": "GENF-JP025",
         "pack": "Generation Force",
-        "rarity": "Gem-Elephant",
+        "pack_id": "GENF-JP025",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 19019586,
-        "pack_id": "GENF-EN025",
         "pack": "Generation Force",
-        "rarity": "Gem-Elephant",
+        "pack_id": "GENF-EN025",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2c/GemElephant-GENF-EN-C-1E.jpg"

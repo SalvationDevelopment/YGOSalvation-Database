@@ -36,16 +36,14 @@
     ],
     "cardpool": "OCG",
     "ocg": {
-        "id": 5821478,
-        "pack_id": "COTD-JP046",
         "pack": "Code of the Duelist",
-        "rarity": "Topologic Bomber Dragon",
+        "pack_id": "COTD-JP046",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE046"
+        "pack_id": "COTD-DE046",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/58/TopologicBomberDragon-COTD-EN-ScR-1E.png"
 }

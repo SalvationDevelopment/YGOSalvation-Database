@@ -10,8 +10,8 @@
     "race": 16777216,
     "attribute": 32,
     "category": 262160,
-    "name": "SIMM Dublas",
-    "desc": "You can reveal this card in your hand, then target 1 Level 4 Cyberse monster in your GY; Special Summon this card to your zone your linked Link Monster points to, and if you do, return that target to the hand. You can only use this effect of \"SIMM Dublas\" once per turn.",
+    "name": "SIMM Tablir",
+    "desc": "You can reveal this card from your hand, then target 1 Level 4 Cyberse monster in your GY; Special Summon this card from your hand to your zone a linked Link Monster you control points to, and if you do, return that target to the hand. You can only use this effect of \"SIMM Tablas\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP001",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e4/SIMMTablir-CYHO-JP-OP.png"
 }

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 47126872,
-        "pack_id": "GENF-JP023",
         "pack": "Generation Force",
-        "rarity": "Space-Time Police",
+        "pack_id": "GENF-JP023",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 47126872,
-        "pack_id": "GENF-EN023",
         "pack": "Generation Force",
-        "rarity": "Space-Time Police",
+        "pack_id": "GENF-EN023",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/06/SpaceTimePolice-GENF-EN-UR-1E.png"

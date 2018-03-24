@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 56094445,
-        "pack_id": "TLM-JP008",
         "pack": "The Lost Millennium",
-        "rarity": "Ancient Gear Soldier",
+        "pack_id": "TLM-JP008",
         "date": "2005-02-24"
     },
     "tcg": {
-        "id": 56094445,
-        "pack_id": "TLM-EN008",
         "pack": "The Lost Millennium",
-        "rarity": "Ancient Gear Soldier",
+        "pack_id": "TLM-EN008",
         "date": "2005-05-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fc/AncientGearSoldier-SR03-EN-C-1E.png"

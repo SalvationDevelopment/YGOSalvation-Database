@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 17649753,
-        "pack_id": "DT04-JP035",
         "pack": "Duel Terminal - Demon Roar God Revival!!",
-        "rarity": "共通",
+        "pack_id": "DT04-JP035",
         "date": "2008-12-04"
     },
     "tcg": {
-        "id": 17649753,
-        "pack_id": "DT02-EN085",
         "pack": "Duel Terminal 2",
-        "rarity": "Worm Rakuyeh",
+        "pack_id": "DT02-EN085",
         "date": "2010-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/61/WormRakuyeh-HA02-EN-SR-1E.jpg"

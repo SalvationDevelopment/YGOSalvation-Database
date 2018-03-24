@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 51987571,
-        "pack_id": "RGBT-JP001",
         "pack": "Raging Battle",
-        "rarity": "Rockstone Warrior",
+        "pack_id": "RGBT-JP001",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 51987571,
-        "pack_id": "RGBT-EN001",
         "pack": "Raging Battle",
-        "rarity": "Rockstone Warrior",
+        "pack_id": "RGBT-EN001",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/RockstoneWarrior-RGBT-EN-SR-1E.jpg"

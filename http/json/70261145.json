@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 70261145,
-        "pack_id": "DT05-JP020",
         "pack": "Duel Terminal - Champion of Chaos!!",
-        "rarity": "共通",
+        "pack_id": "DT05-JP020",
         "date": "2009-04-14"
     },
     "tcg": {
-        "id": 70261145,
-        "pack_id": "DT03-EN020",
         "pack": "Duel Terminal 3",
-        "rarity": "Naturia Tulip",
+        "pack_id": "DT03-EN020",
         "date": "2010-09-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/63/NaturiaTulip-HA03-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 6021033,
-        "pack_id": "CSOC-JP043",
         "pack": "Crossroads of Chaos",
-        "rarity": "Doomkaiser Dragon",
+        "pack_id": "CSOC-JP043",
         "date": "2008-07-19"
     },
     "tcg": {
-        "id": 6021033,
-        "pack_id": "CSOC-EN043",
         "pack": "Crossroads of Chaos",
-        "rarity": "Doomkaiser Dragon",
+        "pack_id": "CSOC-EN043",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e0/DoomkaiserDragon-DL16-EN-R-UE-Red.png"

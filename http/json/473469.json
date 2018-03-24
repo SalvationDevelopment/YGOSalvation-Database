@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 473469,
-        "pack_id": "CA-18",
         "pack": "Curse of Anubis",
-        "rarity": "Driving Snow",
+        "pack_id": "CA-18",
         "date": "2000-09-28"
     },
     "tcg": {
-        "id": 473469,
-        "pack_id": "PSV-018",
         "pack": "Pharaoh's Servant",
-        "rarity": "Driving Snow",
+        "pack_id": "PSV-018",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a3/DrivingSnow-PSV-EN-C-UE.png"

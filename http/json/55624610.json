@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55624610,
-        "pack_id": "DREV-JP022",
         "pack": "Duelist Revolution",
-        "rarity": "Scrap Hunter",
+        "pack_id": "DREV-JP022",
         "date": "2010-04-17"
     },
     "tcg": {
-        "id": 55624610,
-        "pack_id": "DREV-EN022",
         "pack": "Duelist Revolution",
-        "rarity": "Scrap Hunter",
+        "pack_id": "DREV-EN022",
         "date": "2010-08-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c8/ScrapHunter-DREV-EN-R-UE.png"

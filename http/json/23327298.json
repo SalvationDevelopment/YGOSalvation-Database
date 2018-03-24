@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 23327298,
-        "pack_id": "DREV-JP066",
         "pack": "Duelist Revolution",
-        "rarity": "Parallel Selection",
+        "pack_id": "DREV-JP066",
         "date": "2010-04-17"
     },
     "tcg": {
-        "id": 23327298,
-        "pack_id": "DREV-EN066",
         "pack": "Duelist Revolution",
-        "rarity": "Parallel Selection",
+        "pack_id": "DREV-EN066",
         "date": "2010-08-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/df/ParallelSelection-DREV-EN-R-1E.jpg"

@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 14047624,
-        "pack_id": "DT09-JP029",
-        "pack": "DT09",
-        "rarity": "Laval Judgment Lord",
-        "date": "2012-06-04"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 14047624,
-        "pack_id": "DT05-EN029",
         "pack": "Duel Terminal 5a",
-        "rarity": "Laval Judgment Lord",
+        "pack_id": "DT05-EN029",
         "date": "2011-05-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8b/LavalJudgmentLord-HA05-EN-ScR-UE.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 51531505,
-        "pack_id": "SD29-JP002",
         "pack": "Structure Deck: Master of Pendulum‎",
-        "rarity": "Dragonpit Magician",
+        "pack_id": "SD29-JP002",
         "date": "2015-06-20"
     },
     "tcg": {
-        "id": 51531505,
-        "pack_id": "SDMP-DE002",
         "pack": "Master of Pendulum Structure Deck",
-        "rarity": "Dragonpit Magician",
+        "pack_id": "SDMP-DE002",
         "date": "2015-12-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/63/DragonpitMagician-PEVO-EN-SR-1E.png"

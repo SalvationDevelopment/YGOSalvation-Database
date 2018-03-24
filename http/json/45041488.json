@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45041488,
-        "pack_id": "RGBT-JP023",
         "pack": "Raging Battle",
-        "rarity": "Koa'ki Meiru Guardian",
+        "pack_id": "RGBT-JP023",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 45041488,
-        "pack_id": "RGBT-FRPP3",
         "pack": "Duelist Pack Collection Tin 2009",
-        "rarity": "Koa'ki Meiru Guardian",
+        "pack_id": "RGBT-FRPP3",
         "date": "2009-03-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2f/KoakiMeiruGuardian-BP03-EN-R-1E.png"

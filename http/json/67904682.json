@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67904682,
-        "pack_id": "DDY3-JP003",
         "pack": "Duel Disk - Yusei Version DX 2010",
-        "rarity": "Dark Flattop",
+        "pack_id": "DDY3-JP003",
         "date": "2010-11-20"
     },
     "tcg": {
-        "id": 67904682,
-        "pack_id": "ORCS-EN096",
         "pack": "Order of Chaos",
-        "rarity": "Dark Flattop",
+        "pack_id": "ORCS-EN096",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/51/DarkFlattop-ORCS-EN-R-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 20855340,
-        "pack_id": "ORCS-JP025",
         "pack": "Order of Chaos",
-        "rarity": "Evoltile Pleuro",
+        "pack_id": "ORCS-JP025",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 20855340,
-        "pack_id": "ORCS-EN025",
         "pack": "Order of Chaos",
-        "rarity": "Evoltile Pleuro",
+        "pack_id": "ORCS-EN025",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f3/EvoltilePleuro-ORCS-EN-C-UE.png"

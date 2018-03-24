@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 54719828,
-        "pack_id": "VB14-JP001",
         "pack": "The Valuable Book 14",
-        "rarity": "Number 16: Shock Master",
+        "pack_id": "VB14-JP001",
         "date": "2011-08-19"
     },
     "tcg": {
-        "id": 54719828,
-        "pack_id": "JUMP-EN060",
         "pack": "Weekly Shonen Jump Alpha April 2012 membership",
-        "rarity": "Number 16: Shock Master",
+        "pack_id": "JUMP-EN060",
         "date": "2012-05-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b6/Number16ShockMaster-CT09-EN-SR-LE.png"

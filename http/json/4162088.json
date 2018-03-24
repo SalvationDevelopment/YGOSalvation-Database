@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 4162088,
-        "pack_id": "SOI-JP007",
         "pack": "Shadow of Infinity",
-        "rarity": "Cyber Laser Dragon",
+        "pack_id": "SOI-JP007",
         "date": "2005-11-17"
     },
     "tcg": {
-        "id": 4162088,
-        "pack_id": "SOI-EN007",
         "pack": "Shadow of Infinity",
-        "rarity": "Cyber Laser Dragon",
+        "pack_id": "SOI-EN007",
         "date": "2006-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c2/CyberLaserDragon-DR04-NA-R-UE.png"

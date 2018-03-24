@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 47150851,
-        "pack_id": "304-007",
         "pack": "Power of the Guardian",
-        "rarity": "Guardian Grarl",
+        "pack_id": "304-007",
         "date": "2002-11-21"
     },
     "tcg": {
-        "id": 47150851,
-        "pack_id": "DCR-007",
         "pack": "Dark Crisis",
-        "rarity": "Guardian Grarl",
+        "pack_id": "DCR-007",
         "date": "2003-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d4/GuardianGrarl-LCYW-EN-C-1E.jpg"

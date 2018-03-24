@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 92890308,
-        "pack_id": "CSOC-JP071",
         "pack": "Crossroads of Chaos",
-        "rarity": "Morphtransition",
+        "pack_id": "CSOC-JP071",
         "date": "2008-07-19"
     },
     "tcg": {
-        "id": 92890308,
-        "pack_id": "CSOC-EN071",
         "pack": "Crossroads of Chaos",
-        "rarity": "Morphtransition",
+        "pack_id": "CSOC-EN071",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7a/Morphtransition-CSOC-EN-C-1E.jpg"

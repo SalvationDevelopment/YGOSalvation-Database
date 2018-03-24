@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 52198054,
-        "pack_id": "SECE-JP077",
         "pack": "Secrets of Eternity",
-        "rarity": "Blaze Accelerator Reload",
+        "pack_id": "SECE-JP077",
         "date": "2014-11-15"
     },
     "tcg": {
-        "id": 52198054,
-        "pack_id": "SECE-DE077",
         "pack": "Secrets of Eternity",
-        "rarity": "Blaze Accelerator Reload",
+        "pack_id": "SECE-DE077",
         "date": "2015-01-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/60/BlazeAcceleratorReload-SECE-EN-C-1E.png"

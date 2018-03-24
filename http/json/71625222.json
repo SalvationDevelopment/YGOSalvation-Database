@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 71625222,
-        "pack_id": "",
         "pack": "Premium Pack",
-        "rarity": "Time Wizard",
+        "pack_id": "",
         "date": "1999-08-26"
     },
     "tcg": {
-        "id": 71625222,
-        "pack_id": "MRD-065",
         "pack": "Metal Raiders",
-        "rarity": "Time Wizard",
+        "pack_id": "MRD-065",
         "date": "2002-06-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/TimeWizard-LDK2-EN-C-1E.png"

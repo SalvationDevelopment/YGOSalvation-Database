@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 72413000,
-        "pack_id": "DOCS-JP009",
         "pack": "Dimension of Chaos",
-        "rarity": "Fluffal Wings",
+        "pack_id": "DOCS-JP009",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 72413000,
-        "pack_id": "DOCS-DE009",
         "pack": "Dimension of Chaos",
-        "rarity": "Fluffal Wings",
+        "pack_id": "DOCS-DE009",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/63/FluffalWings-DOCS-EN-C-1E.png"

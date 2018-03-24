@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 17052477,
-        "pack_id": "CPL1-JP013",
         "pack": "Collectors Pack: Duelist of Legend Version",
-        "rarity": "Guarded Treasure",
+        "pack_id": "CPL1-JP013",
         "date": "2014-05-17"
     },
     "tcg": {
-        "id": 17052477,
-        "pack_id": "DRLG-DE013",
         "pack": "Dragons of Legend",
-        "rarity": "Guarded Treasure",
+        "pack_id": "DRLG-DE013",
         "date": "2014-04-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ad/GuardedTreasure-DRLG-EN-ScR-UE.png"

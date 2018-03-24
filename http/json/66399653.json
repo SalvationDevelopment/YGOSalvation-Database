@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 66399653,
-        "pack_id": "SDKS-JP020",
         "pack": "Structure Deck: Seto Kaiba",
-        "rarity": "Union Hangar",
+        "pack_id": "SDKS-JP020",
         "date": "2016-06-18"
     },
     "tcg": {
-        "id": 66399653,
-        "pack_id": "SDKS-DE020",
         "pack": "Structure Deck: Seto Kaiba",
-        "rarity": "Union Hangar",
+        "pack_id": "SDKS-DE020",
         "date": "2016-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/14/UnionHangar-OP04-EN-SR-UE.png"

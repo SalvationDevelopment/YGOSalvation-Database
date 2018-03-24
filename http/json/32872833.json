@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 32872833,
-        "pack_id": "LTGY-JP015",
         "pack": "Lord of the Tachyon Galaxy",
-        "rarity": "Parsec, the Interstellar Dragon",
+        "pack_id": "LTGY-JP015",
         "date": "2013-02-16"
     },
     "tcg": {
-        "id": 32872833,
-        "pack_id": "LTGY-DE015",
         "pack": "Lord of the Tachyon Galaxy",
-        "rarity": "Parsec, the Interstellar Dragon",
+        "pack_id": "LTGY-DE015",
         "date": "2013-05-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6f/ParsectheInterstellarDragon-LTGY-EN-C-1E.png"

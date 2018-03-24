@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 86821010,
-        "pack_id": "TSHD-JP076",
         "pack": "The Shining Darkness",
-        "rarity": "Power Break",
+        "pack_id": "TSHD-JP076",
         "date": "2010-02-20"
     },
     "tcg": {
-        "id": 86821010,
-        "pack_id": "TSHD-DE076",
         "pack": "The Shining Darkness",
-        "rarity": "Power Break",
+        "pack_id": "TSHD-DE076",
         "date": "2010-05-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b4/PowerBreak-TSHD-EN-C-1E.png"

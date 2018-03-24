@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 3629090,
-        "pack_id": "CPF1-JP013",
         "pack": "Collectors Pack: Duelist of Flash Version",
-        "rarity": "Cyber Angel Idaten",
+        "pack_id": "CPF1-JP013",
         "date": "2016-05-14"
     },
     "tcg": {
-        "id": 3629090,
-        "pack_id": "DRL3-DE013",
         "pack": "Dragons of Legend: Unleashed",
-        "rarity": "Cyber Angel Idaten",
+        "pack_id": "DRL3-DE013",
         "date": "2016-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e9/CyberAngelIdaten-DPDG-EN-C-1E.png"

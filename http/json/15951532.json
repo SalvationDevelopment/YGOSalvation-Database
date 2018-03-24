@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 15951532,
-        "pack_id": "DREV-JP032",
         "pack": "Duelist Revolution",
-        "rarity": "Amazoness Queen",
+        "pack_id": "DREV-JP032",
         "date": "2010-04-17"
     },
     "tcg": {
-        "id": 15951532,
-        "pack_id": "DREV-EN032",
         "pack": "Duelist Revolution",
-        "rarity": "Amazoness Queen",
+        "pack_id": "DREV-EN032",
         "date": "2010-08-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/91/AmazonessQueen-OP06-EN-C-UE.png"

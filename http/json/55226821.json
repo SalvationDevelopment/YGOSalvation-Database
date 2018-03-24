@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55226821,
-        "pack_id": "SM-21",
         "pack": "Spell of Mask",
-        "rarity": "Lightning Blade",
+        "pack_id": "SM-21",
         "date": "2001-04-19"
     },
     "tcg": {
-        "id": 55226821,
-        "pack_id": "LON-022",
         "pack": "Labyrinth of Nightmare",
-        "rarity": "Lightning Blade",
+        "pack_id": "LON-022",
         "date": "2003-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e6/LightningBlade-RP02-EN-C-UE.jpg"

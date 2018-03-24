@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99267150,
-        "pack_id": "GB7-001",
         "pack": "GameBoy Duel Monsters Promos: Series 7",
-        "rarity": "Five-Headed Dragon",
+        "pack_id": "GB7-001",
         "date": "2002-07-04"
     },
     "tcg": {
-        "id": 99267150,
-        "pack_id": "SD09-ENSS1",
         "pack": "Structure Deck: Dinosaur's Rage Special Set",
-        "rarity": "Five-Headed Dragon",
+        "pack_id": "SD09-ENSS1",
         "date": "2006-10-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/15/FiveHeadedDragon-MIL1-EN-C-1E.png"

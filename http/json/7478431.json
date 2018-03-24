@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 7478431,
-        "pack_id": "DT05-JP018",
         "pack": "Duel Terminal - Champion of Chaos!!",
-        "rarity": "共通",
+        "pack_id": "DT05-JP018",
         "date": "2009-04-14"
     },
     "tcg": {
-        "id": 7478431,
-        "pack_id": "DT03-EN018",
         "pack": "Duel Terminal 3",
-        "rarity": "Naturia Sunflower",
+        "pack_id": "DT03-EN018",
         "date": "2010-09-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/NaturiaSunflower-HA03-EN-SR-1E.png"

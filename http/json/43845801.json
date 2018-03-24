@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 43845801,
-        "pack_id": "DP17-JP007",
         "pack": "Duelist Pack: Pharaoh's Memories Version",
-        "rarity": "Neutron Blast",
+        "pack_id": "DP17-JP007",
         "date": "2016-06-04"
     },
     "tcg": {
-        "id": 43845801,
-        "pack_id": "DPRP-DE008",
         "pack": "Duelist Pack: Rivals of the Pharaoh",
-        "rarity": "Neutron Blast",
+        "pack_id": "DPRP-DE008",
         "date": "2016-09-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/31/NeutronBlast-LCKC-EN-ScR-1E.png"

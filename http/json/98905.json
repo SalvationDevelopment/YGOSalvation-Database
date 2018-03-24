@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 98905,
-        "pack_id": "RATE-JP069",
         "pack": "Raging Tempest",
-        "rarity": "Cipher Spectrum",
+        "pack_id": "RATE-JP069",
         "date": "2016-10-08"
     },
     "tcg": {
-        "id": 98905,
-        "pack_id": "RATE-DE069",
         "pack": "Raging Tempest",
-        "rarity": "Cipher Spectrum",
+        "pack_id": "RATE-DE069",
         "date": "2017-02-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ce/CipherSpectrum-MP17-EN-C-1E.png"

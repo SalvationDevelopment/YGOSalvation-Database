@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 40666140,
-        "pack_id": "STOR-JP014",
         "pack": "Storm of Ragnarok",
-        "rarity": "Ljosalf of the Nordic Alfar",
+        "pack_id": "STOR-JP014",
         "date": "2010-11-13"
     },
     "tcg": {
-        "id": 40666140,
-        "pack_id": "STOR-EN014",
         "pack": "Storm of Ragnarok",
-        "rarity": "Ljosalf of the Nordic Alfar",
+        "pack_id": "STOR-EN014",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/48/LjosalfoftheNordicAlfar-LC5D-EN-C-1E.png"

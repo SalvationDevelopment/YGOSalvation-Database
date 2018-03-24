@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 84749824,
-        "pack_id": "DREV-JP077",
         "pack": "Duelist Revolution",
-        "rarity": "Solemn Warning",
+        "pack_id": "DREV-JP077",
         "date": "2010-04-17"
     },
     "tcg": {
-        "id": 84749824,
-        "pack_id": "DREV-EN077",
         "pack": "Duelist Revolution",
-        "rarity": "Solemn Warning",
+        "pack_id": "DREV-EN077",
         "date": "2010-08-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3a/SolemnWarning-SR05-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 56410040,
-        "pack_id": "PP13-JP001",
         "pack": "Premium Pack 13",
-        "rarity": "Junk Forward",
+        "pack_id": "PP13-JP001",
         "date": "2011-03-12"
     },
     "tcg": {
-        "id": 56410040,
-        "pack_id": "PRC1-DE009",
         "pack": "Premium Collection",
-        "rarity": "Junk Forward",
+        "pack_id": "PRC1-DE009",
         "date": "2012-03-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/49/JunkForward-LC5D-EN-C-1E.png"

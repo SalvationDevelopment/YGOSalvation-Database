@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 28112535,
-        "pack_id": "DOCS-JP038",
         "pack": "Dimension of Chaos",
-        "rarity": "Toon Barrel Dragon",
+        "pack_id": "DOCS-JP038",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 28112535,
-        "pack_id": "DOCS-DE038",
         "pack": "Dimension of Chaos",
-        "rarity": "Toon Barrel Dragon",
+        "pack_id": "DOCS-DE038",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5f/ToonBarrelDragon-MP16-EN-R-1E.png"

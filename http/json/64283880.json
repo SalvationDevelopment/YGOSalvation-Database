@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64283880,
-        "pack_id": "NECH-JP084",
         "pack": "The New Challengers",
-        "rarity": "Guard Go!",
+        "pack_id": "NECH-JP084",
         "date": "2014-07-19"
     },
     "tcg": {
-        "id": 64283880,
-        "pack_id": "WSUP-DE029",
         "pack": "World Superstars",
-        "rarity": "Guard Go!",
+        "pack_id": "WSUP-DE029",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/09/GuardGo-WSUP-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 92933195,
-        "pack_id": "DT02-JP019",
         "pack": "Duel Terminal - Invasion of Worms!!!!",
-        "rarity": "Mist Valley Windmaster",
+        "pack_id": "DT02-JP019",
         "date": "2008-06-24"
     },
     "tcg": {
-        "id": 92933195,
-        "pack_id": "DT01-EN069",
         "pack": "Duel Terminal 1",
-        "rarity": "Mist Valley Windmaster",
+        "pack_id": "DT01-EN069",
         "date": "2010-01-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/31/MistValleyWindmaster-GLD3-EN-C-LE.png"

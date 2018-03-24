@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 29436665,
-        "pack_id": "SD6-JP001",
         "pack": "Structure Deck: Spellcaster's Judgment",
-        "rarity": "Dark Eradicator Warlock",
+        "pack_id": "SD6-JP001",
         "date": "2005-09-22"
     },
     "tcg": {
-        "id": 29436665,
-        "pack_id": "SD6-DE001",
         "pack": "Structure Deck: Spellcaster's Judgment",
-        "rarity": "Dark Eradicator Warlock",
+        "pack_id": "SD6-DE001",
         "date": "2006-01-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/89/DarkEradicatorWarlock-OP02-EN-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67775894,
-        "pack_id": "GENF-JP045",
         "pack": "Generation Force",
-        "rarity": "Wonder Wand",
+        "pack_id": "GENF-JP045",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 67775894,
-        "pack_id": "GENF-EN045",
         "pack": "Generation Force",
-        "rarity": "Wonder Wand",
+        "pack_id": "GENF-EN045",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/WonderWand-BP03-EN-C-1E.png"

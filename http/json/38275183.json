@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 38275183,
-        "pack_id": "302-043",
         "pack": "Advent of Union",
-        "rarity": "Spell Shield Type-8",
+        "pack_id": "302-043",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 38275183,
-        "pack_id": "MFC-043",
         "pack": "Magician's Force",
-        "rarity": "Spell Shield Type-8",
+        "pack_id": "MFC-043",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/53/SpellShieldType8-BP01-EN-C-1E.png"

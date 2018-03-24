@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58012107,
-        "pack_id": "STON-JP031",
         "pack": "Strike of Neos",
-        "rarity": "Alien Psychic",
+        "pack_id": "STON-JP031",
         "date": "2006-11-16"
     },
     "tcg": {
-        "id": 58012107,
-        "pack_id": "STON-FR031",
         "pack": "Strike of Neos",
-        "rarity": "Alien Psychic",
+        "pack_id": "STON-FR031",
         "date": "2007-02-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/AlienPsychic-STON-EN-C-1E.jpg"

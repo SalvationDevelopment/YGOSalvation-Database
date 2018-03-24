@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 68005187,
-        "pack_id": "EX-86",
         "pack": "EX-R Starter Box",
-        "rarity": "Soul Exchange",
+        "pack_id": "EX-86",
         "date": "2000-11-23"
     },
     "tcg": {
-        "id": 68005187,
-        "pack_id": "SDY-041",
         "pack": "Starter Deck: Yugi",
-        "rarity": "Soul Exchange",
+        "pack_id": "SDY-041",
         "date": "2002-03-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/77/SoulExchange-LCKC-EN-UR-1E.png"

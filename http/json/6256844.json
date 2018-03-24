@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 6256844,
-        "pack_id": "DT05-JP021",
         "pack": "Duel Terminal - Champion of Chaos!!",
-        "rarity": "R-Genex Turbo",
+        "pack_id": "DT05-JP021",
         "date": "2009-04-14"
     },
     "tcg": {
-        "id": 6256844,
-        "pack_id": "DT03-EN021",
         "pack": "Duel Terminal 3",
-        "rarity": "R-Genex Turbo",
+        "pack_id": "DT03-EN021",
         "date": "2010-09-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bd/RGenexTurbo-HA03-EN-SR-1E.png"

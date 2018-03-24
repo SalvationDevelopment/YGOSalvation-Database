@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45895206,
-        "pack_id": "",
         "pack": "Booster 2",
-        "rarity": "Dark-Piercing Light",
+        "pack_id": "",
         "date": "1999-05-25"
     },
     "tcg": {
-        "id": 45895206,
-        "pack_id": "MP1-015",
         "pack": "McDonald's Promotional Cards",
-        "rarity": "Dark-Piercing Light",
+        "pack_id": "MP1-015",
         "date": "2002-12-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/10/DarkPiercingLight-DB2-EN-C-UE.png"

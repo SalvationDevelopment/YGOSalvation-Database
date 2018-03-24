@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 31890399,
-        "pack_id": "",
         "pack": "Premium Pack 2",
-        "rarity": "Fiend's Mirror",
+        "pack_id": "",
         "date": "1999-12-18"
     },
     "tcg": {
-        "id": 31890399,
-        "pack_id": "PRC1-DE003",
         "pack": "Premium Collection",
-        "rarity": "Fiend's Mirror",
+        "pack_id": "PRC1-DE003",
         "date": "2012-03-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/83/FiendsMirror-PRC1-EN-SR-1E.png"

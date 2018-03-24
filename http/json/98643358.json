@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 98643358,
-        "pack_id": "DP15-JP028",
         "pack": "Duelist Pack: Kamishiro Siblings Edition",
-        "rarity": "Diamond Dust",
+        "pack_id": "DP15-JP028",
         "date": "2013-10-19"
     },
     "tcg": {
-        "id": 98643358,
-        "pack_id": "DUSA-DE010",
         "pack": "Duelist Saga",
-        "rarity": "Diamond Dust",
+        "pack_id": "DUSA-DE010",
         "date": "2017-03-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/08/DiamondDust-DUSA-EN-UR-1E.png"

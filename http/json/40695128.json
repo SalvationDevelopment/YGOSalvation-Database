@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 40695128,
-        "pack_id": "MA-15",
         "pack": "Mythological Age",
-        "rarity": "Maharaghi",
+        "pack_id": "MA-15",
         "date": "2001-11-29"
     },
     "tcg": {
-        "id": 40695128,
-        "pack_id": "LOD-064",
         "pack": "Legacy of Darkness",
-        "rarity": "Maharaghi",
+        "pack_id": "LOD-064",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/66/Maharaghi-SD7-EN-C-1E.jpg"

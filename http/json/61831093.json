@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 61831093,
-        "pack_id": "",
         "pack": "Booster 6",
-        "rarity": "Greenkappa",
+        "pack_id": "",
         "date": "1999-12-01"
     },
     "tcg": {
-        "id": 61831093,
-        "pack_id": "HL1-EN002",
         "pack": "Hobby League 1 participation cards A",
-        "rarity": "Greenkappa",
+        "pack_id": "HL1-EN002",
         "date": "2004-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b6/Greenkappa-BP01-EN-C-1E.png"

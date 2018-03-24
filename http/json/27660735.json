@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 27660735,
-        "pack_id": "SPHR-JP002",
         "pack": "Booster SP: Highspeed Riders",
-        "rarity": "Speedroid Tri-Eyed Dice",
+        "pack_id": "SPHR-JP002",
         "date": "2015-08-22"
     },
     "tcg": {
-        "id": 27660735,
-        "pack_id": "HSRD-DE002",
         "pack": "High-Speed Riders",
-        "rarity": "Speedroid Tri-Eyed Dice",
+        "pack_id": "HSRD-DE002",
         "date": "2015-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1c/SpeedroidTriEyedDice-SP17-EN-C-1E.png"

@@ -2,7 +2,7 @@
     "id": 100227033,
     "ot": 1,
     "alias": 0,
-    "setcode": 365348716616,
+    "setcode": 34639542608003144,
     "type": 8388641,
     "atk": 2500,
     "def": 3000,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 3238003216,
     "name": "Number 90: Galaxy-Eyes Photon Lord",
-    "desc": "2 Level 8 monsters\r\nIf this card has a \"Photon\" card as Xyz Material, it cannot be destroyed by card effects. You can only use each of the following effects of \"Number 90: Galaxy-Eyes Photon Lord\" once per turn.\r\n● When your opponent activates a monster effect (Quick Effect): You can detach 1 material from this card; negate the effect, then, if the detached material was a \"Galaxy\" card, destroy that card.\r\n● During your opponent's turn (Quick Effect): You can take 1 \"Photon\" card or \"Galaxy\" card from your Deck, and either add it to your hand or attach it to this card as material.",
+    "desc": "2 Level 8 monsters\nIf this card has a \"Photon\" card as Xyz Material, it cannot be destroyed by card effects. You can only use each of the following effects of \"Number 90: Galaxy-Eyes Photon Lord\" once per turn.\n● When your opponent activates a monster effect (Quick Effect): You can detach 1 material from this card; negate the effect, then, if the detached material was a \"Galaxy\" card, destroy that card.\n● During your opponent's turn (Quick Effect): You can take 1 \"Photon\" or \"Galaxy\" card from your Deck, and either add it to your hand or attach it to this card as material.",
     "str1": "Negate effect",
     "str2": "Take 1 \"Photon\" or \"Galaxy\" card from the Deck",
     "str3": "Add the chosen card to the hand?",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Collectors Pack 2018",
+        "pack_id": "CP18-JP033",
+        "date": "2018-05-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3a/Number90GalaxyEyesPhotonLord-CP18-JP-OP.png"
 }

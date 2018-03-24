@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 95923441,
-        "pack_id": "TDIL-JP028",
         "pack": "The Dark Illusion",
-        "rarity": "Triamid Hunter",
+        "pack_id": "TDIL-JP028",
         "date": "2016-04-09"
     },
     "tcg": {
-        "id": 95923441,
-        "pack_id": "TDIL-DE028",
         "pack": "The Dark Illusion",
-        "rarity": "Triamid Hunter",
+        "pack_id": "TDIL-DE028",
         "date": "2016-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/75/TriamidHunter-TDIL-EN-R-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 75214390,
-        "pack_id": "LVAL-JP006",
         "pack": "Legacy of the Valiant",
-        "rarity": "Overlay Booster",
+        "pack_id": "LVAL-JP006",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 75214390,
-        "pack_id": "LVAL-DE006",
         "pack": "Legacy of the Valiant",
-        "rarity": "Overlay Booster",
+        "pack_id": "LVAL-DE006",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/87/OverlayBooster-LVAL-EN-C-1E.png"

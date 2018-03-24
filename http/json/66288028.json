@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 66288028,
-        "pack_id": "DP08-JP010",
         "pack": "Duelist Pack: Yusei",
-        "rarity": "Fortress Warrior",
+        "pack_id": "DP08-JP010",
         "date": "2008-10-18"
     },
     "tcg": {
-        "id": 66288028,
-        "pack_id": "DP08-DE010",
         "pack": "Duelist Pack: Yusei",
-        "rarity": "Fortress Warrior",
+        "pack_id": "DP08-DE010",
         "date": "2009-02-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2c/FortressWarrior-BP02-EN-C-1E.png"

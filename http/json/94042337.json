@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 94042337,
-        "pack_id": "",
         "pack": "Vol.6",
-        "rarity": "共通",
+        "pack_id": "",
         "date": "1999-11-18"
     },
     "tcg": {
-        "id": 94042337,
-        "pack_id": "TP8-DE015",
         "pack": "Tournament Pack 8",
-        "rarity": "Violent Rain",
+        "pack_id": "TP8-DE015",
         "date": "2006-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/10/ViolentRain-TP8-EN-C-UE.jpg"

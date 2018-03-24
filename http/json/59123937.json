@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "",
     "ocg": {
-        "id": 59123937,
-        "pack_id": "COTD-JP017",
         "pack": "Code of the Duelist",
-        "rarity": "D/D Vice Typhon",
+        "pack_id": "COTD-JP017",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE017"
+        "pack_id": "COTD-DE017",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/DDViceTyphon-COTD-EN-C-1E.png"
 }

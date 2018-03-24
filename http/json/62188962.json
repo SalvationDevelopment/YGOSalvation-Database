@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 62188962,
-        "pack_id": "SHSP-JP064",
         "pack": "Shadow Specters",
-        "rarity": "Vampire Kingdom",
+        "pack_id": "SHSP-JP064",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 62188962,
-        "pack_id": "JOTL-DEDE4",
         "pack": "Judgment of the Light: Deluxe Edition",
-        "rarity": "Vampire Kingdom",
+        "pack_id": "JOTL-DEDE4",
         "date": "2013-09-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/VampireKingdom-MP14-EN-C-1E.png"

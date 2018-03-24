@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 71950093,
-        "pack_id": "",
         "pack": "Vol.6",
-        "rarity": "共通",
+        "pack_id": "",
         "date": "1999-11-18"
     },
     "tcg": {
-        "id": 71950093,
-        "pack_id": "CP07-DE012",
         "pack": "Champion Pack: Game Seven",
-        "rarity": "Shovel Crusher",
+        "pack_id": "CP07-DE012",
         "date": "2008-09-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/36/ShovelCrusher-CP07-EN-C-UE.png"

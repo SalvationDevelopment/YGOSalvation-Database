@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 29087919,
-        "pack_id": "CORE-JP086",
         "pack": "Clash of Rebellions",
-        "rarity": "Geargia Change",
+        "pack_id": "CORE-JP086",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 29087919,
-        "pack_id": "SHVI-DE095",
         "pack": "Shining Victories",
-        "rarity": "Geargia Change",
+        "pack_id": "SHVI-DE095",
         "date": "2016-05-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/43/GeargiaChange-MP17-EN-C-1E.png"

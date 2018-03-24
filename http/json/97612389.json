@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 97612389,
-        "pack_id": "",
         "pack": "Booster 7",
-        "rarity": "共通",
+        "pack_id": "",
         "date": "2000-03-01"
     },
     "tcg": {
-        "id": 97612389,
-        "pack_id": "LCJW-DE222",
         "pack": "Legendary Collection 4: Joey's World Mega Pack",
-        "rarity": "Monster Tamer",
+        "pack_id": "LCJW-DE222",
         "date": "2013-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/98/MonsterTamer-LCJW-EN-C-1E.png"

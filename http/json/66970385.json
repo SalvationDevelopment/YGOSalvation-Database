@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 66970385,
-        "pack_id": "EONK-JP003",
         "pack": "Duel Field EX Epic of Noble Knights: Holy Sword of Guidance",
-        "rarity": "Last Chapter of the Noble Knights",
+        "pack_id": "EONK-JP003",
         "date": "2014-12-20"
     },
     "tcg": {
-        "id": 66970385,
-        "pack_id": "NKRT-DE017",
         "pack": "Noble Knights of the Round Table Box Set",
-        "rarity": "Last Chapter of the Noble Knights",
+        "pack_id": "NKRT-DE017",
         "date": "2014-11-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4b/LastChapteroftheNobleKnights-NKRT-EN-PlR-LE.png"

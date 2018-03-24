@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 85519211,
-        "pack_id": "TLM-JP051",
         "pack": "The Lost Millennium",
-        "rarity": "Minefield Eruption",
+        "pack_id": "TLM-JP051",
         "date": "2005-02-24"
     },
     "tcg": {
-        "id": 85519211,
-        "pack_id": "TLM-EN051",
         "pack": "The Lost Millennium",
-        "rarity": "Minefield Eruption",
+        "pack_id": "TLM-EN051",
         "date": "2005-05-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/09/MinefieldEruption-DR3-EN-C-UE.png"

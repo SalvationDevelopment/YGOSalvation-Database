@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 60950180,
-        "pack_id": "CROS-JP016",
         "pack": "Crossed Souls",
-        "rarity": "Raidraptor - Sharp Lanius",
+        "pack_id": "CROS-JP016",
         "date": "2015-02-14"
     },
     "tcg": {
-        "id": 60950180,
-        "pack_id": "CROS-DE016",
         "pack": "Crossed Souls",
-        "rarity": "Raidraptor - Sharp Lanius",
+        "pack_id": "CROS-DE016",
         "date": "2015-05-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b4/RaidraptorSharpLanius-MP16-EN-C-1E.png"

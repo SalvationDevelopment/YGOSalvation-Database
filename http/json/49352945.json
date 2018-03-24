@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 49352945,
-        "pack_id": "PTDN-JP043",
         "pack": "Phantom Darkness",
-        "rarity": "Elemental HERO Storm Neos",
+        "pack_id": "PTDN-JP043",
         "date": "2007-11-23"
     },
     "tcg": {
-        "id": 49352945,
-        "pack_id": "PTDN-DE043",
         "pack": "Phantom Darkness",
-        "rarity": "Elemental HERO Storm Neos",
+        "pack_id": "PTDN-DE043",
         "date": "2008-01-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ee/ElementalHEROStormNeos-LCGX-EN-C-1E.png"

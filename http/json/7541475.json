@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 7541475,
-        "pack_id": "EP15-JP056",
         "pack": "Extra Pack 2015",
-        "rarity": "Kabuki Dragon",
+        "pack_id": "EP15-JP056",
         "date": "2015-09-19"
     },
     "tcg": {
-        "id": 7541475,
-        "pack_id": "WSUP-DE049",
         "pack": "World Superstars",
-        "rarity": "Kabuki Dragon",
+        "pack_id": "WSUP-DE049",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6c/KabukiDragon-WSUP-EN-SR-1E.png"

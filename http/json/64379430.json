@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64379430,
-        "pack_id": "PTDN-JP022",
         "pack": "Phantom Darkness",
-        "rarity": "Doomsday Horror",
+        "pack_id": "PTDN-JP022",
         "date": "2007-11-23"
     },
     "tcg": {
-        "id": 64379430,
-        "pack_id": "PTDN-DE022",
         "pack": "Phantom Darkness",
-        "rarity": "Doomsday Horror",
+        "pack_id": "PTDN-DE022",
         "date": "2008-01-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/70/DoomsdayHorror-DESO-EN-SR-1E.png"

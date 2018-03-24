@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58147549,
-        "pack_id": "PP13-JP005",
         "pack": "Premium Pack 13",
-        "rarity": "Masked HERO Goka",
+        "pack_id": "PP13-JP005",
         "date": "2011-03-12"
     },
     "tcg": {
-        "id": 58147549,
-        "pack_id": "GENF-EN094",
         "pack": "Generation Force",
-        "rarity": "Masked HERO Goka",
+        "pack_id": "GENF-EN094",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4a/MaskedHEROGoka-GENF-EN-R-1E.jpg"

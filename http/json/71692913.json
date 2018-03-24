@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 71692913,
-        "pack_id": "CORE-JP003",
         "pack": "Clash of Rebellions",
-        "rarity": "Xiangke Magician",
+        "pack_id": "CORE-JP003",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 71692913,
-        "pack_id": "CORE-DE003",
         "pack": "Clash of Rebellions",
-        "rarity": "Xiangke Magician",
+        "pack_id": "CORE-DE003",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/60/XiangkeMagician-SP17-EN-C-1E.png"

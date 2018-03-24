@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 10071151,
-        "pack_id": "COTD-JP025",
         "pack": "Code of the Duelist",
-        "rarity": "Lyla, Twilightsworn Mage",
+        "pack_id": "COTD-JP025",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE025"
+        "pack_id": "COTD-DE025",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/46/LylaTwilightswornEnchantress-COTD-EN-SR-1E.png"
 }

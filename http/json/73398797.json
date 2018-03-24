@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 73398797,
-        "pack_id": "302-026",
         "pack": "Advent of Union",
-        "rarity": "Paladin of White Dragon",
+        "pack_id": "302-026",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 73398797,
-        "pack_id": "MFC-026",
         "pack": "Magician's Force",
-        "rarity": "Paladin of White Dragon",
+        "pack_id": "MFC-026",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/PaladinofWhiteDragon-DPKB-EN-R-UE.png"

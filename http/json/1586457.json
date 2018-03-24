@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1586457,
-        "pack_id": "LVAL-JP010",
         "pack": "Legacy of the Valiant",
-        "rarity": "Deep-Space Cruiser IX",
+        "pack_id": "LVAL-JP010",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 1586457,
-        "pack_id": "LVAL-DE010",
         "pack": "Legacy of the Valiant",
-        "rarity": "Deep-Space Cruiser IX",
+        "pack_id": "LVAL-DE010",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/14/DeepSpaceCruiserIX-LVAL-EN-C-1E.png"

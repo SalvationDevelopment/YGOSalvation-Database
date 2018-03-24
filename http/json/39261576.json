@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 39261576,
-        "pack_id": "DT12-JP043",
         "pack": "Duel Terminal - Xyz Startup!!",
-        "rarity": "Particle Fusion",
+        "pack_id": "DT12-JP043",
         "date": "2011-04-01"
     },
     "tcg": {
-        "id": 39261576,
-        "pack_id": "DT06-EN093",
         "pack": "Duel Terminal 6b",
-        "rarity": "Particle Fusion",
+        "pack_id": "DT06-EN093",
         "date": "2012-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2b/ParticleFusion-HA06-EN-SR-1E.png"

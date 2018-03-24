@@ -34,16 +34,14 @@
     ],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 22862454,
-        "pack_id": "VJMP-JP131",
         "pack": "V Jump June 2017 promotional card",
-        "rarity": "Proxy Dragon",
+        "pack_id": "VJMP-JP131",
         "date": "2017-04-21"
     },
     "tcg": {
-        "date": "2017-08-24",
         "pack": "2017 Mega-Tins",
-        "pack_id": "CT14-DE003"
+        "pack_id": "CT14-DE003",
+        "date": "2017-08-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/84/ProxyDragon-CT14-EN-UR-LE.png"
 }

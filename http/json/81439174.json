@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Rise of the Dragon Lords Structure Deck",
+        "pack_id": "SDRL-DE020",
+        "date": "2007-10-24"
+    },
+    "ocg": {
+        "pack": "Structure Deck: Jonouchi Edition Volume 2",
+        "pack_id": "SJ2-029",
+        "date": "2003-08-07"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/FoolishBurial-SDPD-EN-C-1E.png"
 }

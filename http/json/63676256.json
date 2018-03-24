@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63676256,
-        "pack_id": "EXVC-JP022",
         "pack": "Extreme Victory",
-        "rarity": "Buster Blaster",
+        "pack_id": "EXVC-JP022",
         "date": "2011-02-11"
     },
     "tcg": {
-        "id": 63676256,
-        "pack_id": "EXVC-EN022",
         "pack": "Extreme Victory",
-        "rarity": "Buster Blaster",
+        "pack_id": "EXVC-EN022",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1c/BusterBlaster-DT06-EN-DNPR-DT.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 89882100,
-        "pack_id": "GAOV-JP055",
         "pack": "Galactic Overlord",
-        "rarity": "Night Beam",
+        "pack_id": "GAOV-JP055",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 89882100,
-        "pack_id": "GAOV-EN055",
         "pack": "Galactic Overlord",
-        "rarity": "Night Beam",
+        "pack_id": "GAOV-EN055",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b4/NightBeam-SDSE-EN-C-1E.png"

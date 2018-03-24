@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 56594520,
-        "pack_id": "PS-45",
         "pack": "Pharaoh's Servant",
-        "rarity": "Gaia Power",
+        "pack_id": "PS-45",
         "date": "2000-07-13"
     },
     "tcg": {
-        "id": 56594520,
-        "pack_id": "DB1-EN059",
         "pack": "Dark Beginning 1",
-        "rarity": "Gaia Power",
+        "pack_id": "DB1-EN059",
         "date": "2004-10-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e8/GaiaPower-DLG1-NA-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58760121,
-        "pack_id": "DT02-JP030",
         "pack": "Duel Terminal - Invasion of Worms!!!!",
-        "rarity": "Worm Falco",
+        "pack_id": "DT02-JP030",
         "date": "2008-06-24"
     },
     "tcg": {
-        "id": 58760121,
-        "pack_id": "DT01-EN080",
         "pack": "Duel Terminal 1",
-        "rarity": "Worm Falco",
+        "pack_id": "DT01-EN080",
         "date": "2010-01-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/WormFalco-GLD3-EN-C-LE.png"

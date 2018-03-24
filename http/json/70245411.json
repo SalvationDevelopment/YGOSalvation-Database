@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 70245411,
-        "pack_id": "NECH-JP060",
         "pack": "The New Challengers",
-        "rarity": "Toy Vendor",
+        "pack_id": "NECH-JP060",
         "date": "2014-07-19"
     },
     "tcg": {
-        "id": 70245411,
-        "pack_id": "NECH-DE060",
         "pack": "The New Challengers",
-        "rarity": "Toy Vendor",
+        "pack_id": "NECH-DE060",
         "date": "2014-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b6/ToyVendor-FUEN-EN-SR-1E.png"

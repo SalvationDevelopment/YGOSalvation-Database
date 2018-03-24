@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55470553,
-        "pack_id": "CPF1-JP027",
         "pack": "Collectors Pack: Duelist of Flash Version",
-        "rarity": "Number 98: Antitopian",
+        "pack_id": "CPF1-JP027",
         "date": "2016-05-14"
     },
     "tcg": {
-        "id": 55470553,
-        "pack_id": "DRL3-DE027",
         "pack": "Dragons of Legend: Unleashed",
-        "rarity": "Number 98: Antitopian",
+        "pack_id": "DRL3-DE027",
         "date": "2016-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/57/Number98Antitopian-DRL3-EN-ScR-1E.png"

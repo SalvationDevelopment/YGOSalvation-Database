@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80802524,
-        "pack_id": "EP14-JP050",
         "pack": "Extra Pack: Knights of Order",
-        "rarity": "Ghostrick Break",
+        "pack_id": "EP14-JP050",
         "date": "2014-09-13"
     },
     "tcg": {
-        "id": 80802524,
-        "pack_id": "WSUP-DE043",
         "pack": "World Superstars",
-        "rarity": "Ghostrick Break",
+        "pack_id": "WSUP-DE043",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/GhostrickBreak-WSUP-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 3019642,
-        "pack_id": "CDIP-JP003",
         "pack": "Cyberdark Impact",
-        "rarity": "Cyberdark Keel",
+        "pack_id": "CDIP-JP003",
         "date": "2006-08-10"
     },
     "tcg": {
-        "id": 3019642,
-        "pack_id": "CDIP-FR003",
         "pack": "Cyberdark Impact",
-        "rarity": "Cyberdark Keel",
+        "pack_id": "CDIP-FR003",
         "date": "2006-11-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/da/CyberdarkKeel-LEDU-EN-C-1E.png"

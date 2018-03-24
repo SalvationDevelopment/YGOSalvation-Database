@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 70780151,
-        "pack_id": "TDGS-JP044",
         "pack": "The Duelist Genesis",
-        "rarity": "Thought Ruler Archfiend",
+        "pack_id": "TDGS-JP044",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 70780151,
-        "pack_id": "TDGS-EN044",
         "pack": "The Duelist Genesis",
-        "rarity": "Thought Ruler Archfiend",
+        "pack_id": "TDGS-EN044",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/ThoughtRulerArchfiend-LC5D-EN-ScR-1E.png"

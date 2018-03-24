@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 54306223,
-        "pack_id": "TAEV-JP051",
         "pack": "Tactical Evolution",
-        "rarity": "Venom Swamp",
+        "pack_id": "TAEV-JP051",
         "date": "2007-05-12"
     },
     "tcg": {
-        "id": 54306223,
-        "pack_id": "TAEV-FR051",
         "pack": "Tactical Evolution",
-        "rarity": "Venom Swamp",
+        "pack_id": "TAEV-FR051",
         "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e7/VenomSwamp-LCGX-EN-C-1E.png"

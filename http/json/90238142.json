@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 90238142,
-        "pack_id": "LTGY-JP035",
         "pack": "Lord of the Tachyon Galaxy",
-        "rarity": "Harpie Channeler",
+        "pack_id": "LTGY-JP035",
         "date": "2013-02-16"
     },
     "tcg": {
-        "id": 90238142,
-        "pack_id": "LTGY-DE035",
         "pack": "Lord of the Tachyon Galaxy",
-        "rarity": "Harpie Channeler",
+        "pack_id": "LTGY-DE035",
         "date": "2013-05-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cb/HarpieChanneler-MP14-EN-UR-1E.png"

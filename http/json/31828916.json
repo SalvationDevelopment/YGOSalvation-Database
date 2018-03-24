@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 31828916,
-        "pack_id": "SD18-JP020",
         "pack": "Structure Deck: Machiners Command",
-        "rarity": "Machina Armored Unit",
+        "pack_id": "SD18-JP020",
         "date": "2009-12-12"
     },
     "tcg": {
-        "id": 31828916,
-        "pack_id": "SDMM-DE021",
         "pack": "Machina Mayhem Structure Deck",
-        "rarity": "Machina Armored Unit",
+        "pack_id": "SDMM-DE021",
         "date": "2010-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cd/MachinaArmoredUnit-LEDD-EN-C-1E.png"

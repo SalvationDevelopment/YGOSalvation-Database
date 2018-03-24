@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 22382087,
-        "pack_id": "CROS-JP084",
         "pack": "Crossed Souls",
-        "rarity": "Garum the Storm Vassal",
+        "pack_id": "CROS-JP084",
         "date": "2015-02-14"
     },
     "tcg": {
-        "id": 22382087,
-        "pack_id": "SR01-DE015",
         "pack": "Emperor of Darkness Structure Deck",
-        "rarity": "Garum the Storm Vassal",
+        "pack_id": "SR01-DE015",
         "date": "2016-01-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bd/GarumtheStormVassal-SR01-EN-C-1E.png"

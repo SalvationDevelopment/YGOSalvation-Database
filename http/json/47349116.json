@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 47349116,
-        "pack_id": "SD31-JP041",
         "pack": "Structure Deck: Pendulum Evolution",
-        "rarity": "Timestar Magician",
+        "pack_id": "SD31-JP041",
         "date": "2016-12-23"
     },
     "tcg": {
-        "id": 47349116,
-        "pack_id": "PEVO-DE009",
         "pack": "Pendulum Evolution",
-        "rarity": "Timestar Magician",
+        "pack_id": "PEVO-DE009",
         "date": "2017-06-22"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/27/TimestarMagician-PEVO-EN-UR-1E.png"

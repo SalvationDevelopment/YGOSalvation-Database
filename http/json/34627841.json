@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 34627841,
-        "pack_id": "DI2-JP002",
         "pack": "Yu-Gi-Oh! Duel Monsters International 2 promotional cards",
-        "rarity": "Kaibaman",
+        "pack_id": "DI2-JP002",
         "date": "2004-12-30"
     },
     "tcg": {
-        "id": 34627841,
-        "pack_id": "WC5-EN002",
         "pack": "Yu-Gi-Oh! 7 Trials to Glory - World Championship Tournament 2005 - Bundles",
-        "rarity": "Kaibaman",
+        "pack_id": "WC5-EN002",
         "date": "2005-02-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/39/Kaibaman-LCKC-EN-UR-1E.png"

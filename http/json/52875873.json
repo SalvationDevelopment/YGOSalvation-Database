@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 52875873,
-        "pack_id": "DT01-JP045",
         "pack": "Duel Terminal - Synchro Awakening!!",
-        "rarity": "Evolution Burst",
+        "pack_id": "DT01-JP045",
         "date": "2008-04-12"
     },
     "tcg": {
-        "id": 52875873,
-        "pack_id": "HA01-DE030",
         "pack": "Hidden Arsenal",
-        "rarity": "Evolution Burst",
+        "pack_id": "HA01-DE030",
         "date": "2009-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/01/EvolutionBurst-LEDD-EN-C-1E.png"

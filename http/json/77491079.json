@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 77491079,
-        "pack_id": "306-008",
         "pack": "Controller of Chaos",
-        "rarity": "Gale Lizard",
+        "pack_id": "306-008",
         "date": "2003-04-24"
     },
     "tcg": {
-        "id": 77491079,
-        "pack_id": "IOC-008",
         "pack": "Invasion of Chaos",
-        "rarity": "Gale Lizard",
+        "pack_id": "IOC-008",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2c/GaleLizard-BP03-EN-C-1E.png"

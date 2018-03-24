@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 62007535,
-        "pack_id": "DT11-JP031",
-        "pack": "DT11",
-        "rarity": "スーパーレア仕様",
-        "date": 1291179600000
-    },
+    "ocg": {},
     "tcg": {
-        "id": 62007535,
-        "pack_id": "DT06-EN031",
         "pack": "Duel Terminal 6a",
-        "rarity": "Steelswarm Longhorn",
+        "pack_id": "DT06-EN031",
         "date": "2012-02-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/SteelswarmLonghorn-HA06-EN-ScR-1E.png"

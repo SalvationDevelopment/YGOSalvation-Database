@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 68505803,
-        "pack_id": "DT02-JP009",
         "pack": "Duel Terminal - Invasion of Worms!!!!",
-        "rarity": "Genex Controller",
+        "pack_id": "DT02-JP009",
         "date": "2008-06-24"
     },
     "tcg": {
-        "id": 68505803,
-        "pack_id": "DT01-EN059",
         "pack": "Duel Terminal 1",
-        "rarity": "Genex Controller",
+        "pack_id": "DT01-EN059",
         "date": "2010-01-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/82/GenexController-TSHD-EN-C-UE.png"

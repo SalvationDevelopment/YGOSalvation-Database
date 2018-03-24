@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 3078576,
-        "pack_id": "MA-17",
         "pack": "Mythological Age",
-        "rarity": "Yata-Garasu",
+        "pack_id": "MA-17",
         "date": "2001-11-29"
     },
     "tcg": {
-        "id": 3078576,
-        "pack_id": "LOD-000",
         "pack": "Legacy of Darkness",
-        "rarity": "Yata-Garasu",
+        "pack_id": "LOD-000",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/YataGarasu-RP02-EN-C-UE.png"

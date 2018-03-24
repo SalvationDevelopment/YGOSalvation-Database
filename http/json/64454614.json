@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 2147746320,
     "name": "Arcana Extra Joker",
-    "desc": "3 Warrior monsters with different names\r\nOnce per turn, when a Spell/Trap Card, or monster effect, is activated that targets this face-up card on the field and/or a monster(s) it points to (Quick Effect): You can discard the same type of card (Monster, Spell, or Trap); negate the activation. When this Link Summoned card is destroyed by battle and sent to the GY: You can Special Summon 1 Level 4 Warrior Normal Monster from your Deck, and if you do, add 1 Level 4 Warrior monster from your Deck to your hand.",
+    "desc": "Link Arrows: [🡱][🡷][🡶]\n\n3 Warrior monsters with different names\nOnce per turn, when a Spell/Trap Card, or monster effect, is activated that targets this face-up card on the field and/or a monster(s) it points to (Quick Effect): You can discard the same type of card (Monster, Spell, or Trap); negate the activation. When this Link Summoned card is destroyed by battle and sent to the GY: You can Special Summon 1 Level 4 Warrior Normal Monster from your Deck, and if you do, add 1 Level 4 Warrior monster from your Deck to your hand.",
     "str1": "Negate",
     "str2": "Summon and search",
     "str3": "",
@@ -28,5 +28,17 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Premium Pack 20",
+        "pack_id": "PP20-JP001",
+        "date": "2018-03-10"
+    },
+    "links": [
+        1,
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e2/ArcanaExtraJoker-PP20-JP-C.png"
 }

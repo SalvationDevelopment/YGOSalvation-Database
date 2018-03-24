@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 16940215,
-        "pack_id": "DT03-JP010",
         "pack": "Duel Terminal - Justice Strikes Back!!",
-        "rarity": "共通",
+        "pack_id": "DT03-JP010",
         "date": "2008-09-22"
     },
     "tcg": {
-        "id": 16940215,
-        "pack_id": "DT02-EN010",
         "pack": "Duel Terminal 2",
-        "rarity": "Naturia Vein",
+        "pack_id": "DT02-EN010",
         "date": "2010-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6a/NaturiaVein-HA02-EN-SR-1E.jpg"

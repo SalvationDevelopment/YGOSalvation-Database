@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 42110604,
-        "pack_id": "SPHR-JP010",
         "pack": "Booster SP: Highspeed Riders",
-        "rarity": "Hi-Speedroid Chanbara",
+        "pack_id": "SPHR-JP010",
         "date": "2015-08-22"
     },
     "tcg": {
-        "id": 42110604,
-        "pack_id": "HSRD-DE010",
         "pack": "High-Speed Riders",
-        "rarity": "Hi-Speedroid Chanbara",
+        "pack_id": "HSRD-DE010",
         "date": "2015-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ab/HiSpeedroidChanbara-HSRD-EN-ScR-1E.png"

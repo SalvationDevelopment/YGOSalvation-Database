@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 5519829,
-        "pack_id": "EXP2-JP012",
         "pack": "Extra Pack Volume 2",
-        "rarity": "Counselor Lily",
+        "pack_id": "EXP2-JP012",
         "date": "2009-09-19"
     },
     "tcg": {
-        "id": 5519829,
-        "pack_id": "TDGS-EN081",
         "pack": "The Duelist Genesis",
-        "rarity": "Counselor Lily",
+        "pack_id": "TDGS-EN081",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/90/CounselorLily-TDGS-EN-SR-1E.png"

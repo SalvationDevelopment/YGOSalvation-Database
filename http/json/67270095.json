@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67270095,
-        "pack_id": "CSOC-JP002",
         "pack": "Crossroads of Chaos",
-        "rarity": "Turbo Synchron",
+        "pack_id": "CSOC-JP002",
         "date": "2008-07-19"
     },
     "tcg": {
-        "id": 67270095,
-        "pack_id": "CSOC-EN002",
         "pack": "Crossroads of Chaos",
-        "rarity": "Turbo Synchron",
+        "pack_id": "CSOC-EN002",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3c/TurboSynchron-SDSE-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 85463083,
-        "pack_id": "EP14-JP011",
         "pack": "Extra Pack: Knights of Order",
-        "rarity": "Ghostrick Ghoul",
+        "pack_id": "EP14-JP011",
         "date": "2014-09-13"
     },
     "tcg": {
-        "id": 85463083,
-        "pack_id": "SHSP-DESP1",
         "pack": "Shadow Specters Sneak Peek Participation Card",
-        "rarity": "Ghostrick Ghoul",
+        "pack_id": "SHSP-DESP1",
         "date": "2013-11-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ee/GhostrickGhoul-MP14-EN-SR-1E.png"

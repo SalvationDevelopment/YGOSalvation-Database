@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 98143165,
-        "pack_id": "YSD3-JP020",
         "pack": "Starter Deck 2008",
-        "rarity": "Synchro Boost",
+        "pack_id": "YSD3-JP020",
         "date": "2008-03-15"
     },
     "tcg": {
-        "id": 98143165,
-        "pack_id": "5DS1-DE020",
         "pack": "Starter Deck: Yu-Gi-Oh! 5D's",
-        "rarity": "Synchro Boost",
+        "pack_id": "5DS1-DE020",
         "date": "2008-08-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9f/SynchroBoost-5DS3-EN-C-1E.png"

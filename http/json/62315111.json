@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 62315111,
-        "pack_id": "POTD-JP026",
         "pack": "Power of the Duelist",
-        "rarity": "Alien Hunter",
+        "pack_id": "POTD-JP026",
         "date": "2006-05-18"
     },
     "tcg": {
-        "id": 62315111,
-        "pack_id": "POTD-DE026",
         "pack": "Power of the Duelist",
-        "rarity": "Alien Hunter",
+        "pack_id": "POTD-DE026",
         "date": "2006-08-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/04/AlienHunter-POTD-EN-C-1E.jpg"

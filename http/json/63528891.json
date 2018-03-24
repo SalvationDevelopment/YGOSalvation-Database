@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 63528891,
-        "pack_id": "COTD-JP002",
         "pack": "Code of the Duelist",
-        "rarity": "Backup Secretary",
+        "pack_id": "COTD-JP002",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE002"
+        "pack_id": "COTD-DE002",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4a/BackupSecretary-SDCL-EN-C-1E.png"
 }

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 96427353,
-        "pack_id": "ORCS-JP015",
         "pack": "Order of Chaos",
-        "rarity": "Aqua Armor Ninja",
+        "pack_id": "ORCS-JP015",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 96427353,
-        "pack_id": "ORCS-EN015",
         "pack": "Order of Chaos",
-        "rarity": "Aqua Armor Ninja",
+        "pack_id": "ORCS-EN015",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4e/AquaArmorNinja-SP13-EN-C-1E.png"

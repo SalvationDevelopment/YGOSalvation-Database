@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 23051413,
-        "pack_id": "STBL-JP032",
         "pack": "Starstrike Blast",
-        "rarity": "Naturia Stag Beetle",
+        "pack_id": "STBL-JP032",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 23051413,
-        "pack_id": "STBL-EN032",
         "pack": "Starstrike Blast",
-        "rarity": "Naturia Stag Beetle",
+        "pack_id": "STBL-EN032",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/64/NaturiaStagBeetle-STBL-EN-C-1E.png"

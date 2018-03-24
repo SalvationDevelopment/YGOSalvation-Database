@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 11411223,
-        "pack_id": "PHSW-JP041",
         "pack": "Photon Shockwave",
-        "rarity": "Number 10: Illumiknight",
+        "pack_id": "PHSW-JP041",
         "date": "2011-07-16"
     },
     "tcg": {
-        "id": 11411223,
-        "pack_id": "CT08-DE004",
         "pack": "Collectible Tins 2011 Wave 2",
-        "rarity": "Number 10: Illumiknight",
+        "pack_id": "CT08-DE004",
         "date": "2011-10-27"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/44/Number10Illumiknight-BP03-EN-SHR-1E.png"

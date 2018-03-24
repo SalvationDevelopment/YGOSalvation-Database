@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 56768355,
-        "pack_id": "DT11-JP038",
-        "pack": "DT11",
-        "rarity": "Vylon Alpha",
-        "date": "2013-02-26"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 56768355,
-        "pack_id": "DT06-EN038",
         "pack": "Duel Terminal 6a",
-        "rarity": "Vylon Alpha",
+        "pack_id": "DT06-EN038",
         "date": "2012-02-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ce/VylonAlpha-HA06-EN-ScR-1E.png"

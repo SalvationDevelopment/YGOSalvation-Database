@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 89086566,
-        "pack_id": "DT01-JP043",
         "pack": "Duel Terminal - Synchro Awakening!!",
-        "rarity": "Detonate",
+        "pack_id": "DT01-JP043",
         "date": "2008-04-12"
     },
     "tcg": {
-        "id": 89086566,
-        "pack_id": "HA01-DE028",
         "pack": "Hidden Arsenal",
-        "rarity": "Detonate",
+        "pack_id": "HA01-DE028",
         "date": "2009-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9b/Detonate-YGLD-EN-C-1E.png"

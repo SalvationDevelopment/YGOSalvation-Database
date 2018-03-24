@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 7304544,
-        "pack_id": "EXP4-JP013",
         "pack": "Extra Pack Volume 4",
-        "rarity": "Naturia Pineapple",
+        "pack_id": "EXP4-JP013",
         "date": "2011-09-17"
     },
     "tcg": {
-        "id": 7304544,
-        "pack_id": "DREV-EN082",
         "pack": "Duelist Revolution",
-        "rarity": "Naturia Pineapple",
+        "pack_id": "DREV-EN082",
         "date": "2010-08-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f7/NaturiaPineapple-HASE-EN-SR-LE.png"

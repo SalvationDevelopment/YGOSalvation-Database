@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 2732323,
-        "pack_id": "SD13-JP004",
         "pack": "Structure Deck: Revival of the Great Dragon",
-        "rarity": "Decoy Dragon",
+        "pack_id": "SD13-JP004",
         "date": "2007-06-23"
     },
     "tcg": {
-        "id": 2732323,
-        "pack_id": "SDRL-DE004",
         "pack": "Rise of the Dragon Lords Structure Deck",
-        "rarity": "Decoy Dragon",
+        "pack_id": "SDRL-DE004",
         "date": "2007-10-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/DecoyDragon-SR02-EN-C-1E.png"

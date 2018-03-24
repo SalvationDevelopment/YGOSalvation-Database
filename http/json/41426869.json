@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 41426869,
-        "pack_id": "VB-02",
         "pack": "The Valuable Book 2",
-        "rarity": "Black Illusion Ritual",
+        "pack_id": "VB-02",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 41426869,
-        "pack_id": "SRL-EN051",
         "pack": "Spell Ruler",
-        "rarity": "Black Illusion Ritual",
+        "pack_id": "SRL-EN051",
         "date": "2004-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/82/BlackIllusionRitual-LED2-EN-C-1E.png"

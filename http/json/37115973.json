@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 37115973,
-        "pack_id": "DUEA-JP086",
         "pack": "Duelist Alliance",
-        "rarity": "Numeral Hunter",
+        "pack_id": "DUEA-JP086",
         "date": "2014-04-19"
     },
     "tcg": {
-        "id": 37115973,
-        "pack_id": "WSUP-DE021",
         "pack": "World Superstars",
-        "rarity": "Numeral Hunter",
+        "pack_id": "WSUP-DE021",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/64/NumeralHunter-WSUP-EN-PScR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 35429292,
-        "pack_id": "303-016",
         "pack": "Champion of Black Magic",
-        "rarity": "Pixie Knight",
+        "pack_id": "303-016",
         "date": "2002-09-19"
     },
     "tcg": {
-        "id": 35429292,
-        "pack_id": "MFC-070",
         "pack": "Magician's Force",
-        "rarity": "Pixie Knight",
+        "pack_id": "MFC-070",
         "date": "2004-01-19"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/27/PixieKnight-DR1-EN-C-UE.png"

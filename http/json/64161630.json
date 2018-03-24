@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64161630,
-        "pack_id": "LVAL-JP072",
         "pack": "Legacy of the Valiant",
-        "rarity": "Purge Ray",
+        "pack_id": "LVAL-JP072",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 64161630,
-        "pack_id": "LVAL-DE072",
         "pack": "Legacy of the Valiant",
-        "rarity": "Purge Ray",
+        "pack_id": "LVAL-DE072",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/db/PurgeRay-LVAL-EN-C-1E.png"

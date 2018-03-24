@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 51254277,
-        "pack_id": "GENF-JP005",
         "pack": "Generation Force",
-        "rarity": "Big Jaws",
+        "pack_id": "GENF-JP005",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 51254277,
-        "pack_id": "GENF-EN005",
         "pack": "Generation Force",
-        "rarity": "Big Jaws",
+        "pack_id": "GENF-EN005",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/BigJaws-SP13-EN-C-1E.png"

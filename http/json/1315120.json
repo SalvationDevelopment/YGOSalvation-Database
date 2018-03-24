@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1315120,
-        "pack_id": "EXVC-JP017",
         "pack": "Extreme Victory",
-        "rarity": "T.G. Striker",
+        "pack_id": "EXVC-JP017",
         "date": "2011-02-11"
     },
     "tcg": {
-        "id": 1315120,
-        "pack_id": "EXVC-EN017",
         "pack": "Extreme Victory",
-        "rarity": "T.G. Striker",
+        "pack_id": "EXVC-EN017",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fa/TGStriker-LC5D-EN-UR-1E.png"

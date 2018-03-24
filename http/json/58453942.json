@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58453942,
-        "pack_id": "TDGS-JP021",
         "pack": "The Duelist Genesis",
-        "rarity": "Psychic Snail",
+        "pack_id": "TDGS-JP021",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 58453942,
-        "pack_id": "TDGS-EN021",
         "pack": "The Duelist Genesis",
-        "rarity": "Psychic Snail",
+        "pack_id": "TDGS-EN021",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e9/PsychicSnail-TDGS-EN-C-1E.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53569894,
-        "pack_id": "VB7-JP002",
         "pack": "The Valuable Book 7",
-        "rarity": "Pyramid of Light",
+        "pack_id": "VB7-JP002",
         "date": "2004-08-25"
     },
     "tcg": {
-        "id": 53569894,
-        "pack_id": "MOV-EN004",
         "pack": "Movie Pack",
-        "rarity": "Pyramid of Light",
+        "pack_id": "MOV-EN004",
         "date": "2004-08-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7d/PyramidofLight-MOV-EN-C-LE.jpg"

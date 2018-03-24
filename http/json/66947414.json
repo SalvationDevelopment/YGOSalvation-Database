@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 66947414,
-        "pack_id": "EEN-JP047",
         "pack": "Elemental Energy",
-        "rarity": "Boss Rush",
+        "pack_id": "EEN-JP047",
         "date": "2005-08-11"
     },
     "tcg": {
-        "id": 66947414,
-        "pack_id": "EEN-DE047",
         "pack": "Elemental Energy",
-        "rarity": "Boss Rush",
+        "pack_id": "EEN-DE047",
         "date": "2005-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ae/BossRush-DR04-NA-C-UE.png"

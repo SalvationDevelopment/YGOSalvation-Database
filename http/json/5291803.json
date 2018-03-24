@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 5291803,
-        "pack_id": "PP15-JP003",
         "pack": "Premium Pack 15",
-        "rarity": "Chronomaly Tula Guardian",
+        "pack_id": "PP15-JP003",
         "date": "2013-03-16"
     },
     "tcg": {
-        "id": 5291803,
-        "pack_id": "PGLD-DE003",
         "pack": "Premium Gold",
-        "rarity": "Chronomaly Tula Guardian",
+        "pack_id": "PGLD-DE003",
         "date": "2014-03-27"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/ChronomalyTulaGuardian-PGLD-EN-GScR-1E.png"

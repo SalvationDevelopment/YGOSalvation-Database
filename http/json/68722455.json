@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 68722455,
-        "pack_id": "VJMP-JP033",
         "pack": "V Jump Spring 2008 subscription bonus",
-        "rarity": "Red Ogre",
+        "pack_id": "VJMP-JP033",
         "date": "2008-03-20"
     },
     "tcg": {
-        "id": 68722455,
-        "pack_id": "CSOC-EN096",
         "pack": "Crossroads of Chaos",
-        "rarity": "Red Ogre",
+        "pack_id": "CSOC-EN096",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/80/RedOgre-BPW2-NA-SR-1E.png"

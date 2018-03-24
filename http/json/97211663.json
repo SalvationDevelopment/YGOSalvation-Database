@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 97211663,
-        "pack_id": "SECE-JP060",
         "pack": "Secrets of Eternity",
-        "rarity": "Nekroz Cycle",
+        "pack_id": "SECE-JP060",
         "date": "2014-11-15"
     },
     "tcg": {
-        "id": 97211663,
-        "pack_id": "SECE-DE060",
         "pack": "Secrets of Eternity",
-        "rarity": "Nekroz Cycle",
+        "pack_id": "SECE-DE060",
         "date": "2015-01-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/15/NekrozCycle-MP15-EN-R-1E.png"

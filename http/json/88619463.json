@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 88619463,
-        "pack_id": "VJC-JP007",
         "pack": "V Jump October 2004 promotional card",
-        "rarity": "Sorcerer of Dark Magic",
+        "pack_id": "VJC-JP007",
         "date": "2004-08-21"
     },
     "tcg": {
-        "id": 88619463,
-        "pack_id": "MOV-EN002",
         "pack": "Movie Pack",
-        "rarity": "Sorcerer of Dark Magic",
+        "pack_id": "MOV-EN002",
         "date": "2004-08-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6d/SorcererofDarkMagic-LCYW-EN-C-1E.png"

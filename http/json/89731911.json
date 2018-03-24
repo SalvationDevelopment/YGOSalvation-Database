@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 89731911,
-        "pack_id": "PP7-JP006",
         "pack": "Premium Pack 7",
-        "rarity": "Familiar Knight",
+        "pack_id": "PP7-JP006",
         "date": "2004-08-05"
     },
     "tcg": {
-        "id": 89731911,
-        "pack_id": "EP1-DE006",
         "pack": "Exclusive Pack",
-        "rarity": "Familiar Knight",
+        "pack_id": "EP1-DE006",
         "date": "2004-08-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c6/FamiliarKnight-DPKB-EN-C-UE.png"

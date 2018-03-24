@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 86281779,
-        "pack_id": "SM-09",
         "pack": "Spell of Mask",
-        "rarity": "Gadget Soldier",
+        "pack_id": "SM-09",
         "date": "2001-04-19"
     },
     "tcg": {
-        "id": 86281779,
-        "pack_id": "LON-010",
         "pack": "Labyrinth of Nightmare",
-        "rarity": "Gadget Soldier",
+        "pack_id": "LON-010",
         "date": "2003-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fe/GadgetSoldier-LON-EN-C-UE.png"

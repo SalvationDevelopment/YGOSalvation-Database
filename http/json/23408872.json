@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 23408872,
-        "pack_id": "EXVC-JP033",
         "pack": "Extreme Victory",
-        "rarity": "Tradetoad",
+        "pack_id": "EXVC-JP033",
         "date": "2011-02-11"
     },
     "tcg": {
-        "id": 23408872,
-        "pack_id": "EXVC-EN033",
         "pack": "Extreme Victory",
-        "rarity": "Tradetoad",
+        "pack_id": "EXVC-EN033",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8b/Tradetoad-EXVC-EN-R-1E.png"

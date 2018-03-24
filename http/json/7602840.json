@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 7602840,
-        "pack_id": "CRV-JP010",
         "pack": "Cybernetic Revolution",
-        "rarity": "UFOroid",
+        "pack_id": "CRV-JP010",
         "date": "2005-05-26"
     },
     "tcg": {
-        "id": 7602840,
-        "pack_id": "CRV-DE010",
         "pack": "Cybernetic Revolution",
-        "rarity": "UFOroid",
+        "pack_id": "CRV-DE010",
         "date": "2005-08-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/20/UFOroid-DR04-NA-C-UE.png"

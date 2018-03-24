@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 72318602,
-        "pack_id": "TDIL-JP015",
         "pack": "The Dark Illusion",
-        "rarity": "Red Gardna",
+        "pack_id": "TDIL-JP015",
         "date": "2016-04-09"
     },
     "tcg": {
-        "id": 72318602,
-        "pack_id": "TDIL-DE015",
         "pack": "The Dark Illusion",
-        "rarity": "Red Gardna",
+        "pack_id": "TDIL-DE015",
         "date": "2016-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fe/RedGardna-MP17-EN-C-1E.png"

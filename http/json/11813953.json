@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 11813953,
-        "pack_id": "303-001",
         "pack": "Champion of Black Magic",
-        "rarity": "Great Angus",
+        "pack_id": "303-001",
         "date": "2002-09-19"
     },
     "tcg": {
-        "id": 11813953,
-        "pack_id": "MFC-055",
         "pack": "Magician's Force",
-        "rarity": "Great Angus",
+        "pack_id": "MFC-055",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d9/GreatAngus-SD3-EN-C-1E.png"

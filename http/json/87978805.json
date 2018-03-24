@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 87978805,
-        "pack_id": "SOI-JP018",
         "pack": "Shadow of Infinity",
-        "rarity": "Parasitic Ticky",
+        "pack_id": "SOI-JP018",
         "date": "2005-11-17"
     },
     "tcg": {
-        "id": 87978805,
-        "pack_id": "SOI-EN018",
         "pack": "Shadow of Infinity",
-        "rarity": "Parasitic Ticky",
+        "pack_id": "SOI-EN018",
         "date": "2006-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/ParasiticTicky-DR04-NA-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 92001300,
-        "pack_id": "SOI-JP047",
         "pack": "Shadow of Infinity",
-        "rarity": "Ancient Gear Castle",
+        "pack_id": "SOI-JP047",
         "date": "2005-11-17"
     },
     "tcg": {
-        "id": 92001300,
-        "pack_id": "SOI-EN047",
         "pack": "Shadow of Infinity",
-        "rarity": "Ancient Gear Castle",
+        "pack_id": "SOI-EN047",
         "date": "2006-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/de/AncientGearCastle-SR03-EN-C-1E.png"

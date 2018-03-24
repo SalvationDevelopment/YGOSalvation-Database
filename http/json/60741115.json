@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 60741115,
-        "pack_id": "DREV-JP004",
         "pack": "Duelist Revolution",
-        "rarity": "Damage Eater",
+        "pack_id": "DREV-JP004",
         "date": "2010-04-17"
     },
     "tcg": {
-        "id": 60741115,
-        "pack_id": "DREV-EN004",
         "pack": "Duelist Revolution",
-        "rarity": "Damage Eater",
+        "pack_id": "DREV-EN004",
         "date": "2010-08-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/58/DamageEater-DP10-EN-C-1E.png"

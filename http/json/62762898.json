@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 62762898,
-        "pack_id": "",
         "pack": "Booster 6",
-        "rarity": "Parrot Dragon",
+        "pack_id": "",
         "date": "1999-12-01"
     },
     "tcg": {
-        "id": 62762898,
-        "pack_id": "TP2-028",
         "pack": "Tournament Pack: 2nd Season",
-        "rarity": "Parrot Dragon",
+        "pack_id": "TP2-028",
         "date": "2002-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/77/ParrotDragon-LCKC-EN-UR-1E.png"

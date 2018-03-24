@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 29590905,
-        "pack_id": "SOI-JP049",
         "pack": "Shadow of Infinity",
-        "rarity": "Super Junior Confrontation",
+        "pack_id": "SOI-JP049",
         "date": "2005-11-17"
     },
     "tcg": {
-        "id": 29590905,
-        "pack_id": "SOI-EN049",
         "pack": "Shadow of Infinity",
-        "rarity": "Super Junior Confrontation",
+        "pack_id": "SOI-EN049",
         "date": "2006-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/21/SuperJuniorConfrontation-DR04-NA-C-UE.png"

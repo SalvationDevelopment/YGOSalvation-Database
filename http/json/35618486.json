@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 35618486,
-        "pack_id": "DT11-JP030",
-        "pack": "DT11",
-        "rarity": "Steelswarm Sting",
-        "date": "2012-11-23"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 35618486,
-        "pack_id": "DT06-EN030",
         "pack": "Duel Terminal 6a",
-        "rarity": "Steelswarm Sting",
+        "pack_id": "DT06-EN030",
         "date": "2012-02-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bf/SteelswarmSting-HA06-EN-SR-1E.png"

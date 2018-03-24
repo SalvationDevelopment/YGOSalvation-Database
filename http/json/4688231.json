@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 4688231,
-        "pack_id": "INOV-JP040",
         "pack": "Invasion: Vengeance",
-        "rarity": "Metalfoes Mithrilium",
+        "pack_id": "INOV-JP040",
         "date": "2016-07-09"
     },
     "tcg": {
-        "id": 4688231,
-        "pack_id": "INOV-DE040",
         "pack": "Invasion: Vengeance",
-        "rarity": "Metalfoes Mithrilium",
+        "pack_id": "INOV-DE040",
         "date": "2016-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/73/MetalfoesMithrilium-MP17-EN-UR-1E.png"

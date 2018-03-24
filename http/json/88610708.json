@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 88610708,
-        "pack_id": "EP15-JP071",
         "pack": "Extra Pack 2015",
-        "rarity": "Bashing Shield",
+        "pack_id": "EP15-JP071",
         "date": "2015-09-19"
     },
     "tcg": {
-        "id": 88610708,
-        "pack_id": "BP03-DE186",
         "pack": "Battle Pack 3: Monster League",
-        "rarity": "Bashing Shield",
+        "pack_id": "BP03-DE186",
         "date": "2014-07-31"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9b/BashingShield-BP03-EN-C-1E.png"

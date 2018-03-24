@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 32441317,
-        "pack_id": "TDGS-JP049",
         "pack": "The Duelist Genesis",
-        "rarity": "De-Synchro",
+        "pack_id": "TDGS-JP049",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 32441317,
-        "pack_id": "TDGS-EN049",
         "pack": "The Duelist Genesis",
-        "rarity": "De-Synchro",
+        "pack_id": "TDGS-EN049",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/aa/DeSynchro-LC5D-EN-SR-1E.png"

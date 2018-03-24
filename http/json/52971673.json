@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 52971673,
-        "pack_id": "STOR-JP057",
         "pack": "Storm of Ragnarok",
-        "rarity": "Token Sundae",
+        "pack_id": "STOR-JP057",
         "date": "2010-11-13"
     },
     "tcg": {
-        "id": 52971673,
-        "pack_id": "STOR-EN057",
         "pack": "Storm of Ragnarok",
-        "rarity": "Token Sundae",
+        "pack_id": "STOR-EN057",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/00/TokenSundae-STOR-EN-C-UE.png"

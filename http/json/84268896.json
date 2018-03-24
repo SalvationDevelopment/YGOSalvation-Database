@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 84268896,
-        "pack_id": "PRIO-JP017",
         "pack": "Primal Origin",
-        "rarity": "Artifact Caduceus",
+        "pack_id": "PRIO-JP017",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 84268896,
-        "pack_id": "PRIO-DE017",
         "pack": "Primal Origin",
-        "rarity": "Artifact Caduceus",
+        "pack_id": "PRIO-DE017",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/74/ArtifactCaduceus-MP15-EN-R-1E.png"

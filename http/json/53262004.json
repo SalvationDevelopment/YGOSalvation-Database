@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53262004,
-        "pack_id": "DOCS-JP045",
         "pack": "Dimension of Chaos",
-        "rarity": "Odd-Eyes Vortex Dragon",
+        "pack_id": "DOCS-JP045",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 53262004,
-        "pack_id": "DOCS-DE045",
         "pack": "Dimension of Chaos",
-        "rarity": "Odd-Eyes Vortex Dragon",
+        "pack_id": "DOCS-DE045",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ed/OddEyesVortexDragon-LEDD-EN-C-1E.png"

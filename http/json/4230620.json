@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 4230620,
-        "pack_id": "TDGS-JP051",
         "pack": "The Duelist Genesis",
-        "rarity": "Psi-Station",
+        "pack_id": "TDGS-JP051",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 4230620,
-        "pack_id": "TDGS-EN051",
         "pack": "The Duelist Genesis",
-        "rarity": "Psi-Station",
+        "pack_id": "TDGS-EN051",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/PsiStation-BP03-EN-C-1E.png"

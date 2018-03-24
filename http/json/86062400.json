@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 86062400,
-        "pack_id": "LVAL-JP042",
         "pack": "Legacy of the Valiant",
-        "rarity": "Xyz Avenger",
+        "pack_id": "LVAL-JP042",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 86062400,
-        "pack_id": "LVAL-DE042",
         "pack": "Legacy of the Valiant",
-        "rarity": "Xyz Avenger",
+        "pack_id": "LVAL-DE042",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/32/XyzAvenger-LVAL-EN-C-1E.png"

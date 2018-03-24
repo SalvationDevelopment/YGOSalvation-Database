@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 29307554,
-        "pack_id": "CSOC-JP069",
         "pack": "Crossroads of Chaos",
-        "rarity": "",
+        "pack_id": "CSOC-JP069",
         "date": "2008-07-19"
     },
     "tcg": {
-        "id": 29307554,
-        "pack_id": "CSOC-EN069",
         "pack": "Crossroads of Chaos",
-        "rarity": "Lineage of Destruction",
+        "pack_id": "CSOC-EN069",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/LineageofDestruction-CSOC-EN-C-1E.jpg"

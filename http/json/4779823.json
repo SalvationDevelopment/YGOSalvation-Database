@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 4779823,
-        "pack_id": "DS14-JPLS1",
         "pack": "Duelist Set: Version Lightlord Judgment",
-        "rarity": "Michael, the Arch-Lightsworn",
+        "pack_id": "DS14-JPLS1",
         "date": "2013-11-23"
     },
     "tcg": {
-        "id": 4779823,
-        "pack_id": "SDLI-DE036",
         "pack": "Realm of Light Structure Deck",
-        "rarity": "Michael, the Arch-Lightsworn",
+        "pack_id": "SDLI-DE036",
         "date": "2014-06-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fd/MichaeltheArchLightsworn-OP01-EN-C-UE.png"

@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 90019393,
-        "pack_id": "DT09-JP019",
-        "pack": "DT09",
-        "rarity": "Gem-Knight Alexandrite",
-        "date": "2012-11-06"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 90019393,
-        "pack_id": "DT05-EN019",
         "pack": "Duel Terminal 5a",
-        "rarity": "Gem-Knight Alexandrite",
+        "pack_id": "DT05-EN019",
         "date": "2011-05-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/GemKnightAlexandrite-HA05-EN-ScR-UE.png"

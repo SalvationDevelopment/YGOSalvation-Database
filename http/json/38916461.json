@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 38916461,
-        "pack_id": "MA-05",
-        "pack": "Mythological Age － 蘇りし魂 －",
-        "rarity": "共通",
-        "date": 1007010000000
-    },
+    "ocg": {},
     "tcg": {
-        "id": 38916461,
-        "pack_id": "LOD-055",
         "pack": "Legacy of Darkness",
-        "rarity": "Roboyarou",
+        "pack_id": "LOD-055",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/48/Roboyarou-LOD-NA-C-1E.jpg"

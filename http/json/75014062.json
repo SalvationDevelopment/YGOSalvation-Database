@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 75014062,
-        "pack_id": "SD16-JP022",
         "pack": "Structure Deck: Lord of the Magician",
-        "rarity": "Spell Power Grasp",
+        "pack_id": "SD16-JP022",
         "date": "2008-12-13"
     },
     "tcg": {
-        "id": 75014062,
-        "pack_id": "SDSC-DE020",
         "pack": "Spellcaster's Command Structure Deck",
-        "rarity": "Spell Power Grasp",
+        "pack_id": "SDSC-DE020",
         "date": "2009-03-31"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/SpellPowerGrasp-SDSC-EN-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 85991529,
-        "pack_id": "EP16-JP016",
         "pack": "Extra Pack 2016",
-        "rarity": "Kozmo Dark Planet",
+        "pack_id": "EP16-JP016",
         "date": "2016-09-10"
     },
     "tcg": {
-        "id": 85991529,
-        "pack_id": "SHVI-DE085",
         "pack": "Shining Victories",
-        "rarity": "Kozmo Dark Planet",
+        "pack_id": "SHVI-DE085",
         "date": "2016-05-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/01/KozmoDarkPlanet-SHVI-EN-ScR-1E.png"

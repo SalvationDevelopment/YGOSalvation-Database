@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 29888389,
-        "pack_id": "DT10-JP019",
-        "pack": "DT10",
-        "rarity": "Gishki Shadow",
-        "date": "2013-02-26"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 29888389,
-        "pack_id": "DT05-EN069",
         "pack": "Duel Terminal 5b",
-        "rarity": "Gishki Shadow",
+        "pack_id": "DT05-EN069",
         "date": "2011-09-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/38/GishkiShadow-THSF-EN-SR-1E.png"

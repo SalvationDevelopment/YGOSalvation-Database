@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 20403123,
-        "pack_id": "ST16-JP001",
         "pack": "Starter Deck 2016",
-        "rarity": "Performapal Sleight Hand Magician",
+        "pack_id": "ST16-JP001",
         "date": "2016-03-19"
     },
     "tcg": {
-        "id": 20403123,
-        "pack_id": "YS16-DE001",
         "pack": "Starter Deck - Yuya",
-        "rarity": "Performapal Sleight Hand Magician",
+        "pack_id": "YS16-DE001",
         "date": "2016-05-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dc/PerformapalSleightHandMagician-YS16-EN-UR-1E.png"

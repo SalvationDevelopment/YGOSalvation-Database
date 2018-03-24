@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99000107,
-        "pack_id": "SHVI-JP041",
         "pack": "Shining Victories",
-        "rarity": "Gendo the Ascetic Monk",
+        "pack_id": "SHVI-JP041",
         "date": "2016-01-09"
     },
     "tcg": {
-        "id": 99000107,
-        "pack_id": "SHVI-DE041",
         "pack": "Shining Victories",
-        "rarity": "Gendo the Ascetic Monk",
+        "pack_id": "SHVI-DE041",
         "date": "2016-05-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/69/GendotheAsceticMonk-MP17-EN-C-1E.png"

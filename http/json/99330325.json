@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99330325,
-        "pack_id": "EP16-JP030",
         "pack": "Extra Pack 2016",
-        "rarity": "Interrupted Kaiju Slumber",
+        "pack_id": "EP16-JP030",
         "date": "2016-09-10"
     },
     "tcg": {
-        "id": 99330325,
-        "pack_id": "BOSH-DE089",
         "pack": "Breakers of Shadow",
-        "rarity": "Interrupted Kaiju Slumber",
+        "pack_id": "BOSH-DE089",
         "date": "2016-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/df/InterruptedKaijuSlumber-BOSH-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67688478,
-        "pack_id": "PP6-004",
         "pack": "Premium Pack 6",
-        "rarity": "Gemini Imps",
+        "pack_id": "PP6-004",
         "date": "2004-03-11"
     },
     "tcg": {
-        "id": 67688478,
-        "pack_id": "PP01-DE005",
         "pack": "Premium Pack",
-        "rarity": "Gemini Imps",
+        "pack_id": "PP01-DE005",
         "date": "2007-10-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1e/GeminiImps-TU08-EN-C-UE.png"

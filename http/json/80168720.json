@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80168720,
-        "pack_id": "MR-40",
         "pack": "Magic Ruler",
-        "rarity": "Darkness Approaches",
+        "pack_id": "MR-40",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 80168720,
-        "pack_id": "SRL-EN040",
         "pack": "Spell Ruler",
-        "rarity": "Darkness Approaches",
+        "pack_id": "SRL-EN040",
         "date": "2004-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fb/DarknessApproaches-SRL-EN-SSP-UE.png"

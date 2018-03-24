@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 91512835,
-        "pack_id": "G3-09",
         "pack": "Yu-Gi-Oh! Duel Monsters III: Tri-Holy God Advent promotional cards",
-        "rarity": "Insect Queen",
+        "pack_id": "G3-09",
         "date": "2000-07-13"
     },
     "tcg": {
-        "id": 91512835,
-        "pack_id": "CT1-DE005",
         "pack": "Collectible Tins 2004",
-        "rarity": "Insect Queen",
+        "pack_id": "CT1-DE005",
         "date": "2004-09-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/82/InsectQueen-LED2-EN-C-1E.png"

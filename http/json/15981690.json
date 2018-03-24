@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 15981690,
-        "pack_id": "CPL1-JP022",
         "pack": "Collectors Pack: Duelist of Legend Version",
-        "rarity": "Carboneddon",
+        "pack_id": "CPL1-JP022",
         "date": "2014-05-17"
     },
     "tcg": {
-        "id": 15981690,
-        "pack_id": "DRLG-DE022",
         "pack": "Dragons of Legend",
-        "rarity": "Carboneddon",
+        "pack_id": "DRLG-DE022",
         "date": "2014-04-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/99/Carboneddon-DRLG-EN-SR-1E.png"

@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 19959563,
-        "pack_id": "COTD-JP028",
         "pack": "Code of the Duelist",
-        "rarity": "Punishment Dragon",
+        "pack_id": "COTD-JP028",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE028"
+        "pack_id": "COTD-DE028",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/68/PunishmentDragon-COTD-EN-UR-1E.png"
 }

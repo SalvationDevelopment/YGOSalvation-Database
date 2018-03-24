@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 56369281,
-        "pack_id": "MA-02",
         "pack": "Mythological Age",
-        "rarity": "Wolf Axwielder",
+        "pack_id": "MA-02",
         "date": "2001-11-29"
     },
     "tcg": {
-        "id": 56369281,
-        "pack_id": "LOD-052",
         "pack": "Legacy of Darkness",
-        "rarity": "Wolf Axwielder",
+        "pack_id": "LOD-052",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/63/WolfAxwielder-LOD-NA-C-1E.jpg"

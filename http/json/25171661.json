@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 25171661,
-        "pack_id": "WC09-JP002",
         "pack": "Yu-Gi-Oh! 5D's STARDUST ACCELERATOR － WORLD CHAMPIONSHIP 2009 － Bundles",
-        "rarity": "Infernity Dwarf",
+        "pack_id": "WC09-JP002",
         "date": "2009-03-26"
     },
     "tcg": {
-        "id": 25171661,
-        "pack_id": "GLD3-EN028",
         "pack": "Gold Series 3",
-        "rarity": "Infernity Dwarf",
+        "pack_id": "GLD3-EN028",
         "date": "2010-06-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/51/InfernityDwarf-GLD3-EN-C-LE.jpg"

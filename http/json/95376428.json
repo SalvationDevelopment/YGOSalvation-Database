@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 95376428,
-        "pack_id": "SECE-JP066",
         "pack": "Secrets of Eternity",
-        "rarity": "Extra Net",
+        "pack_id": "SECE-JP066",
         "date": "2014-11-15"
     },
     "tcg": {
-        "id": 95376428,
-        "pack_id": "SECE-DE066",
         "pack": "Secrets of Eternity",
-        "rarity": "Extra Net",
+        "pack_id": "SECE-DE066",
         "date": "2015-01-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fb/ExtraNet-SECE-EN-SP-1E.png"

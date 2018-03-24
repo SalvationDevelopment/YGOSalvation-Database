@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 3405259,
-        "pack_id": "SDKS-JP003",
         "pack": "Structure Deck: Seto Kaiba",
-        "rarity": "C-Crush Wyvern",
+        "pack_id": "SDKS-JP003",
         "date": "2016-06-18"
     },
     "tcg": {
-        "id": 3405259,
-        "pack_id": "SDKS-DE003",
         "pack": "Structure Deck: Seto Kaiba",
-        "rarity": "C-Crush Wyvern",
+        "pack_id": "SDKS-DE003",
         "date": "2016-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a5/CCrushWyvern-LCKC-EN-ScR-1E.png"

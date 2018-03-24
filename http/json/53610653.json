@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53610653,
-        "pack_id": "GAOV-JP051",
         "pack": "Galactic Overlord",
-        "rarity": "Bound Wand",
+        "pack_id": "GAOV-JP051",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 53610653,
-        "pack_id": "GAOV-EN051",
         "pack": "Galactic Overlord",
-        "rarity": "Bound Wand",
+        "pack_id": "GAOV-EN051",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/00/BoundWand-BP03-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 46659709,
-        "pack_id": "PRIO-JP085",
         "pack": "Primal Origin",
-        "rarity": "Galaxy Soldier",
+        "pack_id": "PRIO-JP085",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 46659709,
-        "pack_id": "WSUP-DE010",
         "pack": "World Superstars",
-        "rarity": "Galaxy Soldier",
+        "pack_id": "WSUP-DE010",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/GalaxySoldier-BLLR-EN-UR-1E.png"

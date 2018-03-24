@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 62265044,
-        "pack_id": "SD19-JP020",
         "pack": "Structure Deck: Dragunity Drive",
-        "rarity": "Dragon Ravine",
+        "pack_id": "SD19-JP020",
         "date": "2010-06-19"
     },
     "tcg": {
-        "id": 62265044,
-        "pack_id": "SDDL-DE021",
         "pack": "Dragunity Legion Structure Deck",
-        "rarity": "Dragon Ravine",
+        "pack_id": "SDDL-DE021",
         "date": "2011-03-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9f/DragonRavine-LCKC-EN-ScR-1E.png"

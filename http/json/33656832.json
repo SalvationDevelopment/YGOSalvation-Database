@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 33656832,
-        "pack_id": "TDIL-JP009",
         "pack": "The Dark Illusion",
-        "rarity": "Acrobatic Magician",
+        "pack_id": "TDIL-JP009",
         "date": "2016-04-09"
     },
     "tcg": {
-        "id": 33656832,
-        "pack_id": "TDIL-DE009",
         "pack": "The Dark Illusion",
-        "rarity": "Acrobatic Magician",
+        "pack_id": "TDIL-DE009",
         "date": "2016-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/AcrobaticMagician-TDIL-EN-R-1E.png"

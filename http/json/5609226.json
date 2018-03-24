@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 5609226,
-        "pack_id": "DP09-JP030",
         "pack": "Duelist Pack: Yusei 2",
-        "rarity": "Tuner's Barrier",
+        "pack_id": "DP09-JP030",
         "date": "2009-10-17"
     },
     "tcg": {
-        "id": 5609226,
-        "pack_id": "DP09-DE030",
         "pack": "Duelist Pack: Yusei 2",
-        "rarity": "Tuner's Barrier",
+        "pack_id": "DP09-DE030",
         "date": "2010-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/37/TunersBarrier-DP09-EN-SR-1E.png"

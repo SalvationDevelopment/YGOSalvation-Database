@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65758454,
-        "pack_id": "ST13-JPV04",
         "pack": "Starter Deck 2013 Enhancement Pack",
-        "rarity": "Ganbara Lancer",
+        "pack_id": "ST13-JPV04",
         "date": "2013-03-16"
     },
     "tcg": {
-        "id": 65758454,
-        "pack_id": "YS13-DEV04",
         "pack": "Super Starter Power-Up Pack",
-        "rarity": "Ganbara Lancer",
+        "pack_id": "YS13-DEV04",
         "date": "2013-06-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e6/GanbaraLancer-YS13-EN-C-1E.png"

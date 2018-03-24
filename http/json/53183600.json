@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53183600,
-        "pack_id": "PS-00",
         "pack": "Pharaoh's Servant",
-        "rarity": "Blue-Eyes Toon Dragon",
+        "pack_id": "PS-00",
         "date": "2000-07-13"
     },
     "tcg": {
-        "id": 53183600,
-        "pack_id": "DB1-EN066",
         "pack": "Dark Beginning 1",
-        "rarity": "Blue-Eyes Toon Dragon",
+        "pack_id": "DB1-EN066",
         "date": "2004-10-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/BlueEyesToonDragon-DPBC-EN-C-1E.png"

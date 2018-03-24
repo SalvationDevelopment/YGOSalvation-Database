@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45410988,
-        "pack_id": "CPD1-JP017",
         "pack": "Collectors Pack: Duelist of Destiny Version",
-        "rarity": "Red-Eyes Transmigration",
+        "pack_id": "CPD1-JP017",
         "date": "2015-05-16"
     },
     "tcg": {
-        "id": 45410988,
-        "pack_id": "DRL2-DE017",
         "pack": "Dragons of Legend 2",
-        "rarity": "Red-Eyes Transmigration",
+        "pack_id": "DRL2-DE017",
         "date": "2015-07-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/RedEyesTransmigration-DRL3-EN-UR-1E.png"

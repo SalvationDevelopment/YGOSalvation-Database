@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12607053,
-        "pack_id": "",
         "pack": "EX Starter Box",
-        "rarity": "Waboku",
+        "pack_id": "",
         "date": "1999-12-16"
     },
     "tcg": {
-        "id": 12607053,
-        "pack_id": "SDY-040",
         "pack": "Starter Deck: Yugi",
-        "rarity": "Waboku",
+        "pack_id": "SDY-040",
         "date": "2002-03-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d6/Waboku-SDCR-EN-C-1E.png"

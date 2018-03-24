@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 31785398,
-        "pack_id": "SC-31",
         "pack": "Struggle of Chaos",
-        "rarity": "Ready for Intercepting",
+        "pack_id": "SC-31",
         "date": "2001-09-20"
     },
     "tcg": {
-        "id": 31785398,
-        "pack_id": "LOD-031",
         "pack": "Legacy of Darkness",
-        "rarity": "Ready for Intercepting",
+        "pack_id": "LOD-031",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/57/ReadyforIntercepting-BP03-EN-C-1E.png"

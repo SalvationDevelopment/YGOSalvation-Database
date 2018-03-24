@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 17985575,
-        "pack_id": "",
         "pack": "EX Starter Box",
-        "rarity": "Lord of D.",
+        "pack_id": "",
         "date": "1999-12-16"
     },
     "tcg": {
-        "id": 17985575,
-        "pack_id": "SDK-041",
         "pack": "Starter Deck: Kaiba",
-        "rarity": "Lord of D.",
+        "pack_id": "SDK-041",
         "date": "2002-03-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/54/LordofD-SDKS-EN-C-1E.png"

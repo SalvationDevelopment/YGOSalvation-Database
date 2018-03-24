@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 49808196,
-        "pack_id": "EXP1-JP028",
         "pack": "Extra Pack",
-        "rarity": "Metabo Globster",
+        "pack_id": "EXP1-JP028",
         "date": "2008-09-13"
     },
     "tcg": {
-        "id": 49808196,
-        "pack_id": "PTDN-DE085",
         "pack": "Phantom Darkness",
-        "rarity": "Metabo Globster",
+        "pack_id": "PTDN-DE085",
         "date": "2008-01-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2d/MetaboGlobster-PTDN-EN-R-1E.png"

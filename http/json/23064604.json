@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 23064604,
-        "pack_id": "SR01-JP001",
         "pack": "Structure Deck R: Advent of the True Monarch",
-        "rarity": "Erebus the Underworld Monarch",
+        "pack_id": "SR01-JP001",
         "date": "2015-09-19"
     },
     "tcg": {
-        "id": 23064604,
-        "pack_id": "SR01-DE001",
         "pack": "Emperor of Darkness Structure Deck",
-        "rarity": "Erebus the Underworld Monarch",
+        "pack_id": "SR01-DE001",
         "date": "2016-01-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ee/ErebustheUnderworldMonarch-SR01-EN-UR-1E.png"

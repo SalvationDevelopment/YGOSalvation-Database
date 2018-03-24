@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 90036274,
-        "pack_id": "YA02-JP001",
         "pack": "Yu-Gi-Oh! ARC-V Volume 2",
-        "rarity": "Clear Wing Fast Dragon",
+        "pack_id": "YA02-JP001",
         "date": "2016-10-04"
     },
     "tcg": {
-        "id": 90036274,
-        "pack_id": "YA02-EN001",
         "pack": "Yu-Gi-Oh! ARC-V Volume 2",
-        "rarity": "Ultra Rare",
+        "pack_id": "YA02-EN001",
         "date": "2017-09-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/99/ClearWingFastDragon-YA02-EN-UR-LE.png"

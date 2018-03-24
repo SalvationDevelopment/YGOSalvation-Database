@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1224927,
-        "pack_id": "SDM-031",
         "pack": "Structure Deck: Marik Edition",
-        "rarity": "Malevolent Catastrophe",
+        "pack_id": "SDM-031",
         "date": "2004-03-25"
     },
     "tcg": {
-        "id": 1224927,
-        "pack_id": "SDRL-DE032",
         "pack": "Rise of the Dragon Lords Structure Deck",
-        "rarity": "Malevolent Catastrophe",
+        "pack_id": "SDRL-DE032",
         "date": "2007-10-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/47/MalevolentCatastrophe-DPBC-EN-C-1E.png"

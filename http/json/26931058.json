@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 26931058,
-        "pack_id": "302-049",
         "pack": "Advent of Union",
-        "rarity": "Formation Union",
+        "pack_id": "302-049",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 26931058,
-        "pack_id": "MFC-049",
         "pack": "Magician's Force",
-        "rarity": "Formation Union",
+        "pack_id": "MFC-049",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/80/FormationUnion-DR1-EN-C-UE.jpg"

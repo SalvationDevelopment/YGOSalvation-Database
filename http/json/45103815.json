@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45103815,
-        "pack_id": "CORE-JP002",
         "pack": "Clash of Rebellions",
-        "rarity": "Risebell the Summoner",
+        "pack_id": "CORE-JP002",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 45103815,
-        "pack_id": "CORE-DE002",
         "pack": "Clash of Rebellions",
-        "rarity": "Risebell the Summoner",
+        "pack_id": "CORE-DE002",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b9/RisebelltheSummoner-MP16-EN-C-1E.png"

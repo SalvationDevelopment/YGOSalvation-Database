@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 44330098,
-        "pack_id": "YR03-JP001",
         "pack": "Yu-Gi-Oh! R Volume 3 promotional card",
-        "rarity": "Gorz the Emissary of Darkness",
+        "pack_id": "YR03-JP001",
         "date": "2006-09-04"
     },
     "tcg": {
-        "id": 44330098,
-        "pack_id": "DLG1-EN000",
         "pack": "Dark Legends",
-        "rarity": "Gorz the Emissary of Darkness",
+        "pack_id": "DLG1-EN000",
         "date": "2008-11-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/97/GorztheEmissaryofDarkness-PGL2-EN-GUR-1E.png"

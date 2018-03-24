@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-DE014",
+        "date": "2017-10-19"
+    },
+    "ocg": {
+        "pack": "Circuit Break",
+        "pack_id": "CIBR-JP014",
+        "date": "2017-07-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/90/AltergeistMeluseek-CIBR-EN-UR-1E.png"
 }

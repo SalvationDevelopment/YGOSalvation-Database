@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80896940,
-        "pack_id": "TDIL-JP046",
         "pack": "The Dark Illusion",
-        "rarity": "Nirvana High Paladin",
+        "pack_id": "TDIL-JP046",
         "date": "2016-04-09"
     },
     "tcg": {
-        "id": 80896940,
-        "pack_id": "TDIL-DE046",
         "pack": "The Dark Illusion",
-        "rarity": "Nirvana High Paladin",
+        "pack_id": "TDIL-DE046",
         "date": "2016-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/df/NirvanaHighPaladin-TDIL-EN-ScR-1E.png"

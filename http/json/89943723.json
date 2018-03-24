@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 89943723,
-        "pack_id": "WJC-JP005",
         "pack": "Weekly Shōnen Jump 2006, Issue 2",
-        "rarity": "Elemental HERO Neos",
+        "pack_id": "WJC-JP005",
         "date": "2005-12-12"
     },
     "tcg": {
-        "id": 89943723,
-        "pack_id": "POTD-DE001",
         "pack": "Power of the Duelist",
-        "rarity": "Elemental HERO Neos",
+        "pack_id": "POTD-DE001",
         "date": "2006-08-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5e/ElementalHERONeos-SDHS-EN-C-1E.png"

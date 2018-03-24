@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 25642998,
-        "pack_id": "GENF-JP064",
         "pack": "Generation Force",
-        "rarity": "Poseidon Wave",
+        "pack_id": "GENF-JP064",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 25642998,
-        "pack_id": "GENF-EN064",
         "pack": "Generation Force",
-        "rarity": "Poseidon Wave",
+        "pack_id": "GENF-EN064",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/ba/PoseidonWave-BP03-EN-C-1E.png"

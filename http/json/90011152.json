@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 90011152,
-        "pack_id": "JF09-JP010",
         "pack": "Jump Festa 2009 - Promotion Pack",
-        "rarity": "Ojama Country",
+        "pack_id": "JF09-JP010",
         "date": "2008-12-20"
     },
     "tcg": {
-        "id": 90011152,
-        "pack_id": "RGBT-EN098",
         "pack": "Raging Battle",
-        "rarity": "Ojama Country",
+        "pack_id": "RGBT-EN098",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/23/OjamaCountry-RGBT-EN-R-1E.png"

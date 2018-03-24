@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 97433739,
-        "pack_id": "DP13-JP026",
         "pack": "Duelist Pack: Kaito Edition",
-        "rarity": "Message in a Bottle",
+        "pack_id": "DP13-JP026",
         "date": "2012-09-15"
     },
     "tcg": {
-        "id": 97433739,
-        "pack_id": "ZTIN-DE015",
         "pack": "Zexal Collection",
-        "rarity": "Message in a Bottle",
+        "pack_id": "ZTIN-DE015",
         "date": "2013-03-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c7/MessageinaBottle-ZTIN-EN-SR-1E.png"

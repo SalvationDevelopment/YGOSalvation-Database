@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 22093873,
-        "pack_id": "SD27-JP043",
         "pack": "Structure Deck: HERO's Strike",
-        "rarity": "Masked HERO Divine Wind",
+        "pack_id": "SD27-JP043",
         "date": "2014-06-21"
     },
     "tcg": {
-        "id": 22093873,
-        "pack_id": "SDHS-DE043",
         "pack": "HERO Strike Structure Deck",
-        "rarity": "Masked HERO Divine Wind",
+        "pack_id": "SDHS-DE043",
         "date": "2015-01-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3b/MaskedHERODivineWind-SDHS-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 33866130,
-        "pack_id": "DT05-JP019",
         "pack": "Duel Terminal - Champion of Chaos!!",
-        "rarity": "スーパーレア仕様",
+        "pack_id": "DT05-JP019",
         "date": "2009-04-14"
     },
     "tcg": {
-        "id": 33866130,
-        "pack_id": "DT03-EN019",
         "pack": "Duel Terminal 3",
-        "rarity": "Naturia Cliff",
+        "pack_id": "DT03-EN019",
         "date": "2010-09-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a4/NaturiaCliff-HA03-EN-ScR-1E.png"

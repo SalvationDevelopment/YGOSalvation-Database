@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64063868,
-        "pack_id": "EP16-JP012",
         "pack": "Extra Pack 2016",
-        "rarity": "Kozmo Dark Eclipser",
+        "pack_id": "EP16-JP012",
         "date": "2016-09-10"
     },
     "tcg": {
-        "id": 64063868,
-        "pack_id": "BOSH-DE085",
         "pack": "Breakers of Shadow",
-        "rarity": "Kozmo Dark Eclipser",
+        "pack_id": "BOSH-DE085",
         "date": "2016-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/78/KozmoDarkEclipser-BOSH-EN-ScR-UE.png"

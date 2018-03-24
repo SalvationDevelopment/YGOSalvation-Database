@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 73887236,
-        "pack_id": "SECE-JP050",
         "pack": "Secrets of Eternity",
-        "rarity": "Raidraptor - Rise Falcon",
+        "pack_id": "SECE-JP050",
         "date": "2014-11-15"
     },
     "tcg": {
-        "id": 73887236,
-        "pack_id": "SECE-DE050",
         "pack": "Secrets of Eternity",
-        "rarity": "Raidraptor - Rise Falcon",
+        "pack_id": "SECE-DE050",
         "date": "2015-01-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f5/RaidraptorRiseFalcon-MP15-EN-C-1E.png"

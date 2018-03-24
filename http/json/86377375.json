@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 784,
     "name": "Ahrima, King of Wickedness",
-    "desc": "You can discard this card; add 1 \"Lair of Darkness\" from your Deck to your hand. You can Tribute 1 DARK monster; draw 1 card, but if you Tributed a DARK monster other than this card, you can add 1 DARK monster with 2000 or more DEF from your Deck to your hand instead. You can only use this effect of \"Ahrima, King of Wickedness\" once per turn.",
+    "desc": "You can discard this card; add 1 \"Lair of Darkness\" from your Deck to your hand. You can Tribute 1 DARK monster; draw 1 card, but if you Tributed a DARK monster other than this card, you can add 1 DARK monster with 2000 or more DEF from your Deck to your hand instead. You can only use this effect of \"Ahrima, the Wicked Warden\" once per turn.",
     "str1": "Search \"Lair of Darkness\"",
     "str2": "Draw",
     "str3": "Search 1 DARK monster with 2000+ DEF instead?",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Structure Deck R: Curse of the Dark",
+        "pack_id": "SR06-JP002",
+        "date": "2018-03-10"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e9/AhrimaKingofWickedness-SR06-JP-SR.jpg"
 }

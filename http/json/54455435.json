@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 54455435,
-        "pack_id": "DT10-JP023",
-        "pack": "DT10",
-        "rarity": "Winda, Priestess of Gusto",
-        "date": "2012-06-04"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 54455435,
-        "pack_id": "DT05-EN073",
         "pack": "Duel Terminal 5b",
-        "rarity": "Winda, Priestess of Gusto",
+        "pack_id": "DT05-EN073",
         "date": "2011-09-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/67/WindaPriestessofGusto-HA05-EN-SR-UE.png"

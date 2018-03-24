@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 8463720,
-        "pack_id": "SD30-JP041",
         "pack": "Structure Deck: Pendulum Domination",
-        "rarity": "D/D/D Dragonbane King Beowulf",
+        "pack_id": "SD30-JP041",
         "date": "2015-12-12"
     },
     "tcg": {
-        "id": 8463720,
-        "pack_id": "SDPD-DE041",
         "pack": "Pendulum Domination Structure Deck",
-        "rarity": "D/D/D Dragonbane King Beowulf",
+        "pack_id": "SDPD-DE041",
         "date": "2017-01-19"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/DDDDragonbaneKingBeowulf-SDPD-EN-UR-1E.png"

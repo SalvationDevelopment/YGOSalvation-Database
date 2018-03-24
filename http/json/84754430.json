@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Mekk-Knight Avram",
-    "desc": "The hero who defends the light of the stars\r\nMust destroy the darkness of the illusory world\r\nAnd entrust his power to the chosen one.\r\nThe will inherited by the chalice of the stars will become a new key\r\nAnd become the sword that cuts down darkness.",
+    "desc": "\"Check THIS out!\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP016",
+        "date": "2018-01-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/48/MekkKnightAvram-EXFO-EN-SR-LE.png"
 }

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 12289247,
-        "pack_id": "SD31-JP002",
         "pack": "Structure Deck: Pendulum Evolution",
-        "rarity": "Chronograph Sorcerer",
+        "pack_id": "SD31-JP002",
         "date": "2016-12-23"
     },
     "tcg": {
-        "id": 12289247,
-        "pack_id": "PEVO-DE002",
         "pack": "Pendulum Evolution",
-        "rarity": "Chronograph Sorcerer",
+        "pack_id": "PEVO-DE002",
         "date": "2017-06-22"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7e/ChronographSorcerer-PEVO-EN-UR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99002135,
-        "pack_id": "RGBT-JP057",
         "pack": "Raging Battle",
-        "rarity": "Urgent Synthesis",
+        "pack_id": "RGBT-JP057",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 99002135,
-        "pack_id": "RGBT-EN057",
         "pack": "Raging Battle",
-        "rarity": "Urgent Synthesis",
+        "pack_id": "RGBT-EN057",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9b/UrgentSynthesis-RGBT-EN-C-1E.png"

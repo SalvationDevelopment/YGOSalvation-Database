@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 403847,
-        "pack_id": "SC-27",
         "pack": "Struggle of Chaos",
-        "rarity": "The A. Forces",
+        "pack_id": "SC-27",
         "date": "2001-09-20"
     },
     "tcg": {
-        "id": 403847,
-        "pack_id": "LOD-027",
         "pack": "Legacy of Darkness",
-        "rarity": "The A. Forces",
+        "pack_id": "LOD-027",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/54/TheAForces-YS14-EN-C-1E.png"

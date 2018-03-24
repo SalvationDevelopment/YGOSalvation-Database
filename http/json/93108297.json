@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 93108297,
-        "pack_id": "MR-23",
         "pack": "Magic Ruler",
-        "rarity": "共通",
+        "pack_id": "MR-23",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 93108297,
-        "pack_id": "MRL-023",
         "pack": "Spell Ruler",
-        "rarity": "Liquid Beast",
+        "pack_id": "MRL-023",
         "date": "2002-09-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c4/LiquidBeast-SRL-EN-C-UE.png"

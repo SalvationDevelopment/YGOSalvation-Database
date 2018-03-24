@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99641328,
-        "pack_id": "LVAL-JP016",
         "pack": "Legacy of the Valiant",
-        "rarity": "Sylvan Komushroomo",
+        "pack_id": "LVAL-JP016",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 99641328,
-        "pack_id": "LVAL-DE016",
         "pack": "Legacy of the Valiant",
-        "rarity": "Sylvan Komushroomo",
+        "pack_id": "LVAL-DE016",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e8/SylvanKomushroomo-MP14-EN-R-1E.png"

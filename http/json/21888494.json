@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 21888494,
-        "pack_id": "SM-13",
         "pack": "Spell of Mask",
-        "rarity": "Chosen One",
+        "pack_id": "SM-13",
         "date": "2001-04-19"
     },
     "tcg": {
-        "id": 21888494,
-        "pack_id": "LON-014",
         "pack": "Labyrinth of Nightmare",
-        "rarity": "Chosen One",
+        "pack_id": "LON-014",
         "date": "2003-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/df/ChosenOne-DB1-EN-C-UE.png"

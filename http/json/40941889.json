@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 40941889,
-        "pack_id": "LVAL-JP002",
         "pack": "Legacy of the Valiant",
-        "rarity": "ZW - Asura Strike",
+        "pack_id": "LVAL-JP002",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 40941889,
-        "pack_id": "LVAL-DE002",
         "pack": "Legacy of the Valiant",
-        "rarity": "ZW - Asura Strike",
+        "pack_id": "LVAL-DE002",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/44/ZWAsuraStrike-LVAL-EN-R-1E.png"

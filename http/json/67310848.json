@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67310848,
-        "pack_id": "CORE-JP081",
         "pack": "Clash of Rebellions",
-        "rarity": "Dwarf Star Dragon Planeter",
+        "pack_id": "CORE-JP081",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 67310848,
-        "pack_id": "SHVI-DE093",
         "pack": "Shining Victories",
-        "rarity": "Dwarf Star Dragon Planeter",
+        "pack_id": "SHVI-DE093",
         "date": "2016-05-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/DwarfStarDragonPlaneter-MP17-EN-C-1E.png"

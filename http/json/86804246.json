@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 86804246,
-        "pack_id": "GENF-JP012",
         "pack": "Generation Force",
-        "rarity": "Super Crashbug",
+        "pack_id": "GENF-JP012",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 86804246,
-        "pack_id": "GENF-EN012",
         "pack": "Generation Force",
-        "rarity": "Super Crashbug",
+        "pack_id": "GENF-EN012",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/02/SuperCrashbug-GENF-EN-SR-1E.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 91499077,
-        "pack_id": "NECH-JP082",
         "pack": "The New Challengers",
-        "rarity": "Gagaga Samurai",
+        "pack_id": "NECH-JP082",
         "date": "2014-07-19"
     },
     "tcg": {
-        "id": 91499077,
-        "pack_id": "WSUP-DE027",
         "pack": "World Superstars",
-        "rarity": "Gagaga Samurai",
+        "pack_id": "WSUP-DE027",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7e/GagagaSamurai-WSUP-EN-SR-1E.png"

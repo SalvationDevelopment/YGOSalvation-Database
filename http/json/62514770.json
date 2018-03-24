@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 62514770,
-        "pack_id": "SHSP-JP001",
         "pack": "Shadow Specters",
-        "rarity": "Labradorite Dragon",
+        "pack_id": "SHSP-JP001",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 62514770,
-        "pack_id": "SHSP-DE001",
         "pack": "Shadow Specters",
-        "rarity": "Labradorite Dragon",
+        "pack_id": "SHSP-DE001",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a4/LabradoriteDragon-SHSP-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65957473,
-        "pack_id": "308-005",
         "pack": "The Sanctuary in the Sky",
-        "rarity": "共通",
+        "pack_id": "308-005",
         "date": "2003-11-20"
     },
     "tcg": {
-        "id": 65957473,
-        "pack_id": "AST-DE005",
         "pack": "Ancient Sanctuary",
-        "rarity": "Common",
+        "pack_id": "AST-DE005",
         "date": "2004-05-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/05/MetalArmoredBug-DR2-EN-C-UE.jpg"

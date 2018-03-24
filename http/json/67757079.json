@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67757079,
-        "pack_id": "EXP3-JP007",
         "pack": "Extra Pack Volume 3",
-        "rarity": "King of the Beasts",
+        "pack_id": "EXP3-JP007",
         "date": "2010-09-18"
     },
     "tcg": {
-        "id": 67757079,
-        "pack_id": "RGBT-EN086",
         "pack": "Raging Battle",
-        "rarity": "King of the Beasts",
+        "pack_id": "RGBT-EN086",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7e/KingoftheBeasts-RGBT-EN-ScR-1E.png"

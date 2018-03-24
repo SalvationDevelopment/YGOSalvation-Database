@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1834753,
-        "pack_id": "EXP2-JP024",
         "pack": "Extra Pack Volume 2",
-        "rarity": "Overdrive Teleporter",
+        "pack_id": "EXP2-JP024",
         "date": "2009-09-19"
     },
     "tcg": {
-        "id": 1834753,
-        "pack_id": "CSOC-EN083",
         "pack": "Crossroads of Chaos",
-        "rarity": "Overdrive Teleporter",
+        "pack_id": "CSOC-EN083",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/89/OverdriveTeleporter-CSOC-EN-ScR-1E.jpg"

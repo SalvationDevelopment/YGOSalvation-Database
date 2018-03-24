@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 16625614,
-        "pack_id": "DP17-JP010",
         "pack": "Duelist Pack: Pharaoh's Memories Version",
-        "rarity": "Dark Sanctuary",
+        "pack_id": "DP17-JP010",
         "date": "2016-06-04"
     },
     "tcg": {
-        "id": 16625614,
-        "pack_id": "DPRP-DE011",
         "pack": "Duelist Pack: Rivals of the Pharaoh",
-        "rarity": "Dark Sanctuary",
+        "pack_id": "DPRP-DE011",
         "date": "2016-09-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/DarkSanctuary-DPRP-EN-UR-1E.png"

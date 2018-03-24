@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 4904812,
-        "pack_id": "DT02-JP010",
         "pack": "Duel Terminal - Invasion of Worms!!!!",
-        "rarity": "Genex Undine",
+        "pack_id": "DT02-JP010",
         "date": "2008-06-24"
     },
     "tcg": {
-        "id": 4904812,
-        "pack_id": "DT01-EN060",
         "pack": "Duel Terminal 1",
-        "rarity": "Genex Undine",
+        "pack_id": "DT01-EN060",
         "date": "2010-01-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c0/GenexUndine-AP01-EN-SR-UE.png"

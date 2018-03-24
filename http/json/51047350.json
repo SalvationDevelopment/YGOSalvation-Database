@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 51047350,
-        "pack_id": "TSHD-JP005",
         "pack": "The Shining Darkness",
-        "rarity": "Card Breaker",
+        "pack_id": "TSHD-JP005",
         "date": "2010-02-20"
     },
     "tcg": {
-        "id": 51047350,
-        "pack_id": "TSHD-DE005",
         "pack": "The Shining Darkness",
-        "rarity": "Card Breaker",
+        "pack_id": "TSHD-DE005",
         "date": "2010-05-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e7/CardBreaker-DP10-EN-C-1E.png"

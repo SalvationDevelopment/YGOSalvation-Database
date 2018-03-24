@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12444060,
-        "pack_id": "PRIO-JP072",
         "pack": "Primal Origin",
-        "rarity": "Artifact Sanctum",
+        "pack_id": "PRIO-JP072",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 12444060,
-        "pack_id": "PRIO-DE072",
         "pack": "Primal Origin",
-        "rarity": "Artifact Sanctum",
+        "pack_id": "PRIO-DE072",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f4/ArtifactSanctum-BLLR-EN-ScR-1E.png"

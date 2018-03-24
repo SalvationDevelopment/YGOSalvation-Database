@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99788587,
-        "pack_id": "CDIP-JP049",
         "pack": "Cyberdark Impact",
-        "rarity": "Blasting Fuse",
+        "pack_id": "CDIP-JP049",
         "date": "2006-08-10"
     },
     "tcg": {
-        "id": 99788587,
-        "pack_id": "CDIP-FR049",
         "pack": "Cyberdark Impact",
-        "rarity": "Blasting Fuse",
+        "pack_id": "CDIP-FR049",
         "date": "2006-11-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8d/BlastingFuse-CDIP-EN-R-1E.png"

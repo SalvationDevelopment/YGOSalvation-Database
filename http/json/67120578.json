@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67120578,
-        "pack_id": "YZ09-JP001",
         "pack": "Yu-Gi-Oh! ZEXAL Volume 9",
-        "rarity": "Gagaga Head",
+        "pack_id": "YZ09-JP001",
         "date": "2015-10-03"
     },
     "tcg": {
-        "id": 67120578,
-        "pack_id": "YZ09-EN001",
         "pack": "Yu-Gi-Oh! ZEXAL Volume 9",
-        "rarity": "Gagaga Head",
+        "pack_id": "YZ09-EN001",
         "date": "2016-09-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4f/GagagaHead-YZ09-EN-UR-LE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 25339070,
-        "pack_id": "SPDS-JP032",
         "pack": "Booster SP: Destiny Soldiers",
-        "rarity": "Darklord Nasten",
+        "pack_id": "SPDS-JP032",
         "date": "2016-08-06"
     },
     "tcg": {
-        "id": 25339070,
-        "pack_id": "DESO-DE032",
         "pack": "Destiny Soldiers",
-        "rarity": "Darklord Nasten",
+        "pack_id": "DESO-DE032",
         "date": "2016-11-17"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2d/DarklordNasten-DESO-EN-ScR-1E.png"

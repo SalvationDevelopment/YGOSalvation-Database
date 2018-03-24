@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 85520851,
-        "pack_id": "SD09-JP001",
         "pack": "Structure Deck: Dinosaur's Rage",
-        "rarity": "Super Conductor Tyranno",
+        "pack_id": "SD09-JP001",
         "date": "2006-06-22"
     },
     "tcg": {
-        "id": 85520851,
-        "pack_id": "SD09-DE001",
         "pack": "Structure Deck: Dinosaur's Rage",
-        "rarity": "Super Conductor Tyranno",
+        "pack_id": "SD09-DE001",
         "date": "2006-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/34/SuperConductorTyranno-SR04-EN-C-1E.png"

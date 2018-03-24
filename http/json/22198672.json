@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 22198672,
-        "pack_id": "COTD-JP065",
         "pack": "Code of the Duelist",
-        "rarity": "Castle Link",
+        "pack_id": "COTD-JP065",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE065"
+        "pack_id": "COTD-DE065",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b1/CastleLink-COTD-EN-UR-UE.png"
 }

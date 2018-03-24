@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 59048135,
-        "pack_id": "LVAL-JP085",
         "pack": "Legacy of the Valiant",
-        "rarity": "Augmented Heraldry",
+        "pack_id": "LVAL-JP085",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 59048135,
-        "pack_id": "WSUP-DE005",
         "pack": "World Superstars",
-        "rarity": "Augmented Heraldry",
+        "pack_id": "WSUP-DE005",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/be/AugmentedHeraldry-WSUP-EN-SR-1E.png"

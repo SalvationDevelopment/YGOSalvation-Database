@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 3300267,
-        "pack_id": "GAOV-JP023",
         "pack": "Galactic Overlord",
-        "rarity": "Hieratic Dragon of Su",
+        "pack_id": "GAOV-JP023",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 3300267,
-        "pack_id": "GAOV-EN023",
         "pack": "Galactic Overlord",
-        "rarity": "Hieratic Dragon of Su",
+        "pack_id": "GAOV-EN023",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ea/HieraticDragonofSu-GAOV-EN-C-1E.png"

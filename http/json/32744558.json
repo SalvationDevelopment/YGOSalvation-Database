@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 32744558,
-        "pack_id": "DT05-JP022",
         "pack": "Duel Terminal - Champion of Chaos!!",
-        "rarity": "R-Genex Overseer",
+        "pack_id": "DT05-JP022",
         "date": "2009-04-14"
     },
     "tcg": {
-        "id": 32744558,
-        "pack_id": "DT03-EN022",
         "pack": "Duel Terminal 3",
-        "rarity": "R-Genex Overseer",
+        "pack_id": "DT03-EN022",
         "date": "2010-09-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/17/RGenexOverseer-HA03-EN-SR-1E.png"

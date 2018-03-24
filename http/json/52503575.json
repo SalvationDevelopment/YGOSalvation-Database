@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 52503575,
-        "pack_id": "EE1-JP207",
         "pack": "Expert Edition Volume.1",
-        "rarity": "Final Attack Orders",
+        "pack_id": "EE1-JP207",
         "date": "2004-09-23"
     },
     "tcg": {
-        "id": 52503575,
-        "pack_id": "DCR-045",
         "pack": "Dark Crisis",
-        "rarity": "Final Attack Orders",
+        "pack_id": "DCR-045",
         "date": "2003-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/FinalAttackOrders-SDKS-EN-C-1E.png"

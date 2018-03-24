@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 49218300,
-        "pack_id": "",
         "pack": "EX Starter Box",
-        "rarity": "Sorcerer of the Doomed",
+        "pack_id": "",
         "date": "1999-12-16"
     },
     "tcg": {
-        "id": 49218300,
-        "pack_id": "SDY-038",
         "pack": "Starter Deck: Yugi",
-        "rarity": "Sorcerer of the Doomed",
+        "pack_id": "SDY-038",
         "date": "2002-03-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7e/SorcereroftheDoomed-SDY-EU-C-1E.png"

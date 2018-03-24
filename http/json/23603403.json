@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 23603403,
-        "pack_id": "SPWR-JP024",
         "pack": "Booster SP: Wing Raiders",
-        "rarity": "Raidraptor - Satellite Cannon Falcon",
+        "pack_id": "SPWR-JP024",
         "date": "2015-11-14"
     },
     "tcg": {
-        "id": 23603403,
-        "pack_id": "WIRA-DE024",
         "pack": "Wing Raiders",
-        "rarity": "Raidraptor - Satellite Cannon Falcon",
+        "pack_id": "WIRA-DE024",
         "date": "2016-02-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0b/RaidraptorSatelliteCannonFalcon-BLLR-EN-UR-1E.png"

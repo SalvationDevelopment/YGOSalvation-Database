@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 59290628,
-        "pack_id": "EE1-JP025",
         "pack": "Expert Edition Volume.1",
-        "rarity": "Nightmare Horse",
+        "pack_id": "EE1-JP025",
         "date": "2004-09-23"
     },
     "tcg": {
-        "id": 59290628,
-        "pack_id": "DR1-EN025",
         "pack": "Dark Revelation Volume 1",
-        "rarity": "Nightmare Horse",
+        "pack_id": "DR1-EN025",
         "date": "2005-03-19"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/88/NightmareHorse-DR1-EN-C-UE.jpg"

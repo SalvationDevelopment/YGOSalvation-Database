@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 46474915,
-        "pack_id": "",
         "pack": "Vol.5",
-        "rarity": "Magical Ghost",
+        "pack_id": "",
         "date": "1999-09-23"
     },
     "tcg": {
-        "id": 46474915,
-        "pack_id": "SDY-025",
         "pack": "Starter Deck: Yugi",
-        "rarity": "Magical Ghost",
+        "pack_id": "SDY-025",
         "date": "2002-03-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/MagicalGhost-SDY-NA-C-1E.png"

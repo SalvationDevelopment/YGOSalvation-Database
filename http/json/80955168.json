@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80955168,
-        "pack_id": "CSOC-JP077",
         "pack": "Crossroads of Chaos",
-        "rarity": "",
+        "pack_id": "CSOC-JP077",
         "date": "2008-07-19"
     },
     "tcg": {
-        "id": 80955168,
-        "pack_id": "CSOC-EN077",
         "pack": "Crossroads of Chaos",
-        "rarity": "Trap of the Imperial Tomb",
+        "pack_id": "CSOC-EN077",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d1/TrapoftheImperialTomb-LCJW-EN-C-1E.png"

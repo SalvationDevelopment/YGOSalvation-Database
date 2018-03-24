@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 40213117,
-        "pack_id": "REDU-JP016",
         "pack": "Return of the Duelist",
-        "rarity": "Amores of Prophecy",
+        "pack_id": "REDU-JP016",
         "date": "2012-04-14"
     },
     "tcg": {
-        "id": 40213117,
-        "pack_id": "REDU-EN016",
         "pack": "Return of the Duelist",
-        "rarity": "Amores of Prophecy",
+        "pack_id": "REDU-EN016",
         "date": "2012-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cf/AmoresofProphecy-REDU-EN-C-1E.png"

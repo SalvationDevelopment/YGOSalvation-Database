@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 33746252,
-        "pack_id": "PRIO-JP034",
         "pack": "Primal Origin",
-        "rarity": "Majesty's Fiend",
+        "pack_id": "PRIO-JP034",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 33746252,
-        "pack_id": "PRIO-DE034",
         "pack": "Primal Origin",
-        "rarity": "Majesty's Fiend",
+        "pack_id": "PRIO-DE034",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/MajestysFiend-CT12-EN-SR-LE.png"

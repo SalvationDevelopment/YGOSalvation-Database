@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 21263083,
-        "pack_id": "",
         "pack": "Vol.5",
-        "rarity": "Pale Beast",
+        "pack_id": "",
         "date": "1999-09-23"
     },
     "tcg": {
-        "id": 21263083,
-        "pack_id": "SDK-031",
         "pack": "Starter Deck: Kaiba",
-        "rarity": "Pale Beast",
+        "pack_id": "SDK-031",
         "date": "2002-03-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/70/PaleBeast-MRD-EN-C-UE.png"

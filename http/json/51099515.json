@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 51099515,
-        "pack_id": "EP15-JP077",
         "pack": "Extra Pack 2015",
-        "rarity": "Quantum Cat",
+        "pack_id": "EP15-JP077",
         "date": "2015-09-19"
     },
     "tcg": {
-        "id": 51099515,
-        "pack_id": "BP03-DE237",
         "pack": "Battle Pack 3: Monster League",
-        "rarity": "Quantum Cat",
+        "pack_id": "BP03-DE237",
         "date": "2014-07-31"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5b/QuantumCat-SDCL-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 77565204,
-        "pack_id": "POTD-JP044",
         "pack": "Power of the Duelist",
-        "rarity": "Future Fusion",
+        "pack_id": "POTD-JP044",
         "date": "2006-05-18"
     },
     "tcg": {
-        "id": 77565204,
-        "pack_id": "POTD-DE044",
         "pack": "Power of the Duelist",
-        "rarity": "Future Fusion",
+        "pack_id": "POTD-DE044",
         "date": "2006-08-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/FutureFusion-LEDD-EN-C-1E.png"

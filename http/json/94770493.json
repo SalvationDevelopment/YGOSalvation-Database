@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 94770493,
-        "pack_id": "GENF-JP046",
         "pack": "Generation Force",
-        "rarity": "Double or Nothing!",
+        "pack_id": "GENF-JP046",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 94770493,
-        "pack_id": "GENF-EN046",
         "pack": "Generation Force",
-        "rarity": "Double or Nothing!",
+        "pack_id": "GENF-EN046",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/DoubleorNothing-YS13-EN-C-1E.png"

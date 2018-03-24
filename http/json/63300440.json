@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63300440,
-        "pack_id": "SHSP-JP061",
         "pack": "Shadow Specters",
-        "rarity": "Dragon Shield",
+        "pack_id": "SHSP-JP061",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 63300440,
-        "pack_id": "JOTL-DEDE3",
         "pack": "Judgment of the Light: Deluxe Edition",
-        "rarity": "Dragon Shield",
+        "pack_id": "JOTL-DEDE3",
         "date": "2013-09-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/59/DragonShield-SHSP-EN-C-1E.png"

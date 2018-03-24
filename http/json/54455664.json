@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 54455664,
-        "pack_id": "DT07-JP023",
         "pack": "Duel Terminal - Charge of the Genex!!",
-        "rarity": "Dragunity Brandistock",
+        "pack_id": "DT07-JP023",
         "date": "2009-10-01"
     },
     "tcg": {
-        "id": 54455664,
-        "pack_id": "DT04-EN023",
         "pack": "Duel Terminal 4",
-        "rarity": "Dragunity Brandistock",
+        "pack_id": "DT04-EN023",
         "date": "2011-01-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4d/DragunityBrandistock-HA04-EN-SR-1E.jpg"

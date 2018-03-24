@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 42463414,
-        "pack_id": "RGBT-JP034",
         "pack": "Raging Battle",
-        "rarity": "Spined Gillman",
+        "pack_id": "RGBT-JP034",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 42463414,
-        "pack_id": "RGBT-EN034",
         "pack": "Raging Battle",
-        "rarity": "Spined Gillman",
+        "pack_id": "RGBT-EN034",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/SpinedGillman-BP03-EN-R-1E.png"

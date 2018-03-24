@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 57348141,
-        "pack_id": "COTD-JP072",
         "pack": "Code of the Duelist",
-        "rarity": "Twilight Eraser",
+        "pack_id": "COTD-JP072",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE072"
+        "pack_id": "COTD-DE072",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cf/TwilightEraser-COTD-EN-R-1E.png"
 }

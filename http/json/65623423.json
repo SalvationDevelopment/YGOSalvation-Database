@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65623423,
-        "pack_id": "",
         "pack": "Booster 4",
-        "rarity": "共通",
+        "pack_id": "",
         "date": "1999-08-26"
     },
     "tcg": {
-        "id": 65623423,
-        "pack_id": "AP06-EN015",
         "pack": "Astral Pack Six",
-        "rarity": "Gruesome Goo",
+        "pack_id": "AP06-EN015",
         "date": "2014-12-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b8/GruesomeGoo-AP06-EN-SP-UE.png"

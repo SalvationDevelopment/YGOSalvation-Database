@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 5556668,
-        "pack_id": "G5-03",
         "pack": "GameBoy Duel Monsters Promos: Series 5",
-        "rarity": "Exchange",
+        "pack_id": "G5-03",
         "date": "2001-07-05"
     },
     "tcg": {
-        "id": 5556668,
-        "pack_id": "EDS-001",
         "pack": "Yu-Gi-Oh! The Eternal Duelist Soul Bundles",
-        "rarity": "Exchange",
+        "pack_id": "EDS-001",
         "date": "2002-10-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/92/Exchange-YGLD-EN-C-1E.png"

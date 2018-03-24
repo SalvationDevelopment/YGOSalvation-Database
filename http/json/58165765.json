@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58165765,
-        "pack_id": "EP13-JP023",
         "pack": "Extra Pack: Sword of Knights",
-        "rarity": "Red Dragon Ninja",
+        "pack_id": "EP13-JP023",
         "date": "2013-05-18"
     },
     "tcg": {
-        "id": 58165765,
-        "pack_id": "ABYR-DE082",
         "pack": "Abyss Rising",
-        "rarity": "Red Dragon Ninja",
+        "pack_id": "ABYR-DE082",
         "date": "2012-11-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cd/RedDragonNinja-ABYR-EN-SR-1E.png"

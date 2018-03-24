@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 92870717,
-        "pack_id": "CORE-JP088",
         "pack": "Clash of Rebellions",
-        "rarity": "Dragonox, the Empowered Warrior",
+        "pack_id": "CORE-JP088",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 92870717,
-        "pack_id": "CT13-DE006",
         "pack": "2016 Mega-Tins",
-        "rarity": "Dragonox, the Empowered Warrior",
+        "pack_id": "CT13-DE006",
         "date": "2016-09-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/12/DragonoxtheEmpoweredWarrior-CT13-EN-SR-LE.png"

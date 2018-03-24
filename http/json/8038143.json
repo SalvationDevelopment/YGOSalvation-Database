@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 8038143,
-        "pack_id": "PRIO-JP087",
         "pack": "Primal Origin",
-        "rarity": "Tachyon Transmigration",
+        "pack_id": "PRIO-JP087",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 8038143,
-        "pack_id": "WSUP-DE012",
         "pack": "World Superstars",
-        "rarity": "Tachyon Transmigration",
+        "pack_id": "WSUP-DE012",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/87/TachyonTransmigration-WSUP-EN-PScR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99861526,
-        "pack_id": "POTD-JP008",
         "pack": "Power of the Duelist",
-        "rarity": "Submarineroid",
+        "pack_id": "POTD-JP008",
         "date": "2006-05-18"
     },
     "tcg": {
-        "id": 99861526,
-        "pack_id": "POTD-DE008",
         "pack": "Power of the Duelist",
-        "rarity": "Submarineroid",
+        "pack_id": "POTD-DE008",
         "date": "2006-08-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/99/Submarineroid-BP03-EN-C-1E.png"

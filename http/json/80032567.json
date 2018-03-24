@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80032567,
-        "pack_id": "DT04-JP037",
         "pack": "Duel Terminal - Demon Roar God Revival!!",
-        "rarity": "ウルトラレア仕様",
+        "pack_id": "DT04-JP037",
         "date": "2008-12-04"
     },
     "tcg": {
-        "id": 80032567,
-        "pack_id": "DT02-EN087",
         "pack": "Duel Terminal 2",
-        "rarity": "Jurrac Giganoto",
+        "pack_id": "DT02-EN087",
         "date": "2010-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/75/JurracGiganoto-HA02-EN-ScR-1E.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 78364470,
-        "pack_id": "DT13-JP021",
         "pack": "Duel Terminal - Sacred Star Knights!!",
-        "rarity": "Constellar Pollux",
+        "pack_id": "DT13-JP021",
         "date": "2011-10-04"
     },
     "tcg": {
-        "id": 78364470,
-        "pack_id": "DT07-EN021",
         "pack": "Duel Terminal 7a",
-        "rarity": "Constellar Pollux",
+        "pack_id": "DT07-EN021",
         "date": "2012-09-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4a/ConstellarPollux-HA07-EN-SR-1E.png"

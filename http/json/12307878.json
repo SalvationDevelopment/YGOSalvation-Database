@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12307878,
-        "pack_id": "SPFE-JP030",
         "pack": "Booster SP: Fusion Enforcers",
-        "rarity": "Invoked Purgatrio",
+        "pack_id": "SPFE-JP030",
         "date": "2016-11-12"
     },
     "tcg": {
-        "id": 12307878,
-        "pack_id": "FUEN-DE030",
         "pack": "Fusion Enforcers",
-        "rarity": "Invoked Purgatrio",
+        "pack_id": "FUEN-DE030",
         "date": "2017-02-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5f/InvokedPurgatrio-FUEN-EN-ScR-1E.png"

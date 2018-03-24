@@ -2,7 +2,7 @@
     "id": 38342335,
     "ot": 1,
     "alias": 0,
-    "setcode": 274,
+    "setcode": 0,
     "type": 67108897,
     "atk": 2200,
     "def": 42,
@@ -10,8 +10,8 @@
     "race": 8,
     "attribute": 32,
     "category": 288,
-    "name": "Troymare Unicorn",
-    "desc": "2+ monsters with different names\r\nIf this card is Link Summoned: You can discard 1 card, then target 1 card on the field; shuffle it into the Deck, then if this card was co-linked when this effect was activated, you can draw 1 card. You can only use this effect of \"Troymare Unicorn\" once per turn. While a co-linked \"Troymare\" monster(s) is on the field, draw cards equal to the number of those monsters with different names instead of 1 for your normal draw during your Draw Phase.",
+    "name": "Knightmare Unicorn",
+    "desc": "Link Arrows: [🡰][🡳][🡲]\n\n2+ monsters with different names\nIf this card is Link Summoned: You can discard 1 card, then target 1 card on the field; shuffle it into the Deck, then if this card was co-linked when this effect was activated, you can draw 1 card. You can only use this effect of \"Troymare Unicorn\" once per turn. While a co-linked \"Troymare\" monster(s) is on the field, draw cards equal to the number of those monsters with different names instead of 1 for your normal draw during your Draw Phase.",
     "str1": "Return to Deck",
     "str2": "Draw 1 card?",
     "str3": "",
@@ -28,5 +28,17 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP047",
+        "date": "2018-01-13"
+    },
+    "links": [
+        3,
+        4,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/01/KnightmareUnicorn-FLOD-JP-SR.png"
 }

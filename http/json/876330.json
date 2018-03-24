@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 876330,
-        "pack_id": "SD19-JP002",
         "pack": "Structure Deck: Dragunity Drive",
-        "rarity": "Dragunity Arma Mystletainn",
+        "pack_id": "SD19-JP002",
         "date": "2010-06-19"
     },
     "tcg": {
-        "id": 876330,
-        "pack_id": "SDDL-DE002",
         "pack": "Dragunity Legion Structure Deck",
-        "rarity": "Dragunity Arma Mystletainn",
+        "pack_id": "SDDL-DE002",
         "date": "2011-03-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/88/DragunityArmaMystletainn-SDDL-EN-SR-1E.png"

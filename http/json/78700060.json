@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 78700060,
-        "pack_id": "VB8-JP002",
         "pack": "The Valuable Book 8",
-        "rarity": "Doomcaliber Knight",
+        "pack_id": "VB8-JP002",
         "date": "2005-08-28"
     },
     "tcg": {
-        "id": 78700060,
-        "pack_id": "SJCS-EN006",
         "pack": "Shonen Jump Championship 2008",
-        "rarity": "Doomcaliber Knight",
+        "pack_id": "SJCS-EN006",
         "date": "2008-03-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/10/DoomcaliberKnight-DUSA-EN-UR-1E.png"

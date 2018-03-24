@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 29417188,
-        "pack_id": "EXP4-JP027",
         "pack": "Extra Pack Volume 4",
-        "rarity": "Psi-Blocker",
+        "pack_id": "EXP4-JP027",
         "date": "2011-09-17"
     },
     "tcg": {
-        "id": 29417188,
-        "pack_id": "STBL-EN086",
         "pack": "Starstrike Blast",
-        "rarity": "Psi-Blocker",
+        "pack_id": "STBL-EN086",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/72/PsiBlocker-BP01-EN-C-1E.png"

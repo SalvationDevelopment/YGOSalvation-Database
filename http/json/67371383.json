@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67371383,
-        "pack_id": "SM-07",
         "pack": "Spell of Mask",
-        "rarity": "Amphibian Beast",
+        "pack_id": "SM-07",
         "date": "2001-04-19"
     },
     "tcg": {
-        "id": 67371383,
-        "pack_id": "LON-008",
         "pack": "Labyrinth of Nightmare",
-        "rarity": "Amphibian Beast",
+        "pack_id": "LON-008",
         "date": "2003-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bd/AmphibianBeast-DB1-EN-C-UE.jpg"

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 2,
     "name": "Anti Raigeki",
-    "desc": "When your opponent activates \"Raigeki\": Negate its effect, destroy all monsters your opponent controls.",
+    "desc": "When your opponent activates \"Raigeki\": Negate its effect, and if you do, destroy all monsters your opponent controls.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 42364257,
-        "pack_id": "",
         "pack": "Vol.5",
-        "rarity": "Anti Raigeki",
+        "pack_id": "",
         "date": "1999-09-23"
     },
     "tcg": {
-        "id": 42364257,
-        "pack_id": "TP3-002",
         "pack": "Tournament Pack: 3rd Season",
-        "rarity": "Anti Raigeki",
+        "pack_id": "TP3-002",
         "date": "2003-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/90/AntiRaigeki-LCKC-EN-ScR-1E.png"

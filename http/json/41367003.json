@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 41367003,
-        "pack_id": "NECH-JP057",
         "pack": "The New Challengers",
-        "rarity": "Draw Muscle",
+        "pack_id": "NECH-JP057",
         "date": "2014-07-19"
     },
     "tcg": {
-        "id": 41367003,
-        "pack_id": "NECH-DE057",
         "pack": "The New Challengers",
-        "rarity": "Draw Muscle",
+        "pack_id": "NECH-DE057",
         "date": "2014-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fe/DrawMuscle-YS16-EN-C-1E.png"

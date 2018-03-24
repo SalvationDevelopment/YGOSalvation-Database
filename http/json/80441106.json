@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80441106,
-        "pack_id": "305-024",
         "pack": "Threat of the Dark Demon World",
-        "rarity": "Keldo",
+        "pack_id": "305-024",
         "date": "2003-02-20"
     },
     "tcg": {
-        "id": 80441106,
-        "pack_id": "DCR-077",
         "pack": "Dark Crisis",
-        "rarity": "Keldo",
+        "pack_id": "DCR-077",
         "date": "2003-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/Keldo-DR1-EN-C-UE.png"

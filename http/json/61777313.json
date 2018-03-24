@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 61777313,
-        "pack_id": "EXP4-JP032",
         "pack": "Extra Pack Volume 4",
-        "rarity": "Vanadis of the Nordic Ascendant",
+        "pack_id": "EXP4-JP032",
         "date": "2011-09-17"
     },
     "tcg": {
-        "id": 61777313,
-        "pack_id": "STOR-EN081",
         "pack": "Storm of Ragnarok",
-        "rarity": "Vanadis of the Nordic Ascendant",
+        "pack_id": "STOR-EN081",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3c/VanadisoftheNordicAscendant-LC5D-EN-UR-1E.png"

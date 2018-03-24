@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 35686188,
-        "pack_id": "RDS-JP049",
         "pack": "Rise of Destiny",
-        "rarity": "Tragedy",
+        "pack_id": "RDS-JP049",
         "date": "2004-08-05"
     },
     "tcg": {
-        "id": 35686188,
-        "pack_id": "RDS-FR049",
         "pack": "Rise of Destiny",
-        "rarity": "Tragedy",
+        "pack_id": "RDS-FR049",
         "date": "2004-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a9/Tragedy-YGLD-EN-C-1E.png"

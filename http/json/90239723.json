@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 90239723,
-        "pack_id": "RGBT-JP054",
         "pack": "Raging Battle",
-        "rarity": "Morphtronic Repair Unit",
+        "pack_id": "RGBT-JP054",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 90239723,
-        "pack_id": "RGBT-EN054",
         "pack": "Raging Battle",
-        "rarity": "Morphtronic Repair Unit",
+        "pack_id": "RGBT-EN054",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/15/MorphtronicRepairUnit-RGBT-EN-C-1E.png"

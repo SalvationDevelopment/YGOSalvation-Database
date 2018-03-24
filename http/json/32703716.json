@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 32703716,
-        "pack_id": "GENF-JP055",
         "pack": "Generation Force",
-        "rarity": "Fish and Kicks",
+        "pack_id": "GENF-JP055",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 32703716,
-        "pack_id": "GENF-EN055",
         "pack": "Generation Force",
-        "rarity": "Fish and Kicks",
+        "pack_id": "GENF-EN055",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d4/FishandKicks-GENF-EN-C-1E.jpg"

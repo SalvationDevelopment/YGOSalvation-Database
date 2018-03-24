@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 39153655,
-        "pack_id": "WJMP-JP023",
         "pack": "Weekly Shōnen Jump 2014, Issue 36",
-        "rarity": "D/D Cerberus",
+        "pack_id": "WJMP-JP023",
         "date": "2014-08-04"
     },
     "tcg": {
-        "id": 39153655,
-        "pack_id": "SDPD-DE007",
         "pack": "Pendulum Domination Structure Deck",
-        "rarity": "D/D Cerberus",
+        "pack_id": "SDPD-DE007",
         "date": "2017-01-19"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d3/DDCerberus-SDPD-EN-C-1E.png"

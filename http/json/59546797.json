@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 59546797,
-        "pack_id": "DP16-JP002",
         "pack": "Duelist Pack: Battle City",
-        "rarity": "Juragedo",
+        "pack_id": "DP16-JP002",
         "date": "2015-06-06"
     },
     "tcg": {
-        "id": 59546797,
-        "pack_id": "DPBC-EN002",
         "pack": "Duelist Pack: Battle City",
-        "rarity": "Juragedo",
+        "pack_id": "DPBC-EN002",
         "date": "2015-06-19"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/24/Juragedo-DPBC-EN-SR-1E.png"

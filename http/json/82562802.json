@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 82562802,
-        "pack_id": "DP18-JP023",
         "pack": "Duelist Pack: Legend Duelist",
-        "rarity": "Cyberdark Claw",
+        "pack_id": "DP18-JP023",
         "date": "2017-06-03"
     },
     "tcg": {
-        "date": "2017-09-07",
         "pack": "Legendary Duelists",
-        "pack_id": "LEDU-DE023"
+        "pack_id": "LEDU-DE023",
+        "date": "2017-09-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/76/CyberdarkClaw-LEDU-EN-R-1E.png"
 }

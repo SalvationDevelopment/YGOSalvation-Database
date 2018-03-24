@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 18013090,
-        "pack_id": "TDGS-JP039",
         "pack": "The Duelist Genesis",
-        "rarity": "Nitro Warrior",
+        "pack_id": "TDGS-JP039",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 18013090,
-        "pack_id": "TDGS-EN039",
         "pack": "The Duelist Genesis",
-        "rarity": "Nitro Warrior",
+        "pack_id": "TDGS-EN039",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d0/NitroWarrior-LC5D-EN-C-1E.png"

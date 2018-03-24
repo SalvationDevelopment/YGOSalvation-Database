@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 24068492,
-        "pack_id": "",
         "pack": "Booster 5",
-        "rarity": "Just Desserts",
+        "pack_id": "",
         "date": "1999-10-17"
     },
     "tcg": {
-        "id": 24068492,
-        "pack_id": "SDK-040",
         "pack": "Starter Deck: Kaiba",
-        "rarity": "Just Desserts",
+        "pack_id": "SDK-040",
         "date": "2002-03-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f0/JustDesserts-LCKC-EN-UR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 84055227,
-        "pack_id": "EXP2-JP015",
         "pack": "Extra Pack Volume 2",
-        "rarity": "Maiden of Macabre",
+        "pack_id": "EXP2-JP015",
         "date": "2009-09-19"
     },
     "tcg": {
-        "id": 84055227,
-        "pack_id": "TDGS-EN084",
         "pack": "The Duelist Genesis",
-        "rarity": "Maiden of Macabre",
+        "pack_id": "TDGS-EN084",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/MaidenofMacabre-TDGS-EN-R-1E.png"

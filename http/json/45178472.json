@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45178472,
-        "pack_id": "EP12-JP009",
         "pack": "Extra Pack 2012",
-        "rarity": "Full House",
+        "pack_id": "EP12-JP009",
         "date": "2012-10-13"
     },
     "tcg": {
-        "id": 45178472,
-        "pack_id": "EXVC-EN088",
         "pack": "Extreme Victory",
-        "rarity": "Full House",
+        "pack_id": "EXVC-EN088",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b5/FullHouse-LC5D-EN-ScR-1E.png"

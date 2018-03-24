@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 74850403,
-        "pack_id": "SD31-JP023",
         "pack": "Structure Deck: Pendulum Evolution",
-        "rarity": "Star Pendulumgraph",
+        "pack_id": "SD31-JP023",
         "date": "2016-12-23"
     },
     "tcg": {
-        "id": 74850403,
-        "pack_id": "PEVO-DE007",
         "pack": "Pendulum Evolution",
-        "rarity": "Star Pendulumgraph",
+        "pack_id": "PEVO-DE007",
         "date": "2017-06-22"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/57/StarPendulumgraph-PEVO-EN-UR-1E.png"

@@ -31,18 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 14731897,
-        "pack_id": "YCB-002",
         "pack": "Yu-Gi-Oh! Character Guidebook: The Gospel of Truth",
-        "rarity": "Unity",
+        "pack_id": "YCB-002",
         "date": "2002-11-01"
     },
-    "tcg": {
-        "id": 14731897,
-        "pack_id": "JUMP-EN006",
-        "pack": "JUMP",
-        "rarity": "Unity",
-        "date": 1154390400000
-    },
+    "tcg": {},
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/01/Unity-JUMP-EN-UR-LE.png"
 }

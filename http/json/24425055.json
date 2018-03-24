@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 24425055,
-        "pack_id": "SPWR-JP013",
         "pack": "Booster SP: Wing Raiders",
-        "rarity": "Booby Trap E",
+        "pack_id": "SPWR-JP013",
         "date": "2015-11-14"
     },
     "tcg": {
-        "id": 24425055,
-        "pack_id": "WIRA-DE013",
         "pack": "Wing Raiders",
-        "rarity": "Booby Trap E",
+        "pack_id": "WIRA-DE013",
         "date": "2016-02-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bc/BoobyTrapE-WIRA-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67754901,
-        "pack_id": "CPF1-JP001",
         "pack": "Collectors Pack: Duelist of Flash Version",
-        "rarity": "Odd-Eyes Mirage Dragon",
+        "pack_id": "CPF1-JP001",
         "date": "2016-05-14"
     },
     "tcg": {
-        "id": 67754901,
-        "pack_id": "DRL3-DE001",
         "pack": "Dragons of Legend: Unleashed",
-        "rarity": "Odd-Eyes Mirage Dragon",
+        "pack_id": "DRL3-DE001",
         "date": "2016-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ae/OddEyesMirageDragon-LEDD-EN-C-1E.png"

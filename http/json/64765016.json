@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64765016,
-        "pack_id": "EP16-JP039",
         "pack": "Extra Pack 2016",
-        "rarity": "Paleozoic Marrella",
+        "pack_id": "EP16-JP039",
         "date": "2016-09-10"
     },
     "tcg": {
-        "id": 64765016,
-        "pack_id": "INOV-DE097",
         "pack": "Invasion: Vengeance",
-        "rarity": "Paleozoic Marrella",
+        "pack_id": "INOV-DE097",
         "date": "2016-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/PaleozoicMarrella-INOV-EN-C-1E.png"

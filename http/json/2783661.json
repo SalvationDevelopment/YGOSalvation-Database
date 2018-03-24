@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 2783661,
-        "pack_id": "SDKS-JP021",
         "pack": "Structure Deck: Seto Kaiba",
-        "rarity": "Majesty with Eyes of Blue",
+        "pack_id": "SDKS-JP021",
         "date": "2016-06-18"
     },
     "tcg": {
-        "id": 2783661,
-        "pack_id": "SDKS-DE021",
         "pack": "Structure Deck: Seto Kaiba",
-        "rarity": "Majesty with Eyes of Blue",
+        "pack_id": "SDKS-DE021",
         "date": "2016-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c9/MajestywithEyesofBlue-LCKC-EN-ScR-1E.png"

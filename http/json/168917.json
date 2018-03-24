@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 168917,
-        "pack_id": "DT11-JP023",
-        "pack": "DT11",
-        "rarity": "Vylon Hept",
-        "date": "2013-02-26"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 168917,
-        "pack_id": "DT06-EN023",
         "pack": "Duel Terminal 6a",
-        "rarity": "Vylon Hept",
+        "pack_id": "DT06-EN023",
         "date": "2012-02-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/41/VylonHept-HA06-EN-SR-1E.png"

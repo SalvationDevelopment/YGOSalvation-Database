@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 15033525,
-        "pack_id": "CPF1-JP007",
         "pack": "Collectors Pack: Duelist of Flash Version",
-        "rarity": "The Blazing Mars",
+        "pack_id": "CPF1-JP007",
         "date": "2016-05-14"
     },
     "tcg": {
-        "id": 15033525,
-        "pack_id": "DRL3-DE007",
         "pack": "Dragons of Legend: Unleashed",
-        "rarity": "The Blazing Mars",
+        "pack_id": "DRL3-DE007",
         "date": "2016-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c4/TheBlazingMars-DRL3-EN-ScR-1E.png"

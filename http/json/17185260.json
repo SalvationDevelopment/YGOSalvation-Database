@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 17185260,
-        "pack_id": "CMC-JP002",
         "pack": "Yu-Gi-Oh! Capsule Monster Coliseum promotional cards",
-        "rarity": "Inferno Hammer",
+        "pack_id": "CMC-JP002",
         "date": "2004-07-29"
     },
     "tcg": {
-        "id": 17185260,
-        "pack_id": "CMC-EN002",
         "pack": "Yu-Gi-Oh! Capsule Monster Coliseum promotional cards",
-        "rarity": "Inferno Hammer",
+        "pack_id": "CMC-EN002",
         "date": "2004-11-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a5/InfernoHammer-CMC-EN-SR-UE.png"

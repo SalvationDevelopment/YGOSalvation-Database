@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 22628574,
-        "pack_id": "RGBT-JP070",
         "pack": "Raging Battle",
-        "rarity": "Fake Feather",
+        "pack_id": "RGBT-JP070",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 22628574,
-        "pack_id": "RGBT-EN070",
         "pack": "Raging Battle",
-        "rarity": "Fake Feather",
+        "pack_id": "RGBT-EN070",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/17/FakeFeather-DP11-EN-C-1E.jpg"

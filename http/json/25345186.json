@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 25345186,
-        "pack_id": "MA-38",
         "pack": "Mythological Age",
-        "rarity": "After the Struggle",
+        "pack_id": "MA-38",
         "date": "2001-11-29"
     },
     "tcg": {
-        "id": 25345186,
-        "pack_id": "LOD-086",
         "pack": "Legacy of Darkness",
-        "rarity": "After the Struggle",
+        "pack_id": "LOD-086",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8d/AftertheStruggle-DB2-EN-C-UE.jpg"

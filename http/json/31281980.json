@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 31281980,
-        "pack_id": "CSOC-JP001",
         "pack": "Crossroads of Chaos",
-        "rarity": "Healing Wave Generator",
+        "pack_id": "CSOC-JP001",
         "date": "2008-07-19"
     },
     "tcg": {
-        "id": 31281980,
-        "pack_id": "CSOC-EN001",
         "pack": "Crossroads of Chaos",
-        "rarity": "Healing Wave Generator",
+        "pack_id": "CSOC-EN001",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/80/HealingWaveGenerator-CSOC-EN-C-1E.png"

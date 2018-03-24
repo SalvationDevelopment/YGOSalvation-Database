@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 78266168,
-        "pack_id": "PH-23",
         "pack": "Pharaonic Guardian",
-        "rarity": "共通",
+        "pack_id": "PH-23",
         "date": "2002-03-21"
     },
     "tcg": {
-        "id": 78266168,
-        "pack_id": "PGD-023",
         "pack": "Pharaonic Guardian",
-        "rarity": "Common",
+        "pack_id": "PGD-023",
         "date": "2003-07-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/75/GiantAxeMummy-DB2-EN-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 37792478,
-        "pack_id": "EXP3-JP027",
         "pack": "Extra Pack Volume 3",
-        "rarity": "Metabo-Shark",
+        "pack_id": "EXP3-JP027",
         "date": "2010-09-18"
     },
     "tcg": {
-        "id": 37792478,
-        "pack_id": "SOVR-DE086",
         "pack": "Stardust Overdrive",
-        "rarity": "Metabo-Shark",
+        "pack_id": "SOVR-DE086",
         "date": "2009-11-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f9/MetaboShark-BP03-EN-R-1E.png"

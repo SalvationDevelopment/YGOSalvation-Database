@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 69162969,
-        "pack_id": "FET-JP040",
         "pack": "Flaming Eternity",
-        "rarity": "Lightning Vortex",
+        "pack_id": "FET-JP040",
         "date": "2004-11-25"
     },
     "tcg": {
-        "id": 69162969,
-        "pack_id": "FET-EN040",
         "pack": "Flaming Eternity",
-        "rarity": "Lightning Vortex",
+        "pack_id": "FET-EN040",
         "date": "2005-02-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/LightningVortex-YS16-EN-C-1E.png"

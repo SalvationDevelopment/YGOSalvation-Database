@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80344569,
-        "pack_id": "STON-JP005",
         "pack": "Strike of Neos",
-        "rarity": "Neo-Spacian Grand Mole",
+        "pack_id": "STON-JP005",
         "date": "2006-11-16"
     },
     "tcg": {
-        "id": 80344569,
-        "pack_id": "STON-FR005",
         "pack": "Strike of Neos",
-        "rarity": "Neo-Spacian Grand Mole",
+        "pack_id": "STON-FR005",
         "date": "2007-02-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/91/NeoSpacianGrandMole-DUSA-EN-UR-1E.png"

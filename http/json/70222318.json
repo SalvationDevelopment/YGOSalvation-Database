@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 70222318,
-        "pack_id": "LVAL-JP063",
         "pack": "Legacy of the Valiant",
-        "rarity": "Mount Sylvania",
+        "pack_id": "LVAL-JP063",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 70222318,
-        "pack_id": "LVAL-DE063",
         "pack": "Legacy of the Valiant",
-        "rarity": "Mount Sylvania",
+        "pack_id": "LVAL-DE063",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8d/MountSylvania-MP14-EN-SR-1E.png"

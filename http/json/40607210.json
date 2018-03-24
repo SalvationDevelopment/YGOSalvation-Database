@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 40607210,
-        "pack_id": "SHSP-JP031",
         "pack": "Shadow Specters",
-        "rarity": "Vampire Grace",
+        "pack_id": "SHSP-JP031",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 40607210,
-        "pack_id": "SHSP-DE031",
         "pack": "Shadow Specters",
-        "rarity": "Vampire Grace",
+        "pack_id": "SHSP-DE031",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a6/VampireGrace-MP14-EN-C-1E.png"

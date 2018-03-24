@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 74854609,
-        "pack_id": "GAOV-JP073",
         "pack": "Galactic Overlord",
-        "rarity": "Zekt Conversion",
+        "pack_id": "GAOV-JP073",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 74854609,
-        "pack_id": "GAOV-EN073",
         "pack": "Galactic Overlord",
-        "rarity": "Zekt Conversion",
+        "pack_id": "GAOV-EN073",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d2/ZektConversion-GAOV-EN-UR-1E.png"

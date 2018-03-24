@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 31987274,
-        "pack_id": "SM-06",
         "pack": "Spell of Mask",
-        "rarity": "Flying Fish",
+        "pack_id": "SM-06",
         "date": "2001-04-19"
     },
     "tcg": {
-        "id": 31987274,
-        "pack_id": "LON-007",
         "pack": "Labyrinth of Nightmare",
-        "rarity": "Flying Fish",
+        "pack_id": "LON-007",
         "date": "2003-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/da/FlyingFish-LON-EN-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 10080320,
-        "pack_id": "SD09-JP019",
         "pack": "Structure Deck: Dinosaur's Rage",
-        "rarity": "Jurassic World",
+        "pack_id": "SD09-JP019",
         "date": "2006-06-22"
     },
     "tcg": {
-        "id": 10080320,
-        "pack_id": "SD09-DE019",
         "pack": "Structure Deck: Dinosaur's Rage",
-        "rarity": "Jurassic World",
+        "pack_id": "SD09-DE019",
         "date": "2006-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c2/JurassicWorld-LCJW-EN-C-1E.png"

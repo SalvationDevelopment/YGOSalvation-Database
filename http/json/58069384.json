@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58069384,
-        "pack_id": "SD26-JP038",
         "pack": "Structure Deck: Blitzkrieg of the Mechlight Dragons",
-        "rarity": "Cyber Dragon Nova",
+        "pack_id": "SD26-JP038",
         "date": "2013-12-07"
     },
     "tcg": {
-        "id": 58069384,
-        "pack_id": "SDCR-DE038",
         "pack": "Cyber Dragon Revolution Structure Deck",
-        "rarity": "Cyber Dragon Nova",
+        "pack_id": "SDCR-DE038",
         "date": "2014-02-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ab/CyberDragonNova-LEDD-EN-C-1E.png"

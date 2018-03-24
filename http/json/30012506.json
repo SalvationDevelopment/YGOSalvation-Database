@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 30012506,
-        "pack_id": "SDKS-JP001",
         "pack": "Structure Deck: Seto Kaiba",
-        "rarity": "A-Assault Core",
+        "pack_id": "SDKS-JP001",
         "date": "2016-06-18"
     },
     "tcg": {
-        "id": 30012506,
-        "pack_id": "SDKS-DE001",
         "pack": "Structure Deck: Seto Kaiba",
-        "rarity": "A-Assault Core",
+        "pack_id": "SDKS-DE001",
         "date": "2016-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/de/AAssaultCore-LCKC-EN-ScR-1E.png"

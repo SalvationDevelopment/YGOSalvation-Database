@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 59644958,
-        "pack_id": "GAOV-JP003",
         "pack": "Galactic Overlord",
-        "rarity": "Overlay Owl",
+        "pack_id": "GAOV-JP003",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 59644958,
-        "pack_id": "GAOV-EN003",
         "pack": "Galactic Overlord",
-        "rarity": "Overlay Owl",
+        "pack_id": "GAOV-EN003",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/OverlayOwl-GAOV-EN-C-1E.png"

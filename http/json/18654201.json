@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 18654201,
-        "pack_id": "TLM-JP013",
         "pack": "The Lost Millennium",
-        "rarity": "Criosphinx",
+        "pack_id": "TLM-JP013",
         "date": "2005-02-24"
     },
     "tcg": {
-        "id": 18654201,
-        "pack_id": "TLM-EN013",
         "pack": "The Lost Millennium",
-        "rarity": "Criosphinx",
+        "pack_id": "TLM-EN013",
         "date": "2005-05-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0d/Criosphinx-DR3-EN-R-UE.png"

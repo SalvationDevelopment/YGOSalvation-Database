@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 23693634,
-        "pack_id": "YSD3-JP043",
         "pack": "Starter Deck 2008",
-        "rarity": "Colossal Fighter",
+        "pack_id": "YSD3-JP043",
         "date": "2008-03-15"
     },
     "tcg": {
-        "id": 23693634,
-        "pack_id": "5DS1-DE043",
         "pack": "Starter Deck: Yu-Gi-Oh! 5D's",
-        "rarity": "Colossal Fighter",
+        "pack_id": "5DS1-DE043",
         "date": "2008-08-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ce/ColossalFighter-LC5D-EN-ScR-1E.png"

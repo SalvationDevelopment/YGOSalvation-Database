@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 32339440,
-        "pack_id": "JOTL-JP016",
         "pack": "Judgment of the Light",
-        "rarity": "Bujin Yamato",
+        "pack_id": "JOTL-JP016",
         "date": "2013-04-20"
     },
     "tcg": {
-        "id": 32339440,
-        "pack_id": "JOTL-DE016",
         "pack": "Judgment of the Light",
-        "rarity": "Bujin Yamato",
+        "pack_id": "JOTL-DE016",
         "date": "2013-08-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d2/BujinYamato-PGL2-EN-GUR-1E.png"

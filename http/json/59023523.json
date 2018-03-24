@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 59023523,
-        "pack_id": "CRV-JP016",
         "pack": "Cybernetic Revolution",
-        "rarity": "Cybernetic Magician",
+        "pack_id": "CRV-JP016",
         "date": "2005-05-26"
     },
     "tcg": {
-        "id": 59023523,
-        "pack_id": "CRV-DE016",
         "pack": "Cybernetic Revolution",
-        "rarity": "Cybernetic Magician",
+        "pack_id": "CRV-DE016",
         "date": "2005-08-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fc/CyberneticMagician-BP01-EN-C-1E.png"

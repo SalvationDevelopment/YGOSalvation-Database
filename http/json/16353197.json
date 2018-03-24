@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 16353197,
-        "pack_id": "",
         "pack": "Vol.3",
-        "rarity": "Drooling Lizard",
+        "pack_id": "",
         "date": "1999-05-27"
     },
     "tcg": {
-        "id": 16353197,
-        "pack_id": "LOB-115",
         "pack": "Legend of Blue Eyes White Dragon",
-        "rarity": "Drooling Lizard",
+        "pack_id": "LOB-115",
         "date": "2002-03-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2b/DroolingLizard-LOB-NA-C-UE.png"

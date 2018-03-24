@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 75304793,
-        "pack_id": "SECE-JP090",
         "pack": "Secrets of Eternity",
-        "rarity": "Symph Amplifire",
+        "pack_id": "SECE-JP090",
         "date": "2014-11-15"
     },
     "tcg": {
-        "id": 75304793,
-        "pack_id": "RATE-DE092",
         "pack": "Raging Tempest",
-        "rarity": "Symph Amplifire",
+        "pack_id": "RATE-DE092",
         "date": "2017-02-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f1/SymphAmplifire-MP17-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 37829468,
-        "pack_id": "EXP2-JP025",
         "pack": "Extra Pack Volume 2",
-        "rarity": "Rai-Jin",
+        "pack_id": "EXP2-JP025",
         "date": "2009-09-19"
     },
     "tcg": {
-        "id": 37829468,
-        "pack_id": "CSOC-EN084",
         "pack": "Crossroads of Chaos",
-        "rarity": "Rai-Jin",
+        "pack_id": "CSOC-EN084",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/96/RaiJin-CSOC-EN-SR-UE.png"

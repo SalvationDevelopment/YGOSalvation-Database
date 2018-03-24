@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 60534585,
-        "pack_id": "DREV-JP064",
         "pack": "Duelist Revolution",
-        "rarity": "Battle Instinct",
+        "pack_id": "DREV-JP064",
         "date": "2010-04-17"
     },
     "tcg": {
-        "id": 60534585,
-        "pack_id": "DREV-EN064",
         "pack": "Duelist Revolution",
-        "rarity": "Battle Instinct",
+        "pack_id": "DREV-EN064",
         "date": "2010-08-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/80/BattleInstinct-DREV-EN-C-1E.jpg"

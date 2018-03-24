@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Junk Connector",
-    "desc": "2 Warrior and/or Machine Effect Monsters, including at least 1 Tuner\r\nOnce per turn, during the Main Phase or Battle Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon 1 Synchro Monster using only monsters this card points to. If this Link Summoned card is destroyed by battle and sent to the GY, or if this Link Summoned card you control is destroyed by an opponent's card effect and sent to your GY: You can Special Summon 1 \"Junk\" Synchro Monster from your Extra Deck. (This is treated as a Synchro Summon.)",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 Warrior and/or Machine Effect Monsters, including at least 1 Tuner\nOnce per turn, during the Main Phase or Battle Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon 1 Synchro Monster using only monsters this card points to. If this Link Summoned card is destroyed by battle and sent to the GY, or if this Link Summoned card you control is destroyed by an opponent's card effect and sent to your GY: You can Special Summon 1 \"Junk\" Synchro Monster from your Extra Deck. (This is treated as a Synchro Summon.)",
     "str1": "Synchro Summon",
     "str2": "Special Summon 1 \"Junk\" Synchro Monster",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Premium Pack 20",
+        "pack_id": "PP20-JP003",
+        "date": "2018-03-10"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e6/JunkConnector-PP20-JP-C.png"
 }

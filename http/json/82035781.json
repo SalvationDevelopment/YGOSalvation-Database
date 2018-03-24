@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 82035781,
-        "pack_id": "EX3-003",
         "pack": "Duel Monsters Expert 3 Promos",
-        "rarity": "Twinheaded Beast",
+        "pack_id": "EX3-003",
         "date": "2004-02-05"
     },
     "tcg": {
-        "id": 82035781,
-        "pack_id": "DBT-EN003",
         "pack": "Yu-Gi-Oh! Destiny Board Traveler Bundles",
-        "rarity": "Twinheaded Beast",
+        "pack_id": "DBT-EN003",
         "date": "2004-10-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f5/TwinheadedBeast-DBT-EN-SR-UE.png"

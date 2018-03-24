@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53251824,
-        "pack_id": "SECE-JP011",
         "pack": "Secrets of Eternity",
-        "rarity": "Raidraptor - Vanishing Lanius",
+        "pack_id": "SECE-JP011",
         "date": "2014-11-15"
     },
     "tcg": {
-        "id": 53251824,
-        "pack_id": "SECE-DE011",
         "pack": "Secrets of Eternity",
-        "rarity": "Raidraptor - Vanishing Lanius",
+        "pack_id": "SECE-DE011",
         "date": "2015-01-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/RaidraptorVanishingLanius-WIRA-EN-C-1E.png"

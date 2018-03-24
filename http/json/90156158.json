@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 90156158,
-        "pack_id": "DT14-JP045",
         "pack": "Duel Terminal - Ouroboros, Wicked Dragon of Destruction!!",
-        "rarity": "Constellar Star Cradle",
+        "pack_id": "DT14-JP045",
         "date": "2012-01-24"
     },
     "tcg": {
-        "id": 90156158,
-        "pack_id": "DT07-EN095",
         "pack": "Duel Terminal 7b",
-        "rarity": "Constellar Star Cradle",
+        "pack_id": "DT07-EN095",
         "date": "2013-02-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/62/ConstellarStarCradle-HA07-EN-SR-1E.png"

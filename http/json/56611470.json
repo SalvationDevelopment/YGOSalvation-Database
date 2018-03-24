@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 56611470,
-        "pack_id": "PRIO-JP061",
         "pack": "Primal Origin",
-        "rarity": "Artifacts Unleashed",
+        "pack_id": "PRIO-JP061",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 56611470,
-        "pack_id": "PRIO-DE061",
         "pack": "Primal Origin",
-        "rarity": "Artifacts Unleashed",
+        "pack_id": "PRIO-DE061",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1c/ArtifactsUnleashed-MP15-EN-C-1E.png"

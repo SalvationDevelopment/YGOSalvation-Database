@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 92723496,
-        "pack_id": "DOCS-JP037",
         "pack": "Dimension of Chaos",
-        "rarity": "Giant Pairfish",
+        "pack_id": "DOCS-JP037",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 92723496,
-        "pack_id": "DOCS-DE037",
         "pack": "Dimension of Chaos",
-        "rarity": "Giant Pairfish",
+        "pack_id": "DOCS-DE037",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c6/GiantPairfish-DOCS-EN-R-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 35073065,
-        "pack_id": "REDU-JP037",
         "pack": "Return of the Duelist",
-        "rarity": "Illusory Snatcher",
+        "pack_id": "REDU-JP037",
         "date": "2012-04-14"
     },
     "tcg": {
-        "id": 35073065,
-        "pack_id": "REDU-EN037",
         "pack": "Return of the Duelist",
-        "rarity": "Illusory Snatcher",
+        "pack_id": "REDU-EN037",
         "date": "2012-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/90/IllusorySnatcher-SR01-EN-C-1E.png"

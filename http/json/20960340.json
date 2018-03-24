@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 20960340,
-        "pack_id": "MVP1-JP011",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Krystal Avatar",
+        "pack_id": "MVP1-JP011",
         "date": "2016-04-23"
     },
     "tcg": {
-        "id": 20960340,
-        "pack_id": "MVP1-DE011",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Krystal Avatar",
+        "pack_id": "MVP1-DE011",
         "date": "2016-07-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/61/KrystalAvatar-MVP1-EN-GUR-1E.png"

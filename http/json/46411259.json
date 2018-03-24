@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 46411259,
-        "pack_id": "301-038",
         "pack": "The New Ruler",
-        "rarity": "Metamorphosis",
+        "pack_id": "301-038",
         "date": "2002-05-16"
     },
     "tcg": {
-        "id": 46411259,
-        "pack_id": "PGD-090",
         "pack": "Pharaonic Guardian",
-        "rarity": "Metamorphosis",
+        "pack_id": "PGD-090",
         "date": "2003-07-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cb/Metamorphosis-CP01-EN-SR-UE.jpg"

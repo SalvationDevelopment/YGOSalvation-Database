@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63060238,
-        "pack_id": "NECH-JP087",
         "pack": "The New Challengers",
-        "rarity": "Elemental HERO Blazeman",
+        "pack_id": "NECH-JP087",
         "date": "2014-07-19"
     },
     "tcg": {
-        "id": 63060238,
-        "pack_id": "WSUP-DE032",
         "pack": "World Superstars",
-        "rarity": "Elemental HERO Blazeman",
+        "pack_id": "WSUP-DE032",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7f/ElementalHEROBlazeman-WSUP-EN-PScR-1E.png"

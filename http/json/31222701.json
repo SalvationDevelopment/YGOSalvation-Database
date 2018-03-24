@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 31222701,
-        "pack_id": "CORE-JP066",
         "pack": "Clash of Rebellions",
-        "rarity": "Wavering Eyes",
+        "pack_id": "CORE-JP066",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 31222701,
-        "pack_id": "CROS-DEAE3",
         "pack": "Crossed Souls: Advance Edition",
-        "rarity": "Wavering Eyes",
+        "pack_id": "CROS-DEAE3",
         "date": "2015-07-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/be/WaveringEyes-CORE-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 95727991,
-        "pack_id": "",
         "pack": "Vol.7",
-        "rarity": "Catapult Turtle",
+        "pack_id": "",
         "date": "2000-01-27"
     },
     "tcg": {
-        "id": 95727991,
-        "pack_id": "MRD-075",
         "pack": "Metal Raiders",
-        "rarity": "Catapult Turtle",
+        "pack_id": "MRD-075",
         "date": "2002-06-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/CatapultTurtle-YGLD-EN-C-1E.png"

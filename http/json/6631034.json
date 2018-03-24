@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 6631034,
-        "pack_id": "STON-JP002",
         "pack": "Strike of Neos",
-        "rarity": "Frostosaurus",
+        "pack_id": "STON-JP002",
         "date": "2006-11-16"
     },
     "tcg": {
-        "id": 6631034,
-        "pack_id": "STON-FR002",
         "pack": "Strike of Neos",
-        "rarity": "Frostosaurus",
+        "pack_id": "STON-FR002",
         "date": "2007-02-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c1/Frostosaurus-BP02-EN-R-1E.png"

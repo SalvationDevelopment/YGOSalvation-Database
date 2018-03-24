@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45045866,
-        "pack_id": "EXP1-JP004",
         "pack": "Extra Pack",
-        "rarity": "Ocean's Keeper",
+        "pack_id": "EXP1-JP004",
         "date": "2008-09-13"
     },
     "tcg": {
-        "id": 45045866,
-        "pack_id": "TAEV-FR081",
         "pack": "Tactical Evolution",
-        "rarity": "Ocean's Keeper",
+        "pack_id": "TAEV-FR081",
         "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/99/OceansKeeper-TAEV-EN-R-1E.jpg"

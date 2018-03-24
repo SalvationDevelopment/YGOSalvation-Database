@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 30585393,
-        "pack_id": "ST13-JP031",
         "pack": "Starter Deck 2013",
-        "rarity": "Puzzle Reborn",
+        "pack_id": "ST13-JP031",
         "date": "2013-03-16"
     },
     "tcg": {
-        "id": 30585393,
-        "pack_id": "YS13-DE031",
         "pack": "Super Starter: V for Victory",
-        "rarity": "Puzzle Reborn",
+        "pack_id": "YS13-DE031",
         "date": "2013-06-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/04/PuzzleReborn-YS13-EN-C-1E.png"

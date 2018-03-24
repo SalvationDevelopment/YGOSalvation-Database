@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 52068432,
-        "pack_id": "SPTR-JP015",
         "pack": "Booster SP: Tribe Force",
-        "rarity": "Nekroz of Trishula",
+        "pack_id": "SPTR-JP015",
         "date": "2014-10-11"
     },
     "tcg": {
-        "id": 52068432,
-        "pack_id": "THSF-DE015",
         "pack": "The Secret Forces",
-        "rarity": "Nekroz of Trishula",
+        "pack_id": "THSF-DE015",
         "date": "2015-02-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6a/NekrozofTrishula-THSF-EN-ScR-1E.png"

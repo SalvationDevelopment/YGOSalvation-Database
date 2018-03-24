@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 96363153,
-        "pack_id": "STBL-JP045",
         "pack": "Starstrike Blast",
-        "rarity": "Tuning",
+        "pack_id": "STBL-JP045",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 96363153,
-        "pack_id": "STBL-EN045",
         "pack": "Starstrike Blast",
-        "rarity": "Tuning",
+        "pack_id": "STBL-EN045",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/75/Tuning-SDSE-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 7811875,
-        "pack_id": "STBL-JP067",
         "pack": "Starstrike Blast",
-        "rarity": "Gravity Collapse",
+        "pack_id": "STBL-JP067",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 7811875,
-        "pack_id": "STBL-EN067",
         "pack": "Starstrike Blast",
-        "rarity": "Gravity Collapse",
+        "pack_id": "STBL-EN067",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bc/GravityCollapse-STBL-EN-R-1E.png"

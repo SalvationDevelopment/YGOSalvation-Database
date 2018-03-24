@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 69750536,
-        "pack_id": "",
         "pack": "Booster 2",
-        "rarity": "Wow Warrior",
+        "pack_id": "",
         "date": "1999-05-25"
     },
     "tcg": {
-        "id": 69750536,
-        "pack_id": "TP1-021",
         "pack": "Tournament Pack: 1st Season",
-        "rarity": "Wow Warrior",
+        "pack_id": "TP1-021",
         "date": "2002-09-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bc/WowWarrior-TP1-NA-C-UE.jpg"

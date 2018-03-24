@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 44676200,
-        "pack_id": "EEN-JP049",
         "pack": "Elemental Energy",
-        "rarity": "Hero Barrier",
+        "pack_id": "EEN-JP049",
         "date": "2005-08-11"
     },
     "tcg": {
-        "id": 44676200,
-        "pack_id": "EEN-DE049",
         "pack": "Elemental Energy",
-        "rarity": "Hero Barrier",
+        "pack_id": "EEN-DE049",
         "date": "2005-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7d/HeroBarrier-LCGX-EN-C-1E.png"

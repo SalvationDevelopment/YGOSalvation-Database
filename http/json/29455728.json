@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 29455728,
-        "pack_id": "ORCS-JP039",
         "pack": "Order of Chaos",
-        "rarity": "Twin Photon Lizard",
+        "pack_id": "ORCS-JP039",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 29455728,
-        "pack_id": "ORCS-EN039",
         "pack": "Order of Chaos",
-        "rarity": "Twin Photon Lizard",
+        "pack_id": "ORCS-EN039",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c0/TwinPhotonLizard-SP14-EN-C-1E.png"

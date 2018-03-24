@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 16111820,
-        "pack_id": "DT07-JP028",
         "pack": "Duel Terminal - Charge of the Genex!!",
-        "rarity": "Jurrac Herra",
+        "pack_id": "DT07-JP028",
         "date": "2009-10-01"
     },
     "tcg": {
-        "id": 16111820,
-        "pack_id": "DT04-EN028",
         "pack": "Duel Terminal 4",
-        "rarity": "Jurrac Herra",
+        "pack_id": "DT04-EN028",
         "date": "2011-01-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/66/JurracHerra-HA04-EN-SR-1E.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 93969023,
-        "pack_id": "CORE-JP022",
         "pack": "Clash of Rebellions",
-        "rarity": "Black Metal Dragon",
+        "pack_id": "CORE-JP022",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 93969023,
-        "pack_id": "CORE-DE022",
         "pack": "Clash of Rebellions",
-        "rarity": "Black Metal Dragon",
+        "pack_id": "CORE-DE022",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/02/BlackMetalDragon-OP06-EN-SR-UE.png"

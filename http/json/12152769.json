@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12152769,
-        "pack_id": "NECH-JP044",
         "pack": "The New Challengers",
-        "rarity": "Scrounging Goblin",
+        "pack_id": "NECH-JP044",
         "date": "2014-07-19"
     },
     "tcg": {
-        "id": 12152769,
-        "pack_id": "NECH-DE044",
         "pack": "The New Challengers",
-        "rarity": "Scrounging Goblin",
+        "pack_id": "NECH-DE044",
         "date": "2014-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/db/ScroungingGoblin-NECH-EN-SP-1E.png"

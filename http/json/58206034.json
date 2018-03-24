@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58206034,
-        "pack_id": "CDIP-JP011",
         "pack": "Cyberdark Impact",
-        "rarity": "Dark Lucius LV8",
+        "pack_id": "CDIP-JP011",
         "date": "2006-08-10"
     },
     "tcg": {
-        "id": 58206034,
-        "pack_id": "CDIP-FR011",
         "pack": "Cyberdark Impact",
-        "rarity": "Dark Lucius LV8",
+        "pack_id": "CDIP-FR011",
         "date": "2006-11-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/DarkLuciusLV8-CDIP-EN-UR-1E.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 29343734,
-        "pack_id": "PP9-JP001",
         "pack": "Premium Pack 9",
-        "rarity": "Elemental HERO Electrum",
+        "pack_id": "PP9-JP001",
         "date": "2005-12-17"
     },
     "tcg": {
-        "id": 29343734,
-        "pack_id": "MDP2-EN001",
         "pack": "McDonald's Promotional Cards 2",
-        "rarity": "Elemental HERO Electrum",
+        "pack_id": "MDP2-EN001",
         "date": "2006-12-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/74/ElementalHEROElectrum-RYMP-EN-C-1E.jpg"

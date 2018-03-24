@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 43730887,
-        "pack_id": "MP01-JP003",
         "pack": "Millennium Pack (OCG)",
-        "rarity": "Holding Arms",
+        "pack_id": "MP01-JP003",
         "date": "2015-12-19"
     },
     "tcg": {
-        "id": 43730887,
-        "pack_id": "MIL1-DE003",
         "pack": "Millennium Pack",
-        "rarity": "Holding Arms",
+        "pack_id": "MIL1-DE003",
         "date": "2016-04-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4c/HoldingArms-MIL1-EN-SR-1E.png"

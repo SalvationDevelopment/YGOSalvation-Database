@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 69579761,
-        "pack_id": "303-023",
         "pack": "Champion of Black Magic",
-        "rarity": "Des Koala",
+        "pack_id": "303-023",
         "date": "2002-09-19"
     },
     "tcg": {
-        "id": 69579761,
-        "pack_id": "MFC-077",
         "pack": "Magician's Force",
-        "rarity": "Des Koala",
+        "pack_id": "MFC-077",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/54/DesKoala-DEM1-EN-C-UE.png"

@@ -33,16 +33,14 @@
     ],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 98978921,
-        "pack_id": "ST17-JP043",
         "pack": "Starter Deck 2017",
-        "rarity": "Link Spider",
+        "pack_id": "ST17-JP043",
         "date": "2017-03-25"
     },
     "tcg": {
-        "date": "2017-07-20",
         "pack": "Starter Deck: Link Strike",
-        "pack_id": "YS17-DE043"
+        "pack_id": "YS17-DE043",
+        "date": "2017-07-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e0/LinkSpider-YS17-EN-SR-1E.png"
 }

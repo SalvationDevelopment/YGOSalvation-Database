@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 40583194,
-        "pack_id": "EXVC-JP006",
         "pack": "Extreme Victory",
-        "rarity": "Force Resonator",
+        "pack_id": "EXVC-JP006",
         "date": "2011-02-11"
     },
     "tcg": {
-        "id": 40583194,
-        "pack_id": "EXVC-EN006",
         "pack": "Extreme Victory",
-        "rarity": "Force Resonator",
+        "pack_id": "EXVC-EN006",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/43/ForceResonator-LC5D-EN-C-1E.png"

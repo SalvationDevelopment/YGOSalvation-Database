@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 43405287,
-        "pack_id": "POTD-JP050",
         "pack": "Power of the Duelist",
-        "rarity": "D - Chain",
+        "pack_id": "POTD-JP050",
         "date": "2006-05-18"
     },
     "tcg": {
-        "id": 43405287,
-        "pack_id": "POTD-DE050",
         "pack": "Power of the Duelist",
-        "rarity": "D - Chain",
+        "pack_id": "POTD-DE050",
         "date": "2006-08-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f1/DChain-LCGX-EN-C-1E.png"

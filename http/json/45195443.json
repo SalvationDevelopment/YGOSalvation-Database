@@ -2,7 +2,7 @@
     "id": 45195443,
     "ot": 1,
     "alias": 0,
-    "setcode": 12296,
+    "setcode": 536584,
     "type": 33,
     "atk": 1300,
     "def": 1100,
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "V Jump March 2018 promotional card",
+        "pack_id": "VJMP-JP142",
+        "date": "2018-01-20"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/92/ElementalHEROSolidman-VJMP-JP-UR.png"
 }

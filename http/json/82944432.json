@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 82944432,
-        "pack_id": "ORCS-JP041",
         "pack": "Order of Chaos",
-        "rarity": "Blade Armor Ninja",
+        "pack_id": "ORCS-JP041",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 82944432,
-        "pack_id": "ORCS-EN041",
         "pack": "Order of Chaos",
-        "rarity": "Blade Armor Ninja",
+        "pack_id": "ORCS-EN041",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/92/BladeArmorNinja-CBLZ-EN-SR-LE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 97904474,
-        "pack_id": "TDGS-JP013",
         "pack": "The Duelist Genesis",
-        "rarity": "Handcuffs Dragon",
+        "pack_id": "TDGS-JP013",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 97904474,
-        "pack_id": "TDGS-EN013",
         "pack": "The Duelist Genesis",
-        "rarity": "Handcuffs Dragon",
+        "pack_id": "TDGS-EN013",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/HandcuffsDragon-TDGS-EN-R-1E.png"

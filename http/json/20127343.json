@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 20127343,
-        "pack_id": "DT07-JP013",
         "pack": "Duel Terminal - Charge of the Genex!!",
-        "rarity": "Genex Ally Changer",
+        "pack_id": "DT07-JP013",
         "date": "2009-10-01"
     },
     "tcg": {
-        "id": 20127343,
-        "pack_id": "DT04-EN013",
         "pack": "Duel Terminal 4",
-        "rarity": "Genex Ally Changer",
+        "pack_id": "DT04-EN013",
         "date": "2011-01-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/64/GenexAllyChanger-HA04-EN-SR-1E.jpg"

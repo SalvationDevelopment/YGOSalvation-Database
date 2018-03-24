@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 71060915,
-        "pack_id": "EEN-JP058",
         "pack": "Elemental Energy",
-        "rarity": "Feather Wind",
+        "pack_id": "EEN-JP058",
         "date": "2005-08-11"
     },
     "tcg": {
-        "id": 71060915,
-        "pack_id": "EEN-DE058",
         "pack": "Elemental Energy",
-        "rarity": "Feather Wind",
+        "pack_id": "EEN-DE058",
         "date": "2005-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/FeatherWind-LCGX-EN-C-1E.png"

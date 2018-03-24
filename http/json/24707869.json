@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 24707869,
-        "pack_id": "GENF-JP070",
         "pack": "Generation Force",
-        "rarity": "Bright Future",
+        "pack_id": "GENF-JP070",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 24707869,
-        "pack_id": "GENF-EN070",
         "pack": "Generation Force",
-        "rarity": "Bright Future",
+        "pack_id": "GENF-EN070",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/79/BrightFuture-GENF-EN-R-1E.jpg"

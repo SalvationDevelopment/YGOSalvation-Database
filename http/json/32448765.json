@@ -34,16 +34,14 @@
     ],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 32448765,
-        "pack_id": "COTD-JP044",
         "pack": "Code of the Duelist",
-        "rarity": "Trickstar Holly Angel",
+        "pack_id": "COTD-JP044",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE044"
+        "pack_id": "COTD-DE044",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ae/TrickstarHollyAngel-COTD-EN-UR-1E.png"
 }

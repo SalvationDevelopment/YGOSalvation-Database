@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64952266,
-        "pack_id": "RGBT-JP050",
         "pack": "Raging Battle",
-        "rarity": "Against the Wind",
+        "pack_id": "RGBT-JP050",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 64952266,
-        "pack_id": "RGBT-EN050",
         "pack": "Raging Battle",
-        "rarity": "Against the Wind",
+        "pack_id": "RGBT-EN050",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7e/AgainsttheWind-DP11-EN-C-1E.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 33695750,
-        "pack_id": "YDB1-JP003",
         "pack": "Yu-Gi-Oh! GX Card Almanac promotional cards",
-        "rarity": "Des Mosquito",
+        "pack_id": "YDB1-JP003",
         "date": "2007-08-09"
     },
     "tcg": {
-        "id": 33695750,
-        "pack_id": "YDB1-DE003",
         "pack": "Yu-Gi-Oh! GX Card Almanac promotional cards",
-        "rarity": "Des Mosquito",
+        "pack_id": "YDB1-DE003",
         "date": "2007-11-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3d/DesMosquito-YSKR-EN-C-1E.png"

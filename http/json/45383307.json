@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45383307,
-        "pack_id": "TDIL-JP063",
         "pack": "The Dark Illusion",
-        "rarity": "Triamid Cruiser",
+        "pack_id": "TDIL-JP063",
         "date": "2016-04-09"
     },
     "tcg": {
-        "id": 45383307,
-        "pack_id": "TDIL-DE063",
         "pack": "The Dark Illusion",
-        "rarity": "Triamid Cruiser",
+        "pack_id": "TDIL-DE063",
         "date": "2016-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f3/TriamidCruiser-TDIL-EN-R-1E.png"

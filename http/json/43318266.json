@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 43318266,
-        "pack_id": "GLAS-JP011",
         "pack": "Gladiator's Assault",
-        "rarity": "Cloudian - Cirrostratus",
+        "pack_id": "GLAS-JP011",
         "date": "2007-07-21"
     },
     "tcg": {
-        "id": 43318266,
-        "pack_id": "GLAS-IT011",
         "pack": "Gladiator's Assault",
-        "rarity": "Cloudian - Cirrostratus",
+        "pack_id": "GLAS-IT011",
         "date": "2007-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/56/CloudianCirrostratus-GLAS-EN-R-1E.png"

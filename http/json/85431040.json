@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 85431040,
-        "pack_id": "RGBT-JP009",
         "pack": "Raging Battle",
-        "rarity": "Evil Thorn",
+        "pack_id": "RGBT-JP009",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 85431040,
-        "pack_id": "RGBT-EN009",
         "pack": "Raging Battle",
-        "rarity": "Evil Thorn",
+        "pack_id": "RGBT-EN009",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1a/EvilThorn-LC5D-EN-C-1E.png"

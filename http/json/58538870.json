@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58538870,
-        "pack_id": "302-002",
         "pack": "Advent of Union",
-        "rarity": "Oppressed People",
+        "pack_id": "302-002",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 58538870,
-        "pack_id": "MFC-002",
         "pack": "Magician's Force",
-        "rarity": "Oppressed People",
+        "pack_id": "MFC-002",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4c/OppressedPeople-DR1-EN-C-UE.png"

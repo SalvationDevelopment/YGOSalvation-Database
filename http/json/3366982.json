@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 3366982,
-        "pack_id": "G4-16",
         "pack": "Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist: Jonouchi Deck promotional cards",
-        "rarity": "Alligator's Sword Dragon",
+        "pack_id": "G4-16",
         "date": "2000-12-07"
     },
     "tcg": {
-        "id": 3366982,
-        "pack_id": "WCPP-EN019",
         "pack": "World Championship 2010 Card Pack",
-        "rarity": "Alligator's Sword Dragon",
+        "pack_id": "WCPP-EN019",
         "date": "2010-08-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/22/AlligatorsSwordDragon-LDK2-EN-C-1E.png"

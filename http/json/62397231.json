@@ -31,18 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 62397231,
-        "pack_id": "PS-24",
         "pack": "Pharaoh's Servant",
-        "rarity": "Hyozanryu",
+        "pack_id": "PS-24",
         "date": "2000-07-13"
     },
-    "tcg": {
-        "id": 62397231,
-        "pack_id": "MRL-075",
-        "pack": "MRL",
-        "rarity": "Hyozanryu",
-        "date": "2002-09-16"
-    },
+    "tcg": {},
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f9/Hyozanryu-DLG1-NA-C-UE.png"
 }

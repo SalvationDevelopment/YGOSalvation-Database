@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 24413299,
-        "pack_id": "CPF1-JP010",
         "pack": "Collectors Pack: Duelist of Flash Version",
-        "rarity": "The Suppression Pluto",
+        "pack_id": "CPF1-JP010",
         "date": "2016-05-14"
     },
     "tcg": {
-        "id": 24413299,
-        "pack_id": "DRL3-DE010",
         "pack": "Dragons of Legend: Unleashed",
-        "rarity": "The Suppression Pluto",
+        "pack_id": "DRL3-DE010",
         "date": "2016-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e6/TheSuppressionPluto-DRL3-EN-ScR-1E.png"

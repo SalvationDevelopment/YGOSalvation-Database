@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 46955770,
-        "pack_id": "EP14-JP025",
         "pack": "Extra Pack: Knights of Order",
-        "rarity": "Gravekeeper's Heretic",
+        "pack_id": "EP14-JP025",
         "date": "2014-09-13"
     },
     "tcg": {
-        "id": 46955770,
-        "pack_id": "LVAL-DE084",
         "pack": "Legacy of the Valiant",
-        "rarity": "Gravekeeper's Heretic",
+        "pack_id": "LVAL-DE084",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f7/GravekeepersHeretic-MP14-EN-R-1E.png"

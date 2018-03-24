@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 96890582,
-        "pack_id": "PS-31",
         "pack": "Pharaoh's Servant",
-        "rarity": "Flash Assailant",
+        "pack_id": "PS-31",
         "date": "2000-07-13"
     },
     "tcg": {
-        "id": 96890582,
-        "pack_id": "DB1-EN048",
         "pack": "Dark Beginning 1",
-        "rarity": "Flash Assailant",
+        "pack_id": "DB1-EN048",
         "date": "2004-10-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d3/FlashAssailant-DB1-EN-C-UE.jpg"

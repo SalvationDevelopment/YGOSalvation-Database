@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 13210191,
-        "pack_id": "GAOV-JP065",
         "pack": "Galactic Overlord",
-        "rarity": "Storm",
+        "pack_id": "GAOV-JP065",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 13210191,
-        "pack_id": "GAOV-EN065",
         "pack": "Galactic Overlord",
-        "rarity": "Storm",
+        "pack_id": "GAOV-EN065",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/77/Storm-AP07-EN-C-UE.png"

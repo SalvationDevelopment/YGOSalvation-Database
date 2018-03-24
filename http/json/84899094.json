@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 84899094,
-        "pack_id": "COTD-JP021",
         "pack": "Code of the Duelist",
-        "rarity": "Stargrail's Protector Dragon",
+        "pack_id": "COTD-JP021",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE021"
+        "pack_id": "COTD-DE021",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c9/WorldChaliceGuardragon-COTD-EN-UR-1E.png"
 }

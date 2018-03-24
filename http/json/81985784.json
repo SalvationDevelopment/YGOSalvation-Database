@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81985784,
-        "pack_id": "304-014",
         "pack": "Power of the Guardian",
-        "rarity": "Des Feral Imp",
+        "pack_id": "304-014",
         "date": "2002-11-21"
     },
     "tcg": {
-        "id": 81985784,
-        "pack_id": "DCR-014",
         "pack": "Dark Crisis",
-        "rarity": "Des Feral Imp",
+        "pack_id": "DCR-014",
         "date": "2003-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8d/DesFeralImp-SDKS-EN-C-1E.png"

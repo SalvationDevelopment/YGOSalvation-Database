@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 97738431,
-        "pack_id": "SHSP-JP071",
         "pack": "Shadow Specters",
-        "rarity": "Numbers Overlay Boost",
+        "pack_id": "SHSP-JP071",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 97738431,
-        "pack_id": "SHSP-DE071",
         "pack": "Shadow Specters",
-        "rarity": "Numbers Overlay Boost",
+        "pack_id": "SHSP-DE071",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/67/NumbersOverlayBoost-SHSP-EN-C-1E.png"

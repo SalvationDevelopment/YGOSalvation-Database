@@ -34,10 +34,8 @@
     ],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 101002051,
-        "pack_id": "CIBR-JP051",
         "pack": "Circuit Break",
-        "rarity": "Akashic Magician",
+        "pack_id": "CIBR-JP051",
         "date": "2017-07-08"
     },
     "tcg": {

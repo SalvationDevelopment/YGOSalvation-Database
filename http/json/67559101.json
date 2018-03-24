@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67559101,
-        "pack_id": "CPZ1-JP003",
         "pack": "Collectors Pack: ZEXAL Version",
-        "rarity": "Chronomaly Mud Golem",
+        "pack_id": "CPZ1-JP003",
         "date": "2013-08-10"
     },
     "tcg": {
-        "id": 67559101,
-        "pack_id": "NUMH-DE003",
         "pack": "Number Hunters",
-        "rarity": "Chronomaly Mud Golem",
+        "pack_id": "NUMH-DE003",
         "date": "2013-07-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/df/ChronomalyMudGolem-NUMH-EN-SR-1E.png"

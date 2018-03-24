@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 92170894,
-        "pack_id": "ST16-JP006",
         "pack": "Starter Deck 2016",
-        "rarity": "Performapal Longphone Bull",
+        "pack_id": "ST16-JP006",
         "date": "2016-03-19"
     },
     "tcg": {
-        "id": 92170894,
-        "pack_id": "YS16-DE006",
         "pack": "Starter Deck - Yuya",
-        "rarity": "Performapal Longphone Bull",
+        "pack_id": "YS16-DE006",
         "date": "2016-05-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4a/PerformapalLongphoneBull-YS16-EN-SR-1E.png"

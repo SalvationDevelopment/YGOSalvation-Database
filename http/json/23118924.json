@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 23118924,
-        "pack_id": "FET-JP011",
         "pack": "Flaming Eternity",
-        "rarity": "Element Doom",
+        "pack_id": "FET-JP011",
         "date": "2004-11-25"
     },
     "tcg": {
-        "id": 23118924,
-        "pack_id": "FET-EN011",
         "pack": "Flaming Eternity",
-        "rarity": "Element Doom",
+        "pack_id": "FET-EN011",
         "date": "2005-02-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/36/ElementDoom-DR3-EN-C-UE.png"

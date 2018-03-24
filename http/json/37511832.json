@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 37511832,
-        "pack_id": "JOTL-JP062",
         "pack": "Judgment of the Light",
-        "rarity": "Sargasso Lighthouse",
+        "pack_id": "JOTL-JP062",
         "date": "2013-04-20"
     },
     "tcg": {
-        "id": 37511832,
-        "pack_id": "JOTL-DE062",
         "pack": "Judgment of the Light",
-        "rarity": "Sargasso Lighthouse",
+        "pack_id": "JOTL-DE062",
         "date": "2013-08-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6e/SargassoLighthouse-JOTL-EN-C-UE.png"

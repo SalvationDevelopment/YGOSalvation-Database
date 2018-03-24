@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 46700124,
-        "pack_id": "",
         "pack": "Booster 5",
-        "rarity": "Machine King",
+        "pack_id": "",
         "date": "1999-10-17"
     },
     "tcg": {
-        "id": 46700124,
-        "pack_id": "EM1-EN001",
         "pack": "Yu-Gi-Oh! Trading Card Game Tour 2004 promotional card",
-        "rarity": "Machine King",
+        "pack_id": "EM1-EN001",
         "date": "2004-06-19"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ab/MachineKing-LCJW-EN-C-1E.png"

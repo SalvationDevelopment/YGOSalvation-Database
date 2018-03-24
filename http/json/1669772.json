@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1669772,
-        "pack_id": "RDS-JP058",
         "pack": "Rise of Destiny",
-        "rarity": "共通",
+        "pack_id": "RDS-JP058",
         "date": "2004-08-05"
     },
     "tcg": {
-        "id": 1669772,
-        "pack_id": "RDS-FR058",
         "pack": "Rise of Destiny",
-        "rarity": "Common",
+        "pack_id": "RDS-FR058",
         "date": "2004-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2d/SpellPurification-DR3-EN-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67692580,
-        "pack_id": "ST13-JP008",
         "pack": "Starter Deck 2013",
-        "rarity": "Caligo Claw Crow",
+        "pack_id": "ST13-JP008",
         "date": "2013-03-16"
     },
     "tcg": {
-        "id": 67692580,
-        "pack_id": "YS13-DE008",
         "pack": "Super Starter: V for Victory",
-        "rarity": "Caligo Claw Crow",
+        "pack_id": "YS13-DE008",
         "date": "2013-06-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1e/CaligoClawCrow-YS13-EN-C-1E.png"

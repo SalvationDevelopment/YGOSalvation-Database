@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 52176579,
-        "pack_id": "INOV-JP071",
         "pack": "Invasion: Vengeance",
-        "rarity": "Crystron Entry",
+        "pack_id": "INOV-JP071",
         "date": "2016-07-09"
     },
     "tcg": {
-        "id": 52176579,
-        "pack_id": "INOV-DE071",
         "pack": "Invasion: Vengeance",
-        "rarity": "Crystron Entry",
+        "pack_id": "INOV-DE071",
         "date": "2016-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dc/CrystronEntry-MP17-EN-C-1E.png"

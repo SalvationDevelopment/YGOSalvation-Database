@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 23296404,
-        "pack_id": "CORE-JP032",
         "pack": "Clash of Rebellions",
-        "rarity": "Igknight Lancer",
+        "pack_id": "CORE-JP032",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 23296404,
-        "pack_id": "CORE-DE032",
         "pack": "Clash of Rebellions",
-        "rarity": "Igknight Lancer",
+        "pack_id": "CORE-DE032",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/20/IgknightLancer-CORE-EN-R-1E.png"

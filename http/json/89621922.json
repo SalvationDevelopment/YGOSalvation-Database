@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 89621922,
-        "pack_id": "POTD-JP004",
         "pack": "Power of the Duelist",
-        "rarity": "Neo-Spacian Flare Scarab",
+        "pack_id": "POTD-JP004",
         "date": "2006-05-18"
     },
     "tcg": {
-        "id": 89621922,
-        "pack_id": "POTD-DE004",
         "pack": "Power of the Duelist",
-        "rarity": "Neo-Spacian Flare Scarab",
+        "pack_id": "POTD-DE004",
         "date": "2006-08-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/29/NeoSpacianFlareScarab-LCGX-EN-C-1E.png"

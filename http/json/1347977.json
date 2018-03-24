@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1347977,
-        "pack_id": "SC-21",
         "pack": "Struggle of Chaos",
-        "rarity": "Mysterious Guard",
+        "pack_id": "SC-21",
         "date": "2001-09-20"
     },
     "tcg": {
-        "id": 1347977,
-        "pack_id": "LOD-021",
         "pack": "Legacy of Darkness",
-        "rarity": "Mysterious Guard",
+        "pack_id": "LOD-021",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/MysteriousGuard-BP01-EN-C-1E.png"

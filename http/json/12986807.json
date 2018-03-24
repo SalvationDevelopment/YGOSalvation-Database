@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 12986807,
-        "pack_id": "DT09-JP038",
-        "pack": "デュエルターミナル 「ヴァイロン降臨！！」",
-        "rarity": "スーパーレア仕様",
-        "date": 1272344400000
-    },
+    "ocg": {},
     "tcg": {
-        "id": 12986807,
-        "pack_id": "DT05-EN038",
         "pack": "Duel Terminal 5a",
-        "rarity": "Laval the Greater",
+        "pack_id": "DT05-EN038",
         "date": "2011-05-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8f/LavaltheGreater-HA05-EN-ScR-UE.png"

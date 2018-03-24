@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 49374988,
-        "pack_id": "REDU-JP022",
         "pack": "Return of the Duelist",
-        "rarity": "Madolche Baaple",
+        "pack_id": "REDU-JP022",
         "date": "2012-04-14"
     },
     "tcg": {
-        "id": 49374988,
-        "pack_id": "REDU-EN022",
         "pack": "Return of the Duelist",
-        "rarity": "Madolche Baaple",
+        "pack_id": "REDU-EN022",
         "date": "2012-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cb/MadolcheBaaple-BP03-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 26864586,
-        "pack_id": "GENF-JP061",
         "pack": "Generation Force",
-        "rarity": "Resonance Device",
+        "pack_id": "GENF-JP061",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 26864586,
-        "pack_id": "GENF-EN061",
         "pack": "Generation Force",
-        "rarity": "Resonance Device",
+        "pack_id": "GENF-EN061",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e1/ResonanceDevice-GENF-EN-R-1E.jpg"

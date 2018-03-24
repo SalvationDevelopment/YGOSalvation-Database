@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64428736,
-        "pack_id": "WJ-06",
         "pack": "Limited Edition 2: Joey Pack",
-        "rarity": "Alligator's Sword",
+        "pack_id": "WJ-06",
         "date": "2000-04-01"
     },
     "tcg": {
-        "id": 64428736,
-        "pack_id": "WCPP-EN007",
         "pack": "World Championship 2010 Card Pack",
-        "rarity": "Alligator's Sword",
+        "pack_id": "WCPP-EN007",
         "date": "2010-08-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/38/AlligatorsSword-LDK2-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 18108166,
-        "pack_id": "CORE-JP001",
         "pack": "Clash of Rebellions",
-        "rarity": "Mystery Shell Dragon",
+        "pack_id": "CORE-JP001",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 18108166,
-        "pack_id": "CORE-DE001",
         "pack": "Clash of Rebellions",
-        "rarity": "Mystery Shell Dragon",
+        "pack_id": "CORE-DE001",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/03/MysteryShellDragon-YS17-EN-C-1E.png"

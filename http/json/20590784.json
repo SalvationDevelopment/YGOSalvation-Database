@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 20590784,
-        "pack_id": "PP17-JP020",
         "pack": "Premium Pack 17",
-        "rarity": "Stardust Re-Spark",
+        "pack_id": "PP17-JP020",
         "date": "2015-03-21"
     },
     "tcg": {
-        "id": 20590784,
-        "pack_id": "PGL2-DE020",
         "pack": "Premium Gold: Return of the Bling",
-        "rarity": "Stardust Re-Spark",
+        "pack_id": "PGL2-DE020",
         "date": "2015-03-19"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3b/StardustReSpark-PGL2-EN-GScR-1E.png"

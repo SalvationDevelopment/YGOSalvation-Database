@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53839837,
-        "pack_id": "KA-02",
         "pack": "Structure Deck: Kaiba Edition",
-        "rarity": "Vampire Lord",
+        "pack_id": "KA-02",
         "date": "2002-01-24"
     },
     "tcg": {
-        "id": 53839837,
-        "pack_id": "DCR-000",
         "pack": "Dark Crisis",
-        "rarity": "Vampire Lord",
+        "pack_id": "DCR-000",
         "date": "2003-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/VampireLord-LCKC-EN-UR-1E.png"

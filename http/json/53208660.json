@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53208660,
-        "pack_id": "SD29-JP026",
         "pack": "Structure Deck: Master of Pendulum",
-        "rarity": "Pendulum Call",
+        "pack_id": "SD29-JP026",
         "date": "2015-06-20"
     },
     "tcg": {
-        "id": 53208660,
-        "pack_id": "SDMP-DE026",
         "pack": "Master of Pendulum Structure Deck",
-        "rarity": "Pendulum Call",
+        "pack_id": "SDMP-DE026",
         "date": "2015-12-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e0/PendulumCall-PEVO-EN-SR-1E.png"

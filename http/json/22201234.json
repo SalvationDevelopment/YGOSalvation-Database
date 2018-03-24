@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 22201234,
-        "pack_id": "TDGS-JP075",
         "pack": "The Duelist Genesis",
-        "rarity": "Lightsworn Barrier",
+        "pack_id": "TDGS-JP075",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 22201234,
-        "pack_id": "TDGS-EN075",
         "pack": "The Duelist Genesis",
-        "rarity": "Lightsworn Barrier",
+        "pack_id": "TDGS-EN075",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/79/LightswornBarrier-SDLI-EN-C-1E.png"

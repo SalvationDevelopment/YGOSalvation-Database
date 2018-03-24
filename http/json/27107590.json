@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 27107590,
-        "pack_id": "CP17-JP040",
         "pack": "Collectors Pack 2017",
-        "rarity": "Time Maiden",
+        "pack_id": "CP17-JP040",
         "date": "2017-05-13"
     },
     "tcg": {
-        "date": "2017-07-06",
         "pack": "Battles of Legend: Light's Revenge",
-        "pack_id": "BLLR-DE035"
+        "pack_id": "BLLR-DE035",
+        "date": "2017-07-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/91/TimeMaiden-BLLR-EN-ScR-1E.png"
 }

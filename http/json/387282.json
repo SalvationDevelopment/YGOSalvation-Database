@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 387282,
-        "pack_id": "PRIO-JP081",
         "pack": "Primal Origin",
-        "rarity": "Gagaga Sister",
+        "pack_id": "PRIO-JP081",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 387282,
-        "pack_id": "WSUP-DE006",
         "pack": "World Superstars",
-        "rarity": "Gagaga Sister",
+        "pack_id": "WSUP-DE006",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/76/GagagaSister-WSUP-EN-PScR-1E.png"

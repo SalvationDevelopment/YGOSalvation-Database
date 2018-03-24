@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 14463695,
-        "pack_id": "SPFE-JP012",
         "pack": "Booster SP: Fusion Enforcers",
-        "rarity": "Predapruning",
+        "pack_id": "SPFE-JP012",
         "date": "2016-11-12"
     },
     "tcg": {
-        "id": 14463695,
-        "pack_id": "FUEN-DE012",
         "pack": "Fusion Enforcers",
-        "rarity": "Predapruning",
+        "pack_id": "FUEN-DE012",
         "date": "2017-02-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/Predapruning-FUEN-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 94230224,
-        "pack_id": "",
         "pack": "Booster 5",
-        "rarity": "Needle Ball",
+        "pack_id": "",
         "date": "1999-10-17"
     },
     "tcg": {
-        "id": 94230224,
-        "pack_id": "STOR-EN092",
         "pack": "Storm of Ragnarok",
-        "rarity": "Needle Ball",
+        "pack_id": "STOR-EN092",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/NeedleBall-STOR-EN-C-UE.png"

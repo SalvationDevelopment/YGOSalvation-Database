@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 41197012,
-        "pack_id": "EXVC-JP063",
         "pack": "Extreme Victory",
-        "rarity": "Red Carpet",
+        "pack_id": "EXVC-JP063",
         "date": "2011-02-11"
     },
     "tcg": {
-        "id": 41197012,
-        "pack_id": "EXVC-EN063",
         "pack": "Extreme Victory",
-        "rarity": "Red Carpet",
+        "pack_id": "EXVC-EN063",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/90/RedCarpet-HSRD-EN-R-1E.png"

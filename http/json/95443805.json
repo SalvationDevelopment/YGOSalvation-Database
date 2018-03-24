@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 95443805,
-        "pack_id": "DT01-JP014",
         "pack": "Duel Terminal - Synchro Awakening!!",
-        "rarity": "Mist Valley Shaman",
+        "pack_id": "DT01-JP014",
         "date": "2008-04-12"
     },
     "tcg": {
-        "id": 95443805,
-        "pack_id": "HA01-DE005",
         "pack": "Hidden Arsenal",
-        "rarity": "Mist Valley Shaman",
+        "pack_id": "HA01-DE005",
         "date": "2009-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/82/MistValleyShaman-HA01-EN-ScR-LE.png"

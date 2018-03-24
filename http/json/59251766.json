@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 59251766,
-        "pack_id": "LVAL-JP030",
         "pack": "Legacy of the Valiant",
-        "rarity": "Bujingi Hare",
+        "pack_id": "LVAL-JP030",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 59251766,
-        "pack_id": "LVAL-DE030",
         "pack": "Legacy of the Valiant",
-        "rarity": "Bujingi Hare",
+        "pack_id": "LVAL-DE030",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bc/BujingiHare-MP14-EN-SR-1E.png"

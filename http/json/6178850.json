@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 6178850,
-        "pack_id": "TDGS-JP045",
         "pack": "The Duelist Genesis",
-        "rarity": "Fighting Spirit",
+        "pack_id": "TDGS-JP045",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 6178850,
-        "pack_id": "TDGS-EN045",
         "pack": "The Duelist Genesis",
-        "rarity": "Fighting Spirit",
+        "pack_id": "TDGS-EN045",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/91/FightingSpirit-BP03-EN-C-1E.png"

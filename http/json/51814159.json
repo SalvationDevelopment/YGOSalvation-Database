@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 51814159,
-        "pack_id": "SPWR-JP014",
         "pack": "Booster SP: Wing Raiders",
-        "rarity": "Raidraptor - Necro Vulture",
+        "pack_id": "SPWR-JP014",
         "date": "2015-11-14"
     },
     "tcg": {
-        "id": 51814159,
-        "pack_id": "WIRA-DE014",
         "pack": "Wing Raiders",
-        "rarity": "Raidraptor - Necro Vulture",
+        "pack_id": "WIRA-DE014",
         "date": "2016-02-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/RaidraptorNecroVulture-WIRA-EN-SR-1E.png"

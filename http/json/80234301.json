@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80234301,
-        "pack_id": "",
         "pack": "Vol.6",
-        "rarity": "共通",
+        "pack_id": "",
         "date": "1999-11-18"
     },
     "tcg": {
-        "id": 80234301,
-        "pack_id": "TP7-DE017",
         "pack": "Tournament Pack 7",
-        "rarity": "Common",
+        "pack_id": "TP7-DE017",
         "date": "2005-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/Prisman-TP7-EN-C-UE.jpg"

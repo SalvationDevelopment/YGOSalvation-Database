@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 93451636,
-        "pack_id": "ORCS-JP024",
         "pack": "Order of Chaos",
-        "rarity": "Wind-Up Honeybee",
+        "pack_id": "ORCS-JP024",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 93451636,
-        "pack_id": "ORCS-EN024",
         "pack": "Order of Chaos",
-        "rarity": "Wind-Up Honeybee",
+        "pack_id": "ORCS-EN024",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/62/WindUpHoneybee-ORCS-EN-C-1E.jpg"

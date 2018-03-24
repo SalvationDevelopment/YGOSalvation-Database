@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 29311166,
-        "pack_id": "MVP1-JP003",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Assault Wyvern",
+        "pack_id": "MVP1-JP003",
         "date": "2016-04-23"
     },
     "tcg": {
-        "id": 29311166,
-        "pack_id": "MVP1-DE003",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Assault Wyvern",
+        "pack_id": "MVP1-DE003",
         "date": "2016-07-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3f/AssaultWyvern-MVP1-EN-GUR-1E.png"

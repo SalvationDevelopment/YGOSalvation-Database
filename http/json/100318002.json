@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Starter Deck 2018",
+        "pack_id": "ST18-JP002",
+        "date": "2018-03-24"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/69/Texchangure-ST18-JP-OP.png"
 }

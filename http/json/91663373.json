@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 91663373,
-        "pack_id": "CDIP-JP005",
         "pack": "Cyberdark Impact",
-        "rarity": "Cyber Esper",
+        "pack_id": "CDIP-JP005",
         "date": "2006-08-10"
     },
     "tcg": {
-        "id": 91663373,
-        "pack_id": "CDIP-FR005",
         "pack": "Cyberdark Impact",
-        "rarity": "Cyber Esper",
+        "pack_id": "CDIP-FR005",
         "date": "2006-11-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f9/CyberEsper-CDIP-EN-SR-1E.jpg"

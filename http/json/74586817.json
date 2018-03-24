@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 74586817,
-        "pack_id": "SPHR-JP035",
         "pack": "Booster SP: Highspeed Riders",
-        "rarity": "PSY-Framelord Omega",
+        "pack_id": "SPHR-JP035",
         "date": "2015-08-22"
     },
     "tcg": {
-        "id": 74586817,
-        "pack_id": "HSRD-DE035",
         "pack": "High-Speed Riders",
-        "rarity": "PSY-Framelord Omega",
+        "pack_id": "HSRD-DE035",
         "date": "2015-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bb/PSYFramelordOmega-BLLR-EN-ScR-1E.png"

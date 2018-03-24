@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 30502181,
-        "pack_id": "TDGS-JP059",
         "pack": "The Duelist Genesis",
-        "rarity": "Lightsworn Sabre",
+        "pack_id": "TDGS-JP059",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 30502181,
-        "pack_id": "TDGS-EN059",
         "pack": "The Duelist Genesis",
-        "rarity": "Lightsworn Sabre",
+        "pack_id": "TDGS-EN059",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/67/LightswornSabre-AP05-EN-C-UE.png"

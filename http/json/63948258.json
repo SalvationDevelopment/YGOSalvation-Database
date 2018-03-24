@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63948258,
-        "pack_id": "EXP2-JP038",
         "pack": "Extra Pack Volume 2",
-        "rarity": "Submarine Frog",
+        "pack_id": "EXP2-JP038",
         "date": "2009-09-19"
     },
     "tcg": {
-        "id": 63948258,
-        "pack_id": "CRMS-EN087",
         "pack": "Crimson Crisis",
-        "rarity": "Submarine Frog",
+        "pack_id": "CRMS-EN087",
         "date": "2009-02-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e6/SubmarineFrog-CRMS-EN-C-1E.png"

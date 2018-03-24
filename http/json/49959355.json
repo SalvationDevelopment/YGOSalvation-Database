@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 49959355,
-        "pack_id": "SECE-JP040",
         "pack": "Secrets of Eternity",
-        "rarity": "Uni-Zombie",
+        "pack_id": "SECE-JP040",
         "date": "2014-11-15"
     },
     "tcg": {
-        "id": 49959355,
-        "pack_id": "SECE-DE040",
         "pack": "Secrets of Eternity",
-        "rarity": "Uni-Zombie",
+        "pack_id": "SECE-DE040",
         "date": "2015-01-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/39/UniZombie-OP03-EN-C-UE.png"

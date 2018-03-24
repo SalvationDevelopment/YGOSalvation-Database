@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 15256925,
-        "pack_id": "20AP-JP002",
         "pack": "20th Anniversary Pack 1st Wave",
-        "rarity": "Chaos Scepter Blast",
+        "pack_id": "20AP-JP002",
         "date": "2016-12-17"
     },
     "tcg": {
-        "id": 15256925,
-        "pack_id": "DUSA-DE025",
         "pack": "Duelist Saga",
-        "rarity": "Chaos Scepter Blast",
+        "pack_id": "DUSA-DE025",
         "date": "2017-03-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/ChaosScepterBlast-DUSA-EN-UR-1E.png"

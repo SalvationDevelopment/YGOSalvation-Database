@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 75380687,
-        "pack_id": "CPL1-JP003",
         "pack": "Collectors Pack: Duelist of Legend Version",
-        "rarity": "Amulet Dragon",
+        "pack_id": "CPL1-JP003",
         "date": "2014-05-17"
     },
     "tcg": {
-        "id": 75380687,
-        "pack_id": "DRLG-DE003",
         "pack": "Dragons of Legend",
-        "rarity": "Amulet Dragon",
+        "pack_id": "DRLG-DE003",
         "date": "2014-04-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/43/AmuletDragon-LEDD-EN-C-1E.png"

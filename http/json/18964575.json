@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 18964575,
-        "pack_id": "STBL-JP001",
         "pack": "Starstrike Blast",
-        "rarity": "Swift Scarecrow",
+        "pack_id": "STBL-JP001",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 18964575,
-        "pack_id": "STBL-EN001",
         "pack": "Starstrike Blast",
-        "rarity": "Swift Scarecrow",
+        "pack_id": "STBL-EN001",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/66/SwiftScarecrow-YS17-EN-C-1E.png"

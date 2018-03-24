@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 1281505,
-        "pack_id": "DT11-JP020",
-        "pack": "DT11",
-        "rarity": "Vylon Tetra",
-        "date": "2013-02-26"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 1281505,
-        "pack_id": "DT06-EN020",
         "pack": "Duel Terminal 6a",
-        "rarity": "Vylon Tetra",
+        "pack_id": "DT06-EN020",
         "date": "2012-02-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/01/VylonTetra-BP02-EN-C-1E.png"

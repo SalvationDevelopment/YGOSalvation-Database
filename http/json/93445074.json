@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 93445074,
-        "pack_id": "DOCS-JP034",
         "pack": "Dimension of Chaos",
-        "rarity": "Graydle Cobra",
+        "pack_id": "DOCS-JP034",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 93445074,
-        "pack_id": "DOCS-DE034",
         "pack": "Dimension of Chaos",
-        "rarity": "Graydle Cobra",
+        "pack_id": "DOCS-DE034",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b3/GraydleCobra-DOCS-EN-C-1E.png"

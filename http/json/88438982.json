@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 88438982,
-        "pack_id": "DT01-JP029",
         "pack": "Duel Terminal - Synchro Awakening!!",
-        "rarity": "Worm Dimikles",
+        "pack_id": "DT01-JP029",
         "date": "2008-04-12"
     },
     "tcg": {
-        "id": 88438982,
-        "pack_id": "HA01-DE020",
         "pack": "Hidden Arsenal",
-        "rarity": "Worm Dimikles",
+        "pack_id": "HA01-DE020",
         "date": "2009-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/52/WormDimikles-HA01-EN-SR-LE.png"

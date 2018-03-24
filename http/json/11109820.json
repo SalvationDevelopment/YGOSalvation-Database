@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 11109820,
-        "pack_id": "PRIO-JP078",
         "pack": "Primal Origin",
-        "rarity": "Xyz Universe",
+        "pack_id": "PRIO-JP078",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 11109820,
-        "pack_id": "PRIO-DE078",
         "pack": "Primal Origin",
-        "rarity": "Xyz Universe",
+        "pack_id": "PRIO-DE078",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/50/XyzUniverse-PRIO-EN-R-1E.png"

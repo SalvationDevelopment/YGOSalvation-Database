@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 26586849,
-        "pack_id": "ORCS-JP079",
         "pack": "Order of Chaos",
-        "rarity": "Royal Prison",
+        "pack_id": "ORCS-JP079",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 26586849,
-        "pack_id": "ORCS-EN079",
         "pack": "Order of Chaos",
-        "rarity": "Royal Prison",
+        "pack_id": "ORCS-EN079",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7e/RoyalPrison-ORCS-EN-R-UE.png"

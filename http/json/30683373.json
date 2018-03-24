@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 30683373,
-        "pack_id": "PP6-003",
         "pack": "Premium Pack 6",
-        "rarity": "Shield Crush",
+        "pack_id": "PP6-003",
         "date": "2004-03-11"
     },
     "tcg": {
-        "id": 30683373,
-        "pack_id": "PP01-DE007",
         "pack": "Premium Pack",
-        "rarity": "Shield Crush",
+        "pack_id": "PP01-DE007",
         "date": "2007-10-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/31/ShieldCrush-DEM2-EN-C-UE.png"

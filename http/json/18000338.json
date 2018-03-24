@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 18000338,
-        "pack_id": "COTD-JP034",
         "pack": "Code of the Duelist",
-        "rarity": "Re:EX",
+        "pack_id": "COTD-JP034",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE034"
+        "pack_id": "COTD-DE034",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/34/ReEX-COTD-EN-R-1E.png"
 }

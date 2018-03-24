@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64280356,
-        "pack_id": "EP16-JP009",
         "pack": "Extra Pack 2016",
-        "rarity": "Kozmo Tincan",
+        "pack_id": "EP16-JP009",
         "date": "2016-09-10"
     },
     "tcg": {
-        "id": 64280356,
-        "pack_id": "BOSH-DE082",
         "pack": "Breakers of Shadow",
-        "rarity": "Kozmo Tincan",
+        "pack_id": "BOSH-DE082",
         "date": "2016-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b5/KozmoTincan-BOSH-EN-UR-1E.png"

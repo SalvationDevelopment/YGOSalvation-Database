@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80495985,
-        "pack_id": "EP12-JP022",
         "pack": "Extra Pack 2012",
-        "rarity": "Photon Sabre Tiger",
+        "pack_id": "EP12-JP022",
         "date": "2012-10-13"
     },
     "tcg": {
-        "id": 80495985,
-        "pack_id": "PHSW-DE081",
         "pack": "Photon Shockwave",
-        "rarity": "Photon Sabre Tiger",
+        "pack_id": "PHSW-DE081",
         "date": "2011-11-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/90/PhotonSabreTiger-PHSW-EN-SR-1E.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81028112,
-        "pack_id": "EP14-JP047",
         "pack": "Extra Pack: Knights of Order",
-        "rarity": "Wattsychic Fighter",
+        "pack_id": "EP14-JP047",
         "date": "2014-09-13"
     },
     "tcg": {
-        "id": 81028112,
-        "pack_id": "WSUP-DE041",
         "pack": "World Superstars",
-        "rarity": "Wattsychic Fighter",
+        "pack_id": "WSUP-DE041",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8a/WattsychicFighter-WSUP-EN-SR-1E.png"

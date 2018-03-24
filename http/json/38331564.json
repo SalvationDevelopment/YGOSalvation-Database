@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 38331564,
-        "pack_id": "DUEA-JP083",
         "pack": "Duelist Alliance",
-        "rarity": "Star Seraph Scepter",
+        "pack_id": "DUEA-JP083",
         "date": "2014-04-19"
     },
     "tcg": {
-        "id": 38331564,
-        "pack_id": "WSUP-DE018",
         "pack": "World Superstars",
-        "rarity": "Star Seraph Scepter",
+        "pack_id": "WSUP-DE018",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/68/StarSeraphScepter-WSUP-EN-PScR-1E.png"

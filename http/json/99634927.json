@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99634927,
-        "pack_id": "SPDS-JP017",
         "pack": "Booster SP: Destiny Soldiers",
-        "rarity": "Abyss Actor - Funky Comedian",
+        "pack_id": "SPDS-JP017",
         "date": "2016-08-06"
     },
     "tcg": {
-        "id": 99634927,
-        "pack_id": "DESO-DE017",
         "pack": "Destiny Soldiers",
-        "rarity": "Abyss Actor - Funky Comedian",
+        "pack_id": "DESO-DE017",
         "date": "2016-11-17"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/70/AbyssActorFunkyComedian-DESO-EN-SR-1E.png"

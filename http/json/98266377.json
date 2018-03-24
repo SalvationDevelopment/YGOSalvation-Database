@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 98266377,
-        "pack_id": "PP10-JP004",
         "pack": "Premium Pack 10",
-        "rarity": "Elemental HERO Heat",
+        "pack_id": "PP10-JP004",
         "date": "2007-03-08"
     },
     "tcg": {
-        "id": 98266377,
-        "pack_id": "PP02-DE007",
         "pack": "Premium Pack 2",
-        "rarity": "Elemental HERO Heat",
+        "pack_id": "PP02-DE007",
         "date": "2008-07-31"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/55/ElementalHEROHeat-SDHS-EN-C-1E.png"

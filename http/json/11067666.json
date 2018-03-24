@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 11067666,
-        "pack_id": "SD31-JP005",
         "pack": "Structure Deck: Pendulum Evolution",
-        "rarity": "White Wing Magician",
+        "pack_id": "SD31-JP005",
         "date": "2016-12-23"
     },
     "tcg": {
-        "id": 11067666,
-        "pack_id": "PEVO-DE005",
         "pack": "Pendulum Evolution",
-        "rarity": "White Wing Magician",
+        "pack_id": "PEVO-DE005",
         "date": "2017-06-22"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f8/WhiteWingMagician-PEVO-EN-UR-1E.png"

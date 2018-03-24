@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 89770167,
-        "pack_id": "DT09-JP025",
-        "pack": "デュエルターミナル 「ヴァイロン降臨！！」",
-        "rarity": "共通",
-        "date": 1272344400000
-    },
+    "ocg": {},
     "tcg": {
-        "id": 89770167,
-        "pack_id": "DT05-EN025",
         "pack": "Duel Terminal 5a",
-        "rarity": "Prominence, Molten Swordsman",
+        "pack_id": "DT05-EN025",
         "date": "2011-05-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d2/ProminenceMoltenSwordsman-HA05-EN-SR-UE.png"

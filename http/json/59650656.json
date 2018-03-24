@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 59650656,
-        "pack_id": "PRIO-JP070",
         "pack": "Primal Origin",
-        "rarity": "Tachyon Chaos Hole",
+        "pack_id": "PRIO-JP070",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 59650656,
-        "pack_id": "PRIO-DE070",
         "pack": "Primal Origin",
-        "rarity": "Tachyon Chaos Hole",
+        "pack_id": "PRIO-DE070",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2e/TachyonChaosHole-MP15-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 28388296,
-        "pack_id": "PRIO-JP066",
         "pack": "Primal Origin",
-        "rarity": "Scrap Factory",
+        "pack_id": "PRIO-JP066",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 28388296,
-        "pack_id": "PRIO-DE066",
         "pack": "Primal Origin",
-        "rarity": "Scrap Factory",
+        "pack_id": "PRIO-DE066",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e2/ScrapFactory-PRIO-EN-C-1E.png"

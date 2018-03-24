@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 19847532,
-        "pack_id": "SD3-JP001",
         "pack": "Structure Deck: Blaze of Destruction",
-        "rarity": "Infernal Flame Emperor",
+        "pack_id": "SD3-JP001",
         "date": "2005-01-20"
     },
     "tcg": {
-        "id": 19847532,
-        "pack_id": "SD3-DE001",
         "pack": "Structure Deck: Blaze of Destruction",
-        "rarity": "Infernal Flame Emperor",
+        "pack_id": "SD3-DE001",
         "date": "2005-05-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/InfernalFlameEmperor-WCPP-EN-R-LE.jpg"

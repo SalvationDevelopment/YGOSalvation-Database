@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 38109772,
-        "pack_id": "LE09-JP002",
         "pack": "Limited Edition 9",
-        "rarity": "Dragonic Knight",
+        "pack_id": "LE09-JP002",
         "date": "2006-05-20"
     },
     "tcg": {
-        "id": 38109772,
-        "pack_id": "CT07-DE017",
         "pack": "Collectible Tins 2010 Wave 1",
-        "rarity": "Dragonic Knight",
+        "pack_id": "CT07-DE017",
         "date": "2010-08-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/22/DragonicKnight-CT07-EN-SR-LE.png"

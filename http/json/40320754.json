@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 40320754,
-        "pack_id": "306-028",
         "pack": "Controller of Chaos",
-        "rarity": "Lord Poison",
+        "pack_id": "306-028",
         "date": "2003-04-24"
     },
     "tcg": {
-        "id": 40320754,
-        "pack_id": "IOC-028",
         "pack": "Invasion of Chaos",
-        "rarity": "Lord Poison",
+        "pack_id": "IOC-028",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3c/LordPoison-BP03-EN-C-1E.png"

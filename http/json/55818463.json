@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55818463,
-        "pack_id": "SD12-JP002",
         "pack": "Structure Deck: Curse of Darkness",
-        "rarity": "Lich Lord, King of the Underworld",
+        "pack_id": "SD12-JP002",
         "date": "2007-03-08"
     },
     "tcg": {
-        "id": 55818463,
-        "pack_id": "FOTB-FR062",
         "pack": "Force of the Breaker",
-        "rarity": "Lich Lord, King of the Underworld",
+        "pack_id": "FOTB-FR062",
         "date": "2007-05-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/be/LichLordKingoftheUnderworld-GLD4-EN-C-LE.png"

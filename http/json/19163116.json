@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 19163116,
-        "pack_id": "DT12-JP017",
         "pack": "Duel Terminal - Xyz Startup!!",
-        "rarity": "Gem-Knight Obsidian",
+        "pack_id": "DT12-JP017",
         "date": "2011-04-01"
     },
     "tcg": {
-        "id": 19163116,
-        "pack_id": "DT06-EN067",
         "pack": "Duel Terminal 6b",
-        "rarity": "Gem-Knight Obsidian",
+        "pack_id": "DT06-EN067",
         "date": "2012-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/06/GemKnightObsidian-AP08-EN-C-UE.png"

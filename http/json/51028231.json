@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 51028231,
-        "pack_id": "SPDS-JP019",
         "pack": "Booster SP: Destiny Soldiers",
-        "rarity": "Abyss Actor - Sassy Rookie",
+        "pack_id": "SPDS-JP019",
         "date": "2016-08-06"
     },
     "tcg": {
-        "id": 51028231,
-        "pack_id": "DESO-DE019",
         "pack": "Destiny Soldiers",
-        "rarity": "Abyss Actor - Sassy Rookie",
+        "pack_id": "DESO-DE019",
         "date": "2016-11-17"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/74/AbyssActorSassyRookie-DESO-EN-SR-1E.png"

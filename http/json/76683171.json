@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 76683171,
-        "pack_id": "DT05-JP031",
         "pack": "Duel Terminal - Champion of Chaos!!",
-        "rarity": "Worm Ugly",
+        "pack_id": "DT05-JP031",
         "date": "2009-04-14"
     },
     "tcg": {
-        "id": 76683171,
-        "pack_id": "DT03-EN031",
         "pack": "Duel Terminal 3",
-        "rarity": "Worm Ugly",
+        "pack_id": "DT03-EN031",
         "date": "2010-09-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/89/WormUgly-HA03-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 22666164,
-        "pack_id": "PP9-JP003",
         "pack": "Premium Pack 9",
-        "rarity": "Commander Covington",
+        "pack_id": "PP9-JP003",
         "date": "2005-12-17"
     },
     "tcg": {
-        "id": 22666164,
-        "pack_id": "SDMM-DE005",
         "pack": "Machina Mayhem Structure Deck",
-        "rarity": "Commander Covington",
+        "pack_id": "SDMM-DE005",
         "date": "2010-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5d/CommanderCovington-LCYW-EN-ScR-1E.jpg"

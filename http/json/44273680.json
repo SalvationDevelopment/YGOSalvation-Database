@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 44273680,
-        "pack_id": "JOTL-JP010",
         "pack": "Judgment of the Light",
-        "rarity": "Star Seraph Sage",
+        "pack_id": "JOTL-JP010",
         "date": "2013-04-20"
     },
     "tcg": {
-        "id": 44273680,
-        "pack_id": "JOTL-DE010",
         "pack": "Judgment of the Light",
-        "rarity": "Star Seraph Sage",
+        "pack_id": "JOTL-DE010",
         "date": "2013-08-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0c/StarSeraphSage-JOTL-EN-C-1E.png"

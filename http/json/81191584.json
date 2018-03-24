@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81191584,
-        "pack_id": "SD12-JP014",
         "pack": "Structure Deck: Curse of Darkness",
-        "rarity": "Recurring Nightmare",
+        "pack_id": "SD12-JP014",
         "date": "2007-03-08"
     },
     "tcg": {
-        "id": 81191584,
-        "pack_id": "FOTB-FR066",
         "pack": "Force of the Breaker",
-        "rarity": "Recurring Nightmare",
+        "pack_id": "FOTB-FR066",
         "date": "2007-05-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2e/RecurringNightmare-OP06-EN-C-UE.png"

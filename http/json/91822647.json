@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 91822647,
-        "pack_id": "DT12-JP050",
         "pack": "Duel Terminal - Xyz Startup!!",
-        "rarity": "共通",
+        "pack_id": "DT12-JP050",
         "date": "2011-04-01"
     },
     "tcg": {
-        "id": 91822647,
-        "pack_id": "DT06-EN100",
         "pack": "Duel Terminal 6b",
-        "rarity": "Whirlwind of Gusto",
+        "pack_id": "DT06-EN100",
         "date": "2012-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bc/WhirlwindofGusto-HA06-EN-SR-1E.png"

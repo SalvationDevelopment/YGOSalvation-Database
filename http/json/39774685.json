@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 39774685,
-        "pack_id": "",
         "pack": "Vol.2",
-        "rarity": "Vile Germs",
+        "pack_id": "",
         "date": "1999-03-27"
     },
     "tcg": {
-        "id": 39774685,
-        "pack_id": "LOB-090",
         "pack": "Legend of Blue Eyes White Dragon",
-        "rarity": "Vile Germs",
+        "pack_id": "LOB-090",
         "date": "2002-03-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6f/VileGerms-LOB-NA-SP-UE-Reprint.png"

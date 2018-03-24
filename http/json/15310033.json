@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 15310033,
-        "pack_id": "EXVC-JP002",
         "pack": "Extreme Victory",
-        "rarity": "Unknown Synchron",
+        "pack_id": "EXVC-JP002",
         "date": "2011-02-11"
     },
     "tcg": {
-        "id": 15310033,
-        "pack_id": "EXVC-EN002",
         "pack": "Extreme Victory",
-        "rarity": "Unknown Synchron",
+        "pack_id": "EXVC-EN002",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4d/UnknownSynchron-SDSE-EN-C-1E.png"

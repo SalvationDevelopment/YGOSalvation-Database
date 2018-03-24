@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 56784842,
-        "pack_id": "YR04-JP001",
         "pack": "Yu-Gi-Oh! R Volume 4 promotional card",
-        "rarity": "Angel O7",
+        "pack_id": "YR04-JP001",
         "date": "2007-04-04"
     },
     "tcg": {
-        "id": 56784842,
-        "pack_id": "LODT-EN092",
         "pack": "Light of Destruction",
-        "rarity": "Angel O7",
+        "pack_id": "LODT-EN092",
         "date": "2008-05-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/78/AngelO7-YR04-EN-UR-LE.png"

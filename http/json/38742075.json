@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 38742075,
-        "pack_id": "SC-22",
         "pack": "Struggle of Chaos",
-        "rarity": "Frontier Wiseman",
+        "pack_id": "SC-22",
         "date": "2001-09-20"
     },
     "tcg": {
-        "id": 38742075,
-        "pack_id": "LOD-022",
         "pack": "Legacy of Darkness",
-        "rarity": "Frontier Wiseman",
+        "pack_id": "LOD-022",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/63/FrontierWiseman-BP03-EN-C-1E.png"

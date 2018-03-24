@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 37300735,
-        "pack_id": "EXVC-JP018",
         "pack": "Extreme Victory",
-        "rarity": "T.G. Jet Falcon",
+        "pack_id": "EXVC-JP018",
         "date": "2011-02-11"
     },
     "tcg": {
-        "id": 37300735,
-        "pack_id": "EXVC-EN018",
         "pack": "Extreme Victory",
-        "rarity": "T.G. Jet Falcon",
+        "pack_id": "EXVC-EN018",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/de/TGJetFalcon-LC5D-EN-C-1E.png"

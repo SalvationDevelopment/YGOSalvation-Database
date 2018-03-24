@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 52128900,
-        "pack_id": "DP10-JP024",
         "pack": "Duelist Pack: Yusei 3",
-        "rarity": "Synchro Gift",
+        "pack_id": "DP10-JP024",
         "date": "2010-10-16"
     },
     "tcg": {
-        "id": 52128900,
-        "pack_id": "DP10-DE024",
         "pack": "Duelist Pack: Yusei 3",
-        "rarity": "Synchro Gift",
+        "pack_id": "DP10-DE024",
         "date": "2011-01-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2b/SynchroGift-DP10-EN-R-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 89718302,
-        "pack_id": "EE3-JP146",
         "pack": "Expert Edition Volume 3",
-        "rarity": "共通",
+        "pack_id": "EE3-JP146",
         "date": "2005-12-08"
     },
     "tcg": {
-        "id": 89718302,
-        "pack_id": "DR3-DE146",
         "pack": "Dark Revelation Volume 3",
-        "rarity": "Common",
+        "pack_id": "DR3-DE146",
         "date": "2006-11-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4d/AbareUshioni-DR3-EN-C-UE.jpg"

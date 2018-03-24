@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 46232525,
-        "pack_id": "CPD1-JP013",
         "pack": "Collectors Pack: Duelist of Destiny Version",
-        "rarity": "The Claw of Hermos",
+        "pack_id": "CPD1-JP013",
         "date": "2015-05-16"
     },
     "tcg": {
-        "id": 46232525,
-        "pack_id": "DRL2-DE013",
         "pack": "Dragons of Legend 2",
-        "rarity": "The Claw of Hermos",
+        "pack_id": "DRL2-DE013",
         "date": "2015-07-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/76/TheClawofHermos-LEDD-EN-C-1E.png"

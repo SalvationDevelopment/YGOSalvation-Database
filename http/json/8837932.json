@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 8837932,
-        "pack_id": "MVP1-JP044",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Cubic Mandala",
+        "pack_id": "MVP1-JP044",
         "date": "2016-04-23"
     },
     "tcg": {
-        "id": 8837932,
-        "pack_id": "MVP1-DE044",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Cubic Mandala",
+        "pack_id": "MVP1-DE044",
         "date": "2016-07-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/CubicMandala-MVP1-EN-GUR-1E.png"

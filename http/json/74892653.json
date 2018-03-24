@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 74892653,
-        "pack_id": "SD28-JP040",
         "pack": "Structure Deck: Synchron Extreme",
-        "rarity": "Stardust Warrior",
+        "pack_id": "SD28-JP040",
         "date": "2014-12-06"
     },
     "tcg": {
-        "id": 74892653,
-        "pack_id": "SDSE-DE040",
         "pack": "Synchron Extreme Structure Deck",
-        "rarity": "Stardust Warrior",
+        "pack_id": "SDSE-DE040",
         "date": "2015-08-27"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/94/StardustWarrior-SDSE-EN-UR-1E.png"

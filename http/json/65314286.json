@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65314286,
-        "pack_id": "CP17-JP038",
         "pack": "Collectors Pack 2017",
-        "rarity": "Sadion, the Timelord",
+        "pack_id": "CP17-JP038",
         "date": "2017-05-13"
     },
     "tcg": {
-        "date": "2017-07-06",
         "pack": "Battles of Legend: Light's Revenge",
-        "pack_id": "BLLR-DE033"
+        "pack_id": "BLLR-DE033",
+        "date": "2017-07-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5c/SadiontheTimelord-BLLR-EN-UR-1E.png"
 }

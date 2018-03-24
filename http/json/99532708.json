@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99532708,
-        "pack_id": "CDIP-JP034",
         "pack": "Cyberdark Impact",
-        "rarity": "Alien Mars",
+        "pack_id": "CDIP-JP034",
         "date": "2006-08-10"
     },
     "tcg": {
-        "id": 99532708,
-        "pack_id": "CDIP-FR034",
         "pack": "Cyberdark Impact",
-        "rarity": "Alien Mars",
+        "pack_id": "CDIP-FR034",
         "date": "2006-11-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f8/AlienMars-CDIP-EN-C-1E.jpg"

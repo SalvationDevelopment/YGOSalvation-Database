@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 59771339,
-        "pack_id": "EXVC-JP037",
         "pack": "Extreme Victory",
-        "rarity": "Junk Berserker",
+        "pack_id": "EXVC-JP037",
         "date": "2011-02-11"
     },
     "tcg": {
-        "id": 59771339,
-        "pack_id": "EXVC-EN037",
         "pack": "Extreme Victory",
-        "rarity": "Junk Berserker",
+        "pack_id": "EXVC-EN037",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/55/JunkBerserker-LC5D-EN-SR-1E.png"

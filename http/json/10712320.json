@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 10712320,
-        "pack_id": "DT12-JP025",
         "pack": "Duel Terminal - Xyz Startup!!",
-        "rarity": "Vylon Stigma",
+        "pack_id": "DT12-JP025",
         "date": "2011-04-01"
     },
     "tcg": {
-        "id": 10712320,
-        "pack_id": "DT06-EN075",
         "pack": "Duel Terminal 6b",
-        "rarity": "Vylon Stigma",
+        "pack_id": "DT06-EN075",
         "date": "2012-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/96/VylonStigma-HA06-EN-SR-1E.png"

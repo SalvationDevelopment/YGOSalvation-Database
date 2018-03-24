@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 87614611,
-        "pack_id": "EXVC-JP046",
         "pack": "Extreme Victory",
-        "rarity": "Red Dragon Vase",
+        "pack_id": "EXVC-JP046",
         "date": "2011-02-11"
     },
     "tcg": {
-        "id": 87614611,
-        "pack_id": "EXVC-EN046",
         "pack": "Extreme Victory",
-        "rarity": "Red Dragon Vase",
+        "pack_id": "EXVC-EN046",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/51/RedDragonVase-LC5D-EN-R-1E.png"

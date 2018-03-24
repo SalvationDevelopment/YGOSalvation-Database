@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 39041729,
-        "pack_id": "CP17-JP033",
         "pack": "Collectors Pack 2017",
-        "rarity": "Spacetime Transcendence",
+        "pack_id": "CP17-JP033",
         "date": "2017-05-13"
     },
     "tcg": {
-        "date": "2017-07-06",
         "pack": "Battles of Legend: Light's Revenge",
-        "pack_id": "BLLR-DE029"
+        "pack_id": "BLLR-DE029",
+        "date": "2017-07-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ae/SpacetimeTranscendence-BLLR-EN-UR-1E.png"
 }

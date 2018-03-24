@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 81269231,
-        "pack_id": "SR03-JP002",
         "pack": "Structure Deck R: Machine Dragon Re-Volt",
-        "rarity": "Ancient Gear Hydra",
+        "pack_id": "SR03-JP002",
         "date": "2016-09-24"
     },
     "tcg": {
-        "id": 81269231,
-        "pack_id": "SR03-DE002",
         "pack": "Machine Reactor Structure Deck",
-        "rarity": "Ancient Gear Hydra",
+        "pack_id": "SR03-DE002",
         "date": "2017-04-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ae/AncientGearHydra-SR03-EN-SR-1E.png"

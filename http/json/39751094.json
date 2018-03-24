@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 39751094,
-        "pack_id": "MA-21",
         "pack": "Mythological Age",
-        "rarity": "Otohime",
+        "pack_id": "MA-21",
         "date": "2001-11-29"
     },
     "tcg": {
-        "id": 39751094,
-        "pack_id": "LOD-069",
         "pack": "Legacy of Darkness",
-        "rarity": "Otohime",
+        "pack_id": "LOD-069",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ee/Otohime-BPW2-NA-C-1E.png"

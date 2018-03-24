@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 57585212,
-        "pack_id": "307-050",
         "pack": "Invader of Darkness",
-        "rarity": "Self-Destruct Button",
+        "pack_id": "307-050",
         "date": "2003-07-17"
     },
     "tcg": {
-        "id": 57585212,
-        "pack_id": "IOC-105",
         "pack": "Invasion of Chaos",
-        "rarity": "Self-Destruct Button",
+        "pack_id": "IOC-105",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/87/SelfDestructButton-DR2-EN-C-UE.png"

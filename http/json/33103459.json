@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 33103459,
-        "pack_id": "CPF1-JP003",
         "pack": "Collectors Pack: Duelist of Flash Version",
-        "rarity": "Performapal Corn",
+        "pack_id": "CPF1-JP003",
         "date": "2016-05-14"
     },
     "tcg": {
-        "id": 33103459,
-        "pack_id": "DRL3-DE003",
         "pack": "Dragons of Legend: Unleashed",
-        "rarity": "Performapal Corn",
+        "pack_id": "DRL3-DE003",
         "date": "2016-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a5/PerformapalCorn-DRL3-EN-UR-1E.png"

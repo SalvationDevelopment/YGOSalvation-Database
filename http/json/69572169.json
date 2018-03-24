@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 69572169,
-        "pack_id": "VJCF-JP003",
         "pack": "V Jump Card Festa 2009 promotional card",
-        "rarity": "Elemental HERO Flash",
+        "pack_id": "VJCF-JP003",
         "date": "2009-08-21"
     },
     "tcg": {
-        "id": 69572169,
-        "pack_id": "GENF-EN090",
         "pack": "Generation Force",
-        "rarity": "Elemental HERO Flash",
+        "pack_id": "GENF-EN090",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/ElementalHEROFlash-GENF-EN-C-1E.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 56746202,
-        "pack_id": "DREV-JP019",
         "pack": "Duelist Revolution",
-        "rarity": "Scrap Chimera",
+        "pack_id": "DREV-JP019",
         "date": "2010-04-17"
     },
     "tcg": {
-        "id": 56746202,
-        "pack_id": "DREV-EN019",
         "pack": "Duelist Revolution",
-        "rarity": "Scrap Chimera",
+        "pack_id": "DREV-EN019",
         "date": "2010-08-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a8/ScrapChimera-DREV-EN-SR-UE.png"

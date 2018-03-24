@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 83102080,
-        "pack_id": "PP17-JP019",
         "pack": "Premium Pack 17",
-        "rarity": "Parallel Twister",
+        "pack_id": "PP17-JP019",
         "date": "2015-03-21"
     },
     "tcg": {
-        "id": 83102080,
-        "pack_id": "PGL2-DE019",
         "pack": "Premium Gold: Return of the Bling",
-        "rarity": "Parallel Twister",
+        "pack_id": "PGL2-DE019",
         "date": "2015-03-19"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a5/ParallelTwister-PGL2-EN-GScR-1E.png"

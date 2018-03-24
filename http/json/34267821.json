@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 34267821,
-        "pack_id": "DUEA-JP034",
         "pack": "Duelist Alliance",
-        "rarity": "Artifact Lancea",
+        "pack_id": "DUEA-JP034",
         "date": "2014-04-19"
     },
     "tcg": {
-        "id": 34267821,
-        "pack_id": "DUEA-DE034",
         "pack": "Duelist Alliance",
-        "rarity": "Artifact Lancea",
+        "pack_id": "DUEA-DE034",
         "date": "2014-08-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/02/ArtifactLancea-OP04-EN-C-UE.png"

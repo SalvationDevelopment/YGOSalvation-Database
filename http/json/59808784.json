@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 59808784,
-        "pack_id": "CROS-JP082",
         "pack": "Crossed Souls",
-        "rarity": "Berlineth the Firestorm Vassal",
+        "pack_id": "CROS-JP082",
         "date": "2015-02-14"
     },
     "tcg": {
-        "id": 59808784,
-        "pack_id": "SR01-DE014",
         "pack": "Emperor of Darkness Structure Deck",
-        "rarity": "Berlineth the Firestorm Vassal",
+        "pack_id": "SR01-DE014",
         "date": "2016-01-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0d/BerlineththeFirestormVassal-SR01-EN-C-1E.png"

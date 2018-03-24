@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58518520,
-        "pack_id": "20AP-JP052",
         "pack": "20th Anniversary Pack 2nd Wave",
-        "rarity": "Clear Effector",
+        "pack_id": "20AP-JP052",
         "date": "2017-02-11"
     },
     "tcg": {
-        "id": 58518520,
-        "pack_id": "DUSA-DE035",
         "pack": "Duelist Saga",
-        "rarity": "Clear Effector",
+        "pack_id": "DUSA-DE035",
         "date": "2017-03-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d3/ClearEffector-DUSA-EN-UR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1533292,
-        "pack_id": "DT05-JP024",
         "pack": "Duel Terminal - Champion of Chaos!!",
-        "rarity": "共通",
+        "pack_id": "DT05-JP024",
         "date": "2009-04-14"
     },
     "tcg": {
-        "id": 1533292,
-        "pack_id": "DT03-EN024",
         "pack": "Duel Terminal 3",
-        "rarity": "R-Genex Magma",
+        "pack_id": "DT03-EN024",
         "date": "2010-09-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c4/RGenexMagma-HA03-EN-SR-1E.png"

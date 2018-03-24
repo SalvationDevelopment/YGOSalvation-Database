@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 60102563,
-        "pack_id": "FET-JP012",
         "pack": "Flaming Eternity",
-        "rarity": "共通",
+        "pack_id": "FET-JP012",
         "date": "2004-11-25"
     },
     "tcg": {
-        "id": 60102563,
-        "pack_id": "FET-EN012",
         "pack": "Flaming Eternity",
-        "rarity": "Common",
+        "pack_id": "FET-EN012",
         "date": "2005-02-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/03/MajiGirePanda-DR3-EN-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 42671151,
-        "pack_id": "STOR-JP071",
         "pack": "Storm of Ragnarok",
-        "rarity": "The Golden Apples",
+        "pack_id": "STOR-JP071",
         "date": "2010-11-13"
     },
     "tcg": {
-        "id": 42671151,
-        "pack_id": "STOR-EN071",
         "pack": "Storm of Ragnarok",
-        "rarity": "The Golden Apples",
+        "pack_id": "STOR-EN071",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e6/TheGoldenApples-LEDU-EN-C-1E.png"

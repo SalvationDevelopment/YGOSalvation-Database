@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 9145181,
-        "pack_id": "STON-JP056",
         "pack": "Strike of Neos",
-        "rarity": "Ritual Sealing",
+        "pack_id": "STON-JP056",
         "date": "2006-11-16"
     },
     "tcg": {
-        "id": 9145181,
-        "pack_id": "STON-FR056",
         "pack": "Strike of Neos",
-        "rarity": "Ritual Sealing",
+        "pack_id": "STON-FR056",
         "date": "2007-02-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/61/RitualSealing-STON-EN-C-1E.jpg"

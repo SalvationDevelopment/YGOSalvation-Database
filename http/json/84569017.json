@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 84569017,
-        "pack_id": "GENF-JP018",
         "pack": "Generation Force",
-        "rarity": "Spearfish Soldier",
+        "pack_id": "GENF-JP018",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 84569017,
-        "pack_id": "GENF-EN018",
         "pack": "Generation Force",
-        "rarity": "Spearfish Soldier",
+        "pack_id": "GENF-EN018",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/15/SpearfishSoldier-GENF-EN-C-1E.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 98884569,
-        "pack_id": "WC11-JPB01",
         "pack": "Yu-Gi-Oh! 5D's World Championship 2011 - Over the Nexus Strategy Guide promotional card",
-        "rarity": "Blue Rose Dragon",
+        "pack_id": "WC11-JPB01",
         "date": "2011-02-24"
     },
     "tcg": {
-        "id": 98884569,
-        "pack_id": "EXVC-EN099",
         "pack": "Extreme Victory",
-        "rarity": "Blue Rose Dragon",
+        "pack_id": "EXVC-EN099",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/19/BlueRoseDragon-LC5D-EN-SR-1E.png"

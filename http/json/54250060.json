@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 54250060,
-        "pack_id": "CORE-JP090",
         "pack": "Clash of Rebellions",
-        "rarity": "Empowerment",
+        "pack_id": "CORE-JP090",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 54250060,
-        "pack_id": "TDIL-DE094",
         "pack": "The Dark Illusion",
-        "rarity": "Empowerment",
+        "pack_id": "TDIL-DE094",
         "date": "2016-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7a/Empowerment-MP17-EN-C-1E.png"

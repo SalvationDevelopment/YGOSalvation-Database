@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 30655537,
-        "pack_id": "CA-48",
         "pack": "Curse of Anubis",
-        "rarity": "Cyber Falcon",
+        "pack_id": "CA-48",
         "date": "2000-09-28"
     },
     "tcg": {
-        "id": 30655537,
-        "pack_id": "PSV-047",
         "pack": "Pharaoh's Servant",
-        "rarity": "Cyber Falcon",
+        "pack_id": "PSV-047",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/48/CyberFalcon-PSV-EN-C-UE.jpg"

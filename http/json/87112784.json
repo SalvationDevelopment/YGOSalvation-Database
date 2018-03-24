@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 87112784,
-        "pack_id": "SPDS-JP034",
         "pack": "Booster SP: Destiny Soldiers",
-        "rarity": "Banishment of the Darklords",
+        "pack_id": "SPDS-JP034",
         "date": "2016-08-06"
     },
     "tcg": {
-        "id": 87112784,
-        "pack_id": "DESO-DE034",
         "pack": "Destiny Soldiers",
-        "rarity": "Banishment of the Darklords",
+        "pack_id": "DESO-DE034",
         "date": "2016-11-17"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1a/BanishmentoftheDarklords-DESO-EN-ScR-1E.png"

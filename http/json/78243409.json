@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 78243409,
-        "pack_id": "307-008",
         "pack": "Invader of Darkness",
-        "rarity": "共通",
+        "pack_id": "307-008",
         "date": "2003-07-17"
     },
     "tcg": {
-        "id": 78243409,
-        "pack_id": "IOC-063",
         "pack": "Invasion of Chaos",
-        "rarity": "The Thing in the Crater",
+        "pack_id": "IOC-063",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/TheThingintheCrater-DR2-EN-C-UE.png"

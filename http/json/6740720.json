@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 6740720,
-        "pack_id": "",
         "pack": "Yu-Gi-Oh! Duel Monsters II: Dark duel Stories promotional cards",
-        "rarity": "Seiyaryu",
+        "pack_id": "",
         "date": "1999-07-08"
     },
     "tcg": {
-        "id": 6740720,
-        "pack_id": "DDS-004",
         "pack": "Yu-Gi-Oh! Dark Duel Stories",
-        "rarity": "Seiyaryu",
+        "pack_id": "DDS-004",
         "date": "2002-03-19"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/58/Seiyaryu-LCJW-EN-C-1E.png"

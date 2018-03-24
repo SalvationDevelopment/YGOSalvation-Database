@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 21454943,
-        "pack_id": "TDGS-JP020",
         "pack": "The Duelist Genesis",
-        "rarity": "Psychic Commander",
+        "pack_id": "TDGS-JP020",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 21454943,
-        "pack_id": "TDGS-EN020",
         "pack": "The Duelist Genesis",
-        "rarity": "Psychic Commander",
+        "pack_id": "TDGS-EN020",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/PsychicCommander-TU04-EN-R-UE.jpg"

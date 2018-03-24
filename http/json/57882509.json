@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 57882509,
-        "pack_id": "SM-14",
         "pack": "Spell of Mask",
-        "rarity": "Mask of Weakness",
+        "pack_id": "SM-14",
         "date": "2001-04-19"
     },
     "tcg": {
-        "id": 57882509,
-        "pack_id": "LON-015",
         "pack": "Labyrinth of Nightmare",
-        "rarity": "Mask of Weakness",
+        "pack_id": "LON-015",
         "date": "2003-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/df/MaskofWeakness-YS15-EU-C-1E.png"

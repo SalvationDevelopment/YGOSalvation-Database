@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 95083785,
-        "pack_id": "TDIL-JP077",
         "pack": "The Dark Illusion",
-        "rarity": "Premature Return",
+        "pack_id": "TDIL-JP077",
         "date": "2016-04-09"
     },
     "tcg": {
-        "id": 95083785,
-        "pack_id": "TDIL-DE077",
         "pack": "The Dark Illusion",
-        "rarity": "Premature Return",
+        "pack_id": "TDIL-DE077",
         "date": "2016-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/03/PrematureReturn-SDCL-EN-C-1E.png"

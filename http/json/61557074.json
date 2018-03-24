@@ -2,7 +2,7 @@
     "id": 61557074,
     "ot": 1,
     "alias": 0,
-    "setcode": 275,
+    "setcode": 530,
     "type": 524290,
     "atk": 0,
     "def": 0,
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP060",
+        "date": "2018-01-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/13/TempleoftheElementalLords-FLOD-JP-R.png"
 }

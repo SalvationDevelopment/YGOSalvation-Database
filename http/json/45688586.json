@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45688586,
-        "pack_id": "",
         "pack": "Booster 4",
-        "rarity": "Karakuri Spider",
+        "pack_id": "",
         "date": "1999-08-26"
     },
     "tcg": {
-        "id": 45688586,
-        "pack_id": "STBL-EN090",
         "pack": "Starstrike Blast",
-        "rarity": "Karakuri Spider",
+        "pack_id": "STBL-EN090",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2a/KarakuriSpider-STBL-EN-C-1E.jpg"

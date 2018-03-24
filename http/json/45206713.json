@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45206713,
-        "pack_id": "DOCS-JP011",
         "pack": "Dimension of Chaos",
-        "rarity": "D/D Swirl Slime",
+        "pack_id": "DOCS-JP011",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 45206713,
-        "pack_id": "DOCS-DE011",
         "pack": "Dimension of Chaos",
-        "rarity": "D/D Swirl Slime",
+        "pack_id": "DOCS-DE011",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/77/DDSwirlSlime-OP04-EN-SR-UE.png"

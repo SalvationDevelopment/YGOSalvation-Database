@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 42160203,
-        "pack_id": "COTD-JP041",
         "pack": "Code of the Duelist",
-        "rarity": "Supreme King Dragon Dark Rebellion",
+        "pack_id": "COTD-JP041",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE041"
+        "pack_id": "COTD-DE041",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8f/SupremeKingDragonDarkRebellion-LEDD-EN-C-1E.png"
 }

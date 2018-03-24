@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 54338958,
-        "pack_id": "DT10-JP026",
-        "pack": "DT10",
-        "rarity": "Steelswarm Cell",
-        "date": "2012-11-23"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 54338958,
-        "pack_id": "DT05-EN076",
         "pack": "Duel Terminal 5b",
-        "rarity": "Steelswarm Cell",
+        "pack_id": "DT05-EN076",
         "date": "2011-09-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7a/SteelswarmCell-HA05-EN-SR-UE.png"

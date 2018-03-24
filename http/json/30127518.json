@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 30127518,
-        "pack_id": "STBL-JP080",
         "pack": "Starstrike Blast",
-        "rarity": "Darkfall",
+        "pack_id": "STBL-JP080",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 30127518,
-        "pack_id": "STBL-EN080",
         "pack": "Starstrike Blast",
-        "rarity": "Darkfall",
+        "pack_id": "STBL-EN080",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ce/Darkfall-DL16-EN-R-UE-Red.png"

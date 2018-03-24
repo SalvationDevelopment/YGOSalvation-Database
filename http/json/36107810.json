@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 36107810,
-        "pack_id": "EXP2-JP028",
         "pack": "Extra Pack Volume 2",
-        "rarity": "Night's End Sorcerer",
+        "pack_id": "EXP2-JP028",
         "date": "2009-09-19"
     },
     "tcg": {
-        "id": 36107810,
-        "pack_id": "CSOC-EN087",
         "pack": "Crossroads of Chaos",
-        "rarity": "Night's End Sorcerer",
+        "pack_id": "CSOC-EN087",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2d/NightsEndSorcerer-OP03-EN-C-UE.png"

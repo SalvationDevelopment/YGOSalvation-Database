@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 72044448,
-        "pack_id": "PRIO-JP086",
         "pack": "Primal Origin",
-        "rarity": "Photon Stream of Destruction",
+        "pack_id": "PRIO-JP086",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 72044448,
-        "pack_id": "WSUP-DE011",
         "pack": "World Superstars",
-        "rarity": "Photon Stream of Destruction",
+        "pack_id": "WSUP-DE011",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4d/PhotonStreamofDestruction-WSUP-EN-SR-1E.png"

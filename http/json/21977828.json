@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 21977828,
-        "pack_id": "ORCS-JP022",
         "pack": "Order of Chaos",
-        "rarity": "Inzektor Giga-Weevil",
+        "pack_id": "ORCS-JP022",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 21977828,
-        "pack_id": "ORCS-EN022",
         "pack": "Order of Chaos",
-        "rarity": "Inzektor Giga-Weevil",
+        "pack_id": "ORCS-EN022",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8f/InzektorGigaWeevil-ORCS-EN-C-UE.png"

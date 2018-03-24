@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81439173,
-        "pack_id": "SJ2-029",
         "pack": "Structure Deck: Jonouchi Edition Volume 2",
-        "rarity": "Foolish Burial",
+        "pack_id": "SJ2-029",
         "date": "2003-08-07"
     },
     "tcg": {
-        "id": 81439173,
-        "pack_id": "SDRL-DE020",
         "pack": "Rise of the Dragon Lords Structure Deck",
-        "rarity": "Foolish Burial",
+        "pack_id": "SDRL-DE020",
         "date": "2007-10-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/FoolishBurial-SDPD-EN-C-1E.png"

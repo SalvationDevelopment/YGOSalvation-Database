@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 33972299,
-        "pack_id": "DT03-JP035",
         "pack": "Duel Terminal - Justice Strikes Back!!",
-        "rarity": "Geo Genex",
+        "pack_id": "DT03-JP035",
         "date": "2008-09-22"
     },
     "tcg": {
-        "id": 33972299,
-        "pack_id": "DT02-EN035",
         "pack": "Duel Terminal 2",
-        "rarity": "Geo Genex",
+        "pack_id": "DT02-EN035",
         "date": "2010-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/96/GeoGenex-HA02-EN-ScR-1E.png"

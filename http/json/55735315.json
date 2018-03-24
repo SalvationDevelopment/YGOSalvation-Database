@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55735315,
-        "pack_id": "SHSP-JP013",
         "pack": "Shadow Specters",
-        "rarity": "Soul Drain Dragon",
+        "pack_id": "SHSP-JP013",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 55735315,
-        "pack_id": "SHSP-DE013",
         "pack": "Shadow Specters",
-        "rarity": "Soul Drain Dragon",
+        "pack_id": "SHSP-DE013",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fd/SoulDrainDragon-SHSP-EN-C-1E.png"

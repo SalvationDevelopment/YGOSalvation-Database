@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 89326990,
-        "pack_id": "SPHR-JP007",
         "pack": "Booster SP: Highspeed Riders",
-        "rarity": "Speedroid Ohajikid",
+        "pack_id": "SPHR-JP007",
         "date": "2015-08-22"
     },
     "tcg": {
-        "id": 89326990,
-        "pack_id": "HSRD-DE007",
         "pack": "High-Speed Riders",
-        "rarity": "Speedroid Ohajikid",
+        "pack_id": "HSRD-DE007",
         "date": "2015-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/97/SpeedroidOhajikid-HSRD-EN-R-1E.png"

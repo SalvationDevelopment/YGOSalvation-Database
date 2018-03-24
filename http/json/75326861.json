@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 75326861,
-        "pack_id": "YF01-JP001",
         "pack": "Yu-Gi-Oh! 5D's Volume 1",
-        "rarity": "Dark Highlander",
+        "pack_id": "YF01-JP001",
         "date": "2010-04-30"
     },
     "tcg": {
-        "id": 75326861,
-        "pack_id": "YF01-EN001",
         "pack": "Yu-Gi-Oh! 5D's Volume 1",
-        "rarity": "Dark Highlander",
+        "pack_id": "YF01-EN001",
         "date": "2011-07-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/DarkHighlander-CT09-EN-SR-LE.png"

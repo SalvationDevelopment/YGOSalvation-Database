@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 74852097,
-        "pack_id": "CROS-JP001",
         "pack": "Crossed Souls",
-        "rarity": "Phantom Gryphon",
+        "pack_id": "CROS-JP001",
         "date": "2015-02-14"
     },
     "tcg": {
-        "id": 74852097,
-        "pack_id": "CROS-DE001",
         "pack": "Crossed Souls",
-        "rarity": "Phantom Gryphon",
+        "pack_id": "CROS-DE001",
         "date": "2015-05-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/84/PhantomGryphon-MP16-EN-C-1E.png"

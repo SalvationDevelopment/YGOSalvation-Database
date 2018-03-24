@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 59744639,
-        "pack_id": "G4-04",
         "pack": "Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist: Yugi Deck promotional cards",
-        "rarity": "Windstorm of Etaqua",
+        "pack_id": "G4-04",
         "date": "2000-12-07"
     },
     "tcg": {
-        "id": 59744639,
-        "pack_id": "PCY-001",
         "pack": "Yu-Gi-Oh! Power of Chaos: Yugi the Destiny",
-        "rarity": "Windstorm of Etaqua",
+        "pack_id": "PCY-001",
         "date": "2003-11-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e7/WindstormofEtaqua-BP03-EN-C-1E.png"

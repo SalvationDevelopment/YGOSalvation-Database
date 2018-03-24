@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 44910027,
-        "pack_id": "LE5-010",
         "pack": "Limited Edition 5",
-        "rarity": "Victory Dragon",
+        "pack_id": "LE5-010",
         "date": "2003-04-08"
     },
     "tcg": {
-        "id": 44910027,
-        "pack_id": "WCS-002",
         "pack": "Yu-Gi-Oh! World Championship 2003 prize cards",
-        "rarity": "Victory Dragon",
+        "pack_id": "WCS-002",
         "date": "2003-06-27"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/42/VictoryDragon-RP02-EN-ScR-UE.png"

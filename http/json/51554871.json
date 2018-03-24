@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 51554871,
-        "pack_id": "DT09-JP027",
-        "pack": "デュエルターミナル 「ヴァイロン降臨！！」",
-        "rarity": "共通",
-        "date": 1272344400000
-    },
+    "ocg": {},
     "tcg": {
-        "id": 51554871,
-        "pack_id": "DT05-EN027",
         "pack": "Duel Terminal 5a",
-        "rarity": "Kayenn, the Master Magma Blacksmith",
+        "pack_id": "DT05-EN027",
         "date": "2011-05-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c0/KayenntheMasterMagmaBlacksmith-HA05-EN-SR-UE.png"

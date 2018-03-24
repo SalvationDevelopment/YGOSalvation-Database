@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 6285791,
-        "pack_id": "",
         "pack": "Booster 4",
-        "rarity": "The Wicked Worm Beast",
+        "pack_id": "",
         "date": "1999-08-26"
     },
     "tcg": {
-        "id": 6285791,
-        "pack_id": "SDK-004",
         "pack": "Starter Deck: Kaiba",
-        "rarity": "The Wicked Worm Beast",
+        "pack_id": "SDK-004",
         "date": "2002-03-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/12/TheWickedWormBeast-GLD4-EN-C-LE.png"

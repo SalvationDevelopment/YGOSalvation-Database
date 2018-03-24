@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 47778083,
-        "pack_id": "RGBT-JP077",
         "pack": "Raging Battle",
-        "rarity": "Bone Temple Block",
+        "pack_id": "RGBT-JP077",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 47778083,
-        "pack_id": "RGBT-EN077",
         "pack": "Raging Battle",
-        "rarity": "Bone Temple Block",
+        "pack_id": "RGBT-EN077",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/75/BoneTempleBlock-RGBT-EN-SP-1E.png"

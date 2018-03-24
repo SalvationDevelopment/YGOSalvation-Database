@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 32912040,
-        "pack_id": "TDIL-JP029",
         "pack": "The Dark Illusion",
-        "rarity": "Triamid Master",
+        "pack_id": "TDIL-JP029",
         "date": "2016-04-09"
     },
     "tcg": {
-        "id": 32912040,
-        "pack_id": "TDIL-DE029",
         "pack": "The Dark Illusion",
-        "rarity": "Triamid Master",
+        "pack_id": "TDIL-DE029",
         "date": "2016-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/99/TriamidMaster-TDIL-EN-R-1E.png"

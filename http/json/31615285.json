@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 31615285,
-        "pack_id": "EXP3-JP035",
         "pack": "Extra Pack Volume 3",
-        "rarity": "Cactus Bouncer",
+        "pack_id": "EXP3-JP035",
         "date": "2010-09-18"
     },
     "tcg": {
-        "id": 31615285,
-        "pack_id": "ABPF-DE084",
         "pack": "Absolute Powerforce",
-        "rarity": "Cactus Bouncer",
+        "pack_id": "ABPF-DE084",
         "date": "2010-02-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/CactusBouncer-BLLR-EN-UR-1E.png"

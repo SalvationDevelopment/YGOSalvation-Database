@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63583431,
-        "pack_id": "DP14-JP026",
         "pack": "Duelist Pack: Yuma Edition 2: Gogogo & Dododo",
-        "rarity": "Gogogo Talisman",
+        "pack_id": "DP14-JP026",
         "date": "2013-09-21"
     },
     "tcg": {
-        "id": 63583431,
-        "pack_id": "SECE-DE098",
         "pack": "Secrets of Eternity",
-        "rarity": "Gogogo Talisman",
+        "pack_id": "SECE-DE098",
         "date": "2015-01-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a4/GogogoTalisman-SECE-EN-C-1E.png"

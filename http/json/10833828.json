@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 10833828,
-        "pack_id": "TDIL-JP056",
         "pack": "The Dark Illusion",
-        "rarity": "Forbidden Dark Contract with the Swamp King",
+        "pack_id": "TDIL-JP056",
         "date": "2016-04-09"
     },
     "tcg": {
-        "id": 10833828,
-        "pack_id": "TDIL-DE056",
         "pack": "The Dark Illusion",
-        "rarity": "Forbidden Dark Contract with the Swamp King",
+        "pack_id": "TDIL-DE056",
         "date": "2016-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/83/ForbiddenDarkContractwiththeSwampKing-MP17-EN-C-1E.png"

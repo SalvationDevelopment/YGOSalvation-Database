@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 46534755,
-        "pack_id": "MR-14",
         "pack": "Magic Ruler",
-        "rarity": "共通",
+        "pack_id": "MR-14",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 46534755,
-        "pack_id": "MRL-014",
         "pack": "Spell Ruler",
-        "rarity": "Fire Kraken",
+        "pack_id": "MRL-014",
         "date": "2002-09-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4a/FireKraken-SRL-EN-C-UE.png"

@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legend of Blue Eyes White Dragon",
+        "pack_id": "LOB-003",
+        "date": "2002-03-08"
+    },
+    "ocg": {
+        "pack": "Starter Box: Theatrical Release",
+        "pack_id": "",
+        "date": "1999-03-06"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/15/FlameSwordsman-MIL1-EN-R-1E.png"
 }

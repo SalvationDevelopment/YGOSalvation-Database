@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 90640901,
-        "pack_id": "ORCS-JP012",
         "pack": "Order of Chaos",
-        "rarity": "Reverse Buster",
+        "pack_id": "ORCS-JP012",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 90640901,
-        "pack_id": "ORCS-EN012",
         "pack": "Order of Chaos",
-        "rarity": "Reverse Buster",
+        "pack_id": "ORCS-EN012",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7c/ReverseBuster-SP14-EN-C-1E.png"

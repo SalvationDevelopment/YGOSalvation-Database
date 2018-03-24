@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 72150572,
-        "pack_id": "STON-JP055",
         "pack": "Strike of Neos",
-        "rarity": "Anti-Fusion Device",
+        "pack_id": "STON-JP055",
         "date": "2006-11-16"
     },
     "tcg": {
-        "id": 72150572,
-        "pack_id": "STON-FR055",
         "pack": "Strike of Neos",
-        "rarity": "Anti-Fusion Device",
+        "pack_id": "STON-FR055",
         "date": "2007-02-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a6/AntiFusionDevice-STON-EN-C-1E.jpg"

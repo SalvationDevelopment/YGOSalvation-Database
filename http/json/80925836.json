@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80925836,
-        "pack_id": "RGBT-JP026",
         "pack": "Raging Battle",
-        "rarity": "Koa'ki Meiru Doom",
+        "pack_id": "RGBT-JP026",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 80925836,
-        "pack_id": "RGBT-EN026",
         "pack": "Raging Battle",
-        "rarity": "Koa'ki Meiru Doom",
+        "pack_id": "RGBT-EN026",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9b/KoakiMeiruDoom-BP03-EN-R-1E.png"

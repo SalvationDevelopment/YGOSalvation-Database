@@ -31,18 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 38898779,
-        "pack_id": "EXP2-JP031",
         "pack": "Extra Pack Volume 2",
-        "rarity": "Colossal Fighter/Assault Mode",
+        "pack_id": "EXP2-JP031",
         "date": "2009-09-19"
     },
-    "tcg": {
-        "id": 38898779,
-        "pack_id": "CRMS-ENSP1",
-        "pack": "CRMS",
-        "rarity": "Colossal Fighter/Assault Mode",
-        "date": "2009-02-28"
-    },
+    "tcg": {},
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/48/ColossalFighterAssaultMode-CRMS-EN-SR-LE.png"
 }

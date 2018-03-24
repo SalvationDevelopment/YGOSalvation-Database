@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 32761286,
-        "pack_id": "STOR-JP029",
         "pack": "Storm of Ragnarok",
-        "rarity": "Scrap Worm",
+        "pack_id": "STOR-JP029",
         "date": "2010-11-13"
     },
     "tcg": {
-        "id": 32761286,
-        "pack_id": "STOR-EN029",
         "pack": "Storm of Ragnarok",
-        "rarity": "Scrap Worm",
+        "pack_id": "STOR-EN029",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2b/ScrapWorm-STOR-EN-R-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 71175527,
-        "pack_id": "PRIO-JP029",
         "pack": "Primal Origin",
-        "rarity": "Pilica, Descendant of Gusto",
+        "pack_id": "PRIO-JP029",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 71175527,
-        "pack_id": "PRIO-DE029",
         "pack": "Primal Origin",
-        "rarity": "Pilica, Descendant of Gusto",
+        "pack_id": "PRIO-DE029",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/78/PilicaDescendantofGusto-PRIO-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 95457011,
-        "pack_id": "SR01-JP003",
         "pack": "Structure Deck R: Advent of the True Monarch",
-        "rarity": "Edea the Heavenly Squire",
+        "pack_id": "SR01-JP003",
         "date": "2015-09-19"
     },
     "tcg": {
-        "id": 95457011,
-        "pack_id": "SR01-DE003",
         "pack": "Emperor of Darkness Structure Deck",
-        "rarity": "Edea the Heavenly Squire",
+        "pack_id": "SR01-DE003",
         "date": "2016-01-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/00/EdeatheHeavenlySquire-SR01-EN-SR-1E.png"

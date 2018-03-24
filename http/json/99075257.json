@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99075257,
-        "pack_id": "EOJ-JP053",
         "pack": "Enemy of Justice",
-        "rarity": "D - Time",
+        "pack_id": "EOJ-JP053",
         "date": "2006-02-16"
     },
     "tcg": {
-        "id": 99075257,
-        "pack_id": "EOJ-DE053",
         "pack": "Enemy of Justice",
-        "rarity": "D - Time",
+        "pack_id": "EOJ-DE053",
         "date": "2006-05-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/86/DTime-LCGX-EN-R-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 88650530,
-        "pack_id": "DT01-JP026",
         "pack": "Duel Terminal - Synchro Awakening!!",
-        "rarity": "Worm Apocalypse",
+        "pack_id": "DT01-JP026",
         "date": "2008-04-12"
     },
     "tcg": {
-        "id": 88650530,
-        "pack_id": "HA01-DE017",
         "pack": "Hidden Arsenal",
-        "rarity": "Worm Apocalypse",
+        "pack_id": "HA01-DE017",
         "date": "2009-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9a/WormApocalypse-BPW2-NA-C-1E.png"

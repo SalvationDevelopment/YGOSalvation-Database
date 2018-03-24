@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 68226653,
-        "pack_id": "DT01-JP016",
         "pack": "Duel Terminal - Synchro Awakening!!",
-        "rarity": "Flamvell Dragnov",
+        "pack_id": "DT01-JP016",
         "date": "2008-04-12"
     },
     "tcg": {
-        "id": 68226653,
-        "pack_id": "HA01-DE007",
         "pack": "Hidden Arsenal",
-        "rarity": "Flamvell Dragnov",
+        "pack_id": "HA01-DE007",
         "date": "2009-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e0/FlamvellDragnov-HA01-EN-SR-LE.png"

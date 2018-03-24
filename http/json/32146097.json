@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 32146097,
-        "pack_id": "CORE-JP011",
         "pack": "Clash of Rebellions",
-        "rarity": "D/D Pandora",
+        "pack_id": "CORE-JP011",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 32146097,
-        "pack_id": "CORE-DE011",
         "pack": "Clash of Rebellions",
-        "rarity": "D/D Pandora",
+        "pack_id": "CORE-DE011",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1b/DDPandora-MP16-EN-C-1E.png"

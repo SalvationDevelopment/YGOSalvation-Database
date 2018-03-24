@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 98225108,
-        "pack_id": "CBLZ-JP042",
         "pack": "Cosmo Blazer",
-        "rarity": "Leotaur",
+        "pack_id": "CBLZ-JP042",
         "date": "2012-11-17"
     },
     "tcg": {
-        "id": 98225108,
-        "pack_id": "CBLZ-DE042",
         "pack": "Cosmo Blazer",
-        "rarity": "Leotaur",
+        "pack_id": "CBLZ-DE042",
         "date": "2013-01-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/Leotaur-LEDU-EN-C-1E.png"

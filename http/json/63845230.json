@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63845230,
-        "pack_id": "RATE-JP032",
         "pack": "Raging Tempest",
-        "rarity": "Eater of Millions",
+        "pack_id": "RATE-JP032",
         "date": "2016-10-08"
     },
     "tcg": {
-        "id": 63845230,
-        "pack_id": "RATE-DE032",
         "pack": "Raging Tempest",
-        "rarity": "Eater of Millions",
+        "pack_id": "RATE-DE032",
         "date": "2017-02-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a0/EaterofMillions-MP17-EN-C-1E.png"

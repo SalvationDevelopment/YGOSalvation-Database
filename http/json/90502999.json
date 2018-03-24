@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 90502999,
-        "pack_id": "TB-20",
         "pack": "Thousand Eyes Bible",
-        "rarity": "Ground Collapse",
+        "pack_id": "TB-20",
         "date": "2000-12-14"
     },
     "tcg": {
-        "id": 90502999,
-        "pack_id": "PSV-070",
         "pack": "Pharaoh's Servant",
-        "rarity": "Ground Collapse",
+        "pack_id": "PSV-070",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fa/GroundCollapse-DB1-EN-C-UE.jpg"

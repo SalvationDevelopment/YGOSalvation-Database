@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 83133491,
-        "pack_id": "306-053",
         "pack": "Controller of Chaos",
-        "rarity": "Zero Gravity",
+        "pack_id": "306-053",
         "date": "2003-04-24"
     },
     "tcg": {
-        "id": 83133491,
-        "pack_id": "IOC-053",
         "pack": "Invasion of Chaos",
-        "rarity": "Zero Gravity",
+        "pack_id": "IOC-053",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/67/ZeroGravity-BP03-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81599449,
-        "pack_id": "INOV-JP024",
         "pack": "Invasion: Vengeance",
-        "rarity": "Chemicritter Carbo Crab",
+        "pack_id": "INOV-JP024",
         "date": "2016-07-09"
     },
     "tcg": {
-        "id": 81599449,
-        "pack_id": "INOV-DE024",
         "pack": "Invasion: Vengeance",
-        "rarity": "Chemicritter Carbo Crab",
+        "pack_id": "INOV-DE024",
         "date": "2016-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/76/ChemicritterCarboCrab-INOV-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53291093,
-        "pack_id": "CRMS-JP062",
         "pack": "Crimson Crisis",
-        "rarity": "Mysterious Triangle",
+        "pack_id": "CRMS-JP062",
         "date": "2008-11-15"
     },
     "tcg": {
-        "id": 53291093,
-        "pack_id": "CRMS-EN062",
         "pack": "Crimson Crisis",
-        "rarity": "Mysterious Triangle",
+        "pack_id": "CRMS-EN062",
         "date": "2009-02-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b8/MysteriousTriangle-CRMS-EN-C-1E.png"

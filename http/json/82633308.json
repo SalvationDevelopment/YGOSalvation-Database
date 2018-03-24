@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 82633308,
-        "pack_id": "TDGS-JP070",
         "pack": "The Duelist Genesis",
-        "rarity": "Psychic Overload",
+        "pack_id": "TDGS-JP070",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 82633308,
-        "pack_id": "TDGS-EN070",
         "pack": "The Duelist Genesis",
-        "rarity": "Psychic Overload",
+        "pack_id": "TDGS-EN070",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/ba/PsychicOverload-HSRD-EN-C-1E.png"

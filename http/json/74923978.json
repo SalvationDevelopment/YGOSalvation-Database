@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 74923978,
-        "pack_id": "CA-25",
         "pack": "Curse of Anubis",
-        "rarity": "Forced Requisition",
+        "pack_id": "CA-25",
         "date": "2000-09-28"
     },
     "tcg": {
-        "id": 74923978,
-        "pack_id": "PSV-025",
         "pack": "Pharaoh's Servant",
-        "rarity": "Forced Requisition",
+        "pack_id": "PSV-025",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bb/ForcedRequisition-DB1-EN-C-UE.jpg"

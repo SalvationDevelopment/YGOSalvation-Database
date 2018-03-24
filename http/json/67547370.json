@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67547370,
-        "pack_id": "CPF1-JP018",
         "pack": "Collectors Pack: Duelist of Flash Version",
-        "rarity": "Zushin the Sleeping Giant",
+        "pack_id": "CPF1-JP018",
         "date": "2016-05-14"
     },
     "tcg": {
-        "id": 67547370,
-        "pack_id": "DRL3-DE018",
         "pack": "Dragons of Legend: Unleashed",
-        "rarity": "Zushin the Sleeping Giant",
+        "pack_id": "DRL3-DE018",
         "date": "2016-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/01/ZushintheSleepingGiant-DRL3-EN-UR-1E.png"

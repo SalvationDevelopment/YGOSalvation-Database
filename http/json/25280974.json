@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 25280974,
-        "pack_id": "DP16-JP003",
         "pack": "Duelist Pack: Battle City",
-        "rarity": "Legion the Fiend Jester",
+        "pack_id": "DP16-JP003",
         "date": "2015-06-06"
     },
     "tcg": {
-        "id": 25280974,
-        "pack_id": "DPBC-EN003",
         "pack": "Duelist Pack: Battle City",
-        "rarity": "Legion the Fiend Jester",
+        "pack_id": "DPBC-EN003",
         "date": "2015-06-19"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fc/LegiontheFiendJester-DPBC-EN-SR-1E.png"

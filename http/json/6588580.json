@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 6588580,
-        "pack_id": "DT03-JP034",
         "pack": "Duel Terminal - Justice Strikes Back!!",
-        "rarity": "Thermal Genex",
+        "pack_id": "DT03-JP034",
         "date": "2008-09-22"
     },
     "tcg": {
-        "id": 6588580,
-        "pack_id": "DT02-EN034",
         "pack": "Duel Terminal 2",
-        "rarity": "Thermal Genex",
+        "pack_id": "DT02-EN034",
         "date": "2010-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/db/ThermalGenex-HA02-EN-ScR-1E.jpg"

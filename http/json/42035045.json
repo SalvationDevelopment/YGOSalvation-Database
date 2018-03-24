@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 42035045,
-        "pack_id": "G3-B1",
         "pack": "Yu-Gi-Oh! Duel Monsters 3: Tri-Holy God Advent Game Guide 1 promotional card",
-        "rarity": "Panther Warrior",
+        "pack_id": "G3-B1",
         "date": "2000-07-13"
     },
     "tcg": {
-        "id": 42035045,
-        "pack_id": "CT2-DE006",
         "pack": "Collectible Tins 2005",
-        "rarity": "Panther Warrior",
+        "pack_id": "CT2-DE006",
         "date": "2005-09-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e6/PantherWarrior-MIL1-EN-R-1E.png"

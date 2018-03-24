@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 85646474,
-        "pack_id": "LVAL-JP031",
         "pack": "Legacy of the Valiant",
-        "rarity": "Gravekeeper's Nobleman",
+        "pack_id": "LVAL-JP031",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 85646474,
-        "pack_id": "LVAL-DE031",
         "pack": "Legacy of the Valiant",
-        "rarity": "Gravekeeper's Nobleman",
+        "pack_id": "LVAL-DE031",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e4/GravekeepersNobleman-MP14-EN-UR-1E.png"

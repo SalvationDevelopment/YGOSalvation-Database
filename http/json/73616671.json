@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 73616671,
-        "pack_id": "TDIL-JP058",
         "pack": "The Dark Illusion",
-        "rarity": "Illusion Magic",
+        "pack_id": "TDIL-JP058",
         "date": "2016-04-09"
     },
     "tcg": {
-        "id": 73616671,
-        "pack_id": "TDIL-DE058",
         "pack": "The Dark Illusion",
-        "rarity": "Illusion Magic",
+        "pack_id": "TDIL-DE058",
         "date": "2016-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/IllusionMagic-LEDD-EN-C-1E.png"

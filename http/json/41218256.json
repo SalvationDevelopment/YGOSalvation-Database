@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 41218256,
-        "pack_id": "",
         "pack": "Vol.2",
-        "rarity": "Claw Reacher",
+        "pack_id": "",
         "date": "1999-03-27"
     },
     "tcg": {
-        "id": 41218256,
-        "pack_id": "SDY-018",
         "pack": "Starter Deck: Yugi",
-        "rarity": "Claw Reacher",
+        "pack_id": "SDY-018",
         "date": "2002-03-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7d/ClawReacher-SDY-NA-C-1E.png"

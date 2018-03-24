@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 17086528,
-        "pack_id": "CORE-JP004",
         "pack": "Clash of Rebellions",
-        "rarity": "Xiangsheng Magician",
+        "pack_id": "CORE-JP004",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 17086528,
-        "pack_id": "CORE-DE004",
         "pack": "Clash of Rebellions",
-        "rarity": "Xiangsheng Magician",
+        "pack_id": "CORE-DE004",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/97/XiangshengMagician-SP17-EN-C-1E.png"

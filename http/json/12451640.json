@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12451640,
-        "pack_id": "SECE-JP039",
         "pack": "Secrets of Eternity",
-        "rarity": "Frontline Observer",
+        "pack_id": "SECE-JP039",
         "date": "2014-11-15"
     },
     "tcg": {
-        "id": 12451640,
-        "pack_id": "SECE-DE039",
         "pack": "Secrets of Eternity",
-        "rarity": "Frontline Observer",
+        "pack_id": "SECE-DE039",
         "date": "2015-01-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c1/FrontlineObserver-SECE-EN-R-1E.png"

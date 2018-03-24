@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 20871001,
-        "pack_id": "",
         "pack": "Booster 1",
-        "rarity": "Blue Medicine",
+        "pack_id": "",
         "date": "1999-03-01"
     },
     "tcg": {
-        "id": 20871001,
-        "pack_id": "TP1-008",
         "pack": "Tournament Pack: 1st Season",
-        "rarity": "Blue Medicine",
+        "pack_id": "TP1-008",
         "date": "2002-09-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1b/BlueMedicine-TP1-EU-R-UE.jpg"

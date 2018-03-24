@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 5128859,
-        "pack_id": "TAEV-JP041",
         "pack": "Tactical Evolution",
-        "rarity": "Elemental HERO Marine Neos",
+        "pack_id": "TAEV-JP041",
         "date": "2007-05-12"
     },
     "tcg": {
-        "id": 5128859,
-        "pack_id": "TAEV-FR041",
         "pack": "Tactical Evolution",
-        "rarity": "Elemental HERO Marine Neos",
+        "pack_id": "TAEV-FR041",
         "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c7/ElementalHEROMarineNeos-LCGX-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 26701483,
-        "pack_id": "ADDR-JP002",
         "pack": "Academy Duel Disk Osiris Red promotional cards",
-        "rarity": "Card Ejector",
+        "pack_id": "ADDR-JP002",
         "date": "2007-11-23"
     },
     "tcg": {
-        "id": 26701483,
-        "pack_id": "DPCT-EN001",
         "pack": "Duelist Pack Collection Tin 2008",
-        "rarity": "Card Ejector",
+        "pack_id": "DPCT-EN001",
         "date": "2008-03-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4a/CardEjector-RYMP-EN-C-UE.png"

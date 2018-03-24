@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 24268052,
-        "pack_id": "TDGS-JP065",
         "pack": "The Duelist Genesis",
-        "rarity": "Defense Draw",
+        "pack_id": "TDGS-JP065",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 24268052,
-        "pack_id": "TDGS-EN065",
         "pack": "The Duelist Genesis",
-        "rarity": "Defense Draw",
+        "pack_id": "TDGS-EN065",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/DefenseDraw-DEM3-EU-C-UE.png"

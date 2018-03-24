@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 47264717,
-        "pack_id": "CPL1-JP026",
         "pack": "Collectors Pack: Duelist of Legend Version",
-        "rarity": "Shooting Star",
+        "pack_id": "CPL1-JP026",
         "date": "2014-05-17"
     },
     "tcg": {
-        "id": 47264717,
-        "pack_id": "DRLG-DE026",
         "pack": "Dragons of Legend",
-        "rarity": "Shooting Star",
+        "pack_id": "DRLG-DE026",
         "date": "2014-04-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c6/ShootingStar-DRLG-EN-ScR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 84341431,
-        "pack_id": "EP14-JP014",
         "pack": "Extra Pack: Knights of Order",
-        "rarity": "Archfiend Giant",
+        "pack_id": "EP14-JP014",
         "date": "2014-09-13"
     },
     "tcg": {
-        "id": 84341431,
-        "pack_id": "SHSP-DE083",
         "pack": "Shadow Specters",
-        "rarity": "Archfiend Giant",
+        "pack_id": "SHSP-DE083",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/de/ArchfiendGiant-MP14-EN-R-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 61258740,
-        "pack_id": "DP15-JP024",
         "pack": "Duelist Pack: Kamishiro Siblings Edition",
-        "rarity": "Sea Lord's Amulet",
+        "pack_id": "DP15-JP024",
         "date": "2013-10-19"
     },
     "tcg": {
-        "id": 61258740,
-        "pack_id": "DUSA-DE009",
         "pack": "Duelist Saga",
-        "rarity": "Sea Lord's Amulet",
+        "pack_id": "DUSA-DE009",
         "date": "2017-03-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/aa/SeaLordsAmulet-DUSA-EN-UR-1E.png"

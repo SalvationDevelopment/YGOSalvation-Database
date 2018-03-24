@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 52665542,
-        "pack_id": "EP15-JP045",
         "pack": "Extra Pack 2015",
-        "rarity": "Lightsworn Sanctuary",
+        "pack_id": "EP15-JP045",
         "date": "2015-09-19"
     },
     "tcg": {
-        "id": 52665542,
-        "pack_id": "SDLI-DE024",
         "pack": "Realm of Light Structure Deck",
-        "rarity": "Lightsworn Sanctuary",
+        "pack_id": "SDLI-DE024",
         "date": "2014-06-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0f/LightswornSanctuary-SDLI-EN-UR-1E.png"

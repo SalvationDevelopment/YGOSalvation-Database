@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 79571449,
-        "pack_id": "",
         "pack": "Booster 4",
-        "rarity": "Graceful Charity",
+        "pack_id": "",
         "date": "1999-08-26"
     },
     "tcg": {
-        "id": 79571449,
-        "pack_id": "SDP-040",
         "pack": "Starter Deck: Pegasus",
-        "rarity": "Graceful Charity",
+        "pack_id": "SDP-040",
         "date": "2003-03-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/GracefulCharity-BP02-EN-R-1E.png"

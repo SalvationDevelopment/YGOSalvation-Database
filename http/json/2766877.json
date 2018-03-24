@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 2766877,
-        "pack_id": "DT12-JP040",
         "pack": "Duel Terminal - Xyz Startup!!",
-        "rarity": "Daigusto Phoenix",
+        "pack_id": "DT12-JP040",
         "date": "2011-04-01"
     },
     "tcg": {
-        "id": 2766877,
-        "pack_id": "DT06-EN090",
         "pack": "Duel Terminal 6b",
-        "rarity": "Daigusto Phoenix",
+        "pack_id": "DT06-EN090",
         "date": "2012-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cd/DaigustoPhoenix-HA06-EN-ScR-1E.png"

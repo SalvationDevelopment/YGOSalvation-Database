@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 23303072,
-        "pack_id": "TDGS-JP014",
         "pack": "The Duelist Genesis",
-        "rarity": "Montage Dragon",
+        "pack_id": "TDGS-JP014",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 23303072,
-        "pack_id": "TDGS-EN014",
         "pack": "The Duelist Genesis",
-        "rarity": "Montage Dragon",
+        "pack_id": "TDGS-EN014",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dd/MontageDragon-BPW2-NA-C-1E.png"

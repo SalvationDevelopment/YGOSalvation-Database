@@ -2,7 +2,7 @@
     "id": 10158145,
     "ot": 1,
     "alias": 0,
-    "setcode": 274,
+    "setcode": 0,
     "type": 33,
     "atk": 0,
     "def": 0,
@@ -10,8 +10,8 @@
     "race": 16777216,
     "attribute": 32,
     "category": 262144,
-    "name": "Destroymare Iblee",
-    "desc": "When this card is Normal Summoned: You can target 1 Link Monster in your GY; Special Summon it to your zone linked to this card, but change its ATK to 0, also it has its effects negated. You cannot Special Summon monsters, except Link Monsters. If this card you control is sent to your GY: You can Special Summon this card to your opponent's field in Defense Position. You can only use this effect of \"Destroymare Iblee\" once per turn.",
+    "name": "Knightmare Iblee",
+    "desc": "When this card is Normal Summoned: You can target 1 Link Monster in your GY; Special Summon it linked to this card, but change its ATK to 0, also it has its effects negated. You cannot Special Summon monsters, except Link Monsters. If this card you control is sent to your GY: You can Special Summon this card to your opponent's field in Defense Position. You can only use this effect of \"Destroymare Iblee\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP017",
+        "date": "2018-01-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/89/KnightmareIblee-FLOD-JP-SR.png"
 }

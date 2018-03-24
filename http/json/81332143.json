@@ -31,18 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81332143,
-        "pack_id": "YCB-001",
         "pack": "Yu-Gi-Oh! Character Guidebook: The Gospel of Truth",
-        "rarity": "Yu-Jo Friendship",
+        "pack_id": "YCB-001",
         "date": "2002-11-01"
     },
-    "tcg": {
-        "id": 81332143,
-        "pack_id": "JUMP-EN007",
-        "pack": "JUMP",
-        "rarity": "Yu-Jo Friendship",
-        "date": 1154390400000
-    },
+    "tcg": {},
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/34/YuJoFriendship-JUMP-EN-UR-LE.png"
 }

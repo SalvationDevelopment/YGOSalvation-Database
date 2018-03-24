@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 74605254,
-        "pack_id": "SPRG-JP003",
         "pack": "Booster SP: Raging Masters",
-        "rarity": "D/D Savant Galilei",
+        "pack_id": "SPRG-JP003",
         "date": "2014-08-09"
     },
     "tcg": {
-        "id": 74605254,
-        "pack_id": "DOCS-DE091",
         "pack": "Dimension of Chaos",
-        "rarity": "D/D Savant Galilei",
+        "pack_id": "DOCS-DE091",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4a/DDSavantGalilei-SDPD-EN-C-1E.png"

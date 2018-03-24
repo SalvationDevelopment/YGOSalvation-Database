@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 54351224,
-        "pack_id": "SOD-JP048",
         "pack": "Soul of the Duelist",
-        "rarity": "Ritual Weapon",
+        "pack_id": "SOD-JP048",
         "date": "2004-05-27"
     },
     "tcg": {
-        "id": 54351224,
-        "pack_id": "SOD-DE048",
         "pack": "Soul of the Duelist",
-        "rarity": "Ritual Weapon",
+        "pack_id": "SOD-DE048",
         "date": "2004-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/be/RitualWeapon-THSF-EN-SR-1E.png"

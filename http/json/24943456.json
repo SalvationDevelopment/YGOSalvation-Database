@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 24943456,
-        "pack_id": "EXVC-JP041",
         "pack": "Extreme Victory",
-        "rarity": "T.G. Power Gladiator",
+        "pack_id": "EXVC-JP041",
         "date": "2011-02-11"
     },
     "tcg": {
-        "id": 24943456,
-        "pack_id": "EXVC-EN041",
         "pack": "Extreme Victory",
-        "rarity": "T.G. Power Gladiator",
+        "pack_id": "EXVC-EN041",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/de/TGPowerGladiator-LC5D-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81919143,
-        "pack_id": "GX03-JP001",
         "pack": "Yu-Gi-Oh! GX SPIRIT CALLER Bundles",
-        "rarity": "Brain Crusher",
+        "pack_id": "GX03-JP001",
         "date": "2006-11-30"
     },
     "tcg": {
-        "id": 81919143,
-        "pack_id": "GX03-EN001",
         "pack": "Yu-Gi-Oh! GX SPIRIT CALLER Bundles",
-        "rarity": "Brain Crusher",
+        "pack_id": "GX03-EN001",
         "date": "2007-01-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e8/BrainCrusher-BP02-EN-R-1E.png"

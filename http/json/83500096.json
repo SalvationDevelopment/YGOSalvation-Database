@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 83500096,
-        "pack_id": "DT07-JP015",
         "pack": "Duel Terminal - Charge of the Genex!!",
-        "rarity": "Genex Ally Solid",
+        "pack_id": "DT07-JP015",
         "date": "2009-10-01"
     },
     "tcg": {
-        "id": 83500096,
-        "pack_id": "DT04-EN015",
         "pack": "Duel Terminal 4",
-        "rarity": "Genex Ally Solid",
+        "pack_id": "DT04-EN015",
         "date": "2011-01-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9c/GenexAllySolid-HA04-EN-SR-1E.png"

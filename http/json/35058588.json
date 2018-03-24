@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 35058588,
-        "pack_id": "MVP1-JP042",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Cubic Wave",
+        "pack_id": "MVP1-JP042",
         "date": "2016-04-23"
     },
     "tcg": {
-        "id": 35058588,
-        "pack_id": "MVP1-DE042",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Cubic Wave",
+        "pack_id": "MVP1-DE042",
         "date": "2016-07-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/CubicWave-MVP1-EN-GUR-1E.png"

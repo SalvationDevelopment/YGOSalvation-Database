@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63442604,
-        "pack_id": "302-047",
         "pack": "Advent of Union",
-        "rarity": "Physical Double",
+        "pack_id": "302-047",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 63442604,
-        "pack_id": "MFC-047",
         "pack": "Magician's Force",
-        "rarity": "Physical Double",
+        "pack_id": "MFC-047",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/PhysicalDouble-GLD5-EN-C-LE.png"

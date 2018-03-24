@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 10920352,
-        "pack_id": "PP13-JP006",
         "pack": "Premium Pack 13",
-        "rarity": "Masked HERO Vapor",
+        "pack_id": "PP13-JP006",
         "date": "2011-03-12"
     },
     "tcg": {
-        "id": 10920352,
-        "pack_id": "GENF-EN095",
         "pack": "Generation Force",
-        "rarity": "Masked HERO Vapor",
+        "pack_id": "GENF-EN095",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3b/MaskedHEROVapor-GENF-EN-SR-1E.jpg"

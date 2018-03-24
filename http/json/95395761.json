@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 95395761,
-        "pack_id": "ORCS-JP018",
         "pack": "Order of Chaos",
-        "rarity": "Inzektor Ant",
+        "pack_id": "ORCS-JP018",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 95395761,
-        "pack_id": "ORCS-EN018",
         "pack": "Order of Chaos",
-        "rarity": "Inzektor Ant",
+        "pack_id": "ORCS-EN018",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a5/InzektorAnt-ORCS-EN-C-1E.jpg"

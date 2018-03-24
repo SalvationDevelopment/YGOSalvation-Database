@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12538374,
-        "pack_id": "SOI-JP025",
         "pack": "Shadow of Infinity",
-        "rarity": "Treeborn Frog",
+        "pack_id": "SOI-JP025",
         "date": "2005-11-17"
     },
     "tcg": {
-        "id": 12538374,
-        "pack_id": "SOI-EN025",
         "pack": "Shadow of Infinity",
-        "rarity": "Treeborn Frog",
+        "pack_id": "SOI-EN025",
         "date": "2006-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/91/TreebornFrog-DUSA-EN-UR-1E.png"

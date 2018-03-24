@@ -2,7 +2,7 @@
     "id": 94073244,
     "ot": 1,
     "alias": 0,
-    "setcode": 276,
+    "setcode": 532,
     "type": 33,
     "atk": 500,
     "def": 1000,
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Deck Build Pack: Dark Savers",
+        "pack_id": "DBDS-JP014",
+        "date": "2018-02-24"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/91/DonpaMarksmanoftheSkyfangBrigade-DBDS-JP-C.png"
 }

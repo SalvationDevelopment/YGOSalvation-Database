@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 84285623,
-        "pack_id": "",
         "pack": "Vol.1",
-        "rarity": "共通",
+        "pack_id": "",
         "date": "1999-02-04"
     },
     "tcg": {
-        "id": 84285623,
-        "pack_id": "TP7-DE016",
         "pack": "Tournament Pack 7",
-        "rarity": "Haniwa",
+        "pack_id": "TP7-DE016",
         "date": "2005-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/64/Haniwa-TP7-EN-C-UE.jpg"

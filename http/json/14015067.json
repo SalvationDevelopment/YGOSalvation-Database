@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 14015067,
-        "pack_id": "MR-18",
         "pack": "Magic Ruler",
-        "rarity": "共通",
+        "pack_id": "MR-18",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 14015067,
-        "pack_id": "MRL-018",
         "pack": "Spell Ruler",
-        "rarity": "Ancient One of the Deep Forest",
+        "pack_id": "MRL-018",
         "date": "2002-09-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/46/AncientOneoftheDeepForest-SRL-EN-C-UE.png"

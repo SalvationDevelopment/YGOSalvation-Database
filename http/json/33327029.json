@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 33327029,
-        "pack_id": "TDIL-JP072",
         "pack": "The Dark Illusion",
-        "rarity": "Metalfoes Counter",
+        "pack_id": "TDIL-JP072",
         "date": "2016-04-09"
     },
     "tcg": {
-        "id": 33327029,
-        "pack_id": "TDIL-DE072",
         "pack": "The Dark Illusion",
-        "rarity": "Metalfoes Counter",
+        "pack_id": "TDIL-DE072",
         "date": "2016-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9e/MetalfoesCounter-MP17-EN-C-1E.png"

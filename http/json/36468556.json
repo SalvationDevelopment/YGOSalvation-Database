@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 36468556,
-        "pack_id": "CA-30",
         "pack": "Curse of Anubis",
-        "rarity": "Ceasefire",
+        "pack_id": "CA-30",
         "date": "2000-09-28"
     },
     "tcg": {
-        "id": 36468556,
-        "pack_id": "PSV-030",
         "pack": "Pharaoh's Servant",
-        "rarity": "Ceasefire",
+        "pack_id": "PSV-030",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/08/Ceasefire-YS16-EN-C-1E.png"

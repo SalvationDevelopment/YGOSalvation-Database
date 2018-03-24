@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64605089,
-        "pack_id": "DP14-JP013",
         "pack": "Duelist Pack: Yuma Edition 2: Gogogo & Dododo",
-        "rarity": "Swordsman of Revealing Light",
+        "pack_id": "DP14-JP013",
         "date": "2013-09-21"
     },
     "tcg": {
-        "id": 64605089,
-        "pack_id": "SECE-DE095",
         "pack": "Secrets of Eternity",
-        "rarity": "Swordsman of Revealing Light",
+        "pack_id": "SECE-DE095",
         "date": "2015-01-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3e/SwordsmanofRevealingLight-MP15-EN-UR-1E.png"

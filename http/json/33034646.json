@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 33034646,
-        "pack_id": "ORCS-JP013",
         "pack": "Order of Chaos",
-        "rarity": "Flame Armor Ninja",
+        "pack_id": "ORCS-JP013",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 33034646,
-        "pack_id": "ORCS-EN013",
         "pack": "Order of Chaos",
-        "rarity": "Flame Armor Ninja",
+        "pack_id": "ORCS-EN013",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1b/FlameArmorNinja-SP13-EN-C-1E.png"

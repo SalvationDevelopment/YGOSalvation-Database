@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 57182235,
-        "pack_id": "304-041",
         "pack": "Power of the Guardian",
-        "rarity": "Token Thanksgiving",
+        "pack_id": "304-041",
         "date": "2002-11-21"
     },
     "tcg": {
-        "id": 57182235,
-        "pack_id": "DCR-041",
         "pack": "Dark Crisis",
-        "rarity": "Token Thanksgiving",
+        "pack_id": "DCR-041",
         "date": "2003-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b2/TokenThanksgiving-DR1-EN-C-UE.png"

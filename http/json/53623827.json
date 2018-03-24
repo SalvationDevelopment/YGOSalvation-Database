@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53623827,
-        "pack_id": "STOR-JP005",
         "pack": "Storm of Ragnarok",
-        "rarity": "Top Runner",
+        "pack_id": "STOR-JP005",
         "date": "2010-11-13"
     },
     "tcg": {
-        "id": 53623827,
-        "pack_id": "STOR-EN005",
         "pack": "Storm of Ragnarok",
-        "rarity": "Top Runner",
+        "pack_id": "STOR-EN005",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ab/TopRunner-STOR-EN-C-1E.jpg"

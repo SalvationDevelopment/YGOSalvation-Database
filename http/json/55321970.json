@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55321970,
-        "pack_id": "",
         "pack": "Booster 2",
-        "rarity": "Gust Fan",
+        "pack_id": "",
         "date": "1999-05-25"
     },
     "tcg": {
-        "id": 55321970,
-        "pack_id": "TP1-011",
         "pack": "Tournament Pack: 1st Season",
-        "rarity": "Gust Fan",
+        "pack_id": "TP1-011",
         "date": "2002-09-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/66/GustFan-TP1-EU-R-UE.jpg"

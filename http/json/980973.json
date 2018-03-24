@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 980973,
-        "pack_id": "SOD-JP013",
         "pack": "Soul of the Duelist",
-        "rarity": "Armed Dragon LV3",
+        "pack_id": "SOD-JP013",
         "date": "2004-05-27"
     },
     "tcg": {
-        "id": 980973,
-        "pack_id": "SOD-DE013",
         "pack": "Soul of the Duelist",
-        "rarity": "Armed Dragon LV3",
+        "pack_id": "SOD-DE013",
         "date": "2004-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d2/ArmedDragonLV3-LED2-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 83104731,
-        "pack_id": "TLM-JP006",
         "pack": "The Lost Millennium",
-        "rarity": "Ancient Gear Golem",
+        "pack_id": "TLM-JP006",
         "date": "2005-02-24"
     },
     "tcg": {
-        "id": 83104731,
-        "pack_id": "TLM-EN006",
         "pack": "The Lost Millennium",
-        "rarity": "Ancient Gear Golem",
+        "pack_id": "TLM-EN006",
         "date": "2005-05-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d3/AncientGearGolem-LED2-EN-C-1E.png"

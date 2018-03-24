@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53932291,
-        "pack_id": "SPHR-JP006",
         "pack": "Booster SP: Highspeed Riders",
-        "rarity": "Speedroid Taketomborg",
+        "pack_id": "SPHR-JP006",
         "date": "2015-08-22"
     },
     "tcg": {
-        "id": 53932291,
-        "pack_id": "HSRD-DE006",
         "pack": "High-Speed Riders",
-        "rarity": "Speedroid Taketomborg",
+        "pack_id": "HSRD-DE006",
         "date": "2015-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/SpeedroidTaketomborg-HSRD-EN-SR-1E.png"

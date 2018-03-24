@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 10651797,
-        "pack_id": "RGBT-JP079",
         "pack": "Raging Battle",
-        "rarity": "Swallow Flip",
+        "pack_id": "RGBT-JP079",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 10651797,
-        "pack_id": "RGBT-EN079",
         "pack": "Raging Battle",
-        "rarity": "Swallow Flip",
+        "pack_id": "RGBT-EN079",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cb/SwallowFlip-TU04-EN-R-UE.png"

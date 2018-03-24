@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 34236961,
-        "pack_id": "302-034",
         "pack": "Advent of Union",
-        "rarity": "Ante",
+        "pack_id": "302-034",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 34236961,
-        "pack_id": "MFC-034",
         "pack": "Magician's Force",
-        "rarity": "Ante",
+        "pack_id": "MFC-034",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cc/Ante-BP01-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 78577570,
-        "pack_id": "G3-05",
         "pack": "Yu-Gi-Oh! Duel Monsters III: Tri-Holy God Advent promotional cards",
-        "rarity": "Garma Sword Oath",
+        "pack_id": "G3-05",
         "date": "2000-07-13"
     },
     "tcg": {
-        "id": 78577570,
-        "pack_id": "TP8-DE010",
         "pack": "Tournament Pack 8",
-        "rarity": "Garma Sword Oath",
+        "pack_id": "TP8-DE010",
         "date": "2006-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/78/GarmaSwordOath-TP8-EN-C-UE.png"

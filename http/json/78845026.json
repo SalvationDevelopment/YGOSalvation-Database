@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 78845026,
-        "pack_id": "TDGS-JP050",
         "pack": "The Duelist Genesis",
-        "rarity": "Lightwave Tuning",
+        "pack_id": "TDGS-JP050",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 78845026,
-        "pack_id": "TDGS-EN050",
         "pack": "The Duelist Genesis",
-        "rarity": "Lightwave Tuning",
+        "pack_id": "TDGS-EN050",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0c/LightwaveTuning-TDGS-EN-C-1E.jpg"

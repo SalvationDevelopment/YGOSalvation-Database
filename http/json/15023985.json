@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 15023985,
-        "pack_id": "PS-07",
         "pack": "Pharaoh's Servant",
-        "rarity": "Stone Ogre Grotto",
+        "pack_id": "PS-07",
         "date": "2000-07-13"
     },
     "tcg": {
-        "id": 15023985,
-        "pack_id": "SRL-EN058",
         "pack": "Spell Ruler",
-        "rarity": "Stone Ogre Grotto",
+        "pack_id": "SRL-EN058",
         "date": "2004-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/58/StoneOgreGrotto-SRL-NA-C-UE.png"

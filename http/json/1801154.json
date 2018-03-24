@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1801154,
-        "pack_id": "FET-JP045",
         "pack": "Flaming Eternity",
-        "rarity": "Centrifugal Field",
+        "pack_id": "FET-JP045",
         "date": "2004-11-25"
     },
     "tcg": {
-        "id": 1801154,
-        "pack_id": "FET-EN045",
         "pack": "Flaming Eternity",
-        "rarity": "Centrifugal Field",
+        "pack_id": "FET-EN045",
         "date": "2005-02-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/41/CentrifugalField-LCYW-EN-R-1E.png"

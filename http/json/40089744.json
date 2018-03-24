@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 40089744,
-        "pack_id": "DOCS-JP057",
         "pack": "Dimension of Chaos",
-        "rarity": "Gateway to Chaos",
+        "pack_id": "DOCS-JP057",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 40089744,
-        "pack_id": "DOCS-DE057",
         "pack": "Dimension of Chaos",
-        "rarity": "Gateway to Chaos",
+        "pack_id": "DOCS-DE057",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/de/GatewaytoChaos-DOCS-EN-SR-1E.png"

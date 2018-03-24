@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 93717133,
-        "pack_id": "PHSW-JP011",
         "pack": "Photon Shockwave",
-        "rarity": "Galaxy-Eyes Photon Dragon",
+        "pack_id": "PHSW-JP011",
         "date": "2011-07-16"
     },
     "tcg": {
-        "id": 93717133,
-        "pack_id": "CT08-DE003",
         "pack": "Collectible Tins 2011 Wave 2",
-        "rarity": "Galaxy-Eyes Photon Dragon",
+        "pack_id": "CT08-DE003",
         "date": "2011-10-27"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/74/GalaxyEyesPhotonDragon-PGLD-EN-GUR-1E.png"

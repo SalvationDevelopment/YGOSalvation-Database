@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 51773900,
-        "pack_id": "RGBT-JP062",
         "pack": "Raging Battle",
-        "rarity": "Calming Magic",
+        "pack_id": "RGBT-JP062",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 51773900,
-        "pack_id": "RGBT-EN062",
         "pack": "Raging Battle",
-        "rarity": "Calming Magic",
+        "pack_id": "RGBT-EN062",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e8/CalmingMagic-RGBT-EN-R-UE.png"

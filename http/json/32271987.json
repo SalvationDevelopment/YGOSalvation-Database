@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 32271987,
-        "pack_id": "SD17-JP003",
         "pack": "Structure Deck: Warrior's Strike",
-        "rarity": "Featherizer",
+        "pack_id": "SD17-JP003",
         "date": "2009-06-20"
     },
     "tcg": {
-        "id": 32271987,
-        "pack_id": "SDWS-DE003",
         "pack": "Warriors' Strike Structure Deck",
-        "rarity": "Featherizer",
+        "pack_id": "SDWS-DE003",
         "date": "2009-10-22"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fe/Featherizer-SDWS-EN-SR-1E.jpg"

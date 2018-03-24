@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 8649148,
-        "pack_id": "ABYR-JP007",
         "pack": "Abyss Rising",
-        "rarity": "Deep Sweeper",
+        "pack_id": "ABYR-JP007",
         "date": "2012-07-21"
     },
     "tcg": {
-        "id": 8649148,
-        "pack_id": "ABYR-DE007",
         "pack": "Abyss Rising",
-        "rarity": "Deep Sweeper",
+        "pack_id": "ABYR-DE007",
         "date": "2012-11-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e1/DeepSweeper-BPW2-NA-C-1E.png"

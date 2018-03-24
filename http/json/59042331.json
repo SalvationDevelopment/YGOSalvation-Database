@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 59042331,
-        "pack_id": "RGBT-JP008",
         "pack": "Raging Battle",
-        "rarity": "Hedge Guard",
+        "pack_id": "RGBT-JP008",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 59042331,
-        "pack_id": "RGBT-EN008",
         "pack": "Raging Battle",
-        "rarity": "Hedge Guard",
+        "pack_id": "RGBT-EN008",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e8/HedgeGuard-LC5D-EN-UR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1929294,
-        "pack_id": "",
         "pack": "Starter Box: Theatrical Release",
-        "rarity": "Key Mace",
+        "pack_id": "",
         "date": "1999-03-06"
     },
     "tcg": {
-        "id": 1929294,
-        "pack_id": "WCPP-EN002",
         "pack": "World Championship 2010 Card Pack",
-        "rarity": "Key Mace",
+        "pack_id": "WCPP-EN002",
         "date": "2010-08-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/93/KeyMace-WP11-EN-SR-LE.png"

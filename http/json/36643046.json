@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 36643046,
-        "pack_id": "YSD5-JP007",
         "pack": "Starter Deck 2010",
-        "rarity": "Synchron Explorer",
+        "pack_id": "YSD5-JP007",
         "date": "2010-03-20"
     },
     "tcg": {
-        "id": 36643046,
-        "pack_id": "5DS3-DE005",
         "pack": "Starter Deck: Duelist Toolbox",
-        "rarity": "Synchron Explorer",
+        "pack_id": "5DS3-DE005",
         "date": "2010-05-27"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/58/SynchronExplorer-SDSE-EN-C-1E.png"

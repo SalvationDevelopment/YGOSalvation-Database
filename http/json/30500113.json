@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 30500113,
-        "pack_id": "CORE-JP069",
         "pack": "Clash of Rebellions",
-        "rarity": "Raidraptor - Return",
+        "pack_id": "CORE-JP069",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 30500113,
-        "pack_id": "CORE-DE069",
         "pack": "Clash of Rebellions",
-        "rarity": "Raidraptor - Return",
+        "pack_id": "CORE-DE069",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/00/RaidraptorReturn-MP16-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 82065276,
-        "pack_id": "",
         "pack": "Booster 2",
-        "rarity": "Oscillo Hero",
+        "pack_id": "",
         "date": "1999-05-25"
     },
     "tcg": {
-        "id": 82065276,
-        "pack_id": "TP1-023",
         "pack": "Tournament Pack: 1st Season",
-        "rarity": "Oscillo Hero",
+        "pack_id": "TP1-023",
         "date": "2002-09-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ad/OscilloHero-TU04-EN-C-UE.png"

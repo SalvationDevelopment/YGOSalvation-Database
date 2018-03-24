@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 43932460,
-        "pack_id": "DT07-JP042",
         "pack": "Duel Terminal - Charge of the Genex!!",
-        "rarity": "Naturia Landoise",
+        "pack_id": "DT07-JP042",
         "date": "2009-10-01"
     },
     "tcg": {
-        "id": 43932460,
-        "pack_id": "DT04-EN042",
         "pack": "Duel Terminal 4",
-        "rarity": "Naturia Landoise",
+        "pack_id": "DT04-EN042",
         "date": "2011-01-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b9/NaturiaLandoise-HA04-EN-ScR-1E.png"

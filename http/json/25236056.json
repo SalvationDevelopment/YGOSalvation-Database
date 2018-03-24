@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 25236056,
-        "pack_id": "PP7-JP004",
         "pack": "Premium Pack 7",
-        "rarity": "Rare Metal Dragon",
+        "pack_id": "PP7-JP004",
         "date": "2004-08-05"
     },
     "tcg": {
-        "id": 25236056,
-        "pack_id": "EP1-DE004",
         "pack": "Exclusive Pack",
-        "rarity": "Rare Metal Dragon",
+        "pack_id": "EP1-DE004",
         "date": "2004-08-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c7/RareMetalDragon-GLD1-EN-C-LE.png"

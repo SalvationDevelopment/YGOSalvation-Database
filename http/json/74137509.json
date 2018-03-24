@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 74137509,
-        "pack_id": "G5-04",
         "pack": "GameBoy Duel Monsters Promos: Series 5",
-        "rarity": "Graceful Dice",
+        "pack_id": "G5-04",
         "date": "2001-07-05"
     },
     "tcg": {
-        "id": 74137509,
-        "pack_id": "EDS-002",
         "pack": "Yu-Gi-Oh! The Eternal Duelist Soul Bundles",
-        "rarity": "Graceful Dice",
+        "pack_id": "EDS-002",
         "date": "2002-10-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c9/GracefulDice-LCJW-EN-C-1E.png"

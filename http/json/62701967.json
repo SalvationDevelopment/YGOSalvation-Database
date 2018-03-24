@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 62701967,
-        "pack_id": "DT04-JP018",
         "pack": "Duel Terminal - Demon Roar God Revival!!",
-        "rarity": "スーパーレア仕様",
+        "pack_id": "DT04-JP018",
         "date": "2008-12-04"
     },
     "tcg": {
-        "id": 62701967,
-        "pack_id": "DT02-EN068",
         "pack": "Duel Terminal 2",
-        "rarity": "Jurrac Tyrannus",
+        "pack_id": "DT02-EN068",
         "date": "2010-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/57/JurracTyrannus-HA02-EN-ScR-1E.jpg"

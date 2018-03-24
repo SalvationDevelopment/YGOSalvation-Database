@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 25769732,
-        "pack_id": "",
         "pack": "Vol.2",
-        "rarity": "Machine Conversion Factory",
+        "pack_id": "",
         "date": "1999-03-27"
     },
     "tcg": {
-        "id": 25769732,
-        "pack_id": "LOB-096",
         "pack": "Legend of Blue Eyes White Dragon",
-        "rarity": "Machine Conversion Factory",
+        "pack_id": "LOB-096",
         "date": "2002-03-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8c/MachineConversionFactory-LOB-NA-SP-1E.png"

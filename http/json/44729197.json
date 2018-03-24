@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 44729197,
-        "pack_id": "CRV-JP008",
         "pack": "Cybernetic Revolution",
-        "rarity": "Steamroid",
+        "pack_id": "CRV-JP008",
         "date": "2005-05-26"
     },
     "tcg": {
-        "id": 44729197,
-        "pack_id": "CRV-DE008",
         "pack": "Cybernetic Revolution",
-        "rarity": "Steamroid",
+        "pack_id": "CRV-DE008",
         "date": "2005-08-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ef/Steamroid-BP02-EN-C-1E.png"

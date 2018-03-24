@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 49681811,
-        "pack_id": "SC-16",
         "pack": "Struggle of Chaos",
-        "rarity": "Freed the Matchless General",
+        "pack_id": "SC-16",
         "date": "2001-09-20"
     },
     "tcg": {
-        "id": 49681811,
-        "pack_id": "LOD-016",
         "pack": "Legacy of Darkness",
-        "rarity": "Freed the Matchless General",
+        "pack_id": "LOD-016",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/12/FreedtheMatchlessGeneral-BP01-EN-SFR-1E.png"

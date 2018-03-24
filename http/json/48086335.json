@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 48086335,
-        "pack_id": "PRIO-JP013",
         "pack": "Primal Origin",
-        "rarity": "Artifact Failnaught",
+        "pack_id": "PRIO-JP013",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 48086335,
-        "pack_id": "PRIO-DE013",
         "pack": "Primal Origin",
-        "rarity": "Artifact Failnaught",
+        "pack_id": "PRIO-DE013",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dc/ArtifactFailnaught-MP15-EN-C-1E.png"

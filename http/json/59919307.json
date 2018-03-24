@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 59919307,
-        "pack_id": "COTD-JP077",
         "pack": "Code of the Duelist",
-        "rarity": "Return to the Frontlines",
+        "pack_id": "COTD-JP077",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE077"
+        "pack_id": "COTD-DE077",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/BacktotheFront-COTD-EN-R-1E.png"
 }

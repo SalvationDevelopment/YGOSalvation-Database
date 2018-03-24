@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 21313376,
-        "pack_id": "PP17-JP017",
         "pack": "Premium Pack 17",
-        "rarity": "Number 14: Greedy Sarameya",
+        "pack_id": "PP17-JP017",
         "date": "2015-03-21"
     },
     "tcg": {
-        "id": 21313376,
-        "pack_id": "PGL2-DE017",
         "pack": "Premium Gold: Return of the Bling",
-        "rarity": "Number 14: Greedy Sarameya",
+        "pack_id": "PGL2-DE017",
         "date": "2015-03-19"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/49/Number14GreedySarameya-PGL2-EN-GScR-1E.png"

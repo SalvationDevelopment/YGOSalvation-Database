@@ -34,10 +34,8 @@
     ],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 101002046,
-        "pack_id": "CIBR-JP046",
         "pack": "Circuit Break",
-        "rarity": "Twin Triangle Dragon",
+        "pack_id": "CIBR-JP046",
         "date": "2017-07-08"
     },
     "tcg": {

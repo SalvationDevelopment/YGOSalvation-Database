@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1802450,
-        "pack_id": "EXVC-JP077",
         "pack": "Extreme Victory",
-        "rarity": "Sealing Ceremony of Mokuton",
+        "pack_id": "EXVC-JP077",
         "date": "2011-02-11"
     },
     "tcg": {
-        "id": 1802450,
-        "pack_id": "EXVC-EN077",
         "pack": "Extreme Victory",
-        "rarity": "Sealing Ceremony of Mokuton",
+        "pack_id": "EXVC-EN077",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cd/SealingCeremonyofMokuton-EXVC-EN-C-1E.jpg"

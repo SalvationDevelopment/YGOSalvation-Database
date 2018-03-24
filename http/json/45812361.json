@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45812361,
-        "pack_id": "GAOV-JP006",
         "pack": "Galactic Overlord",
-        "rarity": "Cardcar D",
+        "pack_id": "GAOV-JP006",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 45812361,
-        "pack_id": "GAOV-EN006",
         "pack": "Galactic Overlord",
-        "rarity": "Cardcar D",
+        "pack_id": "GAOV-EN006",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9f/CardcarD-YS17-EN-C-1E.png"

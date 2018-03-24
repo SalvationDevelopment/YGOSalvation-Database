@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 88205593,
-        "pack_id": "PHSW-JP028",
         "pack": "Photon Shockwave",
-        "rarity": "Wattcobra",
+        "pack_id": "PHSW-JP028",
         "date": "2011-07-16"
     },
     "tcg": {
-        "id": 88205593,
-        "pack_id": "PHSW-DE028",
         "pack": "Photon Shockwave",
-        "rarity": "Wattcobra",
+        "pack_id": "PHSW-DE028",
         "date": "2011-11-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/83/Wattcobra-PHSW-EN-C-1E.png"

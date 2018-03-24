@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 126218,
-        "pack_id": "G5-05",
         "pack": "GameBoy Duel Monsters Promos: Series 5",
-        "rarity": "Skull Dice",
+        "pack_id": "G5-05",
         "date": "2001-07-05"
     },
     "tcg": {
-        "id": 126218,
-        "pack_id": "EDS-003",
         "pack": "Yu-Gi-Oh! The Eternal Duelist Soul Bundles",
-        "rarity": "Skull Dice",
+        "pack_id": "EDS-003",
         "date": "2002-10-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1c/SkullDice-LCJW-EN-C-1E.png"

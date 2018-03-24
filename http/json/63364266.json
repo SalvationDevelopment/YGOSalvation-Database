@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63364266,
-        "pack_id": "SPHR-JP038",
         "pack": "Booster SP: Highspeed Riders",
-        "rarity": "Goyo Chaser",
+        "pack_id": "SPHR-JP038",
         "date": "2015-08-22"
     },
     "tcg": {
-        "id": 63364266,
-        "pack_id": "HSRD-DE038",
         "pack": "High-Speed Riders",
-        "rarity": "Goyo Chaser",
+        "pack_id": "HSRD-DE038",
         "date": "2015-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/GoyoChaser-HSRD-EN-UR-1E.png"

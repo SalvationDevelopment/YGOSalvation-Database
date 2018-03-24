@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1784686,
-        "pack_id": "CPL1-JP005",
         "pack": "Collectors Pack: Duelist of Legend Version",
-        "rarity": "The Eye of Timaeus",
+        "pack_id": "CPL1-JP005",
         "date": "2014-05-17"
     },
     "tcg": {
-        "id": 1784686,
-        "pack_id": "DRLG-DE005",
         "pack": "Dragons of Legend",
-        "rarity": "The Eye of Timaeus",
+        "pack_id": "DRLG-DE005",
         "date": "2014-04-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/TheEyeofTimaeus-LEDD-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 675319,
-        "pack_id": "RATE-JP058",
         "pack": "Raging Tempest",
-        "rarity": "Zodiac Sign",
+        "pack_id": "RATE-JP058",
         "date": "2016-10-08"
     },
     "tcg": {
-        "id": 675319,
-        "pack_id": "RATE-DE058",
         "pack": "Raging Tempest",
-        "rarity": "Zodiac Sign",
+        "pack_id": "RATE-DE058",
         "date": "2017-02-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/93/ZodiacSign-MP17-EN-C-1E.png"

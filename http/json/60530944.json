@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 60530944,
-        "pack_id": "ANPR-JP075",
         "pack": "Ancient Prophecy",
-        "rarity": "Battle of the Elements",
+        "pack_id": "ANPR-JP075",
         "date": "2009-04-18"
     },
     "tcg": {
-        "id": 60530944,
-        "pack_id": "ANPR-DE075",
         "pack": "Ancient Prophecy",
-        "rarity": "Battle of the Elements",
+        "pack_id": "ANPR-DE075",
         "date": "2009-08-27"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dc/BattleoftheElements-ANPR-EN-C-UE.png"

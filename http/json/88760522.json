@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 88760522,
-        "pack_id": "GAOV-JP058",
         "pack": "Galactic Overlord",
-        "rarity": "Evo-Diversity",
+        "pack_id": "GAOV-JP058",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 88760522,
-        "pack_id": "GAOV-EN058",
         "pack": "Galactic Overlord",
-        "rarity": "Evo-Diversity",
+        "pack_id": "GAOV-EN058",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/EvoDiversity-GAOV-EN-R-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 83903521,
-        "pack_id": "TDGS-JP032",
         "pack": "The Duelist Genesis",
-        "rarity": "Beast of the Pharaoh",
+        "pack_id": "TDGS-JP032",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 83903521,
-        "pack_id": "TDGS-EN032",
         "pack": "The Duelist Genesis",
-        "rarity": "Beast of the Pharaoh",
+        "pack_id": "TDGS-EN032",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8b/BeastofthePharaoh-OP03-EN-C-UE.png"

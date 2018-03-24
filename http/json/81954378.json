@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81954378,
-        "pack_id": "CPL1-JP012",
         "pack": "Collectors Pack: Duelist of Legend Version",
-        "rarity": "Reaper Scythe - Dreadscythe",
+        "pack_id": "CPL1-JP012",
         "date": "2014-05-17"
     },
     "tcg": {
-        "id": 81954378,
-        "pack_id": "DRLG-DE012",
         "pack": "Dragons of Legend",
-        "rarity": "Reaper Scythe - Dreadscythe",
+        "pack_id": "DRLG-DE012",
         "date": "2014-04-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f0/ReaperScytheDreadscythe-DRL3-EN-UR-1E.png"

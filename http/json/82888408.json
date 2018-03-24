@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 82888408,
-        "pack_id": "DT07-JP018",
         "pack": "Duel Terminal - Charge of the Genex!!",
-        "rarity": "The Fabled Cerburrel",
+        "pack_id": "DT07-JP018",
         "date": "2009-10-01"
     },
     "tcg": {
-        "id": 82888408,
-        "pack_id": "DT04-EN018",
         "pack": "Duel Terminal 4",
-        "rarity": "The Fabled Cerburrel",
+        "pack_id": "DT04-EN018",
         "date": "2011-01-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/79/TheFabledCerburrel-SDLI-EN-C-1E.png"

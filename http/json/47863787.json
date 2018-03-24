@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 47863787,
-        "pack_id": "PRIO-JP016",
         "pack": "Primal Origin",
-        "rarity": "Artifact Labrys",
+        "pack_id": "PRIO-JP016",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 47863787,
-        "pack_id": "PRIO-DE016",
         "pack": "Primal Origin",
-        "rarity": "Artifact Labrys",
+        "pack_id": "PRIO-DE016",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/80/ArtifactLabrys-MP15-EN-C-1E.png"

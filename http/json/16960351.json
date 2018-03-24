@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 16960351,
-        "pack_id": "DUEA-JP064",
         "pack": "Duelist Alliance",
-        "rarity": "Dracocension",
+        "pack_id": "DUEA-JP064",
         "date": "2014-04-19"
     },
     "tcg": {
-        "id": 16960351,
-        "pack_id": "DUEA-DE064",
         "pack": "Duelist Alliance",
-        "rarity": "Dracocension",
+        "pack_id": "DUEA-DE064",
         "date": "2014-08-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/ff/Dracocension-DUEA-EN-C-1E.png"

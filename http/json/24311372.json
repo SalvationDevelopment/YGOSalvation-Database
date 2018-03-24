@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 24311372,
-        "pack_id": "",
         "pack": "Yu-Gi-Oh! True Duel Monsters: Sealed Memories promotional cards",
-        "rarity": "Zoa",
+        "pack_id": "",
         "date": "1999-12-09"
     },
     "tcg": {
-        "id": 24311372,
-        "pack_id": "TFK-001",
         "pack": "Yu-Gi-Oh! The Falsebound Kingdom Bundles",
-        "rarity": "Zoa",
+        "pack_id": "TFK-001",
         "date": "2003-11-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fc/Zoa-LCJW-EN-C-1E.png"

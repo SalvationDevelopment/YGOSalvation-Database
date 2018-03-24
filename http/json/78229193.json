@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 78229193,
-        "pack_id": "CP17-JP019",
         "pack": "Collectors Pack 2017",
-        "rarity": "White Aura Dolphin",
+        "pack_id": "CP17-JP019",
         "date": "2017-05-13"
     },
     "tcg": {
-        "date": "2017-07-06",
         "pack": "Battles of Legend: Light's Revenge",
-        "pack_id": "BLLR-DE019"
+        "pack_id": "BLLR-DE019",
+        "date": "2017-07-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c7/WhiteAuraDolphin-BLLR-EN-ScR-1E.png"
 }

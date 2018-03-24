@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 39890958,
-        "pack_id": "SDKS-JP004",
         "pack": "Structure Deck: Seto Kaiba",
-        "rarity": "Heavy Mech Support Armor",
+        "pack_id": "SDKS-JP004",
         "date": "2016-06-18"
     },
     "tcg": {
-        "id": 39890958,
-        "pack_id": "SDKS-DE004",
         "pack": "Structure Deck: Seto Kaiba",
-        "rarity": "Heavy Mech Support Armor",
+        "pack_id": "SDKS-DE004",
         "date": "2016-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b5/HeavyMechSupportArmor-LCKC-EN-UR-1E.png"

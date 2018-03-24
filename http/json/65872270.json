@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65872270,
-        "pack_id": "CORE-JP073",
         "pack": "Clash of Rebellions",
-        "rarity": "Igknight Burst",
+        "pack_id": "CORE-JP073",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 65872270,
-        "pack_id": "CORE-DE073",
         "pack": "Clash of Rebellions",
-        "rarity": "Igknight Burst",
+        "pack_id": "CORE-DE073",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/10/IgknightBurst-CORE-EN-R-1E.png"

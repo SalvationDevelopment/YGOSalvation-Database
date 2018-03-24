@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 75286621,
-        "pack_id": "SPFE-JP032",
         "pack": "Booster SP: Fusion Enforcers",
-        "rarity": "Invoked Mechaba",
+        "pack_id": "SPFE-JP032",
         "date": "2016-11-12"
     },
     "tcg": {
-        "id": 75286621,
-        "pack_id": "FUEN-DE032",
         "pack": "Fusion Enforcers",
-        "rarity": "Invoked Mechaba",
+        "pack_id": "FUEN-DE032",
         "date": "2017-02-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e4/InvokedMechaba-FUEN-EN-ScR-1E.png"

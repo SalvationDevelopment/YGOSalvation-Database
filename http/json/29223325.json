@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 29223325,
-        "pack_id": "PRIO-JP060",
         "pack": "Primal Origin",
-        "rarity": "Artifact Ignition",
+        "pack_id": "PRIO-JP060",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 29223325,
-        "pack_id": "PRIO-DE060",
         "pack": "Primal Origin",
-        "rarity": "Artifact Ignition",
+        "pack_id": "PRIO-DE060",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/49/ArtifactIgnition-MP15-EN-UR-1E.png"

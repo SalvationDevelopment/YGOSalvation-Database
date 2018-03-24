@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 71628381,
-        "pack_id": "TDGS-JP038",
         "pack": "The Duelist Genesis",
-        "rarity": "Multiple Piece Golem",
+        "pack_id": "TDGS-JP038",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 71628381,
-        "pack_id": "TDGS-EN038",
         "pack": "The Duelist Genesis",
-        "rarity": "Multiple Piece Golem",
+        "pack_id": "TDGS-EN038",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2b/MultiplePieceGolem-TDGS-EN-UR-1E.png"

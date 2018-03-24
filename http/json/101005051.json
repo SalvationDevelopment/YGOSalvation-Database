@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 786432,
     "name": "Cynet Ritual",
-    "desc": "This card can be used to Ritual Summon any Cyberse Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. If you control no monsters, except the turn this card was sent to the GY: You can banish this card and 1 Ritual Monster from your GY; Special Summon 2 \"Cynet Tokens\" (Cyberse/LIGHT/Level 4/ATK 0/DEF 0) in Defense Position.",
+    "desc": "This card can be used to Ritual Summon any Cyberse Ritual Monsters. Ritual Summon 1 Cyberse Ritual Monster from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed the Level of that Ritual Monster. During your Main Phase if you control no monsters, except during the turn this card was sent to the GY: You can banish this card and 1 Ritual Monster from your GY; Special Summon 2 \"Cynet Tokens\" (Cyberse/LIGHT/Level 4/ATK 0/DEF 0) in Defense Position.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP051",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a6/CynetRitual-CYHO-JP-OP.png"
 }

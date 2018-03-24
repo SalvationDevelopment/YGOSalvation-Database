@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63485233,
-        "pack_id": "GENF-JP059",
         "pack": "Generation Force",
-        "rarity": "Star Changer",
+        "pack_id": "GENF-JP059",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 63485233,
-        "pack_id": "GENF-EN059",
         "pack": "Generation Force",
-        "rarity": "Star Changer",
+        "pack_id": "GENF-EN059",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/09/StarChanger-YS12-EN-C-1E.png"

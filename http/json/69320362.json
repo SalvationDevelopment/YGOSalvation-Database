@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 69320362,
-        "pack_id": "GENF-JP053",
         "pack": "Generation Force",
-        "rarity": "Legendary Wind-Up Key",
+        "pack_id": "GENF-JP053",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 69320362,
-        "pack_id": "GENF-EN053",
         "pack": "Generation Force",
-        "rarity": "Legendary Wind-Up Key",
+        "pack_id": "GENF-EN053",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/96/LegendaryWindUpKey-GENF-EN-C-1E.jpg"

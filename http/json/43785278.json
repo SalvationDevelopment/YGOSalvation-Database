@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 43785278,
-        "pack_id": "DUEA-JP002",
         "pack": "Duelist Alliance",
-        "rarity": "Foucault's Cannon",
+        "pack_id": "DUEA-JP002",
         "date": "2014-04-19"
     },
     "tcg": {
-        "id": 43785278,
-        "pack_id": "DUEA-DE002",
         "pack": "Duelist Alliance",
-        "rarity": "Foucault's Cannon",
+        "pack_id": "DUEA-DE002",
         "date": "2014-08-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/95/FoucaultsCannon-PEVO-EN-SR-1E.png"

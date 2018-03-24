@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 18027140,
-        "pack_id": "AT06-JP009",
         "pack": "Advanced Tournament Pack 2014 Vol.2",
-        "rarity": "",
+        "pack_id": "AT06-JP009",
         "date": "2014-04-19"
     },
     "tcg": {
-        "id": 18027140,
-        "pack_id": "YS16-DET01",
         "pack": "Starter Deck - Yuya",
-        "rarity": "",
+        "pack_id": "YS16-DET01",
         "date": "2016-05-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/90/HippoToken-YS16-EN-C-1E-Orange.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 50903514,
-        "pack_id": "EP14-JP051",
         "pack": "Extra Pack: Knights of Order",
-        "rarity": "Blue Flame Swordsman",
+        "pack_id": "EP14-JP051",
         "date": "2014-09-13"
     },
     "tcg": {
-        "id": 50903514,
-        "pack_id": "LC04-DE001",
         "pack": "Legendary Collection 4: Joey's World",
-        "rarity": "Blue Flame Swordsman",
+        "pack_id": "LC04-DE001",
         "date": "2013-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ce/BlueFlameSwordsman-LDK2-EN-C-1E.png"

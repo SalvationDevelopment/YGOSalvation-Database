@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 87210505,
-        "pack_id": "GB8-002",
         "pack": "GameBoy Duel Monsters Promos: Series 8",
-        "rarity": "Knight's Title",
+        "pack_id": "GB8-002",
         "date": "2003-03-20"
     },
     "tcg": {
-        "id": 87210505,
-        "pack_id": "ROD-EN002",
         "pack": "Yu-Gi-Oh! Reshef of Destruction Bundles",
-        "rarity": "Knight's Title",
+        "pack_id": "ROD-EN002",
         "date": "2004-06-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/db/KnightsTitle-LCYW-EN-C-1E.png"

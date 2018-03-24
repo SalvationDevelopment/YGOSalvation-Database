@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81587028,
-        "pack_id": "CPZ1-JP013",
         "pack": "Collectors Pack: ZEXAL Version",
-        "rarity": "Box of Friends",
+        "pack_id": "CPZ1-JP013",
         "date": "2013-08-10"
     },
     "tcg": {
-        "id": 81587028,
-        "pack_id": "NUMH-DE013",
         "pack": "Number Hunters",
-        "rarity": "Box of Friends",
+        "pack_id": "NUMH-DE013",
         "date": "2013-07-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/95/BoxofFriends-NUMH-EN-ScR-1E.png"

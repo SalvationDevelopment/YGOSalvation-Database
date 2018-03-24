@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1855932,
-        "pack_id": "SHSP-JP053",
         "pack": "Shadow Specters",
-        "rarity": "Bujintei Kagutsuchi",
+        "pack_id": "SHSP-JP053",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 1855932,
-        "pack_id": "SHSP-DE053",
         "pack": "Shadow Specters",
-        "rarity": "Bujintei Kagutsuchi",
+        "pack_id": "SHSP-DE053",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c8/BujinteiKagutsuchi-MP14-EN-UR-1E.png"

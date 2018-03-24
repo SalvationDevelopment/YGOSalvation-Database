@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45950291,
-        "pack_id": "LVAL-JP059",
         "pack": "Legacy of the Valiant",
-        "rarity": "Rank-Up-Magic Astral Force",
+        "pack_id": "LVAL-JP059",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 45950291,
-        "pack_id": "LVAL-DE059",
         "pack": "Legacy of the Valiant",
-        "rarity": "Rank-Up-Magic Astral Force",
+        "pack_id": "LVAL-DE059",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ad/RankUpMagicAstralForce-WIRA-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 37364101,
-        "pack_id": "CPZ1-JP045",
         "pack": "Collectors Pack: ZEXAL Version",
-        "rarity": "Stoic Challenge",
+        "pack_id": "CPZ1-JP045",
         "date": "2013-08-10"
     },
     "tcg": {
-        "id": 37364101,
-        "pack_id": "NUMH-DE055",
         "pack": "Number Hunters",
-        "rarity": "Stoic Challenge",
+        "pack_id": "NUMH-DE055",
         "date": "2013-07-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e4/StoicChallenge-NUMH-EN-SR-1E.png"

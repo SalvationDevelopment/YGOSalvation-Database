@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 102380,
-        "pack_id": "301-051",
         "pack": "The New Ruler",
-        "rarity": "Lava Golem",
+        "pack_id": "301-051",
         "date": "2002-05-16"
     },
     "tcg": {
-        "id": 102380,
-        "pack_id": "PGD-107",
         "pack": "Pharaonic Guardian",
-        "rarity": "Lava Golem",
+        "pack_id": "PGD-107",
         "date": "2003-07-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/67/LavaGolem-DPBC-EN-R-1E.png"

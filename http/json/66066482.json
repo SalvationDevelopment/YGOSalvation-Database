@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 66066482,
-        "pack_id": "GAOV-JP028",
         "pack": "Galactic Overlord",
-        "rarity": "Inzektor Firefly",
+        "pack_id": "GAOV-JP028",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 66066482,
-        "pack_id": "GAOV-EN028",
         "pack": "Galactic Overlord",
-        "rarity": "Inzektor Firefly",
+        "pack_id": "GAOV-EN028",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f0/InzektorFirefly-GAOV-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 59575539,
-        "pack_id": "TDGS-JP018",
         "pack": "The Duelist Genesis",
-        "rarity": "Krebons",
+        "pack_id": "TDGS-JP018",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 59575539,
-        "pack_id": "TDGS-EN018",
         "pack": "The Duelist Genesis",
-        "rarity": "Krebons",
+        "pack_id": "TDGS-EN018",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/Krebons-HSRD-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 21219755,
-        "pack_id": "307-046",
         "pack": "Invader of Darkness",
-        "rarity": "Destruction Ring",
+        "pack_id": "307-046",
         "date": "2003-07-17"
     },
     "tcg": {
-        "id": 21219755,
-        "pack_id": "IOC-101",
         "pack": "Invasion of Chaos",
-        "rarity": "Destruction Ring",
+        "pack_id": "IOC-101",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2f/DestructionRing-DR2-EN-C-UE.png"

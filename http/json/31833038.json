@@ -36,10 +36,8 @@
     ],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 101002042,
-        "pack_id": "CIBR-JP042",
         "pack": "Circuit Break",
-        "rarity": "Varrel Lord Dragon",
+        "pack_id": "CIBR-JP042",
         "date": "2017-07-08"
     },
     "tcg": {

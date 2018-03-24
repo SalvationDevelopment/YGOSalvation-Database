@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Shadow Token",
-    "desc": "Special Summoned by the effect of \"Lair of Darkness\".",
+    "desc": "Special Summoned with the effect of \"Lair of Darkness\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Structure Deck R: Curse of the Dark",
+        "pack_id": "SR06-JPTKN",
+        "date": "2018-03-10"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dd/ShadowToken-SR06-JP-OP.png"
 }

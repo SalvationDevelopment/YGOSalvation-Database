@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 270352,
     "name": "Odd-Eyes Phantasma Dragon",
-    "desc": "[ Pendulum Effect ]\r\nYou can discard 1 card; add 1 face-up Dragon Pendulum Monster from your Extra Deck to your hand. You can only use this effect of \"Odd-Eyes Phantasma Dragon\" once per turn.\r\n----------------------------------------\r\n[ Monster Effect ]\r\nIf you have 2 cards in your Pendulum Zones and a face-up \"Odd-Eyes\" Pendulum Monster in your Extra Deck: You can Special Summon this card from your hand. You cannot Pendulum Summon the turn you activate this effect. If this card attacks an opponent's monster, during damage calculation: You can make that opponent's monster lose 1000 ATK for each face-up Pendulum Monster in your Extra Deck, during that damage calculation only. You can only use each monster effect of \"Odd-Eyes Phantasma Dragon\" once per turn.",
+    "desc": "Pendulum Effect\nYou can discard 1 card; add 1 face-up Dragon Pendulum Monster from your Extra Deck to your hand. You can only use this effect of \"Odd-Eyes Phantasma Dragon\" once per turn.\n\nMonster Effect\nIf you have 2 cards in your Pendulum Zones and a face-up \"Odd-Eyes\" Pendulum Monster in your Extra Deck: You can Special Summon this card from your hand. You cannot Pendulum Summon the turn you activate this effect. If this card attacks an opponent's monster, during damage calculation: You can make that opponent's monster lose 1000 ATK for each face-up Pendulum Monster in your Extra Deck, during that damage calculation only. You can only use each monster effect of \"Odd-Eyes Phantasma Dragon\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Yu-Gi-Oh! ARC-V Volume 5",
+        "pack_id": "YA05-JP001",
+        "date": "2018-04-04"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/OddEyesPhantasmaDragon-YA05-JP-OP.png"
 }

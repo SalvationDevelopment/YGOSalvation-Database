@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 89698120,
-        "pack_id": "RDS-JP023",
         "pack": "Rise of Destiny",
-        "rarity": "共通",
+        "pack_id": "RDS-JP023",
         "date": "2004-08-05"
     },
     "tcg": {
-        "id": 89698120,
-        "pack_id": "RDS-FR023",
         "pack": "Rise of Destiny",
-        "rarity": "Common",
+        "pack_id": "RDS-FR023",
         "date": "2004-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cd/TacticalEspionageExpert-DR3-EN-C-UE.png"

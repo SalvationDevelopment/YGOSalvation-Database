@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 30604579,
-        "pack_id": "STOR-JP038",
         "pack": "Storm of Ragnarok",
-        "rarity": "Thor, Lord of the Aesir",
+        "pack_id": "STOR-JP038",
         "date": "2010-11-13"
     },
     "tcg": {
-        "id": 30604579,
-        "pack_id": "STOR-EN038",
         "pack": "Storm of Ragnarok",
-        "rarity": "Thor, Lord of the Aesir",
+        "pack_id": "STOR-EN038",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/89/ThorLordoftheAesir-LC5D-EN-ScR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 72714226,
-        "pack_id": "CPL1-JP033",
         "pack": "Collectors Pack: Duelist of Legend Version",
-        "rarity": "Assault Dog",
+        "pack_id": "CPL1-JP033",
         "date": "2014-05-17"
     },
     "tcg": {
-        "id": 72714226,
-        "pack_id": "DRLG-DE033",
         "pack": "Dragons of Legend",
-        "rarity": "Assault Dog",
+        "pack_id": "DRLG-DE033",
         "date": "2014-04-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0f/AssaultDog-DRLG-EN-SR-1E.png"

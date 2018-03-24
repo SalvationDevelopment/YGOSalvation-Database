@@ -36,16 +36,14 @@
     ],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 5043010,
-        "pack_id": "COTD-JP043",
         "pack": "Code of the Duelist",
-        "rarity": "Firewall Dragon",
+        "pack_id": "COTD-JP043",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE043"
+        "pack_id": "COTD-DE043",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/39/FirewallDragon-COTD-EN-ScR-1E.png"
 }

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 97750534,
-        "pack_id": "DUEA-JP036",
         "pack": "Duelist Alliance",
-        "rarity": "The Agent of Entropy - Uranus",
+        "pack_id": "DUEA-JP036",
         "date": "2014-04-19"
     },
     "tcg": {
-        "id": 97750534,
-        "pack_id": "PRIO-DEDE3",
         "pack": "Primal Origin: Deluxe Edition",
-        "rarity": "The Agent of Entropy - Uranus",
+        "pack_id": "PRIO-DEDE3",
         "date": "2014-06-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fa/TheAgentofEntropyUranus-DUEA-EN-C-1E.png"

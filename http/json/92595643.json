@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 92595643,
-        "pack_id": "PTDN-JP080",
         "pack": "Phantom Darkness",
-        "rarity": "Fine",
+        "pack_id": "PTDN-JP080",
         "date": "2007-11-23"
     },
     "tcg": {
-        "id": 92595643,
-        "pack_id": "PTDN-DE080",
         "pack": "Phantom Darkness",
-        "rarity": "Fine",
+        "pack_id": "PTDN-DE080",
         "date": "2008-01-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/70/Fine-PTDN-EN-SP-1E.png"

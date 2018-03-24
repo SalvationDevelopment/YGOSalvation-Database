@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 95992081,
-        "pack_id": "GENF-JP043",
         "pack": "Generation Force",
-        "rarity": "Leviair the Sea Dragon",
+        "pack_id": "GENF-JP043",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 95992081,
-        "pack_id": "GENF-EN043",
         "pack": "Generation Force",
-        "rarity": "Leviair the Sea Dragon",
+        "pack_id": "GENF-EN043",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fa/LeviairtheSeaDragon-BP03-EN-SHR-1E.png"

@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 37436476,
-        "pack_id": "DT09-JP050",
-        "pack": "DT09",
-        "rarity": "Molten Whirlwind Wall",
-        "date": "2012-06-04"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 37436476,
-        "pack_id": "DT05-EN050",
         "pack": "Duel Terminal 5a",
-        "rarity": "Molten Whirlwind Wall",
+        "pack_id": "DT05-EN050",
         "date": "2011-05-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/53/MoltenWhirlwindWall-HA05-EN-SR-UE.png"

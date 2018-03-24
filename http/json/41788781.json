@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 41788781,
-        "pack_id": "STOR-JP011",
         "pack": "Storm of Ragnarok",
-        "rarity": "Guldfaxe of the Nordic Beasts",
+        "pack_id": "STOR-JP011",
         "date": "2010-11-13"
     },
     "tcg": {
-        "id": 41788781,
-        "pack_id": "STOR-EN011",
         "pack": "Storm of Ragnarok",
-        "rarity": "Guldfaxe of the Nordic Beasts",
+        "pack_id": "STOR-EN011",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5d/GuldfaxeoftheNordicBeasts-LC5D-EN-ScR-1E.png"

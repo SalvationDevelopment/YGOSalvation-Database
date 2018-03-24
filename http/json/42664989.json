@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 42664989,
-        "pack_id": "TLM-JP037",
         "pack": "The Lost Millennium",
-        "rarity": "Card of Sanctity",
+        "pack_id": "TLM-JP037",
         "date": "2005-02-24"
     },
     "tcg": {
-        "id": 42664989,
-        "pack_id": "EP1-EN000",
         "pack": "Kids WB Duel of Destiny promotional card",
-        "rarity": "Card of Sanctity",
+        "pack_id": "EP1-EN000",
         "date": "2004-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/43/CardofSanctity-YGLD-EN-C-1E.png"

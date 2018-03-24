@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99357565,
-        "pack_id": "SPDS-JP007",
         "pack": "Booster SP: Destiny Soldiers",
-        "rarity": "D Cubed",
+        "pack_id": "SPDS-JP007",
         "date": "2016-08-06"
     },
     "tcg": {
-        "id": 99357565,
-        "pack_id": "DESO-DE007",
         "pack": "Destiny Soldiers",
-        "rarity": "D Cubed",
+        "pack_id": "DESO-DE007",
         "date": "2016-11-17"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/42/DCubed-DESO-EN-ScR-1E.png"

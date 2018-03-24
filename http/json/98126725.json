@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 98126725,
-        "pack_id": "EXVC-JP029",
         "pack": "Extreme Victory",
-        "rarity": "Shien's Advisor",
+        "pack_id": "EXVC-JP029",
         "date": "2011-02-11"
     },
     "tcg": {
-        "id": 98126725,
-        "pack_id": "EXVC-EN029",
         "pack": "Extreme Victory",
-        "rarity": "Shien's Advisor",
+        "pack_id": "EXVC-EN029",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c2/ShiensAdvisor-SPWA-EN-SR-1E.png"

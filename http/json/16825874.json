@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 16825874,
-        "pack_id": "DP09-JP014",
         "pack": "Duelist Pack: Yusei 2",
-        "rarity": "Eccentric Boy",
+        "pack_id": "DP09-JP014",
         "date": "2009-10-17"
     },
     "tcg": {
-        "id": 16825874,
-        "pack_id": "DP09-DE014",
         "pack": "Duelist Pack: Yusei 2",
-        "rarity": "Eccentric Boy",
+        "pack_id": "DP09-DE014",
         "date": "2010-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/EccentricBoy-DP09-EN-SR-1E.png"

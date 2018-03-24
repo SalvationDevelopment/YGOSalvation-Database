@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 87526784,
-        "pack_id": "GENF-JP009",
         "pack": "Generation Force",
-        "rarity": "Crashbug X",
+        "pack_id": "GENF-JP009",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 87526784,
-        "pack_id": "GENF-EN009",
         "pack": "Generation Force",
-        "rarity": "Crashbug X",
+        "pack_id": "GENF-EN009",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/84/CrashbugX-GENF-EN-C-UE.png"

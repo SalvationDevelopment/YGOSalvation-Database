@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 25524823,
-        "pack_id": "LVAL-JP034",
         "pack": "Legacy of the Valiant",
-        "rarity": "Gravekeeper's Oracle",
+        "pack_id": "LVAL-JP034",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 25524823,
-        "pack_id": "LVAL-DE034",
         "pack": "Legacy of the Valiant",
-        "rarity": "Gravekeeper's Oracle",
+        "pack_id": "LVAL-DE034",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cd/GravekeepersOracle-MP14-EN-UR-1E.png"

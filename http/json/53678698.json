@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53678698,
-        "pack_id": "SHSP-JP022",
         "pack": "Shadow Specters",
-        "rarity": "Bujin Mikazuchi",
+        "pack_id": "SHSP-JP022",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 53678698,
-        "pack_id": "SHSP-DE022",
         "pack": "Shadow Specters",
-        "rarity": "Bujin Mikazuchi",
+        "pack_id": "SHSP-DE022",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8e/BujinMikazuchi-MP14-EN-UR-1E.png"

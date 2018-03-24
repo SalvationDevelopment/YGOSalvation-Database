@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 75646520,
-        "pack_id": "CA-22",
         "pack": "Curse of Anubis",
-        "rarity": "共通",
+        "pack_id": "CA-22",
         "date": "2000-09-28"
     },
     "tcg": {
-        "id": 75646520,
-        "pack_id": "PSV-022",
         "pack": "Pharaoh's Servant",
-        "rarity": "Metal Detector",
+        "pack_id": "PSV-022",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e3/MetalDetector-PSV-EN-C-UE.png"

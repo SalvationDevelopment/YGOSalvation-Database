@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 70828912,
-        "pack_id": "CA-38",
         "pack": "Curse of Anubis",
-        "rarity": "Premature Burial",
+        "pack_id": "CA-38",
         "date": "2000-09-28"
     },
     "tcg": {
-        "id": 70828912,
-        "pack_id": "PSV-037",
         "pack": "Pharaoh's Servant",
-        "rarity": "Premature Burial",
+        "pack_id": "PSV-037",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d1/PrematureBurial-BP03-EN-C-1E.png"

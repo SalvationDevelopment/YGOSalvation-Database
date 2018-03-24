@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 8951260,
-        "pack_id": "CA-32",
         "pack": "Curse of Anubis",
-        "rarity": "Respect Play",
+        "pack_id": "CA-32",
         "date": "2000-09-28"
     },
     "tcg": {
-        "id": 8951260,
-        "pack_id": "PSV-032",
         "pack": "Pharaoh's Servant",
-        "rarity": "Respect Play",
+        "pack_id": "PSV-032",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fb/RespectPlay-DB1-EN-C-UE.jpg"

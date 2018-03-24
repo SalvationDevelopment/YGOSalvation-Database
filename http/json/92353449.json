@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 92353449,
-        "pack_id": "INOV-JP060",
         "pack": "Invasion: Vengeance",
-        "rarity": "Red-Eyes Insight",
+        "pack_id": "INOV-JP060",
         "date": "2016-07-09"
     },
     "tcg": {
-        "id": 92353449,
-        "pack_id": "INOV-DE060",
         "pack": "Invasion: Vengeance",
-        "rarity": "Red-Eyes Insight",
+        "pack_id": "INOV-DE060",
         "date": "2016-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/44/RedEyesInsight-INOV-EN-R-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 50091196,
-        "pack_id": "STBL-JP041",
         "pack": "Starstrike Blast",
-        "rarity": "Formula Synchron",
+        "pack_id": "STBL-JP041",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 50091196,
-        "pack_id": "STBL-EN041",
         "pack": "Starstrike Blast",
-        "rarity": "Formula Synchron",
+        "pack_id": "STBL-EN041",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/61/FormulaSynchron-DUSA-EN-UR-1E.png"

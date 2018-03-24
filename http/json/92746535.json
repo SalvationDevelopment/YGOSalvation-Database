@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 92746535,
-        "pack_id": "CORE-JP025",
         "pack": "Clash of Rebellions",
-        "rarity": "Luster Pendulum, the Dracoslayer",
+        "pack_id": "CORE-JP025",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 92746535,
-        "pack_id": "CORE-DE025",
         "pack": "Clash of Rebellions",
-        "rarity": "Luster Pendulum, the Dracoslayer",
+        "pack_id": "CORE-DE025",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/de/LusterPendulumtheDracoslayer-PGL3-EN-GUR-1E.png"

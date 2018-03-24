@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 54497620,
-        "pack_id": "CSOC-JP014",
         "pack": "Crossroads of Chaos",
-        "rarity": "",
+        "pack_id": "CSOC-JP014",
         "date": "2008-07-19"
     },
     "tcg": {
-        "id": 54497620,
-        "pack_id": "CSOC-EN014",
         "pack": "Crossroads of Chaos",
-        "rarity": "Gadget Driver",
+        "pack_id": "CSOC-EN014",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5e/GadgetDriver-CSOC-EN-C-1E.png"

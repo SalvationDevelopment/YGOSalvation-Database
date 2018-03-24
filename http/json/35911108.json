@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 35911108,
-        "pack_id": "COTD-JP004",
         "pack": "Code of the Duelist",
-        "rarity": "Launcher Commander",
+        "pack_id": "COTD-JP004",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE004"
+        "pack_id": "COTD-DE004",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7f/LauncherCommander-SDCL-EN-C-1E.png"
 }

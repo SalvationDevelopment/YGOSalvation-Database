@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 16984449,
-        "pack_id": "EXP1-JP012",
         "pack": "Extra Pack",
-        "rarity": "Blazewing Butterfly",
+        "pack_id": "EXP1-JP012",
         "date": "2008-09-13"
     },
     "tcg": {
-        "id": 16984449,
-        "pack_id": "TAEV-FR089",
         "pack": "Tactical Evolution",
-        "rarity": "Blazewing Butterfly",
+        "pack_id": "TAEV-FR089",
         "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/49/BlazewingButterfly-LDK2-EN-C-1E.png"

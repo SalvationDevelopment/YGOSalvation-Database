@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 48135190,
-        "pack_id": "GENF-JP080",
         "pack": "Generation Force",
-        "rarity": "Gravelstorm",
+        "pack_id": "GENF-JP080",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 48135190,
-        "pack_id": "GENF-EN080",
         "pack": "Generation Force",
-        "rarity": "Gravelstorm",
+        "pack_id": "GENF-EN080",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/Gravelstorm-GENF-EN-SP-1E.png"

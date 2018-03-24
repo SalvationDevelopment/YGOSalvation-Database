@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 25460258,
-        "pack_id": "SD22-KR002",
         "pack": "Structure Deck: Dragonic Legion",
-        "rarity": "Darkflare Dragon",
+        "pack_id": "SD22-KR002",
         "date": "2011-03-06"
     },
     "tcg": {
-        "id": 25460258,
-        "pack_id": "SDDC-DE002",
         "pack": "Dragons Collide Structure Deck",
-        "rarity": "Darkflare Dragon",
+        "pack_id": "SDDC-DE002",
         "date": "2012-02-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a2/DarkflareDragon-PGLD-EN-GUR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 94997874,
-        "pack_id": "CPD1-JP035",
         "pack": "Collectors Pack: Duelist of Destiny Version",
-        "rarity": "Prediction Princess Tarotrei",
+        "pack_id": "CPD1-JP035",
         "date": "2015-05-16"
     },
     "tcg": {
-        "id": 94997874,
-        "pack_id": "DRL2-DE035",
         "pack": "Dragons of Legend 2",
-        "rarity": "Prediction Princess Tarotrei",
+        "pack_id": "DRL2-DE035",
         "date": "2015-07-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b6/PredictionPrincessTarotrei-OP02-EN-C-UE.png"

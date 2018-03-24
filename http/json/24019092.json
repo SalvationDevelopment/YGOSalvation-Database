@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 24019092,
-        "pack_id": "CORE-JP029",
         "pack": "Clash of Rebellions",
-        "rarity": "Igknight Paladin",
+        "pack_id": "CORE-JP029",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 24019092,
-        "pack_id": "CORE-DE029",
         "pack": "Clash of Rebellions",
-        "rarity": "Igknight Paladin",
+        "pack_id": "CORE-DE029",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/58/IgknightPaladin-MP16-EN-C-1E.png"

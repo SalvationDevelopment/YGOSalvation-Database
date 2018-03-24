@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1896112,
-        "pack_id": "PTDN-JP051",
         "pack": "Phantom Darkness",
-        "rarity": "Dimension Explosion",
+        "pack_id": "PTDN-JP051",
         "date": "2007-11-23"
     },
     "tcg": {
-        "id": 1896112,
-        "pack_id": "PTDN-DE051",
         "pack": "Phantom Darkness",
-        "rarity": "Dimension Explosion",
+        "pack_id": "PTDN-DE051",
         "date": "2008-01-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dd/DimensionExplosion-PTDN-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 4215636,
-        "pack_id": "ORCS-JP060",
         "pack": "Order of Chaos",
-        "rarity": "Shrine of Mist Valley",
+        "pack_id": "ORCS-JP060",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 4215636,
-        "pack_id": "ORCS-EN060",
         "pack": "Order of Chaos",
-        "rarity": "Shrine of Mist Valley",
+        "pack_id": "ORCS-EN060",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a5/ShrineofMistValley-AP01-EN-C-UE.png"

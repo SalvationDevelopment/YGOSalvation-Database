@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 31766317,
-        "pack_id": "EXP4-JP021",
         "pack": "Extra Pack Volume 4",
-        "rarity": "Archfiend Empress",
+        "pack_id": "EXP4-JP021",
         "date": "2011-09-17"
     },
     "tcg": {
-        "id": 31766317,
-        "pack_id": "STBL-DESP1",
         "pack": "Starstrike Blast Sneak Peek Participation Card",
-        "rarity": "Archfiend Empress",
+        "pack_id": "STBL-DESP1",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/de/ArchfiendEmpress-STBL-EN-SR-1E.png"

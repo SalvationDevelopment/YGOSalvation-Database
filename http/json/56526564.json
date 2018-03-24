@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 56526564,
-        "pack_id": "COTD-JP075",
         "pack": "Code of the Duelist",
-        "rarity": "Breakdown Trap Hole",
+        "pack_id": "COTD-JP075",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE075"
+        "pack_id": "COTD-DE075",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/56/BreakOffTrapHole-COTD-EN-SR-1E.png"
 }

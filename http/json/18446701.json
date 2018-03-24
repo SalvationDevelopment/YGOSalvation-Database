@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 18446701,
-        "pack_id": "DP12-JP030",
         "pack": "Duelist Pack: Yuma Edition",
-        "rarity": "Gagagashield",
+        "pack_id": "DP12-JP030",
         "date": "2011-10-15"
     },
     "tcg": {
-        "id": 18446701,
-        "pack_id": "ZTIN-DE005",
         "pack": "Zexal Collection",
-        "rarity": "Gagagashield",
+        "pack_id": "ZTIN-DE005",
         "date": "2013-03-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a3/Gagagashield-YS13-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 92518817,
-        "pack_id": "DR04-JP208",
         "pack": "Expert Edition Volume 4",
-        "rarity": "共通",
+        "pack_id": "DR04-JP208",
         "date": "2007-09-22"
     },
     "tcg": {
-        "id": 92518817,
-        "pack_id": "EOJ-DE028",
         "pack": "Enemy of Justice",
-        "rarity": "Common",
+        "pack_id": "EOJ-DE028",
         "date": "2006-05-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bc/BlazingHiita-DR04-NA-C-UE.png"

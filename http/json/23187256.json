@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 23187256,
-        "pack_id": "VB18-JP002",
         "pack": "The Valuable Book 18",
-        "rarity": "Number 93: Utopia Kaiser",
+        "pack_id": "VB18-JP002",
         "date": "2015-08-12"
     },
     "tcg": {
-        "id": 23187256,
-        "pack_id": "YCSW-EN009",
         "pack": "Yu-Gi-Oh! Championship Series 2016",
-        "rarity": "Number 93: Utopia Kaiser",
+        "pack_id": "YCSW-EN009",
         "date": "2016-08-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9c/Number93UtopiaKaiser-YCSW-EN-SR-LE.png"

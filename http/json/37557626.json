@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 37557626,
-        "pack_id": "DT11-JP024",
-        "pack": "DT11",
-        "rarity": "Gishki Reliever",
-        "date": "2012-11-07"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 37557626,
-        "pack_id": "DT06-EN024",
         "pack": "Duel Terminal 6a",
-        "rarity": "Gishki Reliever",
+        "pack_id": "DT06-EN024",
         "date": "2012-02-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f1/GishkiReliever-HA06-EN-SR-1E.png"

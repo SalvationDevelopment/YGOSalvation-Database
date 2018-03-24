@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 87390798,
-        "pack_id": "SPDS-JP023",
         "pack": "Booster SP: Destiny Soldiers",
-        "rarity": "Abyss Script - Fantasy Magic",
+        "pack_id": "SPDS-JP023",
         "date": "2016-08-06"
     },
     "tcg": {
-        "id": 87390798,
-        "pack_id": "DESO-DE023",
         "pack": "Destiny Soldiers",
-        "rarity": "Abyss Script - Fantasy Magic",
+        "pack_id": "DESO-DE023",
         "date": "2016-11-17"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/09/AbyssScriptFantasyMagic-DESO-EN-SR-1E.png"

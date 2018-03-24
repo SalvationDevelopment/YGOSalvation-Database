@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 98239899,
-        "pack_id": "MA-40",
         "pack": "Mythological Age",
-        "rarity": "Blast with Chain",
+        "pack_id": "MA-40",
         "date": "2001-11-29"
     },
     "tcg": {
-        "id": 98239899,
-        "pack_id": "LOD-088",
         "pack": "Legacy of Darkness",
-        "rarity": "Blast with Chain",
+        "pack_id": "LOD-088",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/30/BlastwithChain-BP03-EN-C-1E.png"

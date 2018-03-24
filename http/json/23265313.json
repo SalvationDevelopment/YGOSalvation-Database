@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 23265313,
-        "pack_id": "304-053",
         "pack": "Power of the Guardian",
-        "rarity": "Cost Down",
+        "pack_id": "304-053",
         "date": "2002-11-21"
     },
     "tcg": {
-        "id": 23265313,
-        "pack_id": "DCR-053",
         "pack": "Dark Crisis",
-        "rarity": "Cost Down",
+        "pack_id": "DCR-053",
         "date": "2003-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a9/CostDown-LCKC-EN-ScR-1E.png"

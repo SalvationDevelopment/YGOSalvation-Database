@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 19182751,
-        "pack_id": "LE13-JP001",
         "pack": "Limited Edition 13",
-        "rarity": "Genex Neutron",
+        "pack_id": "LE13-JP001",
         "date": "2008-06-21"
     },
     "tcg": {
-        "id": 19182751,
-        "pack_id": "TSHD-DE097",
         "pack": "The Shining Darkness",
-        "rarity": "Genex Neutron",
+        "pack_id": "TSHD-DE097",
         "date": "2010-05-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/GenexNeutron-SDSE-EN-C-1E.png"

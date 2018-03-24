@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12369277,
-        "pack_id": "SPWR-JP032",
         "pack": "Booster SP: Wing Raiders",
-        "rarity": "Super Quantum Blue Layer",
+        "pack_id": "SPWR-JP032",
         "date": "2015-11-14"
     },
     "tcg": {
-        "id": 12369277,
-        "pack_id": "WIRA-DE032",
         "pack": "Wing Raiders",
-        "rarity": "Super Quantum Blue Layer",
+        "pack_id": "WIRA-DE032",
         "date": "2016-02-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/80/SuperQuantumBlueLayer-OP02-EN-SR-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 56606928,
-        "pack_id": "",
         "pack": "Vol.4",
-        "rarity": "Eternal Drought",
+        "pack_id": "",
         "date": "1999-07-22"
     },
     "tcg": {
-        "id": 56606928,
-        "pack_id": "GLD4-FR033",
         "pack": "Gold Series 4: Pyramids Edition",
-        "rarity": "Eternal Drought",
+        "pack_id": "GLD4-FR033",
         "date": "2011-06-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3d/EternalDrought-GLD4-EN-C-LE.png"

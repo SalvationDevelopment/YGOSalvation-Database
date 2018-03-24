@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 25119460,
-        "pack_id": "302-054",
         "pack": "Advent of Union",
-        "rarity": "YZ-Tank Dragon",
+        "pack_id": "302-054",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 25119460,
-        "pack_id": "MFC-054",
         "pack": "Magician's Force",
-        "rarity": "YZ-Tank Dragon",
+        "pack_id": "MFC-054",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/YZTankDragon-DPRP-EN-R-1E.png"

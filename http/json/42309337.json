@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 42309337,
-        "pack_id": "TAEV-JP080",
         "pack": "Tactical Evolution",
-        "rarity": "Counter Counter",
+        "pack_id": "TAEV-JP080",
         "date": "2007-05-12"
     },
     "tcg": {
-        "id": 42309337,
-        "pack_id": "TAEV-FR080",
         "pack": "Tactical Evolution",
-        "rarity": "Counter Counter",
+        "pack_id": "TAEV-FR080",
         "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/69/CounterCounter-CP07-EN-C-UE.png"

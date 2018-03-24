@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 56605802,
-        "pack_id": "TAEV-JP030",
         "pack": "Tactical Evolution",
-        "rarity": "Phantom Cricket",
+        "pack_id": "TAEV-JP030",
         "date": "2007-05-12"
     },
     "tcg": {
-        "id": 56605802,
-        "pack_id": "TAEV-FR030",
         "pack": "Tactical Evolution",
-        "rarity": "Phantom Cricket",
+        "pack_id": "TAEV-FR030",
         "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/82/PhantomCricket-TAEV-EN-C-1E.jpg"

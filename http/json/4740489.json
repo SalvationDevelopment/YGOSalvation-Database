@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 4740489,
-        "pack_id": "SDMY-JP021",
         "pack": "Structure Deck: Yugi Muto",
-        "rarity": "Magnetic Field",
+        "pack_id": "SDMY-JP021",
         "date": "2016-06-18"
     },
     "tcg": {
-        "id": 4740489,
-        "pack_id": "SDMY-DE024",
         "pack": "Structure Deck: Yugi Muto",
-        "rarity": "Magnetic Field",
+        "pack_id": "SDMY-DE024",
         "date": "2016-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6c/MagneticField-SDMY-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 83629030,
-        "pack_id": "CORE-JP043",
         "pack": "Clash of Rebellions",
-        "rarity": "Toon Cyber Dragon",
+        "pack_id": "CORE-JP043",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 83629030,
-        "pack_id": "CORE-DE043",
         "pack": "Clash of Rebellions",
-        "rarity": "Toon Cyber Dragon",
+        "pack_id": "CORE-DE043",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6a/ToonCyberDragon-MP16-EN-R-1E.png"

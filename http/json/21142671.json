@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 21142671,
-        "pack_id": "CPF1-JP017",
         "pack": "Collectors Pack: Duelist of Flash Version",
-        "rarity": "Red Nova",
+        "pack_id": "CPF1-JP017",
         "date": "2016-05-14"
     },
     "tcg": {
-        "id": 21142671,
-        "pack_id": "DRL3-DE017",
         "pack": "Dragons of Legend: Unleashed",
-        "rarity": "Red Nova",
+        "pack_id": "DRL3-DE017",
         "date": "2016-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/RedNova-DRL3-EN-ScR-1E.png"

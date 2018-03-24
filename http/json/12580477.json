@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12580477,
-        "pack_id": "",
         "pack": "Starter Box: Theatrical Release",
-        "rarity": "Raigeki",
+        "pack_id": "",
         "date": "1999-03-06"
     },
     "tcg": {
-        "id": 12580477,
-        "pack_id": "LOB-053",
         "pack": "Legend of Blue Eyes White Dragon",
-        "rarity": "Raigeki",
+        "pack_id": "LOB-053",
         "date": "2002-03-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fe/Raigeki-LCKC-EN-UR-1E.png"

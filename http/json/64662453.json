@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64662453,
-        "pack_id": "DT14-JP043",
         "pack": "Duel Terminal - Ouroboros, Wicked Dragon of Destruction!!",
-        "rarity": "Iron Call",
+        "pack_id": "DT14-JP043",
         "date": "2012-01-24"
     },
     "tcg": {
-        "id": 64662453,
-        "pack_id": "DT07-EN093",
         "pack": "Duel Terminal 7b",
-        "rarity": "Iron Call",
+        "pack_id": "DT07-EN093",
         "date": "2013-02-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/eb/IronCall-HA07-EN-ScR-1E.png"

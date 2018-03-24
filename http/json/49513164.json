@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 49513164,
-        "pack_id": "SPFE-JP028",
         "pack": "Booster SP: Fusion Enforcers",
-        "rarity": "Invoked Raidjin",
+        "pack_id": "SPFE-JP028",
         "date": "2016-11-12"
     },
     "tcg": {
-        "id": 49513164,
-        "pack_id": "FUEN-DE028",
         "pack": "Fusion Enforcers",
-        "rarity": "Invoked Raidjin",
+        "pack_id": "FUEN-DE028",
         "date": "2017-02-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/21/InvokedRaidjin-FUEN-EN-ScR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 19808608,
-        "pack_id": "DOCS-JP010",
         "pack": "Dimension of Chaos",
-        "rarity": "D/D Berfomet",
+        "pack_id": "DOCS-JP010",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 19808608,
-        "pack_id": "DOCS-DE010",
         "pack": "Dimension of Chaos",
-        "rarity": "D/D Berfomet",
+        "pack_id": "DOCS-DE010",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0f/DDBerfomet-MP16-EN-R-1E.png"

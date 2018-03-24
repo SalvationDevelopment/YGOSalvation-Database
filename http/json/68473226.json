@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 68473226,
-        "pack_id": "EXP3-JP004",
         "pack": "Extra Pack Volume 3",
-        "rarity": "Hardened Armed Dragon",
+        "pack_id": "EXP3-JP004",
         "date": "2010-09-18"
     },
     "tcg": {
-        "id": 68473226,
-        "pack_id": "RGBT-EN083",
         "pack": "Raging Battle",
-        "rarity": "Hardened Armed Dragon",
+        "pack_id": "RGBT-EN083",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/df/HardenedArmedDragon-SR03-EN-C-1E.png"

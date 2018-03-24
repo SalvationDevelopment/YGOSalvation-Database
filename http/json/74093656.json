@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 74093656,
-        "pack_id": "YSD3-JP001",
         "pack": "Starter Deck 2008",
-        "rarity": "Tune Warrior",
+        "pack_id": "YSD3-JP001",
         "date": "2008-03-15"
     },
     "tcg": {
-        "id": 74093656,
-        "pack_id": "5DS1-DE001",
         "pack": "Starter Deck: Yu-Gi-Oh! 5D's",
-        "rarity": "Tune Warrior",
+        "pack_id": "5DS1-DE001",
         "date": "2008-08-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f5/TuneWarrior-5DS3-EN-C-1E.jpg"

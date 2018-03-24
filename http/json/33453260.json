@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 33453260,
-        "pack_id": "CPD1-JP026",
         "pack": "Collectors Pack: Duelist of Destiny Version",
-        "rarity": "Comic Hand",
+        "pack_id": "CPD1-JP026",
         "date": "2015-05-16"
     },
     "tcg": {
-        "id": 33453260,
-        "pack_id": "DRL2-DE026",
         "pack": "Dragons of Legend 2",
-        "rarity": "Comic Hand",
+        "pack_id": "DRL2-DE026",
         "date": "2015-07-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a7/ComicHand-DRL2-EN-ScR-1E.png"

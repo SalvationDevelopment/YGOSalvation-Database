@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 69448290,
-        "pack_id": "DT01-JP013",
         "pack": "Duel Terminal - Synchro Awakening!!",
-        "rarity": "Mist Valley Thunderbird",
+        "pack_id": "DT01-JP013",
         "date": "2008-04-12"
     },
     "tcg": {
-        "id": 69448290,
-        "pack_id": "HA01-DE004",
         "pack": "Hidden Arsenal",
-        "rarity": "Mist Valley Thunderbird",
+        "pack_id": "HA01-DE004",
         "date": "2009-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/49/MistValleyThunderbird-HA01-EN-ScR-LE.png"

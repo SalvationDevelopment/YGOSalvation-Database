@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67630339,
-        "pack_id": "CSOC-JP064",
         "pack": "Crossroads of Chaos",
-        "rarity": "Confusion Chaff",
+        "pack_id": "CSOC-JP064",
         "date": "2008-07-19"
     },
     "tcg": {
-        "id": 67630339,
-        "pack_id": "CSOC-EN064",
         "pack": "Crossroads of Chaos",
-        "rarity": "Confusion Chaff",
+        "pack_id": "CSOC-EN064",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/ConfusionChaff-CSOC-EN-C-1E.jpg"

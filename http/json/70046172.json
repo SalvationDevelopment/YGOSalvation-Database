@@ -31,18 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 70046172,
-        "pack_id": "MR-43",
         "pack": "Magic Ruler",
-        "rarity": "Rush Recklessly",
+        "pack_id": "MR-43",
         "date": "2000-04-20"
     },
-    "tcg": {
-        "id": 70046172,
-        "pack_id": "MRL-043",
-        "pack": "MRL",
-        "rarity": "Rush Recklessly",
-        "date": "2003-03-30"
-    },
+    "tcg": {},
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8c/RushRecklessly-YS15-EU-C-1E.png"
 }

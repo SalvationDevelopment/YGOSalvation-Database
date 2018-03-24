@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 52702748,
-        "pack_id": "SOI-JP014",
         "pack": "Shadow of Infinity",
-        "rarity": "D.D. Guide",
+        "pack_id": "SOI-JP014",
         "date": "2005-11-17"
     },
     "tcg": {
-        "id": 52702748,
-        "pack_id": "SOI-EN014",
         "pack": "Shadow of Infinity",
-        "rarity": "D.D. Guide",
+        "pack_id": "SOI-EN014",
         "date": "2006-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1c/DDGuide-DR04-NA-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 52846880,
-        "pack_id": "SPTR-JP018",
         "pack": "Booster SP: Tribe Force",
-        "rarity": "Nekroz of Catastor",
+        "pack_id": "SPTR-JP018",
         "date": "2014-10-11"
     },
     "tcg": {
-        "id": 52846880,
-        "pack_id": "THSF-DE018",
         "pack": "The Secret Forces",
-        "rarity": "Nekroz of Catastor",
+        "pack_id": "THSF-DE018",
         "date": "2015-02-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/NekrozofCatastor-THSF-EN-ScR-1E.png"

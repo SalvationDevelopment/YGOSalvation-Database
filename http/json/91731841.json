@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 91731841,
-        "pack_id": "DT09-JP016",
-        "pack": "DT09",
-        "rarity": "Gem-Knight Garnet",
-        "date": "2012-11-06"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 91731841,
-        "pack_id": "DT05-EN016",
         "pack": "Duel Terminal 5a",
-        "rarity": "Gem-Knight Garnet",
+        "pack_id": "DT05-EN016",
         "date": "2011-05-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5d/GemKnightGarnet-OP06-EN-C-UE.png"

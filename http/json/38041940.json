@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 38041940,
-        "pack_id": "EXP2-JP022",
         "pack": "Extra Pack Volume 2",
-        "rarity": "Seed of Flame",
+        "pack_id": "EXP2-JP022",
         "date": "2009-09-19"
     },
     "tcg": {
-        "id": 38041940,
-        "pack_id": "CSOC-EN081",
         "pack": "Crossroads of Chaos",
-        "rarity": "Seed of Flame",
+        "pack_id": "CSOC-EN081",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/72/SeedofFlame-BP03-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58477767,
-        "pack_id": "DREV-JP073",
         "pack": "Duelist Revolution",
-        "rarity": "Queen's Pawn",
+        "pack_id": "DREV-JP073",
         "date": "2010-04-17"
     },
     "tcg": {
-        "id": 58477767,
-        "pack_id": "DREV-EN073",
         "pack": "Duelist Revolution",
-        "rarity": "Queen's Pawn",
+        "pack_id": "DREV-EN073",
         "date": "2010-08-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cb/QueensPawn-DREV-EN-C-1E.jpg"

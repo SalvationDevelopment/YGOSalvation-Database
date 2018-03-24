@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1249315,
-        "pack_id": "JOTL-JP058",
         "pack": "Judgment of the Light",
-        "rarity": "Herald of Pure Light",
+        "pack_id": "JOTL-JP058",
         "date": "2013-04-20"
     },
     "tcg": {
-        "id": 1249315,
-        "pack_id": "JOTL-DE058",
         "pack": "Judgment of the Light",
-        "rarity": "Herald of Pure Light",
+        "pack_id": "JOTL-DE058",
         "date": "2013-08-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/50/HeraldofPureLight-JOTL-EN-SR-1E.png"

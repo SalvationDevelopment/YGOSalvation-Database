@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 83994433,
-        "pack_id": "YF05-JP001",
         "pack": "Yu-Gi-Oh! 5D's Volume 5",
-        "rarity": "Stardust Spark Dragon",
+        "pack_id": "YF05-JP001",
         "date": "2013-01-04"
     },
     "tcg": {
-        "id": 83994433,
-        "pack_id": "YF05-EN001",
         "pack": "Yu-Gi-Oh! 5D's Volume 5",
-        "rarity": "Stardust Spark Dragon",
+        "pack_id": "YF05-EN001",
         "date": "2013-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/StardustSparkDragon-HSRD-EN-SR-1E.png"

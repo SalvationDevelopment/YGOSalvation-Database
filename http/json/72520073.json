@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 72520073,
-        "pack_id": "",
         "pack": "Booster 3",
-        "rarity": "共通",
+        "pack_id": "",
         "date": "1999-07-05"
     },
     "tcg": {
-        "id": 72520073,
-        "pack_id": "LVAL-DE090",
         "pack": "Legacy of the Valiant",
-        "rarity": "Dark Artist",
+        "pack_id": "LVAL-DE090",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9b/DarkArtist-LVAL-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 88240999,
-        "pack_id": "SPTR-JP019",
         "pack": "Booster SP: Tribe Force",
-        "rarity": "Nekroz of Decisive Armor",
+        "pack_id": "SPTR-JP019",
         "date": "2014-10-11"
     },
     "tcg": {
-        "id": 88240999,
-        "pack_id": "THSF-DE019",
         "pack": "The Secret Forces",
-        "rarity": "Nekroz of Decisive Armor",
+        "pack_id": "THSF-DE019",
         "date": "2015-02-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b1/NekrozofDecisiveArmor-THSF-EN-ScR-1E.png"

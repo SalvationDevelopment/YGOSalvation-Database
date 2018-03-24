@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 36868108,
-        "pack_id": "CA-19",
-        "pack": "CA",
-        "rarity": "Armored Glass",
-        "date": "2002-06-20"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 36868108,
-        "pack_id": "PSV-019",
         "pack": "Pharaoh's Servant",
-        "rarity": "Armored Glass",
+        "pack_id": "PSV-019",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ea/ArmoredGlass-PSV-EN-C-UE.jpg"

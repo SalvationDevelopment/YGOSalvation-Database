@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 62121,
-        "pack_id": "",
         "pack": "Booster 7",
-        "rarity": "Castle of Dark Illusions",
+        "pack_id": "",
         "date": "2000-03-01"
     },
     "tcg": {
-        "id": 62121,
-        "pack_id": "MRD-073",
         "pack": "Metal Raiders",
-        "rarity": "Castle of Dark Illusions",
+        "pack_id": "MRD-073",
         "date": "2002-06-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0d/CastleofDarkIllusions-MRD-NA-C-UE.png"

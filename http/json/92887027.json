@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 92887027,
-        "pack_id": "GAOV-JP040",
         "pack": "Galactic Overlord",
-        "rarity": "Nomadic Force",
+        "pack_id": "GAOV-JP040",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 92887027,
-        "pack_id": "GAOV-EN040",
         "pack": "Galactic Overlord",
-        "rarity": "Nomadic Force",
+        "pack_id": "GAOV-EN040",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bb/NomadicForce-GAOV-EN-SP-1E.png"

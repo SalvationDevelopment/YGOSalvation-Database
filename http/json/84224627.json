@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 84224627,
-        "pack_id": "PP17-JP016",
         "pack": "Premium Pack 17",
-        "rarity": "Cat Shark",
+        "pack_id": "PP17-JP016",
         "date": "2015-03-21"
     },
     "tcg": {
-        "id": 84224627,
-        "pack_id": "PGL2-DE016",
         "pack": "Premium Gold: Return of the Bling",
-        "rarity": "Cat Shark",
+        "pack_id": "PGL2-DE016",
         "date": "2015-03-19"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a4/CatShark-PGL2-EN-GScR-1E.png"

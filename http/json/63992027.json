@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63992027,
-        "pack_id": "INOV-JP068",
         "pack": "Invasion: Vengeance",
-        "rarity": "Double Cipher",
+        "pack_id": "INOV-JP068",
         "date": "2016-07-09"
     },
     "tcg": {
-        "id": 63992027,
-        "pack_id": "INOV-DE068",
         "pack": "Invasion: Vengeance",
-        "rarity": "Double Cipher",
+        "pack_id": "INOV-DE068",
         "date": "2016-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ed/DoubleCipher-MP17-EN-C-1E.png"

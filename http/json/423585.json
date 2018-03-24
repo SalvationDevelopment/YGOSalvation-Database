@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 423585,
-        "pack_id": "LE8-JP002",
         "pack": "Limited Edition 8",
-        "rarity": "Summoner Monk",
+        "pack_id": "LE8-JP002",
         "date": "2005-05-21"
     },
     "tcg": {
-        "id": 423585,
-        "pack_id": "SDSC-DE005",
         "pack": "Spellcaster's Command Structure Deck",
-        "rarity": "Summoner Monk",
+        "pack_id": "SDSC-DE005",
         "date": "2009-03-31"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c7/SummonerMonk-SDCL-EN-C-1E.png"

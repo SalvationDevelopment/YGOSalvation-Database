@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 17236839,
-        "pack_id": "CPL1-JP016",
         "pack": "Collectors Pack: Duelist of Legend Version",
-        "rarity": "Flash Fusion",
+        "pack_id": "CPL1-JP016",
         "date": "2014-05-17"
     },
     "tcg": {
-        "id": 17236839,
-        "pack_id": "DRLG-DE016",
         "pack": "Dragons of Legend",
-        "rarity": "Flash Fusion",
+        "pack_id": "DRLG-DE016",
         "date": "2014-04-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d8/FlashFusion-DRLG-EN-SR-1E.png"

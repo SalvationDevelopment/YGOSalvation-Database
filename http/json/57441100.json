@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 57441100,
-        "pack_id": "SOVR-JP054",
         "pack": "Stardust Overdrive",
-        "rarity": "Herculean Power",
+        "pack_id": "SOVR-JP054",
         "date": "2009-07-18"
     },
     "tcg": {
-        "id": 57441100,
-        "pack_id": "SOVR-DE054",
         "pack": "Stardust Overdrive",
-        "rarity": "Herculean Power",
+        "pack_id": "SOVR-DE054",
         "date": "2009-11-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/27/HerculeanPower-SOVR-EN-C-UE.png"

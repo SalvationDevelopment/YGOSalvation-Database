@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 8529136,
-        "pack_id": "SD28-JP024",
         "pack": "Structure Deck: Synchron Extreme",
-        "rarity": "Scrap Fist",
+        "pack_id": "SD28-JP024",
         "date": "2014-12-06"
     },
     "tcg": {
-        "id": 8529136,
-        "pack_id": "SDSE-DE024",
         "pack": "Synchron Extreme Structure Deck",
-        "rarity": "Scrap Fist",
+        "pack_id": "SDSE-DE024",
         "date": "2015-08-27"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4b/ScrapFist-SDSE-EN-SR-1E.png"

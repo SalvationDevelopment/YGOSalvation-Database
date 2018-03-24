@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 6979239,
-        "pack_id": "MA-12",
         "pack": "Mythological Age",
-        "rarity": "Woodland Sprite",
+        "pack_id": "MA-12",
         "date": "2001-11-29"
     },
     "tcg": {
-        "id": 6979239,
-        "pack_id": "LOD-061",
         "pack": "Legacy of Darkness",
-        "rarity": "Woodland Sprite",
+        "pack_id": "LOD-061",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6e/WoodlandSprite-DB2-EN-C-UE.png"

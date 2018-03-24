@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45425051,
-        "pack_id": "S2-01",
         "pack": "PlayStation True Duel Monsters Promos: Series 2",
-        "rarity": "Fairy King Truesdale",
+        "pack_id": "S2-01",
         "date": "2001-09-06"
     },
     "tcg": {
-        "id": 45425051,
-        "pack_id": "WC4-001",
         "pack": "Yu-Gi-Oh! World Championship Tournament 2004 Bundles",
-        "rarity": "Fairy King Truesdale",
+        "pack_id": "WC4-001",
         "date": "2004-02-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fe/FairyKingTruesdale-CP07-EN-R-UE.png"

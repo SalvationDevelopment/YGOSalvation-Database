@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 6958551,
-        "pack_id": "CPD1-JP025",
         "pack": "Collectors Pack: Duelist of Destiny Version",
-        "rarity": "Shadow Toon",
+        "pack_id": "CPD1-JP025",
         "date": "2015-05-16"
     },
     "tcg": {
-        "id": 6958551,
-        "pack_id": "DRL2-DE025",
         "pack": "Dragons of Legend 2",
-        "rarity": "Shadow Toon",
+        "pack_id": "DRL2-DE025",
         "date": "2015-07-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ed/ShadowToon-DRL2-EN-SR-1E.png"

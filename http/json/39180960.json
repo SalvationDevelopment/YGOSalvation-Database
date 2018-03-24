@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 39180960,
-        "pack_id": "S2-05",
         "pack": "PlayStation True Duel Monsters Promos: Series 2",
-        "rarity": "Rigorous Reaver",
+        "pack_id": "S2-05",
         "date": "2001-09-06"
     },
     "tcg": {
-        "id": 39180960,
-        "pack_id": "CP06-DE001",
         "pack": "Champion Pack: Game Six",
-        "rarity": "Rigorous Reaver",
+        "pack_id": "CP06-DE001",
         "date": "2008-05-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ef/RigorousReaver-BP03-EN-C-1E.png"

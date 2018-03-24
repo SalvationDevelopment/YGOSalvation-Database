@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 40854197,
-        "pack_id": "YG04-JP001",
         "pack": "Yu-Gi-Oh! GX Volume 4",
-        "rarity": "Elemental HERO Absolute Zero",
+        "pack_id": "YG04-JP001",
         "date": "2008-11-04"
     },
     "tcg": {
-        "id": 40854197,
-        "pack_id": "YG04-EN001",
         "pack": "Yu-Gi-Oh! GX Volume 4",
-        "rarity": "Elemental HERO Absolute Zero",
+        "pack_id": "YG04-EN001",
         "date": "2010-01-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3d/ElementalHEROAbsoluteZero-OP05-EN-C-UE.png"

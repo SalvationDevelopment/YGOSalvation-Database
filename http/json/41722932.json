@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 41722932,
-        "pack_id": "ORCS-JP058",
         "pack": "Order of Chaos",
-        "rarity": "Dark Mambele",
+        "pack_id": "ORCS-JP058",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 41722932,
-        "pack_id": "ORCS-EN058",
         "pack": "Order of Chaos",
-        "rarity": "Dark Mambele",
+        "pack_id": "ORCS-EN058",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/88/DarkMambele-DESO-EN-SR-1E.png"

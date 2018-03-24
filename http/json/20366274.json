@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 20366274,
-        "pack_id": "DUEA-JP049",
         "pack": "Duelist Alliance",
-        "rarity": "El Shaddoll Construct",
+        "pack_id": "DUEA-JP049",
         "date": "2014-04-19"
     },
     "tcg": {
-        "id": 20366274,
-        "pack_id": "DUEA-DE049",
         "pack": "Duelist Alliance",
-        "rarity": "El Shaddoll Construct",
+        "pack_id": "DUEA-DE049",
         "date": "2014-08-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a6/ElShaddollConstruct-MP15-EN-UR-1E.png"

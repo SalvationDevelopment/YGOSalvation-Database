@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 50532786,
-        "pack_id": "GENF-JP008",
         "pack": "Generation Force",
-        "rarity": "Jawsman",
+        "pack_id": "GENF-JP008",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 50532786,
-        "pack_id": "GENF-EN008",
         "pack": "Generation Force",
-        "rarity": "Jawsman",
+        "pack_id": "GENF-EN008",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/77/Jawsman-GENF-EN-R-UE.png"

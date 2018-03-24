@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 61156777,
-        "pack_id": "EP15-JP055",
         "pack": "Extra Pack 2015",
-        "rarity": "BOXer",
+        "pack_id": "EP15-JP055",
         "date": "2015-09-19"
     },
     "tcg": {
-        "id": 61156777,
-        "pack_id": "WSUP-DE048",
         "pack": "World Superstars",
-        "rarity": "BOXer",
+        "pack_id": "WSUP-DE048",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fc/BOXer-SR03-EN-C-1E.png"

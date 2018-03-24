@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 15609017,
-        "pack_id": "SPHR-JP012",
         "pack": "Booster SP: Highspeed Riders",
-        "rarity": "Shock Surprise",
+        "pack_id": "SPHR-JP012",
         "date": "2015-08-22"
     },
     "tcg": {
-        "id": 15609017,
-        "pack_id": "HSRD-DE012",
         "pack": "High-Speed Riders",
-        "rarity": "Shock Surprise",
+        "pack_id": "HSRD-DE012",
         "date": "2015-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3d/ShockSurprise-HSRD-EN-R-1E.png"

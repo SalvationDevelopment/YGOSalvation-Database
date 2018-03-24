@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 46303688,
-        "pack_id": "302-025",
         "pack": "Advent of Union",
-        "rarity": "Roulette Barrel",
+        "pack_id": "302-025",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 46303688,
-        "pack_id": "MFC-025",
         "pack": "Magician's Force",
-        "rarity": "Roulette Barrel",
+        "pack_id": "MFC-025",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4e/RouletteBarrel-LCJW-EN-C-1E.png"

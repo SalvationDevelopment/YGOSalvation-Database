@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 88412339,
-        "pack_id": "SPDS-JP020",
         "pack": "Booster SP: Destiny Soldiers",
-        "rarity": "Abyss Actor - Extras",
+        "pack_id": "SPDS-JP020",
         "date": "2016-08-06"
     },
     "tcg": {
-        "id": 88412339,
-        "pack_id": "DESO-DE020",
         "pack": "Destiny Soldiers",
-        "rarity": "Abyss Actor - Extras",
+        "pack_id": "DESO-DE020",
         "date": "2016-11-17"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a7/AbyssActorExtras-DESO-EN-SR-1E.png"

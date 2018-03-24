@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80208323,
-        "pack_id": "PR03-JP004",
         "pack": "Promotion Pack 3: Part A",
-        "rarity": "Interplanetarypurplythorny Beast",
+        "pack_id": "PR03-JP004",
         "date": "2013-02-15"
     },
     "tcg": {
-        "id": 80208323,
-        "pack_id": "LVAL-DE098",
         "pack": "Legacy of the Valiant",
-        "rarity": "Interplanetarypurplythorny Beast",
+        "pack_id": "LVAL-DE098",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3e/InterplanetarypurplythornyBeast-MP14-EN-C-1E.png"

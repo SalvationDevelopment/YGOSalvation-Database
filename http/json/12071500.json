@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12071500,
-        "pack_id": "DP06-JP024",
         "pack": "Duelist Pack: Jaden Yuki 3",
-        "rarity": "Dark Calling",
+        "pack_id": "DP06-JP024",
         "date": "2007-10-20"
     },
     "tcg": {
-        "id": 12071500,
-        "pack_id": "DP06-DE019",
         "pack": "Duelist Pack: Jaden Yuki 3",
-        "rarity": "Dark Calling",
+        "pack_id": "DP06-DE019",
         "date": "2008-01-22"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f6/DarkCalling-LCGX-EN-R-1E.png"

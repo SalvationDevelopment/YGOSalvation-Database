@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 41493640,
-        "pack_id": "VF13-JP001",
         "pack": "Saikyō V Jump Festa 2013 promotional card",
-        "rarity": "Shogi Knight",
+        "pack_id": "VF13-JP001",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 41493640,
-        "pack_id": "PRIO-DE094",
         "pack": "Primal Origin",
-        "rarity": "Shogi Knight",
+        "pack_id": "PRIO-DE094",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/24/ShogiKnight-PRIO-EN-C-1E.png"

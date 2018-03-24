@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 89127526,
-        "pack_id": "STOR-JP006",
         "pack": "Storm of Ragnarok",
-        "rarity": "Barrier Resonator",
+        "pack_id": "STOR-JP006",
         "date": "2010-11-13"
     },
     "tcg": {
-        "id": 89127526,
-        "pack_id": "STOR-EN006",
         "pack": "Storm of Ragnarok",
-        "rarity": "Barrier Resonator",
+        "pack_id": "STOR-EN006",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/89/BarrierResonator-LC5D-EN-C-1E.png"

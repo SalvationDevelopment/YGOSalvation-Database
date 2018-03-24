@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 11163040,
-        "pack_id": "EP16-JP031",
         "pack": "Extra Pack 2016",
-        "rarity": "The Kaiju Files",
+        "pack_id": "EP16-JP031",
         "date": "2016-09-10"
     },
     "tcg": {
-        "id": 11163040,
-        "pack_id": "SHVI-DE089",
         "pack": "Shining Victories",
-        "rarity": "The Kaiju Files",
+        "pack_id": "SHVI-DE089",
         "date": "2016-05-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/TheKaijuFiles-MP17-EN-C-1E.png"

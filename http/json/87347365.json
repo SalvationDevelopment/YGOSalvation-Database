@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 87347365,
-        "pack_id": "EP13-JP016",
         "pack": "Extra Pack: Sword of Knights",
-        "rarity": "Revival Golem",
+        "pack_id": "EP13-JP016",
         "date": "2013-05-18"
     },
     "tcg": {
-        "id": 87347365,
-        "pack_id": "REDU-EN085",
         "pack": "Return of the Duelist",
-        "rarity": "Revival Golem",
+        "pack_id": "REDU-EN085",
         "date": "2012-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/RevivalGolem-REDU-EN-R-1E.png"

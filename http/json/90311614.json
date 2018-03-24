@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 90311614,
-        "pack_id": "DT05-JP027",
-        "pack": "デュエルターミナル 「混沌の覇者！！」",
-        "rarity": "共通",
-        "date": 1239685200000
-    },
+    "ocg": {},
     "tcg": {
-        "id": 90311614,
-        "pack_id": "DT03-EN027",
         "pack": "Duel Terminal 3",
-        "rarity": "Dewdark of the Ice Barrier",
+        "pack_id": "DT03-EN027",
         "date": "2010-09-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0c/DewdarkoftheIceBarrier-HA03-EN-SR-1E.png"

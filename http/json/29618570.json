@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 29618570,
-        "pack_id": "SC-41",
         "pack": "Struggle of Chaos",
-        "rarity": "Gray Wing",
+        "pack_id": "SC-41",
         "date": "2001-09-20"
     },
     "tcg": {
-        "id": 29618570,
-        "pack_id": "LOD-041",
         "pack": "Legacy of Darkness",
-        "rarity": "Gray Wing",
+        "pack_id": "LOD-041",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c7/GrayWing-DB2-EN-C-UE.png"

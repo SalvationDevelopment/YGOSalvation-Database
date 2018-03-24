@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 33245030,
-        "pack_id": "DOCS-JP020",
         "pack": "Dimension of Chaos",
-        "rarity": "Sphere Kuriboh",
+        "pack_id": "DOCS-JP020",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 33245030,
-        "pack_id": "DOCS-DE020",
         "pack": "Dimension of Chaos",
-        "rarity": "Sphere Kuriboh",
+        "pack_id": "DOCS-DE020",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c0/SphereKuriboh-LEDU-EN-C-1E.png"

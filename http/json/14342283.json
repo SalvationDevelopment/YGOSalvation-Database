@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 14342283,
-        "pack_id": "STOR-JP076",
         "pack": "Storm of Ragnarok",
-        "rarity": "Token Stampede",
+        "pack_id": "STOR-JP076",
         "date": "2010-11-13"
     },
     "tcg": {
-        "id": 14342283,
-        "pack_id": "STOR-EN076",
         "pack": "Storm of Ragnarok",
-        "rarity": "Token Stampede",
+        "pack_id": "STOR-EN076",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/14/TokenStampede-AP02-EN-C-UE.png"

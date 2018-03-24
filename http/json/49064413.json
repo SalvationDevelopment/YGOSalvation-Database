@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 49064413,
-        "pack_id": "SM-00",
         "pack": "Spell of Mask",
-        "rarity": "The Masked Beast",
+        "pack_id": "SM-00",
         "date": "2001-04-19"
     },
     "tcg": {
-        "id": 49064413,
-        "pack_id": "LON-001",
         "pack": "Labyrinth of Nightmare",
-        "rarity": "The Masked Beast",
+        "pack_id": "LON-001",
         "date": "2003-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1e/TheMaskedBeast-DPBC-EN-R-1E.png"

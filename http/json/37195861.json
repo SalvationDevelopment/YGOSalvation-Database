@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 37195861,
-        "pack_id": "WJMP-JP006",
         "pack": "Weekly Shōnen Jump 2006, Issue 35",
-        "rarity": "Elemental HERO Ocean",
+        "pack_id": "WJMP-JP006",
         "date": "2006-07-31"
     },
     "tcg": {
-        "id": 37195861,
-        "pack_id": "CP07-DE006",
         "pack": "Champion Pack: Game Seven",
-        "rarity": "Elemental HERO Ocean",
+        "pack_id": "CP07-DE006",
         "date": "2008-09-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/12/ElementalHEROOcean-SDHS-EN-C-1E.png"

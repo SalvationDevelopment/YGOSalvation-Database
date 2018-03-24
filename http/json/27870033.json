@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 27870033,
-        "pack_id": "CSOC-JP016",
         "pack": "Crossroads of Chaos",
-        "rarity": "",
+        "pack_id": "CSOC-JP016",
         "date": "2008-07-19"
     },
     "tcg": {
-        "id": 27870033,
-        "pack_id": "CSOC-EN016",
         "pack": "Crossroads of Chaos",
-        "rarity": "Pursuit Chaser",
+        "pack_id": "CSOC-EN016",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dc/PursuitChaser-CSOC-EN-C-1E.jpg"

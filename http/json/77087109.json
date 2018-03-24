@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 77087109,
-        "pack_id": "EXVC-JP007",
         "pack": "Extreme Victory",
-        "rarity": "Clock Resonator",
+        "pack_id": "EXVC-JP007",
         "date": "2011-02-11"
     },
     "tcg": {
-        "id": 77087109,
-        "pack_id": "EXVC-EN007",
         "pack": "Extreme Victory",
-        "rarity": "Clock Resonator",
+        "pack_id": "EXVC-EN007",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4b/ClockResonator-LC5D-EN-C-1E.png"

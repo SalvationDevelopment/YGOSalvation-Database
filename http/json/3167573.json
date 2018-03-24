@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 3167573,
-        "pack_id": "LE09-JP003",
         "pack": "Limited Edition 9",
-        "rarity": "Puppet King",
+        "pack_id": "LE09-JP003",
         "date": "2006-05-20"
     },
     "tcg": {
-        "id": 3167573,
-        "pack_id": "CRMS-EN093",
         "pack": "Crimson Crisis",
-        "rarity": "Puppet King",
+        "pack_id": "CRMS-EN093",
         "date": "2009-02-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/08/PuppetKing-CRMS-EN-ScR-UE.png"

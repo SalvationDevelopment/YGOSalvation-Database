@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 4466015,
-        "pack_id": "TAEV-JP071",
         "pack": "Tactical Evolution",
-        "rarity": "Venom Burn",
+        "pack_id": "TAEV-JP071",
         "date": "2007-05-12"
     },
     "tcg": {
-        "id": 4466015,
-        "pack_id": "TAEV-FR071",
         "pack": "Tactical Evolution",
-        "rarity": "Venom Burn",
+        "pack_id": "TAEV-FR071",
         "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/VenomBurn-TAEV-EN-C-1E.png"

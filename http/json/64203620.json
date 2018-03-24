@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64203620,
-        "pack_id": "EP15-JP039",
         "pack": "Extra Pack 2015",
-        "rarity": "Jormungardr the Nordic Serpent",
+        "pack_id": "EP15-JP039",
         "date": "2015-09-19"
     },
     "tcg": {
-        "id": 64203620,
-        "pack_id": "LC05-DE001",
         "pack": "Legendary Collection 5D's",
-        "rarity": "Jormungardr the Nordic Serpent",
+        "pack_id": "LC05-DE001",
         "date": "2014-10-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/57/JormungardrtheNordicSerpent-LC05-EN-UR-LE.png"

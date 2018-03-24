@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 96872283,
-        "pack_id": "SD17-JP002",
         "pack": "Structure Deck: Warrior's Strike",
-        "rarity": "Evocator Chevalier",
+        "pack_id": "SD17-JP002",
         "date": "2009-06-20"
     },
     "tcg": {
-        "id": 96872283,
-        "pack_id": "SDWS-DE002",
         "pack": "Warriors' Strike Structure Deck",
-        "rarity": "Evocator Chevalier",
+        "pack_id": "SDWS-DE002",
         "date": "2009-10-22"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0d/EvocatorChevalier-BP02-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55673611,
-        "pack_id": "CSOC-JP073",
         "pack": "Crossroads of Chaos",
-        "rarity": "Psychic Trigger",
+        "pack_id": "CSOC-JP073",
         "date": "2008-07-19"
     },
     "tcg": {
-        "id": 55673611,
-        "pack_id": "CSOC-EN073",
         "pack": "Crossroads of Chaos",
-        "rarity": "Psychic Trigger",
+        "pack_id": "CSOC-EN073",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/30/PsychicTrigger-CSOC-EN-SR-UE.png"

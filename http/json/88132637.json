@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 88132637,
-        "pack_id": "SC-08",
         "pack": "Struggle of Chaos",
-        "rarity": "Twin-Headed Wolf",
+        "pack_id": "SC-08",
         "date": "2001-09-20"
     },
     "tcg": {
-        "id": 88132637,
-        "pack_id": "LOD-008",
         "pack": "Legacy of Darkness",
-        "rarity": "Twin-Headed Wolf",
+        "pack_id": "LOD-008",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/TwinHeadedWolf-DB2-EN-C-UE.png"

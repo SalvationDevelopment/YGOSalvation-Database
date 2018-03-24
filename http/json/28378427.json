@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 28378427,
-        "pack_id": "SOI-JP052",
         "pack": "Shadow of Infinity",
-        "rarity": "Damage Condenser",
+        "pack_id": "SOI-JP052",
         "date": "2005-11-17"
     },
     "tcg": {
-        "id": 28378427,
-        "pack_id": "SOI-EN052",
         "pack": "Shadow of Infinity",
-        "rarity": "Damage Condenser",
+        "pack_id": "SOI-EN052",
         "date": "2006-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/64/DamageCondenser-SDBE-EN-C-1E.png"

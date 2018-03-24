@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 7180418,
-        "pack_id": "303-021",
         "pack": "Champion of Black Magic",
-        "rarity": "Armor Exe",
+        "pack_id": "303-021",
         "date": "2002-09-19"
     },
     "tcg": {
-        "id": 7180418,
-        "pack_id": "MFC-075",
         "pack": "Magician's Force",
-        "rarity": "Armor Exe",
+        "pack_id": "MFC-075",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/56/ArmorExe-DR1-EN-C-UE.png"

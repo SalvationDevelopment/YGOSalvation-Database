@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12697630,
-        "pack_id": "PRIO-JP012",
         "pack": "Primal Origin",
-        "rarity": "Artifact Beagalltach",
+        "pack_id": "PRIO-JP012",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 12697630,
-        "pack_id": "PRIO-DE012",
         "pack": "Primal Origin",
-        "rarity": "Artifact Beagalltach",
+        "pack_id": "PRIO-DE012",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d3/ArtifactBeagalltach-MP15-EN-C-1E.png"

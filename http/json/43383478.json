@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 43383478,
-        "pack_id": "CORE-JP057",
         "pack": "Clash of Rebellions",
-        "rarity": "Rank-Up-Magic Raptor's Force",
+        "pack_id": "CORE-JP057",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 43383478,
-        "pack_id": "CORE-DE057",
         "pack": "Clash of Rebellions",
-        "rarity": "Rank-Up-Magic Raptor's Force",
+        "pack_id": "CORE-DE057",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/04/RankUpMagicRaptorsForce-MP16-EN-C-1E.png"

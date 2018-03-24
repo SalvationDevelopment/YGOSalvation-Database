@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 262148,
-    "name": "Selective Reborn",
-    "desc": "Target 3 monsters in your GY; your opponent chooses 1 of those monsters for you to Special Summon, and you banish the remaining monsters. You can only activate 1 \"Selective Reborn\" per turn.",
+    "name": "Monster Reborn Reborn",
+    "desc": "Target 3 monsters in your GY; your opponent chooses 1, you Special Summon it, and if you do, banish the rest. You can only activate 1 \"Monster Reborn Reborn\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP066",
+        "date": "2018-01-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/ba/MonsterRebornReborn-FLOD-EN-LE-OP.png"
 }

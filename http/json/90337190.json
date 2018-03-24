@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 90337190,
-        "pack_id": "307-027",
         "pack": "Invader of Darkness",
-        "rarity": "共通",
+        "pack_id": "307-027",
         "date": "2003-07-17"
     },
     "tcg": {
-        "id": 90337190,
-        "pack_id": "IOC-082",
         "pack": "Invasion of Chaos",
-        "rarity": "Torpedo Fish",
+        "pack_id": "IOC-082",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0f/TorpedoFish-DR2-EN-C-UE.png"

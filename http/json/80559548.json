@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80559548,
-        "pack_id": "SPHR-JP004",
         "pack": "Booster SP: Highspeed Riders",
-        "rarity": "Speedroid Razorang",
+        "pack_id": "SPHR-JP004",
         "date": "2015-08-22"
     },
     "tcg": {
-        "id": 80559548,
-        "pack_id": "HSRD-DE004",
         "pack": "High-Speed Riders",
-        "rarity": "Speedroid Razorang",
+        "pack_id": "HSRD-DE004",
         "date": "2015-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/21/SpeedroidRazorang-HSRD-EN-R-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 259314,
-        "pack_id": "GAOV-JP074",
         "pack": "Galactic Overlord",
-        "rarity": "Inzektor Gauntlet",
+        "pack_id": "GAOV-JP074",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 259314,
-        "pack_id": "GAOV-EN074",
         "pack": "Galactic Overlord",
-        "rarity": "Inzektor Gauntlet",
+        "pack_id": "GAOV-EN074",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/91/InzektorGauntlet-GAOV-EN-C-1E.png"

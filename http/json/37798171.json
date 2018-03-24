@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 37798171,
-        "pack_id": "DP15-JP003",
         "pack": "Duelist Pack: Kamishiro Siblings Edition",
-        "rarity": "Depth Shark",
+        "pack_id": "DP15-JP003",
         "date": "2013-10-19"
     },
     "tcg": {
-        "id": 37798171,
-        "pack_id": "DUSA-DE003",
         "pack": "Duelist Saga",
-        "rarity": "Depth Shark",
+        "pack_id": "DUSA-DE003",
         "date": "2017-03-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/31/DepthShark-DUSA-EN-UR-1E.png"

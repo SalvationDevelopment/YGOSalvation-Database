@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 95174353,
-        "pack_id": "MR-10",
         "pack": "Magic Ruler",
-        "rarity": "Ameba",
+        "pack_id": "MR-10",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 95174353,
-        "pack_id": "DB1-EN008",
         "pack": "Dark Beginning 1",
-        "rarity": "Ameba",
+        "pack_id": "DB1-EN008",
         "date": "2004-10-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a2/Ameba-DB1-EN-C-UE.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 89899996,
-        "pack_id": "POTD-JP041",
         "pack": "Power of the Duelist",
-        "rarity": "D - Spirit",
+        "pack_id": "POTD-JP041",
         "date": "2006-05-18"
     },
     "tcg": {
-        "id": 89899996,
-        "pack_id": "POTD-DE041",
         "pack": "Power of the Duelist",
-        "rarity": "D - Spirit",
+        "pack_id": "POTD-DE041",
         "date": "2006-08-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3d/DSpirit-LCGX-EN-C-1E.png"

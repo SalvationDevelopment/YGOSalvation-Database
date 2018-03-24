@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 37520316,
-        "pack_id": "DI2-JP003",
         "pack": "Yu-Gi-Oh! Duel Monsters International 2 promotional cards",
-        "rarity": "Mind Control",
+        "pack_id": "DI2-JP003",
         "date": "2004-12-30"
     },
     "tcg": {
-        "id": 37520316,
-        "pack_id": "WC5-EN003",
         "pack": "Yu-Gi-Oh! 7 Trials to Glory - World Championship Tournament 2005 - Bundles",
-        "rarity": "Mind Control",
+        "pack_id": "WC5-EN003",
         "date": "2005-02-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4a/MindControl-SDCL-EN-C-1E.png"

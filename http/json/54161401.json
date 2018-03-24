@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 54161401,
-        "pack_id": "DT03-JP008",
         "pack": "Duel Terminal - Justice Strikes Back!!",
-        "rarity": "Naturia Rock",
+        "pack_id": "DT03-JP008",
         "date": "2008-09-22"
     },
     "tcg": {
-        "id": 54161401,
-        "pack_id": "DT02-EN008",
         "pack": "Duel Terminal 2",
-        "rarity": "Naturia Rock",
+        "pack_id": "DT02-EN008",
         "date": "2010-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/53/NaturiaRock-HA02-EN-SR-1E.jpg"

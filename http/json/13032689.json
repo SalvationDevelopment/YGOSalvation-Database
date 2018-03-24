@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 13032689,
-        "pack_id": "GAOV-JP062",
         "pack": "Galactic Overlord",
-        "rarity": "Xyz Unit",
+        "pack_id": "GAOV-JP062",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 13032689,
-        "pack_id": "GAOV-EN062",
         "pack": "Galactic Overlord",
-        "rarity": "Xyz Unit",
+        "pack_id": "GAOV-EN062",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a8/XyzUnit-YS13-EN-C-1E.png"

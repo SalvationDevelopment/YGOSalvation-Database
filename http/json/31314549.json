@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 31314549,
-        "pack_id": "CORE-JP014",
         "pack": "Clash of Rebellions",
-        "rarity": "Raidraptor - Singing Lanius",
+        "pack_id": "CORE-JP014",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 31314549,
-        "pack_id": "CORE-DE014",
         "pack": "Clash of Rebellions",
-        "rarity": "Raidraptor - Singing Lanius",
+        "pack_id": "CORE-DE014",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/61/RaidraptorSingingLanius-MP16-EN-C-1E.png"

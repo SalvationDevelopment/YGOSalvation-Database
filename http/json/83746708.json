@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 83746708,
-        "pack_id": "SM-49",
         "pack": "Spell of Mask",
-        "rarity": "Mage Power",
+        "pack_id": "SM-49",
         "date": "2001-04-19"
     },
     "tcg": {
-        "id": 83746708,
-        "pack_id": "LON-050",
         "pack": "Labyrinth of Nightmare",
-        "rarity": "Mage Power",
+        "pack_id": "LON-050",
         "date": "2003-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c7/MagePower-OP01-EN-C-UE.png"

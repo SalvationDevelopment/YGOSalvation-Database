@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 66789970,
-        "pack_id": "GAOV-JP025",
         "pack": "Galactic Overlord",
-        "rarity": "Hieratic Dragon of Sutekh",
+        "pack_id": "GAOV-JP025",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 66789970,
-        "pack_id": "GAOV-EN025",
         "pack": "Galactic Overlord",
-        "rarity": "Hieratic Dragon of Sutekh",
+        "pack_id": "GAOV-EN025",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/86/HieraticDragonofSutekh-GAOV-EN-UR-1E.png"

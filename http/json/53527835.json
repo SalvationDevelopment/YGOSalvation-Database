@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53527835,
-        "pack_id": "POTD-JP048",
         "pack": "Power of the Duelist",
-        "rarity": "Dark City",
+        "pack_id": "POTD-JP048",
         "date": "2006-05-18"
     },
     "tcg": {
-        "id": 53527835,
-        "pack_id": "POTD-DE048",
         "pack": "Power of the Duelist",
-        "rarity": "Dark City",
+        "pack_id": "POTD-DE048",
         "date": "2006-08-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/df/DarkCity-LCGX-EN-C-1E.png"

@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 61283655,
-        "pack_id": "COTD-JP008",
         "pack": "Code of the Duelist",
-        "rarity": "Trickstar Candina",
+        "pack_id": "COTD-JP008",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE008"
+        "pack_id": "COTD-DE008",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d6/TrickstarCandina-COTD-EN-UR-1E.png"
 }

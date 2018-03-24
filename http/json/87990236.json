@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 87990236,
-        "pack_id": "SPDS-JP037",
         "pack": "Booster SP: Destiny Soldiers",
-        "rarity": "Darklord Enchantment",
+        "pack_id": "SPDS-JP037",
         "date": "2016-08-06"
     },
     "tcg": {
-        "id": 87990236,
-        "pack_id": "DESO-DE037",
         "pack": "Destiny Soldiers",
-        "rarity": "Darklord Enchantment",
+        "pack_id": "DESO-DE037",
         "date": "2016-11-17"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/DarklordEnchantment-DESO-EN-ScR-1E.png"

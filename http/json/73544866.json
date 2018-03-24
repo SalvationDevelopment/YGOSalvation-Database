@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 73544866,
-        "pack_id": "304-008",
         "pack": "Power of the Guardian",
-        "rarity": "Guardian Baou",
+        "pack_id": "304-008",
         "date": "2002-11-21"
     },
     "tcg": {
-        "id": 73544866,
-        "pack_id": "DCR-008",
         "pack": "Dark Crisis",
-        "rarity": "Guardian Baou",
+        "pack_id": "DCR-008",
         "date": "2003-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/85/GuardianBaou-LCYW-EN-C-1E.jpg"

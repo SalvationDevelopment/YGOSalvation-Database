@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 78663366,
-        "pack_id": "DTC3-JP103",
         "pack": "Duel Terminal Chronicle 3 - Chapter of Destruction",
-        "rarity": "Evilswarm Thunderbird",
+        "pack_id": "DTC3-JP103",
         "date": "2012-11-06"
     },
     "tcg": {
-        "id": 78663366,
-        "pack_id": "DT07-EN075",
         "pack": "Duel Terminal 7b",
-        "rarity": "Evilswarm Thunderbird",
+        "pack_id": "DT07-EN075",
         "date": "2013-02-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/EvilswarmThunderbird-BP03-EN-C-1E.png"

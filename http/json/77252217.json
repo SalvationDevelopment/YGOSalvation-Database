@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 77252217,
-        "pack_id": "EE04-JP141",
         "pack": "Expert Edition Volume 4",
-        "rarity": "Chainsaw Insect",
+        "pack_id": "EE04-JP141",
         "date": "2007-09-22"
     },
     "tcg": {
-        "id": 77252217,
-        "pack_id": "SOI-EN021",
         "pack": "Shadow of Infinity",
-        "rarity": "Chainsaw Insect",
+        "pack_id": "SOI-EN021",
         "date": "2006-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9c/ChainsawInsect-BP01-EN-C-1E.png"

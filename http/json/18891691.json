@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 18891691,
-        "pack_id": "RDS-JP012",
         "pack": "Rise of Destiny",
-        "rarity": "ウルトラレア仕様",
+        "pack_id": "RDS-JP012",
         "date": "2004-08-05"
     },
     "tcg": {
-        "id": 18891691,
-        "pack_id": "RDS-FR012",
         "pack": "Rise of Destiny",
-        "rarity": "Ultra Rare",
+        "pack_id": "RDS-FR012",
         "date": "2004-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bd/PerfectMachineKing-DR3-EN-UR-UE.png"

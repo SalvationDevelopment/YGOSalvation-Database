@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 27491571,
-        "pack_id": "SHSP-JP018",
         "pack": "Shadow Specters",
-        "rarity": "Ghostrick Witch",
+        "pack_id": "SHSP-JP018",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 27491571,
-        "pack_id": "SHSP-DE018",
         "pack": "Shadow Specters",
-        "rarity": "Ghostrick Witch",
+        "pack_id": "SHSP-DE018",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/GhostrickWitch-MP14-EN-C-1E.png"

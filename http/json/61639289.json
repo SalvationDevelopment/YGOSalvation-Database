@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 61639289,
-        "pack_id": "CORE-JP027",
         "pack": "Clash of Rebellions",
-        "rarity": "Igknight Crusader",
+        "pack_id": "CORE-JP027",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 61639289,
-        "pack_id": "CORE-DE027",
         "pack": "Clash of Rebellions",
-        "rarity": "Igknight Crusader",
+        "pack_id": "CORE-DE027",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1a/IgknightCrusader-CORE-EN-SR-1E.png"

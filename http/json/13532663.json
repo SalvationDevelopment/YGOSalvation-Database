@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 13532663,
-        "pack_id": "TLM-JP016",
         "pack": "The Lost Millennium",
-        "rarity": "Dummy Golem",
+        "pack_id": "TLM-JP016",
         "date": "2005-02-24"
     },
     "tcg": {
-        "id": 13532663,
-        "pack_id": "TLM-EN016",
         "pack": "The Lost Millennium",
-        "rarity": "Dummy Golem",
+        "pack_id": "TLM-EN016",
         "date": "2005-05-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d8/DummyGolem-DR3-EN-C-UE.png"

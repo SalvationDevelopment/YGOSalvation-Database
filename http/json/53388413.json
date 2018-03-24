@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53388413,
-        "pack_id": "DT01-JP022",
         "pack": "Duel Terminal - Synchro Awakening!!",
-        "rarity": "Commander Gottoms, Swordmaster",
+        "pack_id": "DT01-JP022",
         "date": "2008-04-12"
     },
     "tcg": {
-        "id": 53388413,
-        "pack_id": "HA01-DE013",
         "pack": "Hidden Arsenal",
-        "rarity": "Commander Gottoms, Swordmaster",
+        "pack_id": "HA01-DE013",
         "date": "2009-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/df/CommanderGottomsSwordmaster-HA01-EN-ScR-LE.jpg"

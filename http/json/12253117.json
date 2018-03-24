@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12253117,
-        "pack_id": "CA-20",
         "pack": "Curse of Anubis",
-        "rarity": "共通",
+        "pack_id": "CA-20",
         "date": "2000-09-28"
     },
     "tcg": {
-        "id": 12253117,
-        "pack_id": "PSV-020",
         "pack": "Pharaoh's Servant",
-        "rarity": "World Suppression",
+        "pack_id": "PSV-020",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/61/WorldSuppression-PSV-EN-C-UE.png"

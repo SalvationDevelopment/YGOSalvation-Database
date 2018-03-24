@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45945685,
-        "pack_id": "CRV-JP001",
         "pack": "Cybernetic Revolution",
-        "rarity": "Cycroid",
+        "pack_id": "CRV-JP001",
         "date": "2005-05-26"
     },
     "tcg": {
-        "id": 45945685,
-        "pack_id": "CRV-DE001",
         "pack": "Cybernetic Revolution",
-        "rarity": "Cycroid",
+        "pack_id": "CRV-DE001",
         "date": "2005-08-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/32/Cycroid-YSDS-EN-C-1E.png"

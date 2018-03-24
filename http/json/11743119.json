@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 11743119,
-        "pack_id": "302-018",
         "pack": "Advent of Union",
-        "rarity": "Union Rider",
+        "pack_id": "302-018",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 11743119,
-        "pack_id": "MFC-018",
         "pack": "Magician's Force",
-        "rarity": "Union Rider",
+        "pack_id": "MFC-018",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/83/UnionRider-DR1-EN-C-UE.png"

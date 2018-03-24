@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 33302407,
-        "pack_id": "CSOC-JP053",
         "pack": "Crossroads of Chaos",
-        "rarity": "",
+        "pack_id": "CSOC-JP053",
         "date": "2008-07-19"
     },
     "tcg": {
-        "id": 33302407,
-        "pack_id": "CSOC-EN053",
         "pack": "Crossroads of Chaos",
-        "rarity": "Poison Chain",
+        "pack_id": "CSOC-EN053",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6f/PoisonChain-CSOC-EN-C-1E.jpg"

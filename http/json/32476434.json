@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 32476434,
-        "pack_id": "VJMP-JP087",
         "pack": "V Jump Spring 2014 subscription bonus",
-        "rarity": "Shogi Lance",
+        "pack_id": "VJMP-JP087",
         "date": "2014-03-21"
     },
     "tcg": {
-        "id": 32476434,
-        "pack_id": "NECH-DE097",
         "pack": "The New Challengers",
-        "rarity": "Shogi Lance",
+        "pack_id": "NECH-DE097",
         "date": "2014-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/ShogiLance-NECH-EN-C-UE.png"

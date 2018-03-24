@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 48766543,
-        "pack_id": "G3-10",
         "pack": "Yu-Gi-Oh! Duel Monsters III: Tri-Holy God Advent promotional cards",
-        "rarity": "Cyber-Tech Alligator",
+        "pack_id": "G3-10",
         "date": "2000-07-13"
     },
     "tcg": {
-        "id": 48766543,
-        "pack_id": "YSDJ-EN001",
         "pack": "Starter Deck: Jaden Yuki",
-        "rarity": "Cyber-Tech Alligator",
+        "pack_id": "YSDJ-EN001",
         "date": "2007-07-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/09/CyberTechAlligator-LCJW-EN-C-1E.png"

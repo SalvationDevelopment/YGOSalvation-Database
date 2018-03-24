@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 47120245,
-        "pack_id": "EP14-JP016",
         "pack": "Extra Pack: Knights of Order",
-        "rarity": "Noble Knight Borz",
+        "pack_id": "EP14-JP016",
         "date": "2014-09-13"
     },
     "tcg": {
-        "id": 47120245,
-        "pack_id": "SHSP-DE085",
         "pack": "Shadow Specters",
-        "rarity": "Noble Knight Borz",
+        "pack_id": "SHSP-DE085",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/79/NobleKnightBorz-NKRT-EN-PlR-LE.png"

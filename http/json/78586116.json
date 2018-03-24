@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 78586116,
-        "pack_id": "EXVC-JP064",
         "pack": "Extreme Victory",
-        "rarity": "Power-Up Adapter",
+        "pack_id": "EXVC-JP064",
         "date": "2011-02-11"
     },
     "tcg": {
-        "id": 78586116,
-        "pack_id": "EXVC-EN064",
         "pack": "Extreme Victory",
-        "rarity": "Power-Up Adapter",
+        "pack_id": "EXVC-EN064",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b1/PowerUpAdapter-EXVC-EN-C-UE.png"

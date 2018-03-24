@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 87313164,
-        "pack_id": "GENF-JP069",
         "pack": "Generation Force",
-        "rarity": "Oh F!sh!",
+        "pack_id": "GENF-JP069",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 87313164,
-        "pack_id": "GENF-EN069",
         "pack": "Generation Force",
-        "rarity": "Oh F!sh!",
+        "pack_id": "GENF-EN069",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4b/OhFsh-GENF-EN-R-1E.jpg"

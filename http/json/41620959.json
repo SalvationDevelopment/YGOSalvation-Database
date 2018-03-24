@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 41620959,
-        "pack_id": "SD25-JP020",
         "pack": "Structure Deck: The Blue-Eyed Dragon's Thundering Descent",
-        "rarity": "Dragon Shrine",
+        "pack_id": "SD25-JP020",
         "date": "2013-06-15"
     },
     "tcg": {
-        "id": 41620959,
-        "pack_id": "SDBE-DE019",
         "pack": "Saga of Blue-Eyes White Dragon Structure Deck",
-        "rarity": "Dragon Shrine",
+        "pack_id": "SDBE-DE019",
         "date": "2013-09-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/DragonShrine-LCKC-EN-ScR-1E.png"

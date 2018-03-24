@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 18807108,
-        "pack_id": "MR-06",
         "pack": "Magic Ruler",
-        "rarity": "Spellbinding Circle",
+        "pack_id": "MR-06",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 18807108,
-        "pack_id": "SYE-045",
         "pack": "Starter Deck: Yugi Evolution",
-        "rarity": "Spellbinding Circle",
+        "pack_id": "SYE-045",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/59/SpellbindingCircle-YGLD-EN-C-1E.png"

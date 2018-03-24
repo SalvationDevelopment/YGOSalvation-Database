@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99902789,
-        "pack_id": "SHSP-JP002",
         "pack": "Shadow Specters",
-        "rarity": "Chow Chow Chan",
+        "pack_id": "SHSP-JP002",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 99902789,
-        "pack_id": "SHSP-DE002",
         "pack": "Shadow Specters",
-        "rarity": "Chow Chow Chan",
+        "pack_id": "SHSP-DE002",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5a/ChowChowChan-SHSP-EN-C-1E.png"

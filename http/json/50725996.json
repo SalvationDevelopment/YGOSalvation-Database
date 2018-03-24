@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 50725996,
-        "pack_id": "GB8-001",
         "pack": "GameBoy Duel Monsters Promos: Series 8",
-        "rarity": "Dark Magician Knight",
+        "pack_id": "GB8-001",
         "date": "2003-03-20"
     },
     "tcg": {
-        "id": 50725996,
-        "pack_id": "ROD-EN001",
         "pack": "Yu-Gi-Oh! Reshef of Destruction Bundles",
-        "rarity": "Dark Magician Knight",
+        "pack_id": "ROD-EN001",
         "date": "2004-06-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/DarkMagicianKnight-LCYW-EN-C-1E.png"

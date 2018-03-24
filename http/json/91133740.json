@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 91133740,
-        "pack_id": "JF09-JP006",
         "pack": "Jump Festa 2009 - Promotion Pack",
-        "rarity": "Snowman Eater",
+        "pack_id": "JF09-JP006",
         "date": "2008-12-20"
     },
     "tcg": {
-        "id": 91133740,
-        "pack_id": "RGBT-EN094",
         "pack": "Raging Battle",
-        "rarity": "Snowman Eater",
+        "pack_id": "RGBT-EN094",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/47/SnowmanEater-SDRE-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 34149830,
-        "pack_id": "DREV-JP063",
         "pack": "Duelist Revolution",
-        "rarity": "Desperate Tag",
+        "pack_id": "DREV-JP063",
         "date": "2010-04-17"
     },
     "tcg": {
-        "id": 34149830,
-        "pack_id": "DREV-EN063",
         "pack": "Duelist Revolution",
-        "rarity": "Desperate Tag",
+        "pack_id": "DREV-EN063",
         "date": "2010-08-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/DesperateTag-DP10-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 87460579,
-        "pack_id": "RATE-JP045",
         "pack": "Raging Tempest",
-        "rarity": "Flower Cardian Lightflare",
+        "pack_id": "RATE-JP045",
         "date": "2016-10-08"
     },
     "tcg": {
-        "id": 87460579,
-        "pack_id": "RATE-DE045",
         "pack": "Raging Tempest",
-        "rarity": "Flower Cardian Lightflare",
+        "pack_id": "RATE-DE045",
         "date": "2017-02-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8a/FlowerCardianLightflare-RATE-EN-R-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80516007,
-        "pack_id": "",
         "pack": "Vol.3",
-        "rarity": "Rare Fish",
+        "pack_id": "",
         "date": "1999-05-27"
     },
     "tcg": {
-        "id": 80516007,
-        "pack_id": "OP03-DE026",
         "pack": "OTS Tournament Pack 3",
-        "rarity": "Rare Fish",
+        "pack_id": "OP03-DE026",
         "date": "2016-11-17"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/62/RareFish-OP03-EN-SP-UE.png"

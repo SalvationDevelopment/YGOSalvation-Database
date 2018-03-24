@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 11475049,
-        "pack_id": "PRIO-JP015",
         "pack": "Primal Origin",
-        "rarity": "Artifact Achilleshield",
+        "pack_id": "PRIO-JP015",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 11475049,
-        "pack_id": "PRIO-DE015",
         "pack": "Primal Origin",
-        "rarity": "Artifact Achilleshield",
+        "pack_id": "PRIO-DE015",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7e/ArtifactAchilleshield-MP15-EN-C-1E.png"

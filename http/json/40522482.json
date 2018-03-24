@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 40522482,
-        "pack_id": "20AP-JP006",
         "pack": "20th Anniversary Pack 1st Wave",
-        "rarity": "Skydive Scorcher",
+        "pack_id": "20AP-JP006",
         "date": "2016-12-17"
     },
     "tcg": {
-        "id": 40522482,
-        "pack_id": "DUSA-DE029",
         "pack": "Duelist Saga",
-        "rarity": "Skydive Scorcher",
+        "pack_id": "DUSA-DE029",
         "date": "2017-03-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/95/SkydiveScorcher-DUSA-EN-UR-1E.png"

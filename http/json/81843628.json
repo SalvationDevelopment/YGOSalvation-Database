@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81843628,
-        "pack_id": "",
         "pack": "Booster 5",
-        "rarity": "Needle Worm",
+        "pack_id": "",
         "date": "1999-10-17"
     },
     "tcg": {
-        "id": 81843628,
-        "pack_id": "TP3-001",
         "pack": "Tournament Pack: 3rd Season",
-        "rarity": "Needle Worm",
+        "pack_id": "TP3-001",
         "date": "2003-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/88/NeedleWorm-LCYW-EN-UR-1E.png"

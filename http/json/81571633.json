@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81571633,
-        "pack_id": "VE11-JP002",
         "pack": "V Jump Edition Pendulum Victory Pack",
-        "rarity": "D/D Proud Ogre",
+        "pack_id": "VE11-JP002",
         "date": "2014-08-11"
     },
     "tcg": {
-        "id": 81571633,
-        "pack_id": "SDPD-DE014",
         "pack": "Pendulum Domination Structure Deck",
-        "rarity": "D/D Proud Ogre",
+        "pack_id": "SDPD-DE014",
         "date": "2017-01-19"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/10/DDProudOgre-SDPD-EN-C-1E.png"

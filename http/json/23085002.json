@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 23085002,
-        "pack_id": "CP17-JP043",
         "pack": "Collectors Pack 2017",
-        "rarity": "Number 68: Sanaphond the Sky Prison",
+        "pack_id": "CP17-JP043",
         "date": "2017-05-13"
     },
     "tcg": {
-        "date": "2017-08-24",
         "pack": "2017 Mega-Tins",
-        "pack_id": "CT14-DE008"
+        "pack_id": "CT14-DE008",
+        "date": "2017-08-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/91/Number68SanaphondtheSkyPrison-CT14-EN-SR-LE.png"
 }

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 38955728,
-        "pack_id": "INOV-JP001",
         "pack": "Invasion: Vengeance",
-        "rarity": "Dragon Core Hexer",
+        "pack_id": "INOV-JP001",
         "date": "2016-07-09"
     },
     "tcg": {
-        "id": 38955728,
-        "pack_id": "INOV-DE001",
         "pack": "Invasion: Vengeance",
-        "rarity": "Dragon Core Hexer",
+        "pack_id": "INOV-DE001",
         "date": "2016-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5f/DragonCoreHexer-MP17-EN-R-1E.png"

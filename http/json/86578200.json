@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 86578200,
-        "pack_id": "SPDS-JP026",
         "pack": "Booster SP: Destiny Soldiers",
-        "rarity": "Abyss Prop - Wild Wagon",
+        "pack_id": "SPDS-JP026",
         "date": "2016-08-06"
     },
     "tcg": {
-        "id": 86578200,
-        "pack_id": "DESO-DE026",
         "pack": "Destiny Soldiers",
-        "rarity": "Abyss Prop - Wild Wagon",
+        "pack_id": "DESO-DE026",
         "date": "2016-11-17"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/44/AbyssPropWildWagon-DESO-EN-SR-1E.png"

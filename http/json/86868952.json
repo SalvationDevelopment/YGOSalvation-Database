@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 86868952,
-        "pack_id": "LVAL-JP028",
         "pack": "Legacy of the Valiant",
-        "rarity": "Bujingi Swallow",
+        "pack_id": "LVAL-JP028",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 86868952,
-        "pack_id": "LVAL-DE028",
         "pack": "Legacy of the Valiant",
-        "rarity": "Bujingi Swallow",
+        "pack_id": "LVAL-DE028",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/66/BujingiSwallow-MP14-EN-C-1E.png"

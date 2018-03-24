@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 19580308,
-        "pack_id": "SD30-JP005",
         "pack": "Structure Deck: Pendulum Domination",
-        "rarity": "D/D Lamia",
+        "pack_id": "SD30-JP005",
         "date": "2015-12-12"
     },
     "tcg": {
-        "id": 19580308,
-        "pack_id": "SDPD-DE005",
         "pack": "Pendulum Domination Structure Deck",
-        "rarity": "D/D Lamia",
+        "pack_id": "SDPD-DE005",
         "date": "2017-01-19"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/69/DDLamia-SDPD-EN-SR-1E.png"

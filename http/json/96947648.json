@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 96947648,
-        "pack_id": "307-041",
         "pack": "Invader of Darkness",
-        "rarity": "Salvage",
+        "pack_id": "307-041",
         "date": "2003-07-17"
     },
     "tcg": {
-        "id": 96947648,
-        "pack_id": "IOC-096",
         "pack": "Invasion of Chaos",
-        "rarity": "Salvage",
+        "pack_id": "IOC-096",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/14/Salvage-SDRE-EN-C-1E.jpg"

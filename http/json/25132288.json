@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 25132288,
-        "pack_id": "LE12-JP001",
         "pack": "Limited Edition 12",
-        "rarity": "Light End Dragon",
+        "pack_id": "LE12-JP001",
         "date": "2008-05-21"
     },
     "tcg": {
-        "id": 25132288,
-        "pack_id": "RGBT-EN091",
         "pack": "Raging Battle",
-        "rarity": "Light End Dragon",
+        "pack_id": "RGBT-EN091",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/23/LightEndDragon-RYMP-EN-SR-UE.png"

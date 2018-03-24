@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 92421852,
-        "pack_id": "MA-04",
-        "pack": "Mythological Age － 蘇りし魂 －",
-        "rarity": "共通",
-        "date": 1007010000000
-    },
+    "ocg": {},
     "tcg": {
-        "id": 92421852,
-        "pack_id": "LOD-054",
         "pack": "Legacy of Darkness",
-        "rarity": "Robolady",
+        "pack_id": "LOD-054",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b2/Robolady-LOD-NA-C-1E.jpg"

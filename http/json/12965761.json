@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12965761,
-        "pack_id": "302-015",
         "pack": "Advent of Union",
-        "rarity": "Des Dendle",
+        "pack_id": "302-015",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 12965761,
-        "pack_id": "MFC-015",
         "pack": "Magician's Force",
-        "rarity": "Des Dendle",
+        "pack_id": "MFC-015",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6a/DesDendle-DR1-EN-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45313993,
-        "pack_id": "TDIL-JP014",
         "pack": "The Dark Illusion",
-        "rarity": "Red Warg",
+        "pack_id": "TDIL-JP014",
         "date": "2016-04-09"
     },
     "tcg": {
-        "id": 45313993,
-        "pack_id": "TDIL-DE014",
         "pack": "The Dark Illusion",
-        "rarity": "Red Warg",
+        "pack_id": "TDIL-DE014",
         "date": "2016-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a2/RedWarg-MP17-EN-C-1E.png"

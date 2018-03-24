@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 24696097,
-        "pack_id": "STBL-JP040",
         "pack": "Starstrike Blast",
-        "rarity": "Shooting Star Dragon",
+        "pack_id": "STBL-JP040",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 24696097,
-        "pack_id": "CT07-DE004",
         "pack": "Collectible Tins 2010 Wave 2",
-        "rarity": "Shooting Star Dragon",
+        "pack_id": "CT07-DE004",
         "date": "2010-10-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fb/ShootingStarDragon-LC5D-EN-SR-1E.png"

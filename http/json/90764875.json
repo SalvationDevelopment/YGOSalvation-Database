@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 90764875,
-        "pack_id": "LVAL-JP011",
         "pack": "Legacy of the Valiant",
-        "rarity": "Gorgonic Golem",
+        "pack_id": "LVAL-JP011",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 90764875,
-        "pack_id": "LVAL-DE011",
         "pack": "Legacy of the Valiant",
-        "rarity": "Gorgonic Golem",
+        "pack_id": "LVAL-DE011",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d1/GorgonicGolem-MP14-EN-C-1E.png"

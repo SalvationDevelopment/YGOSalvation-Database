@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 78613627,
-        "pack_id": "306-005",
         "pack": "Controller of Chaos",
-        "rarity": "Des Kangaroo",
+        "pack_id": "306-005",
         "date": "2003-04-24"
     },
     "tcg": {
-        "id": 78613627,
-        "pack_id": "IOC-005",
         "pack": "Invasion of Chaos",
-        "rarity": "Des Kangaroo",
+        "pack_id": "IOC-005",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0d/DesKangaroo-DR2-EN-C-UE.png"

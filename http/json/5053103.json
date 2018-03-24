@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 5053103,
-        "pack_id": "",
         "pack": "Booster 6",
-        "rarity": "Battle Ox",
+        "pack_id": "",
         "date": "1999-12-01"
     },
     "tcg": {
-        "id": 5053103,
-        "pack_id": "SDK-005",
         "pack": "Starter Deck: Kaiba",
-        "rarity": "Battle Ox",
+        "pack_id": "SDK-005",
         "date": "2002-03-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/36/BattleOx-LDK2-EN-C-1E.png"

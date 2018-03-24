@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 29013526,
-        "pack_id": "EOJ-JP029",
         "pack": "Enemy of Justice",
-        "rarity": "共通",
+        "pack_id": "EOJ-JP029",
         "date": "2006-02-16"
     },
     "tcg": {
-        "id": 29013526,
-        "pack_id": "EOJ-DE029",
         "pack": "Enemy of Justice",
-        "rarity": "Common",
+        "pack_id": "EOJ-DE029",
         "date": "2006-05-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cc/StormingWynn-DR04-NA-C-UE.png"

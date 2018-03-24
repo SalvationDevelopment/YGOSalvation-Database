@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 82529174,
-        "pack_id": "305-050",
         "pack": "Threat of the Dark Demon World",
-        "rarity": "Ray of Hope",
+        "pack_id": "305-050",
         "date": "2003-02-20"
     },
     "tcg": {
-        "id": 82529174,
-        "pack_id": "DCR-103",
         "pack": "Dark Crisis",
-        "rarity": "Ray of Hope",
+        "pack_id": "DCR-103",
         "date": "2003-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/27/RayofHope-DR1-EN-C-UE.png"

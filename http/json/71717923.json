@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 71717923,
-        "pack_id": "EXP1-JP008",
         "pack": "Extra Pack",
-        "rarity": "Mormolith",
+        "pack_id": "EXP1-JP008",
         "date": "2008-09-13"
     },
     "tcg": {
-        "id": 71717923,
-        "pack_id": "TAEV-FR085",
         "pack": "Tactical Evolution",
-        "rarity": "Mormolith",
+        "pack_id": "TAEV-FR085",
         "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/93/Mormolith-GLD4-EN-C-LE.png"

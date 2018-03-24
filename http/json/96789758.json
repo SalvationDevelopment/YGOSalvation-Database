@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 96789758,
-        "pack_id": "CORE-JP034",
         "pack": "Clash of Rebellions",
-        "rarity": "Aromage Jasmine",
+        "pack_id": "CORE-JP034",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 96789758,
-        "pack_id": "CORE-DE034",
         "pack": "Clash of Rebellions",
-        "rarity": "Aromage Jasmine",
+        "pack_id": "CORE-DE034",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7a/AromageJasmine-CORE-EN-ScR-1E.png"

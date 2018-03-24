@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 51053997,
-        "pack_id": "INOV-JP074",
         "pack": "Invasion: Vengeance",
-        "rarity": "PSY-Frame Accelerator",
+        "pack_id": "INOV-JP074",
         "date": "2016-07-09"
     },
     "tcg": {
-        "id": 51053997,
-        "pack_id": "INOV-DE074",
         "pack": "Invasion: Vengeance",
-        "rarity": "PSY-Frame Accelerator",
+        "pack_id": "INOV-DE074",
         "date": "2016-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a8/PSYFrameAccelerator-MP17-EN-C-1E.png"

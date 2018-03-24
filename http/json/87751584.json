@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 87751584,
-        "pack_id": "FET-JP035",
         "pack": "Flaming Eternity",
-        "rarity": "Gatling Dragon",
+        "pack_id": "FET-JP035",
         "date": "2004-11-25"
     },
     "tcg": {
-        "id": 87751584,
-        "pack_id": "FET-EN035",
         "pack": "Flaming Eternity",
-        "rarity": "Gatling Dragon",
+        "pack_id": "FET-EN035",
         "date": "2005-02-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3b/GatlingDragon-LCJW-EN-C-1E.png"

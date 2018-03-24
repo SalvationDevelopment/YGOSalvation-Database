@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 46181000,
-        "pack_id": "302-028",
         "pack": "Advent of Union",
-        "rarity": "Frontline Base",
+        "pack_id": "302-028",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 46181000,
-        "pack_id": "MFC-028",
         "pack": "Magician's Force",
-        "rarity": "Frontline Base",
+        "pack_id": "MFC-028",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6b/FrontlineBase-SDKS-EN-C-1E.png"

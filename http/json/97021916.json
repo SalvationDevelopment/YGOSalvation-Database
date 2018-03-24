@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 97021916,
-        "pack_id": "TDGS-JP010",
         "pack": "The Duelist Genesis",
-        "rarity": "Dark Resonator",
+        "pack_id": "TDGS-JP010",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 97021916,
-        "pack_id": "TDGS-EN010",
         "pack": "The Duelist Genesis",
-        "rarity": "Dark Resonator",
+        "pack_id": "TDGS-EN010",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/20/DarkResonator-DPDG-EN-C-1E.png"

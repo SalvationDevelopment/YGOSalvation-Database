@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262152,
     "name": "Vampire Desire",
-    "desc": "Activate 1 of these effects.\r\n● Target 1 face-up monster you control; send 1 \"Vampire\" monster from your Deck to the GY whose Level is different from that monster, and if you do, that monster becomes the Level of that monster sent to the GY until the end of this turn.\r\n● Target 1 \"Vampire\" monster in your GY; send 1 monster you control to the GY, and if you do, Special Summon the target.\r\nYou can only activate 1 \"Vampire Desire\" per turn.",
+    "desc": "Activate 1 of these effects.\n● Target 1 face-up monster you control; send 1 \"Vampire\" monster from your Deck to the GY whose Level is different from that monster, and if you do, that monster becomes the Level of that monster sent to the GY until the end of this turn.\n● Target 1 \"Vampire\" monster in your GY; send 1 monster you control to the GY, and if you do, Special Summon the target.\nYou can only activate 1 \"Vampire Desire\" per turn.",
     "str1": "Change Level",
     "str2": "Send 1 monster to GY and Special Summon",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Deck Build Pack: Dark Savers",
+        "pack_id": "DBDS-JP008",
+        "date": "2018-02-24"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e2/VampireDesire-DBDS-JP-C.png"
 }

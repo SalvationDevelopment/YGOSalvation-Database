@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 56535497,
-        "pack_id": "EXP3-JP010",
         "pack": "Extra Pack Volume 3",
-        "rarity": "Berserking",
+        "pack_id": "EXP3-JP010",
         "date": "2010-09-18"
     },
     "tcg": {
-        "id": 56535497,
-        "pack_id": "RGBT-EN089",
         "pack": "Raging Battle",
-        "rarity": "Berserking",
+        "pack_id": "RGBT-EN089",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f9/Berserking-RGBT-EN-R-1E.png"

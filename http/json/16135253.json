@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 16135253,
-        "pack_id": "305-027",
         "pack": "Threat of the Dark Demon World",
-        "rarity": "Agido",
+        "pack_id": "305-027",
         "date": "2003-02-20"
     },
     "tcg": {
-        "id": 16135253,
-        "pack_id": "DCR-080",
         "pack": "Dark Crisis",
-        "rarity": "Agido",
+        "pack_id": "DCR-080",
         "date": "2003-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bc/Agido-DR1-EN-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 78785392,
-        "pack_id": "CPF1-JP040",
         "pack": "Collectors Pack: Duelist of Flash Version",
-        "rarity": "Flower Gathering",
+        "pack_id": "CPF1-JP040",
         "date": "2016-05-14"
     },
     "tcg": {
-        "id": 78785392,
-        "pack_id": "DRL3-DE040",
         "pack": "Dragons of Legend: Unleashed",
-        "rarity": "Flower Gathering",
+        "pack_id": "DRL3-DE040",
         "date": "2016-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/91/FlowerGathering-DRL3-EN-UR-1E.png"

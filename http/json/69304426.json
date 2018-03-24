@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 69304426,
-        "pack_id": "DOCS-JP084",
         "pack": "Dimension of Chaos",
-        "rarity": "Artifact Vajra",
+        "pack_id": "DOCS-JP084",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 69304426,
-        "pack_id": "MACR-DE094",
         "pack": "Maximum Crisis",
-        "rarity": "Artifact Vajra",
+        "pack_id": "MACR-DE094",
         "date": "2017-05-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/34/ArtifactVajra-MACR-EN-C-1E.png"

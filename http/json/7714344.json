@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 7714344,
-        "pack_id": "CPF1-JP002",
         "pack": "Collectors Pack: Duelist of Flash Version",
-        "rarity": "Performapal Uni",
+        "pack_id": "CPF1-JP002",
         "date": "2016-05-14"
     },
     "tcg": {
-        "id": 7714344,
-        "pack_id": "DRL3-DE002",
         "pack": "Dragons of Legend: Unleashed",
-        "rarity": "Performapal Uni",
+        "pack_id": "DRL3-DE002",
         "date": "2016-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/da/PerformapalUni-DRL3-EN-UR-1E.png"

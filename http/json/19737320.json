@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 19737320,
-        "pack_id": "",
         "pack": "Vol.7",
-        "rarity": "共通",
+        "pack_id": "",
         "date": "2000-01-27"
     },
     "tcg": {
-        "id": 19737320,
-        "pack_id": "TP8-DE013",
         "pack": "Tournament Pack 8",
-        "rarity": "Gatekeeper",
+        "pack_id": "TP8-DE013",
         "date": "2006-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0c/Gatekeeper-TP8-EN-C-UE.jpg"

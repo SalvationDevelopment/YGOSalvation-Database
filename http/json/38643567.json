@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 38643567,
-        "pack_id": "ORCS-JP070",
         "pack": "Order of Chaos",
-        "rarity": "Inzektor Orb",
+        "pack_id": "ORCS-JP070",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 38643567,
-        "pack_id": "ORCS-EN070",
         "pack": "Order of Chaos",
-        "rarity": "Inzektor Orb",
+        "pack_id": "ORCS-EN070",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b1/InzektorOrb-ORCS-EN-R-1E.jpg"

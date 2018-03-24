@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 42015635,
-        "pack_id": "POTD-JP046",
         "pack": "Power of the Duelist",
-        "rarity": "Neo Space",
+        "pack_id": "POTD-JP046",
         "date": "2006-05-18"
     },
     "tcg": {
-        "id": 42015635,
-        "pack_id": "POTD-DE046",
         "pack": "Power of the Duelist",
-        "rarity": "Neo Space",
+        "pack_id": "POTD-DE046",
         "date": "2006-08-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/38/NeoSpace-LCGX-EN-R-1E.png"

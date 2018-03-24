@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 61965407,
-        "pack_id": "CROS-JP073",
         "pack": "Crossed Souls",
-        "rarity": "Void Purification",
+        "pack_id": "CROS-JP073",
         "date": "2015-02-14"
     },
     "tcg": {
-        "id": 61965407,
-        "pack_id": "CROS-DE073",
         "pack": "Crossed Souls",
-        "rarity": "Void Purification",
+        "pack_id": "CROS-DE073",
         "date": "2015-05-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cc/VoidPurification-CROS-EN-R-1E.png"

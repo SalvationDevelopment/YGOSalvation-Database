@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "LINK VRAINS Box",
+        "pack_id": "LVB1-JP012",
+        "date": "2017-12-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/52/GoukiDeathmatch-LVB1-JP-UR.png"
 }

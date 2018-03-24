@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 90928333,
-        "pack_id": "SOD-JP037",
         "pack": "Soul of the Duelist",
-        "rarity": "Dark Factory of Mass Production",
+        "pack_id": "SOD-JP037",
         "date": "2004-05-27"
     },
     "tcg": {
-        "id": 90928333,
-        "pack_id": "SOD-DE037",
         "pack": "Soul of the Duelist",
-        "rarity": "Dark Factory of Mass Production",
+        "pack_id": "SOD-DE037",
         "date": "2004-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/14/DarkFactoryofMassProduction-LDK2-EN-C-1E.png"

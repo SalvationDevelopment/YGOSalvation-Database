@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 59975920,
-        "pack_id": "SPWR-JP030",
         "pack": "Booster SP: Wing Raiders",
-        "rarity": "Super Quantum Red Layer",
+        "pack_id": "SPWR-JP030",
         "date": "2015-11-14"
     },
     "tcg": {
-        "id": 59975920,
-        "pack_id": "WIRA-DE030",
         "pack": "Wing Raiders",
-        "rarity": "Super Quantum Red Layer",
+        "pack_id": "WIRA-DE030",
         "date": "2016-02-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/02/SuperQuantumRedLayer-WIRA-EN-UR-1E.png"

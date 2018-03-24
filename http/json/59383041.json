@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 59383041,
-        "pack_id": "PE-07",
         "pack": "Structure Deck: Pegasus J. Crawford Edition",
-        "rarity": "Toon Alligator",
+        "pack_id": "PE-07",
         "date": "2002-03-21"
     },
     "tcg": {
-        "id": 59383041,
-        "pack_id": "SDP-009",
         "pack": "Starter Deck: Pegasus",
-        "rarity": "Toon Alligator",
+        "pack_id": "SDP-009",
         "date": "2003-03-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1d/ToonAlligator-SDP-NA-C-1E.jpg"

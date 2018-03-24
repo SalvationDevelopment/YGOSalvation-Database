@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 94145683,
-        "pack_id": "EXP3-JP008",
         "pack": "Extra Pack Volume 3",
-        "rarity": "Swallow's Nest",
+        "pack_id": "EXP3-JP008",
         "date": "2010-09-18"
     },
     "tcg": {
-        "id": 94145683,
-        "pack_id": "RGBT-EN087",
         "pack": "Raging Battle",
-        "rarity": "Swallow's Nest",
+        "pack_id": "RGBT-EN087",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/37/SwallowsNest-WIRA-EN-R-1E.png"

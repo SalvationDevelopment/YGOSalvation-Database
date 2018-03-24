@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12143771,
-        "pack_id": "302-001",
         "pack": "Advent of Union",
-        "rarity": "People Running About",
+        "pack_id": "302-001",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 12143771,
-        "pack_id": "MFC-001",
         "pack": "Magician's Force",
-        "rarity": "People Running About",
+        "pack_id": "MFC-001",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/aa/PeopleRunningAbout-DR1-EN-C-UE.png"

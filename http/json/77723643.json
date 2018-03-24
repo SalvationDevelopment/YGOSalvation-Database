@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 77723643,
-        "pack_id": "DUEA-JP026",
         "pack": "Duelist Alliance",
-        "rarity": "Shaddoll Dragon",
+        "pack_id": "DUEA-JP026",
         "date": "2014-04-19"
     },
     "tcg": {
-        "id": 77723643,
-        "pack_id": "DUEA-DE026",
         "pack": "Duelist Alliance",
-        "rarity": "Shaddoll Dragon",
+        "pack_id": "DUEA-DE026",
         "date": "2014-08-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8a/ShaddollDragon-MP15-EN-R-1E.png"

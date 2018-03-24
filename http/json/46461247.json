@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 46461247,
-        "pack_id": "",
         "pack": "Booster 5",
-        "rarity": "Trap Master",
+        "pack_id": "",
         "date": "1999-10-17"
     },
     "tcg": {
-        "id": 46461247,
-        "pack_id": "SDY-043",
         "pack": "Starter Deck: Yugi",
-        "rarity": "Trap Master",
+        "pack_id": "SDY-043",
         "date": "2002-03-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3a/TrapMaster-SKE-EN-C-1E.jpg"

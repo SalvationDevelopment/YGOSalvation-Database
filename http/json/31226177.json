@@ -33,16 +33,14 @@
     ],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 31226177,
-        "pack_id": "COTD-JP047",
         "pack": "Code of the Duelist",
-        "rarity": "Stargrail Dragon Imduk",
+        "pack_id": "COTD-JP047",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE047"
+        "pack_id": "COTD-DE047",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d1/ImduktheWorldChaliceDragon-COTD-EN-R-1E.png"
 }

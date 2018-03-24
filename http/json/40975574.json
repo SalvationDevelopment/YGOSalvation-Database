@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 40975574,
-        "pack_id": "SPHR-JP016",
         "pack": "Booster SP: Highspeed Riders",
-        "rarity": "Red Resonator",
+        "pack_id": "SPHR-JP016",
         "date": "2015-08-22"
     },
     "tcg": {
-        "id": 40975574,
-        "pack_id": "HSRD-DE016",
         "pack": "High-Speed Riders",
-        "rarity": "Red Resonator",
+        "pack_id": "HSRD-DE016",
         "date": "2015-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/86/RedResonator-DPDG-EN-R-1E.png"

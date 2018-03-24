@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 17589298,
-        "pack_id": "SD12-JP015",
         "pack": "Structure Deck: Curse of Darkness",
-        "rarity": "Sword of Dark Rites",
+        "pack_id": "SD12-JP015",
         "date": "2007-03-08"
     },
     "tcg": {
-        "id": 17589298,
-        "pack_id": "FOTB-FR067",
         "pack": "Force of the Breaker",
-        "rarity": "Sword of Dark Rites",
+        "pack_id": "FOTB-FR067",
         "date": "2007-05-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cb/SwordofDarkRites-GLD4-EN-C-LE.png"

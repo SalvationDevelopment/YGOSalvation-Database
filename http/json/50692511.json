@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 50692511,
-        "pack_id": "SPWR-JP025",
         "pack": "Booster SP: Wing Raiders",
-        "rarity": "Raidraptor - Call",
+        "pack_id": "SPWR-JP025",
         "date": "2015-11-14"
     },
     "tcg": {
-        "id": 50692511,
-        "pack_id": "WIRA-DE025",
         "pack": "Wing Raiders",
-        "rarity": "Raidraptor - Call",
+        "pack_id": "WIRA-DE025",
         "date": "2016-02-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/04/RaidraptorCall-WIRA-EN-UR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 22539270,
-        "pack_id": "STBL-JP049",
         "pack": "Starstrike Blast",
-        "rarity": "Scrap Lube",
+        "pack_id": "STBL-JP049",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 22539270,
-        "pack_id": "STBL-EN049",
         "pack": "Starstrike Blast",
-        "rarity": "Scrap Lube",
+        "pack_id": "STBL-EN049",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/38/ScrapLube-STBL-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 191749,
-        "pack_id": "EOJ-JP042",
         "pack": "Enemy of Justice",
-        "rarity": "Hero Flash!!",
+        "pack_id": "EOJ-JP042",
         "date": "2006-02-16"
     },
     "tcg": {
-        "id": 191749,
-        "pack_id": "EOJ-DE042",
         "pack": "Enemy of Justice",
-        "rarity": "Hero Flash!!",
+        "pack_id": "EOJ-DE042",
         "date": "2006-05-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f5/HeroFlash-RYMP-EN-ScR-1E.jpg"

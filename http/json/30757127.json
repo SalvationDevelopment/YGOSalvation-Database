@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 30757127,
-        "pack_id": "VP16-JP001",
         "pack": "20th Rival Collection",
-        "rarity": "Destiny HERO - Deadlyguy",
+        "pack_id": "VP16-JP001",
         "date": "2016-07-21"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE096"
+        "pack_id": "COTD-DE096",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bb/DestinyHERODangerous-COTD-EN-C-1E.png"
 }

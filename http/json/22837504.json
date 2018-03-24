@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 22837504,
-        "pack_id": "DT01-JP012",
         "pack": "Duel Terminal - Synchro Awakening!!",
-        "rarity": "Mist Valley Soldier",
+        "pack_id": "DT01-JP012",
         "date": "2008-04-12"
     },
     "tcg": {
-        "id": 22837504,
-        "pack_id": "HA01-DE006",
         "pack": "Hidden Arsenal",
-        "rarity": "Mist Valley Soldier",
+        "pack_id": "HA01-DE006",
         "date": "2009-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0a/MistValleySoldier-HA01-EN-ScR-LE.png"

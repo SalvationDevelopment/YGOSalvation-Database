@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 86120751,
-        "pack_id": "SPFE-JP026",
         "pack": "Booster SP: Fusion Enforcers",
-        "rarity": "Aleister the Invoker",
+        "pack_id": "SPFE-JP026",
         "date": "2016-11-12"
     },
     "tcg": {
-        "id": 86120751,
-        "pack_id": "FUEN-DE026",
         "pack": "Fusion Enforcers",
-        "rarity": "Aleister the Invoker",
+        "pack_id": "FUEN-DE026",
         "date": "2017-02-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/64/AleistertheInvoker-FUEN-EN-SR-1E.png"

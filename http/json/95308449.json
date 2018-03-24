@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 95308449,
-        "pack_id": "305-038",
         "pack": "Threat of the Dark Demon World",
-        "rarity": "Final Countdown",
+        "pack_id": "305-038",
         "date": "2003-02-20"
     },
     "tcg": {
-        "id": 95308449,
-        "pack_id": "DCR-091",
         "pack": "Dark Crisis",
-        "rarity": "Final Countdown",
+        "pack_id": "DCR-091",
         "date": "2003-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e1/FinalCountdown-CP01-EN-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64047146,
-        "pack_id": "PS-03",
         "pack": "Pharaoh's Servant",
-        "rarity": "Horn of the Unicorn",
+        "pack_id": "PS-03",
         "date": "2000-07-13"
     },
     "tcg": {
-        "id": 64047146,
-        "pack_id": "DB1-EN034",
         "pack": "Dark Beginning 1",
-        "rarity": "Horn of the Unicorn",
+        "pack_id": "DB1-EN034",
         "date": "2004-10-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/15/HornoftheUnicorn-YGLD-EN-C-1E.png"

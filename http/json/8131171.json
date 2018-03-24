@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 8131171,
-        "pack_id": "G3-02",
         "pack": "Yu-Gi-Oh! Duel Monsters III: Tri-Holy God Advent promotional cards",
-        "rarity": "Sinister Serpent",
+        "pack_id": "G3-02",
         "date": "2000-07-13"
     },
     "tcg": {
-        "id": 8131171,
-        "pack_id": "SDD-002",
         "pack": "Yu-Gi-Oh! Worldwide Edition - Stairway to the Destined Duel - Bundles",
-        "rarity": "Sinister Serpent",
+        "pack_id": "SDD-002",
         "date": "2003-04-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5b/SinisterSerpent-PGL2-EN-GUR-1E.png"

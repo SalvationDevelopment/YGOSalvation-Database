@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81443745,
-        "pack_id": "PHSW-JP080",
         "pack": "Photon Shockwave",
-        "rarity": "Sealing Ceremony of Suiton",
+        "pack_id": "PHSW-JP080",
         "date": "2011-07-16"
     },
     "tcg": {
-        "id": 81443745,
-        "pack_id": "PHSW-DE080",
         "pack": "Photon Shockwave",
-        "rarity": "Sealing Ceremony of Suiton",
+        "pack_id": "PHSW-DE080",
         "date": "2011-11-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b1/SealingCeremonyofSuiton-PHSW-EN-C-1E.png"

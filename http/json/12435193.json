@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12435193,
-        "pack_id": "RGBT-JP024",
         "pack": "Raging Battle",
-        "rarity": "Koa'ki Meiru Drago",
+        "pack_id": "RGBT-JP024",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 12435193,
-        "pack_id": "RGBT-EN024",
         "pack": "Raging Battle",
-        "rarity": "Koa'ki Meiru Drago",
+        "pack_id": "RGBT-EN024",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/09/KoakiMeiruDrago-BP03-EN-R-1E.png"

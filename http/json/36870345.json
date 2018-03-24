@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 36870345,
-        "pack_id": "SD19-JP003",
         "pack": "Structure Deck: Dragunity Drive",
-        "rarity": "Dragunity Aklys",
+        "pack_id": "SD19-JP003",
         "date": "2010-06-19"
     },
     "tcg": {
-        "id": 36870345,
-        "pack_id": "SDDL-DE003",
         "pack": "Dragunity Legion Structure Deck",
-        "rarity": "Dragunity Aklys",
+        "pack_id": "SDDL-DE003",
         "date": "2011-03-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/DragunityAklys-SDDL-EN-SR-1E.png"

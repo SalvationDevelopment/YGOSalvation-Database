@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 6511113,
-        "pack_id": "DOCS-JP082",
         "pack": "Dimension of Chaos",
-        "rarity": "Traptrix Rafflesia",
+        "pack_id": "DOCS-JP082",
         "date": "2015-07-18"
     },
     "tcg": {
-        "id": 6511113,
-        "pack_id": "BOSH-DE099",
         "pack": "Breakers of Shadow",
-        "rarity": "Traptrix Rafflesia",
+        "pack_id": "BOSH-DE099",
         "date": "2016-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3d/TraptrixRafflesia-MP16-EN-ScR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 82542267,
-        "pack_id": "",
         "pack": "Vol.3",
-        "rarity": "Gravedigger Ghoul",
+        "pack_id": "",
         "date": "1999-05-27"
     },
     "tcg": {
-        "id": 82542267,
-        "pack_id": "LOB-065",
         "pack": "Legend of Blue Eyes White Dragon",
-        "rarity": "Gravedigger Ghoul",
+        "pack_id": "LOB-065",
         "date": "2002-03-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6e/GravediggerGhoul-LOB-EN-R-UE.jpg"

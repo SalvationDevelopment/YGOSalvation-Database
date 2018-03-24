@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 85326399,
-        "pack_id": "",
         "pack": "Vol.3",
-        "rarity": "Spike Seadra",
+        "pack_id": "",
         "date": "1999-05-27"
     },
     "tcg": {
-        "id": 85326399,
-        "pack_id": "LOB-103",
         "pack": "Legend of Blue Eyes White Dragon",
-        "rarity": "Spike Seadra",
+        "pack_id": "LOB-103",
         "date": "2002-03-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/52/SpikeSeadra-LOB-NA-C-1E.jpg"

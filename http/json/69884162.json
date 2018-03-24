@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 69884162,
-        "pack_id": "TAEV-JP018",
         "pack": "Tactical Evolution",
-        "rarity": "Elemental HERO Neos Alius",
+        "pack_id": "TAEV-JP018",
         "date": "2007-05-12"
     },
     "tcg": {
-        "id": 69884162,
-        "pack_id": "TAEV-FR018",
         "pack": "Tactical Evolution",
-        "rarity": "Elemental HERO Neos Alius",
+        "pack_id": "TAEV-FR018",
         "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/63/ElementalHERONeosAlius-PGL2-EN-GUR-1E.png"

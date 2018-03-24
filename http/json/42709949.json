@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 42709949,
-        "pack_id": "TAEV-JP059",
         "pack": "Tactical Evolution",
-        "rarity": "Phalanx Pike",
+        "pack_id": "TAEV-JP059",
         "date": "2007-05-12"
     },
     "tcg": {
-        "id": 42709949,
-        "pack_id": "TAEV-FR059",
         "pack": "Tactical Evolution",
-        "rarity": "Phalanx Pike",
+        "pack_id": "TAEV-FR059",
         "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/37/PhalanxPike-TAEV-EN-R-1E.png"

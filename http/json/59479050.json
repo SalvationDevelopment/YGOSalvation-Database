@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 59479050,
-        "pack_id": "CP17-JP044",
         "pack": "Collectors Pack 2017",
-        "rarity": "Number 71: Rebarian Shark",
+        "pack_id": "CP17-JP044",
         "date": "2017-05-13"
     },
     "tcg": {
-        "date": "2017-08-24",
         "pack": "2017 Mega-Tins",
-        "pack_id": "CT14-DE005"
+        "pack_id": "CT14-DE005",
+        "date": "2017-08-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d7/Number71RebarianShark-CT14-EN-SR-LE.png"
 }

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 28284902,
-        "pack_id": "CSOC-JP072",
         "pack": "Crossroads of Chaos",
-        "rarity": "",
+        "pack_id": "CSOC-JP072",
         "date": "2008-07-19"
     },
     "tcg": {
-        "id": 28284902,
-        "pack_id": "CSOC-EN072",
         "pack": "Crossroads of Chaos",
-        "rarity": "Morphtronic Monitron",
+        "pack_id": "CSOC-EN072",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/63/MorphtronicMonitron-CSOC-EN-C-1E.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 43530283,
-        "pack_id": "",
         "pack": "Booster 3",
-        "rarity": "Hourglass of Courage",
+        "pack_id": "",
         "date": "1999-07-05"
     },
     "tcg": {
-        "id": 43530283,
-        "pack_id": "STOR-EN091",
         "pack": "Storm of Ragnarok",
-        "rarity": "Hourglass of Courage",
+        "pack_id": "STOR-EN091",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bb/HourglassofCourage-STOR-EN-C-UE.png"

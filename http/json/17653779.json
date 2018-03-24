@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 17653779,
-        "pack_id": "MR-41",
         "pack": "Magic Ruler",
-        "rarity": "Fairy's Hand Mirror",
+        "pack_id": "MR-41",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 17653779,
-        "pack_id": "DB1-EN025",
         "pack": "Dark Beginning 1",
-        "rarity": "Fairy's Hand Mirror",
+        "pack_id": "DB1-EN025",
         "date": "2004-10-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/02/FairysHandMirror-LCJW-EN-C-1E.png"

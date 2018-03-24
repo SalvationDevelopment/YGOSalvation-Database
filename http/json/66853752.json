@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 66853752,
-        "pack_id": "JF12-JPB10",
         "pack": "Jump Festa 2012 - 18th Distribution Promotion Pack",
-        "rarity": "Fishborg Launcher",
+        "pack_id": "JF12-JPB10",
         "date": "2011-12-18"
     },
     "tcg": {
-        "id": 66853752,
-        "pack_id": "ABYR-DE096",
         "pack": "Abyss Rising",
-        "rarity": "Fishborg Launcher",
+        "pack_id": "ABYR-DE096",
         "date": "2012-11-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/05/FishborgLauncher-ABYR-EN-C-1E.png"

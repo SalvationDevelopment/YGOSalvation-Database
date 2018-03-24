@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 68170903,
-        "pack_id": "SC-32",
         "pack": "Struggle of Chaos",
-        "rarity": "A Feint Plan",
+        "pack_id": "SC-32",
         "date": "2001-09-20"
     },
     "tcg": {
-        "id": 68170903,
-        "pack_id": "LOD-032",
         "pack": "Legacy of Darkness",
-        "rarity": "A Feint Plan",
+        "pack_id": "LOD-032",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/27/AFeintPlan-LOD-EN-C-UE.jpg"

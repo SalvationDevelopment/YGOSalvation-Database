@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 41859700,
-        "pack_id": "EE2-JP063",
         "pack": "Expert Edition Volume.2",
-        "rarity": "共通",
+        "pack_id": "EE2-JP063",
         "date": "2005-03-17"
     },
     "tcg": {
-        "id": 41859700,
-        "pack_id": "IOC-062",
         "pack": "Invasion of Chaos",
-        "rarity": "Burning Algae",
+        "pack_id": "IOC-062",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/30/BurningAlgae-DR2-EN-C-UE.png"

@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 56166150,
-        "pack_id": "COTD-JP026",
         "pack": "Code of the Duelist",
-        "rarity": "Lumina, Twilightsworn Shaman",
+        "pack_id": "COTD-JP026",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE026"
+        "pack_id": "COTD-DE026",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/32/LuminaTwilightswornShaman-COTD-EN-ScR-1E.png"
 }

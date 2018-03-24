@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 43191636,
-        "pack_id": "EXP1-JP010",
         "pack": "Extra Pack",
-        "rarity": "Phantom Dragonray Bronto",
+        "pack_id": "EXP1-JP010",
         "date": "2008-09-13"
     },
     "tcg": {
-        "id": 43191636,
-        "pack_id": "TAEV-FR087",
         "pack": "Tactical Evolution",
-        "rarity": "Phantom Dragonray Bronto",
+        "pack_id": "TAEV-FR087",
         "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b3/PhantomDragonrayBronto-TAEV-EN-R-1E.jpg"

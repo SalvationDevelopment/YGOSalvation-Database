@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 98045062,
-        "pack_id": "308-037",
         "pack": "The Sanctuary in the Sky",
-        "rarity": "Enemy Controller",
+        "pack_id": "308-037",
         "date": "2003-11-20"
     },
     "tcg": {
-        "id": 98045062,
-        "pack_id": "AST-DE037",
         "pack": "Ancient Sanctuary",
-        "rarity": "Enemy Controller",
+        "pack_id": "AST-DE037",
         "date": "2004-05-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a9/EnemyController-LCKC-EN-ScR-1E.png"

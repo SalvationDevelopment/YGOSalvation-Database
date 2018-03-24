@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 17663375,
-        "pack_id": "SR03-JP003",
         "pack": "Structure Deck R: Machine Dragon Re-Volt",
-        "rarity": "Ancient Gear Wyvern",
+        "pack_id": "SR03-JP003",
         "date": "2016-09-24"
     },
     "tcg": {
-        "id": 17663375,
-        "pack_id": "SR03-DE003",
         "pack": "Machine Reactor Structure Deck",
-        "rarity": "Ancient Gear Wyvern",
+        "pack_id": "SR03-DE003",
         "date": "2017-04-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9f/AncientGearWyvern-SR03-EN-SR-1E.png"

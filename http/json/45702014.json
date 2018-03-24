@@ -2,7 +2,7 @@
     "id": 45702014,
     "ot": 1,
     "alias": 0,
-    "setcode": 16397,
+    "setcode": 67162125,
     "type": 33,
     "atk": 1900,
     "def": 0,
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP024",
+        "date": "2018-01-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/24/ElementsaberMolehu-FLOD-JP-C.png"
 }

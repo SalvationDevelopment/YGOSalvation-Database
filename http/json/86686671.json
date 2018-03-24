@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 86686671,
-        "pack_id": "SD26-JP019",
         "pack": "Structure Deck: Blitzkrieg of the Mechlight Dragons",
-        "rarity": "Cyber Repair Plant",
+        "pack_id": "SD26-JP019",
         "date": "2013-12-07"
     },
     "tcg": {
-        "id": 86686671,
-        "pack_id": "SDCR-DE019",
         "pack": "Cyber Dragon Revolution Structure Deck",
-        "rarity": "Cyber Repair Plant",
+        "pack_id": "SDCR-DE019",
         "date": "2014-02-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/03/CyberRepairPlant-LEDD-EN-C-1E.png"

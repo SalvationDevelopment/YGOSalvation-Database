@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63977008,
-        "pack_id": "YSD3-JP011",
         "pack": "Starter Deck 2008",
-        "rarity": "Junk Synchron",
+        "pack_id": "YSD3-JP011",
         "date": "2008-03-15"
     },
     "tcg": {
-        "id": 63977008,
-        "pack_id": "5DS1-DE011",
         "pack": "Starter Deck: Yu-Gi-Oh! 5D's",
-        "rarity": "Junk Synchron",
+        "pack_id": "5DS1-DE011",
         "date": "2008-08-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/72/JunkSynchron-DUSA-EN-UR-1E.png"

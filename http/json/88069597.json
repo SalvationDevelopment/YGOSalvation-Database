@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 88069597,
-        "pack_id": "SPFE-JP011",
         "pack": "Booster SP: Fusion Enforcers",
-        "rarity": "Predaponics",
+        "pack_id": "SPFE-JP011",
         "date": "2016-11-12"
     },
     "tcg": {
-        "id": 88069597,
-        "pack_id": "FUEN-DE011",
         "pack": "Fusion Enforcers",
-        "rarity": "Predaponics",
+        "pack_id": "FUEN-DE011",
         "date": "2017-02-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5e/Predaponics-FUEN-EN-ScR-1E.png"

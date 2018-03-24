@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 70231910,
-        "pack_id": "302-035",
         "pack": "Advent of Union",
-        "rarity": "Dark Core",
+        "pack_id": "302-035",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 70231910,
-        "pack_id": "MFC-035",
         "pack": "Magician's Force",
-        "rarity": "Dark Core",
+        "pack_id": "MFC-035",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/83/DarkCore-BPW2-NA-SR-1E.png"

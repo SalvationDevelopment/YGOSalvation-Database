@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 94689206,
-        "pack_id": "TDIL-JP034",
         "pack": "The Dark Illusion",
-        "rarity": "Block Dragon",
+        "pack_id": "TDIL-JP034",
         "date": "2016-04-09"
     },
     "tcg": {
-        "id": 94689206,
-        "pack_id": "TDIL-DE034",
         "pack": "The Dark Illusion",
-        "rarity": "Block Dragon",
+        "pack_id": "TDIL-DE034",
         "date": "2016-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f4/BlockDragon-MP17-EN-UR-1E.png"

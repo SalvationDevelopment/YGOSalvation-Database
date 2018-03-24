@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 37910722,
-        "pack_id": "VB16-JP002",
         "pack": "The Valuable Book 16",
-        "rarity": "Ascension Sky Dragon",
+        "pack_id": "VB16-JP002",
         "date": "2013-08-21"
     },
     "tcg": {
-        "id": 37910722,
-        "pack_id": "YCSW-EN007",
         "pack": "Yu-Gi-Oh! Championship Series 2014",
-        "rarity": "Ascension Sky Dragon",
+        "pack_id": "YCSW-EN007",
         "date": "2014-09-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/AscensionSkyDragon-YCSW-EN-UR-LE.png"

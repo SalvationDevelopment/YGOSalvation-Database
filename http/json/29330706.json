@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 29330706,
-        "pack_id": "SHSP-JP012",
         "pack": "Shadow Specters",
-        "rarity": "Armed Protector Dragon",
+        "pack_id": "SHSP-JP012",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 29330706,
-        "pack_id": "SHSP-DE012",
         "pack": "Shadow Specters",
-        "rarity": "Armed Protector Dragon",
+        "pack_id": "SHSP-DE012",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/65/ArmedProtectorDragon-SR02-EN-C-1E.png"

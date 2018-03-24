@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 94203886,
-        "pack_id": "ST13-JP006",
         "pack": "Starter Deck 2013",
-        "rarity": "Gagaga Child",
+        "pack_id": "ST13-JP006",
         "date": "2013-03-16"
     },
     "tcg": {
-        "id": 94203886,
-        "pack_id": "YS13-DE006",
         "pack": "Super Starter: V for Victory",
-        "rarity": "Gagaga Child",
+        "pack_id": "YS13-DE006",
         "date": "2013-06-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ed/GagagaChild-YS13-EN-C-1E.png"

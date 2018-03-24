@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 8873112,
-        "pack_id": "DUEA-JP033",
         "pack": "Duelist Alliance",
-        "rarity": "Artifact Chakram",
+        "pack_id": "DUEA-JP033",
         "date": "2014-04-19"
     },
     "tcg": {
-        "id": 8873112,
-        "pack_id": "DUEA-DE033",
         "pack": "Duelist Alliance",
-        "rarity": "Artifact Chakram",
+        "pack_id": "DUEA-DE033",
         "date": "2014-08-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/22/ArtifactChakram-MP15-EN-C-1E.png"

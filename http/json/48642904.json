@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 48642904,
-        "pack_id": "G4-10",
         "pack": "Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist: Yugi Deck promotional cards",
-        "rarity": "Mesmeric Control",
+        "pack_id": "G4-10",
         "date": "2000-12-07"
     },
     "tcg": {
-        "id": 48642904,
-        "pack_id": "DOD-DE001",
         "pack": "Yu-Gi-Oh! The Dawn of Destiny promotional cards",
-        "rarity": "Mesmeric Control",
+        "pack_id": "DOD-DE001",
         "date": "2004-11-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/58/MesmericControl-SD09-EN-C-1E.png"

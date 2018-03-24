@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 76321376,
-        "pack_id": "TLM-JP018",
         "pack": "The Lost Millennium",
-        "rarity": "Mine Golem",
+        "pack_id": "TLM-JP018",
         "date": "2005-02-24"
     },
     "tcg": {
-        "id": 76321376,
-        "pack_id": "TLM-EN018",
         "pack": "The Lost Millennium",
-        "rarity": "Mine Golem",
+        "pack_id": "TLM-EN018",
         "date": "2005-05-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/93/MineGolem-DR3-EN-C-UE.png"

@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 74064212,
-        "pack_id": "DT11-JP022",
-        "pack": "DT11",
-        "rarity": "Vylon Prism",
-        "date": "2013-02-26"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 74064212,
-        "pack_id": "DT06-EN022",
         "pack": "Duel Terminal 6a",
-        "rarity": "Vylon Prism",
+        "pack_id": "DT06-EN022",
         "date": "2012-02-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/54/VylonPrism-SDLI-EN-C-1E.png"

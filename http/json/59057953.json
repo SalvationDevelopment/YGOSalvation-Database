@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 59057953,
-        "pack_id": "SPDS-JP028",
         "pack": "Booster SP: Destiny Soldiers",
-        "rarity": "Abyss Actors Back Stage",
+        "pack_id": "SPDS-JP028",
         "date": "2016-08-06"
     },
     "tcg": {
-        "id": 59057953,
-        "pack_id": "DESO-DE028",
         "pack": "Destiny Soldiers",
-        "rarity": "Abyss Actors Back Stage",
+        "pack_id": "DESO-DE028",
         "date": "2016-11-17"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/AbyssActorsBackStage-DESO-EN-SR-1E.png"

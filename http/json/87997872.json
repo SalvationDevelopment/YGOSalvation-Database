@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 87997872,
-        "pack_id": "PP7-JP001",
         "pack": "Premium Pack 7",
-        "rarity": "Theinen the Great Sphinx",
+        "pack_id": "PP7-JP001",
         "date": "2004-08-05"
     },
     "tcg": {
-        "id": 87997872,
-        "pack_id": "EP1-DE001",
         "pack": "Exclusive Pack",
-        "rarity": "Theinen the Great Sphinx",
+        "pack_id": "EP1-DE001",
         "date": "2004-08-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1a/TheinentheGreatSphinx-MC2-EN-ScR-LE.png"

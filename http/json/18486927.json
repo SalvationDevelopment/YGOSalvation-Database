@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 18486927,
-        "pack_id": "SR03-JP000",
         "pack": "Structure Deck R: Machine Dragon Re-Volt",
-        "rarity": "Ancient Gear Gadget",
+        "pack_id": "SR03-JP000",
         "date": "2016-09-24"
     },
     "tcg": {
-        "id": 18486927,
-        "pack_id": "SR03-DE000",
         "pack": "Machine Reactor Structure Deck",
-        "rarity": "Ancient Gear Gadget",
+        "pack_id": "SR03-DE000",
         "date": "2017-04-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e8/AncientGearGadget-SR03-EN-UR-1E.png"

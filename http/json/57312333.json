@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 57312333,
-        "pack_id": "DP18-JP010",
         "pack": "Duelist Pack: Legend Duelist",
-        "rarity": "Amazoness Call",
+        "pack_id": "DP18-JP010",
         "date": "2017-06-03"
     },
     "tcg": {
-        "date": "2017-09-07",
         "pack": "Legendary Duelists",
-        "pack_id": "LEDU-DE010"
+        "pack_id": "LEDU-DE010",
+        "date": "2017-09-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a7/AmazonessCall-LEDU-EN-R-1E.png"
 }

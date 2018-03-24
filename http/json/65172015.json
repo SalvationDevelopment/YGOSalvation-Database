@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65172015,
-        "pack_id": "SDKS-JP040",
         "pack": "Structure Deck: Seto Kaiba",
-        "rarity": "A-to-Z-Dragon Buster Cannon",
+        "pack_id": "SDKS-JP040",
         "date": "2016-06-18"
     },
     "tcg": {
-        "id": 65172015,
-        "pack_id": "SDKS-DE040",
         "pack": "Structure Deck: Seto Kaiba",
-        "rarity": "A-to-Z-Dragon Buster Cannon",
+        "pack_id": "SDKS-DE040",
         "date": "2016-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d0/AtoZDragonBusterCannon-SDKS-EN-UR-1E.png"

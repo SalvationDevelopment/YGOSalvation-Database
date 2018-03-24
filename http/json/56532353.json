@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 56532353,
-        "pack_id": "MVP1-JP001",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Neo Blue-Eyes Ultimate Dragon",
+        "pack_id": "MVP1-JP001",
         "date": "2016-04-23"
     },
     "tcg": {
-        "id": 56532353,
-        "pack_id": "MVP1-DE001",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Neo Blue-Eyes Ultimate Dragon",
+        "pack_id": "MVP1-DE001",
         "date": "2016-07-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bd/NeoBlueEyesUltimateDragon-MVP1-EN-GUR-1E.png"

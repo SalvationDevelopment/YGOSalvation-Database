@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 76075810,
-        "pack_id": "SC-17",
-        "pack": "Struggle Of Chaos － 闇を制する者 －",
-        "rarity": "共通",
-        "date": 1000962000000
-    },
+    "ocg": {},
     "tcg": {
-        "id": 76075810,
-        "pack_id": "LOD-017",
         "pack": "Legacy of Darkness",
-        "rarity": "Throwstone Unit",
+        "pack_id": "LOD-017",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/ThrowstoneUnit-LOD-NA-C-1E.jpg"

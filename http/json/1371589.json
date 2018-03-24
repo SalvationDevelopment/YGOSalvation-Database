@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1371589,
-        "pack_id": "JF10-JP009",
         "pack": "Jump Festa 2010 - Promotion Pack",
-        "rarity": "Vampire Koala",
+        "pack_id": "JF10-JP009",
         "date": "2009-12-19"
     },
     "tcg": {
-        "id": 1371589,
-        "pack_id": "ORCS-EN093",
         "pack": "Order of Chaos",
-        "rarity": "Vampire Koala",
+        "pack_id": "ORCS-EN093",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f9/VampireKoala-BP03-EN-R-1E.png"

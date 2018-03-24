@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 57827484,
-        "pack_id": "TAEV-JP027",
         "pack": "Tactical Evolution",
-        "rarity": "Shadow Delver",
+        "pack_id": "TAEV-JP027",
         "date": "2007-05-12"
     },
     "tcg": {
-        "id": 57827484,
-        "pack_id": "TAEV-FR027",
         "pack": "Tactical Evolution",
-        "rarity": "Shadow Delver",
+        "pack_id": "TAEV-FR027",
         "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d4/ShadowDelver-TAEV-EN-C-1E.jpg"

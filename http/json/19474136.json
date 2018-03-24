@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 19474136,
-        "pack_id": "JF15-JP008",
         "pack": "Jump Festa 2015 - Promotion Pack",
-        "rarity": "Mandragon",
+        "pack_id": "JF15-JP008",
         "date": "2014-12-20"
     },
     "tcg": {
-        "id": 19474136,
-        "pack_id": "CORE-DE097",
         "pack": "Clash of Rebellions",
-        "rarity": "Mandragon",
+        "pack_id": "CORE-DE097",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/Mandragon-CORE-EN-R-1E.png"

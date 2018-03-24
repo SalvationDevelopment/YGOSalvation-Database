@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 52551211,
-        "pack_id": "NECH-JP030",
         "pack": "The New Challengers",
-        "rarity": "Shaddoll Hound",
+        "pack_id": "NECH-JP030",
         "date": "2014-07-19"
     },
     "tcg": {
-        "id": 52551211,
-        "pack_id": "DUEA-DEDE4",
         "pack": "Duelist Alliance: Deluxe Edition",
-        "rarity": "Shaddoll Hound",
+        "pack_id": "DUEA-DEDE4",
         "date": "2014-09-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/50/ShaddollHound-MP15-EN-C-1E.png"

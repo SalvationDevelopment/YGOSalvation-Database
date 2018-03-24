@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 38552107,
-        "pack_id": "MR-04",
         "pack": "Magic Ruler",
-        "rarity": "Horn of Light",
+        "pack_id": "MR-04",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 38552107,
-        "pack_id": "DB1-EN004",
         "pack": "Dark Beginning 1",
-        "rarity": "Horn of Light",
+        "pack_id": "DB1-EN004",
         "date": "2004-10-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6c/HornofLight-DB1-EN-C-UE.jpg"

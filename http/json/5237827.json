@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 5237827,
-        "pack_id": "VE02-JP002",
         "pack": "V Jump Edition 2",
-        "rarity": "Vylon Ohm",
+        "pack_id": "VE02-JP002",
         "date": "2010-06-21"
     },
     "tcg": {
-        "id": 5237827,
-        "pack_id": "PHSW-DE091",
         "pack": "Photon Shockwave",
-        "rarity": "Vylon Ohm",
+        "pack_id": "PHSW-DE091",
         "date": "2011-11-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/99/VylonOhm-BP03-EN-C-1E.png"

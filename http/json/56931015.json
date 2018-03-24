@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 56931015,
-        "pack_id": "JF07-JP003",
         "pack": "Jump Festa 2007 promotional cards",
-        "rarity": "Gravity Behemoth",
+        "pack_id": "JF07-JP003",
         "date": "2006-12-16"
     },
     "tcg": {
-        "id": 56931015,
-        "pack_id": "CP08-DE001",
         "pack": "Champion Pack: Game Eight",
-        "rarity": "Gravity Behemoth",
+        "pack_id": "CP08-DE001",
         "date": "2009-01-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f8/GravityBehemoth-CP08-EN-UR-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 41978142,
-        "pack_id": "DT03-JP020",
         "pack": "Duel Terminal - Justice Strikes Back!!",
-        "rarity": "Mist Valley Executor",
+        "pack_id": "DT03-JP020",
         "date": "2008-09-22"
     },
     "tcg": {
-        "id": 41978142,
-        "pack_id": "DT02-EN020",
         "pack": "Duel Terminal 2",
-        "rarity": "Mist Valley Executor",
+        "pack_id": "DT02-EN020",
         "date": "2010-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/14/MistValleyExecutor-HA02-EN-SR-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 91903221,
-        "pack_id": "EP13-JP004",
         "pack": "Extra Pack: Sword of Knights",
-        "rarity": "Evoltile Elginero",
+        "pack_id": "EP13-JP004",
         "date": "2013-05-18"
     },
     "tcg": {
-        "id": 91903221,
-        "pack_id": "GAOV-EN083",
         "pack": "Galactic Overlord",
-        "rarity": "Evoltile Elginero",
+        "pack_id": "GAOV-EN083",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/75/EvoltileElginero-GAOV-EN-SR-1E.png"

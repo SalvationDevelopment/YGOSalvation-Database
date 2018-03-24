@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 54343893,
-        "pack_id": "DSK3-KR004",
         "pack": "Duel Booster",
-        "rarity": "Vice Dragon",
+        "pack_id": "DSK3-KR004",
         "date": "2009-12-15"
     },
     "tcg": {
-        "id": 54343893,
-        "pack_id": "DDY1-EN001",
         "pack": "Raging Battle: Special Edition",
-        "rarity": "Vice Dragon",
+        "pack_id": "DDY1-EN001",
         "date": "2009-06-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/28/ViceDragon-HSRD-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 46404281,
-        "pack_id": "GENF-JP026",
         "pack": "Generation Force",
-        "rarity": "Laval Magma Cannoneer",
+        "pack_id": "GENF-JP026",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 46404281,
-        "pack_id": "GENF-EN026",
         "pack": "Generation Force",
-        "rarity": "Laval Magma Cannoneer",
+        "pack_id": "GENF-EN026",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/88/LavalMagmaCannoneer-GENF-EN-C-1E.jpg"

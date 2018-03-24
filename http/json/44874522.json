@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 44874522,
-        "pack_id": "SR03-JP001",
         "pack": "Structure Deck R: Machine Dragon Re-Volt",
-        "rarity": "Ancient Gear Reactor Dragon",
+        "pack_id": "SR03-JP001",
         "date": "2016-09-24"
     },
     "tcg": {
-        "id": 44874522,
-        "pack_id": "SR03-DE001",
         "pack": "Machine Reactor Structure Deck",
-        "rarity": "Ancient Gear Reactor Dragon",
+        "pack_id": "SR03-DE001",
         "date": "2017-04-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/66/AncientGearReactorDragon-SR03-EN-UR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81782376,
-        "pack_id": "MVP1-JP022",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Dig of Destiny",
+        "pack_id": "MVP1-JP022",
         "date": "2016-04-23"
     },
     "tcg": {
-        "id": 81782376,
-        "pack_id": "MVP1-DE022",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Dig of Destiny",
+        "pack_id": "MVP1-DE022",
         "date": "2016-07-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/DigofDestiny-MVP1-EN-GUR-1E.png"

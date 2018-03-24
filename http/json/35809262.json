@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 35809262,
-        "pack_id": "PP8-JP003",
         "pack": "Premium Pack 8",
-        "rarity": "Elemental HERO Flame Wingman",
+        "pack_id": "PP8-JP003",
         "date": "2004-12-18"
     },
     "tcg": {
-        "id": 35809262,
-        "pack_id": "TLM-EN035",
         "pack": "The Lost Millennium",
-        "rarity": "Elemental HERO Flame Wingman",
+        "pack_id": "TLM-EN035",
         "date": "2005-05-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dd/ElementalHEROFlameWingman-RYMP-EN-R-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 14898066,
-        "pack_id": "G4-17",
         "pack": "Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist: Kaiba Deck promotional cards",
-        "rarity": "Vorse Raider",
+        "pack_id": "G4-17",
         "date": "2000-12-07"
     },
     "tcg": {
-        "id": 14898066,
-        "pack_id": "CT2-DE003",
         "pack": "Collectible Tins 2005",
-        "rarity": "Vorse Raider",
+        "pack_id": "CT2-DE003",
         "date": "2005-09-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cf/VorseRaider-LCKC-EN-UR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 10117149,
-        "pack_id": "CORE-JP044",
         "pack": "Clash of Rebellions",
-        "rarity": "Deskbot 005",
+        "pack_id": "CORE-JP044",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 10117149,
-        "pack_id": "CORE-DE044",
         "pack": "Clash of Rebellions",
-        "rarity": "Deskbot 005",
+        "pack_id": "CORE-DE044",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e2/Deskbot005-MP16-EN-C-1E.png"

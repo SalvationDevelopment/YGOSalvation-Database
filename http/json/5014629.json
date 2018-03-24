@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 5014629,
-        "pack_id": "GENF-JP040",
         "pack": "Generation Force",
-        "rarity": "Submersible Carrier Aero Shark",
+        "pack_id": "GENF-JP040",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 5014629,
-        "pack_id": "GENF-EN040",
         "pack": "Generation Force",
-        "rarity": "Submersible Carrier Aero Shark",
+        "pack_id": "GENF-EN040",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6d/SubmersibleCarrierAeroShark-SP13-EN-C-1E.png"

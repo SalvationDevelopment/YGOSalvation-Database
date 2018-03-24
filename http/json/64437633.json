@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64437633,
-        "pack_id": "DT12-JP049",
         "pack": "Duel Terminal - Xyz Startup!!",
-        "rarity": "Aquamirror Illusion",
+        "pack_id": "DT12-JP049",
         "date": "2011-04-01"
     },
     "tcg": {
-        "id": 64437633,
-        "pack_id": "DT06-EN099",
         "pack": "Duel Terminal 6b",
-        "rarity": "Aquamirror Illusion",
+        "pack_id": "DT06-EN099",
         "date": "2012-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/21/AquamirrorIllusion-HA06-EN-SR-1E.png"

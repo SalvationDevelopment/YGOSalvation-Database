@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 14212201,
-        "pack_id": "SHSP-JP030",
         "pack": "Shadow Specters",
-        "rarity": "Shadow Vampire",
+        "pack_id": "SHSP-JP030",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 14212201,
-        "pack_id": "SHSP-DE030",
         "pack": "Shadow Specters",
-        "rarity": "Shadow Vampire",
+        "pack_id": "SHSP-DE030",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ce/ShadowVampire-MP14-EN-ScR-1E.png"

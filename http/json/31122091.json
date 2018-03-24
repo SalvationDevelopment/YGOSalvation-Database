@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 31122091,
-        "pack_id": "",
         "pack": "EX Starter Box",
-        "rarity": "Gyakutenno Megami",
+        "pack_id": "",
         "date": "1999-12-16"
     },
     "tcg": {
-        "id": 31122091,
-        "pack_id": "SDK-011",
         "pack": "Starter Deck: Kaiba",
-        "rarity": "Gyakutenno Megami",
+        "pack_id": "SDK-011",
         "date": "2002-03-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/GyakutennoMegami-YAP1-EN-UR-LE.png"

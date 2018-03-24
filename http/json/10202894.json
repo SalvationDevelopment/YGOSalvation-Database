@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 10202894,
-        "pack_id": "",
         "pack": "Vol.3",
-        "rarity": "Skull Red Bird",
+        "pack_id": "",
         "date": "1999-05-27"
     },
     "tcg": {
-        "id": 10202894,
-        "pack_id": "LOB-105",
         "pack": "Legend of Blue Eyes White Dragon",
-        "rarity": "Skull Red Bird",
+        "pack_id": "LOB-105",
         "date": "2002-03-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f7/SkullRedBird-LOB-NA-C-1E.jpg"

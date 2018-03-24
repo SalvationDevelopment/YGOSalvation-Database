@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 25163248,
-        "pack_id": "REDU-JP009",
         "pack": "Return of the Duelist",
-        "rarity": "Chronomaly Mayan Machine",
+        "pack_id": "REDU-JP009",
         "date": "2012-04-14"
     },
     "tcg": {
-        "id": 25163248,
-        "pack_id": "REDU-EN009",
         "pack": "Return of the Duelist",
-        "rarity": "Chronomaly Mayan Machine",
+        "pack_id": "REDU-EN009",
         "date": "2012-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6a/ChronomalyMayanMachine-REDU-EN-C-UE.png"

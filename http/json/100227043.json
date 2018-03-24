@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 4194312,
     "name": "Topologic Gamble Dragon",
-    "desc": "2+ Effect Monsters\r\nIf another monster is Special Summoned to a zone a Link Monster points to, while this monster is on the field: Discard up to 2 random cards (min. 1), then your opponent discards the same number of cards. If this card is Extra Linked: You can make your opponent discard 2 cards (or their entire hand, if less than 2), then if they have no cards in their hand as a result, inflict 3000 damage to them. You can only use 1 \"Topologic Gamble Dragon\" effect per turn, and only once that turn.",
+    "desc": "Link Arrows: [🡰][🡱][🡲][🡳]\n\n2+ Effect Monsters\nIf another monster(s) is Special Summoned to a zone a Link Monster points to while this card is in a Monster Zone: Discard up to 2 cards, then make your opponent randomly discard the same number of cards. If this card is Extra Linked: You can make your opponent randomly discard up to 2 cards, then, if your opponent has no cards in their hand as a result, inflict 3000 damage to your opponent. You can only use 1 effect of \"Topologic Gamble Dragon\" per turn, and only once that turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,18 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Collectors Pack 2018",
+        "pack_id": "CP18-JP043",
+        "date": "2018-05-12"
+    },
+    "links": [
+        1,
+        3,
+        4,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ea/TopologicGambleDragon-CP18-JP-OP.png"
 }

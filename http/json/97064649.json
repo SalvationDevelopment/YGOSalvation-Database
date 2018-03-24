@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 97064649,
-        "pack_id": "SHSP-JP008",
         "pack": "Shadow Specters",
-        "rarity": "Secret Sect Druid Wid",
+        "pack_id": "SHSP-JP008",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 97064649,
-        "pack_id": "SHSP-DE008",
         "pack": "Shadow Specters",
-        "rarity": "Secret Sect Druid Wid",
+        "pack_id": "SHSP-DE008",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/31/SecretSectDruidWid-MP14-EN-C-1E.png"

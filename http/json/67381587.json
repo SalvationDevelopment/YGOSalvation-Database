@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67381587,
-        "pack_id": "CPD1-JP037",
         "pack": "Collectors Pack: Duelist of Destiny Version",
-        "rarity": "Black Cat-astrophe",
+        "pack_id": "CPD1-JP037",
         "date": "2015-05-16"
     },
     "tcg": {
-        "id": 67381587,
-        "pack_id": "DRL2-DE037",
         "pack": "Dragons of Legend 2",
-        "rarity": "Black Cat-astrophe",
+        "pack_id": "DRL2-DE037",
         "date": "2015-07-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1d/BlackCatastrophe-DRL2-EN-SR-1E.png"

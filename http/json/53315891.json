@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53315891,
-        "pack_id": "CPD1-JP001",
         "pack": "Collectors Pack: Duelist of Destiny Version",
-        "rarity": "Timaeus the Knight of Destiny",
+        "pack_id": "CPD1-JP001",
         "date": "2015-05-16"
     },
     "tcg": {
-        "id": 53315891,
-        "pack_id": "DRL2-DE001",
         "pack": "Dragons of Legend 2",
-        "rarity": "Timaeus the Knight of Destiny",
+        "pack_id": "DRL2-DE001",
         "date": "2015-07-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/76/TimaeustheKnightofDestiny-DRL3-EN-UR-1E.png"

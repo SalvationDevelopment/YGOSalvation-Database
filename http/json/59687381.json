@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 59687381,
-        "pack_id": "COTD-JP066",
         "pack": "Code of the Duelist",
-        "rarity": "Defense Zone",
+        "pack_id": "COTD-JP066",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE066"
+        "pack_id": "COTD-DE066",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/24/DefenseZone-COTD-EN-SP-1E.png"
 }

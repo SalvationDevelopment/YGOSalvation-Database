@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 33420078,
-        "pack_id": "CSOC-JP031",
         "pack": "Crossroads of Chaos",
-        "rarity": "Plaguespreader Zombie",
+        "pack_id": "CSOC-JP031",
         "date": "2008-07-19"
     },
     "tcg": {
-        "id": 33420078,
-        "pack_id": "CSOC-EN031",
         "pack": "Crossroads of Chaos",
-        "rarity": "Plaguespreader Zombie",
+        "pack_id": "CSOC-EN031",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/96/PlaguespreaderZombie-DUSA-EN-UR-1E.png"

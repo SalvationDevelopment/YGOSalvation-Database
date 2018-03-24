@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 95735217,
-        "pack_id": "VJMP-JP126",
         "pack": "V Jump March 2017",
-        "rarity": "Ancient Gear Golem - Ultimate Pound",
+        "pack_id": "VJMP-JP126",
         "date": "2017-01-21"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE099"
+        "pack_id": "COTD-DE099",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0f/AncientGearGolemUltimatePound-LED2-EN-C-1E.png"
 }

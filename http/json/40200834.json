@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 40200834,
-        "pack_id": "",
         "pack": "Vol.3",
-        "rarity": "共通",
+        "pack_id": "",
         "date": "1999-05-27"
     },
     "tcg": {
-        "id": 40200834,
-        "pack_id": "TP6-DE017",
         "pack": "Tournament Pack 6",
-        "rarity": "Common",
+        "pack_id": "TP6-DE017",
         "date": "2005-06-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/54/SleepingLion-TP6-EN-C-UE.jpg"

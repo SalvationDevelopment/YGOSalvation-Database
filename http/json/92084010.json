@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 92084010,
-        "pack_id": "SOD-JP028",
         "pack": "Soul of the Duelist",
-        "rarity": "Unshaven Angler",
+        "pack_id": "SOD-JP028",
         "date": "2004-05-27"
     },
     "tcg": {
-        "id": 92084010,
-        "pack_id": "SOD-DE028",
         "pack": "Soul of the Duelist",
-        "rarity": "Unshaven Angler",
+        "pack_id": "SOD-DE028",
         "date": "2004-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/57/UnshavenAngler-DR3-EN-C-UE.png"

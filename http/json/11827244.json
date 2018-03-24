@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "The Valuable Book 20",
+        "pack_id": "VB20-JP002",
+        "date": "2018-02-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/MagicalizeFusion-VB20-JP-UR.png"
 }

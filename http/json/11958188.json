@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 11958188,
-        "pack_id": "EP14-JP012",
         "pack": "Extra Pack: Knights of Order",
-        "rarity": "Bujingi Raven",
+        "pack_id": "EP14-JP012",
         "date": "2014-09-13"
     },
     "tcg": {
-        "id": 11958188,
-        "pack_id": "SHSP-DE081",
         "pack": "Shadow Specters",
-        "rarity": "Bujingi Raven",
+        "pack_id": "SHSP-DE081",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c1/BujingiRaven-MP14-EN-R-1E.png"

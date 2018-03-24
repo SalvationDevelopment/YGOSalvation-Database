@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 48996569,
-        "pack_id": "STON-JP035",
         "pack": "Strike of Neos",
-        "rarity": "Elemental HERO Grand Neos",
+        "pack_id": "STON-JP035",
         "date": "2006-11-16"
     },
     "tcg": {
-        "id": 48996569,
-        "pack_id": "STON-FR035",
         "pack": "Strike of Neos",
-        "rarity": "Elemental HERO Grand Neos",
+        "pack_id": "STON-FR035",
         "date": "2007-02-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9b/ElementalHEROGrandNeos-LCGX-EN-SR-1E.jpg"

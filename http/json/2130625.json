@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 2130625,
-        "pack_id": "CA-23",
         "pack": "Curse of Anubis",
-        "rarity": "Numinous Healer",
+        "pack_id": "CA-23",
         "date": "2000-09-28"
     },
     "tcg": {
-        "id": 2130625,
-        "pack_id": "PSV-023",
         "pack": "Pharaoh's Servant",
-        "rarity": "Numinous Healer",
+        "pack_id": "PSV-023",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8d/NuminousHealer-DB1-EN-C-UE.jpg"

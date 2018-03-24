@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64038662,
-        "pack_id": "ORCS-JP071",
         "pack": "Order of Chaos",
-        "rarity": "Variable Form",
+        "pack_id": "ORCS-JP071",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 64038662,
-        "pack_id": "ORCS-EN071",
         "pack": "Order of Chaos",
-        "rarity": "Variable Form",
+        "pack_id": "ORCS-EN071",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5f/VariableForm-ORCS-EN-C-UE.png"

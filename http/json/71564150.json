@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 71564150,
-        "pack_id": "GENF-JP033",
         "pack": "Generation Force",
-        "rarity": "Perditious Puppeteer",
+        "pack_id": "GENF-JP033",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 71564150,
-        "pack_id": "GENF-EN033",
         "pack": "Generation Force",
-        "rarity": "Perditious Puppeteer",
+        "pack_id": "GENF-EN033",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/85/PerditiousPuppeteer-GENF-EN-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 52112003,
-        "pack_id": "EP15-JP070",
         "pack": "Extra Pack 2015",
-        "rarity": "Card Advance",
+        "pack_id": "EP15-JP070",
         "date": "2015-09-19"
     },
     "tcg": {
-        "id": 52112003,
-        "pack_id": "BP03-DE185",
         "pack": "Battle Pack 3: Monster League",
-        "rarity": "Card Advance",
+        "pack_id": "BP03-DE185",
         "date": "2014-07-31"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ef/CardAdvance-BP03-EN-C-1E.png"

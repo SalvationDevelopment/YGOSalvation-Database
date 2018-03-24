@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 50179591,
-        "pack_id": "SPDS-JP025",
         "pack": "Booster SP: Destiny Soldiers",
-        "rarity": "Abyss Script - Fire Dragon's Lair",
+        "pack_id": "SPDS-JP025",
         "date": "2016-08-06"
     },
     "tcg": {
-        "id": 50179591,
-        "pack_id": "DESO-DE025",
         "pack": "Destiny Soldiers",
-        "rarity": "Abyss Script - Fire Dragon's Lair",
+        "pack_id": "DESO-DE025",
         "date": "2016-11-17"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/79/AbyssScriptFireDragonsLair-DESO-EN-SR-1E.png"

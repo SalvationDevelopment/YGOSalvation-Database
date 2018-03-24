@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 50400231,
-        "pack_id": "GB8-004",
         "pack": "GameBoy Duel Monsters Promos: Series 8",
-        "rarity": "Satellite Cannon",
+        "pack_id": "GB8-004",
         "date": "2003-03-20"
     },
     "tcg": {
-        "id": 50400231,
-        "pack_id": "CP01-DE001",
         "pack": "Champion Pack: Game One",
-        "rarity": "Satellite Cannon",
+        "pack_id": "CP01-DE001",
         "date": "2006-11-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a2/SatelliteCannon-SDCR-EN-C-1E.png"

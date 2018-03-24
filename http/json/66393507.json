@@ -34,10 +34,8 @@
     ],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 101002049,
-        "pack_id": "CIBR-JP049",
         "pack": "Circuit Break",
-        "rarity": "Excrawler Neurogos",
+        "pack_id": "CIBR-JP049",
         "date": "2017-07-08"
     },
     "tcg": {

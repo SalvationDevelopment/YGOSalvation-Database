@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 39260991,
-        "pack_id": "CPD1-JP039",
         "pack": "Collectors Pack: Duelist of Destiny Version",
-        "rarity": "Aquaactress Tetra",
+        "pack_id": "CPD1-JP039",
         "date": "2015-05-16"
     },
     "tcg": {
-        "id": 39260991,
-        "pack_id": "DRL2-DE039",
         "pack": "Dragons of Legend 2",
-        "rarity": "Aquaactress Tetra",
+        "pack_id": "DRL2-DE039",
         "date": "2015-07-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/24/AquaactressTetra-DRL2-EN-SR-1E.png"

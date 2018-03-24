@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 20264508,
-        "pack_id": "GENF-JP047",
         "pack": "Generation Force",
-        "rarity": "Thunder Short",
+        "pack_id": "GENF-JP047",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 20264508,
-        "pack_id": "GENF-EN047",
         "pack": "Generation Force",
-        "rarity": "Thunder Short",
+        "pack_id": "GENF-EN047",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/ThunderShort-GENF-EN-C-1E.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 50215517,
-        "pack_id": "EXVC-JP045",
         "pack": "Extreme Victory",
-        "rarity": "Scarlet Security",
+        "pack_id": "EXVC-JP045",
         "date": "2011-02-11"
     },
     "tcg": {
-        "id": 50215517,
-        "pack_id": "EXVC-EN045",
         "pack": "Extreme Victory",
-        "rarity": "Scarlet Security",
+        "pack_id": "EXVC-EN045",
         "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/98/ScarletSecurity-LC5D-EN-SR-1E.png"

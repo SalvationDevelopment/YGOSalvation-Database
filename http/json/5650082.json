@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 5650082,
-        "pack_id": "CORE-JP076",
         "pack": "Clash of Rebellions",
-        "rarity": "Storming Mirror Force",
+        "pack_id": "CORE-JP076",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 5650082,
-        "pack_id": "CORE-DE076",
         "pack": "Clash of Rebellions",
-        "rarity": "Storming Mirror Force",
+        "pack_id": "CORE-DE076",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/StormingMirrorForce-SDCL-EN-C-1E.png"

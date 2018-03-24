@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12863633,
-        "pack_id": "GENF-JP076",
         "pack": "Generation Force",
-        "rarity": "Curse of the Circle",
+        "pack_id": "GENF-JP076",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 12863633,
-        "pack_id": "GENF-EN076",
         "pack": "Generation Force",
-        "rarity": "Curse of the Circle",
+        "pack_id": "GENF-EN076",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/24/CurseoftheCircle-GENF-EN-R-1E.jpg"

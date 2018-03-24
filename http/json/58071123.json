@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58071123,
-        "pack_id": "EEN-JP014",
         "pack": "Elemental Energy",
-        "rarity": "Oxygeddon",
+        "pack_id": "EEN-JP014",
         "date": "2005-08-11"
     },
     "tcg": {
-        "id": 58071123,
-        "pack_id": "EEN-DE014",
         "pack": "Elemental Energy",
-        "rarity": "Oxygeddon",
+        "pack_id": "EEN-DE014",
         "date": "2005-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f7/Oxygeddon-LEDU-EN-C-1E.png"

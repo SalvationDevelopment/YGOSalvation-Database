@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 2376209,
-        "pack_id": "EP16-JP037",
         "pack": "Extra Pack 2016",
-        "rarity": "Paleozoic Eldonia",
+        "pack_id": "EP16-JP037",
         "date": "2016-09-10"
     },
     "tcg": {
-        "id": 2376209,
-        "pack_id": "INOV-DE095",
         "pack": "Invasion: Vengeance",
-        "rarity": "Paleozoic Eldonia",
+        "pack_id": "INOV-DE095",
         "date": "2016-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/45/PaleozoicEldonia-OP06-EN-SR-UE.png"

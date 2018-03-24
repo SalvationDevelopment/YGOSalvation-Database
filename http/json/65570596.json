@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 65570596,
-        "pack_id": "MR-30",
         "pack": "Magic Ruler",
-        "rarity": "Red Archery Girl",
+        "pack_id": "MR-30",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 65570596,
-        "pack_id": "MRL-030",
         "pack": "Spell Ruler",
-        "rarity": "Red Archery Girl",
+        "pack_id": "MRL-030",
         "date": "2002-09-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9c/RedArcheryGirl-DB1-EN-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 74270067,
-        "pack_id": "RDS-JP057",
         "pack": "Rise of Destiny",
-        "rarity": "スーパーレア仕様",
+        "pack_id": "RDS-JP057",
         "date": "2004-08-05"
     },
     "tcg": {
-        "id": 74270067,
-        "pack_id": "RDS-FR057",
         "pack": "Rise of Destiny",
-        "rarity": "Pikeru's Circle of Enchantment",
+        "pack_id": "RDS-FR057",
         "date": "2004-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f7/PikerusCircleofEnchantment-CP03-EN-R-UE.jpg"

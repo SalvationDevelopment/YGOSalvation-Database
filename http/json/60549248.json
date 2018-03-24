@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 60549248,
-        "pack_id": "DUEA-JP038",
         "pack": "Duelist Alliance",
-        "rarity": "Batteryman 9-Volt",
+        "pack_id": "DUEA-JP038",
         "date": "2014-04-19"
     },
     "tcg": {
-        "id": 60549248,
-        "pack_id": "DUEA-DE038",
         "pack": "Duelist Alliance",
-        "rarity": "Batteryman 9-Volt",
+        "pack_id": "DUEA-DE038",
         "date": "2014-08-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fc/Batteryman9Volt-DUEA-EN-C-1E.png"

@@ -10,8 +10,8 @@
     "race": 16777216,
     "attribute": 32,
     "category": 262144,
-    "name": "Restoration Point Guard",
-    "desc": "2 Cyberse monsters\r\nOnce per turn, if another Link Monster is Link Summoned: This turn, this card cannot be destroyed by battle or card effects. If a Link Monster you control that was Link Summoned using this card as material is destroyed by an opponent's card effect, while this card is in your GY: You can Special Summon this card. You can only use this effect of \"Restoration Point Guard\" once per turn.",
+    "name": "Restoration Pointguard",
+    "desc": "Link Arrows: [🡰][🡷]\n\n2 Cyberse monsters\nOnce per turn, if another Link Monster is Link Summoned: You can activate this effect; this card cannot be destroyed by battle or card effect during this turn. If a Link Monster that was Link Summoned using this card as material is destroyed by an opponent's card effect while this card is in your GY: You can Special Summon this card. You can only use this effect of \"Restoration Pointguard\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP037",
+        "date": "2018-04-14"
+    },
+    "links": [
+        3,
+        5
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8b/RestorationPointguard-CYHO-JP-OP.png"
 }

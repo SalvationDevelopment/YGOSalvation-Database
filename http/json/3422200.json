@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 3422200,
-        "pack_id": "RATE-JP021",
         "pack": "Raging Tempest",
-        "rarity": "Crystron Sulfefnir",
+        "pack_id": "RATE-JP021",
         "date": "2016-10-08"
     },
     "tcg": {
-        "id": 3422200,
-        "pack_id": "RATE-DE021",
         "pack": "Raging Tempest",
-        "rarity": "Crystron Sulfefnir",
+        "pack_id": "RATE-DE021",
         "date": "2017-02-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/42/CrystronSulfefnir-RATE-EN-SR-1E.png"

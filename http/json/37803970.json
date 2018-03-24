@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 37803970,
-        "pack_id": "INOV-JP053",
         "pack": "Invasion: Vengeance",
-        "rarity": "Amazing Pendulum",
+        "pack_id": "INOV-JP053",
         "date": "2016-07-09"
     },
     "tcg": {
-        "id": 37803970,
-        "pack_id": "INOV-DE053",
         "pack": "Invasion: Vengeance",
-        "rarity": "Amazing Pendulum",
+        "pack_id": "INOV-DE053",
         "date": "2016-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/ff/AmazingPendulum-MP17-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12467005,
-        "pack_id": "LVAL-JP043",
         "pack": "Legacy of the Valiant",
-        "rarity": "Tackle Crusader",
+        "pack_id": "LVAL-JP043",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 12467005,
-        "pack_id": "LVAL-DE043",
         "pack": "Legacy of the Valiant",
-        "rarity": "Tackle Crusader",
+        "pack_id": "LVAL-DE043",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/70/TackleCrusader-BP03-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 90669991,
-        "pack_id": "302-045",
         "pack": "Advent of Union",
-        "rarity": "Pineapple Blast",
+        "pack_id": "302-045",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 90669991,
-        "pack_id": "MFC-045",
         "pack": "Magician's Force",
-        "rarity": "Pineapple Blast",
+        "pack_id": "MFC-045",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c0/PineappleBlast-BPW2-NA-C-1E.png"

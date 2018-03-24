@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 27103517,
-        "pack_id": "VJMP-JP103",
         "pack": "V Jump Spring 2016 subscription bonus",
-        "rarity": "Wicked Acolyte Chilam Sabak",
+        "pack_id": "VJMP-JP103",
         "date": "2016-03-19"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE093"
+        "pack_id": "COTD-DE093",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6c/WickedAcolyteChilamSabak-COTD-EN-C-1E.png"
 }

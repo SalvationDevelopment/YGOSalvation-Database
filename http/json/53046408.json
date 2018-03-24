@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53046408,
-        "pack_id": "SC-33",
         "pack": "Struggle of Chaos",
-        "rarity": "Emergency Provisions",
+        "pack_id": "SC-33",
         "date": "2001-09-20"
     },
     "tcg": {
-        "id": 53046408,
-        "pack_id": "LOD-033",
         "pack": "Legacy of Darkness",
-        "rarity": "Emergency Provisions",
+        "pack_id": "LOD-033",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fb/EmergencyProvisions-SDPD-EN-C-1E.png"

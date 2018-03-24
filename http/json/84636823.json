@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 84636823,
-        "pack_id": "302-020",
         "pack": "Advent of Union",
-        "rarity": "Spell Canceller",
+        "pack_id": "302-020",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 84636823,
-        "pack_id": "MFC-020",
         "pack": "Magician's Force",
-        "rarity": "Spell Canceller",
+        "pack_id": "MFC-020",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0d/SpellCanceller-DR1-EN-UR-UE.png"

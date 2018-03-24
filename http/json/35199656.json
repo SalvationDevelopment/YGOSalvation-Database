@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 35199656,
-        "pack_id": "COTD-JP007",
         "pack": "Code of the Duelist",
-        "rarity": "Trickstar Lycorissica",
+        "pack_id": "COTD-JP007",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE007"
+        "pack_id": "COTD-DE007",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5d/TrickstarLycoris-COTD-EN-SR-1E.png"
 }

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 39439590,
-        "pack_id": "LE09-JP001",
         "pack": "Limited Edition 9",
-        "rarity": "Cyber Dinosaur",
+        "pack_id": "LE09-JP001",
         "date": "2006-05-20"
     },
     "tcg": {
-        "id": 39439590,
-        "pack_id": "CT07-DE008",
         "pack": "Collectible Tins 2010 Wave 1",
-        "rarity": "Cyber Dinosaur",
+        "pack_id": "CT07-DE008",
         "date": "2010-08-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/46/CyberDinosaur-LEDD-EN-C-1E.png"

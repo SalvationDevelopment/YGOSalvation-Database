@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 47507260,
-        "pack_id": "SOD-JP011",
         "pack": "Soul of the Duelist",
-        "rarity": "Mystic Swordsman LV2",
+        "pack_id": "SOD-JP011",
         "date": "2004-05-27"
     },
     "tcg": {
-        "id": 47507260,
-        "pack_id": "SOD-DE011",
         "pack": "Soul of the Duelist",
-        "rarity": "Mystic Swordsman LV2",
+        "pack_id": "SOD-DE011",
         "date": "2004-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/79/MysticSwordsmanLV2-LCYW-EN-C-1E.png"

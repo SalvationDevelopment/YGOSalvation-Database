@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 35050257,
-        "pack_id": "PP12-JP004",
         "pack": "Premium Pack 12",
-        "rarity": "Cyber Larva",
+        "pack_id": "PP12-JP004",
         "date": "2010-03-20"
     },
     "tcg": {
-        "id": 35050257,
-        "pack_id": "LC02-EN007",
         "pack": "Legendary Collection 2: The Duel Academy Years",
-        "rarity": "Cyber Larva",
+        "pack_id": "LC02-EN007",
         "date": "2011-10-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/60/CyberLarva-SDCR-EN-C-1E.png"

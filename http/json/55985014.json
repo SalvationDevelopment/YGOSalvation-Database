@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55985014,
-        "pack_id": "SOI-JP050",
         "pack": "Shadow of Infinity",
-        "rarity": "Miracle Kids",
+        "pack_id": "SOI-JP050",
         "date": "2005-11-17"
     },
     "tcg": {
-        "id": 55985014,
-        "pack_id": "SOI-EN050",
         "pack": "Shadow of Infinity",
-        "rarity": "Miracle Kids",
+        "pack_id": "SOI-EN050",
         "date": "2006-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9d/MiracleKids-LCGX-EN-C-1E.png"

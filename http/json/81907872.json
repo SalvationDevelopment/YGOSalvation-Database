@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81907872,
-        "pack_id": "SHSP-JP017",
         "pack": "Shadow Specters",
-        "rarity": "Ghostrick Specter",
+        "pack_id": "SHSP-JP017",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 81907872,
-        "pack_id": "SHSP-DE017",
         "pack": "Shadow Specters",
-        "rarity": "Ghostrick Specter",
+        "pack_id": "SHSP-DE017",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a8/GhostrickSpecter-MP14-EN-C-1E.png"

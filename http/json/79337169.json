@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 79337169,
-        "pack_id": "DP09-JP013",
         "pack": "Duelist Pack: Yusei 2",
-        "rarity": "Gauntlet Warrior",
+        "pack_id": "DP09-JP013",
         "date": "2009-10-17"
     },
     "tcg": {
-        "id": 79337169,
-        "pack_id": "DP09-DE013",
         "pack": "Duelist Pack: Yusei 2",
-        "rarity": "Gauntlet Warrior",
+        "pack_id": "DP09-DE013",
         "date": "2010-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/67/GauntletWarrior-BP03-EN-C-1E.png"

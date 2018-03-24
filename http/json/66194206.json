@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 66194206,
-        "pack_id": "CORE-JP084",
         "pack": "Clash of Rebellions",
-        "rarity": "Lightsworn Judgment",
+        "pack_id": "CORE-JP084",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 66194206,
-        "pack_id": "RATE-DE095",
         "pack": "Raging Tempest",
-        "rarity": "Lightsworn Judgment",
+        "pack_id": "RATE-DE095",
         "date": "2017-02-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2e/LightswornJudgment-MP17-EN-C-1E.png"

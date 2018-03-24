@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 92394653,
-        "pack_id": "MA-47",
         "pack": "Mythological Age",
-        "rarity": "Spirit's Invitation",
+        "pack_id": "MA-47",
         "date": "2001-11-29"
     },
     "tcg": {
-        "id": 92394653,
-        "pack_id": "LOD-095",
         "pack": "Legacy of Darkness",
-        "rarity": "Spirit's Invitation",
+        "pack_id": "LOD-095",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a7/SpiritsInvitation-DB2-EN-C-UE.jpg"

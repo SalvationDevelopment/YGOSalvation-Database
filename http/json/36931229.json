@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 36931229,
-        "pack_id": "LE7-JP001",
         "pack": "Limited Edition 7",
-        "rarity": "Castle Gate",
+        "pack_id": "LE7-JP001",
         "date": "2004-10-21"
     },
     "tcg": {
-        "id": 36931229,
-        "pack_id": "PTDN-DE091",
         "pack": "Phantom Darkness",
-        "rarity": "Castle Gate",
+        "pack_id": "PTDN-DE091",
         "date": "2008-01-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/19/CastleGate-PTDN-EN-R-1E.png"

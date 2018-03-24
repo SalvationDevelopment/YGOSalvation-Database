@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 30126992,
-        "pack_id": "GAOV-JP035",
         "pack": "Galactic Overlord",
-        "rarity": "Lightray Diabolos",
+        "pack_id": "GAOV-JP035",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 30126992,
-        "pack_id": "GAOV-EN035",
         "pack": "Galactic Overlord",
-        "rarity": "Lightray Diabolos",
+        "pack_id": "GAOV-EN035",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7a/LightrayDiabolos-SDLI-EN-C-1E.png"

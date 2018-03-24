@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 61740673,
-        "pack_id": "CA-33",
         "pack": "Curse of Anubis",
-        "rarity": "Imperial Order",
+        "pack_id": "CA-33",
         "date": "2000-09-28"
     },
     "tcg": {
-        "id": 61740673,
-        "pack_id": "PSV-104",
         "pack": "Pharaoh's Servant",
-        "rarity": "Imperial Order",
+        "pack_id": "PSV-104",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b6/ImperialOrder-DUSA-EN-UR-1E.png"

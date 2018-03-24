@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 40217358,
-        "pack_id": "SHSP-JP045",
         "pack": "Shadow Specters",
-        "rarity": "Blue Duston",
+        "pack_id": "SHSP-JP045",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 40217358,
-        "pack_id": "SHSP-DE045",
         "pack": "Shadow Specters",
-        "rarity": "Blue Duston",
+        "pack_id": "SHSP-DE045",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/37/BlueDuston-SHSP-EN-SP-1E.png"

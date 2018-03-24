@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 50371210,
-        "pack_id": "SHVI-JP060",
         "pack": "Shining Victories",
-        "rarity": "Beacon of White",
+        "pack_id": "SHVI-JP060",
         "date": "2016-01-09"
     },
     "tcg": {
-        "id": 50371210,
-        "pack_id": "BOSH-DESE3",
         "pack": "Breakers of Shadow: Special Edition",
-        "rarity": "Beacon of White",
+        "pack_id": "BOSH-DESE3",
         "date": "2016-02-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0a/BeaconofWhite-LCKC-EN-ScR-1E.png"

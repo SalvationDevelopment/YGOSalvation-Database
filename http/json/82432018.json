@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 82432018,
-        "pack_id": "SM-19",
         "pack": "Spell of Mask",
-        "rarity": "Mask of Brutality",
+        "pack_id": "SM-19",
         "date": "2001-04-19"
     },
     "tcg": {
-        "id": 82432018,
-        "pack_id": "LON-020",
         "pack": "Labyrinth of Nightmare",
-        "rarity": "Mask of Brutality",
+        "pack_id": "LON-020",
         "date": "2003-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/65/MaskofBrutality-BP03-EN-C-1E.png"

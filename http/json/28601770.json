@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 28601770,
-        "pack_id": "SD12-JP004",
         "pack": "Structure Deck: Curse of Darkness",
-        "rarity": "Mist Archfiend",
+        "pack_id": "SD12-JP004",
         "date": "2007-03-08"
     },
     "tcg": {
-        "id": 28601770,
-        "pack_id": "FOTB-FR064",
         "pack": "Force of the Breaker",
-        "rarity": "Mist Archfiend",
+        "pack_id": "FOTB-FR064",
         "date": "2007-05-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/84/MistArchfiend-TU02-EN-R-UE.png"

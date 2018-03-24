@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 20140382,
-        "pack_id": "EXP3-JP009",
         "pack": "Extra Pack Volume 3",
-        "rarity": "Overwhelm",
+        "pack_id": "EXP3-JP009",
         "date": "2010-09-18"
     },
     "tcg": {
-        "id": 20140382,
-        "pack_id": "RGBT-EN088",
         "pack": "Raging Battle",
-        "rarity": "Overwhelm",
+        "pack_id": "RGBT-EN088",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7b/Overwhelm-RGBT-EN-ScR-1E.jpg"

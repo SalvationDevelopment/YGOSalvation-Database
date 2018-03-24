@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 48497555,
-        "pack_id": "SD28-JP034",
         "pack": "Structure Deck: Synchron Extreme",
-        "rarity": "Scrap-Iron Statue",
+        "pack_id": "SD28-JP034",
         "date": "2014-12-06"
     },
     "tcg": {
-        "id": 48497555,
-        "pack_id": "SDSE-DE034",
         "pack": "Synchron Extreme Structure Deck",
-        "rarity": "Scrap-Iron Statue",
+        "pack_id": "SDSE-DE034",
         "date": "2015-08-27"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/47/ScrapIronStatue-SPWA-EN-SR-1E.png"

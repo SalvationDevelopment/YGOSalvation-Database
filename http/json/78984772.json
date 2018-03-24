@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 78984772,
-        "pack_id": "CA-43",
-        "pack": "CA",
-        "rarity": "Twin-Headed Fire Dragon",
-        "date": "2003-04-21"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 78984772,
-        "pack_id": "PSV-042",
         "pack": "Pharaoh's Servant",
-        "rarity": "Twin-Headed Fire Dragon",
+        "pack_id": "PSV-042",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ab/TwinHeadedFireDragon-PSV-NA-C-1E.jpg"

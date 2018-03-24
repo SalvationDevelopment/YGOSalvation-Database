@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 17948378,
-        "pack_id": "DT07-JP025",
         "pack": "Duel Terminal - Charge of the Genex!!",
-        "rarity": "Jurrac Dino",
+        "pack_id": "DT07-JP025",
         "date": "2009-10-01"
     },
     "tcg": {
-        "id": 17948378,
-        "pack_id": "DT04-EN025",
         "pack": "Duel Terminal 4",
-        "rarity": "Jurrac Dino",
+        "pack_id": "DT04-EN025",
         "date": "2011-01-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/JurracDino-HA04-EN-SR-1E.jpg"

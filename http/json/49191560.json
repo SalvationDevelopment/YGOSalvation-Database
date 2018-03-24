@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 49191560,
-        "pack_id": "REDU-JP019",
         "pack": "Return of the Duelist",
-        "rarity": "Charioteer of Prophecy",
+        "pack_id": "REDU-JP019",
         "date": "2012-04-14"
     },
     "tcg": {
-        "id": 49191560,
-        "pack_id": "REDU-EN019",
         "pack": "Return of the Duelist",
-        "rarity": "Charioteer of Prophecy",
+        "pack_id": "REDU-EN019",
         "date": "2012-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/84/CharioteerofProphecy-REDU-EN-C-1E.png"

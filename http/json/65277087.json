@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 65277087,
-        "pack_id": "DT10-JP020",
-        "pack": "デュエルターミナル 「インヴェルズの侵略！！」",
-        "rarity": "共通",
-        "date": 1280811600000
-    },
+    "ocg": {},
     "tcg": {
-        "id": 65277087,
-        "pack_id": "DT05-EN070",
         "pack": "Duel Terminal 5b",
-        "rarity": "Gusto Gulldo",
+        "pack_id": "DT05-EN070",
         "date": "2011-09-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b5/GustoGulldo-HA05-EN-SR-1E.png"

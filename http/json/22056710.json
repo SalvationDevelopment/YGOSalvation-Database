@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 22056710,
-        "pack_id": "SD2-JP001",
         "pack": "Structure Deck: Zombie Madness",
-        "rarity": "Vampire Genesis",
+        "pack_id": "SD2-JP001",
         "date": "2004-12-09"
     },
     "tcg": {
-        "id": 22056710,
-        "pack_id": "SD2-DE001",
         "pack": "Structure Deck: Zombie Madness",
-        "rarity": "Vampire Genesis",
+        "pack_id": "SD2-DE001",
         "date": "2005-01-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ed/VampireGenesis-LCJW-EN-C-1E.png"

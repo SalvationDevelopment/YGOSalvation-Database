@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 36472900,
-        "pack_id": "YSD3-JP010",
         "pack": "Starter Deck 2008",
-        "rarity": "Sonic Chick",
+        "pack_id": "YSD3-JP010",
         "date": "2008-03-15"
     },
     "tcg": {
-        "id": 36472900,
-        "pack_id": "5DS1-DE010",
         "pack": "Starter Deck: Yu-Gi-Oh! 5D's",
-        "rarity": "Sonic Chick",
+        "pack_id": "5DS1-DE010",
         "date": "2008-08-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/SonicChick-LC5D-EN-C-1E.png"

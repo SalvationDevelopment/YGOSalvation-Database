@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 69982329,
-        "pack_id": "SECE-JP065",
         "pack": "Secrets of Eternity",
-        "rarity": "Pendulum Shift",
+        "pack_id": "SECE-JP065",
         "date": "2014-11-15"
     },
     "tcg": {
-        "id": 69982329,
-        "pack_id": "SECE-DE065",
         "pack": "Secrets of Eternity",
-        "rarity": "Pendulum Shift",
+        "pack_id": "SECE-DE065",
         "date": "2015-01-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a5/PendulumShift-PEVO-EN-SR-1E.png"

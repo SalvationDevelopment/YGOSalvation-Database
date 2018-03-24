@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 72237166,
-        "pack_id": "SD14-JP003",
         "pack": "Structure Deck: Advent of the Emperor",
-        "rarity": "Samsara Kaiser",
+        "pack_id": "SD14-JP003",
         "date": "2007-12-15"
     },
     "tcg": {
-        "id": 72237166,
-        "pack_id": "SDDE-DE003",
         "pack": "The Dark Emperor Structure Deck",
-        "rarity": "Samsara Kaiser",
+        "pack_id": "SDDE-DE003",
         "date": "2008-04-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/82/SamsaraKaiser-SDDE-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 32354768,
-        "pack_id": "CROS-JP060",
         "pack": "Crossed Souls",
-        "rarity": "Oracle of Zefra",
+        "pack_id": "CROS-JP060",
         "date": "2015-02-14"
     },
     "tcg": {
-        "id": 32354768,
-        "pack_id": "CROS-DE060",
         "pack": "Crossed Souls",
-        "rarity": "Oracle of Zefra",
+        "pack_id": "CROS-DE060",
         "date": "2015-05-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dc/OracleofZefra-PEVO-EN-SR-1E.png"

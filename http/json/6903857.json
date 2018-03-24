@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 6903857,
-        "pack_id": "STBL-JP010",
         "pack": "Starstrike Blast",
-        "rarity": "Power Breaker",
+        "pack_id": "STBL-JP010",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 6903857,
-        "pack_id": "STBL-EN010",
         "pack": "Starstrike Blast",
-        "rarity": "Power Breaker",
+        "pack_id": "STBL-EN010",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6a/PowerBreaker-LC5D-EN-R-1E.png"

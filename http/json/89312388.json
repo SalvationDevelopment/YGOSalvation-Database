@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 89312388,
-        "pack_id": "ADDR-JP001",
         "pack": "Academy Duel Disk Osiris Red promotional cards",
-        "rarity": "Elemental HERO Prisma",
+        "pack_id": "ADDR-JP001",
         "date": "2007-11-23"
     },
     "tcg": {
-        "id": 89312388,
-        "pack_id": "DPCT-EN002",
         "pack": "Duelist Pack Collection Tin: Jaden Yuki",
-        "rarity": "Elemental HERO Prisma",
+        "pack_id": "DPCT-EN002",
         "date": "2008-03-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/07/ElementalHEROPrisma-FUEN-EN-SR-1E.png"

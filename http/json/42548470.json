@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 42548470,
-        "pack_id": "ORCS-JP055",
         "pack": "Order of Chaos",
-        "rarity": "Weights & Zenmaisures",
+        "pack_id": "ORCS-JP055",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 42548470,
-        "pack_id": "ORCS-EN055",
         "pack": "Order of Chaos",
-        "rarity": "Weights & Zenmaisures",
+        "pack_id": "ORCS-EN055",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9f/WeightsZenmaisures-ORCS-EN-R-1E.jpg"

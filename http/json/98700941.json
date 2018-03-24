@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 98700941,
-        "pack_id": "COTD-JP006",
         "pack": "Code of the Duelist",
-        "rarity": "Trickstar Lilybell",
+        "pack_id": "COTD-JP006",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE006"
+        "pack_id": "COTD-DE006",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3b/TrickstarLilybell-OP06-EN-SR-UE.png"
 }

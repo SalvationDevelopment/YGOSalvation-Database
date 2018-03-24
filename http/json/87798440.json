@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 87798440,
-        "pack_id": "DP06-JP010",
         "pack": "Duelist Pack: Jaden Yuki 3",
-        "rarity": "Armor Breaker",
+        "pack_id": "DP06-JP010",
         "date": "2007-10-20"
     },
     "tcg": {
-        "id": 87798440,
-        "pack_id": "DP06-DE009",
         "pack": "Duelist Pack: Jaden Yuki 3",
-        "rarity": "Armor Breaker",
+        "pack_id": "DP06-DE009",
         "date": "2008-01-22"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/77/ArmorBreaker-DP06-EN-R-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 66835946,
-        "pack_id": "TSHD-JP051",
         "pack": "The Shining Darkness",
-        "rarity": "Pyramid of Wonders",
+        "pack_id": "TSHD-JP051",
         "date": "2010-02-20"
     },
     "tcg": {
-        "id": 66835946,
-        "pack_id": "TSHD-DE051",
         "pack": "The Shining Darkness",
-        "rarity": "Pyramid of Wonders",
+        "pack_id": "TSHD-DE051",
         "date": "2010-05-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/PyramidofWonders-BP03-EN-C-1E.png"

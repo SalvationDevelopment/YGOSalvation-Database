@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 6142488,
-        "pack_id": "CORE-JP010",
         "pack": "Clash of Rebellions",
-        "rarity": "Fluffal Mouse",
+        "pack_id": "CORE-JP010",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 6142488,
-        "pack_id": "CORE-DE010",
         "pack": "Clash of Rebellions",
-        "rarity": "Fluffal Mouse",
+        "pack_id": "CORE-DE010",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e3/FluffalMouse-MP16-EN-SR-1E.png"

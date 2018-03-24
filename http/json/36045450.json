@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 36045450,
-        "pack_id": "NTR-JPB01",
         "pack": "Yu-Gi-Oh! Nightmare Troubadour Game Guide promotional card",
-        "rarity": "Magicians Unite",
+        "pack_id": "NTR-JPB01",
         "date": "2005-06-21"
     },
     "tcg": {
-        "id": 36045450,
-        "pack_id": "CP03-DE001",
         "pack": "Champion Pack: Game Three",
-        "rarity": "Magicians Unite",
+        "pack_id": "CP03-DE001",
         "date": "2007-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/00/MagiciansUnite-LDK2-EN-C-1E.png"

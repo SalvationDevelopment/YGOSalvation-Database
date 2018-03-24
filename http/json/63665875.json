@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63665875,
-        "pack_id": "GB8-B02",
         "pack": "Yu-Gi-Oh! Duel Monsters 8: Reshef of Destruction Game Guide 2 Promos",
-        "rarity": "Goblin Zombie",
+        "pack_id": "GB8-B02",
         "date": "2003-04-22"
     },
     "tcg": {
-        "id": 63665875,
-        "pack_id": "PTDN-DE098",
         "pack": "Phantom Darkness",
-        "rarity": "Goblin Zombie",
+        "pack_id": "PTDN-DE098",
         "date": "2008-01-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e9/GoblinZombie-LCJW-EN-C-1E.png"

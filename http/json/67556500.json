@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67556500,
-        "pack_id": "PRIO-JP055",
         "pack": "Primal Origin",
-        "rarity": "Phonon Pulse Dragon",
+        "pack_id": "PRIO-JP055",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 67556500,
-        "pack_id": "PRIO-DE055",
         "pack": "Primal Origin",
-        "rarity": "Phonon Pulse Dragon",
+        "pack_id": "PRIO-DE055",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2b/PhononPulseDragon-MP15-EN-R-1E.png"

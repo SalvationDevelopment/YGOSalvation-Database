@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 60410769,
-        "pack_id": "TDGS-JP012",
         "pack": "The Duelist Genesis",
-        "rarity": "Jutte Fighter",
+        "pack_id": "TDGS-JP012",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 60410769,
-        "pack_id": "TDGS-EN012",
         "pack": "The Duelist Genesis",
-        "rarity": "Jutte Fighter",
+        "pack_id": "TDGS-EN012",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e1/JutteFighter-TDGS-EN-C-UE.png"

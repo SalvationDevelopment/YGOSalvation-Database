@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 79852326,
-        "pack_id": "MG1-JP001",
         "pack": "Master Guide promotional cards",
-        "rarity": "Zoma the Spirit",
+        "pack_id": "MG1-JP001",
         "date": "2004-09-28"
     },
     "tcg": {
-        "id": 79852326,
-        "pack_id": "PTDN-DE095",
         "pack": "Phantom Darkness",
-        "rarity": "Zoma the Spirit",
+        "pack_id": "PTDN-DE095",
         "date": "2008-01-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9e/ZomatheSpirit-BP02-EN-C-1E.png"

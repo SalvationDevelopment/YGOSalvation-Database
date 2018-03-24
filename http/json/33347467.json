@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 33347467,
-        "pack_id": "GENF-JP035",
         "pack": "Generation Force",
-        "rarity": "Ghost Ship",
+        "pack_id": "GENF-JP035",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 33347467,
-        "pack_id": "GENF-EN035",
         "pack": "Generation Force",
-        "rarity": "Ghost Ship",
+        "pack_id": "GENF-EN035",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/44/GhostShip-GENF-EN-R-1E.png"

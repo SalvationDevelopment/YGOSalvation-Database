@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 25824484,
-        "pack_id": "LVAL-JP020",
         "pack": "Legacy of the Valiant",
-        "rarity": "Sylvan Hermitree",
+        "pack_id": "LVAL-JP020",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 25824484,
-        "pack_id": "LVAL-DE020",
         "pack": "Legacy of the Valiant",
-        "rarity": "Sylvan Hermitree",
+        "pack_id": "LVAL-DE020",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7e/SylvanHermitree-MP14-EN-UR-1E.png"

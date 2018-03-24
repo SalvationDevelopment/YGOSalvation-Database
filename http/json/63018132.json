@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63018132,
-        "pack_id": "SC-26",
         "pack": "Struggle of Chaos",
-        "rarity": "Dragon Manipulator",
+        "pack_id": "SC-26",
         "date": "2001-09-20"
     },
     "tcg": {
-        "id": 63018132,
-        "pack_id": "LOD-026",
         "pack": "Legacy of Darkness",
-        "rarity": "Dragon Manipulator",
+        "pack_id": "LOD-026",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/36/DragonManipulator-DB2-EN-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 44472639,
-        "pack_id": "308-051",
         "pack": "The Sanctuary in the Sky",
-        "rarity": "Solar Ray",
+        "pack_id": "308-051",
         "date": "2003-11-20"
     },
     "tcg": {
-        "id": 44472639,
-        "pack_id": "AST-DE051",
         "pack": "Ancient Sanctuary",
-        "rarity": "Solar Ray",
+        "pack_id": "AST-DE051",
         "date": "2004-05-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/87/SolarRay-DR2-EN-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 7700132,
-        "pack_id": "DT03-JP031",
         "pack": "Duel Terminal - Justice Strikes Back!!",
-        "rarity": "レア仕様",
+        "pack_id": "DT03-JP031",
         "date": "2008-09-22"
     },
     "tcg": {
-        "id": 7700132,
-        "pack_id": "DT02-EN031",
         "pack": "Duel Terminal 2",
-        "rarity": "Worm Noble",
+        "pack_id": "DT02-EN031",
         "date": "2010-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a8/WormNoble-HA02-EN-SR-1E.jpg"

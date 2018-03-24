@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 59364406,
-        "pack_id": "302-016",
         "pack": "Advent of Union",
-        "rarity": "Burning Beast",
+        "pack_id": "302-016",
         "date": "2002-07-18"
     },
     "tcg": {
-        "id": 59364406,
-        "pack_id": "MFC-016",
         "pack": "Magician's Force",
-        "rarity": "Burning Beast",
+        "pack_id": "MFC-016",
         "date": "2003-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/BurningBeast-DR1-EN-C-UE.png"

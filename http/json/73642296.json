@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 2147483648,
     "name": "Yashiki Warashi",
-    "desc": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate the activation.\r\n● Add a card from the GY to the hand, Deck, or Extra Deck.\r\n● Special Summon from the GY.\r\n● Banish a card from the GY.\r\nYou can only use this effect of \"Yashiki Warashi\" once per turn.",
+    "desc": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate the activation.\n● Add a card from the GY to the hand, Deck, or Extra Deck.\n● Special Summon from the GY.\n● Banish a card from the GY.\nYou can only use this effect of \"Yashiki Warashi\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP033",
+        "date": "2018-01-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1e/YashikiWarashi-FLOD-JP-SR.png"
 }

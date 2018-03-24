@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262672,
     "name": "Deviritual Candoll",
-    "desc": "You cannot Special Summon monsters from the Extra Deck. You can only use 1 of the following effects of \"Deviritual Candoll\" per turn, and only once that turn.\r\n● You can reveal 1 Ritual Spell in your hand; Special Summon both this card from your hand and 1 \"Deviritual\" monster from your Deck, except \"Deviritual Candoll\".\r\n● If this card is Special Summoned from the Deck: You can add 1 Ritual Spell from your Deck to your hand.",
+    "desc": "You can reveal 1 Ritual Spell in your hand; Special Summon both this card from your hand and 1 \"Deviritual\" monster from your Deck, \"except \"Deviritual Candoll\". If this card is Special Summoned from the Deck: You can add 1 Ritual Spell from your Deck to your hand. You can only use each effect of \"Deviritual Candoll\" once per turn. You cannot Special Summon monsters from the Extra Deck.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP012",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8a/DeviritualCandoll-CYHO-JP-OP.png"
 }

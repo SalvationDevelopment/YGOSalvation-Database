@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45298492,
-        "pack_id": "PP13-JP008",
         "pack": "Premium Pack 13",
-        "rarity": "Scarred Warrior",
+        "pack_id": "PP13-JP008",
         "date": "2011-03-12"
     },
     "tcg": {
-        "id": 45298492,
-        "pack_id": "PRC1-DE013",
         "pack": "Premium Collection",
-        "rarity": "Scarred Warrior",
+        "pack_id": "PRC1-DE013",
         "date": "2012-03-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a2/ScarredWarrior-PRC1-EN-SR-1E.png"

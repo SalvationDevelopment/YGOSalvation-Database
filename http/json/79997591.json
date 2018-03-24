@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 79997591,
-        "pack_id": "CPL1-JP021",
         "pack": "Collectors Pack: Duelist of Legend Version",
-        "rarity": "Doble Passe",
+        "pack_id": "CPL1-JP021",
         "date": "2014-05-17"
     },
     "tcg": {
-        "id": 79997591,
-        "pack_id": "DRLG-DE021",
         "pack": "Dragons of Legend",
-        "rarity": "Doble Passe",
+        "pack_id": "DRLG-DE021",
         "date": "2014-04-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b4/DoblePasse-DRLG-EN-ScR-1E.png"

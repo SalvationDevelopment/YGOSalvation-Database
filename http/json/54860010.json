@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 54860010,
-        "pack_id": "DT04-JP033",
         "pack": "Duel Terminal - Demon Roar God Revival!!",
-        "rarity": "Worm Prince",
+        "pack_id": "DT04-JP033",
         "date": "2008-12-04"
     },
     "tcg": {
-        "id": 54860010,
-        "pack_id": "DT02-EN083",
         "pack": "Duel Terminal 2",
-        "rarity": "Worm Prince",
+        "pack_id": "DT02-EN083",
         "date": "2010-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b4/WormPrince-HA02-EN-SR-1E.jpg"

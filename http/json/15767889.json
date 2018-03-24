@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 15767889,
-        "pack_id": "SHSP-JP038",
         "pack": "Shadow Specters",
-        "rarity": "Knight Day Grepher",
+        "pack_id": "SHSP-JP038",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 15767889,
-        "pack_id": "SHSP-DE038",
         "pack": "Shadow Specters",
-        "rarity": "Knight Day Grepher",
+        "pack_id": "SHSP-DE038",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/KnightDayGrepher-NKRT-EN-PlR-LE.png"

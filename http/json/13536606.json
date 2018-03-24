@@ -35,10 +35,8 @@
     ],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 100200133,
-        "pack_id": "VJMP-JP133",
         "pack": "V Jump August 2017 promotional card",
-        "rarity": "V-LAN Hydra",
+        "pack_id": "VJMP-JP133",
         "date": "2017-06-21"
     },
     "tcg": {},

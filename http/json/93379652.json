@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 93379652,
-        "pack_id": "DT11-JP036",
-        "pack": "DT11",
-        "rarity": "Gem-Knight Prismaura",
-        "date": "2013-02-26"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 93379652,
-        "pack_id": "DT06-EN036",
         "pack": "Duel Terminal 6a",
-        "rarity": "Gem-Knight Prismaura",
+        "pack_id": "DT06-EN036",
         "date": "2012-02-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/85/GemKnightPrismaura-HA06-EN-ScR-1E.png"

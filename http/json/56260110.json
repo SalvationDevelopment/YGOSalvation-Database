@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 56260110,
-        "pack_id": "",
         "pack": "Booster 1",
-        "rarity": "Raimei",
+        "pack_id": "",
         "date": "1999-03-01"
     },
     "tcg": {
-        "id": 56260110,
-        "pack_id": "TP1-009",
         "pack": "Tournament Pack: 1st Season",
-        "rarity": "Raimei",
+        "pack_id": "TP1-009",
         "date": "2002-09-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0f/Raimei-TP1-EU-R-UE.png"

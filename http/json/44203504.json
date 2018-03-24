@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 44203504,
-        "pack_id": "MA-01",
         "pack": "Mythological Age",
-        "rarity": "Robotic Knight",
+        "pack_id": "MA-01",
         "date": "2001-11-29"
     },
     "tcg": {
-        "id": 44203504,
-        "pack_id": "LOD-051",
         "pack": "Legacy of Darkness",
-        "rarity": "Robotic Knight",
+        "pack_id": "LOD-051",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1d/RoboticKnight-DEM2-EN-C-UE.png"

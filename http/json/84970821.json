@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 84970821,
-        "pack_id": "307-051",
         "pack": "Invader of Darkness",
-        "rarity": "Curse of Darkness",
+        "pack_id": "307-051",
         "date": "2003-07-17"
     },
     "tcg": {
-        "id": 84970821,
-        "pack_id": "IOC-106",
         "pack": "Invasion of Chaos",
-        "rarity": "Curse of Darkness",
+        "pack_id": "IOC-106",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c0/CurseofDarkness-DR2-EN-R-UE.png"

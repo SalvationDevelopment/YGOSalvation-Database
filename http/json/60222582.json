@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 60222582,
-        "pack_id": "DP13-JP028",
         "pack": "Duelist Pack: Kaito Edition",
-        "rarity": "Galaxy Expedition",
+        "pack_id": "DP13-JP028",
         "date": "2012-09-15"
     },
     "tcg": {
-        "id": 60222582,
-        "pack_id": "ZTIN-DE017",
         "pack": "Zexal Collection",
-        "rarity": "Galaxy Expedition",
+        "pack_id": "ZTIN-DE017",
         "date": "2013-03-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6f/GalaxyExpedition-ZTIN-EN-UR-1E.png"

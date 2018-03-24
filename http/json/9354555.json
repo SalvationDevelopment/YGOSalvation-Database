@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 9354555,
-        "pack_id": "PHSW-JP050",
         "pack": "Photon Shockwave",
-        "rarity": "Photon Veil",
+        "pack_id": "PHSW-JP050",
         "date": "2011-07-16"
     },
     "tcg": {
-        "id": 9354555,
-        "pack_id": "PHSW-DE050",
         "pack": "Photon Shockwave",
-        "rarity": "Photon Veil",
+        "pack_id": "PHSW-DE050",
         "date": "2011-11-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/PhotonVeil-SPWA-EN-SR-1E.png"

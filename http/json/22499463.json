@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 22499463,
-        "pack_id": "TAEV-JP005",
         "pack": "Tactical Evolution",
-        "rarity": "Venom Cobra",
+        "pack_id": "TAEV-JP005",
         "date": "2007-05-12"
     },
     "tcg": {
-        "id": 22499463,
-        "pack_id": "TAEV-FR005",
         "pack": "Tactical Evolution",
-        "rarity": "Venom Cobra",
+        "pack_id": "TAEV-FR005",
         "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/VenomCobra-TAEV-EN-C-1E.jpg"

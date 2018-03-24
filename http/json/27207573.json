@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 27207573,
-        "pack_id": "DT11-JP050",
-        "pack": "DT11",
-        "rarity": "Infestation Tool",
-        "date": "2012-11-07"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 27207573,
-        "pack_id": "DT06-EN050",
         "pack": "Duel Terminal 6a",
-        "rarity": "Infestation Tool",
+        "pack_id": "DT06-EN050",
         "date": "2012-02-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/91/InfestationTool-HA06-EN-SR-1E.png"

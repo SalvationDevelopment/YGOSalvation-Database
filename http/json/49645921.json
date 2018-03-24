@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 49645921,
-        "pack_id": "SOI-JP023",
         "pack": "Shadow of Infinity",
-        "rarity": "Saber Beetle",
+        "pack_id": "SOI-JP023",
         "date": "2005-11-17"
     },
     "tcg": {
-        "id": 49645921,
-        "pack_id": "SOI-EN023",
         "pack": "Shadow of Infinity",
-        "rarity": "Saber Beetle",
+        "pack_id": "SOI-EN023",
         "date": "2006-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/96/SaberBeetle-5DS2-EN-C-1E.png"

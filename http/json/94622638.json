@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 94622638,
-        "pack_id": "DT07-JP012",
         "pack": "Duel Terminal - Charge of the Genex!!",
-        "rarity": "Genex Ally Powercell",
+        "pack_id": "DT07-JP012",
         "date": "2009-10-01"
     },
     "tcg": {
-        "id": 94622638,
-        "pack_id": "DT04-EN012",
         "pack": "Duel Terminal 4",
-        "rarity": "Genex Ally Powercell",
+        "pack_id": "DT04-EN012",
         "date": "2011-01-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f8/GenexAllyPowercell-HA04-EN-ScR-1E.png"

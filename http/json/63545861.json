@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63545861,
-        "pack_id": "DTC3-JP119",
         "pack": "Duel Terminal Chronicle 3 - Chapter of Destruction",
-        "rarity": "Constellar Meteor",
+        "pack_id": "DTC3-JP119",
         "date": "2012-11-06"
     },
     "tcg": {
-        "id": 63545861,
-        "pack_id": "DT07-EN099",
         "pack": "Duel Terminal 7b",
-        "rarity": "Constellar Meteor",
+        "pack_id": "DT07-EN099",
         "date": "2013-02-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7b/ConstellarMeteor-HA07-EN-SR-UE.png"

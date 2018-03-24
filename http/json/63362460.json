@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63362460,
-        "pack_id": "SPDS-JP006",
         "pack": "Booster SP: Destiny Soldiers",
-        "rarity": "Destiny HERO - Celestial",
+        "pack_id": "SPDS-JP006",
         "date": "2016-08-06"
     },
     "tcg": {
-        "id": 63362460,
-        "pack_id": "DESO-DE006",
         "pack": "Destiny Soldiers",
-        "rarity": "Destiny HERO - Celestial",
+        "pack_id": "DESO-DE006",
         "date": "2016-11-17"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f0/DestinyHEROCelestial-DESO-EN-ScR-1E.png"

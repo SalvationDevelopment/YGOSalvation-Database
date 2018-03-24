@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 10132124,
-        "pack_id": "GENF-JP022",
         "pack": "Generation Force",
-        "rarity": "Wingtortoise",
+        "pack_id": "GENF-JP022",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 10132124,
-        "pack_id": "GENF-EN022",
         "pack": "Generation Force",
-        "rarity": "Wingtortoise",
+        "pack_id": "GENF-EN022",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8c/Wingtortoise-GENF-EN-R-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 48905153,
-        "pack_id": "RATE-JP053",
         "pack": "Raging Tempest",
-        "rarity": "Zoodiac Drident",
+        "pack_id": "RATE-JP053",
         "date": "2016-10-08"
     },
     "tcg": {
-        "id": 48905153,
-        "pack_id": "RATE-DE053",
         "pack": "Raging Tempest",
-        "rarity": "Zoodiac Drident",
+        "pack_id": "RATE-DE053",
         "date": "2017-02-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bd/ZoodiacDrident-MP17-EN-ScR-1E.png"

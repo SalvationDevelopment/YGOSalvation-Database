@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53152590,
-        "pack_id": "CSOC-JP020",
         "pack": "Crossroads of Chaos",
-        "rarity": "",
+        "pack_id": "CSOC-JP020",
         "date": "2008-07-19"
     },
     "tcg": {
-        "id": 53152590,
-        "pack_id": "CSOC-EN020",
         "pack": "Crossroads of Chaos",
-        "rarity": "Iron Chain Coil",
+        "pack_id": "CSOC-EN020",
         "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2f/IronChainCoil-CSOC-EN-C-UE.png"

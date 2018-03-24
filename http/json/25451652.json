@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 25451652,
-        "pack_id": "SPDS-JP029",
         "pack": "Booster SP: Destiny Soldiers",
-        "rarity": "Darklord Morningstar",
+        "pack_id": "SPDS-JP029",
         "date": "2016-08-06"
     },
     "tcg": {
-        "id": 25451652,
-        "pack_id": "DESO-DE029",
         "pack": "Destiny Soldiers",
-        "rarity": "Darklord Morningstar",
+        "pack_id": "DESO-DE029",
         "date": "2016-11-17"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/53/DarklordMorningstar-DESO-EN-ScR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 47879985,
-        "pack_id": "MR-13",
         "pack": "Magic Ruler",
-        "rarity": "Guardian of the Throne Room",
+        "pack_id": "MR-13",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 47879985,
-        "pack_id": "SRL-EN013",
         "pack": "Spell Ruler",
-        "rarity": "Guardian of the Throne Room",
+        "pack_id": "SRL-EN013",
         "date": "2004-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/GuardianoftheThroneRoom-SRL-EN-C-UE.png"

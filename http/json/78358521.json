@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 78358521,
-        "pack_id": "DS13-JPL01",
         "pack": "Duelist Set: Version Lightning Star",
-        "rarity": "Constellar Sombre",
+        "pack_id": "DS13-JPL01",
         "date": "2012-11-23"
     },
     "tcg": {
-        "id": 78358521,
-        "pack_id": "LTGY-DE093",
         "pack": "Lord of the Tachyon Galaxy",
-        "rarity": "Constellar Sombre",
+        "pack_id": "LTGY-DE093",
         "date": "2013-05-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c8/ConstellarSombre-MP14-EN-SR-1E.png"

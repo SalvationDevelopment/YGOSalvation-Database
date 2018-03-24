@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 134357248,
     "name": "Orgoth the Relentless",
-    "desc": "Once per turn: You can roll a six-sided die 3 times, and this card gains ATK/DEF equal to the total result x 100 (until the end of your opponent's turn), then if 2 of the results are the same, apply the appropriate effect based on that same result, OR if all results are the same, apply all of these effects.\r\n● 1 or 2: Cannot be destroyed by battle or card effects until the end of your opponent's turn.\r\n● 3 or 4: Draw 2 cards.\r\n● 5 or 6: This card can attack directly this turn.",
+    "desc": "Once per turn: You can roll a six-sided die 3 times and have this card gain ATK/DEF equal to the total roll x 100 until the end of your opponent's turn. Then, if exactly 2 of the results were the same, apply the appropriate effect, or if all 3 of the results were the same, apply all of these effects.\n● 1 or 2: This card cannot be destroyed by battle or card effect until the end of your opponent's turn.\n● 3 or 4: Draw 2 cards.\n● 5 or 6: This turn, this card can attack directly.",
     "str1": "Roll dice",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Collectors Pack 2018",
+        "pack_id": "CP18-JP001",
+        "date": "2018-05-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cf/OrgoththeRelentless-CP18-JP-OP.png"
 }

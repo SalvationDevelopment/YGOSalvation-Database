@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 97584500,
-        "pack_id": "LVAL-JP025",
         "pack": "Legacy of the Valiant",
-        "rarity": "Ghostrick Mummy",
+        "pack_id": "LVAL-JP025",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 97584500,
-        "pack_id": "LVAL-DE025",
         "pack": "Legacy of the Valiant",
-        "rarity": "Ghostrick Mummy",
+        "pack_id": "LVAL-DE025",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2b/GhostrickMummy-MP14-EN-C-1E.png"

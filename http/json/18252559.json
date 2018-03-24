@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 18252559,
-        "pack_id": "JF15-JP011",
         "pack": "Jump Festa 2015 - Promotion Pack",
-        "rarity": "Secret Blast",
+        "pack_id": "JF15-JP011",
         "date": "2014-12-20"
     },
     "tcg": {
-        "id": 18252559,
-        "pack_id": "CORE-DE099",
         "pack": "Clash of Rebellions",
-        "rarity": "Secret Blast",
+        "pack_id": "CORE-DE099",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5d/SecretBlast-SR04-EN-C-1E.png"

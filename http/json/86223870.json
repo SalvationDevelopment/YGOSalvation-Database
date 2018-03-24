@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 86223870,
-        "pack_id": "RGBT-JP069",
         "pack": "Raging Battle",
-        "rarity": "Level Retuner",
+        "pack_id": "RGBT-JP069",
         "date": "2009-02-14"
     },
     "tcg": {
-        "id": 86223870,
-        "pack_id": "RGBT-EN069",
         "pack": "Raging Battle",
-        "rarity": "Level Retuner",
+        "pack_id": "RGBT-EN069",
         "date": "2009-05-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/LevelRetuner-DP11-EN-C-1E.jpg"

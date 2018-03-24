@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 75953262,
-        "pack_id": "SC-20",
         "pack": "Struggle of Chaos",
-        "rarity": "Warrior Dai Grepher",
+        "pack_id": "SC-20",
         "date": "2001-09-20"
     },
     "tcg": {
-        "id": 75953262,
-        "pack_id": "LOD-020",
         "pack": "Legacy of Darkness",
-        "rarity": "Warrior Dai Grepher",
+        "pack_id": "LOD-020",
         "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/93/WarriorDaiGrepher-DEM2-EN-C-UE.png"

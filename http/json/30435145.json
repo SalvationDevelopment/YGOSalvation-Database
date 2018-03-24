@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 30435145,
-        "pack_id": "SOI-JP039",
         "pack": "Shadow of Infinity",
-        "rarity": "Ancient Gear Factory",
+        "pack_id": "SOI-JP039",
         "date": "2005-11-17"
     },
     "tcg": {
-        "id": 30435145,
-        "pack_id": "SOI-EN039",
         "pack": "Shadow of Infinity",
-        "rarity": "Ancient Gear Factory",
+        "pack_id": "SOI-EN039",
         "date": "2006-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/48/AncientGearFactory-SD10-EN-C-UE.png"

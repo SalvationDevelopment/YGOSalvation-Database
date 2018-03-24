@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 70781052,
-        "pack_id": "",
         "pack": "Vol.4",
-        "rarity": "Summoned Skull",
+        "pack_id": "",
         "date": "1999-07-22"
     },
     "tcg": {
-        "id": 70781052,
-        "pack_id": "SDY-004",
         "pack": "Summoned Skull Sample promotional card",
-        "rarity": "Summoned Skull",
+        "pack_id": "SDY-004",
         "date": "2001-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7f/SummonedSkull-MIL1-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 76103404,
-        "pack_id": "CPF1-JP011",
         "pack": "Collectors Pack: Duelist of Flash Version",
-        "rarity": "Cyber Petit Angel",
+        "pack_id": "CPF1-JP011",
         "date": "2016-05-14"
     },
     "tcg": {
-        "id": 76103404,
-        "pack_id": "DRL3-DE011",
         "pack": "Dragons of Legend: Unleashed",
-        "rarity": "Cyber Petit Angel",
+        "pack_id": "DRL3-DE011",
         "date": "2016-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/92/CyberPetitAngel-DPDG-EN-R-1E.png"

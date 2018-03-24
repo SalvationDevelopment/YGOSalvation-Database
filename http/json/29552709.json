@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 29552709,
-        "pack_id": "DT11-JP040",
-        "pack": "DT11",
-        "rarity": "Daigusto Sphreez",
-        "date": "2012-11-07"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 29552709,
-        "pack_id": "DT06-EN040",
         "pack": "Duel Terminal 6a",
-        "rarity": "Daigusto Sphreez",
+        "pack_id": "DT06-EN040",
         "date": "2012-02-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dc/DaigustoSphreez-HA06-EN-ScR-1E.png"

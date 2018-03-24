@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 89893715,
-        "pack_id": "DT09-JP022",
-        "pack": "デュエルターミナル 「ヴァイロン降臨！！」",
-        "rarity": "レア仕様",
-        "date": 1272344400000
-    },
+    "ocg": {},
     "tcg": {
-        "id": 89893715,
-        "pack_id": "DT05-EN022",
         "pack": "Duel Terminal 5a",
-        "rarity": "Laval Miller",
+        "pack_id": "DT05-EN022",
         "date": "2011-05-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/05/LavalMiller-HA05-EN-SR-UE.png"

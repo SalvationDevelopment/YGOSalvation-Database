@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 14235211,
-        "pack_id": "SD25-JP006",
         "pack": "Structure Deck: The Blue-Eyed Dragon's Thundering Descent",
-        "rarity": "Rider of the Storm Winds",
+        "pack_id": "SD25-JP006",
         "date": "2013-06-15"
     },
     "tcg": {
-        "id": 14235211,
-        "pack_id": "SDBE-DE007",
         "pack": "Saga of Blue-Eyes White Dragon Structure Deck",
-        "rarity": "Rider of the Storm Winds",
+        "pack_id": "SDBE-DE007",
         "date": "2013-09-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/17/RideroftheStormWinds-LCKC-EN-UR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 39432962,
-        "pack_id": "DP14-JP009",
         "pack": "Duelist Pack: Yuma Edition 2: Gogogo & Dododo",
-        "rarity": "Dododo Witch",
+        "pack_id": "DP14-JP009",
         "date": "2013-09-21"
     },
     "tcg": {
-        "id": 39432962,
-        "pack_id": "SECE-DE091",
         "pack": "Secrets of Eternity",
-        "rarity": "Dododo Witch",
+        "pack_id": "SECE-DE091",
         "date": "2015-01-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/69/DododoWitch-SECE-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 39897277,
-        "pack_id": "",
         "pack": "Booster 2",
-        "rarity": "Elf's Light",
+        "pack_id": "",
         "date": "1999-05-25"
     },
     "tcg": {
-        "id": 39897277,
-        "pack_id": "TP1-006",
         "pack": "Tournament Pack: 1st Season",
-        "rarity": "Elf's Light",
+        "pack_id": "TP1-006",
         "date": "2002-09-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ee/ElfsLight-TP1-EU-R-UE.jpg"

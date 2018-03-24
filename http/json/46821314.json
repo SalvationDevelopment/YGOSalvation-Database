@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 46821314,
-        "pack_id": "SM-02",
         "pack": "Spell of Mask",
-        "rarity": "Humanoid Slime",
+        "pack_id": "SM-02",
         "date": "2001-04-19"
     },
     "tcg": {
-        "id": 46821314,
-        "pack_id": "LON-003",
         "pack": "Labyrinth of Nightmare",
-        "rarity": "Humanoid Slime",
+        "pack_id": "LON-003",
         "date": "2003-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/95/HumanoidSlime-LON-EN-SP-UE.jpg"

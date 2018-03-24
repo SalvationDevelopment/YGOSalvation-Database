@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 96457619,
-        "pack_id": "EP12-JP011",
         "pack": "Extra Pack 2012",
-        "rarity": "Xyz Veil",
+        "pack_id": "EP12-JP011",
         "date": "2012-10-13"
     },
     "tcg": {
-        "id": 96457619,
-        "pack_id": "GENF-DESP1",
         "pack": "Generation Force Sneak Peek Participation Card",
-        "rarity": "Xyz Veil",
+        "pack_id": "GENF-DESP1",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a8/XyzVeil-GENF-EN-SR-UE.png"

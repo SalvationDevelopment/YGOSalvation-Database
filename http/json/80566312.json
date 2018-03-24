@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 80566312,
-        "pack_id": "DUEA-JP063",
         "pack": "Duelist Alliance",
-        "rarity": "Hymn of Light",
+        "pack_id": "DUEA-JP063",
         "date": "2014-04-19"
     },
     "tcg": {
-        "id": 80566312,
-        "pack_id": "DUEA-DE063",
         "pack": "Duelist Alliance",
-        "rarity": "Hymn of Light",
+        "pack_id": "DUEA-DE063",
         "date": "2014-08-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a7/HymnofLight-MP15-EN-C-1E.png"

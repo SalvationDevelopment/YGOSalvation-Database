@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99064191,
-        "pack_id": "EP13-JP010",
         "pack": "Extra Pack: Sword of Knights",
-        "rarity": "Xyz Wrath",
+        "pack_id": "EP13-JP010",
         "date": "2013-05-18"
     },
     "tcg": {
-        "id": 99064191,
-        "pack_id": "GAOV-EN089",
         "pack": "Galactic Overlord",
-        "rarity": "Xyz Wrath",
+        "pack_id": "GAOV-EN089",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2b/XyzWrath-GAOV-EN-C-1E.png"

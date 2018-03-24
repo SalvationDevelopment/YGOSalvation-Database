@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 17521642,
-        "pack_id": "STOR-JP064",
         "pack": "Storm of Ragnarok",
-        "rarity": "Zero Force",
+        "pack_id": "STOR-JP064",
         "date": "2010-11-13"
     },
     "tcg": {
-        "id": 17521642,
-        "pack_id": "STOR-EN064",
         "pack": "Storm of Ragnarok",
-        "rarity": "Zero Force",
+        "pack_id": "STOR-EN064",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8e/ZeroForce-STOR-EN-C-UE.png"

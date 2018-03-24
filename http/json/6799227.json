@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 6799227,
-        "pack_id": "STBL-JP070",
         "pack": "Starstrike Blast",
-        "rarity": "Half Counter",
+        "pack_id": "STBL-JP070",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 6799227,
-        "pack_id": "STBL-EN070",
         "pack": "Starstrike Blast",
-        "rarity": "Half Counter",
+        "pack_id": "STBL-EN070",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d7/HalfCounter-BP02-EN-C-UE.png"

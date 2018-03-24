@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 45118716,
-        "pack_id": "JOTL-JP004",
         "pack": "Judgment of the Light",
-        "rarity": "Spell Recycler",
+        "pack_id": "JOTL-JP004",
         "date": "2013-04-20"
     },
     "tcg": {
-        "id": 45118716,
-        "pack_id": "JOTL-DE004",
         "pack": "Judgment of the Light",
-        "rarity": "Spell Recycler",
+        "pack_id": "JOTL-DE004",
         "date": "2013-08-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/SpellRecycler-JOTL-EN-C-1E.png"

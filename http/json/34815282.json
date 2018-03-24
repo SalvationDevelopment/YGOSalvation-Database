@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 34815282,
-        "pack_id": "YSD3-JP033",
         "pack": "Starter Deck 2008",
-        "rarity": "Miniaturize",
+        "pack_id": "YSD3-JP033",
         "date": "2008-03-15"
     },
     "tcg": {
-        "id": 34815282,
-        "pack_id": "5DS1-DE033",
         "pack": "Starter Deck: Yu-Gi-Oh! 5D's",
-        "rarity": "Miniaturize",
+        "pack_id": "5DS1-DE033",
         "date": "2008-08-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/95/Miniaturize-BP03-EN-C-1E.png"

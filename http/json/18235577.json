@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 18235577,
-        "pack_id": "TDGS-JP036",
         "pack": "The Duelist Genesis",
-        "rarity": "Silent Strider",
+        "pack_id": "TDGS-JP036",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 18235577,
-        "pack_id": "TDGS-EN036",
         "pack": "The Duelist Genesis",
-        "rarity": "Silent Strider",
+        "pack_id": "TDGS-EN036",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/56/SilentStrider-TDGS-EN-C-UE.png"

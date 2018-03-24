@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53819028,
-        "pack_id": "SPFE-JP001",
         "pack": "Booster SP: Fusion Enforcers",
-        "rarity": "Predaplant Sarraceniant",
+        "pack_id": "SPFE-JP001",
         "date": "2016-11-12"
     },
     "tcg": {
-        "id": 53819028,
-        "pack_id": "FUEN-DE001",
         "pack": "Fusion Enforcers",
-        "rarity": "Predaplant Sarraceniant",
+        "pack_id": "FUEN-DE001",
         "date": "2017-02-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/52/PredaplantSarraceniant-FUEN-EN-SR-1E.png"

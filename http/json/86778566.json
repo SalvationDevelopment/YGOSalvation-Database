@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 86778566,
-        "pack_id": "REDU-JP066",
         "pack": "Return of the Duelist",
-        "rarity": "Impenetrable Attack",
+        "pack_id": "REDU-JP066",
         "date": "2012-04-14"
     },
     "tcg": {
-        "id": 86778566,
-        "pack_id": "REDU-EN066",
         "pack": "Return of the Duelist",
-        "rarity": "Impenetrable Attack",
+        "pack_id": "REDU-EN066",
         "date": "2012-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/68/ImpenetrableAttack-BP02-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 12197543,
-        "pack_id": "GAOV-JP068",
         "pack": "Galactic Overlord",
-        "rarity": "Commander of Swords",
+        "pack_id": "GAOV-JP068",
         "date": "2012-02-18"
     },
     "tcg": {
-        "id": 12197543,
-        "pack_id": "GAOV-EN068",
         "pack": "Galactic Overlord",
-        "rarity": "Commander of Swords",
+        "pack_id": "GAOV-EN068",
         "date": "2012-04-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2e/CommanderofSwords-GAOV-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 85313220,
-        "pack_id": "CDIP-JP009",
         "pack": "Cyberdark Impact",
-        "rarity": "Dark Lucius LV4",
+        "pack_id": "CDIP-JP009",
         "date": "2006-08-10"
     },
     "tcg": {
-        "id": 85313220,
-        "pack_id": "CDIP-FR009",
         "pack": "Cyberdark Impact",
-        "rarity": "Dark Lucius LV4",
+        "pack_id": "CDIP-FR009",
         "date": "2006-11-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/DarkLuciusLV4-CDIP-EN-C-1E.jpg"

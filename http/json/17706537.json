@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 17706537,
-        "pack_id": "EXP1-JP009",
         "pack": "Extra Pack",
-        "rarity": "Fossil Tusker",
+        "pack_id": "EXP1-JP009",
         "date": "2008-09-13"
     },
     "tcg": {
-        "id": 17706537,
-        "pack_id": "TAEV-FR086",
         "pack": "Tactical Evolution",
-        "rarity": "Fossil Tusker",
+        "pack_id": "TAEV-FR086",
         "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bc/FossilTusker-TAEV-EN-R-1E.jpg"

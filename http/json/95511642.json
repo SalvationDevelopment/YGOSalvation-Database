@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 95511642,
-        "pack_id": "COTD-JP018",
         "pack": "Code of the Duelist",
-        "rarity": "Stargrail-Bearing Priestess",
+        "pack_id": "COTD-JP018",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE018"
+        "pack_id": "COTD-DE018",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/CrownedbytheWorldChalice-COTD-EN-C-UE.png"
 }

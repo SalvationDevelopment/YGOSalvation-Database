@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58383100,
-        "pack_id": "INOV-JP011",
         "pack": "Invasion: Vengeance",
-        "rarity": "Cipher Mirror Knight",
+        "pack_id": "INOV-JP011",
         "date": "2016-07-09"
     },
     "tcg": {
-        "id": 58383100,
-        "pack_id": "INOV-DE011",
         "pack": "Invasion: Vengeance",
-        "rarity": "Cipher Mirror Knight",
+        "pack_id": "INOV-DE011",
         "date": "2016-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a3/CipherMirrorKnight-MP17-EN-C-1E.png"

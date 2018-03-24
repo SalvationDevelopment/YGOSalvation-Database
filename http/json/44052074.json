@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 44052074,
-        "pack_id": "SR03-JP021",
         "pack": "Structure Deck R: Machine Dragon Re-Volt",
-        "rarity": "Ancient Gear Catapult",
+        "pack_id": "SR03-JP021",
         "date": "2016-09-24"
     },
     "tcg": {
-        "id": 44052074,
-        "pack_id": "SR03-DE021",
         "pack": "Machine Reactor Structure Deck",
-        "rarity": "Ancient Gear Catapult",
+        "pack_id": "SR03-DE021",
         "date": "2017-04-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ae/AncientGearCatapult-SR03-EN-SR-1E.png"

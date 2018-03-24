@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 47826112,
-        "pack_id": "SD23-JP001",
         "pack": "Structure Deck: Roar of the Sea Emperor",
-        "rarity": "Poseidra, the Atlantean Dragon",
+        "pack_id": "SD23-JP001",
         "date": "2012-06-16"
     },
     "tcg": {
-        "id": 47826112,
-        "pack_id": "SDRE-DE001",
         "pack": "Realm of the Sea Emperor Structure Deck",
-        "rarity": "Poseidra, the Atlantean Dragon",
+        "pack_id": "SDRE-DE001",
         "date": "2012-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/PoseidratheAtlanteanDragon-SDRE-EN-UR-1E.png"

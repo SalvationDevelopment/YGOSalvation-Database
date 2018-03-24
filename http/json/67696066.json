@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 67696066,
-        "pack_id": "CORE-JP018",
         "pack": "Clash of Rebellions",
-        "rarity": "Performage Trick Clown",
+        "pack_id": "CORE-JP018",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 67696066,
-        "pack_id": "CORE-DE018",
         "pack": "Clash of Rebellions",
-        "rarity": "Performage Trick Clown",
+        "pack_id": "CORE-DE018",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/ff/PerformageTrickClown-MP16-EN-C-1E.png"

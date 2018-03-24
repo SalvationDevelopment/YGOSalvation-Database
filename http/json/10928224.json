@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG",
     "ocg": {
-        "id": 10928224,
-        "pack_id": "DP18-JP009",
         "pack": "Duelist Pack: Legend Duelist",
-        "rarity": "Amazoness Pet Baby Tiger",
+        "pack_id": "DP18-JP009",
         "date": "2017-06-03"
     },
     "tcg": {
-        "date": "2017-09-07",
         "pack": "Legendary Duelists",
-        "pack_id": "LEDU-DE009"
+        "pack_id": "LEDU-DE009",
+        "date": "2017-09-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/79/AmazonessBabyTiger-LEDU-EN-UR-1E.png"
 }

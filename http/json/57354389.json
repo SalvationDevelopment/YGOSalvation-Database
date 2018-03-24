@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 57354389,
-        "pack_id": "MVP1-JP012",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Sentry Soldier of Stone",
+        "pack_id": "MVP1-JP012",
         "date": "2016-04-23"
     },
     "tcg": {
-        "id": 57354389,
-        "pack_id": "MVP1-DE012",
         "pack": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
-        "rarity": "Sentry Soldier of Stone",
+        "pack_id": "MVP1-DE012",
         "date": "2016-07-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/14/SentrySoldierofStone-MVP1-EN-GUR-1E.png"

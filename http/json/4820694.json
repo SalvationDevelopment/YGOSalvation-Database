@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 4820694,
-        "pack_id": "SPRG-JP054",
         "pack": "Booster SP: Raging Masters",
-        "rarity": "Constellar Tempest",
+        "pack_id": "SPRG-JP054",
         "date": "2014-08-09"
     },
     "tcg": {
-        "id": 4820694,
-        "pack_id": "INOV-DE091",
         "pack": "Invasion: Vengeance",
-        "rarity": "Constellar Tempest",
+        "pack_id": "INOV-DE091",
         "date": "2016-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/23/ConstellarTempest-INOV-EN-R-1E.png"

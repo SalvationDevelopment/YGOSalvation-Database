@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 56574543,
-        "pack_id": "EP14-JP035",
         "pack": "Extra Pack: Knights of Order",
-        "rarity": "Bujingi Sinyou",
+        "pack_id": "EP14-JP035",
         "date": "2014-09-13"
     },
     "tcg": {
-        "id": 56574543,
-        "pack_id": "PRIO-DE084",
         "pack": "Primal Origin",
-        "rarity": "Bujingi Sinyou",
+        "pack_id": "PRIO-DE084",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/10/BujingiSinyou-MP15-EN-UR-1E.png"

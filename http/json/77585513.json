@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 77585513,
-        "pack_id": "CA-00",
         "pack": "Curse of Anubis",
-        "rarity": "Jinzo",
+        "pack_id": "CA-00",
         "date": "2000-09-28"
     },
     "tcg": {
-        "id": 77585513,
-        "pack_id": "PSV-000",
         "pack": "Pharaoh's Servant",
-        "rarity": "Jinzo",
+        "pack_id": "PSV-000",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ef/Jinzo-DUSA-EN-UR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 63193536,
-        "pack_id": "ORCS-JP077",
         "pack": "Order of Chaos",
-        "rarity": "Over Capacity",
+        "pack_id": "ORCS-JP077",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 63193536,
-        "pack_id": "ORCS-EN077",
         "pack": "Order of Chaos",
-        "rarity": "Over Capacity",
+        "pack_id": "ORCS-EN077",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3d/OverCapacity-ORCS-EN-R-1E.png"

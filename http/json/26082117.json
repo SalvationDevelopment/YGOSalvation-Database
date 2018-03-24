@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 26082117,
-        "pack_id": "GENF-JP001",
         "pack": "Generation Force",
-        "rarity": "Gagaga Magician",
+        "pack_id": "GENF-JP001",
         "date": "2011-04-16"
     },
     "tcg": {
-        "id": 26082117,
-        "pack_id": "GENF-EN001",
         "pack": "Generation Force",
-        "rarity": "Gagaga Magician",
+        "pack_id": "GENF-EN001",
         "date": "2011-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cb/GagagaMagician-PGLD-EN-GUR-1E.png"

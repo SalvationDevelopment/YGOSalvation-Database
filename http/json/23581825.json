@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 23581825,
-        "pack_id": "SPWR-JP028",
         "pack": "Booster SP: Wing Raiders",
-        "rarity": "Rank-Up-Magic Soul Shave Force",
+        "pack_id": "SPWR-JP028",
         "date": "2015-11-14"
     },
     "tcg": {
-        "id": 23581825,
-        "pack_id": "WIRA-DE028",
         "pack": "Wing Raiders",
-        "rarity": "Rank-Up-Magic Soul Shave Force",
+        "pack_id": "WIRA-DE028",
         "date": "2016-02-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ce/RankUpMagicSoulShaveForce-WIRA-EN-SR-1E.png"

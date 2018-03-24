@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 96148285,
-        "pack_id": "FOTB-JP046",
         "pack": "Force of the Breaker",
-        "rarity": "Triggered Summon",
+        "pack_id": "FOTB-JP046",
         "date": "2007-02-15"
     },
     "tcg": {
-        "id": 96148285,
-        "pack_id": "FOTB-FR046",
         "pack": "Force of the Breaker",
-        "rarity": "Triggered Summon",
+        "pack_id": "FOTB-FR046",
         "date": "2007-05-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/47/TriggeredSummon-DP07-EN-C-1E.png"

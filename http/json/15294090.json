@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 15294090,
-        "pack_id": "POTD-JP049",
         "pack": "Power of the Duelist",
-        "rarity": "Destiny Mirage",
+        "pack_id": "POTD-JP049",
         "date": "2006-05-18"
     },
     "tcg": {
-        "id": 15294090,
-        "pack_id": "POTD-DE049",
         "pack": "Power of the Duelist",
-        "rarity": "Destiny Mirage",
+        "pack_id": "POTD-DE049",
         "date": "2006-08-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/ba/DestinyMirage-RYMP-EN-C-1E.jpg"

@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Ojama Token",
-    "desc": "This card can be used as an \"Ojama Token\".\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+    "desc": "Special Summoned with the effect of \"Ojama Duo\"\n \"Ojama Trio\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Tournament Pack 2017 Vol.3",
+        "pack_id": "17TP-JP315",
+        "date": "2017-07-01"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/OjamaToken-17TP-JP-C.png"
 }

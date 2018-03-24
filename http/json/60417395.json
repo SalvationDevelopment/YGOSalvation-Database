@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 60417395,
-        "pack_id": "LE15-JP003",
         "pack": "Limited Edition 15",
-        "rarity": "Darkness Neosphere",
+        "pack_id": "LE15-JP003",
         "date": "2009-05-21"
     },
     "tcg": {
-        "id": 60417395,
-        "pack_id": "TU05-DE016",
         "pack": "Turbo Pack: Booster Five",
-        "rarity": "Darkness Neosphere",
+        "pack_id": "TU05-DE016",
         "date": "2011-04-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/DarknessNeosphere-TU05-EN-C-UE.png"

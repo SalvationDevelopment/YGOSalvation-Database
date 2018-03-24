@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 42023223,
-        "pack_id": "SDMY-JP001",
         "pack": "Structure Deck: Yugi Muto",
-        "rarity": "Alpha The Electromagnet Warrior",
+        "pack_id": "SDMY-JP001",
         "date": "2016-06-18"
     },
     "tcg": {
-        "id": 42023223,
-        "pack_id": "SDMY-DE001",
         "pack": "Structure Deck: Yugi Muto",
-        "rarity": "Alpha The Electromagnet Warrior",
+        "pack_id": "SDMY-DE001",
         "date": "2016-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b8/AlphaTheElectromagnetWarrior-SDMY-EN-SR-1E.png"

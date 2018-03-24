@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 34251483,
-        "pack_id": "REDU-JP040",
         "pack": "Return of the Duelist",
-        "rarity": "Goblin Marauding Squad",
+        "pack_id": "REDU-JP040",
         "date": "2012-04-14"
     },
     "tcg": {
-        "id": 34251483,
-        "pack_id": "REDU-EN040",
         "pack": "Return of the Duelist",
-        "rarity": "Goblin Marauding Squad",
+        "pack_id": "REDU-EN040",
         "date": "2012-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/eb/GoblinMaraudingSquad-REDU-EN-SP-1E.png"

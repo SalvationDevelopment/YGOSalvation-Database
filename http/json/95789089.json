@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 95789089,
-        "pack_id": "FET-JP016",
         "pack": "Flaming Eternity",
-        "rarity": "共通",
+        "pack_id": "FET-JP016",
         "date": "2004-11-25"
     },
     "tcg": {
-        "id": 95789089,
-        "pack_id": "FET-EN016",
         "pack": "Flaming Eternity",
-        "rarity": "Common",
+        "pack_id": "FET-EN016",
         "date": "2005-02-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/46/KangarooChamp-DR3-EN-C-UE.png"

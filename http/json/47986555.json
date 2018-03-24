@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 47986555,
-        "pack_id": "",
         "pack": "Booster 7",
-        "rarity": "Millennium Golem",
+        "pack_id": "",
         "date": "2000-03-01"
     },
     "tcg": {
-        "id": 47986555,
-        "pack_id": "TP7-DE018",
         "pack": "Tournament Pack 7",
-        "rarity": "Millennium Golem",
+        "pack_id": "TP7-DE018",
         "date": "2005-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e1/MillenniumGolem-TP7-EN-C-UE.jpg"

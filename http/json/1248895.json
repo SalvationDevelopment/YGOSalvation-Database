@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1248895,
-        "pack_id": "CA-06",
         "pack": "Curse of Anubis",
-        "rarity": "Chain Destruction",
+        "pack_id": "CA-06",
         "date": "2000-09-28"
     },
     "tcg": {
-        "id": 1248895,
-        "pack_id": "PSV-006",
         "pack": "Pharaoh's Servant",
-        "rarity": "Chain Destruction",
+        "pack_id": "PSV-006",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/ChainDestruction-YGLD-EN-C-1E.png"

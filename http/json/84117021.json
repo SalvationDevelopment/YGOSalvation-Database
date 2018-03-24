@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 84117021,
-        "pack_id": "EP13-JP039",
         "pack": "Extra Pack: Sword of Knights",
-        "rarity": "Spell Wall",
+        "pack_id": "EP13-JP039",
         "date": "2013-05-18"
     },
     "tcg": {
-        "id": 84117021,
-        "pack_id": "CBLZ-DE088",
         "pack": "Cosmo Blazer",
-        "rarity": "Spell Wall",
+        "pack_id": "CBLZ-DE088",
         "date": "2013-01-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5e/SpellWall-CBLZ-EN-C-1E.png"

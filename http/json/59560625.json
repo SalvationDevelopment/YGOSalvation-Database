@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 59560625,
-        "pack_id": "TB-17",
         "pack": "Thousand Eyes Bible",
-        "rarity": "Shift",
+        "pack_id": "TB-17",
         "date": "2000-12-14"
     },
     "tcg": {
-        "id": 59560625,
-        "pack_id": "PSV-067",
         "pack": "Pharaoh's Servant",
-        "rarity": "Shift",
+        "pack_id": "PSV-067",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c2/Shift-YGLD-EN-C-1E.png"

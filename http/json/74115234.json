@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 74115234,
-        "pack_id": "TDGS-JP055",
         "pack": "The Duelist Genesis",
-        "rarity": "Orb of Yasaka",
+        "pack_id": "TDGS-JP055",
         "date": "2008-04-19"
     },
     "tcg": {
-        "id": 74115234,
-        "pack_id": "TDGS-EN055",
         "pack": "The Duelist Genesis",
-        "rarity": "Orb of Yasaka",
+        "pack_id": "TDGS-EN055",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/68/OrbofYasaka-TDGS-EN-C-1E.jpg"

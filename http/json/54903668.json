@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 54903668,
-        "pack_id": "SPTR-JP009",
         "pack": "Booster SP: Tribe Force",
-        "rarity": "Yosenjus' Secret Move",
+        "pack_id": "SPTR-JP009",
         "date": "2014-10-11"
     },
     "tcg": {
-        "id": 54903668,
-        "pack_id": "THSF-DE009",
         "pack": "The Secret Forces",
-        "rarity": "Yosenjus' Secret Move",
+        "pack_id": "THSF-DE009",
         "date": "2015-02-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/42/YosenjusSecretMove-SP17-EN-C-1E.png"

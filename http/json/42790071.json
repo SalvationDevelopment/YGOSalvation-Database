@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Altergeist Multifaker",
-    "desc": "If you activate a Trap Card: You can Special Summon this card from your hand. If this card is Special Summoned: You can Special Summon 1 \"Altergeist\" monster from your Deck in Defense Position, except \"Altergeist Multifaker\". You cannot Special Summon monsters the turn you activate this effect, except \"Altergeist\" monsters. You can only use each effect of \"Altergeist Multifaker\" once per turn.",
+    "desc": "If you activate a Trap Card (except during the Damage Step): You can Special Summon this card from your hand. If this card is Special Summoned: You can Special Summon 1 \"Altergeist\" monster from your Deck in Defense Position, except \"Altergeist Multifaker\". You cannot Special Summon monsters the turn you activate this effect, except \"Altergeist\" monsters. You can only use each effect of \"Altergeist Multifaker\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP014",
+        "date": "2018-01-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/70/AltergeistMultifaker-FLOD-JP-SR.png"
 }

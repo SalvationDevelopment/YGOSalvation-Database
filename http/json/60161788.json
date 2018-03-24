@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 60161788,
-        "pack_id": "DT01-JP010",
         "pack": "Duel Terminal - Synchro Awakening!!",
-        "rarity": "Blizzed, Defender of the Ice Barrier",
+        "pack_id": "DT01-JP010",
         "date": "2008-04-12"
     },
     "tcg": {
-        "id": 60161788,
-        "pack_id": "HA01-DE001",
         "pack": "Hidden Arsenal",
-        "rarity": "Blizzed, Defender of the Ice Barrier",
+        "pack_id": "HA01-DE001",
         "date": "2009-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/BlizzedDefenderoftheIceBarrier-HA01-EN-ScR-LE.png"

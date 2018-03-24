@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 69840739,
-        "pack_id": "PRIO-JP049",
         "pack": "Primal Origin",
-        "rarity": "Artifact Durendal",
+        "pack_id": "PRIO-JP049",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 69840739,
-        "pack_id": "PRIO-DE049",
         "pack": "Primal Origin",
-        "rarity": "Artifact Durendal",
+        "pack_id": "PRIO-DE049",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/64/ArtifactDurendal-MP15-EN-UR-1E.png"

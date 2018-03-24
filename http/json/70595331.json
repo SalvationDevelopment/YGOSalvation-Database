@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 70595331,
-        "pack_id": "EXP1-JP011",
         "pack": "Extra Pack",
-        "rarity": "Il Blud",
+        "pack_id": "EXP1-JP011",
         "date": "2008-09-13"
     },
     "tcg": {
-        "id": 70595331,
-        "pack_id": "TAEV-FR088",
         "pack": "Tactical Evolution",
-        "rarity": "Il Blud",
+        "pack_id": "TAEV-FR088",
         "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a3/IlBlud-LCJW-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 95744531,
-        "pack_id": "MR-16",
         "pack": "Magic Ruler",
-        "rarity": "Griggle",
+        "pack_id": "MR-16",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 95744531,
-        "pack_id": "DB1-EN011",
         "pack": "Dark Beginning 1",
-        "rarity": "Griggle",
+        "pack_id": "DB1-EN011",
         "date": "2004-10-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/75/Griggle-DB1-EN-C-UE.jpg"

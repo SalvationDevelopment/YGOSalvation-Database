@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 64268668,
-        "pack_id": "CDIP-JP004",
         "pack": "Cyberdark Impact",
-        "rarity": "Cyber Ogre",
+        "pack_id": "CDIP-JP004",
         "date": "2006-08-10"
     },
     "tcg": {
-        "id": 64268668,
-        "pack_id": "CDIP-FR004",
         "pack": "Cyberdark Impact",
-        "rarity": "Cyber Ogre",
+        "pack_id": "CDIP-FR004",
         "date": "2006-11-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1c/CyberOgre-CDIP-EN-C-1E.jpg"

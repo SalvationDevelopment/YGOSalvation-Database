@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 11460577,
-        "pack_id": "EEN-JP016",
         "pack": "Elemental Energy",
-        "rarity": "Etoile Cyber",
+        "pack_id": "EEN-JP016",
         "date": "2005-08-11"
     },
     "tcg": {
-        "id": 11460577,
-        "pack_id": "EEN-DE016",
         "pack": "Elemental Energy",
-        "rarity": "Etoile Cyber",
+        "pack_id": "EEN-DE016",
         "date": "2005-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/53/EtoileCyber-DPDG-EN-C-1E.png"

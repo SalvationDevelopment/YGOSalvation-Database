@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 76137614,
-        "pack_id": "SD16-JP002",
         "pack": "Structure Deck: Lord of the Magician",
-        "rarity": "Disenchanter",
+        "pack_id": "SD16-JP002",
         "date": "2008-12-13"
     },
     "tcg": {
-        "id": 76137614,
-        "pack_id": "SDSC-DE002",
         "pack": "Spellcaster's Command Structure Deck",
-        "rarity": "Disenchanter",
+        "pack_id": "SDSC-DE002",
         "date": "2009-03-31"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/04/Disenchanter-SDSC-EN-C-UE.png"

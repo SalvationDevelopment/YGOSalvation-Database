@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 71233859,
-        "pack_id": "PHSW-JP052",
         "pack": "Photon Shockwave",
-        "rarity": "Photon Booster",
+        "pack_id": "PHSW-JP052",
         "date": "2011-07-16"
     },
     "tcg": {
-        "id": 71233859,
-        "pack_id": "PHSW-DE052",
         "pack": "Photon Shockwave",
-        "rarity": "Photon Booster",
+        "pack_id": "PHSW-DE052",
         "date": "2011-11-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5d/PhotonBooster-DL18-EN-R-UE-Purple.png"

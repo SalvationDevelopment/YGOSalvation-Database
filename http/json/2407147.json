@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 2407147,
-        "pack_id": "DT11-JP017",
-        "pack": "DT11",
-        "rarity": "Laval Volcano Handmaiden",
-        "date": "2013-02-26"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 2407147,
-        "pack_id": "DT06-EN017",
         "pack": "Duel Terminal 6a",
-        "rarity": "Laval Volcano Handmaiden",
+        "pack_id": "DT06-EN017",
         "date": "2012-02-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/09/LavalVolcanoHandmaiden-HA06-EN-SR-1E.png"

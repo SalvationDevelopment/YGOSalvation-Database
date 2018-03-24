@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 10282757,
-        "pack_id": "EP14-JP045",
         "pack": "Extra Pack: Knights of Order",
-        "rarity": "Planckton",
+        "pack_id": "EP14-JP045",
         "date": "2014-09-13"
     },
     "tcg": {
-        "id": 10282757,
-        "pack_id": "WSUP-DE039",
         "pack": "World Superstars",
-        "rarity": "Planckton",
+        "pack_id": "WSUP-DE039",
         "date": "2015-04-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/44/Planckton-WSUP-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55204071,
-        "pack_id": "CPZ1-JP009",
         "pack": "Collectors Pack: ZEXAL Version",
-        "rarity": "Gimmick Puppet Nightmare",
+        "pack_id": "CPZ1-JP009",
         "date": "2013-08-10"
     },
     "tcg": {
-        "id": 55204071,
-        "pack_id": "NUMH-DE009",
         "pack": "Number Hunters",
-        "rarity": "Gimmick Puppet Nightmare",
+        "pack_id": "NUMH-DE009",
         "date": "2013-07-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/87/GimmickPuppetNightmare-NUMH-EN-SR-1E.png"

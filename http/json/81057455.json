@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81057455,
-        "pack_id": "EP16-JP032",
         "pack": "Extra Pack 2016",
-        "rarity": "Kaiju Capture Mission",
+        "pack_id": "EP16-JP032",
         "date": "2016-09-10"
     },
     "tcg": {
-        "id": 81057455,
-        "pack_id": "DOCS-DE089",
         "pack": "Dimension of Chaos",
-        "rarity": "Kaiju Capture Mission",
+        "pack_id": "DOCS-DE089",
         "date": "2015-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/05/KaijuCaptureMission-MP16-EN-C-1E.png"

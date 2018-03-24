@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 97127906,
-        "pack_id": "TAEV-JP001",
         "pack": "Tactical Evolution",
-        "rarity": "Alien Shocktrooper",
+        "pack_id": "TAEV-JP001",
         "date": "2007-05-12"
     },
     "tcg": {
-        "id": 97127906,
-        "pack_id": "TAEV-FR001",
         "pack": "Tactical Evolution",
-        "rarity": "Alien Shocktrooper",
+        "pack_id": "TAEV-FR001",
         "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/03/AlienShocktrooper-TAEV-EN-C-UE.png"

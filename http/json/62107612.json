@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 62107612,
-        "pack_id": "DP13-JP015",
         "pack": "Duelist Pack: Kaito Edition",
-        "rarity": "Dimension Wanderer",
+        "pack_id": "DP13-JP015",
         "date": "2012-09-15"
     },
     "tcg": {
-        "id": 62107612,
-        "pack_id": "ZTIN-DE010",
         "pack": "Zexal Collection",
-        "rarity": "Dimension Wanderer",
+        "pack_id": "ZTIN-DE010",
         "date": "2013-03-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1c/DimensionWanderer-ZTIN-EN-SR-1E.png"

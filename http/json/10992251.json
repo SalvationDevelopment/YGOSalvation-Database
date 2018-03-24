@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 10992251,
-        "pack_id": "TB-39",
         "pack": "Thousand Eyes Bible",
-        "rarity": "Gradius",
+        "pack_id": "TB-39",
         "date": "2000-12-14"
     },
     "tcg": {
-        "id": 10992251,
-        "pack_id": "PSV-089",
         "pack": "Pharaoh's Servant",
-        "rarity": "Gradius",
+        "pack_id": "PSV-089",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0d/Gradius-DB1-EN-C-UE.png"

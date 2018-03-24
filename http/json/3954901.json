@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 3954901,
-        "pack_id": "SD13-JP001",
         "pack": "Structure Deck: Revival of the Great Dragon",
-        "rarity": "Felgrand Dragon",
+        "pack_id": "SD13-JP001",
         "date": "2007-06-23"
     },
     "tcg": {
-        "id": 3954901,
-        "pack_id": "SDRL-DE001",
         "pack": "Rise of the Dragon Lords Structure Deck",
-        "rarity": "Felgrand Dragon",
+        "pack_id": "SDRL-DE001",
         "date": "2007-10-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e2/FelgrandDragon-SR02-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 50720316,
-        "pack_id": "SD27-JP001",
         "pack": "Structure Deck: HERO's Strike",
-        "rarity": "Elemental HERO Shadow Mist",
+        "pack_id": "SD27-JP001",
         "date": "2014-06-21"
     },
     "tcg": {
-        "id": 50720316,
-        "pack_id": "SDHS-DE001",
         "pack": "HERO Strike Structure Deck",
-        "rarity": "Elemental HERO Shadow Mist",
+        "pack_id": "SDHS-DE001",
         "date": "2015-01-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/54/ElementalHEROShadowMist-SDHS-EN-SR-1E.png"

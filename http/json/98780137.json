@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 98780137,
-        "pack_id": "SHSP-JP005",
         "pack": "Shadow Specters",
-        "rarity": "Malicevorous Knife",
+        "pack_id": "SHSP-JP005",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 98780137,
-        "pack_id": "SHSP-DE005",
         "pack": "Shadow Specters",
-        "rarity": "Malicevorous Knife",
+        "pack_id": "SHSP-DE005",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fa/MalicevorousKnife-MP14-EN-C-1E.png"

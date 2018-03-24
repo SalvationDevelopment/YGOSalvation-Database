@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 5368615,
-        "pack_id": "CRV-JP033",
         "pack": "Cybernetic Revolution",
-        "rarity": "Steam Gyroid",
+        "pack_id": "CRV-JP033",
         "date": "2005-05-26"
     },
     "tcg": {
-        "id": 5368615,
-        "pack_id": "CRV-DE033",
         "pack": "Cybernetic Revolution",
-        "rarity": "Steam Gyroid",
+        "pack_id": "CRV-DE033",
         "date": "2005-08-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/39/SteamGyroid-DR04-NA-C-UE.png"

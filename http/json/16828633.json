@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 16828633,
-        "pack_id": "DT03-JP013",
         "pack": "Duel Terminal - Justice Strikes Back!!",
-        "rarity": "共通",
+        "pack_id": "DT03-JP013",
         "date": "2008-09-22"
     },
     "tcg": {
-        "id": 16828633,
-        "pack_id": "DT02-EN013",
         "pack": "Duel Terminal 2",
-        "rarity": "Genex Spare",
+        "pack_id": "DT02-EN013",
         "date": "2010-05-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/GenexSpare-HA02-EN-SR-1E.jpg"

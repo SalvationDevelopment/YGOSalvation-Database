@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 18282103,
-        "pack_id": "DT07-JP019",
         "pack": "Duel Terminal - Charge of the Genex!!",
-        "rarity": "The Fabled Ganashia",
+        "pack_id": "DT07-JP019",
         "date": "2009-10-01"
     },
     "tcg": {
-        "id": 18282103,
-        "pack_id": "DT04-EN019",
         "pack": "Duel Terminal 4",
-        "rarity": "The Fabled Ganashia",
+        "pack_id": "DT04-EN019",
         "date": "2011-01-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2c/TheFabledGanashia-HA04-EN-SR-1E.png"

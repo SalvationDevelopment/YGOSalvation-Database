@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 75732622,
-        "pack_id": "DP07-JP011",
         "pack": "Duelist Pack: Jesse Anderson",
-        "rarity": "Grinder Golem",
+        "pack_id": "DP07-JP011",
         "date": "2007-10-20"
     },
     "tcg": {
-        "id": 75732622,
-        "pack_id": "DP07-DE009",
         "pack": "Duelist Pack: Jesse Anderson",
-        "rarity": "Grinder Golem",
+        "pack_id": "DP07-DE009",
         "date": "2008-01-22"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/GrinderGolem-LCGX-EN-C-1E.png"

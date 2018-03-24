@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 90876561,
-        "pack_id": "LE4-003",
         "pack": "Limited Edition 4",
-        "rarity": "Jack's Knight",
+        "pack_id": "LE4-003",
         "date": "2002-05-28"
     },
     "tcg": {
-        "id": 90876561,
-        "pack_id": "EEN-DE005",
         "pack": "Elemental Energy",
-        "rarity": "Jack's Knight",
+        "pack_id": "EEN-DE005",
         "date": "2005-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c6/JacksKnight-SDMY-EN-C-1E.png"

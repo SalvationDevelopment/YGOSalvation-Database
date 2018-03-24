@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 76436988,
-        "pack_id": "LVAL-JP003",
         "pack": "Legacy of the Valiant",
-        "rarity": "Gillagillancer",
+        "pack_id": "LVAL-JP003",
         "date": "2013-11-16"
     },
     "tcg": {
-        "id": 76436988,
-        "pack_id": "LVAL-DE003",
         "pack": "Legacy of the Valiant",
-        "rarity": "Gillagillancer",
+        "pack_id": "LVAL-DE003",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7a/Gillagillancer-MP14-EN-C-1E.png"

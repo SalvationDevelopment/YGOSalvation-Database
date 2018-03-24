@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 4904633,
-        "pack_id": "DUEA-JP073",
         "pack": "Duelist Alliance",
-        "rarity": "Shaddoll Core",
+        "pack_id": "DUEA-JP073",
         "date": "2014-04-19"
     },
     "tcg": {
-        "id": 4904633,
-        "pack_id": "DUEA-DE073",
         "pack": "Duelist Alliance",
-        "rarity": "Shaddoll Core",
+        "pack_id": "DUEA-DE073",
         "date": "2014-08-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/34/ShaddollCore-MP15-EN-SR-1E.png"

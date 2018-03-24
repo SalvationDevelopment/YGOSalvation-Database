@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 93600443,
-        "pack_id": "SD27-JP018",
         "pack": "Structure Deck: HERO's Strike",
-        "rarity": "Mask Change II",
+        "pack_id": "SD27-JP018",
         "date": "2014-06-21"
     },
     "tcg": {
-        "id": 93600443,
-        "pack_id": "SDHS-DE019",
         "pack": "HERO Strike Structure Deck",
-        "rarity": "Mask Change II",
+        "pack_id": "SDHS-DE019",
         "date": "2015-01-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dd/MaskChangeII-PGL3-EN-GUR-1E.png"

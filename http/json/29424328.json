@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 29424328,
-        "pack_id": "SD12-JP001",
         "pack": "Structure Deck: Curse of Darkness",
-        "rarity": "Diabolos, King of the Abyss",
+        "pack_id": "SD12-JP001",
         "date": "2007-03-08"
     },
     "tcg": {
-        "id": 29424328,
-        "pack_id": "FOTB-FR061",
         "pack": "Force of the Breaker",
-        "rarity": "Diabolos, King of the Abyss",
+        "pack_id": "FOTB-FR061",
         "date": "2007-05-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7a/DiabolosKingoftheAbyss-GLD4-EN-C-LE.png"

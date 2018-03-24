@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 84472026,
-        "pack_id": "EP14-JP023",
         "pack": "Extra Pack: Knights of Order",
-        "rarity": "Ghostrick Yeti",
+        "pack_id": "EP14-JP023",
         "date": "2014-09-13"
     },
     "tcg": {
-        "id": 84472026,
-        "pack_id": "LVAL-DE082",
         "pack": "Legacy of the Valiant",
-        "rarity": "Ghostrick Yeti",
+        "pack_id": "LVAL-DE082",
         "date": "2014-01-23"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3e/GhostrickYeti-MP14-EN-C-1E.png"

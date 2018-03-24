@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1003840,
-        "pack_id": "SD28-JP026",
         "pack": "Structure Deck: Synchron Extreme",
-        "rarity": "Starlight Junktion",
+        "pack_id": "SD28-JP026",
         "date": "2014-12-06"
     },
     "tcg": {
-        "id": 1003840,
-        "pack_id": "SDSE-DE026",
         "pack": "Synchron Extreme Structure Deck",
-        "rarity": "Starlight Junktion",
+        "pack_id": "SDSE-DE026",
         "date": "2015-08-27"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d3/StarlightJunktion-SDSE-EN-C-1E.png"

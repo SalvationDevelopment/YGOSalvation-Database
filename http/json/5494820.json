@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 5494820,
-        "pack_id": "LN-44",
         "pack": "Labyrinth of Nightmare",
-        "rarity": "共通",
+        "pack_id": "LN-44",
         "date": "2001-07-21"
     },
     "tcg": {
-        "id": 5494820,
-        "pack_id": "LON-095",
         "pack": "Labyrinth of Nightmare",
-        "rarity": "Cyclon Laser",
+        "pack_id": "LON-095",
         "date": "2003-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/24/CyclonLaser-DB2-EN-C-UE.png"

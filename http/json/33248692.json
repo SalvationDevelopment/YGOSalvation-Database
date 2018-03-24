@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 33248692,
-        "pack_id": "SOI-JP058",
         "pack": "Shadow of Infinity",
-        "rarity": "Option Hunter",
+        "pack_id": "SOI-JP058",
         "date": "2005-11-17"
     },
     "tcg": {
-        "id": 33248692,
-        "pack_id": "SOI-EN058",
         "pack": "Shadow of Infinity",
-        "rarity": "Option Hunter",
+        "pack_id": "SOI-EN058",
         "date": "2006-02-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/OptionHunter-DR04-NA-C-UE.png"

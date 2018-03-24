@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 37241623,
-        "pack_id": "CPZ1-JP049",
         "pack": "Collectors Pack: ZEXAL Version",
-        "rarity": "Heraldry Record",
+        "pack_id": "CPZ1-JP049",
         "date": "2013-08-10"
     },
     "tcg": {
-        "id": 37241623,
-        "pack_id": "NUMH-DE059",
         "pack": "Number Hunters",
-        "rarity": "Heraldry Record",
+        "pack_id": "NUMH-DE059",
         "date": "2013-07-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7f/HeraldryRecord-NUMH-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 23234094,
-        "pack_id": "ORCS-JP027",
         "pack": "Order of Chaos",
-        "rarity": "Evolsaur Elias",
+        "pack_id": "ORCS-JP027",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 23234094,
-        "pack_id": "ORCS-EN027",
         "pack": "Order of Chaos",
-        "rarity": "Evolsaur Elias",
+        "pack_id": "ORCS-EN027",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dd/EvolsaurElias-ORCS-EN-C-1E.jpg"

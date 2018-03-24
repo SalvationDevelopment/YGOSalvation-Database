@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55348096,
-        "pack_id": "304-048",
         "pack": "Power of the Guardian",
-        "rarity": "Arsenal Robber",
+        "pack_id": "304-048",
         "date": "2002-11-21"
     },
     "tcg": {
-        "id": 55348096,
-        "pack_id": "DCR-048",
         "pack": "Dark Crisis",
-        "rarity": "Arsenal Robber",
+        "pack_id": "DCR-048",
         "date": "2003-12-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ce/ArsenalRobber-DR1-EN-C-UE.png"

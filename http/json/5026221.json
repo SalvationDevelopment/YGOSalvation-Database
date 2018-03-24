@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 5026221,
-        "pack_id": "DUEA-JP070",
         "pack": "Duelist Alliance",
-        "rarity": "Stellarnova Wave",
+        "pack_id": "DUEA-JP070",
         "date": "2014-04-19"
     },
     "tcg": {
-        "id": 5026221,
-        "pack_id": "DUEA-DE070",
         "pack": "Duelist Alliance",
-        "rarity": "Stellarnova Wave",
+        "pack_id": "DUEA-DE070",
         "date": "2014-08-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/45/StellarnovaWave-MP15-EN-C-1E.png"

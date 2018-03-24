@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 88482761,
-        "pack_id": "SPHR-JP014",
         "pack": "Booster SP: Highspeed Riders",
-        "rarity": "Dice Roll Battle",
+        "pack_id": "SPHR-JP014",
         "date": "2015-08-22"
     },
     "tcg": {
-        "id": 88482761,
-        "pack_id": "HSRD-DE014",
         "pack": "High-Speed Riders",
-        "rarity": "Dice Roll Battle",
+        "pack_id": "HSRD-DE014",
         "date": "2015-10-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/62/DiceRollBattle-HSRD-EN-R-1E.png"

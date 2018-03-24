@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Brandish Mecha Eagle Booster",
-    "desc": "If you control no monsters in your Main Monster Zones: Target 1 face-up monster on the field; this turn, that target is unaffected by card effects, except for its own effects, also if you have 3 or more Spells in your GY, it cannot be destroyed by battle this turn.",
+    "desc": "If you control no monsters in your Main Monster Zones: Target 1 face-up monster on the field; this turn, that target is unaffected by card effects (except its own), also if you have 3 or more Spells in your GY, it cannot be destroyed by battle this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Deck Build Pack: Dark Savers",
+        "pack_id": "DBDS-JP035",
+        "date": "2018-02-24"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/85/BrandishMechaEagleBooster-DBDS-JP-C.png"
 }

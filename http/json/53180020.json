@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53180020,
-        "pack_id": "SPTR-JP012",
         "pack": "Booster SP: Tribe Force",
-        "rarity": "Exa, Enforcer of the Nekroz",
+        "pack_id": "SPTR-JP012",
         "date": "2014-10-11"
     },
     "tcg": {
-        "id": 53180020,
-        "pack_id": "THSF-DE012",
         "pack": "The Secret Forces",
-        "rarity": "Exa, Enforcer of the Nekroz",
+        "pack_id": "THSF-DE012",
         "date": "2015-02-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/ExaEnforceroftheNekroz-THSF-EN-SR-1E.png"

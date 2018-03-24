@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53119267,
-        "pack_id": "",
         "pack": "Booster 6",
-        "rarity": "Magical Thorn",
+        "pack_id": "",
         "date": "1999-12-01"
     },
     "tcg": {
-        "id": 53119267,
-        "pack_id": "TP5-DE003",
         "pack": "Tournament Pack 5",
-        "rarity": "Magical Thorn",
+        "pack_id": "TP5-DE003",
         "date": "2004-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/MagicalThorn-DB2-EN-C-UE.png"

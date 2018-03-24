@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 85103922,
-        "pack_id": "PRIO-JP011",
         "pack": "Primal Origin",
-        "rarity": "Artifact Moralltach",
+        "pack_id": "PRIO-JP011",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 85103922,
-        "pack_id": "PRIO-DE011",
         "pack": "Primal Origin",
-        "rarity": "Artifact Moralltach",
+        "pack_id": "PRIO-DE011",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b9/ArtifactMoralltach-MP15-EN-SR-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 73081602,
-        "pack_id": "SRL-EN009",
         "pack": "Magic Ruler",
-        "rarity": "共通",
+        "pack_id": "SRL-EN009",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 73081602,
-        "pack_id": "MRL-009",
         "pack": "Spell Ruler",
-        "rarity": "Queen Bird",
+        "pack_id": "MRL-009",
         "date": "2002-09-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ab/QueenBird-SRL-EN-C-UE.png"

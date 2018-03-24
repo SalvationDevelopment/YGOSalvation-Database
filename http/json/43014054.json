@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 43014054,
-        "pack_id": "STBL-JP008",
         "pack": "Starstrike Blast",
-        "rarity": "Vice Berserker",
+        "pack_id": "STBL-JP008",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 43014054,
-        "pack_id": "STBL-EN008",
         "pack": "Starstrike Blast",
-        "rarity": "Vice Berserker",
+        "pack_id": "STBL-EN008",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/63/ViceBerserker-STBL-EN-C-1E.jpg"

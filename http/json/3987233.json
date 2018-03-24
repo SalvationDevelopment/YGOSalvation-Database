@@ -34,16 +34,14 @@
     ],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 3987233,
-        "pack_id": "COTD-JP052",
         "pack": "Code of the Duelist",
-        "rarity": "Missus Radiant",
+        "pack_id": "COTD-JP052",
         "date": "2017-04-15"
     },
     "tcg": {
-        "date": "2017-08-03",
         "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE052"
+        "pack_id": "COTD-DE052",
+        "date": "2017-08-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/MissusRadiant-COTD-EN-SR-1E.png"
 }

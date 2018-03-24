@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 19439119,
-        "pack_id": "DT05-JP009",
         "pack": "Duel Terminal - Champion of Chaos!!",
-        "rarity": "Fabled Krus",
+        "pack_id": "DT05-JP009",
         "date": "2009-04-14"
     },
     "tcg": {
-        "id": 19439119,
-        "pack_id": "DT03-EN009",
         "pack": "Duel Terminal 3",
-        "rarity": "Fabled Krus",
+        "pack_id": "DT03-EN009",
         "date": "2010-09-25"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3f/FabledKrus-HA03-EN-ScR-1E.jpg"

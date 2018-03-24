@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 29549364,
-        "pack_id": "SM-17",
         "pack": "Spell of Mask",
-        "rarity": "Mask of Restrict",
+        "pack_id": "SM-17",
         "date": "2001-04-19"
     },
     "tcg": {
-        "id": 29549364,
-        "pack_id": "LON-018",
         "pack": "Labyrinth of Nightmare",
-        "rarity": "Mask of Restrict",
+        "pack_id": "LON-018",
         "date": "2003-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e2/MaskofRestrict-OP02-EN-SR-UE.png"

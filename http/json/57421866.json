@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 57421866,
-        "pack_id": "SOVR-JP005",
         "pack": "Stardust Overdrive",
-        "rarity": "Level Eater",
+        "pack_id": "SOVR-JP005",
         "date": "2009-07-18"
     },
     "tcg": {
-        "id": 57421866,
-        "pack_id": "SOVR-DE005",
         "pack": "Stardust Overdrive",
-        "rarity": "Level Eater",
+        "pack_id": "SOVR-DE005",
         "date": "2009-11-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/LevelEater-SR01-EN-C-1E.png"

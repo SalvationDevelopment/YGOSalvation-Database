@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 54135423,
-        "pack_id": "CPF1-JP033",
         "pack": "Collectors Pack: Duelist of Flash Version",
-        "rarity": "Flower Cardian Willow",
+        "pack_id": "CPF1-JP033",
         "date": "2016-05-14"
     },
     "tcg": {
-        "id": 54135423,
-        "pack_id": "DRL3-DE033",
         "pack": "Dragons of Legend: Unleashed",
-        "rarity": "Flower Cardian Willow",
+        "pack_id": "DRL3-DE033",
         "date": "2016-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b5/FlowerCardianWillow-DRL3-EN-UR-1E.png"

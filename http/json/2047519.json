@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 2047519,
-        "pack_id": "LE4-006",
         "pack": "Limited Edition 4",
-        "rarity": "Hidden Soldiers",
+        "pack_id": "LE4-006",
         "date": "2002-05-28"
     },
     "tcg": {
-        "id": 2047519,
-        "pack_id": "SP02-EN003",
         "pack": "Power of the Duelist Sneak Peek Participation Card",
-        "rarity": "Hidden Soldiers",
+        "pack_id": "SP02-EN003",
         "date": "2006-08-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/47/HiddenSoldiers-LCYW-EN-R-1E.png"

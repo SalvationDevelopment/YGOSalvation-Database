@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 32750510,
-        "pack_id": "VJMP-JP023",
         "pack": "V Jump Spring 2007 subscription bonus",
-        "rarity": "Ice Master",
+        "pack_id": "VJMP-JP023",
         "date": "2007-03-21"
     },
     "tcg": {
-        "id": 32750510,
-        "pack_id": "TDGS-EN097",
         "pack": "The Duelist Genesis",
-        "rarity": "Ice Master",
+        "pack_id": "TDGS-EN097",
         "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4b/IceMaster-LCGX-EN-C-1E.png"

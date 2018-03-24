@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58369990,
-        "pack_id": "EP15-JP050",
         "pack": "Extra Pack 2015",
-        "rarity": "Doomstar Magician",
+        "pack_id": "EP15-JP050",
         "date": "2015-09-19"
     },
     "tcg": {
-        "id": 58369990,
-        "pack_id": "DUEA-DE081",
         "pack": "Duelist Alliance",
-        "rarity": "Doomstar Magician",
+        "pack_id": "DUEA-DE081",
         "date": "2014-08-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9c/DoomstarMagician-PEVO-EN-SR-1E.png"

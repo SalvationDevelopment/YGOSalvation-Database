@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 15939448,
-        "pack_id": "TF04-JPB01",
         "pack": "Yu-Gi-Oh! 5D's Tag Force 4 Complete Tag Duel promotional card",
-        "rarity": "Shield Worm",
+        "pack_id": "TF04-JPB01",
         "date": "2009-09-17"
     },
     "tcg": {
-        "id": 15939448,
-        "pack_id": "ABPF-DE099",
         "pack": "Absolute Powerforce",
-        "rarity": "Shield Worm",
+        "pack_id": "ABPF-DE099",
         "date": "2010-02-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fb/ShieldWorm-ABPF-EN-R-1E.png"

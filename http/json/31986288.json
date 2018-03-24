@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 31986288,
-        "pack_id": "PTDN-JP005",
         "pack": "Phantom Darkness",
-        "rarity": "Regenerating Rose",
+        "pack_id": "PTDN-JP005",
         "date": "2007-11-23"
     },
     "tcg": {
-        "id": 31986288,
-        "pack_id": "PTDN-DE005",
         "pack": "Phantom Darkness",
-        "rarity": "Regenerating Rose",
+        "pack_id": "PTDN-DE005",
         "date": "2008-01-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/48/RegeneratingRose-PTDN-EN-C-1E.jpg"

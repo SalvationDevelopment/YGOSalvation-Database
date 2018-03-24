@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 10035717,
-        "pack_id": "308-041",
         "pack": "The Sanctuary in the Sky",
-        "rarity": "Weapon Change",
+        "pack_id": "308-041",
         "date": "2003-11-20"
     },
     "tcg": {
-        "id": 10035717,
-        "pack_id": "AST-DE041",
         "pack": "Ancient Sanctuary",
-        "rarity": "Weapon Change",
+        "pack_id": "AST-DE041",
         "date": "2004-05-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d1/WeaponChange-SD10-EN-C-UE.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 21155323,
-        "pack_id": "TAEV-JP023",
         "pack": "Tactical Evolution",
-        "rarity": "Goggle Golem",
+        "pack_id": "TAEV-JP023",
         "date": "2007-05-12"
     },
     "tcg": {
-        "id": 21155323,
-        "pack_id": "TAEV-FR023",
         "pack": "Tactical Evolution",
-        "rarity": "Goggle Golem",
+        "pack_id": "TAEV-FR023",
         "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ed/GoggleGolem-TAEV-EN-C-1E.jpg"

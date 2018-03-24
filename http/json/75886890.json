@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 75886890,
-        "pack_id": "DT11-JP019",
-        "pack": "DT11",
-        "rarity": "Vylon Sphere",
-        "date": "2012-11-07"
-    },
+    "ocg": {},
     "tcg": {
-        "id": 75886890,
-        "pack_id": "DT06-EN019",
         "pack": "Duel Terminal 6a",
-        "rarity": "Vylon Sphere",
+        "pack_id": "DT06-EN019",
         "date": "2012-02-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/65/VylonSphere-HA06-EN-SR-1E.png"

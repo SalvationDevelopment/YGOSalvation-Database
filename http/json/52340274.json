@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 52340274,
-        "pack_id": "REDU-JP056",
         "pack": "Return of the Duelist",
-        "rarity": "Galaxy Queen's Light",
+        "pack_id": "REDU-JP056",
         "date": "2012-04-14"
     },
     "tcg": {
-        "id": 52340274,
-        "pack_id": "REDU-EN056",
         "pack": "Return of the Duelist",
-        "rarity": "Galaxy Queen's Light",
+        "pack_id": "REDU-EN056",
         "date": "2012-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8e/GalaxyQueensLight-REDU-EN-C-1E.png"

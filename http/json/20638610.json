@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 20638610,
-        "pack_id": "SD22-KR035",
         "pack": "Structure Deck: Dragonic Legion",
-        "rarity": "Dragon's Rebirth",
+        "pack_id": "SD22-KR035",
         "date": "2011-03-06"
     },
     "tcg": {
-        "id": 20638610,
-        "pack_id": "SDDC-DE036",
         "pack": "Dragons Collide Structure Deck",
-        "rarity": "Dragon's Rebirth",
+        "pack_id": "SDDC-DE036",
         "date": "2012-02-02"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/DragonsRebirth-SR02-EN-C-1E.png"

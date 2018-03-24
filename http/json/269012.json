@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 269012,
-        "pack_id": "CPL1-JP025",
         "pack": "Collectors Pack: Duelist of Legend Version",
-        "rarity": "Mound of the Bound Creator",
+        "pack_id": "CPL1-JP025",
         "date": "2014-05-17"
     },
     "tcg": {
-        "id": 269012,
-        "pack_id": "DRLG-DE025",
         "pack": "Dragons of Legend",
-        "rarity": "Mound of the Bound Creator",
+        "pack_id": "DRLG-DE025",
         "date": "2014-04-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8d/MoundoftheBoundCreator-DRL3-EN-UR-1E.png"

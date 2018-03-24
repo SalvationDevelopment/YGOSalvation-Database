@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 15658249,
-        "pack_id": "DT01-JP027",
         "pack": "Duel Terminal - Synchro Awakening!!",
-        "rarity": "Worm Barses",
+        "pack_id": "DT01-JP027",
         "date": "2008-04-12"
     },
     "tcg": {
-        "id": 15658249,
-        "pack_id": "HA01-DE018",
         "pack": "Hidden Arsenal",
-        "rarity": "Worm Barses",
+        "pack_id": "HA01-DE018",
         "date": "2009-11-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/59/WormBarses-BP01-EN-C-1E.png"

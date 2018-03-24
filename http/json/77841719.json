@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 77841719,
-        "pack_id": "DT14-JP028",
         "pack": "Duel Terminal - Ouroboros, Wicked Dragon of Destruction!!",
-        "rarity": "Evilswarm Coppelia",
+        "pack_id": "DT14-JP028",
         "date": "2012-01-24"
     },
     "tcg": {
-        "id": 77841719,
-        "pack_id": "DT07-EN078",
         "pack": "Duel Terminal 7b",
-        "rarity": "Evilswarm Coppelia",
+        "pack_id": "DT07-EN078",
         "date": "2013-02-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bb/EvilswarmCoppelia-HA07-EN-SR-1E.png"

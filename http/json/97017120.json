@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 97017120,
-        "pack_id": "PS-28",
         "pack": "Pharaoh's Servant",
-        "rarity": "Giant Rat",
+        "pack_id": "PS-28",
         "date": "2000-07-13"
     },
     "tcg": {
-        "id": 97017120,
-        "pack_id": "SYE-020",
         "pack": "Starter Deck: Yugi Evolution",
-        "rarity": "Giant Rat",
+        "pack_id": "SYE-020",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/35/GiantRat-YS16-EN-C-1E.png"

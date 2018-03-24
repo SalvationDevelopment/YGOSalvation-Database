@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 33282498,
-        "pack_id": "SR02-JP000",
         "pack": "Structure Deck R: Revival of the Great Divine Dragon",
-        "rarity": "Arkbrave Dragon",
+        "pack_id": "SR02-JP000",
         "date": "2016-02-06"
     },
     "tcg": {
-        "id": 33282498,
-        "pack_id": "SR02-DE000",
         "pack": "Rise of the True Dragons Structure Deck",
-        "rarity": "Arkbrave Dragon",
+        "pack_id": "SR02-DE000",
         "date": "2016-07-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/85/ArkbraveDragon-SR02-EN-UR-1E.png"

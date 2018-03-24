@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 55326322,
-        "pack_id": "INOV-JP020",
         "pack": "Invasion: Vengeance",
-        "rarity": "Crystron Rosenix",
+        "pack_id": "INOV-JP020",
         "date": "2016-07-09"
     },
     "tcg": {
-        "id": 55326322,
-        "pack_id": "INOV-DE020",
         "pack": "Invasion: Vengeance",
-        "rarity": "Crystron Rosenix",
+        "pack_id": "INOV-DE020",
         "date": "2016-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3c/CrystronRosenix-MP17-EN-C-1E.png"

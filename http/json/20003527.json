@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 20003527,
-        "pack_id": "GLAS-JP007",
         "pack": "Gladiator's Assault",
-        "rarity": "Cloudian - Nimbusman",
+        "pack_id": "GLAS-JP007",
         "date": "2007-07-21"
     },
     "tcg": {
-        "id": 20003527,
-        "pack_id": "GLAS-IT007",
         "pack": "Gladiator's Assault",
-        "rarity": "Cloudian - Nimbusman",
+        "pack_id": "GLAS-IT007",
         "date": "2007-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6a/CloudianNimbusman-GLAS-EN-C-1E.png"

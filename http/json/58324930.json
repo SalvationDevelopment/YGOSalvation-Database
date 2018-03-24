@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58324930,
-        "pack_id": "STBL-JP036",
         "pack": "Starstrike Blast",
-        "rarity": "Anarchist Monk Ranshin",
+        "pack_id": "STBL-JP036",
         "date": "2010-07-17"
     },
     "tcg": {
-        "id": 58324930,
-        "pack_id": "STBL-EN036",
         "pack": "Starstrike Blast",
-        "rarity": "Anarchist Monk Ranshin",
+        "pack_id": "STBL-EN036",
         "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c3/AnarchistMonkRanshin-BP02-EN-C-1E.png"

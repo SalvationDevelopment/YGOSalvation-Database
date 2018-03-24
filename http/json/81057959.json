@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 81057959,
-        "pack_id": "",
         "pack": "Vol.4",
-        "rarity": "D. Human",
+        "pack_id": "",
         "date": "1999-07-22"
     },
     "tcg": {
-        "id": 81057959,
-        "pack_id": "SDK-030",
         "pack": "Starter Deck: Kaiba",
-        "rarity": "D. Human",
+        "pack_id": "SDK-030",
         "date": "2002-03-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3e/DHuman-SDK-NA-C-UE.png"

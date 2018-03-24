@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 77205367,
-        "pack_id": "SHSP-JP046",
         "pack": "Shadow Specters",
-        "rarity": "Number C96: Dark Storm",
+        "pack_id": "SHSP-JP046",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 77205367,
-        "pack_id": "SHSP-DE046",
         "pack": "Shadow Specters",
-        "rarity": "Number C96: Dark Storm",
+        "pack_id": "SHSP-DE046",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/98/NumberC96DarkStorm-SHSP-EN-SR-UE.png"

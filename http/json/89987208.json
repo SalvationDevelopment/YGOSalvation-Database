@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 89987208,
-        "pack_id": "",
         "pack": "Vol.7",
-        "rarity": "共通",
+        "pack_id": "",
         "date": "2000-01-27"
     },
     "tcg": {
-        "id": 89987208,
-        "pack_id": "LCJW-DE019",
         "pack": "Legendary Collection 4: Joey's World Mega Pack",
-        "rarity": "Hero of the East",
+        "pack_id": "LCJW-DE019",
         "date": "2013-10-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dd/HerooftheEast-LCJW-EN-C-1E.png"

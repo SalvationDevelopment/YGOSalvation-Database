@@ -30,18 +30,10 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "id": 57272170,
-        "pack_id": "DT10-JP035",
-        "pack": "デュエルターミナル 「インヴェルズの侵略！！」",
-        "rarity": "ウルトラレア仕様",
-        "date": 1280811600000
-    },
+    "ocg": {},
     "tcg": {
-        "id": 57272170,
-        "pack_id": "DT05-EN085",
         "pack": "Duel Terminal 5b",
-        "rarity": "Evigishki Soul Ogre",
+        "pack_id": "DT05-EN085",
         "date": "2011-09-29"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/aa/EvigishkiSoulOgre-HA05-EN-ScR-UE.png"

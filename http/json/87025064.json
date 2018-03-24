@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 87025064,
-        "pack_id": "SD25-JP021",
         "pack": "Structure Deck: The Blue-Eyed Dragon's Thundering Descent",
-        "rarity": "Silver's Cry",
+        "pack_id": "SD25-JP021",
         "date": "2013-06-15"
     },
     "tcg": {
-        "id": 87025064,
-        "pack_id": "SDBE-DE020",
         "pack": "Saga of Blue-Eyes White Dragon Structure Deck",
-        "rarity": "Silver's Cry",
+        "pack_id": "SDBE-DE020",
         "date": "2013-09-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a0/SilversCry-LCKC-EN-ScR-1E.png"

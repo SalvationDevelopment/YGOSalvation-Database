@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 99185129,
-        "pack_id": "SPTR-JP013",
         "pack": "Booster SP: Tribe Force",
-        "rarity": "Nekroz of Clausolas",
+        "pack_id": "SPTR-JP013",
         "date": "2014-10-11"
     },
     "tcg": {
-        "id": 99185129,
-        "pack_id": "THSF-DE013",
         "pack": "The Secret Forces",
-        "rarity": "Nekroz of Clausolas",
+        "pack_id": "THSF-DE013",
         "date": "2015-02-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/69/NekrozofClausolas-THSF-EN-ScR-1E.png"

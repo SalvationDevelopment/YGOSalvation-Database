@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 49251811,
-        "pack_id": "CA-21",
         "pack": "Curse of Anubis",
-        "rarity": "Mystic Probe",
+        "pack_id": "CA-21",
         "date": "2000-09-28"
     },
     "tcg": {
-        "id": 49251811,
-        "pack_id": "PSV-021",
         "pack": "Pharaoh's Servant",
-        "rarity": "Mystic Probe",
+        "pack_id": "PSV-021",
         "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9b/MysticProbe-PSV-EN-C-UE.jpg"

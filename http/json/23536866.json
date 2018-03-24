@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 23536866,
-        "pack_id": "PRIO-JP006",
         "pack": "Primal Origin",
-        "rarity": "Gazer Shark",
+        "pack_id": "PRIO-JP006",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 23536866,
-        "pack_id": "PRIO-DE006",
         "pack": "Primal Origin",
-        "rarity": "Gazer Shark",
+        "pack_id": "PRIO-DE006",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b4/GazerShark-PRIO-EN-C-1E.png"

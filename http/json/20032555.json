@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 20032555,
-        "pack_id": "CPZ1-JP005",
         "pack": "Collectors Pack: ZEXAL Version",
-        "rarity": "Gimmick Puppet Egg Head",
+        "pack_id": "CPZ1-JP005",
         "date": "2013-08-10"
     },
     "tcg": {
-        "id": 20032555,
-        "pack_id": "NUMH-DE005",
         "pack": "Number Hunters",
-        "rarity": "Gimmick Puppet Egg Head",
+        "pack_id": "NUMH-DE005",
         "date": "2013-07-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/GimmickPuppetEggHead-NUMH-EN-SR-UE.png"

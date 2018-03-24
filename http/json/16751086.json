@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 16751086,
-        "pack_id": "TF04-JP001",
         "pack": "Yu-Gi-Oh! 5D's Tag Force 4 Bundles",
-        "rarity": "Warm Worm",
+        "pack_id": "TF04-JP001",
         "date": "2009-09-17"
     },
     "tcg": {
-        "id": 16751086,
-        "pack_id": "TF04-EN001",
         "pack": "Yu-Gi-Oh! 5D's Tag Force 4 Bundles",
-        "rarity": "Warm Worm",
+        "pack_id": "TF04-EN001",
         "date": "2009-11-17"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/WarmWorm-TF04-NA-UR-UE.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 18511599,
-        "pack_id": "ORCS-JP045",
         "pack": "Order of Chaos",
-        "rarity": "Evolzar Solda",
+        "pack_id": "ORCS-JP045",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 18511599,
-        "pack_id": "ORCS-EN045",
         "pack": "Order of Chaos",
-        "rarity": "Evolzar Solda",
+        "pack_id": "ORCS-EN045",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/23/EvolzarSolda-ORCS-EN-UR-1E.png"

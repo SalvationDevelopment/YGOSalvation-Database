@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 40619825,
-        "pack_id": "MR-02",
         "pack": "Magic Ruler",
-        "rarity": "Axe of Despair",
+        "pack_id": "MR-02",
         "date": "2000-04-20"
     },
     "tcg": {
-        "id": 40619825,
-        "pack_id": "SYE-035",
         "pack": "Starter Deck: Yugi Evolution",
-        "rarity": "Axe of Despair",
+        "pack_id": "SYE-035",
         "date": "2004-03-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8a/AxeofDespair-YS15-EU-C-1E.png"

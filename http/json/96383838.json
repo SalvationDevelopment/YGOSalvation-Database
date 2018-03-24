@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 96383838,
-        "pack_id": "PHSW-JP059",
         "pack": "Photon Shockwave",
-        "rarity": "Tri-Wight",
+        "pack_id": "PHSW-JP059",
         "date": "2011-07-16"
     },
     "tcg": {
-        "id": 96383838,
-        "pack_id": "PHSW-DE059",
         "pack": "Photon Shockwave",
-        "rarity": "Tri-Wight",
+        "pack_id": "PHSW-DE059",
         "date": "2011-11-10"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b8/TriWight-PHSW-EN-SP-1E.png"

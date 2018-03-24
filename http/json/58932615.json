@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 58932615,
-        "pack_id": "PP8-JP002",
         "pack": "Premium Pack 8",
-        "rarity": "Elemental HERO Burstinatrix",
+        "pack_id": "PP8-JP002",
         "date": "2004-12-18"
     },
     "tcg": {
-        "id": 58932615,
-        "pack_id": "TLM-EN002",
         "pack": "The Lost Millennium",
-        "rarity": "Elemental HERO Burstinatrix",
+        "pack_id": "TLM-EN002",
         "date": "2005-05-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d4/ElementalHEROBurstinatrix-RYMP-EN-C-1E.jpg"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 50457953,
-        "pack_id": "SHSP-JP010",
         "pack": "Shadow Specters",
-        "rarity": "Mythic Tree Dragon",
+        "pack_id": "SHSP-JP010",
         "date": "2013-07-20"
     },
     "tcg": {
-        "id": 50457953,
-        "pack_id": "SHSP-DE010",
         "pack": "Shadow Specters",
-        "rarity": "Mythic Tree Dragon",
+        "pack_id": "SHSP-DE010",
         "date": "2013-11-07"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2f/MythicTreeDragon-MP14-EN-C-1E.png"

@@ -34,10 +34,8 @@
     ],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 101002043,
-        "pack_id": "CIBR-JP043",
         "pack": "Circuit Break",
-        "rarity": "Link Bumper",
+        "pack_id": "CIBR-JP043",
         "date": "2017-07-08"
     },
     "tcg": {

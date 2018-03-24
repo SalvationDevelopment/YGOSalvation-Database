@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 66938505,
-        "pack_id": "RATE-JP020",
         "pack": "Raging Tempest",
-        "rarity": "Crystron Rion",
+        "pack_id": "RATE-JP020",
         "date": "2016-10-08"
     },
     "tcg": {
-        "id": 66938505,
-        "pack_id": "INOV-DESE3",
         "pack": "Invasion: Vengeance Special Edition",
-        "rarity": "Crystron Rion",
+        "pack_id": "INOV-DESE3",
         "date": "2016-12-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ab/CrystronRion-MP17-EN-C-1E.png"

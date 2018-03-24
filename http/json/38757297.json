@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 38757297,
-        "pack_id": "ORCS-JP010",
         "pack": "Order of Chaos",
-        "rarity": "Photon Leo",
+        "pack_id": "ORCS-JP010",
         "date": "2011-11-19"
     },
     "tcg": {
-        "id": 38757297,
-        "pack_id": "ORCS-EN010",
         "pack": "Order of Chaos",
-        "rarity": "Photon Leo",
+        "pack_id": "ORCS-EN010",
         "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/13/PhotonLeo-ORCS-EN-C-UE.png"

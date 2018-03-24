@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 61948106,
-        "pack_id": "SECE-JP056",
         "pack": "Secrets of Eternity",
-        "rarity": "Gottoms' Second Call",
+        "pack_id": "SECE-JP056",
         "date": "2014-11-15"
     },
     "tcg": {
-        "id": 61948106,
-        "pack_id": "SECE-DE056",
         "pack": "Secrets of Eternity",
-        "rarity": "Gottoms' Second Call",
+        "pack_id": "SECE-DE056",
         "date": "2015-01-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/35/GottomsSecondCall-SECE-EN-R-1E.png"

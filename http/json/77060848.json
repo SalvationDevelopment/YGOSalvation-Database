@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 77060848,
-        "pack_id": "STOR-JP015",
         "pack": "Storm of Ragnarok",
-        "rarity": "Svartalf of the Nordic Alfar",
+        "pack_id": "STOR-JP015",
         "date": "2010-11-13"
     },
     "tcg": {
-        "id": 77060848,
-        "pack_id": "STOR-EN015",
         "pack": "Storm of Ragnarok",
-        "rarity": "Svartalf of the Nordic Alfar",
+        "pack_id": "STOR-EN015",
         "date": "2011-02-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a6/SvartalfoftheNordicAlfar-LC5D-EN-UR-1E.png"

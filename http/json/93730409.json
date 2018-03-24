@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 93730409,
-        "pack_id": "EOJ-JP025",
         "pack": "Enemy of Justice",
-        "rarity": "共通",
+        "pack_id": "EOJ-JP025",
         "date": "2006-02-16"
     },
     "tcg": {
-        "id": 93730409,
-        "pack_id": "EOJ-DE025",
         "pack": "Enemy of Justice",
-        "rarity": "Common",
+        "pack_id": "EOJ-DE025",
         "date": "2006-05-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/17/WhirlwindWeasel-DR04-NA-C-UE.png"

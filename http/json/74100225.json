@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 74100225,
-        "pack_id": "PRIO-JP077",
         "pack": "Primal Origin",
-        "rarity": "Evo-Singularity",
+        "pack_id": "PRIO-JP077",
         "date": "2014-02-15"
     },
     "tcg": {
-        "id": 74100225,
-        "pack_id": "PRIO-DE077",
         "pack": "Primal Origin",
-        "rarity": "Evo-Singularity",
+        "pack_id": "PRIO-DE077",
         "date": "2014-05-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/EvoSingularity-PRIO-EN-C-1E.png"

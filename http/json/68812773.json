@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 68812773,
-        "pack_id": "CPL1-JP049",
         "pack": "Collectors Pack: Duelist of Legend Version",
-        "rarity": "Lillybot",
+        "pack_id": "CPL1-JP049",
         "date": "2014-05-17"
     },
     "tcg": {
-        "id": 68812773,
-        "pack_id": "DRLG-DE050",
         "pack": "Dragons of Legend",
-        "rarity": "Lillybot",
+        "pack_id": "DRLG-DE050",
         "date": "2014-04-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e2/Lillybot-DRLG-EN-SR-1E.png"

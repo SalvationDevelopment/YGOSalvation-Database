@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 17775525,
-        "pack_id": "CP17-JP011",
         "pack": "Collectors Pack 2017",
-        "rarity": "Superheavy Samurai Steam Fiend Tetsudo'o",
+        "pack_id": "CP17-JP011",
         "date": "2017-05-13"
     },
     "tcg": {
-        "date": "2017-07-06",
         "pack": "Battles of Legend: Light's Revenge",
-        "pack_id": "BLLR-DE011"
+        "pack_id": "BLLR-DE011",
+        "date": "2017-07-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/14/SuperheavySamuraiSteamTrainKing-BLLR-EN-UR-1E.png"
 }

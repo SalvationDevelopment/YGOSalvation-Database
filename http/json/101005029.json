@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 4227072,
     "name": "Ruin, Graceful Queen of Oblivion",
-    "desc": "You can Ritual Summon this card with \"Endless of the World\". This card's name becomes \"Ruin, Queen of Oblivion\" while on the field or in the hand. While this Ritual Summoned card is on the field, Ritual Monsters you control cannot be destroyed by card effects. If this card was Ritual Summoned using only Ritual Monsters, it can make a second attack during each Battle Phase. If this card destroys an opponent's monster by battle: You can inflict damage to your opponent equal to that monster's original ATK.",
+    "desc": "You can Ritual Summon this card with \"Endless of the World\". This card's name becomes \"Ruin, Queen of Oblivion\" while in the hand or on the field. Ritual Monsters you control cannot be destroyed by card effects. If this card was Ritual Summoned using only Ritual Monsters, it can make a second attack during each Battle Phase. If this card destroys a monster by battle: You can inflict damage to your opponent equal to that monster's original ATK.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP029",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e9/RuinGracefulQueenofOblivion-CYHO-JP-OP.png"
 }

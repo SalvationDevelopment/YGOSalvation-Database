@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 71971554,
-        "pack_id": "YSD4-JP006",
         "pack": "Starter Deck 2009",
-        "rarity": "Road Synchron",
+        "pack_id": "YSD4-JP006",
         "date": "2009-03-14"
     },
     "tcg": {
-        "id": 71971554,
-        "pack_id": "5DS2-EN006",
         "pack": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
-        "rarity": "Road Synchron",
+        "pack_id": "5DS2-EN006",
         "date": "2009-06-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a0/RoadSynchron-LC5D-EN-C-1E.png"

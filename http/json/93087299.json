@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 93087299,
-        "pack_id": "ST13-JP021",
         "pack": "Starter Deck 2013",
-        "rarity": "Swords of Burning Light",
+        "pack_id": "ST13-JP021",
         "date": "2013-03-16"
     },
     "tcg": {
-        "id": 93087299,
-        "pack_id": "YS13-DE021",
         "pack": "Super Starter: V for Victory",
-        "rarity": "Swords of Burning Light",
+        "pack_id": "YS13-DE021",
         "date": "2013-06-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b9/SwordsofBurningLight-YS13-EN-C-1E.png"

@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 35631584,
-        "pack_id": "DT13-JP045",
         "pack": "Duel Terminal - Sacred Star Knights!!",
-        "rarity": "Constellar Star Chart",
+        "pack_id": "DT13-JP045",
         "date": "2011-10-04"
     },
     "tcg": {
-        "id": 35631584,
-        "pack_id": "DT07-EN045",
         "pack": "Duel Terminal 7a",
-        "rarity": "Constellar Star Chart",
+        "pack_id": "DT07-EN045",
         "date": "2012-09-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/41/ConstellarStarChart-HA07-EN-ScR-1E.png"

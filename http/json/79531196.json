@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 79531196,
-        "pack_id": "CORE-JP012",
         "pack": "Clash of Rebellions",
-        "rarity": "Crystal Rose",
+        "pack_id": "CORE-JP012",
         "date": "2015-04-25"
     },
     "tcg": {
-        "id": 79531196,
-        "pack_id": "CORE-DE012",
         "pack": "Clash of Rebellions",
-        "rarity": "Crystal Rose",
+        "pack_id": "CORE-DE012",
         "date": "2015-08-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4c/CrystalRose-SP17-EN-C-1E.png"

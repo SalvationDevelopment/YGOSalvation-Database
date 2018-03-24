@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 93543806,
-        "pack_id": "CPZ1-JP004",
         "pack": "Collectors Pack: ZEXAL Version",
-        "rarity": "Chronomaly Sol Monolith",
+        "pack_id": "CPZ1-JP004",
         "date": "2013-08-10"
     },
     "tcg": {
-        "id": 93543806,
-        "pack_id": "NUMH-DE004",
         "pack": "Number Hunters",
-        "rarity": "Chronomaly Sol Monolith",
+        "pack_id": "NUMH-DE004",
         "date": "2013-07-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2d/ChronomalySolMonolith-NUMH-EN-SR-UE.png"

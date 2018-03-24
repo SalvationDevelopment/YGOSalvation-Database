@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 25862681,
-        "pack_id": "ANPR-JP040",
         "pack": "Ancient Prophecy",
-        "rarity": "Ancient Fairy Dragon",
+        "pack_id": "ANPR-JP040",
         "date": "2009-04-18"
     },
     "tcg": {
-        "id": 25862681,
-        "pack_id": "CT06-EN002",
         "pack": "Collectible Tins 2009 Wave 1",
-        "rarity": "Ancient Fairy Dragon",
+        "pack_id": "CT06-EN002",
         "date": "2009-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8e/AncientFairyDragon-LCKC-EN-UR-1E.png"

@@ -2,7 +2,7 @@
     "id": 26077387,
     "ot": 1,
     "alias": 0,
-    "setcode": 4373,
+    "setcode": 18157845,
     "type": 33,
     "atk": 1500,
     "def": 1500,
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Deck Build Pack: Dark Savers",
+        "pack_id": "DBDS-JP029",
+        "date": "2018-02-24"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/07/BrandishMaidenRei-DBDS-JP-C.png"
 }

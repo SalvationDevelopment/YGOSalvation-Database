@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 3779662,
-        "pack_id": "CP17-JP026",
         "pack": "Collectors Pack 2017",
-        "rarity": "Gladiator Beast Andabatae\n",
+        "pack_id": "CP17-JP026",
         "date": "2017-05-13"
     },
     "tcg": {
-        "date": "2017-07-06",
         "pack": "Battles of Legend: Light's Revenge",
-        "pack_id": "BLLR-DE022"
+        "pack_id": "BLLR-DE022",
+        "date": "2017-07-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/GladiatorBeastAndabata-BLLR-EN-UR-1E.png"
 }

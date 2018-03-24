@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 53829412,
-        "pack_id": "",
         "pack": "Vol.6",
-        "rarity": "Griffore",
+        "pack_id": "",
         "date": "1999-11-18"
     },
     "tcg": {
-        "id": 53829412,
-        "pack_id": "YGLD-DEA13",
         "pack": "Yugi's Legendary Decks",
-        "rarity": "Griffore",
+        "pack_id": "YGLD-DEA13",
         "date": "2015-11-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/87/Griffore-YGLD-EN-C-1E.png"

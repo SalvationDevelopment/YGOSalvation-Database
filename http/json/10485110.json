@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 10485110,
-        "pack_id": "SD4-JP001",
         "pack": "Structure Deck: Fury from the Deep",
-        "rarity": "Ocean Dragon Lord - Neo-Daedalus",
+        "pack_id": "SD4-JP001",
         "date": "2005-01-20"
     },
     "tcg": {
-        "id": 10485110,
-        "pack_id": "SD4-DE001",
         "pack": "Structure Deck: Fury from the Deep",
-        "rarity": "Ocean Dragon Lord - Neo-Daedalus",
+        "pack_id": "SD4-DE001",
         "date": "2005-05-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/47/OceanDragonLordNeoDaedalus-WCPP-EN-R-LE.png"

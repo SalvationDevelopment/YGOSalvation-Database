@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 1828513,
-        "pack_id": "EP12-JP041",
         "pack": "Extra Pack 2012",
-        "rarity": "Shadow of the Six Samurai - Shien",
+        "pack_id": "EP12-JP041",
         "date": "2012-10-13"
     },
     "tcg": {
-        "id": 1828513,
-        "pack_id": "SDWA-DE041",
         "pack": "Samurai Warlords Structure Deck",
-        "rarity": "Shadow of the Six Samurai - Shien",
+        "pack_id": "SDWA-DE041",
         "date": "2012-06-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b8/ShadowoftheSixSamuraiShien-SPWA-EN-SR-1E.png"

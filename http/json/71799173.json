@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 71799173,
-        "pack_id": "EXP2-JP001",
         "pack": "Extra Pack Volume 2",
-        "rarity": "Guardian of Order",
+        "pack_id": "EXP2-JP001",
         "date": "2009-09-19"
     },
     "tcg": {
-        "id": 71799173,
-        "pack_id": "LODT-DESP1",
         "pack": "Light of Destruction Sneak Peek Participation Card",
-        "rarity": "Guardian of Order",
+        "pack_id": "LODT-DESP1",
         "date": "2008-05-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2f/GuardianofOrder-LODT-EN-ScR-1E.png"

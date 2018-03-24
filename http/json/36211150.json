@@ -31,16 +31,14 @@
     "links": [],
     "cardpool": "OCG Prerelease",
     "ocg": {
-        "id": 36211150,
-        "pack_id": "ST17-JP001",
         "pack": "Starter Deck 2017",
-        "rarity": "Bittron",
+        "pack_id": "ST17-JP001",
         "date": "2017-03-25"
     },
     "tcg": {
-        "date": "2017-07-20",
         "pack": "Starter Deck: Link Strike",
-        "pack_id": "YS17-DE001"
+        "pack_id": "YS17-DE001",
+        "date": "2017-07-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2d/Bitron-YS17-EN-C-1E.png"
 }

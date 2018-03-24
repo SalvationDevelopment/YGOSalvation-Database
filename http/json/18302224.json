@@ -31,17 +31,13 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "id": 18302224,
-        "pack_id": "TAEV-JP046",
         "pack": "Tactical Evolution",
-        "rarity": "Reverse of Neos",
+        "pack_id": "TAEV-JP046",
         "date": "2007-05-12"
     },
     "tcg": {
-        "id": 18302224,
-        "pack_id": "TAEV-FR046",
         "pack": "Tactical Evolution",
-        "rarity": "Reverse of Neos",
+        "pack_id": "TAEV-FR046",
         "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/42/ReverseofNeos-DP06-EN-C-1E.png"
