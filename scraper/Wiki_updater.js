@@ -1,7 +1,7 @@
 var scraperjs = require('scraperjs'),
     jsonfile = require('jsonfile'),
-    fs = require("fs"),
-    async = require("async"),
+    fs = require('fs'),
+    async = require('async'),
     //sleep = require('sleep'),
     input_file = require('./updater_input.json'),
     SETCODES = require('./utility/setcode.json'),
@@ -13,8 +13,8 @@ var scraperjs = require('scraperjs'),
 async.eachLimit(input_file, 100, function(line, next) {
     var filename = json_path + String(line) + '.json';
     try {
-        var card_json = jsonfile.readFileSync(filename);
-        wiki_url = card_json.name;
+        var card_json = jsonfile.readFileSync(filename),
+            wiki_url = card_json.name;
         json_create(card_json, wiki_url, filename, next);
     } catch (e) {
         console.log('failed', line);
@@ -28,7 +28,7 @@ function bad_pages() {
             try {
                 var filename = json_path + String(line) + '.json';
                 var card_json = jsonfile.readFileSync(filename);
-                console.log("Retrying: " + card_json.name);
+                console.log('Retrying: ' + card_json.name);
                 if (card_json.tcg.pack_id != undefined) {
                     wiki_url = card_json.tcg.pack_id;
                 } else if (card_json.ocg.pack_id != undefined) {
@@ -55,7 +55,7 @@ function json_create(card_json, wiki_url, filename, next) {
             try {
                 jQuery_data($);
                 card_json.tcg = {};
-                card_json.ocg = {};                
+                card_json.ocg = {};
                 if (card.tcg_list != undefined) {
                     card.tcg_list = card.tcg_list.trim().split('\n');
                     card_json.tcg.pack = card.tcg_list[2].trim();
@@ -72,7 +72,7 @@ function json_create(card_json, wiki_url, filename, next) {
                     old_id = card_json.id;
                     card_json.id = parseInt(card.Passcode);
                     fs.rename(filename, json_path + String(card_json.id) + '.json', function(err) {
-                        if (err) console.log('ERROR: ' + err);
+                        if (err) { console.log('ERROR: ' + err); }
                     });
                     filename = json_path + String(card_json.id) + '.json';
                     id_update[old_id] = card_json.id;
@@ -83,7 +83,7 @@ function json_create(card_json, wiki_url, filename, next) {
                 if (card_json.type !== 16401 || card.desc.includes('Special Summon')) {
                     card_json.desc = card.desc;
                 } else {
-                    card_json.desc = "Special Summoned with the effect of " + card['Summoned by the effect of'].trim();
+                    card_json.desc = 'Special Summoned with the effect of ' + card['Summoned by the effect of'].trim();
                 }
                 if (card.Types && card.Types.split(' / ')[1] == 'Link') {
                     markers = card['Link Arrows'].replace('Top-Left', '[🡴]').replace('Top-Right', '[🡵]').replace('Bottom-Left', '[🡷]').replace('Bottom-Right', '[🡶]').replace('Top', '[🡱]').replace('Bottom', '[🡳]').replace('Left', '[🡰]').replace('Right', '[🡲]').replace(/\s,\s/g, '').trim();
@@ -123,7 +123,7 @@ function json_create(card_json, wiki_url, filename, next) {
                 fs.writeFileSync(filename, JSON.stringify(card_json, null, 4));
                 markers = undefined;
             } catch (error) {
-                console.log("\tProblem with " + card_json.id + " " + card_json.name + '\n\t' + error);
+                console.log('\tProblem with ' + card_json.id + ' ' + card_json.name + '\n\t' + error);
                 bad_page.push(card_json.id);
                 fs.writeFileSync('./utility/bad_page.json', JSON.stringify(bad_page, null, 4));
                 bad_pages();
@@ -136,13 +136,13 @@ function json_create(card_json, wiki_url, filename, next) {
 function jQuery_data($) {
     // General card info
     card = {};
-    $(".cardtablerowheader").each(function() {
+    $('.cardtablerowheader').each(function() {
         return $(this).each(function(index) {
             card[$(this).text()] = $(this).next().text();
         });
     });
-    card.desc = $(".navbox-list").eq(0).html().replace(/\<br\>/g, '\n').replace(/<.*?>/g, '').replace(/&apos;/g, "'").replace(/&quot;/g, '"').replace(/&gt;/g, '>').replace(/&lt;/g, '<').replace(/&amp;/g, '&').replace(/&#x2019;/g, "'").replace(/&#x25CF;/g, "●").replace(/\n /g, "\n").trim();
-    card.picture = $(".cardtable-cardimage").eq(0).html().match(/<a href=\"(.*?)\/revision/)[1];
+    card.desc = $('.navbox-list').eq(0).html().replace(/\<br\>/g, '\n').replace(/<.*?>/g, '').replace(/&apos;/g, '\'').replace(/&quot;/g, '"').replace(/&gt;/g, '>').replace(/&lt;/g, '<').replace(/&amp;/g, '&').replace(/&#x2019;/g, '\'').replace(/&#x25CF;/g, '●').replace(/\n /g, '\n').trim();
+    card.picture = $('.cardtable-cardimage').eq(0).html().match(/<a href=\"(.*?)\/revision/)[1];
     // Setcode operation
     setcode_arr = [];
     $('dt').filter(function() {
