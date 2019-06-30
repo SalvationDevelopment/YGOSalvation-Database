@@ -23,5 +23,11 @@
  "Divine-Beast": 2097152,
  "Creator God": 4194304,
  "Wyrm": 8388608,
- "Cyberse": 16777216
+ "Cyberse": 16777216,
+ "Ritual": 128,
+ "Quick-Play": 65536,
+ "Continuous": 131072,
+ "Equip": 262144,
+ "Field": 524288,
+ "Counter": 1048576
 }

@@ -1,0 +1,20 @@
+{
+    "id": "86605184",
+    "name": "Firewall Guardian",
+    "type": 33,
+    "desc": "If this card is sent to the GY as Link Material for the Link Summon of a Cyberse monster: You can Special Summon this card, but banish it when it leaves the field. When an attack is declared involving your Link Monster and an opponent's Link Monster: You can banish this card from your GY; negate that attack, and if you do, until the end of this turn, the original ATK of that opponent's monster becomes 0, also it is unaffected by card effects, except its own. You can only use each effect of \"Firewall Guardian\" once per turn.",
+    "atk": 100,
+    "def": 2000,
+    "level": 4,
+    "race": 16777216,
+    "attribute": 32,
+    "setcode": 0,
+    "card_sets": [
+        {
+            "set_name": "Dark Neostorm",
+            "set_code": "DANE-EN001",
+            "set_rarity": "Common",
+            "set_price": "0.69"
+        }
+    ]
+}
