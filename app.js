@@ -134,8 +134,8 @@ function cdbRoute(request, response, next) {
             response.write(JSON.stringify(error) + '\r\n\r\n');
         }
         response.write(JSON.stringify(stdout) + '\r\n\r\n');
-        jsonGenerator.generateCDB({}, response, function(){
-            
+        jsonGenerator.generateCDB({}, response, function() {
+
         });
     });
 }
