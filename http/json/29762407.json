@@ -31,14 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "pack": "Yu-Gi-Oh! Duel Monsters VI: Expert 2 Game Guide 1 Promos",
+        "pack": "Yu-Gi-Oh! Duel Monsters VI: Expert 2 Game Guide 1 promotional card",
         "pack_id": "G6-B1",
         "date": "2001-12-20"
     },
-    "tcg": {
-        "pack": "Structure Deck: Marik",
-        "pack_id": "SDMA-DE038",
-        "date": "2010-10-14"
-    },
+    "tcg": {},
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f5/TempleoftheKings-DPRP-EN-C-1E.png"
 }

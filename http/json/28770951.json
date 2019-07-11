@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Galaxy Cleric",
-    "desc": "If this card is in your hand: You can target 1 \"Photon\" or \"Galaxy\" Xyz Monster you control; attach this card to it as material. If this card is Normal or Special Summoned: You can target 5 \"Photon\" and/or \"Galaxy\" cards with different names in your GY; shuffle them into the Deck, then draw 2 cards. You can only use 1 \"Galaxy Cleric\" effect per turn, and only once that turn.",
+    "desc": "If this card is in your hand: You can target 1 &#x201C;Photon&#x201D; or &#x201C;Galaxy&#x201D; Xyz Monster you control; attach this card to it as material. If this card is Normal or Special Summoned: You can target 5 &#x201C;Photon&#x201D; and/or &#x201C;Galaxy&#x201D; cards with different names in your GY; shuffle them into the Deck, then draw 2 cards. You can only use 1 &#x201C;Galaxy Cleric&#x201D; effect per turn, and only once that turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-EN010",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP010",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d0/GalaxyCleric-SOFU-EN-C-1E.png"
 }

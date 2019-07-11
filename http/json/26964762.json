@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Destiny HERO - Dark Angel",
-    "desc": "If you have 3 or more \"Destiny HERO\" monsters in your Graveyard: You can discard this card, then target 1 \"Destiny HERO\" monster in your Graveyard; Special Summon it to your opponent's field in Defense Position. When a Spell Card or effect you activate resolves, negate that effect, and if you do, or if it did not have an effect, destroy that card. During your Standby Phase: You can banish this card and 1 \"Destiny HERO\" monster from your Graveyard; each player chooses 1 Normal Spell Card from their Deck, and places it on top of their Deck.",
+    "desc": "If you have 3 or more \"Destiny HERO\" monsters in your GY: You can discard this card, then target 1 \"Destiny HERO\" monster in your GY; Special Summon it to your opponent's field in Defense Position. When a Spell Card or effect you activate resolves, negate that effect, and if you do, or if it did not have an effect, destroy that card. During your Standby Phase: You can banish this card and 1 \"Destiny HERO\" monster from your GY; each player chooses 1 Normal Spell from their Deck, and places it on top of their Deck.",
     "str1": "Special Summon \"Destiny HERO\"",
     "str2": "Place 1 Normal Spell Card on the top of the deck",
     "str3": "Choose 1 Normal Spell",
@@ -40,5 +40,5 @@
         "pack_id": "DESO-DE005",
         "date": "2016-11-17"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9d/DestinyHERODarkAngel-DESO-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/66/DestinyHERODarkAngel-LEHD-EN-C-1E.png"
 }

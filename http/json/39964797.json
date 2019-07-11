@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 0,
     "name": "Crystron Quandax",
-    "desc": "1 Tuner  + 1 or more non-Tuner monsters\nDuring your opponent's Main Phase or Battle Phase, you can: Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using Materials including this card you control (this is a Quick Effect). If this Synchro Summoned card is destroyed by battle or card effect: You can target 1 \"Crystron\" monster in your Graveyard, except a Synchro Monster; Special Summon it.",
+    "desc": "1 Tuner  + 1+ non-Tuner monsters\nOnce per Chain, during your opponent's Main Phase or Battle Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using materials including this card you control. If this Synchro Summoned card is destroyed by battle or card effect: You can target 1 \"Crystron\" monster in your GY, except a Synchro Monster; Special Summon it.",
     "str1": "Synchro Summon",
     "str2": "Special Summon 1 \"Crystron\" monster",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "INOV-DE044",
         "date": "2016-11-03"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5d/CrystronQuandax-INOV-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8f/CrystronQuandax-BLRR-EN-ScR-1E.png"
 }

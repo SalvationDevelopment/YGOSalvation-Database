@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 786432,
     "name": "Spool Code",
-    "desc": "When an opponent's monster declares a direct attack while you have 3 or more Cyberse monsters in your GY: Negate the attack, then you can Special Summon up to 3 \"Spool Tokens\" (Cyberse/LIGHT/Level 1/ATK 0/DEF 0) in Defense Position. They cannot be Tributed for a Tribute Summon.",
+    "desc": "When an opponent's monster declares a direct attack while there are 3 or more Cyberse monsters in your GY; negate the attack, and if you do, Special Summon up to 3 &#x201C;Spool Tokens&#x201D; (Cyberse /LIGHT/Level 1/ATK 0 /DEF 0) in Defense Positions. They cannot be Tributed for a Tribute Summon.",
     "str1": "Special Summon Tokens?",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Structure Deck: Master Link",
+        "pack_id": "SD34-JP022",
+        "date": "2018-06-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d4/SpoolCode-SD34-JP-C.png"
 }

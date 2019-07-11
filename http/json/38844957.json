@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Urgent Ritual Art",
-    "desc": "If you control no Ritual Monsters: Banish 1 Ritual Spell Card from your hand or Graveyard; this card's effect becomes that card's effect that Ritual Summons a monster when the card is activated.",
+    "desc": "If you control no Ritual Monsters: Banish 1 Ritual Spell from your hand or GY; this card's effect becomes that card's effect that Ritual Summons a monster when the card is activated.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "DOCS-DE078",
         "date": "2015-11-05"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d1/UrgentRitualArt-DOCS-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2a/UrgentRitualArt-SHVA-EN-SR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8388608,
     "name": "Nutrient Z",
-    "desc": "This card can only be activated during your opponent's Damage Step. During this turn, if you take Battle Damage of 2000 points or more, increase your Life Points by 4000 points before the damage is subtracted from your Life Points.",
+    "desc": "During damage calculation, when you are about to take 2000 or more battle damage: Gain 4000 LP first.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Mythological Age",
-        "pack_id": "MA-48",
-        "date": "2001-11-29"
-    },
+    "ocg": {},
     "tcg": {
         "pack": "Legacy of Darkness",
         "pack_id": "LOD-096",
         "date": "2003-06-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/55/NutrientZ-LOD-NA-C-1E.jpg"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/83/NutrientZ-OP08-EN-C-UE.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 536,
     "name": "Code Generator",
-    "desc": "If you would use a Cyberse monster(s) you control as Link Material for the Link Summon of a \"Code Talker\" monster, you can use this card in your hand as Link Material. If this card is sent from the hand or field to the GY as Link Material for the Link Summon of a \"Code Talker\" monster: You can send 1 Cyberse monster with 1200 or less ATK from your Deck to the GY. If this card was used as material from the field, you can add that monster to your hand, instead. You can only use each effect of \"Code Generator\" once per turn.",
+    "desc": "You can use each effect among the (1)st and (2)nd effects with this card's name only once per turn. (1) If you would use a Cyberse monster(s) you control as Link Material for the Link Summon of a &#x201C;Code Talker&#x201D; monster, you can also use this card in your hand as Link Material. (2) If this card is sent from the hand or field to the GY as Link Material for the Link Summon of a &#x201C;Code Talker&#x201D; monster: You can activate this effect; choose 1 Cyberse monster with 1200 or less ATK from your Deck, and if you do, send the chosen monster to the GY, or, if this card was on the field when it was used as material, you can add the chosen monster to your hand, instead.",
     "str1": "Choose a 1200- ATK Cyberse monster to send to the GY or hand",
     "str2": "Add the chosen monster to the hand?",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "V Jump November 2018 promotional card",
+        "pack_id": "VJMP-JP154",
+        "date": "2018-09-21"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8a/CodeGenerator-ST19-JP-NPR.png"
 }

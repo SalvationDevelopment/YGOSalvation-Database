@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 4,
     "name": "Night's End Sorcerer",
-    "desc": "When this card is Special Summoned: You can target up to 2 cards in your opponent's Graveyard; banish them.",
+    "desc": "When this card is Special Summoned: You can target up to 2 cards in your opponent's GY; banish them.",
     "str1": "Banish",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Extra Pack Volume 2",
-        "pack_id": "EXP2-JP028",
-        "date": "2009-09-19"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Crossroads of Chaos",
-        "pack_id": "CSOC-EN087",
-        "date": "2008-11-01"
+        "pack": "OTS Tournament Pack 3",
+        "pack_id": "OP03-PT023",
+        "date": "2016-11-18"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2d/NightsEndSorcerer-OP03-EN-C-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/94/NightsEndSorcerer-HISU-EN-SR-1E.png"
 }

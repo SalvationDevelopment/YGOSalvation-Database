@@ -2,7 +2,7 @@
     "id": 34010534,
     "ot": 1,
     "alias": 0,
-    "setcode": 280,
+    "setcode": 0,
     "type": 131074,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Cynet Optimize",
-    "desc": "During your Main Phase, you can: Immediately after this effect resolves, Normal Summon 1 Cyberse monster, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Cyberse monsters (even if this card leaves the field). You can only use this effect of \"Cynet Optimize\" once per turn. If your \"Code Talker\" monster battles, your opponent's cards and effects cannot be activated until the end of the Damage Step.",
+    "desc": "During your Main Phase, you can: Immediately after this effect resolves, Normal Summon 1 Cyberse monster, also for the rest of this turn, you cannot Special Summon monsters from your Extra Deck, except Cyberse monsters (even if this card leaves the field). You can only use this effect of \"Cynet Optimize\" once per turn. If a &#x201C;Code Talker&#x201D; monster you control battles, your opponent cannot activate cards or effects until the end of the Damage Step.",
     "str1": "",
     "str2": "Affected by \"Cynet Optimize\"",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Structure Deck: Master Link",
+        "pack_id": "SD34-JP023",
+        "date": "2018-06-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b1/CynetOptimize-SD34-JP-SR.png"
 }

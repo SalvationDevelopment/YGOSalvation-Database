@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 17047552,
     "name": "Destiny HERO - Dreadmaster",
-    "desc": "If this card is Special Summoned by \"Clock Tower Prison\": Destroy all monsters you control, except face-up \"Destiny HERO\" monsters, then you can Special Summon up to 2 \"Destiny HERO\" monsters from your Graveyard. During any turn this card is Special Summoned, \"Destiny HERO\" monsters you control cannot be destroyed, and you take no Battle Damage when they battle. The ATK and DEF of this card are equal to the combined original ATK of all other \"Destiny HERO\" monsters you control.",
+    "desc": "If this card is Special Summoned by \"Clock Tower Prison\": Destroy all monsters you control, except \"Destiny HERO\" monsters, also, after that you can Special Summon up to 2 \"Destiny HERO\" monsters from your GY. After this card is Special Summoned, for the rest of this turn, \"Destiny HERO\" monsters you control cannot be destroyed, also you take no battle damage when they battle. The ATK/DEF of this card are equal to the combined original ATK of all other \"Destiny HERO\" monsters you control.",
     "str1": "Special Summon",
     "str2": "Special Summon another monster?",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Enemy of Justice",
-        "pack_id": "EOJ-JP004",
-        "date": "2006-02-16"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Enemy of Justice",
-        "pack_id": "EOJ-DE004",
-        "date": "2006-05-13"
+        "pack": "Legendary Hero Decks",
+        "pack_id": "LEHD-PTA03",
+        "date": "2018-10-04"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/eb/DestinyHERODreadmaster-LCGX-EN-SR-1E.jpg"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/05/DestinyHERODreadmaster-LEHD-EN-C-1E.png"
 }

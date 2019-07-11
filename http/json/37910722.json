@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Ascension Sky Dragon",
-    "desc": "1 Tuner + 1 or more non-Tuner monsters\nIf this card is Synchro Summoned: It gains 800 ATK for each card currently in your hand. When this card you control is destroyed by your opponent's card (by battle or by card effect) and sent to your Graveyard, if all the monsters that were used for the Synchro Summon of this card are in your Graveyard: You can Special Summon all of them, but their effects are negated. You can only use this effect of \"Ascension Sky Dragon\" once per turn.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: It gains 800 ATK for each card currently in your hand. When this card you control is destroyed by your opponent's card and sent to your GY, if all the monsters that were used for the Synchro Summon of this card are in your GY: You can Special Summon all of them, but their effects are negated. You can only use this effect of \"Ascension Sky Dragon\" once per turn.",
     "str1": "Special Summon Synchro Material",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "YCSW-EN007",
         "date": "2014-09-07"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/AscensionSkyDragon-YCSW-EN-UR-LE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/62/AscensionSkyDragon-LEHD-EN-UR-1E.png"
 }

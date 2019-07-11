@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 134217728,
     "name": "Number 67: Pair-a-Dice Smasher",
-    "desc": "2+ Level 5 monsters\r\nOnce per turn, during your Main Phase 1: You can detach 2 materials from this card; each player rolls a six-sided die twice. The player with the higher total cannot activate monster effects or declare an attack, until the end of the next turn. Once per turn, if either player rolls a six-sided die (or dice) while this card has material, you can treat one of the results as 7.",
+    "desc": "2+ Level 5 monsters\nOnce per turn, during your Main Phase 1: You can detach 2 materials from this card; each player rolls a six-sided die twice. The player with the higher total cannot activate monster effects or declare an attack, until the end of the next turn. Once per turn, if either player rolls a six-sided die (or dice) while this card has material, you can treat one of the results as 7.",
     "str1": "Roll to prevent activations and attacks",
     "str2": "Treat a result as 7?",
     "str3": "Affected by \"Number 67: Pair-a-Dice Smasher\"",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Battles of Legend: Relentless Revenge",
+        "pack_id": "BLRR-DE031",
+        "date": "2018-06-28"
+    },
+    "ocg": {
+        "pack": "Collectors Pack 2018",
+        "pack_id": "CP18-JP031",
+        "date": "2018-05-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b8/Number67PairaDiceSmasher-BLRR-EN-ScR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262144,
     "name": "Cyber Larva",
-    "desc": "If this face-up card is targeted for an attack: You take no battle damage for the rest of this turn. When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 \"Cyber Larva\" from your Deck.",
+    "desc": "If this card is targeted for an attack: You take no battle damage for the rest of this turn. When this card is destroyed by battle and sent to the GY: You can Special Summon 1 \"Cyber Larva\" from your Deck.",
     "str1": "Reduce damage to 0",
     "str2": "Special Summon",
     "str3": "",
@@ -35,10 +35,6 @@
         "pack_id": "PP12-JP004",
         "date": "2010-03-20"
     },
-    "tcg": {
-        "pack": "Legendary Collection 2: The Duel Academy Years",
-        "pack_id": "LC02-EN007",
-        "date": "2011-10-04"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/60/CyberLarva-SDCR-EN-C-1E.png"
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9d/CyberLarva-BLRR-EN-UR-1E.png"
 }

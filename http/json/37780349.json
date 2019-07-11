@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Destiny HERO - Dynatag",
-    "desc": "During damage calculation (in either player's turn) when you would take battle damage: You can discard this card; make yourself take no battle damage from that battle, and if you do, each player takes 1000 damage. You can banish this card from your Graveyard, then target 1 \"Destiny HERO\" monster you control; it gains 1000 ATK until the end of your opponent's next turn.",
+    "desc": "During damage calculation, when you would take battle damage (Quick Effect): You can discard this card; make yourself take no battle damage from that battle, and if you do, each player takes 1000 damage. You can banish this card from your GY, then target 1 \"Destiny HERO\" monster you control; it gains 1000 ATK until the end of your opponent's next turn.",
     "str1": "Make Battle Damage 0",
     "str2": "Gain 1000 ATK",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "DESO-DE002",
         "date": "2016-11-17"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/DestinyHERODynatag-DESO-EN-SR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/DestinyHERODynatag-LEHD-EN-C-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 4194304,
     "name": "Draw Discharge",
-    "desc": "When your opponent draws a card(s) because of their card effect: Reveal the card(s) they drew, and if there are Monster Cards among them, inflict damage to your opponent equal to the total ATK of those monsters, and if you do, banish all revealed cards. You can only activate 1 \"Draw Discharge\" per turn.",
+    "desc": "When your opponent draws a card(s) by their card effect: Reveal the card(s) they drew, and if there are Monster Cards among them, inflict damage to your opponent equal to the total ATK of those monsters, and if you do, banish all revealed cards. You can only activate 1 \"Draw Discharge\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-JP067",
+        "date": "2019-04-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e2/DrawDischarge-RIRA-JP-OP.png"
 }

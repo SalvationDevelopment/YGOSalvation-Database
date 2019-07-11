@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 134217731,
     "name": "Blowback Dragon",
-    "desc": "Once per turn: You can target 1 card your opponent controls; toss a coin 3 times, and destroy that target if at least 2 of the results are Heads.",
+    "desc": "Once per turn: You can target 1 card your opponent controls; toss a coin 3 times and destroy that target if at least 2 of the results are heads.",
     "str1": "Destroy",
     "str2": "",
     "str3": "",
@@ -30,15 +30,7 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "The Sanctuary in the Sky",
-        "pack_id": "308-022",
-        "date": "2003-11-20"
-    },
-    "tcg": {
-        "pack": "Ancient Sanctuary",
-        "pack_id": "AST-DE022",
-        "date": "2004-05-01"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/52/BlowbackDragon-LCJW-EN-C-1E.png"
+    "ocg": {},
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/BlowbackDragon-OP07-EN-C-UE.png"
 }

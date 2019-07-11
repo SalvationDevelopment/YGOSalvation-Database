@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Protron",
-    "desc": "An original species found in electronic space. The amount of information on it is unknown.",
+    "desc": "Ancestral species found in electronic space. No one knows how much information it holds.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -29,11 +29,15 @@
     "str15": "",
     "str16": "",
     "cardpool": "OCG",
-    "tcg": {},
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE001",
+        "date": "2018-05-03"
+    },
     "ocg": {
         "pack": "Flames of Destruction",
         "pack_id": "FLOD-JP001",
         "date": "2018-01-13"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/07/Protron-FLOD-JP-C.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d5/Protron-FLOD-EN-C-1E.png"
 }

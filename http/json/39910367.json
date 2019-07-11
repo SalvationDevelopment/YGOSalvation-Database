@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 83886080,
     "name": "Magical Citadel of Endymion",
-    "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. If a card with a Spell Counter(s) is destroyed, place its Spell Counters on this card. Once per turn, if you would activate a card effect by removing a Spell Counter(s) from your side of the field, you can remove that many Spell Counters from this card instead. If this card would be destroyed, you can remove 1 Spell Counter from this card instead.",
+    "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. If a card with a Spell Counter(s) is destroyed, place its Spell Counters on this card. Once per turn, if you would activate a card effect by removing a Spell Counter(s) from your side of the field, you can remove that many Spell Counters from this card instead. If this card would be destroyed, you can remove 1 Spell Counter from this card instead.",
     "str1": "Activate",
     "str2": "Remove 1 Spell Counter from \"Magical Citadel of Endymion\"?",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Structure Deck: Lord of the Magician",
-        "pack_id": "SD16-JP021",
-        "date": "2008-12-13"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Spellcaster's Command Structure Deck",
-        "pack_id": "SDSC-DE019",
-        "date": "2009-03-31"
+        "pack": "OTS Tournament Pack 7",
+        "pack_id": "OP07-PT008",
+        "date": "2018-04-13"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f3/MagicalCitadelofEndymion-SDSC-EN-C-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/56/MagicalCitadelofEndymion-DASA-EN-ScR-1E.png"
 }

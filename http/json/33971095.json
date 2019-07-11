@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8192,
     "name": "Vendread Nightmare",
-    "desc": "Once per turn: You can Tribute 1 or more \"Vendread\" monsters from your hand and/or field, then target 1 face-up monster you control; increase its Level by the number of monsters Tributed, until the end of this turn. When your attacking \"Vendread\" Ritual Monster destroys an opponent's monster by battle: You can have your monster gain 1000 ATK. You can only use this effect of \"Vendread Nightmare\" once per turn.",
+    "desc": "Once per turn: You can Tribute 1 or more &#x201C;Vendread&#x201D; monsters from your hand and/or field, then target 1 face-up monster you control; increase its Level by the number of monsters Tributed, until the end of this turn. When your attacking &#x201C;Vendread&#x201D; Ritual Monster destroys an opponent's monster by battle: You can have your monster gain 1000 ATK. You can only use this effect of &#x201C;Vendread Nightmare&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE085",
+        "date": "2018-05-03"
+    },
+    "ocg": {
+        "pack": "Extra Pack 2018",
+        "pack_id": "EP18-JP015",
+        "date": "2018-09-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/69/VendreadNightmare-FLOD-EN-C-1E.png"
 }

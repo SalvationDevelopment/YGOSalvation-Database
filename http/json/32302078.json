@@ -10,8 +10,8 @@
     "race": 16,
     "attribute": 32,
     "category": 1074003976,
-    "name": "Al Dhampir – Vampire Sheridan",
-    "desc": "2+ Level 6 monsters\nIf you Xyz Summon this card by using a monster that is owned by your opponent as material, that monster's Level is treated as 6. Once per turn: You can detach 1 material from this card, then target 1 card your opponent controls; send it to the GY. Once per turn, if a monster(s) on the field is sent to your opponent's GY by a card effect, or is destroyed by battle and sent to your opponent's GY: You can detach 1 material from this card; Special Summon 1 of that monster(s) to your field in Defense Position.",
+    "name": "Dhampir Vampire Sheridan",
+    "desc": "2+ Level 6 monsters\nIf you use a monster(s), with a Level, that is owned by your opponent for the Xyz Summon of this card, treat it as Level 6. Once per turn: You can detach 1 material from this card, then target 1 card your opponent controls; send it to the GY. Once per turn, if a Monster Card(s) is sent from the field to your opponent's GY by a card effect, or is destroyed by battle and sent to your opponent's GY: You can detach 1 material from this card; Special Summon 1 of those monsters to your field in Defense Position.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -29,11 +29,15 @@
     "str15": "",
     "str16": "",
     "cardpool": "OCG",
-    "tcg": {},
+    "tcg": {
+        "pack": "Dark Saviors",
+        "pack_id": "DASA-DE007",
+        "date": "2018-05-24"
+    },
     "ocg": {
         "pack": "Deck Build Pack: Dark Savers",
         "pack_id": "DBDS-JP007",
         "date": "2018-02-24"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/88/AlDhampirVampireSheridan-DBDS-JP-UR.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2f/DhampirVampireSheridan-DASA-EN-ScR-1E.png"
 }

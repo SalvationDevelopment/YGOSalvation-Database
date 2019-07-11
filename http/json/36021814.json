@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 270340,
     "name": "King of the Skull Servants",
-    "desc": "The original ATK of this card is the combined number of \"King of the Skull Servants\" and \"Skull Servant\" in your Graveyard x 1000. When this card is destroyed by battle and sent to the Graveyard: You can banish 1 other \"King of the Skull Servants\" or 1 \"Skull Servant\" from your Graveyard; Special Summon this card.",
+    "desc": "The original ATK of this card is the combined number of \"King of the Skull Servants\" and \"Skull Servant\" in your GY x 1000. When this card is destroyed by battle and sent to the GY: You can banish 1 other \"King of the Skull Servants\" or 1 \"Skull Servant\" from your GY; Special Summon this card.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -30,15 +30,7 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "The Lost Millennium",
-        "pack_id": "TLM-JP032",
-        "date": "2005-02-24"
-    },
-    "tcg": {
-        "pack": "The Lost Millennium",
-        "pack_id": "TLM-EN032",
-        "date": "2005-05-28"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/KingoftheSkullServants-AP06-EN-C-UE.png"
+    "ocg": {},
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/17/KingoftheSkullServants-SBLS-EN-SR-1E.png"
 }

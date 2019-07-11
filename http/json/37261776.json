@@ -2,7 +2,7 @@
     "id": 37261776,
     "ot": 3,
     "alias": 0,
-    "setcode": 281,
+    "setcode": 0,
     "type": 97,
     "atk": 2800,
     "def": 2000,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 8192,
     "name": "Salamangreat Violet Chimera",
-    "desc": "1 \"Salamangreat\" monster + 1 Link Monster\r\nIf this card is Fusion Summoned: You can make this card gain ATK equal to half the combined original ATK of the materials used to Summon it, until the end of this turn. Once per battle, during damage calculation, if this monster battles a monster whose current ATK is different from its original ATK (Quick Effect): You can double this card's ATK during damage calculation only. If this card that was Fusion Summoned using \"Salamangreat Violet Chimera\" as material battles a monster, that monster's ATK becomes 0 during damage calculation only.",
+    "desc": "1 \"Salamangreat\" monster + 1 Link Monster\nIf this card is Fusion Summoned: You can make this card gain ATK equal to half the combined original ATK of the materials used to Summon it, until the end of this turn. Once per battle, during damage calculation, if this monster battles a monster whose current ATK is different from its original ATK (Quick Effect): You can double this card's ATK during damage calculation only. If this card that was Fusion Summoned using &#x201C;Salamangreat Violet Chimera&#x201D; as material battles a monster, that monster's ATK becomes 0 during damage calculation only.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE034",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP034",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e7/SalamangreatVioletChimera-SAST-EN-R-1E.png"
 }

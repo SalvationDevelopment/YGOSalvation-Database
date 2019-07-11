@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Frightfur Patchwork",
-    "desc": "Add 1 \"Polymerization\" and 1 \"Edge Imp\" monster from your Deck to your hand. You can only activate 1 \"Frightfur Patchwork\" per turn.",
+    "desc": "Add 1 \"Edge Imp\" monster and 1 \"Polymerization\" from your Deck to your hand. You can only activate 1 \"Frightfur Patchwork\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,6 +35,10 @@
         "pack_id": "DBLE-JP022",
         "date": "2016-11-26"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2c/FrightfurPatchwork-DBLE-JP-UPR.png"
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-EN099",
+        "date": "2018-10-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fa/FrightfurPatchwork-DUPO-EN-UR-1E.png"
 }

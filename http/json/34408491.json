@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Beelze of the Diabolic Dragons",
-    "desc": "1 DARK Tuner + 1+ non-Tuner monsters\nCannot be destroyed by battle or by card effects. When you take damage from an attack involving this card, or from an opponent's card effect: This card gains ATK equal to the damage you took.",
+    "desc": "1 DARK Tuner + 1+ non-Tuner monsters\nCannot be destroyed by battle or by card effects. If you take damage from an attack involving this card, or from an opponent's card effect: This card gains ATK equal to the damage you took.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,7 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Premium Pack 16",
-        "pack_id": "PP16-JP007",
-        "date": "2014-03-21"
-    },
-    "tcg": {
-        "pack": "Premium Gold",
-        "pack_id": "PGLD-DE016",
-        "date": "2014-03-27"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b9/BeelzeoftheDiabolicDragons-LCKC-EN-ScR-1E.png"
+    "ocg": {},
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2a/BeelzeoftheDiabolicDragons-LEHD-EN-C-1E.png"
 }

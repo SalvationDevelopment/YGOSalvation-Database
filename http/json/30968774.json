@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 8448,
     "name": "Swap Cleric",
-    "desc": "If this card is sent to the GY as Link Material: You can have the Link Monster that used this card as Link Material lose exactly 500 ATK, then draw 1 card. You can only use this effect of \"Swap Cleric\" once per turn.",
+    "desc": "If this card is sent to the GY as Link Material: You can make the Link Monster that used this card as material lose exactly 500 ATK, then draw 1 card. You can only use this effect of &#x201C;Swap Cleric&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Structure Deck: Master Link",
+        "pack_id": "SD34-JP002",
+        "date": "2018-06-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a3/SwapCleric-SD34-JP-NPR.png"
 }

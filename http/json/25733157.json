@@ -2,7 +2,7 @@
     "id": 25733157,
     "ot": 1,
     "alias": 0,
-    "setcode": 277,
+    "setcode": 0,
     "type": 65538,
     "atk": 0,
     "def": 0,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 0,
-    "name": "Brandish Mecha Eagle Booster",
-    "desc": "If you control no monsters in your Main Monster Zones: Target 1 face-up monster on the field; this turn, that target is unaffected by card effects (except its own), also if you have 3 or more Spells in your GY, it cannot be destroyed by battle this turn.",
+    "name": "Sky Striker Mecha - Eagle Booster",
+    "desc": "If you control no monsters in your Main Monster Zones: Target 1 face-up monster on the field; that target is unaffected by card effects this turn, except its own, and if you have 3 or more Spells in your GY, it cannot be destroyed by battle this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -29,11 +29,15 @@
     "str15": "",
     "str16": "",
     "cardpool": "OCG",
-    "tcg": {},
+    "tcg": {
+        "pack": "Dark Saviors",
+        "pack_id": "DASA-DE035",
+        "date": "2018-05-24"
+    },
     "ocg": {
         "pack": "Deck Build Pack: Dark Savers",
         "pack_id": "DBDS-JP035",
         "date": "2018-02-24"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/85/BrandishMechaEagleBooster-DBDS-JP-C.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1c/SkyStrikerMechaEagleBooster-DASA-EN-SR-1E.png"
 }

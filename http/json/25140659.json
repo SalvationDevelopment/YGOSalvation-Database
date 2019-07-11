@@ -2,7 +2,7 @@
     "id": 25140659,
     "ot": 2,
     "alias": 0,
-    "setcode": 286,
+    "setcode": 0,
     "type": 2,
     "atk": 0,
     "def": 0,
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE086",
+        "date": "2018-10-18"
+    },
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d8/DangerResponseTeam-SOFU-EN-UR-1E.png"
 }

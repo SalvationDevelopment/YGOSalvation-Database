@@ -2,7 +2,7 @@
     "id": 43316238,
     "ot": 2,
     "alias": 0,
-    "setcode": 286,
+    "setcode": 0,
     "type": 33,
     "atk": 3000,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 17039616,
     "name": "Danger! Bigfoot!",
-    "desc": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not \"Danger! Bigfoot!\", Special Summon 1 \"Danger! Bigfoot!\" from your hand, and if you do, draw 1 card. If this card is discarded: You can target 1 face-up card your opponent controls; destroy it. You can only use this effect of \"Danger! Bigfoot!\" once per turn.",
+    "desc": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not &#x201C;Danger! Bigfoot!&#x201D;, Special Summon 1 &#x201C;Danger! Bigfoot!&#x201D; from your hand, and if you do, draw 1 card. If this card is discarded: You can target 1 face-up card your opponent controls; destroy it. You can only use this effect of &#x201C;Danger! Bigfoot!&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE082",
+        "date": "2018-07-26"
+    },
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8b/DangerBigfoot-CYHO-EN-ScR-1E.png"
 }

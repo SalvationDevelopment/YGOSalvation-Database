@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 256,
     "name": "Magical Merchant",
-    "desc": "FLIP: Excavate cards from the top of your Deck until you excavate a Spell/Trap Card. Add that card to your hand, also send the remaining cards to the Graveyard.",
+    "desc": "FLIP: Excavate cards from the top of your Deck until you excavate a Spell/Trap, then add that card to your hand, also send the remaining cards to the GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,7 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Champion of Black Magic",
-        "pack_id": "303-025",
-        "date": "2002-09-19"
-    },
-    "tcg": {
-        "pack": "Magician's Force",
-        "pack_id": "MFC-079",
-        "date": "2003-10-10"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3b/MagicalMerchant-SP14-EN-C-1E.png"
+    "ocg": {},
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7c/MagicalMerchant-SDPL-EN-C-1E.png"
 }

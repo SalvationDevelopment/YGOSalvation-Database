@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 16777216,
     "name": "Blue-Eyes Alternative Ultimate Dragon",
-    "desc": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"\r\nYour opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. Once per turn: You can target 1 card your opponent controls, or up to 3 instead if this card was Fusion Summoned using a monster whose original name is \"Blue-Eyes Alternative White Dragon\" as material; destroy them. This card cannot attack the turn this effect is activated.",
+    "desc": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"\nYour opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects.  Once per turn: You can target 1 card your opponent controls; destroy that target. If this card was Fusion Summoned using &#x201C;Blue-Eyes Alternative White Dragon&#x201D; as material, you can target up to 3 cards instead. This card cannot attack the turn this effect is activated.",
     "str1": "Target to destroy",
     "str2": "Summoned with \"Blue-Eyes Alternative White Dragon\" as material",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "20th Anniversary Legend Collection",
+        "pack_id": "20TH-JPC00",
+        "date": "2019-02-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/41/BlueEyesAlternativeUltimateDragon-20TH-JP-20ScR.png"
 }

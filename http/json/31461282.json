@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8448,
     "name": "Miracle Stone",
-    "desc": "All Spellcaster monsters you control gain 500 ATK/DEF for each \"Fortune Fairy\" monster you control with a different name. Once per turn, when an attack is declared involving your \"Fortune Fairy\" monster: You can draw 1 card. You can only control 1 \"Miracle Stone\".",
+    "desc": "You can only control 1 \"Miracle Stone\". All Spellcaster monsters you control gain 500 ATK/DEF for each \"Fortune Fairy\" monster you control with different names. Once per turn, when an attack is declared involving your \"Fortune Fairy\" monster: You can draw 1 card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Collection Pack: Duelists of Revolution",
+        "pack_id": "CP19-JP024",
+        "date": "2019-05-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6e/MiracleStone-BLHR-EN-UR-1E.png"
 }

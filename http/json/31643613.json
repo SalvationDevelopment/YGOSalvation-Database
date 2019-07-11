@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262672,
     "name": "Predapractice",
-    "desc": "Special Summon 1 \"Predaplant\" monster from your hand, then add 1 \"Predap\" card from your Deck to your hand, except \"Predapractice\", also for the rest of this turn after this card resolves, you cannot Special Summon monsters from the Extra Deck, except Fusion Monsters. You can only activate 1 \"Predapractice\" per turn.",
+    "desc": "Special Summon 1 \"Predaplant\" monster from your hand. Then, add 1 \"Predap\" card from your Deck to your hand, except \"Predapractice\". You cannot Special Summon from your Extra Deck for the rest of this turn, except Fusion Monsters. You can only activate 1 \"Predapractice\" per turn.",
     "str1": "Affected by \"Predapractice\"",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "DP22",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 5",
+        "pack_id": "DP22-JP047",
+        "date": "2019-06-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/34/Predapractice-DP22-JP-OP.png"
 }

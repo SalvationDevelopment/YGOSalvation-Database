@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 268698128,
     "name": "Cyber Pharos",
-    "desc": "You can Special Summon this card (from your hand) by Tributing 1 Machine monster. Once per turn, during your Main Phase: You can Fusion Summon 1 Machine Fusion Monster from your Extra Deck, using monsters from your hand and/or field as material. When a Fusion Monster you control is destroyed by battle: You can banish this card from your GY; add 1 \"Power Bond\" from your Deck to your hand. You can only use this effect of \"Cyber Pharos\" once per turn.",
+    "desc": "You can Special Summon this card (from your hand) by Tributing 1 Machine monster. Once per turn, during your Main Phase: You can Fusion Summon 1 Machine Fusion Monster from your Extra Deck, using monsters from your hand and/or field as material. When a Fusion Monster you control is destroyed by battle: You can banish this card from your GY; add 1 &#x201C;Power Bond&#x201D; from your Deck to your hand. You can only use this effect of &#x201C;Cyber Pharos&#x201D; once per turn.",
     "str1": "Fusion Summon",
     "str2": "Search \"Power Bond\"",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: White Dragon Abyss",
+        "pack_id": "LED3-DE013",
+        "date": "2018-09-27"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 3",
+        "pack_id": "DP20-JP013",
+        "date": "2018-06-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e0/CyberPharos-LED3-EN-R-1E.png"
 }

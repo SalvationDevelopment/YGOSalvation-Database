@@ -10,8 +10,8 @@
     "race": 1,
     "attribute": 32,
     "category": 0,
-    "name": "Flower Cardian Moonflower",
-    "desc": "1 Tuner + 2 non-Tuner monsters\nOnce per turn: You can activate this effect; skip the Draw Phase of your next turn, also draw 1 card, and if you do, show it, then you can Special Summon it if it is a \"Flower Cardian\" monster, ignoring its Summoning conditions, and if you do, it can attack directly this turn. When this card is used as Synchro Material, you can treat it and all other Synchro Materials (that have a Level) as Level 2 monsters.",
+    "name": "Flower Cardian Moonflowerviewing",
+    "desc": "1 Tuner + 2 non-Tuner monsters\nOnce per turn, during your Main Phase: You can draw 1 card, and if you do, show it, then, if it is a \"Flower Cardian\" monster, you can Special Summon it, ignoring its Summoning conditions, and it can attack directly this turn. If you activated this effect, skip the Draw Phase of your next turn. When this card is used as Synchro Material, you can treat it and all other Synchro Materials (that have a Level) as Level 2 monsters.",
     "str1": "Skip Draw Phase",
     "str2": "Special Summon \"Flower Cardian\"",
     "str3": "Treat as Level 2",
@@ -35,6 +35,10 @@
         "pack_id": "DBLE-JP035",
         "date": "2016-11-26"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/98/FlowerCardianMoonflower-DBLE-JP-UPR.png"
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE094",
+        "date": "2018-05-03"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2b/FlowerCardianMoonflowerviewing-FLOD-EN-C-1E.png"
 }

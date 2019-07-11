@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 138412033,
     "name": "Dicephoon",
-    "desc": "Roll a six-sided die and apply the result.\n● 2, 3, or 4: Destroy 1 Spell/Trap Card on the field.\n● 5: Destroy 2 Spell/Trap Cards on the field.\n● 1 or 6: You take 1000 damage.",
+    "desc": "Roll a six-sided die and apply the result.\n● 2, 3, or 4: Destroy 1 Spell/Trap on the field.\n● 5: Destroy 2 Spells/Traps on the field.\n● 1 or 6: You take 1000 damage.",
     "str1": "Roll dice",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Order of Chaos",
-        "pack_id": "ORCS-JP063",
-        "date": "2011-11-19"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Order of Chaos",
-        "pack_id": "ORCS-EN063",
-        "date": "2012-01-14"
+        "pack": "Emperor of Darkness Structure Deck",
+        "pack_id": "SR01-PT032",
+        "date": "2016-01-29"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/13/Dicephoon-SR01-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/79/Dicephoon-SS02-EN-C-1E.png"
 }

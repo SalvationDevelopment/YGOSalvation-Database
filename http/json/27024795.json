@@ -2,7 +2,7 @@
     "id": 27024795,
     "ot": 2,
     "alias": 0,
-    "setcode": 41026,
+    "setcode": 4366402,
     "type": 33,
     "atk": 1500,
     "def": 1000,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262152,
     "name": "Alviss of the Nordic Alfar",
-    "desc": "If only this card is banished by the effect of a \"Nordic\" Link Monster: You can send to the GY, 1 \"Nordic\" monster you control and 2 \"Nordic\" monsters from your Deck, whose total Levels equal 10, then Special Summon 1 \"Aesir\" monster from your Extra Deck. If an \"Aesir\" monster(s) in your possession is sent to your GY by your opponent's card: You can banish this card from your GY; Special Summon 1 \"Aesir\" monster from your Extra Deck, with a different name from the cards in your GY. You can only use this effect of \"Alviss of the Nordic Alfar\" once per duel.",
+    "desc": "If only this card is banished by the effect of a &#x201C;Nordic&#x201D; Link Monster: You can send to the GY 1 &#x201C;Nordic&#x201D; monster you control and 2 &#x201C;Nordic&#x201D; monsters from your Deck whose total Levels equal 10, then Special Summon 1 &#x201C;Aesir&#x201D; monster from your Extra Deck. If an &#x201C;Aesir&#x201D; monster(s) in your possession is sent to your GY by your opponent's card: You can banish this card from your GY; Special Summon 1 &#x201C;Aesir&#x201D; monster from your Extra Deck with a different name from the cards in your GY. You can only use this effect of &#x201C;Alviss of the Nordic Alfar&#x201D; once per Duel.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE000",
+        "date": "2018-10-18"
+    },
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/02/AlvissoftheNordicAlfar-SOFU-EN-C-1E.png"
 }

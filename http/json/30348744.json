@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 393218,
     "name": "T.G. Drill Fish",
-    "desc": "This card can attack directly. You can only use each of the following effects of \"T.G. Drill Fish\" once per turn.\r\n● If all monsters you control are \"T.G.\" monsters (min. 1): You can Special Summon this card from your hand.\r\n● When your \"T.G.\" monster inflicts battle damage to your opponent: You can target 1 monster your opponent controls; destroy it.",
+    "desc": "This card can attack directly. You can only use each of the following effects of \"T.G. Drill Fish\" once per turn.\n● If all monsters you control are \"T.G.\" monsters (min. 1): You can Special Summon this card from your hand.\n● When a \"T.G.\" monster you control inflicts battle damage to your opponent: You can target 1 monster your opponent controls; destroy it.",
     "str1": "Special Summon",
     "str2": "Destroy",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Collection Pack: Duelists of Revolution",
+        "pack_id": "CP19-JP027",
+        "date": "2019-05-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7e/TGDrillFish-BLHR-EN-UR-1E.png"
 }

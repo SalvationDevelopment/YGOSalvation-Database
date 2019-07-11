@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 8704,
     "name": "T.G. Rush Rhino",
-    "desc": "If this card attacks, it gains 400 ATK during the Damage Step only. During the End Phase, if this card is in the Graveyard because it was destroyed on the field and sent there this turn: You can add 1 \"T.G.\" monster from your Deck to your hand, except \"T.G. Rush Rhino\".",
+    "desc": "If this card attacks, it gains 400 ATK during the Damage Step only. During the End Phase, if this card is in the Graveyard because it was destroyed on the field and sent there this turn: You can add 1 &#x201C;T.G.&#x201D; monster from your Deck to your hand, except &#x201C;T.G. Rush Rhino&#x201D;.",
     "str1": "Search",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Extreme Victory",
-        "pack_id": "EXVC-JP021",
-        "date": "2011-02-11"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Extreme Victory",
-        "pack_id": "EXVC-EN021",
-        "date": "2011-04-30"
+        "pack": "Duel Terminal 6b",
+        "pack_id": "DT06-EN054",
+        "date": "2012-05-25"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/02/TGRushRhino-LC5D-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cf/TGRushRhino-OP09-EN-C-UE.png"
 }

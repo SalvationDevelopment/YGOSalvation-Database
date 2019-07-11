@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 16,
     "name": "Hidden Village of Ninjitsu Arts",
-    "desc": "If a \"Ninja\" monster is Summoned to your field: You can target 1 \"Ninja\" monster or 1 \"Ninjitsu Art\" card in your GY; add it to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. If a \"Ninja\" monster(s) or \"Ninjitsu Art\" card(s) you control would be destroyed by battle or an opponent's card effect, you can banish 1 \"Ninja\" monster from your GY instead. You can only use each effect of \"Hidden Village of Ninjitsu Arts\" once per turn.",
+    "desc": "If a &#x201C;Ninja&#x201D; monster is Summoned to your field: You can target 1 &#x201C;Ninja&#x201D; monster or 1 &#x201C;Ninjitsu Art&#x201D; card in your GY; add it to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. If a &#x201C;Ninja&#x201D; monster(s) or &#x201C;Ninjitsu Art&#x201D; card(s) you control would be destroyed by battle or an opponent's card effect, you can banish 1 &#x201C;Ninja&#x201D; monster from your GY instead. You can only use each effect of &#x201C;Hidden Village of Ninjitsu Arts&#x201D; once per turn.",
     "str1": "Recover \"Ninja\" or \"Ninjitsu Art\" card",
     "str2": "Affected by \"Hidden Village of Ninjitsu Arts\"",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "tcg": {
+        "pack": "Shadows in Valhalla",
+        "pack_id": "SHVA-DE014",
+        "date": "2018-08-16"
+    },
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/HiddenVillageofNinjitsuArts-SHVA-EN-ScR-1E.png"
 }

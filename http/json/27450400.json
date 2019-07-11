@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 786432,
     "name": "Cosmic Compass",
-    "desc": "When this card is Normal Summoned, you can Special Summon a number of \"Compass Tokens\" (Machine-Type/EARTH/Level 1/ATK 0/DEF 0) up to the number of monsters your opponent controls.",
+    "desc": "When this card is Normal Summoned: You can Special Summon a number of \"Compass Tokens\" (Machine/EARTH/Level 1/ATK 0/DEF 0) up to the number of monsters your opponent controls.",
     "str1": "Special Summon",
     "str2": "Special summon \"Compass Token\"?",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "STOR-EN001",
         "date": "2011-02-08"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/27/CosmicCompass-STOR-EN-C-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/CosmicCompass-SDPL-EN-C-1E.png"
 }

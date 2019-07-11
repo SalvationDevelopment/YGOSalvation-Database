@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 270336,
     "name": "Galaxy Knight",
-    "desc": "If you control a \"Photon\" or \"Galaxy\" monster, you can Normal Summon this card without Tributing. When you do: Target 1 \"Galaxy-Eyes Photon Dragon\" in your Graveyard (if possible); regardless, this card loses 1000 ATK, and if it does, Special Summon that target (if any) in face-up Defense Position. This ATK decrease lasts until the End Phase.",
+    "desc": "If you control a \"Photon\" or \"Galaxy\" monster, you can Normal Summon this card without Tributing. If Summoned this way: Target 1 \"Galaxy-Eyes Photon Dragon\" in your GY (if possible); regardless, this card loses 1000 ATK, and if it does, Special Summon that target (if any) in face-up Defense Position. This ATK decrease lasts until the end of this turn.",
     "str1": "Normal Summon without tribute",
     "str2": "Special Summon",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "ZTIN-DE012",
         "date": "2013-03-07"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3b/GalaxyKnight-ZTIN-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8e/GalaxyKnight-LED3-EN-SR-1E.png"
 }

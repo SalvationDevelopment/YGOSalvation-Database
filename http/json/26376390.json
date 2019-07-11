@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 8192,
     "name": "Copycat",
-    "desc": "When this card is Summoned: Target 1 face-up monster your opponent controls; this card's ATK and DEF become equal to that monster's original ATK and DEF.",
+    "desc": "If this card is Summoned: Target 1 face-up monster your opponent controls; this card's ATK/DEF become equal to that monster's original ATK/DEF.",
     "str1": "攻守变化",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "JUMP-EN020",
         "date": "2008-01-16"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/93/Copycat-LCJW-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/Copycat-SS02-EN-C-1E.png"
 }

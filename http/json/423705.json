@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 1,
     "name": "Gearfried the Iron Knight",
-    "desc": "When an Equip Card(s) is equipped to this card: Destroy that Equip Card(s).",
+    "desc": "If either player equips an Equip Card(s) to this card: Destroy that Equip Card(s).",
     "str1": "Destroy equipped card",
     "str2": "",
     "str3": "",
@@ -30,15 +30,7 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Thousand Eyes Bible",
-        "pack_id": "TB-51",
-        "date": "2000-12-14"
-    },
-    "tcg": {
-        "pack": "Pharaoh's Servant",
-        "pack_id": "PSV-101",
-        "date": "2002-10-20"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1c/GearfriedtheIronKnight-LDK2-EN-C-1E.png"
+    "ocg": {},
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/02/GearfriedtheIronKnight-SS02-EN-C-1E.png"
 }

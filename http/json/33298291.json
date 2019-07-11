@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Promotion Pack 2019",
+        "pack_id": "19PR-JP011",
+        "date": "2019-05-11"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e3/DrummingwithExcitement-19PR-JP-OP.png"
 }

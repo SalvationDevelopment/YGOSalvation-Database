@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Diabolos, King of the Abyss",
-    "desc": "This card cannot be Special Summoned. If you Tribute Summon this card, the Tributes must be DARK. This card cannot be Tributed by a card's effect. During your opponent's Draw Phase, before their draw, look at the top card of their Deck, then put that card on the top or bottom of their Deck.",
+    "desc": "Cannot be Special Summoned. If you Tribute Summon this card, the Tributes must be DARK. Cannot be Tributed by a card effects while face-up on the field. Once per turn, during your opponent's Draw Phase, before their draw: Look at the top card of your opponent's Deck, and if you do, place that card on either the top or bottom of their Deck.",
     "str1": "Check the card",
     "str2": "Put card at top of deck",
     "str3": "Put card at bottom of deck",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Structure Deck: Curse of Darkness",
-        "pack_id": "SD12-JP001",
-        "date": "2007-03-08"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Force of the Breaker",
-        "pack_id": "FOTB-FR061",
-        "date": "2007-05-05"
+        "pack": "Lair of Darkness Structure Deck",
+        "pack_id": "SR06-PT004",
+        "date": "2018-04-20"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7a/DiabolosKingoftheAbyss-GLD4-EN-C-LE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6c/DiabolosKingoftheAbyss-SR06-EN-C-1E.png"
 }

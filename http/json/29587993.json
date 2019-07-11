@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": -2147483629,
     "name": "Mist Valley Apex Avian",
-    "desc": "When an effect is activated, you can select 1 face-up \"Mist Valley\" card you control. Return that \"Mist Valley\" card to its owner's hand, negate the effect's activation, and destroy the card whose effect was activated.",
+    "desc": "Once per Chain, when a card or effect is activated (Quick Effect): You can target 1 \"Mist Valley\" card you control; return that target to the hand, and if you do, negate the activation, and if you do that, destroy it.",
     "str1": "效果发动无效并破坏",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "DT02-EN079",
         "date": "2010-05-25"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/46/MistValleyApexAvian-HA02-EN-ScR-1E.jpg"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/eb/MistValleyApexAvian-SHVA-EN-SR-1E.png"
 }

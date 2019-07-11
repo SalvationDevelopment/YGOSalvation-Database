@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Cyber Angel Dakini",
-    "desc": "You can Ritual Summon this card with \"Machine Angel Ritual\". If this card is Ritual Summoned: You can make your opponent send 1 monster they control to the Graveyard (their choice). If a Ritual Monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per turn, during your End Phase: You can target 1 Ritual Monster or 1 \"Machine Angel Ritual\" in your Graveyard; add it to your hand.",
+    "desc": "You can Ritual Summon this card with \"Machine Angel Ritual\". If this card is Ritual Summoned: You can make your opponent send 1 monster they control to the GY (their choice). If a Ritual Monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per turn, during your End Phase: You can target 1 Ritual Monster or 1 \"Machine Angel Ritual\" in your GY; add it to your hand.",
     "str1": "Have Opponent send 1 monster to the grave",
     "str2": "Add 1 Ritual Monster or 1 \"Machine Angel Ritual\" to hand",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "DRL3-DE014",
         "date": "2016-08-18"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d2/CyberAngelDakini-DPDG-EN-R-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a5/CyberAngelDakini-LED4-EN-C-1E.png"
 }

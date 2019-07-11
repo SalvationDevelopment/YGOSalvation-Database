@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 4456450,
     "name": "Pyrorex the Elemental Lord",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 FIRE monsters in your Graveyard, and cannot be Special Summoned by other ways. When this card is Special Summoned: You can target 1 monster your opponent controls; destroy it, and if you do, both players take damage equal to half the original ATK of the destroyed monster. You can only use this effect of \"Pyrorex the Elemental Lord\" once per turn. If this card leaves the field, skip the Battle Phase of your next turn.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 FIRE monsters in your GY. When this card is Special Summoned: You can target 1 monster your opponent controls; destroy it, and if you do, both players take damage equal to half the original ATK of the destroyed monster. You can only use this effect of \"Pyrorex the Elemental Lord\" once per turn. If this face-up card leaves the field, skip the Battle Phase of your next turn.",
     "str1": "Destroy and inflict damage",
     "str2": "",
     "str3": "",
@@ -30,15 +30,7 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Cosmo Blazer",
-        "pack_id": "CBLZ-JP040",
-        "date": "2012-11-17"
-    },
-    "tcg": {
-        "pack": "Cosmo Blazer",
-        "pack_id": "CBLZ-DE040",
-        "date": "2013-01-24"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/22/PyrorextheElementalLord-CBLZ-EN-ScR-1E.png"
+    "ocg": {},
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4b/PyrorextheElementalLord-BLRR-EN-UR-1E.png"
 }

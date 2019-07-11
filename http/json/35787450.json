@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 67108864,
     "name": "Eternal Dread",
-    "desc": "Put 2 Clock Counters on \"Clock Tower Prison\".",
+    "desc": "Place 2 Clock Counters on each \"Clock Tower Prison\".",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Duelist Pack: Aster Phoenix",
-        "pack_id": "DP05-JP030",
-        "date": "2006-10-26"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Duelist Pack: Aster Phoenix",
-        "pack_id": "DP05-DE030",
-        "date": "2007-02-07"
+        "pack": "Legendary Hero Decks",
+        "pack_id": "LEHD-PTA29",
+        "date": "2018-10-04"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/13/EternalDread-DP05-EN-SR-1E.jpg"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/EternalDread-LEHD-EN-C-1E.png"
 }

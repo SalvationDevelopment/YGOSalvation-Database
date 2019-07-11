@@ -10,8 +10,8 @@
     "race": 8,
     "attribute": 32,
     "category": 0,
-    "name": "Outer Entity Azzathoth",
-    "desc": "3 Level 5 monsters\nYou can also Xyz Summon this card by using an \"Outer Entity\" Xyz Monster you control as material. (Transfer its materials to this card.) Cannot be used as material for an Xyz Summon. After you Xyz Summon this card, monsters in your opponent's possession cannot activate their effects for the rest of this turn. If this card has a Fusion, Synchro, and Xyz Monster as Xyz Materials: You can detach 1 material from this card; destroy all cards your opponent controls.",
+    "name": "Outer Entity Azathot",
+    "desc": "3 Level 5 monsters\nYou can also Xyz Summon this card by using an \"Outer Entity\" Xyz Monster you control as material. (Transfer its materials to this card.) Cannot be used as material for an Xyz Summon. After this card was Xyz Summoned, your opponent cannot activate monster effects for the rest of that turn. If this card has at least 3 Xyz Materials (1 Fusion, 1 Synchro, and 1 Xyz Monster): You can detach 1 material from this card; destroy all cards your opponent controls.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,11 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG",
-    "ocg": {
-        "pack": "Extra Pack 2015",
-        "pack_id": "EP15-JP036",
-        "date": "2015-09-19"
+    "ocg": {},
+    "tcg": {
+        "pack": "Shadows in Valhalla",
+        "pack_id": "SHVA-DE018",
+        "date": "2018-08-16"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7f/OuterEntityAzzathoth-EP15-JP-ScR.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/59/OuterEntityAzathot-SHVA-EN-ScR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 270592,
     "name": "Knightmare Mermaid",
-    "desc": "Link Arrows: [🡳]\n\n1 \"Troymare\" monster, except \"Troymare Mermaid\"\nIf this card is Link Summoned: You can discard 1 card; Special Summon 1 \"Troymare\" monster from your Deck, then if this card was co-linked when this effect was activated, you can draw 1 card. You can only use this effect of \"Troymare Mermaid\" once per turn. All monsters on the field lose 1000 ATK/DEF, except co-linked monsters.",
+    "desc": "Link Arrows: [🡳]\n\n1 \"Knightmare\" monster, except \"Knightmare Mermaid\"\nIf this card is Link Summoned: You can discard 1 card; Special Summon 1 \"Knightmare\" monster from your Deck, then if this card was co-linked when this effect was activated, you can draw 1 card. You can only use this effect of \"Knightmare Mermaid\" once per turn. Monsters on the field lose 1000 ATK/DEF, unless they are co-linked.",
     "str1": "Special Summon",
     "str2": "Draw 1 card?",
     "str3": "",
@@ -29,7 +29,11 @@
     "str15": "",
     "str16": "",
     "cardpool": "OCG",
-    "tcg": {},
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE043",
+        "date": "2018-05-03"
+    },
     "ocg": {
         "pack": "Flames of Destruction",
         "pack_id": "FLOD-JP043",
@@ -38,5 +42,5 @@
     "links": [
         6
     ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/04/KnightmareMermaid-FLOD-JP-R.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f5/KnightmareMermaid-FLOD-EN-R-1E.png"
 }

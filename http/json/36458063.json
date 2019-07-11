@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 16777216,
     "name": "Witch's Strike",
-    "desc": "If your opponent negates the Normal or Special Summon of a monster(s), or the activation of a card or effect: Destroy all cards your opponent controls and in their hand.",
+    "desc": "If your opponent negates the Normal or Special Summon of a monster(s) or the activation of a card or effect: Destroy all cards your opponent controls and in their hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE079",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP079",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/WitchsStrike-SAST-EN-ScR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 2097156,
     "name": "Strike Ninja",
-    "desc": "Once per turn, during either player's turn: You can banish 2 DARK monsters from your Graveyard; banish this face-up card until the End Phase.",
+    "desc": "(Quick Effect): You can banish 2 DARK monsters from your GY; banish this face-up card until the End Phase. You can only use this effect of \"Strike Ninja\" once per turn.",
     "str1": "Banish",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Controller of Chaos",
-        "pack_id": "306-007",
-        "date": "2003-04-24"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Invasion of Chaos",
-        "pack_id": "IOC-007",
-        "date": "2004-03-01"
+        "pack": "Legendary Collection 4: Joey's World Mega Pack",
+        "pack_id": "LCJW-PT282",
+        "date": "2013-10-11"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/StrikeNinja-LCJW-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/30/StrikeNinja-SHVA-EN-SR-1E.png"
 }

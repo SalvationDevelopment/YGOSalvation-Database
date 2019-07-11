@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 8196,
     "name": "Phantom of Chaos",
-    "desc": "Any Battle Damage your opponent takes from battles involving this card becomes 0. Once per turn: You can target 1 Effect Monster in your Graveyard; banish that target, and if you do, until the End Phase, this card's name and ATK become that monster's name and ATK, and it gains that monster's effects. You must control this face-up card to activate and to resolve this effect.",
+    "desc": "Your opponent takes no battle damage from attacks involving this card. Once per turn: You can target 1 Effect Monster in your GY; banish that target, and if you do, until the End Phase, this card's name and original ATK become that monster's name and original ATK, and replace this effect with that monster's original effects. You must control this face-up card to activate and to resolve this effect.",
     "str1": "获得怪物效果",
     "str2": "",
     "str3": "",
@@ -36,9 +36,9 @@
         "date": "2007-09-27"
     },
     "tcg": {
-        "pack": "Gladiator's Assault: Special Edition",
-        "pack_id": "GLAS-DESE1",
-        "date": "2007-12-10"
+        "pack": "Lair of Darkness Structure Deck",
+        "pack_id": "SR06-PT015",
+        "date": "2018-04-20"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/05/PhantomofChaos-BP01-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/PhantomofChaos-SR06-EN-C-1E.png"
 }

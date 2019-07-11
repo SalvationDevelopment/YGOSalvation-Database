@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 8,
     "name": "Malevolent Mech - Goku En",
-    "desc": "You can Normal Summon this card without Tributing. If you do, during the End Phase: Send it to the Graveyard, then take damage equal to its ATK in the Graveyard. This card must be the only Zombie-Type monster on the field to activate and to resolve this effect.",
+    "desc": "You can Normal Summon this card without Tributing. Once per turn, during the End Phase, If this card was Summoned this way: Send it to the GY, then take damage equal to its ATK in the GY. This card must be the only Zombie monster on the field to activate and to resolve this effect.",
     "str1": "Normal summon without tribute",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Structure Deck: Undead World",
-        "pack_id": "SD15-JP002",
-        "date": "2008-06-21"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Zombie World Structure Deck",
-        "pack_id": "SDZW-DE002",
-        "date": "2008-10-21"
+        "pack": "Legendary Collection 4: Joey's World Mega Pack",
+        "pack_id": "LCJW-PT207",
+        "date": "2013-10-11"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ef/MalevolentMechGokuEn-LCJW-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c9/MalevolentMechGokuEn-SR07-EN-C-1E.png"
 }

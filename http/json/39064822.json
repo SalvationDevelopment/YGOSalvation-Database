@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 256,
     "name": "Knightmare Goblin",
-    "desc": "Link Arrows: [🡰][🡲]\n\n2 monsters with different names\nIf this card is Link Summoned: You can discard 1 card; apply this effect, and if this card was co-linked when this effect was activated, you can draw 1 card. Once applied, during your Main Phase this turn, you can Normal Summon 1 monster to your zone this card points to, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Neither player can target your co-linked monsters with card effects.",
+    "desc": "Link Arrows: [🡰][🡲]\n\n2 monsters with different names\nIf this card is Link Summoned: You can discard 1 card; if this card was co-linked when this effect was activated, you can draw 1 card, also, during your Main Phase this turn, you can Normal Summon 1 monster from your hand to your zone this card points to, in addition to your Normal Summon/Set. You can only use this effect of \"Knightmare Goblin\" once per turn. Neither player can target your co-linked monsters with card effects.",
     "str1": "Extra Summon",
     "str2": "Draw 1 card?",
     "str3": "Normal Summon using \"Troymare Goblin\"'s effect",
@@ -29,7 +29,11 @@
     "str15": "",
     "str16": "",
     "cardpool": "OCG",
-    "tcg": {},
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE044",
+        "date": "2018-05-03"
+    },
     "ocg": {
         "pack": "Flames of Destruction",
         "pack_id": "FLOD-JP044",
@@ -39,5 +43,5 @@
         3,
         4
     ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/42/KnightmareGoblin-FLOD-JP-SR.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4c/KnightmareGoblin-FLOD-EN-UR-1E.png"
 }

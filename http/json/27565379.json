@@ -2,7 +2,7 @@
     "id": 27565379,
     "ot": 1,
     "alias": 0,
-    "setcode": 303,
+    "setcode": 0,
     "type": 12321,
     "atk": 2200,
     "def": 1600,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 4456448,
     "name": "Battlewasp - Azusa the Ghost Bow",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nWhen your opponent takes damage by another \"Battlewasp\" monster's effect, even during the Damage Step: You can inflict damage to your opponent equal to that monster's original ATK. You can only use this effect of \"Battlewasp - Azusa the Ghost Bow\" once per turn. When a monster is destroyed by a battle involving your \"Battlewasp\" monster while this card is in your GY: You can Special Summon this card in Defense Position, but banish it when it leaves the field.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nWhen your opponent takes effect damage from another &#x201C;Battlewasp&#x201D; monster: You can inflict damage to your opponent equal to the original ATK of that monster. You can only use this effect of \"Battlewasp - Azusa the Ghost Bow\" once per turn. When a monster is destroyed by battle with your \"Battlewasp\" monster, while this card is in your GY: You can Special Summon this card in Defense Position, but banish it when it leaves the field.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Collection Pack: Duelists of Revolution",
+        "pack_id": "CP19-JP039",
+        "date": "2019-05-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/50/BattlewaspAzusatheGhostBow-BLHR-EN-UR-1E.png"
 }

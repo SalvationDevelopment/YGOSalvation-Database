@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 131072,
     "name": "Noble Arms - Clarent",
-    "desc": "Equip only to a Warrior monster. You can only control 1 \"Noble Arms - Clarent\". Once per turn: You can pay 500 LP; the equipped monster can attack directly this turn. If this face-up card on the field is destroyed and sent to the GY: You can target 1 Warrior \"Noble Knight\" monster you control; equip this card to that target. You can only use this effect of \"Noble Arms - Clarent\" once per turn.",
+    "desc": "Equip only to a Warrior monster. You can only control 1 &#x201C;Noble Arms - Clarent&#x201D;. Once per turn: You can pay 500 LP; the equipped monster can attack directly this turn. If this face-up card on the field is destroyed and sent to the GY: You can target 1 Warrior &#x201C;Noble Knight&#x201D; monster you control; equip this card to that target. You can only use this effect of &#x201C;Noble Arms - Clarent&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE091",
+        "date": "2018-07-26"
+    },
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2d/NobleArmsClarent-CYHO-EN-SP-1E.png"
 }

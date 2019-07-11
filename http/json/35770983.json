@@ -2,7 +2,7 @@
     "id": 35770983,
     "ot": 1,
     "alias": 0,
-    "setcode": 282,
+    "setcode": 0,
     "type": 33,
     "atk": 1000,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 270336,
     "name": "Dinowrestler Martial Ankylo",
-    "desc": "During damage calculation, if your other \"Dinowrestler\" monster battles an opponent's monster (Quick Effect): You can send this card from your hand or field to the GY; your battling monster cannot be cannot be destroyed by that battle, also the ATK of that opponent's battling monster is halved at the end of the Damage Step. During the End Phase, if this card is in the GY because it was sent there from the field this turn: You can Special Summon this card, but banish when it leaves the field. You can only use this effect of \"Dinowrestler Martial Ankylo\" once per turn.",
+    "desc": "During damage calculation, if your other \"Dinowrestler\" monster battles an opponent's monster (Quick Effect): You can send this card from your hand or field to the GY; your battling monster cannot be destroyed by that battle, also the ATK of that opponent's battling monster is halved at the end of the Damage Step. During the End Phase, if this card is in the GY because it was sent there from the field this turn: You can Special Summon this card, but banish when it leaves the field. You can only use this effect of \"Dinowrestler Martial Ankylo\" once per turn.",
     "str1": "Send this card to the GY to activate effect",
     "str2": "Special Summon this card",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-JP006",
+        "date": "2019-04-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/44/DinowrestlerMartialAnkylo-RIRA-JP-C.png"
 }

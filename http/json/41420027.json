@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": -2147483645,
     "name": "Solemn Judgment",
-    "desc": "When a monster would be Summoned, OR a Spell/Trap Card is activated: Pay half your Life Points; negate the Summon or activation, and if you do, destroy that card.",
+    "desc": "When a monster(s) would be Summoned, OR a Spell/Trap Card is activated: Pay half your LP; negate the Summon or activation, and if you do, destroy that card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "MRD-127",
         "date": "2002-06-26"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9c/SolemnJudgment-LCJW-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ee/SolemnJudgment-BLRR-EN-UR-1E.png"
 }

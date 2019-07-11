@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 0,
     "name": "Shiranui Spectralsword",
-    "desc": "If this card is in your Graveyard, except the turn this card was sent to the Graveyard: You can target 1 non-Tuner Zombie-Type monster in your Graveyard; banish both it and this card, and if you do, Special Summon 1 Zombie-Type Synchro Monster from your Extra Deck whose Level equals the total Levels those 2 monsters had. You can only use this effect of \"Shiranui Spectralsword\" once per turn.",
+    "desc": "If this card is in your GY, except the turn this card was sent to the GY: You can target 1 non-Tuner Zombie monster in your GY; banish both it and this card, and if you do, Special Summon 1 Zombie Synchro Monster from your Extra Deck whose Level equals the total Levels those 2 monsters had. You can only use this effect of &#x201C;Shiranui Spectralsword&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "BOSH-DE031",
         "date": "2016-01-14"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a3/ShiranuiSpectralsword-MP16-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/13/ShiranuiSpectralsword-HISU-EN-SR-1E.png"
 }

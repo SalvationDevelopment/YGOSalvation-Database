@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 268,
     "name": "Common Charity",
-    "desc": "Draw 2 cards, then remove from play 1 Normal Monster Card from your hand. If you don't have any Normal Monster Cards in your hand to remove, send all cards in your hand to the Graveyard.",
+    "desc": "Draw 2 cards, then banish 1 Normal Monster from your hand, or, if you have none, send your entire hand to the GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Tactical Evolution",
-        "pack_id": "TAEV-JP072",
-        "date": "2007-05-12"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Tactical Evolution",
-        "pack_id": "TAEV-FR072",
-        "date": "2007-08-04"
+        "pack": "Speed Duel: Arena of Lost Souls",
+        "pack_id": "SBLS-PT016",
+        "date": "2019-03-28"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cf/CommonCharity-TAEV-EN-R-1E.jpg"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f6/CommonCharity-SBLS-EN-C-1E.png"
 }

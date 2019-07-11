@@ -10,7 +10,7 @@
     "race": 0,
     "attribute": 0,
     "category": 0,
-    "name": "Speedrift",
+    "name": "Speedlift",
     "desc": "If you control exactly 1 Tuner (and no other monsters): Special Summon 1 Level 4 or lower \"Speedroid\" monster from your Deck. When that monster is Special Summoned, cards and effects cannot be activated.",
     "str1": "",
     "str2": "",
@@ -35,6 +35,10 @@
         "pack_id": "DBLE-JP004",
         "date": "2016-11-26"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/07/Speedrift-DBLE-JP-UPR.png"
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE096",
+        "date": "2019-05-02"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c3/Speedlift-DANE-EN-C-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262656,
     "name": "Urgent Schedule",
-    "desc": "If your opponent controls more monsters than you do: Special Summon 1 Level 4 or lower and 1 Level 5 or higher EARTH Machine monsters from your Deck in Defense Position, but negate their effects. You cannot declare attacks the turn you activate this card, except with Machine monsters. If this Set card is sent from the field to the GY: You can add 1 Level 10 Machine monster from your Deck to your hand. You can only use each effect of \"Urgent Schedule\" once per turn.",
+    "desc": "If your opponent controls more monsters than you do: Special Summon 1 Level 4 or lower EARTH Machine monster and 1 Level 5 or higher EARTH Machine monster from your Deck in Defense Position, but their effects are negated. You cannot declare attacks the turn you activate this card, except with Machine monsters. If this Set card is sent from the field to the GY: You can add 1 Level 10 Machine monster from your Deck to your hand. You can only use each effect of \"Urgent Schedule\" once per turn.",
     "str1": "Special Summon",
     "str2": "Add to hand",
     "str3": "Affected by \"Urgent Schedule\"",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: Sisters of the Rose",
+        "pack_id": "LED4-DE037",
+        "date": "2019-01-10"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 4",
+        "pack_id": "DP21-JP037",
+        "date": "2018-11-10"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d6/UrgentSchedule-LED4-EN-UR-1E.png"
 }

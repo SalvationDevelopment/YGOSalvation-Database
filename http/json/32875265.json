@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Puppet Parade",
-    "desc": "If your opponent controls more monsters than you do, Special Summon \"Gimmick Puppet\" monsters with different names from your Deck up to the difference, then, if your opponent's LP is at least 2000 higher than yours, you can Set 1 \"Rank-Up-Magic\" Normal Spell directly from your Deck. For the rest of this turn after this card resolves, you cannot Special Summon monsters, except \"Gimmick Puppet\" monsters. You can only activate 1 \"Puppet Parade\" per turn.",
+    "desc": "If your opponent controls more monsters than you do: Special Summon \"Gimmick Puppet\" monsters with different names from your Deck equal to that difference. Also, after that, if your LP is at least 2000 lower than your opponent's, you can set 1 \"Rank-Up-Magic\" Normal Spell directly from your Deck. For the rest of this turn, you cannot Special Summon, except \"Gimmick Puppet\" monsters. You can only activate 1 \"Puppet Parade\" per turn.",
     "str1": "Special Summon",
     "str2": "Set 1 \"Rank-Up-Magic\" Normal Spell?",
     "str3": "Affected by \"Puppet Parade\"",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "DP22",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 5",
+        "pack_id": "DP22-JP038",
+        "date": "2019-06-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c3/PuppetParade-DP22-JP-OP.png"
 }

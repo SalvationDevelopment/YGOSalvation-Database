@@ -2,7 +2,7 @@
     "id": 42899204,
     "ot": 3,
     "alias": 0,
-    "setcode": 297,
+    "setcode": 0,
     "type": 131076,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 4096,
     "name": "Evil Eye Mesmerism",
-    "desc": "When your opponent Special Summons a monster(s): Activate this card by targeting 1 of those Summoned monsters in Attack Position, with less ATK than an \"Evil Eye\" monster you control; take control of that monster. When that monster leaves the field, destroy this card. While \"Evil Eye of Selene\" is in your Spell & Trap Zone, that targeted monster is also treated as an \"Evil Eye\" monster. You can only activate 1 \"Evil Eye Mesmerism\" per turn.",
+    "desc": "When your opponent Special Summons a monster(s) in Attack Position while you control an \"Evil Eye\" monster whose ATK is higher than that monster's: Activate this card by targeting 1 of those monsters; take control of it. It is also treated as an \"Evil Eye\" monster while \"Evil Eye of Selene\" is in your Spell & Trap Zone. When that monster leaves the field, destroy this card. You can only activate 1 \"Death Control of the Evil Eye\" per turn.",
     "str1": "Take control",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "The Infinity Chasers",
+        "pack_id": "INCH-EN038",
+        "date": "2019-03-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Infinity Chasers",
+        "pack_id": "DBIC-JP038",
+        "date": "2019-02-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/03/EvilEyeMesmerism-DBIC-JP-SR.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 3,
     "name": "Archfiend Emperor, the First Lord of Horror",
-    "desc": "You can Normal Summon this card without Tributing, but its original ATK and DEF become halved. If Summoned this way, it is destroyed during the End Phase. You cannot Special Summon any monsters, except Fiend-Type monsters. Once per turn: You can banish 1 \"Archfiend\" card from your hand or Graveyard, then target 1 card on the field; destroy that target.",
+    "desc": "You can Normal Summon this card without Tributing, but its original ATK/DEF become halved. If Summoned this way, this card is destroyed during the End Phase. You cannot Special Summon any monsters, except Fiend monsters. Once per turn: You can banish 1 \"Archfiend\" card from your hand or GY, then target 1 card on the field; destroy that target.",
     "str1": "Normal Summon Without Tributing",
     "str2": "Destroy a card",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "JOTL-DE031",
         "date": "2013-08-08"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/38/ArchfiendEmperortheFirstLordofHorror-MP14-EN-R-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/19/ArchfiendEmperortheFirstLordofHorror-SR06-EN-C-1E.png"
 }

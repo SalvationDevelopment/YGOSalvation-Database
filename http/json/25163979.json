@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 0,
-    "name": "World Legacy Nightmare",
-    "desc": "You take no battle damage from attacks involving your co-linked monsters. Once per turn: You can activate 1 of these effects;\n● Move 1 \"Troymare\" monster you control to another of your Main Monster Zones.\n● Switch the locations of 2 \"Troymare\" monsters in your Main Monster Zones.",
+    "name": "World Legacy's Nightmare",
+    "desc": "You take no battle damage from attacks involving your co-linked monsters. Once per turn: You can activate 1 of these effects;\n● Move 1 \"Knightmare\" monster you control to another of your Main Monster Zones.\n● Switch the locations of 2 \"Knightmare\" monsters in your Main Monster Zones.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -29,11 +29,15 @@
     "str15": "",
     "str16": "",
     "cardpool": "OCG",
-    "tcg": {},
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE059",
+        "date": "2018-05-03"
+    },
     "ocg": {
         "pack": "Flames of Destruction",
         "pack_id": "FLOD-JP059",
         "date": "2018-01-13"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f7/WorldLegacyNightmare-FLOD-JP-C.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e7/WorldLegacysNightmare-FLOD-EN-C-1E.png"
 }

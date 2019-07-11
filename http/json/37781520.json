@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 263232,
     "name": "Mermail Abyssleed",
-    "desc": "You can discard 3 other WATER monsters to the Graveyard; Special Summon this card from your hand. When you do: You can target 1 \"Abyss-\" Spell/Trap Card in your Graveyard; add that target to your hand. You can Tribute 1 other face-up Attack Position \"Mermail\" monster; send 1 random card from your opponent's hand to the Graveyard. You can only use this effect of \"Mermail Abyssleed\" once per turn.",
+    "desc": "You can discard 3 other WATER monsters to the GY; Special Summon this card from your hand. When Summoned this way: You can target 1 \"Abyss-\" Spell/Trap in your GY; add that target to your hand. You can Tribute 1 other Attack Position \"Mermail\" monster; send 1 random card from your opponent's hand to the GY. You can only use this effect of \"Mermail Abyssleed\" once per turn.",
     "str1": "Special Summon",
     "str2": "Recover Spell/Trap Card",
     "str3": "Discard Cards to Graveyard",
@@ -30,15 +30,7 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Cosmo Blazer",
-        "pack_id": "CBLZ-JP034",
-        "date": "2012-11-17"
-    },
-    "tcg": {
-        "pack": "Cosmo Blazer",
-        "pack_id": "CBLZ-DE034",
-        "date": "2013-01-24"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/MermailAbyssleed-CBLZ-EN-ScR-1E.png"
+    "ocg": {},
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/29/MermailAbyssleed-SHVA-EN-SR-1E.png"
 }

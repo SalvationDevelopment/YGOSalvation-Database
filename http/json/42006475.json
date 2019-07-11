@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262144,
     "name": "Palladium Oracle Mana",
-    "desc": "When your opponent activates a card or effect that targets 1 Spellcaster monster you control (and no other cards) while this card is in your hand or GY (Quick Effect): You can Special Summon this card. You can only use this effect of \"Palladium Oracle Mana\" once per turn. Level 7 or higher Spellcaster monsters you control cannot be destroyed by card effects. If this card is destroyed by battle or card effect: You can Special Summon 1 \"Dark Magician Girl\" from your hand, Deck, or GY.",
+    "desc": "When your opponent activates a card or effect that targets 1 Spellcaster monster you control (and no other cards) while this card is in your hand or GY (Quick Effect): You can Special Summon this card. You can only use this effect of &#x201C;Palladium Oracle Mana&#x201D; once per turn. Level 7 or higher Spellcaster monsters you control cannot be destroyed by card effects. If this card is destroyed by battle or card effect: You can Special Summon 1 &#x201C;Dark Magician Girl&#x201D; from your hand, Deck, or GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "20th Anniversary Legend Collection",
+        "pack_id": "20TH-JPC03",
+        "date": "2019-02-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/ff/PalladiumOracleMana-20TH-JP-ScR.png"
 }

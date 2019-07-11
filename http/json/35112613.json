@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 16,
     "name": "Kuriphoton",
-    "desc": "During either player's turn: You can send this card from your hand to the Graveyard and pay 2000 Life Points; you take no damage this turn. If this card is in your Graveyard: You can send 1 \"Photon\" monster from your hand to the Graveyard, except \"Kuriphoton\"; add this card from your Graveyard to your hand. You can only use this effect of \"Kuriphoton\" once per turn.",
+    "desc": "(Quick Effect): You can send this card from your hand to the GY and pay 2000 LP; you take no damage this turn. If this card is in your GY: You can send 1 \"Photon\" monster from your hand to the GY, except \"Kuriphoton\"; add this card from your GY to your hand. You can only use this effect of \"Kuriphoton\" once per turn.",
     "str1": "Take 0 damage",
     "str2": "Add to hand",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "ZTIN-DE009",
         "date": "2013-03-07"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1a/Kuriphoton-ZTIN-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2f/Kuriphoton-LED3-EN-C-1E.png"
 }

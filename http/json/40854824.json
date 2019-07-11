@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 0,
-    "name": "Over the Rainbow",
-    "desc": "If a monster whose original name is \"Rainbow Dragon\" or \"Rainbow Dark Dragon\" activated its effect this turn, while you controlled it: Special Summon any number of \"Crystal Beast\" monsters with different names from your Deck.",
+    "name": "Rainbow Refraction",
+    "desc": "If a monster(s) you control whose original name is \"Rainbow Dragon\" or \"Rainbow Dark Dragon\" activated its effect this turn: Special Summon any number of \"Crystal Beast\" monsters with different names from your Deck.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,6 +35,10 @@
         "pack_id": "SECE-JP083",
         "date": "2014-11-15"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c3/OvertheRainbow-SECE-JP-C.png"
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE098",
+        "date": "2018-05-03"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/91/RainbowRefraction-FLOD-EN-SR-1E.png"
 }

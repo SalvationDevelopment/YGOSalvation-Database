@@ -2,7 +2,7 @@
     "id": 41685633,
     "ot": 3,
     "alias": 0,
-    "setcode": 284,
+    "setcode": 0,
     "type": 97,
     "atk": 3200,
     "def": 3200,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 16777216,
     "name": "Thunder Dragon Titan",
-    "desc": "3 \"Thunder Dragon\" monsters\r\nMust be either Fusion Summoned, or Special Summoned by banishing 1 Thunder monster from your hand and 1 Thunder Fusion Monster you control, except \"Thunder Dragon Titan\" (in which case you do not use \"Polymerization\"). When a Thunder monster's effect is activated in the hand, even during the Damage Step (Quick Effect): You can destroy 1 card on the field. If this card would be destroyed by card effect, you can banish 2 cards from your GY instead.",
+    "desc": "3 \"Thunder Dragon\" monsters\nMust be either Fusion Summoned, or Special Summoned by banishing 1 Thunder monster from your hand and 1 Thunder Fusion Monster you control, except \"Thunder Dragon Titan\" (in which case you do not use \"Polymerization\"). When a Thunder monster's effect is activated in the hand, even during the Damage Step (Quick Effect): You can destroy 1 card on the field. If this card would be destroyed by card effect, you can banish 2 cards from your GY instead.",
     "str1": "",
     "str2": "Prevent the destruction of \"Thunder Dragon Lord\"?",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE037",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP037",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0f/ThunderDragonTitan-SOFU-EN-ScR-1E.png"
 }

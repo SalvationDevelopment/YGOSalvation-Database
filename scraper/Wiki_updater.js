@@ -10,12 +10,15 @@ var scraperjs = require('scraperjs'),
     json_path = '..\\http\\json\\',
     markers;
 
-async.eachLimit(input_file, 100, function(line, next) {
+async.eachLimit(input_file, 10, function(line, next) {
     var filename = json_path + String(line) + '.json';
     try {
         var card_json = jsonfile.readFileSync(filename),
             wiki_url = card_json.name;
-        json_create(card_json, wiki_url, filename, next);
+        setTimeout(() => {
+            json_create(card_json, wiki_url, filename, next);
+        }, 3200);
+
     } catch (e) {
         console.log('failed', line);
     }

@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 394252,
     "name": "Drill Warrior",
-    "desc": "\"Drill Synchron\" + 1 or more non-Tuner monsters.\nOnce per turn, during your Main Phase 1: You can halve this card's ATK, and if you do, it can attack your opponent directly this turn. Once per turn: You can discard 1 card, and if you do, banish this card. During your next Standby Phase: Special Summon this card banished by this effect, then add 1 monster from your Graveyard to your hand.",
+    "desc": "\"Drill Synchron\" + 1 or more non-Tuner Monsters.\nOnce per turn, during your Main Phase 1: You can halve this card's ATK, and if you do, it can attack your opponent directly this turn. Once per turn: You can discard 1 card, and if you do, banish this card. During your next Standby Phase: Special Summon this card banished by this effect, then add 1 monster from your Graveyard to your hand.",
     "str1": "Halve this card's ATK (permanently) to enable direct attack this turn",
     "str2": "Discard 1 card and remove this card from play",
     "str3": "Special Summon",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Absolute Powerforce",
-        "pack_id": "ABPF-JP041",
-        "date": "2009-11-14"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Absolute Powerforce",
-        "pack_id": "ABPF-DE041",
-        "date": "2010-02-11"
+        "pack": "Legendary Collection 5D's Mega Pack",
+        "pack_id": "LC5D-PT038",
+        "date": "2014-10-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b1/DrillWarrior-LC5D-EN-ScR-1E.png"
 }

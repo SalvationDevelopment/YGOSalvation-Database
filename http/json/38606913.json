@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 71303168,
     "name": "Cubic Omen",
-    "desc": "Place Cubic Counters on a face-up monster(s) your opponent controls, up to the number of \"Cubic\" monsters you control. (Monsters with a Cubic Counter cannot attack, also negate their effects.) You can banish this card from your GY, then target 1 \"Cubic\" monster you control; this turn, each time it destroys a monster with a Cubic Counter by battle, inflict damage to your opponent equal to the destroyed monster's original ATK. You can only use each effect of \"Cubic Omen\" once per turn.",
+    "desc": "Place Cubic Counters on a face-up monster(s) your opponent controls, up to the number of &#x201C;Cubic&#x201D; monsters you control. (Monsters with a Cubic Counter cannot attack, also negate their effects.) You can banish this card from your GY, then target 1 &#x201C;Cubic&#x201D; monster you control; this turn, each time it destroys a monster with a Cubic Counter by battle, inflict damage to your opponent equal to the destroyed monster's original ATK. You can only use each effect of &#x201C;Cubic Omen&#x201D; once per turn.",
     "str1": "Place Counters",
     "str2": "Inflict Damage",
     "str3": "Inflict Damage",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "20th Anniversary Legend Collection",
+        "pack_id": "20TH-JPC18",
+        "date": "2019-02-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8f/CubicOmen-20TH-JP-ScR.png"
 }

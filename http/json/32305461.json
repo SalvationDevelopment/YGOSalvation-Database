@@ -2,7 +2,7 @@
     "id": 32305461,
     "ot": 1,
     "alias": 0,
-    "setcode": 302,
+    "setcode": 0,
     "type": 33,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 17039360,
     "name": "Fortune Fairy En",
-    "desc": "When you draw this card: You can reveal this card; Special Summon it from your hand. If this card is Special Summoned from the hand: You can target 1 Set card your opponent controls; destroy it. You can only use each effect of \"Fortune Fairy En\" once per turn.",
+    "desc": "When you draw this card: You can reveal it; Special Summon it from your hand. If this card is Special Summoned from the hand: You can target 1 Set card your opponent controls; destroy it. You can only use each effect of \"Fortune Fairy En\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Collection Pack: Duelists of Revolution",
+        "pack_id": "CP19-JP018",
+        "date": "2019-05-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/65/FortuneFairyEn-BLHR-EN-UR-1E.png"
 }

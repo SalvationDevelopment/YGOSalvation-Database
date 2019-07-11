@@ -2,7 +2,7 @@
     "id": 41729254,
     "ot": 3,
     "alias": 0,
-    "setcode": 289,
+    "setcode": 0,
     "type": 33,
     "atk": 600,
     "def": 400,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 262144,
     "name": "Hajun, the Winged Mayakashi",
-    "desc": "If this card is Normal or Special Summoned: You can Special Summon 1 \"Mayakashi\" monster from your Deck, except \"Hajun, the Winged Mayakashi\". You can only use this effect of \"Hajun, the Winged Mayakashi\" once per turn. You cannot Special Summon monsters from the Extra Deck, except \"Mayakashi\" monsters.",
+    "desc": "If this card is Normal or Special Summoned: You can Special Summon 1 &#x201C;Mayakashi&#x201D; monster from your Deck, except \"Hajun, the Winged Mayakashi&#x201D;. You can only use this effect of &#x201C;Hajun, the Winged Mayakashi&#x201D; once per turn. You cannot Special Summon monsters from the Extra Deck, except &#x201C;Mayakashi&#x201D; monsters.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Hidden Summoners",
+        "pack_id": "DBHS-DE029",
+        "date": "2018-11-15"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Hidden Summoners",
+        "pack_id": "DBHS-JP029",
+        "date": "2018-08-04"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4a/HajuntheWingedMayakashi-HISU-EN-ScR-1E.png"
 }

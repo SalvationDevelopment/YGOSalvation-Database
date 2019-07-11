@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 8,
     "name": "Festive Flame",
-    "desc": "When this card is Normal Summoned: You can send cards from the top of your opponent's Deck to the GY, equal to the number of cards they control. If this card is Special Summoned: You can send cards from the top of your Deck to the GY, equal to the number of cards your opponent controls. You can only use this effect of \"Festive Flame\" once per turn.",
+    "desc": "When this card is Normal Summoned: You can send to the GY, from the top of your opponent's Deck, cards equal to the number of cards your opponent controls. If this card is Special Summoned: You can send to the GY, from the top of your Deck, cards equal to the number of cards your opponent controls. You can only use this effect of &#x201C;Festive Flame&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Jump Festa Limited Pack 2019",
+        "pack_id": "JF19-JP002",
+        "date": "2018-12-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/db/FestiveFlame-JF19-JP-OP.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Paleozoic Dinomischus",
-    "desc": "Target 1 face-up card on the field; discard 1 card, and if you do, banish it. Once per Chain, when a Trap Card is activated while this card is in your Graveyard: Special Summon this card as a Normal Monster (Aqua-Type/WATER/Level 2/ATK 1200/DEF 0). (This card is NOT treated as a Trap Card.) If Summoned this way, this card is unaffected by monster effects, also banish it when it leaves the field.",
+    "desc": "Target 1 face-up card on the field; discard 1 card, and if you do, banish it. Once per Chain, when a Trap Card is activated while this card is in your GY: Special Summon this card as a Normal Monster (Aqua/WATER/Level 2/ATK 1200/DEF 0). (This card is NOT treated as a Trap.) If Summoned this way, this card is unaffected by monster effects, also banish it when it leaves the field.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "INOV-DE096",
         "date": "2016-11-03"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dd/PaleozoicDinomischus-MP17-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cb/PaleozoicDinomischus-OP07-EN-SR-UE.png"
 }

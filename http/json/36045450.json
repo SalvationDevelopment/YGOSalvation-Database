@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 1056768,
     "name": "Magicians Unite",
-    "desc": "If you control 2 or more Attack Position Spellcaster-Type monsters: Target 1 of them; its ATK becomes 3000 until the end of this turn, also for the rest of this turn after this card resolves, other Spellcaster-Type monsters you control cannot attack.",
+    "desc": "If you control 2 or more Attack Position Spellcaster monsters: Target 1 of them; its ATK becomes 3000 until the end of this turn, also for the rest of this turn after this card resolves, other Spellcaster monsters you control cannot attack.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -36,9 +36,9 @@
         "date": "2005-06-21"
     },
     "tcg": {
-        "pack": "Champion Pack: Game Three",
-        "pack_id": "CP03-DE001",
-        "date": "2007-05-15"
+        "pack": "Starter Deck Yugi - Reloaded",
+        "pack_id": "YSYR-PT035",
+        "date": "2013-12-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/00/MagiciansUnite-LDK2-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/MagiciansUnite-SBLS-EN-C-1E.png"
 }

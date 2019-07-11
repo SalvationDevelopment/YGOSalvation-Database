@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Solemn Strike",
-    "desc": "When a monster(s) would be Special Summoned, or a monster effect is activated: Pay 1500 LP; negate the Summon or activation, and if you do, destroy that card.",
+    "desc": "When a monster(s) would be Special Summoned, OR a monster effect is activated: Pay 1500 LP; negate the Summon or activation, and if you do, destroy that card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "BOSH-DE079",
         "date": "2016-01-14"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/35/SolemnStrike-COTD-EN-SR-LE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/70/SolemnStrike-BLRR-EN-UR-1E.png"
 }

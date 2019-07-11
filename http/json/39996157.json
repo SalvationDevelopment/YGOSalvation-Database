@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Machine Angel Ritual",
-    "desc": "This card can be used to Ritual Summon any \"Cyber Angel\" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. If a LIGHT monster(s) you control would be destroyed by battle or card effect while this card is in your Graveyard, you can banish this card instead.",
+    "desc": "This card can be used to Ritual Summon any \"Cyber Angel\" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. If a LIGHT monster(s) you control would be destroyed by battle or card effect while this card is in your GY, you can banish this card instead.",
     "str1": "Banish Machine Angel Ritual instead?",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "DRL3-DE015",
         "date": "2016-08-18"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/10/MachineAngelRitual-DPDG-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4f/MachineAngelRitual-LED4-EN-C-1E.png"
 }

@@ -2,7 +2,7 @@
     "id": 37890974,
     "ot": 1,
     "alias": 0,
-    "setcode": 532,
+    "setcode": 0,
     "type": 131076,
     "atk": 0,
     "def": 0,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 262144,
-    "name": "Skyfang Brigade Training",
-    "desc": "If a \"Skyfang Brigade\" monster(s) you control is destroyed by battle or an opponent's card effect: You can target 1 of those monsters; Special Summon 1 \"Skyfang Brigade\" monster from your Deck with a Level less than that monster's original Level. You can only use this effect of \"Skyfang Brigade Training\" once per turn.",
+    "name": "Training Fur Hire, Fur All Your Training Needs",
+    "desc": "If a monster(s) \"Fur Hire\" you control is destroyed by battle or an opponent's card effect: You can target 1 of those monsters; Special Summon 1 monster \"Fur Hire\" from your Deck. whose Level is lower than target's original Level. You can only use this effect of \"Training Fur Hire, Fur All Your Training Needs\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -29,11 +29,15 @@
     "str15": "",
     "str16": "",
     "cardpool": "OCG",
-    "tcg": {},
+    "tcg": {
+        "pack": "Dark Saviors",
+        "pack_id": "DASA-DE026",
+        "date": "2018-05-24"
+    },
     "ocg": {
         "pack": "Deck Build Pack: Dark Savers",
         "pack_id": "DBDS-JP026",
         "date": "2018-02-24"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5c/SkyfangBrigadeTraining-DBDS-JP-SR.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a0/TrainingFurHireFurAllYourTrainingNeeds-DASA-EN-ScR-1E.png"
 }

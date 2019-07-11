@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 2147491840,
     "name": "Apollousa, Bow of the Goddess",
-    "desc": "2+ monsters with different names, except Tokens\r\nThis card's original ATK becomes the number of materials used for its Link Summon x 800. Once per Chain, when your opponent activates a monster effect (Quick Effect): You can make this card lose exactly 800 ATK, and if you do, negate the activation. You can only control 1 \"Apollousa, Bow of the Goddess\".",
+    "desc": "Link Arrows: [🡱][🡷][🡳][🡶]\n\n2+ monsters with different names, except Tokens\nThe original ATK of this card becomes the number of monsters used as Link Materials for this card &#xD7;800. When your opponent activates a monster effect (Quick Effect): You can make this card loses exactly 800 ATK, and if it does, negate that activation. You can only control 1 \"Apollousa, Bow of the Goddess\".",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,18 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-JP048",
+        "date": "2019-04-13"
+    },
+    "links": [
+        1,
+        5,
+        6,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/53/ApollousaBowoftheGoddess-RIRA-JP-OP.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Neo-Spacian Dark Panther",
-    "desc": "Once per turn: You can target 1 face-up monster your opponent controls; until the End Phase, while you control this face-up card, this card's name and effects become those of that target.",
+    "desc": "Once per turn: You can target 1 face-up monster your opponent controls; until the End Phase, this card's name becomes that monster's original name, also replace this effect with that monster's original effect (if any).",
     "str1": "效果复制",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Power of the Duelist",
-        "pack_id": "POTD-JP005",
-        "date": "2006-05-18"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Power of the Duelist",
-        "pack_id": "POTD-DE005",
-        "date": "2006-08-16"
+        "pack": "Battles of Legend: Relentless Revenge",
+        "pack_id": "BLRR-PT052",
+        "date": "2018-06-28"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/57/NeoSpacianDarkPanther-LCGX-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/09/NeoSpacianDarkPanther-BLRR-EN-UR-1E.png"
 }

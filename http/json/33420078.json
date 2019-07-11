@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262148,
     "name": "Plaguespreader Zombie",
-    "desc": "If this card is in your Graveyard: You can place 1 card from your hand on the top of the Deck; Special Summon this card, but banish it when it leaves the field.",
+    "desc": "If this card is in your GY: You can place 1 card from your hand on the top of the Deck; Special Summon this card, but banish it when it leaves the field.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -30,15 +30,7 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Crossroads of Chaos",
-        "pack_id": "CSOC-JP031",
-        "date": "2008-07-19"
-    },
-    "tcg": {
-        "pack": "Crossroads of Chaos",
-        "pack_id": "CSOC-EN031",
-        "date": "2008-11-01"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/96/PlaguespreaderZombie-DUSA-EN-UR-1E.png"
+    "ocg": {},
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/PlaguespreaderZombie-DASA-EN-SR-1E.png"
 }

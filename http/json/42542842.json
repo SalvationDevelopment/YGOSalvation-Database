@@ -2,7 +2,7 @@
     "id": 42542842,
     "ot": 3,
     "alias": 0,
-    "setcode": 289,
+    "setcode": 0,
     "type": 4129,
     "atk": 1000,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 262144,
     "name": "Dakki, the Graceful Mayakashi",
-    "desc": "You can only control 1 \"Dakki, the Graceful Mayakashi\". When a \"Mayakashi\" monster(s) is Special Summoned to your field from the Extra Deck, while this card is in the GY (except during the Damage Step): You can Special Summon this card. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except \"Mayakashi\" monsters.",
+    "desc": "You can only control 1 &#x201C;Dakki, the Graceful Mayakashi&#x201D;. When a &#x201C;Mayakashi&#x201D; monster(s) is Special Summoned to your field from the Extra Deck, while this card is in the GY (except during the Damage Step): You can Special Summon this card. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except &#x201C;Mayakashi&#x201D; monsters.",
     "str1": "Special Summon",
     "str2": "Affected by \"Dakki, the Graceful Mayakashi\"",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Hidden Summoners",
+        "pack_id": "HISU-EN027",
+        "date": "2018-11-15"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Hidden Summoners",
+        "pack_id": "DBHS-JP027",
+        "date": "2018-08-04"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/DakkitheGracefulMayakashi-HISU-EN-ScR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Dirge of the Lost Dragon",
-    "desc": "Activate this card by declaring 1 card name. Each time the declared card, or its effect, is activated, halve its owner's LP immediately after it resolves. During the End Phase, if this card halved a player's LP this turn, send this card to the GY. While your opponent controls a monster, this card cannot be destroyed by card effects.",
+    "desc": "Activate this card by declaring 1 card name. Each time the declared card, or its effect, is activated, halve the LP of that card's owner immediately after it resolves. During the End Phase of the turn this effect was applied, send this card to the GY. If your opponent controls a monster, this card cannot be destroyed by card effects.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE63",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP063",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/14/DirgeoftheLostDragon-DANE-EN-SR-1E.png"
 }

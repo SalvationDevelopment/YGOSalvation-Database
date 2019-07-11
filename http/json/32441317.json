@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 537133088,
     "name": "De-Synchro",
-    "desc": "Target 1 Synchro Monster on the field; return that target to the Extra Deck, then, if all of the monsters that were used for the Synchro Summon of that monster are in your Graveyard, you can Special Summon all of them.",
+    "desc": "Target 1 Synchro Monster on the field; return that target to the Extra Deck, then, if all of the monsters that were used for the Synchro Summon of that monster are in your GY, you can Special Summon all of them.",
     "str1": "Special Summon Synchro Material Monsters?",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "The Duelist Genesis",
-        "pack_id": "TDGS-JP049",
-        "date": "2008-04-19"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "The Duelist Genesis",
-        "pack_id": "TDGS-EN049",
-        "date": "2008-08-09"
+        "pack": "Duel Terminal 6b",
+        "pack_id": "DT06-EN092",
+        "date": "2012-05-25"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/aa/DeSynchro-LC5D-EN-SR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c0/DeSynchro-HISU-EN-SR-1E.png"
 }

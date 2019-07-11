@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262148,
     "name": "Valkyrie of the Nordic Ascendant",
-    "desc": "When this card is Normal Summoned, if your opponent controls a monster and you control no other cards: You can banish 2 \"Nordic\" monsters from your hand; Special Summon 2 \"Einherjar Tokens\" (Warrior-Type/EARTH/Level 4/ATK 1000/DEF 1000) in Defense Position.",
+    "desc": "(This card is not treated as a \"Valkyrie\" card.)\nWhen this card is Normal Summoned, if your opponent controls a monster and you control no other cards: You can banish 2 \"Nordic\" monsters from your hand; Special Summon 2 \"Einherjar Tokens\" (Warrior/EARTH/Level 4/ATK 1000/DEF 1000) in Defense Position.",
     "str1": "Special Summon token",
     "str2": "",
     "str3": "",
@@ -30,15 +30,7 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Storm of Ragnarok",
-        "pack_id": "STOR-JP017",
-        "date": "2010-11-13"
-    },
-    "tcg": {
-        "pack": "Storm of Ragnarok",
-        "pack_id": "STOR-EN017",
-        "date": "2011-02-08"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a4/ValkyrieoftheNordicAscendant-LC5D-EN-ScR-1E.png"
+    "ocg": {},
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/ValkyrieoftheNordicAscendant-LEHD-EN-C-1E.png"
 }

@@ -2,7 +2,7 @@
     "id": 36205132,
     "ot": 3,
     "alias": 0,
-    "setcode": 276,
+    "setcode": 0,
     "type": 33,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 262144,
     "name": "Filo, Messenger Fur Hire",
-    "desc": "During your Main Phase: You can Special Summon 1 monster \"Fur Hire\" from your hand, except \"Filo, Messenger Fur Hire\". If a monster \"Fur Hire\" is Special Summoned to your field while you control this monster (except during the Damage Step): You can target 1 monster \"Fur Hire\" in your GY; Special Summon it in Defense Position, but place it on the bottom of the Deck if it leaves the field. You can only use each effect of \"Filo, Messenger Fur Hire\" once per turn.",
+    "desc": "During your Main Phase: You can Special Summon 1 monster \"Fur Hire\" from your hand, except \"Filo, Messenger Fur Hire.\". If a monster \"Fur Hire\" is Special Summoned to your field while you control this monster (except during the Damage Step): You can target 1 monster \"Fur Hire\" in your GY; Special Summon it in Defense Position, but place it on the bottom of the Deck if it leaves the field. You can only use each effect of \"Filo, Messenger Fur Hire\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE015",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP015",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5d/FiloMessengerFurHire-DANE-EN-R-1E.png"
 }

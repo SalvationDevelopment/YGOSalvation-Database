@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 1048576,
     "name": "Zombie World",
-    "desc": "All monsters on the field and in every Graveyard become Zombie-Type monsters. Neither player can Tribute Summon monsters, except Zombie-Type monsters.",
+    "desc": "All monsters on the field and in the GYs become Zombie monsters. Neither player can Tribute Summon monsters, except Zombie monsters.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Structure Deck: Undead World",
-        "pack_id": "SD15-JP016",
-        "date": "2008-06-21"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Zombie World Structure Deck",
-        "pack_id": "SDZW-DE017",
-        "date": "2008-10-21"
+        "pack": "Legendary Collection 4: Joey's World Mega Pack",
+        "pack_id": "LCJW-PT213",
+        "date": "2013-10-11"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8c/ZombieWorld-LCJW-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/72/ZombieWorld-OP07-EN-C-UE.png"
 }

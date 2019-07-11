@@ -2,7 +2,7 @@
     "id": 28388927,
     "ot": 1,
     "alias": 0,
-    "setcode": 303,
+    "setcode": 0,
     "type": 4129,
     "atk": 400,
     "def": 800,
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Collection Pack: Duelists of Revolution",
+        "pack_id": "CP19-JP036",
+        "date": "2019-05-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/BattlewaspStingthePoison-BLHR-EN-UR-1E.png"
 }

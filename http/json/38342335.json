@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 288,
     "name": "Knightmare Unicorn",
-    "desc": "Link Arrows: [🡰][🡳][🡲]\n\n2+ monsters with different names\nIf this card is Link Summoned: You can discard 1 card, then target 1 card on the field; shuffle it into the Deck, then if this card was co-linked when this effect was activated, you can draw 1 card. You can only use this effect of \"Troymare Unicorn\" once per turn. While a co-linked \"Troymare\" monster(s) is on the field, draw cards equal to the number of those monsters with different names instead of 1 for your normal draw during your Draw Phase.",
+    "desc": "Link Arrows: [🡰][🡳][🡲]\n\n2+ monsters with different names\nIf this card is Link Summoned: You can discard 1 card, then target 1 card on the field; return it into the Deck, then, if this card was co-linked when this effect was activated, you can draw 1 card. You can only use this effect of \"Knightmare Unicorn\" once per turn. While any co-linked \"Knightmare\" monsters is on the field, for your normal draw during your Draw Phase, draw 1 card for each different card name among those co-linked \"Knightmare\" monsters, instead of drawing just 1 card.",
     "str1": "Return to Deck",
     "str2": "Draw 1 card?",
     "str3": "",
@@ -29,7 +29,11 @@
     "str15": "",
     "str16": "",
     "cardpool": "OCG",
-    "tcg": {},
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE047",
+        "date": "2018-05-03"
+    },
     "ocg": {
         "pack": "Flames of Destruction",
         "pack_id": "FLOD-JP047",
@@ -40,5 +44,5 @@
         4,
         6
     ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/01/KnightmareUnicorn-FLOD-JP-SR.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cf/KnightmareUnicorn-FLOD-EN-ScR-1E.png"
 }

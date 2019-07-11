@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 16777220,
     "name": "Judgment, the Dragon of Heaven",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf you Synchro Summon this card, all materials must be the same Attribute. Once per turn, if you have 4 or more Tuners with different names in your GY and control this Synchro Summoned card: You can pay half your LP; destroy all other cards on the field, also, you cannot Special Summon monsters for the rest of this turn, except Dragon monsters. Once per turn, during your End Phase: Banish 4 cards from the top of your Deck.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nIf you Synchro Summon this card, all materials must be the same Attribute. Once per turn, if you have 4 or more Tuners with different names in your GY and control this Synchro Summoned card: You can pay half your LP; destroy all other cards on the field, also you cannot Special Summon monsters for the rest of this turn, except Dragon monsters. Once per turn, during your End Phase: Banish 4 cards from the top of your Deck.",
     "str1": "Destroy",
     "str2": "Banish top Deck",
     "str3": "Affected by \"Judgment, the Dragon of Heaven\"",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "20th Anniversary Legendary Dragons",
+        "pack_id": "VP18-JP002",
+        "date": "2018-05-21"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/48/JudgmenttheDragonofHeaven-JUMP-EN-LE-OP.png"
 }

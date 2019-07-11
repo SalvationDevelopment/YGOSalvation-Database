@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 10240,
     "name": "Insect Princess",
-    "desc": "While this card is face-up on the field, battle positions of all face-up Insect-Type monsters on your opponent's side of the field are changed into Attack Position. Each time this card destroys an Insect-Type monster as a result of battle, increase the ATK of this card by 500 points.",
+    "desc": "All Insect monsters your opponent controls are changed to Attack Position. If this card destroys an Insect monster by battle: This card gains 500 ATK.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Invader of Darkness",
-        "pack_id": "307-025",
-        "date": "2003-07-17"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Invasion of Chaos",
-        "pack_id": "IOC-080",
-        "date": "2004-03-01"
+        "pack": "OTS Tournament Pack 7",
+        "pack_id": "OP07-PT015",
+        "date": "2018-04-13"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/InsectPrincess-DR2-EN-UR-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3c/InsectPrincess-OP07-EN-C-UE.png"
 }

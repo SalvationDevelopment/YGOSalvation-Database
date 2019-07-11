@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Starter Deck 2019",
+        "pack_id": "ST19-JP001",
+        "date": "2019-03-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a4/FlipFrozen-ST19-JP-OP.png"
 }

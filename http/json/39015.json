@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262144,
     "name": "Assault Sentinel",
-    "desc": "You can Tribute this card; Special Summon 1 monster from your hand or Deck that specifically lists \"Assault Mode Activate\" in its text, except \"Assault Sentinel\", also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Synchro Monsters. You can target 1 face-up monster you control; reveal 1 Synchro Monster in your Extra Deck, and if you do, the targeted monster's Type and Attribute become the same as the revealed monster's, until the end of this turn. You can only use each effect of \"Assault Sentinel\" once per turn.",
+    "desc": "You can Tribute this card; Special Summon 1 monster from your hand or Deck that specifically lists &#x201C;Assault Mode Activate&#x201D; in its text, except &#x201C;Assault Sentinel&#x201D;, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Synchro Monsters. You can target 1 face-up monster you control; reveal 1 Synchro Monster from your Extra Deck, and if you do, the targeted monster's Type and Attribute become the same as the revealed monster's, until the end of this turn. You can only use each effect of \"Assault Sentinel\" once per turn.",
     "str1": "Special Summon",
     "str2": "Change Type and Attribute",
     "str3": "Affected by \"Assault Sentinel\", cannot Special Summon non-Synchros from the Extra Deck",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE011",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP011",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bd/AssaultSentinel-DANE-EN-C-1E.png"
 }

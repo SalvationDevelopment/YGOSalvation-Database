@@ -2,7 +2,7 @@
     "id": 31683874,
     "ot": 1,
     "alias": 0,
-    "setcode": 302,
+    "setcode": 0,
     "type": 33,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262148,
     "name": "Fortune Fairy Ann",
-    "desc": "When you draw this card: You can reveal this card; Special Summon it from your hand. If this card is Special Summoned from the hand: You can banish 1 Spellcaster monster from your Deck. You can only use each effect of \"Fortune Fairy Ann\" once per turn.",
+    "desc": "When you draw this card: You can reveal it; Special Summon it from your hand. If this card is Special Summoned from the hand: You can banish 1 Spellcaster monster from your Deck. You can only use each effect of \"Fortune Fairy Ann\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Collection Pack: Duelists of Revolution",
+        "pack_id": "CP19-JP021",
+        "date": "2019-05-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1e/FortuneFairyAnn-BLHR-EN-UR-1E.png"
 }

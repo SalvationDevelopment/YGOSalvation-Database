@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Vampire Grimson",
-    "desc": "If a monster(s) you control would be destroyed by battle or an opponent's card effect, you can pay 1000 LP for each of those monsters instead. At the end of the Battle Phase, if this card destroyed a monster(s) by battle: You can Special Summon as many of those monsters as possible from the GY to your field.",
+    "desc": "If a monster(s) you control would be destroyed by battle or an opponent's card effect, you can pay 1000 LP for each monster that would be destroyed, instead (you must protect all your monsters that would be destroyed, if you use this effect). At the end of the Battle Phase, if this card destroyed any monster(s) by battle: You can Special Summon them from the GYs to your field.",
     "str1": "Pay 1000 LP instead? (Vampire Grimson)",
     "str2": "",
     "str3": "",
@@ -29,11 +29,15 @@
     "str15": "",
     "str16": "",
     "cardpool": "OCG",
-    "tcg": {},
+    "tcg": {
+        "pack": "Dark Saviors",
+        "pack_id": "DASA-DE004",
+        "date": "2018-05-24"
+    },
     "ocg": {
         "pack": "Deck Build Pack: Dark Savers",
         "pack_id": "DBDS-JP004",
         "date": "2018-02-24"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6d/VampireGrimson-DBDS-JP-C.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8f/VampireGrimson-DASA-EN-SR-1E.png"
 }

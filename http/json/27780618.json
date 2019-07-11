@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Vision HERO Vyon",
-    "desc": "If this card is Normal or Special Summoned: You can send 1 \"HERO\" monster from your Deck to the Graveyard. You can only use this effect of \"Vision HERO Vyon\" once per turn. Once per turn: You can banish 1 \"HERO\" monster from your Graveyard; add 1 \"Polymerization\" from your Deck to your hand.",
+    "desc": "If this card is Normal or Special Summoned: You can send 1 \"HERO\" monster from your Deck to the GY. You can only use this effect of \"Vision HERO Vyon\" once per turn. Once per turn: You can banish 1 \"HERO\" monster from your GY; add 1 \"Polymerization\" from your Deck to your hand.",
     "str1": "Send 1 \"HERO\" to grave",
     "str2": "Search \"Polymerization\"",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "DUSA-DE021",
         "date": "2017-03-30"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/42/VisionHEROVyon-DUSA-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1d/VisionHEROVyon-DUPO-EN-UR-1E.png"
 }

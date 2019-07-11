@@ -29,11 +29,15 @@
     "str15": "",
     "str16": "",
     "cardpool": "OCG",
-    "tcg": {},
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE014",
+        "date": "2018-05-03"
+    },
     "ocg": {
         "pack": "Flames of Destruction",
         "pack_id": "FLOD-JP014",
         "date": "2018-01-13"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/70/AltergeistMultifaker-FLOD-JP-SR.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/85/AltergeistMultifaker-FLOD-EN-UR-1E.png"
 }

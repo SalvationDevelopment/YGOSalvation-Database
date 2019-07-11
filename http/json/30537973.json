@@ -2,7 +2,7 @@
     "id": 30537973,
     "ot": 3,
     "alias": 0,
-    "setcode": 4339,
+    "setcode": 15929587,
     "type": 16777249,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 529,
     "name": "Predaplant Spider Orchid",
-    "desc": "[ Pendulum Effect ]\r\nDuring your Main Phase, if this card was activated this turn: You can target 1 other face-up card in the Spell & Trap Zone; destroy it. You can only use this effect of \"Predaplant Spider Orchid\" once per turn.\r\n----------------------------------------\r\n[ Monster Effect ]\r\nDuring the End Phase, if this card was Normal or Special Summoned this turn: You can discard 1 Plant monster; add 1 Level 4 or lower Plant monster from your Deck to your hand. You can only use this effect of \"Predaplant Spider Orchid\" once per turn.",
+    "desc": "Pendulum Effect\nDuring your Main Phase, if this card was activated this turn: You can target 1 other face-up card in the Spell & Trap Zone; destroy it. You can only use this effect of \"Predaplant Spider Orchid\" once per turn.\n\nMonster Effect\nDuring the End Phase, if this card was Normal or Special Summoned this turn: You can discard 1 Plant monster; add 1 Level 4 or lower Plant monster from your Deck to your hand. You can only use this effect of \"Predaplant Spider Orchid\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Duel Power",
+        "pack_id": "DUPO-EN035",
+        "date": "2019-04-03"
+    },
+    "ocg": {
+        "pack": "V Jump Fall 2018 subscription bonus",
+        "pack_id": "VJMP-JP150",
+        "date": "2018-09-21"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3c/PredaplantSpiderOrchid-DUPO-EN-UR-1E.png"
 }

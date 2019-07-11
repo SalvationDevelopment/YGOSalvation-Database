@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Noble Knight Custennin",
-    "desc": "If you control a \"Noble Arms\" Equip Spell, you can Special Summon this card (from your hand). You can only Special Summon \"Noble Knight Custennin\" once per turn this way. A \"Noble Knight\" monster that was Synchro, Xyz or Link Summoned using this card on the field as material gains this effect.\r\n● If this card is Special Summoned: You can Normal Summon 1 \"Noble Knight\" monster during your Main Phase this turn, in addition to your Normal Summon/Set (you can only gain this effect once per turn), also, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except \"Noble Knight\" monsters.",
+    "desc": "If you control a &#x201C;Noble Arms&#x201D; Equip Spell, you can Special Summon this card (from your hand). You can only Special Summon &#x201C;Noble Knight Custennin&#x201D; once per turn this way. A &#x201C;Noble Knight&#x201D; monster that was Synchro, Xyz or Link Summoned using this card on the field as material gains this effect.\n● If this card is Special Summoned: You can Normal Summon 1 &#x201C;Noble Knight&#x201D; monster during your Main Phase this turn, in addition to your Normal Summon/Set (you can only gain this effect once per turn), also, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except &#x201C;Noble Knight&#x201D; monsters.",
     "str1": "Extra Summon provided by \"Noble Knight Custennin\"",
     "str2": "",
     "str3": "Affected by \"Noble Knight Custennin\"",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE088",
+        "date": "2018-07-26"
+    },
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b9/NobleKnightCustennin-CYHO-EN-SR-1E.png"
 }

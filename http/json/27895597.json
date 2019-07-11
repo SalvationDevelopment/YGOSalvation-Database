@@ -2,7 +2,7 @@
     "id": 27895597,
     "ot": 1,
     "alias": 0,
-    "setcode": 49,
+    "setcode": 0,
     "type": 2,
     "atk": 0,
     "def": 0,
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-JP056",
+        "date": "2019-04-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/FortuneLadyCalling-RIRA-JP-OP.png"
 }

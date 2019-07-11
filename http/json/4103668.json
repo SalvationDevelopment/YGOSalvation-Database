@@ -2,7 +2,7 @@
     "id": 4103668,
     "ot": 3,
     "alias": 0,
-    "setcode": 289,
+    "setcode": 0,
     "type": 8225,
     "atk": 2600,
     "def": 1500,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 262145,
     "name": "Tengu, the Winged Mayakashi",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nYou can only control 1 \"Tengu, the Winged Mayakashi\". You can only use each of these effects of \"Tengu, the Winged Mayakashi\" once per turn.\r\n●If a Synchro Monster in your possession whose original Level is 9 is destroyed by battle or an opponent's card effect while this card is in the GY: You can banish 1 other Zombie monster from your GY, and if you do, Special Summon this card.\r\n●If this card is Special Summoned from the GY: You can destroy 1 Spell/Trap your opponent controls.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nYou can only control 1 &#x201C;Tengu, the Winged Mayakashi&#x201D;. You can only use each of these effects of &#x201C;Tengu, the Winged Mayakashi&#x201D; once per turn.\n● If a Synchro Monster in your possession whose original Level is 9 is destroyed by battle or an opponent's card effect while this card is in the GY: You can banish 1 other Zombie monster from your GY, and if you do, Special Summon this card.\n● If this card is Special Summoned from the GY: You can destroy 1 Spell/Trap your opponent controls.",
     "str1": "Special Summon",
     "str2": "Destroy 1 Spell/Trap",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Hidden Summoners",
+        "pack_id": "DBHS-EN034",
+        "date": "2018-11-15"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Hidden Summoners",
+        "pack_id": "DBHS-JP034",
+        "date": "2018-08-04"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/13/TengutheWingedMayakashi-HISU-EN-ScR-1E.png"
 }

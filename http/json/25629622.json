@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Abyss Actor - Superstar",
-    "desc": "Pendulum Effect\nOnce per turn: You can Tribute 1 \"Abyss Actor\" monster, then target 1 \"Abyss Script\" Spell Card in your Graveyard; add it to your hand.\n\nMonster Effect\nWhen Normal or Special Summoned, your opponent's Spell/Trap Cards and effects cannot be activated. Once per turn: You can Set 1 \"Abyss Script\" Spell Card directly from your Deck, but it is sent to the Graveyard during the End Phase.",
+    "desc": "Pendulum Effect\nOnce per turn: You can Tribute 1 \"Abyss Actor\" monster, then target 1 \"Abyss Script\" Spell in your GY; add it to your hand.\n\nMonster Effect\nWhen Normal or Special Summoned, your opponent's Spell/Traps and effects cannot be activated. Once per turn: You can Set 1 \"Abyss Script\" Spell directly from your Deck, but it is sent to the GY during the End Phase.",
     "str1": "Add 1 \"Abyss Script\" to hand",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "DESO-DE018",
         "date": "2016-11-17"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/64/AbyssActorSuperstar-DESO-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/AbyssActorSuperstar-LED3-EN-C-1E.png"
 }
