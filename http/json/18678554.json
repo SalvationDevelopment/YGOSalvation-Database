@@ -2,7 +2,7 @@
     "id": 18678554,
     "ot": 2,
     "alias": 0,
-    "setcode": 294,
+    "setcode": 0,
     "type": 4,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Time Thief Flyback",
-    "desc": "Target 1 \"Time Thief\" Xyz Monster you control; attach 1 \"Time Thief\" card from your hand or Deck to it as material. You can banish this card from your GY, then target 1 \"Time Thief\" Xyz Monster you control; attach 1 card from your opponent's GY to it as material. You can only use 1 \"Time Thief Flyback\" effect per turn, and only once that turn.",
+    "desc": "Target 1 &#x201C;Time Thief&#x201D; Xyz Monster you control; attach 1 &#x201C;Time Thief&#x201D; card from your hand or Deck to it as material. You can banish this card from your GY, then target 1 &#x201C;Time Thief&#x201D; Xyz Monster you control; attach 1 card from your opponent's GY to it as material. You can only use 1 &#x201C;Time Thief Flyback&#x201D; effect per turn, and only once that turn.",
     "str1": "Attach",
     "str2": "Attach",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-EN087",
+        "date": "2019-01-31"
+    },
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d5/TimeThiefFlyback-SAST-EN-C-1E.png"
 }

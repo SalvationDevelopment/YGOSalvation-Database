@@ -2,7 +2,7 @@
     "id": 16209941,
     "ot": 2,
     "alias": 0,
-    "setcode": 286,
+    "setcode": 0,
     "type": 33,
     "atk": 1500,
     "def": 400,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262400,
     "name": "Danger! Chupacabra!",
-    "desc": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not \"Danger! Chupacabra!\", Special Summon 1 \"Danger! Chupacabra!\" from your hand, and if you do, draw 1 card. If this card is discarded: You can target 1 \"Danger!\" monster in your GY, except \"Danger! Chupacabra!\"; Special Summon it. You can only use this effect of \"Danger! Chupacabra!\" once per turn.",
+    "desc": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not &#x201C;Danger! Chupacabra!&#x201D;, Special Summon 1 &#x201C;Danger! Chupacabra!&#x201D; from your hand, and if you do, draw 1 card. If this card is discarded: You can target 1 &#x201C;Danger!&#x201D; monster in your GY, except &#x201C;Danger! Chupacabra!&#x201D;; Special Summon it. You can only use this effect of &#x201C;Danger! Chupacabra!&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE084",
+        "date": "2018-07-26"
+    },
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2d/DangerChupacabra-CYHO-EN-UR-1E.png"
 }

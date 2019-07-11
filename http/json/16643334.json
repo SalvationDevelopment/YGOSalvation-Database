@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262144,
     "name": "Starliege Photon Blast Dragon",
-    "desc": "2 Level 4 monsters\r\nIf this card is Xyz Summoned: You can Special Summon 1 \"Photon\" monster from your hand. While this Xyz Summoned monster is on the field, your opponent cannot target monsters you control with 2000 or more ATK with card effects, also they cannot be destroyed by your opponent's card effects. Once per opponent's turn (Quick Effect): You can detach 1 material from this card, then target 1 of your \"Galaxy-Eyes Photon Dragon\" that is banished or in your GY; Special Summon it.",
+    "desc": "2 Level 4 monsters\nIf this card is Xyz Summoned: You can Special Summon 1 \"Photon\" monster from your hand. While this Xyz Summoned card is on the field, your opponent cannot target monsters you control with 2000 or more ATK with card effects, also they cannot be destroyed by your opponent's card effects. Once per opponent's turn (Quick Effect): You can detach 1 material from this card, then target 1 of your \"Galaxy-Eyes Photon Dragon\", that is banished or is in your GY; Special Summon it.",
     "str1": "Special Summon 1 \"Photon\" monster",
     "str2": "Special Summon \"Galaxy-Eyes Photon Dragon\"",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: White Dragon Abyss",
+        "pack_id": "LED3-DE034",
+        "date": "2018-09-27"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 3",
+        "pack_id": "DP20-JP034",
+        "date": "2018-06-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a2/StarliegePhotonBlastDragon-LED3-EN-UR-1E.png"
 }

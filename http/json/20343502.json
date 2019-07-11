@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Madolche Teacher Glassouffle",
-    "desc": "2 Level 4 \"Madolche\" monsters\r\n(Quick Effect): You can detach 1 material from this card, then target 1 \"Madolche\" monster on the field; this turn, that face-up monster is unaffected by monster effects, except its own. If a \"Madolche\" card is sent to your GY while this card is on the field (except during the Damage Step): You can shuffle up to 2 cards from the GYs into the Deck(s). You can only use each effect of \"Madolche Teacher Glassouffle\" once per turn.",
+    "desc": "2 Level 4 &#x201C;Madolche&#x201D; monsters\n(Quick Effect): You can detach 1 material from this card, then target 1 face-up &#x201C;Madolche&#x201D; monster; for the rest of this turn, that monster becomes unaffected by monster effects, except its own. If a &#x201C;Madolche&#x201D; card(s) is sent to your GY while you control this monster: You can shuffle up to 2 cards from the GY(s) into the Deck. You can only use each effect of \"Madolche Teacher Glassouffle\" once per turn.",
     "str1": "Make a \"Madolche\" monster immune to monsters' effects",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE039",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP039",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ef/MadolcheTeacherGlassouffle-DANE-EN-R-1E.png"
 }

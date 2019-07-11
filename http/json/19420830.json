@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 262176,
     "name": "Cataclysmic Bellowing Colder",
-    "desc": "If a face-up WIND monster(s) you control is destroyed by battle or an opponent's card effect: You can Special Summon this card from your hand, then, you can place 1 Spell/Trap from the field on the top of the Deck. You can only use this effect of \"Cataclysmic Bellowing Colder\" once per turn.",
+    "desc": "If a face-up WIND monster you control is destroyed by battle or an opponent's card effect: You can Special Summon this card from your hand, then you can return 1 Spell/Trap on the field to the top of the Deck. You can only use the effect of \"Cataclysmic Bellowing Colder\" only once per turn.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-JP030",
+        "date": "2019-04-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/15/CataclysmicBellowingColder-RIRA-JP-C.png"
 }

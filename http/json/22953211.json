@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 786432,
     "name": "Bellcat Fighter",
-    "desc": "3 monsters, including at least 1 Token\r\nWhen this card destroys an opponent's monster by battle: You can Special Summon 1 \"Bellcat Token\" (Machine/WIND/Level 4/ATK 2000/DEF 2000) in Defense Position.",
+    "desc": "Link Arrows: [🡰][🡱][🡲]\n\n3 monsters, including at least 1 Token\nWhen this card destroys an opponent's monster by battle: You can Special Summon 1 \"Bellcat Token\" (Machine/WIND/Level 4/ATK 2000/DEF 2000) in Defense Position.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,17 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Promotion Pack 2018",
+        "pack_id": "18PR-JP009",
+        "date": "2018-05-27"
+    },
+    "links": [
+        1,
+        3,
+        4
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a5/BellcatFighter-18PR-JP-NPR.png"
 }

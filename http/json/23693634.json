@@ -31,14 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "pack": "Starter Deck 2008",
-        "pack_id": "YSD3-JP043",
-        "date": "2008-03-15"
+        "pack": "STARTER PACK Volume 2",
+        "pack_id": "SP02-TC035",
+        "date": "2014-09-27"
     },
-    "tcg": {
-        "pack": "Starter Deck: Yu-Gi-Oh! 5D's",
-        "pack_id": "5DS1-DE043",
-        "date": "2008-08-05"
-    },
+    "tcg": {},
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ce/ColossalFighter-LC5D-EN-ScR-1E.png"
 }

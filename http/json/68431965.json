@@ -1,6 +1,6 @@
 {
     "id": 68431965,
-    "ot": 3,
+    "ot": 1,
     "alias": 0,
     "setcode": 0,
     "type": 12321,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262144,
     "name": "Shooting Riser Dragon",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can send 1 monster from your Deck to the GY, whose Level is lower than this card's on the field, and if you do, reduce this card's Level by that monster's, but for the rest of this turn, you cannot activate the effects of monsters with the same name the sent monster had in the GY. You can only use this effect of \"Shooting Riser Dragon\" once per turn. Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.",
+    "desc": "1 Tuner + 1+ non-Tuner monster\nIf this card is Synchro Summoned: You can send 1 monster from your Deck to the GY with a Level lower than this card's on the field, and if you do, reduce this card's Level by the sent monster's Level, but you cannot activate the effect of that monster, or cards with the same name for the rest of this turn. You can only use this effect of \"Shooting Riser Dragon\" once per turn. Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG",
+    "tcg": {
+        "pack": "Weekly Shonen Jump July 2018 membership",
+        "pack_id": "JUMP-EN085",
+        "date": "2018-08-12"
+    },
+    "ocg": {
+        "pack": "V Jump May 2018 promotional card",
+        "pack_id": "VJMP-JP146",
+        "date": "2018-03-20"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/47/ShootingRiserDragon-JUMP-EN-UR-LE.png"
 }

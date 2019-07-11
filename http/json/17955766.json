@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 4194306,
     "name": "Neo-Spacian Aqua Dolphin",
-    "desc": "Once per turn: You can discard 1 card; look at your opponent's hand and choose 1 Monster Card in it. If you control a monster with ATK greater than or equal to the ATK of the chosen card, destroy the chosen card and inflict 500 damage to your opponent. Otherwise, take 500 damage.",
+    "desc": "Once per turn: You can discard 1 card; look at your opponent's hand and choose 1 monster. If you control a monster with ATK greater than or equal to the ATK of the chosen card, destroy the chosen card, and if you do, inflict 500 damage to your opponent. Otherwise, take 500 damage.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Power of the Duelist",
-        "pack_id": "POTD-JP003",
-        "date": "2006-05-18"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Power of the Duelist",
-        "pack_id": "POTD-DE003",
-        "date": "2006-08-16"
+        "pack": "Battles of Legend: Relentless Revenge",
+        "pack_id": "BLRR-PT049",
+        "date": "2018-06-28"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7b/NeoSpacianAquaDolphin-LCGX-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/85/NeoSpacianAquaDolphin-BLRR-EN-UR-1E.png"
 }

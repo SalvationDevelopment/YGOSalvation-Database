@@ -2,7 +2,7 @@
     "id": 13650422,
     "ot": 1,
     "alias": 0,
-    "setcode": 24584,
+    "setcode": 8,
     "type": 33,
     "atk": 2100,
     "def": 800,
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "DP22",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 5",
+        "pack_id": "DP22-JP013",
+        "date": "2019-06-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2a/EvilHEROAdusterGold-DP22-JP-OP.png"
 }

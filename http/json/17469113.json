@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-JP027",
+        "date": "2019-04-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cc/AvidatheDualWorldCrafter-RIRA-JP-20ScR.png"
 }

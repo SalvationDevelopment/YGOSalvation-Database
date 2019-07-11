@@ -1,6 +1,6 @@
 {
     "id": 48891960,
-    "ot": 3,
+    "ot": 1,
     "alias": 0,
     "setcode": 41,
     "type": 8225,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 262148,
     "name": "Dragunity Knight - Ascalon",
-    "desc": "1 \"Dragunity\" Tuner + 1+ non-Tuner monsters\r\nYou can banish 1 \"Dragunity\" monster from your GY, then target 1 monster your opponent controls; banish it. If this Synchro Summoned card in its owner's control is destroyed by an opponent's card: You can Special Summon 1 \"Dragunity\" Synchro Monster with 3000 or less ATK from your Extra Deck. (This is treated as a Synchro Summon.) You can only use this effect of \"Dragunity Knight - Ascalon\" once per turn.",
+    "desc": "1 \"Dragunity\" Tuner + 1+ non-Tuner monsters\nYou can banish 1 \"Dragunity\" monster from your GY, then target 1 monster your opponent controls; banish it. If this Synchro Summoned card in its owner's control is destroyed by an opponent's card: You can Special Summon 1 \"Dragunity\" Synchro Monster with 3000 or less ATK from your Extra Deck. (This is treated as a Synchro Summon.) You can only use this effect of &#x201C;Dragunity Knight - Ascalon&#x201D; once per turn.",
     "str1": "Banish",
     "str2": "Synchro Summon 1 \"Dragunity\" monster",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE033",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP033",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4f/DragunityKnightAscalon-CYHO-EN-UR-1E.png"
 }

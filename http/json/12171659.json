@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 512,
     "name": "Zeradias, Herald of Heaven",
-    "desc": "You can discard this card to the Graveyard to add 1 \"The Sanctuary in the Sky\" from your Deck to your hand. If \"The Sanctuary in the Sky\" is not face-up on the field, destroy this card.",
+    "desc": "You can discard this card to the GY; add 1 \"The Sanctuary in the Sky\" from your Deck to your hand. If \"The Sanctuary in the Sky\" is not on the field, destroy this card.",
     "str1": "Search",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Force of the Breaker",
-        "pack_id": "FOTB-JP018",
-        "date": "2007-02-15"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Force of the Breaker",
-        "pack_id": "FOTB-FR018",
-        "date": "2007-05-05"
+        "pack": "OTS Tournament Pack 7",
+        "pack_id": "OP07-PT016",
+        "date": "2018-04-13"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/75/ZeradiasHeraldofHeaven-SDLS-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a0/ZeradiasHeraldofHeaven-OP07-EN-C-UE.png"
 }

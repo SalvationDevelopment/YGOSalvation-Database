@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8192,
     "name": "Violet Crystal",
-    "desc": "(This card is not treated as a \"Crystal\" card.)\nA Zombie-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+    "desc": "(This card is not treated as a \"Crystal\" card.)\nEquip only to a Zombie monster. It gains 300 ATK/DEF",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,10 +35,6 @@
         "pack_id": "",
         "date": "1999-02-04"
     },
-    "tcg": {
-        "pack": "Legend of Blue Eyes White Dragon",
-        "pack_id": "LOB-042",
-        "date": "2002-03-08"
-    },
+    "tcg": {},
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/34/VioletCrystal-LOB-NA-SP-UE-Reprint.png"
 }

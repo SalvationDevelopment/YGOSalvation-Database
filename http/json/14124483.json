@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Elemental HERO Honest Neos",
-    "desc": "During either player's turn: You can discard this card, then target 1 \"HERO\" monster on the field; it gains 2500 ATK until the end of this turn. During either player's turn: You can discard 1 \"HERO\" monster; this card gains ATK equal to the discarded monster's ATK until the end of this turn. You can only use each effect of \"Elemental HERO Honest Neos\" once per turn.",
+    "desc": "(Quick Effect): You can discard this card, then target 1 \"HERO\" monster on the field; it gains 2500 ATK until the end of this turn. (Quick Effect): You can discard 1 \"HERO\" monster; this card gains ATK equal to the discarded monster's ATK until the end of this turn. You can only use each effect of \"Elemental HERO Honest Neos\" once per turn.",
     "str1": "Gain 2500 ATK",
     "str2": "Gain ATK",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "DUSA-DE028",
         "date": "2017-03-30"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/95/ElementalHEROHonestNeos-DUSA-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/30/ElementalHEROHonestNeos-BLRR-EN-ScR-1E.png"
 }

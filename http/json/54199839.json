@@ -1,6 +1,6 @@
 {
     "id": 54199839,
-    "ot": 3,
+    "ot": 1,
     "alias": 0,
     "setcode": 261,
     "type": 4,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 788,
     "name": "Metaphys Ascension",
-    "desc": "Discard 1 \"Metaphys\" card; draw 1 card, then you can banish 1 \"Metaphys\" monster from your Deck. If this card is banished: You can add 1 \"Metaphys\" card from your Deck to your hand, except \"Metaphys Ascension\". You can only use 1 \"Metaphys Ascension\" effect per turn, and only once that turn.",
+    "desc": "Discard 1 &#x201C;Metaphys&#x201D; card; draw 1 card, then you can banish 1 &#x201C;Metaphys&#x201D; monster from your Deck. If this card is banished: You can add 1 &#x201C;Metaphys&#x201D; card from your Deck to your hand, except &#x201C;Metaphys Ascension&#x201D;. You can only use 1 &#x201C;Metaphys Ascension&#x201D; effect per turn, and only once that turn.",
     "str1": "Banish 1 \"Metaphys\" monster?",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE076",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP076",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fa/MetaphysAscension-CYHO-EN-C-1E.png"
 }

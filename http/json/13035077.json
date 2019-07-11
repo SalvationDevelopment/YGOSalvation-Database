@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Dragonic Diagram",
-    "desc": "All \"True Draco\" and \"True King\" monsters on the field gain 300 ATK and DEF. The first time each Tribute Summoned \"True Draco\" or \"True King\" monster would be destroyed by battle each turn, it is not destroyed. Once per turn: You can destroy 1 other card you control or in your hand, and if you do, add 1 \"True Draco\" or \"True King\" card from your Deck to your hand.",
+    "desc": "All \"True Draco\" and \"True King\" monsters on the field gain 300 ATK/DEF. The first time each Tribute Summoned \"True Draco\" or \"True King\" monster would be destroyed by battle each turn, it is not destroyed. Once per turn: You can destroy 1 other card you control or in your hand, and if you do, add 1 \"True Draco\" or \"True King\" card from your Deck to your hand.",
     "str1": "Destroy different card",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "MACR-DE053",
         "date": "2017-05-04"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ae/DragonicDiagram-MACR-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e0/DragonicDiagram-MP18-EN-ScR-1E.png"
 }

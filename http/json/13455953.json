@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 512,
     "name": "Dverg of the Nordic Alfar",
-    "desc": "After you Normal Summon this card, you can Normal Summon 1 \"Nordic\" monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this face-up card on the field is sent to the Graveyard: Target 1 \"Nordic Relic\" card in your Graveyard; add that target to your hand.",
+    "desc": "After you Normal Summon this card, you can Normal Summon 1 \"Nordic\" monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this face-up card on the field is sent to the GY: Target 1 \"Nordic Relic\" card in your GY; add that target to your hand.",
     "str1": "Normal summon another \"Nordic\" monster",
     "str2": "Add to hand",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "STOR-EN016",
         "date": "2011-02-08"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fa/DvergoftheNordicAlfar-LC5D-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/DvergoftheNordicAlfar-LEHD-EN-C-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 1310720,
     "name": "Tour Guide From the Underworld",
-    "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 3 Fiend-Type monster from your hand or Deck, but it has its effects negated, also it cannot be used as a Synchro Material.",
+    "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 3 Fiend monster from your hand or Deck, but it has its effects negated, also it cannot be used as a Synchro Material.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -31,14 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "pack": "Extra Pack 2012",
-        "pack_id": "EP12-JP005",
-        "date": "2012-10-13"
+        "pack": "Gold Series 2014",
+        "pack_id": "GS06-TC010",
+        "date": "2014-05-01"
     },
-    "tcg": {
-        "pack": "Extreme Victory",
-        "pack_id": "EXVC-EN084",
-        "date": "2011-04-30"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/05/TourGuideFromtheUnderworld-DUSA-EN-UR-1E.png"
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/50/TourGuideFromtheUnderworld-SR06-EN-C-1E.png"
 }

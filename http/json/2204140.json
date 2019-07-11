@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 1311748,
     "name": "Book of Life",
-    "desc": "Target 1 Zombie-Type monster in your Graveyard and 1 monster in your opponent's Graveyard; Special Summon the first target, also banish the second target.",
+    "desc": "Target 1 Zombie monster in your GY and 1 monster in your opponent's GY; Special Summon the first target, also banish the second target.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,7 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Pharaonic Guardian",
-        "pack_id": "PH-32",
-        "date": "2002-03-21"
-    },
-    "tcg": {
-        "pack": "Pharaonic Guardian",
-        "pack_id": "PGD-033",
-        "date": "2003-07-18"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/35/BookofLife-BP03-EN-C-1E.png"
+    "ocg": {},
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c0/BookofLife-OP07-EN-C-UE.png"
 }

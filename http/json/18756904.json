@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 256,
     "name": "White Elephant's Gift",
-    "desc": "Send 1 face-up non-Effect Monster you control to the Graveyard; draw 2 cards.",
+    "desc": "Send 1 face-up non-Effect Monster you control to the GY; draw 2 cards.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,7 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Starstrike Blast",
-        "pack_id": "STBL-JP062",
-        "date": "2010-07-17"
-    },
-    "tcg": {
-        "pack": "Starstrike Blast",
-        "pack_id": "STBL-EN062",
-        "date": "2010-11-06"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cd/WhiteElephantsGift-SDBE-EN-C-1E.png"
+    "ocg": {},
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/03/WhiteElephantsGift-SBLS-EN-C-1E.png"
 }

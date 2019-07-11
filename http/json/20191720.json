@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262192,
     "name": "Gouki Moonsault",
-    "desc": "You can reveal this card in your hand, then target 1 \"Gouki\" monster you control, except \"Gouki Moonsault\"; Special Summon this card from your hand, and if you do, return that monster to the hand. You can target 1 \"Gouki\" Link Monster in your GY; return it to the Extra Deck, then you can add 1 \"Gouki\" monster from your GY to your hand. You can only use each effect of \"Gouki Moonsault\" once per turn.",
+    "desc": "You can reveal this card in your hand, then target 1 \"Gouki\" monster you control, except \"Gouki Moonsault\"; Special Summon this card from your hand, and if you do, return that monster to the hand. You can target 1 \"Gouki\" Link Monster in your GY; return it to the Extra Deck, then you can add 1 \"Gouki\" monster from your GY to your hand. You can only use each effect of &#x201C;Gouki Moonsault&#x201D; once per turn.",
     "str1": "Special Summon",
     "str2": "Return to Extra",
     "str3": "Add 1 \"Gouki\" monster from your GY to your hand?",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE003",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP003",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/07/GoukiMoonsault-CYHO-EN-C-1E.png"
 }

@@ -4,7 +4,11 @@
         "pack_id": "LVP1-JP076",
         "date": "2017-11-25"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Duel Power",
+        "pack_id": "DUPO-EN029",
+        "date": "2019-04-03"
+    },
     "id": 21200905,
     "setcode": 201,
     "type": 33554465,
@@ -18,6 +22,6 @@
     "race": 1024,
     "attribute": 16,
     "name": "Aromaseraphy Jasmine",
-    "desc": "Link Arrows: [🡷][🡶]\n\n2 Plant monsters\nWhile your LP is higher than your opponent's, this card and Plant monsters this card points to cannot be destroyed by battle. You can Tribute 1 monster this card points to; Special Summon 1 Plant monster from your Deck in Defense Position. You can only use this effect of \"Aromaseraphy Jasmine\" once per turn. Once per turn, if you gain LP: Add 1 Plant monster from your Deck to your hand.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cf/AromaseraphyJasmine-LVP1-JP-SR.png"
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 Plant monsters\nIf your LP are higher than your opponent's, this card and any Plant monsters it points to cannot be destroyed by battle. You can Tribute 1 monster this card points to; Special Summon 1 Plant monster from your Deck in Defense Position. You can only use this effect of \"Aromaseraphy Jasmine\" once per turn. Once per turn, if you gain LP: Add 1 Plant monster from your Deck to your hand.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/43/AromaseraphyJasmine-DUPO-EN-UR-1E.png"
 }

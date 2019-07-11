@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 1057024,
     "name": "Horn of the Phantom Beast",
-    "desc": "Target 1 Beast or Beast-Warrior-Type monster you control; equip this card to that target. It gains 800 ATK. If the equipped monster destroys your opponent's monster by battle and sends it to the Graveyard: Draw 1 card.",
+    "desc": "Target 1 Beast or Beast-Warrior monster you control; equip this card to that target. It gains 800 ATK. If the equipped monster destroys your opponent's monster by battle and sends it to the GY: Draw 1 card.",
     "str1": "Draw card",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "DREV-EN075",
         "date": "2010-08-07"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c0/HornofthePhantomBeast-OP04-EN-C-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/14/HornofthePhantomBeast-DASA-EN-SR-1E.png"
 }

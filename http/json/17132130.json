@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Destiny HERO - Dogma",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters, including at least 1 \"Destiny HERO\" monster, and cannot be Special Summoned by other ways. If you still control this face-up card during your opponent's next Standby Phase after you Special Summoned it this way: Halve your opponent's LP.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters, including at least 1 \"Destiny HERO\" monster. Once per turn, if you still control this face-up card during your opponent's next Standby Phase after you Special Summoned it this way: Halve your opponent's LP.",
     "str1": "Special Summon",
     "str2": "LP减半",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Power of the Duelist",
-        "pack_id": "POTD-JP014",
-        "date": "2006-05-18"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Power of the Duelist",
-        "pack_id": "POTD-DE014",
-        "date": "2006-08-16"
+        "pack": "Destiny Soldiers",
+        "pack_id": "DESO-PT011",
+        "date": "2016-11-18"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/27/DestinyHERODogma-DESO-EN-SR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d5/DestinyHERODogma-LEHD-EN-C-1E.png"
 }

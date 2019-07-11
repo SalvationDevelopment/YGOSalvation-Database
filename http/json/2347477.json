@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 528,
     "name": "Micro Coder",
-    "desc": "If you would use a Cyberse monster(s) you control as Link Material for the Link Summon of a \"Code Talker\" monster, you can use this card in your hand as Link Material. If this card is sent from the hand or field to the GY as Link Material for the Link Summon of a \"Code Talker\" monster: You can add 1 \"Cynet\" Spell/Trap from your Deck to your hand, or, if this card was used as material from the field, you can add 1 Level 4 Cyberse monster, instead. You can only use each effect of \"Micro Coder\" once per turn.",
+    "desc": "If a Cyberse monster you control would be used as Link Material for a \"Code Talker\" monster, this card in your hand can also be used as material. If this card is sent from the hand or field to the GY as material for the Link Summon of a \"Code Talker\" monster: You can either add 1 \"Cynet\" Spell/Trap from your Deck to your hand, or, if this card on the field was used as material, you can add 1 Level 4 Cyberse monster instead. You can only use each effect of \"Micro Coder\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {
+        "pack": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution promotional cards",
+        "pack_id": "LOD2-FR002",
+        "date": "2019-08-20"
+    },
+    "ocg": {
+        "pack": "Structure Deck: Master Link",
+        "pack_id": "SD34-JP004",
+        "date": "2018-06-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/59/MicroCoder-LOD2-EN-UE-OP.png"
 }

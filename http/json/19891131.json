@@ -2,7 +2,7 @@
     "id": 19891131,
     "ot": 2,
     "alias": 0,
-    "setcode": 294,
+    "setcode": 0,
     "type": 33,
     "atk": 600,
     "def": 200,
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-EN084",
+        "date": "2019-01-31"
+    },
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ed/TimeThiefRegulator-SAST-EN-C-1E.png"
 }

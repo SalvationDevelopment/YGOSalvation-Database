@@ -2,7 +2,7 @@
     "id": 20345391,
     "ot": 1,
     "alias": 0,
-    "setcode": 532,
+    "setcode": 0,
     "type": 33,
     "atk": 1600,
     "def": 1000,
@@ -10,8 +10,8 @@
     "race": 32768,
     "attribute": 32,
     "category": 262160,
-    "name": "Seal, Staff Officer of the Skyfang Brigade",
-    "desc": "During your Main Phase: You can Special Summon 1 \"Skyfang Brigade\" monster from your hand, except \"Seal, Staff Officer of the Skyfang Brigade\". If another \"Skyfang Brigade\" monster(s) is Special Summoned to your field while this monster is on the field: You can target 1 \"Skyfang Brigade\" monster in your GY; add it to your hand. You can only use each effect of \"Seal, Staff Officer of the Skyfang Brigade\" once per turn.",
+    "name": "Seal, Strategist Fur Hire",
+    "desc": "During your Main Phase: You can Special Summon 1 monster \"Fur Hire\" from your hand, except \"Seal, Strategist Fur Hire\". If a monster \"Fur Hire\" is Special Summoned to your field while you control this monster (except during the Damage Step): You can target 1 monster \"Fur Hire\" in your GY; add it to your hand. You can only use each effect of \"Seal, Strategist Fur Hire\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -29,11 +29,15 @@
     "str15": "",
     "str16": "",
     "cardpool": "OCG",
-    "tcg": {},
+    "tcg": {
+        "pack": "Dark Saviors",
+        "pack_id": "DASA-DE018",
+        "date": "2018-05-24"
+    },
     "ocg": {
         "pack": "Deck Build Pack: Dark Savers",
         "pack_id": "DBDS-JP018",
         "date": "2018-02-24"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7e/SealStaffOfficeroftheSkyfangBrigade-DBDS-JP-SR.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/SealStrategistFurHire-DASA-EN-SR-1E.png"
 }

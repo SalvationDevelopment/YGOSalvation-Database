@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262208,
     "name": "Decayed Commander",
-    "desc": "When this card is Normal Summoned successfully, you can Special Summon 1 \"Zombie Tiger\" from your hand. If this card successfully attacks your opponent's Life Points directly, your opponent discards 1 card randomly from his/her hand.",
+    "desc": "When this card is Normal Summoned: You can Special Summon 1 \"Zombie Tiger\" from your hand. If this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from their hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,7 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Advent of Union",
-        "pack_id": "302-010",
-        "date": "2002-07-18"
-    },
-    "tcg": {
-        "pack": "Magician's Force",
-        "pack_id": "MFC-010",
-        "date": "2003-10-10"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d7/DecayedCommander-DR1-EN-C-UE.png"
+    "ocg": {},
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/DecayedCommander-SBLS-EN-C-1E.png"
 }

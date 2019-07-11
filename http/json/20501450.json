@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8192,
     "name": "Concentrating Current",
-    "desc": "Target 1 face-up monster you control; it gains ATK equal to its current DEF, until the end of this turn. Other monsters you control cannot attack during the turn you activate this card.",
+    "desc": "Target 1 face-up monster you control; it gains ATK equal to its DEF, until the end of this turn. Other monsters you control cannot attack the turn you activate this card.",
     "str1": "",
     "str2": "Affected by \"Concentrating Current\"",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE064",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP064",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/65/ConcentratingCurrent-SOFU-EN-C-1E.png"
 }

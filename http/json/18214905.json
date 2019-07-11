@@ -10,8 +10,8 @@
     "race": 1,
     "attribute": 16,
     "category": 2147483649,
-    "name": "Elementsaber Lapa Uila",
-    "desc": "Once per turn, when a Spell/Trap Card is activated (Quick Effect): You can send 1 \"Elementsaber\" monster from your hand to the GY; negate the activation, and if you do, destroy that card. Once per turn, if this card is in your GY: You can declare 1 Attribute; this card in the GY becomes that Attribute until the end of this turn.",
+    "name": "Elementsaber Lapauila",
+    "desc": "Once per turn, when a Spell/Trap Card is activated (Quick Effect): You can send 1 \"Elementsaber\" monster from your hand to the GY; negate the activation, and if you do, destroy it. Once per turn, if this card is in the GY: You can declare 1 Attribute; this card in the GY becomes that Attribute until the end of this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -29,11 +29,15 @@
     "str15": "",
     "str16": "",
     "cardpool": "OCG",
-    "tcg": {},
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE023",
+        "date": "2018-05-03"
+    },
     "ocg": {
         "pack": "Flames of Destruction",
         "pack_id": "FLOD-JP023",
         "date": "2018-01-13"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/22/ElementsaberLapaUila-FLOD-JP-C.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/19/ElementsaberLapauila-FLOD-EN-SR-1E.png"
 }

@@ -10,8 +10,8 @@
     "race": 16777216,
     "attribute": 32,
     "category": 262144,
-    "name": "Knightmare Iblee",
-    "desc": "When this card is Normal Summoned: You can target 1 Link Monster in your GY; Special Summon it linked to this card, but change its ATK to 0, also it has its effects negated. You cannot Special Summon monsters, except Link Monsters. If this card you control is sent to your GY: You can Special Summon this card to your opponent's field in Defense Position. You can only use this effect of \"Destroymare Iblee\" once per turn.",
+    "name": "Knightmare Corruptor Iblee",
+    "desc": "When this card is Normal Summoned: You can target 1 Link Monster in your GY; Special Summon it to your field so it points to this card, but change its ATK to 0, also negate its effects. You cannot Special Summon monsters, except Link Monsters. If this card in its owner's control is sent to the GY: You can Special Summon this card to your opponent's field in Defense Position. You can only use this effect of \"Knightmare Corruptor Iblee\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -29,11 +29,15 @@
     "str15": "",
     "str16": "",
     "cardpool": "OCG",
-    "tcg": {},
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE017",
+        "date": "2018-05-03"
+    },
     "ocg": {
         "pack": "Flames of Destruction",
         "pack_id": "FLOD-JP017",
         "date": "2018-01-13"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/89/KnightmareIblee-FLOD-JP-SR.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a0/KnightmareCorruptorIblee-FLOD-EN-ScR-1E.png"
 }

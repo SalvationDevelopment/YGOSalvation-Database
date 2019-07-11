@@ -10,7 +10,7 @@
     "race": 0,
     "attribute": 0,
     "category": 8,
-    "name": "Crystal Counter",
+    "name": "Counter Gem",
     "desc": "Send all cards in your Spell & Trap Card Zone to the Graveyard. Place as many \"Crystal Beast\" monsters as possible from your Graveyard in your Spell & Trap Card Zone, face-up, as Continuous Spell Cards. During the End Phase, destroy all face-up \"Crystal Beast\" cards you control.",
     "str1": "",
     "str2": "",
@@ -30,15 +30,7 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Duelist Pack: Jesse Anderson",
-        "pack_id": "DP07-JP024",
-        "date": "2007-10-20"
-    },
-    "tcg": {
-        "pack": "Duelist Pack: Jesse Anderson",
-        "pack_id": "DP07-DE024",
-        "date": "2008-01-22"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1b/CrystalCounter-DP07-EN-UR-1E.png"
+    "ocg": {},
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/70/CounterGem-DP07-EN-UR-1E.png"
 }

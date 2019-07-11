@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 8,
     "name": "Destiny HERO - Diamond Dude",
-    "desc": "Once per turn: You can excavate the top card of your Deck, and if it is a Normal Spell Card, send it to the Graveyard, otherwise place it on the bottom of your Deck. During the Main Phase of your next turn, you can activate the effect of that Spell Card in your Graveyard (even if you no longer control this face-up card).",
+    "desc": "Once per turn: You can excavate the top card of your Deck, and if it is a Normal Spell, send it to the GY, otherwise place it on the bottom of your Deck. During the Main Phase of your next turn, you can activate the effect of that Spell in your GY (even if you no longer control this face-up card).",
     "str1": "发动魔法卡效果",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Enemy of Justice",
-        "pack_id": "EOJ-JP003",
-        "date": "2006-02-16"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Enemy of Justice",
-        "pack_id": "EOJ-DE003",
-        "date": "2006-05-13"
+        "pack": "Destiny Soldiers",
+        "pack_id": "DESO-PT009",
+        "date": "2016-11-18"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8a/DestinyHERODiamondDude-DESO-EN-SR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/DestinyHERODiamondDude-LEHD-EN-C-1E.png"
 }

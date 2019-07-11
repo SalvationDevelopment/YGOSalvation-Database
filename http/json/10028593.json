@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 262144,
     "name": "Reborn Tengu",
-    "desc": "When this card is removed from the field, Special Summon 1 \"Reborn Tengu\" from your Deck.",
+    "desc": "If this face-up card leaves the field: Special Summon 1 \"Reborn Tengu\" from your Deck.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Extra Pack 2012",
-        "pack_id": "EP12-JP001",
-        "date": "2012-10-13"
-    },
+    "ocg": {},
     "tcg": {
         "pack": "Extreme Victory Sneak Peek Participation Card",
         "pack_id": "EXVC-DESP1",
         "date": "2011-04-30"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fc/RebornTengu-EXVC-EN-SR-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d1/RebornTengu-SDPL-EN-C-1E.png"
 }

@@ -87,6 +87,7 @@ function regenerate(request, response, next) {
 
     mutex = true;
     setTimeout(unsetMutex, 15000);
+    response.write('Generating DB');
     jsonGenerator.getDB(response, function(error, newJSON) {
         const mainifest = JSON.stringify(newJSON);
         response.write('Saving!\r\n');

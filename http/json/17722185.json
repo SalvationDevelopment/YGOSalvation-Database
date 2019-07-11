@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Invincibility Barrier",
-    "desc": "Once per turn: You can banish 1 face-up Ritual, Fusion, Synchro, Xyz, Pendulum, or Link Monster you control; this turn, the effects of monsters with the same card type as that banished monster (Ritual, Fusion, Synchro, Xyz, Pendulum, or Link) are negated.",
+    "desc": "Once per turn: You can banish 1 face-up Ritual, Fusion, Synchro, Xyz, Pendulum, or Link Monster you control; this turn, the effects of monsters with the same card type as that banished monster (Ritual, Fusion, Synchro, Xyz, Pendulum or Link) are negated.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-EN076",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP076",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6d/InvincibilityBarrier-SOFU-EN-C-1E.png"
 }

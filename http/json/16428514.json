@@ -4,7 +4,11 @@
         "pack_id": "VJMP-JP138",
         "date": "2017-09-21"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE094",
+        "date": "2019-01-31"
+    },
     "id": 16428514,
     "setcode": 237,
     "type": 2097185,
@@ -14,6 +18,6 @@
     "race": 8192,
     "attribute": 1,
     "name": "Subterror Guru",
-    "desc": "FLIP: You can add 1 \"Subterror\" card from your Deck to your hand, except \"Subterror Guru\".\nYou can target 1 other face-up monster on the field; change both it and this card to face-down Defense Position. This effect can be activated during either player's turn, if you control another \"Subterror\" card. You can only use each effect of \"Subterror Guru\" once per turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d6/SubterrorGuru-VJMP-JP-UR.png"
+    "desc": "FLIP: You can add 1 \"Subterror\" card from your Deck to your hand, except \"Subterror Guru\". You can target 1 other face-up monster on the field; change that monster, also this card, to face-down Defense Position. This is a Quick Effect if you control another \"Subterror\" card. You can only use each effect of \"Subterror Guru\" once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0d/SubterrorGuru-SAST-EN-C-1E.png"
 }

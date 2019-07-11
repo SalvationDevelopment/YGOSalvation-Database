@@ -4,7 +4,11 @@
         "pack_id": "VJMP-JP136",
         "date": "2017-07-21"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE092",
+        "date": "2019-01-31"
+    },
     "id": 14505685,
     "setcode": 147,
     "type": 33,
@@ -14,6 +18,6 @@
     "race": 16777216,
     "attribute": 16,
     "name": "Cyberse Converter",
-    "desc": "If all monsters you control are Cyberse monsters (min. 1), you can Special Summon this card (from your hand). You can only Special Summon \"Cyberse Converter\" once per turn this way. When this card is Normal Summoned: You can target 1 face-up monster you control; it becomes Cyberse until the end of this turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0f/CyberseConverter-VJMP-JP-UR.png"
+    "desc": "If all monsters you control are Cyberse monsters (min. 1), you can Special Summon this card (from your hand). You can only Special Summon \"Cyberse Converter\" once per turn this way. When this card is Normal Summoned: You can target 1 face-up monster you control; it becomes a Cyberse monster until the end of this turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b3/CyberseConverter-SAST-EN-C-1E.png"
 }

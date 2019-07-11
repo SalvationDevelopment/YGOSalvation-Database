@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 4456464,
     "name": "Blackwing - Zephyros the Elite",
-    "desc": "If this card is in your Graveyard: You can return 1 face-up card you control to the hand; Special Summon this card, and if you do, take 400 damage. You can only use this effect of \"Blackwing - Zephyros the Elite\" once per Duel.",
+    "desc": "If this card is in your GY: You can return 1 face-up card you control to the hand; Special Summon this card, and if you do, take 400 damage. You can only use this effect of \"Blackwing - Zephyros the Elite\" once per Duel.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -30,15 +30,7 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Duelist Pack: Crow",
-        "pack_id": "DP11-JP012",
-        "date": "2010-10-16"
-    },
-    "tcg": {
-        "pack": "Duelist Pack: Crow",
-        "pack_id": "DP11-DE012",
-        "date": "2011-05-26"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dc/BlackwingZephyrostheElite-SDLI-EN-C-1E.png"
+    "ocg": {},
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/42/BlackwingZephyrostheElite-LED3-EN-C-1E.png"
 }

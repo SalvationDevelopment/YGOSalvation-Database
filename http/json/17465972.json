@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 67371008,
     "name": "Blackwing - Auster the South Wind",
-    "desc": "Cannot be Special Summoned. When this card is Normal Summoned: You can target 1 of your banished Level 4 or lower \"Blackwing\" monsters; Special Summon it in Defense Position. You can banish this card from the GY to activate 1 of the following effects;\r\n●Place Black Feather Counter(s) on 1 \"Black-Winged Dragon\" you control, equal to the number of card(s) your opponent controls.\r\n●Place 1 Wedge Counter on each face-up monster your opponent controls that does not have one.",
+    "desc": "Cannot be Special Summoned. When this card is Normal Summoned: You can target 1 of your banished Level 4 or lower \"Blackwing\" monsters; Special Summon it in Defense Position. You can banish this card from your GY to activate 1 of the following effects;\n● Place Black Feather Counter(s) on 1 \"Black-Winged Dragon\" you control equal to the number of card(s) your opponent controls.\n● Place 1 Wedge Counter on each face-up monsters your opponent controls that does not have one.",
     "str1": "Special Summon",
     "str2": "Place counters",
     "str3": "Place Black Feather Counters on \"Black-Winged Dragon\"",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: White Dragon Abyss",
+        "pack_id": "LED3-EN025",
+        "date": "2018-09-27"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 3",
+        "pack_id": "DP20-JP025",
+        "date": "2018-06-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7e/BlackwingAustertheSouthWind-LED3-EN-R-1E.png"
 }

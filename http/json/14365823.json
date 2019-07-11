@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 4194304,
     "name": "Trickstar Divaridis",
-    "desc": "2 Level 3 or lower \"Trickstar\" monsters\r\nYou can only control 1 \"Trickstar Divaridis\". If this card is Special Summoned: You can inflict 200 damage to your opponent. If your opponent Normal or Special Summons a monster(s): Inflict 200 damage to your opponent.",
+    "desc": "Link Arrows: [🡷][🡳]\n\n2 Level 3 or lower &#x201C;Trickstar&#x201D; monsters\nYou can only control 1 \"Trickstar Divaridis\". If this card is Special Summoned: Inflict 200 damage to your opponent. If your opponent Normal or Special Summons a monster(s): Inflict 200 damage to your opponent.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE049",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP049",
+        "date": "2018-10-13"
+    },
+    "links": [
+        5,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4c/TrickstarDivaridis-SAST-EN-UR-1E.png"
 }

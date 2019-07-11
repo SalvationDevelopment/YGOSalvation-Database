@@ -29,7 +29,11 @@
     "str15": "",
     "str16": "",
     "cardpool": "OCG",
-    "tcg": {},
+    "tcg": {
+        "pack": "Duel Power",
+        "pack_id": "DUPO-EN025",
+        "date": "2019-04-03"
+    },
     "ocg": {
         "pack": "LINK VRAINS Box",
         "pack_id": "LVB1-JP016",
@@ -39,5 +43,5 @@
         5,
         7
     ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/57/BoosterDragon-LVB1-JP-UR.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/BoosterDragon-DUPO-EN-UR-1E.png"
 }

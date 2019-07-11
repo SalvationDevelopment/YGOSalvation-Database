@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "El Shaddoll Construct",
-    "desc": "1 \"Shaddoll\" monster + 1 LIGHT monster\nMust first be Fusion Summoned. If this card is Special Summoned: You can send 1 \"Shaddoll\" card from your Deck to the Graveyard. At the start of the Damage Step, if this card battles a Special Summoned monster: Destroy that monster. If this card is sent to the Graveyard: You can target 1 \"Shaddoll\" Spell/Trap Card in your Graveyard; add it to your hand.",
+    "desc": "1 \"Shaddoll\" monster + 1 LIGHT monster\nMust first be Fusion Summoned. If this card is Special Summoned: You can send 1 \"Shaddoll\" card from your Deck to the GY. At the start of the Damage Step, if this card battles a Special Summoned monster: Destroy that monster. If this card is sent to the GY: You can target 1 \"Shaddoll\" Spell/Trap in your GY; add it to your hand.",
     "str1": "Send 1 \"Shadoll\" card from your Deck to the Graveyard?",
     "str2": "Add \"Shadoll\" Spell/Trap Card from your Graveyard to your hand?",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "DUEA-DE049",
         "date": "2014-08-14"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a6/ElShaddollConstruct-MP15-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/ElShaddollConstruct-DUPO-EN-UR-1E.png"
 }

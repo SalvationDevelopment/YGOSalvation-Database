@@ -2,7 +2,7 @@
     "id": 24010609,
     "ot": 1,
     "alias": 0,
-    "setcode": 277,
+    "setcode": 0,
     "type": 131074,
     "atk": 0,
     "def": 0,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 8,
-    "name": "Brandish Mechanism Multi-Roll",
-    "desc": "Once per turn: You can target 1 other card you control; send it to the GY, also your opponent cannot activate cards or effects in response to your Spell Card activations this turn. Once per turn, during the End Phase: You can Set \"Brandish\" Spells with different names from your GY to your field, up to the number of \"Brandish\" Spell Cards you activated this turn while this card was face-up on the field, but banish them when they leave the field.",
+    "name": "Sky Striker Mecha Modules - Multirole",
+    "desc": "Once per turn: You can target 1 other card you control; send that card to the GY, also your opponent cannot activate cards or effects in response to your Spell Card activations for the rest of this turn (even if this cards leaves the field). Once per turn, during the End Phase: You can Set \"Sky Striker\" Spells with different names from your GY, up to the number of \"Sky Striker\" Spell Cards you activated this turn while this card was face-up on the field, but banish them when they leave the field.",
     "str1": "Set a \"Brandish\" spell card",
     "str2": "Set another \"Brandish\" spell card?",
     "str3": "",
@@ -29,11 +29,15 @@
     "str15": "",
     "str16": "",
     "cardpool": "OCG",
-    "tcg": {},
+    "tcg": {
+        "pack": "Dark Saviors",
+        "pack_id": "DASA-DE038",
+        "date": "2018-05-24"
+    },
     "ocg": {
         "pack": "Deck Build Pack: Dark Savers",
         "pack_id": "DBDS-JP038",
         "date": "2018-02-24"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/36/BrandishMechanismMultiRoll-DBDS-JP-SR.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/45/SkyStrikerMechaModulesMultirole-DASA-EN-ScR-1E.png"
 }

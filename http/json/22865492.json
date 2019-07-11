@@ -2,7 +2,7 @@
     "id": 22865492,
     "ot": 1,
     "alias": 0,
-    "setcode": 20488,
+    "setcode": 8,
     "type": 33,
     "atk": 900,
     "def": 1100,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Vision HERO Increase",
-    "desc": "If you take battle or effect damage: You can place this card from your GY face-up in your Spell & Trap Zone as a Continuous Trap. During the Main Phase, while this card is treated as a Continuous Trap: You can Tribute 1 \"HERO\" monster; Special Summon this card. If this card is Special Summoned from the Spell & Trap Zone: You can Special Summon 1 Level 4 or lower \"Vision HERO\" monster from your Deck. You can only use each effect of \"Vision HERO Increase\" once per turn.",
+    "desc": "If you take battle or effect damage while this card is in your GY: You can place this card from your GY in your Spell & Trap Zone as a face-up Continuous Trap. During the Main Phase, if this card is treated as a Continuous Trap: You can Tribute 1 \"HERO\" monster; Special Summon this card. If this card is Special Summoned from the Spell & Trap Zone: You can Special Summon 1 Level 4 or lower \"Vision HERO\" monster from your Deck. You can only use each effect of \"Vision HERO Increase\" once per turn.",
     "str1": "Place as a Continuous Trap",
     "str2": "Special Summon",
     "str3": "Special Summon 1 \"Vision HERO\"",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Collection Pack: Duelists of Revolution",
+        "pack_id": "CP19-JP007",
+        "date": "2019-05-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bf/VisionHEROIncrease-BLHR-EN-ScR-1E.png"
 }

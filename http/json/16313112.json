@@ -2,7 +2,7 @@
     "id": 16313112,
     "ot": 3,
     "alias": 0,
-    "setcode": 281,
+    "setcode": 0,
     "type": 161,
     "atk": 2800,
     "def": 2000,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 8194,
     "name": "Salamangreat Emerald Eagle",
-    "desc": "You can Ritual Summon this card with \"Rise of the Salamangreat\". When this card is Ritual Summoned using \"Salamangreat Emerald Eagle\" you control: You can destroy all Special Summoned monsters your opponent controls. Once per turn: You can Tribute 1 \"Salamangreat\" Link Monster; this turn, this card gains this effect.\r\n●At the start of the Damage Step, if this card battles an opponent's monster: Destroy that opponent's monster, and if you do, inflict damage to your opponent equal to that monster's original ATK.",
+    "desc": "You can Ritual Summon this card with &#x201C;Rise of the Salamangreat&#x201D;. When this card is Ritual Summoned using &#x201C;Salamangreat Emerald Eagle&#x201D; you control: You can destroy all Special Summoned monsters your opponent controls. Once per turn: You can Tribute 1 &#x201C;Salamangreat&#x201D; Link Monster; this turn, this card gains this effect.\n● At the start of the Damage Step, if this card battles an opponent's monster: Destroy that opponent's monster, and if you do, inflict damage to your opponent equal to that monster's original ATK.",
     "str1": "Destroy all Special Summoned monsters",
     "str2": "Add effect",
     "str3": "Destroy & damage",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-EN033",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP033",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/22/SalamangreatEmeraldEagle-SOFU-EN-C-1E.png"
 }

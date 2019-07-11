@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 1310724,
     "name": "Dragon's Rebirth",
-    "desc": "Target 1 Dragon-Type monster you control; banish that target, and if you do, Special Summon 1 Dragon-Type monster from your hand or Graveyard.",
+    "desc": "Target 1 Dragon monster you control; banish that target, and if you do, Special Summon 1 Dragon monster from your hand or GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Structure Deck: Dragonic Legion",
-        "pack_id": "SD22-KR035",
-        "date": "2011-03-06"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Dragons Collide Structure Deck",
-        "pack_id": "SDDC-DE036",
-        "date": "2012-02-02"
+        "pack": "Rise of the True Dragons Structure Deck",
+        "pack_id": "SR02-PT035",
+        "date": "2016-07-08"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/DragonsRebirth-SR02-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a3/DragonsRebirth-SS02-EN-C-1E.png"
 }

@@ -1,7 +1,15 @@
 {
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP031",
+        "date": "2018-04-14"
+    },
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE031",
+        "date": "2018-07-26"
+    },
     "id": 86401517,
-    "ot": 3,
-    "alias": 0,
     "setcode": 0,
     "type": 161,
     "atk": 1900,
@@ -9,24 +17,7 @@
     "level": 4,
     "race": 16777216,
     "attribute": 16,
-    "category": 262160,
     "name": "Paladin of Storm Dragon",
-    "desc": "You can Ritual Summon this card with \"Cynet Ritual\". At the start of the Damage Step, if this card attacks a monster: You can return that monster to the hand. You can Tribute this card; Special Summon 1 Level 5 or higher Cyberse monster from your hand or Deck, but it cannot activate its effects this turn. You can only use each effect of \"Paladin of Storm Dragon\" once per turn.",
-    "str1": "",
-    "str2": "",
-    "str3": "",
-    "str4": "",
-    "str5": "",
-    "str6": "",
-    "str7": "",
-    "str8": "",
-    "str9": "",
-    "str10": "",
-    "str11": "",
-    "str12": "",
-    "str13": "",
-    "str14": "",
-    "str15": "",
-    "str16": "",
-    "cardpool": "OCG/TCG"
+    "desc": "You can Ritual Summon this card with \"Cynet Ritual\". At the start of the Damage Step, if this card attacks a monster: You can return that monster to the hand. You can Tribute this card; Special Summon 1 Level 5 or higher Cyberse monster from your hand or Deck, but it cannot activate its effects this turn. You can only use each effect of &#x201C;Paladin of Storm Dragon&#x201D; once per turn.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7a/PaladinofStormDragon-CYHO-EN-R-1E.png"
 }

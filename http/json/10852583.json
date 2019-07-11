@@ -10,8 +10,8 @@
     "race": 524288,
     "attribute": 32,
     "category": 16777216,
-    "name": "Yajirovader",
-    "desc": "If this card is Normal or Special Summoned to a Main Monster Zone other than the middle one, destroy this card. Once per turn: You can move this card to an adjacent unused Main Monster Zone. Each time exactly 1 monster is Normal or Special Summoned to your opponent's field: If that opponent's monster is currently not in this card's column, move this card to the adjacent Main Monster Zone closer to that opponent's monster's column, then destroy all other cards in the column this card was moved in.",
+    "name": "Yajiro Invader",
+    "desc": "If this card is Normal or Special Summoned to a zone that is not the center Main Monster Zone, destroy this card. Once per turn: You can move this card to an unused adjacent Main Monster Zone. Each time exactly 1 monster is Normal or Special Summoned to your opponent's field: Move this card to the adjacent Main Monster Zone closer to that opponent's monster's column, then destroy all other cards in this card's column.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -29,11 +29,15 @@
     "str15": "",
     "str16": "",
     "cardpool": "OCG",
-    "tcg": {},
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE031",
+        "date": "2018-05-03"
+    },
     "ocg": {
         "pack": "Flames of Destruction",
         "pack_id": "FLOD-JP031",
         "date": "2018-01-13"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a2/Yajirovader-FLOD-JP-C.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/YajiroInvader-FLOD-EN-C-1E.png"
 }

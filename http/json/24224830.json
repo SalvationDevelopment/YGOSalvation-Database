@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 4,
     "name": "Called by the Grave",
-    "desc": "Target 1 monster in your opponent's GY; banish it, and if you do, monsters with the same original name as that banished monster have their effects negated until the end of the next turn.",
+    "desc": "Target 1 monster in your opponent's GY; banish it, and if you do, until the end of the next turn, its effects are negated, as well as the activated effects and effects on the field of monsters with the same original name.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -29,11 +29,15 @@
     "str15": "",
     "str16": "",
     "cardpool": "OCG",
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Force Special Edition",
+        "pack_id": "EXFO-DESE2",
+        "date": "2018-03-22"
+    },
     "ocg": {
         "pack": "Flames of Destruction",
         "pack_id": "FLOD-JP065",
         "date": "2018-01-13"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ea/CalledbytheGrave-FLOD-JP-C.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/be/CalledbytheGrave-FLOD-EN-C-1E.png"
 }

@@ -4,7 +4,11 @@
         "pack_id": "VF17-JP001",
         "date": "2017-07-22"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE097",
+        "date": "2018-07-26"
+    },
     "id": 2414168,
     "setcode": 0,
     "type": 33,
@@ -14,6 +18,6 @@
     "race": 16777216,
     "attribute": 16,
     "name": "Interrupt Resistor",
-    "desc": "When you take battle damage: You can Special Summon this card from your hand, and if you do, it gains ATK equal to the damage you took. Once per turn, when your other Defense Position monster is attacked by an opponent's monster, during damage calculation: You can make your monster's DEF become equal to this card's during damage calculation only, also it cannot be destroyed by that battle.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/84/InterruptResistor-VF17-JP-UR.png"
+    "desc": "When you take battle damage: You can Special Summon this card from your hand, and if you do, it gains ATK equal to the damage you took. Once per turn, during damage calculation, when another Defense Position monster you control is attacked by an opponent's monster (Quick Effect): You can activate this effect; during this damage calculation your attacked monster's DEF become equal to this card's DEF, also it cannot be destroyed by that battle.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/90/InterruptResistor-CYHO-EN-R-1E.png"
 }

@@ -10,8 +10,8 @@
     "race": 1,
     "attribute": 4,
     "category": 0,
-    "name": "Crystal Protector",
-    "desc": "Pendulum Effect\nEach turn, the first \"Crystal Beast\" card(s) or \"Ultimate Crystal\" monster(s) you control that would be destroyed by a card effect, is not destroyed.\n\nMonster Effect\nDuring damage calculation, if your \"Crystal Beast\" monster battles an opponent's monster (Quick Effect): You can Tribute this card from your hand or field; your battling monster's ATK/DEF each become double its original ATK/DEF during that damage calculation only, but it is destroyed at the end of this Damage Step.",
+    "name": "Crystal Keeper",
+    "desc": "Pendulum Effect\nEach turn, the first time an \"Ultimate Crystal\" monster(s) and/or \"Crystal Beast\" card(s) you control would be destroyed by a card effect that turn, it is not destroyed.\n\nMonster Effect\nIf a \"Crystal Beast\" monster you control battles an opponent's monster, during damage calculation (Quick Effect): You can Tribute this card from your hand or face-up from your field; your battling monster's ATK/DEF become double its original ATK/DEF during that damage calculation only, but it is destroyed at the end of this Damage Step.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,6 +35,10 @@
         "pack_id": "SECE-JP082",
         "date": "2014-11-15"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/CrystalProtector-SECE-JP-R.png"
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE093",
+        "date": "2018-05-03"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/58/CrystalKeeper-FLOD-EN-C-1E.png"
 }

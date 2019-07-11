@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 262144,
-    "name": "Trickstar Magicorolla",
-    "desc": "Activate this card by targeting 1 \"Trickstar\" monster in your GY; Special Summon it and equip it with this card. When this card leaves the field, destroy the equipped monster. Once per turn, if the equipped monster inflicts damage to your opponent by battle or card effect: You can Special Summon 1 \"Trickstar\" monster from your hand. You can only activate 1 \"Trickstar Magicorolla\" per turn.",
+    "name": "Trickstar Magical Laurel",
+    "desc": "Activate this card by targeting 1 \"Trickstar\" monster in your GY; Special Summon it and equip it with this card. When this card leaves the field, destroy that monster. Once per turn, if the equipped monster inflicts battle or effect damage to your opponent: You can Special Summon 1 \"Trickstar\" monster from your hand. You can only activate 1 \"Trickstar Magical Laurel\" per turn.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -29,11 +29,15 @@
     "str15": "",
     "str16": "",
     "cardpool": "OCG",
-    "tcg": {},
+    "tcg": {
+        "pack": "Duel Power",
+        "pack_id": "DUPO-EN022",
+        "date": "2019-04-03"
+    },
     "ocg": {
         "pack": "LINK VRAINS Box",
         "pack_id": "LVB1-JP007",
         "date": "2017-12-23"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/46/TrickstarMagicorolla-LVB1-JP-UR.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ad/TrickstarMagicalLaurel-DUPO-EN-UR-1E.png"
 }

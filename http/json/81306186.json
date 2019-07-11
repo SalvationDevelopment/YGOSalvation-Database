@@ -1,6 +1,6 @@
 {
     "id": 81306186,
-    "ot": 3,
+    "ot": 1,
     "alias": 0,
     "setcode": 0,
     "type": 131076,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262164,
     "name": "Renewal of the World",
-    "desc": "When this card is activated: Banish 1 Ritual Monster from your Deck. You can send this card to the GY, then activate 1 of these effects;\r\n● Tribute 1 monster from your hand or field, or shuffle 1 Ritual Monster from your GY into the Deck, whose Level equals or exceeds the Level of the monster banished by this card's effect, then Ritual Summon that monster.\r\n● Add the monster banished by this card's effect to your hand.\r\nYou can only use 1 \"Renewal of the World\" effect per turn, and only once that turn.",
+    "desc": "When this card is activated: Banish 1 Ritual Monster from your Deck. You can send this card to the GY, then activate 1 of these effects;\n● Tribute 1 monster from your hand or field, or shuffle 1 Ritual Monster from your GY into the Deck, whose Level equals or exceeds the Level of the monster banished by this card's effect, then Ritual Summon that monster.\n● Add the monster banished by this card's effect to your hand.\nYou can only use 1 &#x201C;Renewal of the World&#x201D; effect per turn, and only once that turn.",
     "str1": "Ritual Summon the banished monster",
     "str2": "Add the banished monster to hand",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE072",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP072",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1e/RenewaloftheWorld-CYHO-EN-R-1E.png"
 }

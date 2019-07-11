@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Rise to Full Height",
-    "desc": "Target 1 face-up monster on the field; double its DEF, but its DEF becomes 0 at the end of this turn. You can banish this card from your Graveyard, then target 1 monster you control; monsters your opponent controls cannot attack for the rest of this turn, except to attack that monster. You can only activate 1 \"Rise to Full Height\" per turn.",
+    "desc": "Target 1 face-up monster on the field; double its DEF, but its DEF becomes 0 at the end of this turn. You can banish this card from your GY, then target 1 monster you control; monsters your opponent controls cannot attack for the rest of this turn, except to attack that monster. You can only activate 1 \"Rise to Full Height\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "SHVI-DE077",
         "date": "2016-05-05"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c2/RisetoFullHeight-MP17-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d4/RisetoFullHeight-SR06-EN-C-1E.png"
 }

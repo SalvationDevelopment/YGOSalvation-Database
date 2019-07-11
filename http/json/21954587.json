@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 295424,
     "name": "Mermail Abyssmegalo",
-    "desc": "You can discard 2 other WATER monsters to the Graveyard; Special Summon this card from your hand. When you do: You can add 1 \"Abyss-\" Spell/Trap Card from your Deck to your hand. You can Tribute 1 other face-up Attack Position WATER monster; this card can make a second attack during each Battle Phase this turn.",
+    "desc": "You can discard 2 other WATER monsters to the GY; Special Summon this card from your hand. When Summoned this way: You can add 1 \"Abyss-\" Spell/Trap from your Deck to your hand. You can Tribute 1 other Attack Position WATER monster; this card can make a second attack during each Battle Phase this turn.",
     "str1": "Special Summon",
     "str2": "Recover",
     "str3": "Attack twice",
@@ -30,15 +30,7 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Abyss Rising",
-        "pack_id": "ABYR-JP020",
-        "date": "2012-07-21"
-    },
-    "tcg": {
-        "pack": "Abyss Rising",
-        "pack_id": "ABYR-DE020",
-        "date": "2012-11-08"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b8/MermailAbyssmegalo-BP02-EN-R-1E.png"
+    "ocg": {},
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cf/MermailAbyssmegalo-SHVA-EN-SR-1E.png"
 }

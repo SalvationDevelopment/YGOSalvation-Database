@@ -2,7 +2,7 @@
     "id": 24175232,
     "ot": 3,
     "alias": 0,
-    "setcode": 287,
+    "setcode": 0,
     "type": 161,
     "atk": 3000,
     "def": 1000,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 17039360,
     "name": "Cerulean Sacred Phoenix of Nephthys",
-    "desc": "You can Ritual Summon this card with \"Rebirth of Nephthys\". You can only use each of the following effects of \"Cerulean Sacred Phoenix of Nephthys\" once per turn.\r\n●During your Main Phase: You can destroy \"Nephthys\" cards in your hand and/or face-up field, then destroy an equal number of monsters your opponent controls.\r\n●During your next Standby Phase after this card was destroyed by battle or card effect and sent to the GY: You can Special Summon this card from the GY.",
+    "desc": "You can Ritual Summon this card with &#x201C;Rebirth of Nephthys&#x201D;. You can only use each of the following effects of &#x201C;Cerulean Sacred Phoenix of Nephthys&#x201D; once per turn.\n● During your Main Phase: You can destroy &#x201C;Nephthys&#x201D; cards in your hand and/or face-up field, then destroy an equal number of monsters your opponent controls.\n● During your next Standby Phase after this card was destroyed by battle or card effect and sent to the GY: You can Special Summon this card from the GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Hidden Summoners",
+        "pack_id": "HISU-DE006",
+        "date": "2018-11-15"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Hidden Summoners",
+        "pack_id": "DBHS-JP006",
+        "date": "2018-08-04"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/76/CeruleanSacredPhoenixofNephthys-HISU-EN-ScR-1E.png"
 }

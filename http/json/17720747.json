@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 256,
     "name": "Witch of the Black Rose",
-    "desc": "This card cannot be Special Summoned. When this card is Normal Summoned while you control no cards, draw 1 card and reveal it. If the card you drew is not a Monster Card, send it to the Graveyard and destroy this card.",
+    "desc": "Cannot be Special Summoned. If this card is Normal Summoned, and you control no other cards: Draw 1 card and show it, then, if it is not a monster, send it to the GY, also destroy this card.",
     "str1": "Draw card",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Absolute Powerforce",
-        "pack_id": "ABPF-JP012",
-        "date": "2009-11-14"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Absolute Powerforce",
-        "pack_id": "ABPF-DE012",
-        "date": "2010-02-11"
+        "pack": "Legendary Duelists: Sisters of the Rose",
+        "pack_id": "LED4-PT030",
+        "date": "2019-01-10"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7e/WitchoftheBlackRose-ABPF-EN-C-1E.jpg"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/de/WitchoftheBlackRose-LED4-EN-C-1E.png"
 }

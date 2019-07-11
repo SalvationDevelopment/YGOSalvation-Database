@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Stardust Mirage",
-    "desc": "If you control a Level 8 or higher Dragon Synchro Monster: Special Summon as many monsters from your GY as possible that were destroyed by battle or an opponent's card effect and sent there this turn. You can only activate 1 \"Stardust Mirage\" per turn.",
+    "desc": "If you control a Level 8 or higher Dragon Synchro Monster: Special Summon as many monsters as possible from your GY that were destroyed and sent to your GY by battle or an opponent's card effect this turn. You can only activate 1 \"Stardust Mirage\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "20th Anniversary Legend Collection",
+        "pack_id": "20TH-JPC10",
+        "date": "2019-02-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c1/StardustMirage-BLHR-EN-ScR-1E.png"
 }

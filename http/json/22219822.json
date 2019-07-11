@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262146,
     "name": "Trickstar Mandrake",
-    "desc": "If this card is sent from the hand to the GY: You can Special Summon this card in Defense Position, but banish it when it leaves the field. If this card is sent to the GY as material for the Link Summon of a \"Trickstar\" Link Monster: You can target 1 monster an opponent's Link Monster points to; destroy it. You can only use each effect of \"Trickstar Mandrake\" once per turn.",
+    "desc": "If this card is sent from the hand to the GY: You can Special Summon this card in Defense Position, but banish it when it leaves the field. If this card is sent to the GY as Link Material for the Link Summon of a \"Trickstar\" monster: You can target 1 monster an opponent's Link Monster points to; destroy it. You can only use each effect of \"Trickstar Mandrake\" once per turn.",
     "str1": "Special Summon",
     "str2": "Destroy",
     "str3": "",
@@ -29,11 +29,15 @@
     "str15": "",
     "str16": "",
     "cardpool": "OCG",
-    "tcg": {},
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE007",
+        "date": "2018-05-03"
+    },
     "ocg": {
         "pack": "Flames of Destruction",
         "pack_id": "FLOD-JP007",
         "date": "2018-01-13"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/61/TrickstarMandrake-FLOD-JP-C.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/49/TrickstarMandrake-FLOD-EN-C-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": -2147483647,
     "name": "Norito the Moral Leader",
-    "desc": "2 Level 6 Spellcaster-Type monsters\nOnce per turn, during either player's turn, when your opponent activates a Spell/Trap Card: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy it.",
+    "desc": "2 Level 6 Spellcaster monsters\nOnce per turn, when your opponent activates a Spell/Trap Card (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, destroy it.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,10 +35,6 @@
         "pack_id": "CPZ1-JP031",
         "date": "2013-08-10"
     },
-    "tcg": {
-        "pack": "Number Hunters",
-        "pack_id": "NUMH-DE039",
-        "date": "2013-07-11"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/27/NoritotheMoralLeader-PGL3-EN-GUR-1E.png"
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/NoritotheMoralLeader-BLRR-EN-UR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Supreme King Z-ARC",
-    "desc": "Pendulum Effect\nFusion, Synchro, and Xyz Monsters your opponent controls cannot activate their effects. Once per turn, when your opponent adds a card(s) from their Deck to their hand (except during the Draw Phase or the Damage Step): You can destroy that card(s).\n\nMonster Effect\n4 Dragon-Type monsters (1 Fusion, 1 Synchro, 1 Xyz, and 1 Pendulum)\nMust be Fusion Summoned and cannot be Special Summoned by other ways. If this card is Special Summoned: Destroy all cards your opponent controls. Cannot be destroyed by your opponent's card effects. Your opponent cannot target this card with card effects. When this card destroys an opponent's monster by battle: You can Special Summon 1 \"Supreme King Dragon\" monster from your Deck or Extra Deck. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone.",
+    "desc": "Pendulum Effect\nFusion, Synchro, and Xyz Monsters your opponent controls cannot activate their effects. Once per turn, when your opponent adds a card(s) from their Deck to their hand (except during the Draw Phase or the Damage Step): You can destroy that card(s).\n\nMonster Effect\n4 Dragon monsters (1 Fusion, 1 Synchro, 1 Xyz, and 1 Pendulum)\nMust be Fusion Summoned and cannot be Special Summoned by other ways. If this card is Special Summoned: Destroy all cards your opponent controls. Cannot be destroyed by your opponent's card effects. Your opponent cannot target this card with card effects. When this card destroys an opponent's monster by battle: You can Special Summon 1 \"Supreme King Dragon\" monster from your Deck or Extra Deck. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone.",
     "str1": "Destroy last drawn card",
     "str2": "Destroy all cards",
     "str3": "Special Summon 1 \"Supreme King Servant Dragon\"",
@@ -40,5 +40,5 @@
         "pack_id": "MACR-DE039",
         "date": "2017-05-04"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0c/SupremeKingZARC-MACR-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/42/SupremeKingZARC-MP18-EN-ScR-1E.png"
 }

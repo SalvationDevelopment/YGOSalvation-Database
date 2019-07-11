@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 8388616,
     "name": "Cupid Volley",
-    "desc": "You can choose a number from 1 to 3, then send that many cards from the top of your Deck to the GY; increase this card's Level by the number of cards sent to the GY this way, until the end of this turn. If this card you control is destroyed by an opponent's card and sent to your GY: You gain 1500 LP. You can only use each effect of \"Cupid Volley\" once per turn.",
+    "desc": "You can choose a number from 1 to 3, then send that many cards from the top of your Deck to the GY; increase this card's Level by the number of cards sent to the GY this way, until the end of this turn. If this card you control is destroyed by an opponent's card and sent to your GY: Gain 1500 LP. You can only use each effect of &#x201C;Cupid Volley&#x201D; once per turn.",
     "str1": "Increase Level",
     "str2": "Recover LP",
     "str3": "Choose a number",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE024",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP024",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ee/CupidVolley-CYHO-EN-SP-1E.png"
 }

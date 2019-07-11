@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 134225920,
     "name": "Skull Dice",
-    "desc": "Roll a six-sided die. All monsters your opponent currently controls lose ATK and DEF equal to the result x 100, until the End Phase.",
+    "desc": "Roll a six-sided die. All monsters your opponent currently controls lose ATK/DEF equal to the result x 100, until the end of this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "GameBoy Duel Monsters Promos: Series 5",
-        "pack_id": "G5-05",
-        "date": "2001-07-05"
-    },
+    "ocg": {},
     "tcg": {
         "pack": "Yu-Gi-Oh! The Eternal Duelist Soul Bundles",
         "pack_id": "EDS-003",
         "date": "2002-10-15"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1c/SkullDice-LCJW-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e9/SkullDice-SS02-EN-C-1E.png"
 }

@@ -2,7 +2,7 @@
     "id": 20318029,
     "ot": 3,
     "alias": 0,
-    "setcode": 284,
+    "setcode": 0,
     "type": 33,
     "atk": 0,
     "def": 2000,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 8720,
     "name": "Thunder Dragonmatrix",
-    "desc": "(Quick Effect): You can discard this card, then target 1 Thunder monster you control; it gains 500 ATK. If this card is banished, or sent from the field to the GY: You can add 1 \"Thunder Dragonmatrix\" from your Deck to your hand. You can only use 1 \"Thunder Dragonmatrix\" effect per turn, and only once that turn.",
+    "desc": "(Quick Effect): You can discard this card, then target 1 Thunder monster you control; it gains 500 ATK. If this card is banished, or sent from the field to the GY: You can add 1 &#x201C;Thunder Dragonmatrix&#x201D; from your Deck to your hand. You can only use 1 &#x201C;Thunder Dragonmatrix&#x201D; effect per turn, and only once that turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE018",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP018",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9f/ThunderDragonmatrix-OP09-EN-SR-UE.png"
 }

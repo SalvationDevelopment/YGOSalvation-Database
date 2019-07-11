@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 2097420,
     "name": "Allure of Darkness",
-    "desc": "Draw 2 cards, then banish 1 DARK monster from your hand, or, if you do not have any in your hand, send your entire hand to the Graveyard.",
+    "desc": "Draw 2 cards, then banish 1 DARK monster from your hand, or, if you do not have any in your hand, send your entire hand to the GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Extra Pack",
-        "pack_id": "EXP1-JP027",
-        "date": "2008-09-13"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Phantom Darkness",
-        "pack_id": "PTDN-DE084",
-        "date": "2008-01-26"
+        "pack": "OTS Tournament Pack 1",
+        "pack_id": "OP01-PT025",
+        "date": "2016-03-18"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e3/AllureofDarkness-SDPD-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fa/AllureofDarkness-DASA-EN-SR-1E.png"
 }

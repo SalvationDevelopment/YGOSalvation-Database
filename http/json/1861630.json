@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 2147491840,
     "name": "Decode Talker",
-    "desc": "2+ Effect Monsters\r\nGains 500 ATK for each monster it points to. When your opponent activates a card or effect that targets a card(s) you control (Quick Effect): You can Tribute 1 monster this card points to; negate the activation, and if you do, destroy that card.",
+    "desc": "Link Arrows: [🡷][🡱][🡶]\n\n2+ Effect Monsters\nGains 500 ATK for each monster it points to. When your opponent activates a card or effect that targets a card(s) you control (Quick Effect): You can Tribute 1 monster this card points to; negate the activation, and if you do, destroy that card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Starter Deck: Link Strike",
+        "pack_id": "YS17-DE041",
+        "date": "2017-07-20"
+    },
+    "ocg": {
+        "pack": "Starter Deck 2017",
+        "pack_id": "ST17-JP041",
+        "date": "2017-03-25"
+    },
+    "links": [
+        1,
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/DecodeTalker-DUPO-EN-UR-LE.png"
 }

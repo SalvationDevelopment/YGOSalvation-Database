@@ -4,7 +4,11 @@
         "pack_id": "VJMP-JP137",
         "date": "2017-08-21"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE093",
+        "date": "2019-01-31"
+    },
     "id": 15327215,
     "setcode": 61,
     "type": 33,
@@ -13,7 +17,7 @@
     "level": 4,
     "race": 1,
     "attribute": 32,
-    "name": "Legendary Shadow of the Six Samurai",
-    "desc": "When you Normal or Special Summon a \"Secret Six Samurai\" monster(s) (except during the Damage Step): You can Special Summon this card from your hand. You can only use this effect of \"Legendary Shadow of the Six Samurai\" once per turn. Once per turn: You can banish 1 Level 4 or lower \"Six Samurai\" monster from your GY; until the end of this turn, this card's Attribute, Level, and ATK/DEF become the banished monster's original Attribute, Level, and ATK/DEF.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/05/LegendaryShadowoftheSixSamurai-VJMP-JP-UR.png"
+    "name": "Legendary Secret of the Six Samurai",
+    "desc": "When you Normal or Special Summon a \"Secret Six Samurai\" monster(s) (except during the Damage Step): You can Special Summon this card from your hand. You can only use this effect of \"Legendary Secret of the Six Samurai\" once per turn. Once per turn: You can banish 1 Level 4 or lower \"Six Samurai\" monster from your GY; until the end of this turn, this card's Attribute, Level, and ATK/DEF become the same as that banished monster's.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e3/LegendarySecretoftheSixSamurai-SAST-EN-C-1E.png"
 }

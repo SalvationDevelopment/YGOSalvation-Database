@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "The Revenge of the Normal",
-    "desc": "Special Summon Level 4 or lower monsters from your hand, up to the number of monsters your opponent controls. You can only activate 1 \"The Revenge of the Normal\" per turn.",
+    "desc": "Special Summon Level 4 or lower monsters from your hand, up to the number of monsters your opponent controls. You can only activate 1 &#x201C;The Revenge of the Normal&#x201D; per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-EN079",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP079",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e1/TheRevengeoftheNormal-SOFU-EN-C-1E.png"
 }

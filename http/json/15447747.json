@@ -2,7 +2,7 @@
     "id": 15447747,
     "ot": 3,
     "alias": 0,
-    "setcode": 288,
+    "setcode": 0,
     "type": 131076,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 270368,
     "name": "Prank-Kids Plan",
-    "desc": "During the Main Phase: You can activate this effect; immediately after this effect resolves, Link Summon 1 \"Prank-Kids\" Link Monster using \"Prank-Kids\" monsters you control as material. When an opponent's monster declares an attack: You can banish this card from your GY; shuffle any number of \"Prank-Kids\" cards from your GY into the Deck, and if you do, that attacking monster loses 100 ATK for each card shuffled, until the end of this turn. You can only use each effect of \"Prank-Kids Plan\" once per turn.",
+    "desc": "During the Main Phase: You can activate this effect; immediately after this effect resolves, Link Summon 1 &#x201C;Prank-Kids&#x201D; Link Monster using &#x201C;Prank-Kids&#x201D; monsters you control as material. When an opponent's monster declares an attack: You can banish this card from your GY; shuffle any number of &#x201C;Prank-Kids&#x201D; cards from your GY into the Deck, and if you do, that attacking monster loses 100 ATK for each card shuffled, until the end of this turn. You can only use each effect of &#x201C;Prank-Kids Plan&#x201D; once per turn.",
     "str1": "Perform a Link Summon",
     "str2": "Shuffle and decrease ATK",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Hidden Summoners",
+        "pack_id": "HISU-DE026",
+        "date": "2018-11-15"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Hidden Summoners",
+        "pack_id": "DBHS-JP026",
+        "date": "2018-08-04"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f8/PrankKidsPlan-HISU-EN-SR-1E.png"
 }

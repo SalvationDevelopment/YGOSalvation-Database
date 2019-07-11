@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 3,
     "name": "SPYRAL Tough",
-    "desc": "This card's name becomes \"SPYRAL Super Agent\" while it is on the field or in the Graveyard. Once per turn: You can declare 1 card type (Monster, Spell, or Trap) and target 1 card your opponent controls; reveal the top card of your opponent's Deck, and if you do, destroy the targeted card if the revealed card is the declared type.",
+    "desc": "This card's name becomes \"SPYRAL Super Agent\" while it is on the field or in the GY. Once per turn: You can declare 1 card type (Monster, Spell, or Trap) and target 1 card your opponent controls; reveal the top card of your opponent's Deck, and if you do, destroy the targeted card if the revealed card is the declared type.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "RATE-DE087",
         "date": "2017-02-09"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e6/SPYRALTough-RATE-EN-R-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/19/SPYRALTough-OP07-EN-SR-UE.png"
 }

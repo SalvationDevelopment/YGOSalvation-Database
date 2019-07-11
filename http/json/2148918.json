@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8192,
     "name": "Armor Ninjitsu Art of Rust Mist",
-    "desc": "When a monster(s) is Special Summoned to your opponent's side of the field, if you control a face-up \"Ninja\" monster: Halve the ATK of that Special Summoned monster(s).",
+    "desc": "When a monster(s) is Special Summoned to your opponent's field, if you control a face-up \"Ninja\" monster: Halve the current ATK of that Special Summoned monster(s).",
     "str1": "Change ATK",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "ORCS-EN069",
         "date": "2012-01-14"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/03/ArmorNinjitsuArtofRustMist-ORCS-EN-SR-1E.jpg"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/ArmorNinjitsuArtofRustMist-SHVA-EN-SR-1E.png"
 }

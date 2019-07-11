@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": -2145386496,
     "name": "Advanced Dark",
-    "desc": "All \"Crystal Beast\" monsters on the field and in the Graveyard become DARK. If an \"Ultimate Crystal\" monster attacks, negate the effects of the attack target during that Battle Phase. During damage calculation, if a \"Crystal Beast\" monster you control battles and you would take damage: You can send 1 \"Crystal Beast\" monster from your Deck to the Graveyard; you take no Battle Damage from that battle.",
+    "desc": "All \"Crystal Beast\" monsters on the field and in the GY become DARK. If an \"Ultimate Crystal\" monster attacks, negate the effects of the attack target during that Battle Phase. During damage calculation, if a \"Crystal Beast\" monster you control battles and you would take damage: You can send 1 \"Crystal Beast\" monster from your Deck to the GY; you take no Battle Damage from that battle.",
     "str1": "Reduce damage to 0",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Duelist Edition Volume 2",
-        "pack_id": "DE02-JP160",
-        "date": "2012-05-12"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Return of the Duelist",
-        "pack_id": "REDU-EN094",
-        "date": "2012-08-18"
+        "pack": "Shadows in Valhalla",
+        "pack_id": "SHVA-PT056",
+        "date": "2018-08-16"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/19/AdvancedDark-REDU-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1a/AdvancedDark-SHVA-EN-SR-1E.png"
 }

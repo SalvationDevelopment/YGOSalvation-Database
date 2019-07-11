@@ -10,7 +10,7 @@
     "race": 16384,
     "attribute": 1,
     "category": 8388608,
-    "name": "Vampire Koala",
+    "name": "Vampiric Koala",
     "desc": "If this card inflicts battle damage to your opponent by battle with a monster: Gain LP equal to the battle damage inflicted.",
     "str1": "Recover",
     "str2": "",
@@ -30,15 +30,7 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Jump Festa 2010 - Promotion Pack",
-        "pack_id": "JF10-JP009",
-        "date": "2009-12-19"
-    },
-    "tcg": {
-        "pack": "Order of Chaos",
-        "pack_id": "ORCS-EN093",
-        "date": "2012-01-14"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f9/VampireKoala-BP03-EN-R-1E.png"
+    "ocg": {},
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/51/VampiricKoala-DASA-EN-SR-1E.png"
 }

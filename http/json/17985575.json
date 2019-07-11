@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 34603008,
     "name": "Lord of D.",
-    "desc": "Dragon-Type monsters on the field cannot be targeted by card effects.",
+    "desc": "Neither player can target Dragon monsters on the field with card effects.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "SDK-041",
         "date": "2002-03-29"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/54/LordofD-SDKS-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c3/LordofD-SS02-EN-C-1E.png"
 }

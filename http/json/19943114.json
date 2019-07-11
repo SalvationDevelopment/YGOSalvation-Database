@@ -1,8 +1,8 @@
 {
     "id": 19943114,
-    "ot": 3,
+    "ot": 1,
     "alias": 0,
-    "setcode": 280,
+    "setcode": 0,
     "type": 4,
     "atk": 0,
     "def": 0,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG",
+    "tcg": {
+        "pack": "Starter Deck: Codebreaker",
+        "pack_id": "YS18-DE033",
+        "date": "2018-07-12"
+    },
+    "ocg": {
+        "pack": "Starter Deck 2018",
+        "pack_id": "ST18-JP033",
+        "date": "2018-03-24"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0b/CynetRegression-YS18-EN-C-1E.png"
 }

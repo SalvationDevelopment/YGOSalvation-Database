@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 2,
     "name": "Burst Stream of Destruction",
-    "desc": "If you control \"Blue-Eyes White Dragon\": Destroy all monsters your opponent controls. \"Blue-Eyes White Dragon\" cannot attack the turn you activate this card.",
+    "desc": "If you control \"Blue-Eyes White Dragon\": Destroy all monsters your opponent controls. \"Blue-Eyes White Dragon\" you control cannot attack the turn you activate this card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,7 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "The Sanctuary in the Sky",
-        "pack_id": "308-038",
-        "date": "2003-11-20"
-    },
-    "tcg": {
-        "pack": "Ancient Sanctuary",
-        "pack_id": "AST-DE038",
-        "date": "2004-05-01"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d3/BurstStreamofDestruction-LCKC-EN-ScR-1E.png"
+    "ocg": {},
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8c/BurstStreamofDestruction-SS02-EN-C-1E.png"
 }

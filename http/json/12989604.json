@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 262144,
-    "name": "World Legacy Awakening",
-    "desc": "Immediately after this effect resolves, Link Summon 1 Link Monster using monsters you control as materials. You can only activate 1 \"World Legacy Awakening\" per turn.",
+    "name": "World Legacy Awakens",
+    "desc": "Immediately after this effect resolves, Link Summon 1 Link Monster using monster(s) you control as material. You can only activate 1 \"World Legacy Awakens\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -29,11 +29,15 @@
     "str15": "",
     "str16": "",
     "cardpool": "OCG",
-    "tcg": {},
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE071",
+        "date": "2018-05-03"
+    },
     "ocg": {
         "pack": "Flames of Destruction",
         "pack_id": "FLOD-JP071",
         "date": "2018-01-13"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/82/WorldLegacyAwakening-FLOD-JP-C.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/22/WorldLegacyAwakens-FLOD-EN-R-1E.png"
 }

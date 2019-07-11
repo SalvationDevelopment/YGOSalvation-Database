@@ -1,10 +1,14 @@
 {
     "ocg": {
         "pack": "Cybernetic Horizon",
-        "pack_id": "CYHO-JP0??",
+        "pack_id": "CYHO-JP077",
         "date": "2018-04-14"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE077",
+        "date": "2018-07-26"
+    },
     "id": 1010050,
     "setcode": 0,
     "type": 4,
@@ -14,6 +18,6 @@
     "race": 0,
     "attribute": 0,
     "name": "Ballista Squad",
-    "desc": "Tribute 1 monster, then target 1 card your opponent controls; destroy that card.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0d/BallistaSquad-CYHO-JP-OP.png"
+    "desc": "Tribute 1 monster, then target 1 card your opponent controls; destroy it.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/19/BallistaSquad-CYHO-EN-C-1E.png"
 }

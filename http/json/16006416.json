@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 1,
     "name": "D/D/D Flame High King Genghis",
-    "desc": "1 Level 5 or higher \"D/D\" monster + 1 \"D/D\" monster\nIf another \"D/D\" monster(s) is Normal or Special Summoned to your field, while you control this face-up card (except during the Damage Step): You can target 1 \"D/D\" monster in your GY; Special Summon it. You can only use this effect of \"D/D/D Flame High King Genghis\" once per turn. Once per turn, during your turn, when a Spell/Trap Card or effect is activated (Quick Effect): You can negate the activation.",
+    "desc": "1 Level 5 or higher \"D/D\" monster + 1 \"D/D\" monster\nIf another \"D/D\" monster(s) is Normal or Special Summoned to your field, while you control this monster (except during the Damage Step): You can target 1 \"D/D\" monster in your GY; Special Summon it. You can only use this effect of \"D/D/D Flame High King Genghis\" once per turn. Once per your turn, when a Spell/Trap Card, or its effect, is activated (Quick Effect): You can negate the activation.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,6 +35,10 @@
         "pack_id": "VJMP-JP127",
         "date": "2017-02-21"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1b/DDDFlameHighKingGenghis-VJMP-JP-UR.png"
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-EN095",
+        "date": "2018-10-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bd/DDDFlameHighKingGenghis-SOFU-EN-C-1E.png"
 }

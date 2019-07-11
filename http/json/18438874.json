@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 784,
     "name": "Evil Mind",
-    "desc": "If you control a Fiend monster: Activate 1 of these effects, depending on the number of monsters in your opponent's GY;\r\n● 1+: Draw 1 card.\r\n● 4+: Add 1 \"HERO\" monster or 1 \"Dark Fusion\" from your Deck to your hand.\r\n● 10+: Add 1 \"Polymerization\" Spell or \"Fusion\" Spell from your Deck to your hand.\r\nYou can only activate 1 \"Evil Mind\" per turn.",
+    "desc": "If you control a Fiend monster: Activate 1 of these effects, depending on the number of monsters in your opponent's GY.\n●1 or more: Draw a card.\n●4 or more: Add 1 \"HERO\" monster or \"Dark Fusion\" from your Deck to your hand.\n●10 or more: Add 1 \"Polymerization\" or \"Fusion\" Spell from your Deck to your hand.\nYou can only activate 1 \"Evil Mind\" per turn.",
     "str1": "Draw 1 card",
     "str2": "Add 1 \"HERO\" monster or 1 \"Dark Fusion\" from your Deck to your hand",
     "str3": "Add 1 \"Polymerization\" Spell or \"Fusion\" Spell from your Deck to your hand",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "DP22",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 5",
+        "pack_id": "DP22-JP016",
+        "date": "2019-06-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0c/EvilMind-DP22-JP-OP.png"
 }

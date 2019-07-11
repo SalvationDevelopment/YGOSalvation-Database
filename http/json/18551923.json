@@ -2,7 +2,7 @@
     "id": 18551923,
     "ot": 3,
     "alias": 0,
-    "setcode": 297,
+    "setcode": 0,
     "type": 33,
     "atk": 1400,
     "def": 1600,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 20,
     "name": "Medusa, Watcher of the Evil Eye",
-    "desc": "When this card is Normal Summoned: You can target 1 \"Evil Eye\" card in your GY, except \"Medusa, Watcher of the Evil Eye\"; add it to your hand. If this card is equipped with \"Evil Eye of Selene\" (Quick Effect): You can target 1 monster in your opponent's GY; banish it. You can only use this effect of \"Medusa, Watcher of the Evil Eye\" once per turn. Once per turn, during the next Standby Phase after this effect was activated: Banish 1 card in your GY.",
+    "desc": "When this card is Normal Summoned: You can target 1 &#x201C;Evil Eye&#x201D; card in your GY, except &#x201C;Medusa, Watcher of the Evil Eye&#x201D;; add that card to your hand. If this card is equipped with &#x201C;Evil Eye of Selene&#x201D; (Quick Effect): You can target 1 monster in your opponent's GY; banish that monster. You can only use this effect of \"Medusa, Watcher of the Evil Eye\" once per turn. Once per turn, during the next Standby Phase after this effect was activated: Banish 1 card in your GY.",
     "str1": "Target 1 \"Evil Eye\" card to add to hand",
     "str2": "Target 1 monster to banish",
     "str3": "Banish 1 card from your GY (Mandatory)",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "The Infinity Chasers",
+        "pack_id": "INCH-EN028",
+        "date": "2019-03-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Infinity Chasers",
+        "pack_id": "DBIC-JP028",
+        "date": "2019-02-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9e/MedusaWatcheroftheEvilEye-INCH-EN-1E-OP.png"
 }

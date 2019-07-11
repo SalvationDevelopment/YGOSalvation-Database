@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 262144,
     "name": "Speedroid Hexasaucer",
-    "desc": "[ Pendulum Effect ]\r\nYou can target 1 of your WIND Synchro Monsters that is banished or in your GY; return it to the Extra Deck. You can only use this effect of \"Speedroid Hexasaucer\" once per turn.\r\n----------------------------------------\r\n[ Monster Effect ]\r\nBoth players take any battle damage from attacks involving this card. Any battle damage a player takes from attacks involving this card is halved. If this card in the Pendulum Zone is destroyed: You can Special Summon 1 face-up \"Speedroid\" Pendulum Monster from your Extra Deck.",
+    "desc": "Pendulum Effect\nYou can target 1 of your WIND Synchro Monster that is banished or in your GY; return it to the Extra Deck. You can only use this effect of \"Speedroid Hexasaucer\" once per turn.\n\nMonster Effect\nBoth players take any battle damage involving this card. Any battle damage both players take from battles involving this card is halved. If this card is destroyed while in your Pendulum Zone: You can Special Summon 1 face-up &#x201C;Speedroid&#x201D; Pendulum Monster from your Extra Deck.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Premium Pack 2019",
+        "pack_id": "19PP-JP008",
+        "date": "2019-03-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/SpeedroidHexasaucer-19PP-JP-C.png"
 }

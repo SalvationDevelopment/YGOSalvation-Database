@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 786432,
     "name": "Tanngrisnir of the Nordic Beasts",
-    "desc": "If this card is destroyed by battle and sent to the Graveyard: Special Summon 2 \"Nordic Beast Tokens\" (Beast-Type/EARTH/Level 3/ATK 0/DEF 0).",
+    "desc": "If this card is destroyed by battle and sent to the GY: Special Summon 2 \"Nordic Beast Tokens\" (Beast/EARTH/Level 3/ATK 0/DEF 0).",
     "str1": "Special Summon token",
     "str2": "",
     "str3": "",
@@ -30,15 +30,7 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Storm of Ragnarok",
-        "pack_id": "STOR-JP010",
-        "date": "2010-11-13"
-    },
-    "tcg": {
-        "pack": "Storm of Ragnarok",
-        "pack_id": "STOR-EN010",
-        "date": "2011-02-08"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/TanngrisniroftheNordicBeasts-LC5D-EN-ScR-1E.png"
+    "ocg": {},
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fd/TanngrisniroftheNordicBeasts-LEHD-EN-UR-1E.png"
 }

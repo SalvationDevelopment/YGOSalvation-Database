@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 1,
     "name": "De-Spell",
-    "desc": "Select 1 Spell Card on the field and destroy it. If the selected card is Set, pick up and see the card. If it is a Spell Card, it is destroyed. If it is a Trap Card, return it to its original position.",
+    "desc": "Target 1 face-up Spell, or 1 Set Spell/Trap, on the field; destroy that target if it is a Spell. (If the target is Set, reveal it.)",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,10 +35,6 @@
         "pack_id": "",
         "date": "1999-03-27"
     },
-    "tcg": {
-        "pack": "Starter Deck: Yugi",
-        "pack_id": "SDY-029",
-        "date": "2002-03-29"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/74/DeSpell-SKE-EN-C-1E.jpg"
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/53/DeSpell-SBLS-EN-C-1E.png"
 }

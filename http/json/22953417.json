@@ -1,0 +1,49 @@
+{
+    "id": 22953417,
+    "ot": 1,
+    "alias": 0,
+    "setcode": 0,
+    "type": 67108897,
+    "atk": 3000,
+    "def": 170,
+    "level": 4,
+    "race": 16777216,
+    "attribute": 32,
+    "category": 4194312,
+    "name": "Topologic Gumblar Dragon",
+    "desc": "Link Arrows: [🡱][🡰][🡲][🡳]\n\n2+ Effect Monsters\nIf another monster is Special Summoned to a zone a Link Monster points to, while this monster is on the field: Discard 1 or 2 random cards, then your opponent discards the same number. If this card is Extra Linked and your opponent has at least 1 card in their hand: You can make your opponent discard 1 or 2 cards (whichever is higher), then, if they have no more cards in their hand, inflict 3000 damage to them. You can only use 1 \"Topologic Gumblar Dragon\" effect per turn, and only once that turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "cardpool": "OCG",
+    "tcg": {
+        "pack": "Battles of Legend: Relentless Revenge",
+        "pack_id": "BLRR-DE043",
+        "date": "2018-06-28"
+    },
+    "ocg": {
+        "pack": "Collectors Pack 2018",
+        "pack_id": "CP18-JP043",
+        "date": "2018-05-12"
+    },
+    "links": [
+        1,
+        3,
+        4,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/93/TopologicGumblarDragon-BLRR-EN-ScR-1E.png"
+}
