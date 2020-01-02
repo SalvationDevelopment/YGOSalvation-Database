@@ -63,7 +63,7 @@ function getdates(file, callback) {
 }
 
 function getcards(file, callback) {
-    fs.readFile(file, function(error, filebuffer) {
+    fs.readFile(file, function (error, filebuffer) {
         if (error) {
             console.log(error);
         }
@@ -84,7 +84,7 @@ function getcards(file, callback) {
         function getCardObject(id, db) {
 
             var result = {};
-            db.some(function(card, index) {
+            db.some(function (card, index) {
                 if (id === card.id) {
                     result = card;
                     result.date = new Date(result.date).getTime();
@@ -124,7 +124,7 @@ function getcards(file, callback) {
 
 function inversionID(db) {
     var hastable = {};
-    db.forEach(function(card) {
+    db.forEach(function (card) {
         hastable[card.id] = card;
     });
 
@@ -177,7 +177,7 @@ function parseLevelScales(card) {
 function splitJSON(inject) {
 
 
-    inject.forEach(function(card) {
+    inject.forEach(function (card) {
         var data = JSON.stringify(card, null, 4),
             id = './http/json/' + card.id.toString() + '.json';
         try {
@@ -200,8 +200,8 @@ function splitJSON(inject) {
 
 async function generate(filename) {
     try {
-        const cardData = new Promise(function(resolve, reject) {
-            getcards(filename, function(error, result) {
+        const cardData = new Promise(function (resolve, reject) {
+            getcards(filename, function (error, result) {
                 if (error) {
                     reject(error);
                     return;
@@ -210,9 +210,15 @@ async function generate(filename) {
             });
         });
 
-        cardData.then(function(data) {
+        cardData.then(function (data) {
             splitJSON(data);
 
         }).catch(console.log);
     } catch (e) { console.log(filename, e) }
 }
+
+const percy = 'C:/ygo/games/ygopro-percy/expansions/live2017links';
+
+
+
+generate(path.resolve(percy, 'prerelease-sd37.cdb'))
