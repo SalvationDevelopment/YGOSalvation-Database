@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 6144,
     "name": "Centerfrog",
-    "desc": "Cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon. If this card is Normal or Flip Summoned: Change it to Defense Position. Once per turn: You can target 1 monster in your opponent's Main Monster Zone; give your opponent control of this Defense Position card by moving it to their zone adjacent to the target, then if your opponent controls exactly 2 \"Centerfrog\" in the Main Monster Zone, gain control of all monsters in between those 2 cards.",
+    "desc": "Cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon. If this card is Normal or Flip Summoned: Change it to Defense Position. Once per turn: You can target 1 monster in your opponent's Main Monster Zone; give your opponent control of this Defense Position card by moving it to their zone adjacent to the target, then if your opponent controls exactly 2 &#x201C;Centerfrog&#x201D; in the Main Monster Zone, gain control of all monsters in between those 2 cards.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE025",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP025",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d6/Centerfrog-CYHO-EN-SP-1E.png"
 }

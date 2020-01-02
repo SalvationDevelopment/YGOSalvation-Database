@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE032",
+        "date": "2018-05-03"
+    },
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP032",
+        "date": "2018-01-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e3/IronDragonTiamaton-FLOD-EN-UR-1E.png"
 }

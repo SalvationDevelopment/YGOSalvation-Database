@@ -2,7 +2,7 @@
     "id": 49575521,
     "ot": 3,
     "alias": 0,
-    "setcode": 307,
+    "setcode": 0,
     "type": 33,
     "atk": 2600,
     "def": 1600,
@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 262160,
     "name": "Dragonmaid Nudyarl",
-    "desc": "Cannot be destroyed by card effects while you control a Fusion Monster. You can only use each of the following effects of \"Dragonmaid Nudyarl\" once per turn.\r\n● You can discard this card, then target 1 monster in either GY; shuffle it into the Deck.\r\n● At the end of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 2 \"Dragonmaid\" monster from your hand.",
+    "desc": "Cannot be destroyed by card effects while you control a Fusion Monster. You can only use each of the following effects of \"Dragonmaid Nudyarl\" once per turn.\n● You can discard this card, then target 1 monster in either GY; shuffle it into the Deck.\n● At the end of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 2 \"Dragonmaid\" monster from your hand.",
     "str1": "Shuffle into the Deck",
     "str2": "Return to hand and Special Summon",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Mystic Fighters",
+        "pack_id": "MYFI-DE017",
+        "date": "2019-11-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Mystic Fighters",
+        "pack_id": "DBMF-JP017",
+        "date": "2019-08-03"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d3/DragonmaidNudyarl-MYFI-EN-ScR-1E.png"
 }

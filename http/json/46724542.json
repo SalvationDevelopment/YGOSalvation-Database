@@ -2,7 +2,7 @@
     "id": 46724542,
     "ot": 3,
     "alias": 0,
-    "setcode": 4243,
+    "setcode": 9638035,
     "type": 67108897,
     "atk": 2100,
     "def": 10,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 8192,
     "name": "Cyber Dragon Sieger",
-    "desc": "2 Machine monsters, including \"Cyber Dragon\"\r\nThis card's name becomes \"Cyber Dragon\" while on the field or in the GY. During each Battle Phase, if this card has not declared an attack (Quick Effect): You can target 1 Machine monster you control with 2100 or more ATK; for the rest of this turn, that monster gains 2100 ATK/DEF, also neither player takes any battle damage from attacks involving this card. You can only use this effect of \"Cyber Dragon Sieger\" once per turn.",
+    "desc": "Link Arrows: [🡰][🡳]\n\n2 Machine monsters, including \"Cyber Dragon\"\nThis card's name becomes &#x201C;Cyber Dragon&#x201D; while on the field or in the GY. During each Battle Phase, if this card has not declared an attack (Quick Effect): You can target 1 Machine monster you control with 2100 or more ATK; for the rest of this turn, that monster gains 2100 ATK/DEF, also neither player takes battle damage from battles involving this monster. You can only use this effect of &#x201C;Cyber Dragon Sieger&#x201D; once per turn.",
     "str1": "Increase ATK",
     "str2": "",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE046",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP046",
+        "date": "2018-04-14"
+    },
+    "links": [
+        3,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/CyberDragonSieger-CYHO-EN-UR-1E.png"
 }

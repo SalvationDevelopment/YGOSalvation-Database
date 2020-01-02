@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Forbidden Trapezohedron",
-    "desc": "Apply this effect, depending on the Extra Deck monster card types (Fusion, Synchro, or Xyz) of monsters you control. You must control exactly 2 different monster card types to activate and to resolve this effect.\n● Fusion and Synchro: Special Summon 1 \"Outer Entity\" Xyz Monster from your Extra Deck, and if you do, attach this card to it as Xyz Material.\n● Synchro and Xyz: Special Summon 1 \"Elder Entity\" Fusion Monster from your Extra Deck.\n● Xyz and Fusion: Special Summon 1 \"Old Entity\" Synchro Monster from your Extra Deck.\nYou can only activate 1 \"Forbidden Trapezohedron\" per turn.",
+    "desc": "If you control exactly 2 Monster Card types (among Fusion, Synchro and/or Xyz): Apply the following effects based on those types.\n● Fusion and Synchro: Special Summon 1 \"Outer Entity\" Xyz Monster from your Extra Deck, and if you do, attach this card to it as material.\n● Synchro and Xyz: Special Summon 1 \"Elder Entity\" Fusion Monster from your Extra Deck.\n● Xyz and Fusion: Special Summon 1 \"Old Entity\" Synchro Monster from your Extra Deck.\nYou can only activate 1 \"Forbidden Trapezohedron\" per turn.",
     "str1": "Pick one",
     "str2": "Special Summon 1 \"Outer God\" Xyz Monster from your Extra Deck",
     "str3": "Special Summon 1 \"Elder God\" Fusion Monster from your Extra Deck.",
@@ -35,6 +35,10 @@
         "pack_id": "EP15-JP037",
         "date": "2015-09-19"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b8/ForbiddenTrapezohedron-EP15-JP-C.png"
+    "tcg": {
+        "pack": "Shadows in Valhalla",
+        "pack_id": "SHVA-DE0??",
+        "date": "2018-08-16"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e8/ForbiddenTrapezohedron-SHVA-EN-ScR-1E.png"
 }

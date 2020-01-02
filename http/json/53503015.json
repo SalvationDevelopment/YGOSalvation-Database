@@ -2,7 +2,7 @@
     "id": 53503015,
     "ot": 3,
     "alias": 0,
-    "setcode": 291,
+    "setcode": 0,
     "type": 65538,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 768,
     "name": "Frozen Rose",
-    "desc": "Send 1 face-up monster you control to the GY; apply this effect, depending on the Type it had on the field.\r\n●Plant: During the End Phase of this turn, draw 2 cards, then discard 1 card.\r\n●Non-Plant: Add 1 Level 4 or lower Plant monster from your Deck to your hand.\r\nYou can only activate 1 \"Frozen Rose\" per turn.",
+    "desc": "Send 1 face-up monster you control to the GY; apply the following effect, depending on the Type of monster sent.\n● Plant: During the End Phase of this turn, draw 2 cards, then discard 1 card.\n● Non-Plant: Add 1 Level 4 or lower Plant monster from your Deck to your hand.\nYou can only activate 1 \"Frozen Rose\" per turn.",
     "str1": "Draw then Discard",
     "str2": "Search",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: Sisters of the Rose",
+        "pack_id": "LED4-EN026",
+        "date": "2019-01-10"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 4",
+        "pack_id": "DP21-JP026",
+        "date": "2018-11-10"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/82/FrozenRose-LED4-EN-UR-1E.png"
 }

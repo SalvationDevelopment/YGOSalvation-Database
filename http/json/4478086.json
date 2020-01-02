@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262672,
     "name": "Clock Spartoi",
-    "desc": "2 Cyberse monsters\r\nIf this card is Link Summoned: You can add 1 \"Cynet Fusion\" from your Deck to your hand. If a monster(s) is Special Summoned to a zone(s) this card points to (except during the Damage Step): You can target 1 Level 4 or lower Cyberse monster in your GY; Special Summon it, but negate its effects, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Fusion Monsters. You can only use each effect of \"Clock Spartoi\" once per turn.",
+    "desc": "Link Arrows: [🡳][🡶]\n\n2 Cyberse monsters\nIf this card is Link Summoned: You can add 1 &#x201C;Cynet Fusion&#x201D; from your Deck to your hand. If a monster(s) is Special Summoned to a zone(s) this card points to (except during the Damage Step): You can target 1 Level 4 or lower Cyberse monster in your GY; Special Summon it, but negate its effects, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Fusion Monsters. You can only use each effect of &#x201C;Clock Spartoi&#x201D; once per turn.",
     "str1": "Search \"Cynet Fusion\"",
     "str2": "Special Summon",
     "str3": "Affected by \"Clock Spartoi\"",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-EN039",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP039",
+        "date": "2018-07-14"
+    },
+    "links": [
+        6,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d0/ClockSpartoi-SOFU-EN-R-1E.png"
 }

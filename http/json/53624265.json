@@ -2,7 +2,7 @@
     "id": 53624265,
     "ot": 3,
     "alias": 0,
-    "setcode": 304,
+    "setcode": 0,
     "type": 33,
     "atk": 1500,
     "def": 1500,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE009",
+        "date": "2019-10-24"
+    },
+    "ocg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-JP009",
+        "date": "2019-07-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5c/UnchainedTwinsRakea-CHIM-EN-R-1E.png"
 }

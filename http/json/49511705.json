@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 134217728,
     "name": "Proton Blast",
-    "desc": "Once per turn, if an activated card effect tosses coins, immediately after it resolves, apply the following effect(s), depending on the number of heads.\r\n● 1+: Inflict 500 damage to your opponent.\r\n● 2+: Destroy 1 card your opponent controls.\r\n● 3+: Look at your opponent's hand and discard 1 card from their hand.\r\nWhen an effect is activated that tosses a coin 2 or more times: You can banish this card from the GY; treat all results as heads.",
+    "desc": "Once per turn, if an activated card effect tosses coins, immediately after it resolves, apply the following effect(s), depending on the number of heads.\n● 1+: Inflict 500 damage to your opponent.\n● 2+: Destroy 1 card your opponent controls.\n● 3+: Look at your opponent's hand and discard 1 card from their hand.\nWhen an effect is activated that tosses a coin 2 or more times: You can banish this card from your GY; treat all the results as heads.",
     "str1": "All results become head",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: Ancient Millennium",
+        "pack_id": "LED2-DE017",
+        "date": "2018-02-22"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 2",
+        "pack_id": "DP19-JP017",
+        "date": "2017-11-11"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0b/ProtonBlast-LED2-EN-SR-1E.png"
 }

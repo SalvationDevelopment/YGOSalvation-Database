@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Structure Deck: Pegasus J. Crawford Edition",
+        "pack_id": "PE-10",
+        "date": "2002-03-21"
+    },
     "tcg": {
         "pack": "Duelist League Series 6 participation card",
         "pack_id": "DL6-EN001",

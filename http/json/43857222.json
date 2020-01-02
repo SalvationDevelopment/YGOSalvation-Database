@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 0,
     "name": "Magicalibra",
-    "desc": "[ Pendulum Effect ]\r\nYou can declare a Level from 1 to 6, then target 2 face-up monsters you control; until the end of this turn, reduce the Level of 1 of those monsters by the declared amount, and if you do, increase the Level of the other by the same amount (even if this card leaves the field). You can only use this effect of \"Magicalibra\" once per turn.\r\n----------------------------------------\r\n[ Monster Effect ]\r\nA sentient scale. It maintains the balance of the universe, but often places the stars on the wrong side.",
+    "desc": "Pendulum Effect\nYou can declare a Level from 1 to 6, then target 2 face-up monsters you control; until the end of this turn, reduce the Level of 1 of those monsters by the declared amount, and if you do, increase the Level of the other by the same amount (even if this card leaves the field). You can only use this effect of \"Magicalibra\" once per turn.\n\nMonster Effect\nA sentient scale. It maintains the balance of the universe, but often places the stars on the wrong side.",
     "str1": "Select a monster to reduce the level",
     "str2": "Select a monster to increase the level",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE037",
+        "date": "2019-07-25"
+    },
+    "ocg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-JP037",
+        "date": "2019-04-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/62/Magicalibra-RIRA-EN-C-1E.png"
 }

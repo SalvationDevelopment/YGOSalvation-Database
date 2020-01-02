@@ -2,7 +2,7 @@
     "id": 43735670,
     "ot": 3,
     "alias": 0,
-    "setcode": 299,
+    "setcode": 0,
     "type": 67108897,
     "atk": 1500,
     "def": 2,
@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 16,
     "name": "Marincess Blue Slug",
-    "desc": "1 Level 4 or lower \"Marincess\" monster\r\nIf this card is Link Summoned: You can target 1 \"Marincess\" monster in your GY, except \"Marincess Blue Slug\"; add it to your hand, also you cannot Special Summon monsters for the rest of this turn, except WATER monsters. You can only Link Summon \"Marincess Blue Slug\" once per turn.",
+    "desc": "Link Arrows: [🡳]\n\n1 Level 4 or lower \"Marincess\" monster\nIf this card is Link Summoned: You can target 1 \"Marincess\" monster in your GY, except \"Marincess Blue Slug\"; add it to your hand, also you cannot Special Summon monsters for the rest of this turn, except WATER monsters. You can only Link Summon \"Marincess Blue Slug\" once per turn.",
     "str1": "",
     "str2": "Affected by \"Marincess Blue Slug\"",
     "str3": "",
@@ -28,5 +28,19 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE040",
+        "date": "2019-07-25"
+    },
+    "ocg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-JP040",
+        "date": "2019-04-13"
+    },
+    "links": [
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/75/MarincessBlueSlug-RIRA-EN-UR-1E.png"
 }

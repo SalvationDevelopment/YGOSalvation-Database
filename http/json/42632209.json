@@ -2,7 +2,7 @@
     "id": 42632209,
     "ot": 3,
     "alias": 0,
-    "setcode": 306,
+    "setcode": 0,
     "type": 8225,
     "atk": 3000,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 512,
     "name": "Geomathmech Final Sigma",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nUnaffected by card effects, except \"Mathmech\" cards, while in the Extra Monster Zone. If this card in the Extra Monster Zone battles an opponent's monster, any battle damage it inflicts to your opponent is doubled. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can add 1 \"Mathmech\" card from your Deck to your hand. You can only use this effect of \"Geomathmech Final Sigma\" once per turn.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nUnaffected by card effects, except \"Mathmech\" cards, while in the Extra Monster Zone. If this card in the Extra Monster Zone battles an opponent's monster, any battle damage it inflicts to your opponent is doubled. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can add 1 \"Mathmech\" card from your Deck to your hand. You can only use this effect of \"Geomathmech Final Sigma\" once per turn.",
     "str1": "",
     "str2": "Search deck",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Mystic Fighters",
+        "pack_id": "MYFI-DE008",
+        "date": "2019-11-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Mystic Fighters",
+        "pack_id": "DBMF-JP008",
+        "date": "2019-08-03"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/68/GeomathmechFinalSigma-MYFI-EN-ScR-1E.png"
 }

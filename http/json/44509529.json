@@ -2,7 +2,7 @@
     "id": 44509529,
     "ot": 3,
     "alias": 0,
-    "setcode": 288,
+    "setcode": 0,
     "type": 97,
     "atk": 2000,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 270336,
     "name": "Prank-Kids Weather Washer",
-    "desc": "2 \"Prank-Kids\" monsters\r\nIf your \"Prank-Kids\" monster attacks, your opponent cannot activate cards or effects until the end of the Damage Step. During your opponent's turn (Quick Effect): You can Tribute this card, then target 2 \"Prank-Kids\" non-Fusion Monsters with different names in your GY; Special Summon them. They cannot be destroyed by battle this turn. You can only use this effect of \"Prank-Kids Weather Washer\" once per turn.",
+    "desc": "2 &#x201C;Prank-Kids&#x201D; monsters\nIf your &#x201C;Prank-Kids&#x201D; monster attacks, your opponent cannot activate cards or effects until the end of the Damage Step. During your opponent's turn (Quick Effect): You can Tribute this card, then target 2 &#x201C;Prank-Kids&#x201D; non-Fusion Monsters with different names in your GY; Special Summon them. They cannot be destroyed by battle this turn. You can only use this effect of &#x201C;Prank-Kids Weather Washer&#x201D; once per turn.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Hidden Summoners",
+        "pack_id": "HISU-DE018",
+        "date": "2018-11-15"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Hidden Summoners",
+        "pack_id": "DBHS-JP018",
+        "date": "2018-08-04"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/44/PrankKidsWeatherWasher-HISU-EN-SR-1E.png"
 }

@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": -2147483648,
-    "name": "Forbidden Graveyard",
-    "desc": "Activate by discarding 1 card. Effects that activate in the Graveyard this turn are negated.",
+    "name": "Silent Graveyard",
+    "desc": "Discard 1 card; effects that activate in the GY this turn are negated.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "TSHD-DE060",
         "date": "2010-05-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/68/ForbiddenGraveyard-TSHD-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4d/SilentGraveyard-OP09-EN-C-UE.png"
 }

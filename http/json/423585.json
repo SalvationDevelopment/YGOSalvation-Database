@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Structure Deck: Dragonic Legion",
+        "pack_id": "SD22-TC021",
+        "date": "2015-04-18"
+    },
+    "tcg": {
+        "pack": "Spellcaster's Command Structure Deck",
+        "pack_id": "SDSC-DE005",
+        "date": "2009-03-31"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c7/SummonerMonk-SDCL-EN-C-1E.png"
 }

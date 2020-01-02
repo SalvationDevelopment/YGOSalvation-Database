@@ -2,7 +2,7 @@
     "id": 48355999,
     "ot": 3,
     "alias": 0,
-    "setcode": 16912407,
+    "setcode": 4119,
     "type": 4129,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Rokket Synchron",
-    "desc": "When this card is Normal Summoned: You can target 1 Level 5 or higher DARK Dragon monster in your GY; Special Summon it in Defense Position, negate its effects, destroy it during the End Phase, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except DARK monsters.",
+    "desc": "When this card is Normal Summoned: You can target 1 Level 5 or higher DARK Dragon monster in your GY; Special Summon it in Defense Position, negate its effects, destroy it during the End Phase, also you cannot Special Summon monsters from the Extra Deck for the rest of the turn, except DARK monsters.",
     "str1": "Special Summon",
     "str2": "Affected by \"Rokket Synchron\"",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE007",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP007",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ed/RokketSynchron-SAST-EN-R-1E.png"
 }

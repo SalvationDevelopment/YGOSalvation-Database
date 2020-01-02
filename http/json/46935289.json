@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 2147483664,
     "name": "Herald of Mirages",
-    "desc": "2 monsters with the same Type and Attribute, except Tokens\nWhen a Spell/Trap Card or effect is activated (Quick Effect): You can send 1 Fairy monster from your hand to the GY; negate the activation, and if you do, destroy that card. If this card in your possession is sent to your GY by an opponent's card: You can add up to 2 Ritual Monsters and/or Ritual Spells with different names from your GY to your hand. You can only use each effect of \"Herald of Mirages\" once per turn.",
+    "desc": "Link Arrows: [🡷][🡶]\n\nWhen a Spell/Trap Card or effect is activated (Quick Effect): You can send 1 Fairy monster from your hand to the GY; Negate that activation, and if you do, destroy it. If this card in its owner's possession is sent to the GY by an opponent: You can add, from your GY to your hand, up to 2 cards with different names that are Ritual Monsters and/or Ritual Spells. You can only use each effect of \"Herald of Mirages\" once per turn.",
     "str1": "Negate",
     "str2": "Add to hand",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "LINK VRAINS Pack 3",
+        "pack_id": "LVP3-JP021",
+        "date": "2019-11-23"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a7/HeraldofMirages-LVP3-JP-OP.png"
 }

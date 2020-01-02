@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Elemental HERO Shadow Mist",
-    "desc": "If this card is Special Summoned: You can add 1 \"Change\" Quick-Play Spell Card from your Deck to your hand. If this card is sent to the Graveyard: You can add 1 \"HERO\" monster from your Deck to your hand, except \"Elemental HERO Shadow Mist\". You can only use 1 \"Elemental HERO Shadow Mist\" effect per turn, and only once that turn.",
+    "desc": "If this card is Special Summoned: You can add 1 \"Change\" Quick-Play Spell Card from your Deck to your hand. If this card is sent to the GY: You can add 1 \"HERO\" monster from your Deck to your hand, except \"Elemental HERO Shadow Mist\". You can only use 1 \"Elemental HERO Shadow Mist\" effect per turn, and only once that turn.",
     "str1": "Add 1 \"Change\" Quick-Play Spell Card from your Deck to your hand?",
     "str2": "Add 1 \"HERO\" monster?",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "SDHS-DE001",
         "date": "2015-01-29"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/54/ElementalHEROShadowMist-SDHS-EN-SR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/58/ElementalHEROShadowMist-LEHD-EN-C-1E.png"
 }

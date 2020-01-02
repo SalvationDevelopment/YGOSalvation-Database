@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Magical Something",
-    "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. This card's Level is increased by the number of Spell Counters on this card. You can remove 3 Spell Counters from this card, then target 1 Quick-Play Spell Card in your Graveyard; Set that card to your Spell & Trap Zone. You can only use this effect of \"Magical Something\" once per turn.",
+    "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. This card's Level is increased by the number of Spell Counters on it. You can remove 3 Spell Counters from this card, then target 1 Quick-Play Spell in your GY; Set that card to your Spell & Trap Zone. You can only use this effect of \"Magical Something\" once per turn.",
     "str1": "Set Quick-Play Spell Card",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "TDIL-DESP1",
         "date": "2016-07-30"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/79/MagicalSomething-MP17-EN-R-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/94/MagicalSomething-SR08-EN-C-1E.png"
 }

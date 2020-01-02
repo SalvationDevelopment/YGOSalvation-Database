@@ -2,7 +2,7 @@
     "id": 43886072,
     "ot": 3,
     "alias": 0,
-    "setcode": 288,
+    "setcode": 0,
     "type": 67108897,
     "atk": 2000,
     "def": 34,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 8208,
     "name": "Prank-Kids Bow-Wow-Bark",
-    "desc": "2 \"Prank-Kids\" monsters\r\nA \"Prank-Kids\" monster this card points to gains 1000 ATK. During your opponent's turn (Quick Effect): You can Tribute this card, then target 2 \"Prank-Kids\" cards with different names in your GY, except Link Monsters; add them to your hand, also \"Prank-Kids\" monsters you control cannot be destroyed by your opponent's card effects this turn. You can only use this effect of \"Prank-Kids Bow-Wow-Bark\" once per turn.",
+    "desc": "Link Arrows: [🡳][🡲]\n\n2 &#x201C;Prank-Kids&#x201D; monsters\n&#x201C;Prank-Kids&#x201D; monsters this card points to gain 1000 ATK. During your opponent's turn (Quick Effect): You can Tribute this card, then target 2 &#x201C;Prank-Kids&#x201D; cards with different names in your GY, except Link Monsters; add them to your hand, also &#x201C;Prank-Kids&#x201D; monsters you control cannot be destroyed by your opponent's card effects this turn. You can only use this effect of &#x201C;Prank-Kids Bow-Wow-Bark&#x201D; once per turn.",
     "str1": "Add 2 different \"Prankids\" cards from GY to hand",
     "str2": "",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Hidden Summoners",
+        "pack_id": "HISU-DE021",
+        "date": "2018-11-15"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Hidden Summoners",
+        "pack_id": "DBHS-JP021",
+        "date": "2018-08-04"
+    },
+    "links": [
+        4,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7b/PrankKidsBowWowBark-HISU-EN-SR-1E.png"
 }

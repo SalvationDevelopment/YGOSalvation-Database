@@ -2,7 +2,7 @@
     "id": 53417695,
     "ot": 3,
     "alias": 0,
-    "setcode": 304,
+    "setcode": 0,
     "type": 4,
     "atk": 0,
     "def": 0,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE069",
+        "date": "2019-10-24"
+    },
+    "ocg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-JP069",
+        "date": "2019-07-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e2/EscapeoftheUnchained-CHIM-EN-C-1E.png"
 }

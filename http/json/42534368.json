@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Structure Deck: Warrior's Strike",
+        "pack_id": "SD17-KR023",
+        "date": "2009-12-24"
+    },
     "tcg": {
-        "pack": "Legendary Collection 4: Joey's World Mega Pack",
-        "pack_id": "LCJW-PT071",
-        "date": "2013-10-11"
+        "pack": "Gladiator's Assault",
+        "pack_id": "GLAS-IT094",
+        "date": "2007-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/06/SilentDoom-SDKS-EN-C-1E.png"
 }

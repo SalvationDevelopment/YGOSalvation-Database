@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Duel Power",
+        "pack_id": "DUPO-EN033",
+        "date": "2019-04-03"
+    },
+    "ocg": {
+        "pack": "Premium Pack 20",
+        "pack_id": "PP20-JP013",
+        "date": "2018-03-10"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/69/LeftyDriver-DUPO-EN-UR-1E.png"
 }

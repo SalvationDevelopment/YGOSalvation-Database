@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 784,
     "name": "Malefic Tune",
-    "desc": "If a face-up \"Malefic\" monster(s) you control is destroyed by battle or an opponent's card effect: Draw 2 cards. If a face-up \"Malefic\" monster(s) you control is destroyed, except by battle, while this card is in your GY: You can banish this card from your GY; add 1 \"Malefic\" monster from your Deck to your hand. You can only use each effect of \"Malefic Tune\" once per turn.",
+    "desc": "If a face-up &#x201C;Malefic&#x201D; monster you control is destroyed by battle or your opponent's effect: Draw 2 cards. If a face-up &#x201C;Malefic&#x201D; monster you control is destroyed, except by battle, while this card is in the GY: You can banish this card from the GY; add 1 &#x201C;Malefic&#x201D; monster from your Deck to your hand. You can only use each effect of \"Malefic Tune\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "20th Anniversary Legend Collection",
+        "pack_id": "20TH-JPC08",
+        "date": "2019-02-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/95/MaleficTune-20TH-JP-UPR.png"
 }

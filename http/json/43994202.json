@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 528,
     "name": "Subsurface Stage Divers",
-    "desc": "If you control exactly 3 non-Token monsters with the same name, and no other monsters: You can add 3 monsters with the same name as each other from your Deck to your hand. For the rest of this turn after this card resolves, you cannot Normal Summon/Set or Special Summon monsters with the added monsters' name, nor activate their monster effects. You can only activate 1 \"Subsurface Stage Divers\" per turn.",
+    "desc": "If you control exactly 3 non-Token monsters with the same name, and no other monsters: You can add 3 monsters with the same name as each other from your Deck to your hand. For the rest of this turn after this card resolves, you cannot Normal Summon/Set or Special Summon monsters with the added monster's name, nor activate their monster effects. You can only activate 1 &#x201C;Subsurface Stage Divers&#x201D; per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-EN080",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP080",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/09/SubsurfaceStageDivers-SOFU-EN-C-1E.png"
 }

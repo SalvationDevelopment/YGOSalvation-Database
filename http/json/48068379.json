@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Link Token",
-    "desc": "Special Summoned by the effect of \"Link Devotee\".",
+    "desc": "Special Summoned with the effect of \"Link Devotee\"\n \"Linkross\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,8 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {},
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/Back-EN.png"
 }

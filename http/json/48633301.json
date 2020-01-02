@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 262672,
     "name": "T.G. Booster Raptor",
-    "desc": "If you control a \"T.G.\" monster, you can Special Summon this card (from your hand). You can only Special Summon \"T.G. Booster Raptor\" once per turn this way. Once per turn, during the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can add 1 \"T.G.\" monster from your Deck to your hand, except \"T.G. Booster Raptor\".",
+    "desc": "If you control a &#x201C;T.G.&#x201D; monster, you can Special Summon this card (from your hand). You can only Special Summon &#x201C;T.G. Booster Raptor&#x201D; once per turn this way. Once per turn, during the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can add 1 &#x201C;T.G.&#x201D; monster from your Deck to your hand, except \"T.G. Booster Raptor\".",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE010",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP010",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/09/TGBoosterRaptor-SAST-EN-C-1E.png"
 }

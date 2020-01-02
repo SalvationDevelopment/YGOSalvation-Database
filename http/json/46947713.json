@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 270336,
     "name": "Transcode Talker",
-    "desc": "2+ Effect Monsters\r\nWhile this card is co-linked, it and its co-linked monsters gain 500 ATK, also your opponent cannot target any of them with card effects. You can target 1 Link-3 or lower Cyberse Link Monster in your GY, except \"Transcode Talker\"; Special Summon it to your zone this card points to. You cannot Special Summon monsters the turn you activate this effect, except Cyberse monsters. You can only use this effect of \"Transcode Talker\" once per turn.",
+    "desc": "Link Arrows: [🡳][🡲][🡱]\n\n2+ Effect Monsters\nWhile this card is co-linked, it and its co-linked monsters gain 500 ATK, also your opponent cannot target any of them with card effects. You can target 1 Link-3 or lower Cyberse Link Monster in your GY, except &#x201C;Transcode Talker&#x201D;; Special Summon it to your zone this card points to. You cannot Special Summon monsters the turn you activate this effect, except Cyberse monsters. You can only use this effect of &#x201C;Transcode Talker&#x201D; once per turn.",
     "str1": "Special Summon",
     "str2": "Affected by \"Transcode Talker\"",
     "str3": "",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Starter Deck: Codebreaker",
+        "pack_id": "YS18-DE041",
+        "date": "2018-07-12"
+    },
+    "ocg": {
+        "pack": "Starter Deck 2018",
+        "pack_id": "ST18-JP041",
+        "date": "2018-03-24"
+    },
+    "links": [
+        1,
+        4,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2c/TranscodeTalker-YS18-EN-UR-1E.png"
 }

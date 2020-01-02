@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Pharaonic Guardian",
+        "pack_id": "PH-07",
+        "date": "2002-03-21"
+    },
     "tcg": {
         "pack": "Pharaonic Guardian",
         "pack_id": "PGD-007",

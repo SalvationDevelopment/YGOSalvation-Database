@@ -2,7 +2,7 @@
     "id": 53490455,
     "ot": 3,
     "alias": 0,
-    "setcode": 281,
+    "setcode": 0,
     "type": 33,
     "atk": 400,
     "def": 800,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 8388624,
     "name": "Salamangreat Raccoon",
-    "desc": "When your \"Salamangreat\" monster is targeted for an attack by an opponent's monster: You can send this card from your hand to the GY, then target those 2 monsters that would battle; gain LP equal to the ATK of that opponent's monster, also your targeted monster cannot be destroyed by battle this turn. When your \"Salamangreat\" monster destroys an opponent's monster by battle and sends it to the GY, while this card is in your GY: You can add this card to your hand. You can only use this effect of \"Salamangreat Raccoon\" once per turn.",
+    "desc": "When your \"Salamangreat\" monster is targeted for an attack by an opponent's monster: You can send this card from your hand to the GY, then target those 2 monsters that would battle; gain LP equal to the ATK of that opponent's monster's, also your targeted monster cannot be destroyed by battle this turn. When your \"Salamangreat\" monster destroys an opponent's monster by battle and sends it to the GY, while this card is in your GY: You can add this card to your hand. You can only use this effect of \"Salamangreat Raccoon\" once per turn.",
     "str1": "Gain LP",
     "str2": "Add to hand",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Soulburner",
+        "pack_id": "SDSB-DE001",
+        "date": "2019-02-14"
+    },
+    "ocg": {
+        "pack": "Structure Deck: Soulburner",
+        "pack_id": "SD35-JP001",
+        "date": "2018-12-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/SalamangreatRaccoon-SDSB-EN-C-1E.png"
 }

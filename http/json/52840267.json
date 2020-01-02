@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Darklord Ixchel",
-    "desc": "You can discard this card and 1 \"Darklord\" card; draw 2 cards. During either player's turn: You can pay 1000 LP, then target 1 \"Darklord\" Spell/Trap Card in your Graveyard; apply that target's effect, then shuffle that target into the Deck. You can only use each effect of \"Darklord Ixchel\" once per turn. You can only Special Summon \"Darklord Ixchel(s)\" once per turn.",
+    "desc": "You can discard this card and 1 \"Darklord\" card; draw 2 cards. (Quick Effect): You can pay 1000 LP, then target 1 \"Darklord\" Spell/Trap in your GY; apply that target's effect, then shuffle that target into the Deck. You can only use each effect of \"Darklord Ixchel\" once per turn. You can only Special Summon \"Darklord Ixchel(s)\" once per turn.",
     "str1": "Draw 2 cards",
     "str2": "Copy Effect",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "DESO-DE030",
         "date": "2016-11-17"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5c/DarklordIxchel-DESO-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/06/DarklordIxchel-BLRR-EN-ScR-1E.png"
 }

@@ -2,7 +2,7 @@
     "id": 50847759,
     "ot": 3,
     "alias": 0,
-    "setcode": 287,
+    "setcode": 0,
     "type": 2,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 16777216,
     "name": "Last Hope of Nephthys",
-    "desc": "Target 1 other \"Nephthys\" card you control and 1 card your opponent controls; destroy them. You can only activate 1 \"Last Hope of Nephthys\" per turn.",
+    "desc": "Target 1 other &#x201C;Nephthys&#x201D; card you control and 1 card your opponent controls; destroy them. You can only activate 1 &#x201C;Last Hope of Nephthys&#x201D; per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Hidden Summoners",
+        "pack_id": "DBHS-DE010",
+        "date": "2018-11-15"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Hidden Summoners",
+        "pack_id": "DBHS-JP010",
+        "date": "2018-08-04"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f5/LastHopeofNephthys-HISU-EN-SR-1E.png"
 }

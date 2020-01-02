@@ -2,7 +2,7 @@
     "id": 48150362,
     "ot": 3,
     "alias": 0,
-    "setcode": 49160,
+    "setcode": 201359368,
     "type": 33,
     "atk": 1600,
     "def": 800,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE009",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP009",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b4/DestinyHERODrawhand-DANE-EN-C-1E.png"
 }

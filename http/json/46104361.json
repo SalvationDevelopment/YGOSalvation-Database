@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Starter Deck: Codebreaker",
+        "pack_id": "YS18-DE004",
+        "date": "2018-07-12"
+    },
+    "ocg": {
+        "pack": "Starter Deck 2018",
+        "pack_id": "ST18-JP004",
+        "date": "2018-03-24"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/79/CyberseWhiteHat-YS18-EN-UR-1E.png"
 }

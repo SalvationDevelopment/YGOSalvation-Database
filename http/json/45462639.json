@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 67117120,
     "name": "Dark Red Enchanter",
-    "desc": "If this card is Normal Summoned: Place 2 Spell Counters on it. Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. This card gains 300 ATK for each Spell Counter on it. Once per turn: You can remove 2 Spell Counters from this card; Discard 1 random card from your opponent's hand.",
+    "desc": "If this card is Normal Summoned: Place 2 Spell Counters on it. Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Gains 300 ATK for each Spell Counter on it. Once per turn: You can remove 2 Spell Counters from this card; discard 1 random card from your opponent's hand.",
     "str1": "Place counter",
     "str2": "手札を捨てる",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "PTDN-DE097",
         "date": "2008-01-26"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b6/DarkRedEnchanter-SDSC-EN-C-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/55/DarkRedEnchanter-SBSC-EN-SR-1E.png"
 }

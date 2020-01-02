@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 270336,
     "name": "Twin-Headed Behemoth",
-    "desc": "During the End Phase, if this card is in the Graveyard because it was destroyed on the field and sent there this turn: You can Special Summon this card, but its ATK and DEF become 1000. You can only use this effect of \"Twin-Headed Behemoth\" once per Duel.",
+    "desc": "During the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can Special Summon this card, but its ATK/DEF become 1000. You can only use this effect of \"Twin-Headed Behemoth\" once per Duel.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "LOD-063",
         "date": "2003-06-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/84/TwinHeadedBehemoth-SDMY-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d8/TwinHeadedBehemoth-SS02-EN-C-1E.png"
 }

@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Starter Deck 2012",
+        "pack_id": "ST12-JP001",
+        "date": "2012-03-17"
+    },
     "tcg": {
         "pack": "Photon Shockwave Sneak Peek Participation Card",
         "pack_id": "PHSW-DESP1",

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 4194329,
     "name": "Chaos Emperor, the Dragon of Armageddon",
-    "desc": "[ Pendulum Effect ]\r\nYou can pay 1000 LP, then target 1 of your banished Dragon monsters; destroy this card, and if you do, add that monster to your hand. You can only use this effect of \"Chaos Emperor, the Dragon of Armageddon\" once per turn.\r\n----------------------------------------\r\n[ Monster Effect ]\r\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand or Extra Deck) by banishing 1 LIGHT and 1 DARK monster from your GY. You can only Special Summon \"Chaos Emperor, the Dragon of Armageddon\" once per turn this way. Once per turn: You can pay half your LP; send as many cards you control as possible to the GY, except from the Extra Monster Zone, and if you do, send cards your opponent controls to the GY, up to the number of your cards sent to the GY, then, inflict 300 damage to your opponent for each card sent to their GY by this card's effect. If this face-up Special Summoned card leaves the field, return it to the bottom of the Deck.",
+    "desc": "Pendulum Effect\nYou can pay 1000 LP, then target 1 of your banished Dragon monsters; destroy this card, and if you do, add that monster to your hand. You can only use this effect of \"Chaos Emperor, the Dragon of Armageddon\" once per turn.\n\nMonster Effect\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand or Extra Deck) by banishing 1 LIGHT and 1 DARK monster from your GY. You can only Special Summon \"Chaos Emperor, the Dragon of Armageddon\" once per turn this way. Once per turn: You can pay half your LP; send as many cards you control as possible to the GY, except from the Extra Monster Zone, and if you do, send cards your opponent controls to the GY, up to the number of your cards sent to the GY, then, inflict 300 damage to your opponent for each of their cards sent to the GY by this effect. If this face-up Special Summoned card leaves the field, return it to the bottom of the Deck.",
     "str1": "Add to hand",
     "str2": "Send to GY",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Yu-Gi-Oh! Championship Series 2018 prize card",
+        "pack_id": "YCSW-EN011",
+        "date": "2018-09-22"
+    },
+    "ocg": {
+        "pack": "20th Anniversary Legendary Dragons",
+        "pack_id": "VP18-JP004",
+        "date": "2018-05-21"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/92/ChaosEmperortheDragonofArmageddon-YCSW-EN-SR-LE.png"
 }

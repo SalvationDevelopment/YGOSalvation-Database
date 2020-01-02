@@ -2,7 +2,7 @@
     "id": 48815792,
     "ot": 3,
     "alias": 0,
-    "setcode": 191,
+    "setcode": 12517568,
     "type": 67108897,
     "atk": 1850,
     "def": 5,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 262656,
     "name": "Hiita the Fire Charmer, Ablaze",
-    "desc": "2 monsters, including a FIRE monster\r\n(This card is always treated as a \"Familiar-Possessed\" card.)\r\nYou can target 1 FIRE monster in your opponent's GY; Special Summon it to your zone this card points to. If this Link Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 FIRE monster with 1500 or less DEF from your Deck to your hand. You can only use each effect of \"Hiita the Fire Charmer, Ablaze\" once per turn.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 monsters, including a FIRE monster.\n(This card is always treated as a &#x201C;Familiar-Possessed&#x201D; card.)\nYou can target 1 FIRE monster in your opponent's GY; Special Summon it to your zone this card points to. If this Link Summoned card is destroyed by battle, or destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 FIRE monster with 1500 or less DEF from your Deck to your hand. You can only use each effect of \"Hiita the Fire Charmer, Ablaze\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE056",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP056",
+        "date": "2018-10-13"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/51/HiitatheFireCharmerAblaze-SAST-EN-R-1E.png"
 }

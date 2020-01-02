@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 0,
     "name": "Sublime Knight - Expaladin",
-    "desc": "If this card is Normal or Special Summoned: You can equip 1 FIRE Warrior monster or 1 Gemini monster from your hand or Deck to this card as an Equip Spell that makes it gain 500 ATK. If this card equipped with a Gemini monster(s) is destroyed by an opponent's card: You can Special Summon as many Gemini monsters from the GY as possible, that were equipped to this card, and if you do, they become Effect Monsters and gain their effects. You can only use each effect of \"Sublime Knight - Expaladin\" once per turn.",
+    "desc": "If this card is Normal or Special Summoned: you can equip a FIRE Warrior monster or a Gemini monster from your hand or Deck to this card as an Equip Spell with this effect. ● The equipped monster gains 500 ATK.\nIf this card that is equipped with a Gemini monster(s) is destroyed by your opponent's effect: you can Special Summon as many as those Gemini monsters that were equipped to this card, and if you do, they become Effect Monsters and gain their effects. You can only use each effect of \"Sublime Knight - Expaladin\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Structure Deck R: Warrior's Strike",
+        "pack_id": "SR09-JP002",
+        "date": "2019-09-28"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c0/SublimeKnightExpaladin-SR09-JP-OP.png"
 }

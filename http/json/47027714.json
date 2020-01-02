@@ -2,7 +2,7 @@
     "id": 47027714,
     "ot": 3,
     "alias": 0,
-    "setcode": 273612839,
+    "setcode": 2560079,
     "type": 33554465,
     "atk": 4500,
     "def": 4500,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 2147745792,
     "name": "T.G. Halberd Cannon/Assault Mode",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Assault Mode Activate\". You can only use each of the following effects of \"T.G. Halberd Cannon/Assault Mode\" once per turn.\r\n● When your opponent would Summon a monster (Quick Effect): You can negate the Summon, and if you do, banish that monster and all Special Summoned monsters your opponent controls.\r\n● When this card on the field is destroyed: You can target 1 \"T.G. Halberd Cannon\" in your GY; Special Summon it, ignoring its Summoning conditions.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Assault Mode Activate\". You can only use each of the following effects of \"T.G. Halberd Cannon/Assault Mode\" once per turn.\n● When your opponent would Summon a monster (Quick Effect): You can negate the Summon, and if you do, banish that monster and all Special Summoned monsters your opponent controls.\n● When this card on the field is destroyed: You can target 1 \"T.G. Halberd Cannon\" in your GY; Special Summon it, ignoring its Summoning conditions.",
     "str1": "Negate Summon",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE012",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP012",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cb/TGHalberdCannonAssaultMode-DANE-EN-R-1E.png"
 }

@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: Sisters of the Rose",
+        "pack_id": "LED4-DE047",
+        "date": "2019-01-10"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 4",
+        "pack_id": "DP21-JP047",
+        "date": "2018-11-10"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/45/LunalightYellowMarten-LED4-EN-R-1E.png"
 }

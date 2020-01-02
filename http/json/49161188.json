@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 2164301824,
     "name": "Gilti-Gearfried the Magical Steel Knight",
-    "desc": "2 Warrior monsters with different Attributes\r\nOnce per turn, when a card or effect is activated that targets this card (Quick Effect): You can negate that effect, and if you do, destroy 1 card on the field. This card that was Fusion Summoned using only monsters on the field as material can make a second attack during each Battle Phase. Once per turn, during damage calculation, if this card battles an opponent's monster (Quick Effect): You can banish 1 Spell from your GY; this card gains ATK equal to half its DEF until the end of this turn.",
+    "desc": "2 Warrior monsters with different Attributes\nOnce per turn, when a card or effect is activated that targets this card (Quick Effect): You can negate that effect, and if you do, destroy 1 card on the field. This card that was Fusion Summoned using only monsters on the field as material can make a second attack during each Battle Phase. Once per turn, during damage calculation, if this card battles an opponent's monster: You can banish 1 Spell from your GY; this card gains ATK equal to half its DEF until the end of this turn.",
     "str1": "Increase ATK",
     "str2": "Negate activation",
     "str3": "Second attack",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Premium Pack 2020",
+        "pack_id": "20PP-JP001",
+        "date": "2020-02-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f1/GiltiGearfriedtheMagicalSteelKnight-20PP-JP-OP.png"
 }

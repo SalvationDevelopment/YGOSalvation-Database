@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Extra Pack 2012",
+        "pack_id": "EP12-JP024",
+        "date": "2012-10-13"
+    },
+    "tcg": {
+        "pack": "Photon Shockwave",
+        "pack_id": "PHSW-DE083",
+        "date": "2011-11-10"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0b/WindUpRabbit-CT09-EN-SR-LE.png"
 }

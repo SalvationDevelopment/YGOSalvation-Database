@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 32,
     "name": "Hraesvelgr, the Desperate Doom Eagle",
-    "desc": "2+ WIND monsters\r\nGains 2400 ATK while your opponent has no monsters in their GY. (Quick Effect): You can target 1 monster in your opponent's GY; shuffle it into the Deck. You can only use this effect of \"Hraesvelgr, the Desperate Doom Eagle\" once per turn.",
+    "desc": "Link Arrows: [🡱][🡷][🡶]\n\n2+ WIND monsters\nGains 2400 ATK while your opponent has no monsters in their GY. (Quick Effect): You can target 1 monster in your opponent's GY; shuffle it into the Deck. You can only use this effect of \"Hraesvelgr, the Desperate Doom Eagle\" once per turn.",
     "str1": "Target 1 card to shuffle",
     "str2": "",
     "str3": "",
@@ -28,5 +28,17 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE082",
+        "date": "2019-07-25"
+    },
+    "ocg": {},
+    "links": [
+        1,
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/49/HraesvelgrtheDesperateDoomEagle-RIRA-EN-R-1E.png"
 }

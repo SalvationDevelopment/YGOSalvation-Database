@@ -2,7 +2,7 @@
     "id": 47870325,
     "ot": 1,
     "alias": 0,
-    "setcode": 293,
+    "setcode": 0,
     "type": 524290,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 65540,
     "name": "Smile Action",
-    "desc": "When this card is activated: Each player can banish up to 5 Spells from their GY, face-down. When a monster declares an attack: Activate this effect; the attacked player can apply this effect.\n● Randomly add 1 of your cards banished by this card's effect to your hand, then you can discard it, and if you do, negate the attack. If you did not discard it, any battle damage you take this turn is doubled.",
+    "desc": "When this card is activated: Each player can banish up to 5 Spells from their GY, face-down. When a monster declares an attack: Activate this effect; the attacking player's opponent can apply this effect.\n● Add to your hand, 1 random card from among your cards banished by this card's effect, then you can discard it and negate the attack. If you did not discard any cards, the battle damage you take this turn is doubled.",
     "str1": "Activate",
     "str2": "Banish Spells, face-down, from your GY?",
     "str3": "Apply \"Smile Action\" effect?",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 6",
+        "pack_id": "DP23-JP048",
+        "date": "2019-11-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/09/SmileAction-DP23-JP-R.png"
 }

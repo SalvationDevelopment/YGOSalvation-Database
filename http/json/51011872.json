@@ -4,7 +4,11 @@
         "pack_id": "VP17-JP003",
         "date": "2017-07-21"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Weekly Shonen Jump January 2018 membership",
+        "pack_id": "JUMP-EN083",
+        "date": "2018-02-01"
+    },
     "id": 51011872,
     "setcode": 251,
     "type": 33554465,
@@ -19,5 +23,5 @@
         4,
         5
     ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/65/TrickstarCrimsonHeart-JUMP-NA-LE-OP.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/54/TrickstarCrimsonHeart-SAST-EN-SR-LE.png"
 }

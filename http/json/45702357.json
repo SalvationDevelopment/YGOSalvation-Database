@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 2080,
     "name": "Reversible Beetle",
-    "desc": "FLIP: Shuffle this card, and any face-up monsters in its column, into the Deck(s).\r\nIf this card is Normal or Special Summoned: Change this card, and any monsters in its column, to face-down Defense Position. You can only use each effect of \"Reversible Beetle\" once per turn.",
+    "desc": "FLIP: Shuffle this card, and any face-up monsters in its column, into the Deck(s).\nIf this card is Normal or Special Summoned: Change this card, and any monsters in its column, to face-down Defense Position. You can only use each effect of \"Reversible Beetle\" once per turn.",
     "str1": "Shuffle all face-up monsters into the Deck",
     "str2": "Change to face-down",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE035",
+        "date": "2019-07-25"
+    },
+    "ocg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-JP035",
+        "date": "2019-04-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/95/ReversibleBeetle-RIRA-EN-C-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 2147745795,
     "name": "Stardust Dragon",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nWhen a card or effect is activated that would destroy a card(s) on the field (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it. During the End Phase, if this effect was activated this turn (and was not negated): You can Special Summon this card from your GY.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nWhen a card or effect is activated that would destroy a card(s) on the field (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it. During the End Phase, if this effect was activated this turn (and was not negated): You can Special Summon this card from your GY.",
     "str1": "Negate and destroy card",
     "str2": "Special Summon from your Graveyard during the End Phase",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Collectible Tins 2008 Wave 1",
+        "pack_id": "CT05-EN001",
+        "date": "2008-08-18"
+    },
+    "ocg": {
+        "pack": "The Duelist Genesis",
+        "pack_id": "TDGS-JP040",
+        "date": "2008-04-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8b/StardustDragon-DUPO-EN-UR-LE.png"
 }

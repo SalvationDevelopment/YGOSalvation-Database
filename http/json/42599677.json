@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Pharaoh's Servant",
+        "pack_id": "PSV-041",
+        "date": "2002-10-20"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fb/FlameChampion-PSV-NA-C-1E.jpg"
 }

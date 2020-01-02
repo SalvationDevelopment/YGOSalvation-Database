@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon Sneak Peek Participation Card",
+        "pack_id": "CYHO-DESP1",
+        "date": "2018-07-21"
+    },
+    "ocg": {
+        "pack": "Extra Pack 2019",
+        "pack_id": "EP19-JP058",
+        "date": "2019-09-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/92/ContactGate-CYHO-EN-C-1E.png"
 }

@@ -2,7 +2,7 @@
     "id": 50669347,
     "ot": 3,
     "alias": 0,
-    "setcode": 287,
+    "setcode": 0,
     "type": 67108897,
     "atk": 1200,
     "def": 6,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 17039888,
     "name": "Nephthys, the Sacred Preserver",
-    "desc": "2 \"Nephthys\" monsters\r\nYou can only use the following effect of \"Nephthys, the Sacred Preserver\" once per turn. During your Main Phase, if this card was Link Summoned: You can activate 1 of these effects;\r\n●Add 1 Level 8 Winged Beast monster from your Deck to your hand, then you can add 1 Ritual Spell from your GY to your hand.\r\n●Destroy 1 \"Nephthys\" monster this card points to, and Special Summon 1 \"Nephthys\" monster with a different original name from your GY, but negate its effects.",
+    "desc": "Link Arrows: [🡳][🡶]\n\n2 &#x201C;Nephthys&#x201D; monsters\nIf this Link Summoned card is on the field: You can activate 1 of these effects;\n● Add 1 Level 8 Winged Beast monster from your Deck to your hand, then you can add 1 Ritual Spell from your GY to your hand.\n● Destroy 1 &#x201C;Nephthys&#x201D; monster this card points to, and if you do, Special Summon from your GY 1 &#x201C;Nephthys&#x201D; monster with a different original name from that monster, but negate its effects.\nYou can only use each of the these effects of &#x201C;Nephthys, the Sacred Preserver&#x201D; once per turn.",
     "str1": "Activate effect",
     "str2": "Search",
     "str3": "Destroy and Special Summon",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Hidden Summoners",
+        "pack_id": "DBHS-DE007",
+        "date": "2018-11-15"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Hidden Summoners",
+        "pack_id": "DBHS-JP007",
+        "date": "2018-08-04"
+    },
+    "links": [
+        6,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/eb/NephthystheSacredPreserver-HISU-EN-ScR-1E.png"
 }

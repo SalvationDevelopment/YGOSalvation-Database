@@ -2,7 +2,7 @@
     "id": 46986421,
     "ot": 3,
     "alias": 46986414,
-    "setcode": 0,
+    "setcode": 4258,
     "type": 17,
     "atk": 2500,
     "def": 2100,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legend of Blue Eyes White Dragon",
+        "pack_id": "LOB-005",
+        "date": "2002-03-08"
+    },
+    "ocg": {
+        "pack": "Vol.1",
+        "pack_id": "",
+        "date": "1999-02-04"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b6/DarkMagician-DUPO-EN-UR-LE.png"
 }

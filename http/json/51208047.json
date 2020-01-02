@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Trickstar Token",
-    "desc": "Special Summoned by the effect of \"Trickstar Live Stage\".",
+    "desc": "Special Summoned with the effect of \"Trickstar Live Stage\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "OTS Tournament Pack 10",
+        "pack_id": "OP10-DE026",
+        "date": "2019-04-18"
+    },
+    "ocg": {
+        "pack": "Tournament Pack 2018 Vol.4",
+        "pack_id": "18TP-JP416",
+        "date": "2018-10-01"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/95/TrickstarToken-OP10-EN-SR-UE.png"
 }

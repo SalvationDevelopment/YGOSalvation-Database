@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Stand In",
-    "desc": "Tribute 1 monster, then target 1 monster in your opponent's GY with the same original Type and Attribute; Special Summon it to your field. You can only activate 1 \"Stand In\" per turn.",
+    "desc": "Tribute 1 monster, then target 1 monster in your opponent's GY with the same original Type and Attribute as the Tributed monster; Special Summon it to your field. You can only activate 1 \"Stand In\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE066",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP066",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/20/StandIn-DANE-EN-C-1E.png"
 }

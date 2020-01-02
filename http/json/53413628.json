@@ -1,10 +1,14 @@
 {
     "ocg": {
-        "pack": "Link Monster GET!! Campaign",
+        "pack": "Link Monster Present",
         "pack_id": "17CC-JP001",
         "date": "2017-09-09"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Fists of the Gadgets",
+        "pack_id": "FIGA-DE043",
+        "date": "2019-08-22"
+    },
     "id": 53413628,
     "setcode": 257,
     "type": 33554465,
@@ -14,10 +18,10 @@
     "race": 16777216,
     "attribute": 32,
     "name": "Code Talker",
-    "desc": "Link Arrows: [🡱][🡳]\n\n2 Effect Monsters\nGains 500 ATK for each monster it points to. Cannot be destroyed by battle or your opponent's card effects, while it points to a monster.",
+    "desc": "Link Arrows: [🡱][🡳]\n\n2 Effect Monsters\nGains 500 ATK for each monster this card points to. Cannot be destroyed by battle or your opponent's card effects, while this card points to a monster.",
     "links": [
         1,
         6
     ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c2/CodeTalker-JF18-JP-NPR.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d3/CodeTalker-FIGA-EN-SR-1E.png"
 }

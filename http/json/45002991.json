@@ -2,7 +2,7 @@
     "id": 45002991,
     "ot": 3,
     "alias": 0,
-    "setcode": 278,
+    "setcode": 0,
     "type": 67108897,
     "atk": 2000,
     "def": 133,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 2147557376,
     "name": "Crusadia Equimax",
-    "desc": "2+ Effect Monsters, including a Link Monster\r\nGains ATK equal to the combined original ATK of all monsters this card points to. Monsters this card points to cannot attack. Once per turn (Quick Effect): You can Tribute 1 \"Crusadia\" or \"World Legacy\" monster this card points to, then target 1 face-up card your opponent controls; negate its effects until the end of this turn.",
+    "desc": "Link Arrows: [🡷][🡶][🡱]\n\n2+ Effect Monsters, including a Link Monster\nGains ATK equal to the combined original ATK of all monsters this card points to. Monsters this card points to cannot attack. Once per turn (Quick Effect): You can Tribute 1 &#x201C;Crusadia&#x201D; or &#x201C;World Legacy&#x201D; monster this card points to, then target 1 face-up card your opponent controls; negate its effects until the end of this turn.",
     "str1": "Negate effect",
     "str2": "",
     "str3": "",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE044",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP044",
+        "date": "2018-04-14"
+    },
+    "links": [
+        1,
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a4/CrusadiaEquimax-CYHO-EN-UR-1E.png"
 }

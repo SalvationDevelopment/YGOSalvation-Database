@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Karakuri Monk mdl 9763 \"Kunamusan\"",
-    "desc": "If this card is in your hand: You can target 1 \"Karakuri\" monster you control; you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except EARTH Machine monsters, also change that monster's battle position, and if you do, Special Summon this card as a Tuner. You can only use this effect of \"Karakuri Monk mdl 9763 \"Kunamusan\"\" once per turn. This card must attack if able. If this card is targeted for an attack: Change its battle position.",
+    "desc": "Must attack if able. If this card is selected for an attack: Change its battle position. If this card is in your hand: You can target 1 \"Karakuri\" monster you control; change its battle position, and if you do, Special Summon this card (it becomes treated as a Tuner), also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except EARTH Machine monsters. You can only use this effect of \"Karakuri Monk mdl 9763 \"Kunamusan\"\" once per turn.",
     "str1": "Special Summon",
     "str2": "Change position",
     "str3": "Affected by \"Karakuri Monk mdl 9763 \"Kunamusan\"\"",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP014",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6d/KarakuriMonkmdl9763Kunamusan-IGAS-JP-C.png"
 }

@@ -2,7 +2,7 @@
     "id": 47963370,
     "ot": 3,
     "alias": 0,
-    "setcode": 10617039,
+    "setcode": 207,
     "type": 161,
     "atk": 2500,
     "def": 2100,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262147,
     "name": "Magician of Chaos",
-    "desc": "You can Ritual Summon this card with \"Chaos Form\". This card's name becomes \"Dark Magician\" while on the field or in the GY. Once per turn, when a Spell/Trap Card or effect is activated (Quick Effect): You can target 1 card on the field; destroy it. If this Ritual Summoned card is destroyed by battle or card effect: You can Special Summon 1 \"Chaos\" or \"Black Luster Soldier\" Ritual Monster from your hand, except \"Magician of Chaos\", ignoring its Summoning conditions.",
+    "desc": "You can Ritual Summon this card with \"Chaos Form\". This card's name becomes \"Dark Magician\" while on the field or in the GY. Once per turn, when a Spell/Trap Card or effect is activated (Quick Effect): You can target 1 card on the field; destroy it. If this Ritual Summoned card is destroyed by battle or card effect: You can Special Summon 1 \"Chaos\"  or \"Black Luster Soldier\" Ritual Monster from your hand, except \"Magician of Chaos\", ignoring its Summoning conditions.",
     "str1": "Destroy",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Duel Power",
+        "pack_id": "DUPO-EN001",
+        "date": "2019-04-03"
+    },
+    "ocg": {
+        "pack": "20th Anniversary Duelist Box",
+        "pack_id": "20TH-JPB01",
+        "date": "2018-12-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/ff/MagicianofChaos-DUPO-EN-UR-1E.png"
 }

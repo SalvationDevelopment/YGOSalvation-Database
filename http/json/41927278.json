@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Fragile Double-Edged Sword",
-    "desc": "You can only control 1 \"Fragile Double-Edged Sword\". The equipped monster gains 2000 ATK, also both players take any battle damage from attacks involving the equipped monster. If you take 2000 or more battle damage: Send this card to the GY.",
+    "desc": "You can only control 1 face-up \"Fragile Double-Edged Sword\". The equipped monster gains 2000 ATK, also both players take any battle damage it inflicts. If you take 2000 or more battle damage: Send this card to the GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP068",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/ff/FragileDoubleEdgedSword-IGAS-JP-NR.png"
 }

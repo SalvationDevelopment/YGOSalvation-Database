@@ -2,7 +2,7 @@
     "id": 43316238,
     "ot": 3,
     "alias": 0,
-    "setcode": 286,
+    "setcode": 0,
     "type": 33,
     "atk": 3000,
     "def": 0,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE082",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Extra Pack 2019",
+        "pack_id": "EP19-JP021",
+        "date": "2019-09-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8b/DangerBigfoot-CYHO-EN-ScR-1E.png"
 }

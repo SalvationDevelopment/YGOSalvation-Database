@@ -2,7 +2,7 @@
     "id": 49275969,
     "ot": 3,
     "alias": 0,
-    "setcode": 308,
+    "setcode": 0,
     "type": 33,
     "atk": 2100,
     "def": 2600,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Mystic Fighters",
+        "pack_id": "MYFI-DE031",
+        "date": "2019-11-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Mystic Fighters",
+        "pack_id": "DBMF-JP031",
+        "date": "2019-08-03"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5e/NidhoggGeneraiderBossofIce-MYFI-EN-ScR-1E.png"
 }

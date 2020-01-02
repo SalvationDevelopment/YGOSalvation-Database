@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 0,
     "name": "Shiranui Squiresaga",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nYou can only Special Summon \"Shiranui Squiresaga(s)\" once per turn. Once per turn: You can banish 1 face-up monster you control or in your GY, then apply these effects, in sequence, depending on what the monster was before it was banished, if it was any of these.\r\n● Zombie: You can have all monsters you control gain 300 ATK.\r\n● FIRE: You can destroy 1 Spell/Trap on the field.\r\n● Synchro: You can destroy 1 monster on the field.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nYou can only Special Summon \"Shiranui Squiresaga(s)\" once per turn. Once per turn: You can banish 1 face-up monster you control or in your GY, then apply these effects, in sequence, depending on what the monster was before it was banished, if it was any of these.\n● Zombie: You can have all monsters you control gain 300 ATK.\n● FIRE: You can destroy 1 Spell/Trap on the field.\n● Synchro: You can destroy 1 monster on the field.",
     "str1": "Banish a monster",
     "str2": "Apply effect: All monsters you control gain 300 ATK",
     "str3": "Apply effect: Destroy 1 Spell/Trap on the field",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike Sneak Peek Participation Card",
+        "pack_id": "SAST-DESP1",
+        "date": "2019-01-26"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP041",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b5/ShiranuiSquiresaga-SAST-EN-C-1E.png"
 }

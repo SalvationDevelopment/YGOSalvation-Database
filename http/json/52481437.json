@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262160,
     "name": "Super Express Bullet Train",
-    "desc": "Cannot declare an attack unless you send 2 other cards you control to the GY. You can only use each of these effects of \"Super Express Bullet Train\" once per turn.\r\n●If all monsters you control are EARTH Machines (min. 1): You can Special Summon this card from your hand.\r\n●During the End Phase, if this card is in the GY because it was sent there this turn: You can target 1 Machine monster in your GY, except \"Super Express Bullet Train\"; add it to your hand.",
+    "desc": "Cannot declare an attack unless you send 2 other cards you control to the GY. You can only use each of these effects of \"Super Express Bullet Train\" once per turn.\n● If all monsters you control are EARTH Machines (min. 1): You can Special Summon this card from your hand.\n● During the End Phase, if this card is in the GY because it was sent there this turn: You can target 1 Machine monster in your GY, except \"Super Express Bullet Train\"; add it to your hand.",
     "str1": "Special Summon",
     "str2": "Add to hand",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: Sisters of the Rose",
+        "pack_id": "LED4-DE035",
+        "date": "2019-01-10"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 4",
+        "pack_id": "DP21-JP035",
+        "date": "2018-11-10"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2a/SuperExpressBulletTrain-LED4-EN-UR-1E.png"
 }

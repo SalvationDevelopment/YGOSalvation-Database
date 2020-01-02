@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 270336,
     "name": "Shiranui Swordmaster",
-    "desc": "If this card is in your GY and you control 2 or more \"Shiranui\" monsters with different names: You can Special Summon this card, but banish it when it leaves the field. If this card is banished: You can target 1 Zombie monster you control; it gains 600 ATK until the end of this turn. You can only use each effect of \"Shiranui Swordmaster\" once per turn.",
+    "desc": "If this card is in your GY and you control 2 or more &#x201C;Shiranui&#x201D; monsters with different names: You can Special Summon this card, but banish it when it leaves the field. If this card is banished: You can target 1 Zombie monster you control; it gains 600 ATK until the end of this turn. You can only use each effect of \"Shiranui Swordmaster\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE018",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP018",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/ShiranuiSwordmaster-SAST-EN-C-1E.png"
 }

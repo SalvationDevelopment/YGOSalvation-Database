@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 2147483648,
     "name": "Scrap-Iron Signal",
-    "desc": "When your opponent activates a monster effect while you control a Synchro Monster that requires a Synchro Monster(s) as material: Negate the activation, also, after that, Set this card face-down instead of sending it to the GY. You can only activate 1 \"Scrap-Iron Signal\" per turn.",
+    "desc": "When your opponent activates a monster effect while you control a Synchro Monster that requires a Synchro Monster(s) as material: Negate the activation, also after that, Set this card face-down instead of sending it to the GY. You can only activate 1 \"Scrap-Iron Signal\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 6",
+        "pack_id": "DP23-JP027",
+        "date": "2019-11-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fa/ScrapIronSignal-DP23-JP-R.png"
 }

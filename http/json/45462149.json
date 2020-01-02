@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262144,
     "name": "Inverted Code Talker",
-    "desc": "2 Cyberse monsters\r\nIf this card is Link Summoned: You can Special Summon 1 Cyberse monster from your hand to your zone this card points to. You can only use this effect of \"Inverted Code Talker\" once per turn.",
+    "desc": "Link Arrows: [🡰][🡲]\n\n2 Cyberse monsters\nIf this card is Link Summoned: You can Special Summon 1 Cyberse monster from your hand to your zone this card points to. You can only use this effect of \"Inverted Code Talker\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "The Valuable Book 21",
+        "pack_id": "VB21-JP001",
+        "date": "2019-03-20"
+    },
+    "links": [
+        3,
+        4
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8d/InvertedCodeTalker-VB21-JP-UR.png"
 }

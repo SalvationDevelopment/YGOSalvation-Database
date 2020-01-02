@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Light of Judgment",
-    "desc": "If \"The Sanctuary in the Sky\" is on the field: Discard1 LIGHT monster to the GY; apply 1 of the following effects: \n\n● Look at your opponent's hand and discard 1 card from their hand. \n\n● Send 1 card your opponent controls to the GY.",
+    "desc": "If \"The Sanctuary in the Sky\" is on the field: Discard1 LIGHT monster to the GY; apply 1 of the following effects:\n● Look at your opponent's hand and discard 1 card from their hand.\n● Send 1 card your opponent controls to the GY.",
     "str1": "Choose 1 card your opponent controls and send it to the Graveyard",
     "str2": "Choose 1 card in your opponent's hand and send it to the Graveyard",
     "str3": "",
@@ -30,11 +30,7 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "The Sanctuary in the Sky",
-        "pack_id": "308-048",
-        "date": "2003-11-20"
-    },
+    "ocg": {},
     "tcg": {
         "pack": "Ancient Sanctuary",
         "pack_id": "AST-DE048",

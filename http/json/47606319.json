@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 2359301,
     "name": "Gigantes",
-    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 EARTH monster from your Graveyard. If this card is destroyed by battle and sent to the Graveyard: Destroy all Spell and Trap Cards on the field.",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 EARTH monster from your GY. If this card is destroyed by battle and sent to the GY: Destroy all Spells and Traps on the field.",
     "str1": "破坏场上所有魔法·陷阱卡",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Controller of Chaos",
-        "pack_id": "306-021",
-        "date": "2003-04-24"
-    },
+    "ocg": {},
     "tcg": {
         "pack": "Invasion of Chaos",
         "pack_id": "IOC-021",
         "date": "2004-03-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e1/Gigantes-SR03-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/67/Gigantes-OP12-EN-C-UE.png"
 }

@@ -2,7 +2,7 @@
     "id": 52155219,
     "ot": 3,
     "alias": 0,
-    "setcode": 281,
+    "setcode": 0,
     "type": 65538,
     "atk": 2000,
     "def": 900,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 512,
     "name": "Salamangreat Circle",
-    "desc": "Activate 1 of these effects.\r\n● Add 1 \"Salamangreat\" monster from your Deck to your hand.\r\n● Target 1 \"Salamangreat\" Link Monster you control that was Link Summoned using a monster with its same name as material; that Link Monster is unaffected by monster effects this turn, except its own.\r\nYou can only activate 1 \"Salamangreat Circle\" per turn.",
+    "desc": "Activate 1 of these effects:\n● Add 1 &#x201C;Salamangreat&#x201D; monster from your Deck to your hand.\n● Target 1 \"Salamangreat\" Link Monster you control that was Link Summoned using a monster with its same name as material; that Link Monster is unaffected by monster effects this turn, except its own.\nYou can only activate 1 &#x201C;Salamangreat Circle&#x201D; per turn.",
     "str1": "Add 1 \"Salamangreat\" monster from Deck to hand.",
     "str2": "Make a target unaffected",
     "str3": "Affected by \"Salamangreat Circle\"",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Soulburner",
+        "pack_id": "SDSB-DE023",
+        "date": "2019-02-14"
+    },
+    "ocg": {
+        "pack": "Structure Deck: Soulburner",
+        "pack_id": "SD35-JP023",
+        "date": "2018-12-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6a/SalamangreatCircle-SDSB-EN-SR-1E.png"
 }

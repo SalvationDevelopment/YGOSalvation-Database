@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262656,
     "name": "Cyberse Wicckid",
-    "desc": "2 Cyberse monsters\r\nThis Link Summoned card cannot be destroyed by battle or card effects. Cyberse monsters this card points to cannot be destroyed by card effects. If a monster(s) is Special Summoned to a zone(s) this card points to while you control this monster (except during the Damage Step): You can banish 1 Cyberse monster from your GY; add 1 Cyberse Tuner from your Deck to your hand. You can only use this effect of \"Cyberse Wicckid\" once per turn.",
+    "desc": "Link Arrows: [🡳][🡶]\n\n2 Cyberse monsters\nThis Link Summoned card cannot be destroyed by battle or card effects. Cyberse monsters this card points to cannot be destroyed by card effects. If a monster(s) is Special Summoned to a zone(s) this card points to while you control this monster (except during the Damage Step): You can banish 1 Cyberse monster from your GY; add 1 Cyberse Tuner from your Deck to your hand. You can only use this effect of \"Cyberse Wicckid\" once per turn.",
     "str1": "Add to hand",
     "str2": "",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE044",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP044",
+        "date": "2018-10-13"
+    },
+    "links": [
+        6,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5d/CyberseWicckid-SAST-EN-C-1E.png"
 }

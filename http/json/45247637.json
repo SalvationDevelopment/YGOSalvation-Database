@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 4096,
     "name": "Mark of the Rose",
-    "desc": "Activate this card by banishing 1 Plant-Type monster from your Graveyard; equip this card to a monster your opponent controls. Take control of the equipped monster. Once per turn, during your End Phase: Give control of the equipped monster to your opponent. Once per turn, during your Standby Phase: Take control of the equipped monster.",
+    "desc": "Activate this card by banishing 1 Plant monster from your GY, then target 1 face-up monster your opponent controls; equip this card to it. Take control of the equipped monster. Once per turn, during your End Phase: Negate this card's effect until your next Standby Phase.",
     "str1": "控制权转移",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "CSOC-EN047",
         "date": "2008-11-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0b/MarkoftheRose-FUEN-EN-SR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/41/MarkoftheRose-DUPO-EN-UR-1E.png"
 }

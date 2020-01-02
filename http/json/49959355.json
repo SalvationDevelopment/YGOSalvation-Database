@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Uni-Zombie",
-    "desc": "You can target 1 face-up monster on the field; discard 1 card, and if you do, increase that target's Level by 1. You can target 1 face-up monster on the field; monsters you control cannot attack for the rest of this turn, except Zombie-Type monsters, also send 1 Zombie-Type monster from your Deck to the Graveyard, and if you do, increase that target's Level by 1. You can only use each effect of \"Uni-Zombie\" once per turn.",
+    "desc": "You can target 1 face-up monster on the field; discard 1 card, and if you do, increase that target's Level by 1. You can target 1 face-up monster on the field; monsters you control cannot attack for the rest of this turn, except Zombie monsters, also send 1 Zombie monster from your Deck to the GY, and if you do, increase that target's Level by 1. You can only use each effect of \"Uni-Zombie\" once per turn.",
     "str1": "Target 1 monster on the field; discard 1 card, and if you do, increase its Level by 1",
     "str2": "You can target 1 monster on the field; send 1 Zombie-Type monster from your Deck to the Graveyard, and if you do, increase its Level by 1",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "SECE-DE040",
         "date": "2015-01-15"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/39/UniZombie-OP03-EN-C-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0b/UniZombie-SR07-EN-C-1E.png"
 }

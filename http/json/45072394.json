@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262153,
     "name": "Iron Cage",
-    "desc": "When this card is activated: Send 1 monster you control to the GY, or if \"Golden Castle of Stromberg\" is in a Field Zone, you can send 1 monster your opponent controls to the GY, instead. Once per turn, during your Standby Phase: You can target the monster that was sent to the GY by this card's effect; destroy this card, and if you do, Special Summon that monster to your field. You can only activate 1 \"Iron Cage\" per turn.",
+    "desc": "When this card is activated: Send 1 monster you control to the GY, or, if \"Golden Castle of Stromberg\" is in a Field Zone, you can send 1 monster your opponent controls to the GY, instead. Once per turn, during your Standby Phase: You can target the monster that was sent to the GY by this card's effect; destroy this card, and if you do, Special Summon that monster to your field. You can only activate 1 \"Iron Cage\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Battles of Legend: Relentless Revenge",
+        "pack_id": "BLRR-DE012",
+        "date": "2018-06-28"
+    },
+    "ocg": {
+        "pack": "Collectors Pack 2018",
+        "pack_id": "CP18-JP012",
+        "date": "2018-05-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cc/IronCage-BLRR-EN-UR-1E.png"
 }

@@ -2,7 +2,7 @@
     "id": 52945066,
     "ot": 3,
     "alias": 0,
-    "setcode": 299,
+    "setcode": 0,
     "type": 4,
     "atk": 0,
     "def": 0,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE068",
+        "date": "2019-07-25"
+    },
+    "ocg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-JP068",
+        "date": "2019-04-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/df/MarincessWave-RIRA-EN-UR-1E.png"
 }

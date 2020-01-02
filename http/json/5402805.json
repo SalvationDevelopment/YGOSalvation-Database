@@ -2,7 +2,7 @@
     "id": 5402805,
     "ot": 3,
     "alias": 0,
-    "setcode": 300,
+    "setcode": 0,
     "type": 67108865,
     "atk": 3000,
     "def": 388,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Berserker of the Tenyi",
-    "desc": "2+ monsters, including a Link Monster",
+    "desc": "Link Arrows: [🡱][🡵][🡶]\n\n2+ monsters, including a Link Monster",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE045",
+        "date": "2019-07-25"
+    },
+    "ocg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-JP045",
+        "date": "2019-04-13"
+    },
+    "links": [
+        1,
+        2,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e4/BerserkeroftheTenyi-RIRA-EN-R-1E.png"
 }

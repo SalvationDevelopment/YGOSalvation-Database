@@ -2,7 +2,7 @@
     "id": 52904476,
     "ot": 3,
     "alias": 0,
-    "setcode": 287,
+    "setcode": 0,
     "type": 33,
     "atk": 600,
     "def": 600,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 262146,
     "name": "Matriarch of Nephthys",
-    "desc": "You can target 1 Level 4 or lower \"Nephthys\" monster in your GY, except \"Matriarch of Nephthys\"; destroy 1 card in your hand, and if you do, Special Summon the targeted monster in Defense Position, but negate its effects. During your next Standby Phase after this card was destroyed by card effect and sent to the GY: You can Special Summon this card from the GY. You can only use each effect of \"Matriarch of Nephthys\" once per turn.",
+    "desc": "You can target 1 Level 4 or lower &#x201C;Nephthys&#x201D; monster in your GY, except &#x201C;Matriarch of Nephthys&#x201D;; destroy 1 card in your hand, and if you do, Special Summon that target in Defense Position, but negate its effects. During the Standby Phase of your next turn after this card was destroyed by a card effect and sent to your GY: You can Special Summon this card. You can only use each effect of &#x201C;Matriarch of Nephthys&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Hidden Summoners",
+        "pack_id": "DBHS-DE001",
+        "date": "2018-11-15"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Hidden Summoners",
+        "pack_id": "DBHS-JP001",
+        "date": "2018-08-04"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a2/MatriarchofNephthys-HISU-EN-SR-1E.png"
 }

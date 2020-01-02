@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Raging Battle",
+        "pack_id": "RGBT-JP034",
+        "date": "2009-02-14"
+    },
+    "tcg": {
+        "pack": "Raging Battle",
+        "pack_id": "RGBT-EN034",
+        "date": "2009-05-02"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/SpinedGillman-BP03-EN-R-1E.png"
 }

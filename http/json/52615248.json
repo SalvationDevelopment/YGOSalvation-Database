@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262144,
     "name": "Progleo",
-    "desc": "2 monsters, except Tokens\r\nDuring your Main Phase, if you control this Link Summoned card: You can banish this card and 1 of your monsters this card points to, then target 1 Link Monster in either GY; Special Summon it, but banish it when it leaves the field. You can only use this effect of \"Progleo\" once per turn.",
+    "desc": "Link Arrows: [🡰][🡲]\n\n2 monsters, except Tokens\nDuring your Main Phase, if you control this Link Summoned card: You can banish this card and 1 of your monsters this card points to, then target 1 Link Monster in either GY; Special Summon it, but banish it when it leaves the field. You can only use this effect of \"Progleo\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution promotional cards",
+        "pack_id": "LOD2-DE001",
+        "date": "2019-08-20"
+    },
+    "ocg": {
+        "pack": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution Duelist Complete Guide promotional card",
+        "pack_id": "LDLE-JPB01",
+        "date": "2019-04-25"
+    },
+    "links": [
+        3,
+        4
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/63/Progleo-LOD2-EN-SR-UE.png"
 }

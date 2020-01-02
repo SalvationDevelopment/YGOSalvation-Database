@@ -2,7 +2,7 @@
     "id": 44097050,
     "ot": 1,
     "alias": 0,
-    "setcode": 4123,
+    "setcode": 1773595,
     "type": 67108897,
     "atk": 2100,
     "def": 14,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 17563664,
     "name": "Mecha Phantom Beast Auroradon",
-    "desc": "2+ Machine monsters\nIf this card is Link Summoned: You can Special Summon 3 \"Mecha Phantom Beast Tokens\" (Machine/WIND/Level 3/ATK 0/DEF 0), also you cannot Link Summon for the rest of this turn. Once per turn: You can Tribute up to 3 monsters; apply the appropriate effect.\n● 1: Destroy 1 card on the field.\n● 2: Special Summon 1 \"Mecha Phantom Beast\" monster from your Deck.\n● 3: Add 1 Trap from your GY to your hand.",
+    "desc": "Link Arrows: [🡰][🡳][🡶]\n\n&#x6A5F;&#x68B0;&#x65CF;&#x30E2;&#x30F3;&#x30B9;&#x30BF;&#x30FC;&#xFF12;&#x4F53;&#x4EE5;&#x4E0A;\n&#x2460;&#xFF1A;&#x3053;&#x306E;&#x30AB;&#x30FC;&#x30C9;&#x304C;&#x30EA;&#x30F3;&#x30AF;&#x53EC;&#x559A;&#x306B;&#x6210;&#x529F;&#x3057;&#x305F;&#x5834;&#x5408;&#x306B;&#x767A;&#x52D5;&#x3067;&#x304D;&#x308B;&#x3002;&#x81EA;&#x5206;&#x30D5;&#x30A3;&#x30FC;&#x30EB;&#x30C9;&#x306B;&#x300C;&#x5E7B;&#x7363;&#x6A5F;&#x30C8;&#x30FC;&#x30AF;&#x30F3;&#x300D;&#xFF08;&#x6A5F;&#x68B0;&#x65CF;&#x30FB;&#x98A8;&#x30FB;&#x661F;&#xFF13;&#x30FB;&#x653B;&#xFF0F;&#x5B88;&#xFF10;&#xFF09;&#xFF13;&#x4F53;&#x3092;&#x7279;&#x6B8A;&#x53EC;&#x559A;&#x3059;&#x308B;&#x3002;&#x3053;&#x306E;&#x30BF;&#x30FC;&#x30F3;&#x3001;&#x81EA;&#x5206;&#x306F;&#x30EA;&#x30F3;&#x30AF;&#x53EC;&#x559A;&#x3067;&#x304D;&#x306A;&#x3044;&#x3002;&#x2461;&#xFF1A;&#xFF11;&#x30BF;&#x30FC;&#x30F3;&#x306B;&#xFF11;&#x5EA6;&#x3001;&#x81EA;&#x5206;&#x30D5;&#x30A3;&#x30FC;&#x30EB;&#x30C9;&#x306E;&#x30E2;&#x30F3;&#x30B9;&#x30BF;&#x30FC;&#x3092;&#xFF13;&#x4F53;&#x307E;&#x3067;&#x30EA;&#x30EA;&#x30FC;&#x30B9;&#x3057;&#x3066;&#x767A;&#x52D5;&#x3067;&#x304D;&#x308B;&#x3002;&#x30EA;&#x30EA;&#x30FC;&#x30B9;&#x3057;&#x305F;&#x30E2;&#x30F3;&#x30B9;&#x30BF;&#x30FC;&#x306E;&#x6570;&#x306B;&#x3088;&#x3063;&#x3066;&#x4EE5;&#x4E0B;&#x306E;&#x52B9;&#x679C;&#x3092;&#x9069;&#x7528;&#x3059;&#x308B;&#x3002;●&#xFF11;&#x4F53;&#xFF1A;&#x30D5;&#x30A3;&#x30FC;&#x30EB;&#x30C9;&#x306E;&#x30AB;&#x30FC;&#x30C9;&#xFF11;&#x679A;&#x3092;&#x9078;&#x3093;&#x3067;&#x7834;&#x58CA;&#x3059;&#x308B;&#x3002;●&#xFF12;&#x4F53;&#xFF1A;&#x30C7;&#x30C3;&#x30AD;&#x304B;&#x3089;&#x300C;&#x5E7B;&#x7363;&#x6A5F;&#x300D;&#x30E2;&#x30F3;&#x30B9;&#x30BF;&#x30FC;&#xFF11;&#x4F53;&#x3092;&#x7279;&#x6B8A;&#x53EC;&#x559A;&#x3059;&#x308B;&#x3002;●&#xFF13;&#x4F53;&#xFF1A;&#x81EA;&#x5206;&#x306E;&#x5893;&#x5730;&#x304B;&#x3089;&#x7F60;&#x30AB;&#x30FC;&#x30C9;&#xFF11;&#x679A;&#x3092;&#x9078;&#x3093;&#x3067;&#x624B;&#x672D;&#x306B;&#x52A0;&#x3048;&#x308B;&#x3002;",
     "str1": "Summon Tokens",
     "str2": "Tribute to activate an effect",
     "str3": "Affected by \"Mecha Phantom Beast Auroradon\"",
@@ -28,5 +28,17 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "LINK VRAINS Pack 3",
+        "pack_id": "LVP3-JP051",
+        "date": "2019-11-23"
+    },
+    "links": [
+        3,
+        6,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/66/MechaPhantomBeastAuroradon-LVP3-JP-OP.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8192,
     "name": "Shield & Sword",
-    "desc": "Switch the original ATK and DEF of all face-up monsters currently on the field, until the End Phase.",
+    "desc": "Switch the original ATK and DEF of all face-up monsters currently on the field, until the end of this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "MRD-131",
         "date": "2002-06-26"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/23/ShieldSword-BP02-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fa/ShieldSword-SBLS-EN-C-1E.png"
 }

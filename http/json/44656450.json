@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262672,
     "name": "Condemned Witch",
-    "desc": "When this card is Normal Summoned: You can add 1 \"Forbidden\" Quick-Play Spell from your Deck to your hand. During your opponent's Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 Level 4 Fairy monster from your Deck, except \"Condemned Witch\". You can only use each effect of \"Condemned Witch\" once per turn.",
+    "desc": "When this card is Normal Summoned: You can add 1 &#x201C;Forbidden&#x201D; Quick-Play Spell from your Deck to your hand. During your opponent's Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 Level 4 Fairy monster from your Deck, except &#x201C;Condemned Witch&#x201D;. You can only use each effect of &#x201C;Condemned Witch&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE028",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP028",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2b/CondemnedWitch-SOFU-EN-ScR-1E.png"
 }

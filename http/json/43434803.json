@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "The Shallow Grave",
-    "desc": "Each player selects 1 monster in their Graveyard and Special Summons it in face-down Defense Position.",
+    "desc": "Each player targets 1 monster in their own GY; each player Special Summons the target from their GY in face-down Defense Position.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Curse of Anubis",
-        "pack_id": "CA-37",
-        "date": "2000-09-28"
-    },
+    "ocg": {},
     "tcg": {
         "pack": "Pharaoh's Servant",
         "pack_id": "PSV-036",
         "date": "2002-10-20"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7d/TheShallowGrave-DT03-EN-DNPR-DT.jpg"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/49/TheShallowGrave-SBLS-EN-C-1E.png"
 }

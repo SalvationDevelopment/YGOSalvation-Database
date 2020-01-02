@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 528,
     "name": "Formud Skipper",
-    "desc": "During your Main Phase: You can reveal 1 Link Monster in your Extra Deck, and if you do, when you Link Summon this turn, you can treat this card as Link Material with the same name, Type, and Attribute as the revealed monster. If this card is sent to the GY as Link Material: You can add 1 Level 5 or higher Cyberse monster from your Deck to your hand. You can only use each effect of \"Formud Skipper\" once per turn.",
+    "desc": "During your Main Phase: You can reveal 1 Link Monster in your Extra Deck, and if you do, the name, Type, and Attribute of this face-up card on the field can be treated as the revealed monster's, if used as material for a Link Summon this turn. If this card is sent to the GY as material for a Link Summon: You can add 1 Level 5 or higher Cyberse monster from your Deck to your hand. You can only use each effect of \"Formud Skipper\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Soulburner",
+        "pack_id": "SDSB-DE022",
+        "date": "2019-02-14"
+    },
+    "ocg": {
+        "pack": "LINK VRAINS Box",
+        "pack_id": "LVB1-JP002",
+        "date": "2017-12-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ac/FormudSkipper-SDSB-EN-C-1E.png"
 }

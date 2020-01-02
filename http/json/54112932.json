@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Potato & Chips",
-    "desc": "Potato and Chips always get along. They always idle in their room eating potato chips. Consommé​ punch ones are delicious too. Norishio ones are delicious too. Potato and Chips' delicious life.",
+    "desc": "Potato and Chips always get along. They always idle in their room eating potato chips. Consomm&#xE9;&#x200B; punch ones are delicious too. Norishio ones are delicious too. Potato and Chips' delicious life.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,8 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/da/Back-JP.png"
 }

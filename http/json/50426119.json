@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 4,
     "name": "Degrade Buster",
-    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 2 Cyberse monsters from your GY. You can target 1 monster your opponent controls with higher ATK than this card (Quick Effect); banish it until the End Phase. You can only use this effect of \"Degrade Buster\" once per turn.",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 2 Cyberse monsters from your GY. You can target 1 monster your opponent controls with ATK higher than this card (Quick Effect); banish it until the End Phase. You can only use this effect of \"Degrade Buster\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE005",
+        "date": "2018-05-03"
+    },
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP005",
+        "date": "2018-01-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4b/DegradeBuster-FLOD-EN-SR-1E.png"
 }

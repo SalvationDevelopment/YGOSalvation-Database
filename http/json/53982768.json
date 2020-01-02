@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": -2146435072,
     "name": "Dark Ruler Ha Des",
-    "desc": "Cannot be Special Summoned from the Graveyard. Negate the effects of monsters destroyed by battle with Fiend-Type monsters you control.",
+    "desc": "Cannot be Special Summoned from the GY. Negate the effects of monsters destroyed by battle with Fiend monsters you control.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Struggle of Chaos",
-        "pack_id": "SC-01",
-        "date": "2001-09-20"
-    },
+    "ocg": {},
     "tcg": {
         "pack": "Legacy of Darkness",
         "pack_id": "LOD-001",
         "date": "2003-06-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/DarkRulerHaDes-BP01-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8d/DarkRulerHaDes-LART-EN-UR-LE.png"
 }

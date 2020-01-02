@@ -2,7 +2,7 @@
     "id": 50237654,
     "ot": 1,
     "alias": 0,
-    "setcode": 4258,
+    "setcode": 279052398,
     "type": 97,
     "atk": 2800,
     "def": 2300,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262400,
     "name": "The Dark Magicians",
-    "desc": "\"Dark Magician\" or \"Dark Magician Girl\" + 1 Spellcaster monster\nOnce per turn, if a Spell/Trap Card or effect is activated (except during the Damage Step): You can draw 1 card, and if you drew a Spell/Trap, you can Set it, and if it is a Quick-Play Spell or Trap, it can be activated this turn. If this card is destroyed: You can Special Summon 1 \"Dark Magician\" and 1 \"Dark Magician Girl\" from your hand, Deck, and/or GY.",
+    "desc": "\"Dark Magician\" or \"Dark Magician Girl\" + 1 Spellcaster monster\nOnce per turn, if a Spell/Trap Card or effect is activated (except during the Damage Step): You can draw 1 card, then if it was a Spell/Trap, you can Set it, and if it was a Trap or a Quick-Play Spell, you can activate it this turn. If this card is destroyed: You can Special Summon both 1 \"Dark Magician\" and 1 \"Dark Magician Girl\" from your hand, Deck, and/or GY.",
     "str1": "Draw",
     "str2": "Set the card?",
     "str3": "Special Summon",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 6",
+        "pack_id": "DP23-JP001",
+        "date": "2019-11-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/95/TheDarkMagicians-LED6-EN-1E-OP.png"
 }

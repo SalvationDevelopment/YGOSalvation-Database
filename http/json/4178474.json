@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Pharaonic Guardian",
+        "pack_id": "PGD-096",
+        "date": "2003-07-18"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/86/RaigekiBreak-YS16-EN-C-1E.png"
 }

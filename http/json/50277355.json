@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 270592,
     "name": "Clotheep",
-    "desc": "2 monsters with different names\nIf a monster(s) is Special Summoned to a zone(s) this card points to: You can activate this effect; apply the following effect(s) depending on the monster card types of the monsters this card points to.\n● Ritual: Draw 2 cards, then discard 2 cards. ● Fusion: Special Summon 1 Level 4 or lower monster from your GY. ● Synchro: All monsters you currently control gain 700 ATK. ● Xyz: All monsters your opponent currently controls lose 700 ATK.\nYou can only use this effect of \"Clotheep\" once per turn.",
+    "desc": "Link Arrows: [🡷][🡶]\n\nIf a monster(s) is Special Summoned to a zone this card points to: You can apply these effects, in sequence, according to the card types of the monsters this card points to.\n● Ritual: Draw 2 cards, then discard 2 cards.\n● Fusion: Special Summon 1 Level 4 or lower monster from your GY.\n● Synchro: All monsters you control gain 700 ATK.\n&#x2022;Xyz: All monsters your opponent controls lose 700 ATK.\nYou can only use this effect of \"Clotheep\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP047",
+        "date": "2019-10-12"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8f/Clotheep-IGAS-JP-C.png"
 }

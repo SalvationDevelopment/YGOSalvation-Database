@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 67112962,
     "name": "Blackwing Full Armor Master",
-    "desc": "1 \"Blackwing\" Tuner + 1+ non-Tuner monsters\r\nUnaffected by other cards' effects. Each time a monster your opponent controls activates its effect, place 1 Wedge Counter on that opponent's monster (max. 1) after that effect resolves. Once per turn: You can target 1 monster your opponent controls with a Wedge Counter; take control of it. Once per turn, during your End Phase: You can destroy all monsters on the field that have a Wedge Counter.",
+    "desc": "1 \"Blackwing\" Tuner + 1+ non-Tuner monsters\nUnaffected by other cards' effects. Each time a monster your opponent controls activates its effect, place 1 Wedge Counter on that opponent's monster (max. 1) after that effect resolves. Once per turn: You can target 1 monster your opponent controls with a Wedge Counter; take control of it. Once per turn, during your End Phase: You can destroy all monsters on the field with a Wedge Counter.",
     "str1": "Take control",
     "str2": "Destroy",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: White Dragon Abyss",
+        "pack_id": "LED3-DE023",
+        "date": "2018-09-27"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 3",
+        "pack_id": "DP20-JP023",
+        "date": "2018-06-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0c/BlackwingFullArmorMaster-LED3-EN-UR-1E.png"
 }

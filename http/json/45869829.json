@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 544,
     "name": "Quick Booster",
-    "desc": "Target 1 Quick-Play Spell Card in your Graveyard, except \"Quick Booster\"; shuffle that target into the Deck. If this card you control is destroyed by your opponent's card and sent to your Graveyard: You can add 1 Quick-Play Spell Card from your Deck to your hand, except \"Quick Booster\".",
+    "desc": "Target 1 Quick-Play Spell in your GY, except \"Quick Booster\"; shuffle that target into the Deck. If this card you control is destroyed by your opponent's card and sent to your GY: You can add 1 Quick-Play Spell from your Deck to your hand, except \"Quick Booster\".",
     "str1": "Search",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "CBLZ-DE065",
         "date": "2013-01-24"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9c/QuickBooster-CBLZ-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e4/QuickBooster-DASA-EN-SR-1E.png"
 }

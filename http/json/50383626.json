@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262272,
     "name": "Darkest Diabolos, Lord of the Lair",
-    "desc": "Your opponent cannot Tribute this face-up card on the field, and cannot target it with card effects. You can only use each of these effects of \"Darkest Diabolos, Lord of the Lair\" once per turn.\r\n●If a DARK monster you control is Tributed (except during the Damage Step): You can Special Summon this card from your GY (if it was there when you Tributed) or hand (even if not).\r\n●You can Tribute 1 DARK monster; your opponent places 1 card from their hand on either the top or bottom of the Deck.",
+    "desc": "Your opponent cannot Tribute this face-up card on the field, also they cannot target it with card effects. You can only use each of these effects of \"Darkest Diabolos, Lord of the Lair\" once per turn.\n● If a DARK monster(s) you control is Tributed (except during the Damage Step): You can Special Summon this card from the GY (if it was there when you Tributed) or hand (even if not).\n● You can Tribute 1 DARK monster; your opponent places 1 card from their hand on either the top or bottom of their Deck.",
     "str1": "Special Summon",
     "str2": "Return card to Deck",
     "str3": "Place on top",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Lair of Darkness",
+        "pack_id": "SR06-DE001",
+        "date": "2018-04-19"
+    },
+    "ocg": {
+        "pack": "Structure Deck R: Curse of the Dark",
+        "pack_id": "SR06-JP001",
+        "date": "2018-03-10"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7f/DarkestDiabolosLordoftheLair-SR06-EN-UR-1E.png"
 }

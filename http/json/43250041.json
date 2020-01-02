@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Starter Pack Volume 1",
+        "pack_id": "SP01-TC051",
+        "date": "2014-03-01"
+    },
+    "tcg": {
+        "pack": "Ancient Sanctuary",
+        "pack_id": "AST-DE054",
+        "date": "2004-05-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/DrainingShield-YS16-EN-C-1E.png"
 }

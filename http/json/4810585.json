@@ -2,7 +2,7 @@
     "id": 4810585,
     "ot": 1,
     "alias": 0,
-    "setcode": 311,
+    "setcode": 0,
     "type": 131076,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Senka Legend - Champion's Bravery at Changban Bridge",
-    "desc": "If your \"Senka\" monster battles, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. You can only use 1 of the following effects of \"Senka Legend - Champion's Bravery at Changban Bridge\" per turn, and only once that turn.\n● At the start of your opponent's Battle Phase: You can send this face-up card from the Spell & Trap Zone to the GY; your opponent's monsters cannot target \"Senka\" monsters for attacks this turn.\n● When an opponent's monster declares an attack: You can banish this card from your GY; Special Summon 1 \"Senka\" monster from your Deck.",
+    "desc": "If your \"Senka\" monster battles, your opponent cannot activate Spell or Trap Cards until the end of the Damage Step. You can only use 1 of these effects of \"Senka Legend - Champion's Bravery at Changban Bridge\" per turn, and only once that turn.\n● At the start of your opponent's Battle Phase, if this card is face-up in your Spell & Trap Zone: You can send this card to the GY; for the rest of this turn, your opponent cannot target \"Senka\" monsters for attacks.\n● When your opponent's monster declares an attack: You can banish this card from your GY; Special Summon 1 \"Senka\" monster from your Deck.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP070",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/82/SenkaLegendChampionsBraveryatChangbanBridge-IGAS-JP-C.png"
 }

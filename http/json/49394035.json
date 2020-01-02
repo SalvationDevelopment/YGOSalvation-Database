@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Vendread Core",
-    "desc": "If this card is in your GY: You can banish 1 other Zombie monster from your GY; Special Summon this card, but banish it when it leaves the field. A \"Vendread\" monster Ritual Summoned using this card on the field gains the following effect. You can only use each of the preceding effects of \"Vendread Core\" once per turn.\r\n● Your opponent cannot target this card with card effects.",
+    "desc": "If this card is in your GY: you can banish 1 other Zombie monster from your GY; Special Summon this card, but banish it when it leaves the field. A \"Vendread\" monster Ritual Summoned using this card on the field gains the following effect. You can only use each of the preceding effects of \"Vendread Core\" once per turn.\n● Your opponent cannot target this card with card effects.",
     "str1": "Special Summon",
     "str2": "Cannot be targeted by your opponent's effect",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE083",
+        "date": "2018-02-01"
+    },
+    "ocg": {
+        "pack": "Extra Pack 2018",
+        "pack_id": "EP18-JP009",
+        "date": "2018-09-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/68/VendreadCore-EXFO-EN-SR-1E.png"
 }

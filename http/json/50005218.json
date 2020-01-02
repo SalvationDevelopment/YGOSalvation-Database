@@ -2,7 +2,7 @@
     "id": 50005218,
     "ot": 3,
     "alias": 0,
-    "setcode": 277,
+    "setcode": 0,
     "type": 524290,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262680,
     "name": "Sky Striker Airspace - Area Zero",
-    "desc": "You can target 1 other card you control; excavate the top 3 cards of your Deck, and if you do, you can add 1 excavated \"Sky Striker\" card to your hand, also shuffle the rest into the Deck, then, if you excavated a \"Sky Striker\" card, send the targeted card to the GY. If this card in the Field Zone is sent to the GY by a card effect: You can Special Summon 1 \"Sky Striker Ace\" monster from your Deck. You can only use each effect of \"Sky Striker Airspace - Area Zero\" once per turn.",
+    "desc": "You can target 1 other card you control; excavate the top 3 cards of your Deck, and if you do, you can add 1 excavated \"Sky Striker\" card to your hand, also shuffle the rest back into the Deck, then, if you excavated a \"Sky Striker\" card, send the targeted card to the GY. If this card in the Field Zone is sent to the GY by a card effect: You can Special Summon 1 \"Sky Striker Ace\" monster from your Deck. You can only use each effect of \"Sky Striker Airspace - Area Zero\" once per turn.",
     "str1": "Search",
     "str2": "Add 1 \"Sky Striker\" card?",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Saviors",
+        "pack_id": "DASA-DE039",
+        "date": "2018-05-24"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Dark Savers",
+        "pack_id": "DBDS-JP039",
+        "date": "2018-02-24"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fd/SkyStrikerAirspaceAreaZero-DASA-EN-SR-1E.png"
 }

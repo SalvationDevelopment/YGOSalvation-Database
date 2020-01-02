@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "The Dark Illusion",
+        "pack_id": "TDIL-JP051",
+        "date": "2016-04-09"
+    },
+    "tcg": {
+        "pack": "The Dark Illusion",
+        "pack_id": "TDIL-DE051",
+        "date": "2016-08-04"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/29/CoralDragon-LEHD-EN-UR-1E.png"
 }

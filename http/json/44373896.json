@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Collection Kaiba",
+        "pack_id": "LC06-DE003",
+        "date": "2018-03-08"
+    },
+    "ocg": {
+        "pack": "Extra Pack 2018",
+        "pack_id": "EP18-JP050",
+        "date": "2018-09-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/65/DestructionDragon-LC06-EN-UR-LE.png"
 }

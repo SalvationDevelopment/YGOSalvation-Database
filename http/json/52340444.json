@@ -2,7 +2,7 @@
     "id": 52340444,
     "ot": 3,
     "alias": 0,
-    "setcode": 277,
+    "setcode": 0,
     "type": 65538,
     "atk": 0,
     "def": 0,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Saviors",
+        "pack_id": "DASA-DE033",
+        "date": "2018-05-24"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Dark Savers",
+        "pack_id": "DBDS-JP033",
+        "date": "2018-02-24"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/63/SkyStrikerMechaHornetDrones-DASA-EN-SR-1E.png"
 }

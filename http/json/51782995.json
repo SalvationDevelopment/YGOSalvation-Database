@@ -2,7 +2,7 @@
     "id": 51782995,
     "ot": 3,
     "alias": 0,
-    "setcode": 287,
+    "setcode": 0,
     "type": 33,
     "atk": 1400,
     "def": 200,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 17039360,
     "name": "Defender of Nephthys",
-    "desc": "During your Main Phase: You can destroy 1 card in your hand, and if you do, Special Summon 1 Level 4 or lower \"Nephthys\" monster from your hand, except \"Defender of Nephthys\". During your next Standby Phase after this card was destroyed by card effect and sent to the GY: You can destroy 1 \"Nephthys\" monster in your Deck, except \"Defender of Nephthys\". You can only use each effect of \"Defender of Nephthys\" once per turn.",
+    "desc": "During your Main Phase: You can destroy 1 card in your hand, and if you do, Special Summon 1 Level 4 or lower &#x201C;Nephthys&#x201D; monster from your hand, except &#x201C;Defender of Nephthys&#x201D;. During the Standby Phase of your next turn after this card was destroyed by a card effect and sent to your GY: You can destroy 1 &#x201C;Nephthys&#x201D; monster in your Deck, except &#x201C;Defender of Nephthys&#x201D;. You can only use each effect of \"Defender of Nephthys\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Hidden Summoners",
+        "pack_id": "DBHS-DE004",
+        "date": "2018-11-15"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Hidden Summoners",
+        "pack_id": "DBHS-JP004",
+        "date": "2018-08-04"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f5/DefenderofNephthys-HISU-EN-SR-1E.png"
 }

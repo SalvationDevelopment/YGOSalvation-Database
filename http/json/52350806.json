@@ -2,7 +2,7 @@
     "id": 52350806,
     "ot": 3,
     "alias": 0,
-    "setcode": 286,
+    "setcode": 0,
     "type": 33,
     "atk": 1800,
     "def": 400,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE084",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Extra Pack 2019",
+        "pack_id": "EP19-JP027",
+        "date": "2019-09-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/20/DangerMothman-SOFU-EN-SR-1E.png"
 }

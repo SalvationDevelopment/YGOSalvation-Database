@@ -2,7 +2,7 @@
     "id": 44640691,
     "ot": 3,
     "alias": 0,
-    "setcode": 298,
+    "setcode": 0,
     "type": 33,
     "atk": 1500,
     "def": 200,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE099",
+        "date": "2019-07-25"
+    },
+    "ocg": {
+        "pack": "V Jump May 2019 promotional card",
+        "pack_id": "VJMP-JP160",
+        "date": "2019-03-20"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b6/RogueofEndymion-RIRA-EN-C-1E.png"
 }

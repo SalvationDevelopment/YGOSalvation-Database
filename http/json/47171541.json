@@ -2,7 +2,7 @@
     "id": 47171541,
     "ot": 3,
     "alias": 0,
-    "setcode": 283,
+    "setcode": 0,
     "type": 4,
     "atk": 0,
     "def": 0,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE076",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP076",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/13/OrcustratedRelease-SAST-EN-C-1E.png"
 }

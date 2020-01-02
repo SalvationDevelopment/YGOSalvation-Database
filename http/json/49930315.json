@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 0,
     "name": "White Stingray",
-    "desc": "You can Special Summon this card (from your hand) by discarding 1 WATER monster. You can only Special Summon \"White Stingray\" once per turn this way. If this card is Special Summoned from the GY: You can treat it as a Tuner this turn. You can only use this effect of \"White Stingray\" once per turn.",
+    "desc": "You can Special Summon this card (from your hand) by discarding 1 WATER monster. You can only Special Summon &#x201C;White Stingray&#x201D; once per turn this way. If this card is Special Summoned from the GY: You can treat it as a Tuner this turn. You can only use this effect of &#x201C;White Stingray&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,6 +35,10 @@
         "pack_id": "VJMP-JP134",
         "date": "2017-09-21"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/WhiteStingray-VJMP-JP-UR.png"
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE096",
+        "date": "2018-07-26"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bf/WhiteStingray-CYHO-EN-R-1E.png"
 }

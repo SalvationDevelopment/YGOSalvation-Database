@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 3,
     "name": "Wild Tornado",
-    "desc": "Select 1 face-up card in the Spell & Trap Card Zones and destroy it. The controller of the destroyed card can then Set 1 Spell or Trap Card from their hand. If this Set card is destroyed and sent to the Graveyard, select and destroy 1 face-up card on the field.",
+    "desc": "Target 1 face-up card in the Spell & Trap Zone; destroy that face-up card, then, its controller can Set 1 Spell/Trap from their hand. If this Set card is destroyed and sent to the GY: Target 1 face-up card on the field; destroy that target.",
     "str1": "Set 1 Card?",
     "str2": "Destroy 1 face-up card",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "5DS3-DE029",
         "date": "2010-05-27"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/eb/WildTornado-5DS3-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c7/WildTornado-SS02-EN-C-1E.png"
 }

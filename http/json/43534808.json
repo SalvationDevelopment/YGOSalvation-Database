@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 270338,
     "name": "Token Collector",
-    "desc": "If a Token is Special Summoned (except during the Damage Step): You can Special Summon this card from the GY (if it was there when the Token was Special Summoned) or hand (even if not). You can only use this effect of \"Token Collector\" once per turn. If this card is Special Summoned: Destroy as many Tokens on the field as possible, and if you do, this card gains 400 ATK for each Token destroyed. Neither player can Special Summon Tokens.",
+    "desc": "If a Token is Special Summoned (except during the Damage Step): You can Special Summon this card from the GY (if it was there when that Token was Summoned) or hand (even if not). You can only use this effect of \"Token Collector\" once per turn. If this card is Special Summoned: Destroy as many Tokens on the field as possible, and if you do, this card gains 400 ATK for each Token destroyed. Neither player can Special Summon Tokens.",
     "str1": "Special Summon \"Token Collector\"",
     "str2": "Destroy",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE031",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP031",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6a/TokenCollector-SOFU-EN-R-1E.png"
 }

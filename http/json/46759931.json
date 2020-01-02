@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 106496,
     "name": "Vision HERO Trinity",
-    "desc": "3 \"HERO\" monsters\nDuring the turn this card was Fusion Summoned, its ATK is double its original ATK. This Fusion Summoned card can attack 3 times during each Battle Phase. This card cannot attack your opponent directly.",
+    "desc": "3 \"HERO\" monsters\nAfter this card is Fusion Summoned, for the rest of this turn, this card's ATK becomes double its original ATK. This Fusion Summoned card can make a second and a third attack during each Battle Phase. Cannot attack directly.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "V Jump Edition",
-        "pack_id": "VE01-JP003",
-        "date": "2010-05-21"
-    },
+    "ocg": {},
     "tcg": {
         "pack": "Generation Force",
         "pack_id": "GENF-EN091",
         "date": "2011-08-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/94/VisionHEROTrinity-GENF-EN-SR-1E.jpg"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/20/VisionHEROTrinity-SHVA-EN-SR-1E.png"
 }

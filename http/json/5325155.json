@@ -2,7 +2,7 @@
     "id": 5325155,
     "ot": 3,
     "alias": 0,
-    "setcode": 289,
+    "setcode": 0,
     "type": 4129,
     "atk": 0,
     "def": 2000,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262144,
     "name": "Tsukahagi, the Poisonous Mayakashi",
-    "desc": "You can only control 1 \"Tsukahagi, the Poisonous Mayakashi\". If a \"Mayakashi\" monster(s) in your possession, except \"Tsukahagi, the Poisonous Mayakashi\", is destroyed by battle or an opponent's card effect, while this card is in the GY: You can Special Summon this card. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except \"Mayakashi\" monsters.",
+    "desc": "You can only control 1 &#x201C;Tsukahagi, the Poisonous Mayakashi&#x201D;. If a &#x201C;Mayakashi&#x201D; monster(s) in your possession, except &#x201C;Tsukahagi, the Poisonous Mayakashi&#x201D;, is destroyed by battle or an opponent's card effect, while this card is in the GY: You can Special Summon this card. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except &#x201C;Mayakashi&#x201D; monsters.",
     "str1": "Special Summon \"Tsukahagi\"",
     "str2": "Affected by \"Tsukahagi, the Poisonous Mayakashi\"",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Hidden Summoners",
+        "pack_id": "DBHS-EN028",
+        "date": "2018-11-15"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Hidden Summoners",
+        "pack_id": "DBHS-JP028",
+        "date": "2018-08-04"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cd/TsukahagithePoisonousMayakashi-HISU-EN-SR-1E.png"
 }

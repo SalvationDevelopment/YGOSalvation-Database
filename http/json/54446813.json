@@ -2,7 +2,7 @@
     "id": 54446813,
     "ot": 3,
     "alias": 0,
-    "setcode": 282,
+    "setcode": 0,
     "type": 33,
     "atk": 600,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 512,
     "name": "Dinowrestler Martial Ampelo",
-    "desc": "During damage calculation, if your other \"Dinowrestler\" monster battles an opponent's monster with an equal or higher ATK (Quick Effect): You can send this card from your hand or field to the GY; for that battle, your monster cannot be destroyed and the battle damage you take is halved. When an opponent's monster declares an attack: You can banish this card from your GY; add 1 \"Dinowrestler\" monster from your Deck to your hand, except \"Dinowrestler Martial Ampelo\". You can only use this effect of \"Dinowrestler Martial Ampelo\" once per turn.",
+    "desc": "During damage calculation, when another \"Dinowrestler\" monster you control battles a monster with equal or higher ATK than its own ATK: You can send this card from your hand or field to the GY; Your monster is not destroyed by this battle, also halve any battle damage you would take from this battle. When an opponent's monster declares an attack: You can banish this card from your GY; add 1 \"Dinowrestler\" monster from your Deck to your hand, except \"Dinowrestler Martial Ampelo\". You can only use this effect of \"Dinowrestler Martial Ampelo\" once per turn.",
     "str1": "Prevent destruction by battle",
     "str2": "Search deck",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE006",
+        "date": "2019-10-24"
+    },
+    "ocg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-JP006",
+        "date": "2019-07-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c2/DinowrestlerMartialAmpelo-CHIM-EN-C-1E.png"
 }

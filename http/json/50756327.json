@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 528,
     "name": "Crowley, the First Propheseer",
-    "desc": "2 Spellcaster monsters\r\nIf this card is Link Summoned: You can reveal 3 \"Spellbook\" cards with different names from your Deck, and your opponent randomly picks 1 for you to add to your hand, also shuffle the rest into your Deck. You can only use this effect of \"Crowley, the First Propheseer\" once per turn. Each turn, 1 Level 5 or higher Spellcaster monster you Normal Summon can be Summoned without Tributing.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 Spellcaster monsters\nIf this card is Link Summoned: You can reveal 3 \"Spellbook\" cards with different names from your Deck, and your opponent randomly picks 1 for you to add to your hand, also shuffle the rest into your Deck. You can only use this effect of \"Crowley the First Propheseer\" once per turn. Each turn, 1 Level 5 or higher Spellcaster monster you Normal Summon can be Summoned without Tributing.",
     "str1": "Reveal",
     "str2": "Summon without Tributing? (Crowley)",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Duel Power",
+        "pack_id": "DUPO-EN028",
+        "date": "2019-04-03"
+    },
+    "ocg": {
+        "pack": "LINK VRAINS Pack",
+        "pack_id": "LVP1-JP036",
+        "date": "2017-11-25"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f7/CrowleytheFirstPropheseer-DUPO-EN-UR-1E.png"
 }

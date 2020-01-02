@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262144,
     "name": "T.G. Trident Launcher",
-    "desc": "2+ Effect Monsters, including a \"T.G.\" Tuner\r\nIf this card is Link Summoned, you can: Special Summon 3 \"T.G.\" monsters (1 from your hand, 1 from your Deck, and 1 from your GY) in Defense Position to your zones this card points to, also you cannot Special Summon monsters for the rest of this turn, except \"T.G.\" monsters. You can only use this effect of \"T.G. Trident Launcher\" once per turn. Your opponent cannot target \"T.G.\" Synchro Monsters this card points to with card effects.",
+    "desc": "Link Arrows: [🡷][🡳][🡶]\n\n2+ Effect Monsters, including a &#x201C;T.G.&#x201D; Tuner\nIf this card is Link Summoned: You can Special Summon 3 &#x201C;T.G.&#x201D; monsters (1 from your hand, 1 from your Deck, and 1 from your GY) in Defense Position to your zones this card points to, also you cannot Special Summon monsters for the rest of this turn, except &#x201C;T.G.&#x201D; monsters. You can only use this effect of \"T.G. Trident Launcher\" once per turn. Your opponent cannot target &#x201C;T.G.&#x201D; Synchro Monsters this card points to with card effects.",
     "str1": "Special Summon",
     "str2": "Affected by \"T.G. Trident Launcher\"",
     "str3": "",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-EN050",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP050",
+        "date": "2018-10-13"
+    },
+    "links": [
+        5,
+        6,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/TGTridentLauncher-SAST-EN-ScR-1E.png"
 }

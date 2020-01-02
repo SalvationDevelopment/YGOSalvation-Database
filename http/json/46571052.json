@@ -10,8 +10,8 @@
     "race": 1024,
     "attribute": 1,
     "category": 262144,
-    "name": "Vampire Orchis",
-    "desc": "When this monster is Normal Summoned successfully, you can Special Summon 1 \"Des Dendle\" from your hand.",
+    "name": "Vampiric Orchis",
+    "desc": "When this card is Normal Summoned: You can Special Summon 1 \"Des Dendle\" from your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Advent of Union",
-        "pack_id": "302-014",
-        "date": "2002-07-18"
-    },
+    "ocg": {},
     "tcg": {
         "pack": "Magician's Force",
         "pack_id": "MFC-014",
         "date": "2003-10-10"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6b/VampireOrchis-DR1-EN-C-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/VampiricOrchis-DASA-EN-SR-1E.png"
 }

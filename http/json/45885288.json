@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "2019 Gold Sarcophagus Tin",
+        "pack_id": "TN19-DE006",
+        "date": "2019-08-29"
+    },
+    "ocg": {
+        "pack": "20th Anniversary Legend Collection",
+        "pack_id": "20TH-JPC05",
+        "date": "2019-02-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/23/NeoKaiserGlider-TN19-EN-PScR-LE.png"
 }

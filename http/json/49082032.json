@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Resurgam Xyz",
-    "desc": "All Xyz Monsters you control gain 800 ATK. Once per turn: You can discard 1 Spell, then target 1 Xyz Monster you control; Special Summon from your Extra Deck, 1 \"Number C\" or \"CXyz\" monster with the same Type as that target but 1 Rank higher, by using that target as material, but if you discarded a card other than a \"Rank-Up-Magic\" Spell, return the Summoned monster to the Extra Deck during the End Phase. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.)",
+    "desc": "Xyz Monsters you control gain 800 ATK. Once per turn: You can discard 1 Spell Card, then target 1 Xyz Monster you control; Xyz Summon 1 \"Number C\" or \"CXyz\" monster from your Extra Deck with the same Type as that monster but 1 Rank higher, using that monster as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.). If you discarded a non \"Rank-Up-Magic\" Spell Card, the monster Special Summoned by this effect returns to the Extra Deck during the End Phase.",
     "str1": "Xyz Summon",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP074",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/30/ResurgamXyz-IGAS-JP-OP.png"
 }

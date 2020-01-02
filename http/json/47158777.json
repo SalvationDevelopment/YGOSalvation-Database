@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 4456456,
     "name": "Companion Whelp of the Destruction Swordsman",
-    "desc": "2 monsters\nIf this card is Link Summoned: You can send 1 \"Destruction Sword\" card from your Deck to the GY, then you can Special Summon 1 \"Buster Blader\" monster from your hand. At the end of your Battle Phase, if your opponent controls no monsters: You can target 1 \"Buster Blader\" monster you control that did not declare an attack this turn; inflict damage to your opponent equal to its ATK. You can only use each effect of \"Companion Whelp of the Destruction Swordsman\" once per turn.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 monsters\nIf this card is Link Summoned: You can send 1 \"Destruction Sword\" card from your Deck to the GY, then you can Special Summon 1 \"Buster Blader\" monster from your hand. At the end of your Battle Phase, if your opponent controls no monsters: You can target 1 \"Buster Blader\" monster you control that did not declare an attack this turn; inflict damage to your opponent equal to its ATK. You can only use each effect of \"Companion Whelp of the Destruction Swordsman\" once per turn.",
     "str1": "Send to GY",
     "str2": "Damage",
     "str3": "Special Summon 1 \"Buster Blader\" monster?",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "LINK VRAINS Pack 3",
+        "pack_id": "LVP3-JP006",
+        "date": "2019-11-23"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/45/CompanionWhelpoftheDestructionSwordsman-LVP3-JP-OP.png"
 }

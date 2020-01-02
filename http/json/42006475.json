@@ -2,7 +2,7 @@
     "id": 42006475,
     "ot": 3,
     "alias": 0,
-    "setcode": 314,
+    "setcode": 0,
     "type": 33,
     "atk": 2000,
     "def": 1700,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "2019 Gold Sarcophagus Tin",
+        "pack_id": "TN19-DE004",
+        "date": "2019-08-29"
+    },
+    "ocg": {
+        "pack": "20th Anniversary Legend Collection",
+        "pack_id": "20TH-JPC03",
+        "date": "2019-02-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1b/PalladiumOracleMana-TN19-EN-PScR-LE.png"
 }

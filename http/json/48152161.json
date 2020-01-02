@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 2155872256,
     "name": "The Sanctified Darklord",
-    "desc": "Send 1 \"Darklord\" monster from your hand or face-up from your field to the GY; negate the effects of 1 Effect Monster on the field until the end of this turn, and if you do, gain LP equal to its ATK. You can only activate 1 \"The Sanctified Darklord\" per turn.",
+    "desc": "Send 1 \"Darklord\" monster from your hand or face-up from your field to the GY; negate the effects of 1 Effect Monster on the field until the end of the turn, and if you do, gain LP equal to its ATK. You can only activate 1 \"The Sanctified Darklord\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE075",
+        "date": "2018-05-03"
+    },
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP075",
+        "date": "2018-01-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fc/TheSanctifiedDarklord-FLOD-EN-R-1E.png"
 }

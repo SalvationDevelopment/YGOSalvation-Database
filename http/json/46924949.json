@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm Special Edition",
+        "pack_id": "DANE-DESE1",
+        "date": "2019-06-13"
+    },
+    "ocg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-JP033",
+        "date": "2019-04-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/70/Beatraptor-DANE-EN-SR-LE.png"
 }

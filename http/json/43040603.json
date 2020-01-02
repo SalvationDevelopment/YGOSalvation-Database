@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/82/MonsterGate-DUSA-EN-UR-1E.png"
+    "ocg": {
+        "pack": "Structure Deck: Dragonic Legion",
+        "pack_id": "SD22-TC029",
+        "date": "2015-04-18"
+    },
+    "tcg": {
+        "pack": "Ancient Sanctuary",
+        "pack_id": "AST-DE039",
+        "date": "2004-05-01"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f4/MonsterGate-MYFI-EN-SR-1E.png"
 }

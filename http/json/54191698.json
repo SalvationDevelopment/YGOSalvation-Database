@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Number 29: Mannequin Cat",
-    "desc": "2 Level 2 monsters\nOnce per turn: You can detach 1 material from this card, then target 1 monster in your opponent's GY; Special Summon it to your opponent's field. If a monster(s) is Special Summoned to your opponent's field (except during the Damage Step) while this monster is on the field: You can target 1 face-up monster your opponent controls; Special Summon 1 monster from your hand, Deck, or GY with the same Type or Attribute as that monster. You can only use this effect of \"Number 29: Mannequin Cat\" once per turn.",
+    "desc": "2 Level 2 monsters\nOnce per turn: You can detach 1 material from this card, then target 1 monster in your opponent's GY; Special Summon it to your opponent's field. If a monster(s) is Special Summoned to your opponent's field, while you control this monster (except during the Damage Step): You can target 1 face-up monster your opponent controls; Special Summon 1 monster with the same Type or Attribute from your hand, Deck, or GY. You can only use this effect of \"Number 29: Mannequin Cat\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,6 +35,10 @@
         "pack_id": "CP17-JP041",
         "date": "2017-05-13"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/Number29MannequinCat-CP17-JP-NR.png"
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE093",
+        "date": "2019-07-25"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fa/Number29MannequinCat-RIRA-EN-C-1E.png"
 }

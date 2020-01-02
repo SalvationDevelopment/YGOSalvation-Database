@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262152,
     "name": "Fluffal Angel",
-    "desc": "[ Pendulum Effect ]\r\nYou can target 1 \"Fluffal\" or \"Edge Imp\" monster in your GY; Special Summon it, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Fusion Monsters. You can only use this effect of \"Fluffal Angel\" once per turn.\r\n----------------------------------------\r\n[ Monster Effect ]\r\nYou can Tribute this card, then target 1 \"Frightfur\" Fusion Monster in your GY; discard 1 card, and if you do, Special Summon that monster. You can only use this effect of \"Fluffal Angel\" once per turn.",
+    "desc": "Pendulum Effect\nYou can target 1 \"Fluffal\" or \"Edge Imp\" monster in your GY; Special Summon it, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Fusion Monsters. You can only use this effect of \"Fluffal Angel\" once per turn.\n\nMonster Effect\nYou can Tribute this card, then target 1 \"Frightfur\" Fusion Monster in your GY; discard 1 card, and if you do, Special Summon that monster.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "V Jump Spring 2018 subscription bonus",
+        "pack_id": "VJMP-JP145",
+        "date": "2018-03-20"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c9/FluffalAngel-VJMP-JP-UR.png"
 }

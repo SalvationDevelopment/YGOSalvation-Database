@@ -29,11 +29,15 @@
     "str15": "",
     "str16": "",
     "cardpool": "OCG/TCG",
-    "tcg": {},
+    "tcg": {
+        "pack": "OTS Tournament Pack 9",
+        "pack_id": "OP09-DE026",
+        "date": "2018-12-06"
+    },
     "ocg": {
         "pack": "Advanced Tournament Pack 2013 Vol.1",
         "pack_id": "AT01-JP010",
         "date": "2013-01-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/MechaPhantomBeastToken-17TP-JP-C.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/MechaPhantomBeastToken-OP09-EN-SR-UE-Dracossak.png"
 }

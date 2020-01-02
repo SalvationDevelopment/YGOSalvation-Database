@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 262145,
     "name": "Windrose the Elemental Lord",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 WIND monsters in your Graveyard, and cannot be Special Summoned by other ways. When this card is Special Summoned: Destroy all Spell and Trap Cards your opponent controls. You can only use this effect of \"Windrose the Elemental Lord\" once per turn. If this card leaves the field, skip the Battle Phase of your next turn.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 WIND monsters in your GY. If this card is Special Summoned: Destroy all Spells and Traps your opponent controls. You can only use this effect of \"Windrose the Elemental Lord\" once per turn. If this face-up card leaves the field, skip the Battle Phase of your next turn.",
     "str1": "Destroy",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "LTGY-DE037",
         "date": "2013-05-16"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/45/WindrosetheElementalLord-MP14-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/80/WindrosetheElementalLord-BLRR-EN-UR-1E.png"
 }
