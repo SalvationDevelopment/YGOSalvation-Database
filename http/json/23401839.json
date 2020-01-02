@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Pharaoh's Servant",
+        "pack_id": "PS-29",
+        "date": "2000-07-13"
+    },
     "tcg": {
-        "pack": "Astral Pack Seven",
-        "pack_id": "AP07-PT016",
-        "date": "2015-06-05"
+        "pack": "Dark Beginning 1",
+        "pack_id": "DB1-EN046",
+        "date": "2004-10-12"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8e/SenjuoftheThousandHands-SBLS-EN-SR-1E.png"
 }

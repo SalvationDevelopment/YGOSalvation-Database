@@ -2,7 +2,7 @@
     "id": 26118970,
     "ot": 3,
     "alias": 0,
-    "setcode": 4387,
+    "setcode": 0,
     "type": 4129,
     "atk": 1000,
     "def": 1800,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262672,
     "name": "Red Rose Dragon",
-    "desc": "If this card is sent to the GY as Synchro Material: You can Special Summon 1 \"Rose Dragon\" monster from your hand or Deck, except \"Red Rose Dragon\", then, if it was sent for the Synchro Summon of \"Black Rose Dragon\" or a Plant Synchro Monster, you can also add 1 \"Frozen Rose\" or 1 \"Blooming of the Darkest Rose\" from your Deck to your hand. You can only use this effect of \"Red Rose Dragon\" once per turn.",
+    "desc": "If this card is sent to the GY as Synchro Material: You can Special Summon 1 &#x201C;Rose Dragon&#x201D; monster from your hand or Deck, except &#x201C;Red Rose Dragon&#x201D;, then, if it was sent for the Synchro Summon of &#x201C;Black Rose Dragon&#x201D; or a Plant Synchro Monster, you can also add 1 &#x201C;Frozen Rose&#x201D; or 1 &#x201C;Blooming of the Darkest Rose&#x201D; from your Deck to your hand. You can only use this effect of \"Red Rose Dragon\" once per turn.",
     "str1": "Special Summon 1 \"Rose Dragon\"",
     "str2": "Add 1 \"Frozen Rose\" or \"Blooming of the Darkest Rose\"?",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: Sisters of the Rose",
+        "pack_id": "LED4-DE025",
+        "date": "2019-01-10"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 4",
+        "pack_id": "DP21-JP025",
+        "date": "2018-11-10"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/98/RedRoseDragon-LED4-EN-R-1E.png"
 }

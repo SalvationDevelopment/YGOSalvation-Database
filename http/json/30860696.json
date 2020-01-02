@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "The Valuable Book 3",
+        "pack_id": "VB-03",
+        "date": "2000-12-21"
+    },
     "tcg": {
         "pack": "Legendary Collection 4: Joey's World Mega Pack",
         "pack_id": "LCJW-IT042",

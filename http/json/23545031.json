@@ -2,7 +2,7 @@
     "id": 23545031,
     "ot": 3,
     "alias": 0,
-    "setcode": 7667828,
+    "setcode": 7602293,
     "type": 67108897,
     "atk": 1600,
     "def": 5,
@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 270864,
     "name": "Mermail Abyssalacia",
-    "desc": "2 Fish, Sea Serpent, and/or Aqua monsters\r\nMonsters this card points to gain 500 ATK/DEF. You can only use each of the following effects of \"Mermail Abyssalacia\" once per turn.\r\n● During your opponent's turn (Quick Effect): You can send 1 card from your hand to the GY; add 1 \"Mermail\" monster from your Deck to your hand.\r\n● If this card in its owner's possession is destroyed by an opponent's attack or card effect: You can send 1 WATER monster from your Deck to the GY, then target 1 WATER monster in your GY; Special Summon it in Defense Position.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 Fish, Sea Serpent, and/or Aqua monsters\nMonsters this card points to gain 500 ATK/DEF. You can only use each of the following effects of \"Mermail Abyssalacia\" once per turn.\n● During your opponent's turn (Quick Effect): You can send 1 card from your hand to the GY; add 1 \"Mermail\" monster from your Deck to your hand.\n● If this card in its owner's possession is destroyed by an opponent's card: You can send 1 WATER monster from your Deck to the GY, then target 1 WATER monster in your GY; Special Summon it in Defense Position.",
     "str1": "Search \"Mermail\" monster",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE094",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "LINK VRAINS Pack",
+        "pack_id": "LVP1-JP046",
+        "date": "2017-11-25"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6b/MermailAbyssalacia-DANE-EN-UR-1E.png"
 }

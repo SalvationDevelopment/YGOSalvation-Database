@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Lair of Darkness",
+        "pack_id": "SR06-DE000",
+        "date": "2018-04-19"
+    },
+    "ocg": {
+        "pack": "Structure Deck R: Curse of the Dark",
+        "pack_id": "SR06-JP000",
+        "date": "2018-03-10"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d4/LilithLadyofLament-SR06-EN-UR-1E.png"
 }

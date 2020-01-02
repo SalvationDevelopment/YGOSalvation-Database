@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/97/GravekeepersAssailant-LCYW-EN-UR-1E.png"
+    "tcg": {
+        "pack": "Pharaonic Guardian",
+        "pack_id": "PGD-067",
+        "date": "2003-07-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/41/GravekeepersAssailant-SS01-EN-C-1E.png"
 }

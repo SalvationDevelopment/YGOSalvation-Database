@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Rise of Destiny",
+        "pack_id": "RDS-JP015",
+        "date": "2004-08-05"
+    },
+    "tcg": {
+        "pack": "Rise of Destiny",
+        "pack_id": "RDS-FR015",
+        "date": "2004-11-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6d/RocfromtheValleyofHaze-DR3-EN-C-UE.png"
 }

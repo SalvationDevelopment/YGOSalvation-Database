@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Extra Pack: Sword of Knights",
+        "pack_id": "EP13-JP031",
+        "date": "2013-05-18"
+    },
     "tcg": {
         "pack": "Cosmo Blazer Sneak Peek Participation Card",
         "pack_id": "CBLZ-DESP1",

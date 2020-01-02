@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Crossroads of Chaos",
+        "pack_id": "CSOC-JP060",
+        "date": "2008-07-19"
+    },
     "tcg": {
-        "pack": "Legendary Collection 4: Joey's World Mega Pack",
-        "pack_id": "LCJW-PT214",
-        "date": "2013-10-11"
+        "pack": "Crossroads of Chaos",
+        "pack_id": "CSOC-EN060",
+        "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/87/EverlivingUnderworldCannon-LCJW-EN-C-1E.png"
 }

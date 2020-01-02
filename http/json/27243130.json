@@ -31,10 +31,14 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "pack": "Gold Series 2014",
-        "pack_id": "GS06-TC015",
-        "date": "2014-05-01"
+        "pack": "Storm of Ragnarok",
+        "pack_id": "STOR-JP061",
+        "date": "2010-11-13"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Storm of Ragnarok",
+        "pack_id": "STOR-EN061",
+        "date": "2011-02-08"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5a/ForbiddenLance-LEHD-EN-C-1E.png"
 }

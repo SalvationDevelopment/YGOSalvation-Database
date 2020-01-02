@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Starstrike Blast",
+        "pack_id": "STBL-JP080",
+        "date": "2010-07-17"
+    },
     "tcg": {
-        "pack": "Duelist League 16",
-        "pack_id": "DL16-PT020",
-        "date": "2013-07-01"
+        "pack": "Starstrike Blast",
+        "pack_id": "STBL-EN080",
+        "date": "2010-11-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ce/Darkfall-DL16-EN-R-UE-Red.png"
 }

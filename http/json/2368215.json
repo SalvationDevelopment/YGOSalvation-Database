@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Abyss Actor - Hyper Director",
-    "desc": "1 \"Abyss Actor\" Pendulum Monster\nYou can target 1 card in your Pendulum Zone; Special Summon it, then place 1 \"Abyss Actor\" Pendulum Monster with a different name from that Special Summoned monster, from your Deck or face-up from your Extra Deck in your Pendulum Zone, also you cannot Normal or Special Summon monsters for the rest of this turn, except \"Abyss Actor\" monsters. You can only use this effect of \"Abyss Actor - Hyper Director\" once per turn.",
+    "desc": "Link Arrows: [🡳]\n\n1 \"Abyss Actor\" Pendulum Monster\nYou can target 1 card in your Pendulum Zone; Special Summon it, then place 1 \"Abyss Actor\" Pendulum Monster with a different name from that Special Summoned monster, from your Deck or face-up from your Extra Deck in your Pendulum Zone, also you cannot Normal or Special Summon monsters for the rest of this turn, except \"Abyss Actor\" monsters. You can only use this effect of \"Abyss Actor - Hyper Director\" once per turn.",
     "str1": "Special Summon",
     "str2": "Affected by \"Abyss Actor - Hyper Director\"",
     "str3": "",
@@ -28,5 +28,15 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "LINK VRAINS Pack 3",
+        "pack_id": "LVP3-JP076",
+        "date": "2019-11-23"
+    },
+    "links": [
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6c/AbyssActorHyperDirector-LVP3-JP-OP.png"
 }

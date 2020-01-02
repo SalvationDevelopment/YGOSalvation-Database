@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Ancient Sanctuary",
+        "pack_id": "AST-DE057",
+        "date": "2004-05-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a9/MokeyMokey-TU04-EN-C-UE.jpg"
 }

@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Chronomaly Tuspa Rocket",
-    "desc": "If this card is Normal or Special Summoned: You can send 1 \"Chronomaly\" monster from your Deck or Extra Deck to the GY, then target 1 face-up monster on the field; it loses ATK equal to the sent monster's Level/Rank x 200, until the end of this turn. A \"Number\" Xyz Monster that was Summoned using this card on the field as a material gains this effect.\n● This card can make up to 2 attacks on monsters during each Battle Phase.\nYou can only use each effect of \"Chronomaly Tuspa Rocket\" once per turn.",
+    "desc": "If this card is Normal/Special Summoned: You can send 1 \"Chronomaly\" monster from your Main Deck or Extra Deck to the GY, then target 1 face-up monster on the field; until the end of the turn, that monster loses 200 ATK for every Level or Rank of the sent monster. If this card is used as material for the Xyz Summon of a \"Number\" monster, that monster gains the following effect. You can only use each effect of \"Chronomaly Tuspa Rocket\" once per turn.\n● This card can make up to 2 attacks on monsters during each Battle Phase.",
     "str1": "Reduce ATK",
     "str2": "Can attack 2 monsters",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP016",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/14/ChronomalyTuspaRocket-IGAS-JP-OP.png"
 }

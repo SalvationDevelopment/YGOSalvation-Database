@@ -2,7 +2,7 @@
     "id": 30691817,
     "ot": 3,
     "alias": 0,
-    "setcode": 299,
+    "setcode": 0,
     "type": 67108897,
     "atk": 1000,
     "def": 8,
@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 528,
     "name": "Marincess Sea Angel",
-    "desc": "1 Level 4 or lower \"Marincess\" monster\nIf this card is Link Summoned: You can add 1 \"Marincess\" Spell from your Deck to your hand. You can only Link Summon \"Marincess Sea Angel\" once per turn.",
+    "desc": "Link Arrows: [🡰]\n\n1 Level 4 or lower \"Marincess\" monster\nIf this card is Link Summoned: You can add 1 \"Marincess\" Spell from your Deck to your hand. You can only Link Summon \"Marincess Sea Angel\" once per turn.",
     "str1": "Search 1 \"Marincess\" Spell",
     "str2": "",
     "str3": "",
@@ -28,5 +28,19 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Rising Rampage Special Edition",
+        "pack_id": "RIRA-DESE4",
+        "date": "2019-09-12"
+    },
+    "ocg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-JP042",
+        "date": "2019-07-13"
+    },
+    "links": [
+        3
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/MarincessSeaAngel-CHIM-EN-C-1E.png"
 }

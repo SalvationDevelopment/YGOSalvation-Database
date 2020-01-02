@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Magician's Force",
+        "pack_id": "MFC-054",
+        "date": "2003-10-10"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/YZTankDragon-DPRP-EN-R-1E.png"
 }

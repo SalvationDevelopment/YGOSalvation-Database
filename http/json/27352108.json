@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262160,
     "name": "Chobham Armor Dragon",
-    "desc": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand in Attack Position, and if you do, for the rest of this turn, it cannot be destroyed by battle and the battle damage you take from battles involving this card is halved. If this card is sent to the GY as Link Material: You can target 1 other DARK monster in your GY; add it to your hand, also your opponent can add 1 monster from their GY to their hand. You can only use this effect of \"Chobham Armor Dragon\" once per turn.",
+    "desc": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand in Attack Position, and if you do, this turn, this card cannot be destroyed by battle, also any battle damage you take from attacks involving this card is halved. If this card is sent to the GY as Link Material: You can target 1 other DARK monster in your GY; add it to your hand, also your opponent can add 1 monster from their GY to their hand. You can only use this effect of \"Chobham Armor Dragon\" once per turn.",
     "str1": "Special Summon",
     "str2": "Return to hand",
     "str3": "Add 1 monster from your GY to your hand?",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE005",
+        "date": "2019-10-24"
+    },
+    "ocg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-JP005",
+        "date": "2019-07-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/aa/ChobhamArmorDragon-CHIM-EN-C-1E.png"
 }

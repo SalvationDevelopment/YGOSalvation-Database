@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Thousand Eyes Bible",
+        "pack_id": "TB-14",
+        "date": "2000-12-14"
+    },
     "tcg": {
-        "pack": "Duelist League 16",
-        "pack_id": "DL16-PT013",
-        "date": "2013-07-01"
+        "pack": "Pharaoh's Servant",
+        "pack_id": "PSV-064",
+        "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/LimiterRemoval-LED2-EN-C-1E.png"
 }

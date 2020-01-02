@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Structure Deck: The Blue-Eyed Dragon's Thundering Descent",
+        "pack_id": "SD25-TC008",
+        "date": "2014-04-01"
+    },
     "tcg": {},
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/GenesisDragon-GLD4-EN-C-LE.png"
 }

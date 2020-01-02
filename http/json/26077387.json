@@ -2,7 +2,7 @@
     "id": 26077387,
     "ot": 3,
     "alias": 0,
-    "setcode": 4373,
+    "setcode": 0,
     "type": 33,
     "atk": 1500,
     "def": 1500,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Sky Striker Ace - Raye",
-    "desc": "(Quick Effect): You can Tribute this card; Special Summon 1 \"Sky Striker Ace\" monster from your Extra Deck to the Extra Monster Zone. While this card is in your GY, if a face-up \"Sky Striker Ace\" Link Monster you control is destroyed by battle, or leaves the field because of an opponent's card effect: You can Special Summon this card. You can only use each effect of \"Sky Striker Ace - Raye\" once per turn.",
+    "desc": "You can Tribute this card (Quick Effect): Special Summon 1 \"Sky Striker Ace\" monster from your Extra Deck to the Extra Monster Zone. While this card is in your GY, if a face-up \"Sky Striker Ace\" Link Monster you control is destroyed by battle, or leaves the field because of an opponent's card effect: You can Special Summon this card. You can only use each effect of \"Sky Striker Ace - Raye\" once per turn.",
     "str1": "Special Summon 1 \"Sky Striker Ace\"",
     "str2": "Special Summon \"Sky Striker Ace - Raye\"",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Saviors",
+        "pack_id": "DASA-DE029",
+        "date": "2018-05-24"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Dark Savers",
+        "pack_id": "DBDS-JP029",
+        "date": "2018-02-24"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6e/SkyStrikerAceRaye-DASA-EN-SR-1E.png"
 }

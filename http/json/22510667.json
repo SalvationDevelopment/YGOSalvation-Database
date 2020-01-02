@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Gouki The Solid Ogre",
-    "desc": "2+ \"Gouki\" monsters\r\nCannot be destroyed by battle or card effects while it points to a \"Gouki\" monster. Once per turn (Quick Effect): You can target 1 \"Gouki\" monster in your Main Monster Zone, except \"Gouki The Solid Ogre\"; move that monster you control to your Main Monster Zone this card points to.",
+    "desc": "Link Arrows: [🡱][🡰][🡳]\n\n2+ &#x201C;Gouki&#x201D; monsters\nCannot be destroyed by battle or card effects, while it points to a &#x201C;Gouki&#x201D; monster. Once per turn (Quick Effect): You can target 1 &#x201C;Gouki&#x201D; monster in your Main Monster Zone, except &#x201C;Gouki The Solid Ogre&#x201D;; move that target to your Main Monster Zone this card points to.",
     "str1": "Move",
     "str2": "",
     "str3": "",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE044",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP044",
+        "date": "2019-01-12"
+    },
+    "links": [
+        1,
+        3,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7a/GoukiTheSolidOgre-DANE-EN-C-1E.png"
 }

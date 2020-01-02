@@ -2,7 +2,7 @@
     "id": 22900219,
     "ot": 3,
     "alias": 0,
-    "setcode": 282,
+    "setcode": 0,
     "type": 97,
     "atk": 3500,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 24578,
     "name": "Dinowrestler Chimera T Wrextle",
-    "desc": "1 \"Dinowrestler\" Link Monster + 1 \"Dinowrestler\" monster\r\nIf this card battles, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage. Your opponent's monsters cannot target monsters for attacks, except this one. If this card destroys a monster by battle: It gains 500 ATK. If this card is destroyed by card effect: Destroy all your opponent's Attack Position monsters.",
+    "desc": "1 &#x201C;Dinowrestler&#x201D; Link Monster + 1 &#x201C;Dinowrestler&#x201D; monster\nIf this card battles, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage. Your opponent's monsters cannot target other monsters you control for attacks. If this card destroys an opponent's monster by battle: It gains 500 ATK. If this card is destroyed by a card effect: Destroy all Attack Position monsters your opponent controls.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE030",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP030",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a2/DinowrestlerChimeraTWrextle-DANE-EN-C-1E.png"
 }

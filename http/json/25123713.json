@@ -2,7 +2,7 @@
     "id": 25123713,
     "ot": 3,
     "alias": 0,
-    "setcode": 276,
+    "setcode": 0,
     "type": 33,
     "atk": 2500,
     "def": 1400,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 4,
     "name": "Dyna, Hero Fur Hire",
-    "desc": "If this card is Special Summoned: You can banish cards from your opponent's GY, up to the number of monsters \"Fur Hire\" you control with different names. You can only use this effect of \"Dyna, Hero Fur Hire\" once per turn. Monsters your opponent controls cannot target monsters \"Fur Hire\" you control for attacks, except this one.",
+    "desc": "If this card is Special Summoned: You can banish cards from your opponent's GY, up to the number of monsters \"Fur Hire\" you control with different names. You can only use this effect of \"Dyna, Hero Fur Hire\" once per turn. Monsters your opponent controls cannot target monsters \"Fur Hire\" for attacks, except this one.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Saviors",
+        "pack_id": "DASA-DE021",
+        "date": "2018-05-24"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Dark Savers",
+        "pack_id": "DBDS-JP021",
+        "date": "2018-02-24"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/04/DynaHeroFurHire-DASA-EN-ScR-1E.png"
 }

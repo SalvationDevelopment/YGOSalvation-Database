@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 67371024,
     "name": "Beast Magic Attack",
-    "desc": "Remove Spell Counters from your field to activate 1 of these effects.\r\n● 2: Return 1 \"Mythical Beast\" Pendulum Monster you control to the hand.\r\n● 4: Special Summon 1 face-up \"Mythical Beast\" Pendulum Monster from your Extra Deck, then you can place 2 Spell Counters on it.\r\n● 6: Special Summon 1 face-up Pendulum Monster from your Extra Deck.\r\nYou can only activate 1 \"Beast Magic Attack\" per turn.",
+    "desc": "Remove Spell Counters from your field to activate 1 of these effects;\n● 2 Counters: Return 1 &#x201C;Mythical Beast&#x201D; Pendulum Monster you control to the hand.\n● 4 Counters: Special Summon 1 face-up &#x201C;Mythical Beast&#x201D; Pendulum Monster from your Extra Deck, then you can place 2 Spell Counters on it.\n● 6 Counters: Special Summon 1 face-up Pendulum Monster from your Extra Deck.\nYou can only activate 1 &#x201C;Beast Magic Attack&#x201D; per turn.",
     "str1": "Return 1 \"Mythical Beast\" Pendulum Monster you control to the hand",
     "str2": "Special Summon 1 face-up \"Mythical Beast\" Pendulum Monster from your Extra Deck",
     "str3": "Special Summon 1 face-up Pendulum Monster from your Extra Deck",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE063",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP063",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/BeastMagicAttack-CYHO-EN-C-1E.png"
 }

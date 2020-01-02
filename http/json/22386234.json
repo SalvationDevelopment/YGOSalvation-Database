@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Extreme Victory",
+        "pack_id": "EXVC-JP036",
+        "date": "2011-02-11"
+    },
+    "tcg": {
+        "pack": "Extreme Victory",
+        "pack_id": "EXVC-EN036",
+        "date": "2011-04-30"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/21/AuroraParagon-EXVC-EN-C-UE.png"
 }

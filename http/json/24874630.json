@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "The Valuable Book 5",
+        "pack_id": "VB5-001",
+        "date": "2002-10-04"
+    },
+    "tcg": {
+        "pack": "Champion Pack: Game Five",
+        "pack_id": "CP05-DE001",
+        "date": "2008-01-08"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/84/FiendsSanctuary-LCKC-EN-ScR-1E.png"
 }

@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Pharaonic Guardian",
+        "pack_id": "PH-40",
+        "date": "2002-03-21"
+    },
     "tcg": {
-        "pack": "Legendary Collection 4: Joey's World Mega Pack",
-        "pack_id": "LCJW-PT218",
-        "date": "2013-10-11"
+        "pack": "Pharaonic Guardian",
+        "pack_id": "PGD-041",
+        "date": "2003-07-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/db/TutanMask-BP03-EN-C-1E.png"
 }

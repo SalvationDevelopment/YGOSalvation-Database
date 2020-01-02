@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "STARTER PACK Volume 3",
+        "pack_id": "SP03-TC029",
+        "date": "2014-11-29"
+    },
     "tcg": {
         "pack": "Duel Terminal 6b",
         "pack_id": "DT06-EN090",

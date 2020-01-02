@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 4194306,
     "name": "Destruction Ring",
-    "desc": "Destroy 1 face-up monster on your side of the field to inflict 1000 points of damage to both player's Life Points.",
+    "desc": "Destroy 1 face-up monster on your side of the field to inflict 1000 points of damage to both players' Life Points.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Invasion of Chaos",
+        "pack_id": "IOC-101",
+        "date": "2004-03-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2f/DestructionRing-DR2-EN-C-UE.png"
 }

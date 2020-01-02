@@ -31,10 +31,14 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "pack": "STARTER PACK Volume 2",
-        "pack_id": "SP02-TC056",
-        "date": "2014-09-27"
+        "pack": "The Duelist Genesis",
+        "pack_id": "TDGS-JP065",
+        "date": "2008-04-19"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "The Duelist Genesis",
+        "pack_id": "TDGS-EN065",
+        "date": "2008-08-09"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/DefenseDraw-DEM3-EU-C-UE.png"
 }

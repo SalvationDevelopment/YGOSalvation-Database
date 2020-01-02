@@ -31,10 +31,14 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "pack": "STARTER PACK Volume 2",
-        "pack_id": "SP02-TC014",
-        "date": "2014-09-27"
+        "pack": "Phantom Darkness",
+        "pack_id": "PTDN-JP021",
+        "date": "2007-11-23"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Phantom Darkness",
+        "pack_id": "PTDN-DE021",
+        "date": "2008-01-26"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/be/ArmageddonKnight-DASA-EN-SR-1E.png"
 }

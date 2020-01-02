@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Ancient Prophecy",
+        "pack_id": "ANPR-JP049",
+        "date": "2009-04-18"
+    },
+    "tcg": {
+        "pack": "Ancient Prophecy",
+        "pack_id": "ANPR-DE049",
+        "date": "2009-08-27"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/12/EmergencyAssistance-ANPR-EN-C-1E.png"
 }

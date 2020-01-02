@@ -2,7 +2,7 @@
     "id": 21522601,
     "ot": 3,
     "alias": 0,
-    "setcode": 296,
+    "setcode": 0,
     "type": 33,
     "atk": 1000,
     "def": 2800,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 2147491840,
     "name": "Witchcrafter Madame Verre",
-    "desc": "During damage calculation, if your Spellcaster monster battles an opponent's monster (Quick Effect): You can reveal any number of Spells with different names in your hand, and if you do, your battling monster gains 1000 ATK/DEF for each card revealed, until the end of this turn. (Quick Effect): You can discard 1 Spell; negate the effects of all face-up monsters your opponent currently controls, until the end of this turn. You can only use each effect of \"Witchcrafter Madame Verre\" once per turn.",
+    "desc": "During damage calculation, if your Spellcaster monster battles an opponent's monster (Quick Effect): You can reveal any number of Spells with different names in your hand, and if you do, your battling monster gains 1000 ATK/DEF for each card revealed, until the end of this turn. (Quick Effect): You can discard 1 Spell; negate the effects of all face-up monsters your opponent currently controls until the end of this turn. You can only use each effect of \"Witchcrafter Madame Verre\" once per turn.",
     "str1": "Increase ATK",
     "str2": "Negate effects",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "The Infinity Chasers",
+        "pack_id": "INCH-DE019",
+        "date": "2019-03-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Infinity Chasers",
+        "pack_id": "DBIC-JP019",
+        "date": "2019-02-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d4/WitchcrafterMadameVerre-INCH-EN-ScR-1E.png"
 }

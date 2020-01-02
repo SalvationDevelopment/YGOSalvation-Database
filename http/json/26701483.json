@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Academy Duel Disk Osiris Red promotional cards",
+        "pack_id": "ADDR-JP002",
+        "date": "2007-11-23"
+    },
     "tcg": {
         "pack": "Duelist Pack Collection Tin 2008",
         "pack_id": "DPCT-EN001",

@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "The Lost Millennium",
+        "pack_id": "TLM-JP004",
+        "date": "2005-02-24"
+    },
     "tcg": {
-        "pack": "Starter Deck 2006: Special Edition",
-        "pack_id": "YSD-ENS01",
-        "date": "2006-03-01"
+        "pack": "The Lost Millennium",
+        "pack_id": "TLM-DE004",
+        "date": "2005-06-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/ff/ElementalHEROSparkman-DEM2-EN-C-UE.png"
 }

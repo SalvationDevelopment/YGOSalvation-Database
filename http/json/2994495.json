@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE084",
+        "date": "2019-07-25"
+    },
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b9/FuhmaWave-RIRA-EN-C-1E.png"
 }

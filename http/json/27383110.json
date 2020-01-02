@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "The Shining Darkness",
+        "pack_id": "TSHD-JP059",
+        "date": "2010-02-20"
+    },
     "tcg": {
-        "pack": "Astral Pack Seven",
-        "pack_id": "AP07-PT022",
-        "date": "2015-06-05"
+        "pack": "The Shining Darkness",
+        "pack_id": "TSHD-DE059",
+        "date": "2010-05-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/72/DawnoftheHerald-AP07-EN-C-UE.png"
 }

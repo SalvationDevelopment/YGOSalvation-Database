@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 2147745796,
     "name": "Linguriboh",
-    "desc": "1 Level 4 or lower Cyberse monster\r\nWhen your opponent activates a Trap Card (Quick Effect): You can Tribute this card; negate the effect, and if you do, banish that card. If this card is in your GY (Quick Effect): You can Tribute 1 \"@Ignister\" monster that was Special Summoned from the Extra Deck; Special Summon this card. You can only use each effect of \"Linguriboh\" once per turn.",
+    "desc": "Link Arrows: [🡷]\n\n1 Level 4 or lower Cyberse monster\nWhen your opponent activates a Trap Card (Quick Effect): You can Tribute this card; negate the effect, and if you do, banish that card. If this card is in your GY (Quick Effect): You can Tribute 1 \"@Ignister\" monster that was Special Summoned from the Extra Deck; Special Summon this card. You can only use each effect of \"Linguriboh\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,15 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Saikyō Jump November 2019 promotional card",
+        "pack_id": "SJMP-JP008",
+        "date": "2019-10-01"
+    },
+    "links": [
+        5
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/62/Linguriboh-SJMP-JP-OP.png"
 }

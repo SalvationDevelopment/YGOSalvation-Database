@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE069",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP069",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dd/MirrorForceLauncher-CYHO-EN-SR-1E.png"
 }

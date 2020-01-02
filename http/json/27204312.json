@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Primal Being Token",
-    "desc": "This card can be used as a \"Primal Being Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+    "desc": "Special Summoned with the effect of \"Nibiru, the Primal Being\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "OTS Tournament Pack 12",
+        "pack_id": "OP12-DE026",
+        "date": "2019-12-05"
+    },
+    "ocg": {
+        "pack": "Tournament Pack 2019 Vol.4",
+        "pack_id": "19TP-JP416",
+        "date": "2019-10-01"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5e/PrimalBeingToken-OP12-EN-SR-UE.png"
 }

@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Starter Pack Volume 1",
+        "pack_id": "SP01-TC056",
+        "date": "2014-03-01"
+    },
     "tcg": {
         "pack": "Labyrinth of Nightmare",
         "pack_id": "LON-018",
         "date": "2003-03-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e2/MaskofRestrict-OP02-EN-SR-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ef/MaskofRestrict-SR07-EN-C-1E.png"
 }

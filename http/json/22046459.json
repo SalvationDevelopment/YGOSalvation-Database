@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Pharaoh's Servant",
+        "pack_id": "PS-10",
+        "date": "2000-07-13"
+    },
     "tcg": {},
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cf/Megamorph-SDKS-EN-C-1E.png"
 }

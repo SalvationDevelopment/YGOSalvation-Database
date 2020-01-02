@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Rise of Destiny",
+        "pack_id": "RDS-JP011",
+        "date": "2004-08-05"
+    },
+    "tcg": {
+        "pack": "Rise of Destiny",
+        "pack_id": "RDS-FR011",
+        "date": "2004-11-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0c/HeavyMechSupportPlatform-LCKC-EN-UR-1E.png"
 }

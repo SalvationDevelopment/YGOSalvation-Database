@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Dark Crisis",
+        "pack_id": "DCR-050",
+        "date": "2003-12-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/45/ReallyEternalRest-TU08-EN-C-UE.png"
 }

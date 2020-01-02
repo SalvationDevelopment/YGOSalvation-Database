@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Crossroads of Chaos",
+        "pack_id": "CSOC-JP019",
+        "date": "2008-07-19"
+    },
+    "tcg": {
+        "pack": "Crossroads of Chaos",
+        "pack_id": "CSOC-EN019",
+        "date": "2008-11-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f6/IronChainBlaster-CSOC-EN-C-1E.png"
 }

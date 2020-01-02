@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Generation Force",
+        "pack_id": "GENF-JP064",
+        "date": "2011-04-16"
+    },
+    "tcg": {
+        "pack": "Generation Force",
+        "pack_id": "GENF-EN064",
+        "date": "2011-08-06"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/ba/PoseidonWave-BP03-EN-C-1E.png"
 }

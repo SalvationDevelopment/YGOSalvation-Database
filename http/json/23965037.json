@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "The Lost Millennium",
+        "pack_id": "TLM-JP043",
+        "date": "2005-02-24"
+    },
+    "tcg": {
+        "pack": "The Lost Millennium",
+        "pack_id": "TLM-DE043",
+        "date": "2005-06-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/96/DoriadosBlessing-DR3-EN-C-UE.jpg"
 }

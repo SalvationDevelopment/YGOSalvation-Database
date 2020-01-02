@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Duel Disk - Yusei Version DX 2010",
+        "pack_id": "DDY3-JP005",
+        "date": "2010-11-20"
+    },
     "tcg": {
         "pack": "Yu-Gi-Oh! Championship Series 2011",
         "pack_id": "YCSW-EN004",

@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "The Duelist Genesis",
+        "pack_id": "TDGS-JP072",
+        "date": "2008-04-19"
+    },
+    "tcg": {
+        "pack": "The Duelist Genesis",
+        "pack_id": "TDGS-EN072",
+        "date": "2008-08-09"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a0/TelepathicPower-BP03-EN-C-1E.png"
 }

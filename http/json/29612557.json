@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Dark Revelation Volume 4",
+        "pack_id": "DR04-EN162",
+        "date": "2007-11-14"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a6/CycloneBoomerang-LCGX-EN-C-1E.png"
 }

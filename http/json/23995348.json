@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Shonen Jump Vol. 4, Issue 1",
+        "pack_id": "JMP-EN005",
+        "date": "2006-01-01"
+    },
+    "ocg": {
+        "pack": "Yu-Gi-Oh! Duel Monsters II: Dark duel Stories Duelist Legend in Tokyo Dome tournament winners' promotional cards",
+        "pack_id": "",
+        "date": "1999-08-26"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/20/BlueEyesUltimateDragon-SBLS-EN-UR-1E.png"
 }

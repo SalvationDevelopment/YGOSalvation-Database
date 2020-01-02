@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Pharaonic Guardian",
+        "pack_id": "PGD-073",
+        "date": "2003-07-18"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/36/AnOwlofLuck-DR1-EN-C-UE.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 8192,
     "name": "Doublebyte Dragon",
-    "desc": "2 Link Monsters\r\nGains ATK equal to the combined Link Ratings of the monsters used for its Link Summon x 300. Unaffected by monster effects, except Link Monsters' effects, and cannot be destroyed by battle, except by battle with a Link Monster.",
+    "desc": "Link Arrows: [🡱][🡳]\n\n2 Link Monsters\nGains ATK equal to the combined Link Ratings of the monsters used for its Link Summon x 300. Unaffected by monster effects, except Link Monsters' effects, and cannot be destroyed by battle, except by battle with a Link Monster.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Duel Power",
+        "pack_id": "DUPO-EN020",
+        "date": "2019-04-03"
+    },
+    "ocg": {
+        "pack": "LINK VRAINS Box",
+        "pack_id": "LVB1-JP001",
+        "date": "2017-12-23"
+    },
+    "links": [
+        1,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5d/DoublebyteDragon-DUPO-EN-UR-1E.png"
 }

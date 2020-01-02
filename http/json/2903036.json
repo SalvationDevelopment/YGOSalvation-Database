@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Tribute Doll",
-    "desc": "Tribute 1 monster; Special Summon 1 Level 7 monster from your hand that can be Normal Summoned or Normal Set. It cannot attack this turn.",
+    "desc": "Tribute 1 monster; Special Summon 1 Level 7 monster from your hand that can be Normal Summoned/Set. It cannot attack this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c6/TributeDoll-LCJW-EN-C-1E.png"
+    "tcg": {
+        "pack": "Magician's Force",
+        "pack_id": "MFC-039",
+        "date": "2003-10-10"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3a/TributeDoll-SS01-EN-C-1E.png"
 }

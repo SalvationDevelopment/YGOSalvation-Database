@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Starter Pack Volume 1",
+        "pack_id": "SP01-TC053",
+        "date": "2014-03-01"
+    },
+    "tcg": {
+        "pack": "Magician's Force",
+        "pack_id": "MFC-046",
+        "date": "2003-10-10"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3a/SecretBarrel-DEM1-EU-C-UE.png"
 }

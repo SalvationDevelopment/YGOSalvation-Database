@@ -2,7 +2,7 @@
     "id": 31313405,
     "ot": 3,
     "alias": 0,
-    "setcode": 281,
+    "setcode": 0,
     "type": 67108897,
     "atk": 2800,
     "def": 170,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 21233664,
     "name": "Salamangreat Pyro Phoenix",
-    "desc": "2+ FIRE Effect Monsters\nIf this card is Link Summoned using \"Salamangreat Pyro Phoenix\" as material: You can destroy all cards your opponent controls. You can only use each of the following effects of \"Salamangreat Pyro Phoenix\" once per turn.\n● You can target 1 Link Monster in your opponent's GY; Special Summon it to your opponent's field.\n● If a Link Monster(s) is Special Summoned to your opponent's field (except during the Damage Step): You can target 1 of those monsters; inflict damage to your opponent equal to that monster's original ATK.",
+    "desc": "Link Arrows: [🡱][🡰][🡳][🡲]\n\n2+ FIRE Effect Monsters\nIf this card is Link Summoned using \"Salamangreat Pyro Phoenix\" as material: You can destroy all cards your opponent controls. You can only use each of these effects of \"Salamangreat Pyro Phoenix\" once per turn. \n● You can target 1 Link Monster in your opponent's GY; Special Summon it to their field. \n● If a Link Monster(s) is Special Summoned to your opponent's field: You can target 1 of those monsters; inflict damage to your opponent equal to its original ATK.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,22 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE039",
+        "date": "2019-10-24"
+    },
+    "ocg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-JP039",
+        "date": "2019-07-13"
+    },
+    "links": [
+        1,
+        3,
+        4,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c6/SalamangreatPyroPhoenix-CHIM-EN-ScR-1E.png"
 }

@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Duel Terminal - Pulse of the Trishula!!",
+        "pack_id": "DT08-JP025",
+        "date": "2010-01-21"
+    },
     "tcg": {
         "pack": "Duel Terminal 4",
         "pack_id": "DT04-EN075",

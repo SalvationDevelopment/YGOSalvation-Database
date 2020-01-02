@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 270336,
     "name": "Red-Eyes Zombie Necro Dragon",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nGains 100 ATK/DEF for each Zombie monster on the field and in the GYs. When another Zombie monster is destroyed by battle: You can Special Summon 1 Zombie monster from either GY to your field. You can only use this effect of \"Red-Eyes Zombie Necro Dragon\" once per turn.",
+    "desc": "1 Tuner + 1+ non-Tuner  monsters\nGains 100 ATK/DEF for each Zombie monster on the field and in the GYs. When another Zombie monster is destroyed by battle: You can Special Summon 1 Zombie monster from either player's GY to your field. You can only use this effect of \"Red-Eyes Zombie Necro Dragon\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Zombie Horde",
+        "pack_id": "SR07-EN041",
+        "date": "2018-11-01"
+    },
+    "ocg": {
+        "pack": "Structure Deck R: Undead World",
+        "pack_id": "SR07-JP041",
+        "date": "2018-09-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/46/RedEyesZombieNecroDragon-SR07-EN-UR-1E.png"
 }

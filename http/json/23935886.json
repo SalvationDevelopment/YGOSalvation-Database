@@ -2,7 +2,7 @@
     "id": 23935886,
     "ot": 3,
     "alias": 0,
-    "setcode": 300,
+    "setcode": 0,
     "type": 67108897,
     "atk": 2600,
     "def": 7,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 2,
     "name": "Draco Masters of the Tenyi",
-    "desc": "2+ monsters, including a Link Monster\nCannot be destroyed by battle with an Effect Monster. If you control no other Effect Monsters: You can destroy Effect Monsters your opponent controls, up to the number of non-Effect Monsters you control and/or in your GY. You can only use this effect of \"Draco Masters of the Tenyi\" once per turn.",
+    "desc": "Link Arrows: [🡷][🡳][🡶]\n\n2+ monsters, including a Link Monster\nCannot be destroyed by battle with an Effect Monster. If you control no other Effect Monsters: You can destroy Effect Monsters your opponent controls, up to the number of non-Effect Monsters you control and/or in your GY. You can only use this effect of \"Draco Masters of the Tenyi\" once per turn.",
     "str1": "Destroy Effect monsters",
     "str2": "",
     "str3": "",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE099",
+        "date": "2019-10-24"
+    },
+    "ocg": {
+        "pack": "V Jump September 2019 promotional card",
+        "pack_id": "VJMP-JP169",
+        "date": "2019-07-20"
+    },
+    "links": [
+        5,
+        6,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c2/DracoMastersoftheTenyi-CHIM-EN-UR-1E.png"
 }

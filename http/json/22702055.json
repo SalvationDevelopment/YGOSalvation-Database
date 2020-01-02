@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8192,
     "name": "Umi",
-    "desc": "Increase the ATK and DEF of all Fish, Sea Serpent, Thunder, and Aqua-Type monsters by 200 points. Decrease the ATK and DEF of all Machine and Pyro-Type monsters by 200 points.",
+    "desc": "All Fish, Sea Serpent, Thunder, and Aqua monsters on the field gain 200 ATK/DEF, also all Machine and Pyro monsters on the field lose 200 ATK/DEF.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,6 +35,10 @@
         "pack_id": "",
         "date": "1999-03-06"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Legend of Blue Eyes White Dragon",
+        "pack_id": "LOB-050",
+        "date": "2002-03-08"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b2/Umi-DB1-EN-C-UE.png"
 }

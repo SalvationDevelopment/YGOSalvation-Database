@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Fists of the Gadgets",
+        "pack_id": "FIGA-DE036",
+        "date": "2019-08-22"
+    },
+    "ocg": {
+        "pack": "Structure Deck: Master Link",
+        "pack_id": "SD34-JP002",
+        "date": "2018-06-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a8/SwapCleric-FIGA-EN-SR-1E.png"
 }

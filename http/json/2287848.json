@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262448,
     "name": "Vendread Revolution",
-    "desc": "Discard 1 card, then target 1 \"Vendread\" monster and 1 Ritual Spell in your GY; Special Summon that monster in Defense Position, and if you do, add that Ritual Spell to your hand. You can banish this card from your GY, then target 5 of your banished Zombie monsters; shuffle them into your Deck, then draw 1 card. You can only use each effect of \"Vendread Revolution\" once per turn.",
+    "desc": "Discard 1 card, then target 1 &#x201C;Vendread&#x201D; monster and 1 Ritual Spell in your GY; Special Summon that monster in Defense Position, and if you do, add that Ritual Spell to your hand. You can banish this card from your GY, then target 5 of your banished Zombie monsters; shuffle them into your Deck, then draw 1 card. You can only use each effect of &#x201C;Vendread Revolution&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE085",
+        "date": "2018-02-01"
+    },
+    "ocg": {
+        "pack": "Extra Pack 2018",
+        "pack_id": "EP18-JP018",
+        "date": "2018-09-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d8/VendreadRevolution-EXFO-EN-SR-1E.png"
 }

@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Pharaonic Guardian",
+        "pack_id": "PGD-099",
+        "date": "2003-07-18"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/88/TrapofBoardEraser-DR1-EN-C-UE.png"
 }

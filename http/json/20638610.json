@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Structure Deck: Dragonic Legion",
+        "pack_id": "SD22-KR035",
+        "date": "2011-03-06"
+    },
     "tcg": {
         "pack": "Rise of the True Dragons Structure Deck",
         "pack_id": "SR02-PT035",

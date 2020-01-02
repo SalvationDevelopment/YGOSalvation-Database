@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 2214600704,
     "name": "Starving Venemy Lethal Dose Dragon",
-    "desc": "[ Pendulum Effect ]\r\nOnce per turn: You can place 1 Venemy Counter on each face-up monster your opponent controls. All face-up monsters on the field other than DARK Dragon monsters lose 200 ATK for each Venemy Counter on the field.\r\n----------------------------------------\r\n[ Monster Effect ]\r\n3 DARK Pendulum Monsters\r\nEach time a card(s) is sent from the field to the GY, place 1 Venemy Counter on this card for each. All face-up monsters on the field other than DARK Dragon monsters lose 200 ATK for each Venemy Counter on the field. Once per turn: You can negate the effects of all face-up monsters your opponent currently controls, until the end of this turn. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone.",
+    "desc": "Pendulum Effect\nOnce per turn: You can place 1 Venemy Counter on each face-up monster your opponent controls. All monsters on the field, except DARK Dragon monsters, lose 200 ATK for each Venemy Counter on the field.\n\nMonster Effect\n3 DARK Pendulum Monsters\nEach time a card(s) is sent to your GY, place 1 Venemy Counter on this card for each one. All monsters on the field, except DARK Dragon monsters, lose 200 ATK for each Venemy Counter on the field. Once per turn: You can negate the effect of all face-up monsters your opponent currently controls. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Premium Pack 2019",
+        "pack_id": "19PP-JP011",
+        "date": "2019-03-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9e/StarvingVenemyLethalDoseDragon-19PP-JP-C.png"
 }

@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Gladiator's Assault",
+        "pack_id": "GLAS-JP077",
+        "date": "2007-07-21"
+    },
+    "tcg": {
+        "pack": "Gladiator's Assault",
+        "pack_id": "GLAS-IT077",
+        "date": "2007-11-03"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1b/DetonatorCircleA-GLAS-EN-C-1E.png"
 }

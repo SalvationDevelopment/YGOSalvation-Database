@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "The Lost Millennium",
+        "pack_id": "TLM-JP022",
+        "date": "2005-02-24"
+    },
+    "tcg": {
+        "pack": "The Lost Millennium",
+        "pack_id": "TLM-DE022",
+        "date": "2005-06-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a4/MedusaWorm-DR3-EN-C-UE.jpg"
 }

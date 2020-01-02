@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Yu-Gi-Oh! GX Volume 6",
-        "pack_id": "YG06-JP001",
-        "date": "2009-11-04"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Yu-Gi-Oh! GX Volume 6",
-        "pack_id": "YG06-EN001",
-        "date": "2011-03-01"
+        "pack": "Premium Collection",
+        "pack_id": "PRC1-DEV01",
+        "date": "2012-03-15"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/db/ElementalHEROTheShining-PRC1-EN-ScR-LE.png"
 }

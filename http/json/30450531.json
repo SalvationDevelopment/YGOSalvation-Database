@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Rite of Spirit",
-    "desc": "Target 1 \"Gravekeeper's\" monster in your Graveyard; Special Summon that target. This card's activation and effect are unaffected by \"Necrovalley\".",
+    "desc": "Target 1 \"Gravekeeper's\" monster in your GY; Special Summon that target. This card's activation and effect are unaffected by \"Necrovalley\".",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0a/RiteofSpirit-LCYW-EN-C-1E.png"
+    "tcg": {
+        "pack": "Pharaonic Guardian",
+        "pack_id": "PGD-100",
+        "date": "2003-07-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9b/RiteofSpirit-SS01-EN-C-1E.png"
 }

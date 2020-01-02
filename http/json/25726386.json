@@ -2,7 +2,7 @@
     "id": 25726386,
     "ot": 1,
     "alias": 0,
-    "setcode": 312,
+    "setcode": 0,
     "type": 161,
     "atk": 2000,
     "def": 3000,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Megalith Aratron",
-    "desc": "You can Ritual Summon this card with any \"Megalith\" card. During the Main Phase (Quick Effect): You can discard this card; Ritual Summon 1 \"Megalith\" Ritual Monster from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level. When your opponent activates a card or effect that targets a card(s) you control (Quick Effect): You can place 1 Ritual Monster from your GY on the bottom of the Deck, and if you do, negate the activation, and if you do that, destroy that card. You can only use each effect of \"Megalith Aratron\" once per turn.",
+    "desc": "You can Ritual Summon this card with any \"Megalith\" card. During the Main Phase (Quick Effect): You can discard this card; Ritual Summon 1 \"Megalith\" Ritual Monster from your hand. You must also Tribute monsters from your hand or field whose total Levels equal the monster's Level or more. When a Spell/Trap or monster activates its effect that targets card(s) you control: You can place 1 Ritual Monster from your GY on to the bottom of your Deck, negate the activation, and if you do, destroy that card. You can only use each effect of \"Megalith Aratron\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP040",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/61/MegalithAratron-IGAS-JP-OP.png"
 }

@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Soul of the Duelist",
+        "pack_id": "SOD-JP045",
+        "date": "2004-05-27"
+    },
+    "tcg": {
+        "pack": "Soul of the Duelist",
+        "pack_id": "SOD-DE045",
+        "date": "2004-10-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7c/Two-ManCellBattleDR3-EN-C-UE.jpg"
 }

@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Photon Shockwave",
+        "pack_id": "PHSW-JP015",
+        "date": "2011-07-16"
+    },
+    "tcg": {
+        "pack": "Photon Shockwave",
+        "pack_id": "PHSW-DE015",
+        "date": "2011-11-10"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/23/PhotonCerberus-NUMH-EN-SR-1E.png"
 }

@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Ancient Prophecy",
+        "pack_id": "ANPR-JP040",
+        "date": "2009-04-18"
+    },
     "tcg": {
         "pack": "Collectible Tins 2009 Wave 1",
         "pack_id": "CT06-EN002",

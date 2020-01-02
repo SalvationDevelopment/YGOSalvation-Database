@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Phantom Darkness",
+        "pack_id": "PTDN-JP025",
+        "date": "2007-11-23"
+    },
+    "tcg": {
+        "pack": "Phantom Darkness",
+        "pack_id": "PTDN-DE025",
+        "date": "2008-01-26"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/73/GeminiLancer-PTDN-EN-C-1E.png"
 }

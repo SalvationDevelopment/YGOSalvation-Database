@@ -2,7 +2,7 @@
     "id": 30674956,
     "ot": 3,
     "alias": 0,
-    "setcode": 191,
+    "setcode": 12517568,
     "type": 67108897,
     "atk": 1850,
     "def": 5,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 262672,
     "name": "Wynn the Wind Charmer, Verdant",
-    "desc": "2 monsters, including a WIND monster\r\n(This card is always treated as a \"Familiar-Possessed\" card.)\r\nYou can target 1 WIND monster in your opponent's GY; Special Summon it to your zone this card points to. If this Link Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 WIND monster with 1500 or less DEF from your Deck to your hand. You can only use each effect of \"Wynn the Wind Charmer, Verdant\" once per turn.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 monsters, including a WIND monster\n(This card is always treated as a \"Familiar-Possessed\" card.)\nYou can target 1 WIND monster in your opponent's GY; Special Summon it to your zone this card points to. If this Link Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 WIND monster with 1500 or less DEF from your Deck to your hand. You can only use each effect of \"Wynn the Wind Charmer, Verdant\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE046",
+        "date": "2019-07-25"
+    },
+    "ocg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-JP046",
+        "date": "2019-04-13"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/28/WynntheWindCharmerVerdant-RIRA-EN-R-1E.png"
 }

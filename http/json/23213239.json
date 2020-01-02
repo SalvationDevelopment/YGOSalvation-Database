@@ -2,7 +2,7 @@
     "id": 23213239,
     "ot": 1,
     "alias": 0,
-    "setcode": 286,
+    "setcode": 0,
     "type": 524290,
     "atk": 0,
     "def": 0,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 16777218,
-    "name": "Danger! Disaster!‎",
-    "desc": "When your \"Danger!\" monster is destroyed by battle with an opponent's monster: You can destroy that opponent's monster. You can banish 3 \"Danger!\" Spells/Traps with different names from your GY; destroy all cards on the field, also you cannot Special Summon monsters for the rest of this turn, except \"Danger!\" monsters (even if this card leaves the field). You can only use this effect of \"Danger! Disaster!\" once per turn.",
+    "name": "Danger! Disaster!",
+    "desc": "When a \"Danger!\" monster you control is destroyed in battle by your opponent's monster: You can destroy that opponent's monster. You can banish 3 \"Danger!\" Spell/Trap Cards with different names from your GY; you cannot Special Summon monsters, except &#x201C;Danger!&#x201D; monsters for the rest of this turn, also destroy all cards on the field. You can only use this effect of \"Danger! Disaster!\" once per turn.",
     "str1": "Affected by \"Danger! Disaster!\"",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Extra Pack 2019",
+        "pack_id": "EP19-JP037",
+        "date": "2019-09-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/83/DangerDisaster-EP19-JP-OP.png"
 }

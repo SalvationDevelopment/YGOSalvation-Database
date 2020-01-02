@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Structure Deck: Curse of Darkness",
+        "pack_id": "SD12-JP004",
+        "date": "2007-03-08"
+    },
     "tcg": {
-        "pack": "Lair of Darkness Structure Deck",
-        "pack_id": "SR06-EN011",
-        "date": "2018-04-20"
+        "pack": "Force of the Breaker",
+        "pack_id": "FOTB-FR064",
+        "date": "2007-05-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1b/MistArchfiend-SR06-EN-C-1E.png"
 }

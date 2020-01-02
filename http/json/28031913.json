@@ -2,7 +2,7 @@
     "id": 28031913,
     "ot": 3,
     "alias": 0,
-    "setcode": 278,
+    "setcode": 0,
     "type": 33,
     "atk": 1200,
     "def": 1600,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE008",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP008",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/ba/CrusadiaLeonis-OP12-EN-SR-UE.png"
 }

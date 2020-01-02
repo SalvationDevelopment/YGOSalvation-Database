@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Abyss Rising",
+        "pack_id": "ABYR-JP080",
+        "date": "2012-07-21"
+    },
+    "tcg": {
+        "pack": "Abyss Rising",
+        "pack_id": "ABYR-DE080",
+        "date": "2012-11-08"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/52/Retort-ABYR-EN-ScR-1E.png"
 }

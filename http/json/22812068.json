@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Order of Chaos",
+        "pack_id": "ORCS-JP016",
+        "date": "2011-11-19"
+    },
+    "tcg": {
+        "pack": "Order of Chaos",
+        "pack_id": "ORCS-EN016",
+        "date": "2012-01-14"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/50/EarthArmorNinja-SP13-EN-C-1E.png"
 }

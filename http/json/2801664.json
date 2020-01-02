@@ -2,7 +2,7 @@
     "id": 2801664,
     "ot": 1,
     "alias": 0,
-    "setcode": 311,
+    "setcode": 0,
     "type": 33,
     "atk": 2700,
     "def": 900,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 303104,
     "name": "Senka Champion - Zhang De",
-    "desc": "Gains 300 ATK for each monster your opponent controls during your turn only. You can only use each of the following effects of \"Senka Champion - Zhang De\" once per turn.\n● If you control 2 or more \"Senka\" monsters: You can Special Summon this card from your hand.\n● If your opponent controls more monsters than you do: You can activate this effect; this card can make up to 2 attacks on monsters during each Battle Phase this turn.",
+    "desc": "This card gains 300 ATK for each monster your opponent controls during its controller's turn only. You can only use these effects of \"Senka Champion - Zhang De\" once per turn.\n● If you control 2 or more \"Senka\" monsters: You can Special Summon this card from your hand.\n● If your opponent controls more monsters than you: You can activate this effect; during this turn, this card can attack monsters your opponent controls twice during each Battle Phase.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP013",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c8/SenkaChampionZhangDe-IGAS-JP-R.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 2147484176,
     "name": "Qliphort Genius",
-    "desc": "2 Machine monsters\r\nThis Link Summoned card is unaffected by Spell/Trap effects and the activated effects of other Link Monsters. Once per turn: You can target 1 face-up card on each player's field, except this card; both those cards have their effects negated until the end of this turn. When 2 monsters are Special Summoned at the same time to the zones this card points to: You can add 1 Level 5 or higher Machine monster from your Deck to your hand.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 Machine monsters\nThis Link Summoned card is unaffected by Spell/Trap effects and the activated effects from other Link Monsters. Once per turn: You can target 1 face-up card on each player's field, except this card; both face-up cards have their effects negated until the end of this turn. When 2 monsters are Special Summoned at the same time to the zones this card points to: You can add 1 Level 5 or higher Machine monster from your Deck to your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE095",
+        "date": "2018-02-01"
+    },
+    "ocg": {
+        "pack": "LINK VRAINS Pack",
+        "pack_id": "LVP1-JP061",
+        "date": "2017-11-25"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/QliphortGenius-EXFO-EN-R-1E.png"
 }

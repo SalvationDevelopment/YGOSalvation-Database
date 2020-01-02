@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution promotional cards",
+        "pack_id": "LOD2-DE002",
+        "date": "2019-08-20"
+    },
+    "ocg": {
+        "pack": "Structure Deck: Master Link",
+        "pack_id": "SD34-JP004",
+        "date": "2018-06-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/19/MicroCoder-LOD2-EN-UR-UE.png"
 }

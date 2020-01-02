@@ -29,7 +29,11 @@
     "str15": "",
     "str16": "",
     "cardpool": "OCG/TCG",
-    "tcg": {},
+    "tcg": {
+        "pack": "Legend of Blue Eyes White Dragon",
+        "pack_id": "LOB-059",
+        "date": "2002-03-08"
+    },
     "ocg": {
         "pack": "Starter Box: Theatrical Release",
         "pack_id": "",

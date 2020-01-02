@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Ancient Sanctuary",
+        "pack_id": "AST-DE087",
+        "date": "2004-05-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0b/DustBarrier-DR2-EN-C-UE.png"
 }

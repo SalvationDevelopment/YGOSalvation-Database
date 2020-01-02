@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Gladiator's Assault",
+        "pack_id": "GLAS-JP074",
+        "date": "2007-07-21"
+    },
     "tcg": {
-        "pack": "Spirit Warriors",
-        "pack_id": "SPWA-PT054",
-        "date": "2017-11-16"
+        "pack": "Gladiator's Assault",
+        "pack_id": "GLAS-IT074",
+        "date": "2007-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/97/DoubleEdgedSwordTechnique-SPWA-EN-SR-1E.png"
 }

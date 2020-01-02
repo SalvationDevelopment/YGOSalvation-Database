@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Judgment of the Light",
+        "pack_id": "JOTL-JP077",
+        "date": "2013-04-20"
+    },
+    "tcg": {
+        "pack": "Judgment of the Light",
+        "pack_id": "JOTL-DE077",
+        "date": "2013-08-08"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/85/TraptrixTrapHoleNightmare-SDMP-EN-C-1E.png"
 }

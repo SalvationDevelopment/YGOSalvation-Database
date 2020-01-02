@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Extra Pack: Sword of Knights",
+        "pack_id": "EP13-JP028",
+        "date": "2013-05-18"
+    },
+    "tcg": {
+        "pack": "Abyss Rising",
+        "pack_id": "ABYR-DE087",
+        "date": "2012-11-08"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/46/SpellbookLibraryoftheHeliosphere-AP05-EN-C-UE.png"
 }

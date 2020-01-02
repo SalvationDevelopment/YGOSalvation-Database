@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Power of the Duelist",
+        "pack_id": "POTD-JP051",
+        "date": "2006-05-18"
+    },
+    "tcg": {
+        "pack": "Power of the Duelist",
+        "pack_id": "POTD-DE051",
+        "date": "2006-08-16"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/54/CropCircles-POTD-EN-C-1E.jpg"
 }

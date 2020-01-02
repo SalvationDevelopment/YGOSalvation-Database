@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 327680,
     "name": "Altergeist Dragvirion",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nWhen an opponent's Special Summoned monster declares an attack: You can return 1 \"Altergeist\" monster you control to the hand; negate that attack. If this card is Tributed and sent to the GY: You can Special Summon this card. You can only use each effect of \"Altergeist Dragvirion\" once per turn.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nWhen a Special Summoned monster your opponent controls declares an attack: You can return 1 &#x201C;Altergeist&#x201D; monster you control to the hand; negate that attack. If this card is Tributed and sent to the GY: You can Special Summon it. You can only use each effect of \"Altergeist Dragvirion\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE033",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP033",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d4/AltergeistDragvirion-DANE-EN-C-1E.png"
 }

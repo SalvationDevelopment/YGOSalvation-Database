@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 2147581952,
     "name": "Gouki The Master Ogre",
-    "desc": "2+ \"Gouki\" monsters\r\nOnce per turn (Quick Effect): You can return to the hand any number of \"Gouki\" monsters you control that this card points to, then target the same number of face-up cards your opponent controls; they have their effects negated until the end of this turn. This card can attack all monsters your opponent controls, once each. If your opponent controls a face-up monster(s), this card can only target their monster with the highest ATK for attacks (your choice, if tied).",
+    "desc": "Link Arrows: [🡱][🡷][🡳][🡶]\n\n2+ \"Gouki\" monsters\nOnce per turn (Quick Effect): You can return to the hand any number of \"Gouki\" monsters you control that this card points to, then target the same number of face-up cards your opponent controls; they have their effects negated until the end of this turn. This card can attack all monsters your opponent controls, once each. If your opponent controls a face-up monster(s), this card can only target their monster with the highest ATK for attacks (your choice, if tied).",
     "str1": "Return \"Gouki\" monster and negate effects",
     "str2": "",
     "str3": "",
@@ -28,5 +28,22 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE041",
+        "date": "2018-05-03"
+    },
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP041",
+        "date": "2018-01-13"
+    },
+    "links": [
+        1,
+        5,
+        6,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d7/GoukiTheMasterOgre-FLOD-EN-SR-1E.png"
 }

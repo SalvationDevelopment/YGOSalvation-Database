@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 268697600,
     "name": "Fusion of Fire",
-    "desc": "(This card is always treated as a \"Salamangreat\" card.)\r\nFusion Summon 1 \"Salamangreat\" Fusion Monster from your Extra Deck, using monsters from your hand and/or either field as Fusion Material. You can only activate 1 \"Fusion of Fire\" per turn.",
+    "desc": "(This card is always treated as a &#x201C;Salamangreat&#x201D; card.)\nFusion Summon 1 &#x201C;Salamangreat&#x201D; Fusion Monster from your Extra Deck, using monsters from your hand and/or either field as Fusion Material. You can only activate 1 \"Fusion of Fire\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE057",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP057",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d2/FusionofFire-SAST-EN-R-1E.png"
 }

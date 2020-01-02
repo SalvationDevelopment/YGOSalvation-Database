@@ -2,7 +2,7 @@
     "id": 27012990,
     "ot": 3,
     "alias": 0,
-    "setcode": 299,
+    "setcode": 0,
     "type": 4,
     "atk": 0,
     "def": 0,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE068",
+        "date": "2019-10-24"
+    },
+    "ocg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-JP068",
+        "date": "2019-07-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fd/MarincessCascade-CHIM-EN-C-1E.png"
 }

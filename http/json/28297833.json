@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "The Valuable Book 9",
+        "pack_id": "VB09-JP001",
+        "date": "2006-08-24"
+    },
     "tcg": {
-        "pack": "Duelist Pack: Rivals of the Pharaoh",
-        "pack_id": "DPRP-PT039",
-        "date": "2016-09-16"
+        "pack": "Gladiator's Assault",
+        "pack_id": "GLAS-IT090",
+        "date": "2007-11-03"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e2/Necroface-DPRP-EN-C-1E.png"
 }

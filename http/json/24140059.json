@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 512,
     "name": "A Cat of Ill Omen",
-    "desc": "FLIP: Select 1 Trap Card from your Deck and place it on top of your Deck. If \"Necrovalley\" is on the field, you can add the selected card to your hand instead.",
+    "desc": "FLIP: Choose 1 Trap from your Deck and place it on top of your Deck, or, if \"Necrovalley\" is on the field, you can add that Trap to your hand instead.",
     "str1": "Add to hand?",
     "str2": "Select Trap card",
     "str3": "",
@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/35/ACatofIllOmen-DR1-EN-C-UE.png"
+    "tcg": {
+        "pack": "Pharaonic Guardian",
+        "pack_id": "PGD-070",
+        "date": "2003-07-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ea/ACatofIllOmen-SS01-EN-C-1E.png"
 }

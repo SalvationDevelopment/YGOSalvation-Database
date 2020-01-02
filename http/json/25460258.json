@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Structure Deck: Dragonic Legion",
+        "pack_id": "SD22-KR002",
+        "date": "2011-03-06"
+    },
+    "tcg": {
+        "pack": "Premium Gold",
+        "pack_id": "PGLD-PT040",
+        "date": "2014-03-28"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a2/DarkflareDragon-PGLD-EN-GUR-1E.png"
 }

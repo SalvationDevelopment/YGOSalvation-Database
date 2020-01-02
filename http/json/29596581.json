@@ -2,7 +2,7 @@
     "id": 29596581,
     "ot": 3,
     "alias": 0,
-    "setcode": 284,
+    "setcode": 0,
     "type": 33,
     "atk": 2400,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262160,
     "name": "Thunder Dragonroar",
-    "desc": "You can discard this card; add to your hand, 1 of your \"Thunder Dragon\" cards that is banished or in your GY, except \"Thunder Dragonroar\". If this card is banished, or sent from the field to the GY: You can Special Summon 1 \"Thunder Dragon\" monster from your Deck in Defense Position, but return it to the hand during the End Phase. You can only use 1 \"Thunder Dragonroar\" effect per turn, and only once that turn.",
+    "desc": "You can discard this card; add to your hand, 1 of your \"Thunder Dragon\" cards, that is banished or is in your GY, except \"Thunder Dragonroar\". If this card is banished, or sent from the field to the GY: You can Special Summon 1 \"Thunder Dragon\" monster from your Deck, but return it to the hand during the End Phase. You can only use 1 \"Thunder Dragonroar\" effect per turn, and only once that turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE021",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP021",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9c/ThunderDragonroar-SOFU-EN-UR-1E.png"
 }

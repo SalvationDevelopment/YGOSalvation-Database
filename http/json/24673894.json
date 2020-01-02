@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Absolute Powerforce",
+        "pack_id": "ABPF-JP063",
+        "date": "2009-11-14"
+    },
     "tcg": {
-        "pack": "Legendary Collection 5D's Mega Pack",
-        "pack_id": "LC5D-PT081",
-        "date": "2014-10-24"
+        "pack": "Absolute Powerforce",
+        "pack_id": "ABPF-DE063",
+        "date": "2010-02-11"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5c/ChangingDestiny-LC5D-EN-C-1E.png"
 }

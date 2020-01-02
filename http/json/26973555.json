@@ -2,7 +2,7 @@
     "id": 26973555,
     "ot": 1,
     "alias": 0,
-    "setcode": 72,
+    "setcode": 4718719,
     "type": 8388641,
     "atk": 3000,
     "def": 2000,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 2147483648,
     "name": "Number F0: Utopic Future Dragon",
-    "desc": "3 Xyz Monsters with the same Rank, except \"Number\" monsters\r\n(This card's original Rank is always treated as 1.)\r\nYou can also Xyz Summon this card by using a \"Number F0: Utopic Future\" you control as material. (Transfer its materials to this card.) Cannot be destroyed by battle or card effects. Once per turn, when your opponent activates a monster effect (Quick Effect): You can detach 1 material from this card; negate the activation, then if your opponent controls that monster, take control of it.",
+    "desc": "3 Xyz Monsters with the same Rank, except \"Number\" monsters\n(This card's original Rank is always treated as 1.)\n(This card is also treated as a \"Utopic Future\" card.)\nYou can also Xyz Summon this card by using a \"Number F0: Utopic Future\" you control as material. (Transfer its materials to this card.) Cannot be destroyed by battle or card effects. Once per turn, when your opponent activates a monster effect (Quick Effect): You can detach 1 material from this card; negate the activation, then if your opponent controls that monster, take control of it.",
     "str1": "Xyz Summon using Number F0: Utopic Future",
     "str2": "Negate the activation",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Legendary Gold Box",
+        "pack_id": "LGB1-JP025",
+        "date": "2019-12-21"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/54/NumberF0UtopicFutureDragon-LGB1-JP-OP.png"
 }

@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Pharaoh's Servant",
+        "pack_id": "PS-32",
+        "date": "2000-07-13"
+    },
+    "tcg": {
+        "pack": "Dark Beginning 1",
+        "pack_id": "DB1-EN049",
+        "date": "2004-10-12"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2e/KarateMan-DB1-EN-C-UE.jpg"
 }

@@ -2,7 +2,7 @@
     "id": 28174796,
     "ot": 3,
     "alias": 0,
-    "setcode": 299,
+    "setcode": 0,
     "type": 33,
     "atk": 100,
     "def": 100,
@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 262144,
     "name": "Marincess Mandarin",
-    "desc": "If you control 2 or more \"Marincess\" monsters, while this card is in your hand or GY: You can target 1 WATER Link Monster you control; Special Summon this card to your zone that monster points to, but banish it when it leaves the field. You can only use this effect of \"Marincess Mandarin\" once per turn.",
+    "desc": "If you control 2 or more \"Marincess\" monsters, while this card is in your hand or GY: You can target 1 WATER Link Monster you control; Special Summon this card to your zone that monster points to, but banish this card when it leaves the field. You can only use this effect of \"Marincess Mandarin\" once per turn.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE002",
+        "date": "2019-10-24"
+    },
+    "ocg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-JP002",
+        "date": "2019-07-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d4/MarincessMandarin-CHIM-EN-R-1E.png"
 }

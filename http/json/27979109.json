@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Gearbreed",
-    "desc": "During your Draw Phase, instead of conducting your normal draw: You can add 1 Equip Spell from your Deck or GY to your hand. If you control an Equip Spell: You can place 1 FIRE Warrior monster or 1 Gemini monster from your GY on the bottom of the Deck; draw 1 card. You can only use each effect of \"Gearbreed\" once per turn.",
+    "desc": "During your Draw Phase, instead of conducting your Draw, you can: Add 1 Equip Spell from your Deck or GY to your hand. If you control an Equip Spell: You can return 1 FIRE Warrior monster or Gemini monster from your GY to the bottom of your Deck; draw 1 card. You can only use each effect of \"Gearbreed\" once per turn.",
     "str1": "Search",
     "str2": "Draw",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Structure Deck R: Warrior's Strike",
+        "pack_id": "SR09-JP021",
+        "date": "2019-09-28"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/Gearbreed-SR09-JP-OP.png"
 }

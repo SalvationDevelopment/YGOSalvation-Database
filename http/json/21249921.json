@@ -31,10 +31,14 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "pack": "Structure Deck: Dragunity Drive Special Edition",
-        "pack_id": "SD19-KRSE2",
-        "date": "2010-09-07"
+        "pack": "Limited Edition 16",
+        "pack_id": "LE16-JP003",
+        "date": "2009-06-06"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Starstrike Blast",
+        "pack_id": "STBL-EN097",
+        "date": "2010-11-06"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/92/DragunityKnightVajrayana-SHVA-EN-ScR-1E.png"
 }

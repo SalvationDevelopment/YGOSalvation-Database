@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Master Guide 2 promotional cards",
+        "pack_id": "MG02-JP002",
+        "date": "2008-03-28"
+    },
+    "tcg": {
+        "pack": "Crossroads of Chaos",
+        "pack_id": "CSOC-EN098",
+        "date": "2008-11-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bf/ElementalHERODivineNeos-RYMP-EN-C-1E.jpg"
 }

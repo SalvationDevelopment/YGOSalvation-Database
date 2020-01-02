@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Crossroads of Chaos",
+        "pack_id": "CSOC-JP013",
+        "date": "2008-07-19"
+    },
     "tcg": {
-        "pack": "Duel Terminal 2",
-        "pack_id": "DT02-EN004",
-        "date": "2010-05-25"
+        "pack": "Crossroads of Chaos",
+        "pack_id": "CSOC-EN013",
+        "date": "2008-11-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8d/GadgetHauler-CSOC-EN-C-1E.png"
 }

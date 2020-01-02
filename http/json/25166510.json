@@ -2,7 +2,7 @@
     "id": 25166510,
     "ot": 3,
     "alias": 0,
-    "setcode": 281,
+    "setcode": 0,
     "type": 33,
     "atk": 2800,
     "def": 1000,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 2147745824,
     "name": "Salamangreat Beat Bison",
-    "desc": "If you have 3 or more \"Salamangreat\" monsters in your GY: You can Special Summon this card from your hand in Defense Position. You can target FIRE Link Monsters in your GY, up to the number of face-up cards your opponent controls; return them to the Extra Deck, then, you can negate the effects of face-up cards your opponent controls until the end of this turn, up to the number of cards you returned. You can only use each effect of \"Salamangreat Beat Bison\" once per turn.",
+    "desc": "If you have 3 or more &#x201C;Salamangreat&#x201D; monsters in your GY: You can Special Summon this card from your hand in Defense Position. You can target FIRE Link Monsters in your GY, up to the number of face-up cards your opponent controls; return them to the Extra Deck, then, you can negate the effects of face-up cards your opponent controls until the end of this turn, up to the number of cards you returned. You can only use each effect of &#x201C;Salamangreat Beat Bison&#x201D; once per turn.",
     "str1": "Special Summon",
     "str2": "Return FIRE Link monsters to Deck",
     "str3": "Negate effects?",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Soulburner",
+        "pack_id": "SDSB-EN006",
+        "date": "2019-02-14"
+    },
+    "ocg": {
+        "pack": "Structure Deck: Soulburner",
+        "pack_id": "SD35-JP006",
+        "date": "2018-12-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2f/SalamangreatBeatBison-SDSB-EN-C-1E.png"
 }

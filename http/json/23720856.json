@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Zubababanchou - Gagaga Coat",
-    "desc": "If this card is in your hand and you control a \"Zubaba\" monster or \"Gagaga\" monster, except \"Zubababanchou - Gagaga Coat\": You can Special Summon this card. You can target 1 \"Gogogo\" monster or \"Dododo\" monster in your GY; Special Summon it, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Xyz Monsters. You can only use each effect of \"Zubababanchou - Gagaga Coat\" once per turn.",
+    "desc": "If you control a \"Zubaba\" or \"Gagaga\" monster except \"Zubababanchou - Gagaga Coat\": You can Special Summon this card from your hand. You can target 1 \"Gogogo\" or \"Dododo\" monster in your GY; Special Summon it, but for the rest of this turn, you cannot Special Summon monsters from the Extra Deck, except Xyz Monsters. You can only use each effect of \"Zubababanchou - Gagaga Coat\" once per turn.",
     "str1": "Special Summon",
     "str2": "Special Summon",
     "str3": "Affected by \"Zubababanchou - Gagaga Coat\"",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 6",
+        "pack_id": "DP23-JP035",
+        "date": "2019-11-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/72/ZubababanchouGagagaCoat-DP23-JP-R.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 1310722,
     "name": "Magical Dimension",
-    "desc": "If you control a Spellcaster-Type monster: Target 1 monster you control; Tribute that target, then Special Summon 1 Spellcaster-Type monster from your hand, then you can destroy 1 monster on the field.",
+    "desc": "If you control a Spellcaster monster: Target 1 monster you control; Tribute that target, then Special Summon 1 Spellcaster monster from your hand, then you can destroy 1 monster on the field.",
     "str1": "Destroy 1 monster?",
     "str2": "",
     "str3": "",
@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {
-        "pack": "Starter Deck Yugi - Reloaded",
-        "pack_id": "YSYR-PT033",
-        "date": "2013-12-06"
+    "ocg": {
+        "pack": "Structure Deck: Yugi Edition Volume 2",
+        "pack_id": "SY2-022",
+        "date": "2003-05-22"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8f/MagicalDimension-LDK2-EN-C-1E.png"
+    "tcg": {
+        "pack": "Structure Deck: Lord of the Magician",
+        "pack_id": "SD16-AE031",
+        "date": "2009-06-11"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/68/MagicalDimension-SR08-EN-C-1E.png"
 }

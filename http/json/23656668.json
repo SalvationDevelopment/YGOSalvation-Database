@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 32,
     "name": "Gravity Controller",
-    "desc": "1 non-Link Monster in the Extra Monster Zone\nCannot be used as Link Material the turn it is Link Summoned. This card in the Extra Monster Zone cannot be destroyed by battle with monsters in the Main Monster Zones. At the start of the Damage Step, if this card battles an opponent's monster in the Extra Monster Zone: You can shuffle both this card and that opponent's monster into the Decks.",
+    "desc": "Link Arrows: [🡷]\n\n1 non-Link monster in the Extra Monster Zone\nThis card cannot be used as Link Material during the turn it is Link Summoned. While in an Extra Monster Zone, cannot be destroyed by battle with a monster in a Main Monster Zone. If this card battles an opponent's monster in an Extra Monster Zone, at the start of the Damage Step: You can return both this card and that opponent's monster to the Deck(s).",
     "str1": "Return to the deck",
     "str2": "",
     "str3": "",
@@ -28,5 +28,15 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP049",
+        "date": "2019-10-12"
+    },
+    "links": [
+        5
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1a/GravityController-IGAS-JP-R.png"
 }

@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Absolute Powerforce",
+        "pack_id": "ABPF-JP054",
+        "date": "2009-11-14"
+    },
+    "tcg": {
+        "pack": "Absolute Powerforce",
+        "pack_id": "ABPF-DE054",
+        "date": "2010-02-11"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/13/SpidersLair-ABPF-EN-C-1E.png"
 }

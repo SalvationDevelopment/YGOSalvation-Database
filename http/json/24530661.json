@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Pharaonic Guardian",
+        "pack_id": "PGD-053",
+        "date": "2003-07-18"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4e/MasterKyonshee-SDZW-EN-C-1E.png"
 }

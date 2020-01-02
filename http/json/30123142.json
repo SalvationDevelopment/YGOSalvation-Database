@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Crossroads of Chaos",
+        "pack_id": "CSOC-JP066",
+        "date": "2008-07-19"
+    },
+    "tcg": {
+        "pack": "Crossroads of Chaos",
+        "pack_id": "CSOC-EN066",
+        "date": "2008-11-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1b/SynchroStrike-CSOC-EN-C-1E.png"
 }

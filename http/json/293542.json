@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262656,
     "name": "T.G. Warwolf",
-    "desc": "When a Level 4 or lower monster(s) is Special Summoned (except during the Damage Step): You can Special Summon this card from your hand. During the End Phase, if this card is in the Graveyard because it was destroyed on the field and sent there this turn: You can add 1 &#x201C;T.G.&#x201D; monster from your Deck to your hand, except &#x201C;T.G. Warwolf&#x201D;.",
+    "desc": "When a Level 4 or lower monster(s) is Special Summoned (except during the Damage Step): You can Special Summon this card from your hand. During the End Phase, if this card is in the Graveyard because it was destroyed on the field and sent there this turn: You can add 1 \"T.G.\" monster from your Deck to your hand, except \"T.G. Warwolf\".",
     "str1": "Special Summon",
     "str2": "Search",
     "str3": "",
@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Extreme Victory",
+        "pack_id": "EXVC-JP020",
+        "date": "2011-02-11"
+    },
     "tcg": {
-        "pack": "Legendary Collection 5D's Mega Pack",
-        "pack_id": "LC5D-PT209",
-        "date": "2014-10-24"
+        "pack": "Extreme Victory",
+        "pack_id": "EXVC-EN020",
+        "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/TGWarwolf-OP09-EN-C-UE.png"
 }

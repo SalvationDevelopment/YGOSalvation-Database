@@ -2,7 +2,7 @@
     "id": 2665273,
     "ot": 3,
     "alias": 0,
-    "setcode": 308,
+    "setcode": 0,
     "type": 8388641,
     "atk": -2,
     "def": -2,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Jormungandr, Generaider Boss of Eternity",
-    "desc": "2+ Level 9 monsters\r\nYou can only control 1 \"Jormungandr, Generaider Boss of Eternity\". This card's original ATK/DEF become 1000 x its number of materials. (Quick Effect): You can detach 1 material from this card; each player draws 1 card, then each player that drew attaches 1 card from their hand or field to this card. You can only use this effect of \"Jormungandr, Generaider Boss of Eternity\" once per turn.",
+    "desc": "2+ Level 9 monsters\nYou can only control 1 \"Jormungandr, Generaider Boss of Eternity\". This card's original ATK/DEF become 1000 x its number of materials. (Quick Effect): You can detach 1 material from this card; each player draws 1 card, then each player that drew attaches 1 card from their hand or field to this card. You can only use this effect of \"Jormungandr, Generaider Boss of Eternity\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Mystic Fighters",
+        "pack_id": "MYFI-DE032",
+        "date": "2019-11-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Mystic Fighters",
+        "pack_id": "DBMF-JP033",
+        "date": "2019-08-03"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1d/JormungandrGeneraiderBossofEternity-MYFI-EN-ScR-1E.png"
 }

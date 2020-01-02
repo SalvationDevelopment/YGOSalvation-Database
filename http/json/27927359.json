@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Rise of Destiny",
+        "pack_id": "RDS-JP018",
+        "date": "2004-08-05"
+    },
+    "tcg": {
+        "pack": "Rise of Destiny",
+        "pack_id": "RDS-FR018",
+        "date": "2004-11-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/08/HarpieLady2-SS02-EN-C-1E.png"
 }

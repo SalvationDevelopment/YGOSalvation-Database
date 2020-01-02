@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 528,
     "name": "Catch Copy",
-    "desc": "If your opponent adds a card(s) from the Deck to their hand by their card effect, except by drawing them: Reveal 1 card from your Deck, and add it to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. You can only activate 1 \"Catch Copy\" per turn.",
+    "desc": "If your opponent adds a card from their Deck to the hand by their own effect, except by drawing it: Reveal 1 card from your Deck, then add it to your hand, but for the rest of this turn, you cannot activate the effects of cards with the same name as that card. You can only activate 1 \"Catch Copy\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP076",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d5/CatchCopy-IGAS-JP-OP.png"
 }

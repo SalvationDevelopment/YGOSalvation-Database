@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Karakuri Daigongen mdl 00X \"Bureibu\"",
-    "desc": "1 Tuner + 1+ non-Tuner Machine monsters\nIf this card is Synchro Summoned: You can Special Summon 1 \"Karakuri\" monster from your Deck. Your Defense Position monsters cannot be destroyed by battle. Once per turn, if the battle position of a face-up \"Karakuri\" monster you control is changed (except during the Damage Step): You can target 1 card your opponent controls; banish it.",
+    "desc": "1 Tuner + 1+ non-Tuner Machine monsters\nIf this card is Synchro Summoned: You can Special Summon 1 &#x201C;Karakuri&#x201D; monster from your Deck. Defense Position monsters you control cannot be destroyed by battle. Once per turn, if the battle position of a face-up &#x201C;Karakuri&#x201D; monster you control is changed: You can target 1 card your opponent controls; banish it.",
     "str1": "Special Summon",
     "str2": "Banish",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP043",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/KarakuriDaigongenmdl00XBureibu-IGAS-JP-OP.png"
 }

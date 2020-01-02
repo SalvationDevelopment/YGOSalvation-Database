@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Order of the Spellcasters",
+        "pack_id": "SR08-EN041",
+        "date": "2019-04-19"
+    },
+    "ocg": {
+        "pack": "Structure Deck R: Lord of Magician",
+        "pack_id": "SR08-JP041",
+        "date": "2019-03-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/73/DwimmeredPath-SR08-EN-SR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 17039360,
     "name": "Gouki Face Turn",
-    "desc": "Target 1 \"Gouki\" card you control and 1 \"Gouki\" monster in your GY; destroy that card on the field, and if you do, Special Summon that other monster from the GY. You can only activate 1 \"Gouki Face Turn\" per turn.",
+    "desc": "Target 1 \"Gouki\" card you control and 1 \"Gouki\" monster in your GY; destroy that card on the field, and if you do, Special Summon that other monster from your GY. You can only activate 1 \"Gouki Face Turn\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE056",
+        "date": "2018-05-03"
+    },
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP056",
+        "date": "2018-01-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/GoukiFaceTurn-FLOD-EN-R-1E.png"
 }
