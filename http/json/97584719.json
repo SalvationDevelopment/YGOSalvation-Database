@@ -2,7 +2,7 @@
     "id": 97584719,
     "ot": 3,
     "alias": 0,
-    "setcode": 295,
+    "setcode": 0,
     "type": 8388641,
     "atk": 3100,
     "def": 2100,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 17039360,
     "name": "Infinitrack Earth Slicer",
-    "desc": "2 Level 9 monsters\r\nWhen this card destroys an opponent's monster by battle: You can attach that monster to this card as material. You can only use each of the following effects of \"Infinitrack Earth Slicer\" once per turn.\r\n● You can detach any number of materials from this card, then target that many cards on the field; destroy them.\r\n● If this card is in your GY: You can Tribute 1 Machine Link Monster; Special Summon this card in Defense Position.",
+    "desc": "2 Level 9 monsters\nWhen this card destroys an opponent's monster by battle: You can attach that monster to this card as material. You can only use each of the following effects of &#x201C;Infinitrack Earth Slicer&#x201D; once per turn.\n● You can detach any number of materials from this card, then target that many cards on the field; destroy them.\n● If this card is in your GY: You can Tribute 1 Machine Link Monster; Special Summon this card in Defense Position.",
     "str1": "Target to destroy",
     "str2": "Attach the destroyed monster as material",
     "str3": "Special Summon from the GY",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "The Infinity Chasers",
+        "pack_id": "INCH-EN009",
+        "date": "2019-03-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Infinity Chasers",
+        "pack_id": "DBIC-JP009",
+        "date": "2019-02-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/InfinitrackEarthSlicer-INCH-EN-ScR-1E.png"
 }

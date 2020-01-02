@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 1536,
     "name": "Preparation of Rites",
-    "desc": "Add 1 Level 7 or lower Ritual Monster from your Deck to your hand, then you can add 1 Ritual Spell Card from your Graveyard to the hand.",
+    "desc": "Add 1 Level 7 or lower Ritual Monster from your Deck to your hand, then you can add 1 Ritual Spell from your GY to your hand.",
     "str1": "Add to your hand 1 Ritual Spell Card from your Graveyard?",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "SOVR-DE057",
         "date": "2009-11-12"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a5/PreparationofRites-PGL2-EN-GUR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/57/PreparationofRites-HISU-EN-SR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 262144,
     "name": "Shiranui Skillsaga Supremacy",
-    "desc": "2+ Zombie monsters\r\nSynchro Monsters you control cannot be destroyed by card effects. FIRE monsters you control cannot be destroyed by battle. During your opponent's turn (Quick Effect): You can target 1 of your banished Zombie Synchro Monsters; Special Summon it to your zone this card points to. You can only use this effect of \"Shiranui Skillsaga Supremacy\" once per turn.",
+    "desc": "Link Arrows: [🡱][🡰][🡳]\n\n2+ Zombie monsters\nSynchro Monsters you control cannot be destroyed by card effects. FIRE monsters you control cannot be destroyed by battle. During your opponent's turn (Quick Effect): You can target 1 of your banished Zombie Synchro Monsters; Special Summon it to your zone this card points to. You can only use this effect of &#x201C;Shiranui Skillsaga Supremacy&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-EN054",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP054",
+        "date": "2018-10-13"
+    },
+    "links": [
+        1,
+        3,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7e/ShiranuiSkillsagaSupremacy-SAST-EN-UR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 256,
     "name": "Dark Factory of More Production",
-    "desc": "You can send 1 monster from your hand or field to the GY; draw 1 card. You can only use this effect of \"Dark Factory of More Production\" once per turn.",
+    "desc": "You can send 1 monster from your hand or field to the GY; draw 1 card. You can only use this effect of &#x201C;Dark Factory of More Production&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-EN078",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP078",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/44/DarkFactoryofMoreProduction-SAST-EN-R-1E.png"
 }

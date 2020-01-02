@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Destiny HERO - Dystopia",
-    "desc": "2 \"Destiny HERO\" monsters\nIf this card is Special Summoned: You can target 1 Level 4 or lower \"Destiny HERO\" monster in your Graveyard; inflict damage to your opponent equal to that target's ATK. During either player's turn, if this card's current ATK is different from its original ATK (except during the Damage Step): You can target 1 card on the field; destroy it, and if you do, this card's ATK becomes equal to this card's original ATK. You can only use each effect of \"Destiny HERO - Dystopia\" once per turn.",
+    "desc": "2 \"Destiny HERO\" monsters\nIf this card is Special Summoned: You can target 1 Level 4 or lower \"Destiny HERO\" monster in your GY; inflict damage to your opponent equal to that target's ATK. If this card's current ATK is different from its original ATK (except during the Damage Step) (Quick Effect): You can target 1 card on the field; destroy it, and if you do, this card's ATK becomes equal to this card's original ATK. You can only use each effect of \"Destiny HERO - Dystopia\" once per turn.",
     "str1": "Damage Opponent",
     "str2": "Destroy 1 card on the field",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "DESO-DE004",
         "date": "2016-11-17"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/DestinyHERODystopia-DESO-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e2/DestinyHERODystopia-LEHD-EN-C-1E.png"
 }

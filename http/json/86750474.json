@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 4456448,
     "name": "Trickstar Foxglove Witch",
-    "desc": "2+ Fairy monsters\r\nIf this card is Special Summoned: You can inflict 200 damage to your opponent for each card they control. If this Link Summoned card is destroyed by battle or effect: You can Special Summon 1 Link-2 or lower \"Trickstar\" monster from your Extra Deck, then inflict 200 damage to your opponent for each card they control. You can only use each effect of \"Trickstar Foxglove Witch\" once per turn.",
+    "desc": "Link Arrows: [🡱][🡰][🡲]\n\n2+ Fairy monsters\nIf this card is Special Summoned: You can inflict 200 damage to your opponent for each card they control. If this Link Summoned card is destroyed by battle or effect: You can Special Summon 1 Link-2 or lower \"Trickstar\" monster from your Extra Deck, then inflict 200 damage to your opponent for each card they control. You can only use each effect of \"Trickstar Foxglove Witch\" once per turn.",
     "str1": "Damage",
     "str2": "Special Summon & damage",
     "str3": "",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Duel Power",
+        "pack_id": "DUPO-EN021",
+        "date": "2019-04-03"
+    },
+    "ocg": {
+        "pack": "LINK VRAINS Box",
+        "pack_id": "LVB1-JP006",
+        "date": "2017-12-23"
+    },
+    "links": [
+        1,
+        3,
+        4
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/38/TrickstarFoxgloveWitch-DUPO-EN-UR-1E.png"
 }

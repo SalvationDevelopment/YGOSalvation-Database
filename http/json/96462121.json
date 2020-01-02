@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Outrigger Extension",
-    "desc": "Your opponent cannot target Machine Xyz Monsters you control with card effects. Once per turn: You can target 1 \"Infinitrack\" Xyz Monster you control; Special Summon from your Extra Deck, 1 Machine monster that is 2 Ranks higher than that target, by using that target as material, also you cannot Special Summon monsters for the rest of this turn, except EARTH Machine monsters (even if this card leaves the field). (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.)",
+    "desc": "Your opponent cannot target Machine Xyz Monsters you control with card effects. Once per turn: You can target 1 &#x201C;Infinitrack&#x201D; Xyz Monster you control; Special Summon from your Extra Deck, 1 Machine Xyz Monster that is 2 Ranks higher than that target, by using that target as material, also you cannot Special Summon monsters for the rest of this turn, except EARTH Machine monsters (even if this card leaves the field). (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.)",
     "str1": "Target to Rank-Up",
     "str2": "Affected by \"Outrigger Extension\"",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "The Infinity Chasers",
+        "pack_id": "INCH-EN012",
+        "date": "2019-03-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Infinity Chasers",
+        "pack_id": "DBIC-JP012",
+        "date": "2019-02-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/OutriggerExtension-INCH-EN-SR-1E.png"
 }

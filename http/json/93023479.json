@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 512,
     "name": "Gravekeeper's Recruiter",
-    "desc": "When this card you control is sent to your Graveyard: Add 1 \"Gravekeeper's\" monster with 1500 or less DEF from your Deck to your hand.",
+    "desc": "If this card you control is sent to your GY: Add 1 \"Gravekeeper's\" monster with 1500 or less DEF from your Deck to your hand.",
     "str1": "Search card group",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "STBL-EN085",
         "date": "2010-11-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/db/GravekeepersRecruiter-LCYW-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f5/GravekeepersRecruiter-SS01-EN-C-1E.png"
 }

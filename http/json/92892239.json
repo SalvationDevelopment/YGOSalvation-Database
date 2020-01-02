@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "SD36",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Rokket Revolt",
+        "pack_id": "SDRR-DE042",
+        "date": "2019-08-16"
+    },
+    "ocg": {
+        "pack": "Structure Deck: Revolver Extra Deck Enhancement Pack",
+        "pack_id": "SD36-JPP01",
+        "date": "2019-06-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/BorreloadFuriousDragon-SDRR-EN-UR-1E.png"
 }

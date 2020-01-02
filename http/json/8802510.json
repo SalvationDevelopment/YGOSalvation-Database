@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 528,
     "name": "PSY-Framelord Lambda",
-    "desc": "2 monsters, except Tokens\r\nYou can activate the effects of \"PSY-Framegear\" monsters in your hand even while you control a monster(s). If a face-up Psychic monster you control is banished face-up while you control this monster (except during the Damage Step): You can activate this effect; during the End Phase of this turn, add 1 \"PSY-Frame\" card from your Deck to your hand. You can only use this effect of \"PSY-Framelord Lambda\" once per turn.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 monsters, except Tokens\nYou can activate the effects of &#x201C;PSY-Framegear&#x201D; monsters in your hand even while you control a monster(s). If a face-up Psychic monster you control is banished face-up while you control this monster (except during the Damage Step): You can activate this effect; during the End Phase of this turn, add 1 &#x201C;PSY-Frame&#x201D; card from your Deck to your hand. You can only use this effect of \"PSY-Framelord Lambda\" once per turn.",
     "str1": "Search a PSY-Frame card during the End Phase",
     "str2": "",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Battles of Legend: Hero's Revenge",
+        "pack_id": "BLHR-DE051",
+        "date": "2019-07-11"
+    },
+    "ocg": {
+        "pack": "LINK VRAINS Pack 2",
+        "pack_id": "LVP2-JP086",
+        "date": "2018-11-23"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/48/PSYFramelordLambda-BLHR-EN-ScR-1E.png"
 }

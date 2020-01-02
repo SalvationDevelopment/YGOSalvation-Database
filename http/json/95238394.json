@@ -2,7 +2,7 @@
     "id": 95238394,
     "ot": 3,
     "alias": 0,
-    "setcode": 4587804,
+    "setcode": 70,
     "type": 2,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 268698128,
     "name": "Thunder Dragon Fusion",
-    "desc": "Fusion Summon 1 Thunder Fusion Monster from your Extra Deck, by shuffling the Fusion Materials listed on it into the Deck, from among your cards on the field, in your GY, and/or your face-up banished cards. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; add 1 Thunder monster from your Deck to your hand. You can only use each effect of \"Thunder Dragon Fusion\" once per turn.",
+    "desc": "Fusion Summon 1 Thunder Fusion Monster from your Extra Deck, by shuffling the Fusion Materials listed on it into the Deck, from among your cards on the field, in your GY and/or your face-up banished cards. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; add 1 Thunder monster from your Deck to your hand. You can only use each effect of \"Thunder Dragon Fusion\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE060",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP060",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4b/ThunderDragonFusion-SOFU-EN-UR-1E.png"
 }

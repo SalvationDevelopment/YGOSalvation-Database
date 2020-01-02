@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 4194320,
     "name": "Magical Blast",
-    "desc": "If you control a Spellcaster-Type monster: Inflict 200 damage to your opponent for each Spellcaster-Type monster you currently control. During your Draw Phase, if this card is in your Graveyard, instead of conducting your normal draw: You can add this card from your Graveyard to your hand.",
+    "desc": "Inflict 200 damage to your opponent for each Spellcaster monster you control. During your Draw Phase, if this card is in your GY, before you draw: You can give up your normal draw this turn, and if you do, add this card to your hand.",
     "str1": "Add to hand",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Structure Deck: Spellcaster's Judgment",
-        "pack_id": "SD6-JP017",
-        "date": "2005-09-22"
-    },
+    "ocg": {},
     "tcg": {
-        "pack": "Structure Deck: Spellcaster's Judgment",
-        "pack_id": "SD6-DE017",
-        "date": "2006-01-18"
+        "pack": "Structure Deck: Lord of the Magician",
+        "pack_id": "SD16-AE030",
+        "date": "2009-06-11"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3f/MagicalBlast-SDSC-EN-C-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1b/MagicalBlast-SR08-EN-C-1E.png"
 }

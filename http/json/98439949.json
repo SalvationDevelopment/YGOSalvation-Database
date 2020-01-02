@@ -2,7 +2,7 @@
     "id": 98439949,
     "ot": 3,
     "alias": 0,
-    "setcode": 295,
+    "setcode": 0,
     "type": 33,
     "atk": 2100,
     "def": 500,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "The Infinity Chasers",
+        "pack_id": "INCH-EN003",
+        "date": "2019-03-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Infinity Chasers",
+        "pack_id": "DBIC-JP003",
+        "date": "2019-02-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f4/InfinitrackCrabCrane-INCH-EN-SR-1E.png"
 }

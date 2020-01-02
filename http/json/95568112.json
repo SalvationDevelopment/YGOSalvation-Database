@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 10240,
     "name": "Rain Bozu",
-    "desc": "[ Pendulum Effect ]\r\nOnce per turn: You can target 1 face-up monster you control; it gains ATK equal to the difference between the number of cards in both players' Extra Decks x 100, until the end of this turn (even if this card leaves the field).\r\n----------------------------------------\r\n[ Monster Effect ]\r\nGains ATK equal to the difference between the number of cards in both players' Extra Decks x 200 during your turn only. Gains DEF equal to the difference between the number of cards in both players' Extra Decks x 200 during your opponent's turn only. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+    "desc": "Pendulum Effect\nOnce per turn: You can target 1 face-up monster you control; it gains ATK equal to the difference between the number of cards in both players' Extra Decks x 100, until the end of this turn (even if this card leaves the field).\n\nMonster Effect\nGains ATK equal to the difference between the number of cards in both players' Extra Decks x 200 during your turn only. Gains DEF equal to the difference between the number of cards in both players' Extra Decks x 200 during your opponent's turn only. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Promotion Pack 2018",
+        "pack_id": "18PR-JP008",
+        "date": "2018-05-27"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1b/RainBozu-18PR-JP-NPR.png"
 }

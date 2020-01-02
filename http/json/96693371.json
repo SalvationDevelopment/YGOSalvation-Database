@@ -2,7 +2,7 @@
     "id": 96693371,
     "ot": 3,
     "alias": 0,
-    "setcode": 20488,
+    "setcode": 8,
     "type": 33,
     "atk": 800,
     "def": 700,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Battles of Legend: Hero's Revenge",
+        "pack_id": "BLHR-DE006",
+        "date": "2019-07-11"
+    },
+    "ocg": {
+        "pack": "Collection Pack: Duelists of Revolution",
+        "pack_id": "CP19-JP006",
+        "date": "2019-05-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/VisionHEROMultiplyGuy-BLHR-EN-UR-1E.png"
 }

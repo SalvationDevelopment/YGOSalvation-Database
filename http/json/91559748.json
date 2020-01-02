@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 67584,
     "name": "Prickle Fairy",
-    "desc": "While this card is face-up on your side of the field, your opponent cannot attack Insect-Type monsters. The battle position of a monster that battles with this card is changed to Defense Position at the end of the Damage Step.",
+    "desc": "Your opponent cannot attack Insect monsters. If this card battled a monster, at the end of the Damage Step: Change that monster to Defense Position.",
     "str1": "守備表示になる",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Invader of Darkness",
-        "pack_id": "307-022",
-        "date": "2003-07-17"
-    },
+    "ocg": {},
     "tcg": {
         "pack": "Invasion of Chaos",
         "pack_id": "IOC-077",
         "date": "2004-03-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e0/PrickleFairy-DR2-EN-C-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ae/PrickleFairy-OP07-EN-C-UE.png"
 }

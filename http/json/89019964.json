@@ -2,7 +2,7 @@
     "id": 89019964,
     "ot": 3,
     "alias": 0,
-    "setcode": 4400,
+    "setcode": 0,
     "type": 33,
     "atk": 0,
     "def": 3000,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE010",
+        "date": "2019-10-24"
+    },
+    "ocg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-JP010",
+        "date": "2019-07-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bd/UnchainedSoulofDisaster-CHIM-EN-ScR-1E.png"
 }

@@ -2,7 +2,7 @@
     "id": 88176533,
     "ot": 3,
     "alias": 0,
-    "setcode": 287,
+    "setcode": 0,
     "type": 161,
     "atk": 1200,
     "def": 1200,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 17039360,
     "name": "Devotee of Nephthys",
-    "desc": "You can Ritual Summon this card with \"Rebirth of Nephthys\". You can only use each of the following effects of \"Devotee of Nephthys\" once per turn.\r\n●If this card is Ritual Summoned: You can activate this effect; Special Summon 1 \"Nephthys\" monster from your Deck, also during the End Phase of this turn, destroy this card.\r\n●If this card is in the GY: You can destroy 1 \"Nephthys\" card in your hand, and if you do, Special Summon this card.",
+    "desc": "You can Ritual Summon this card with &#x201C;Rebirth of Nephthys&#x201D;.  You can only use each of the following effects of &#x201C;Devotee of Nephthys&#x201D; once per turn\n● If this card is Ritual Summoned: You can Special Summon 1 &#x201C;Nephthys&#x201D; monster from your Deck, also destroy this card during the End Phase.\n● If this card is in your GY: You can destroy 1 &#x201C;Nephthys&#x201D; card in your hand, and if you do, Special Summon this card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Hidden Summoners",
+        "pack_id": "DBHS-DE005",
+        "date": "2018-11-15"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Hidden Summoners",
+        "pack_id": "DBHS-JP005",
+        "date": "2018-08-04"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/84/DevoteeofNephthys-HISU-EN-ScR-1E.png"
 }

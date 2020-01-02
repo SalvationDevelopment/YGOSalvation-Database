@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Graveyard of Wandering Souls",
-    "desc": "If your monster is destroyed by battle and sent to the GY while this card is already face-up in your Spell & Trap Zone: Special Summon 1 \"Fireball Token\" (Pyro/FIRE/Level 1/ATK 100/DEF 100). If a monster(s) is sent from your hand and/or field to the GY by an opponent's card effect while this card is already face-up in your Spell & Trap Zone: Special Summon as many \"Fireball Tokens\" as possible, up to the number of monsters sent. You can only use this effect of \"Graveyard of Wandering Souls\" once per turn.",
+    "desc": "If your monster is destroyed by battle while this card is face-up in your Spell & Trap Zone: Special Summon 1 \"Fireball Token\" (Pyro/FIRE/Level 1/ATK 100/DEF 100). If your monster is sent from your hand/field to the GY by your opponent's card effect while this card is face-up in your Spell & Trap Zone: Special Summon as many \"Fireball Tokens\" as possible, up to the number of monster sent. You can only use this effect of \"Graveyard of Wandering Souls\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Premium Pack 2019",
+        "pack_id": "19PP-JP019",
+        "date": "2019-03-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/68/GraveyardofWanderingSouls-19PP-JP-C.png"
 }

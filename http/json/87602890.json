@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Zaborg the Mega Monarch",
-    "desc": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: Target 1 monster on the field; destroy it, then, if it was a LIGHT monster, both players send as many cards as possible from their Extra Deck to the Graveyard, but not more than the original Level/Rank of that destroyed monster. If this card was Tribute Summoned by Tributing a LIGHT monster, add this additional effect.\n● You choose the cards your opponent sends to the Graveyard.",
+    "desc": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: Target 1 monster on the field; destroy it, then, if it was a LIGHT monster, both players send as many cards as possible from their Extra Deck to the GY, but not more than the original Level/Rank of that destroyed monster. If this card was Tribute Summoned by Tributing a LIGHT monster, add this additional effect.\n● You choose the cards your opponent sends to the GY.",
     "str1": "Summon by Tributing 1 Tribute Summoned monster?",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "NECH-DE037",
         "date": "2014-11-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d2/ZaborgtheMegaMonarch-MP15-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/97/ZaborgtheMegaMonarch-DUPO-EN-UR-1E.png"
 }

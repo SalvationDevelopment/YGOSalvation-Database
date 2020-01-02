@@ -2,7 +2,7 @@
     "id": 94160895,
     "ot": 1,
     "alias": 0,
-    "setcode": 249,
+    "setcode": 0,
     "type": 33,
     "atk": 2700,
     "def": 2100,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 0,
     "name": "Mariamne, the True Dracophoenix",
-    "desc": "If this card is in your hand: You can destroy 2 other monsters in your hand and/or face-up on your field, including a WIND monster, and if you do, Special Summon this card, and if you do that, and both destroyed monsters were WIND, you can also banish exactly 4 cards from the top of your opponent's Deck. If this card is destroyed by card effect: You can add 1 non-WIND Wyrm-Type monster from your Deck to your hand. You can only use each effect of \"Mariamne, the True Dracophoenix\" once per turn.",
+    "desc": "If this card is in your hand: You can destroy 2 other monsters in your hand and/or face-up on your field, including a WIND monster, and if you do, Special Summon this card, and if you do that, and both destroyed monsters were WIND, you can also banish exactly 4 cards from the top of your opponent's Deck. If this card is destroyed by card effect: You can add 1 non-WIND Wyrm monster from your Deck to your hand. You can only use each effect of \"Mariamne, the True Dracophoenix\" once per turn.",
     "str1": "Special Summon Mariamune, the True Dracophoenix",
     "str2": "Add 1 non-WIND Wyrm-Type monster to hand",
     "str3": "Banish 4 cards from the top of your opponent's Deck",
@@ -40,5 +40,5 @@
         "pack_id": "MACR-DE026",
         "date": "2017-05-04"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2a/MariamnetheTrueDracophoenix-MACR-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d6/MariamnetheTrueDracophoenix-MP18-EN-UR-1E.png"
 }

@@ -2,7 +2,7 @@
     "id": 99092624,
     "ot": 3,
     "alias": 0,
-    "setcode": 291,
+    "setcode": 0,
     "type": 4,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 786432,
     "name": "Blooming of the Darkest Rose",
-    "desc": "Special Summon \"Rose Tokens\" (Plant/DARK/Level 2/ATK 800/DEF 800) in Defense Position to either field, up to the combined number of cards in the Field Zones and Field Spells in the GYs. If this card is in your GY: You can target 1 \"Black Rose Dragon\", or 1 Plant monster, in your Monster Zone; banish it, and if you do, place this card on the bottom of the Deck. During the next Standby Phase, return that banished monster to the field. You can only use this effect of \"Blooming of the Darkest Rose\" once per turn.",
+    "desc": "Special Summon \"Rose Tokens\" (Plant/DARK/Level 2/ATK 800/DEF 800) in Defense Position to either field, up to the combined number of cards in the Field Zones and Field Spells in the GYs. If this card is in your GY: You can target 1 \"Black Rose Dragon\" or 1 Plant monster, in your Monster Zone; banish it, and if you do, place this card on the bottom of the Deck. During the next Standby Phase, return that banished monster to the field. You can only use this effect of &#x201C;Blooming of the Darkest Rose&#x201D; once per turn.",
     "str1": "Special Summon a token?",
     "str2": "Special Summon a token to your field",
     "str3": "Special Summon a token to opponent's field",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: Sisters of the Rose",
+        "pack_id": "LED4-EN027",
+        "date": "2019-01-10"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 4",
+        "pack_id": "DP21-JP027",
+        "date": "2018-11-10"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3b/BloomingoftheDarkestRose-LED4-EN-R-1E.png"
 }

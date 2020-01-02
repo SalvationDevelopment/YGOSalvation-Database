@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8224,
     "name": "Sword of Deep-Seated",
-    "desc": "Increase the ATK and DEF of a monster equipped with this card by 500 points. When this card is sent to the Graveyard, place it on top of your Deck.",
+    "desc": "The equipped monster gains 500 ATK/DEF. If this card is sent to your GY: Place it on top of your Deck.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "MRD-132",
         "date": "2002-06-26"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6e/SwordofDeepSeated-MRD-EN-C-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5d/SwordofDeepSeated-SS01-EN-C-1E.png"
 }

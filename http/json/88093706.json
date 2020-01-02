@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 2151677952,
     "name": "Update Jammer",
-    "desc": "2 Level 2 or higher Cyberse monsters\r\nOnce per battle, during damage calculation, if your Cyberse monster battles (Quick Effect): You can activate this effect; negate all other card effects on the field until the end of the Damage Step, damage calculation for this battle uses each monster's original ATK/DEF, also if an opponent's monster is destroyed by this battle and sent to the GY, inflict 1000 damage to your opponent. If this card is sent to the GY as Link Material: That Link Monster can make a second attack during each Battle Phase this turn.",
+    "desc": "Link Arrows: [🡰][🡱]\n\n2 Level 2 or higher Cyberse monsters\nOnce per battle, during damage calculation, if your Cyberse monster battles (Quick Effect): You can activate this effect; negate all other card effects on the field until the end of the Damage Step, damage calculation for this battle uses each monster's original ATK/DEF, also if an opponent's monster is destroyed by this battle and sent to the GY, inflict 1000 damage to your opponent. If this card is sent to the GY as Link Material: That Link Monster can make a second attack during each Battle Phase this turn.",
     "str1": "Negate all effects",
     "str2": "Second attack this turn",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP045",
+        "date": "2018-10-13"
+    },
+    "links": [
+        1,
+        3
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/50/UpdateJammer-SAST-EN-C-1E.png"
 }

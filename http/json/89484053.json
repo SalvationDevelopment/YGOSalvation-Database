@@ -2,7 +2,7 @@
     "id": 89484053,
     "ot": 3,
     "alias": 0,
-    "setcode": 281,
+    "setcode": 0,
     "type": 33,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 262432,
     "name": "Salamangreat Mole",
-    "desc": "During your Main Phase, if you Link Summoned this turn: You can Special Summon this card from your hand to your zone a Link Monster points to. If you control no monsters: You can banish this card from your GY, then target 5 \"Salamangreat\" cards in your GY; shuffle them into the Deck, then draw 2 cards. You can only use each effect of \"Salamangreat Mole\" once per turn.",
+    "desc": "During your Main Phase, if you Link Summoned this turn: You can Special Summon this card from your hand to your zone a Link Monster points to. If you control no monsters: You can banish this card from your GY, then target 5 &#x201C;Salamangreat&#x201D; cards in your GY; shuffle them into the Deck, then draw 2 cards. You can only use each effect of \"Salamangreat Mole\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Soulburner",
+        "pack_id": "SDSB-DE002",
+        "date": "2019-02-14"
+    },
+    "ocg": {
+        "pack": "Structure Deck: Soulburner",
+        "pack_id": "SD35-JP002",
+        "date": "2018-12-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2f/SalamangreatMole-SDSB-EN-C-1E.png"
 }

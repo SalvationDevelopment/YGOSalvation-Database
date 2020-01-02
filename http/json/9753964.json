@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Hot Red Dragon Archfiend Abyss",
-    "desc": "1 Tuner +  1 non-Tuner DARK Dragon-Type Synchro Monster\nDuring either player's turn: You can target 1 face-up card your opponent controls; negate its effects until the end of this turn. When this card inflicts battle damage to your opponent: You can target 1 Tuner monster in your Graveyard; Special Summon it in Defense Position. You can only use each effect of \"Hot Red Dragon Archfiend Abyss\" once per turn.",
+    "desc": "1 Tuner +  1 non-Tuner DARK Dragon Synchro Monster\n(Quick Effect): You can target 1 face-up card your opponent controls; negate its effects until the end of this turn. When this card inflicts battle damage to your opponent: You can target 1 Tuner in your GY; Special Summon it in Defense Position. You can only use each effect of \"Hot Red Dragon Archfiend Abyss\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,10 +35,6 @@
         "pack_id": "SPHR-JP040",
         "date": "2015-08-22"
     },
-    "tcg": {
-        "pack": "High-Speed Riders",
-        "pack_id": "HSRD-DE041",
-        "date": "2015-10-01"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a7/HotRedDragonArchfiendAbyss-HSRD-EN-UR-1E.png"
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/HotRedDragonArchfiendAbyss-DUPO-EN-UR-1E.png"
 }

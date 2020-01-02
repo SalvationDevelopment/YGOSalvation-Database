@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 19922944,
     "name": "Five-Headed Dragon",
-    "desc": "5 Dragon monsters\r\nMust be Fusion Summoned. Cannot be destroyed by battle with a DARK, EARTH, WATER, FIRE, or WIND monster.",
+    "desc": "5 Dragon monsters\nMust be Fusion Summoned. Cannot be destroyed by battle with a DARK, EARTH, WATER, FIRE, or WIND monster.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Dinosaur's Rage Special Set",
+        "pack_id": "SD09-ENSS1",
+        "date": "2006-10-25"
+    },
+    "ocg": {
+        "pack": "Structure Deck: Revival of the Great Dragon Special Edition",
+        "pack_id": "SD13-KRSE1",
+        "date": "2007-09-01"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3c/FiveHeadedDragon-BLHR-EN-ScR-1E.png"
 }

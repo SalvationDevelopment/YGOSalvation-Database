@@ -2,7 +2,7 @@
     "id": 90724272,
     "ot": 3,
     "alias": 0,
-    "setcode": 291,
+    "setcode": 0,
     "type": 33,
     "atk": 800,
     "def": 1000,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: Sisters of the Rose",
+        "pack_id": "LED4-DE024",
+        "date": "2019-01-10"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 4",
+        "pack_id": "DP21-JP024",
+        "date": "2018-11-10"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0c/DarkRoseFairy-LED4-EN-R-1E.png"
 }

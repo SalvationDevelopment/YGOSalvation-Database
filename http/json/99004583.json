@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE093",
+        "date": "2019-10-24"
+    },
+    "ocg": {
+        "pack": "Premium Pack 20",
+        "pack_id": "PP20-JP008",
+        "date": "2018-03-10"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e3/ActionMagicFullTurn-CHIM-EN-C-1E.png"
 }

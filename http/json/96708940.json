@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 2576,
     "name": "Speedroid Marble Machine",
-    "desc": "[ Pendulum Effect ]\r\nOnce per turn, when your Defense Position monster is targeted for an attack: You can change that monster to Attack Position, also it cannot be destroyed by battle this turn (even if this card leaves the field).\r\n----------------------------------------\r\n[ Monster Effect ]\r\nWhen this card is Normal Summoned: You can add 1 \"Speedroid\" monster from your Deck to your hand, also you cannot Special Summon monsters for the rest of this turn, except WIND monsters. You can only use this effect of \"Speedroid Marble Machine\" once per turn.",
+    "desc": "Pendulum Effect\nOnce per turn, when a Defense Position monster you control is targeted for an attack: Change that monster's battle position, and during this turn, that monster cannot be destroyed by battle.\n\nMonster Effect\nWhen this card is Normal Summoned: You can add 1 &#x201C;Speedroid&#x201D; monster from your Deck to your hand, but you cannot Special Summon monsters for the rest of the turn, except WIND monsters. You can only use this effect of \"Speedroid Marble Machine\" once per turn.",
     "str1": "",
     "str2": "Affected by \"Speedroid Marble Machine\"",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Premium Pack 2019",
+        "pack_id": "19PP-JP007",
+        "date": "2019-03-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5e/SpeedroidMarbleMachine-19PP-JP-C.png"
 }

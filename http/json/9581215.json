@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 4,
     "name": "Chain Hole",
-    "desc": "When your opponent activates a monster effect in response to a card or effect activation: Negate that opponent's effect, then, your opponent can banish 1 card from their hand or Deck with the same original name as that negated card. If they did not, you can banish 1 random card from their hand.",
+    "desc": "When your opponent activates a monster effect in response to the activation of a card or effect: Negate that effect, and if you do, your opponent can banish 1 card from their hand or Deck with the same name as the negated card. Otherwise you can banish 1 random card from your opponent hand.",
     "str1": "Banish a card with the same name as the negated card?",
     "str2": "Banish a random card from the opponent's hand?",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE077",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP077",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/41/ChainHole-DANE-EN-SR-1E.png"
 }

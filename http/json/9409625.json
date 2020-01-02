@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 288,
     "name": "Empty Machine",
-    "desc": "The first time this face-up card on the field would be destroyed by an opponent's card effect, it is not destroyed. Once per turn, you can activate 1 of these effects.\r\n●Discard 1 Level 10 monster; draw 1 card.\r\n●If this is the only card in your Spell & Trap Zone: Target 1 \"Timelord\" monster in your GY; shuffle it into the Deck, then, you can Set 1 \"Infinite Machine\" directly from your hand or Deck.",
+    "desc": "The first time this face-up card on the field would be destroyed by an opponent's card effect, it is not destroyed. Once per turn, you can activate 1 of these effects.\n● Discard 1 Level 10 monster; draw 1 card.\n● If this is the only card in your Spell & Trap Zone: Target 1 \"Timelord\" monster in your GY; shuffle it into the Deck, then, you can Set 1 \"Infinite Machine\" from your hand or Deck.",
     "str1": "Discard and draw",
     "str2": "Return to Deck",
     "str3": "Set 1 \"Infinite Machine\"?",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Battles of Legend: Relentless Revenge",
+        "pack_id": "BLRR-EN027",
+        "date": "2018-06-28"
+    },
+    "ocg": {
+        "pack": "Collectors Pack 2018",
+        "pack_id": "CP18-JP027",
+        "date": "2018-05-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9c/EmptyMachine-BLRR-EN-ScR-1E.png"
 }

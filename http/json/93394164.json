@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 16777216,
     "name": "Parallel Panzer",
-    "desc": "Equip only to a Link Monster. Once per turn: You can move the equipped monster to a Main Monster Zone it points to on its controller's field. You can send this Equip Card to the GY; destroy 1 card in the same column as the monster that was equipped with this card. You can only use this effect of \"Parallel Panzer\" once per turn.",
+    "desc": "Equip only to a Link Monster. Once per turn: You can move the equipped monster to a Main Monster Zone it points to on its controller's field. You can send this Equip Card to the GY; destroy 1 card in the same column as the monster that was equipped with this card. You can only use this effect of &#x201C;Parallel Panzer&#x201D; once per turn.",
     "str1": "Move to a pointed zone",
     "str2": "Destroy",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE066",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP066",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e3/ParallelPanzer-SOFU-EN-C-1E.png"
 }

@@ -2,7 +2,7 @@
     "id": 90444325,
     "ot": 1,
     "alias": 0,
-    "setcode": 312,
+    "setcode": 0,
     "type": 161,
     "atk": 1300,
     "def": 2600,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Megalith Hagith",
-    "desc": "You can Ritual Summon this card with any \"Megalith\" card. If this card is Ritual Summoned: You can add 1 \"Megalith\" Spell/Trap from your Deck to your hand. During your Main Phase: You can Ritual Summon 1 Ritual Monster from your hand, by Tributing monsters from your hand or field, including this card you control, whose total Levels equal or exceed its Level. You can only use this effect of \"Megalith Hagith\" once per turn.",
+    "desc": "You can Ritual Summon this card with any \"Megalith\" card. When this card is Ritual Summoned: Add 1 \"Megalith\" Spell or Trap from your Deck to your hand. During your Main Phase: Ritual Summon 1 Ritual Monster from your hand. You must also Tribute monsters from your hand or field, including this card, whose total Levels equal the monster's Level or more. You can only use this effect of \"Megalith Hagith\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP036",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c6/MegalithHagith-IGAS-JP-OP.png"
 }

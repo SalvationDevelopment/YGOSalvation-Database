@@ -2,7 +2,7 @@
     "id": 97316367,
     "ot": 3,
     "alias": 0,
-    "setcode": 295,
+    "setcode": 0,
     "type": 33,
     "atk": 2200,
     "def": 500,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262432,
     "name": "Infinitrack Tunneller",
-    "desc": "You can Tribute 1 EARTH Machine monster; Special Summon this card from your hand in Defense Position. You can banish this card from your GY, then target 5 EARTH Machine monsters in your GY; shuffle them into the Deck, then draw 2 cards. You can only use each effect of \"Infinitrack Tunneller\" once per turn.",
+    "desc": "You can Tribute 1 EARTH Machine monster; Special Summon this card from your hand in Defense Position. You can banish this card from your GY, then target 5 EARTH Machine monsters in your GY; shuffle them into the Deck, then draw 2 cards. You can only use each effect of &#x201C;Infinitrack Tunneller&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "The Infinity Chasers",
+        "pack_id": "INCH-EN006",
+        "date": "2019-03-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Infinity Chasers",
+        "pack_id": "DBIC-JP006",
+        "date": "2019-02-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2b/InfinitrackTunneller-INCH-EN-SR-1E.png"
 }

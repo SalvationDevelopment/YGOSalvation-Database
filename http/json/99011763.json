@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 67108864,
     "name": "Beat Cop from the Underworld",
-    "desc": "2 monsters\r\nIf this card is Link Summoned using 2 DARK monsters with different names as material, it gains this effect.\r\n● You can Tribute 1 monster, then target 1 face-up card on the field; place 1 Patrol Counter on it. You can only use this effect of \"Beat Cop from the Underworld\" once per turn. (If a card with a Patrol Counter would be destroyed by battle or card effect, remove 1 Patrol Counter from it instead.)",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 monsters\nIf this card is Link Summoned using 2 DARK monsters with different names as material, it gains this effect.\n●You can Tribute 1 monster, then target 1 face-up card on the field; place 1 Patrol Counter on it. You can only use this effect of \"Beat Cop from the Underworld\" once per turn. (If a card with Patrol Counter would be destroyed by battle or card effect, remove 1 Patrol counter from it instead.)",
     "str1": "Place 1 Patrol Counter",
     "str2": "",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Duel Power",
+        "pack_id": "DUPO-EN038",
+        "date": "2019-04-03"
+    },
+    "ocg": {
+        "pack": "V Jump August 2018 promotional card",
+        "pack_id": "VJMP-JP149",
+        "date": "2018-06-21"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/53/BeatCopfromtheUnderworld-DUPO-EN-UR-1E.png"
 }

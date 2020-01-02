@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262160,
     "name": "Altergeist Failover",
-    "desc": "If another card(s) you control is destroyed by an opponent's card effect: You can Special Summon 1 \"Altergeist\" monster from your hand. You can banish this card from your GY, then target 1 \"Altergeist\" monster in your GY; add it to your hand. You can only use each effect of \"Altergeist Failover\" once per turn.",
+    "desc": "If another card(s) you control is destroyed by an opponent's effect: You can Special Summon 1 \"Altergeist\" monster from your hand. You can banish this card from your GY, then target 1 \"Altergeist\" monster in your GY; add it to your hand. You can only use each effect of \"Altergeist Failover\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "LINK VRAINS Duelist Set",
+        "pack_id": "LVDS-JPA09",
+        "date": "2019-08-31"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/65/AltergeistFailover-LVDS-JP-OP.png"
 }

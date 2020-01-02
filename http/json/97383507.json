@@ -2,7 +2,7 @@
     "id": 97383507,
     "ot": 1,
     "alias": 0,
-    "setcode": 309,
+    "setcode": 0,
     "type": 67108897,
     "atk": 2300,
     "def": 7,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Dark Templar @Ignister",
-    "desc": "3 monsters with different names\nIf a monster(s) is Special Summoned to a zone(s) this card points to, even during the Damage Step: You can Special Summon as many Level 4 or lower \"@Ignister\" monsters from your GY as possible to your zones this card points to, but negate their effects. When this card destroys an opponent's monster by battle: You can Special Summon 1 Cyberse monster from your GY. You can only use each effect of \"Dark Templar @Ignister\" once per turn.",
+    "desc": "Link Arrows: [🡷][🡳][🡶]\n\n3 monsters with different names.\nIf a monster is Special Summoned to a zone this card points to, even during the Damage Step: You can Special Summon as many Level 4 or lower \"@Ignister\" monsters from your GY to the zone(s) this card points to, but their effects are negated. When this card destroys an opponent monster by battle: You can Special Summon 1 Cyberse monster from your GY. You can only use each effect of \"Dark Templar @Ignister\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,17 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP045",
+        "date": "2019-10-12"
+    },
+    "links": [
+        5,
+        6,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/41/DarkTemplar%40Ignister-IGAS-JP-OP.png"
 }

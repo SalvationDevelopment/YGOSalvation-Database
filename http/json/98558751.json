@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 536871169,
     "name": "T.G. Wonder Magician",
-    "desc": "1 Tuner + 1 or more non-Tuner \"T.G.\" monsters\nIf this card is Synchro Summoned: Target 1 Spell/Trap Card on the field; destroy that target. If this card on the field is destroyed: Draw 1 card. During your opponent's Main Phase, you can: Immediately after this effect resolves, Synchro Summon using this card you control (this is a Quick Effect).",
+    "desc": "1 Tuner + 1+ non-Tuner \"T.G.\" monsters\nIf this card is Synchro Summoned: Target 1 Spell/Trap on the field; destroy that target. If this card on the field is destroyed: Draw 1 card. Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.",
     "str1": "Destroy Spell/Trap card",
     "str2": "Draw card",
     "str3": "同调召唤",
@@ -40,5 +40,5 @@
         "pack_id": "EXVC-EN040",
         "date": "2011-04-30"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f9/TGWonderMagician-LC5D-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b2/TGWonderMagician-BLRR-EN-UR-1E.png"
 }

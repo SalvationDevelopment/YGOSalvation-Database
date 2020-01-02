@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 8192,
     "name": "Handigallop",
-    "desc": "Cannot attack directly. Gains ATK equal to the difference between your LP and your opponent's. If your LP are higher than your opponent's, you take any battle damage your opponent would have taken from battles involving this attacking card, instead.",
+    "desc": "This card cannot attack directly. Gains ATK equal to the difference between both player's LP. While your LP is higher than your opponent's, you take any battle damage your opponent would haven taken from battles involving this card, instead.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE026",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP026",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9f/Handigallop-DANE-EN-C-1E.png"
 }

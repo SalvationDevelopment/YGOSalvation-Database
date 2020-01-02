@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Ritual Sanctuary",
-    "desc": "You can discard 1 Spell Card; add 1 LIGHT Ritual Monster or 1 Ritual Spell Card from your Deck to your hand. You can shuffle any number of Spell Cards from your Graveyard into the Deck, then target 1 LIGHT Fairy-Type monster in your Graveyard whose Level equals the number of cards you shuffled into the Deck; Special Summon it. You can only use each effect of \"Ritual Sanctuary\" once per turn.",
+    "desc": "You can discard 1 Spell; add 1 LIGHT Ritual Monster or 1 Ritual Spell from your Deck to your hand. You can shuffle any number of Spells from your GY into the Deck, then target 1 LIGHT Fairy monster in your GY whose Level equals the number of cards you shuffled into the Deck; Special Summon it. You can only use each effect of \"Ritual Sanctuary\" once per turn.",
     "str1": "Search",
     "str2": "Special Summon",
     "str3": "",
@@ -30,15 +30,7 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Collectors Pack: Duelist of Flash Version",
-        "pack_id": "CPF1-JP016",
-        "date": "2016-05-14"
-    },
-    "tcg": {
-        "pack": "Dragons of Legend: Unleashed",
-        "pack_id": "DRL3-DE016",
-        "date": "2016-08-18"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/df/RitualSanctuary-DPDG-EN-UR-1E.png"
+    "ocg": {},
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f3/RitualSanctuary-LED4-EN-C-1E.png"
 }

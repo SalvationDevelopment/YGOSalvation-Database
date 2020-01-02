@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 67379200,
     "name": "Seraphim Papillion",
-    "desc": "2+ monsters with different names\nGains 200 ATK for each counter on it. You can only use 1 of the following effects of \"Seraphim Papillion\" per turn, and only once that turn.\n● If this card is Link Summoned: Place 1 counter on this card for each Insect monster used as its Link Material.\n● (Quick Effect): You can remove 1 counter from this card; Special Summon 1 Level 4 or lower Insect monster from your GY in Defense Position.",
+    "desc": "Link Arrows: [🡷][🡱][🡶]\n\n2+ monsters with different names\nGains 200 ATK for each counter on it. You can only use 1 of the following effects of \"Seraphim Papillion\" per turn, and only once that turn.\n● If this card is Link Summoned: Place 1 counter on this card for each Insect monster used as its Link Material.\n● (Quick Effect): You can remove 1 counter from this card; Special Summon 1 Level 4 or lower Insect monster from your GY in Defense Position.",
     "str1": "Place counters",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE050",
+        "date": "2019-10-24"
+    },
+    "ocg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-JP050",
+        "date": "2019-07-13"
+    },
+    "links": [
+        1,
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dd/SeraphimPapillion-CHIM-EN-C-1E.png"
 }

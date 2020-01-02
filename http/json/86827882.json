@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 73728,
     "name": "Nordic Relic Megingjord",
-    "desc": "Target 1 \"Aesir\" or \"Nordic\" monster you control; its ATK and DEF each become double its original ATK and DEF, until the end of this turn, but it cannot attack your opponent directly this turn.",
+    "desc": "Target 1 \"Aesir\" or \"Nordic\" monster you control; its ATK/DEF become double its original ATK/DEF, until the end of this turn, but it cannot attack your opponent directly this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "STOR-EN088",
         "date": "2011-02-08"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/NordicRelicMegingjord-LC5D-EN-R-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/NordicRelicMegingjord-LEHD-EN-C-1E.png"
 }

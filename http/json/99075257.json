@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 512,
     "name": "D - Time",
-    "desc": "When an \"Elemental HERO\" monster you control leaves the field: Add 1 \"Destiny HERO\" monster from your Deck to your hand whose Level is less than or equal to that \"Elemental HERO\" monster's Level.",
+    "desc": "When a face-up \"Elemental HERO\" monster you control leaves the field: Add 1 \"Destiny HERO\" monster from your Deck to your hand whose Level is less than or equal to that \"Elemental HERO\" monster's original Level.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "EOJ-DE053",
         "date": "2006-05-13"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/86/DTime-LCGX-EN-R-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/78/DTime-LEHD-EN-C-1E.png"
 }

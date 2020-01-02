@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 4227074,
     "name": "World Chalice Guardragon Almarduke",
-    "desc": "3 Link Monsters\r\nMust first be either Fusion Summoned, or Special Summoned from your Extra Deck by Tributing the above cards you control (in which case you do not use \"Polymerization\"). This card can attack all monsters your opponent controls once each. When an attack is declared involving this card and an opponent's Link Monster: You can banish 1 Link Monster with the same Link Rating as that monster from your field or GY; destroy that opponent's monster, and if you do, inflict damage to your opponent equal to its original ATK.",
+    "desc": "3 Link Monsters\nMust first be either Fusion Summoned, or Special Summoned by Tributing the above cards you control (in which case you do not use &#x201C;Polymerization&#x201D;). This card can attack all monsters your opponent controls once each. When an attack is declared involving this card and an opponent's Link Monster: You can banish 1 Link Monster with the same Link Rating as that monster from your field or GY; destroy that opponent's monster, and if you do, inflict damage to your opponent equal to its original ATK.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE032",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP032",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/02/WorldChaliceGuardragonAlmarduke-DANE-EN-R-1E.png"
 }

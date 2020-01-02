@@ -2,7 +2,7 @@
     "id": 92223430,
     "ot": 3,
     "alias": 0,
-    "setcode": 301,
+    "setcode": 0,
     "type": 524290,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8192,
     "name": "Elborz, the Sacred Lands of Simorgh",
-    "desc": "All WIND Winged Beast monsters on the field gain 300 ATK/DEF. You can only use each of the following effects of \"Elborz, the Sacred Lands of Simorgh\" once per turn.\r\n● You can reveal 1 Level 5 or higher WIND Winged Beast monster in your hand; this turn, you can Normal Summon Winged Beast monsters for 1 less Tribute (even if this card leaves the field).\r\n● If you control a WIND Winged Beast monster, you can: Immediately after this effect resolves, Normal Summon 1 Winged Beast monster.",
+    "desc": "All WIND Winged Beast monsters on the field gain 300 ATK/DEF. You can only use each of the following effects of \"Elborz, the Sacred Lands of Simorgh\" once per turn.\n● You can reveal 1 Level 5 or higher WIND Winged Beast monster in your hand; this turn, you can Normal Summon Winged Beast monsters for 1 less Tribute (even if this card leaves the field).\n● If you control a WIND Winged Beast monster, you can: Immediately after this effect resolves, Normal Summon 1 Winged Beast monster.",
     "str1": "Reveal to use 1 less tribute this turn",
     "str2": "Normal Summon 1 Winged Beast monster",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE060",
+        "date": "2019-07-25"
+    },
+    "ocg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-JP060",
+        "date": "2019-04-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e6/ElborztheSacredLandsofSimorgh-RIRA-EN-C-1E.png"
 }

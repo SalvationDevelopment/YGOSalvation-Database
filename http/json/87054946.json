@@ -2,7 +2,7 @@
     "id": 87054946,
     "ot": 3,
     "alias": 0,
-    "setcode": 287,
+    "setcode": 0,
     "type": 67108897,
     "atk": 2400,
     "def": 7,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 8192,
     "name": "Nephthys, the Sacred Flame",
-    "desc": "2+ monsters, including a Ritual Monster\r\nWhile this card is in the Extra Monster Zone, monsters your opponent controls cannot target \"Nephthys\" monsters in the Main Monster Zones for attacks. This card gains effects based on the number of Ritual Monsters used for its Link Summon.\r\n●1+: Cannot be destroyed by battle.\r\n●2+: Cannot be destroyed by card effects, also it gains 1200 ATK.\r\n●3: Neither player can target this card with card effects, also it gains another 1200 ATK.",
+    "desc": "Link Arrows: [🡷][🡳][🡶]\n\n2+ monsters, including a Ritual Monster\nWhile this card is in the Extra Monster Zone, monsters your opponent controls cannot target &#x201C;Nephthys&#x201D; monsters in the Main Monster Zones for attacks. This card gains effects based on the number of Ritual Monsters used for its Link Summon.\n● 1+: Cannot be destroyed by battle.\n● 2+: Cannot be destroyed by card effects, also it gains 1200 ATK.\n● 3: Neither player can target this card with card effects, also it gains another 1200 ATK.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Hidden Summoners",
+        "pack_id": "DBHS-DE008",
+        "date": "2018-11-15"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Hidden Summoners",
+        "pack_id": "DBHS-JP008",
+        "date": "2018-08-04"
+    },
+    "links": [
+        5,
+        6,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/82/NephthystheSacredFlame-HISU-EN-ScR-1E.png"
 }

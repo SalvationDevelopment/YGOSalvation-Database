@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 67109392,
     "name": "Mythical Institution",
-    "desc": "Each time a face-up \"Mythical Beast\" Pendulum Monster Card(s) you control is destroyed by battle or card effect, place 2 Spell Counters on this card. Once per turn: You can remove any number of Spell Counters from your field; add 1 monster to your hand from your Deck or face-up Extra Deck, with a Level equal to the number removed, that you can place a Spell Counter on. If this card on the field would be destroyed by card effect, you can remove 1 Spell Counter from this card instead.",
+    "desc": "Each time a face-up &#x201C;Mythical Beast&#x201D; Pendulum Monster Card(s) you control is destroyed by battle or card effect, place 2 Spell Counters on this card. Once per turn: You can remove any number of Spell Counters from your field; add 1 monster to your hand from your Deck or face-up Extra Deck, with a Level equal to the number removed that you can place a Spell Counter on. If this card on the field would be destroyed by a card effect, you can remove 1 Spell Counter from this card instead.",
     "str1": "Add to hand",
     "str2": "Remove 1 Spell Counter instead?",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE062",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP062",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d4/MythicalInstitution-CYHO-EN-C-1E.png"
 }

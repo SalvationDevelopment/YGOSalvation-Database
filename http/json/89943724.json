@@ -2,7 +2,7 @@
     "id": 89943724,
     "ot": 3,
     "alias": 89943723,
-    "setcode": 602120,
+    "setcode": 206292680713,
     "type": 17,
     "atk": 2500,
     "def": 2000,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Power of the Duelist",
+        "pack_id": "POTD-DE001",
+        "date": "2006-08-16"
+    },
+    "ocg": {
+        "pack": "Weekly Shōnen Jump 2006, Issue 2",
+        "pack_id": "WJC-JP005",
+        "date": "2005-12-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6c/ElementalHERONeos-DUPO-EN-UR-LE.png"
 }

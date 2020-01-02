@@ -2,7 +2,7 @@
     "id": 96434581,
     "ot": 3,
     "alias": 0,
-    "setcode": 278,
+    "setcode": 0,
     "type": 65538,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Crusadia Power",
-    "desc": "Target 1 \"Crusadia\" monster you control; that \"Crusadia\" monster is unaffected by card effects this turn, except its own. You can only activate 1 \"Crusadia Power\" per turn.",
+    "desc": "Target 1 &#x201C;Crusadia&#x201D; monster you control; that &#x201C;Crusadia&#x201D; monster is unaffected by card effects this turn, except its own. You can only activate 1 &#x201C;Crusadia Power&#x201D; per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE055",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP055",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dc/CrusadiaPower-CYHO-EN-C-1E.png"
 }

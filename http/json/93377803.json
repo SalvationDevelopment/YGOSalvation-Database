@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8192,
     "name": "Solitary Sword of Poison",
-    "desc": "Equip only to a monster you control. If the equipped monster battles an opponent's monster, the equipped monster's original ATK/DEF is doubled during damage calculation only. If you control a monster other than the equipped monster, send this card to the GY. You can only control 1 \"Solitary Sword of Poison\".",
+    "desc": "Equip only to a monster you control. If the equipped monster battles an opponent's monster, the equipped monster's original ATK/DEF is doubled during damage calculation only. If you control a monster other than the equipped monster, send this card to the GY. You can only control 1 &#x201C;Solitary Sword of Poison&#x201D;.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE065",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP065",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f1/SolitarySwordofPoison-CYHO-EN-C-1E.png"
 }

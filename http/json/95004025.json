@@ -2,7 +2,7 @@
     "id": 95004025,
     "ot": 1,
     "alias": 0,
-    "setcode": 249,
+    "setcode": 0,
     "type": 33,
     "atk": 2300,
     "def": 1500,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 0,
     "name": "Majesty Maiden, the True Dracocaster",
-    "desc": "To Tribute Summon this card face-up, you can Tribute a Continuous Spell/Trap Card you control, instead of a monster. Once per turn, during either player's turn, when your opponent activates a card or effect while you control this Tribute Summoned monster: You can add 1 \"True Draco\" or \"True King\" monster from your Deck to your hand.",
+    "desc": "To Tribute Summon this card face-up, you can Tribute a Continuous Spell/Trap Card you control, instead of a monster. Once per turn, when your opponent activates a card or effect while you control this Tribute Summoned monster (Quick Effect): You can add 1 \"True Draco\" or \"True King\" monster from your Deck to your hand.",
     "str1": "Tribute a Continuous Spell/Trap Card",
     "str2": "Search 1 \"True Draco\" or \"True King\" monster",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "MACR-DE020",
         "date": "2017-05-04"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cd/MajestyMaidentheTrueDracocaster-MACR-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a2/MajestyMaidentheTrueDracocaster-MP18-EN-UR-1E.png"
 }

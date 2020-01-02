@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Promotion Pack 2018",
+        "pack_id": "18PR-JP011",
+        "date": "2018-05-27"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fe/MatchingOutfits-18PR-JP-NPR.png"
 }

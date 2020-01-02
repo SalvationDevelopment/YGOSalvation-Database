@@ -2,7 +2,7 @@
     "id": 86758915,
     "ot": 3,
     "alias": 0,
-    "setcode": 279,
+    "setcode": 0,
     "type": 130,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262160,
     "name": "Impcantation Inception",
-    "desc": "This card can be used to Ritual Summon any Ritual Monster. You must also Tribute \"Impcantation\" monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. If this card is in your GY: You can send 1 \"Impcantation\" card from your hand or face-up field to the GY, except \"Impcantation Inception\"; Special Summon 1 \"Impcantation\" monster from your Deck, then add this card from the GY to your hand. You can only use this effect of \"Impcantation Inception\" once per turn.",
+    "desc": "This card can be used to Ritual Summon any Ritual Monster. You must also Tribute &#x201C;Impcantation&#x201D; monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. If this card is in your GY: You can send 1 &#x201C;Impcantation&#x201D; card from your hand or face-up field to the GY, except &#x201C;Impcantation Inception&#x201D;; Special Summon 1 &#x201C;Impcantation&#x201D; monster from your Deck, then add this card from the GY to your hand. You can only use this effect of &#x201C;Impcantation Inception&#x201D; once per turn.",
     "str1": "Ritual Summon",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE065",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP065",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bc/ImpcantationInception-SAST-EN-C-1E.png"
 }

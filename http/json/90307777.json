@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 0,
     "name": "Shurit, Strategist of the Nekroz",
-    "desc": "If you Ritual Summon exactly 1 \"Nekroz\" Ritual Monster with a card effect that requires use of monsters, this card can be used as the entire requirement. If this card is Tributed by a card effect: You can add 1 Warrior-Type \"Nekroz\" Ritual Monster from your Deck to your hand. You can only use this effect of \"Shurit, Strategist of the Nekroz\" once per turn.",
+    "desc": "If you Ritual Summon exactly 1 \"Nekroz\" Ritual Monster with a card effect that requires use of monsters, this card can be used as the entire requirement. If this card is Tributed by a card effect: You can add 1 Warrior \"Nekroz\" Ritual Monster from your Deck to your hand. You can only use this effect of \"Shurit, Strategist of the Nekroz\" once per turn.",
     "str1": "Add 1 Warrior-Type \"Necloth\" Ritual Monster to hand",
     "str2": "",
     "str3": "",
@@ -35,10 +35,6 @@
         "pack_id": "SPTR-JP010",
         "date": "2014-10-11"
     },
-    "tcg": {
-        "pack": "The Secret Forces",
-        "pack_id": "THSF-DE010",
-        "date": "2015-02-12"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d4/ShuritStrategistoftheNekroz-THSF-EN-SR-1E.png"
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2c/ShuritStrategistoftheNekorz-DUPO-EN-UR-1E.png"
 }

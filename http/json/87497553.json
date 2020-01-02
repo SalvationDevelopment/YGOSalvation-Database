@@ -2,7 +2,7 @@
     "id": 87497553,
     "ot": 3,
     "alias": 0,
-    "setcode": 278,
+    "setcode": 0,
     "type": 65538,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 256,
     "name": "Crusadia Testament",
-    "desc": "Activate 1 of these effects.\r\n● Your opponent cannot activate cards or effects in response to the activation of your \"Crusadia\" monster effects this turn.\r\n● After damage calculation, if your \"Crusadia\" Link Monster destroys an opponent's monster by battle: Draw cards equal to your monster's Link Rating.\r\nYou can only activate 1 \"Crusadia Testament\" per turn.",
+    "desc": "Activate 1 of these effects.\n● For the rest of this turn, your opponent cannot activate cards or effects in response to the activation of your &#x201C;Crusadia&#x201D; monsters' effects.\n● After damage calculation, if your &#x201C;Crusadia&#x201D; Link Monster destroyed an opponent's monster by battle: Draw cards equal to that monster's Link Rating.\nYou can only activate 1 \"Crusadia Testament\" per turn",
     "str1": "Prevent response to your \"Crusadia\" monsters' effects",
     "str2": "Draw after a \"Crusadia\" Link monster destroys a monster",
     "str3": "Affected by \"Crusadia Testament\", opponent cannot chain to the effects of \"Crusadia\" monsters",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE061",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP061",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7b/CrusadiaTestament-DANE-EN-C-1E.png"
 }

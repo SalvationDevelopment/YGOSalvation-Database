@@ -2,7 +2,7 @@
     "id": 90207654,
     "ot": 3,
     "alias": 0,
-    "setcode": 12354,
+    "setcode": 4337730,
     "type": 67108897,
     "atk": 800,
     "def": 1,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262148,
     "name": "Gullveig of the Nordic Ascendant",
-    "desc": "1 Level 5 or lower \"Nordic\" monster\r\nIf this card is Link Summoned: You can banish up to 3 cards from your hand and/or field, and if you do, Special Summon that many \"Nordic\" monsters from your Deck in Defense Position, also, for the rest of this turn, you cannot Special Summon monsters, except \"Aesir\" monsters, nor Normal Summon/Set any monsters. You can only use this effect of \"Gullveig of the Nordic Ascendant\" once per turn. While this card points to an \"Aesir\" monster, your opponent cannot target that monster with card effects, also monsters your opponent controls cannot target this card for attacks.",
+    "desc": "Link Arrows: [🡷]\n\n1 Level 5 or lower \"Nordic\" monster\nIf this card is Link Summoned: You can banish up to 3 cards from your hand and/or field, and if you do, Special Summon that many \"Nordic\" monsters from your Deck in Defense Position, also, for the rest of this turn, you cannot Special Summon, except \"Aesir\" monsters, nor Normal Summon/Set any monsters. You can only use this effect of \"Gullveig of the Nordic Ascendant\" once per turn. While this card points to an \"Aesir\" monster, your opponent cannot target that monster with card effects, also monsters your opponent controls cannot target this card for attacks.",
     "str1": "Banish and Special Summon",
     "str2": "",
     "str3": "Affected by \"Gullveig of the Nordic Ascendant\"",
@@ -28,5 +28,19 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Hero Decks",
+        "pack_id": "LEHD-ENB00",
+        "date": "2018-10-04"
+    },
+    "ocg": {
+        "pack": "LINK VRAINS Pack 2",
+        "pack_id": "LVP2-JP041",
+        "date": "2018-11-23"
+    },
+    "links": [
+        5
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a7/GullveigoftheNordicAscendant-LEHD-EN-UR-1E.png"
 }

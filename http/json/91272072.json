@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 8208,
     "name": "Trickstar Band Sweet Guitar",
-    "desc": "1 \"Trickstar\" Link Monster + 1 \"Trickstar\" monster\r\nEffect damage inflicted to your opponent by your \"Trickstar\" Link Monster linked to this card is doubled. If your opponent takes damage by a \"Trickstar\" monster's effect: This card gains ATK equal to the damage they took. Once per turn, during the End Phase, if this card attacked this turn: The ATK gained from this effect returns to 0, then you can add 1 \"Trickstar\" monster from your GY to your hand.",
+    "desc": "1 &#x201C;Trickstar&#x201D; Link Monster + 1 &#x201C;Trickstar&#x201D; monster\nEffect damage inflicted to your opponent by your \"Trickstar\" Link Monster linked to this card is doubled. If your opponent takes damage by a \"Trickstar\" monster's effect: This card gains ATK equal to the damage they took. Once per turn, during the End Phase, if this card attacked this turn: The ATK gained from this effect returns to 0, then you can add 1 \"Trickstar\" monster from your GY to your hand.",
     "str1": "Add 1 \"Trickstar\" monster?",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE033",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP033",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/69/TrickstarBandSweetGuitar-SAST-EN-SR-1E.png"
 }

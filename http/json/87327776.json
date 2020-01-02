@@ -2,7 +2,7 @@
     "id": 87327776,
     "ot": 3,
     "alias": 0,
-    "setcode": 281,
+    "setcode": 0,
     "type": 8388641,
     "atk": 2000,
     "def": 900,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 262160,
     "name": "Salamangreat Miragestallio",
-    "desc": "2 Level 3 monsters\r\nYou can detach 1 material from this card; Special Summon 1 \"Salamangreat\" monster from your Deck in Defense Position, also you cannot activate monster effects for the rest of this turn, except FIRE monsters. If this Xyz Summoned card is sent to the GY as material for the Link Summon of a \"Salamangreat\" monster: You can target 1 monster on the field; return it to the hand. You can only use each effect of \"Salamangreat Miragestallio\" once per turn.",
+    "desc": "2 Level 3 monsters\nYou can detach 1 material from this card; Special Summon 1 \"Salamangreat\" monster from your Deck in Defense Position, also you cannot activate monster effects for the rest of this turn, except FIRE monsters. If this Xyz Summoned card is sent to the GY as material for the Link Summon of a \"Salamangreat\" monster: You can target 1 monster on the field; return it to the hand. You can only use each effect of \"Salamangreat Miragestallio\" once per turn.",
     "str1": "Special Summon",
     "str2": "Return to hand",
     "str3": "Affected by \"Salamangreat Miragestallio\"",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Soulburner",
+        "pack_id": "SDSB-DE042",
+        "date": "2019-02-14"
+    },
+    "ocg": {
+        "pack": "Structure Deck: Soulburner - Extra Deck Enhancement Pack",
+        "pack_id": "SD35-JPP01",
+        "date": "2018-12-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2c/SalamangreatMiragestallio-SDSB-EN-UR-1E.png"
 }

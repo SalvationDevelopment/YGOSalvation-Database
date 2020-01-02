@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 16778240,
     "name": "El Shaddoll Winda",
-    "desc": "1 \"Shaddoll\" monster + 1 DARK monster\r\nMust first be Fusion Summoned. Cannot be destroyed by an opponent's card effects. Each player can only Special Summon monster(s) once per turn while this card is face-up on the field. If this card is sent to the GY: You can target 1 \"Shaddoll\" Spell/Trap in your GY; add it to your hand.",
+    "desc": "1 \"Shaddoll\" monster + 1 DARK monster\nMust first be Fusion Summoned. Cannot be destroyed by an opponent's card effects. Each player can only Special Summon monster(s) once per turn while this card is face-up on the field. If this card is sent to the GY: You can target 1 \"Shaddoll\" Spell/Trap in your GY; add it to your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Duelist Alliance",
+        "pack_id": "DUEA-DE048",
+        "date": "2014-08-14"
+    },
+    "ocg": {
+        "pack": "Duelist Alliance",
+        "pack_id": "DUEA-JP048",
+        "date": "2014-04-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f6/ElShaddollWinda-SHVA-EN-ScR-1E.png"
 }

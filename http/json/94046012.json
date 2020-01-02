@@ -2,7 +2,7 @@
     "id": 94046012,
     "ot": 3,
     "alias": 0,
-    "setcode": 283,
+    "setcode": 0,
     "type": 4129,
     "atk": 500,
     "def": 1900,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Orcust Brass Bombard",
-    "desc": "You can banish this card from your GY; Special Summon 1 \"Orcust\" monster from your hand, except \"Orcust Brass Bombard\", also you cannot Special Summon monsters for the rest of this turn, except DARK monsters. You can only use this effect of \"Orcust Brass Bombard\" once per turn.",
+    "desc": "You can banish this card from your GY; Special Summon 1 &#x201C;Orcust&#x201D; monster from your hand, except &#x201C;Orcust Brass Bombard&#x201D;, also you cannot Special Summon monsters for the rest of this turn, except DARK monsters. You can only use this effect of &#x201C;Orcust Brass Bombard&#x201D; once per turn.",
     "str1": "",
     "str2": "Affected by \"Orcust Brass Bombard\"",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE014",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP014",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b8/OrcustBrassBombard-SOFU-EN-R-1E.png"
 }

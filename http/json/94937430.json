@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Extra Buck",
-    "desc": "Each time a card(s) is added to your Extra Deck, place 1 Spell Counter on this card (max. 3). You can send this card with 3 Spell Counters to the Graveyard; draw 2 cards.",
+    "desc": "Each time a card(s) is added to your Extra Deck, place 1 Spell Counter on this card (max. 3). You can send this card with 3 Spell Counters to the GY; draw 2 cards.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "CORE-DE079",
         "date": "2015-08-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e8/ExtraBuck-MP16-EN-R-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/ExtraBuck-SR08-EN-C-1E.png"
 }

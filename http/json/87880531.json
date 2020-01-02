@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 32768,
     "name": "Diffusion Wave-Motion",
-    "desc": "(This card is not treated as a \"Fusion\" card.)\nPay 1000 LP, then target 1 Level 7 or higher Spellcaster-Type monster you control; this turn, only that monster can attack, and it must attack all monsters your opponent controls, once each. The effects of Effect Monsters destroyed by these attacks do not activate and are negated.",
+    "desc": "(This card is not treated as a \"Fusion\" card.)\nIf your opponent controls a monster: Pay 1000 LP, then target 1 Level 7 or higher Spellcaster monster you control; this turn, it must attack all monsters your opponent controls once each, also other monsters you control cannot attack. The effects of monsters destroyed by these attacks cannot activate and are negated.",
     "str1": "相手モンスター全てに１回ずつ攻撃",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Champion of Black Magic",
-        "pack_id": "303-053",
-        "date": "2002-09-19"
-    },
+    "ocg": {},
     "tcg": {
         "pack": "Magician's Force",
         "pack_id": "MFC-107",
         "date": "2003-10-10"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9c/DiffusionWaveMotion-YGLD-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4e/DiffusionWaveMotion-SBLS-EN-C-1E.png"
 }

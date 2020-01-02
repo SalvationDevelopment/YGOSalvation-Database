@@ -2,7 +2,7 @@
     "id": 99937842,
     "ot": 3,
     "alias": 0,
-    "setcode": 5373991,
+    "setcode": 2555986,
     "type": 12321,
     "atk": 100,
     "def": 2200,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262160,
     "name": "T.G. Star Guardian",
-    "desc": "1 Tuner + 1+ non-Tuner \"T.G.\" monsters\r\nOnce per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control. You can only use each of the following effects of \"T.G. Star Guardian\" once per turn.\r\n● If this card is Special Summoned: You can target 1 \"T.G.\" monster in your GY; add it to your hand.\r\n● During your Main Phase: You can Special Summon 1 \"T.G.\" monster from your hand.",
+    "desc": "1 Tuner + 1+ non-Tuner \"T.G.\" monsters\nOnce per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control. You can only use each of the following effects of \"T.G. Star Guardian\" once per turn.\n● If this card is Special Summoned: You can target 1 \"T.G.\" monster in your GY; add it to your hand.\n● During your Main Phase: You can Special Summon 1 \"T.G.\" monster from your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP039",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/TGStarGuardian-SAST-EN-UR-1E.png"
 }

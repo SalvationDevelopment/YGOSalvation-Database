@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 271360,
     "name": "Sephylon, the Ultimate Timelord",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 10 or more monsters in your Graveyard, and cannot be Special Summoned by other ways. Once per turn: You can Special Summon 1 Level 8 or higher Fairy-Type monster from your hand or Graveyard, but its effects are negated, also its ATK becomes 4000.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 10 or more monsters in your GY Once per turn: You can Special Summon 1 Level 8 or higher Fairy monster from your hand or GY, but its effects are negated, also its ATK becomes 4000.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "JUMP-EN054",
         "date": "2011-12-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b3/SephylontheUltimateTimelord-PGL2-EN-GUR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d0/SephylontheUltimateTimelord-BLRR-EN-UR-1E.png"
 }

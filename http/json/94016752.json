@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8,
     "name": "Herald of the Abyss",
-    "desc": "Pay 1500 LP and declare 1 Monster Type and 1 Attribute; your opponent must send 1 face-up monster with the declared Type and Attribute from their field to the GY, if possible. For the rest of this turn, your opponent cannot activate the effects of monsters with that sent monster's name. You can only activate 1 \"Herald of the Abyss\" per turn.",
+    "desc": "Pay 1500 LP and declare 1 Monster Type and Attribute; your opponent must send 1 face-up monster with the declared Type and Attribute from their field to the GY, if possible. For the rest of this turn, your opponent cannot activate the effects of monsters with that sent monster's name. You can only activate 1 &#x201C;Herald of the Abyss&#x201D; per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-EN063",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP063",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fb/HeraldoftheAbyss-SOFU-EN-SR-1E.png"
 }

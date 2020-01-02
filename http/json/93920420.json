@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "World Legacy - \"World Wand\"",
-    "desc": "This Normal Summoned/Set card cannot be destroyed by battle with a monster Special Summoned from the Extra Deck. You can only use each of the following effects of \"World Legacy - \"World Wand\"\" once per turn.\r\n●If this card is sent to the GY: You can Special Summon 1 \"World Legacy\" monster from your hand.\r\n●You can banish this card from your GY, then target 1 of your banished \"Orcust\" monsters; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except DARK monsters.",
+    "desc": "This Normal Summoned/Set card cannot by destroyed by battle with a monster Special Summoned from the Extra Deck. You can only use each of the following effects of &#x201C;World Legacy - \"World Wand\"&#x201D; once per turn.\n● If this card is sent to the GY: You can Special Summon 1 &#x201C;World Legacy&#x201D; monster from your hand.\n● You can banish this card from your GY, then target 1 of your banished &#x201C;Orcust&#x201D; monsters; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except DARK monsters.",
     "str1": "Special Summon 1 \"World Legacy\"",
     "str2": "Special Summon 1 \"Orcust\"",
     "str3": "Affected by World Legacy - \"World Wand\"",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE017",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP017",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2a/WorldLegacyWorldWand-SOFU-EN-C-1E.png"
 }

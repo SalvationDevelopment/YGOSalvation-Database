@@ -2,7 +2,7 @@
     "id": 96214561,
     "ot": 3,
     "alias": 0,
-    "setcode": 301,
+    "setcode": 0,
     "type": 33,
     "atk": 1000,
     "def": 1000,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE018",
+        "date": "2019-07-25"
+    },
+    "ocg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-JP018",
+        "date": "2019-04-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c7/SimorghBirdofBringing-RIRA-EN-C-1E.png"
 }

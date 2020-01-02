@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 270336,
     "name": "Mighty Flame Swordsman",
-    "desc": "2 monsters with different names\r\nAll Warrior monsters on the field gain 500 ATK. If this Link Summoned card you control is destroyed by battle or opponent's card effect: You can target 1 Warrior non-Link Monster in your GY; Special Summon it, but banish it when it leaves the field. You can only use this effect of \"Mighty Flame Swordsman\" once per turn.",
+    "desc": "Link Arrows: [🡰][🡷]\n\n2 monsters with different names\nAll Warrior monsters on the field gain 500 ATK. If this Link Summoned card is destroyed by battle or an opponent's card effect: You can target 1 Warrior monster in your GY, except a Link Monster; Special Summon it, but banish it when it leaves the field. You can only use this effect of &#x201C;Mighty Flame Swordsman&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Premium Pack 2019",
+        "pack_id": "19PP-JP001",
+        "date": "2019-03-09"
+    },
+    "links": [
+        3,
+        5
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fd/MightyFlameSwordsman-19PP-JP-UR.png"
 }

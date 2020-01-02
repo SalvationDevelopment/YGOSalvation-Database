@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Star Seraph Sovereignty",
-    "desc": "Cannot be used as an Xyz Material for an Xyz Summon, except for an Xyz Summon that uses 3 or more monsters as Xyz Materials. If you Normal or Special Summon a \"Star Seraph\" monster(s), except during the Damage Step: You can Special Summon this card from your hand, and if you do, draw 1 card, then you can Special Summon it if it is a \"Star Seraph\" monster.",
+    "desc": "Cannot be used as material for an Xyz Summon, except for an Xyz Summon that uses 3 or more monsters as material. If you Normal or Special Summon a \"Star Seraph\" monster(s), except during the Damage Step: You can Special Summon this card from your hand, and if you do, draw 1 card, then you can Special Summon it if it is a \"Star Seraph\" monster.",
     "str1": "Special Summon this card?",
     "str2": "Special Summon this card?",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "WSUP-DE020",
         "date": "2015-04-16"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0f/StarSeraphSovereignty-WSUP-EN-PScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4d/StarSeraphSovereignty-DUPO-EN-UR-1E.png"
 }

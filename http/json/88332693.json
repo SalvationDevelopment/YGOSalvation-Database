@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Assault Mode Zero",
-    "desc": "Tribute 1 Synchro Monster; Special Summon 1 \"/Assault Mode\" monster from your hand whose name includes the Tributed monster's name. (This is treated as a Special Summon with \"Assault Mode Activate\".) During your Main Phase: You can banish this card from your GY; Set 1 \"Assault Mode Activate\" directly from your hand or Deck. It can be activated this turn. You can only use each effect of \"Assault Mode Zero\" once per turn.",
+    "desc": "Tribute 1 Synchro Monster; Special Summon from your hand 1 &#x201C;/Assault Mode&#x201D; monster whose name includes the Tributed monster's. (This Special Summon is treated as a Special Summon with &#x201C;Assault Mode Activate&#x201D;). During your Main Phase: You can banish this card from your GY; Set 1 &#x201C;Assault Mode Activate&#x201D; from your hand or Deck, also it can be activated this turn. You can only use each effect of &#x201C;Assault Mode Zero&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE055",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP055",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dc/AssaultModeZero-DANE-EN-C-1E.png"
 }

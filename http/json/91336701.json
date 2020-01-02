@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 83894272,
     "name": "Day-Breaker the Shining Magical Warrior",
-    "desc": "2 Spellcaster monsters\r\nIf this card is Link Summoned: Place 1 Spell Counter on it. Gains 300 ATK for each Spell Counter on it. You can only activate each of the following effects of \"Day-Breaker the Shining Magical Warrior\" once per turn.\r\n●If a Spellcaster monster(s) is Special Summoned to a zone(s) this card points to: Place 1 Spell Counter on this card.\r\n●You can remove 2 Spell Counters from this card, then target 1 card on the field; destroy it.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 Spellcaster monsters\nIf this card is Link Summoned: Place 1 Spell Counter on it. Gains 300 ATK for each Spell Counter on it. You can only activate each of the following effects of \"Day-Breaker the Shining Magical Warrior\" once per turn.\n● If a Spellcaster monster(s) is Special Summoned to a zone(s) this card points to: Place 1 Spell Counter on this card.\n● You can remove 2 Spell Counters from this card, then target 1 card on the field; destroy it.",
     "str1": "Place 1 Spell Counter on this card",
     "str2": "Remove Spell Counters to target and destroy",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Order of the Spellcasters",
+        "pack_id": "SR08-EN040",
+        "date": "2019-04-19"
+    },
+    "ocg": {
+        "pack": "Structure Deck R: Lord of Magician",
+        "pack_id": "SR08-JP040",
+        "date": "2019-03-09"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/DayBreakertheShiningMagicalWarrior-SR08-EN-UR-1E.png"
 }

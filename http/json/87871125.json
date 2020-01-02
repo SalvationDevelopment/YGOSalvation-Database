@@ -2,7 +2,7 @@
     "id": 87871125,
     "ot": 3,
     "alias": 0,
-    "setcode": 281,
+    "setcode": 0,
     "type": 67108897,
     "atk": 1800,
     "def": 130,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 528,
     "name": "Salamangreat Sunlight Wolf",
-    "desc": "2 FIRE Effect Monsters\r\nIf a monster(s) is Normal or Special Summoned to the zone(s) this card points to (except during the Damage Step): You can add 1 FIRE monster from your GY to your hand, but for the rest of this turn, you cannot Normal Summon/Set or Special Summon monsters with the added monster's name. During your Main Phase, if you control this card that was Link Summoned using \"Salamangreat Sunlight Wolf\" as material: You can add 1 \"Salamangreat\" Spell/Trap from your GY to your hand. You can only use each effect of \"Salamangreat Sunlight Wolf\" once per turn.",
+    "desc": "Link Arrows: [🡱][🡳]\n\n2 FIRE Effect Monsters\nIf a monster(s) is Normal or Special Summoned to the zone(s) this card points to (except during the Damage Step): You can add 1 FIRE monster from your GY to your hand, but for the rest of this turn, you cannot Normal Summon/Set or Special Summon monsters with the added monster's name. During your Main Phase, if you control this card that was Link Summoned using &#x201C;Salamangreat Sunlight Wolf&#x201D; as material: You can add 1 &#x201C;Salamangreat&#x201D; Spell/Trap from your GY to your hand. You can only use each effect of &#x201C;Salamangreat Sunlight Wolf&#x201D; once per turn.",
     "str1": "Recover a FIRE monster",
     "str2": "Search \"Salamangreat\" Spell/Trap",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE048",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP048",
+        "date": "2018-10-13"
+    },
+    "links": [
+        1,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a0/SalamangreatSunlightWolf-SAST-EN-R-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 71311360,
     "name": "Black-Winged Dragon",
-    "desc": "1 Tuner + 1 or more non-Tuner monsters\nIf you would take damage from a card effect, place 1 Black Feather Counter on this card instead. This card loses 700 ATK for each Black Feather Counter on it. Once per turn: You can remove all Black Feather Counters on this card, then target 1 face-up monster your opponent controls; that target loses 700 ATK for each Black Feather Counter you removed, and if it does, inflict damage to your opponent equal to the ATK lost by this effect.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nIf you would take damage from a card effect, place 1 Black Feather Counter on this card instead. This card loses 700 ATK for each Black Feather Counter on it. Once per turn: You can remove all Black Feather Counters on this card, then target 1 face-up monster your opponent controls; that target loses 700 ATK for each Black Feather Counter you removed, and if it does, inflict damage to your opponent equal to the ATK lost by this effect.",
     "str1": "Lower attack",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "TSHD-DE040",
         "date": "2010-05-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f8/BlackWingedDragon-LC5D-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/45/BlackWingedDragon-LED3-EN-C-1E.png"
 }

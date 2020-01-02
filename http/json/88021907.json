@@ -2,7 +2,7 @@
     "id": 88021907,
     "ot": 3,
     "alias": 0,
-    "setcode": 306,
+    "setcode": 0,
     "type": 8388641,
     "atk": 2000,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 64,
     "name": "Primathmech Laplacian",
-    "desc": "3 Level 4 monsters\r\nIf a \"Mathmech\" card(s) you control would be destroyed by card effect, you can detach 1 material from this card instead. If this card is Xyz Summoned: You can detach up to 3 materials from it, then choose that many effects (you cannot choose the same effect twice, and you resolve them in the listed order, skipping any that were not chosen);\r\n● Send 1 random card from your opponent's hand to the GY.\r\n● Send 1 monster your opponent controls to the GY.\r\n● Send 1 Spell/Trap your opponent controls to the GY.\r\nYou can only use this effect of \"Primathmech Laplacian\" once per turn.",
+    "desc": "3 Level 4 monsters\nIf a \"Mathmech\" card(s) you control would be destroyed by card effect, you can detach 1 material from this card instead. If this card is Xyz Summoned: You can detach up to 3 materials from it, then choose that many effects (you cannot choose the same effect twice, and you resolve them in the listed order, skipping any that were not chosen);\n●Send 1 random card from your opponent's hand to the GY.\n●Send 1 monster your opponent controls to the GY.\n●Send 1 Spell/Trap your opponent controls to the GY.\nYou can only use this effect of \"Primathmech Laplacian\" once per turn.",
     "str1": "Activate effect",
     "str2": "Send 1 random card from your opponent's hand to the GY",
     "str3": "Send 1 monster your opponent controls to the GY",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Mystic Fighters",
+        "pack_id": "MYFI-DE009",
+        "date": "2019-11-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Mystic Fighters",
+        "pack_id": "DBMF-JP009",
+        "date": "2019-08-03"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ea/PrimathmechLaplacian-MYFI-EN-ScR-1E.png"
 }

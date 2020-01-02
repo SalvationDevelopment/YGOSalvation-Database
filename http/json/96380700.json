@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Talkback Lancer",
-    "desc": "1 Level 2 or lower Cyberse monster\nYou can Tribute 1 other Cyberse monster, then target 1 \"Code Talker\" monster in your GY with a different original name from that monster; Special Summon it to your zone this card points to. You can only use this effect of \"Talkback Lancer\" once per turn.",
+    "desc": "Link Arrows: [🡳]\n\n1 Level 2 or lower Cyberse monster\nYou can Tribute 1 other Cyberse monster, then target 1 \"Code Talker\" monster in your GY with a different original name from that monster; Special Summon it to your zone this card points to. You can only use this effect of \"Talkback Lancer\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,19 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Fists of the Gadgets",
+        "pack_id": "FIGA-DE046",
+        "date": "2019-08-22"
+    },
+    "ocg": {
+        "pack": "Structure Deck: Master Link",
+        "pack_id": "SD34-JP043",
+        "date": "2018-06-23"
+    },
+    "links": [
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/TalkbackLancer-FIGA-EN-SR-1E.png"
 }

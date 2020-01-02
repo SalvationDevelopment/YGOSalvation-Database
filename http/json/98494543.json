@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 1032,
     "name": "Magical Stone Excavation",
-    "desc": "Discard 2 cards, then target 1 Spell Card in your Graveyard; add it to your hand.",
+    "desc": "Discard 2 cards, then target 1 Spell in your GY; add it to your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "CP02-DE001",
         "date": "2007-02-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/MagicalStoneExcavation-DPBC-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/89/MagicalStoneExcavation-LEHD-EN-C-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 4096,
     "name": "Marionette Mite",
-    "desc": "You can discard this card to the Graveyard to take control of 1 face-up Fiend or Zombie-Type monster your opponent controls until the End Phase this turn.",
+    "desc": "You can discard this card to the GY, then target 1 Fiend or Zombie monster your opponent controls; take control of that target until the End Phase.",
     "str1": "Take control",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "STON-FR023",
         "date": "2007-02-24"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ed/MarionetteMite-SDZW-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b8/MarionetteMite-SR07-EN-C-1E.png"
 }

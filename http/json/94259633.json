@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 8192,
     "name": "Relinquished Anima",
-    "desc": "1 Level 1 monster, except a Token\r\nYou can target 1 face-up monster this card points to; equip that face-up monster to this card (max. 1). You can only use this effect of \"Relinquished Anima\" once per turn. This card gains ATK equal to that equipped monster's.",
+    "desc": "Link Arrows: [🡱]\n\n1 Level 1 monster, except a Token\nYou can target 1 face-up monster this card points to; equip that target to this card (max. 1). Gains ATK equal to that equipped monster's ATK. You can only use this effect of \"Relinquished Anima\" once per turn.",
     "str1": "Equip",
     "str2": "",
     "str3": "",
@@ -28,5 +28,15 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Weekly Shōnen Jump 2018, Issue 21–22",
+        "pack_id": "WJMP-JP028",
+        "date": "2018-04-23"
+    },
+    "links": [
+        1
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9e/RelinquishedAnima-WJMP-JP-OP.png"
 }

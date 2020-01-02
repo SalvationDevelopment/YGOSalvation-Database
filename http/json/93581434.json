@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 270336,
     "name": "Gouki Ringtrainer",
-    "desc": "If you control no monsters: You can reveal this card in your hand, then target 1 \"Gouki\" Link Monster in your GY; Special Summon this card from your hand, then, Special Summon the target, but it loses 500 ATK. You can only use this effect of \"Gouki Ringtrainer\" once per turn. While you control a \"Gouki\" Link Monster, this card cannot be destroyed by battle.",
+    "desc": "If you control no monsters: You can reveal this card in your hand, then target 1 \"Gouki\" Link Monster in your GY; Special Summon this card from your hand, then Special Summon the target, but it loses 500 ATK. You can only use this effect of \"Gouki Ringtrainer\" once per turn. While you control a \"Gouki\" Link Monster, this card cannot be destroyed by battle.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE005",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP005",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e4/GoukiRingtrainer-CYHO-EN-C-1E.png"
 }

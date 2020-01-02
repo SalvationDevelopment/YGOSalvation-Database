@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Red Supernova Dragon",
-    "desc": "3 Tuners + 1+ non-Tuner Synchro Monsters\r\nMust first be Synchro Summoned. Gains 500 ATK for each Tuner in your GY. Cannot be destroyed by your opponent's card effects. Once per turn, when your opponent activates a monster effect, or when an opponent's monster declares an attack (Quick Effect): You can banish this card and all cards your opponent controls. Once per turn, during your next End Phase after this card was banished by its own effect: Special Summon this banished card.",
+    "desc": "3 Tuners + 1+ non-Tuner Synchro Monsters\nMust first be Synchro Summoned. Gains 500 ATK for each Tuner in your GY. Cannot be destroyed by your opponent's card effects. Once per turn, when your opponent activates a monster effect, or when an opponent's monster declares an attack (Quick Effect): You can banish this card and all cards your opponent controls. Once per turn, during your next End Phase after this card was banished by its own effect: Special Summon this banished card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Legendary Gold Box",
+        "pack_id": "LGB1-JP021",
+        "date": "2019-12-21"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/aa/RedSupernovaDragon-LGB1-JP-OP.png"
 }

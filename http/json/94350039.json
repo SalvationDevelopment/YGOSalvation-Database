@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 270336,
     "name": "T.G. Gear Zombie",
-    "desc": "You can target 1 \"T.G.\" monster you control; Special Summon this card from your hand, then the targeted monster loses 1000 ATK. You can only use this effect of \"T.G. Gear Zombie\" once per turn.",
+    "desc": "You can target 1 &#x201C;T.G.&#x201D; monster you control; Special Summon this card from your hand, then the targeted monster loses 1000 ATK. You can only use this effect of \"T.G. Gear Zombie\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Battles of Legend: Hero's Revenge",
+        "pack_id": "BLHR-EN023",
+        "date": "2019-07-11"
+    },
+    "ocg": {
+        "pack": "Collection Pack: Duelists of Revolution",
+        "pack_id": "CP19-JP026",
+        "date": "2019-05-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/54/TGGearZombie-BLHR-EN-ScR-1E.png"
 }

@@ -2,7 +2,7 @@
     "id": 90050480,
     "ot": 3,
     "alias": 0,
-    "setcode": 602120,
+    "setcode": 2197848073,
     "type": 97,
     "atk": 3500,
     "def": 3000,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 35,
     "name": "Elemental HERO Cosmo Neos",
-    "desc": "\"Elemental HERO Neos\" + 3 \"Neo-Spacian\" monsters with different Attributes\r\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) If this card is Special Summoned from the Extra Deck: You can activate this effect; for the rest of this turn, your opponent cannot activate cards, also cards your opponent controls cannot activate their effects. Your opponent cannot activate cards or effects in response to this effect's activation. Once per turn, during the End Phase: Shuffle this card into the Extra Deck, and if you do, destroy all cards your opponent controls.",
+    "desc": "\"Elemental HERO Neos\" + \"3 &#x201C;Neo-Spacian&#x201D; monsters with different Attributes\"\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck (you do not use &#x201C;Polymerization&#x201D;). If this card is Special Summoned from the Extra Deck: You can activate this effect; for the rest of this turn, your opponent cannot activate cards, also cards your opponent controls cannot activate their effects. Your opponent cannot activate cards or effects in response to this effect's activation. Once per turn, during the End Phase: Shuffle this card into the Extra Deck, and if you do, destroy all cards your opponent controls.",
     "str1": "Prevent activation",
     "str2": "Affected by \"Elemental HERO Cosmo Neos\"",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE036",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP036",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/24/ElementalHEROCosmoNeos-SAST-EN-SR-1E.png"
 }

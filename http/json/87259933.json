@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 0,
-    "name": "Crystal Hoard",
-    "desc": "Once per turn, if a face-up \"Crystal Beast\" monster(s) you control is destroyed by battle or card effect: You can Special Summon 1 \"Crystal Beast\" monster from your Deck. You can send this face-up card from the field to the GY, then target 1 \"Crystal Beast\" card you control and 1 other card on the field; return them to the hand. You cannot activate these effects in the same Chain.",
+    "name": "Crystal Conclave",
+    "desc": "Once per turn, if a face-up \"Crystal Beast\" monster(s) you control is destroyed by battle or card effect: You can Special Summon 1 \"Crystal Beast\" monster from your Deck. You can send this face-up card from the field to the GY, then target 1 \"Crystal Beast\" card you control and 1 card on the field; return them to the hand. You cannot activate these effects in the same Chain.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,6 +35,10 @@
         "pack_id": "SECE-JP084",
         "date": "2014-11-15"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/92/CrystalHoard-SECE-JP-C.png"
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE099",
+        "date": "2018-05-03"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a0/CrystalConclave-FLOD-EN-C-1E.png"
 }

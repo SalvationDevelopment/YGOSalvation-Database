@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 0,
     "name": "Stardust Assault Warrior",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\nWhen this card is Synchro Summoned while you control no other monsters: You can target 1 \"Junk\" monster in your GY; Special Summon it. You can only use this effect of \"Stardust Assault Warrior\" once per turn. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nWhen this card is Synchro Summoned while you control no other monsters: You can target 1 &#x201C;Junk&#x201D; monster in your GY; Special Summon it. You can only use this effect of &#x201C;Stardust Assault Warrior&#x201D; once per turn. If this card attacks a Defense Position monster, inflict piercing battle damage.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,6 +35,10 @@
         "pack_id": "VB18-JP001",
         "date": "2015-08-12"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7b/StardustAssaultWarrior-VB18-JP-UR.png"
+    "tcg": {
+        "pack": "2018 Mega-Tins",
+        "pack_id": "CT15-DE008",
+        "date": "2018-08-30"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cc/StardustAssaultWarrior-CT15-EN-UR-LE.png"
 }

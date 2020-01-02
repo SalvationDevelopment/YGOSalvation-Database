@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 262656,
     "name": "Ib the World Chalice Justiciar",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nFor this card's Synchro Summon, you can treat 1 \"World Chalice\" Normal Monster you control as a Tuner. You can only use each of the following effects of \"Ib the World Chalice Justiciar\" once per turn.\r\n● If this card is Synchro Summoned: You can add 1 \"World Legacy\" card from your Deck to your hand.\r\n● If this Synchro Summoned card is sent from the field to the GY: You can Special Summon 1 \"World Chalice\" monster from your Deck or GY, except \"Ib the World Chalice Justiciar\".",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nFor this card's Synchro Summon, you can treat 1 &#x201C;World Chalice&#x201D; Normal Monster you control as a Tuner. You can only use each of the following effects of \"Ib the World Chalice Justiciar\" once per turn.\n● If this card is Synchro Summoned: You can add 1 &#x201C;World Legacy&#x201D; card from your Deck to your hand.\n● If this Synchro Summoned card is sent from the field to the GY: You can Special Summon 1 &#x201C;World Chalice&#x201D; monster from your Deck or GY, except &#x201C;Ib the World Chalice Justiciar&#x201D;.",
     "str1": "Add to hand",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE035",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP035",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/83/IbtheWorldChaliceJusticiar-DANE-EN-ScR-1E.png"
 }

@@ -2,7 +2,7 @@
     "id": 87804365,
     "ot": 3,
     "alias": 0,
-    "setcode": 306,
+    "setcode": 0,
     "type": 4,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Mathmech Superfactorial",
-    "desc": "Target up to 3 \"Mathmech\" monsters in your GY with different names, then activate 1 of these effects;\r\n● Special Summon them, but their effects are negated, then, immediately after this effect resolves, Synchro Summon 1 \"Mathmech\" Synchro Monster using only those monsters, and shuffle the materials into the Deck instead of sending them to the GY.\r\n● Special Summon them, but their effects are negated, then, immediately after this effect resolves, Xyz Summon 1 \"Mathmech\" Xyz Monster using only those monsters.\r\nYou can only activate 1 \"Mathmech Superfactorial\" per turn.",
+    "desc": "Target up to 3 \"Mathmech\" monsters in your GY with different names, then activate 1 of these effects;\n● Special Summon them, but their effects are negated, then, immediately after this effect resolves, Synchro Summon 1 \"Mathmech\" Synchro Monster using only those monsters, and shuffle the materials into the Deck instead of sending them to the GY.\n● Special Summon them, but their effects are negated, then, immediately after this effect resolves, Xyz Summon 1 \"Mathmech\" Xyz Monster using only those monsters.\nYou can only activate 1 \"Mathmech Superfactorial\" per turn.",
     "str1": "Special Summon and perform a Synchro Summon",
     "str2": "Special Summon and perform an Xyz Summon",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Mystic Fighters",
+        "pack_id": "MYFI-DE012",
+        "date": "2019-11-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Mystic Fighters",
+        "pack_id": "DBMF-JP012",
+        "date": "2019-08-03"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e1/MathmechSuperfactorial-MYFI-EN-ScR-1E.png"
 }

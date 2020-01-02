@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 40960,
     "name": "Double or Nothing!",
-    "desc": "When a monster's attack is negated: Target that monster; during this Battle Phase, it can attack once again, and if it does, its ATK is doubled during the Damage Step only.",
+    "desc": "When a monster's attack is negated: Target that monster; it can make a second attack during this Battle Phase, and if it does, its ATK is doubled during the Damage Step only.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "GENF-EN046",
         "date": "2011-08-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/DoubleorNothing-YS13-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/eb/DoubleorNothing-DUPO-EN-UR-1E.png"
 }

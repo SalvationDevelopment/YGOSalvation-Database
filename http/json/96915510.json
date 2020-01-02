@@ -2,7 +2,7 @@
     "id": 96915510,
     "ot": 3,
     "alias": 0,
-    "setcode": 279,
+    "setcode": 0,
     "type": 161,
     "atk": 3000,
     "def": 3000,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 2147753984,
     "name": "Crealtar, the Impcantation Originator",
-    "desc": "You can Ritual Summon this card with \"Impcantation Inception\". During the Main Phase (Quick Effect): You can reveal this card in your hand; discard 1 card, then Special Summon \"Impcantation\" monsters from your GY whose total Levels equal 10, but shuffle them into the Deck during the End Phase. You can only use this effect of \"Crealtar, the Impcantation Originator\" once per turn. Non-Ritual \"Impcantation\" monsters you control gain 2000 ATK, also their effects are negated.",
+    "desc": "You can Ritual Summon this card with \"Impcantation Inception\". During the Main Phase: You can reveal this card in your hand; discard 1 card, then Special Summon \"Impcantation\" monsters with a total Level of 10 from your GY, but shuffle them into the Deck during the End Phase. You can only use this effect of \"Crealtar, the Impcantation Originator\" once per turn. Non-Ritual \"Impcantation\" monsters you control gain 2000 ATK, but negate their effects.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE029",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP029",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0d/CrealtartheImpcantationOriginator-DANE-EN-C-1E.png"
 }

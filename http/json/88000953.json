@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 16785408,
     "name": "Rasterliger",
-    "desc": "2+ monsters, except Tokens\nYou can target 1 Link Monster in either GY; this card gains ATK equal to that target's ATK until the end of this turn. You can Tribute any number of your monsters this card points to; destroy an equal number of cards on the field. You can only use each effect of \"Rasterliger\" once per turn.",
+    "desc": "Link Arrows: [🡱][🡰][🡳][🡲]\n\n2+ monsters, except Tokens\nYou can target 1 Link Monster in either GY; this card gains ATK equal to that target's ATK until the end of this turn. You can Tribute any number of your monsters this card points to; destroy an equal number of cards on the field. You can only use each effect of \"Rasterliger\" once per turn.",
     "str1": "Change ATK",
     "str2": "Tribute to destroy",
     "str3": "",
@@ -28,5 +28,22 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Fists of the Gadgets",
+        "pack_id": "FIGA-DE047",
+        "date": "2019-08-22"
+    },
+    "ocg": {
+        "pack": "Weekly Shōnen Jump 2019, Issue 22–23",
+        "pack_id": "WJMP-JP029",
+        "date": "2019-04-27"
+    },
+    "links": [
+        1,
+        3,
+        4,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2b/Rasterliger-FIGA-EN-SR-1E.png"
 }

@@ -2,7 +2,7 @@
     "id": 88413677,
     "ot": 1,
     "alias": 0,
-    "setcode": 309,
+    "setcode": 0,
     "type": 33,
     "atk": 400,
     "def": 1600,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Doyon @Ignister",
-    "desc": "If this card is Normal or Special Summoned: You can target 1 \"@Ignister\" monster in your GY; add it to your hand. If this card is sent to the GY as material for the Link Summon of a Cyberse monster: You can target 1 \"A.I.\" Spell/Trap in your GY; add it to your hand. You can only use each effect of \"Doyon @Ignister\" once per turn.",
+    "desc": "If this card is Normal or Special Summoned: You can target 1 \"@Ignister\" monster in your GY; add it to your hand. If this card is sent to the GY as material for a Cyberse Link Monster: You can target 1 \"A.I.\" Spell/Trap in your GY; add it to your hand. You can only use each effect of \"Doyon @Ignister\" once per turn.",
     "str1": "Add \"@Ignister\" from grave",
     "str2": "Add \"A.I.\" from grave",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP003",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/31/Doyon%40Ignister-IGAS-JP-C.png"
 }

@@ -2,7 +2,7 @@
     "id": 9617996,
     "ot": 3,
     "alias": 0,
-    "setcode": 278,
+    "setcode": 0,
     "type": 67108897,
     "atk": 1000,
     "def": 130,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 74256,
     "name": "Crusadia Regulex",
-    "desc": "2 Effect Monsters, including a \"Crusadia\" monster\r\nGains ATK equal to the combined original ATK of all monsters this card points to. Monsters this card points to cannot attack. If an Effect Monster(s) is Special Summoned to a zone(s) this card points to (except during the Damage Step): You can add 1 \"Crusadia\" Spell/Trap from your Deck to your hand. You can only use this effect of \"Crusadia Regulex\" once per turn.",
+    "desc": "Link Arrows: [🡳][🡱]\n\n2 Effect Monsters, including a \"Crusadia\" monster\nGains ATK equal to the combined original ATK of all monsters this card points to. Monsters this card points to cannot attack. If an Effect Monster(s) is Special Summoned to a zone(s) this card points to (except during the Damage Step): You can add 1 \"Crusadia\" Spell/Trap from your Deck to your hand. You can only use this effect of &#x201C;Crusadia Regulex&#x201D; once per turn.",
     "str1": "Search 1 \"Crusadia\" Spell/Trap",
     "str2": "",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE043",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP043",
+        "date": "2018-04-14"
+    },
+    "links": [
+        1,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/14/CrusadiaRegulex-CYHO-EN-C-1E.png"
 }

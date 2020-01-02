@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Borrelend Dragon",
-    "desc": "3+ Effect Monsters\r\nCannot be destroyed by battle or card effects, also neither player can target this card with monster effects. This card can attack all monsters your opponent controls, once each. (Quick Effect): You can target 1 Effect Monster on the field and 1 \"Rokket\" monster in your GY; negate the effects of that monster on the field, and if you do, Special Summon that monster from your GY. Your opponent cannot activate cards or effects in response to this effect's activation. You can only use this effect of \"Borrelend Dragon\" once per turn.",
+    "desc": "Link Arrows: [🡰][🡷][🡱][🡶][🡲]\n\n3+ Effect Monsters\nCannot be destroyed by battle or card effects, also neither player can target this card with monster effects. This card can attack all monsters your opponent controls, once each. (Quick Effect): You can target 1 Effect Monster on the field and 1 \"Rokket\" monster in your GY; negate the effects of that monster on the field, and if you do, Special Summon that monster from your GY. Your opponent cannot activate cards or effects in response to this effect's activation. You can only use this effect of \"Borrelend Dragon\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,19 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Legendary Gold Box",
+        "pack_id": "LGB1-JP045",
+        "date": "2019-12-21"
+    },
+    "links": [
+        1,
+        3,
+        4,
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d6/BorrelendDragon-LGB1-JP-OP.png"
 }

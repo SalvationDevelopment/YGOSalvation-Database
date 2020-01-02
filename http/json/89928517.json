@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Two-for-One Team",
-    "desc": "Once per turn: You can make both players show 1 card from their hands, and if both the shown cards are the same type of card, apply 1 of these effects, depending on the type.\r\n●Monster: Each player can Special Summon their monster.\r\n●Spell: Each player draws 2 cards.\r\n●Trap: Each player sends exactly 2 cards from their Deck to their GY.",
+    "desc": "Once per turn: You can make both players show 1 card from their hands, and if both the shown cards are the same type of card, apply 1 of these effects, depending on the type.\n● Monster: Each player can Special Summon their monster.\n● Spell: Each player draws 2 cards.\n● Trap: Each player sends exactly 2 cards from their Deck to their GY.",
     "str1": "",
     "str2": "Do you want to Special Summon?",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-EN032",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP032",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/TwoforOneTeam-SOFU-EN-C-1E.png"
 }

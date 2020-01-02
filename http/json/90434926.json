@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 264,
     "name": "Veil of Darkness",
-    "desc": "During your Draw Phase, if you draw a DARK monster(s): You can reveal any number of them; send them to the Graveyard, then you can draw 1 more card.",
+    "desc": "During your Draw Phase, if you draw a DARK monster(s): You can reveal any number of them; send them to the GY, then you can draw 1 more card.",
     "str1": "Draw 1 more card",
     "str2": "Draw 1 more card?",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Extra Pack",
-        "pack_id": "EXP1-JP021",
-        "date": "2008-09-13"
-    },
+    "ocg": {},
     "tcg": {
         "pack": "Gladiator's Assault",
         "pack_id": "GLAS-IT088",
         "date": "2007-11-03"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a6/VeilofDarkness-DESO-EN-SR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8e/VeilofDarkness-SR06-EN-C-1E.png"
 }

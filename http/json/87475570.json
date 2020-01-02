@@ -10,8 +10,8 @@
     "race": 2,
     "attribute": 32,
     "category": 0,
-    "name": "Crystal Vanguard",
-    "desc": "Pendulum Effect\nYour opponent cannot target \"Crystal Beast\" cards you control, or \"Ultimate Crystal\" monsters in your Monster Zone, with card effects.\n\nMonster Effect\nYou can Tribute this card; add 1 \"Crystal Beast\" monster, \"Ultimate Crystal\" monster, or \"Crystal\" Spell/Trap from your Deck to your hand.",
+    "name": "Crystal Master",
+    "desc": "Pendulum Effect\nYour opponent cannot target \"Ultimate Crystal\" monsters or \"Crystal Beast\" cards you control in your Monster Zone, with card effects.\n\nMonster Effect\nYou can Tribute this card; add 1 \"Ultimate Crystal\" monster, \"Crystal Beast\" monster or \"Crystal\" Spell/Trap from your Deck to your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,6 +35,10 @@
         "pack_id": "SECE-JP081",
         "date": "2014-11-15"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/32/CrystalVanguard-SECE-JP-R.png"
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE092",
+        "date": "2018-05-03"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0a/CrystalMaster-FLOD-EN-C-1E.png"
 }

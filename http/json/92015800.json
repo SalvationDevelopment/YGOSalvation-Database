@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 1073741824,
     "name": "Number 76: Harmonizer Gradielle",
-    "desc": "2 Level 7 monsters\r\nThis card's Attribute is also treated as each of its attached materials' Attributes. Cannot be destroyed by battle with a monster of the same Attribute, also cannot be destroyed by the activated effects of your opponent's monsters with the same Attribute. (Quick Effect): You can target 1 monster in your opponent's GY; detach 1 material from this card, and if you do, attach that target to this card as material. You can only use this effect of \"Number 76: Harmonizer Gradielle\" once per turn.",
+    "desc": "2 Level 7 monsters\nThis card's Attribute is also treated as each of its attached materials' Attributes. Cannot be destroyed by battle with a monster of the same Attribute, also cannot be destroyed by the activated effects of your opponent's monsters with the same Attribute. (Quick Effect): You can target 1 monster in your opponent's GY; detach 1 material from this card, and if you do, attach that target to this card as material. You can only use this effect of \"Number 76: Harmonizer Gradielle\" once per turn.",
     "str1": "Attach 1 monster from the opponent's GY",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Battles of Legend: Hero's Revenge",
+        "pack_id": "BLHR-EN029",
+        "date": "2019-07-11"
+    },
+    "ocg": {
+        "pack": "Collection Pack: Duelists of Revolution",
+        "pack_id": "CP19-JP032",
+        "date": "2019-05-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cc/Number76HarmonizerGradielle-BLHR-EN-UR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Option Token",
-    "desc": "Special Summoned with the effect of \"Victory Viper XX03\" or \"Power Capsule\". This Token always has the same Type, Attribute, Level, ATK, and DEF as \"Victory Viper XX03\".",
+    "desc": "Special Summoned with the effect of \"Victory Viper XX03\"\n \"Power Capsule\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Tournament Pack 2019 Vol.2",
+        "pack_id": "19TP-JP216",
+        "date": "2019-04-01"
+    },
     "tcg": {},
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/76/OptionToken-DAR-EN-VG.png"
 }

@@ -2,7 +2,7 @@
     "id": 97036149,
     "ot": 3,
     "alias": 0,
-    "setcode": 300,
+    "setcode": 0,
     "type": 33,
     "atk": 800,
     "def": 1000,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE015",
+        "date": "2019-07-25"
+    },
+    "ocg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-JP015",
+        "date": "2019-04-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6a/TenyiSpiritNahata-RIRA-EN-R-1E.png"
 }

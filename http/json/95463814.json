@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 4194304,
     "name": "Phantasm Emperor Trilojig",
-    "desc": "3 Level 10 monsters\r\nIf this card is Special Summoned, or if another monster(s) is Special Summoned from the GY to your field while this monster is on the field: You can target 1 face-up monster your opponent controls; inflict damage to your opponent equal to half its original ATK. You can only use this effect of \"Phantasm Emperor Trilojig\" once per turn.",
+    "desc": "3 Level 10 monsters\nIf this card is Special Summoned, OR if a monster is Special Summoned from your GY while this card is in the Monster Zone: You can target 1 face-up monster your opponent controls; inflict damage to your opponent equal to half that monster's original ATK. You can only use the effect of \"Phantasm Emperor Trilojig\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Premium Pack 2019",
+        "pack_id": "19PP-JP013",
+        "date": "2019-03-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/44/PhantasmEmperorTrilojig-19PP-JP-C.png"
 }

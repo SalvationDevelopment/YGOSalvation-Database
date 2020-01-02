@@ -2,7 +2,7 @@
     "id": 90351981,
     "ot": 3,
     "alias": 0,
-    "setcode": 283,
+    "setcode": 0,
     "type": 524290,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 16,
     "name": "Orcustrated Babel",
-    "desc": "You can activate the effects of \"Orcust\" monsters in your GY, or of Link Monsters you control with \"Orcust\" in their original names, as Quick Effects. During your Main Phase, if this card is in your GY, except the turn it was sent to the GY: You can send 1 card from your hand to the GY; add this card to your hand.",
+    "desc": "You can activate the effects of &#x201C;Orcust\" monsters in your GY, or of Link Monsters you control with \"Orcust\" in their original names, as Quick Effects. During your Main Phase, if this card is in your GY, except the turn it was sent to the GY: You can send 1 card from your hand to the GY; add this card to your hand.",
     "str1": "Add this card to hand",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE057",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP057",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/OrcustratedBabel-SOFU-EN-R-1E.png"
 }

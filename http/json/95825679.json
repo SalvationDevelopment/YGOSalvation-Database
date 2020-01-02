@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Fists of the Gadgets",
+        "pack_id": "FIGA-DE031",
+        "date": "2019-08-22"
+    },
+    "ocg": {
+        "pack": "Special Pack 20th Anniversary Edition Vol.1",
+        "pack_id": "18SP-JP101",
+        "date": "2018-03-24"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ae/ArchfiendsAwakening-FIGA-EN-ScR-1E.png"
 }

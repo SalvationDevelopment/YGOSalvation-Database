@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262672,
     "name": "Glow-Up Bloom",
-    "desc": "If this card is sent to the GY: You can banish this card from your GY; add 1 Level 5 or higher Zombie monster from your Deck to your hand, or, if \"Zombie World\" is in a Field Zone, you can Special Summon it from your Deck instead, also, in either case, you cannot Special Summon monsters for the rest of this turn, except Zombie monsters. You can only use this effect of \"Glow-Up Bloom\" once per turn.",
+    "desc": "If this card is sent to the GY: You can banish this card from the GY; you cannot Special Summon monsters for the rest of this turn, except Zombie monsters, also add 1 Level 5 or higher Zombie monster from your Deck to your hand, or, if &#x201C;Zombie World&#x201D; is in a Field Zone, you can Special Summon 1 Level 5 or higher Zombie monster from your Deck, instead. You can only use this effect of \"Glow-Up Bloom\" once per turn.",
     "str1": "Choose 1 Level 5+ Zombie to add to your hand/Special Summon",
     "str2": "Special Summon the monster instead?",
     "str3": "Affected by \"Glow-Up Bloom\"",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Structure Deck R: Undead World",
+        "pack_id": "SR07-JP003",
+        "date": "2018-09-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3a/GlowUpBloom-SR07-JP-SR.png"
 }

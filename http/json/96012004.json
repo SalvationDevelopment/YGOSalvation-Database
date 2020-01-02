@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 134217984,
     "name": "Lucky Chance",
-    "desc": "When an Effect Monster's effect that requires only 1 coin toss is activated, call Heads or Tails. If you call it right, draw 1 card.",
+    "desc": "Once per Chain, if a monster effect is activated that tosses a coin once: Call heads or tails. If your call matches the coin toss for that monster effect, draw 1 card immediately after that effect resolves.",
     "str1": "猜硬币",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "LODT-EN078",
         "date": "2008-05-03"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4f/LuckyChance-LODT-EN-C-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/LuckyChance-OP07-EN-C-UE.png"
 }

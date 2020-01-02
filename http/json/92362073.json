@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 8192,
     "name": "Galaxy Satellite Dragon",
-    "desc": "2 Dragon monsters\nDuring the Battle Phase (Quick Effect): You can banish this card from your field or GY, then target 1 \"Number\" Xyz Monster you control whose original Attribute/Type are LIGHT/Dragon; until the end of the Battle Phase, its ATK becomes equal to the value of the \"Number\" in its name x 100, also any battle damage your opponent takes is halved. During your opponent's End Phase: You can choose 1 card from your Deck and place it on top of your Deck. You can only use each effect of \"Galaxy Satellite Dragon\" once per turn.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 Dragon monsters\nDuring the Battle Phase (Quick Effect): You can banish this card from your field or GY, then target 1 \"Number\" Xyz Monster you control whose original Attribute/Type are LIGHT/Dragon; until the end of the Battle Phase, its ATK becomes equal to the value of the \"Number\" in its name x 100, also any battle damage your opponent takes is halved. During your opponent's End Phase: You can choose 1 card from your Deck and place it on top of your Deck. You can only use each effect of \"Galaxy Satellite Dragon\" once per turn.",
     "str1": "Change ATK",
     "str2": "Place on top of Deck",
     "str3": "Affected by \"Galaxy Satellite Dragon\"",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE047",
+        "date": "2019-10-24"
+    },
+    "ocg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-JP047",
+        "date": "2019-07-13"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c7/GalaxySatelliteDragon-CHIM-EN-SR-1E.png"
 }

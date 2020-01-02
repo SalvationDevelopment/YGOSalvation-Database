@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "D Cubed",
-    "desc": "If this card is Normal Summoned: It is also treated as a \"Destiny HERO\" monster while face-up on the field. You can only use each of the following effects of \"D Cubed\" once per turn.\n● You can discard up to 2 cards; Special Summon \"D Cubed\" from your hand, Deck, and/or Graveyard, equal to the number discarded, also for the rest of this turn, you cannot Normal or Special Summon other monsters, except \"Destiny HERO\" monsters.\n● If this card is destroyed by battle or card effect: You can send 1 \"Destiny HERO\" monster from your Deck to the Graveyard.",
+    "desc": "If this card is Normal Summoned: It is also treated as a \"Destiny HERO\" monster while face-up on the field. You can only use each of the following effects of \"D Cubed\" once per turn.\n● You can discard up to 2 cards; Special Summon \"D Cubed\" from your hand, Deck, and/or GY, equal to the number discarded, also for the rest of this turn, you cannot Normal or Special Summon other monsters, except \"Destiny HERO\" monsters.\n● If this card is destroyed by battle or card effect: You can send 1 \"Destiny HERO\" monster from your Deck to the GY.",
     "str1": "Destiny HERO",
     "str2": "Special Summon \"D3\"",
     "str3": "Send \"Destiny HERO\" to grave",
@@ -40,5 +40,5 @@
         "pack_id": "DESO-DE007",
         "date": "2016-11-17"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/42/DCubed-DESO-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dd/DCubed-LEHD-EN-C-1E.png"
 }

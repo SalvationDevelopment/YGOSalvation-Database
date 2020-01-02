@@ -2,7 +2,7 @@
     "id": 9608555,
     "ot": 1,
     "alias": 0,
-    "setcode": 281,
+    "setcode": 0,
     "type": 8388641,
     "atk": 2300,
     "def": 1200,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 1074003970,
     "name": "Salamangreat Blaze Dragon",
-    "desc": "2 Level 4 monsters\nIf this card would be destroyed by battle or card effect, detach 1 material from this card instead. During the Battle Phase, if this card has no material (Quick Effect): You can Special Summon from your Extra Deck, 1 \"Salamangreat\" Xyz Monster by using this face-up card you control as material. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) You can only use this effect of \"Salamangreat Blaze Dragon\" once per turn. If this card is Xyz Summoned using \"Salamangreat Blaze Dragon\" as material: You can destroy 1 monster your opponent controls.",
+    "desc": "2 Level 4 monsters\nIf this card is Xyz Summoned using \"Salamangreat Blaze Dragon\" as material: You can destroy 1 monster your opponent controls. During the Battle Phase, if this card has no material: You can Special Summon 1 \"Salamangreat\" Xyz Monster from your Extra Deck, by using this card as material (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster). You can only use this effect of \"Salamangreat Blaze Dragon\" once per turn. If this card would be destroyed by battle or card effect, detach 1 material from it instead.",
     "str1": "Xyz Summon",
     "str2": "Destroy",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "LINK VRAINS Duelist Set",
+        "pack_id": "LVDS-JPA03",
+        "date": "2019-08-31"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/58/SalamangreatBlazeDragon-LVDS-JP-OP.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 1073750020,
     "name": "Galaxy-Eyes Photon Dragon",
-    "desc": "You can Special Summon this card (from your hand) by Tributing 2 monsters with 2000 or more ATK. During either player's Battle Step, when this card battles an opponent's monster: You can target the monster this card is battling; banish both the opponent's monster and this card. At the end of the Battle Phase, return any monsters banished by this effect to the field, and if the other monster was an Xyz Monster, this card gains 500 ATK for each Xyz Material it had when it was banished.",
+    "desc": "You can Special Summon this card (from your hand) by Tributing 2 monsters with 2000 or more ATK. During the Battle Step, if this card battles an opponent's monster (Quick Effect): You can target that opponent's monster; banish both this card from the field and that target. Return those banished monsters to the field at the end of the Battle Phase, and if you banished an Xyz Monster, this card gains 500 ATK for each material it had when it was banished.",
     "str1": "Banish",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "CT08-DE003",
         "date": "2011-10-27"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/74/GalaxyEyesPhotonDragon-PGLD-EN-GUR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/41/GalaxyEyesPhotonDragon-LED3-EN-SR-1E.png"
 }
