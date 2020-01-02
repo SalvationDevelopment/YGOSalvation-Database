@@ -2,7 +2,7 @@
     "id": 71861848,
     "ot": 3,
     "alias": 0,
-    "setcode": 281,
+    "setcode": 0,
     "type": 33,
     "atk": 1000,
     "def": 200,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Rising Rampage Special Edition",
+        "pack_id": "RIRA-DESE1",
+        "date": "2019-09-12"
+    },
+    "ocg": {
+        "pack": "The Valuable Book 21",
+        "pack_id": "VB21-JP002",
+        "date": "2019-03-20"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/24/SalamangreatCoyote-RIRA-EN-SR-LE.png"
 }

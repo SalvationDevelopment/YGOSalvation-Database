@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 16777216,
     "name": "Satellite Synchron",
-    "desc": "If a monster(s) is Special Summoned from your GY (except during the Damage Step): You can Special Summon this card from your hand. If a Synchro Monster(s) with \"Warrior\", \"Synchron\", and/or \"Stardust\" in its original name is on your field and/or in your GY: You can make this card's Level become 4 until the end of this turn. You can only use each effect of \"Satellite Synchron\" once per turn.",
+    "desc": "If a monster(s) is Special Summoned from your GY: You can Special Summon this card from your hand. If a Synchro Monster(s) with \"Warrior\", \"Synchron\", and/or \"Stardust\" in its original name is on your field and/or in your GY: You can make this card's Level become 4 until the end of this turn. You can only use each effect of \"Satellite Synchron\" once per turn.",
     "str1": "Special Summon this",
     "str2": "Change Level",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 6",
+        "pack_id": "DP23-JP025",
+        "date": "2019-11-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ef/SatelliteSynchron-DP23-JP-R.png"
 }

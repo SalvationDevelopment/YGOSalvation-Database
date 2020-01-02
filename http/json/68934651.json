@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 2147524608,
     "name": "Firewall Dragon Darkfluid",
-    "desc": "3+ Effect Monsters\r\nIf this card is Link Summoned: You can place counters on this card equal to the number of different types of Cyberse monsters in your GY (Ritual, Fusion, Synchro, Xyz). This card gains 2500 ATK for each counter on it during the Battle Phase only. When your opponent activates a monster effect (Quick Effect): You can remove 1 counter from this card; negate the activation, also, if this effect was activated between this card's attack declaration and the end of the Damage Step, this card can make another attack in a row.",
+    "desc": "Link Arrows: [🡰][🡷][🡱][🡶][🡲]\n\n3+ Effect Monsters\nIf this card is Link Summoned: You can place counters on this card equal to the number of Cyberse monsters in your GY of a different monster card type (Ritual, Fusion, Synchro, or Xyz). Gains 2500 ATK for each of these counters on this card during the Battle Phase only.  When your opponent activates a monster effect (Quick Effect): You can remove 1 counter from this card; negate the activation, also if this effect was activated between this card's attack declaration and the end of the Damage Step, it can make a second attack in a row.",
     "str1": "Place counters",
     "str2": "Negate activation",
     "str3": "",
@@ -28,5 +28,23 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE037",
+        "date": "2019-10-24"
+    },
+    "ocg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-JP037",
+        "date": "2019-07-13"
+    },
+    "links": [
+        1,
+        3,
+        4,
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/45/FirewallDragonDarkfluid-CHIM-EN-ScR-1E.png"
 }

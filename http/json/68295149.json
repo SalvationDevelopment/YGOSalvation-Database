@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 8192,
     "name": "Linkmail Archfiend",
-    "desc": "2+ monsters, including a Ritual, Fusion, Synchro, or Xyz Monster\r\nIf this card is Special Summoned: You can target 1 Ritual, Fusion, Synchro, or Xyz Monster you control or in your GY; all monsters your opponent currently controls lose ATK equal to the targeted monster's ATK, until the end of this turn. Your opponent cannot target monsters you control, that were Special Summoned from the Extra Deck, with monster effects. If this card would be destroyed by battle or card effect, you can banish 1 Ritual, Fusion, Synchro, or Xyz Monster from your GY instead.",
+    "desc": "Link Arrows: [🡴][🡰][🡷][🡶]\n\n2+ monsters, including a Ritual, Fusion, Synchro, or Xyz Monster\nIf this card is Special Summoned: You can target 1 Ritual, Fusion, Synchro, or Xyz Monster you control or in your GY; all monsters your opponent currently controls lose ATK equal to the targeted monster's ATK, until the end of this turn. Your opponent cannot target monsters you control, that were Special Summoned from the Extra Deck, with monster effects. If this card would be destroyed by battle or card effect, you can banish 1 Ritual, Fusion, Synchro, or Xyz Monster from your GY instead.",
     "str1": "Reduce ATK",
     "str2": "",
     "str3": "",
@@ -28,5 +28,22 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE047",
+        "date": "2019-07-25"
+    },
+    "ocg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-JP047",
+        "date": "2019-04-13"
+    },
+    "links": [
+        0,
+        3,
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/LinkmailArchfiend-RIRA-EN-SR-1E.png"
 }

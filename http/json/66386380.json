@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 262160,
     "name": "Harpie Oracle",
-    "desc": "This card's name becomes \"Harpie Lady\" while on the field or in the GY. You can only use each of these effects of \"Harpie Oracle\" once per turn.\r\n●If you control a Level 5 or higher \"Harpie\" monster: You can Special Summon this card from your hand.\r\n●If this card is Normal or Special Summoned: You can add 1 Spell/Trap from your GY to your hand, that specifically lists the card \"Harpie Lady Sisters\" in its text, during the End Phase of this turn.",
+    "desc": "This card's name becomes &#x201C;Harpie Lady&#x201D; while on the field or in the GY. You can only use each of these effects of &#x201C;Harpie Oracle&#x201D; once per turn.\n● If you control a Level 5 or higher &#x201C;Harpie&#x201D; monster: You can Special Summon this card from your hand.\n● If this card is Normal or Special Summoned: You can add 1 Spell/Trap from your GY to your hand, that specifically lists the card &#x201C;Harpie Lady Sisters&#x201D; in its text, during the End Phase of this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: Sisters of the Rose",
+        "pack_id": "LED4-DE002",
+        "date": "2019-01-10"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 4",
+        "pack_id": "DP21-JP002",
+        "date": "2018-11-10"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c7/HarpieOracle-LED4-EN-SR-1E.png"
 }

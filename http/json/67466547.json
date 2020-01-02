@@ -2,7 +2,7 @@
     "id": 67466547,
     "ot": 3,
     "alias": 0,
-    "setcode": 276,
+    "setcode": 0,
     "type": 33,
     "atk": 0,
     "def": 2000,
@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 262400,
     "name": "Helmer, Helmsman Fur Hire",
-    "desc": "During your Main Phase: You can Special Summon 1 monster \"Fur Hire\" from your hand, except \"Helmer, Helmsman Fur Hire\". If a monster \"Fur Hire\" is Special Summoned to your field while you control this monster (except during the Damage Step): You can discard 1 card \"Fur Hire\"; draw 1 card. You can only use each effect of \"Helmer, Helmsman Fur Hire\" once per turn.",
+    "desc": "During your Main Phase: You can Special Summon 1 monster \"Fur Hire\" from your hand, except \"Helmer, Helmsman Fur Hire\". If a monster \"Fur Hire\" is Special Summoned to your field while you control this monster: You can discard 1 card \"Fur Hire\"; draw 1 card. You can only use each effect of \"Helmer, Helmsman Fur Hire\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Saviors",
+        "pack_id": "DASA-DE016",
+        "date": "2018-05-24"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Dark Savers",
+        "pack_id": "DBDS-JP016",
+        "date": "2018-02-24"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/51/HelmerHelmsmanFurHire-DASA-EN-SR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 393216,
     "name": "Toon Mermaid",
-    "desc": "Cannot be Normal Summoned/Set. Cannot be Special Summoned unless you control a face-up \"Toon World\". Must first be Special Summoned (from your hand) by Tributing the same number of monsters needed for a Tribute Summon (normally 0). This card cannot attack the turn it is Special Summoned. You must pay 500 Life Points to declare an attack with this monster. If \"Toon World\" on the field is destroyed, destroy this card. This card can attack your opponent directly, unless they control a Toon Monster. If they do control one, this card must target a Toon Monster for its attacks.",
+    "desc": "Cannot be Normal Summoned/Set. Cannot be Special Summoned unless you control a face-up \"Toon World\". Must first be Special Summoned (from your hand) by Tributing the same number of monsters needed for a Tribute Summon (normally 0). Cannot attack the turn it is Special Summoned. You must pay 500 LP to declare an attack with this monster. If \"Toon World\" on the field is destroyed, destroy this card. This card can attack your opponent directly, unless they control a Toon monster. If they do control one, this card must target a Toon monster for its attacks.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "DB1-EN039",
         "date": "2004-10-12"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e2/ToonMermaid-LCYW-EN-R-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7c/ToonMermaid-SS01-EN-C-1E.png"
 }

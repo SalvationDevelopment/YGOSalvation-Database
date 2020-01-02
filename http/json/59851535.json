@@ -2,7 +2,7 @@
     "id": 59851535,
     "ot": 3,
     "alias": 0,
-    "setcode": 296,
+    "setcode": 0,
     "type": 33,
     "atk": 0,
     "def": 2000,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262160,
     "name": "Witchcrafter Potterie",
-    "desc": "During the Main Phase (Quick Effect): You can Tribute this card, then discard 1 Spell; Special Summon 1 \"Witchcrafter\" monster from your Deck, except \"Witchcrafter Potterie\". If you have no cards in your hand: You can banish this card from your GY, then target 1 \"Witchcrafter\" card in your GY; add it to your hand. You can only use each effect of \"Witchcrafter Potterie\" once per turn.",
+    "desc": "During the Main Phase (Quick Effect): You can Tribute this card, then discard 1 Spell; Special Summon 1 &#x201C;Witchcrafter&#x201D; monster from your Deck, except &#x201C;Witchcrafter Potterie&#x201D;. If you have no cards in your hand: You can banish this card from your GY, then target 1 &#x201C;Witchcrafter&#x201D; card in your GY; add it to your hand. You can only use each effect of \"Witchcrafter Potterie\" once per turn.",
     "str1": "Special Summon 1 \"Witchcrafter\" monster",
     "str2": "Target to add to hand",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "The Infinity Chasers",
+        "pack_id": "INCH-EN014",
+        "date": "2019-03-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Infinity Chasers",
+        "pack_id": "DBIC-JP014",
+        "date": "2019-02-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/28/WitchcrafterPotterie-INCH-EN-SR-1E.png"
 }

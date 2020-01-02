@@ -2,7 +2,7 @@
     "id": 67680512,
     "ot": 3,
     "alias": 0,
-    "setcode": 4400,
+    "setcode": 0,
     "type": 67108897,
     "atk": 1800,
     "def": 130,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262160,
     "name": "Unchained Soul of Rage",
-    "desc": "2 monsters including an \"Unchained Soul\" monster\nDuring your opponent's Main Phase (Quick Effect): You can target 1 face-up Special Summoned monster your opponent controls; immediately after this effect resolves, Link Summon 1 DARK Link Monster, except \"Unchained Soul of Rage\", by using only that opponent's monster and this card you control as material. If this card on the field is destroyed by battle or card effect: You can target 1 Fiend monster in your GY, except \"Unchained Soul of Rage\"; add it to your hand. You can only use each effect of \"Unchained Soul of Rage\" once per turn.",
+    "desc": "Link Arrows: [🡱][🡳]\n\n2 monsters including an \"Unchained Soul\" monster\nDuring your opponent's Main Phase (Quick Effect): You can target 1 face-up Special Summoned monster your opponent controls; immediately after this effect resolves, Link Summon 1 DARK Link Monster, except \"Unchained Soul of Rage\", by using only that opponent's monster and this card you control as material. If this card on the field is destroyed by battle or card effect: You can target 1 Fiend monster in your GY, except \"Unchained Soul of Rage\"; add it to your hand. You can only use each effect of \"Unchained Soul of Rage\" once per turn.",
     "str1": "Link Summon",
     "str2": "Add to hand",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE043",
+        "date": "2019-10-24"
+    },
+    "ocg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-JP043",
+        "date": "2019-07-13"
+    },
+    "links": [
+        1,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ea/UnchainedSoulofRage-CHIM-EN-ScR-1E.png"
 }

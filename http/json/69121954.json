@@ -2,7 +2,7 @@
     "id": 69121954,
     "ot": 3,
     "alias": 0,
-    "setcode": 282,
+    "setcode": 0,
     "type": 67108897,
     "atk": 1000,
     "def": 136,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262160,
     "name": "Dinowrestler Terra Parkourio",
-    "desc": "2 \"Dinowrestler\" monsters\r\nIf you activate \"World Dino Wrestling\": You can target 1 \"Dinowrestler\" monster in your GY; add it to your hand. If this card is sent to the GY as Link Material: You can target 1 \"Dinowrestler\" monster in your GY; Special Summon it in Defense Position, but negate its effects, also you cannot Special Summon monsters for the rest of this turn, except \"Dinowrestler\" monsters. You can only use each effect of \"Dinowrestler Terra Parkourio\" once per turn.",
+    "desc": "Link Arrows: [🡱][🡰]\n\n2 &#x201C;Dinowrestler&#x201D; monsters\nIf you activate &#x201C;World Dino Wrestling&#x201D;: You can target 1 &#x201C;Dinowrestler&#x201D; monster in your GY; add it to your hand. If this card is sent to the GY as Link Material: You can target 1 &#x201C;Dinowrestler&#x201D; monster in your GY; Special Summon it in Defense Position, but its effects are negated, also you cannot Special Summon monsters for the rest of this turn, except &#x201C;Dinowrestler&#x201D; monsters. You can only use each effect of \"Dinowrestler Terra Parkourio\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "Affected by \"Dinowrestler Terra Parkourio\", cannot Special Summon non-\"Dinowrestlers\"",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE042",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP042",
+        "date": "2019-01-12"
+    },
+    "links": [
+        1,
+        3
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/60/DinowrestlerTerraParkourio-DANE-EN-C-1E.png"
 }

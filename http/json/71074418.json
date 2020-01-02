@@ -2,7 +2,7 @@
     "id": 71074418,
     "ot": 3,
     "alias": 0,
-    "setcode": 296,
+    "setcode": 0,
     "type": 33,
     "atk": 2800,
     "def": 0,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE028",
+        "date": "2019-07-25"
+    },
+    "ocg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-JP028",
+        "date": "2019-04-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/77/WitchcrafterGolemAruru-RIRA-EN-ScR-1E.png"
 }

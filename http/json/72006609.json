@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 528,
     "name": "Mekk-Knight of the Morning Star",
-    "desc": "2 monsters, including a \"Mekk-Knight\" monster\r\nIf this card is Link Summoned: You can discard 1 \"Mekk-Knight\" monster or 1 \"World Legacy\" card; add 1 \"World Legacy\" card from your Deck to your hand. You can only use this effect of \"Mekk-Knight of the Morning Star\" once per turn. If your \"Mekk-Knight\" monster battles a monster in a different column than it, your monster cannot be destroyed by that battle, also you take no battle damage from that battle.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 monsters, including a &#x201C;Mekk-Knight&#x201D; monster\nIf this card is Link Summoned: You can discard 1 &#x201C;Mekk-Knight&#x201D; monster or &#x201C;World Legacy&#x201D; card; add 1 &#x201C;World Legacy&#x201D; card from your Deck to your hand. You can only use this effect of &#x201C;Mekk-Knight of the Morning Star&#x201D; once per turn. If your &#x201C;Mekk-Knight&#x201D; monster battles a monster in a different column than it, your monster cannot be destroyed by that battle, also you take no battle damage from that battle.",
     "str1": "Search",
     "str2": "",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE045",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP045",
+        "date": "2018-04-14"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/55/MekkKnightoftheMorningStar-CYHO-EN-ScR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262672,
     "name": "Magical Musketeer Max",
-    "desc": "1 Level 8 or lower \"Magical Musket\" monster\r\nIf this card is Link Summoned: You can activate 1 of these effects;\r\n● Add \"Magical Musket\" Spells/Traps with different names from your Deck to your hand, up to the number of monsters your opponent controls. \r\n● Special Summon \"Magical Musket\" monsters with different names from your Deck, up to the number of Spells/Traps your opponent controls.\r\nYou can only use this effect of \"Magical Musketeer Max\" once per turn. During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand.",
+    "desc": "Link Arrows: [🡳]\n\n1 Level 8 or lower \"Magical Musket\" monster\nIf this card is Link Summoned: You can activate 1 of these effects.\n● Add \"Magical Musket\" Spells/Traps with different names from your Deck to your hand, up to the number of monsters your opponent controls.\n● Special Summon \"Magical Musketeer\" monsters with different names from your Deck, up to the number of Spells and Traps your opponent controls.\nYou can only use this effect of \"Magical Musketeer Max\" once per turn. During either player's turn, you can activate \"Magical Musket\" Spells/Traps from your hand.",
     "str1": "Add \"Magical Musket\" Spells/Traps",
     "str2": "Special Summon \"Magical Musket\" monsters ",
     "str3": "",
@@ -28,5 +28,19 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Battles of Legend: Hero's Revenge",
+        "pack_id": "BLHR-DE052",
+        "date": "2019-07-11"
+    },
+    "ocg": {
+        "pack": "LINK VRAINS Pack 2",
+        "pack_id": "LVP2-JP096",
+        "date": "2018-11-23"
+    },
+    "links": [
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ef/MagicalMusketeerMax-BLHR-EN-UR-1E.png"
 }

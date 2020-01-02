@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 262160,
     "name": "Harpie Dancer",
-    "desc": "You can target 1 WIND monster you control; return it to the hand, then you can Normal Summon 1 WIND monster. You can only use this effect of \"Harpie Dancer\" once per turn. This card's name becomes \"Harpie Lady\" while it is on the field or in the Graveyard.",
+    "desc": "You can target 1 WIND monster you control; return it to the hand, then you can Normal Summon 1 WIND monster. You can only use this effect of \"Harpie Dancer\" once per turn. This card's name becomes \"Harpie Lady\" while on the field or in the GY.",
     "str1": "Return to hand",
     "str2": "Do you want to Normal Summon 1 WIND monster from your hand?",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "LCJW-DE097",
         "date": "2013-10-10"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/24/HarpieDancer-LCJW-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8c/HarpieDancer-DUPO-EN-UR-1E.png"
 }

@@ -2,7 +2,7 @@
     "id": 65330383,
     "ot": 3,
     "alias": 0,
-    "setcode": 274,
+    "setcode": 0,
     "type": 67108897,
     "atk": 2500,
     "def": 170,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 256,
     "name": "Knightmare Gryphon",
-    "desc": "2+ monsters with different names\r\nIf this card is Link Summoned: You can discard 1 card, then target 1 Spell/Trap in your GY; Set it to your field, but it cannot be activated this turn, then, if this card was co-linked when this effect was activated, you can draw 1 card. You can only use this effect of \"Knightmare Gryphon\" once per turn. Special Summoned monsters on the field cannot activate their effects, unless they are linked.",
+    "desc": "Link Arrows: [🡰][🡱][🡲][🡳]\n\n2+ monsters with different names\nIf this card is Link Summoned: You can discard 1 card, then target 1 Spell/Trap in your GY; Set it to your field, but it cannot be activated this turn, then, if this card was co-linked when this effect was activated, you can draw 1 card. You can only use this effect of \"Knightmare Gryphon\" once per turn. Special Summoned monsters on the field cannot activate their effects, unless they are linked.",
     "str1": "Set",
     "str2": "Draw 1 card?",
     "str3": "",
@@ -28,5 +28,22 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE048",
+        "date": "2018-05-03"
+    },
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP048",
+        "date": "2018-01-13"
+    },
+    "links": [
+        1,
+        3,
+        4,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d9/KnightmareGryphon-FLOD-EN-ScR-1E.png"
 }

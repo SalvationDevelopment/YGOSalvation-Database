@@ -2,7 +2,7 @@
     "id": 58116537,
     "ot": 1,
     "alias": 0,
-    "setcode": 311,
+    "setcode": 0,
     "type": 131074,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8192,
     "name": "Senka Legend - The Sun-Liu Alliance",
-    "desc": "If you control 2 or more \"Senka\" monsters with different Attributes: You can declare 1 Attribute; monsters your opponent currently controls with that Attribute cannot activate their effects until the end of this turn (even if this card leaves the field). If your opponent Special Summons a monster(s), or if you activate a \"Senka\" monster's effect (except during the Damage Step): You can make all \"Senka\" monsters you currently control gain 300 ATK for each \"Senka\" monster you control, until the end of this turn (even if this card leaves the field). You can only use each effect of \"Senka Legend - The Sun-Liu Alliance\" once per turn.",
+    "desc": "If you control 2 or more \"Senka\" monsters with different Attributes: You can declare 1 Attribute; the effects of all monsters your opponent controls of the declared Attribute cannot be activated until the end of this turn. If your opponent Special Summons a monster(s), OR if you activate a \"Senka\" monster's effect: All \"Senka\" monsters you control gain 300 ATK for each \"Senka\" monster you control, until the end of this turn. You can only use each effect of \"Senka Legend - The Sun-Liu Alliance\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP056",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d4/SenkaLegendTheSunLiuAlliance-IGAS-JP-C.png"
 }

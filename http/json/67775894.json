@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 1057032,
     "name": "Wonder Wand",
-    "desc": "Equip only to a Spellcaster-Type monster. It gains 500 ATK. If you control the equipped monster and this card: You can send both to the Graveyard; draw 2 cards.",
+    "desc": "Equip only to a Spellcaster monster. It gains 500 ATK. If you control the equipped monster and this card: You can send both to the GY; draw 2 cards.",
     "str1": "Draw card",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "GENF-EN045",
         "date": "2011-08-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/WonderWand-BP03-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a9/WonderWand-STP1-EN-SR-UE.png"
 }

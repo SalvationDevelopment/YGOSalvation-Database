@@ -2,7 +2,7 @@
     "id": 65342096,
     "ot": 3,
     "alias": 0,
-    "setcode": 298,
+    "setcode": 0,
     "type": 131074,
     "atk": 0,
     "def": 0,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Order of the Spellcasters",
+        "pack_id": "SR08-EN023",
+        "date": "2019-04-19"
+    },
+    "ocg": {
+        "pack": "Structure Deck R: Lord of Magician",
+        "pack_id": "SR08-JP023",
+        "date": "2019-03-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/63/EndymionsLab-SR08-EN-C-1E.png"
 }

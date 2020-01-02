@@ -2,7 +2,7 @@
     "id": 66023650,
     "ot": 3,
     "alias": 0,
-    "setcode": 276,
+    "setcode": 0,
     "type": 67108897,
     "atk": 2400,
     "def": 133,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262400,
     "name": "Folgo, Justice Fur Hire",
-    "desc": "3 monsters with different Types\r\nCannot be used as Link Material. If this card is Link Summoned: You can Special Summon 1 monster \"Fur Hire\" with a different Type from the 3 monsters used for the Link Summon, from your Deck in Defense Position. If a card(s) your opponent controls is destroyed by battle or card effect: You can draw 1 card, then if you control 3 or more monsters \"Fur Hire\" with different names, draw 2 additional cards. You can only use each effect of \"Folgo, Justice Fur Hire\" once per turn.",
+    "desc": "Link Arrows: [🡱][🡷][🡶]\n\n3 monsters with different Types\nCannot be used as Link Material. If this card is Link Summoned: You can Special Summon 1 monster &#x201C;Fur Hire&#x201D; with a different Type from the 3 monsters used for the Link Summon, from your Deck in Defense Position. If a card(s) your opponent controls is destroyed by battle or card effect: You can draw 1 card, then, if you control 3 or more monsters &#x201C;Fur Hire&#x201D; with different names, draw 2 additional cards. You can only use each effect of &#x201C;Folgo, Justice Fur Hire&#x201D; once per turn.",
     "str1": "Special Summon",
     "str2": "Draw",
     "str3": "",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE047",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP047",
+        "date": "2018-07-14"
+    },
+    "links": [
+        1,
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/03/FolgoJusticeFurHire-SOFU-EN-SR-1E.png"
 }

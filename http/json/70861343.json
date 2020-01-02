@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 1310720,
     "name": "Ninjitsu Art of Transformation",
-    "desc": "Activate this card by Tributing 1 face-up \"Ninja\" monster; Special Summon 1 Beast, Winged Beast, or Insect-Type monster from your hand or Deck whose Level is less than or equal to the Level the Tributed monster had on the field +3. When this card leaves the field, destroy that monster.",
+    "desc": "Activate this card by Tributing 1 face-up \"Ninja\" monster; Special Summon 1 Beast, Winged Beast, or Insect monster from your hand or Deck whose Level is less than or equal to the Level the Tributed monster had on the field +3. When this card leaves the field, destroy that monster.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "The Sanctuary in the Sky",
-        "pack_id": "308-052",
-        "date": "2003-11-20"
-    },
+    "ocg": {},
     "tcg": {
         "pack": "Ancient Sanctuary",
         "pack_id": "AST-DE052",
         "date": "2004-05-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/29/NinjitsuArtofTransformation-OP02-EN-SR-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dc/NinjitsuArtofTransformation-SHVA-EN-SR-1E.png"
 }

@@ -2,7 +2,7 @@
     "id": 63288573,
     "ot": 3,
     "alias": 0,
-    "setcode": 4373,
+    "setcode": 0,
     "type": 67108897,
     "atk": 1500,
     "def": 64,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 8208,
     "name": "Sky Striker Ace - Kagari",
-    "desc": "1 non-FIRE \"Sky Striker Ace\" monster\r\nIf this card is Special Summoned: You can target 1 \"Sky Striker\" Spell in your GY; add it to your hand. Gains 100 ATK for each Spell in your GY. You can only Special Summon \"Sky Striker Ace - Kagari(s)\" once per turn.",
+    "desc": "Link Arrows: [🡴]\n\n1 non-FIRE \"Sky Striker Ace\" monster\nIf this card is Special Summoned: You can target 1 \"Sky Striker\" Spell in your GY; add it to your hand. Gains 100 ATK for each Spell in your GY. You can only Special Summon \"Sky Striker Ace - Kagari(s)\" once per turn.",
     "str1": "Recover \"Sky Striker\" Spell",
     "str2": "",
     "str3": "",
@@ -28,5 +28,19 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Saviors",
+        "pack_id": "DASA-DE027",
+        "date": "2018-05-24"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Dark Savers",
+        "pack_id": "DBDS-JP027",
+        "date": "2018-02-24"
+    },
+    "links": [
+        0
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0c/SkyStrikerAceKagari-DASA-EN-SR-1E.png"
 }

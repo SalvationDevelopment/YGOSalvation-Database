@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Condolence Puppet",
-    "desc": "Send \"Gimmick Puppet\" monsters with different names from your Deck to the GY, up to the number of monsters your opponent controls that were Special Summoned from the Extra Deck +1. You can banish this card from your GY, then target 1 Machine Xyz Monster you control; it cannot be destroyed by your opponent's card effects while face-up on the field. You can only use each effect of \"Condolence Puppet\" once per turn.",
+    "desc": "Send \"Gimmick Puppet\" monsters from your Deck to the GY equal to the the number of monsters your opponent controls that were Special Summoned from the Extra Deck, +1. You can banish this card from the GY, then target 1 Machine Xyz Monster you control; that monster cannot be destroyed by your opponent's effects while face-up on the field. You can only use each effect of \"Condolence Puppet\" once per turn.",
     "str1": "Affected by \"Condolence Puppet\"",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP059",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/be/CondolencePuppet-IGAS-JP-OP.png"
 }

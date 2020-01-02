@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Trickstar Light Arena",
-    "desc": "If you Link Summon a \"Trickstar\" monster: You can target 1 \"Trickstar\" monster in your GY that was used as its material; Special Summon it in Defense Position, but negate its effects. You can only use this effect of \"Trickstar Light Arena\" once per turn. Once per turn: You can target 1 Set card in your opponent's Spell & Trap Zone; while this card is in the Field Zone, that Set card cannot be activated until the End Phase, and your opponent must activate it during the End Phase or else return it to the hand.",
+    "desc": "If you Link Summon a \"Trickstar\" monster: You can target 1 \"Trickstar\" monster in your GY, that was used as material; Special Summon it in Defense Position, but negate its effects. You can only use this effect of \"Trickstar Light Arena\" once per turn. Once per turn: You can target 1 Set card in your opponent's Spell & Trap Zone; while this card is in the Field Zone, that Set card cannot be activated until the End Phase, and your opponent must activate it during the End Phase or else return it to the hand.",
     "str1": "Special Summon",
     "str2": "Lock card",
     "str3": "Select a card to block",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE054",
+        "date": "2018-05-03"
+    },
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP054",
+        "date": "2018-01-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/TrickstarLightArena-FLOD-EN-R-1E.png"
 }

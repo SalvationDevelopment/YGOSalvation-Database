@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 264,
     "name": "Rare Value",
-    "desc": "If there are 2 or more face-up \"Crystal Beast\" cards in your Spell & Trap Card Zone: Your opponent chooses 1 \"Crystal Beast\" card in your Spell & Trap Card Zone and sends it to the Graveyard, then you draw 2 cards.",
+    "desc": "If you control 2 or more \"Crystal Beast\" cards in your Spell & Trap Zone: Your opponent chooses 1 \"Crystal Beast\" card in your Spell & Trap Zone, you send it to the GY, and if you do, you draw 2 cards.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "FOTB-FR033",
         "date": "2007-05-05"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b6/RareValue-RYMP-EN-C-1E.jpg"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/aa/RareValue-OP07-EN-C-UE.png"
 }

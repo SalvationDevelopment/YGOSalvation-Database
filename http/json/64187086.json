@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 1040,
-    "name": "Earthbound Revival",
-    "desc": "Discard 1 card, then target 1 \"Earthbound Immortal\" monster and 1 Field Spell Card in your Graveyard; add those targets to your hand.",
+    "name": "Earthbound Immortal Revival",
+    "desc": "Discard 1 card, then target 1 \"Earthbound Immortal\" monster and 1 Field Spell in your GY; add those targets to your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "SOVR-DE087",
         "date": "2009-11-12"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/44/EarthboundRevival-LC5D-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/76/EarthboundImmortalRevival-LC5D-EN-C-1E.png"
 }

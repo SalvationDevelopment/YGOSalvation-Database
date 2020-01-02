@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 264192,
     "name": "Borrelguard Dragon",
-    "desc": "3+ Effect Monsters\r\nCannot be destroyed by card effects. Once per turn: You can send 1 card from your Spell & Trap Zone to the GY; Special Summon from either GY to your field, 1 monster that was destroyed and sent there this turn, but negate its effects. Once per turn (Quick Effect): You can target 1 monster on the field; change it to face-up Defense Position. Your opponent cannot activate cards or effects in response to this effect's activation.",
+    "desc": "Link Arrows: [🡱][🡲][🡶][🡳]\n\n3+ Effect Monsters\nCannot be destroyed by card effects. Once per turn: You can send 1 card from your Spell & Trap Zone to the GY; Special Summon from either GY to your field, 1 monster that was destroyed and sent there this turn, but negate its effects. Once per turn (Quick Effect): You can target 1 monster on the field; change it to face-up Defense Position. Your opponent cannot activate cards or effects in response to this effect's activation.",
     "str1": "Special Summon",
     "str2": "Change to face-up Defense Position",
     "str3": "",
@@ -28,5 +28,22 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Battles of Legend: Relentless Revenge",
+        "pack_id": "BLRR-DE044",
+        "date": "2018-06-28"
+    },
+    "ocg": {
+        "pack": "Collectors Pack 2018",
+        "pack_id": "CP18-JP044",
+        "date": "2018-05-12"
+    },
+    "links": [
+        1,
+        4,
+        6,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d0/BorrelguardDragon-BLRR-EN-ScR-1E.png"
 }

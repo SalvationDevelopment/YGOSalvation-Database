@@ -2,7 +2,7 @@
     "id": 62517849,
     "ot": 3,
     "alias": 0,
-    "setcode": 4722815,
+    "setcode": 309514403967,
     "type": 8388641,
     "atk": 0,
     "def": 2500,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 1074004496,
     "name": "Number 39: Utopia Double",
-    "desc": "2 Level 4 monsters\r\n(Quick Effect): You can detach 1 material from this card; add 1 \"Double or Nothing!\" from your Deck to your hand, then Special Summon from your Extra Deck, 1 \"Utopia\" Xyz Monster, except \"Number 39: Utopia Double\", by using this face-up card you control as material, and if you do, its ATK becomes doubled, but it cannot attack directly. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) You can only use this effect of \"Number 39: Utopia Double\" once per turn.",
+    "desc": "2 Level 4 monsters\n(Quick Effect): You can detach 1 material from this card; add 1 \"Double or Nothing!\" from your Deck to your hand, then Special Summon from your Extra Deck, 1 \"Utopia\" Xyz Monster except \"Number 39: Utopia Double\", by using this face-up card you control as material, and if you do, its ATK becomes doubled, but it cannot attack directly. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) You can only use this effect of \"Number 39: Utopia Double\" once per turn.",
     "str1": "Search and Special Summon",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Duel Power",
+        "pack_id": "DUPO-EN008",
+        "date": "2019-04-03"
+    },
+    "ocg": {
+        "pack": "20th Anniversary Duelist Box",
+        "pack_id": "20TH-JPB19",
+        "date": "2018-12-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/51/Number39UtopiaDouble-DUPO-EN-UR-1E.png"
 }

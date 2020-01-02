@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 16785408,
     "name": "F.A. Dark Dragster",
-    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having a Level 7 or higher \"F.A.\" monster on the field, but no \"F.A. Dark Dragster\" in your Monster Zone. Gains ATK equal to its Level x 300. Each time a \"F.A.\" Spell/Trap Card or effect is activated: You can increase this card's Level by 1. Once per turn: You can target 1 card on the field; reduce this card's Level by 3, and if you do, destroy that target.",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having a Level 7 or higher &#x201C;F.A.&#x201D; monster on the field, but no &#x201C;F.A. Dark Dragster&#x201D; in your Monster Zone. Gains ATK equal to its Level x 300. Each time a &#x201C;F.A.&#x201D; Spell/Trap Card or effect is activated: You can increase this card's Level by 1. Once per turn: You can target 1 card on the field; reduce this card's level by 3, and if you do, destroy that target.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE087",
+        "date": "2018-05-03"
+    },
+    "ocg": {
+        "pack": "Extra Pack 2018",
+        "pack_id": "EP18-JP026",
+        "date": "2018-09-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8d/FADarkDragster-FLOD-EN-R-1E.png"
 }

@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Jump Festa Limited Pack 2020",
+        "pack_id": "JF20-JP002",
+        "date": "2019-12-21"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/ff/SelkietheLivingMemory-JF20-JP-SR.png"
 }

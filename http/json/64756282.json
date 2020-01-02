@@ -2,7 +2,7 @@
     "id": 64756282,
     "ot": 1,
     "alias": 0,
-    "setcode": 296,
+    "setcode": 0,
     "type": 33,
     "atk": 300,
     "def": 500,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 0,
     "name": "Witchcrafter Genie",
-    "desc": "During the Main Phase (Quick Effect): You can Tribute this card, then discard 1 Spell; Special Summon 1 \"Witchcrafter\" monster from your Deck, except \"Witchcrafter Genie\". You can banish this card and 1 \"Witchcrafter\" Spell from your GY; this effect becomes that Spell's effect when the card is activated. You can only use each effect of \"Witchcrafter Genie\" once per turn.",
+    "desc": "During the Main Phase (Quick Effect): You can Tribute this card, then discard 1 Spell; Special Summon 1 \"Witchcrafter\" monster from your Deck, except \"Witchcrafter Genie\". You can banish this card and 1 \"Witchcrafter\" Spell in your GY; apply that banished Spell's effects. You can only use each effect of \"Witchcrafter Genie\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP021",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/aa/WitchcrafterGenie-IGAS-JP-OP.png"
 }

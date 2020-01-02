@@ -2,7 +2,7 @@
     "id": 72330894,
     "ot": 1,
     "alias": 0,
-    "setcode": 301,
+    "setcode": 0,
     "type": 67108897,
     "atk": 2400,
     "def": 7,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 262144,
     "name": "Simorgh, Bird of Kings",
-    "desc": "2+ monsters, including a Winged Beast monster\nCannot be used as Link Material. Your opponent cannot target this card, or Winged Beast monsters this card points to, with card effects. If this card would be destroyed by battle, you can destroy 1 \"Simorgh\" card you control instead. During the End Phase: You can Special Summon 1 Winged Beast monster from your hand or Deck, whose Level is equal to or lower than the number of unused Spell & Trap Zones on the field. You can only use this effect of \"Simorgh, Bird of Kings\" once per turn.",
+    "desc": "Link Arrows: [🡷][🡳][🡶]\n\n&#x9CE5;&#x7363;&#x65CF;&#x30E2;&#x30F3;&#x30B9;&#x30BF;&#x30FC;&#x3092;&#x542B;&#x3080;&#x30E2;&#x30F3;&#x30B9;&#x30BF;&#x30FC;&#xFF12;&#x4F53;&#x4EE5;&#x4E0A;\n&#x3053;&#x306E;&#x30AB;&#x30FC;&#x30C9;&#x540D;&#x306E;&#x2462;&#x306E;&#x52B9;&#x679C;&#x306F;&#xFF11;&#x30BF;&#x30FC;&#x30F3;&#x306B;&#xFF11;&#x5EA6;&#x3057;&#x304B;&#x4F7F;&#x7528;&#x3067;&#x304D;&#x306A;&#x3044;&#x3002;&#x3053;&#x306E;&#x30AB;&#x30FC;&#x30C9;&#x306F;&#x30EA;&#x30F3;&#x30AF;&#x7D20;&#x6750;&#x306B;&#x3067;&#x304D;&#x306A;&#x3044;&#x3002;&#x2460;&#xFF1A;&#x3053;&#x306E;&#x30AB;&#x30FC;&#x30C9;&#x53CA;&#x3073;&#x3053;&#x306E;&#x30AB;&#x30FC;&#x30C9;&#x306E;&#x30EA;&#x30F3;&#x30AF;&#x5148;&#x306E;&#x9CE5;&#x7363;&#x65CF;&#x30E2;&#x30F3;&#x30B9;&#x30BF;&#x30FC;&#x306F;&#x76F8;&#x624B;&#x306E;&#x52B9;&#x679C;&#x306E;&#x5BFE;&#x8C61;&#x306B;&#x306A;&#x3089;&#x306A;&#x3044;&#x3002;&#x2461;&#xFF1A;&#x3053;&#x306E;&#x30AB;&#x30FC;&#x30C9;&#x304C;&#x6226;&#x95D8;&#x3067;&#x7834;&#x58CA;&#x3055;&#x308C;&#x308B;&#x5834;&#x5408;&#x3001;&#x4EE3;&#x308F;&#x308A;&#x306B;&#x81EA;&#x5206;&#x30D5;&#x30A3;&#x30FC;&#x30EB;&#x30C9;&#x306E;&#x300C;&#x30B7;&#x30E0;&#x30EB;&#x30B0;&#x300D;&#x30AB;&#x30FC;&#x30C9;&#x3092;&#x7834;&#x58CA;&#x3067;&#x304D;&#x308B;&#x3002;&#x2462;&#xFF1A;&#x81EA;&#x5206;&#x30FB;&#x76F8;&#x624B;&#x306E;&#x30A8;&#x30F3;&#x30C9;&#x30D5;&#x30A7;&#x30A4;&#x30BA;&#x306B;&#x767A;&#x52D5;&#x3067;&#x304D;&#x308B;&#x3002;&#x4F7F;&#x7528;&#x3057;&#x3066;&#x3044;&#x306A;&#x3044;&#x81EA;&#x5206;&#x30FB;&#x76F8;&#x624B;&#x306E;&#x9B54;&#x6CD5;&#xFF06;&#x7F60;&#x30BE;&#x30FC;&#x30F3;&#x306E;&#x6570;&#x4EE5;&#x4E0B;&#x306E;&#x30EC;&#x30D9;&#x30EB;&#x3092;&#x6301;&#x3064;&#x3001;&#x9CE5;&#x7363;&#x65CF;&#x30E2;&#x30F3;&#x30B9;&#x30BF;&#x30FC;&#xFF11;&#x4F53;&#x3092;&#x624B;&#x672D;&#x30FB;&#x30C7;&#x30C3;&#x30AD;&#x304B;&#x3089;&#x7279;&#x6B8A;&#x53EC;&#x559A;&#x3059;&#x308B;&#x3002;",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,17 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "LINK VRAINS Pack 3",
+        "pack_id": "LVP3-JP026",
+        "date": "2019-11-23"
+    },
+    "links": [
+        5,
+        6,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fd/SimorghBirdofKings-LVP3-JP-OP.png"
 }

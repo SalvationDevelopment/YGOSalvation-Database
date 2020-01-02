@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Performapal Gold Fang",
-    "desc": "Pendulum Effect\nOnce per turn, if a \"Performapal\" monster you control destroys an opponent's monster by battle: Inflict 1000 damage to your opponent.\n\nMonster Effect\nIf this card is Normal or Special Summoned: All \"Performapal\" monsters you currently control gain 200 ATK until the end of this turn.",
+    "desc": "Pendulum Effect\nOnce per turn, if your &#x201C;Performapal&#x201D; monster destroys an opponent's monster by battle: Inflict 1000 damage to your opponent.\n\nMonster Effect\nIf this card is Normal or Special Summoned: All &#x201C;Performapal&#x201D; monsters you currently control gain 200 ATK until the end of this turn.",
     "str1": "Inflict 1000 damage",
     "str2": "Gain Attack",
     "str3": "",
@@ -35,6 +35,10 @@
         "pack_id": "SJMP-JP005",
         "date": "2016-08-05"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/37/PerformapalGoldFang-SJMP-JP-NPR.png"
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE095",
+        "date": "2018-07-26"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/PerformapalGoldFang-CYHO-EN-R-1E.png"
 }

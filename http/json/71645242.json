@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 1318915,
     "name": "Black Garden",
-    "desc": "If a monster(s) is Normal or Special Summoned, except by the effect of \"Black Garden\": Halve its ATK, also you Special Summon 1 \"Rose Token\" (Plant-Type/DARK/Level 2/ATK 800/DEF 800) to its controller's opponent's side of the field, in Attack Position. (This ATK loss remains even if this card leaves the field.) You can target 1 monster in your Graveyard with ATK equal to the total ATK of all Plant-Type monsters on the field; destroy this card and as many Plant-Type monsters on the field as possible, then if the total ATK the destroyed monsters had on the field is equal to that target's ATK, Special Summon that target.",
+    "desc": "If a monster(s) is Normal or Special Summoned face-up, except by the effect of \"Black Garden\": Halve its ATK, then, the controller of that monster Special Summons 1 \"Rose Token\" (Plant/DARK/Level 2/ATK 800/DEF 800) to their opponent's field in Attack Position. (This ATK loss remains even if this card leaves the field.) You can target 1 monster in your GY with ATK equal to the total ATK of all Plant monsters on the field; destroy this card and as many Plant monsters on the field as possible, then, if you destroyed all of them, Special Summon that targeted monster.",
     "str1": "Halve ATK, Special Summon Token",
     "str2": "Special Summon",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "CSOC-EN048",
         "date": "2008-11-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/14/BlackGarden-LC5D-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/BlackGarden-LED4-EN-C-1E.png"
 }

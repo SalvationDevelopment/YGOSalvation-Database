@@ -2,7 +2,7 @@
     "id": 67225377,
     "ot": 3,
     "alias": 0,
-    "setcode": 281,
+    "setcode": 0,
     "type": 33,
     "atk": 800,
     "def": 600,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 262144,
     "name": "Salamangreat Meer",
-    "desc": "If this card is added to your hand, except by drawing it for your normal draw: You can reveal this card; Special Summon it from your hand. If this card is in your hand: You can discard 1 other \"Salamangreat\" card; Special Summon this card from your hand. You can only use each effect of \"Salamangreat Meer\" once per turn.",
+    "desc": "If this card is added to your hand, except by drawing it for your normal draw: You can reveal this card; Special Summon it from your hand. If this card is in your hand: You can discard 1 other \"Salamangreat\" card; Special Summon this card from your hand. You can only use each effect of \"Salamangreat Meer\" once per turn",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE002",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP002",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/94/SalamangreatMeer-SDSB-EN-C-1E.png"
 }

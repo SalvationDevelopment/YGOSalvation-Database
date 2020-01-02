@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262152,
     "name": "Vampire's Desire",
-    "desc": "Activate 1 of these effects.\r\n●Target 1 face-up monster you control; send 1 \"Vampire\" monster from your Deck to the GY with a different Level from that monster, and if you do, the targeted monster becomes the Level of that sent monster in the GY, until the end of this turn.\r\n●Target 1 \"Vampire\" monster in your GY; send 1 monster you control to the GY, and if you do, Special Summon the targeted monster.\r\nYou can only activate 1 \"Vampire's Desire\" per turn.",
+    "desc": "Activate 1 of these effects.\n● Target 1 face-up monster you control; send 1 \"Vampire\" monster from your Deck to the GY with a different Level from that monster, and if you do, that monster becomes the Level of that sent monster until the end of this turn.\n● Target 1 \"Vampire\" monster in your GY; send 1 monster you control to the GY, and if you do, Special Summon the targeted monster.\nYou can only activate 1 \"Vampire's Desire\" per turn.",
     "str1": "Change Level",
     "str2": "Send 1 monster to GY and Special Summon",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Saviors",
+        "pack_id": "DASA-DE008",
+        "date": "2018-05-24"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Dark Savers",
+        "pack_id": "DBDS-JP008",
+        "date": "2018-02-24"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2e/VampiresDesire-DASA-EN-ScR-1E.png"
 }

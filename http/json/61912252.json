@@ -2,7 +2,7 @@
     "id": 61912252,
     "ot": 3,
     "alias": 0,
-    "setcode": 295,
+    "setcode": 0,
     "type": 33,
     "atk": 500,
     "def": 2400,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262144,
     "name": "Infinitrack Trencher",
-    "desc": "You can Tribute 1 EARTH Machine monster; Special Summon this card from your hand in Defense Position. You can banish this card from your GY, then target 1 Level 5 or lower \"Infinitrack\" monster in your GY, except \"Infinitrack Trencher\"; Special Summon that monster in Defense Position. You can only use each effect of \"Infinitrack Trencher\" once per turn.",
+    "desc": "You can Tribute 1 EARTH Machine monster; Special Summon this card from your hand in Defense Position. You can banish this card from your GY, then target 1 Level 5 or lower &#x201C;Infinitrack&#x201D; monster in your GY, except &#x201C;Infinitrack Trencher&#x201D;; Special Summon that monster in Defense Position. You can only use each effect of \"Infinitrack Trencher\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "The Infinity Chasers",
+        "pack_id": "INCH-EN005",
+        "date": "2019-03-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Infinity Chasers",
+        "pack_id": "DBIC-JP005",
+        "date": "2019-02-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6a/InfinitrackTrencher-INCH-EN-ScR-1E.png"
 }

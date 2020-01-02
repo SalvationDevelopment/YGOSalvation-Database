@@ -2,7 +2,7 @@
     "id": 58672736,
     "ot": 3,
     "alias": 0,
-    "setcode": 282,
+    "setcode": 0,
     "type": 8225,
     "atk": 3000,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 65538,
     "name": "Dinowrestler Giga Spinosavate",
-    "desc": "1 Dinosaur Tuner + 1+ non-Tuner monsters\r\nIf this card battles, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. Your opponent's monsters cannot target monsters for attacks, except this one. Once per turn: You can target 1 monster your opponent controls; destroy it. If this card would be destroyed by battle or card effect, you can destroy 1 card you control instead.",
+    "desc": "1 Dinosaur Tuner + 1+ non-Tuner monsters\nIf this card battles, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. Your opponent's monsters cannot target monsters you control for attacks, except this one. Once per turn: You can target 1 monster your opponent controls; destroy it. If this face-up card you control would be destroyed, you can destroy 1 other card you control instead.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE034",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP034",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2d/DinowrestlerGigaSpinosavate-DANE-EN-R-1E.png"
 }

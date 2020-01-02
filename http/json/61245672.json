@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 270340,
     "name": "Decode Talker Heatsoul",
-    "desc": "2+ Cyberse monsters with different Attributes\r\nGains 500 ATK for each monster it points to. (Quick Effect): You can pay 1000 LP; draw 1 card, then if your LP are 2000 or less, you can banish this card from the field, and if you do, Special Summon 1 Link-3 or lower Cyberse monster from your Extra Deck, except \"Decode Talker Heatsoul\". You can only use this effect of \"Decode Talker Heatsoul\" once per turn.",
+    "desc": "Link Arrows: [🡱][🡷][🡶]\n\n2+ Cyberse monsters with different Attributes\nGains 500 ATK for each monster it points to. (Quick Effect): You can pay 1000 LP; draw 1 card, then if your LP are 2000 or less, you can banish this card from the field, and if you do, Special Summon 1 Link-3 or lower Cyberse monster from your Extra Deck, except \"Decode Talker Heatsoul\". You can only use this effect of \"Decode Talker Heatsoul\" once per turn.",
     "str1": "Increase ATK",
     "str2": "Banish this card?",
     "str3": "",
@@ -28,5 +28,17 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Legendary Gold Box",
+        "pack_id": "LGB1-JP041",
+        "date": "2019-12-21"
+    },
+    "links": [
+        1,
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bf/DecodeTalkerHeatsoul-LGB1-JP-OP.png"
 }

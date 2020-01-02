@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 8448,
     "name": "Trackblack",
-    "desc": "2 Effect Monsters\r\nYou can target 1 monster you control this card points to; this turn, each time it destroys an opponent's monster by battle, draw 1 card. You can only use this effect of \"Trackblack\" once per turn.",
+    "desc": "Link Arrows: [🡴][🡶]\n\n2 Effect Monsters\nYou can target 1 monster you control this card points to; this turn, each time it destroys an opponent's monster by battle, draw 1 card. You can only use this effect of \"Trackblack\" once per turn.",
     "str1": "Target 1 Monster",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Starter Deck 2019",
+        "pack_id": "ST19-JP042",
+        "date": "2019-03-23"
+    },
+    "links": [
+        0,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/05/Trackblack-ST19-JP-OP.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 2097152,
     "name": "Predaplant Verte Anaconda",
-    "desc": "2 Effect Monsters\nYou can target 1 face-up monster on the field; it becomes DARK until the end of this turn. You can pay 2000 LP and send 1 \"Polymerization\" Normal or Quick-Play Spell or \"Fusion\" Normal or Quick-Play Spell from your Deck to the GY; this effect becomes that Spell's effect when the card is activated, also you cannot Special Summon monsters for the rest of this turn. You can only use each effect of \"Predaplant Verte Anaconda\" once per turn.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 Effect Monsters\nYou can target 1 face-up monster on the field; it becomes DARK until the end of this turn. You can pay 2000 LP and send 1 \"Polymerization\" Normal or Quick-Play Spell or \"Fusion\" Normal or Quick-Play Spell from your Deck to the GY; this effect becomes that Spell's effect when the card is activated, also you cannot Special Summon monsters for the rest of this turn. You can only use each effect of \"Predaplant Verte Anaconda\" once per turn.",
     "str1": "Target 1 monster to become DARK",
     "str2": "Copy 1 \"Polymerization/Fusion\" Normal or Quick Spell",
     "str3": "Affected by \"Predaplant Verte Anaconda\"",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "LINK VRAINS Pack 3",
+        "pack_id": "LVP3-JP071",
+        "date": "2019-11-23"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e4/PredaplantVerteAnaconda-LVP3-JP-OP.png"
 }

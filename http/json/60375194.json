@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 16777216,
     "name": "Vendread Daybreak",
-    "desc": "If your opponent controls more cards than you do: Choose 1 Ritual Summoned \"Vendread\" monster you control, and destroy all cards on the field, except the chosen monster. It cannot attack directly while it remains face-up on the field. You can only activate 1 \"Vendread Daybreak\" per turn.",
+    "desc": "If your opponent controls more cards than you do: Choose 1 Ritual Summoned \"Vendread\" monster you control, and destroy all cards on the field, except the chosen monster. It cannot attack directly while it remains face-up on the field. You can only activate 1 &#x201C;Vendread Daybreak&#x201D; per turn.",
     "str1": "Cannot attack directly",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE086",
+        "date": "2018-05-03"
+    },
+    "ocg": {
+        "pack": "Extra Pack 2018",
+        "pack_id": "EP18-JP019",
+        "date": "2018-09-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/79/VendreadDaybreak-FLOD-EN-C-1E.png"
 }

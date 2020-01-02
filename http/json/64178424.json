@@ -2,7 +2,7 @@
     "id": 64178424,
     "ot": 3,
     "alias": 0,
-    "setcode": 281,
+    "setcode": 0,
     "type": 131074,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Will of the Salamangreat",
-    "desc": "During your Main Phase: You can Special Summon 1 \"Salamangreat\" monster from your hand or GY. You can send this face-up card from the field to the GY, then target 1 \"Salamangreat\" Link Monster you control that was Link Summoned using a monster with its same name as material; Special Summon \"Salamangreat\" monster(s) from your hand and/or GY in Defense Position, up to the number of that monster's Link Rating. You can only use 1 \"Will of the Salamangreat\" effect per turn, and only once that turn.",
+    "desc": "During your Main Phase: You can Special Summon 1 &#x201C;Salamangreat&#x201D; monster from your hand or GY. You can send this face-up card from the field to the GY, then target 1 &#x201C;Salamangreat&#x201D; Link Monster you control that was Link Summoned using a monster with its same name as material; Special Summon &#x201C;Salamangreat&#x201D; monster(s) from the hand and/or GY in Defense Position, up to the number of that monster's Link Rating. You can only use 1 &#x201C;Will of the Salamangreat&#x201D; effect per turn, and only once that turn.",
     "str1": "Special Summon 1 \"Salamangreat\" monster",
     "str2": "Special Summon multiple \"Salamangreat\" monsters",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE053",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP053",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/WilloftheSalamangreat-SOFU-EN-C-1E.png"
 }

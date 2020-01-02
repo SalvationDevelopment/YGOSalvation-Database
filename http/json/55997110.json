@@ -10,8 +10,8 @@
     "race": 32768,
     "attribute": 1,
     "category": 0,
-    "name": "Performapal Handsome Liger",
-    "desc": "When this card destroys an opponent's monster by battle and sends it to the GY: You can add 1 Level 5 or higher Pendulum Monster from your Deck to your hand. You can only use this effect of \"Performapal Handsome Liger\" once per turn.",
+    "name": "Performapal Handsamuraiger",
+    "desc": "When this card destroys an opponent's monster by battle and sends it to the GY: You can add 1 Level 5 or higher Pendulum Monster from your Deck to your hand. You can only use this effect of &#x201C;Performapal Handsamuraiger&#x201D; once per turn.",
     "str1": "Activate Effect",
     "str2": "Add 1 Level 5 or higher Pendulum Monster to hand",
     "str3": "",
@@ -35,6 +35,10 @@
         "pack_id": "VJMP-JP118",
         "date": "2016-09-21"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/PerformapalHandsomeLiger-VJMP-JP-UR.png"
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE093",
+        "date": "2018-07-26"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/35/PerformapalHandsamuraiger-CYHO-EN-C-1E.png"
 }

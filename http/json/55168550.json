@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 270336,
     "name": "Galaxy Brave",
-    "desc": "If this card is in your hand: You can reveal 1 \"Photon\" monster in your hand; Special Summon this card, and if you do, its Level becomes the Level of that \"Photon\" monster. If this card is Normal or Special Summoned: You can target 1 \"Galaxy\" monster in your GY; this card's ATK/DEF become that monster's ATK/DEF. You can only use each effect of \"Galaxy Brave\" once per turn.",
+    "desc": "If this card is in your hand: You can reveal 1 &#x201C;Photon&#x201D; monster in your hand; Special Summon this card, and if you do, its Level becomes the Level of that &#x201C;Photon&#x201D; monster. If this card is Normal or Special Summoned: You can target 1 &#x201C;Galaxy&#x201D; monster in your GY; this card's ATK/DEF become that monster's ATK/DEF. You can only use each effect of &#x201C;Galaxy Brave&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE011",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP011",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d7/GalaxyBrave-SOFU-EN-C-1E.png"
 }

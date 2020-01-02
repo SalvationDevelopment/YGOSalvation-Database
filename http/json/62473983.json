@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 33816576,
     "name": "Gravekeeper's Chief",
-    "desc": "You can only control 1 face-up \"Gravekeeper's Chief\". Your Graveyard is unaffected by \"Necrovalley\". When this card is Tribute Summoned: You can target 1 \"Gravekeeper's\" monster in your Graveyard; Special Summon that target.",
+    "desc": "You can only control 1 face-up \"Gravekeeper's Chief\". Your GY is unaffected by \"Necrovalley\". When this card is Tribute Summoned: You can target 1 \"Gravekeeper's\" monster in your GY; Special Summon that target.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "The New Ruler",
-        "pack_id": "301-013",
-        "date": "2002-05-16"
-    },
+    "ocg": {},
     "tcg": {
         "pack": "Pharaonic Guardian",
         "pack_id": "PGD-065",
         "date": "2003-07-18"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/02/GravekeepersChief-LCYW-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d0/GravekeepersChief-SS01-EN-C-1E.png"
 }

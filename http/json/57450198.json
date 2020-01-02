@@ -2,7 +2,7 @@
     "id": 57450198,
     "ot": 3,
     "alias": 0,
-    "setcode": 8412,
+    "setcode": 14426332,
     "type": 8388641,
     "atk": 2700,
     "def": 1900,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 2147483648,
     "name": "Super Quantal Mech Beast Lusterrex",
-    "desc": "2 Level 7 monsters\r\nCannot attack unless it has Xyz Material. Once per turn: You can detach 1 material from this card, then target 1 Effect Monster on the field; negate that face-up monster's effects until the end of this turn. This is a Quick Effect if this card has \"Super Quantum White Layer\" as material. Once per turn: You can attach 1 \"Super Quantum\" monster from your hand or field to this card as material.",
+    "desc": "2 Level 7 monsters\nCannot attack unless it has Xyz Material. Once per turn: You can detach 1 material from this card, then target 1 Effect Monster on the field; negate that face-up monster's effect until the end of this turn. This is a Quick Effect if this card has \"Super Quantum White Layer\" as material. Once per turn: You can attach 1 \"Super Quantum\" monster from your hand or field to this card as material.",
     "str1": "Negate effect",
     "str2": "Attach",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE037",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP037",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a8/SuperQuantalMechBeastLusterex-DANE-EN-SR-1E.png"
 }

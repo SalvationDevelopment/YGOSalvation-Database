@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 67109120,
     "name": "Royal Magical Library",
-    "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves (max. 3). You can remove 3 Spell Counters from this card; draw 1 card.",
+    "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves (max. 3). You can remove 3 Spell Counters from this card; draw 1 card.",
     "str1": "Draw card",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Champion of Black Magic",
-        "pack_id": "303-020",
-        "date": "2002-09-19"
-    },
+    "ocg": {},
     "tcg": {
         "pack": "Magician's Force",
         "pack_id": "MFC-074",
         "date": "2003-10-10"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/RoyalMagicalLibrary-SDSC-EN-C-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c8/RoyalMagicalLibrary-OP07-EN-SR-UE.png"
 }

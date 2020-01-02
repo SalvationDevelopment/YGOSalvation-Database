@@ -2,7 +2,7 @@
     "id": 68078978,
     "ot": 3,
     "alias": 0,
-    "setcode": 302,
+    "setcode": 0,
     "type": 33,
     "atk": 0,
     "def": 0,
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Collection Pack: Duelists of Revolution",
+        "pack_id": "CP19-JP022",
+        "date": "2019-05-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4c/FortuneFairyChee-BLHR-EN-UR-1E.png"
 }

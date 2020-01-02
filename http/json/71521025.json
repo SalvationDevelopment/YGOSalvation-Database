@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Duel Devastator",
+        "pack_id": "DUDE-DE006",
+        "date": "2019-10-10"
+    },
+    "ocg": {
+        "pack": "V Jump June 2019 promotional card",
+        "pack_id": "VJMP-JP163",
+        "date": "2019-04-20"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c7/RedBlossomsfromUnderroot-DUDE-EN-UR-1E.png"
 }

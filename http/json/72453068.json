@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Loss Time",
-    "desc": "If your opponent's LP is 4000 or higher, your LP become 1000 less than theirs. You can only activate 1 \"Loss Time\" per turn.",
+    "desc": "If your opponent's LP is 4000 or higher, your LP becomes 1000 less than theirs. You can only activate 1 \"Loss Time\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE080",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP080",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/63/LossTime-SAST-EN-C-1E.png"
 }

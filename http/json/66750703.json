@@ -2,7 +2,7 @@
     "id": 66750703,
     "ot": 2,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 124,
     "type": 524290,
     "atk": 0,
     "def": 0,
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "tcg": {
+        "pack": "Fists of the Gadgets",
+        "pack_id": "FIGA-DE018",
+        "date": "2019-08-22"
+    },
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/59/FireFortressatopLiangPeak-FIGA-EN-ScR-1E.png"
 }

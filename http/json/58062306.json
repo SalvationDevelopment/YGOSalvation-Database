@@ -2,7 +2,7 @@
     "id": 58062306,
     "ot": 1,
     "alias": 0,
-    "setcode": 291,
+    "setcode": 0,
     "type": 33,
     "atk": 1200,
     "def": 800,
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Premium Pack 2020",
+        "pack_id": "20PP-JP007",
+        "date": "2020-02-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/59/RosePrincess-20PP-JP-OP.png"
 }

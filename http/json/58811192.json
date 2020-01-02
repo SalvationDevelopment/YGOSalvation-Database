@@ -2,7 +2,7 @@
     "id": 58811192,
     "ot": 3,
     "alias": 0,
-    "setcode": 16565,
+    "setcode": 11878581,
     "type": 67108897,
     "atk": 1800,
     "def": 5,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 270336,
     "name": "Ritual Beast Ulti-Kimunfalcos",
-    "desc": "2 \"Ritual Beast\" monsters\r\n\"Ritual Beast\" monsters this card points to gain 600 ATK/DEF. You can banish 1 \"Ritual Beast\" card from your GY; immediately after this effect resolves, Normal Summon 1 \"Ritual Beast\" monster from your hand. You can only use this effect of \"Ritual Beast Ulti-Kimunfalcos\" once per turn. (Quick Effect): You can return this card you control to the Extra Deck, then target 2 of your banished monsters (1 \"Ritual Beast Tamer\" monster and 1 \"Spiritual Beast\" monster); Special Summon them in Defense Position.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 \"Ritual Beast\" monsters\n\"Ritual Beast\" monsters this card points to gain 600 ATK/DEF. You can banish 1 \"Ritual Beast\" card from your GY; immediately after this effect resolves, Normal Summon 1 \"Ritual Beast\" monster from your hand. You can only use this effect of \"Ritual Beast Ulti-Kimunfalcos\" once per turn. (Quick Effect): You can return this card you control to the Extra Deck, then target 2 of your banished monsters (1 \"Ritual Beast Tamer\" monster and 1 \"Spiritual Beast\" monster); Special Summon them in Defense Position.",
     "str1": "Normal Summon",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE096",
+        "date": "2018-02-01"
+    },
+    "ocg": {
+        "pack": "LINK VRAINS Pack",
+        "pack_id": "LVP1-JP066",
+        "date": "2017-11-25"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/36/RitualBeastUltiKimunfalcos-EXFO-EN-R-1E.png"
 }

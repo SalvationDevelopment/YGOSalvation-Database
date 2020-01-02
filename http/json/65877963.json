@@ -2,7 +2,7 @@
     "id": 65877963,
     "ot": 3,
     "alias": 0,
-    "setcode": 279,
+    "setcode": 0,
     "type": 161,
     "atk": 2500,
     "def": 1800,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262146,
     "name": "Impcantation Chalislime",
-    "desc": "You can Ritual Summon this card with \"Impcantation Inception\". You can reveal this card in your hand; discard 1 card, and if you do, Special Summon 1 \"Impcantation\" monster from your Deck, also, during the End Phase, lose 2500 LP if you did not Special Summon a Ritual Monster this turn after you resolved this effect. You can send 1 \"Impcantation\" card from your hand or face-up field to the GY, then target 1 monster your opponent controls; destroy it. You can only use 1 \"Impcantation Chalislime\" effect per turn, and only once that turn.",
+    "desc": "You can Ritual Summon this card with \"Impcantation Inception\". You can reveal this card in your hand; discard 1 card, and if you do, Special Summon 1 \"Impcantation\" monster from your Deck, also, during the End Phase, lose 2500 LP if you did not Special Summon a Ritual Monster this turn after you resolved this effect. You can send 1 \"Impcantation\" card from your hand or face-up field to the GY, then target 1 monster your opponent controls; destroy it. You can only use 1 &#x201C;Impcantation Chalislime&#x201D; effect per turn, and only once that turn.",
     "str1": "Reveal  then Special Summon 1 \"Impcantation\"",
     "str2": "Lose 2500 LP",
     "str3": "Destroy",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE032",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP032",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a8/ImpcantationChalislime-SAST-EN-R-1E.png"
 }

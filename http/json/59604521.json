@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 4456448,
     "name": "Trickstar Rhodode",
-    "desc": "You can discard 1 \"Trickstar\" card, then target 1 \"Trickstar\" Link Monster in your GY; Special Summon it. You can only use this effect of \"Trickstar Rhodode\" once per turn. Each time a card(s) is banished from your opponent's GY, immediately inflict 200 damage to your opponent for each card banished.",
+    "desc": "You can discard 1 \"Trickstar\" card, then target 1 \"Trickstar\" Link Monster in your GY: Special Summon it. You can only use this effect of \"Trickstar Rhodode\" once per turn. Each time a card(s) is banished from your opponent's GY, immediately inflict 200 damage to your opponent for each card banished.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE008",
+        "date": "2018-05-03"
+    },
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP008",
+        "date": "2018-01-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/TrickstarRhodode-FLOD-EN-SR-1E.png"
 }

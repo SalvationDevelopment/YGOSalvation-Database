@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Destiny HERO - Celestial",
-    "desc": "When this card declares an attack: You can target 1 face-up Spell Card your opponent controls; destroy it, and if you do, inflict 500 damage to your opponent. While you have no cards in your hand, except the turn this card was sent to the Graveyard: You can banish this card and 1 \"Destiny HERO\" monster from your Graveyard; draw 2 cards. You can only use this effect of \"Destiny HERO - Celestial\" once per turn.",
+    "desc": "When this card declares an attack: You can target 1 face-up Spell your opponent controls; destroy it, and if you do, inflict 500 damage to your opponent. While you have no cards in your hand, except the turn this card was sent to the GY: You can banish this card and 1 \"Destiny HERO\" monster from your GY; draw 2 cards. You can only use this effect of \"Destiny HERO - Celestial\" once per turn.",
     "str1": "Destroy Spell Card",
     "str2": "Draw 2 Cards",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "DESO-DE006",
         "date": "2016-11-17"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f0/DestinyHEROCelestial-DESO-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/DestinyHEROCelestial-LEHD-EN-C-1E.png"
 }

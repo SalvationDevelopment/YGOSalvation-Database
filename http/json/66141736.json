@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Red Rising Dragon",
-    "desc": "1 Fiend Tuner + 1+ non-Tuner monsters\nWhen this card is Synchro Summoned: You can target 1 \"Resonator\" monster in your GY; Special Summon it. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except DARK Dragon Synchro Monsters. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 2 Level 1 \"Resonator\" monsters in your GY; Special Summon both of them.",
+    "desc": "1 Fiend Tuner + 1+ non-Tuner monster\nWhen this card is Synchro Summoned: You can target 1 \"Resonator\" monster in your GY; Special Summon it. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except DARK Dragon Synchro Monsters. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 2 Level 1 \"Resonator\" monsters in your GY; Special Summon both.",
     "str1": "Special Summon \"Resonator\"",
     "str2": "Special Summon Level 1 \"Resonator\"",
     "str3": "",
@@ -35,6 +35,10 @@
         "pack_id": "VP16-JP002",
         "date": "2016-07-21"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ee/RedRisingDragon-VP16-JP-UR.png"
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-EN099",
+        "date": "2019-01-31"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/RedRisingDragon-SAST-EN-C-1E.png"
 }

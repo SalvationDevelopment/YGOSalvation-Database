@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Yu-Gi-Oh! Advent Calendar",
+        "pack_id": "AC19-DE024",
+        "date": "2019-09-26"
+    },
+    "ocg": {
+        "pack": "Premium Pack 2019",
+        "pack_id": "19PP-JP009",
+        "date": "2019-03-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dc/PerformapalKuribohble-19PP-JP-C.png"
 }

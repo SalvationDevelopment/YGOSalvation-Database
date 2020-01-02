@@ -2,7 +2,7 @@
     "id": 66809920,
     "ot": 3,
     "alias": 0,
-    "setcode": 290,
+    "setcode": 0,
     "type": 33,
     "atk": 1600,
     "def": 1800,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Shadows in Valhalla",
+        "pack_id": "SHVA-DE003",
+        "date": "2018-08-16"
+    },
+    "ocg": {
+        "pack": "Extra Pack 2019",
+        "pack_id": "EP19-JP003",
+        "date": "2019-09-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/96/ValkyrieErste-SHVA-EN-SR-1E.png"
 }

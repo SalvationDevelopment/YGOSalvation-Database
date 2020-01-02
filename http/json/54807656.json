@@ -2,7 +2,7 @@
     "id": 54807656,
     "ot": 3,
     "alias": 0,
-    "setcode": 4400,
+    "setcode": 0,
     "type": 131074,
     "atk": 0,
     "def": 0,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE055",
+        "date": "2019-10-24"
+    },
+    "ocg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-JP055",
+        "date": "2019-07-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/56/WailingoftheUnchainedSouls-CHIM-EN-UR-1E.png"
 }

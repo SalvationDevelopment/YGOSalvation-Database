@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 20971520,
     "name": "Gergonne's End",
-    "desc": "Target 1 \"Tindangle\" Link Monster you control; equip this card to it. It cannot be destroyed by battle or card effects, also your opponent cannot target it with card effects. Once per turn, if there are monsters in all zones the equipped monster points to: If there are still monsters in all zones the equipped monster points to, you can destroy this card and all of those monsters, then, inflict damage to your opponent equal to the equipped monster's ATK before they were destroyed.",
+    "desc": "Target 1 \"Tindangle\" Link Monster you control; equip this card to it. It cannot be destroyed by battle or card effects, also your opponent cannot target it with card effects. Once per turn, if there are monsters in all zones the equipped monster points to: You can destroy this card and all of those monsters, then, inflict damage to your opponent equal to the equipped monster's ATK before they were destroyed.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE069",
+        "date": "2018-05-03"
+    },
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP069",
+        "date": "2018-01-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/47/GergonnesEnd-FLOD-EN-C-1E.png"
 }

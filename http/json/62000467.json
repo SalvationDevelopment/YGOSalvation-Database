@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 262144,
     "name": "Gladiator Beast Dragases",
-    "desc": "2 \"Gladiator Beast\" monsters\r\nIf a \"Gladiator Beast\" monster you control attacks, it cannot be destroyed by that battle, also your opponent cannot activate cards or effects until the end of the Damage Step. At the end of the Battle Phase, if this card battled: You can return this card to the Extra Deck; Special Summon 2 \"Gladiator Beast\" monsters with different names from your Deck. You can only use this effect of \"Gladiator Beast Dragases\" once per turn.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 &#x201C;Gladiator Beast&#x201D; monsters\nIf a &#x201C;Gladiator Beast&#x201D; monster you control attacks, it cannot be destroyed by that battle, also your opponent cannot activate cards or effects until the end of the Damage Step. At the end of the Battle Phase, if this card battled: You can return this card to the Extra Deck; Special Summon 2 &#x201C;Gladiator Beast&#x201D; monsters with different names from your Deck. You can only use this effect of &#x201C;Gladiator Beast Dragases&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE099",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "LINK VRAINS Pack",
+        "pack_id": "LVP1-JP006",
+        "date": "2017-11-25"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/32/GladiatorBeastDragases-CYHO-EN-R-1E.png"
 }

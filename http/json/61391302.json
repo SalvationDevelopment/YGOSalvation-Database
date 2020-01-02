@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 4456450,
     "name": "Odd-Eyes Advance Dragon",
-    "desc": "You can Tribute Summon this card by Tributing 1 Level 5 or higher monster. If this card is Tribute Summoned: You can destroy 1 monster your opponent controls, and if you do, inflict damage to your opponent equal to that monster's original ATK. When this card destroys a monster by battle: You can Special Summon 1 Level 5 or higher monster from your hand or GY in Defense Position, except \"Odd-Eyes Advance Dragon\". You can only use this effect of \"Odd-Eyes Advance Dragon\" once per turn.",
+    "desc": "You can Tribute Summon this card by tributing 1 Level 5 or higher monster. If this card is Tribute Summoned: You can destroy 1 monster your opponent controls, and if you do, inflict damage to your opponent equal to that monster's original ATK. When this card destroys a monster by battle: You can Special Summon 1 Level 5 or higher monster from your hand or GY in Defense Position, except \"Odd-Eyes Advance Dragon\". You can only use this effect of \"Odd-Eyes Advance Dragon\" once per turn.",
     "str1": "Normal Summon by tributing 1 Level 5 or higher",
     "str2": "Destroy and inflict damage",
     "str3": "Special Summon",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Duel Power",
+        "pack_id": "DUPO-EN011",
+        "date": "2019-04-03"
+    },
+    "ocg": {
+        "pack": "20th Anniversary Duelist Box",
+        "pack_id": "20TH-JPB25",
+        "date": "2018-12-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/91/OddEyesAdvanceDragon-DUPO-EN-UR-1E.png"
 }

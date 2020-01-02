@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 262160,
     "name": "Flame Noble Knight Renaud",
-    "desc": "If you control a FIRE Warrior monster, you can Special Summon this card (from your hand), and if you do, it is treated as a Tuner. You can only Special Summon \"Flame Noble Knight Renaud\" once per turn this way. If this card is Special Summoned: You can target 1 of your FIRE Warrior monsters or Equip Spells that is banished or in your GY, except \"Flame Noble Knight Renaud\"; add it to your hand. You can only use this effect of \"Flame Noble Knight Renaud\" once per turn.",
+    "desc": "If you control a FIRE Warrior monster, you can Special Summon this card (from your hand), and if you do, it is treated as a Tuner. You can only Special Summon \"Flame Noble Knight Renaud\" once per turn this way. If this card is Special Summoned: You can target 1 of your FIRE Warrior monsters or Equip Spell that is banished or in your GY, except &#x201C;Flame Noble Knight Renaud&#x201D;; add it to your hand. You can only use this effect of \"Flame Noble Knight Renaud\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "V Jump February 2020 promotional card",
+        "pack_id": "VJMP-JP174",
+        "date": "2019-12-21"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3b/FlameNobleKnightRenaud-VJMP-JP-UR.png"
 }

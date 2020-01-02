@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 786432,
     "name": "Duel Link Dragon, the Duel Dragon",
-    "desc": "2+ monsters, including a Synchro Monster\r\nDuring the Main Phase (Quick Effect): You can banish 1 \"Power Tool\" Synchro Monster or 1 Level 7 or 8 Dragon Synchro Monster from your Extra Deck; Special Summon 1 \"Duel Dragon Token\" with the same Type, Attribute, Level, ATK and DEF that monster had in the Extra Deck. You can only use this effect of \"Duel Link Dragon, the Duel Dragon\" once per turn. While you control \"Duel Dragon Token\", your opponent's monsters cannot target this card for attacks, also your opponent cannot target this card with card effects.",
+    "desc": "Link Arrows: [🡰][🡷][🡶][🡲]\n\n2+ monsters, including a Synchro Monster\nDuring the Main Phase (Quick Effect): You can banish 1 \"Power Tool\" Synchro Monster or 1 Level 7 or 8 Dragon Synchro Monster from your Extra Deck; Special Summon 1 \"Duel Dragon Token\" with the same Type, Attribute, Level, and ATK/DEF as the banished monster to your zone this card points to. You can only use this effect of \"Duel Link Dragon, the Duel Dragon\" once per turn. While you control a \"Duel Dragon Token\", your opponent's monsters cannot target this card for attacks, also your opponent cannot target this card with card effects.",
     "str1": "Special Summon \"Duel Dragon Token\"",
     "str2": "",
     "str3": "",
@@ -28,5 +28,22 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Yu-Gi-Oh! Championship Series 2019 prize card",
+        "pack_id": "YCSW-EN012",
+        "date": "2019-08-25"
+    },
+    "ocg": {
+        "pack": "Premium Pack 2019",
+        "pack_id": "19PP-JP003",
+        "date": "2019-03-09"
+    },
+    "links": [
+        3,
+        4,
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/08/DuelLinkDragontheDuelDragon-19PP-JP-20ScR.png"
 }

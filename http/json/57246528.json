@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Synchro Transcend",
-    "desc": "Target 1 Synchro Monster your opponent controls; Special Summon 1 Synchro Monster from your Extra Deck that is 1 Level higher than that monster, but it cannot activate its effects this turn. You can only activate 1 \"Synchro Transcend\" per turn.",
+    "desc": "Target 1 Synchro Monster your opponent controls; Special Summon, from your Extra Deck, 1 Synchro Monster that is 1 Level higher than that target, but it cannot activate its effects this turn. You can only activate 1 &#x201C;Synchro Transcend&#x201D; per turn.",
     "str1": "Affected by \"Synchro Transcend\"",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Premium Pack 2019",
+        "pack_id": "19PP-JP016",
+        "date": "2019-03-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/51/SynchroTranscend-19PP-JP-C.png"
 }

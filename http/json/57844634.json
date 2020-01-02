@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 4456448,
     "name": "Nimble Musasabi",
-    "desc": "When this card is destroyed by battle and sent to the Graveyard, inflict 500 damage to your opponent. You can also Special Summon up to 2 \"Nimble Musasabis\" from your Deck to your opponent's side of the field in face-up Attack Position. This card cannot be Tributed for a Tribute Summon.",
+    "desc": "When this card is destroyed by battle and sent to the Graveyard, inflict 500 damage to your opponent. You can also Special Summon up to 2 \"Nimble Musasabi\" from your Deck to your opponent's side of the field in face-up Attack Position. This card cannot be Tributed for a Tribute Summon.",
     "str1": "Inflict damage",
     "str2": "Special Summon \"Nimble Musasabi\"?",
     "str3": "",
@@ -30,11 +30,7 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Extra Pack Volume 2",
-        "pack_id": "EXP2-JP007",
-        "date": "2009-09-19"
-    },
+    "ocg": {},
     "tcg": {
         "pack": "Light of Destruction",
         "pack_id": "LODT-EN086",

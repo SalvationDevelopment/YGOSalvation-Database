@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 4194306,
-    "name": "Roar of the Earthbound",
-    "desc": "Once per turn, when an opponent's monster declares an attack: Target the attacking monster; destroy that target, and if you do, inflict damage to your opponent equal to half the destroyed monster's ATK. You must control an \"Earthbound Immortal\" monster with ATK higher than the ATK of the attacking monster to activate and to resolve this effect.",
+    "name": "Roar of the Earthbound Immortal",
+    "desc": "Once per turn, if an opponent's monster declares an attack: Target the attacking monster; destroy that target, and if you do, inflict damage to your opponent equal to half the destroyed monster's ATK. You must control an \"Earthbound Immortal\" monster with ATK higher than the ATK of the attacking monster to activate and to resolve this effect.",
     "str1": "Destroy and inflict damage",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "SOVR-DE071",
         "date": "2009-11-12"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ea/RoaroftheEarthbound-LC5D-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d6/RoaroftheEarthboundImmortal-LC5D-EN-C-1E.png"
 }

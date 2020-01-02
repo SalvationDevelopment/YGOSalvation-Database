@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Battles of Legend: Hero's Revenge",
+        "pack_id": "BLHR-DE012",
+        "date": "2019-07-11"
+    },
+    "ocg": {
+        "pack": "Collection Pack: Duelists of Revolution",
+        "pack_id": "CP19-JP012",
+        "date": "2019-05-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c0/VisionFusion-BLHR-EN-ScR-1E.png"
 }

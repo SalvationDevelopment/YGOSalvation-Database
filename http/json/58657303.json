@@ -2,7 +2,7 @@
     "id": 58657303,
     "ot": 3,
     "alias": 0,
-    "setcode": 46,
+    "setcode": 0,
     "type": 33,
     "atk": 1500,
     "def": 1500,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 268697600,
     "name": "Gravekeeper's Spiritualist",
-    "desc": "During your Main Phase, if \"Necrovalley\" is on the field: You can Fusion Summon 1 Spellcaster Fusion Monster from your Extra Deck, using this card you control and other monsters from your hand or field as Fusion Material. You can only use this effect of \"Gravekeeper's Spiritualist\" once per turn.",
+    "desc": "During your Main Phase, if &#x201C;Necrovalley&#x201D; is on the field: You can Fusion Summon 1 Spellcaster Fusion Monster from your Extra Deck using this card you control and other monsters from your hand or field as Fusion Material. You can only use this effect of &#x201C;Gravekeeper's Spiritualist&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-EN013",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP013",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/GravekeepersSpiritualist-SOFU-EN-C-1E.png"
 }

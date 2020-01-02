@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 138412034,
     "name": "Time Wizard",
-    "desc": "Once per turn: You can toss a coin and call it. If you call it right, destroy all monsters your opponent controls. If you call it wrong, destroy as many monsters you control as possible, and if you do, take damage equal to half the total ATK those destroyed monsters had on the field.",
+    "desc": "Once per turn: You can toss a coin and call it. If you call it right, destroy all monsters your opponent controls. If you call it wrong, destroy as many monsters you control as possible, and if you do, take damage equal to half the total ATK those destroyed monsters had while face-up on the field.",
     "str1": "Toss coin",
     "str2": "Please select head or tails",
     "str3": "Reversed",
@@ -40,5 +40,5 @@
         "pack_id": "MRD-065",
         "date": "2002-06-26"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/TimeWizard-LDK2-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3d/TimeWizard-SS02-EN-C-1E.png"
 }

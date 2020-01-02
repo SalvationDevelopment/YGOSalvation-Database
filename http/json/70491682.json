@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Vendread Anima",
-    "desc": "You can banish this card from your GY, then target 1 of your banished \"Vendread\" monsters, except \"Vendread Anima\"; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except Zombie monsters. A \"Vendread\" monster Ritual Summoned using this card on the field gains the following effect. You can only use each of the preceding effects of \"Vendread Anima\" once per turn.\r\n● Banish any monster destroyed by battle with this card.",
+    "desc": "You can banish this card from your GY, then target 1 of your banished &#x201C;Vendread&#x201D; monsters, except &#x201C;Vendread Anima&#x201D;; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except Zombie monsters. A &#x201C;Vendread&#x201D; monster Ritual Summoned using this card on the field gains the following effect. You can only use each of the preceding effects of &#x201C;Vendread Anima&#x201D; once per turn.\n● Banish any monster destroyed by battle with this card.",
     "str1": "Special Summon",
     "str2": "Banishes monsters destroyed by battle",
     "str3": "Affected by \"Vendread Anima\"",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE083",
+        "date": "2018-05-03"
+    },
+    "ocg": {
+        "pack": "Extra Pack 2018",
+        "pack_id": "EP18-JP010",
+        "date": "2018-09-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5f/VendreadAnima-FLOD-EN-R-1E.png"
 }

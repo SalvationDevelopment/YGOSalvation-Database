@@ -2,7 +2,7 @@
     "id": 72819261,
     "ot": 3,
     "alias": 0,
-    "setcode": 16397,
+    "setcode": 67162125,
     "type": 33,
     "atk": 1700,
     "def": 200,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE022",
+        "date": "2018-05-03"
+    },
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP022",
+        "date": "2018-01-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/96/ElementsaberMalo-FLOD-EN-C-1E.png"
 }

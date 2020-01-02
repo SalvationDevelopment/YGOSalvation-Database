@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Duel Dragon Token",
-    "desc": "This card can be used as a \"Duel Dragon Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+    "desc": "Special Summoned with the effect of \"Duel Link Dragon, the Duel Dragon\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "OTS Tournament Pack 11",
+        "pack_id": "OP11-DE026",
+        "date": "2019-08-15"
+    },
+    "ocg": {
+        "pack": "Tournament Pack 2019 Vol.3",
+        "pack_id": "19TP-JP302",
+        "date": "2019-07-01"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/80/DuelDragonToken-OP11-EN-SR-UE.png"
 }

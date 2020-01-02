@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 256,
     "name": "Destiny HERO - Disk Commander",
-    "desc": "When this card is Special Summoned from the Graveyard: Draw 2 cards.",
+    "desc": "Cannot be Special Summoned from the GY the turn this card was sent to the GY. If this card is Special Summoned from the GY: You can draw 2 cards. You can only use this effect of \"Destiny HERO - Disk Commander\" once per Duel.",
     "str1": "Draw card",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "WC07-EN003",
         "date": "2007-03-20"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/04/DestinyHERODiskCommander-RYMP-EN-R-1E.jpg"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e0/DestinyHERODiskCommander-LEHD-EN-UR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Summon Sorceress",
-    "desc": "2+ monsters with the same Type, except Tokens\r\nIf this card is Link Summoned: You can Special Summon 1 monster from your hand in Defense Position, to your opponent's zone this card points to. You can target 1 face-up monster this card points to; Special Summon 1 monster from your Deck in Defense Position, with the same Type as that monster, to a zone this card points to, but negate its effects. You can only use this effect of \"Summon Sorceress\" once per turn.",
+    "desc": "Link Arrows: [🡷][🡱][🡶]\n\n2+ monsters with the same Type, except Tokens\nIf this card is Link Summoned: You can Special Summon 1 monster from your hand in Defense Position, to your opponent's zone this card points to. You can target 1 face-up monster this card points to; Special Summon 1 monster from your Deck, with the same Type as that monster, to a zone this card points to, but negate its effects. You can only use this effect of \"Summon Sorceress\" once per turn.",
     "str1": "Special Summon from hand",
     "str2": "Special Summon from Deck",
     "str3": "Summon to opponent's field?",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion Special Edition",
+        "pack_id": "SOFU-DESE2",
+        "date": "2018-12-06"
+    },
+    "ocg": {
+        "pack": "V Jump January 2018 promotional card",
+        "pack_id": "VJMP-JP140",
+        "date": "2017-11-21"
+    },
+    "links": [
+        1,
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0b/SummonSorceress-SOFU-EN-SR-LE.png"
 }

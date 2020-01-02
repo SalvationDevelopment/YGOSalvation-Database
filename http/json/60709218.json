@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Bond Between Teacher and Student",
-    "desc": "If you control \"Dark Magician\": Special Summon 1 \"Dark Magician Girl\" from your hand, Deck, or GY, then, you can Set 1 \"Dark Magic Attack\", \"Dark Burning Attack\", \"Dark Burning Magic\", or \"Dark Magic Twin Burst\" directly from your Deck. You can only activate 1 \"Bond Between Teacher and Student\" per turn.",
+    "desc": "If you control \"Dark Magician\": Special Summon 1 \"Dark Magician Girl\" from your hand, Deck, or GY, then you can Set 1 \"Dark Magic Attack\", \"Dark Burning Attack\", \"Dark Burning Magic\", or \"Dark Magic Twin Burst\" directly from your Deck. You can only activate 1 \"Bond Between Teacher and Student\" per turn.",
     "str1": "Set 1 card from your Deck?",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Duel Power",
+        "pack_id": "DUPO-EN017",
+        "date": "2019-04-03"
+    },
+    "ocg": {
+        "pack": "20th Anniversary Legend Collection",
+        "pack_id": "20TH-JPC12",
+        "date": "2019-02-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/34/BondBetweenTeacherandStudent-DUPO-EN-UR-1E.png"
 }

@@ -2,7 +2,7 @@
     "id": 62111090,
     "ot": 1,
     "alias": 0,
-    "setcode": 309,
+    "setcode": 0,
     "type": 97,
     "atk": 2300,
     "def": 2000,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Earth Golem @Ignister",
-    "desc": "1 Cyberse monster + 1 Link Monster\nAfter this card is Fusion Summoned, you take no damage for the rest of this turn. If this card attacks a monster that was Special Summoned from the Extra Deck, this card gains ATK equal to its original ATK during the Damage Step only. When this card is destroyed by battle: You can target 1 Cyberse monster in your GY, except \"Earth Golem @Ignister\"; Special Summon it. You can only use this effect of \"Earth Golem @Ignister\" once per turn.",
+    "desc": "1 Cyberse monster + 1 Link Monster\nYou take no damage for the rest of the turn after this was Fusion Summoned. If this card attacks a monster Special Summoned from the Extra Deck, it gains ATK equal to its original ATK during the Damage Step. When this card is destroyed by battle: You can target 1 Cyberse monster in your GY, except &#x201C;Earth Golem @Ignister&#x201D;; Special Summon it. You can only use this effect of \"Earth Golem @Ignister\" once per turn.",
     "str1": "Affected by \"Earth Golem @Ignister\"",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP041",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/13/EarthGolem%40Ignister-IGAS-JP-OP.png"
 }

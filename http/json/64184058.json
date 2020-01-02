@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Destiny HERO - Decider",
-    "desc": "Level 6 or higher monsters your opponent controls cannot target this card for attacks. You can only use each of the following effects of \"Destiny HERO - Decider\" once per Duel.\n● If this card is Normal or Special Summoned: You can add 1 \"HERO\" monster from your Graveyard to your hand during the End Phase of this turn.\n● During either player's turn, when a card or effect is activated that would inflict damage to you, while this card is in your Graveyard: Return this card to your hand, and if you do, make that effect damage to you 0.",
+    "desc": "Level 6 or higher monsters your opponent controls cannot target this card for attacks. You can only use each of the following effects of \"Destiny HERO - Decider\" once per Duel.\n● If this card is Normal or Special Summoned: You can add 1 \"HERO\" monster from your GY to your hand during the End Phase of this turn.\n● When a card or effect is activated that would inflict damage to you, while this card is in your GY (Quick Effect): Return this card to your hand, and if you do, make that effect damage to you 0.",
     "str1": "Add \"HERO\" to hand",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "DESO-DE003",
         "date": "2016-11-17"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/52/DestinyHERODecider-DESO-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/20/DestinyHERODecider-LEHD-EN-C-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Juragedo",
-    "desc": "During either player's Battle Step: You can Special Summon this card from your hand, and if you do, gain 1000 LP. You can only use this effect of \"Juragedo\" once per turn. During either player's turn: You can Tribute this card, then target 1 face-up monster you control; it gains 1000 ATK until the end of the next turn.",
+    "desc": "During either player's Battle Step (Quick Effect): You can Special Summon this card from your hand, and if you do, gain 1000 LP. You can only use this effect of \"Juragedo\" once per turn. (Quick Effect): You can Tribute this card, then target 1 face-up monster you control; it gains 1000 ATK until the end of the next turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "DPBC-EN002",
         "date": "2015-06-19"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/24/Juragedo-DPBC-EN-SR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e4/Juragedo-SDPL-EN-C-1E.png"
 }

@@ -2,7 +2,7 @@
     "id": 55072170,
     "ot": 3,
     "alias": 0,
-    "setcode": 296,
+    "setcode": 0,
     "type": 4,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262656,
     "name": "Witchcrafter Masterpiece",
-    "desc": "If you control a \"Witchcrafter\" monster: Target 1 Spell in either GY; add 1 card with the same name from your Deck to your hand. During either player's turn, except the turn this card was sent to the GY: You can banish this card and any number of Spells from your GY; Special Summon 1 \"Witchcrafter\" monster from your Deck whose Level equals the number of Spells banished to activate this effect. You can only use each effect of \"Witchcrafter Masterpiece\" once per turn.",
+    "desc": "If you control a \"Witchcrafter\" monster: Target 1 Spell in either GY; add 1 card with the same name from your Deck to your hand. During either player's turn, except the turn this card was Send to the GY: You can banish this card and any number of Spells from your GY; Special Summon 1 \"Witchcrafter\" monster from your Deck whose Level equals the number of Spells banished to activate this effect. You can only use each effect of \"Witchcrafter Masterpiece\" once per turn.",
     "str1": "Target to add",
     "str2": "Banish to Special Summon",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "The Infinity Chasers",
+        "pack_id": "INCH-EN026",
+        "date": "2019-03-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Infinity Chasers",
+        "pack_id": "DBIC-JP026",
+        "date": "2019-02-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/29/WitchcrafterMasterpiece-INCH-EN-SR-1E.png"
 }

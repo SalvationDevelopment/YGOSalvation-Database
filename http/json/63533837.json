@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 32784,
     "name": "Cyberse Quantum Dragon",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nWhile you control a Link Monster, monsters your opponent controls cannot target monsters you control for attacks, except this one, also your opponent cannot target monsters you control with card effects, except this one. Once per turn, at the start of the Damage Step, if this card battles an opponent's monster: You can return that opponent's monster to the hand, also, this card can make a second attack in a row.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nWhile you control a Link Monster, monsters your opponent controls cannot target monsters you control for attacks, except this one, also your opponent cannot target monsters you control with card effects, except this one. Once per turn, at the start of the Damage Step, if this card battles an opponent's monster: You can return that opponent's monster to the hand, also, this card can make a second attack in a row.",
     "str1": "Return to hand and attack again",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE038",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP038",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b9/CyberseQuantumDragon-SAST-EN-UR-1E.png"
 }

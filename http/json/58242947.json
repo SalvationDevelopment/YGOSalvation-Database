@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 4,
     "name": "Junk Collector",
-    "desc": "(Quick Effect): You can banish this card you control and 1 Normal Trap that meets its activation conditions from your GY; this effect becomes that Trap's effect when that card is activated.",
+    "desc": "(Quick Effect): You can banish this card on the field and 1 Normal Trap in your GY; apply that banished Trap's effects. (The Trap's activation requirements must still be correct, but costs are not paid.)",
     "str1": "获得并发动墓地的通常陷阱的效果",
     "str2": "Please select 1 Normal Trap Card",
     "str3": "",
@@ -35,6 +35,10 @@
         "pack_id": "DDY2-JP001",
         "date": "2009-11-21"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0b/JunkCollector-DDY2-JP-UR.png"
+    "tcg": {
+        "pack": "2018 Mega-Tins",
+        "pack_id": "CT15-DE007",
+        "date": "2018-08-30"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2e/JunkCollector-CT15-EN-UR-LE.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 4202498,
     "name": "Fortune Lady Fire",
-    "desc": "This card's ATK and DEF are equal to its Level x 200. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When this card is Special Summoned in Attack Position by the effect of a \"Fortune Lady\" card, destroy 1 face-up monster on your opponent's side of the field, and inflict damage to your opponent equal to that monster's ATK.",
+    "desc": "This card's ATK and DEF are equal to its Level x 200. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When this card is Special Summoned in Attack Position by the effect of a \"Fortune Lady\" card Target 1 face-up monster your opponent controls; destroy that target, and if you do, inflict damage to your opponent equal to that monster's ATK on the field.",
     "str1": "Increase level",
     "str2": "Destroy and inflict damage",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "ANPR-DE011",
         "date": "2009-08-27"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a8/FortuneLadyFire-ANPR-EN-R-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1e/FortuneLadyFire-OP11-EN-C-UE.png"
 }

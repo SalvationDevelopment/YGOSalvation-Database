@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Evilcella Lutea",
-    "desc": "Cannot be destroyed by battle, while you control another monster. Neither player can target face-up Spells/Traps you control with card effects.",
+    "desc": "If you control other monster(s), this card cannot be destroyed by battle. Face-up Spell/Trap cards you control cannot be targeted for effects.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP027",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/97/EvilcellaLutea-IGAS-JP-C.png"
 }

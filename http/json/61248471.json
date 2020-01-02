@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Fists of the Gadgets",
+        "pack_id": "FIGA-DE033",
+        "date": "2019-08-22"
+    },
+    "ocg": {
+        "pack": "Special Pack 20th Anniversary Edition Vol.4",
+        "pack_id": "18SP-JP401",
+        "date": "2018-12-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e4/ArchfiendsAscent-FIGA-EN-ScR-1E.png"
 }

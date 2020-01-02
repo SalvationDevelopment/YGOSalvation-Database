@@ -2,7 +2,7 @@
     "id": 55838342,
     "ot": 3,
     "alias": 0,
-    "setcode": 18219268,
+    "setcode": 260,
     "type": 131076,
     "atk": 300,
     "def": 2100,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-EN074",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP074",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f4/CrusadiaKrawler-SOFU-EN-C-1E.png"
 }

@@ -2,7 +2,7 @@
     "id": 70711847,
     "ot": 3,
     "alias": 0,
-    "setcode": 286,
+    "setcode": 0,
     "type": 33,
     "atk": 1600,
     "def": 2800,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE083",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Extra Pack 2019",
+        "pack_id": "EP19-JP022",
+        "date": "2019-09-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2b/DangerNessie-CYHO-EN-ScR-1E.png"
 }

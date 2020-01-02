@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 8194,
     "name": "Plague Wolf",
-    "desc": "Once per turn: You can make this card's ATK become double its original ATK, until the End Phase. During the End Phase, if this effect of this card was used: Destroy this card.",
+    "desc": "Once per turn: You can make this card's ATK become double its original ATK until the end of this turn. Once per turn, during the End Phase, if this effect was activated: Destroy this card.",
     "str1": "元々の攻撃力を倍にする",
     "str2": "Destroy",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "FOTB-FR065",
         "date": "2007-05-05"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/29/PlagueWolf-LCJW-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d7/PlagueWolf-SR06-EN-C-1E.png"
 }

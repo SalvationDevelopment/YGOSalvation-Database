@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Union Hangar",
-    "desc": "When this card is activated: You can add 1 LIGHT Machine-Type Union monster from your Deck to your hand. Once per turn, if a LIGHT Machine-Type Union monster(s) is Normal or Special Summoned to your field (except during the Damage Step): You can target 1 of those monsters; equip 1 appropriate LIGHT Machine-Type Union monster, with a different name, from your Deck to that monster, but the Union monster you equipped cannot be Special Summoned this turn. You can only activate 1 \"Union Hangar\" per turn.",
+    "desc": "When this card is activated: You can add 1 LIGHT Machine Union monster from your Deck to your hand. Once per turn, if a LIGHT Machine Union monster(s) is Normal or Special Summoned to your field (except during the Damage Step): You can target 1 of those monsters; equip 1 appropriate LIGHT Machine Union monster, with a different name, from your Deck to that monster, but the Union monster you equipped cannot be Special Summoned this turn. You can only activate 1 \"Union Hangar\" per turn.",
     "str1": "Add 1 LIGHT Machine-Type Union to hand",
     "str2": "Equip Monster",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "SDKS-DE020",
         "date": "2016-10-20"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/14/UnionHangar-OP04-EN-SR-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a0/UnionHangar-BLRR-EN-ScR-1E.png"
 }

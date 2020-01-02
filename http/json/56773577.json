@@ -2,7 +2,7 @@
     "id": 56773577,
     "ot": 3,
     "alias": 0,
-    "setcode": 145,
+    "setcode": 0,
     "type": 131076,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Necrovalley Temple",
-    "desc": "While a \"Gravekeeper's\" monster(s) and \"Necrovalley\" are both on the field, monsters your opponent controls lose 500 ATK/DEF. Once per turn, during the Main Phase, if you control no card in your Field Zone: You can activate 1 \"Necrovalley\" directly from your hand or GY. If this card in your possession is destroyed by an opponent's effect and sent to your GY: You can Set 1 \"Necrovalley\" Spell/Trap directly from your Deck, except \"Necrovalley Temple\".",
+    "desc": "While a &#x201C;Gravekeeper's&#x201D; monster(s) and &#x201C;Necrovalley&#x201D; are both on the field, monsters your opponent controls lose 500 ATK/DEF. Once per turn, during the Main Phase, if you control no card in your Field Zone: You can activate 1 &#x201C;Necrovalley&#x201D; directly from your hand or GY. If this card in your possession is destroyed by an opponent's effect and sent to your GY: You can Set 1 &#x201C;Necrovalley&#x201D; Spell/Trap from your Deck, except &#x201C;Necrovalley Temple&#x201D;.",
     "str1": "Activate 1 \"Necrovalley\"",
     "str2": "Set 1 \"Necrovalley\" Spell/Trap",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-EN068",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP068",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b9/NecrovalleyTemple-SOFU-EN-R-1E.png"
 }

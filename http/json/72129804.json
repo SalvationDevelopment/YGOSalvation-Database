@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Predaplast",
-    "desc": "Reveal any number of \"Predap\" cards in your hand, then target that many face-up monsters your opponent controls; place 1 Predator Counter on each of those monsters, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter. If a \"Predaplant\" monster you control would be destroyed by battle, you can banish this card from your GY instead.",
+    "desc": "Reveal any number of \"Predap\" cards in your hand, then target that number of face-up monsters your opponent controls; place 1 Predator Counter on each one, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter. If your \"Predaplant\" monster would be destroyed by battle, you can banish this card from your GY instead.",
     "str1": "Banish Predator Blast",
     "str2": "",
     "str3": "",
@@ -35,6 +35,10 @@
         "pack_id": "DBLE-JP005",
         "date": "2016-11-26"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f1/Predaplast-DBLE-JP-UPR.png"
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE097",
+        "date": "2018-10-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6a/Predaplast-SOFU-EN-C-1E.png"
 }

@@ -2,7 +2,7 @@
     "id": 61269611,
     "ot": 1,
     "alias": 0,
-    "setcode": 282,
+    "setcode": 0,
     "type": 33,
     "atk": 2000,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262144,
     "name": "Dinowrestler Iguanodraka",
-    "desc": "You can discard 1 other Dinosaur monster; Special Summon this card from your hand. You can Tribute 1 Dinosaur monster, then target 1 \"Dinowrestler\" monster in your GY with a different original name; Special Summon it in Defense Position. You can only use each effect of \"Dinowrestler Iguanodraka\" once per turn.",
+    "desc": "You can discard 1 other Dinosaur monster; Special Summon this card from your hand. You can Tribute 1 Dinosaur monster, then target 1 &#x201C;Dinowrestler&#x201D; monster in your GY with a different original name; Special Summon it in Defense Position. You can only use each effect of \"Dinowrestler Iguanodraka\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "LINK VRAINS Duelist Set",
+        "pack_id": "LVDS-JPA08",
+        "date": "2019-08-31"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/48/DinowrestlerIguanodraka-LVDS-JP-OP.png"
 }

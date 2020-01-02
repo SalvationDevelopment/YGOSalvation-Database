@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262672,
     "name": "Harpie Lady Elegance",
-    "desc": "Shuffle 1 \"Harpie Lady Sisters\" from your Monster Zone into the Deck, then you can Special Summon 3 \"Harpie\" monsters with different original names, 1 each from your hand, Deck, and GY. For the rest of this turn after this card resolves, you cannot Special Summon monsters, except WIND monsters. If this card you control is destroyed by a \"Harpie\" card's effect or your opponent's card effect: Add 1 \"Harpie\" monster from your Deck to your hand. You can only use each effect of \"Harpie Lady Elegance\" once per turn.",
+    "desc": "Shuffle 1 &#x201C;Harpie Lady Sisters&#x201D; from your Monster Zone into the Deck, then you can Special Summon 3 &#x201C;Harpie&#x201D; monsters with different original names, 1 each from your hand, Deck, and GY. For the rest of this turn after this card resolves, you cannot Special Summon monsters, except WIND monsters. If this card you control is destroyed by a &#x201C;Harpie&#x201D; card's effect or your opponent's card effect: Add 1 &#x201C;Harpie&#x201D; monster from your Deck to your hand. You can only use each effect of &#x201C;Harpie Lady Elegance&#x201D; once per turn.",
     "str1": "",
     "str2": "Affected by \"Harpie Lady Elegance\"",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: Sisters of the Rose",
+        "pack_id": "LED4-DE005",
+        "date": "2019-01-10"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 4",
+        "pack_id": "DP21-JP005",
+        "date": "2018-11-10"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3a/HarpieLadyElegance-LED4-EN-R-1E.png"
 }

@@ -2,7 +2,7 @@
     "id": 57160136,
     "ot": 3,
     "alias": 0,
-    "setcode": 280,
+    "setcode": 0,
     "type": 2,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 528,
     "name": "Cynet Mining",
-    "desc": "Send 1 card from your hand to the GY; add 1 Level 4 or lower Cyberse monster from your Deck to your hand. You can only activate 1 \"Cynet Mining\" per turn.",
+    "desc": "Send 1 card from your hand to the GY; add 1 Level 4 or lower Cyberse monster from your Deck to your hand. You can only activate 1 &#x201C;Cynet Mining&#x201D; per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE051",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP051",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f7/CynetMining-DANE-EN-ScR-1E.png"
 }

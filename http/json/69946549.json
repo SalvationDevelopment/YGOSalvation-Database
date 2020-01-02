@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Predaplant Dragostapelia",
-    "desc": "1 Fusion Monster + 1 DARK monster\nOnce per turn (Quick Effect): You can target 1 face-up monster your opponent controls; place 1 Predator Counter on it, and if it is Level 2 or higher, it becomes Level 1 as long as it has a Predator Counter. Negate the activated effects of any opponent's monster with a Predator Counter.",
+    "desc": "1 Fusion Monster + 1 DARK monster\nOnce per turn (Quick Effect): You can target 1 face-up monster your opponent controls; place 1 Predator Counter on it, and if it is Level 2 or higher, it becomes Level 1 as long as it has a Predator Counter. Negate the activated effects of your opponent's monster that have Predator Counters.",
     "str1": "Add Counter",
     "str2": "",
     "str3": "",
@@ -35,6 +35,10 @@
         "pack_id": "VJMP-JP124",
         "date": "2016-11-21"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d9/PredaplantDragostapelia-VJMP-JP-UR.png"
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-EN094",
+        "date": "2018-10-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dc/PredaplantDragostapelia-DUPO-EN-UR-1E.png"
 }

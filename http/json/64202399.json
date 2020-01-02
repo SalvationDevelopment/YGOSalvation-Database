@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Legendary Gold Box",
+        "pack_id": "LGB1-JP005",
+        "date": "2019-12-21"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/57/DeepofBlueEyes-LGB1-JP-OP.png"
 }

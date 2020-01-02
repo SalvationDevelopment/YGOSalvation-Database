@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 524288,
     "name": "Squirt Squid",
-    "desc": "Once per turn, when this card is targeted for an attack by an opponent's monster: You can move this card you control to another of your Main Monster Zones, then, Special Summon 1 \"Squid Ink Token\" (Aqua/WATER/Level 2/ATK ?/DEF 0). This Token's ATK becomes that opponent's monster's ATK. While this card is in your leftmost or rightmost Main Monster Zone, your opponent's monsters with ATK less than or equal to this card's DEF cannot target it for attacks.",
+    "desc": "Once per turn, when this card is targeted for an attack by an opponent's monster: You can move this card you control to another of your Main Monster Zones, then, Special Summon 1 &#x201C;Squid Ink Token&#x201D; (Aqua/WATER/Level 2/ATK&#xA0;?/DEF 0). This Token's ATK becomes that opponent's monster's ATK. While this card is in your leftmost or rightmost Main Monster Zone, your opponent's monsters with ATK less than or equal to this card's DEF cannot target it for attacks.",
     "str1": "Move",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE029",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP029",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bf/SquirtSquid-SAST-EN-C-1E.png"
 }

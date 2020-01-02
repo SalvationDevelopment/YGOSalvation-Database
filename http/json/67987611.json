@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8192,
     "name": "Amazoness Archers",
-    "desc": "Activate only when your opponent declares an attack while you control an \"Amazoness\" monster. All monsters your opponent controls are changed to face-up Attack Position (Flip Effects are not activated), and lose 500 ATK as long as they remain face-up on the field. Your opponent must attack with all of their monsters.",
+    "desc": "When an opponent's monster declares an attack, while you control an \"Amazoness\" monster: Change all monsters your opponent currently controls to face-up Attack Position (Flip Effects are not activated), they lose 500 ATK, also they must attack this turn, if able.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Champion of Black Magic",
-        "pack_id": "303-042",
-        "date": "2002-09-19"
-    },
+    "ocg": {},
     "tcg": {
         "pack": "Magician's Force",
         "pack_id": "MFC-096",
         "date": "2003-10-10"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/97/AmazonessArchers-GLD3-EN-C-LE.jpg"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/AmazonessArchers-SS02-EN-C-1E.png"
 }

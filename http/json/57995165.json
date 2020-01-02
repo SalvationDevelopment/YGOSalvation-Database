@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8,
     "name": "Extra-Foolish Burial",
-    "desc": "Pay half your LP; send 1 monster from your Extra Deck to the GY. You can only activate 1 \"Extra-Foolish Burial\" per turn. You cannot Set Spells/Traps during the turn you activate this card.",
+    "desc": "Pay half your LP; send 1 monster from your Extra Deck to the GY. You can only activate 1 \"Extra-Foolish Burial\" per turn. You cannot Set Spell/Traps during the turn you activate this card.",
     "str1": "",
     "str2": "Affected by \"Extra-Foolish Burial\"",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-EN065",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP065",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/ExtraFoolishBurial-SOFU-EN-SR-1E.png"
 }

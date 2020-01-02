@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 134479872,
     "name": "Astra Ghouls",
-    "desc": "When this card is Normal Summoned: You can target 1 Level 4 or lower monster in your GY; Special Summon it in Defense Position, but its effects are negated, also banish it during the End Phase. Once per turn: You can roll a six-sided die, and the face-up monsters you currently control become the Level equal to the result, until the end of this turn.",
+    "desc": "When this card is Normal Summoned: You can target 1 Level 4 or lower monster in your GY; Special Summon it in Defense Position, but negate its effects, also banish it during the End Phase. Once per turn: You can roll a six-sided die and the Levels of all face-up monsters you currently control become the result until the end of this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE095",
+        "date": "2019-10-24"
+    },
+    "ocg": {
+        "pack": "Promotion Pack 2018",
+        "pack_id": "18PR-JP007",
+        "date": "2018-05-27"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/04/AstraGhouls-CHIM-EN-C-1E.png"
 }

@@ -4,7 +4,11 @@
         "pack_id": "17PR-JP008",
         "date": "2017-10-07"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "2018 Mega-Tins",
+        "pack_id": "CT15-DE005",
+        "date": "2018-08-30"
+    },
     "id": 54757758,
     "setcode": 0,
     "type": 97,
@@ -15,5 +19,5 @@
     "attribute": 2,
     "name": "Mudragon of the Swamp",
     "desc": "2 monsters with the same Attribute but different Types\nYour opponent cannot target monsters on the field with the same Attribute as this card with card effects. Once per turn (Quick Effect): You can declare 1 Attribute; this card becomes that Attribute until the end of this turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/MudragonoftheSwamp-17PR-JP-NPR.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/78/MudragonoftheSwamp-CT15-EN-UR-LE.png"
 }

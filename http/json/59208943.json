@@ -2,7 +2,7 @@
     "id": 59208943,
     "ot": 1,
     "alias": 0,
-    "setcode": 294,
+    "setcode": 0,
     "type": 8388641,
     "atk": 1900,
     "def": 2500,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Time Thief Perpetua",
-    "desc": "2 Level 4 monsters\nDuring the Standby Phase: You can detach 1 material from this card, then target 1 \"Time Thief\" monster in your GY, except \"Time Thief Perpetua\"; Special Summon it. (Quick Effect): You can target 1 other Xyz Monster you control; attach 1 \"Time Thief\" card from your Deck to it as material. You can only use each effect of \"Time Thief Perpetua\" once per turn.",
+    "desc": "2 Level 4 monsters\nDuring the Standby Phase: you can detach 1 material from this card, then target 1 \"Time Thief\" monster in your GY, except \"Time Thief Perpetua\"; Special Summon it. (Quick Effect): You can target 1 Xyz Monster you control, except this card; attach 1 \"Time Thief\" card from your Deck to it as a material. You can only use each effect of \"Time Thief Perpetua once per turn.",
     "str1": "Special Summon",
     "str2": "Attach",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Extra Pack 2019",
+        "pack_id": "EP19-JP044",
+        "date": "2019-09-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7a/TimeThiefPerpetua-EP19-JP-OP.png"
 }

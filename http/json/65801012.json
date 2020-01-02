@@ -2,7 +2,7 @@
     "id": 65801012,
     "ot": 3,
     "alias": 0,
-    "setcode": 4587800,
+    "setcode": 70,
     "type": 2,
     "atk": 0,
     "def": 0,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE050",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP050",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f9/CynetFusion-SOFU-EN-R-1E.png"
 }

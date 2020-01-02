@@ -2,7 +2,7 @@
     "id": 70875686,
     "ot": 3,
     "alias": 0,
-    "setcode": 288,
+    "setcode": 0,
     "type": 67108897,
     "atk": 3000,
     "def": 170,
@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 17,
     "name": "Prank-Kids Rip-Roarin-Roaster",
-    "desc": "2+ \"Prank-Kids\" monsters\r\nMust be Link Summoned. (Quick Effect): You can Tribute this card; destroy all Spells and Traps your opponent controls. If this card in your possession is sent to your GY by your opponent's card: You can target 1 card in your GY, except a Link Monster; add it to your hand. You can only use this effect of \"Prank-Kids Rip-Roarin-Roaster\" once per turn.",
+    "desc": "Link Arrows: [🡰][🡳][🡲][🡱]\n\n2+ &#x201C;Prank-Kids&#x201D; monsters\nMust be Link Summoned. (Quick Effect): You can Tribute this card; destroy all Spells and Traps your opponent controls. If this card in your possession is sent to your GY by your opponent's card: You can target 1 card in your GY, except a Link Monster; add it to your hand. You can only use this effect of &#x201C;Prank-Kids Rip-Roarin-Roaster&#x201D; once per turn.",
     "str1": "Destroy all Spells/Traps",
     "str2": "Return to hand",
     "str3": "",
@@ -28,5 +28,22 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Hidden Summoners",
+        "pack_id": "HISU-DE022",
+        "date": "2018-11-15"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Hidden Summoners",
+        "pack_id": "DBHS-JP022",
+        "date": "2018-08-04"
+    },
+    "links": [
+        1,
+        3,
+        4,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5c/PrankKidsRipRoarinRoaster-HISU-EN-ScR-1E.png"
 }

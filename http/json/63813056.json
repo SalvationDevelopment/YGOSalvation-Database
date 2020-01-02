@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 24576,
     "name": "Xtra HERO Dread Decimator",
-    "desc": "2+ \"HERO\" monsters\r\nThis card, also any \"HERO\" monsters it points to, gains 100 ATK for each \"HERO\" monster with different names in your GY. If this card attacks a Defense Position monster, inflict piercing battle damage.",
+    "desc": "Link Arrows: [🡷][🡳][🡶]\n\n2+ \"HERO\" monsters\nThis card, also any \"HERO\" monsters it points to gain 100 ATK for each \"HERO\" monster with different names in your GY. If this card attacks a Defense Position monster, inflict piercing battle damage.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Hero Decks",
+        "pack_id": "LEHD-DEA00",
+        "date": "2018-10-04"
+    },
+    "ocg": {
+        "pack": "LINK VRAINS Pack 2",
+        "pack_id": "LVP2-JP021",
+        "date": "2018-11-23"
+    },
+    "links": [
+        5,
+        6,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/08/XtraHERODreadDecimator-LEHD-EN-UR-1E.png"
 }

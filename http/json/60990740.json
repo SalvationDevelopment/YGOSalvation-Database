@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Absolute King Back Jack",
-    "desc": "During your opponent's turn: You can banish this card from the Graveyard (this is a Quick Effect); excavate the top card of your Deck, and if it is a Normal Trap Card, Set it to your side of the field. Otherwise, send it to the Graveyard. That Set card can be activated during this turn. If this card is sent to the Graveyard: You can look at 3 cards from the top of your Deck, then place them on the top of the Deck in any order. You can only use each effect of \"Absolute King Back Jack\" once per turn.",
+    "desc": "During your opponent's turn (Quick Effect): You can banish this card from the GY; excavate the top card of your Deck, and if it is a Normal Trap, Set it to your field. Otherwise, send it to the GY. That Set card can be activated during this turn. If this card is sent to the GY: You can look at 3 cards from the top of your Deck, then place them on the top of the Deck in any order. You can only use each effect of \"Absolute King Back Jack\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "PGL2-DE002",
         "date": "2015-03-19"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/00/AbsoluteKingBackJack-PGL2-EN-GScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/13/AbsoluteKingBackJack-SR06-EN-C-1E.png"
 }

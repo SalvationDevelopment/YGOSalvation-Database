@@ -2,7 +2,7 @@
     "id": 69394324,
     "ot": 3,
     "alias": 0,
-    "setcode": 49160,
+    "setcode": 201359368,
     "type": 97,
     "atk": 2900,
     "def": 2600,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262400,
     "name": "Destiny HERO - Dominance",
-    "desc": "3 \"Destiny HERO\" monsters\r\nDuring your Main Phase: You can look at the top 5 cards of your Deck or your opponent's Deck, then place them on the top of the Deck in any order. When this card destroys an opponent's monster by battle: You can draw 1 card. If this Fusion Summoned card is destroyed by battle or card effect: You can target 3 Level 9 or lower \"Destiny HERO\" monsters with different names in your GY; Special Summon them. You can only use each effect of \"Destiny HERO - Dominance\" once per turn.",
+    "desc": "3 &#x201C;Destiny HERO&#x201D; monsters\nDuring your Main Phase: You can look at the top 5 cards of your Deck or your opponent's Deck, then place them on the top of the Deck in any order. When this card destroys an opponent's monster by battle: You can draw 1 card. If this Fusion Summoned card is destroyed by battle or card effect: You can target 3 Level 9 or lower \"Destiny HERO\" monsters with different names in your GY; Special Summon them. You can only use each effect of \"Destiny HERO - Dominance\" once per turn.",
     "str1": "Sort Deck",
     "str2": "Draw",
     "str3": "Special Summon",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE031",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP031",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/04/DestinyHERODominance-DANE-EN-SR-1E.png"
 }

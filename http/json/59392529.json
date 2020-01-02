@@ -2,7 +2,7 @@
     "id": 59392529,
     "ot": 1,
     "alias": 0,
-    "setcode": 12296,
+    "setcode": 50364424,
     "type": 33,
     "atk": 1400,
     "def": 1300,
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 6",
+        "pack_id": "DP23-JP013",
+        "date": "2019-11-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/20/ElementalHEROLiquidman-DP23-JP-SR.png"
 }

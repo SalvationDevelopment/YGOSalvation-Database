@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "2019 Gold Sarcophagus Tin",
+        "pack_id": "TN19-DE014",
+        "date": "2019-08-29"
+    },
+    "ocg": {
+        "pack": "Extra Pack 2019",
+        "pack_id": "EP19-JP068",
+        "date": "2019-09-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/ff/DarkRulerNoMore-TN19-EN-PScR-LE.png"
 }

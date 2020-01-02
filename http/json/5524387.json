@@ -2,7 +2,7 @@
     "id": 5524387,
     "ot": 3,
     "alias": 0,
-    "setcode": 299,
+    "setcode": 0,
     "type": 67108897,
     "atk": 2500,
     "def": 42,
@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 16,
     "name": "Marincess Marbled Rock",
-    "desc": "2+ WATER monsters\r\nYou can target 1 \"Marincess\" card in your GY, except \"Marincess Marbled Rock\"; add it to your hand. You can only use this effect of \"Marincess Marbled Rock\" once per turn. When an opponent's monster declares an attack: You can send 1 \"Marincess\" monster from your hand to the GY; for that battle, monsters cannot be destroyed by battle, also you take no battle damage.",
+    "desc": "Link Arrows: [🡰][🡳][🡲]\n\n2+ WATER monsters\nYou can target 1 \"Marincess\" card in your GY, except \"Marincess Marbled Rock\"; add it to your hand. You can only use this effect of \"Marincess Marbled Rock\" once per turn. When an opponent's monster declares an attack: You can send 1 \"Marincess\" monster from your hand to the GY; for that battle, monsters cannot be destroyed by battle, also you take no battle damage.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE042",
+        "date": "2019-07-25"
+    },
+    "ocg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-JP042",
+        "date": "2019-04-13"
+    },
+    "links": [
+        3,
+        4,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a9/MarincessMarbledRock-RIRA-EN-ScR-1E.png"
 }

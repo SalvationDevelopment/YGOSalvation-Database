@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 2147491848,
     "name": "Dangerous Frightfur Nightmary",
-    "desc": "1 \"Edge Imp\" monster + 2 \"Fluffal\" monsters\r\nGains 300 ATK for each Fairy and Fiend monster in your GY during your turn only. When this Fusion Summoned card destroys a monster by battle: You can send \"Frightfur\", \"Fluffal\", and/or \"Edge Imp\" monsters from your Deck to the GY, equal to the destroyed monster's Level. When your opponent activates a card or effect that targets this face-up card on the field (Quick Effect): You can banish 1 \"Frightfur\" monster from your Extra Deck; negate that effect.",
+    "desc": "1 &#x201C;Edge Imp&#x201D; monster + 2 &#x201C;Fluffal&#x201D; monsters\nGains 300 ATK for each Fairy and Fiend monsters in your GY during your turn. When this Fusion Summoned card destroys a monster by battle: You can send a number of &#x201C;Frightfur&#x201D;, &#x201C;Fluffal&#x201D;, and/or &#x201C;Edge Imp&#x201D; monsters from your Deck to the GY, equal to the Level of the destroyed monster. When an opponent's card effect that targets this card on the field is activated (Quick Effect): You can banish 1 &#x201C;Frightfur&#x201D; monster from your Extra Deck; negate that activation.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Premium Pack 2019",
+        "pack_id": "19PP-JP012",
+        "date": "2019-03-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0d/DangerousFrightfurNightmary-19PP-JP-C.png"
 }

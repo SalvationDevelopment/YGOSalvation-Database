@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 17039392,
     "name": "Chaos Dragon Levianeer",
-    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 LIGHT and/or DARK monsters from your GY. When Summoned this way: You can activate this effect; apply the following effect, based on the Attribute(s) of the monsters banished for the Special Summon, also this card cannot attack for the rest of this turn. ● Only LIGHT: Special Summon 1 monster from your GY in Defense Position. ● Only DARK: Shuffle 1 random card from your opponent's hand into the Deck. ● Both LIGHT and DARK: Destroy up to 2 cards on the field.\nYou can only use this effect of \"Chaos Dragon Levianeer\" once per turn.",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 LIGHT and/or DARK monsters from your GY. When Summoned this way: You can apply this effect, based on the Attribute(s) of monsters banished for the Special Summon, also this card cannot attack for the rest of this turn.\n● Only LIGHT: Special Summon 1 monster from your GY in Defense Position.\n● Only DARK: Shuffle 1 random card from your opponent's hand into the Deck.\n● Both LIGHT and DARK: Destroy up to 2 cards on the field.\nYou can only use this effect of \"Chaos Dragon Levianeer\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE025",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP025",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d8/ChaosDragonLevianeer-OP12-EN-UtR-UE.png"
 }

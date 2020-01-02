@@ -2,7 +2,7 @@
     "id": 60018643,
     "ot": 3,
     "alias": 0,
-    "setcode": 280,
+    "setcode": 0,
     "type": 131074,
     "atk": 0,
     "def": 0,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution promotional cards",
+        "pack_id": "LOD2-DE003",
+        "date": "2019-08-20"
+    },
+    "ocg": {
+        "pack": "Structure Deck: Master Link",
+        "pack_id": "SD34-JP024",
+        "date": "2018-06-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1a/CynetCodec-LOD2-EN-SR-UE.png"
 }

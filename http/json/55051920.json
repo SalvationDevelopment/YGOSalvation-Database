@@ -2,7 +2,7 @@
     "id": 55051920,
     "ot": 3,
     "alias": 0,
-    "setcode": 283,
+    "setcode": 0,
     "type": 131076,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Orcustrated Core",
-    "desc": "Once per turn: You can banish 1 monster from your field or GY, then target 1 \"Orcust\" or \"World Legacy\" card you control, except \"Orcustrated Core\"; neither player can target it with card effects this turn (even if this card leaves the field). If other \"Orcust\" and/or \"World Legacy\" card(s) you control would be destroyed by battle or card effect, you can send this card to the GY instead.",
+    "desc": "Once per turn: You can banish 1 monster from your field or GY, then target 1 &#x201C;Orcust&#x201D; or &#x201C;World Legacy&#x201D; card you control, except &#x201C;Orcustrated Core&#x201D;; neither player can target it with card effects this turn (even if this card leaves the field). If other &#x201C;Orcust&#x201D; and/or &#x201C;World Legacy&#x201D; card(s) you control would be destroyed by battle or card effect, you can send this card to the GY instead.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE071",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP071",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/77/OrcustratedCore-SOFU-EN-C-1E.png"
 }

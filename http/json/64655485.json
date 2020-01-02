@@ -2,7 +2,7 @@
     "id": 64655485,
     "ot": 3,
     "alias": 0,
-    "setcode": 602120,
+    "setcode": 2197848073,
     "type": 97,
     "atk": 2500,
     "def": 2000,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 8704,
     "name": "Elemental HERO Brave Neos",
-    "desc": "\"Elemental HERO Neos\" + 1 Level 4 or lower Effect Monster\r\nMust be Fusion Summoned. Gains 100 ATK for each \"Neo-Spacian\" and \"HERO\" monster in your GY. When this card destroys an opponent's monster by battle: You can add 1 Spell/Trap from your Deck to your hand that specifically lists the card \"Elemental HERO Neos\" in its text.",
+    "desc": "\"Elemental HERO Neos\" + 1 Level 4 or lower Effect Monster\nMust be Fusion Summoned. Gains 100 ATK for each &#x201C;Neo-Spacian&#x201D; and &#x201C;HERO&#x201D; monster in your GY. When this card destroys an opponent's monster by battle: You can add 1 Spell/Trap from your Deck to your hand that specifically lists the card &#x201C;Elemental HERO Neos&#x201D; in its text.",
     "str1": "Add to hand",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE035",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP035",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c7/ElementalHEROBraveNeos-SAST-EN-SR-1E.png"
 }

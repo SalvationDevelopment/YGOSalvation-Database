@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Infinite Light",
-    "desc": "Activate this card by sending 1 face-up \"Infinite Machine\" from your Spell & Trap Zone to the GY. This face-up card cannot be destroyed by your opponent's card effects. Neither player can target \"Timelord\" monsters you control with card effects, or return \"Timelord\" monsters from the field to the Deck. Once per turn, if you control no monsters: You can Special Summon up to 1 \"Timelord\" monster each from your hand, Deck, and GY, with different names, ignoring their Summoning conditions.",
+    "desc": "Activate by sending 1 face-up \"Infinite Machine\" in your Spell & Trap Zone to the GY. This face-up card cannot be destroyed by your opponent's card effects. Neither player can target \"Timelord\" monsters you control with card effects, or return \"Timelord\" monsters from the field to the Deck. Once per turn, if you control no monsters: You can Special Summon up to 1 \"Timelord\" monster each from your hand, Deck, and GY, with different names, ignoring their Summoning conditions.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Battles of Legend: Relentless Revenge",
+        "pack_id": "BLRR-EN029",
+        "date": "2018-06-28"
+    },
+    "ocg": {
+        "pack": "Collectors Pack 2018",
+        "pack_id": "CP18-JP029",
+        "date": "2018-05-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d0/InfiniteLight-BLRR-EN-ScR-1E.png"
 }

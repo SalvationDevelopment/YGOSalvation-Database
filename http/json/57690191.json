@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Noble Knight Brothers",
-    "desc": "This card can only attack if you control exactly 3 \"Noble Knight\" monsters (and no other monsters). When this card is Normal Summoned: You can Special Summon up to 2 \"Noble Knight\" monsters from your hand, also you cannot Special Summon monsters for the rest of this turn, except \"Noble Knight\" monsters. Once per turn: You can target 3 \"Noble Knight\" and/or \"Noble Arms\" cards in your Graveyard; shuffle all 3 into the Deck, then draw 1 card.",
+    "desc": "This card can only attack if you control exactly 3 \"Noble Knight\" monsters (and no other monsters). When this card is Normal Summoned: You can Special Summon up to 2 \"Noble Knight\" monsters from your hand, also you cannot Special Summon monsters for the rest of this turn, except \"Noble Knight\" monsters. Once per turn: You can target 3 \"Noble Knight\" and/or \"Noble Arms\" cards in your GY; shuffle all 3 into the Deck, then draw 1 card.",
     "str1": "Special Summon up to 2 \"Noble Knight\" monsters?",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "PRIO-DE081",
         "date": "2014-05-15"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6d/NobleKnightBrothers-MP15-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/96/NobleKnightBrothers-BLRR-EN-UR-1E.png"
 }

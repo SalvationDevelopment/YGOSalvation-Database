@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 2147549184,
     "name": "D/D Evil",
-    "desc": "[ Pendulum Effect ]\r\nOnce, while this card is in your Pendulum Zone, when your opponent Pendulum Summons a monster(s): You can activate this effect; this turn, that Pendulum Summoned monster(s) cannot attack, also negate its effects (even if this card leaves the field).\r\n----------------------------------------\r\n[ Monster Effect ]\r\nCannot attack unless you control another \"D/D\" monster. During your opponent's Main Phase (Quick Effect): You can target 1 Pendulum Summoned monster your opponent controls; negate its effects until the end of this turn. You can only use this effect of \"D/D Evil\" once per turn.",
+    "desc": "Pendulum Effect\nOnce, while this card is in your Pendulum Zone, when your opponent Pendulum Summons a monster(s): You can activate this effect; this turn, that Pendulum Summoned monster(s) cannot attack, also negate its effects (even if this card leaves the field).\n\nMonster Effect\nCannot attack unless you control another \"D/D\" monster. During your opponent's Main Phase (Quick Effect): You can target 1 Pendulum Summoned monster your opponent controls; negate its effects until the end of this turn. You can only use this effect of \"D/D Evil\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "V Jump Fall 2019 subscription bonus",
+        "pack_id": "VJMP-JP168",
+        "date": "2019-09-21"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f4/DDEvil-VJMP-JP-OP.png"
 }

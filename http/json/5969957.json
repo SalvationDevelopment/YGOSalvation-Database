@@ -2,7 +2,7 @@
     "id": 5969957,
     "ot": 3,
     "alias": 0,
-    "setcode": 258,
+    "setcode": 0,
     "type": 33,
     "atk": 0,
     "def": 2100,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "SD36",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Rokket Revolt",
+        "pack_id": "SDRR-DE003",
+        "date": "2019-08-16"
+    },
+    "ocg": {
+        "pack": "Structure Deck: Revolver",
+        "pack_id": "SD36-JP003",
+        "date": "2019-06-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e2/RokketRecharger-SDRR-EN-C-1E.png"
 }

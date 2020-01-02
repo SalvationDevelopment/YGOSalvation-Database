@@ -2,7 +2,7 @@
     "id": 69073023,
     "ot": 3,
     "alias": 0,
-    "setcode": 295,
+    "setcode": 0,
     "type": 67108897,
     "atk": 4000,
     "def": 37,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262144,
     "name": "Infinitrack Fortress Megaclops",
-    "desc": "3 Xyz Monsters\r\nUnaffected by other monsters' effects, except those of Xyz Monsters. Cannot be destroyed by battle, except with an Xyz Monster. You can target 1 Xyz Monster in your GY and 1 card your opponent controls; Special Summon that monster from your GY, and if you do, attach that opponent's card to it as material, also for the rest of this turn, any damage your opponent takes is halved. You can only use this effect of \"Infinitrack Fortress Megaclops\" once per turn.",
+    "desc": "Link Arrows: [🡷][🡶][🡲]\n\n3 Xyz Monsters\nUnaffected by other monsters' effects, except those of Xyz Monsters. Cannot be destroyed by battle, except with an Xyz Monster. You can target 1 Xyz Monster in your GY and 1 card your opponent controls; Special Summon that monster from your GY, and if you do, attach that opponent's card to it as material, also for the rest of this turn, any damage your opponent takes is halved. You can only use this effect of \"Infinitrack Fortress Megaclops\" once per turn.",
     "str1": "Special Summon",
     "str2": "Affected by \"Infinitrack Fortress Megaclops\"",
     "str3": "",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "The Infinity Chasers",
+        "pack_id": "INCH-EN011",
+        "date": "2019-03-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Infinity Chasers",
+        "pack_id": "DBIC-JP011",
+        "date": "2019-02-23"
+    },
+    "links": [
+        4,
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/79/InfinitrackFortressMegaclops-INCH-EN-ScR-1E.png"
 }

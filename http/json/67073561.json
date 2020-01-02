@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 4,
     "name": "Baba Barber",
-    "desc": "2 monsters\r\nAt the start of each Battle Phase: You can target this card or 1 monster this card points to; banish it until the End Phase. You can only use this effect of \"Baba Barber\" once per turn.",
+    "desc": "Link Arrows: [🡰][🡳]\n\n2 monsters\nAt the start of each Battle Phase: You can target this card or 1 monster this card points to; banish it until the End Phase. You can only use this effect of \"Baba Barber\" once per turn.",
     "str1": "Target a monster to banish until the End Phase",
     "str2": "",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE050",
+        "date": "2019-07-25"
+    },
+    "ocg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-JP050",
+        "date": "2019-04-13"
+    },
+    "links": [
+        3,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/94/BabaBarber-RIRA-EN-C-1E.png"
 }

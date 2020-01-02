@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262672,
     "name": "Whitefish Salvage",
-    "desc": "You can target 1 Fish monster in your GY; add it to your hand. You can only use this effect of \"Whitefish Salvage\" once per turn. If this card in your possession is destroyed by an opponent's card effect and sent to your GY: Take 1 Fish monster from your Deck, and either add it to your hand or Special Summon it.",
+    "desc": "You can target 1 Fish monster in your GY; add it to your hand. You can only use this effect of \"Whitefish Salvation\" once per turn. If this card in your possession is destroyed by an opponent's card effect and sent to your GY: You can take 1 Fish monster from your Deck, and either add it to your hand or Special Summon it.",
     "str1": "Recover Fish monster",
     "str2": "Select 1 Fish monster",
     "str3": "Special Summon",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE098",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Premium Pack 20",
+        "pack_id": "PP20-JP007",
+        "date": "2018-03-10"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/WhitefishSalvage-DANE-EN-R-1E.png"
 }

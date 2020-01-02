@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 544,
     "name": "Yosenju Sabu",
-    "desc": "Once per turn, during the End Phase, if this card was Normal Summoned this turn: Return it to the hand. You can only use each of the following effects of \"Yosenju Sabu\" once per turn.\r\n● If this card is Normal Summoned: If you control another \"Yosenju\" card, you can add 1 \"Yosenju\" Pendulum Monster from your Deck to your hand.\r\n● You can target 1 \"Yosenju\" card you control; place 1 \"Dizzying Winds of Yosen Village\" or \"Yosen Whirlwind\" from your Deck face-up in your Spell & Trap Zone, and if you do, shuffle the targeted card into the Deck.",
+    "desc": "Once per turn, during the End Phase, if this card was Normal Summoned this turn: Return it to the hand. You can only use each of the following effects of \"Yosenju Sabu\" once per turn.\n● If this card is Normal Summoned: If you control another \"Yosenju\" card, you can add 1 \"Yosenju\" Pendulum Monster from your Deck to your hand.\n● You can target 1 \"Yosenju\" card you control; place 1 \"Dizzying Winds of Yosen Village\" or \"Yosen Whirlwind\" from your Deck face-up in your Spell & Trap Zone, and if you do, shuffle the targeted card into the Deck.",
     "str1": "Add 1 \"Yosenju\" Pendulum Monster from your Deck to your hand.",
     "str2": "Target 1 \"Yosenju\" card",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE009",
+        "date": "2019-07-25"
+    },
+    "ocg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-JP009",
+        "date": "2019-04-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/51/YosenjuSabu-RIRA-EN-C-1E.png"
 }

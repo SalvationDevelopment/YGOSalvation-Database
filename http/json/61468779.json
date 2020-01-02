@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262144,
     "name": "Grandsoil the Elemental Lord",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 EARTH monsters in your Graveyard, and cannot be Special Summoned by other ways. When this card is Special Summoned: You can target 1 monster in either player's Graveyard; Special Summon that target.You can only use this effect of \"Grandsoil the Elemental Lord\" once per turn. If this card leaves the field, skip the Battle Phase of your next turn.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 EARTH monsters in your GY. When this card is Special Summoned: You can target 1 monster in either player's GY; Special Summon that target. You can only use this effect of \"Grandsoil the Elemental Lord\" once per turn. If this face-up card leaves the field, skip the Battle Phase of your next turn.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "REDU-EN038",
         "date": "2012-08-18"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/30/GrandsoiltheElementalLord-REDU-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/82/GrandsoiltheElementalLord-FLOD-EN-SR-LE.png"
 }

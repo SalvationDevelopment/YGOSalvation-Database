@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 2147747840,
     "name": "Cyberse Enchanter",
-    "desc": "2+ monsters\r\nIf you control this card that was Link Summoned using \"Cyberse Wizard\" as material (Quick Effect): You can target 1 monster your opponent controls; change its battle position, and if you do, negate its effects until the end of this turn. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can Special Summon 1 \"Cyberse Wizard\" from your hand, Deck, or GY. You can only use each effect of \"Cyberse Enchanter\" once per turn.",
+    "desc": "Link Arrows: [🡰][🡳][🡲]\n\n2+ monsters\nIf you control this card that was Link Summoned using \"Cyberse Wizard\" as material (Quick Effect): You can target 1 monster your opponent controls; change its battle position, and if you do, negate its effects until the end of the turn. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can Special Summon 1 \"Cyberse Wizard\" from your hand, Deck, or GY. You can only use each effect of \"Cyberse Enchanter\" once per turn.",
     "str1": "Change position and negate effects",
     "str2": "Special Summon \"Cyberse Wizard\"",
     "str3": "",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Duel Power",
+        "pack_id": "DUPO-EN014",
+        "date": "2019-04-03"
+    },
+    "ocg": {
+        "pack": "20th Anniversary Duelist Box",
+        "pack_id": "20TH-JPB31",
+        "date": "2018-12-22"
+    },
+    "links": [
+        3,
+        4,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/34/CyberseEnchanter-DUPO-EN-UR-1E.png"
 }

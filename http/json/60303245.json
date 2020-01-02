@@ -2,7 +2,7 @@
     "id": 60303245,
     "ot": 3,
     "alias": 0,
-    "setcode": 281,
+    "setcode": 0,
     "type": 67108897,
     "atk": 0,
     "def": 4,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 262144,
     "name": "Salamangreat Almiraj",
-    "desc": "1 Normal Summoned monster with 1000 or less ATK\r\n(Quick Effect): You can Tribute this card, then target 1 monster you control; it cannot be destroyed by your opponent's card effects this turn. When a Normal Summoned monster you control is destroyed by battle, while this card is in your GY: You can Special Summon this card. You can only use this effect of \"Salamangreat Almiraj\" once per turn.",
+    "desc": "Link Arrows: [🡶]\n\n1 Normal Summoned monster with 1000 or less ATK\n(Quick Effect): You can Tribute this card, then target 1 monster you control; it cannot be destroyed by your opponent's card effects this turn. When a Normal Summoned monster you control is destroyed by battle, while this card is in your GY: You can Special Summon this card from your GY. You can only use this effect of \"Salamangreat Almiraj\" once per turn.",
     "str1": "Destruction protection",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,19 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Battles of Legend: Hero's Revenge",
+        "pack_id": "BLHR-DE054",
+        "date": "2019-07-11"
+    },
+    "ocg": {
+        "pack": "Premium Pack 2019",
+        "pack_id": "19PP-JP006",
+        "date": "2019-03-09"
+    },
+    "links": [
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5f/SalamangreatAlmiraj-BLHR-EN-ScR-1E.png"
 }

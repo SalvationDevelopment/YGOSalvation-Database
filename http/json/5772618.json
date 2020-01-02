@@ -2,7 +2,7 @@
     "id": 5772618,
     "ot": 3,
     "alias": 0,
-    "setcode": 8214,
+    "setcode": 1450006,
     "type": 8225,
     "atk": 3000,
     "def": 2800,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 2164261392,
     "name": "Hi-Speedroid Kitedrake",
-    "desc": "1 WIND Machine Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can activate 1 of these effects.\r\n● Destroy all other cards on the field.\r\n● Negate the effects of all face-up cards your opponent currently controls.\r\nIf this card in your possession is sent to your GY by an opponent's card: You can add 1 \"Speedroid\" monster from your Deck to your hand.\r\nYou can only use each effect of \"Hi-Speedroid Kitedrake\" once per turn.",
+    "desc": "1 WIND Machine Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can activate 1 of these effects.\n● Destroy all other cards on the field.\n● Negate the effects of all face-up cards your opponent currently controls.\nIf this card in your possession is sent to your GY by an opponent's card: You can add 1 \"Speedroid\" monster from your Deck to your hand.\nYou can only use each effect of \"Hi-Speedroid Kitedrake\" once per turn.",
     "str1": "Destroy all other cards on the field",
     "str2": "Negate the effects of all face-up cards your opponent controls",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Battles of Legend: Hero's Revenge",
+        "pack_id": "BLHR-DE044",
+        "date": "2019-07-11"
+    },
+    "ocg": {
+        "pack": "V Jump March 2019 promotional card",
+        "pack_id": "VJMP-JP158",
+        "date": "2018-01-21"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/00/HiSpeedroidKitedrake-BLHR-EN-ScR-1E.png"
 }

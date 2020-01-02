@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 4194308,
     "name": "Topologic Trisbaena",
-    "desc": "2+ Effect Monsters\r\nIf a monster(s) is Special Summoned to a zone(s) this card points to: Banish as many of those monster(s) as possible, also as many Spells/Traps on the field as possible, and if you do, inflict 500 damage to your opponent for each of their cards banished by this effect.",
+    "desc": "Link Arrows: [🡷][🡱][🡶]\n\n2+ Effect Monsters\nIf a monster(s) is Special Summoned to a zone this card points to: Banish as many of those monster(s) as possible, also as many Spells/Traps on the field as possible, and if you do, inflict 500 damage to your opponent for each of their cards banished by this effect.",
     "str1": "Banish and inflict damage",
     "str2": "",
     "str3": "",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE036",
+        "date": "2018-05-03"
+    },
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP036",
+        "date": "2018-01-13"
+    },
+    "links": [
+        1,
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2b/TopologicTrisbaena-FLOD-EN-ScR-1E.png"
 }

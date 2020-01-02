@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 32,
     "name": "Red Dragon Ninja",
-    "desc": "When this card is Summoned: You can banish 1 \"Ninja\" or \"Ninjitsu Art\" card from your Graveyard to target 1 Set card your opponent controls; reveal that Set card, then return it to either the top or bottom of the Deck. Your opponent cannot activate the targeted card in response to this effect's activation. You can only use the effect of \"Red Dragon Ninja\" once per turn.",
+    "desc": "When this card is Summoned: You can banish 1 \"Ninja\" or \"Ninjitsu Art\" card from your GY, then target 1 Set card your opponent controls; reveal that Set card, then return it to either the top or bottom of the Deck. Your opponent cannot activate the targeted card in response to this effect's activation. You can only use the effect of \"Red Dragon Ninja\" once per turn.",
     "str1": "Return to Deck",
     "str2": "Return to top of Deck",
     "str3": "Return to bottom of Deck",
@@ -40,5 +40,5 @@
         "pack_id": "ABYR-DE082",
         "date": "2012-11-08"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cd/RedDragonNinja-ABYR-EN-SR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/65/RedDragonNinja-SHVA-EN-SR-1E.png"
 }

@@ -2,7 +2,7 @@
     "id": 58139997,
     "ot": 3,
     "alias": 0,
-    "setcode": 296,
+    "setcode": 0,
     "type": 33,
     "atk": 2000,
     "def": 2300,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262144,
     "name": "Witchcrafter Edel",
-    "desc": "(Quick Effect): You can discard 1 Spell; Special Summon 1 \"Witchcrafter\" monster from your hand, except \"Witchcrafter Edel\". You can Tribute this card, then target 1 Spellcaster monster in your GY, except \"Witchcrafter Edel\"; Special Summon it. You can only use each effect of \"Witchcrafter Edel\" once per turn.",
+    "desc": "(Quick Effect): You can discard 1 Spell; Special Summon 1 &#x201C;Witchcrafter&#x201D; monster from your hand, except &#x201C;Witchcrafter Edel&#x201D;. You can Tribute this card, then target 1 Spellcaster monster in your GY, except &#x201C;Witchcrafter Edel&#x201D;; Special Summon it. You can only use each effect of &#x201C;Witchcrafter Edel&#x201D; once per turn.",
     "str1": "Special Summon from hand",
     "str2": "Tribute then target to Special Summon from the GY",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "The Infinity Chasers",
+        "pack_id": "INCH-EN017",
+        "date": "2019-03-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Infinity Chasers",
+        "pack_id": "DBIC-JP017",
+        "date": "2019-02-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/10/WitchcrafterEdel-INCH-EN-SR-1E.png"
 }

@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "V Jump July 2019 promotional card",
+        "pack_id": "VJMP-JP164",
+        "date": "2019-05-21"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/46/CrossoutDesignator-VJMP-JP-UR.png"
 }

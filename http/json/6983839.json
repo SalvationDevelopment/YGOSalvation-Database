@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 0,
     "name": "Tornado Dragon",
-    "desc": "2 Level 4 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 Spell/Trap Card on the field; destroy it.",
+    "desc": "2 Level 4 monsters\nOnce per turn (Quick Effect): You can detach 1 material from this card, then target 1 Spell/Trap on the field; destroy it.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "MACR-DE081",
         "date": "2017-05-04"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b3/TornadoDragon-MACR-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a7/TornadoDragon-BLRR-EN-ScR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 0,
     "name": "Elemental HERO Blazeman",
-    "desc": "If this card is Normal or Special Summoned: You can add 1 \"Polymerization\" from your Deck to your hand. During your Main Phase: You can activate this effect; you cannot Special Summon monsters for the rest of this turn, except Fusion Monsters, also send 1 \"Elemental HERO\" monster from your Deck to the Graveyard, except \"Elemental HERO Blazeman\", and if you do, this card's Attribute, ATK, and DEF each become the same as the monster sent to the Graveyard, until the end of this turn. You can only use 1 \"Elemental HERO Blazeman\" effect per turn, and only once that turn.",
+    "desc": "If this card is Normal or Special Summoned: You can add 1 \"Polymerization\" from your Deck to your hand. During your Main Phase: You can activate this effect; you cannot Special Summon monsters for the rest of this turn, except Fusion Monsters, also send 1 \"Elemental HERO\" monster from your Deck to the GY, except \"Elemental HERO Blazeman\", and if you do, this card's Attribute and ATK/DEF become the same as the monster sent to the GY, until the end of this turn. You can only use 1 \"Elemental HERO Blazeman\" effect per turn, and only once that turn.",
     "str1": "Add 1 \"Polymerization\" from your Deck",
     "str2": "Send 1 \"Elemental HERO\" monster from your Deck to the Graveyard",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "WSUP-DE032",
         "date": "2015-04-16"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7f/ElementalHEROBlazeman-WSUP-EN-PScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/ba/ElementalHEROBlazeman-LEHD-EN-C-1E.png"
 }

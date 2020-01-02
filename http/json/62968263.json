@@ -2,7 +2,7 @@
     "id": 62968263,
     "ot": 1,
     "alias": 0,
-    "setcode": 4219,
+    "setcode": 8065147,
     "type": 33,
     "atk": 3000,
     "def": 2500,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Galaxy-Eyes Afterglow Dragon",
-    "desc": "If you control a \"Galaxy-Eyes\" monster: You can Special Summon this card from your hand in Defense Position. If this card is detached from an Xyz Monster to activate that monster's effect: You can take 1 \"Galaxy-Eyes Photon Dragon\" from your hand or Deck, and either Special Summon it or attach it to an Xyz Monster you control as material, then if this effect was activated during the Battle Phase, double the ATK of all \"Number\" Xyz Monsters you control. You can only use each effect of \"Galaxy-Eyes Afterglow Dragon\" once per turn.",
+    "desc": "If you control a \"Galaxy-Eyes\" monster: You can Special Summon this card from your hand in Defense Position. If this card is detached from an Xyz Monster to activate that monster's effect: You can take 1 \"Galaxy-Eyes Photon Dragon\" from your hand or Deck, and either Special Summon it or attach it to an Xyz Monster you control as material, then if this effect was activated during the Battle Phase, you can double the ATK of all \"Number\" Xyz Monsters you control. You can only use each effect of \"Galaxy-Eyes Afterglow Dragon\" once per turn.",
     "str1": "Special Summon this card from hand",
     "str2": "Special Summon or Attach",
     "str3": "Attach",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Legendary Gold Box",
+        "pack_id": "LGB1-JP029",
+        "date": "2019-12-21"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ec/GalaxyEyesAfterglowDragon-LGB1-JP-OP.png"
 }

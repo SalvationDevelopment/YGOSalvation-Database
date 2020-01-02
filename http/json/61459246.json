@@ -2,7 +2,7 @@
     "id": 61459246,
     "ot": 2,
     "alias": 0,
-    "setcode": 305,
+    "setcode": 0,
     "type": 1048580,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Dream Mirror Oneiromancy",
-    "desc": "Activate 1 of these effects.\r\n● When your opponent activates a Spell/Trap Card while a \"Dream Mirror of Joy\" is in a Field Zone: Negate the activation, and if you do, destroy that card.\r\n● When your opponent would Special Summon monster(s) while a \"Dream Mirror of Terror\" is in a Field Zone: Negate the Summon, and if you do, destroy that monster.\r\nYou can only activate 1 \"Dream Mirror Oneiromancy\" per turn.",
+    "desc": "Activate 1 of these effects.\n● When your opponent activates a Spell/Trap Card while a \"Dream Mirror of Joy\" is in a Field Zone: Negate the activation, and if you do, destroy that card.\n● When your opponent would Special Summon monster(s) while a \"Dream Mirror of Terror\" is in a Field Zone: Negate that Summon, and if you do, destroy that monster.\nYou can only activate 1 \"Dream Mirror Oneiromancy\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE091",
+        "date": "2019-10-24"
+    },
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2b/DreamMirrorOneiromancy-CHIM-EN-R-1E.png"
 }

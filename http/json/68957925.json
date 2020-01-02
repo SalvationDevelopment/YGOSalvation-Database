@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 12853250,
     "name": "Link Party",
-    "desc": "Apply this effect, depending on the number of different original Attributes the Link Monsters on the field have.\r\n● 1: All Link Monsters you control gain 500 ATK.\r\n● 2: All Link Monsters your opponent controls lose 1000 ATK.\r\n● 3: Gain 1500 LP.\r\n● 4: Inflict 2000 damage to your opponent.\r\n● 5: Special Summon 1 monster with 2500 or more ATK from your Deck.\r\n● 6: Destroy all monsters your opponent controls with 3000 or less ATK.\r\nYou can only activate 1 \"Link Party\" per turn.",
+    "desc": "Apply this effect, depending on the number of different original Attributes the Link Monsters on the field have.\n● 1: All Link Monsters you control gain 500 ATK.\n● 2: All Link Monsters your opponent controls lose 1000 ATK.\n● 3: Gain 1500 LP.\n● 4: Inflict 2000 damage to your opponent.\n● 5: Special Summon 1 monster with 2500 or more ATK from your Deck.\n● 6: Destroy all monsters your opponent controls with 3000 or less ATK.\nYou can only activate 1 &#x201C;Link Party&#x201D; per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Promotion Pack 2018",
+        "pack_id": "18PR-JP010",
+        "date": "2018-05-27"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2c/LinkParty-18PR-JP-NPR.png"
 }

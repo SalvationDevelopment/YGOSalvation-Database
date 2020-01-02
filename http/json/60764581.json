@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 786432,
     "name": "Stray Lambs",
-    "desc": "Special Summon 2 \"Lamb Tokens\" (Beast-Type/EARTH/Level 1/ATK 0/DEF 0) in Defense Position. You cannot Summon other monsters the turn you activate this card (but you can Set).",
+    "desc": "Special Summon 2 \"Lamb Tokens\" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position. You cannot Summon other monsters the turn you activate this card (but you can Set).",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Invader of Darkness",
-        "pack_id": "307-037",
-        "date": "2003-07-17"
-    },
+    "ocg": {},
     "tcg": {
         "pack": "Invasion of Chaos",
         "pack_id": "IOC-092",
         "date": "2004-03-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/83/StrayLambs-LCJW-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5d/StrayLambs-SS02-EN-C-1E.png"
 }

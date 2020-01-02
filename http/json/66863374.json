@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262656,
     "name": "Test Panther",
-    "desc": "2 monsters including a \"Gladiator Beast\" monster\nIf this card is Link Summoned: You can add 1 \"Gladiator Beast\" card from your Deck to your hand. You can target 1 \"Gladiator Beast\" monster you control; shuffle that \"Gladiator Beast\" monster into the Deck, and if you do, Special Summon 1 \"Gladiator Beast\" monster with a different original name from your Deck. (This is treated as a Special Summon by a \"Gladiator Beast\" monster's effect.) You can only use each effect of \"Test Panther\" once per turn.",
+    "desc": "Link Arrows: [🡷][🡳]\n\n2 monsters, including an \"Gladiator Beast\" monster\nIf this card is Link Summoned: You can add 1 \"Gladiator Beast\" card from your Deck to your hand. You can target 1 \"Gladiator Beast\" monster you control; shuffle that \"Gladiator Beast\" monster into the Deck, and if you do, Special Summon 1 \"Gladiator Beast\" monster with a different original name from your Deck. (This is treated as a Special Summon by a \"Gladiator Beast\" monster's effect.) You can only use each effect of \"Test Panther\" once per turn.",
     "str1": "Search deck",
     "str2": "Target to shuffle and Special Summon",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE046",
+        "date": "2019-10-24"
+    },
+    "ocg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-JP046",
+        "date": "2019-07-13"
+    },
+    "links": [
+        5,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/TestPanther-CHIM-EN-UR-1E.png"
 }

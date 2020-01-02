@@ -2,7 +2,7 @@
     "id": 68464358,
     "ot": 3,
     "alias": 0,
-    "setcode": 258,
+    "setcode": 0,
     "type": 4129,
     "atk": 1600,
     "def": 1000,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "SD36",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Rokket Revolt",
+        "pack_id": "SDRR-DE002",
+        "date": "2019-08-16"
+    },
+    "ocg": {
+        "pack": "Structure Deck: Revolver",
+        "pack_id": "SD36-JP002",
+        "date": "2019-06-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f1/RokketTracer-SDRR-EN-SR-1E.png"
 }

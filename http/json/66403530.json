@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 270340,
     "name": "Topologic Zeroboros",
-    "desc": "2+ Effect Monsters\nYou cannot Summon/Set monsters to any Extra Monster Zone this card points to. Gains 200 ATK for each banished card. If another monster is Special Summoned to a zone a Link Monster points to, while this monster is on the field: Banish all cards on the field. Once per turn, during the Standby Phase of your next turn after this card was banished by its own effect: Special Summon this banished card.",
+    "desc": "Link Arrows: [🡴][🡷][🡶][🡵]\n\n2+ Effect Monsters\nYou cannot Summon/Set monsters to any Extra Monster Zone this card points to. Gains 200 ATK for each banished card. If another monster is Special Summoned to a zone a Link Monster points to, while this monster is on the field: Banish all cards on the field. Once per turn, during the Standby Phase of your next turn after this card was banished by its own effect: Special Summon this banished card.",
     "str1": "Banish",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,22 @@
     "str14": "",
     "str15": "",
     "str16": "SD36",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Rokket Revolt",
+        "pack_id": "SDRR-DE041",
+        "date": "2019-08-16"
+    },
+    "ocg": {
+        "pack": "Structure Deck: Revolver",
+        "pack_id": "SD36-JP041",
+        "date": "2019-06-22"
+    },
+    "links": [
+        0,
+        2,
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1b/TopologicZeroboros-SDRR-EN-UR-1E.png"
 }

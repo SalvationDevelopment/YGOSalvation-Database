@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 8396800,
     "name": "Ghost Sister & Spooky Dogwood",
-    "desc": "During either turn, except the End Phase (Quick Effect): You can discard this card; apply this effect this turn. You can only use this effect of \"Ghost Sister & Spooky Dogwood\" once per turn.\n● Each time your opponent Special Summons an Effect Monster(s) during the Main Phase or Battle Phase, you gain LP equal to that monster's ATK. If you did not gain LP by this effect, your LP are halved during the End Phase.",
+    "desc": "During either turn, except the End Phase (Quick Effect): You can discard this card; apply this effect this turn. You can only use this effect of \"Ghost Sister & Spooky Dogwood\" once per turn.\n● Each time your opponent Special Summons an Effect Monster(s) during the Main or Battle Phase, you gain LP equal to that monster's ATK. If you did not gain LP by this effect, your LP are halved during the End Phase.",
     "str1": "Affected by \"Ghost Sister & Spooky Dogwood\"",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE025",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP025",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/09/GhostSisterSpookyDogwood-DANE-EN-ScR-1E.png"
 }

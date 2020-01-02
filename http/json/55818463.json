@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 16,
     "name": "Lich Lord, King of the Underworld",
-    "desc": "If you Tribute Summon this card, the Tribute must be DARK. If this card is Tributed by a card's effect and sent to the Graveyard, it returns to its owner's hand.",
+    "desc": "If you Tribute Summon this card, the Tribute must be DARK. If this card is Tributed by a card effect and sent to the GY: Add this card from your GY to your hand.",
     "str1": "Return to hand",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "FOTB-FR062",
         "date": "2007-05-05"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/be/LichLordKingoftheUnderworld-GLD4-EN-C-LE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/37/LichLordKingoftheUnderworld-SR06-EN-C-1E.png"
 }

@@ -2,7 +2,7 @@
     "id": 72043279,
     "ot": 3,
     "alias": 0,
-    "setcode": 248,
+    "setcode": 0,
     "type": 524290,
     "atk": 0,
     "def": 0,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "DP22",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: Immortal Destiny",
+        "pack_id": "LED5-DE015",
+        "date": "2019-09-26"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 5",
+        "pack_id": "DP22-JP015",
+        "date": "2019-06-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1a/SupremeKingsCastle-LED5-EN-R-1E.png"
 }

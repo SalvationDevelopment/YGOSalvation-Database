@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 3,
     "name": "Demise, King of Armageddon",
-    "desc": "This card can only be Ritual Summoned with the Ritual Spell Card, \"End of the World\". You can pay 2000 Life Points to destroy all cards on the field, except this card.",
+    "desc": "You can Ritual Summon this card with End of the World. You can pay 2000 LP; destroy all other cards on the field.",
     "str1": "此卡以外全部破坏",
     "str2": "",
     "str3": "",
@@ -30,15 +30,7 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Shadow of Infinity",
-        "pack_id": "SOI-JP035",
-        "date": "2005-11-17"
-    },
-    "tcg": {
-        "pack": "Shadow of Infinity",
-        "pack_id": "SOI-EN035",
-        "date": "2006-02-18"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5f/DemiseKingofArmageddon-DR04-NA-SR-UE.png"
+    "ocg": {},
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/03/DemiseKingofArmageddon-MP18-EN-C-1E.png"
 }

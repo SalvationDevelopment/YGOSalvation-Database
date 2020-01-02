@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8192,
     "name": "Zombie Power Struggle",
-    "desc": "Target 1 Zombie monster on the field; until the end of this turn, it gains 1000 ATK or loses 1000 ATK. During your Main Phase, if this card is in your GY: You can shuffle 1 of your banished Zombie monsters into the Deck, and if you do, Set this card, but banish it when it leaves the field. You can only use this effect of \"Zombie Power Struggle\" once per turn.",
+    "desc": "Target 1 Zombie monster on the field; make it either gain or lose 1000 ATK until the end of this turn. If this card is in your GY: You can shuffle 1 of your banished Zombie monsters into the Deck, and if you do, Set this card, but banish it when it leaves the field. You can only use 1 \"Zombie Power Struggle\" effect per turn, and only once that turn.",
     "str1": "Have the target lose 1000 ATK?",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Zombie Horde",
+        "pack_id": "SR07-DE024",
+        "date": "2018-11-01"
+    },
+    "ocg": {
+        "pack": "Structure Deck R: Undead World",
+        "pack_id": "SR07-JP024",
+        "date": "2018-09-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/46/ZombiePowerStruggle-SR07-EN-C-1E.png"
 }

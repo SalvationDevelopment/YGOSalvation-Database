@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Dark Magic Secrets",
-    "desc": "Activate 1 of these effects;\n● Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material, including \"Dark Magician\" or \"Dark Magician Girl\".\n● Ritual Summon 1 Ritual Monster from your hand, by Tributing monsters from your hand or field, including \"Dark Magician\" or \"Dark Magician Girl\", whose total Levels equal or exceed its Level.",
+    "desc": "Activate 1 of these effects;\n● Fusion Summon 1 Fusion Monster from your Extra Deck using monsters you control or in your hand, including at least 1 &#x201C;Dark Magician&#x201D; or &#x201C;Dark Magician Girl&#x201D; as materials.\n● Ritual Summon 1 Ritual Monster from your hand by Tributing monster(s) you control or in your hand, including at least 1 &#x201C;Dark Magician&#x201D; or &#x201C;Dark Magician Girl&#x201D;, whose combined levels are greater than or equal to the level of the Ritual Monster.",
     "str1": "Fusion Summon",
     "str2": "Ritual Summon",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 6",
+        "pack_id": "DP23-JP004",
+        "date": "2019-11-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ab/DarkMagicSecrets-DP23-JP-R.png"
 }

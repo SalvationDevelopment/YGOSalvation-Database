@@ -2,7 +2,7 @@
     "id": 69039982,
     "ot": 3,
     "alias": 0,
-    "setcode": 278,
+    "setcode": 0,
     "type": 524290,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 40960,
     "name": "Crusadia Revival",
-    "desc": "All \"Crusadia\" Link Monsters on the field gain 500 ATK. Once per turn: You can target 1 \"Crusadia\" Link Monster you control; this turn (even if this card leaves the field), it can attack all monsters your opponent controls once each, also other monsters you control cannot attack.",
+    "desc": "All &#x201C;Crusadia&#x201D; Link Monsters on the field gain 500 ATK. Once per turn: You can target 1 &#x201C;Crusadia&#x201D; Link Monster you control; this turn (even if this card leaves the field), it can attack all monsters your opponent controls, once each, also other monsters you control cannot attack.",
     "str1": "Allow multiple attacks",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE054",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP054",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/CrusadiaRevival-CYHO-EN-SR-1E.png"
 }

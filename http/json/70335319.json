@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 2147524608,
     "name": "All-Eyes Phantom Dragon",
-    "desc": "[ Pendulum Effect ]\r\nOnce per turn, at the end of the Damage Step, if your Dragon Pendulum Monster attacked an opponent's monster: You can activate this effect; it can attack again in a row. You cannot declare attacks the turn you activate this effect, except with that monster.\r\n----------------------------------------\r\n[ Monster Effect ]\r\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand or face-up Extra Deck) by Tributing all monsters you control (min. 2), including a Dragon Pendulum Monster. You can only Special Summon \"All-Eyes Phantom Dragon\" once per turn this way. Once per turn, during damage calculation, if this card battles an opponent's monster: Double this card's current ATK until the end of this turn. Once per turn, when your opponent activates a Spell/Trap Card or effect (Quick Effect): You can send 1 Spell/Trap you control to the GY; negate the activation.",
+    "desc": "Pendulum Effect\nOnce per turn, at the end of the Damage Step, if your Dragon Pendulum Monster attacked an opponent's monster: You can activate this effect; it can attack again in a row. You cannot declare attacks the turn you activate this effect, except with that monster.\n\nMonster Effect\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand or face-up Extra Deck) by Tributing all monsters you control (min. 2), including a Dragon Pendulum Monster. You can only Special Summon \"All-Eyes Phantom Dragon\" once per turn this way. Once per turn, during damage calculation, if this card battles an opponent's monster: Double this card's current ATK until the end of this turn. Once per turn, when your opponent activates a Spell/Trap Card or effect (Quick Effect): You can send 1 Spell/Trap you control to the GY; negate the activation.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Battles of Legend: Hero's Revenge",
+        "pack_id": "BLHR-DE043",
+        "date": "2019-07-11"
+    },
+    "ocg": {
+        "pack": "V Jump February 2019 promotional card",
+        "pack_id": "VJMP-JP157",
+        "date": "2018-12-21"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4d/AllEyesPhantomDragon-BLHR-EN-ScR-1E.png"
 }

@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "V Jump April 2019 promotional card",
+        "pack_id": "VJMP-JP159",
+        "date": "2019-02-21"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/77/Ankuriboh-VJMP-JP-OP.png"
 }

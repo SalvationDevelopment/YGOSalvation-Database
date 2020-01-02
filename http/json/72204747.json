@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262146,
     "name": "Over Destiny",
-    "desc": "Target 1 \"Destiny HERO\" monster in your Graveyard; Special Summon 1 \"Destiny HERO\" monster from your Deck whose Level is less than or equal to half of that target's Level, but destroy it during the End Phase of this turn.",
+    "desc": "Target 1 \"Destiny HERO\" monster in your GY; Special Summon 1 \"Destiny HERO\" monster from your Deck whose Level is less than or equal to half of that target's Level, but destroy it during the End Phase of this turn.",
     "str1": "Select 1 \"Destiny HERO\" monster in your Graveyard",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "DP05-DE021",
         "date": "2007-02-07"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/OverDestiny-DESO-EN-SR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8f/OverDestiny-LEHD-EN-C-1E.png"
 }

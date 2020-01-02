@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Masked HERO Dark Law",
-    "desc": "Must be Special Summoned with \"Mask Change\" and cannot be Special Summoned by other ways. Any card sent to your opponent's Graveyard is banished instead. Once per turn, if your opponent adds a card(s) from their Deck to their hand (except during the Draw Phase or the Damage Step): You can banish 1 random card from your opponent's hand.",
+    "desc": "Must be Special Summoned by \"Mask Change\". Any card sent to your opponent's GY is banished instead. Once per turn, if your opponent adds a card(s) from their Deck to their hand (except during the Draw Phase or the Damage Step): You can banish 1 random card from your opponent's hand.",
     "str1": "Banish 1 random card from your opponent's hand?",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "SDHS-DE044",
         "date": "2015-01-29"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/ba/MaskedHERODarkLaw-DUSA-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e9/MaskedHERODarkLaw-LEHD-EN-C-1E.png"
 }

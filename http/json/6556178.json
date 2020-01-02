@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262400,
     "name": "Borrel Regenerator",
-    "desc": "Activate this card by targeting 1 \"Rokket\" monster in your GY; Special Summon it and equip it with this card, but banish it when this card leaves the field. If this card is sent to the GY because the equipped monster is destroyed: You can draw 1 card. You can only use each effect of \"Borrel Regenerator\" once per turn.",
+    "desc": "Activate this card by targeting 1 &#x201C;Rokket&#x201D; monster in your GY; Special Summon it and equip it with this card, but banish it when this card leaves the field. If this card is sent to the GY because the equipped monster is destroyed: You can draw 1 card. You can only use each effect of &#x201C;Borrel Regenerator&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE053",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP053",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/15/BorrelRegenerator-CYHO-EN-C-1E.png"
 }

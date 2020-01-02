@@ -2,7 +2,7 @@
     "id": 54772065,
     "ot": 3,
     "alias": 0,
-    "setcode": 303,
+    "setcode": 0,
     "type": 33,
     "atk": 1000,
     "def": 500,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Battles of Legend: Hero's Revenge",
+        "pack_id": "BLHR-EN034",
+        "date": "2019-07-11"
+    },
+    "ocg": {
+        "pack": "Collection Pack: Duelists of Revolution",
+        "pack_id": "CP19-JP037",
+        "date": "2019-05-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f1/BattlewaspTwinbowtheAttacker-BLHR-EN-UR-1E.png"
 }

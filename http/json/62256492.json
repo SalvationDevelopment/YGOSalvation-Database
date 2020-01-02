@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8448,
     "name": "Possessed Awakening",
-    "desc": "All monsters you control gain ATK equal to the number of different Attributes you control x 300. \"Charmer\" and \"Familiar-Possessed\" monsters you control cannot be destroyed by card effects. If a Spellcaster monster(s) whose original ATK is 1850 is Normal or Special Summoned to your field: Draw 1 card. You can only use this effect of \"Possessed Awakening\" once per turn.",
+    "desc": "All monsters you control gain 300 ATK for each different Attribute among monsters you control. &#x201C;Charmer&#x201D; and &#x201C;Familiar-Possessed&#x201D; monsters you control cannot be destroyed by card effects. If a Spellcaster monster whose original ATK is 1850 is Normal or Special Summoned to your field: Draw 1 card. You can only use this effect of &#x201C;Possessed Awakening&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Jump Festa Limited Pack 2019",
+        "pack_id": "JF19-JP004",
+        "date": "2018-12-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/72/PossessedAwakening-JF19-JP-OP.png"
 }

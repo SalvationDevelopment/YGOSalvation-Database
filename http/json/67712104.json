@@ -2,7 +2,7 @@
     "id": 67712104,
     "ot": 3,
     "alias": 0,
-    "setcode": 299,
+    "setcode": 0,
     "type": 67108897,
     "atk": 0,
     "def": 5,
@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 0,
     "name": "Marincess Crystal Heart",
-    "desc": "2 WATER monsters\nUnaffected by your opponent's monster effects while this card is in the Extra Monster Zone. During the Damage Step, if this card battles an opponent's monster, that opponent's monster is unaffected by card effects, except its own. When this card, or your \"Marincess\" Link Monster this card points to, is targeted for an attack: You can send 1 \"Marincess\" monster from your hand to the GY; for that battle, your monster cannot be destroyed by battle and you take no battle damage.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 WATER monsters\nUnaffected by your opponent's monster effects while this card is in the Extra Monster Zone. During the Damage Step, if this card battles an opponent's monster, that opponent's monster is unaffected by card effects, except its own. When this card, or your \"Marincess\" Link Monster this card points to, is targeted for an attack: You can send 1 \"Marincess\" monster from your hand to the GY; for that battle, your monster cannot be destroyed by battle and you take no battle damage.",
     "str1": "Protect from destruction and damage",
     "str2": "",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE040",
+        "date": "2019-10-24"
+    },
+    "ocg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-JP040",
+        "date": "2019-07-13"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e2/MarincessCrystalHeart-CHIM-EN-SR-1E.png"
 }

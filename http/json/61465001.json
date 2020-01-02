@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 8193,
     "name": "Loud Cloud the Storm Serpent",
-    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 FIRE and 1 WIND monster from your GY. You can only use each of the following effects of \"Loud Cloud the Storm Serpent\" once per turn.\r\n● You can banish 1 FIRE monster from your GY, then target 1 monster your opponent controls; destroy that monster, and if you do, this card gains ATK equal to the destroyed monster's original ATK.\r\n● You can banish 1 WIND monster from your GY, then target 1 card in your opponent's Spell & Trap Zone; destroy it.",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 FIRE and 1 WIND monster from your GY. You can banish 1 FIRE monster from your GY, then target 1 monster your opponent controls; destroy it, and if you do, this card gains ATK equal to that destroyed monster's original ATK.\n● You can banish 1 WIND monster from your GY, then target 1 card in your opponent's Spell & Trap Zone; destroy it.\n● You can only use each effect of \"Loud Cloud the Storm Serpent\" once per turn.",
     "str1": "Banish 1 FIRE to destroy monster",
     "str2": "Banish 1 WIND to destroy Spell/Trap",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE022",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP022",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/02/LoudCloudtheStormSerpent-DANE-EN-C-1E.png"
 }

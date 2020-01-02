@@ -2,7 +2,7 @@
     "id": 56980148,
     "ot": 3,
     "alias": 0,
-    "setcode": 282,
+    "setcode": 0,
     "type": 33,
     "atk": 1900,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262672,
     "name": "Dinowrestler Systegosaur",
-    "desc": "If this card is Special Summoned: You can add 1 \"Dinowrestler\" monster or 1 \"World Dino Wrestling\" from your Deck to your hand. During the End Phase, if this card is in the GY because it was sent there this turn, and your opponent controls more monsters than you do: You can target 1 \"Dinowrestler\" monster in your GY, except \"Dinowrestler Systegosaur\"; Special Summon it. You can only use each effect of \"Dinowrestler Systegosaur\" once per turn.",
+    "desc": "If this card is Special Summoned: You can add 1 &#x201C;Dinowrestler&#x201D; monster or 1 &#x201C;World Dino Wrestling&#x201D; from your Deck to your hand. During the End Phase, if this card is in the GY because it was sent there this turn, and your opponent controls more monsters than you do: You can target 1 &#x201C;Dinowrestler&#x201D; monster in your GY, except &#x201C;Dinowrestler Systegosaur&#x201D;; Special Summon that target. You can only use each effect of &#x201C;Dinowrestler Systegosaur&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE008",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP008",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/DinowrestlerSystegosaur-SOFU-EN-C-1E.png"
 }

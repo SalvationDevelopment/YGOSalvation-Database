@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": -2147483645,
     "name": "My Body as a Shield",
-    "desc": "When your opponent activates a Spell/Trap Card or monster effect that would destroy a monster(s) on the field (except during the Damage Step): Pay 1500 LP; negate the activation, and if you do, destroy it.",
+    "desc": "When your opponent activates a Spell/Trap Card or monster effect that would destroy a monster(s) on the field: Pay 1500 LP; negate the activation, and if you do, destroy it.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -31,9 +31,9 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "pack": "Champion of Black Magic",
-        "pack_id": "303-038",
-        "date": "2002-09-19"
+        "pack": "STARTER PACK Volume 2",
+        "pack_id": "SP02-TC045",
+        "date": "2014-09-27"
     },
     "tcg": {
         "pack": "Magician's Force",

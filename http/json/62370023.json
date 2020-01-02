@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 73728,
     "name": "Snowman Effect",
-    "desc": "Target 1 face-up monster you control; it gains ATK equal to the combined original ATK of the other monsters you control, until the end of this turn. It cannot attack directly during the turn you activate this card. You can only activate 1 \"Snowman Effect\" per turn.",
+    "desc": "Target 1 face-up monster you control; that monster gains ATK equal to the total original ATK of all other monsters you control, until the end of this turn, but it cannot attack directly this turn. You can only activate 1 &#x201C;Snowman Effect&#x201D; per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE079",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP079",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/ba/SnowmanEffect-DANE-EN-C-1E.png"
 }

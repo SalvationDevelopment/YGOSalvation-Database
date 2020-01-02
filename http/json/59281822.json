@@ -2,7 +2,7 @@
     "id": 59281822,
     "ot": 3,
     "alias": 0,
-    "setcode": 275,
+    "setcode": 530,
     "type": 33554465,
     "atk": 2800,
     "def": 2200,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE019",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP019",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/50/UmbramiragetheElementalLord-CYHO-EN-SR-1E.png"
 }

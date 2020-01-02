@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8196,
     "name": "Cross-Dimensional Duel",
-    "desc": "Target 1 \"Ancient Gear\" monster you control; banish it. During the next Standby Phase, return that banished monster to the field, and if you do, its ATK becomes double its original ATK until the end of that turn. If 1 or more \"Ancient Gear Golem\" or \"Ancient Gear Golem - Ultimate Pound\" you control would be destroyed by battle or card effect, you can banish this card from your GY instead.",
+    "desc": "Target 1 \"Ancient Gear\" monster you control; banish it. During the next Standby Phase, return that monster banished by this effect to the field, and if you do, its ATK becomes double its original ATK until the end of that turn. If 1 or more \"Ancient Gear Golem\" or \"Ancient Gear Golem - Ultimate Pound\" you control would be destroyed by battle or card effect, you can banish this card from your GY instead.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: Ancient Millennium",
+        "pack_id": "LED2-EN033",
+        "date": "2018-02-22"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 2",
+        "pack_id": "DP19-JP033",
+        "date": "2017-11-11"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/63/CrossDimensionalDuel-LED2-EN-SR-1E.png"
 }

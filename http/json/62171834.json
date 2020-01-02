@@ -2,7 +2,7 @@
     "id": 62171834,
     "ot": 2,
     "alias": 0,
-    "setcode": 305,
+    "setcode": 0,
     "type": 131074,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8704,
     "name": "Dream Mirror Phantasms",
-    "desc": "When this card is activated: You can add 1 \"Dream Mirror\" monster from your Deck to your hand. If \"Dream Mirror of Joy\" is in a Field Zone, all monsters you control gain 500 ATK/DEF. If \"Dream Mirror of Terror\" is in a Field Zone, all monsters your opponent controls lose 500 ATK/DEF. You can only activate 1 \"Dream Mirror Phantasms\" per turn.",
+    "desc": "When this card is activated: You can add 1 \"Dream Mirror\" monster from your Deck to your hand. If \"Dream Mirror of Joy\" is in a Field Zone, all monsters you control gain 500 ATK/DEF. If \"Dream Mirror of Terror\" is in a Field Zone, all monsters your opponent controls loses 500 ATK/DEF. You can only activate 1 \"Dream Mirror Phantasms\" per turn.",
     "str1": "Add 1 \"Dream Mirror\" monster to your hand?",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE088",
+        "date": "2019-10-24"
+    },
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/36/DreamMirrorPhantasms-CHIM-EN-SR-1E.png"
 }

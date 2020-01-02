@@ -2,7 +2,7 @@
     "id": 72813401,
     "ot": 3,
     "alias": 0,
-    "setcode": 8214,
+    "setcode": 1450006,
     "type": 67108897,
     "atk": 1000,
     "def": 5,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 536,
     "name": "Hi-Speedroid Rubber Band Shooter",
-    "desc": "2 WIND monsters\r\nDuring your Main Phase, you can: Immediately after this effect resolves, Normal Summon 1 WIND monster, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Synchro Monsters. You can banish 1 WIND Synchro Monster from your Extra Deck; reveal 2 \"Speedroid\" monsters with different names from your Deck whose total Levels equal the Level of that Synchro Monster, your opponent randomly picks 1 for you to add to your hand, and you send the other to the GY. You can only use each effect of \"Hi-Speedroid Rubber Band Shooter\" once per turn.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 WIND monsters\nDuring your Main Phase, you can: Immediately after this effect resolves, Normal Summon 1 WIND monster, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Synchro Monsters. You can banish 1 WIND Synchro Monster from your Extra Deck; reveal 2 &#x201C;Speedroid&#x201D; monsters with different names from your Deck whose total Levels equal the Level of that Synchro Monster, your opponent randomly picks 1 for you to add to your hand, and you send the other to the GY. You can only use each effect of &#x201C;Hi-Speedroid Rubber Band Shooter&#x201D; once per turn.",
     "str1": "Normal Summon a WIND monster",
     "str2": "Banish 1 WIND Synchro to select 2 Speedroids",
     "str3": "Affected by \"Hi-Speedroid Rubber Band Shooter\"",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Battles of Legend: Hero's Revenge",
+        "pack_id": "BLHR-DE050",
+        "date": "2019-07-11"
+    },
+    "ocg": {
+        "pack": "LINK VRAINS Pack 2",
+        "pack_id": "LVP2-JP081",
+        "date": "2018-11-23"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/86/HiSpeedroidRubberBandShooter-BLHR-EN-ScR-1E.png"
 }

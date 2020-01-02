@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 0,
-    "name": "Yosenju's Divine Mountain Winds",
-    "desc": "If you control no monsters: Activate 1 of these effects;\n● Add 1 Level 5 or higher \"Yosenju\" monster from your Deck to your hand.\n● Place 1 \"Yosenju Shinchu L\" and 1 \"Yosenju Shinchu R\" from your Deck in your Pendulum Zones, but destroy them during your opponent's next End Phase.\nFor the rest of this turn after this card resolves, you cannot Special Summon monsters, except \"Yosenju\" monsters.",
+    "name": "Yosenju Oroshi Channeling",
+    "desc": "If you control no monsters: Activate 1 of the following effects; also for the rest of this turn after this card resolves, you cannot Special Summon monsters, except \"Yosenju\" monsters.\n● Add 1 Level 5 or higher \"Yosenju\" monster from your Deck to your hand.\n● Place 1 \"Yosenju Shinchu L\" and 1 \"Yosenju Shinchu R\" from your Deck in your Pendulum Zones, but destroy them during your opponent's next End Phase.",
     "str1": "Add 1 Level 5 or higher \"Yosenju\" monster from your Deck to your hand.",
     "str2": "Place 1 \"Yosenju Shinchu L\" and 1 \"Yosenju Shinchu R\" from your Deck in your Pendulum Zones, but destroy them during your opponent's next End Phase.",
     "str3": "",
@@ -35,6 +35,10 @@
         "pack_id": "DBLE-JP020",
         "date": "2016-11-26"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5b/YosenjusDivineMountainWinds-DBLE-JP-UPR.png"
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE092",
+        "date": "2019-07-25"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/09/YosenjuOroshiChanneling-RIRA-EN-C-1E.png"
 }

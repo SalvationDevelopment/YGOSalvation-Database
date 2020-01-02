@@ -2,7 +2,7 @@
     "id": 61399402,
     "ot": 1,
     "alias": 0,
-    "setcode": 309,
+    "setcode": 0,
     "type": 8388641,
     "atk": 2300,
     "def": 1500,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262146,
     "name": "Light Dragon @Ignister",
-    "desc": "2 Level 4 monsters\nIf a monster(s) you control would be destroyed by card effect, you can detach 1 material from this card instead. You can only use each of the following effects of \"Light Dragon @Ignister\" once per turn.\n● You can detach 1 material from this card; destroy face-up monsters your opponent controls, up to the number of \"@Ignister\" monsters you control.\n● When your other Cyberse monster inflicts battle damage to your opponent: You can Special Summon 1 Link Monster from your GY.",
+    "desc": "2 Level 4 monsters\nIf a monster(s) you control would be destroyed by card effect, you can detach 1 material from this card instead. You can only use each of the following effects of \"Light Dragon @Ignister\" once per turn.\n● You can detach 1 material from this card; destroy face-up monsters your opponent controls, up to the number of \"@Ignister\" monsters you control.\n● When another Cyberse monster you control inflicts battle damage to your opponent: You can Special Summon 1 Link Monster from your GY.",
     "str1": "Destroy monsters",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP044",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/77/LightDragon%40Ignister-IGAS-EN-1E-OP.png"
 }

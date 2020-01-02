@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 8209,
     "name": "Fire Fighting Daruma Doll",
-    "desc": "2 Beast, Beast-Warrior, and/or Winged Beast monsters\r\nThis card gains 100 ATK for each Beast, Beast-Warrior, and Winged Beast monster on the field. Once per turn: You can target 1 Spell/Trap on each field; destroy them. When this card destroys an opponent's monster by battle: You can target 1 of your Beast, Beast-Warrior, or Winged Beast monsters, that is banished or is in your GY; add it to your hand.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 Beast, Beast-Warrior, and/or Winged Beast monsters\nThis card gains 100 ATK for each Beast, Beast-Warrior, and Winged Beast monster on the field. Once per turn: You can target 1 Spell/Trap on each field; destroy them. When this card destroys an opponent's monster by battle: You can target 1 of your Beast, Beast-Warrior, or Winged Beast monsters, that is banished or is in your GY; add it to your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE051",
+        "date": "2018-05-03"
+    },
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP051",
+        "date": "2018-01-13"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/56/FireFightingDarumaDoll-FLOD-EN-R-1E.png"
 }

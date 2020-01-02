@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 16,
     "name": "Battle Survivor",
-    "desc": "At the end of the Battle Phase: You can add to your hand, 1 card from your GY that was sent there during this Battle Phase while this card was face-up on the field, except \"Battle Survivor\". You can only use this effect of \"Battle Survivor\" once per turn.",
+    "desc": "At the end of the Battle Phase: You can add 1 card from your GY to your hand that was sent to the GY during this Battle Phase while this monster was face-up, except \"Battle Survivor\". You can only use this effect of \"Battle Survivor\" once per turn.",
     "str1": "Add to the hand 1 card",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP032",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9d/BattleSurvivor-IGAS-JP-OP.png"
 }

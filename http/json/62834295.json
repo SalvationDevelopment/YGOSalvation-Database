@@ -2,7 +2,7 @@
     "id": 62834295,
     "ot": 3,
     "alias": 0,
-    "setcode": 283,
+    "setcode": 0,
     "type": 131074,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 12,
     "name": "Orcustrated Einsatz",
-    "desc": "If your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can take 1 \"Orcust\" or \"World Legacy\" monster from your hand or Deck, and either send it to the GY or banish it. You can only use this effect of \"Orcustrated Einsatz\" once per turn.",
+    "desc": "If your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can take 1 \"Orcust\" or \"World Legacy\" monster from your hand or Deck, and either send it yo the GY or banish it. You can only use this effect of \"Orcustrated Einsatz\" once per turn.",
     "str1": "Send to graveyard or banish",
     "str2": "To graveyard or banish",
     "str3": "Do you want to send it to the graveyard?",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE059",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP059",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c8/OrcustratedEinsatz-SOFU-EN-C-1E.png"
 }
