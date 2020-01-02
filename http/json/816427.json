@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 12,
     "name": "Neo Flamvell Lady",
-    "desc": "(Quick Effect): You can send 1 FIRE monster from your hand to the GY, then target 1 card in your opponent's GY; banish that card. If a card is banished from your opponent's GY, while you control this monster (except during the Damage Step): You can send 1 FIRE monster with 200 or less DEF from your Deck to the GY, except \"Neo Flamvell Lady\". You can only use each effect of \"Neo Flamvell Lady\" once per turn.",
+    "desc": "(Quick Effect): You can send 1 FIRE monster from your hand to the GY, then target 1 card in your opponent's GY; banish that card. If a card is banished from your opponent's GY, while you control this monster (except during the Damage Step): You can send 1 FIRE Monster with 200 or less DEF from your Deck to the GY, except \"Neo Flamvell Lady\". You can only use each effect of \"Neo Flamvell Lady\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE014",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP014",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6c/NeoFlamvellLady-DANE-EN-C-1E.png"
 }

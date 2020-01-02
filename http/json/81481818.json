@@ -10,8 +10,8 @@
     "race": 4,
     "attribute": 1,
     "category": 0,
-    "name": "Fluffal Patchwork",
-    "desc": "This card is treated as a \"Frightfur\" monster while on the field. This face-up monster on the field can be used as a substitute for any 1 Fusion Material whose name is specifically listed on a \"Frightfur\" Fusion Monster Card, but the other Fusion Material(s) must be correct.",
+    "name": "Patchwork Fluffal",
+    "desc": "This card is also treated as a \"Frightfur\" monster while face-up on the field. This card on the field can be used as a substitute for any 1 Fusion Material whose name is specifically listed on a \"Frightfur\" Fusion Monster, but the other Fusion Material(s) must be correct.",
     "str1": "Treat as Frightfur",
     "str2": "",
     "str3": "",
@@ -35,6 +35,10 @@
         "pack_id": "VJMP-JP119",
         "date": "2016-09-21"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0a/FluffalPatchwork-VJMP-JP-UR.png"
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-EN092",
+        "date": "2018-10-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/be/PatchworkFluffal-SOFU-EN-C-1E.png"
 }

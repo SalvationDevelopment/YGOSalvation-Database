@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 270336,
     "name": "Endless Decay",
-    "desc": "If you have 2000 Life Points or less, you can Special Summon this card (from your hand). When this card is Normal or Special Summoned: This card's ATK becomes half the opponent's Life Points.",
+    "desc": "If you have 2000 LP or less, you can Special Summon this card (from your hand). If this card is Normal or Special Summoned: This card's ATK becomes half the opponent's LP.",
     "str1": "Change ATK",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "CT09-DE020",
         "date": "2013-01-17"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/38/EndlessDecay-CT09-EN-SR-LE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d3/EndlessDecay-SR07-EN-C-1E.png"
 }

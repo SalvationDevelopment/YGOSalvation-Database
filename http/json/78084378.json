@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 16,
     "name": "Diplexer Chimera",
-    "desc": "2 Cyberse monsters\r\nOnce per turn: You can Tribute 1 Cyberse monster; Spell/Trap Cards, and their effects, cannot be activated during the Battle Phase of this turn. If this Fusion Summoned card is sent to your GY: You can target 1 \"Cynet Fusion\" and 1 Cyberse monster in your GY, except this card; add them to your hand. You can only use this effect of \"Diplexer Chimera\" once per turn.",
+    "desc": "2 Cyberse monsters\nOnce per turn: You can Tribute 1 Cyberse monster; Spell/Trap Cards, and their effects, cannot be activated during the Battle Phase of this turn. If this Fusion Summoned card is sent to your GY: You can target 1 \"Cynet Fusion\" and 1 Cyberse monster in your GY, except this card; add them to your hand. You can only use this effect of \"Diplexer Chimera\" once per turn.",
     "str1": "Prevent Activations",
     "str2": "Add to hand",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE038",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP038",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a0/DiplexerChimera-SOFU-EN-C-1E.png"
 }

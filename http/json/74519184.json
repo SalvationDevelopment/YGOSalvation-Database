@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 328,
     "name": "Hand Destruction",
-    "desc": "Each player sends 2 cards from their hand to the Graveyard, then draws 2 cards.",
+    "desc": "Each player sends 2 cards from their hand to the GY, then draws 2 cards.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "DP07-DE018",
         "date": "2008-01-22"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d0/HandDestruction-SR02-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4f/HandDestruction-SR06-EN-C-1E.png"
 }

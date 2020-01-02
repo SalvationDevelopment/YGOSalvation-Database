@@ -2,7 +2,7 @@
     "id": 76416959,
     "ot": 1,
     "alias": 0,
-    "setcode": 311,
+    "setcode": 0,
     "type": 33,
     "atk": 2500,
     "def": 1800,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 262146,
     "name": "Senka Justice - Guan Yun",
-    "desc": "If only your opponent controls a monster: You can Special Summon this card from your hand. Your opponent cannot target other \"Senka\" monsters you control with card effects. If your opponent controls more monsters than you do: You can target 1 monster your opponent controls; destroy it. You can only use this effect of \"Senka Justice - Guan Yun\" once per turn.",
+    "desc": "If only your opponent controls monsters: You can Special Summon this card (from your hand). Other \"Senka\" monsters you control cannot be targeted by your opponent's effects. If your opponent controls more monsters than you: You can target 1 monster your opponent controls; destroy that target. You can only use this effect of \"Senka Justice - Guan Yun\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP012",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ec/SenkaJusticeGuanYun-IGAS-JP-R.png"
 }

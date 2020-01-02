@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262672,
     "name": "Ojama Pajama",
-    "desc": "If an \"Armed Dragon\" monster(s) and/or a LIGHT Machine Fusion Monster(s) you control would be destroyed by battle or card effect, you can banish 1 \"Ojama\" card from your hand, face-up field, or GY instead. You can only use each of the following effects of \"Ojama Pajama\" once per turn.\r\n● During the Main Phase: You can add 1 \"Ojama\" card from your Deck to your hand, then discard 1 card.\r\n● If this card is sent to the GY: You can Special Summon as many of your banished \"Ojama\" monsters as possible.",
+    "desc": "If an \"Armed Dragon\" monster(s) and/or LIGHT Machine Fusion Monster(s) you control would be destroyed by battle or card effect, you can banish 1 \"Ojama\" card from your hand, face-up field, or GY instead. You can only use each of the following effects of \"Ojama Pajama\" once per turn.\n● During the Main Phase: You can add 1 \"Ojama\" card from your Deck to your hand, then discard 1 card.\n● If this card is sent to the GY: You can Special Summon as many of your banished \"Ojama\" monsters as possible.",
     "str1": "Search \"Ojama\" card",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: Ancient Millennium",
+        "pack_id": "LED2-DE024",
+        "date": "2018-02-22"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 2",
+        "pack_id": "DP19-JP024",
+        "date": "2017-11-11"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2e/OjamaPajama-LED2-EN-R-1E.png"
 }

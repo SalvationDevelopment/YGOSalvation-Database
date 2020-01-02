@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 8192,
     "name": "Bearblocker",
-    "desc": "During your opponent's turn, Set cards in your Spell & Trap Zones cannot be destroyed by card effects. If a Set card(s) in your Spell & Trap Zone is destroyed by an opponent's card effect: This card gains 800 ATK until the end of this turn.",
+    "desc": "During your opponent's turn, Set cards in your Spell & Trap Zones cannot be destroyed by effects. If a Set card(s) in your Spell & Trap Zone is destroyed by an opponent's card effect: This card gains 800 ATK until the end of the turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE029",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP029",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/ba/Bearblocker-SOFU-EN-C-1E.png"
 }

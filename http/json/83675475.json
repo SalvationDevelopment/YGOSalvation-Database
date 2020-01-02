@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 4718594,
     "name": "Token Feastevil",
-    "desc": "Activate only when a Token(s) is Special Summoned. Destroy all Tokens on the field, and inflict 300 damage to your opponent for each destroyed Token.",
+    "desc": "When a Token(s) is Special Summoned: Destroy as many Tokens on the field as possible, and if you do, inflict 300 damage to your opponent for each Token destroyed.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -37,8 +37,8 @@
     },
     "tcg": {
         "pack": "The Lost Millennium",
-        "pack_id": "TLM-EN057",
-        "date": "2005-05-28"
+        "pack_id": "TLM-DE057",
+        "date": "2005-06-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f3/TokenFeastevil-DR3-EN-R-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bc/TokenFeastevil-OP07-EN-C-UE.png"
 }

@@ -2,7 +2,7 @@
     "id": 83266006,
     "ot": 1,
     "alias": 0,
-    "setcode": 289,
+    "setcode": 0,
     "type": 65538,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Ghost Meets Girl - A Mayakashi's Story",
-    "desc": "During the Main Phase: Target 1 Zombie Synchro Monster you control; Special Summon 1 of your Zombie monsters with the same Attribute that is banished or in your GY, but banish the Summoned monster during the End Phase, also for the rest of this turn after this card resolves, you cannot Special Summon monsters, except Zombie monsters. You can only activate 1 \"Ghost Meets Girl - A Mayakashi's Story\" per turn.",
+    "desc": "During the Main Phase: Target 1 Zombie Synchro Monster you control; Special Summon 1 of your Zombie monsters with the same Attribute that is banished or in your GY, but banish it during the End Phase, also, for the rest of this turn after this card resolves, you cannot Special Summon monsters, except Zombie monsters. You can only activate 1 \"Ghost Meets Girl - A Mayakashi's Story\" per turn.",
     "str1": "Affected by \"Ghost Meets Girl - A Mayakashi's Story\"",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP063",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/GhostMeetsGirlAMayakashisStory-IGAS-JP-OP.png"
 }

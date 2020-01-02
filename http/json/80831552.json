@@ -2,7 +2,7 @@
     "id": 80831552,
     "ot": 3,
     "alias": 0,
-    "setcode": 282,
+    "setcode": 0,
     "type": 33,
     "atk": 1600,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262144,
     "name": "Dinowrestler Valeonyx",
-    "desc": "If only your opponent controls a monster, you can Special Summon this card (from your hand). While you control a Link-3 or higher \"Dinowrestler\" monster, face-up monsters you control are unaffected by the activated effects of your opponent's Link-3 or lower monsters.",
+    "desc": "If only your opponent controls monsters, you can Special Summon this card (from your hand). If you control a Link 3 or higher \"Dinowrestler\" monster, face-up monsters you control are unaffected by the activated effects of your opponent's Link 3 or lower monsters.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE007",
+        "date": "2019-10-24"
+    },
+    "ocg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-JP007",
+        "date": "2019-07-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/48/DinowrestlerValeonyx-CHIM-EN-C-1E.png"
 }

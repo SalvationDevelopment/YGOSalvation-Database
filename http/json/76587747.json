@@ -2,7 +2,7 @@
     "id": 76587747,
     "ot": 1,
     "alias": 0,
-    "setcode": 294,
+    "setcode": 0,
     "type": 1048580,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Time Thief Retrograde",
-    "desc": "When a Spell/Trap Card is activated, while you control a \"Time Thief\" Xyz Monster: Negate the activation, and if you do, attach that card to a \"Time Thief\" Xyz Monster you control as material. You can only activate 1 \"Time Thief Retrograde\" per turn.",
+    "desc": "When a Spell/Trap is activated while you control a &#x201C;Time Thief&#x201D; Xyz Monster: Negate that activation, and if you do, attach that card as Xyz material to a &#x201C;TIme Thief&#x201D; Xyz Monster you control. You can only activate one \"Time Thief Retrograde\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP075",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/43/TimeThiefRetrograde-IGAS-JP-OP.png"
 }

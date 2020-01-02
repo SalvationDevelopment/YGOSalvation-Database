@@ -4,7 +4,11 @@
         "pack_id": "17PR-JP009",
         "date": "2017-10-07"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "2018 Mega-Tins",
+        "pack_id": "CT15-DE009",
+        "date": "2018-08-30"
+    },
     "id": 81846453,
     "setcode": 0,
     "type": 8193,
@@ -13,7 +17,7 @@
     "level": 3,
     "race": 32,
     "attribute": 8,
-    "name": "Tin Musical Battlemech",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can target 1 Tuner in your GY; Special Summon it in Defense Position, but it has its effects negated. You can only use this effect of \"Tin Musical Battlemech\" once per turn. A Synchro Monster that used this card as Synchro Material is treated as a Tuner while face-up on the field.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/00/TinMusicalBattlemech-17PR-JP-NPR.png"
+    "name": "Martial Metal Marcher",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can target 1 Tuner in your GY; Special Summon it in Defense Position, but negate its effects. You can only use this effect of &#x201C;Martial Metal Marcher&#x201D; once per turn. A Synchro Monster that used this card as Synchro Material is treated as a Tuner while face-up on the field.",
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/82/MartialMetalMarcher-CT15-EN-UR-LE.png"
 }

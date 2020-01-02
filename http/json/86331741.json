@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 270336,
     "name": "Gagagaga Magician",
-    "desc": "2 Level 4 monsters\nYou can detach 1 material from this card, then target 1 Xyz Monster in your GY, except \"Gagagaga Magician\"; Special Summon it, but negate its effects. You can only use this effect of \"Gagagaga Magician\" once per turn. A \"Utopic Future\" Xyz Monster that has this card as material gains this effect.\n● You can detach 2 materials from this card, then target 1 Xyz Monster you control; until the end of this turn, its ATK becomes 4000, but negate its effects.",
+    "desc": "2 Level 4 monsters\nYou can detach 1 material from this card, then target 1 monster in your GY, except \"Gagagaga Magician\"; Special Summon it but negate its effects. You can only use this effect of \"Gagagaga Magician\" once per turn. A \"Utopic Future\" Xyz Monster that was Summoned using this card as Xyz Material gains this effect.\n● You can detach 2 materials from this card, then target 1 monster you control; its ATK becomes 4000, also negate its effects, until the end of this turn.",
     "str1": "Special Summon",
     "str2": "Target 1 monster to gain ATK",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 6",
+        "pack_id": "DP23-JP034",
+        "date": "2019-11-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f6/GagagagaMagician-DP23-JP-UR.png"
 }

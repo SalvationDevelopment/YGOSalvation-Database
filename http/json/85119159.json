@@ -2,7 +2,7 @@
     "id": 85119159,
     "ot": 1,
     "alias": 0,
-    "setcode": 313,
+    "setcode": 0,
     "type": 131074,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 528,
     "name": "Onomatopick",
-    "desc": "When this card is activated: You can add 1 \"Onomato\" card from your Deck to your hand, except \"Onomatopick\". You can target 1 \"Zubaba\", \"Gagaga\", \"Gogogo\", or \"Dododo\" monster you control; all monsters you currently control become that monster's Level, until the end of this turn (even if this card leaves the field). You can only use this effect of \"Onomatopick\" once per turn. You can only activate 1 \"Onomatopick\" per turn.",
+    "desc": "You can only activate 1 \"Onomatopick\" per turn. When this card is activated: You can add 1 \"Onomato\" card from your Deck to your hand, except \"Onomatopick\". You can target 1 \"Zubaba\", \"Gagaga\", \"Gogogo\", or \"Dododo\" monster you control that has a Level; have the Level of every monster you control become the targeted monster's Level, for the rest of the turn. You can only use this effect of \"Onomatopick\" once per turn.",
     "str1": "Add 1 \"Onomato\" card?",
     "str2": "Change level",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 6",
+        "pack_id": "DP23-JP037",
+        "date": "2019-11-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0b/Onomatopick-DP23-JP-OP.png"
 }

@@ -2,7 +2,7 @@
     "id": 82085295,
     "ot": 3,
     "alias": 0,
-    "setcode": 279,
+    "setcode": 0,
     "type": 33,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262160,
     "name": "Impcantation Penciplume",
-    "desc": "You can reveal 1 Ritual Monster in your hand; Special Summon both this card from your hand and 1 \"Impcantation\" monster from your Deck, except \"Impcantation Penciplume\". If this card is Special Summoned from the Deck: You can target 1 Ritual Monster in your GY; add it to your hand. You can only use 1 \"Impcantation Penciplume\" effect per turn, and only once that turn. You cannot Special Summon monsters from the Extra Deck.",
+    "desc": "You can reveal 1 Ritual Monster in your hand; Special Summon both this card from your hand and 1 &#x201C;Impcantation&#x201D; monster from your Deck, except &#x201C;Impcantation Penciplume&#x201D;. If this card is Special Summoned from the Deck: You can target 1 Ritual Monster in your GY; add it to your hand. You can only use 1 &#x201C;Impcantation Penciplume&#x201D; effect per turn, and only once that turn. You cannot Special Summon monsters from the Extra Deck.",
     "str1": "Special Summon",
     "str2": "Recover Ritual Monster",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE023",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP023",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f5/ImpcantationPenciplume-SOFU-EN-C-1E.png"
 }

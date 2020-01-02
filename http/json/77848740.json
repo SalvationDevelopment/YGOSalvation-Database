@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262176,
     "name": "Madolche Petingcessoeur",
-    "desc": "If this card in your possession is destroyed by an opponent's card and sent to your GY: Shuffle this card into the Deck. You can only use each of the following effects of \"Madolche Petingcessoeur\" once per turn.\r\n● If you have no monsters in your GY: You can Special Summon this card from your hand.\r\n● If this card is Special Summoned: You can Special Summon 1 \"Madolche\" monster from your hand or Deck, except \"Madolche Petingcessoeur\", and if you do, reduce its Level by 1, also you cannot Special Summon monsters for the rest of this turn, except \"Madolche\" monsters.",
+    "desc": "If this card in your possession is destroyed by your opponent's card and sent to your GY: Shuffle this card into the Deck. You can only use each of the following effects of \"Madolche Petingcessoeur\" once per turn.\n● If you have no monsters in your GY: You can Special Summon this card from your hand.\n● If this card is Special Summoned: You can Special Summon 1 &#x201C;Madolche&#x201D; monster from your hand or Deck, except &#x201C;Madolche Petingcessoeur&#x201D;, and if you do, reduce its Level by 1, also you cannot Special Summon monsters for the rest of this turn, except &#x201C;Madolche&#x201D; monsters.",
     "str1": "Special Summon this card",
     "str2": "Special Summon from hand or Deck",
     "str3": "Reduce level",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-EN023",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP023",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/37/MadolchePetingcessoeur-SAST-EN-R-1E.png"
 }

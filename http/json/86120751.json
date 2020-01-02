@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Aleister the Invoker",
-    "desc": "During either player's turn: You can send this card from your hand to the Graveyard, then target 1 Fusion Monster you control; it gains 1000 ATK and DEF until the end of this turn. If this card is Normal Summoned or flipped face-up: You can add 1 \"Invocation\" from your Deck to your hand.",
+    "desc": "(Quick Effect): You can send this card from your hand to the GY, then target 1 Fusion Monster you control; it gains 1000 ATK/DEF until the end of this turn. If this card is Normal Summoned or flipped face-up: You can add 1 \"Invocation\" from your Deck to your hand.",
     "str1": "Gain 1000 ATK and DEF",
     "str2": "Add 1 \"Eidolon Summoning Magic\" to hand",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "FUEN-DE026",
         "date": "2017-02-23"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/64/AleistertheInvoker-FUEN-EN-SR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4a/AleistertheInvoker-SHVA-EN-ScR-1E.png"
 }

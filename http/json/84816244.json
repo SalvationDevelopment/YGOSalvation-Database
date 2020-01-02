@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 786432,
     "name": "Datacorn",
-    "desc": "If this card is Special Summoned: You can Special Summon 1 \"Data Acorn Token\" (Cyberse/DARK/Level 1/ATK 0/DEF 0). You can only use this effect of \"Datacorn\" once per turn.",
+    "desc": "If this card is Special Summoned: You can Special Summon 1 &#x201C;Data Acorn Token&#x201D; (Cyberse/DARK/Level 1/ATK 0/DEF 0). You can only use this effect of &#x201C;Datacorn&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Powercode Link",
+        "pack_id": "SDPL-DE001",
+        "date": "2018-08-09"
+    },
+    "ocg": {
+        "pack": "Structure Deck: Powercode Link",
+        "pack_id": "SD33-JP001",
+        "date": "2017-12-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8c/Datacorn-SDPL-EN-C-1E.png"
 }

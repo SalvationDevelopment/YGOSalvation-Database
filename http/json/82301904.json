@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 6553608,
     "name": "Chaos Emperor Dragon - Envoy of the End",
-    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your Graveyard. You can pay 1000 Life Points; send all cards in both players' hands and on the field to the Graveyard, then inflict 300 damage to your opponent for each card sent to the Graveyard by this effect.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. You can pay 1000 Life Points; send as many cards in both players' hands and on the field as possible to the GY, then inflict 300 damage to your opponent for each card sent to the opponent's GY by this effect. You cannot activate other cards or effects during the turn you activate this card's effect.",
     "str1": "Special Summon",
     "str2": "送墓",
     "str3": "",
@@ -31,14 +31,14 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "pack": "Controller of Chaos",
-        "pack_id": "306-056",
-        "date": "2003-04-24"
+        "pack": "Structure Deck: Dragonic Legion",
+        "pack_id": "SD22-TC003",
+        "date": "2015-04-18"
     },
     "tcg": {
         "pack": "Invasion of Chaos",
         "pack_id": "IOC-000",
         "date": "2004-03-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/78/ChaosEmperorDragonEnvoyoftheEnd-DPKB-EN-UtR-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/ChaosEmperorDragonEnvoyoftheEnd-JUMP-NA-UR-LE.png"
 }

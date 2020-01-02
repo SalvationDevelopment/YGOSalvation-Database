@@ -2,7 +2,7 @@
     "id": 78917791,
     "ot": 3,
     "alias": 0,
-    "setcode": 300,
+    "setcode": 0,
     "type": 67108897,
     "atk": 1600,
     "def": 5,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 17039360,
     "name": "Shaman of the Tenyi",
-    "desc": "2 Wyrm monsters\r\nYou can discard 1 card, then target 1 Wyrm monster in your GY; Special Summon it, also, for the rest of this turn, you cannot activate the effects of monsters  Special Summoned from the Extra Deck, except \"Tenyi\" monsters. When an attack is declared involving your face-up non-Effect Monster: You can target 1 card your opponent controls; destroy it. You can only use each effect of \"Shaman of the Tenyi\" once per turn.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 Wyrm monsters\nYou can discard 1 card, then target 1 Wyrm monster in your GY; Special Summon it, also, for the rest of this turn, you cannot activate the effects of monsters Special Summoned from the Extra Deck, except \"Tenyi\" monsters. When an attack is declared involving your face-up non-Effect Monster: You can target 1 card your opponent controls; destroy it. You can only use each effect of \"Shaman of the Tenyi\" once per turn.",
     "str1": "Special Summon target",
     "str2": "Destroy 1 card",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE044",
+        "date": "2019-07-25"
+    },
+    "ocg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-JP044",
+        "date": "2019-04-13"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e6/ShamanoftheTenyi-RIRA-EN-UR-1E.png"
 }

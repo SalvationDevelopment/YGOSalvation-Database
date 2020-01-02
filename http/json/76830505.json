@@ -2,7 +2,7 @@
     "id": 76830505,
     "ot": 3,
     "alias": 0,
-    "setcode": 295,
+    "setcode": 0,
     "type": 33,
     "atk": 1900,
     "def": 2100,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262144,
     "name": "Infinitrack Brutal Dozer",
-    "desc": "You can Tribute 1 EARTH Machine monster; Special Summon this card from your hand in Defense Position. If this card is Special Summoned from the hand, you can: Special Summon 1 \"Infinitrack\" monster from your Deck in Defense Position, except \"Infinitrack Brutal Dozer\", but negate its effects, also you cannot Special Summon monsters for the rest of this turn, except EARTH Machine monsters. You can only use each effect of \"Infinitrack Brutal Dozer\" once per turn.",
+    "desc": "You can Tribute 1 EARTH Machine monster; Special Summon this card from your hand in Defense Position. If this card is Special Summoned from your hand: You can Special Summon 1 &#x201C;Infinitrack&#x201D; monster from your Deck in face-up Defense Position, except &#x201C;Infinitrack Brutal Dozer&#x201D;, but its effects are negated, and you cannot Special Summon monsters for the rest of the turn, except EARTH Machine monsters. You can only use each effect of \"Infinitrack Brutal Dozer\" once per turn.",
     "str1": "Special Summon",
     "str2": "Special Summon",
     "str3": "Affected by \"Infinitrack Brutal Dozer\"",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-JP022",
+        "date": "2019-07-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/59/InfinitrackBrutalDozer-CHIM-EN-C-1E.png"
 }

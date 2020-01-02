@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 1058823,
     "name": "Black Rose Dragon",
-    "desc": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: You can destroy all cards on the field. Once per turn: You can banish 1 Plant-Type monster from your Graveyard, then target 1 Defense Position monster your opponent controls; change that target to face-up Attack Position, and if you do, its ATK becomes 0 until the end of this turn.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nWhen this card is Synchro Summoned: You can destroy all cards on the field. Once per turn: You can banish 1 Plant monster from your GY, then target 1 Defense Position monster your opponent controls; change that target to face-up Attack Position, and if you do, its ATK becomes 0 until the end of this turn.",
     "str1": "场上卡全部破坏",
     "str2": "Change battle position",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "CSOC-EN039",
         "date": "2008-11-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/93/BlackRoseDragon-DUSA-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/07/BlackRoseDragon-LED4-EN-C-1E.png"
 }

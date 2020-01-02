@@ -2,7 +2,7 @@
     "id": 74578720,
     "ot": 1,
     "alias": 0,
-    "setcode": 294,
+    "setcode": 0,
     "type": 33,
     "atk": 1000,
     "def": 1000,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Time Thief Time Recorder",
-    "desc": "During your opponent's Battle Phase (Quick Effect): You can Tribute this card; the next time you would take battle damage from an opponent's attacking monster this turn, your opponent takes that battle damage instead. If a face-up Xyz Monster(s) you control leaves the field because of a card effect, while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Time Thief Time Recorder\" once per turn.",
+    "desc": "During your opponent's Battle Phase (Quick Effect): You can Tribute this card; for the rest of this turn, the first time you would take battle damage from an attack by an opponent's monster, your opponent takes the battle damage instead. If a face-up Xyz Monster(s) you control leaves the field by a card effect while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Time Thief Time Recorder\" once per turn.",
     "str1": "Change the next battle damage",
     "str2": "Special Summon this card",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP018",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/TimeThiefTimeRecorder-IGAS-JP-C.png"
 }

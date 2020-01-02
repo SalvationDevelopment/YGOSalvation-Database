@@ -2,7 +2,7 @@
     "id": 77967790,
     "ot": 3,
     "alias": 0,
-    "setcode": 282,
+    "setcode": 0,
     "type": 67108897,
     "atk": 3000,
     "def": 7,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 65538,
     "name": "Dinowrestler King T Wrextle",
-    "desc": "2+ \"Dinowrestler\" monsters\r\nIf this card battles, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. Your opponent's monsters cannot target monsters for attacks, except this one. At the start of your opponent's Battle Phase: You can target 1 Attack Position monster your opponent controls; this Battle Phase, your opponent cannot attack with other monsters until that one has, and if it does not declare an attack, destroy it at the end of the Battle Phase.",
+    "desc": "Link Arrows: [🡷][🡳][🡶]\n\n2+ \"Dinowrestler\" monsters\nIf this card battles, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. Your opponent's monsters cannot target monsters for attacks, except this one. At the start of your opponent's Battle Phase: You can target 1 Attack Position monster your opponent controls; during this Battle Phase, your opponent cannot attack with other monsters until that one has, and if it does not declare an attack, destroy it at the end of the Battle Phase.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-EN041",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP041",
+        "date": "2018-07-14"
+    },
+    "links": [
+        5,
+        6,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bc/DinowrestlerKingTWrextle-SOFU-EN-C-1E.png"
 }

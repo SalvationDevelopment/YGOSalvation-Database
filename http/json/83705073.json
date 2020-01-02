@@ -2,7 +2,7 @@
     "id": 83705073,
     "ot": 3,
     "alias": 0,
-    "setcode": 290,
+    "setcode": 0,
     "type": 33,
     "atk": 2000,
     "def": 2200,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE087",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Extra Pack 2019",
+        "pack_id": "EP19-JP001",
+        "date": "2019-09-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d6/ValkyrieErda-DANE-EN-UR-1E.png"
 }

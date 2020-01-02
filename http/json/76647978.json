@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Ultra Polymerization",
-    "desc": "Pay 2000 LP; Fusion Summon 1 Fusion Monster from your Extra Deck, using 2 monsters you control as Fusion Materials. Neither player can activate cards or effects in response to this card's activation. You can banish this card from your Graveyard, then target 1 Fusion Monster that was Fusion Summoned with this card's effect; Special Summon all the Fusion Materials used for its Fusion Summon from your Graveyard, but change their ATK and DEF to 0, also they have their effects negated.",
+    "desc": "Pay 2000 LP; Fusion Summon 1 Fusion Monster from your Extra Deck, using 2 monsters you control as Fusion Materials. Neither player can activate cards or effects in response to this card's activation. You can banish this card from your GY, then target 1 Fusion Monster that was Fusion Summoned with this card's effect; Special Summon all the Fusion Materials used for its Fusion Summon from your GY, but change their ATK/DEF to 0, also they have their effects negated.",
     "str1": "Activate this card",
     "str2": "Banish Transcendental Polymerization",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "MACR-DE052",
         "date": "2017-05-04"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2e/UltraPolymerization-MACR-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/64/UltraPolymerization-HISU-EN-SR-1E.png"
 }

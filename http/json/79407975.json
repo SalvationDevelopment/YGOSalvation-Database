@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 2367488,
     "name": "Rainbow Dark Dragon",
-    "desc": "(This card is always treated as an \"Ultimate Crystal\" card.)\nCannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by banishing 7 DARK monsters with different names from your Graveyard, and cannot be Special Summoned by other ways. You can banish all other DARK monsters you control and from your Graveyard; this card gains 500 ATK for each card banished this way.",
+    "desc": "(This card is always treated as an \"Ultimate Crystal\" card.)\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 7 DARK monsters with different names from your GY. You can banish all other DARK monsters you control and from your GY; this card gains 500 ATK for each card banished this way.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "PTDN-DE003",
         "date": "2008-01-26"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e0/RainbowDarkDragon-RYMP-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/43/RainbowDarkDragon-BLRR-EN-UR-1E.png"
 }

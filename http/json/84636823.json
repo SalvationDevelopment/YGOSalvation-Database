@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": -2147483648,
     "name": "Spell Canceller",
-    "desc": "As long as this card remains face-up on the field, Spell Cards cannot be activated. The effects of all Spell Cards are also negated.",
+    "desc": "Spell Cards, and their effects on the field, cannot be activated. Negate all Spell effects on the field.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Advent of Union",
-        "pack_id": "302-020",
-        "date": "2002-07-18"
-    },
+    "ocg": {},
     "tcg": {
         "pack": "Magician's Force",
         "pack_id": "MFC-020",
         "date": "2003-10-10"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0d/SpellCanceller-DR1-EN-UR-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/31/SpellCanceller-DUDE-EN-UR-1E.png"
 }

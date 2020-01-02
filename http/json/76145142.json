@@ -2,7 +2,7 @@
     "id": 76145142,
     "ot": 3,
     "alias": 0,
-    "setcode": 283,
+    "setcode": 0,
     "type": 67108897,
     "atk": 2500,
     "def": 196,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 65576,
     "name": "Longirsu, the Orcust Orchestrator",
-    "desc": "2+ Effect Monsters, including an \"Orcust\" monster\r\nThis linked card cannot be destroyed by card effects. You can target 2 of your banished Machine monsters; shuffle them into the Deck, then you can send 1 linked monster your opponent controls to the GY. This card cannot attack the turn you activate this effect. You can only use this effect of \"Longirsu, the Orcust Orchestrator\" once per turn.",
+    "desc": "Link Arrows: [🡶][🡴][🡱]\n\n2+ Effect Monsters, including an &#x201C;Orcust&#x201D; monster\nThis linked card cannot be destroyed by card effects. You can target 2 of your banished Machine monsters; shuffle them into the Deck, then you can send 1 linked monster your opponent controls to the GY. This card cannot attack the turn you activate this effect. You can only use this effect of &#x201C;Longirsu, the Orcust Orchestrator&#x201D; once per turn.",
     "str1": "Shuffle to Deck",
     "str2": "Set 1 linked monster to the GY?",
     "str3": "",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE044",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP044",
+        "date": "2018-07-14"
+    },
+    "links": [
+        0,
+        1,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/00/LongirsutheOrcustOrchestrator-SOFU-EN-SR-1E.png"
 }

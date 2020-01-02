@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 4096,
     "name": "Packet Swap",
-    "desc": "Target 1 face-up non-Link Monster you control and 1 Link Monster your opponent controls; switch control of those monsters. You can only activate 1 \"Packet Swap\" per turn.",
+    "desc": "Target 1 face-up non-Link Monster you control and 1 Link Monster your opponent controls; switch control of both monsters. You can only activate 1 \"Packet Swap\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE067",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP067",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/68/PacketSwap-DANE-EN-C-1E.png"
 }

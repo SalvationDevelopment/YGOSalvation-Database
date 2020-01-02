@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 2,
     "name": "Puzzlomino, the Drop-n-Deleter",
-    "desc": "2 monsters with different Levels\r\nIf a monster is Special Summoned face-up to a zone this card points to while you control this monster (except during the Damage Step): You can declare a Level from 1 to 8; that monster becomes that Level until the end of this turn. You can target 2 monsters with the same Level (1 from each field); destroy them. You can only use each effect of \"Puzzlomino, the Drop-n-Deleter\" once per turn.",
+    "desc": "Link Arrows: [🡳][🡲]\n\n2 monsters with different Levels\nIf a monster(s) that has a Level is Special Summoned face-up to your zone this card points to while you control this monster: You can declare a Level from 1 to 8; that monster becomes that Level until the end of this turn. You can target 2 monsters with the same Level on each field; destroy them. You can only use each effect of \"Puzzlomino, the Drop-n-Deleter\" once per turn.",
     "str1": "Change Level",
     "str2": "Destroy",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE049",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP049",
+        "date": "2019-01-12"
+    },
+    "links": [
+        4,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7f/PuzzlominotheDropnDeleter-DANE-EN-C-1E.png"
 }

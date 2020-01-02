@@ -2,7 +2,7 @@
     "id": 744887,
     "ot": 1,
     "alias": 0,
-    "setcode": 308,
+    "setcode": 0,
     "type": 33,
     "atk": 2200,
     "def": 2700,
@@ -10,8 +10,8 @@
     "race": 256,
     "attribute": 16,
     "category": 0,
-    "name": "Utgard, Generaider Boss of Lies‎",
-    "desc": "You can only control 1 \"Utgard, Generaider Boss of Lies\". (Quick Effect): You can Tribute 2 \"Generaider\" monsters and/or Rock monsters, then target 1 card on the field; banish it. You can only use this effect of \"Utgard, Generaider Boss of Lies\" once per turn.",
+    "name": "Utgard, Generaider Boss of Lies",
+    "desc": "You can only control 1 \"Utgard, Generaider Boss of Lies\". (Quick Effect): You can Tribute 2 \"Generaider\" and/or Rock monsters, then target 1 card on the field; banish that card. You can only use this effect of \"Utgard, Generaider Boss of Lies\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-EN022",
+        "date": "2020-01-30"
+    },
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP022",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d1/UtgardGeneraidofLies-IGAS-JP-OP.png"
 }

@@ -2,7 +2,7 @@
     "id": 84504242,
     "ot": 1,
     "alias": 0,
-    "setcode": 312,
+    "setcode": 0,
     "type": 524290,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Megalith Portal",
-    "desc": "The first time each Ritual Summoned monster would be destroyed by battle each turn, it is not destroyed. If a \"Megalith\" monster(s) is Special Summoned (except during the Damage Step): You can target 1 Ritual Monster in your GY; add it to your hand. You can only use this effect of \"Megalith Portal\" once per turn.",
+    "desc": "The first time each \"Megalith\" monster you control would be destroyed by battle each turn, it is not destroyed. When a \"Megalith\" monster is Special Summoned: Target 1 Ritual Monster in your GY; add it to your hand. You can only use this effect of \"Megalith Portal\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP057",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/95/MegalithPortal-IGAS-JP-OP.png"
 }

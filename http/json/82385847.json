@@ -2,7 +2,7 @@
     "id": 82385847,
     "ot": 3,
     "alias": 0,
-    "setcode": 282,
+    "setcode": 0,
     "type": 33,
     "atk": 2600,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Dinowrestler Pankratops",
-    "desc": "If your opponent controls more monsters than you do, you can Special Summon this card (from your hand). You can only Special Summon \"Dinowrestler Pankratops\" once per turn this way. (Quick Effect): You can Tribute 1 \"Dinowrestler\" monster, then target 1 card your opponent controls; destroy it. You can only use this effect of \"Dinowrestler Pankratops\" once per turn.",
+    "desc": "If your opponent controls more monsters than you do, you can Special Summon this card (from your hand). You can only Special Summon &#x201C;Dinowrestler Pankratops&#x201D; once per turn this way. (Quick Effect): You can Tribute 1 &#x201C;Dinowrestler&#x201D; monster, then target 1 card your opponent controls; destroy it. You can only use this effect of &#x201C;Dinowrestler Pankratops&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE009",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP009",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/51/DinowrestlerPankratops-SOFU-EN-C-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 786432,
     "name": "T.G. Tank Grub",
-    "desc": "If this card you control is used as Synchro Material for a \"T.G.\" monster, you can treat it as a non-Tuner. If this card is sent to the GY as Synchro Material for a \"T.G.\" monster: You can Special Summon 1 \"T.G. Token\" (Machine/EARTH/Level 1/ATK 0/DEF 0) in Attack Position. You can only use this effect of \"T.G. Tank Grub\" once per turn.",
+    "desc": "If this card you control is used as Synchro Material for a &#x201C;T.G.&#x201D; monster, you can treat it as a non-Tuner. If this card is sent to the GY as Synchro Material for a &#x201C;T.G.&#x201D; monster: You can Special Summon 1 &#x201C;T.G. Token&#x201D; (Machine/EARTH/Level 1/ATK 0/DEF 0) in Attack Position. You can only use this effect of &#x201C;T.G. Tank Grub&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE011",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP011",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2e/TGTankGrub-SAST-EN-C-1E.png"
 }

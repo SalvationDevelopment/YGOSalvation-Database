@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 8192,
     "name": "Gouki The Great Ogre",
-    "desc": "2+ \"Gouki\" monsters\r\nAll monsters on the field lose ATK equal to their original DEF. If this card would be destroyed by battle or card effect, you can destroy 1 of your monsters this card points to instead.",
+    "desc": "Link Arrows: [🡷][🡳][🡶]\n\n2+ \"Gouki\" monsters\nAll monsters on the field lose ATK equal to their original DEF. If this card would be destroyed by battle or card effect, you can destroy 1 of your monsters this card points to instead.",
     "str1": "Destroy a monster \"Gouki the Great Ogre\" points to instead?",
     "str2": "",
     "str3": "",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Code of the Duelist",
+        "pack_id": "COTD-DE045",
+        "date": "2017-08-03"
+    },
+    "ocg": {
+        "pack": "Code of the Duelist",
+        "pack_id": "COTD-JP045",
+        "date": "2017-04-15"
+    },
+    "links": [
+        5,
+        6,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ae/GoukiTheGreatOgre-DUPO-EN-UR-1E.png"
 }

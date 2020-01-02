@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 16777218,
     "name": "Amazoness Heirloom",
-    "desc": "Equip only to an \"Amazoness\" monster. Once per turn, that monster cannot be destroyed by battle. When the equipped monster attacks, after damage calculation, destroy the attack target.",
+    "desc": "Equip only to an \"Amazoness\" monster. Once per turn, that monster cannot be destroyed by battle. After damage calculation, if the equipped monster attacks a monster: Destroy the attacked monster.",
     "str1": "Destroy",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "DREV-EN087",
         "date": "2010-08-07"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4e/AmazonessHeirloom-DREV-EN-SR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4b/AmazonessHeirloom-SS02-EN-C-1E.png"
 }

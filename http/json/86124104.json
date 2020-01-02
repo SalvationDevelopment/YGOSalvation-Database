@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 2,
     "name": "Demise, Agent of Armageddon",
-    "desc": "You can Ritual Summon this card with \"Cycle of the World\". This card's name becomes \"Demise, King of Armageddon\" while in the hand or on the field. If this card is Ritual Summoned: Destroy 1 face-up monster on the field. If this card is sent to the GY: You can target 1 Ritual Monster you control; while it is face-up on your field, your opponent cannot activate cards or effects in response to the activation of your Ritual Monsters' effects.",
+    "desc": "You can Ritual Summon this card with \"Cycle of the World\". This card's name becomes \"Demise, King of Armageddon\" while in the hand or on the field. If this card is Ritual Summoned: Destroy 1 face-up monster on the field. If this card is sent to the GY: You can target 1 face-up Ritual Monster you control; while it is face-up on your field, your opponent cannot activate cards or effects in response to the activation of your Ritual Monsters' effects.",
     "str1": "Destroy 1 face-up monster on the field",
     "str2": "Provide effect",
     "str3": "Affected by \"Demise, Agent of Armageddon\"",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE028",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP028",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1b/DemiseAgentofArmageddon-CYHO-EN-C-1E.png"
 }

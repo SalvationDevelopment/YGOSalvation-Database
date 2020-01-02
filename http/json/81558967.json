@@ -2,7 +2,7 @@
     "id": 81558967,
     "ot": 3,
     "alias": 0,
-    "setcode": 290,
+    "setcode": 0,
     "type": 33,
     "atk": 1400,
     "def": 1400,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE089",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Extra Pack 2019",
+        "pack_id": "EP19-JP006",
+        "date": "2019-09-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/08/ValkyrieVierte-SAST-EN-SR-1E.png"
 }

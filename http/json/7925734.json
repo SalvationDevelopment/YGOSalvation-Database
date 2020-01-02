@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 262412,
     "name": "Link Apple",
-    "desc": "You can reveal this card in your hand; banish 1 random face-down card from your Extra Deck, then, if it is a Link Monster, Special Summon this card. Otherwise, discard this card, and if you do, draw 1 card. You can only use this effect of \"Link Apple\" once per turn.",
+    "desc": "You can reveal this card in your hand; banish 1 random face-down card from your Extra Deck, and if it is a Link Monster, Special Summon this card. Otherwise, discard this card, and if you do, draw 1 card. You can only use this effect of \"Link Apple\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Promotion Pack 2019",
+        "pack_id": "19PR-JP007",
+        "date": "2019-05-11"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8a/LinkApple-19PR-JP-NPR.png"
 }

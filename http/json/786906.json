@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-EN075",
+        "date": "2019-01-31"
+    },
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/91/FatefulHour-SAST-EN-SR-1E.png"
 }

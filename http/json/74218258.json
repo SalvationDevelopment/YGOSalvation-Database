@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "The Weather Rainbowed Canvas",
-    "desc": "You can only control 1 \"The Weather Rainbowed Canvas\". \"The Weather\" Effect Monsters in your Main Monster Zones of this card's column and its adjacent columns gain this effect.\r\n● If your opponent controls a monster (Quick Effect): You can banish this card; Special Summon 1 \"The Weather\" monster with a different name from your Deck, also you cannot Special Summon other monsters from the Deck for the rest of this turn.",
+    "desc": "\"The Weather\" Effect Monsters in your Main Monster Zones of this card's column and its adjacent columns gain this effect.\n● If your opponent control a monster: you can banish this card (Quick Effect); Special Summon 1 \"The Weather\" monster with a different name than this card from your Deck, also you cannot Special Summon monster from your Deck for the rest of this turn.\nYou can only control 1 \"The Weather Rainbowy Canvas\".",
     "str1": "Special Summon a different \"The Weather\" monster",
     "str2": "Affected by \"The Weather Rainbowed Canvas\", cannot Special Summon from the Deck",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE073",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP073",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fb/TheWeatherRainbowedCanvas-DANE-EN-R-1E.png"
 }

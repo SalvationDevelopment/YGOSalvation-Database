@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 512,
     "name": "Union Carrier",
-    "desc": "2 monsters with the same Type or Attribute\nCannot be used as Link Material the turn it is Link Summoned. You can target 1 face-up monster you control; equip 1 monster with the same original Type or original Attribute as the targeted monster from your hand or Deck to it as an Equip Spell that makes it gain 1000 ATK, but if you equipped from your Deck, you cannot Special Summon monsters with the same name as that Monster Card for the rest of this turn. You can only use this effect of \"Union Carrier\" once per turn.",
+    "desc": "Link Arrows: [🡳][🡲]\n\n2 monsters with the same Type or Attribute\nCannot be used as a Link Material during the turn it was Link Summoned. You can target 1 face-up monster you control; equip 1 monster with the same original Type or Attribute as that target from your hand or Deck to it with this effect:\n● It gains 1000 ATK.\nIf you equipped a monster from the Deck with this effect, you cannot Special Summon a monster with that name for the rest of this turn. You can only use this effect of \"Union Carrier\" once per turn.",
     "str1": "Equip",
     "str2": "Affected by \"Union Carrier\"",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "LINK VRAINS Pack 3",
+        "pack_id": "LVP3-JP011",
+        "date": "2019-11-23"
+    },
+    "links": [
+        4,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/53/UnionCarrier-LVP3-JP-OP.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 262144,
     "name": "Umbreacum Couple",
-    "desc": "When this card is Normal Summoned: You can discard 1 card, then target 1 Level 4 or lower monster in your GY; Special Summon it, but negate its effects, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Synchro Monsters.",
+    "desc": "When this card is Normal Summoned: You can discard 1 card, then target 1 Level 4 or lower monster in your GY; you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Synchro Monsters, also Special Summon that monster, but negate its effects.",
     "str1": "Special Summon",
     "str2": "Affected by \"Umbream Couple\"",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Jump Festa Limited Pack 2019",
+        "pack_id": "JF19-JP001",
+        "date": "2018-12-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3c/UmbreacumCouple-JF19-JP-OP.png"
 }

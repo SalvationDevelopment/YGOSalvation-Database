@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 256,
     "name": "Vorticular Drumgon",
-    "desc": "3 DARK Dragon monsters\r\nIf this card is Special Summoned: You can draw 1 card. You can only use this effect of \"Vorticular Drumgon\" once per turn. If this effect resolves, the unused Monster Zones this card points to cannot be used for the rest of this turn.",
+    "desc": "Link Arrows: [🡰][🡳][🡲]\n\n3 DARK Dragon monsters\nIf this card is Special Summoned: You can draw 1 card. You can only use this effect of \"Vorticular Drumgon\" once per turn. If this effect resolves, the unused Monster Zones this card points to cannot be used for the rest of this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE041",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP041",
+        "date": "2018-04-14"
+    },
+    "links": [
+        3,
+        4,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1a/VorticularDrumgon-CYHO-EN-SR-1E.png"
 }

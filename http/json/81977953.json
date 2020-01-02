@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 262145,
     "name": "Desert Twister",
-    "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play 1 EARTH and 2 WIND monsters from your Graveyard. Once per turn, you can discard 1 card to destroy 1 Spell or Trap Card on the field.",
+    "desc": "Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by banishing 2 WIND and 1 EARTH monsters from your GY. Once per turn: You can discard 1 card, then target 1 Spell/Trap on the field; destroy it.",
     "str1": "Destroy",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "TAEV-FR034",
         "date": "2007-08-04"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4b/DesertTwister-TAEV-EN-UR-1E.jpg"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f6/DesertTwister-SBLS-EN-UR-1E.png"
 }

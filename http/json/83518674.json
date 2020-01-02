@@ -2,7 +2,7 @@
     "id": 83518674,
     "ot": 3,
     "alias": 0,
-    "setcode": 286,
+    "setcode": 0,
     "type": 33,
     "atk": 1200,
     "def": 3000,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE000",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Extra Pack 2019",
+        "pack_id": "EP19-JP029",
+        "date": "2019-09-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/55/DangerOgopogo-SAST-EN-UR-1E.png"
 }

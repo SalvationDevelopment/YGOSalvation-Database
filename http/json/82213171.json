@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 8196,
     "name": "Prometheus, King of the Shadows",
-    "desc": "If this card is Normal Summoned: Banish any number of DARK monsters from your Graveyard, and if you do, this card gains 400 ATK for each, until the end of this turn.",
+    "desc": "If this card is Normal Summoned: Banish 1 or more DARK monsters from your GY, and if you do, this card gains 400 ATK for each, until the end of this turn.",
     "str1": "Gain ATK",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "FOTB-FR063",
         "date": "2007-05-05"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9c/PrometheusKingoftheShadows-DESO-EN-SR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d9/PrometheusKingoftheShadows-SR06-EN-C-1E.png"
 }

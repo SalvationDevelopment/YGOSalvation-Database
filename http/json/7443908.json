@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 2147753984,
     "name": "Hayate the Earth Star",
-    "desc": "If only your opponent controls a monster, or if you control a LIGHT monster, you can Normal Summon this card without Tributing. If this card is Normal or Special Summoned: You can Special Summon 1 Level 5 LIGHT Warrior monster from your hand. You can only use this effect of \"Hayate the Earth Star\" once per turn. Once per turn, when your Warrior monster is targeted for an attack: You can make this card lose exactly 500 ATK, and if you do, negate the attack.",
+    "desc": "If only your opponent controls a monster, or if you control a LIGHT monster, you can Normal Summon this card without Tributing. If this card is Normal or Special Summoned: You can Special Summon 1 Level 5 LIGHT Warrior monster from your hand. You can only use this effect of \"Hayate the Earth Star\" once per turn. Once per turn, when your Warrior monster is targeted for an attack: You can make this card lose exactly 500 ATK, and if you do, negate that attack.",
     "str1": "Normal Summon without Tributing",
     "str2": "Special Summon 1 Level 5 LIGHT Warrior",
     "str3": "Decrease ATK and negate the attack",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Battles of Legend: Relentless Revenge",
+        "pack_id": "BLRR-DE036",
+        "date": "2018-06-28"
+    },
+    "ocg": {
+        "pack": "Collectors Pack 2018",
+        "pack_id": "CP18-JP036",
+        "date": "2018-05-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c8/HayatetheEarthStar-BLRR-EN-UR-1E.png"
 }

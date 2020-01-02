@@ -2,7 +2,7 @@
     "id": 81524756,
     "ot": 3,
     "alias": 0,
-    "setcode": 278,
+    "setcode": 0,
     "type": 33,
     "atk": 1600,
     "def": 1000,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262144,
     "name": "Crusadia Maximus",
-    "desc": "You can Special Summon this card (from your hand) in Defense Position to your zone a Link Monster points to. You can only Special Summon \"Crusadia Maximus\" once per turn this way. You can target 1 \"Crusadia\" Link Monster you control; this turn, if it battles an opponent's monster, any battle damage it inflicts to your opponent is doubled, also other monsters you control cannot attack. You can only use this effect of \"Crusadia Maximus\" once per turn.",
+    "desc": "You can Special Summon this card (from your hand) in Defense Position to your zone a Link Monster points to. You can only Special Summon &#x201C;Crusadia Maximus&#x201D; once per turn this way. You can target 1 \"Crusadia\" Link Monster you control; this turn, if it battles an opponent's monster, any battle damage it inflicts to your opponent is doubled, also other monsters you control cannot attack. You can only use this effect of &#x201C;Crusadia Maximus&#x201D; once per turn.",
     "str1": "Double damage",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE010",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP010",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/10/CrusadiaMaximus-CYHO-EN-SR-1E.png"
 }

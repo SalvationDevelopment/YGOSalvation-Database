@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 270336,
     "name": "Junk Speeder",
-    "desc": "1 \"Synchron\" Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can Special Summon as many \"Synchron\" Tuners as possible with different Levels from your Deck, in Defense Position. You cannot Special Summon monsters from the Extra Deck, except Synchro Monsters, the turn you activate this effect. When an attack is declared involving this card that was Synchro Summoned this turn and another monster: You can make this card's ATK become double its original ATK until the end of this turn. You can only use each effect of \"Junk Speeder\" once per turn.",
+    "desc": "1 &#x201C;Synchron&#x201D; Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can Special Summon as many &#x201C;Synchron&#x201D; Tuners as possible with different Levels from your Deck in Defense Position. You cannot Special Summon monsters from the Extra Deck, except Synchro Monsters, the turn you activate this effect. When an attack is declared involving this card that was Synchro Summoned this turn and another monster: You can make this card's ATK become double its original ATK until the end of this turn. You can only use each effect of &#x201C;Junk Speeder&#x201D; once per turn.",
     "str1": "Special Summon",
     "str2": "Change ATK",
     "str3": "Affected by \"Junk Speeder\"",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "2018 Mega-Tins",
+        "pack_id": "CT15-DE002",
+        "date": "2018-08-30"
+    },
+    "ocg": {
+        "pack": "20th Anniversary Duelist Box",
+        "pack_id": "20TH-JPB14",
+        "date": "2018-12-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3d/JunkSpeeder-CT15-EN-ScR-LE.png"
 }

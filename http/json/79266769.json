@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Darkness Metal, the Dragon of Dark Steel",
-    "desc": "2+ Effect Monsters with the same Type and Attribute\r\nYou can target 1 of your monsters that is banished or in your GY; Special Summon it to your zone this card points to, in Defense Position, but its effects are negated, also you cannot Special Summon Link Monsters for the rest of this turn, and the Summoned monster is placed on the bottom of the Deck when it leaves the field. You can only use this effect of \"Darkness Metal, the Dragon of Dark Steel\" once per turn.",
+    "desc": "Link Arrows: [🡱][🡷][🡳][🡶]\n\n2+ Effect Monsters with the same Type and Attribute\nYou can target 1 of your monsters that is banished or in your GY; Special Summon it to your zone this card points to, in Defense Position, but its effects are negated, also you cannot Special Summon Link Monsters for the rest of this turn, and the Special Summoned monster is placed on the bottom of the Deck when it leaves the field. You can only use this effect of \"Darkness Metal, the Dragon of Dark Steel\" once per turn.",
     "str1": "Special Summon a target",
     "str2": "Affected by \"Darkness Metal, the Dragon of Dark Steel\"",
     "str3": "",
@@ -28,5 +28,22 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Weekly Shonen Jump December 2018 membership",
+        "pack_id": "JUMP-EN087",
+        "date": "2019-06-30"
+    },
+    "ocg": {
+        "pack": "V Jump July 2018 promotional card",
+        "pack_id": "VJMP-JP148",
+        "date": "2018-05-21"
+    },
+    "links": [
+        1,
+        5,
+        6,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bd/DarknessMetaltheDragonofDarkSteel-JUMP-EN-UR-LE.png"
 }

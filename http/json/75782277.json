@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8193,
     "name": "Harpies' Hunting Ground",
-    "desc": "All Winged Beast-Type monsters gain 200 ATK and DEF. When any \"Harpie Lady\" or \"Harpie Lady Sisters\" are Normal or Special Summoned: The player who conducted the Summon targets 1 Spell/Trap Card on the field; destroy that target.",
+    "desc": "All Winged Beast monsters gain 200 ATK/DEF. If any \"Harpie Lady\" or \"Harpie Lady Sisters\" is Normal or Special Summoned: The player who conducted the Summon targets 1 Spell/Trap on the field; that player destroys that target.",
     "str1": "S/T Destruction",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "RDS-FR038",
         "date": "2004-11-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/86/HarpiesHuntingGround-LCJW-EN-SR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c6/HarpiesHuntingGround-LED4-EN-C-1E.png"
 }

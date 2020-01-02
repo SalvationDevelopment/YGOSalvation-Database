@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262144,
     "name": "Neo Space Connector",
-    "desc": "When this card is Normal Summoned: You can Special Summon 1 \"Neo-Spacian\" monster or 1 \"Elemental HERO Neos\" from your hand or Deck in Defense Position. You can Tribute this card, then target 1 \"Neo-Spacian\" monster or 1 \"Elemental HERO Neos\" in your GY; Special Summon that target in Defense Position. You can only use each effect of \"Neo Space Connector\" once per turn.",
+    "desc": "When this card is Normal Summoned: You can Special Summon 1 \"Neo-Spacian\" monster or 1 \"Elemental HERO Neos\" from your hand or Deck in Defense Position. You can Tribute this card, then target 1 \"Neo-Spacian\" monster or 1 \"Elemental HERO Neos\" in your GY; Special Summon it in Defense Position. You can only use each effect of \"Neo Space Connector\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion Special Edition",
+        "pack_id": "SOFU-DESE3",
+        "date": "2018-12-06"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP008",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/NeoSpaceConnector-SAST-EN-C-1E.png"
 }

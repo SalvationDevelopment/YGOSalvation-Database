@@ -2,7 +2,7 @@
     "id": 7799906,
     "ot": 3,
     "alias": 0,
-    "setcode": 19202207,
+    "setcode": 159,
     "type": 16777249,
     "atk": 2500,
     "def": 2000,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262928,
     "name": "Performapal Smile Sorcerer",
-    "desc": "[ Pendulum Effect ]\r\nIf a monster(s) you control whose current ATK is higher than its original ATK is destroyed by battle or card effect: You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Performapal Smile Sorcerer\" once per turn.\r\n----------------------------------------\r\n[ Monster Effect ]\r\nIf this card is Normal or Special Summoned: You can add 1 \"Smile\" Spell/Trap from your Deck to your hand. If every monster you control is a \"Performapal\" or \"Odd-Eyes\" monster, or a \"Magician\" Pendulum Monster, and this card's current ATK is higher than its original ATK: You can draw cards equal to the number of monsters you control whose current ATK is higher than their original ATK, also you cannot Special Summon monsters for the rest of this turn. You can only use each monster effect of \"Performapal Smile Sorcerer\" once per turn.",
+    "desc": "Pendulum Effect\nIf a monster(s) you control whose current ATK is higher than its original ATK is destroyed by battle or card effect: You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Performapal Smile Sorcerer\" once per turn.\n\nMonster Effect\nIf this card is Normal or Special Summoned: You can add 1 \"Smile\" Spell/Trap from your Deck to your hand. If every monster you control is a \"Performapal\" or Odd-Eyes monster, or a \"Magician\" Pendulum Monster, and this card's current ATK is higher than its original ATK: You can draw cards equal to the number of monsters you control whose current ATK is higher than their original ATK, also you cannot Special Summon monsters for the rest of this turn. You can only use each effect of \"Performapal Smile Sorcerer\" once per turn.",
     "str1": "",
     "str2": "Affected by \"Performapal Smile Sorcerer\"",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Duel Power",
+        "pack_id": "DUPO-EN012",
+        "date": "2019-04-03"
+    },
+    "ocg": {
+        "pack": "20th Anniversary Duelist Box",
+        "pack_id": "20TH-JPB26",
+        "date": "2018-12-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d7/PerformapalSmileSorcerer-DUPO-EN-UR-1E.png"
 }

@@ -2,7 +2,7 @@
     "id": 81997228,
     "ot": 3,
     "alias": 0,
-    "setcode": 288,
+    "setcode": 0,
     "type": 97,
     "atk": 3000,
     "def": 3000,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 262146,
     "name": "Prank-Kids Battle Butler",
-    "desc": "\"Prank-Kids Lampsies\" + \"Prank-Kids Dropsies\" + \"Prank-Kids Fansies\"\r\nMust be Fusion Summoned. (Quick Effect): You can Tribute this card; destroy all monsters your opponent controls. If this card in your possession is sent to your GY by your opponent's card: You can target 1 non-Fusion Monster in your GY; Special Summon it. You can only use this effect of \"Prank-Kids Battle Butler\" once per turn.",
+    "desc": "&#x201C;Prank-Kids Lampsies&#x201D; + &#x201C;Prank-Kids Dropsies&#x201D; + &#x201C;Prank-Kids Fansies&#x201D;\nMust be Fusion Summoned. (Quick Effect): You can Tribute this card; destroy all monsters your opponent controls. If this card in your possession is sent to your GY by your opponent's card: You can target 1 non-Fusion Monster in your GY; Special Summon it. You can only use this effect of &#x201C;Prank-Kids Battle Butler&#x201D; once per turn.",
     "str1": "Destroy all monsters",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Hidden Summoners",
+        "pack_id": "HISU-DE019",
+        "date": "2018-11-15"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Hidden Summoners",
+        "pack_id": "DBHS-JP019",
+        "date": "2018-08-04"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b2/PrankKidsBattleButler-HISU-EN-ScR-1E.png"
 }

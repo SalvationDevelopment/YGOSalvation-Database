@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 1074003968,
     "name": "Eternal Galaxy",
-    "desc": "If you control a \"Photon\" or \"Galaxy\" monster: Target 1 Xyz Monster you control; Special Summon from your Extra Deck, 1 \"Photon\" or \"Galaxy\" Xyz Monster that is 4 Ranks higher than that target, by using that target as material. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) You can only activate 1 \"Eternal Galaxy\" per turn.",
+    "desc": "If you control a &#x201C;Photon&#x201D; or &#x201C;Galaxy&#x201D; monster: Target 1 Xyz Monster you control; Special Summon from your Extra Deck, 1 &#x201C;Photon&#x201D; or &#x201C;Galaxy&#x201D; Xyz Monster that is 4 Ranks higher than that target, by using that target as the material. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) You can only activate 1 &#x201C;Eternal Galaxy&#x201D; per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon Special Edition",
+        "pack_id": "CYHO-DESE3",
+        "date": "2018-09-13"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP069",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c8/EternalGalaxy-SOFU-EN-C-1E.png"
 }

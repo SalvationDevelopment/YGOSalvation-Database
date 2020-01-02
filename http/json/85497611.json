@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262656,
     "name": "Odd-Eyes Wizard Dragon",
-    "desc": "If this card is in your hand: You can Tribute 1 DARK monster; send 1 \"Odd-Eyes Dragon\" from your hand, Deck, or face-up field to the GY, and if you do, Special Summon this card. If this card in your possession is destroyed by an opponent's card and sent to your GY: You can Special Summon 1 \"Odd-Eyes\" monster from your Deck or GY, except \"Odd-Eyes Wizard Dragon\", then you can add 1 \"Spiral Flame Strike\" from your Deck to your hand.",
+    "desc": "If this card is in your hand: You can Tribute 1 DARK monster; send 1 \"Odd-Eyes Dragon\" from your hand, Deck, or your side of the field to the GY, and if you do, Special Summon this card. When this card is destroyed by battle or an opponent's card effect and sent to the GY: Special Summon 1 \"Odd-Eyes\" monster from your Deck or GY, except \"Odd-Eyes Wizard Dragon\", then you can add 1 \"Spiral Flame Strike\" from your Deck to your hand.",
     "str1": "Special Summon this card",
     "str2": "Special Summon \"Odd-Eyes\" monster",
     "str3": "Add 1 \"Spiral Flame Strike\"?",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 6",
+        "pack_id": "DP23-JP046",
+        "date": "2019-11-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/74/OddEyesWizardDragon-DP23-JP-OP.png"
 }

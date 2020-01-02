@@ -2,7 +2,7 @@
     "id": 84013238,
     "ot": 3,
     "alias": 84013237,
-    "setcode": 276758600,
+    "setcode": 309514403967,
     "type": 8388641,
     "atk": 2500,
     "def": 2000,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 65536,
     "name": "Number 39: Utopia",
-    "desc": "2 Level 4 monsters\r\nWhen a monster declares an attack: You can detach 1 material from this card; negate the attack. If this card is targeted for an attack, while it has no material: Destroy this card.",
+    "desc": "2 Level 4 monsters\nWhen a monster declares an attack: You can detach 1 material from this card; negate the attack. If this card is targeted for an attack, while it has no material: Destroy this card.",
     "str1": "Negate attack",
     "str2": "Self Destruct",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Starter Deck: Dawn of the Xyz",
+        "pack_id": "YS11-DE041",
+        "date": "2011-07-08"
+    },
+    "ocg": {
+        "pack": "Starter Deck 2011",
+        "pack_id": "YSD6-JP041",
+        "date": "2011-03-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3c/Number39Utopia-DUPO-EN-UR-LE.png"
 }

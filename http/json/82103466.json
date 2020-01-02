@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Divine Serpent Geh",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. If a monster you control is destroyed by your opponent's attack or card effect: You can pay half your LP; Special Summon this card from your hand. Cannot be targeted by card effects. If this card attacks and opponent's monster, that monster has its effects negated, also its ATK becomes half its original ATK, during the Damage Step only. Once per battle, if this card battles, during damage calculation (in either player's turn): You can make this card's ATK become equal to the original ATK of the monster on the field with the highest original ATK (your choice, if tied).",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. If a monster(s) you control is destroyed by an opponent's attack or card effect: You can pay half your LP; Special Summon this card from your hand. Cannot be targeted by card effects. If this card attacks an opponent's monster, during the Damage Step only, negate the effects of that monster while it is face-up on the field (but its effects can still be activated), also its ATK becomes half its original ATK. Once per battle, if this card battles, during damage calculation (Quick Effect): You can make this card's ATK become equal to the highest original ATK on the field (your choice, if tied).",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -35,6 +35,10 @@
         "pack_id": "AGMM-JP001",
         "date": "2016-06-24"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d5/DivineSerpentGeh-AGMM-JP-UR.png"
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE092",
+        "date": "2018-07-26"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/08/DivineSerpentGeh-DUPO-EN-UR-1E.png"
 }

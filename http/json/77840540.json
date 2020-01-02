@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: Ancient Millennium",
+        "pack_id": "LED2-DE009",
+        "date": "2018-02-22"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 2",
+        "pack_id": "DP19-JP009",
+        "date": "2017-11-11"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f5/CocoonofUltraEvolution-LED2-EN-UR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 8208,
     "name": "Hip Hoshiningen",
-    "desc": "2 LIGHT monsters\r\nAll LIGHT monsters on the field gain 500 ATK/DEF, also all DARK monsters on the field lose 400 ATK/DEF. If this card is destroyed by battle or card effect: You can target 1 LIGHT monster in your GY; add it to your hand. You can only use this effect of \"Hip Hoshiningen\" once per turn.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 LIGHT monsters\nAll LIGHT monsters on the field gain 500 ATK/DEF, also all DARK monsters on the field lose 400 ATK/DEF. If this card is destroyed by battle or card effect: You can target 1 LIGHT monster in your GY; add it to your hand. You can only use this effect of &#x201C;Hip Hoshiningen&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE050",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP050",
+        "date": "2018-04-14"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dc/HipHoshiningen-CYHO-EN-SR-1E.png"
 }

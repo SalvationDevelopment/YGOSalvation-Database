@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Miniborrel Dragon",
-    "desc": "2 \"Rokket\" monsters\r\nIf you control a \"Borrel\" Link Monster while this card is in your GY: You can Tribute 1 Link-3 or lower monster; Special Summon this card, but it cannot be used as material for the Link Summon of a monster with the same Link Rating as the Tributed monster. You can only use this effect of \"Miniborrel Dragon\" once per turn.",
+    "desc": "Link Arrows: [🡰][🡲]\n\n2 \"Rokket\" monsters\nIf you control a &#x201C;Borrel&#x201D; Link Monster while this card is in your GY: You can Tribute 1 Link-3 or lower monster; Special Summon this card, but it cannot be used as material for the Link Summon of a monster with the same Link Rating as the Tributed monster. You can only use this effect of &#x201C;Miniborrel Dragon&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE040",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP040",
+        "date": "2018-04-14"
+    },
+    "links": [
+        3,
+        4
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/94/MiniborrelDragon-CYHO-EN-C-1E.png"
 }

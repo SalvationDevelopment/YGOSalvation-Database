@@ -2,7 +2,7 @@
     "id": 77297908,
     "ot": 3,
     "alias": 0,
-    "setcode": 236,
+    "setcode": 0,
     "type": 524290,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 528,
     "name": "Abyss Playhouse - Fantastic Theater",
-    "desc": "You can reveal 1 \"Abyss Actor\" Pendulum Monster and 1 \"Abyss Script\" Spell in your hand; add 1 \"Abyss Script\" Spell from your Deck to your hand, with a different name than that revealed Spell. While you control a Pendulum Summoned \"Abyss Actor\" Pendulum Monster, any monster effect activated by your opponent becomes \"Destroy 1 Set Spell/Trap your opponent controls\". You can only use each effect of \"Abyss Playhouse - Fantastic Theater\" once per turn.",
+    "desc": "You can reveal 1 \"Abyss Actor\" Pendulum Monster and 1 \"Abyss Script\" Spell in your hand; add 1 \"Abyss Script\" Spell from your Deck to your hand with a different name than that revealed Spell. While you control a Pendulum Summoned \"Abyss Actor\" Pendulum Monster, any monster effect activated by your opponent becomes \"Destroy 1 Set Spell/Trap your opponent controls\". You can only use each effect of \"Abyss Playhouse - Fantastic Theater\" once per turn.",
     "str1": "Search \"Abyss Script\"",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: White Dragon Abyss",
+        "pack_id": "LED3-DE048",
+        "date": "2018-09-27"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 3",
+        "pack_id": "DP20-JP014",
+        "date": "2018-06-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ab/AbyssPlayhouseFantasticTheater-LED3-EN-R-1E.png"
 }

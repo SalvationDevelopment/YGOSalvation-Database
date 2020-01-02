@@ -2,7 +2,7 @@
     "id": 77449773,
     "ot": 1,
     "alias": 0,
-    "setcode": 280,
+    "setcode": 0,
     "type": 65538,
     "atk": 0,
     "def": 0,
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Starter Deck 2019",
+        "pack_id": "ST19-JP021",
+        "date": "2019-03-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a2/CynetCrosswipe-ST19-JP-OP.png"
 }

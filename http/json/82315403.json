@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262144,
     "name": "Cyber Eternity Dragon",
-    "desc": "1 \"Cyber Dragon\" monster + 2 Machine monsters\r\nIf you have a Machine Fusion Monster(s) in your GY, your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. If this Fusion Summoned card you control is sent to your GY by an opponent's card: You can Special Summon 1 \"Cyber Dragon\" from your hand, Deck, or GY. You can banish this card from your GY; this turn, your opponent cannot target Fusion Monsters you control with card effects, also they cannot be destroyed by your opponent's card effects.",
+    "desc": "1 \"Cyber Dragon\" monster + 2 Machine monsters\nIf you have a Machine Fusion Monster(s) in your GY, your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. If this Fusion Summoned card you control is sent to your GY by an opponent's card: You can Special Summon 1 \"Cyber Dragon\" from your hand, Deck, or GY. You can banish this card from your GY; this turn, your opponent cannot target Fusion Monsters you control with card effects, also they cannot be destroyed by your opponent's card effects.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: White Dragon Abyss",
+        "pack_id": "LED3-DE012",
+        "date": "2018-09-27"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 3",
+        "pack_id": "DP20-JP012",
+        "date": "2018-06-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c7/CyberEternityDragon-LED3-EN-UR-1E.png"
 }

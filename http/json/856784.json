@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 256,
     "name": "Draw of Fate",
-    "desc": "If your LP are lower than your opponent's and your opponent controls a monster with the highest ATK on the field (even if it's tied): Reveal 3 cards with different names from your Deck, place them on top of your Deck in random order, then draw 1 card. For the rest of this turn after this card resolves, you cannot Set Spells/Traps, also you can only activate one more card or effect. You can only activate 1 \"Draw of Fate\" per turn.",
+    "desc": "If your LP are lower than your opponent's and your opponent controls a monster with the highest ATK on the field (even if it's tied): Reveal 3 cards with different names from your Deck, and place them on top of your Deck in a random order, then draw 1 card. For the rest of this turn after this card resolves, you cannot Set Spells/Traps, also you can only activate one more card or effect. You can only activate 1 \"Draw of Fate\" per turn.",
     "str1": "",
     "str2": "Affected by \"Draw of Fate\"",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Duel Power",
+        "pack_id": "DUPO-EN003",
+        "date": "2019-04-03"
+    },
+    "ocg": {
+        "pack": "20th Anniversary Duelist Box",
+        "pack_id": "20TH-JPB03",
+        "date": "2018-12-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/07/DrawofFate-DUPO-EN-UR-1E.png"
 }

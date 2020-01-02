@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 528,
     "name": "Card of Spirit",
-    "desc": "Each player chooses 1 card from their Deck, then chooses 4 random cards from their opponent's Deck, and if they do, each player shuffles the 5 cards chosen from their Deck, randomly shows 1 to add to their hand, also shuffles the rest back into their Deck. You can only activate 1 \"Card of Spirit\" per turn.",
+    "desc": "Each player chooses 1 card from their Deck, then each player chooses 4 random cards from their opponent's Deck, and if they do, each player shuffles the 5 cards chosen from their Deck, randomly picks 1 to reveal and add to their hand, and shuffles into their Deck the rest of the cards chosen from their Deck. You can only activate 1 &#x201C;Card of Spirit&#x201D; per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "20th Anniversary Legend Collection",
+        "pack_id": "20TH-JPC19",
+        "date": "2019-02-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/62/CardofSpirit-20TH-JP-ScR.png"
 }

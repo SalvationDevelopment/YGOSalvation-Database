@@ -2,7 +2,7 @@
     "id": 81119816,
     "ot": 3,
     "alias": 0,
-    "setcode": 288,
+    "setcode": 0,
     "type": 33,
     "atk": 0,
     "def": 2000,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 262152,
     "name": "Prank-Kids Fansies",
-    "desc": "If this card is sent to the GY as material for the Fusion or Link Summon of a \"Prank-Kids\" monster: You can send 1 \"Prank-Kids\" card from your Deck to the GY, except \"Prank-Kids Fansies\", then you can Special Summon 1 \"Prank-Kids\" monster from your hand or Deck in Defense Position, except \"Prank-Kids Fansies\". You can only use this effect of \"Prank-Kids Fansies\" once per turn.",
+    "desc": "If this card is sent to the GY as material for the Fusion or Link Summon of a &#x201C;Prank-Kids&#x201D; monster: You can send 1 &#x201C;Prank-Kids&#x201D; card from your Deck to the GY, except &#x201C;Prank-Kids Fansies&#x201D;, then you can Special Summon 1 &#x201C;Prank-Kids&#x201D; monster from your hand or Deck in Defense Position, except &#x201C;Prank-Kids Fansies&#x201D;. You can only use this effect of &#x201C;Prank-Kids Fansies&#x201D; once per turn.",
     "str1": "Send to GY",
     "str2": "Special Summon 1 \"Prankids\" monster?",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Hidden Summoners",
+        "pack_id": "HISU-DE014",
+        "date": "2018-11-15"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Hidden Summoners",
+        "pack_id": "DBHS-JP014",
+        "date": "2018-08-04"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/58/PrankKidsFansies-HISU-EN-SR-1E.png"
 }

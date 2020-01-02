@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Premium Pack 2020",
+        "pack_id": "20PP-JP005",
+        "date": "2020-02-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/da/Back-JP.png"
 }

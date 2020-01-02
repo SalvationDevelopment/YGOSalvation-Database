@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 2164285440,
     "name": "Dark Cavalry",
-    "desc": "\"Dark Magician\" + 1 Warrior monster\r\nGains 100 ATK for each Spell/Trap on the field and in the GYs. If this card attacks a Defense Position monster, inflict piercing battle damage. When a card or effect is activated that targets a card on the field (Quick Effect): You can discard 1 card; negate the activation, and if you do, destroy it.",
+    "desc": "&#x201C;Dark Magician&#x201D; + 1 Warrior monster\nGains 100 ATK for each Spell/Trap on the field and in the GYs. If this card attacks a Defense Position monster, inflict piercing battle damage. When a card or effect is activated that targets a card on the field (Quick Effect): You can discard 1 card; negate the activation, and if you do, destroy it.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Duel Power",
+        "pack_id": "DUPO-EN002",
+        "date": "2019-04-03"
+    },
+    "ocg": {
+        "pack": "20th Anniversary Duelist Box",
+        "pack_id": "20TH-JPB02",
+        "date": "2018-12-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/DarkCavalry-DUPO-EN-UR-1E.png"
 }

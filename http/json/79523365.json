@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Saviors",
+        "pack_id": "DASA-DE005",
+        "date": "2018-05-24"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Dark Savers",
+        "pack_id": "DBDS-JP005",
+        "date": "2018-02-24"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c9/VampireScarletScourge-DASA-EN-ScR-1E.png"
 }

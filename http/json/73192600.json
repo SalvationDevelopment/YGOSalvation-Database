@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 32,
     "name": "World Legacy Cliffhanger",
-    "desc": "When an attack is declared involving 2 Link Monsters: Shuffle all monsters on the field and in the GYs into the Deck. For the rest of this turn after this card resolves, neither player can Link Summon.",
+    "desc": "When an attack is declared involving 2 Link Monsters: Shuffle all monsters on the field and in the GYs into the Deck, also for the rest of this turn after this card resolves, neither player can Link Summon.",
     "str1": "Affected by \"World Legacy Cliffhanger\", cannot Link Summon",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE076",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP076",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/70/WorldLegacyCliffhanger-DANE-EN-C-1E.png"
 }

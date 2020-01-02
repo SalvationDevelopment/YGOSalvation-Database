@@ -2,7 +2,7 @@
     "id": 8192327,
     "ot": 3,
     "alias": 0,
-    "setcode": 275,
+    "setcode": 530,
     "type": 33554465,
     "atk": 2800,
     "def": 2200,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE026",
+        "date": "2018-05-03"
+    },
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP026",
+        "date": "2018-01-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/79/PhosphoragetheElementalLord-FLOD-EN-SR-1E.png"
 }

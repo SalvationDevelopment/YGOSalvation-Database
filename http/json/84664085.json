@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 16785408,
     "name": "Satellite Warrior",
-    "desc": "1 Tuner + 1+ non-Tuner Synchro Monsters\nIf this card is Synchro Summoned: You can target cards your opponent controls, up to the number of Synchro Monsters in your GY; destroy them, and if you do, this card gains 1000 ATK for each card destroyed. If this Synchro Summoned card is destroyed: You can Special Summon up to 3 Level 8 or lower \"Warrior\", \"Synchron\", and/or \"Stardust\" Synchro Monsters with different names from your GY. You can only use each effect of \"Satellite Warrior\" once per turn.",
+    "desc": "1 Tuner + 1+ non-Tuner Synchro Monsters\nWhen this card is Synchro Summoned: Target cards your opponent controls up to the number of Synchro Monsters in your GY; destroy those targets, also this card gains 1000 ATK. When this Synchro Summoned card is destroyed: Special Summon up to 3 Level 8 or lower \"Warrior\", \"Synchron\", and/or \"Stardust\" Synchro Monsters with different names from your GY. You can only use each effect of \"Satellite Warrior\" once per turn.",
     "str1": "Target cards to destroy",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 6",
+        "pack_id": "DP23-JP023",
+        "date": "2019-11-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c8/SatelliteWarrior-DP23-JP-OP.png"
 }

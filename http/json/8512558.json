@@ -2,7 +2,7 @@
     "id": 8512558,
     "ot": 3,
     "alias": 0,
-    "setcode": 313,
+    "setcode": 40251282452709500,
     "type": 33,
     "atk": 1500,
     "def": 1500,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262144,
     "name": "Utopic Onomatopoeia",
-    "desc": "(This card is always treated as a \"Zubaba\", \"Gagaga\", \"Gogogo\", and \"Dododo\" card.)\r\nDuring your Main Phase: You can Special Summon up to 1 each \"Zubaba\", \"Gagaga\", \"Gogogo\", and/or \"Dododo\" monster(s) from your hand in Defense Position, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Xyz Monsters. You can only use this effect of \"Utopic Onomatopoeia\" once per turn.",
+    "desc": "(This card is always treated as a &#x201C;Zubaba&#x201D;, &#x201C;Gagaga&#x201D;, &#x201C;Gogogo&#x201D;, and &#x201C;Dododo&#x201D; card.)\nDuring your Main Phase: You can Special Summon up to 1 each \"Zubaba\", \"Gagaga\", \"Gogogo\", and/or \"Dododo\" monster from your hand in Defense Position, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Xyz Monsters. You can only use this effect of \"Utopic Onomatopoeia\" once per turn.",
     "str1": "Special Summon",
     "str2": "Special Summon \"Gagaga\" monster?",
     "str3": "Special Summon \"Gogogo\" monster?",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Duel Power",
+        "pack_id": "DUPO-EN009",
+        "date": "2019-04-03"
+    },
+    "ocg": {
+        "pack": "20th Anniversary Duelist Box",
+        "pack_id": "20TH-JPB20",
+        "date": "2018-12-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5e/UtopicOnomatopoeia-DUPO-EN-UR-1E.png"
 }

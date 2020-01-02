@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 16777220,
     "name": "Dark Armed, the Dragon of Annihilation",
-    "desc": "2+ Level 7 monsters\r\nOnce per turn, if you have exactly 5 DARK monsters in your GY, you can also Xyz Summon \"Dark Armed, the Dragon of Annihilation\" by using 1 Level 5 or higher DARK Dragon monster you control as material. You can detach 1 material from this card, then target 1 card your opponent controls; destroy it, then banish 1 card from your GY, also, this card cannot attack for the rest of this turn.",
+    "desc": "2+ Level 7 monsters\nOnce per turn, if you have exactly 5 DARK monsters in your GY, you can also Xyz Summon \"Dark Armed, the Dragon of Annihilation\" by using 1 Level 5 or higher DARK Dragon monster you control as material. You can detach 1 material from this card, then target 1 card your opponent controls; destroy it, then banish 1 card from your GY, also, this card cannot attack for the rest of this turn.",
     "str1": "Xyz Summon using a Level 5+ DARK Dragon?",
     "str2": "Destroy & banish",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Weekly Shonen Jump December 2018 membership",
+        "pack_id": "JUMP-EN090",
+        "date": "2019-06-30"
+    },
+    "ocg": {
+        "pack": "20th Anniversary Legendary Dragons",
+        "pack_id": "VP18-JP003",
+        "date": "2018-05-21"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/90/DarkArmedtheDragonofAnnihilation-JUMP-EN-UR-LE.png"
 }

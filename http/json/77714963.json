@@ -2,7 +2,7 @@
     "id": 77714963,
     "ot": 3,
     "alias": 0,
-    "setcode": 289,
+    "setcode": 0,
     "type": 33,
     "atk": 2000,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Yasha, the Skeletal Mayakashi",
-    "desc": "You can discard 1 other \"Mayakashi\" monster; Special Summon this card from your hand. You can only use this effect of \"Yasha, the Skeletal Mayakashi\" once per turn. You cannot Special Summon monsters from the Extra Deck, except \"Mayakashi\" monsters.",
+    "desc": "You can discard 1 other &#x201C;Mayakashi&#x201D; monster; Special Summon this card from your hand. You can only use this effect of &#x201C;Yasha, the Skeletal Mayakashi&#x201D; once per turn. You cannot Special Summon monsters from the Extra Deck, except &#x201C;Mayakashi&#x201D; monsters.",
     "str1": "Special Summon from hand",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Hidden Summoners",
+        "pack_id": "DBHS-EN031",
+        "date": "2018-11-15"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Hidden Summoners",
+        "pack_id": "DBHS-JP031",
+        "date": "2018-08-04"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/15/YashatheSkeletalMayakashi-HISU-EN-SR-1E.png"
 }

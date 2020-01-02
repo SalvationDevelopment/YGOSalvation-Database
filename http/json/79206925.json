@@ -2,7 +2,7 @@
     "id": 79206925,
     "ot": 3,
     "alias": 0,
-    "setcode": 46,
+    "setcode": 0,
     "type": 97,
     "atk": 2000,
     "def": 2000,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 8720,
     "name": "Gravekeeper's Supernaturalist",
-    "desc": "2 \"Gravekeeper's\" monsters\r\nGains ATK/DEF equal to the combined original Levels of the materials used for its Fusion Summon x 100. While \"Necrovalley\" is on the field, this card, and any card in your Field Zone, cannot be destroyed by card effects. During your Main Phase: You can activate this effect; during the End Phase of this turn, add 1 \"Gravekeeper's\" monster or 1 \"Necrovalley\" card from your Deck to your hand. You can only use this effect of \"Gravekeeper's Supernaturalist\" once per turn.",
+    "desc": "2 &#x201C;Gravekeeper's&#x201D; monsters\nGains ATK/DEF equal to the combined original Levels of the materials used for its Fusion Summon x 100. While &#x201C;Necrovalley&#x201D; is on the field, this card, and any card in your Field Zone, cannot be destroyed by card effects. During your Main Phase: You can activate this effect; during the End Phase of this turn, add 1 &#x201C;Gravekeeper's&#x201D; monster or 1 &#x201C;Necrovalley&#x201D; card from your Deck to your hand. You can only use this effect of \"Gravekeeper's Supernaturalist\" once per turn.",
     "str1": "Search \"Gravekeeper\" or \"Necrovalley\" card",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-EN035",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP035",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c4/GravekeepersSupernaturalist-SOFU-EN-R-1E.png"
 }

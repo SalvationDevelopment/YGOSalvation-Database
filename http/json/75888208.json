@@ -2,7 +2,7 @@
     "id": 75888208,
     "ot": 2,
     "alias": 0,
-    "setcode": 305,
+    "setcode": 0,
     "type": 33,
     "atk": 500,
     "def": 0,
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE086",
+        "date": "2019-07-25"
+    },
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3c/IkelostheDreamMirrorMara-RIRA-EN-SR-1E.png"
 }

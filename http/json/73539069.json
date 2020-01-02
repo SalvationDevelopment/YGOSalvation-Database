@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Striker Dragon",
-    "desc": "1 Level 4 or lower Dragon monster\nIf this card is Link Summoned: You can add 1 \"Boot Sector Launch\" from your Deck to your hand. You can target 1 face-up monster you control and 1 \"Rokket\" monster in your GY; destroy that monster on the field, and if you do, add that other monster from the GY to your hand. You can only use each effect of \"Striker Dragon\" once per turn.",
+    "desc": "Link Arrows: [🡰]\n\n1 Level 4 or lower Dragon monster\nIf this card is Link Summoned: You can add 1 \"Boot Sector Launch\" from your Deck to your hand. You can target 1 face-up monster you control and 1 \"Rokket\" monster in your GY; destroy the first target, and if you do, add the second target to your hand. You can only use each effects of \"Striker Dragon\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,19 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE098",
+        "date": "2019-10-24"
+    },
+    "ocg": {
+        "pack": "V Jump August 2019 promotional card",
+        "pack_id": "VJMP-JP165",
+        "date": "2019-06-21"
+    },
+    "links": [
+        3
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/StrikerDragon-CHIM-EN-UR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Data Acorn Token",
-    "desc": "This card can be used as a \"Data Acorn Token\".\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+    "desc": "Special Summoned with the effect of \"Datacorn\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,8 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {},
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/Back-EN.png"
 }

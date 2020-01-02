@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 1376256,
     "name": "Hieratic Dragon of Tefnuit",
-    "desc": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). This card cannot attack during the turn it is Special Summoned this way. When this card is Tributed: Special Summon 1 Dragon-Type Normal Monster from your hand, Deck, or Graveyard, also make its ATK and DEF 0.",
+    "desc": "If only your opponent controls a monster,  you can Special Summon this card (from your hand). This card cannot attack during the turn it is Special Summoned this way. When this card is Tributed: Special Summon 1 Dragon Normal Monster from your hand, Deck, or GY, but make its ATK and DEF 0.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "GAOV-EN022",
         "date": "2012-04-28"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/58/HieraticDragonofTefnuit-SDBE-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/69/HieraticDragonofTefnuit-DUPO-EN-UR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 268697600,
     "name": "Relinquished Fusion",
-    "desc": "Fusion Summon 1 \"Eyes Restrict\" Fusion Monster from your Extra Deck, by banishing materials from your hand, field and/or GY. During your Main Phase: You can banish this card from your GY, then target 1 Effect Monster your opponent controls; equip that target to an \"Eyes Restrict\" Fusion Monster or \"Relinquished\" you control, as if it were equipped by that monster's effect. You can only use each effect of \"Relinquished Fusion\" once per turn.",
+    "desc": "Fusion Summon 1 \"Eyes Restrict\" Fusion Monster from your Extra Deck, by banishing Fusion Materials from your hand, field, and/or GY. During your Main Phase: You can banish this card from your GY, then target 1 Effect Monster your opponent controls; equip that target to an \"Eyes Restrict\" Fusion Monster or \"Relinquished\" you control, as if it were equipped by that monster's effect. You can only use each effect of \"Relinquished Fusion\" once per turn.",
     "str1": "Equip a monster",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: Ancient Millennium",
+        "pack_id": "LED2-DE004",
+        "date": "2018-02-22"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 2",
+        "pack_id": "DP19-JP004",
+        "date": "2017-11-11"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e4/RelinquishedFusion-LED2-EN-UR-1E.png"
 }

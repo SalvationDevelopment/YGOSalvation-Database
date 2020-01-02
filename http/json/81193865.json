@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 32768,
     "name": "Super Strident Blaze",
-    "desc": "Equip only to a Machine Fusion Monster. Your opponent cannot activate cards or effects during your Battle Phase. At the end of the Damage Step, if the equipped monster attacked an opponent's monster: You can banish 1 \"Cyber Dragon\" monster from your GY; the equipped monster can attack an opponent's monster again in a row. Your other monsters cannot attack the turn you activate this effect.",
+    "desc": "Equip only to a Machine Fusion Monster. Your opponent cannot activate cards or effects during your Battle Phase. At the end of the Damage Step, if the equipped monster attacked an opponent's monster: You can banish 1 &#x201C;Cyber Dragon&#x201D; monster from your GY; the equipped monster can attack an opponent's monster again in a row. Your other monsters cannot attack the turn you activate this effect.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: White Dragon Abyss",
+        "pack_id": "LED3-DE015",
+        "date": "2018-09-27"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 3",
+        "pack_id": "DP20-JP015",
+        "date": "2018-06-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ac/SuperStridentBlaze-LED3-EN-R-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 2147753986,
     "name": "Predaplant Triphyoverutum",
-    "desc": "3 DARK monsters on the field\nGains ATK equal to the total original ATK of all other monsters on the field with a Predator Counter. You can only use each of the following effects of \"Predaplant Triphyoverutum\" once per turn.\n● When your opponent Special Summons a monster(s) from their Extra Deck while you control this Fusion Summoned card (Quick Effect): You can negate the Summon, and if you do, destroy that monster(s).\n● If your opponent controls a monster with a Predator Counter(s): You can Special Summon this card from your GY in Defense Position.",
+    "desc": "3 DARK monsters on the field\nGains ATK equal to the combined original ATK of all other monsters on the field with a Predator Counter. You can only use each of the following effects of \"Predaplant Triphyovertum\" once per turn.\n● When your opponent would Special Summon a monster from the Extra Deck while you control this Fusion Summoned card (Quick Effect): You can negate the Summon, and if you do, destroy that monster.\n● If your opponent controls a monster with a Predator Counter: You can Special Summon this card from your GY in Defense Position.",
     "str1": "Negate Summon",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "DP22",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: Immortal Destiny",
+        "pack_id": "LED5-DE045",
+        "date": "2019-09-26"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 5",
+        "pack_id": "DP22-JP045",
+        "date": "2019-06-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/41/PredaplantTriphyoverutum-LED5-EN-SR-1E.png"
 }

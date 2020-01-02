@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 256,
     "name": "Convert Contact",
-    "desc": "Activate only while you control no monsters. Send 1 \"Neo-Spacian\" monster from your hand and 1 from your Deck to the Graveyard. Then draw 2 cards.",
+    "desc": "If you control no monsters: Send 2 \"Neo-Spacian\" monsters (1 from your hand and 1 from your Deck) to the GY, then draw 2 cards.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "TAEV-FR047",
         "date": "2007-08-04"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/eb/ConvertContact-DP06-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/63/ConvertContact-BLRR-EN-UR-1E.png"
 }

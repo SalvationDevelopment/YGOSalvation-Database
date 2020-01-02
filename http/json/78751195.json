@@ -2,7 +2,7 @@
     "id": 78751195,
     "ot": 1,
     "alias": 0,
-    "setcode": 309,
+    "setcode": 0,
     "type": 33,
     "atk": 100,
     "def": 800,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Doshin @Ignister",
-    "desc": "If you control an \"@Ignister\" monster: You can Special Summon this card from your hand. You can target 1 Cyberse Link Monster in your GY; return it to the Extra Deck, and if you do, add 1 \"A.I. Love Fusion\" from your Deck to your hand. You can only use each effect of \"Doshin @Ignister\" once per turn.",
+    "desc": "If you control an \"@Ignister\" monster: You can Special Summon this card from your hand. You can target 1 Cyberse Link Monster in your GY; return it to the Extra Deck, and if you do, add 1 \"AiLove Yousion\" from your Deck to your hand. You can only use each effect of \"Doshin @Ignister\" once per turn.",
     "str1": "Special Summon",
     "str2": "Search",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP006",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e7/Doshin%40Ignister-IGAS-JP-C.png"
 }

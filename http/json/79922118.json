@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8396802,
     "name": "Gingerbread House",
-    "desc": "During your opponent's Standby Phase: You can have as many monsters they control as possible gain 600 ATK, then destroy as many monsters they control as possible with 2500 or more ATK, and if you do, gain LP equal to the number of monsters destroyed x 500. (The ATK gain remains even if this card leaves the field.) You can only use this effect of \"Gingerbread House\" once per turn.",
+    "desc": "During your opponent's Standby Phase: You can have as many monsters they control as possible gain 600 ATK, then destroy as many monsters they control as possible with 2500 or more ATK, and if you do, gain LP equal to the number of monsters destroyed x 500 (the ATK gain remains even if this card leaves the field.) You can only use this effect of \"Gingerbread House\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Battles of Legend: Hero's Revenge",
+        "pack_id": "BLHR-DE004",
+        "date": "2019-07-11"
+    },
+    "ocg": {
+        "pack": "Collection Pack: Duelists of Revolution",
+        "pack_id": "CP19-JP004",
+        "date": "2019-05-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/be/GingerbreadHouse-BLHR-EN-UR-1E.png"
 }

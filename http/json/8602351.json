@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 8720,
     "name": "Reptilianne Echidna",
-    "desc": "2 monsters, including a Reptile monster\nIf this card is Link Summoned: You can target 1 face-up monster your opponent controls; change its ATK to 0. During your Main Phase: You can add Reptile monsters with different names from your Deck to your hand, up to the number of monsters your opponent controls with 0 ATK, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Reptile monsters. You can only use each effect of \"Reptilianne Echidna\" once per turn.",
+    "desc": "Link Arrows: [🡰][🡶]\n\n2 monsters, including a Reptile monster.\nIf this card is Link Summoned: You can target 1 face-up monster your opponent controls; its ATK becomes 0.  During your Main Phase: You can add a number of Reptile monsters with different names from your Deck to your hand, up to the number of monsters with 0 ATK your opponent controls, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Reptile monsters. You can only use each effect of \"Reptilianne Echidna\" once per turn.",
     "str1": "ATK to 0",
     "str2": "Search",
     "str3": "Affected by \"Reptilianne Echidna\"",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "LINK VRAINS Pack 3",
+        "pack_id": "LVP3-JP046",
+        "date": "2019-11-23"
+    },
+    "links": [
+        3,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2f/ReptilianneEchidna-LVP3-JP-OP.png"
 }

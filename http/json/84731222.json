@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Memories of Hope",
-    "desc": "Draw cards equal to the number of \"Number\" Xyz Monsters with different names you control. You can only activate 1 \"Memories of Hope\" per turn.",
+    "desc": "Draw cards equal to the number of &#x201C;Number&#x201D; Xyz Monsters with different names you control. You can only activate 1 &#x201C;Memories of Hope&#x201D; per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE099",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Premium Pack 2019",
+        "pack_id": "19PP-JP017",
+        "date": "2019-03-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1c/MemoriesofHope-DANE-EN-SR-1E.png"
 }

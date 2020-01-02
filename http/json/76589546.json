@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 786432,
     "name": "Overflow Dragon",
-    "desc": "When a monster(s) on the field is destroyed by card effect (except during the Damage Step): You can Special Summon this card from your hand, then, if 2 or more monsters on the field were destroyed by that card effect, you can Special Summon 1 \"Overflow Token\" (Dragon/DARK/Level 1/ATK 0/DEF 0). You can only use this effect of \"Overflow Dragon\" once per turn.",
+    "desc": "When a monster(s) on the field is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your hand, then, if 2 or more monsters on the field were destroyed by that card effect, you can Special Summon 1 \"Overflow Token\" (Dragon/DARK/Level 1/ATK 0/DEF 0). You can only use this effect of \"Overflow Dragon\" once per turn",
     "str1": "Special Summon 1 \"Overflow Token\"?",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE004",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP004",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/30/OverflowDragon-DANE-EN-C-1E.png"
 }

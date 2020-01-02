@@ -2,7 +2,7 @@
     "id": 75147529,
     "ot": 1,
     "alias": 0,
-    "setcode": 4373,
+    "setcode": 0,
     "type": 67108897,
     "atk": 1500,
     "def": 130,
@@ -10,8 +10,8 @@
     "race": 32,
     "attribute": 32,
     "category": 8204,
-    "name": "Sky Striker Ace - Sieg",
-    "desc": "2 monsters, including a \"Sky Striker Ace\" monster\nMust be Link Summoned. If this card is Link Summoned: You can target 1 face-up monster on the field; banish it until your opponent's next End Phase. Once per turn: You can target 1 other card you control; this card gains 1000 ATK, then send the targeted card to the GY. You can only Special Summon \"Sky Striker Ace - Sieg(s)\" once per turn.",
+    "name": "Sky Striker Ace - Zeke",
+    "desc": "Link Arrows: [🡱][🡳]\n\n2 monsters, including a \"Sky Striker Ace\" monster\nCannot be Special Summoned, except by Link Summon. You can only Special Summon \"Sky Striker Ace - Zeke(s)\" once per turn. If this card is Link Summoned: You can target 1 face-up monster on the field; banish it until your opponent's next End Phase. Once per turn: You can target 1 other card you control; this card gains 1000 ATK, then send the target to the GY.",
     "str1": "Banish",
     "str2": "Increase ATK and send to GY",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "LINK VRAINS Pack 3",
+        "pack_id": "LVP3-JP086",
+        "date": "2019-11-23"
+    },
+    "links": [
+        1,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/70/SkyStrikerAceZeke-LVP3-JP-OP.png"
 }

@@ -2,7 +2,7 @@
     "id": 82832464,
     "ot": 3,
     "alias": 0,
-    "setcode": 287,
+    "setcode": 0,
     "type": 131076,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Awakening of Nephthys",
-    "desc": "All \"Nephthys\" monsters you control gain 300 ATK. If this face-up card in the Spell & Trap Zone is destroyed by card effect and sent to the GY: You can Special Summon 1 \"Nephthys\" monster from your hand, Deck, or GY, but destroy it during the End Phase. You can only use this effect of \"Awakening of Nephthys\" once per turn.",
+    "desc": "All &#x201C;Nephthys&#x201D; monsters you control gain 300 ATK. If this face-up card in the Spell & Trap Zone is destroyed by a card effect and sent to the GY: You can Special Summon 1 &#x201C;Nephthys&#x201D; monster from your hand, Deck, or GY, but destroy it during the End Phase. You can only use this effect of &#x201C;Awakening of Nephthys&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Hidden Summoners",
+        "pack_id": "DBHS-DE011",
+        "date": "2018-11-15"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Hidden Summoners",
+        "pack_id": "DBHS-JP011",
+        "date": "2018-08-04"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/AwakeningofNephthys-HISU-EN-SR-1E.png"
 }

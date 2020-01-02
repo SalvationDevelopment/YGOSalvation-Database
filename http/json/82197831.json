@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 270336,
     "name": "Rhynosaber the Mad-Dash Armory",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nYou can discard any number of cards; this card gains 700 ATK for each card discarded. At the end of the Battle Phase, if this card battled: You can send this card to the GY; Special Summon any number of monsters from your GY, except \"Rhynosaber the Mad-Dash Armory\", whose total Levels equal 7, but negate their effects. You can only use each effect of \"Rhynosaber the Mad-Dash Armory\" once per turn.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nYou can discard any number of cards; this card gains 700 ATK for each card discarded. At the end of the Battle Phase, if this card battled: You can send this card to the GY; Special Summon any number of monsters from your GY, except \"Rhynosaber the Mad-Dash Armory\", whose total Levels equal 7, but negate their effects. You can only use each effect of \"Rhynosaber the Mad-Dash Armory\" once per turn.",
     "str1": "Increase ATK",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Jump Festa Limited Pack 2020",
+        "pack_id": "JF20-JP003",
+        "date": "2019-12-21"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d9/RhynosabertheMadDashArmory-JF20-JP-SR.png"
 }

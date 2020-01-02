@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 67108880,
     "name": "Disenchanter",
-    "desc": "Once per turn: You can target 1 face-up Spell Card on the field; remove 1 Spell Counter from anywhere on the field, and if you do, return that target to the hand.",
+    "desc": "Once per turn: You can target 1 face-up Spell on the field; remove 1 Spell Counter from anywhere on the field, and if you do, return that target to the hand.",
     "str1": "Return to hand",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "SDSC-DE002",
         "date": "2009-03-31"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/04/Disenchanter-SDSC-EN-C-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f9/Disenchanter-SR08-EN-C-1E.png"
 }

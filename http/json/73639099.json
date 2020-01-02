@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262144,
     "name": "Traptrix Sera",
-    "desc": "1 non-Link \"Traptrix\" monster\r\nThis Link Summoned card is unaffected by Trap effects. You can only use each of the following effects of \"Traptrix Sera\" once per turn, and not during the Damage Step.\r\n● If a Normal Trap Card is activated: You can Special Summon 1 \"Traptrix\" monster from your Deck with a different name than the cards you control.\r\n● If your other \"Traptrix\" monster's effect is activated: You can Set 1 \"Hole\" Normal Trap directly from the Deck.",
+    "desc": "Link Arrows: [🡳]\n\n1 non-Link \"Traptrix\" monster\nThis Link Summoned card is unaffected by Trap effects. You can only use each of the following effects of \"Traptrix Sera\" once per turn, and not during the Damage Step.\n● If a Normal Trap Card is activated: You can Special Summon 1 \"Traptrix\" monster from your Deck, with a different name than the cards you control.\n● If your other \"Traptrix\" monster's effect is activated: You can Set 1 \"Hole\" Normal Trap directly from your Deck.",
     "str1": "Special Summon 1 \"Traptrix\" monster from the Deck",
     "str2": "Set 1 \"Hole\" Normal Trap from the Deck",
     "str3": "",
@@ -28,5 +28,19 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Battles of Legend: Hero's Revenge",
+        "pack_id": "BLHR-DE049",
+        "date": "2019-07-11"
+    },
+    "ocg": {
+        "pack": "LINK VRAINS Pack 2",
+        "pack_id": "LVP2-JP061",
+        "date": "2018-11-23"
+    },
+    "links": [
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/37/TraptrixSera-BLHR-EN-ScR-1E.png"
 }

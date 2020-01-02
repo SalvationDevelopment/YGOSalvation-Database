@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 16785408,
     "name": "Half Shut",
-    "desc": "Target 1 face-up monster on the field; it cannot be destroyed by battle this turn, but its ATK is halved until the End Phase.",
+    "desc": "Target 1 face-up monster on the field; it cannot be destroyed by battle this turn, also its ATK is halved until the end of this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "5DS3-DE019",
         "date": "2010-05-27"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/23/HalfShut-BP02-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ce/HalfShut-SBLS-EN-C-1E.png"
 }

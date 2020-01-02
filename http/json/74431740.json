@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262176,
     "name": "Assault Reboot",
-    "desc": "Tribute 1 \"/Assault Mode\" monster; Special Summon 1 \"/Assault Mode\" monster from your Deck with a different name in Defense Position, ignoring its Summoning conditions. You can banish this card from your GY, then target any number of cards in your GY, with different names, that are \"Assault Mode Activate\" and/or specifically list \"Assault Mode Activate\" in their text, except \"Assault Reboot\"; shuffle them into the Deck. You can only use each effect of \"Assault Reboot\" once per turn.",
+    "desc": "Tribute 1 \"/Assault Mode\" monster; Special Summon 1 \"/Assault Mode\" monster with different name from your Deck in Defense Position, ignoring its Summoning conditions. You can banish this card form your GY, then target any number of \"Assault Mode Activate\" and/or cards with different names in  your GY that specifically list the card \"Assault Mode Activate\" in their text, except \"Assault Reboot\"; shuffle them into the Deck. You can only use each effect of \"Assault Reboot\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE070",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP070",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/10/AssaultReboot-DANE-EN-R-1E.png"
 }

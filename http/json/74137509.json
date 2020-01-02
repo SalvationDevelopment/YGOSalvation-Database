@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 134225920,
     "name": "Graceful Dice",
-    "desc": "Roll a six-sided die. All monsters you currently control gain ATK and DEF equal to the result x 100, until the End Phase.",
+    "desc": "Roll a six-sided die. All monsters you currently control gain ATK/DEF equal to the result x 100, until the end of this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -31,7 +31,7 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "pack": "GameBoy Duel Monsters Promos: Series 5",
+        "pack": "Yu-Gi-Oh! Duel Monsters 5 Expert 1 promotional cards",
         "pack_id": "G5-04",
         "date": "2001-07-05"
     },
@@ -40,5 +40,5 @@
         "pack_id": "EDS-002",
         "date": "2002-10-15"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c9/GracefulDice-LCJW-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d0/GracefulDice-SS02-EN-C-1E.png"
 }

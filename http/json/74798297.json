@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Shiranui Style Success",
-    "desc": "Special Summon 1 Zombie monster from your hand, but banish it when it leaves the field. You can banish this card from your GY, then target 1 Zombie monster you control; that Zombie monster is unaffected by card effects this turn, except its own. You can only use 1 \"Shiranui Style Success\" effect per turn, and only once that turn.",
+    "desc": "Special Summon 1 Zombie monster from your hand, but banish it when it leaves the field. You can banish this card from your GY, then target 1 Zombie monster you control; that Zombie monster is unaffected by card effects this turn, except its own. You can only use 1 &#x201C;Shiranui Style Success&#x201D; effect per turn, and only once that turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE074",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP074",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fa/ShiranuiStyleSuccess-SAST-EN-C-1E.png"
 }

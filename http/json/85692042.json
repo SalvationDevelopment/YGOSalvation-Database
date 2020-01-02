@@ -2,7 +2,7 @@
     "id": 85692042,
     "ot": 3,
     "alias": 0,
-    "setcode": 306,
+    "setcode": 0,
     "type": 8388641,
     "atk": 2000,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262672,
     "name": "Primathmech Alembertian",
-    "desc": "2+ Level 4 monsters\r\nYou can Tribute 1 monster; Special Summon 1 Level 4 \"Mathmech\" monster from your hand or GY. If this card is Xyz Summoned: You can detach 2 to 4 materials from this card, then activate the appropriate effect;\r\n● 2: Add 1 \"Mathmech\" card from your Deck to your hand.\r\n● 3: Add 1 Level 4 monster from your Deck to your hand.\r\n● 4: Add 1 Spell/Trap from your Deck to your hand.\r\nYou can only use each effect of \"Primathmech Alembertian\" once per turn.",
+    "desc": "2+ Level 4 monsters\nYou can Tribute 1 monster; Special Summon 1 Level 4 \"Mathmech\" monster from your hand or GY. If this card is Xyz Summoned: You can detach 2 to 4 materials from this card, then activate the appropriate effect;\n●2: Add 1 \"Mathmech\" card from your Deck to your hand.\n●3: Add 1 Level 4 monster from your Deck to your hand.\n●4: Add 1 Spell/Trap from your Deck to your hand.\nYou can only use each effect of \"Primathmech Alembertian\" once per turn.",
     "str1": "Search card",
     "str2": "Add 1 \"Mathmech\" card",
     "str3": "Add 1 Level 4 monster",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Mystic Fighters",
+        "pack_id": "MYFI-DE040",
+        "date": "2019-11-21"
+    },
+    "ocg": {
+        "pack": "V Jump October 2019 promotional card",
+        "pack_id": "VJMP-JP170",
+        "date": "2019-08-21"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4c/PrimathmechAlembertian-MYFI-EN-ScR-1E.png"
 }

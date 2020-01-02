@@ -2,7 +2,7 @@
     "id": 73422829,
     "ot": 3,
     "alias": 0,
-    "setcode": 4316,
+    "setcode": 14422236,
     "type": 33,
     "atk": 2400,
     "def": 2400,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE013",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP013",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/SuperQuantumWhiteLayer-DANE-EN-R-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 262144,
     "name": "Xyz Slidolphin",
-    "desc": "If an Xyz Monster is Special Summoned to your field (except during the Damage Step): You can Special Summon this card from your hand. If an Xyz Monster(s) is Special Summoned to your field while this card is in your GY, except the turn this card was sent to your GY (and except during the Damage Step): You can target 1 of those Xyz Monsters; attach this card to it as material. You can only use each effect of \"Xyz Slidolphin\" once per turn.",
+    "desc": "If an Xyz Monster(s) is Special Summoned to your field: You can Special Summon this card from your hand. If an Xyz Monster(s) is Special Summoned to your field while this card is in your GY, except during the turn this card was sent there: You can target 1 of those monster(s); attach this card to it as material. You can only use each effect of \"Xyz Slidolphin\" once per turn.",
     "str1": "Special Summon",
     "str2": "Target to attach",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE023",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP023",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/68/XyzSlidolphin-DANE-EN-C-1E.png"
 }

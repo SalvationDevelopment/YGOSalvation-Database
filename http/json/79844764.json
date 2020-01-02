@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "The Monarchs Stormforth",
-    "desc": "Once during this turn, if you would Tribute a monster(s) for a Tribute Summon, you can Tribute 1 monster your opponent controls as if you controlled it. You can only activate 1 \"The Monarchs Stormforth\" per turn. During the turn you activate this card, you cannot Special Summon monsters from the Extra Deck.",
+    "desc": "Once during this turn, if you would Tribute a monster for a Tribute Summon, you can Tribute 1 monster your opponent controls even though you do not control it. You can only activate 1 \"The Monarchs Stormforth\" per turn. During the turn you activate this card, you cannot Special Summon monsters from the Extra Deck.",
     "str1": "Tribute opponent monster",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "DUEA-DE066",
         "date": "2014-08-14"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dd/TheMonarchsStormforth-LCKC-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cd/TheMonarchsStormforth-DASA-EN-SR-1E.png"
 }

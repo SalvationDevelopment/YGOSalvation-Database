@@ -2,7 +2,7 @@
     "id": 79783880,
     "ot": 3,
     "alias": 0,
-    "setcode": 4313,
+    "setcode": 217,
     "type": 4129,
     "atk": 800,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 262144,
     "name": "Shiranui Spectralsword Shade",
-    "desc": "You can Tribute this card, then target 2 of your banished Zombie monsters, except \"Shiranui Spectralsword Shade\", including a \"Shiranui\" monster; Special Summon them in Defense Position, but negate their effects, also, you cannot Special Summon monsters for the rest of this turn, except Zombie monsters. You can only use this effect of \"Shiranui Spectralsword Shade\" once per turn.",
+    "desc": "You can Tribute this card, then target 2 of your banished Zombie monsters, except \"Shiranui Spectralsword Shade, including a \"Shiranui\" monster; Special Summon them in Defense Position, but negate their effects, also, you cannot Special Summon monsters for the rest of this turn, except Zombie monsters. You can only use this effect of \"Shiranui Spectralsword Shade\" once per turn.",
     "str1": "Special Summon targets",
     "str2": "Affected by \"Shiranui Spectralsword Shade\"",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE017",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP017",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a7/ShiranuiSpectralswordShade-SAST-EN-SR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262152,
     "name": "Mimir of the Nordic Ascendant",
-    "desc": "Once per turn, at the start of your Standby Phase, if you control a \"Nordic\" monster and this card is in your Graveyard: You can send 1 Spell Card from your hand to the Graveyard; Special Summon this card.",
+    "desc": "Once per turn, at the start of your Standby Phase, if you control a \"Nordic\" monster and this card is in your GY: You can send 1 Spell from your hand to the GY; Special Summon this card.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "STOR-EN018",
         "date": "2011-02-08"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/be/MimiroftheNordicAscendant-LC5D-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/05/MimiroftheNordicAscendant-LEHD-EN-C-1E.png"
 }

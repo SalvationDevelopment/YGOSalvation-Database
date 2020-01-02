@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Guardragon Elpy",
-    "desc": "1 Level 4 or lower Dragon monster\r\nYou cannot Special Summon monsters, except Dragon monsters. During your Main Phase: You can Special Summon 1 Dragon monster from your hand or Deck to your zone that 2 or more Link Monsters point to. You can only use this effect of \"Guardragon Elpy\" once per turn. You can only Special Summon \"Guardragon Elpy(s)\" once per turn.",
+    "desc": "Link Arrows: [🡰]\n\n1 Level 4 or lower Dragon monster\nYou cannot Special Summon monsters, except Dragon monsters. During your Main Phase: You can Special Summon 1 Dragon monster from your hand or Deck to your zone that 2 or more Link Monsters point to. You can only use this effect of &#x201C;Guardragon Elpy&#x201D; once per turn. You can only Special Summon &#x201C;Guardragon Elpy(s)&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,19 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE051",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP051",
+        "date": "2018-10-13"
+    },
+    "links": [
+        3
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/24/GuardragonElpy-SAST-EN-SR-1E.png"
 }

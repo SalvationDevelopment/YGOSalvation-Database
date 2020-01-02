@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 3,
     "name": "Trap of the Imperial Tomb",
-    "desc": "When a Zombie-Type monster(s) is Special Summoned from your opponent's Graveyard to your side of the field: Target 2 cards on the field; destroy those targets.",
+    "desc": "When a Zombie monster(s) is Special Summoned from your opponent's GY to your field: Target 2 cards on the field; destroy them.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "CSOC-EN077",
         "date": "2008-11-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d1/TrapoftheImperialTomb-LCJW-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d9/TrapoftheImperialTomb-SR07-EN-C-1E.png"
 }

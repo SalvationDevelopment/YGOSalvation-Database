@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Malefic Territory",
-    "desc": "When this card is activated: You can activate 1 \"Malefic World\" directly from your Deck, and if you do, neither player can target cards in the Field Zones with card effects while that card is in the Field Zone. The effect \"There can only be 1 face-up \"Malefic\" monster on the field\" of \"Malefic\" monsters becomes \"There cannot be face-up \"Malefic\" monsters on the field with the same name\". Negate the effects of \"Malefic\" monsters on the field during the Battle Phase only.",
+    "desc": "When this card is activated: You can activate 1 \"Malefic World\" directly from your Deck. While it is in the Field Zone, neither player can target cards in the Field Zones with card effects. The effect \"There can only be 1 face-up \"Malefic\" monster on the field\" of \"Malefic\" monsters becomes \"There cannot be face-up \"Malefic\" monsters on the field with the same name\". Negate the effects of \"Malefic\" monsters on the field during the Battle Phase only.",
     "str1": "Activate \"Malefic World\"?",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "20th Anniversary Legend Collection",
+        "pack_id": "20TH-JPC16",
+        "date": "2019-02-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e8/MaleficTerritory-20TH-JP-ScR.png"
 }

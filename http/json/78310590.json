@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 270352,
     "name": "Abyss Actor - Mellow Madonna",
-    "desc": "[ Pendulum Effect ]\r\nYou can pay 1000 LP; add 1 \"Abyss Actor\" Pendulum Monster from your Deck to your hand, except \"Abyss Actor - Mellow Madonna\", also you cannot Special Summon monsters for the rest of this turn, except \"Abyss Actor\" Pendulum Monsters (even if this card leaves the field). You can only use this effect of \"Abyss Actor - Mellow Madonna\" once per turn.\r\n----------------------------------------\r\n[ Monster Effect ]\r\nGains 100 ATK for each \"Abyss Script\" Spell in your GY. You can only use each of the following effects of \"Abyss Actor - Mellow Madonna\" once per turn.\r\n●When a Pendulum Monster you control is destroyed by battle: You can Special Summon this card from your hand.\r\n●If an \"Abyss Script\" Spell Card or effect is activated: You can Special Summon 1 Level 4 or lower \"Abyss Actor\" Pendulum Monster from your Deck, but return it to the hand during the End Phase.",
+    "desc": "Pendulum Effect\nYou can pay 1000 LP; add 1 \"Abyss Actor\" Pendulum Monster from your Deck to your hand, except \"Abyss Actor - Mellow Madonna\", also you cannot Special Summon monsters for the rest of this turn, except \"Abyss Actor\" Pendulum Monsters (even if this card leaves the field). You can only use this effect of \"Abyss Actor - Mellow Madonna\" once per turn.\n\nMonster Effect\nGains 100 ATK for each \"Abyss Script\" Spell in your GY. You can only use each of the following effects of \"Abyss Actor - Mellow Madonna\" once per turn.\n● When a Pendulum Monster you control is destroyed by battle: You can Special Summon this card from your hand.\n● If an \"Abyss Script\" Spell Card or effect is activated: You can Special Summon 1 Level 4 or lower \"Abyss Actor\" Pendulum Monster from your Deck, but return it to the hand during the End Phase.",
     "str1": "Search",
     "str2": "Special Summon",
     "str3": "Special Summon",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: White Dragon Abyss",
+        "pack_id": "LED3-DE045",
+        "date": "2018-09-27"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 3",
+        "pack_id": "DP20-JP045",
+        "date": "2018-06-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9a/AbyssActorMellowMadonna-LED3-EN-SR-1E.png"
 }

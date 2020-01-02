@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 32772,
     "name": "Binary Blader",
-    "desc": "2 Normal Monsters\r\nThis card gains these effects based on the number of monsters co-linked to this card.\r\n● 1+: When this card declares an attack on an opponent's monster: You can activate this effect; this turn, this card can make a second attack during each Battle Phase, but opponent's monsters cannot be destroyed by battle with this card.\r\n● 2: After damage calculation, if this card battled an opponent's monster: You can banish that opponent's monster.",
+    "desc": "Link Arrows: [🡰][🡲]\n\n2 Normal Monsters\nThis card gains these effects based on the number of monsters co-linked to this card.\n● 1+: When this card declares an attack on an opponent's monster: You can activate this effect; this turn, this card can make a second attack during each Battle Phase, but opponent's monsters cannot be destroyed by battle with this card.\n● 2: After damage calculation, if this card battled an opponent's monster: You can banish that opponent's monster.",
     "str1": "Repeat attack",
     "str2": "Banish",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Jump Victory Carnival 2019 promotional card",
+        "pack_id": "VF19-JP001",
+        "date": "2019-07-21"
+    },
+    "links": [
+        3,
+        4
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bd/BinaryBlader-VF19-JP-UR.png"
 }

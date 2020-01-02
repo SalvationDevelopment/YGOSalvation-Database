@@ -2,7 +2,7 @@
     "id": 77539547,
     "ot": 1,
     "alias": 0,
-    "setcode": 311,
+    "setcode": 0,
     "type": 33,
     "atk": 1600,
     "def": 1600,
@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 2147484184,
     "name": "Senka Adonis - Zhou Gong",
-    "desc": "You can target 1 Continuous Spell/Trap you control; send it to the GY, and if you do, add 1 \"Senka\" Spell/Trap from your Deck to your hand. If your other \"Senka\" monster's effect is activated (except during the Damage Step): You can target 1 Effect Monster your opponent controls; negate its effects until the end of this turn. You can only use each effect of \"Senka Adonis - Zhou Gong\" once per turn.",
+    "desc": "You can target 1 Continuous Spell/Trap you control; send that card to the GY, and if you do, add 1 \"Senka\" Spell/Trap from your Deck to your hand. If your other \"Senka\" monster's effect is activated: You can target 1 monster your opponent controls; negate its effects for the rest of the turn. You can only use each effect of \"Senka Adonis - Zhou Gong\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP009",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fb/SenkaAdonisZhouGong-IGAS-JP-C.png"
 }

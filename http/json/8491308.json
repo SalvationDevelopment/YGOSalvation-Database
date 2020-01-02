@@ -2,7 +2,7 @@
     "id": 8491308,
     "ot": 3,
     "alias": 0,
-    "setcode": 4373,
+    "setcode": 0,
     "type": 67108897,
     "atk": 1500,
     "def": 1,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 131080,
     "name": "Sky Striker Ace - Hayate",
-    "desc": "1 non-WIND \"Sky Striker Ace\" monster\r\nYou can only Special Summon \"Sky Striker Ace Hayate(s)\" once per turn. This card can attack directly. After damage calculation, if this card battled: You can send 1 \"Sky Striker\" card from your Deck to the GY.",
+    "desc": "Link Arrows: [🡷]\n\n1 non-WIND \"Sky Striker Ace\" monster\nYou can only Special Summon \"Sky Striker Ace - Hayate(s)\" once per turn. This card can attack directly. After damage calculation, if this card battled: You can send 1 \"Sky Striker\" card from your Deck to the GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,19 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE047",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP047",
+        "date": "2018-04-14"
+    },
+    "links": [
+        5
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6e/SkyStrikerAceHayate-CYHO-EN-SR-1E.png"
 }

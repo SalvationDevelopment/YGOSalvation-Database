@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 0,
     "name": "Flame Noble Knight Roland",
-    "desc": "(Quick Effect): You can target 1 face-up monster you control; equip this card from your hand to that target as an Equip Spell that makes it gain 500 ATK. During the End Phase, if this card is in the GY because it was sent there this turn: You can add 1 FIRE Warrior monster or 1 Equip Spell from your Deck to your hand, except \"Flame Noble Knight Roland\". You can only use each effect of \"Flame Noble Knight Roland\" once per turn.",
+    "desc": "(Quick Effect): You can target 1 face-up monster you control; equip this card from your hand to that target you control as an Equip Card with this effect; it gains 500 ATK. During the End Phase, if this card was sent to the GY during this turn: You can add 1 FIRE Warrior monster or Equip Spell from your Deck to your hand. You can only use each effect of \"Flame Noble Knight Roland\" once per turn.",
     "str1": "Equip",
     "str2": "Search",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Structure Deck R: Warrior's Strike",
+        "pack_id": "SR09-JP003",
+        "date": "2019-09-28"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d8/FlameNobleKnightRoland-SR09-JP-OP.png"
 }

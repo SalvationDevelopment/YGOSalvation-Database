@@ -2,7 +2,7 @@
     "id": 84335863,
     "ot": 1,
     "alias": 0,
-    "setcode": 291,
+    "setcode": 0,
     "type": 524290,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 270336,
     "name": "White Rose Cloister",
-    "desc": "If you control no monsters: You can Special Summon 1 \"Rose Dragon\" monster or 1 Plant monster from your hand. You can only use this effect of \"White Rose Cloister\" once per turn. During your Draw Phase, before your draw: You can declare 1 type of card (Monster, Spell, or Trap); reveal the top card of your Deck, and if it was the declared type, for the rest of this turn, Level 7 or higher Synchro Monsters you control gain 1000 ATK (even if this card leaves the field).",
+    "desc": "If you control no monsters: You can Special Summon 1 \"Rose Dragon\" monster or 1 Plant monster from your hand. You can only use this effect of \"White Rose Cloister\" once per turn. During your Draw Phase, before you draw: You can declare 1 type of card (Monster, Spell, or Trap); reveal the top card of your Deck, and if it was the declared type, for the rest of this turn, Level 7 or higher Synchro Monsters you control gain 1000 ATK (even if this card leaves the field).",
     "str1": "Special Summon",
     "str2": "Declare type",
     "str3": "Affected by \"White Rose Cloister\"",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Premium Pack 2020",
+        "pack_id": "20PP-JP011",
+        "date": "2020-02-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b6/WhiteRoseCloister-20PP-JP-OP.png"
 }

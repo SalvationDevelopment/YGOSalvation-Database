@@ -2,7 +2,7 @@
     "id": 7403341,
     "ot": 3,
     "alias": 0,
-    "setcode": 280,
+    "setcode": 0,
     "type": 1048580,
     "atk": 0,
     "def": 0,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Fists of the Gadgets",
+        "pack_id": "FIGA-DE042",
+        "date": "2019-08-22"
+    },
+    "ocg": {
+        "pack": "Structure Deck: Master Link",
+        "pack_id": "SD34-JP032",
+        "date": "2018-06-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ee/CynetConflict-FIGA-EN-SR-1E.png"
 }

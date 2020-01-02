@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 17039360,
     "name": "Gemini Ablation",
-    "desc": "During the Main Phase: You can discard 1 card, then activate 1 of these effects;\n● Special Summon 1 Gemini monster from your Deck, and if you do, it becomes an Effect Monster and gains its effects.\n● Tribute 1 Gemini monster, and if you do, Special Summon 1 FIRE Warrior monster from your hand or Deck, then if the Tributed monster was treated as an Effect Monster and gained its effects, you can destroy 1 card on the field.\nYou can only use this effect of \"Gemini Ablation\" once per turn.",
+    "desc": "During the Main Phase: You can discard 1 card, then activate 1 of these effects.\n● Special Summon 1 Gemini monster from your Deck. It becomes an Effect Monster and gains its effect.\n● Tribute 1 Gemini monster, and if you do, Special Summon 1 FIRE Warrior monster from your hand or Deck. Then if you Tributed a Gemini monster that gained its effect, you can destroy 1 card on the field.\nYou can only use this effect of \"Gemini Ablation\" once per turn.",
     "str1": "Activate",
     "str2": "Special Summon 1 Gemini monster from your Deck",
     "str3": "Tribute 1 Gemini monster, and if you do, Special Summon 1 FIRE Warrior monster from your hand or Deck",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Structure Deck R: Warrior's Strike",
+        "pack_id": "SR09-JP035",
+        "date": "2019-09-28"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fa/GeminiAblation-SR09-JP-OP.png"
 }

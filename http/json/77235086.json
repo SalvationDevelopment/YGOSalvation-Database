@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Cyber Angel Benten",
-    "desc": "You can Ritual Summon this card with \"Machine Angel Ritual\". If this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to that monster's original DEF in the Graveyard. If this card is Tributed: You can add 1 LIGHT Fairy-Type monster from your Deck to your hand.",
+    "desc": "You can Ritual Summon this card with \"Machine Angel Ritual\". If this card destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to that monster's original DEF in the GY. If this card is Tributed: You can add 1 LIGHT Fairy monster from your Deck to your hand.",
     "str1": "Inflict Damage",
     "str2": "Add 1 LIGHT Fairy-Type monster to hand",
     "str3": "",
@@ -30,15 +30,7 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Collectors Pack: Duelist of Flash Version",
-        "pack_id": "CPF1-JP012",
-        "date": "2016-05-14"
-    },
-    "tcg": {
-        "pack": "Dragons of Legend: Unleashed",
-        "pack_id": "DRL3-DE012",
-        "date": "2016-08-18"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1d/CyberAngelBenten-DPDG-EN-SR-1E.png"
+    "ocg": {},
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8d/CyberAngelBenten-LED4-EN-C-1E.png"
 }

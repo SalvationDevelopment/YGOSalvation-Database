@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Fiendish Rhino Warrior",
-    "desc": "Fiend-Type monsters you control, except \"Fiendish Rhino Warrior\", cannot be destroyed by battle or card effects. If this card is sent to the Graveyard: You can send 1 Fiend-Type monster from your Deck to the Graveyard, except \"Fiendish Rhino Warrior\". You can only use this effect of \"Fiendish Rhino Warrior\" once per turn.",
+    "desc": "Fiend monsters you control, except \"Fiendish Rhino Warrior\", cannot be destroyed by battle or card effects. If this card is sent to the GY: You can send 1 Fiend monster from your Deck to the GY, except \"Fiendish Rhino Warrior\". You can only use this effect of \"Fiendish Rhino Warrior\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "BOSH-DE091",
         "date": "2016-01-14"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ae/FiendishRhinoWarrior-OP02-EN-SR-UE.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6d/FiendishRhinoWarrior-SR06-EN-C-1E.png"
 }

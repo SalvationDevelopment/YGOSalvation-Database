@@ -2,7 +2,7 @@
     "id": 82045034,
     "ot": 3,
     "alias": 0,
-    "setcode": 284,
+    "setcode": 0,
     "type": 4,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Thunder Dragons' Hundred Thunders",
-    "desc": "Target 1 Thunder monster in your GY; Special Summon it, then you can Special Summon as many monsters with that same name as possible from your GY. The monster(s) Special Summoned by this effect are banished when they leave the field, also while they are face-up on the field, you cannot Special Summon monsters, except Thunder monsters. You can only activate 1 \"Thunder Dragons' Hundred Thunders\" per turn.",
+    "desc": "Target 1 Thunder  monster in your GY; Special Summon it, then you can Special Summon as many monsters with that same name as possible from your GY. The monster(s) Special Summoned by this effect are banished when they leave the field, also while they are face-up on the field, you cannot Special Summon monsters, except Thunder monsters. You can only activate 1 &#x201C;Thunder Dragons' Hundred Thunders&#x201D; per turn.",
     "str1": "Special Summon other monsters?",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE072",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP072",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/28/ThunderDragonsHundredThunders-SOFU-EN-R-1E.png"
 }

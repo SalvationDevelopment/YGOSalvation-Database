@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 0,
     "name": "Fullmetalfoes Alkahest",
-    "desc": "1 \"Metalfoes\" monster + 1 Normal Monster\nMust be Fusion Summoned and cannot be Special Summoned by other ways. Once per turn, during your opponent's turn: You can target 1 Effect Monster on the field; equip that target to this card (this is a Quick Effect). This card gains DEF equal to the combined original ATK of the monsters equipped to it by this effect. You can use monsters you control equipped to this card you control as Fusion Materials for the Fusion Summon of a \"Metalfoes\" Fusion Monster that lists them as Materials.",
+    "desc": "1 \"Metalfoes\" monster + 1 Normal Monster\nMust be Fusion Summoned. Once per turn, during your opponent's turn (Quick Effect): You can target 1 Effect Monster on the field; equip that target to this card. This card gains DEF equal to the combined original ATK of the monsters equipped to it by this effect. You can use monsters you control equipped to this card you control as Fusion Materials for the Fusion Summon of a \"Metalfoes\" Fusion Monster that lists them as materials.",
     "str1": "Equip this card",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "INOV-DE039",
         "date": "2016-11-03"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/84/FullmetalfoesAlkahest-INOV-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b6/FullmetalfoesAlkahest-BLRR-EN-UR-1E.png"
 }

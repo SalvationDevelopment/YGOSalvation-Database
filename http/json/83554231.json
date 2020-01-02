@@ -2,7 +2,7 @@
     "id": 83554231,
     "ot": 3,
     "alias": 0,
-    "setcode": 281,
+    "setcode": 0,
     "type": 2,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 528,
     "name": "Salamangreat Recureance",
-    "desc": "Target 2 \"Salamangreat\" monsters in your GY with different names; add them to your hand. If this Set card is destroyed by card effect and sent to the GY: You can add 1 \"Salamangreat\" Spell/Trap from your Deck to your hand, except \"Salamangreat Recureance\". You can only use each effect of \"Salamangreat Recureance\" once per turn.",
+    "desc": "Target 2 \"Salamangreat\" monsters with different names in your GY: add them to your hand. If this Set card is destroyed by a card effect and sent to the GY: You can add 1 \"Salamangreat' Spell/Trap from your Deck to your hand, except &#x201C;Salamangreat Recureance&#x201D;. You can only use each effect of &#x201C;Salamangreat Recureance&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-DE052",
+        "date": "2019-05-02"
+    },
+    "ocg": {
+        "pack": "Dark Neostorm",
+        "pack_id": "DANE-JP052",
+        "date": "2019-01-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1f/SalamangreatRecureance-DANE-EN-UR-1E.png"
 }

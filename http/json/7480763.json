@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262144,
     "name": "Artifact Dagda",
-    "desc": "2 monsters with different names\nWhen the effect of another card on the field is activated (Quick Effect): You can Set 1 \"Artifact\" monster from your hand or Deck to your Spell & Trap Zone as a Spell, but destroy it during your opponent's next End Phase. If this Link Summoned card is destroyed during your opponent's turn: You can Special Summon 1 \"Artifact\" monster from your GY in Defense Position. You can only use each effect of \"Artifact Dagda\" once per turn.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 monsters with different names\nWhen another card's effect on the field with a different name than this card is activated you can Set 1 \"Artifact\" monster directly from your Deck to your Spell & Trap Zone as a Spell Card. Destroy any card(s) Set with this effect on your opponent's next End Phase.\nWhen this Link Summoned card is destroyed during your opponent's turn you can Special Summon 1 \"Artifact\" monster in face-up  Defense Position from your GY. You can only use each effect of \"Artifact Dagda\" once per turn.",
     "str1": "Set",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "LINK VRAINS Pack 3",
+        "pack_id": "LVP3-JP061",
+        "date": "2019-11-23"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/28/ArtifactDagda-LVP3-JP-OP.png"
 }

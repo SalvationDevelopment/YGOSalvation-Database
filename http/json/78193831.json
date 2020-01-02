@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 1056768,
     "name": "Buster Blader",
-    "desc": "This card gains 500 ATK for each Dragon-Type monster your opponent controls or is in their Graveyard.",
+    "desc": "Gains 500 ATK for each Dragon monster your opponent controls or is in their GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,15 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {
-        "pack": "Curse of Anubis",
-        "pack_id": "CA-51",
-        "date": "2000-09-28"
-    },
+    "ocg": {},
     "tcg": {
         "pack": "Pharaoh's Servant",
         "pack_id": "PSV-050",
         "date": "2003-04-21"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7f/BusterBlader-SDMY-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cb/BusterBlader-SBLS-EN-C-1E.png"
 }

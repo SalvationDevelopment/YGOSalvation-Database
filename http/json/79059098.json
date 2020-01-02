@@ -2,7 +2,7 @@
     "id": 79059098,
     "ot": 3,
     "alias": 0,
-    "setcode": 288,
+    "setcode": 0,
     "type": 65538,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 268697600,
     "name": "Prank-Kids Pandemonium",
-    "desc": "During the Main Phase: Fusion Summon 1 \"Prank-Kids\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. For the rest of this turn after this card resolves, you cannot Normal or Special Summon monsters, except \"Prank-Kids\" monsters.",
+    "desc": "During the Main Phase: Fusion Summon 1 &#x201C;Prank-Kids&#x201D; Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. For the rest of this turn after this card resolves, you cannot Normal or Special Summon monsters, except &#x201C;Prank-Kids&#x201D; monsters.",
     "str1": "",
     "str2": "Affected by \"Prank-Kids Pandemonium\"",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Hidden Summoners",
+        "pack_id": "HISU-EN025",
+        "date": "2018-11-15"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Hidden Summoners",
+        "pack_id": "DBHS-JP025",
+        "date": "2018-08-04"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fc/PrankKidsPandemonium-HISU-EN-SR-1E.png"
 }

@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Battles of Legend: Hero's Revenge",
+        "pack_id": "BLHR-DE056",
+        "date": "2019-07-11"
+    },
+    "ocg": {
+        "pack": "20th Anniversary Legend Collection",
+        "pack_id": "20TH-JPC13",
+        "date": "2019-02-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/17/DarkSacrifice-BLHR-EN-ScR-1E.png"
 }

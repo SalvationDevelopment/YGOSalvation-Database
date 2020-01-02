@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 268697600,
     "name": "Frightfur Meister",
-    "desc": "[ Pendulum Effect ]\r\nYou can Tribute 1 Level 4 or lower \"Fluffal\", \"Frightfur\", or \"Edge Imp\" monster; Special Summon 1 Fiend monster from your Deck with the same Level the Tributed monster had on the field, but with a different name. You can only use this effect of \"Frightfur Meister\" once per turn.\r\n----------------------------------------\r\n[ Monster Effect ]\r\nDuring your Main Phase: You can Special Summon 1 Level 4 or lower \"Fluffal\", \"Frightfur\", or \"Edge Imp\" monster from your Deck, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Fusion Monsters. You can Tribute 2 or more Fiend monsters; Special Summon 1 \"Frightfur\" Fusion Monster from your Extra Deck whose Level equals the total original Levels of the Tributed monsters. (This is treated as a Fusion Summon.) You can only use each effect of \"Frightfur Meister\" once per turn.",
+    "desc": "Pendulum Effect\nYou can Tribute 1 Level 4 or lower \"Fluffal\", \"Frightfur\", or \"Edge Imp\" monster; Special Summon 1 Fiend monster from your Deck with the same Level as that monster, but with a different name. You can only use this effect of \"Frightfur Meister\" once per turn.\n\nMonster Effect\nDuring your Main Phase: You can Special Summon 1 Level 4 or lower \"Fluffal\", \"Frightfur\", or \"Edge Imp\" monster from your Deck, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Fusion Monsters. You can Tribute 2 or more Fiend monsters; Special Summon 1 \"Frightfur\"Fusion Monster from your Extra Deck whose Level equals the total original Levels of those monsters. (This is treated as a Fusion Summon.) You can only use each effect of \"Frightfur Meister\" once per turn.",
     "str1": "Special Summon",
     "str2": "Special Summon 1 Frightfur Unit",
     "str3": "Fusion Summon by Tributing 2+ Fiends",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "V Jump Fall 2018 subscription bonus",
+        "pack_id": "VJMP-JP151",
+        "date": "2018-09-21"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/15/FrightfurMeister-VJMP-JP-OP.png"
 }

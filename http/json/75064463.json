@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 512,
     "name": "Harpie Queen",
-    "desc": "You can discard this card to the Graveyard; add 1 \"Harpies' Hunting Ground\" from your Deck to your hand. This card's name becomes \"Harpie Lady\" while it is on the field or in the Graveyard.",
+    "desc": "This card's name becomes \"Harpie Lady\" while it is on the field or in the GY. You can discard this card to the GY; add 1 \"Harpies' Hunting Ground\" from your Deck to your hand.",
     "str1": "Search",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "FOTB-FR020",
         "date": "2007-05-05"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bc/HarpieQueen-LCJW-EN-UR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b6/HarpieQueen-LED4-EN-C-1E.png"
 }

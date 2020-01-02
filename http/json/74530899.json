@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 20971568,
     "name": "Metaion, the Timelord",
-    "desc": "Cannot be Special Summoned from the Deck. If you control no monsters, you can Normal Summon this card without Tributing. Cannot be destroyed by battle or card effects. You take no battle damage from attacks involving this Attack Position card. At the end of the Battle Phase, if this card attacked or was attacked: Return as many monsters on the field as possible to the hand (other than this card), and if you do, inflict 300 damage to your opponent for each card returned. During your Standby Phase: Shuffle this card into the Deck.",
+    "desc": "Cannot be Special Summoned from the Deck. If you control no monsters, you can Normal Summon this card without Tributing. Cannot be destroyed by battle or card effects. You take no battle damage from attacks involving this Attack Position card. At the end of the Battle Phase, if this card battled: Return as many monsters on the field as possible to the hand (other than this card), and if you do, inflict 300 damage to your opponent for each card returned. Once per turn, during your Standby Phase: Shuffle this card into the Deck.",
     "str1": "Normal Summon without Tributes",
     "str2": "Return all other monsters on the field to the hand",
     "str3": "这张卡回到卡组",
@@ -40,5 +40,5 @@
         "pack_id": "PHSW-DE098",
         "date": "2011-11-10"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/29/MetaiontheTimelord-PGL2-EN-GUR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/01/MetaiontheTimelord-BLRR-EN-UR-1E.png"
 }

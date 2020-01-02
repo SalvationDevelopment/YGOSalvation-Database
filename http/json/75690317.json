@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Karakuri Toad mdl 4624 \"Shirokunishi\"",
-    "desc": "This card must attack if able. If this card is targeted for an attack: Change its battle position. (Quick Effect): You can banish this card from your GY, then target 1 \"Karakuri\" monster you control; change its battle position. You can only use this effect of \"Karakuri Toad mdl 4624 \"Shirokunishi\"\" once per turn.",
+    "desc": "Must attack if able. If this card is selected for an attack: Change its battle position. (Quick Effect): You can banish this card from your GY, then target 1 &#x201C;Karakuri&#x201D; monster you control; change its battle position. You can only use this effect of \"Karakuri Toad mdl 4624 \"Shirokunishi\"\" once per turn.",
     "str1": "Change own position",
     "str2": "Change other's position",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP015",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b6/KarakuriToadmdl4624Shirokunishi-IGAS-JP-OP.png"
 }

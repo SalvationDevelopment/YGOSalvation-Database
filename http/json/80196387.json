@@ -2,7 +2,7 @@
     "id": 80196387,
     "ot": 1,
     "alias": 0,
-    "setcode": 291,
+    "setcode": 0,
     "type": 2,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262672,
     "name": "Rose Bell of Revelation",
-    "desc": "Add 1 Plant monster with 2400 or more ATK from your Deck to your hand. You can banish this card from your GY; Special Summon 1 Plant monster with 2400 or more ATK from your hand. You can only use 1 \"Rose Bell of Revelation\" effect per turn, and only once that turn.",
+    "desc": "Add 1 Plant monster with 2400 ATK or higher from your Deck to your hand. You can banish this card from your GY; Special Summon 1 Plant monster with 2400 ATK or higher from your hand. You can only use 1 &#x201C;Rose Bell of Revelation&#x201D; effect per turn, and only once that turn.",
     "str1": "Add to hand",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Premium Pack 2019",
+        "pack_id": "19PP-JP015",
+        "date": "2019-03-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8e/RoseBellofRevelation-19PP-JP-C.png"
 }

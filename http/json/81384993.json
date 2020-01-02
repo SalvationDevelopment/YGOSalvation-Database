@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Malefic Divide",
-    "desc": "Target 1 \"Malefic\" monster in your GY; Special Summon it, ignoring its Summoning conditions, but negate its effects, also banish it during the End Phase.",
+    "desc": "Target 1 \"Malefic\" monster in your GY; Special Summon it, ignoring the Summoning conditions, but its effect(s) are negated, also banish it during the End Phase.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "20th Anniversary Legend Collection",
+        "pack_id": "20TH-JPC06",
+        "date": "2019-02-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1b/MaleficDivide-20TH-JP-UPR.png"
 }

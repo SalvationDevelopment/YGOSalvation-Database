@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 5242881,
     "name": "Stamping Destruction",
-    "desc": "If you control a Dragon-Type monster: Target 1 Spell/Trap Card on the field; destroy that target, and if you do, inflict 500 damage to its controller.",
+    "desc": "If you control a Dragon monster: Target 1 Spell/Trap on the field; destroy that target, and if you do, inflict 500 damage to its controller.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -31,14 +31,14 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "pack": "Struggle of Chaos",
-        "pack_id": "SC-46",
-        "date": "2001-09-20"
+        "pack": "Special Promotional Pack 2015 Volume 1",
+        "pack_id": "PR01-TC002",
+        "date": "2015-05-01"
     },
     "tcg": {
         "pack": "Legacy of Darkness",
         "pack_id": "LOD-046",
         "date": "2003-06-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f4/StampingDestruction-BP03-EN-C-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6c/StampingDestruction-MYFI-EN-SR-1E.png"
 }
