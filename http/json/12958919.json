@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Duelist Pack: Jesse Anderson",
+        "pack_id": "DP07-JP009",
+        "date": "2007-10-20"
+    },
     "tcg": {
-        "pack": "Duel Terminal 6b",
-        "pack_id": "DT06-EN056",
-        "date": "2012-05-25"
+        "pack": "Duelist Pack: Jesse Anderson",
+        "pack_id": "DP07-DE007",
+        "date": "2008-01-22"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/07/PhantomSkyblaster-SDPL-EN-C-1E.png"
 }

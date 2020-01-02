@@ -2,7 +2,7 @@
     "id": 14812471,
     "ot": 3,
     "alias": 0,
-    "setcode": 281,
+    "setcode": 0,
     "type": 67108897,
     "atk": 500,
     "def": 2,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 528,
     "name": "Salamangreat Balelynx",
-    "desc": "1 Level 4 or lower Cyberse monster\r\nIf this card is Link Summoned: You can add 1 \"Salamangreat Sanctuary\" from your Deck to your hand. If a \"Salamangreat\" card(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only use each effect of \"Salamangreat Balelynx\" once per turn.",
+    "desc": "Link Arrows: [🡳]\n\n1 Level 4 or lower Cyberse monster\nIf this card is Link Summoned: You can add 1 \"Salamangreat Sanctuary\" from your Deck to your hand. If a \"Salamangreat\" card(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only use each effect of \"Salamangreat Balelynx\" once per turn.",
     "str1": "Add 1 \"Salamangreat Sanctuary\"",
     "str2": "Prevent destruction with \"Salamangreat Balelynx\"?",
     "str3": "",
@@ -28,5 +28,19 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Soulburner",
+        "pack_id": "SDSB-DE043",
+        "date": "2019-02-14"
+    },
+    "ocg": {
+        "pack": "Structure Deck: Soulburner - Extra Deck Enhancement Pack",
+        "pack_id": "SD35-JPP02",
+        "date": "2018-12-08"
+    },
+    "links": [
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/SalamangreatBalelynx-SDSB-EN-UR-1E.png"
 }

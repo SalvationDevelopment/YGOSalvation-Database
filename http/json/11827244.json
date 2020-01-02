@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Dark Neostorm Special Edition",
+        "pack_id": "DANE-DESE4",
+        "date": "2019-06-13"
+    },
+    "ocg": {
+        "pack": "The Valuable Book 20",
+        "pack_id": "VB20-JP002",
+        "date": "2018-02-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c4/MagicalizedFusion-DANE-EN-SR-LE.png"
 }

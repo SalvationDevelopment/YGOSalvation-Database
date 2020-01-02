@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Magician's Force",
+        "pack_id": "MFC-055",
+        "date": "2003-10-10"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d9/GreatAngus-SD3-EN-C-1E.png"
 }

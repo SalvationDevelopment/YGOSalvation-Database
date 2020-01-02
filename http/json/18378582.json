@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Ancient Sanctuary",
+        "pack_id": "AST-DE034",
+        "date": "2004-05-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c6/ArchlordZerato-DR2-EN-UR-UE.png"
 }

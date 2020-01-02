@@ -2,7 +2,7 @@
     "id": 100263001,
     "ot": 1,
     "alias": 0,
-    "setcode": 309,
+    "setcode": 0,
     "type": 33,
     "atk": 3000,
     "def": 3000,
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Master Guide 6 promotional cards",
+        "pack_id": "MG06-JP001",
+        "date": "2020-02-07"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/da/Back-JP.png"
 }

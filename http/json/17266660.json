@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Starter Pack Volume 1",
+        "pack_id": "SP01-TC022",
+        "date": "2014-03-01"
+    },
+    "tcg": {
+        "pack": "The Duelist Genesis",
+        "pack_id": "TDGS-EN082",
+        "date": "2008-08-09"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/HeraldofOrangeLight-OP07-EN-UtR-UE.png"
 }

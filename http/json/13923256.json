@@ -2,7 +2,7 @@
     "id": 13923256,
     "ot": 1,
     "alias": 0,
-    "setcode": 311,
+    "setcode": 0,
     "type": 33,
     "atk": 700,
     "def": 2000,
@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 26,
     "name": "Senka Tactician - Lu Jing",
-    "desc": "You can target 1 Continuous Spell/Trap you control; send it to the GY, and if you do, add from your GY to your hand 1 \"Senka\" Spell/Trap with a different name from the sent card. If your other \"Senka\" monster's effect is activated (except during the Damage Step): You can target 1 Spell/Trap your opponent controls; destroy it. You can only use each effect of \"Senka Tactician - Lu Jing\" once per turn.",
+    "desc": "You can target 1 Continuous Spell/Trap you control; send that card to the GY, and if you do, add 1 \"Senka\" Spell/Trap with a different name from your GY to your hand. If your other \"Senka\" monster's effect is activated: You can target 1 Spell/Trap your opponent controls; destroy that card. You can only use each effect of \"Senka Tactician - Lu Jing\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP010",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/SenkaTacticianLuJing-IGAS-JP-C.png"
 }

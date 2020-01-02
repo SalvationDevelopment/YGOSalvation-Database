@@ -2,7 +2,7 @@
     "id": 12213463,
     "ot": 3,
     "alias": 0,
-    "setcode": 4387,
+    "setcode": 0,
     "type": 33,
     "atk": 1200,
     "def": 1000,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262152,
     "name": "White Rose Dragon",
-    "desc": "When this card is Normal Summoned: You can Special Summon 1 \"Rose Dragon\" monster from your hand or GY, except \"White Rose Dragon\". You can only use each of these effects of \"White Rose Dragon\" once per turn.\r\n● If you control a Dragon Tuner or Plant Tuner: You can Special Summon this card from your hand.\r\n● If this card is sent to the GY as Synchro Material: You can send 1 Level 4 or higher Plant monster from your Deck to the GY.",
+    "desc": "When this card is Normal Summoned: You can Special Summon 1 \"Rose Dragon\" monster from your hand or GY, except \"White Rose Dragon\". You can only use each of these effects of \"White Rose Dragon\" once per turn:\n● If you control a Dragon Tuner or Plant Tuner: You can Special Summon this card from your hand.\n● If this card is sent to the GY as Synchro Material: You can send 1 Level 4 or higher Plant monster from your Deck to the GY.",
     "str1": "Special Summon",
     "str2": "Special Summon a \"Rose Dragon\"",
     "str3": "Send 1 Level 4+ Plant to the GY",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike Special Edition",
+        "pack_id": "SAST-DESE4",
+        "date": "2019-03-07"
+    },
+    "ocg": {
+        "pack": "V Jump December 2018 promotional card",
+        "pack_id": "VJMP-JP155",
+        "date": "2018-10-20"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/34/WhiteRoseDragon-SAST-EN-SR-LE.png"
 }

@@ -2,7 +2,7 @@
     "id": 101012150,
     "ot": 1,
     "alias": 0,
-    "setcode": 309,
+    "setcode": 0,
     "type": 16401,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "@Ignister Token",
-    "desc": "This card can be used as a \"@Ignister Token\".\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+    "desc": "Special Summoned with the effect of \"The Arrival Cyberse @Ignister\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,8 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/Back-EN.png"
 }

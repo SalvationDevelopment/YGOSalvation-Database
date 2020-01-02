@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 0,
     "name": "Brotherhood of the Fire Fist - Peacock",
-    "desc": "2 \"Fire Fist\" monsters\nWhile this card points to a \"Fire Fist\" monster, your opponent's monsters cannot target this card for attacks. When this card declares an attack: You can send 1 face-up \"Fire Formation\" Spell/Trap you control to the GY, then target 1 monster your opponent controls; place that opponent's monster in a zone this card points to and take control of it until the End Phase, but it cannot declare an attack this turn. You can only use this effect of \"Brotherhood of the Fire Fist - Peacock\" once per turn.",
+    "desc": "Link Arrows: [🡰][🡳]\n\n2 \"Fire Fist\" monsters\nWhile this card points to a \"Fire Fist\" monster, your opponent's monsters cannot target this card for attacks. When this card declares an attack: You can send 1 face-up \"Fire Formation\" Spell/Trap you control to the GY, then target 1 monster your opponent controls; place that opponent's monster in a zone this card points to and take control of it until the End Phase, but it cannot declare an attack this turn. You can only use this effect of \"Brotherhood of the Fire Fist - Peacock\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "tcg": {
+        "pack": "Fists of the Gadgets",
+        "pack_id": "FIGA-DE017",
+        "date": "2019-08-22"
+    },
+    "ocg": {},
+    "links": [
+        3,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ad/BrotherhoodoftheFireFistPeacock-FIGA-EN-ScR-1E.png"
 }

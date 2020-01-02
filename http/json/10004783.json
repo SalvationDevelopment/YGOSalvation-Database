@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Duelist Pack: Jesse Anderson",
+        "pack_id": "DP07-JP023",
+        "date": "2007-10-20"
+    },
     "tcg": {
-        "pack": "Legendary Duelists: Ancient Millennium",
-        "pack_id": "LED2-PT044",
-        "date": "2018-02-22"
+        "pack": "Duelist Pack: Jesse Anderson",
+        "pack_id": "DP07-DE019",
+        "date": "2008-01-22"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/91/CrystalRelease-LED2-EN-C-1E.png"
 }

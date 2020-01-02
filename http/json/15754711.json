@@ -2,7 +2,7 @@
     "id": 15754711,
     "ot": 3,
     "alias": 0,
-    "setcode": 307,
+    "setcode": 0,
     "type": 65538,
     "atk": 0,
     "def": 0,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact Special Edition",
+        "pack_id": "CHIM-DESE3",
+        "date": "2019-12-05"
+    },
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP064",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2d/DragonmaidSendOff-CHIM-EN-SR-LE.png"
 }

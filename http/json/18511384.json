@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Cybernetic Revolution",
+        "pack_id": "CRV-JP038",
+        "date": "2005-05-26"
+    },
+    "tcg": {
+        "pack": "Cybernetic Revolution",
+        "pack_id": "CRV-DE038",
+        "date": "2005-08-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a3/FusionRecovery-FUEN-EN-SR-1E.png"
 }

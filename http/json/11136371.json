@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Duelist Pack: Jesse Anderson",
+        "pack_id": "DP07-JP024",
+        "date": "2007-10-20"
+    },
+    "tcg": {
+        "pack": "Duelist Pack: Jesse Anderson",
+        "pack_id": "DP07-DE024",
+        "date": "2008-01-22"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/70/CounterGem-DP07-EN-UR-1E.png"
 }

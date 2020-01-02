@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 320,
     "name": "Dragged Down into the Grave",
-    "desc": "Both players reveal their hands, each player chooses 1 card from their opponent's hand, then you discard the chosen cards from both players' hands, then both players draw 1 card.",
+    "desc": "Both players reveal their hands, each chooses 1 card from their opponent's hand, then you discard the chosen cards from both players' hands, then both players draw 1 card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/76/DraggedDownintotheGrave-DPBC-EN-C-1E.png"
+    "ocg": {
+        "pack": "Structure Deck: Devil's Gate",
+        "pack_id": "SD21-TC028",
+        "date": "2015-01-31"
+    },
+    "tcg": {
+        "pack": "Dark Crisis",
+        "pack_id": "DCR-084",
+        "date": "2003-12-01"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a4/DraggedDownintotheGrave-SR07-EN-C-1E.png"
 }

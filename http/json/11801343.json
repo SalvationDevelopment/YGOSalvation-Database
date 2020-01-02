@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Powercode Link",
+        "pack_id": "SDPL-DE002",
+        "date": "2018-08-09"
+    },
+    "ocg": {
+        "pack": "Structure Deck: Powercode Link",
+        "pack_id": "SD33-JP002",
+        "date": "2017-12-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/GarbageCollector-SDPL-EN-C-1E.png"
 }

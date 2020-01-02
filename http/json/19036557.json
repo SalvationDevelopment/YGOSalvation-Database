@@ -2,7 +2,7 @@
     "id": 19036557,
     "ot": 3,
     "alias": 0,
-    "setcode": 16397,
+    "setcode": 67162125,
     "type": 33,
     "atk": 1300,
     "def": 1200,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE020",
+        "date": "2018-05-03"
+    },
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP020",
+        "date": "2018-01-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0f/ElementsaberMakani-FLOD-EN-UR-1E.png"
 }

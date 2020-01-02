@@ -2,7 +2,7 @@
     "id": 16269385,
     "ot": 3,
     "alias": 0,
-    "setcode": 288,
+    "setcode": 0,
     "type": 524290,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8720,
     "name": "Prank-Kids Place",
-    "desc": "When this card is activated: You can add 1 \"Prank-Kids\" monster from your Deck to your hand. Once per turn, if you Fusion Summon a \"Prank-Kids\" Fusion Monster (except during the Damage Step): You can have all monsters you control gain 500 ATK (even if this card leaves the field). Once per turn, if you Link Summon a \"Prank-Kids\" Link Monster (except during the Damage Step): You can have all monsters your opponent controls lose 500 ATK (even if this card leaves the field). You can only activate 1 \"Prank-Kids Place\" per turn.",
+    "desc": "When this card is activated: You can add 1 &#x201C;Prank-Kids&#x201D; monster from your Deck to your hand. Once per turn, if you Fusion Summon a &#x201C;Prank-Kids&#x201D; Fusion Monster (except during the Damage Step): You can have all monsters you currently control gain 500 ATK (even if this card leaves the field). Once per turn, if you Link Summon a &#x201C;Prank-Kids&#x201D; Link Monster (except during the Damage Step): You can have all monsters your opponent currently controls lose 500 ATK (even if this card leaves the field). You can only activate 1 &#x201C;Prank-Kids Place&#x201D; per turn.",
     "str1": "Add 1 \"Prankids\" monster?",
     "str2": "Increase ATK",
     "str3": "Decrease ATK",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Hidden Summoners",
+        "pack_id": "HISU-DE023",
+        "date": "2018-11-15"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Hidden Summoners",
+        "pack_id": "DBHS-JP023",
+        "date": "2018-08-04"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/82/PrankKidsPlace-HISU-EN-ScR-1E.png"
 }

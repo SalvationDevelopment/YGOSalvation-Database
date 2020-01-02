@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Structure Deck: Onslaught of the Fire Kings",
+        "pack_id": "SD24-TC039",
+        "date": "2015-10-03"
+    },
     "tcg": {
-        "pack": "Legendary Collection 4: Joey's World Mega Pack",
-        "pack_id": "LCJW-PT293",
-        "date": "2013-10-11"
+        "pack": "Pharaoh's Servant",
+        "pack_id": "PSV-006",
+        "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/ChainDestruction-YGLD-EN-C-1E.png"
 }

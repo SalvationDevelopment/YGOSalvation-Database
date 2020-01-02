@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {
-        "pack": "Battles of Legend: Light's Revenge",
-        "pack_id": "BLLR-PT050",
-        "date": "2017-07-06"
+    "ocg": {
+        "pack": "Return of the Duelist",
+        "pack_id": "REDU-JP015",
+        "date": "2012-04-14"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c2/SpellbookMagicianofProphecy-BLLR-EN-UR-1E.png"
+    "tcg": {
+        "pack": "Return of the Duelist",
+        "pack_id": "REDU-EN015",
+        "date": "2012-08-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/58/SpellbookMagicianofProphecy-SR08-EN-C-1E.png"
 }

@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Ancient Sanctuary",
+        "pack_id": "AST-DE053",
+        "date": "2004-05-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/BeckoningLight-SPWA-EN-SR-1E.png"
 }

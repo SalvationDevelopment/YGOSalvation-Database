@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Gladiator's Assault",
+        "pack_id": "GLAS-JP080",
+        "date": "2007-07-21"
+    },
+    "tcg": {
+        "pack": "Gladiator's Assault",
+        "pack_id": "GLAS-IT080",
+        "date": "2007-11-03"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d4/AnUnfortunateReport-GLAS-EN-C-1E.jpg"
 }

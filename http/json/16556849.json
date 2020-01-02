@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Structure Deck: Dragonic Legion",
+        "pack_id": "SD22-TC017",
+        "date": "2015-04-18"
+    },
+    "tcg": {
+        "pack": "Invasion of Chaos",
+        "pack_id": "IOC-014",
+        "date": "2004-03-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c3/FreedtheBraveWanderer-DT06-EN-DNPR-DT.jpg"
 }

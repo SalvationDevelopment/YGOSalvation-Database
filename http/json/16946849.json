@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Power of the Duelist",
+        "pack_id": "POTD-JP059",
+        "date": "2006-05-18"
+    },
     "tcg": {
-        "pack": "Wave of Light Structure Deck",
-        "pack_id": "SR05-PT034",
-        "date": "2018-01-18"
+        "pack": "Power of the Duelist",
+        "pack_id": "POTD-DE059",
+        "date": "2006-08-16"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/SyntheticSeraphim-SR05-EN-C-1E.png"
 }

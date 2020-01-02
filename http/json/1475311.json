@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Structure Deck: Devil's Gate",
+        "pack_id": "SD21-TC030",
+        "date": "2015-01-31"
+    },
     "tcg": {
-        "pack": "OTS Tournament Pack 1",
-        "pack_id": "OP01-PT025",
-        "date": "2016-03-18"
+        "pack": "Phantom Darkness",
+        "pack_id": "PTDN-DE084",
+        "date": "2008-01-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fa/AllureofDarkness-DASA-EN-SR-1E.png"
 }

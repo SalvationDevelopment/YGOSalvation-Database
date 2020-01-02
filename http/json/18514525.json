@@ -2,7 +2,7 @@
     "id": 18514525,
     "ot": 3,
     "alias": 0,
-    "setcode": 288,
+    "setcode": 0,
     "type": 97,
     "atk": 2000,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 401408,
     "name": "Prank-Kids Rocket Ride",
-    "desc": "2 \"Prank-Kids\" monsters\r\nIf this card is Fusion Summoned: You can have this card lose 1000 ATK this turn, also it can attack directly this turn. You can Tribute this card, then target 2 \"Prank-Kids\" non-Fusion Monsters with different names in your GY; Special Summon them, but they cannot attack this turn. You can only use each effect of \"Prank-Kids Rocket Ride\" once per turn.",
+    "desc": "2 &#x201C;Prank-Kids&#x201D; monsters\nIf this card is Fusion Summoned: You can have this card lose 1000 ATK this turn, also it can attack directly this turn. You can Tribute this card, then target 2 &#x201C;Prank-Kids&#x201D; non-Fusion Monsters with different names in your GY; Special Summon them, but they cannot attack this turn. You can only use each effect of &#x201C;Prank-Kids Rocket Ride&#x201D; once per turn.",
     "str1": "Direct attack",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Hidden Summoners",
+        "pack_id": "HISU-DE017",
+        "date": "2018-11-15"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Hidden Summoners",
+        "pack_id": "DBHS-JP017",
+        "date": "2018-08-04"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/89/PrankKidsRocketRide-HISU-EN-SR-1E.png"
 }

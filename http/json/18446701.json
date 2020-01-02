@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 16777216,
     "name": "Gagagashield",
-    "desc": "Target 1 Spellcaster-Type monster you control; equip this card to that target. Twice per turn, it cannot be destroyed by battle or card effects.",
+    "desc": "Target 1 Spellcaster monster you control; equip this card to that target. Twice per turn, it cannot be destroyed by battle or card effects.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -35,10 +35,6 @@
         "pack_id": "DP12-JP030",
         "date": "2011-10-15"
     },
-    "tcg": {
-        "pack": "Zexal Collection",
-        "pack_id": "ZTIN-DE005",
-        "date": "2013-03-07"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a3/Gagagashield-YS13-EN-C-1E.png"
+    "tcg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fe/Gagagashield-SR08-EN-C-1E.png"
 }

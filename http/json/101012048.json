@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 262144,
     "name": "Splash Mage",
-    "desc": "2 Cyberse monsters\r\nYou can target 1 Cyberse monster in your GY; Special Summon it in Defense Position, but negate its effects (if any), also you cannot Special Summon monsters for the rest of this turn, except Cyberse monsters. You can only use this effect of \"Splash Mage\" once per turn.",
+    "desc": "Link Arrows: [🡵][🡶]\n\n2 Cyberse monsters\nYou can target 1 Cyberse monster in your GY; Special Summon it in Defense Position, but negate its effects (if any), also you cannot Special Summon monsters for the rest of this turn, except Cyberse monsters. You can only use this effect of \"Splash Mage\" once per turn.",
     "str1": "Special Summon",
     "str2": "Affected by \"Splash Mage\"",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Eternity Code",
+        "pack_id": "ETCO-JP048",
+        "date": "2020-01-11"
+    },
+    "links": [
+        2,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bd/SplashMage-ETCO-JP-OP.png"
 }

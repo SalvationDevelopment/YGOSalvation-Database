@@ -2,7 +2,7 @@
     "id": 15808381,
     "ot": 1,
     "alias": 0,
-    "setcode": 309,
+    "setcode": 0,
     "type": 33,
     "atk": 800,
     "def": 800,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 0,
     "name": "Achichi @Ignister",
-    "desc": "If this card is Normal or Special Summoned: You can add 1 Level 4 or lower \"@Ignister\" monster from your Deck to your hand, except \"Achichi @Ignister\". At the start of the Damage Step, if your Cyberse monster battles: You can banish this card from your GY; destroy that monster you control. You can only use each effect of \"Achichi @Ignister\" once per turn.",
+    "desc": "If this card is Normal/Special Summoned: You can add 1 Level 4 or lower \"@Ignister\" monster from your Deck to your hand, except \"Achichi @Ignister\". At the start of the Damage Step, when a Cyberse monster you control battles: You can banish this card from your GY; destroy your monster. You can only use each effect of \"Achichi @Ignister\" once per turn.",
     "str1": "Search",
     "str2": "Destroy",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP004",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/82/Achichi%40Ignister-IGAS-JP-R.png"
 }

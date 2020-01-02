@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Dimension of Chaos",
+        "pack_id": "DOCS-JP047",
+        "date": "2015-07-18"
+    },
+    "tcg": {
+        "pack": "Dimension of Chaos",
+        "pack_id": "DOCS-DE047",
+        "date": "2015-11-05"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a8/AssaultBlackwingRaikiritheRainShower-MP16-EN-UR-1E.png"
 }

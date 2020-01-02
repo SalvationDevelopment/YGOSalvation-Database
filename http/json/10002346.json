@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Starter Deck 2011",
+        "pack_id": "YSD6-JP042",
+        "date": "2011-03-19"
+    },
+    "tcg": {
+        "pack": "Starter Deck: Dawn of the Xyz",
+        "pack_id": "YS11-DE042",
+        "date": "2011-07-08"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/87/GachiGachiGantetsu-BP01-EN-R-1E.png"
 }

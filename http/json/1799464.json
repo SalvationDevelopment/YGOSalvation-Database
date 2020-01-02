@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 786432,
     "name": "Transcicada",
-    "desc": "If this card is Special Summoned: You can Special Summon 1 \"Husk Token\" (Insect/EARTH/Level 3/ATK 0/DEF 0), also while that Token is in a Monster Zone, you cannot Special Summon monsters from the Extra Deck, except Insect monsters. You can only use this effect of \"Transcicada\" once per turn.",
+    "desc": "If this card is Special Summoned: You can Special Summon 1 &#x201C;Husk Token&#x201D; (EARTH/Insect/Level 3/0 ATK/0 DEF). As long as the token Special Summoned by this effect remains in a Monster Zone, you cannot Special Summon monsters from the Extra Deck, except Insect monsters. You can only use this effect of \"Transcicada\" once per turn.",
     "str1": "Special Token",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP030",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/27/Transcicada-IGAS-JP-C.png"
 }

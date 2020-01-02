@@ -2,7 +2,7 @@
     "id": 101012030,
     "ot": 1,
     "alias": 0,
-    "setcode": 572,
+    "setcode": 0,
     "type": 33,
     "atk": 3000,
     "def": 1200,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 17072128,
     "name": "Beast Deity King Barbaros",
-    "desc": "This card can attack all monsters your opponent controls, once each. You can only use each of the following effects of \"Beast Deity King Barbaros\" once per turn.\r\n● You can Tribute monster(s) whose total Levels equal 8 or more; Special Summon this card from your hand.\r\n● You can banish 1 face-up \"Barbaros\" monster you control or in your GY, then target 2 cards your opponent controls; destroy them.",
+    "desc": "This card can attack all monsters your opponent controls, once each. You can Tribute monster(s) you control whose total Levels equal 8 or more; Special Summon this card from your hand. You can banish 1 \"Barbaros\" monster face-up from your field or from your GY, then target 2 cards your opponent controls; destroy them. You can only use each effect of \"Beast Deity King Barbaros\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Eternity Code",
+        "pack_id": "ETCO-JP030",
+        "date": "2020-01-11"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8f/BeastDeityKingBarbaros-ETCO-JP-OP.png"
 }

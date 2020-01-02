@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 8192,
     "name": "Dragunity Knight - Luin",
-    "desc": "1 \"Dragunity\" Tuner + 1+ non-Tuner monsters\r\nIf this card is Special Summoned: You can target 1 \"Dragunity\" monster in your GY; equip it to this card. If this card is sent to the GY: You can target 1 \"Dragunity\" monster you control; equip this card to that target. It gains 1000 ATK/DEF. You can only use each effect of \"Dragunity Knight - Luin\" once per turn.",
+    "desc": "1 \"Dragunity\" Tuner + 1+ non-Tuner monsters\nIf this card is Special Summoned: You can target 1 \"Dragunity\" monster in your GY; equip it to this card. If this card is sent to the GY: You can target 1 \"Dragunity\" monster you control; equip this card to that target. It gains 1000 ATK/DEF. You can only use each effect of &#x201C;Dragunity Knight - Luin&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE032",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP032",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3b/DragunityKnightLuin-CYHO-EN-R-1E.png"
 }

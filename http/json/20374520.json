@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Invasion of Chaos",
+        "pack_id": "IOC-107",
+        "date": "2004-03-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/51/BegoneKnave-GLD2-EN-C-LE.jpg"
 }

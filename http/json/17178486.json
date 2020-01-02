@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Enemy of Justice",
+        "pack_id": "EOJ-JP049",
+        "date": "2006-02-16"
+    },
+    "tcg": {
+        "pack": "Enemy of Justice",
+        "pack_id": "EOJ-DE049",
+        "date": "2006-05-13"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/41/LifeEqualizer-DR04-NA-R-UE.png"
 }

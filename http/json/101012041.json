@@ -2,7 +2,7 @@
     "id": 101012041,
     "ot": 1,
     "alias": 0,
-    "setcode": 307,
+    "setcode": 0,
     "type": 97,
     "atk": 3500,
     "def": 2000,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 2147745827,
     "name": "Dragonmaid Strahl",
-    "desc": "1 \"Dragonmaid\" monster + 1 Level 5 or higher Dragon monster\r\nDuring the Standby Phase: You can Special Summon 1 Level 9 or lower \"Dragonmaid\" monster from your hand or GY. When your opponent activates a card or effect (Quick Effect): You can negate the activation, and if you do, destroy that card, also, after that, return this card to the Extra Deck, and if you do, Special Summon 1 \"House Dragonmaid\" from your Extra Deck. You can only use each effect of \"Dragonmaid Strahl\" once per turn.",
+    "desc": "1 \"Dragonmaid\" monster + 1 Level 5 or higher Dragon monster\nDuring the Standby Phase: You can Special Summon 1 Level 9 or lower \"Dragonmaid\" monster from your hand or GY. When your opponent activates a card or effect (Quick Effect): You can negate the activation, and if you do, destroy that card, also, after that, return this card to the Extra Deck, and if you do, Special Summon 1 \"House Dragonmaid\" from your Extra Deck. You can only use each effect of \"Dragonmaid Strahl\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Eternity Code",
+        "pack_id": "ETCO-JP041",
+        "date": "2020-01-11"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3c/DragonmaidStrahl-ETCO-JP-OP.png"
 }

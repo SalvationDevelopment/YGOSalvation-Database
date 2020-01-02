@@ -9,7 +9,13 @@
     "level": 2,
     "race": 16,
     "attribute": 4,
-    "name": "Fox Token",
+    "name": {
+        "English": "Fox Token",
+        "German": "Fuchs-Spielmarke",
+        "French": "Jeton Renard",
+        "Italian": "Segna-Volpe",
+        "Spanish": "Ficha Zorro"
+    },
     "desc": "Special Summoned with the effect of \"Nine-Tailed Fox‎\"",
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/Back-EN.png"
 }

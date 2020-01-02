@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Extreme Victory",
+        "pack_id": "EXVC-JP002",
+        "date": "2011-02-11"
+    },
     "tcg": {
-        "pack": "Legendary Collection 5D's Mega Pack",
-        "pack_id": "LC5D-PT022",
-        "date": "2014-10-24"
+        "pack": "Extreme Victory",
+        "pack_id": "EXVC-EN002",
+        "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4d/UnknownSynchron-SDSE-EN-C-1E.png"
 }

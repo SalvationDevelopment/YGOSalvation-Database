@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Flaming Eternity",
+        "pack_id": "FET-JP042",
+        "date": "2004-11-25"
+    },
+    "tcg": {
+        "pack": "Flaming Eternity",
+        "pack_id": "FET-EN042",
+        "date": "2005-02-26"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4e/SwordsofConcealingLight-SR04-EN-C-1E.png"
 }

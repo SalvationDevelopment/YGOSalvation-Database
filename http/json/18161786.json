@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Pharaoh's Servant",
+        "pack_id": "PS-50",
+        "date": "2000-07-13"
+    },
+    "tcg": {
+        "pack": "Starter Deck: Yugi Evolution",
+        "pack_id": "SYE-038",
+        "date": "2004-03-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2a/MysticPlasmaZone-DB1-EN-C-UE.jpg"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 12845584,
     "name": "Speedburst Dragon",
-    "desc": "When you take effect damage (except during the Damage Step): You can Special Summon this card from your hand, then inflict damage to your opponent equal to the damage you took, and if you do, you gain LP equal to half that damage you inflicted. When this card is Tribute Summoned: You can add 2 \"Rokket\" monsters with different names from your Deck to your hand. You can only use each effect of \"Speedburst Dragon\" once per turn.",
+    "desc": "When you take effect damage (except during the Damage Step): You can Special Summon this card from your hand, then inflict damage to your opponent equal to the damage you took, and if you do, you gain LP equal to half that damage you inflicted. When this card is Tribute Summoned: You can add 2 &#x201C;Rokket&#x201D; monsters with different names from your Deck to your hand. You can only use each effect of &#x201C;Speedburst Dragon&#x201D; once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE006",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP006",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/37/SpeedburstDragon-SAST-EN-R-1E.png"
 }

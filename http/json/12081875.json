@@ -2,7 +2,7 @@
     "id": 12081875,
     "ot": 3,
     "alias": 0,
-    "setcode": 284,
+    "setcode": 0,
     "type": 67108897,
     "atk": 2800,
     "def": 46,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Thunder Dragon Thunderstormech",
-    "desc": "2+ Thunder monsters\r\nDuring your Main Phase, if you control this Link Summoned card: You can target 1 of your \"Thunder Dragon\" monsters that is banished or in your GY; apply that monster's effect that discards itself to activate, then place that monster on the top or bottom of your Deck. You can only use this effect of \"Thunder Dragon Thunderstormech\" once per turn. If a Thunder monster(s) you control would be destroyed by battle or card effect, you can banish 3 cards from your GY instead.",
+    "desc": "Link Arrows: [🡰][🡲][🡳][🡶]\n\n2+ Thunder monsters\nDuring your Main Phase, if you control this Link Summoned card: You can target 1 of your &#x201C;Thunder Dragon&#x201D; monsters that is banished or in your GY; apply that monster's effect that discards itself to activate, then place that monster on the top or bottom of your Deck. You can only use this effect of \"Thunder Dragon Thunderstormech\" once per turn. If a Thunder monster(s) you control would be destroyed by battle or card effect, you can banish 3 cards from your GY instead.",
     "str1": "Apply effect of 1 \"Thunder Dragon\"",
     "str2": "Place on top",
     "str3": "Place on bottom",
@@ -28,5 +28,22 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Duel Power",
+        "pack_id": "DUPO-EN030",
+        "date": "2019-04-03"
+    },
+    "ocg": {
+        "pack": "LINK VRAINS Pack 2",
+        "pack_id": "LVP2-JP011",
+        "date": "2018-11-23"
+    },
+    "links": [
+        3,
+        4,
+        6,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/ThunderDragonThunderstormech-DUPO-EN-UR-1E.png"
 }

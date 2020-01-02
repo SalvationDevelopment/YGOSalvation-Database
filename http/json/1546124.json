@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Cybernetic Revolution",
+        "pack_id": "CRV-JP036",
+        "date": "2005-05-26"
+    },
+    "tcg": {
+        "pack": "Cybernetic Revolution",
+        "pack_id": "CRV-DE036",
+        "date": "2005-08-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/CyberEndDragon-LED3-EN-C-1E.png"
 }

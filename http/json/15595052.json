@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Dark Revelation Volume 4",
+        "pack_id": "DR04-EN136",
+        "date": "2007-11-14"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d6/DiscipleoftheForbiddenSpell-DR04-NA-C-UE.png"
 }

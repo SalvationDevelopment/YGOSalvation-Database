@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Rise of Destiny",
+        "pack_id": "RDS-SP048",
+        "date": "2004-08-05"
+    },
+    "tcg": {
+        "pack": "Rise of Destiny",
+        "pack_id": "RDS-FR048",
+        "date": "2004-11-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/69/MaliceDispersion-DR3-EN-C-UE.png"
 }

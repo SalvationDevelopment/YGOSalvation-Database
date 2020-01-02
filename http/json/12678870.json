@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Booster SP: Tribe Force",
+        "pack_id": "SPTR-JP029",
+        "date": "2014-10-11"
+    },
     "tcg": {},
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a6/RitualBeastUltiPettlephin-THSF-EN-ScR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Ghost Meets Girl - A Shiranui's Story",
-    "desc": "If your opponent controls a monster: Discard 1 Zombie monster; Special Summon 1 \"Shiranui\" monster with a different name from your Deck or GY, also you cannot Special Summon monsters, except Zombie monsters, for the rest of this turn after this card resolves. You can only activate 1 \"Ghost Meets Girl - A Shiranui's Story\" per turn.",
+    "desc": "If your opponent controls a monster: Discard 1 Zombie monster; Special Summon 1 &#x201C;Shiranui&#x201D; monster with a different name from your Deck or GY, also you cannot Special Summon monsters, except Zombie monsters for the rest of this turn after this card resolves. You can only activate 1 \"Ghost Meets Girl - A Shiranui's Story\" per turn.",
     "str1": "",
     "str2": "Affected by \"Ghost Meets Girl - A Shiranui's Story\"",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE063",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP063",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e1/GhostMeetsGirlAShiranuisStory-SAST-EN-UR-1E.png"
 }

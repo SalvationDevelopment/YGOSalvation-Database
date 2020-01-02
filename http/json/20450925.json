@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Crossroads of Chaos",
+        "pack_id": "CSOC-JP034",
+        "date": "2008-07-19"
+    },
+    "tcg": {
+        "pack": "Crossroads of Chaos",
+        "pack_id": "CSOC-EN034",
+        "date": "2008-11-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/06/Hanewata-SR05-EN-C-1E.png"
 }

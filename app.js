@@ -84,13 +84,15 @@ function regenerate(request, response, next) {
         next();
         return;
     }
-
+    console.log('updating');
     mutex = true;
     setTimeout(unsetMutex, 15000);
     response.write('Generating DB');
+    console.log('generating');
     jsonGenerator.getDB(response, function(error, newJSON) {
         const mainifest = JSON.stringify(newJSON);
         response.write('Saving!\r\n');
+        console.log('saving');
         fs.writeFile('./http/manifest.json', mainifest, function() {
             response.write('Saved, Notifying...\r\n');
             var call = http.get({
@@ -111,6 +113,7 @@ function regenerate(request, response, next) {
                 next();
             });
             call.end();
+            console.log('done');
         });
     });
 }

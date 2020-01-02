@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ce/ToonWorld-MIL1-EN-C-1E.png"
+    "ocg": {
+        "pack": "Pharaoh's Servant",
+        "pack_id": "PS-25",
+        "date": "2000-07-13"
+    },
+    "tcg": {
+        "pack": "Dark Beginning 1",
+        "pack_id": "DB1-EN042",
+        "date": "2004-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a3/ToonWorld-SS01-EN-C-1E.png"
 }

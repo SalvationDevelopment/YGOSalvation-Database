@@ -2,7 +2,7 @@
     "id": 101012051,
     "ot": 1,
     "alias": 0,
-    "setcode": 571,
+    "setcode": 0,
     "type": 67108897,
     "atk": 2800,
     "def": 162,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262145,
     "name": "Codebreaker Virus Berserker",
-    "desc": "2+ monsters, including a \"Codebreaker\" monster\r\nWhen this card is Special Summoned, and is now co-linked: You can Special Summon up to 2 \"Codebreaker\" monsters from your hand and/or GY to any zone(s) a Link Monster points to. During your Main Phase: You can destroy Spells/Traps your opponent controls, up to the number of linked \"Codebreaker\" monsters on the field. You can only use each effect of \"Codebreaker Virus Berserker\" once per turn.",
+    "desc": "Link Arrows: [🡳][🡲][🡱]\n\n2+ monsters, including a \"Codebreaker\" monster\nWhen this card is Special Summoned, and is now co-linked: You can Special Summon up to 2 \"Codebreaker\" monsters from your hand and/or GY to any zone(s) a Link Monster points to. During your Main Phase: You can destroy Spells/Traps your opponent controls, up to the number of linked \"Codebreaker\" monsters on the field. You can only use each effect of \"Codebreaker Virus Berserker\" once per turn.",
     "str1": "Special Summon",
     "str2": "Destroy",
     "str3": "Summon to opponent's field?",
@@ -28,5 +28,17 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Eternity Code",
+        "pack_id": "ETCO-JP051",
+        "date": "2020-01-11"
+    },
+    "links": [
+        1,
+        4,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/84/CodebreakerVirusBerserker-ETCO-JP-OP.png"
 }

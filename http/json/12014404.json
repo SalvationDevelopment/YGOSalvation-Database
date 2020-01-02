@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Abyss Rising",
+        "pack_id": "ABYR-JP041",
+        "date": "2012-07-21"
+    },
     "tcg": {
-        "pack": "2013 Collectible Tins Wave 1",
-        "pack_id": "CT10-PT010",
-        "date": "2013-08-30"
+        "pack": "Abyss Rising",
+        "pack_id": "ABYR-DE041",
+        "date": "2012-11-08"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/15/GagagaCowboy-PGL3-EN-GUR-1E.png"
 }

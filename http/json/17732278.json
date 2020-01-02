@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 133376,
     "name": "Neo-Spacian Glow Moss",
-    "desc": "If this card attacks or is attacked: Your opponent draws 1 card, and shows it, then, based on its type apply this effect.\n● Monster: End the Battle Phase of this turn.\n● Spell: If this card is attacking, you can change it to a direct attack instead.\n● Trap: Change this card to Defense Position.",
+    "desc": "If this card attacks or is attacked: Your opponent draws 1 card and shows it, then, based on its type apply this effect.\n● Monster: End the Battle Phase of this turn.\n● Spell: If this card is attacking, you can change it to a direct attack instead.\n● Trap: Change this card to Defense Position.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Strike of Neos",
+        "pack_id": "STON-JP006",
+        "date": "2006-11-16"
+    },
     "tcg": {
-        "pack": "Shadows in Valhalla",
-        "pack_id": "SHVA-PT032",
-        "date": "2018-08-16"
+        "pack": "Strike of Neos",
+        "pack_id": "STON-FR006",
+        "date": "2007-02-24"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/NeoSpacianGlowMoss-SHVA-EN-SR-1E.png"
 }

@@ -35,6 +35,10 @@
         "pack_id": "",
         "date": "1999-03-27"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/38/MysticalElf-YGLD-EN-C-1E.png"
+    "tcg": {
+        "pack": "Legend of Blue Eyes White Dragon",
+        "pack_id": "LOB-062",
+        "date": "2002-03-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a3/MysticalElf-SBAD-EN-C-1E.png"
 }

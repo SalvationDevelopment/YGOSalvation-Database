@@ -2,7 +2,7 @@
     "id": 15291624,
     "ot": 3,
     "alias": 0,
-    "setcode": 284,
+    "setcode": 0,
     "type": 97,
     "atk": 2600,
     "def": 2400,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Thunder Dragon Colossus",
-    "desc": "\"Thunder Dragon\" + 1 Thunder monster\r\nMust be either Fusion Summoned, or Special Summoned during the turn a Thunder monster's effect was activated in the hand, by Tributing 1 Thunder Effect non-Fusion Monster (in which case you do not use \"Polymerization\"). Cards cannot be added from the Main Deck to your opponent's hand except by drawing them. If this card would be destroyed by battle or card effect, you can banish 1 Thunder monster from your GY instead.",
+    "desc": "\"Thunder Dragon\" + 1 Thunder monster\nMust be either Fusion Summoned, or Special Summoned during the turn a Thunder monster's effect was activated in the hand, by Tributing 1 Thunder Effect non-Fusion Monster (in which case you do not use \"Polymerization\"). Cards cannot be added from the Main Deck to your opponent's hand except by drawing them. If this card would be destroyed by battle or card effect, you can banish 1 Thunder monster from your GY instead.",
     "str1": "",
     "str2": "",
     "str3": "Prevent the destruction of \"Thunder Dragon Colossus\"?",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE036",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP036",
+        "date": "2018-07-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/ThunderDragonColossus-SOFU-EN-ScR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Cupid Serve",
-    "desc": "Unaffected by activated effects from any monster, except monsters whose Levels are lower than or equal to this card's. You can banish up to 3 cards from your GY; increase this card's Level by the number of cards banished, until the end of this turn. You can only use this effect of \"Cupid Serve\" once per turn.",
+    "desc": "Unaffected by activated effects from any monster, except from a monster that has a Level lower than or equal to this card's. You can banish up to 3 cards from your GY; increase the Level of this card by that number for the rest of the turn. You can only use this effect of \"Cupid Serve\" once per turn.",
     "str1": "Increase level",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP033",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9b/CupidServe-IGAS-JP-NR.png"
 }

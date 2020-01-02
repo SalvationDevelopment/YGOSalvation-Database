@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Soul of the Duelist",
+        "pack_id": "SOD-JP004",
+        "date": "2004-05-27"
+    },
+    "tcg": {
+        "pack": "Soul of the Duelist",
+        "pack_id": "SOD-DE004",
+        "date": "2004-10-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d0/GoblinCalligrapher-DR3-EN-C-UE.png"
 }

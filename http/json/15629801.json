@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Duelist Pack: Yusei 3",
+        "pack_id": "DP10-JP023",
+        "date": "2010-10-16"
+    },
     "tcg": {
-        "pack": "Legendary Collection 5D's Mega Pack",
-        "pack_id": "LC5D-PT050",
-        "date": "2014-10-24"
+        "pack": "Duelist Pack: Yusei 3",
+        "pack_id": "DP10-DE023",
+        "date": "2011-01-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/23/BattleWaltz-LC5D-EN-C-1E.png"
 }

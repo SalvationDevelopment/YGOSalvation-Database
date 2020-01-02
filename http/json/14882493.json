@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "V Jump Edition 9",
+        "pack_id": "VE09-JP002",
+        "date": "2013-08-11"
+    },
+    "tcg": {
+        "pack": "Duelist Alliance",
+        "pack_id": "DUEA-DE090",
+        "date": "2014-08-14"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/77/GaiathePolarKnight-DUEA-EN-C-UE.png"
 }

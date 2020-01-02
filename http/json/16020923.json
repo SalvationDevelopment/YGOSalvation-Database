@@ -2,7 +2,7 @@
     "id": 16020923,
     "ot": 1,
     "alias": 0,
-    "setcode": 309,
+    "setcode": 0,
     "type": 33,
     "atk": 1200,
     "def": 600,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Pikari @Ignister",
-    "desc": "If this card is Normal or Special Summoned: You can add 1 \"A.I.\" Spell/Trap from your Deck to your hand. You can target 1 \"@Ignister\" monster you control; it becomes Level 4 until the end of this turn. You can only use each effect of \"Pikari @Ignister\" once per turn.",
+    "desc": "If this card is Normal or Special Summoned: You can add 1 \"A.I.\" Spell/Trap from your Deck to your hand. You can target 1 \"@Ignister\" monster you control; its Level becomes 4 until the end of this turn. You can only use each effect of \"Pikari @Ignister\" once per turn.",
     "str1": "Search",
     "str2": "Change level",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-EN???",
+        "date": "2020-01-30"
+    },
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP001",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/53/Pikari%40Ignister-IGAS-JP-R.png"
 }

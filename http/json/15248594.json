@@ -2,7 +2,7 @@
     "id": 15248594,
     "ot": 3,
     "alias": 0,
-    "setcode": 306,
+    "setcode": 0,
     "type": 12321,
     "atk": 2500,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 16777728,
     "name": "Geomathmech Magma",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nWhen this card destroys a monster by battle: You can target up to 2 cards your opponent controls; destroy them. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can add 1 \"Mathmech\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Geomathmech Magma\" once per turn.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nWhen this card destroys a monster by battle: You can target up to 2 cards your opponent controls; destroy them. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can add 1 \"Mathmech\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Geomathmech Magma\" once per turn.",
     "str1": "Target cards to destroy",
     "str2": "Search deck",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Mystic Fighters",
+        "pack_id": "MYFI-DE007",
+        "date": "2019-11-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Mystic Fighters",
+        "pack_id": "DBMF-JP007",
+        "date": "2019-08-03"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/83/GeomathmechMagma-MYFI-EN-ScR-1E.png"
 }

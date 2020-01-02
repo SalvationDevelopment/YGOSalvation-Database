@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Stardust Overdrive",
+        "pack_id": "SOVR-JP028",
+        "date": "2009-07-18"
+    },
+    "tcg": {
+        "pack": "Stardust Overdrive",
+        "pack_id": "SOVR-DE028",
+        "date": "2009-11-12"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/35/KoakiMeiruRooklord-SOVR-EN-SR-1E.jpg"
 }

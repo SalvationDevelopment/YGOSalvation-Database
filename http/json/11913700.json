@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Phantom Darkness",
+        "pack_id": "PTDN-JP048",
+        "date": "2007-11-23"
+    },
     "tcg": {
-        "pack": "OTS Tournament Pack 9",
-        "pack_id": "OP09-PT020",
-        "date": "2018-12-06"
+        "pack": "Phantom Darkness",
+        "pack_id": "PTDN-DE048",
+        "date": "2008-01-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7f/InstantNeoSpace-OP09-EN-C-UE.png"
 }

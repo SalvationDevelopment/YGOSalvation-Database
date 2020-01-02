@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 512,
     "name": "Barricadeborg Blocker",
-    "desc": "2 monsters with different names\r\nIf this card is Link Summoned: You can discard 1 card; during the End Phase of this turn, add 1 Continuous or Field Spell from your GY to your hand. You can only use this effect of \"Barricadeborg Blocker\" once per turn. Face-up Spells you control cannot be destroyed by your opponent's card effects.",
+    "desc": "Link Arrows: [🡰][🡳]\n\n2 monsters with different names\nIf this card is Link Summoned: You can discard 1 card; during the End Phase of this turn, add 1 Continuous or Field Spell from your GY to your hand. You can only use this effect of \"Barricadeborg Blocker\" once per turn. Face-up Spells you control cannot be destroyed by your opponent's card effects.",
     "str1": "Search during End Phase",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE081",
+        "date": "2019-07-25"
+    },
+    "ocg": {},
+    "links": [
+        3,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4d/BarricadeborgBlocker-RIRA-EN-C-1E.png"
 }

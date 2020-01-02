@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 0,
     "name": "Evocator Eveque",
-    "desc": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\r\n● If this card is Normal or Special Summoned: You can target 1 FIRE Warrior monster or 1 Gemini monster in your GY, except \"Evocator Eveque\"; Special Summon it. You can only use this effect of \"Evocator Eveque\" once per turn.",
+    "desc": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● If this card is Normal/Special Summoned: You can target 1 FIRE Warrior monster, or Gemini monster in your GY, except \"Evocator Eveque\"; Special Summon it. You can only use this effect of \"Evocator Eveque\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Structure Deck R: Warrior's Strike",
+        "pack_id": "SR09-JP041",
+        "date": "2019-09-28"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/98/EvocatorEveque-SR09-JP-OP.png"
 }

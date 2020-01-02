@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Karakuri Toad Oil",
-    "desc": "Activate this card by targeting 1 \"Karakuri\" monster in your GY; Special Summon it and equip it with this card. Once per turn, if the battle position of a face-up \"Karakuri\" monster you control is changed: The equipped monster gains 500 ATK/DEF. You can only activate 1 \"Karakuri Toad Oil\" per turn.",
+    "desc": "Activate this card by targeting 1 &#x201C;Karakuri&#x201D; monster in your GY; Special Summon it, and if you do, equip this card to it. Once per turn, if the battle position of a face-up &#x201C;Karakuri&#x201D; monster you control is changed: The equipped monster gains 500 ATK/DEF. You can only activate 1 \"Karakuri Toad Oil\" once per turn.",
     "str1": "Gain ATK",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP058",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ee/KarakuriToadOil-IGAS-JP-OP.png"
 }

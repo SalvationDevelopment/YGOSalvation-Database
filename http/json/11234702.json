@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 262144,
     "name": "T.G. Screw Serpent",
-    "desc": "If this card is Normal or Special Summoned: You can target 1 Level 4 or lower \"T.G.\" monster in your GY, except \"T.G. Screw Serpent\"; Special Summon that monster, but its effects are negated. You can banish this card from your GY, then target 1 \"T.G.\" monster you control; increase or reduce its Level by 1 until the end of this turn. You can only use each effect of \"T.G. Screw Serpent\" once per turn.",
+    "desc": "If this card is Normal or Special Summoned: You can target 1 Level 4 or lower &#x201C;T.G.&#x201D; monster in your GY, except &#x201C;T.G. Screw Serpent&#x201D;; Special Summon that monster, but its effects are negated. You can banish this card from your GY, then target 1 &#x201C;T.G.&#x201D; monster you control; increase or reduce its Level by 1 until the end of this turn. You can only use each effect of &#x201C;T.G. Screw Serpent&#x201D; once per turn.",
     "str1": "",
     "str2": "Increase Level by 1",
     "str3": "Decrease Level by 1",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE009",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP009",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/59/TGScrewSerpent-SAST-EN-R-1E.png"
 }

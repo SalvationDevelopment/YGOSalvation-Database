@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Force of the Breaker",
+        "pack_id": "FOTB-JP018",
+        "date": "2007-02-15"
+    },
     "tcg": {
-        "pack": "OTS Tournament Pack 7",
-        "pack_id": "OP07-PT016",
-        "date": "2018-04-13"
+        "pack": "Force of the Breaker",
+        "pack_id": "FOTB-FR018",
+        "date": "2007-05-05"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a0/ZeradiasHeraldofHeaven-OP07-EN-C-UE.png"
 }

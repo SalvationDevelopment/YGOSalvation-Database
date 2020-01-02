@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Extra Pack 2012",
+        "pack_id": "EP12-JP001",
+        "date": "2012-10-13"
+    },
     "tcg": {
         "pack": "Extreme Victory Sneak Peek Participation Card",
         "pack_id": "EXVC-DESP1",

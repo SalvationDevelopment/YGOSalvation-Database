@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "The Shining Darkness",
+        "pack_id": "TSHD-JP071",
+        "date": "2010-02-20"
+    },
+    "tcg": {
+        "pack": "The Shining Darkness",
+        "pack_id": "TSHD-DE071",
+        "date": "2010-05-06"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4a/InfernityInferno-TSHD-EN-R-1E.png"
 }

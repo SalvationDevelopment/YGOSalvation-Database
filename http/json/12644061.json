@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Duelist Edition Volume 2",
+        "pack_id": "DE02-JP160",
+        "date": "2012-05-12"
+    },
     "tcg": {
-        "pack": "Shadows in Valhalla",
-        "pack_id": "SHVA-PT056",
-        "date": "2018-08-16"
+        "pack": "Return of the Duelist",
+        "pack_id": "REDU-EN094",
+        "date": "2012-08-18"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1a/AdvancedDark-SHVA-EN-SR-1E.png"
 }

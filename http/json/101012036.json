@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 0,
     "name": "Evening Crescent & Autumn Shower",
-    "desc": "If your opponent Special Summons a monster(s) face-up: You can discard this card, then target 1 of those face-up monsters; negate its effects until the end of this turn, also if that face-up monster leaves the field this turn, the player who controlled it takes damage equal to its original ATK. You can only use this effect of \"Evening Crescent & Autumn Shower\" once per turn.",
+    "desc": "If your opponent Special Summons a monster(s) face-up: You can discard this card, then target 1 of those monster(s); this turn, negate that target's effects. Also if that target leaves the field this turn, the player who controlled that monster takes damage equal to that target's original ATK. You can only use the effect of \"Evening Crescent & Autumn Shower\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Eternity Code",
+        "pack_id": "ETCO-JP036",
+        "date": "2020-01-11"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/da/Back-JP.png"
 }

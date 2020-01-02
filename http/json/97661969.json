@@ -8,10 +8,10 @@
     "def": 5,
     "level": 2,
     "race": 2,
-    "attribute": 1,
+    "attribute": 2,
     "category": 262672,
-    "name": "Aussa the Earth Charmer, Aloft",
-    "desc": "2 monsters, including an EARTH monster\n(This card is always treated as a \"Familiar-Possessed\" card.)\nYou can target 1 EARTH monster in your opponent's GY; Special Summon it to your zone this card points to. If this Link Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 EARTH monster with 1500 or less DEF from your Deck to your hand. You can only use each effect of \"Aussa the Earth Charmer, Aloft\" once per turn.",
+    "name": "Eria the Water Charmer, Clear",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 monsters, including a WATER monster\n(This card is always treated as a \"Familiar-Possessed\" card.)\nYou can target 1 WATER monster in your opponent's GY; Special Summon it to your zone this card points to. If this Link Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 WATER monster with 1500 or less DEF from your Deck to your hand. You can only use each effect of \"Eria the Water Charmer, Clear\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -27,6 +27,17 @@
     "str13": "",
     "str14": "",
     "str15": "",
-    "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "str16": "",
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Eternity Code",
+        "pack_id": "ETCO-JP055",
+        "date": "2020-01-11"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/da/Back-JP.png"
 }

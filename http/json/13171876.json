@@ -2,7 +2,7 @@
     "id": 13171876,
     "ot": 3,
     "alias": 0,
-    "setcode": 307,
+    "setcode": 0,
     "type": 33,
     "atk": 500,
     "def": 1600,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Mystic Fighters",
+        "pack_id": "MYFI-DE016",
+        "date": "2019-11-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Mystic Fighters",
+        "pack_id": "DBMF-JP016",
+        "date": "2019-08-03"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/aa/LaundryDragonmaid-MYFI-EN-SR-1E.png"
 }

@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Cosmo Blazer",
+        "pack_id": "CBLZ-DE091",
+        "date": "2013-01-24"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/90/IgnitionBeastVolcannon-CBLZ-EN-C-1E.png"
 }

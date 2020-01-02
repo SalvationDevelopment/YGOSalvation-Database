@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Yu-Gi-Oh! Duel Monsters 5 Expert 1 promotional cards",
+        "pack_id": "G5-05",
+        "date": "2001-07-05"
+    },
     "tcg": {
         "pack": "Yu-Gi-Oh! The Eternal Duelist Soul Bundles",
         "pack_id": "EDS-003",

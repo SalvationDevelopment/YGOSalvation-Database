@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 4227072,
     "name": "Ruin, Supreme Queen of Oblivion",
-    "desc": "You can Ritual Summon this card with \"Cycle of the World\". This card's name becomes \"Ruin, Queen of Oblivion\" while in the hand or on the field. While this Ritual Summoned card is on the field, Ritual Monsters you control cannot be destroyed by card effects. If all monsters used to Ritual Summon this card were Ritual Monsters, it can make a second attack during each Battle Phase. If this card destroys an opponent's monster by battle: You can inflict damage to your opponent equal to that destroyed monster's original ATK.",
+    "desc": "You can Ritual Summon this card with \"Cycle of the World\". This card's name becomes \"Ruin, Queen of Oblivion\" while in the hand or on the field. While this Ritual Summoned card is on the field, Ritual Monsters you control cannot be destroyed by card effects. If all monsters used to Ritual Summon this card were Ritual Monsters, it can make a second attack during each Battle Phase. If this card destroys a monster by battle: You can inflict damage to your opponent equal to that destroyed monster's original ATK.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-DE029",
+        "date": "2018-07-26"
+    },
+    "ocg": {
+        "pack": "Cybernetic Horizon",
+        "pack_id": "CYHO-JP029",
+        "date": "2018-04-14"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/09/RuinSupremeQueenofOblivion-OP08-EN-SR-UE.png"
 }

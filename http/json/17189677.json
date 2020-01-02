@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Tactical Evolution",
+        "pack_id": "TAEV-JP052",
+        "date": "2007-05-12"
+    },
+    "tcg": {
+        "pack": "Tactical Evolution",
+        "pack_id": "TAEV-FR052",
+        "date": "2007-08-04"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3a/SnakeRain-TAEV-EN-R-1E.jpg"
 }

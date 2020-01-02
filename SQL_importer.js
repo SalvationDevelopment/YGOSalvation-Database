@@ -216,9 +216,3 @@ async function generate(filename) {
         }).catch(console.log);
     } catch (e) { console.log(filename, e) }
 }
-
-const percy = 'C:/ygo/games/ygopro-percy/expansions/live2017links';
-
-
-
-generate(path.resolve(percy, 'prerelease-sd37.cdb'))

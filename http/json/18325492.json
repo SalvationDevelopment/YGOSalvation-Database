@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Cybernetic Revolution",
+        "pack_id": "CRV-JP007",
+        "date": "2005-05-26"
+    },
+    "tcg": {
+        "pack": "Cybernetic Revolution",
+        "pack_id": "CRV-DE007",
+        "date": "2005-08-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6f/Gyroid-DEM2-EN-C-UE.png"
 }

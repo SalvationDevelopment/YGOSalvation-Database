@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262144,
     "name": "Xtra HERO Wonder Driver",
-    "desc": "2 \"HERO\" monsters\r\nIf a \"HERO\" monster is Normal or Special Summoned to your zone this card points to: Target 1 \"Polymerization\" Spell Card, 1 \"Fusion\" Spell Card, or 1 \"Change\" Quick-Play Spell Card in your GY; Set that target. You can only activate this effect of \"Xtra HERO Wonder Driver\" once per turn. If this card is destroyed by battle and sent to the GY, or if this card in your possession is destroyed by an opponent's card effect and sent to your GY: Special Summon 1 \"HERO\" monster from your hand.",
+    "desc": "Link Arrows: [🡱][🡳]\n\n2 \"HERO\" monsters\nIf a \"HERO\" monster is Normal or Special Summoned to your zone this card points to: Target 1 \"Polymerization\" Spell Card, 1 \"Fusion\" Spell Card, or \"Change\" Quick-Play Spell Card in your GY; Set that target. You can only use this effect of \"Xtra HERO Wonder Driver\" once per turn. If this card is destroyed by battle and sent to the GY, or if this card in your possession is destroyed by an opponent's card effect and sent to your GY: You can Special Summon 1 \"HERO\" monster from your hand.",
     "str1": "Set \"Fusion\" or \"Change\" Spell",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Hero Decks",
+        "pack_id": "LEHD-DEA37",
+        "date": "2018-10-04"
+    },
+    "ocg": {
+        "pack": "Premium Pack 20",
+        "pack_id": "PP20-JP002",
+        "date": "2018-03-10"
+    },
+    "links": [
+        1,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ac/XtraHEROWonderDriver-LEHD-EN-UR-1E.png"
 }

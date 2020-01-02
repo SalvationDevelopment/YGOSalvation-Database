@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 8192,
     "name": "Ten Thousand Dragon",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing monsters whose sum of combined ATK/DEF equals 10,000 or more. If Summoned this way, this card's ATK/DEF become 10,000.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing monsters you control whose combined ATK and DEF are 10000 or more. If this card is Special Summoned by this effect, this card's ATK and DEF become 10000.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP000",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a6/TenThousandDragon-IGAS-JP-10000ScR.png"
 }

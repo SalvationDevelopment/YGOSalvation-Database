@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 528,
     "name": "Xtra HERO Hell Diviser",
-    "desc": "2 \"HERO\" monsters\nIf this card is Link Summoned: You can reveal 1 \"HERO\" Fusion Monster in your Extra Deck and add up to 2 of the Fusion Materials with different names whose names are specifically listed on that monster from your Deck to your hand. You cannot Special Summon monsters the turn you activate this effect, except \"HERO\" monsters. You can only use this effect of \"Xtra HERO Hell Diviser\" once per turn. Each Fiend monster this card points to gains ATK/DEF equal to its Level x 100.",
+    "desc": "Link Arrows: [🡷][🡳]\n\n2 \"HERO\" monsters\nIf this card is Link Summoned: You can reveal 1 \"HERO\" Fusion Monster in your Extra Deck, and add up to 2 Fusion Materials with different names listed on it from your Deck to your hand. You cannot Special Summon monsters during the turn you activate this effect, except \"HERO\" monsters. You can only use this effect of \"Xtra HERO Hell Diviser\" once per turn. Fiend monsters this card points to gains ATK/DEF equal to its Level x 100.",
     "str1": "Search",
     "str2": "Affected by \"Xtra HERO Hell Diviser\"",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "LINK VRAINS Pack 3",
+        "pack_id": "LVP3-JP031",
+        "date": "2019-11-23"
+    },
+    "links": [
+        5,
+        6
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/XtraHEROHellDiviser-LVP3-JP-OP.png"
 }

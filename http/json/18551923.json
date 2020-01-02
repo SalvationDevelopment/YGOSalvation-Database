@@ -2,7 +2,7 @@
     "id": 18551923,
     "ot": 3,
     "alias": 0,
-    "setcode": 297,
+    "setcode": 0,
     "type": 33,
     "atk": 1400,
     "def": 1600,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "The Infinity Chasers",
+        "pack_id": "INCH-DE028",
+        "date": "2019-03-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Infinity Chasers",
+        "pack_id": "DBIC-JP028",
+        "date": "2019-02-23"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a8/MedusaWatcheroftheEvilEye-INCH-EN-SR-1E.png"
 }

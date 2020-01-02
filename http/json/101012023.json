@@ -2,7 +2,7 @@
     "id": 101012023,
     "ot": 1,
     "alias": 0,
-    "setcode": 311,
+    "setcode": 0,
     "type": 33,
     "atk": 1000,
     "def": 2000,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 2147745792,
     "name": "Senka Strategist - Zhuge Kong",
-    "desc": "If this card is added from the Deck to your hand by the effect of a \"Senka\" card: You can Special Summon this card. When a Spell/Trap Card is activated (Quick Effect): You can send 1 face-up \"Senka\" Continuous Spell/Trap you control to the GY; negate the activation. When a monster effect is activated while you control \"Senka Noble - Liu Xuan\" (Quick Effect): You can send 1 face-up \"Senka\" Continuous Spell/Trap you control to the GY; negate the activation. You can only use each efffect of \"Senka Strategist - Zhuge Kong\" once per turn.",
+    "desc": "If this card is added from the Deck to your hand by the effect of a \"Senka\" card: You can Special Summon this card. When a Spell/Trap Card is activated (Quick Effect): You can send 1 face-up \"Senka\" Continuous Spell/Trap you control to the GY; negate the activation. When a monster effect is activated while you control \"Senka Noble - Liu Xuan\" (Quick Effect): You can send 1 face-up \"Senka\" Continuous Spell/Trap you control to the GY; negate the activation. You can only use each effect of \"Senka Strategist - Zhuge Kong\" once per turn.",
     "str1": "Special Summon this",
     "str2": "Negate the activation",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Eternity Code",
+        "pack_id": "ETOC-JP023",
+        "date": "2020-01-11"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c0/SenkaStrategistZhugeKong-ETCO-JP-OP.png"
 }

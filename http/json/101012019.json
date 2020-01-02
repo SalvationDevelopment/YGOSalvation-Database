@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 262144,
     "name": "Cutter Shark",
-    "desc": "You can target 1 WATER monster you control; Special Summon 1 Fish monster with the same Level, but with a different name, from your Deck, but for the rest of this turn, it cannot activate its effects, also you cannot Special Summon monsters from the Extra Deck, except Xyz Monsters. You can only use this effect of \"Cutter Shark\" once per turn. If this card is used for the Xyz Summon of a WATER monster, you can treat it as a Level 3 or 5 monster.",
+    "desc": "You can target 1 WATER monster you control; Special Summon 1 Fish monster with the same Level, but with a different name, from your Deck, but it cannot activate its effects this turn, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Xyz Monsters. You can only use this effect of \"Cutter Shark\" once per turn. This card can be treated as a Level 3 or 5 monster when used for the Xyz Summon of a WATER monster.",
     "str1": "Special Summon",
     "str2": "Affected by \"Cutter Shark\"",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Eternity Code",
+        "pack_id": "ETCO-JP019",
+        "date": "2020-01-11"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1d/CutterShark-ETCO-JP-OP.png"
 }

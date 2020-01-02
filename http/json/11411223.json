@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Photon Shockwave",
+        "pack_id": "PHSW-JP041",
+        "date": "2011-07-16"
+    },
     "tcg": {
         "pack": "Collectible Tins 2011 Wave 2",
         "pack_id": "CT08-DE004",

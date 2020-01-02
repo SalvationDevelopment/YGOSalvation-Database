@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Thousand Eyes Bible",
+        "pack_id": "TB-02",
+        "date": "2000-12-14"
+    },
+    "tcg": {
+        "pack": "Pharaoh's Servant",
+        "pack_id": "PSV-052",
+        "date": "2002-10-20"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/07/MinorGoblinOfficial-DB1-EN-C-UE.png"
 }

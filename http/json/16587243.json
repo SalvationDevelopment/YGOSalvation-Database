@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Invasion of Chaos",
+        "pack_id": "IOC-058",
+        "date": "2004-03-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9d/NeoBug-DR2-EN-C-UE.png"
 }

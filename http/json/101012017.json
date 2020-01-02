@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Crimson Resonator",
-    "desc": "If you control no monsters: You can Special Summon this card from your hand. If the only other monster you control is exactly 1 DARK Dragon Synchro Monster: You can Special Summon up to 2 \"Resonator\" monsters from your hand and/or Deck, except \"Crimson Resonator\". You can only use each effect of \"Crimson Resonator\" once per turn, also you cannot Special Summon monsters from the Extra Deck the turn you activate either of this card's effects, except DARK Dragon Synchro Monsters.",
+    "desc": "You cannot Special Summon monsters from the Extra Deck during the turn you activate any of this card's effects, except DARK Dragon Synchro Monsters. You can only use each of the following effects of \"Crimson Resonator\" once per turn.\n● If you control no monsters: You can Special Summon this card from your hand.\n● If the only other monster you control is exactly 1 DARK Dragon Synchro Monster: You can Special Summon up to 2 &#x201C;Resonator&#x201D; monsters from your hand and/or Deck, except &#x201C;Crimson Resonator&#x201D;.",
     "str1": "Special Summon",
     "str2": "Special Summon Resonators",
     "str3": "Affected by \"Crimson Resonator\"",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Eternity Code",
+        "pack_id": "ETCO-JP017",
+        "date": "2020-01-11"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c7/CrimsonResonator-ETCO-JP-OP.png"
 }

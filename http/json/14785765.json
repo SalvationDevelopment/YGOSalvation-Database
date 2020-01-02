@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Duelist Pack: Crow",
+        "pack_id": "DP11-JP012",
+        "date": "2010-10-16"
+    },
+    "tcg": {
+        "pack": "Duelist Pack: Crow",
+        "pack_id": "DP11-DE012",
+        "date": "2011-05-26"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/42/BlackwingZephyrostheElite-LED3-EN-C-1E.png"
 }

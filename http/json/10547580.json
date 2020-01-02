@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 8721,
     "name": "Ancient Gear Ballistic Shooter",
-    "desc": "2 EARTH Machine monsters\nIf this card is Link Summoned: You can add 1 \"Ancient Gear\" monster or 1 \"Geartown\" from your Deck to your hand. You can target 1 Spell/Trap you control and 1 face-up monster your opponent controls; destroy that card you control, and if you do, change that opponent's monster's ATK/DEF to 0 until the end of this turn. You can only use each effect of \"Ancient Gear Ballistic Shooter\" once per turn.",
+    "desc": "Link Arrows: [🡷][🡲]\n\n2 EARTH Machine monsters\nIf this card is Link Summoned: You can add 1 \"Ancient Gear\" monster or \"Geartown\" from your Deck to your hand. You can target 1 Spell/Trap you control and 1 face-up monster your opponent controls; destroy the card you control, and if you do, the opponent's monster's ATK/DEF becomes 0 until the end of this turn. You can only use each effect of \"Ancient Gear Ballistic Shooter\" once per turn.",
     "str1": "Search",
     "str2": "Destroy and reduce ATK",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "LINK VRAINS Pack 3",
+        "pack_id": "LVP3-JP016",
+        "date": "2019-11-23"
+    },
+    "links": [
+        4,
+        5
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/47/AncientGearBallisticShooter-LVP3-JP-OP.png"
 }

@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Starstrike Blast",
+        "pack_id": "STBL-JP052",
+        "date": "2010-07-17"
+    },
+    "tcg": {
+        "pack": "Starstrike Blast",
+        "pack_id": "STBL-EN052",
+        "date": "2010-11-06"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d9/BarkionsBark-STBL-EN-C-1E.jpg"
 }

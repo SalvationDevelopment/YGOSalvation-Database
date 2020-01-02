@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Structure Deck: Dragonic Legion",
+        "pack_id": "SD22-TC006",
+        "date": "2015-04-18"
+    },
+    "tcg": {
+        "pack": "Phantom Darkness",
+        "pack_id": "PTDN-DE087",
+        "date": "2008-01-26"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e3/PrimeMaterialDragon-PGLD-EN-GUR-1E.png"
 }

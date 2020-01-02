@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Dark Crisis",
+        "pack_id": "DCR-062",
+        "date": "2003-12-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/09/OutstandingDogMarron-DR1-EN-C-UE.jpg"
 }

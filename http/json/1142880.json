@@ -2,7 +2,7 @@
     "id": 1142880,
     "ot": 3,
     "alias": 0,
-    "setcode": 4243,
+    "setcode": 9638035,
     "type": 33,
     "atk": 200,
     "def": 200,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262144,
     "name": "Cyber Dragon Nachster",
-    "desc": "This card's name becomes \"Cyber Dragon\" while on the field or in the GY. You can discard 1 other monster; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can target 1 Machine monster with 2100 ATK or DEF in your GY; Special Summon it, also, you cannot Special Summon monsters for the rest of this turn, except Machine monsters. You can only use each effect of \"Cyber Dragon Nachster\" once per turn.",
+    "desc": "This card's name becomes \"Cyber Dragon\" while on the field or in the GY. You can discard 1 other monster; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can target 1 Machine monster with 2100 ATK or DEF in your GY; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except Machine monsters. You can only use each effects of \"Cyber Dragon Nachster\" once per turn.",
     "str1": "Special Summon",
     "str2": "Special Summon from GY",
     "str3": "Affected by \"Cyber Dragon Nachster\"",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Duel Power",
+        "pack_id": "DUPO-EN036",
+        "date": "2019-04-03"
+    },
+    "ocg": {
+        "pack": "V Jump September 2018 promotional card",
+        "pack_id": "VJMP-JP152",
+        "date": "2018-07-21"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b8/CyberDragonNachster-DUPO-EN-UR-1E.png"
 }

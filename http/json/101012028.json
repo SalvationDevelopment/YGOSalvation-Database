@@ -2,7 +2,7 @@
     "id": 101012028,
     "ot": 1,
     "alias": 0,
-    "setcode": 308,
+    "setcode": 0,
     "type": 33,
     "atk": 1500,
     "def": 1500,
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Eternity Code",
+        "pack_id": "ETCO-JP028",
+        "date": "2020-01-11"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/89/LoptrShadowoftheGeneraiderBoss-ETCO-JP-OP.png"
 }

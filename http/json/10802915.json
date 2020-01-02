@@ -31,10 +31,14 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {
-        "pack": "Gold Series 2014",
-        "pack_id": "GS06-TC010",
-        "date": "2014-05-01"
+        "pack": "Extra Pack 2012",
+        "pack_id": "EP12-JP005",
+        "date": "2012-10-13"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Victory",
+        "pack_id": "EXVC-EN084",
+        "date": "2011-04-30"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/50/TourGuideFromtheUnderworld-SR06-EN-C-1E.png"
 }

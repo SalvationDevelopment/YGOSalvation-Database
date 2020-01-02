@@ -2,7 +2,7 @@
     "id": 17739335,
     "ot": 3,
     "alias": 0,
-    "setcode": 297,
+    "setcode": 0,
     "type": 67108897,
     "atk": 2600,
     "def": 133,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 2164293632,
     "name": "Zerrziel, Ruler of the Evil Eyed",
-    "desc": "2+ \"Evil Eye\" monsters\r\nIf this card was Link Summoned using a monster with 2600 or higher ATK as material, it can make a second attack during each Battle Phase. If this card is equipped with \"Evil Eye of Selene\" (Quick Effect): You can target 1 card your opponent controls; destroy it. You can only use this effect of \"Zerrziel, Ruler of the Evil Eyed\" once per turn. Once per turn, during the next Standby Phase after this effect was activated: Negate the effect of 1 Effect Monster this card currently points to.",
+    "desc": "Link Arrows: [🡷][🡱][🡶]\n\n2+ \"Evil Eye\" monsters\nIf this card was Link Summoned using a monster with 2600 or higher ATK as material, it can make a second attack during each Battle Phase. If this card is equipped with \"Evil Eye of Selene\" (Quick Effect): You can target 1 card your opponent controls; destroy it. You can only use this effect of \"Zerrziel, Ruler of the Evil Eyed\" once per turn. Once per turn, during the next Standby Phase after this effect was activated: Negate the effect of 1 Effect Monster this card currently points to.",
     "str1": "Summoned with a monster with 2600 or more ATK",
     "str2": "Target 1 card to destroy",
     "str3": "Negate the effect of 1 monster (Mandatory)",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "The Infinity Chasers",
+        "pack_id": "INCH-DE031",
+        "date": "2019-03-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Infinity Chasers",
+        "pack_id": "DBIC-JP031",
+        "date": "2019-02-23"
+    },
+    "links": [
+        1,
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a9/ZerrzielRuleroftheEvilEyed-INCH-EN-ScR-1E.png"
 }

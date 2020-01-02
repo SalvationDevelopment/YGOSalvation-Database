@@ -2,7 +2,7 @@
     "id": 15520842,
     "ot": 3,
     "alias": 0,
-    "setcode": 85,
+    "setcode": 0,
     "type": 2,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 4096,
     "name": "Photon Hand",
-    "desc": "If you control a \"Photon\" or \"Galaxy\" monster: Pay 1000 LP, then target 1 monster your opponent controls; take control of it. During activation, if you do not control \"Galaxy-Eyes Photon Dragon\", you cannot target monsters, except an Xyz Monster. You can only activate 1 \"Photon Hand\" per turn.",
+    "desc": "If you control a \"Photon\" or Galaxy\" monster: Pay 1000 LP, then target 1 monster your opponent controls; take control of it. If you do not control \"Galaxy-Eyes Photon Dragon\" at activation, you can only target an Xyz Monster. You can only activate 1 \"Photon Hand\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: White Dragon Abyss",
+        "pack_id": "LED3-DE037",
+        "date": "2018-09-27"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 3",
+        "pack_id": "DP20-JP037",
+        "date": "2018-06-09"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/07/PhotonHand-LED3-EN-UR-1E.png"
 }

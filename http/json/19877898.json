@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "The Lost Millennium",
+        "pack_id": "TLM-JP010",
+        "date": "2005-02-24"
+    },
+    "tcg": {
+        "pack": "The Lost Millennium",
+        "pack_id": "TLM-DE010",
+        "date": "2005-06-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/97/UltimateInsectLV7-DR3-EN-SR-UE.jpg"
 }

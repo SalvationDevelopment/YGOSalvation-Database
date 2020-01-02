@@ -2,7 +2,7 @@
     "id": 14146794,
     "ot": 1,
     "alias": 0,
-    "setcode": 309,
+    "setcode": 0,
     "type": 33,
     "atk": 300,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Donyoribo @Ignister",
-    "desc": "During damage calculation, if your \"@Ignister\" monster is attacked (Quick Effect): You can discard this card; you take no battle damage from that battle. When an \"@Ignister\" monster's effect or \"A.I.\" Spell/Trap Card or effect is activated that would inflict damage to your opponent, even during the Damage Step (Quick Effect): You can banish this card from your GY; the damage inflicted to your opponent by that effect is doubled. You can only use each effect of \"Donyoribo @Ignister\" once per turn.",
+    "desc": "During damage calculation when your \"@Ignister\" monster is attacked: You can discard this card; you take no damage from that battle. When your opponent would take damage due to the effect of an \"@Ignister\" monster or an \"A.I.\" Spell/Trap: You can banish this card from the GY (even during the Damage Step): Double the damage that would be inflicted. You can only use each effect of \"Donyoribo @Ignister\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP007",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/Donyoribo%40Ignister-IGAS-JP-OP.png"
 }

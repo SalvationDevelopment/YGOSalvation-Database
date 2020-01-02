@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Gladiator's Assault",
+        "pack_id": "GLAS-JP065",
+        "date": "2007-07-21"
+    },
+    "tcg": {
+        "pack": "Gladiator's Assault",
+        "pack_id": "GLAS-IT065",
+        "date": "2007-11-03"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/NaturalDisaster-GLAS-EN-C-1E.jpg"
 }

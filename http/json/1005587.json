@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Return of the Duelist",
+        "pack_id": "REDU-JP076",
+        "date": "2012-04-14"
+    },
+    "tcg": {
+        "pack": "Return of the Duelist",
+        "pack_id": "REDU-EN076",
+        "date": "2012-08-18"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c2/VoidTrapHole-PGL3-EN-GScR-1E.png"
 }

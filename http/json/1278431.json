@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262672,
     "name": "Ancient Gear Frame",
-    "desc": "You can discard 1 card; add 1 \"Ancient Gear Golem\", or 1 Spell/Trap that specifically lists the card \"Ancient Gear Golem\" in its text, from your Deck to your hand. You can only use this effect of \"Ancient Gear Frame\" once per turn. If this card attacks, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. If this face-up card in its owner's control leaves the field because of an opponent's card effect: You can Special Summon up to 3 \"Ancient Gear Golem\" and/or \"Ancient Gear Golem - Ultimate Pound\" from your hand, ignoring their Summoning conditions.",
+    "desc": "You can discard 1 card; add from your Deck to your hand, 1 \"Ancient Gear Golem\" or 1 Spell/Trap that specifically lists the card \"Ancient Gear Golem\" in its text. You can only use this effect of \"Ancient Gear Frame\" once per turn. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this face-up card in its owner's control leaves the field because of an opponent's card effect: You can Special Summon up to 3 \"Ancient Gear Golem\" and/or \"Ancient Gear Golem - Ultimate Pound\" from your hand, ignoring their Summoning conditions.",
     "str1": "Search",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: Ancient Millennium",
+        "pack_id": "LED2-DE030",
+        "date": "2018-02-22"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 2",
+        "pack_id": "DP19-JP030",
+        "date": "2017-11-11"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/41/AncientGearFrame-LED2-EN-R-1E.png"
 }

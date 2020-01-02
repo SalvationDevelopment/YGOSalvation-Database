@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Structure Deck: Roar of the Sea Emperor",
+        "pack_id": "SD23-TC034",
+        "date": "2015-07-04"
+    },
     "tcg": {
         "pack": "Labyrinth of Nightmare",
         "pack_id": "LON-023",

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 528,
     "name": "Command Resonator",
-    "desc": "Discard 1 \"Resonator\" monster; add 1 Level 4 or lower Fiend monster from your Deck to your hand. You can only activate 1 \"Command Resonator\" per turn.",
+    "desc": "Discard 1 &#x201C;Resonator&#x201D; monster; add 1 Level 4 or lower Fiend monster from your Deck to your hand. You can only activate 1 \"Command Resonator\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Eternity Code",
+        "pack_id": "ETCO-JP062",
+        "date": "2020-01-11"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2c/CommandResonator-ETCO-JP-OP.png"
 }

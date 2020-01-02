@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "The Shining Darkness",
+        "pack_id": "TSHD-DE097",
+        "date": "2010-05-06"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/GenexNeutron-SDSE-EN-C-1E.png"
 }

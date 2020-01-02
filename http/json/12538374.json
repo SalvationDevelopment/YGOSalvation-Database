@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Structure Deck: Roar of the Sea Emperor",
+        "pack_id": "SD23-TC019",
+        "date": "2015-07-04"
+    },
     "tcg": {
-        "pack": "Battle Pack 2: War of the Giants",
-        "pack_id": "BP02-PT043",
-        "date": "2013-06-28"
+        "pack": "Dark Revelation Volume 4",
+        "pack_id": "DR04-EN145",
+        "date": "2007-11-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/91/TreebornFrog-DUSA-EN-UR-1E.png"
 }

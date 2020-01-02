@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "The Lost Millennium",
+        "pack_id": "TLM-JP016",
+        "date": "2005-02-24"
+    },
+    "tcg": {
+        "pack": "The Lost Millennium",
+        "pack_id": "TLM-DE016",
+        "date": "2005-06-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d8/DummyGolem-DR3-EN-C-UE.png"
 }

@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Crossroads of Chaos",
+        "pack_id": "CSOC-JP046",
+        "date": "2008-07-19"
+    },
+    "tcg": {
+        "pack": "Crossroads of Chaos",
+        "pack_id": "CSOC-EN046",
+        "date": "2008-11-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7b/SeedofDeception-CSOC-EN-C-1E.png"
 }

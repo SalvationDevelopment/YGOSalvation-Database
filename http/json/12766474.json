@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 270352,
     "name": "Duke Shade, the Sinister Shadow Lord",
-    "desc": "You can Tribute any number of DARK monsters; Special Summon this card from your hand, and if you do, it gains 500 ATK for each monster you Tributed. If this card is Normal or Special Summoned: You can target 1 Level 5 or higher DARK monster in your GY; add it to your hand. You can only use each effect of \"Duke Shade, the Sinister Shadow Lord\" once per turn. You cannot Special Summon monsters the turn you activate either of this card's effects, except DARK monsters.",
+    "desc": "You can Tribute any number of DARK monsters; Special Summon this card from your hand, and if you do, it gains 500 ATK for each Tributed monster. If this card is Normal or Special Summoned: You can target 1 Level 5 or higher DARK monster in your GY; add it to your hand. You can only use each effect of \"Duke Shade, the Sinister Shadow Lord\" once per turn. You cannot Special Summon monsters the turn you activate either of this card's effects, except DARK monsters.",
     "str1": "",
     "str2": "Affected by \"Duke Shade, the Sinister Shadow Lord\"",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Lair of Darkness",
+        "pack_id": "SR06-DE003",
+        "date": "2018-04-19"
+    },
+    "ocg": {
+        "pack": "Structure Deck R: Curse of the Dark",
+        "pack_id": "SR06-JP003",
+        "date": "2018-03-10"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/DukeShadetheSinisterShadowLord-SR06-EN-C-1E.png"
 }

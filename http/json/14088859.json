@@ -2,7 +2,7 @@
     "id": 14088859,
     "ot": 3,
     "alias": 0,
-    "setcode": 4587529,
+    "setcode": 589894,
     "type": 2,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Neos Fusion",
-    "desc": "Special Summon 1 Fusion Monster from your Extra Deck that lists exactly 2 monsters as material, including \"Elemental HERO Neos\", by sending those monsters from your hand, Deck, or field, ignoring its Summoning conditions. For the rest of this turn after this card resolves, you cannot Special Summon monsters. If a Fusion Monster(s) you control that lists \"Elemental HERO Neos\" as material would be destroyed by battle or card effect, or shuffled into the Extra Deck by its own effect, you can banish this card from your GY instead.",
+    "desc": "Special Summon 1 Fusion Monster from your Extra Deck that lists exactly 2 monsters as material, including &#x201C;Elemental HERO Neos&#x201D;, by sending those monsters from your hand, Deck, or field, ignoring its Summoning conditions. For the rest of this turn after this card resolves, you cannot Special Summon monsters. If a Fusion Monster(s) you control that lists &#x201C;Elemental HERO Neos&#x201D; as material would be destroyed by battle or card effect, or shuffled into the Extra Deck by its own effect, you can banish this card from your GY instead.",
     "str1": "Banish \"Neos Fusion\" instead?",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-DE060",
+        "date": "2019-01-31"
+    },
+    "ocg": {
+        "pack": "Savage Strike",
+        "pack_id": "SAST-JP060",
+        "date": "2018-10-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/35/NeosFusion-SAST-EN-SR-1E.png"
 }

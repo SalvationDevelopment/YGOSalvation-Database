@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Pharaonic Guardian",
+        "pack_id": "PGD-086",
+        "date": "2003-07-18"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/43/HieroglyphLithograph-DR1-EN-C-UE.png"
 }

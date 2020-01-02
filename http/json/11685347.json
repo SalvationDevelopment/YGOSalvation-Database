@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Cyberdark Impact",
+        "pack_id": "CDIP-JP016",
+        "date": "2006-08-10"
+    },
+    "tcg": {
+        "pack": "Cyberdark Impact",
+        "pack_id": "CDIP-FR016",
+        "date": "2006-11-04"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/BlastAsmodian-CDIP-EN-C-1E.jpg"
 }

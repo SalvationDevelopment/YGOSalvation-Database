@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Invasion of Chaos",
+        "pack_id": "IOC-054",
+        "date": "2004-03-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f7/DarkMirrorForce-PGL3-EN-GUR-1E.png"
 }

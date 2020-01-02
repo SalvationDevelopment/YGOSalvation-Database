@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 20,
     "name": "Red Rain",
-    "desc": "If you control a Level 8 or higher Synchro Monster: Banish as many monsters on the field as possible, except the monster(s) with the highest Level, and if you do, face-up monsters on the field that were not banished by this effect are unaffected by card effects, except their own, until the end of this turn. If a DARK Dragon Synchro Monster is Synchro Summoned to your field while this card is in your GY: You can add this card to your hand. You can only use this effect of \"Red Rain\" once per turn.",
+    "desc": "If you control a Level 8 or higher Synchro Monster: Banish as many monsters on the field as possible, except the monster(s) with the highest Level, and if you do, face-up monster(s) on the field that were not banished by this effect are unaffected by card effects this turn, except their own. If a DARK Dragon Synchro Monster is Synchro Summoned to your field while this card is in your GY: You can add this card to your hand. You can only use this effect of \"Red Rain\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Eternity Code",
+        "pack_id": "ETCO-JP074",
+        "date": "2020-01-11"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/19/RedRain-ETCO-JP-OP.png"
 }

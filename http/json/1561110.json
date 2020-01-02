@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Structure Deck: Seto Kaiba",
+        "pack_id": "SDKS-JP041",
+        "date": "2016-06-18"
+    },
+    "tcg": {
+        "pack": "Structure Deck: Seto Kaiba",
+        "pack_id": "SDKS-DE041",
+        "date": "2016-10-20"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1c/ABCDragonBuster-LCKC-EN-ScR-1E.png"
 }

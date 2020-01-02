@@ -29,7 +29,11 @@
     "str15": "",
     "str16": "",
     "cardpool": "OCG/TCG",
-    "tcg": {},
+    "tcg": {
+        "pack": "Starter Deck: Yugi Evolution",
+        "pack_id": "SYE-045",
+        "date": "2004-03-01"
+    },
     "ocg": {
         "pack": "Magic Ruler",
         "pack_id": "MR-06",

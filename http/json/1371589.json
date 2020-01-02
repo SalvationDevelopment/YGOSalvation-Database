@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Jump Festa 2010 - Promotion Pack",
+        "pack_id": "JF10-JP009",
+        "date": "2009-12-19"
+    },
+    "tcg": {
+        "pack": "Order of Chaos",
+        "pack_id": "ORCS-EN093",
+        "date": "2012-01-14"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/51/VampiricKoala-DASA-EN-SR-1E.png"
 }

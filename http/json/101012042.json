@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 262688,
     "name": "Deep Sea Princess Prima Donna",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nYour opponent cannot target a Synchro Monster that used this card as material with monster effects. You can only use each of the following effects of \"Deep Sea Princess Prima Donna\" once per turn.\r\n● You can target 1 of your opponent's banished cards; take 1 Level 4 or lower WATER monster from your Deck, and either add it to your hand or Special Summon it, and if you do, add the targeted card to your opponent's hand.\r\n● If this card is sent to the GY: You can target 1 banished card; shuffle it into the Deck.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nYour opponent cannot target a Synchro Monster that used this card as material with monster effects. You can only use each of the following effects of \"Deep Sea Princess Prima Donna\" once per turn.\n● You can target 1 of your opponent's banished cards; take 1 Level 4 or lower WATER monster from your Deck, and either add it to your hand or Special Summon it, and if you do, add that target to your opponent's hand.\n● If this card is sent to the GY: You can target 1 banished card; shuffle it into the Deck.",
     "str1": "Search or Special Summon",
     "str2": "Special Summon",
     "str3": "Cannot be targeted by monster effects",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Eternity Code",
+        "pack_id": "ETOC-JP042",
+        "date": "2020-01-11"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/DeepSeaPrincessPrimaDonna-ETCO-JP-OP.png"
 }

@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Crossed Souls",
+        "pack_id": "CROS-JP050",
+        "date": "2015-02-14"
+    },
+    "tcg": {
+        "pack": "Crossed Souls",
+        "pack_id": "CROS-DE050",
+        "date": "2015-05-14"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3b/TellarknightPtolemaeus-CROS-EN-UR-1E.png"
 }

@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Extra Pack: Sword of Knights",
+        "pack_id": "EP13-JP011",
+        "date": "2013-05-18"
+    },
     "tcg": {
         "pack": "Return of the Duelist Sneak Peek Participation Card",
         "pack_id": "REDU-DESP1",

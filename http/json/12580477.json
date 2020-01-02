@@ -35,6 +35,10 @@
         "pack_id": "",
         "date": "1999-03-06"
     },
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fe/Raigeki-LCKC-EN-UR-1E.png"
+    "tcg": {
+        "pack": "Legend of Blue Eyes White Dragon",
+        "pack_id": "LOB-053",
+        "date": "2002-03-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fe/Raigeki-TN19-EN-PScR-LE.png"
 }

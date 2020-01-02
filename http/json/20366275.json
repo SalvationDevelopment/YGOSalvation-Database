@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 1034,
     "name": "El Shaddoll Construct",
-    "desc": "1 \"Shaddoll\" monster + 1 LIGHT monster\r\nMust first be Fusion Summoned. If this card is Special Summoned: You can send 1 \"Shaddoll\" card from your Deck to the GY. At the start of the Damage Step, if this card battles a Special Summoned monster: Destroy that monster. If this card is sent to the GY: You can target 1 \"Shaddoll\" Spell/Trap in your GY; add it to your hand.",
+    "desc": "1 \"Shaddoll\" monster + 1 LIGHT monster\nMust first be Fusion Summoned. If this card is Special Summoned: You can send 1 \"Shaddoll\" card from your Deck to the GY. At the start of the Damage Step, if this card battles a Special Summoned monster: Destroy that monster. If this card is sent to the GY: You can target 1 \"Shaddoll\" Spell/Trap in your GY; add it to your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Duelist Alliance",
+        "pack_id": "DUEA-DE049",
+        "date": "2014-08-14"
+    },
+    "ocg": {
+        "pack": "Duelist Alliance",
+        "pack_id": "DUEA-JP049",
+        "date": "2014-04-19"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/ElShaddollConstruct-DUPO-EN-UR-1E.png"
 }

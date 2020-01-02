@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Enemy of Justice",
+        "pack_id": "EOJ-JP003",
+        "date": "2006-02-16"
+    },
     "tcg": {
-        "pack": "Destiny Soldiers",
-        "pack_id": "DESO-PT009",
-        "date": "2016-11-18"
+        "pack": "Enemy of Justice",
+        "pack_id": "EOJ-DE003",
+        "date": "2006-05-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/DestinyHERODiamondDude-LEHD-EN-C-1E.png"
 }

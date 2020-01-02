@@ -2,7 +2,7 @@
     "id": 14625090,
     "ot": 3,
     "alias": 0,
-    "setcode": 307,
+    "setcode": 0,
     "type": 131074,
     "atk": 0,
     "def": 0,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Mystic Fighters",
+        "pack_id": "MYFI-DE024",
+        "date": "2019-11-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Mystic Fighters",
+        "pack_id": "DBMF-JP024",
+        "date": "2019-08-03"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/DragonmaidWelcome-MYFI-EN-ScR-1E.png"
 }

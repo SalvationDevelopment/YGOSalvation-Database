@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Secrets of Eternity",
+        "pack_id": "SECE-JP085",
+        "date": "2014-11-15"
+    },
+    "tcg": {
+        "pack": "The Dark Illusion",
+        "pack_id": "TDIL-DE090",
+        "date": "2016-08-04"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/70/HeavyFreightTrainDerricrane-MP17-EN-C-1E.png"
 }

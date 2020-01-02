@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Starstrike Blast",
+        "pack_id": "STBL-JP055",
+        "date": "2010-07-17"
+    },
+    "tcg": {
+        "pack": "Starstrike Blast",
+        "pack_id": "STBL-EN055",
+        "date": "2010-11-06"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8c/MirroroftheIceBarrier-STBL-EN-C-1E.png"
 }

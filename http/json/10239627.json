@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Magical Abductor",
-    "desc": "Pendulum Effect\nEach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. Once per turn: You can remove 3 Spell Counters from this card; add 1 Pendulum Monster from your Deck to your hand.\n\nMonster Effect\nEach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. This card gains 100 ATK for each Spell Counter on it. Once per turn: You can remove 3 Spell Counters from this card; add 1 Level 1 Spellcaster-Type monster from your Deck to your hand.",
+    "desc": "Pendulum Effect\nEach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Once per turn: You can remove 3 Spell Counters from this card; add 1 Pendulum Monster from your Deck to your hand.\n\nMonster Effect\nEach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Gains 100 ATK for each Spell Counter on it. Once per turn: You can remove 3 Spell Counters from this card; add 1 Level 1 Spellcaster monster from your Deck to your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "CORE-DE041",
         "date": "2015-08-06"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9e/MagicalAbductor-PEVO-EN-SR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/98/MagicalAbductor-SR08-EN-C-1E.png"
 }

@@ -4,7 +4,11 @@
         "pack_id": "VP17-JP002",
         "date": "2017-07-21"
     },
-    "tcg": {},
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE092",
+        "date": "2019-10-24"
+    },
     "id": 15627227,
     "setcode": 0,
     "type": 33554465,
@@ -13,11 +17,11 @@
     "level": 2,
     "race": 8192,
     "attribute": 32,
-    "name": "Reloader Dragon",
-    "desc": "Link Arrows: [🡰][🡲]\n\n2 \"Rokket\" monsters\nYou can target 1 other Link Monster you control; Special Summon 1 \"Rokket\" monster from your hand to your zone that Link Monster points to, but it cannot be used as Link Material, also destroy it during the End Phase. You can only use this effect of \"Reloader Dragon\" once per turn. When this card is destroyed by battle and sent to the GY: You can target 1 \"Rokket\" monster in your GY; add it to your hand.",
+    "name": "Overburst Dragon",
+    "desc": "Link Arrows: [🡰][🡲]\n\n2 \"Rokket\" monsters\nYou can target 1 other Link Monster you control; Special Summon 1 \"Rokket\" monster from your hand to your zone that Link Monster points to, but it cannot be used as Link Material, also destroy it during the End Phase. You can only use this effect of \"Overburst Dragon\" once per turn. When this card is destroyed by battle and sent to the GY: You can target 1 \"Rokket\" monster in your GY; add it to your hand.",
     "links": [
         3,
         4
     ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a3/ReloaderDragon-VP17-JP-UR.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/22/OverburstDragon-CHIM-EN-R-1E.png"
 }
