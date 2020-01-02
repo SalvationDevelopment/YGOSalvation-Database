@@ -2,7 +2,7 @@
     "id": 38053382,
     "ot": 3,
     "alias": 0,
-    "setcode": 308,
+    "setcode": 0,
     "type": 16401,
     "atk": 1500,
     "def": 1500,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Generaider Token",
-    "desc": "This card can be used as a \"Generaider Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+    "desc": "Special Summoned with the effect of \"Generaider Boss Stage\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Tournament Pack 2020 Vol.1",
+        "pack_id": "20TP-JP116",
+        "date": "2020-01-01"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/da/Back-JP.png"
 }

@@ -2,7 +2,7 @@
     "id": 37818794,
     "ot": 1,
     "alias": 0,
-    "setcode": 59,
+    "setcode": 3866734,
     "type": 97,
     "atk": 3000,
     "def": 2500,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 2151686146,
     "name": "Dragun of Red-Eyes",
-    "desc": "\"Dark Magician\" + \"Red-Eyes B. Dragon\" or 1 Dragon Effect Monster\r\nNeither player can target or destroy this card with card effects. During your Main Phase: You can destroy 1 monster your opponent controls, and if you do, inflict damage to your opponent equal to that monster's original ATK. You can use this effect a number of times per turn, up to the number of Normal Monsters used as Fusion Material for this card's Summon. Once per turn, when a card or effect is activated (Quick Effect): You can discard 1 card; negate the activation, and if you do, destroy that card, and if you do that, this card gains 1000 ATK.",
+    "desc": "\"Dark Magician\" + \"Red-Eyes B. Dragon\" or 1 Dragon Effect Monster\nCannot be target or destroyed by card effects. During your Main Phase: You can destroy 1 monster your opponent controls, and if you do, inflict damage to your opponent equal to its original ATK. This effect can be used per turn up to a number of Normal Monsters used as Fusion Material for this card. Once per turn: when a card or effect is activated (Quick Effect): You can discard 1 card; negate the activation, and if you do, destroy that card, and if you do, this card gains 1000 ATK.",
     "str1": "Destroy a monster",
     "str2": "Negate actvation",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Legendary Gold Box",
+        "pack_id": "LGB1-JP001",
+        "date": "2019-12-21"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/DragunofRedEyes-LGB1-JP-OP.png"
 }

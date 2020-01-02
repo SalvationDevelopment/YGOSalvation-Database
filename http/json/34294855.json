@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Structure Deck: Undead World",
+        "pack_id": "SD15-KR006",
+        "date": "2009-04-18"
+    },
     "tcg": {
-        "pack": "Duelist League 16",
-        "pack_id": "DL16-PT003",
-        "date": "2013-07-01"
+        "pack": "Phantom Darkness",
+        "pack_id": "PTDN-DE090",
+        "date": "2008-01-26"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a7/VampiresCurse-LCJW-EN-C-1E.png"
 }

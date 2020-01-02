@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Stardust Overdrive",
+        "pack_id": "SOVR-DE044",
+        "date": "2009-11-12"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0c/ExplosiveMagician-SOVR-EN-UR-1E.png"
 }

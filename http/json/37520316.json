@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Structure Deck: Warrior's Strike",
+        "pack_id": "SD17-KR021",
+        "date": "2009-12-24"
+    },
     "tcg": {
         "pack": "Yu-Gi-Oh! 7 Trials to Glory - World Championship Tournament 2005 - Bundles",
         "pack_id": "WC5-EN003",

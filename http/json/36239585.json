@@ -10,8 +10,8 @@
     "race": 2,
     "attribute": 32,
     "category": 0,
-    "name": "Ghostrick Fairy‎",
-    "desc": "Cannot be Normal Summoned, unless you control a \"Ghostrick\" monster. During your Main Phase: You can change this card to face-down Defense Position (only once per turn). When this card is flipped face-up: You can target 1 \"Ghostrick\" card in your GY; Set it to your field, then you can change face-up monsters your opponent controls to face-down Defense Position, up to the number of Set cards you control. Banish the card that was Set from the GY when it leaves the field.",
+    "name": "Ghostrick Fairy",
+    "desc": "Cannot be Normal Summoned, unless you control a \"Ghostrick\" monster. Once per turn: You can change this card to face-down Defense Position. When this card is flipped face-up: You can target 1 \"Ghostrick\" card in your GY; Set it, but banish it when it leaves the field, then, you can change face-up monsters your opponent controls to face-down Defense Position up to the number of Set cards you control.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP023",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/82/GhostrickFairy-IGAS-JP-C.png"
 }

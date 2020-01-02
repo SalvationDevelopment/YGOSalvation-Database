@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262144,
     "name": "Some Summer Summoner",
-    "desc": "2 Thunder monsters\r\nOnce per opponent's turn (Quick Effect): You can discard 1 card, then target 1 Thunder monster in your GY, except a Link Monster; Special Summon it to your zone this card points to.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 Thunder monsters\nOnce per opponent's turn (Quick Effect): You can discard 1 card, then target 1 Thunder monster in your GY, except a Link Monster; Special Summon it to your zone this card points to.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE049",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP049",
+        "date": "2018-07-14"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c2/SomeSummerSummoner-SOFU-EN-SR-1E.png"
 }

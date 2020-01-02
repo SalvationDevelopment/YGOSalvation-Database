@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Karakuri Cash Lodge",
-    "desc": "Target 1 \"Karakuri\" monster you control and 1 Effect Monster your opponent controls; change the battle position of your monster, and if you do, negate the effects of that opponent's monster until the end of this turn. If you control a \"Karakuri\" monster: You can banish this card from your GY, then target 1 face-up monster on the field; change its battle position. You can only activate 1 \"Karakuri Cash Lodge\" per turn.",
+    "desc": "Target 1 &#x201C;Karakuri&#x201D; monster you control and 1 Effect Monster your opponent controls; change the battle position of your targeted monster, and if you do, negate the effects of your opponent's targeted monster until the end of this turn. If you control a &#x201C;Karakuri&#x201D; monster: You can banish this card from the GY, then target 1 face-up monster; change its battle position. You can only activate 1 \"Karakuri Cash Lodge\" once per turn.",
     "str1": "Change position",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP073",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b8/KarakuriCashLodge-IGAS-JP-OP.png"
 }

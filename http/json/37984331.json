@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "20th Anniversary Monster Art Box",
+        "pack_id": "YMAB-JP001",
+        "date": "2019-11-20"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cd/TrueExodia-YMAB-JP-OP.png"
 }

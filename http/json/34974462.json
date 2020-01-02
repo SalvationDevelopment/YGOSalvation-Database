@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262144,
     "name": "Bloom Harmonist the Melodious Virtuoso",
-    "desc": "2 Fairy monsters\nIf this card is Link Summoned: You can discard 1 card; Special Summon 2 \"Melodious\" monsters with different Levels from your Deck in Defense Position to your zones this card points to. You cannot Special Summon monsters the turn you activate this effect, except \"Melodious\" monsters. You can only use this effect of \"Bloom Harmonist the Melodious Virtuoso\" once per turn. If a \"Melodious\" monster this card points to attacks, your opponent cannot activate cards or effects until the end of the Damage Step.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 Fairy monsters\nIf this card is Link Summoned: You can discard 1 card; Special Summon 2 \"Melodious\" monsters with different Levels from your Deck to your zones this card points to in Defense Position. You cannot Special Summon monsters the turn you activate this effect, except \"Melodious\" monsters. You can only use this effect of \"Bloom Harmonist the Melodious Virtuoso\" once per turn. If a \"Melodious\" monster this card points to attacks, your opponent cannot activate cards or effects until the end of the Damage Step.",
     "str1": "Special Summon",
     "str2": "Affected by \"Bloom Harmonist the Melodious Virtuoso\"",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "LINK VRAINS Pack 3",
+        "pack_id": "LVP3-JP066",
+        "date": "2019-11-23"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ad/BloomHarmonisttheMelodiousVirtuoso-LVP3-JP-OP.png"
 }

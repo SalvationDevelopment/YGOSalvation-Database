@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Phantom Darkness",
+        "pack_id": "PTDN-JP061",
+        "date": "2007-11-23"
+    },
+    "tcg": {
+        "pack": "Phantom Darkness",
+        "pack_id": "PTDN-DE061",
+        "date": "2008-01-26"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/76/GladiatorProvingGround-RYMP-EN-UR-1E.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 8192,
     "name": "Gren Maju Da Eiza",
-    "desc": "This card's ATK and DEF are each equal to the number of your removed from play cards x 400.",
+    "desc": "This card's ATK/DEF are each equal to the number of your banished cards x 400.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/63/GrenMajuDaEiza-SDDE-EN-C-1E.png"
+    "tcg": {
+        "pack": "Invasion of Chaos",
+        "pack_id": "IOC-024",
+        "date": "2004-03-01"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f0/GrenMajuDaEiza-OP12-EN-SR-UE.png"
 }

@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE097",
+        "date": "2019-10-24"
+    },
+    "ocg": {
+        "pack": "Promotion Pack 2019",
+        "pack_id": "19PR-JP011",
+        "date": "2019-05-11"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e7/DanceswithBeasts-CHIM-EN-C-1E.png"
 }

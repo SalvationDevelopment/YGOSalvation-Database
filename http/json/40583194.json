@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Extreme Victory",
+        "pack_id": "EXVC-JP006",
+        "date": "2011-02-11"
+    },
     "tcg": {
-        "pack": "Legendary Collection 5D's Mega Pack",
-        "pack_id": "LC5D-PT067",
-        "date": "2014-10-24"
+        "pack": "Extreme Victory",
+        "pack_id": "EXVC-EN006",
+        "date": "2011-04-30"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/43/ForceResonator-LC5D-EN-C-1E.png"
 }

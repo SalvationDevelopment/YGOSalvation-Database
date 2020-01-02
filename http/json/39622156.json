@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 135168,
     "name": "Number 26: Spaceway Octobypass",
-    "desc": "2 Level 3 monsters\r\nAt the start of the Battle Phase: You can detach 1 material from this card; during this Battle Phase, a player can only attack with 1 monster, and its attack(s) becomes a direct attack. You can only use this effect of \"Number 26: Spaceway Octobypass\" once per turn. At the end of the Damage Step, if a monster inflicted battle damage by a direct attack: Give control of the monster that attacked to the turn player's opponent.",
+    "desc": "2 Level 3 monsters\nAt the start of the Battle Phase: You can detach 1 material from this card; during this Battle Phase, a player can only attack with 1 monster, and its attack(s) becomes a direct attack. You can only use this effect of \"Number 26: Spaceway Octobypass\" once per turn. At the end of the Damage Step, if a monster inflicted battle damage by direct attack: Give control of the monster that attacked to the turn player's opponent.",
     "str1": "",
     "str2": "Change control",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Battles of Legend: Hero's Revenge",
+        "pack_id": "BLHR-EN027",
+        "date": "2019-07-11"
+    },
+    "ocg": {
+        "pack": "Collection Pack: Duelists of Revolution",
+        "pack_id": "CP19-JP030",
+        "date": "2019-05-18"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fc/Number26SpacewayOctobypass-BLHR-EN-UR-1E.png"
 }

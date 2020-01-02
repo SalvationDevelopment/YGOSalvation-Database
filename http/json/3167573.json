@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Crimson Crisis",
+        "pack_id": "CRMS-EN093",
+        "date": "2009-02-28"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/08/PuppetKing-CRMS-EN-ScR-UE.png"
 }

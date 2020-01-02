@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 8192,
     "name": "Daruma Otoshi",
-    "desc": "(Quick Effect): You can detach 1 material from an Xyz Monster you control, then target 1 face-up monster your opponent controls; change its ATK to 0 until the end of this turn. If an Xyz Monster you control would detach its material(s) to activate an effect, except the turn this card was sent to the GY, you can banish this card from your GY instead of detaching 1 material. You can only use each effect of \"Daruma Otoshi\" once per turn.",
+    "desc": "(Quick Effect): You can detach 1 Xyz Material from a monster you control, then target 1 face-up monster your opponent controls; its ATK becomes 0 until the end of this turn. If you would detach Xyz materials from an Xyz Monster you control, you can banish this card from your GY instead of detaching 1 of those materials. You cannot use this effect during the turn in which this card was sent to the GY. You can only use each effect of \"Daruma Otoshi\" once per turn.",
     "str1": "Change ATK to 0",
     "str2": "Banish \"Daruma Otoshi\" instead?",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP029",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5a/DarumaOtoshi-IGAS-JP-C.png"
 }

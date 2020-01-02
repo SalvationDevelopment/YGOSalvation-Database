@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Ancient Prophecy",
+        "pack_id": "ANPR-JP071",
+        "date": "2009-04-18"
+    },
+    "tcg": {
+        "pack": "Ancient Prophecy",
+        "pack_id": "ANPR-DE071",
+        "date": "2009-08-27"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e8/DamageTranslation-ANPR-EN-C-UE.png"
 }

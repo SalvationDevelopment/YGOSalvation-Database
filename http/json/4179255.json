@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Premium Pack 15",
+        "pack_id": "PP15-JP006",
+        "date": "2013-03-16"
+    },
+    "tcg": {
+        "pack": "Premium Gold",
+        "pack_id": "PGLD-DE006",
+        "date": "2014-03-27"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/AncientPixieDragon-PGLD-EN-GScR-1E.png"
 }

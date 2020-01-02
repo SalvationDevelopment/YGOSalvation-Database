@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Cosmo Blazer",
+        "pack_id": "CBLZ-JP040",
+        "date": "2012-11-17"
+    },
+    "tcg": {
+        "pack": "Cosmo Blazer",
+        "pack_id": "CBLZ-DE040",
+        "date": "2013-01-24"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4b/PyrorextheElementalLord-BLRR-EN-UR-1E.png"
 }

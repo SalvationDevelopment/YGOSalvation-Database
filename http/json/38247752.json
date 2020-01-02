@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "The Valuable Book 2",
+        "pack_id": "VB-01",
+        "date": "2000-04-20"
+    },
+    "tcg": {
+        "pack": "Phantom Darkness",
+        "pack_id": "PTDN-DE092",
+        "date": "2008-01-26"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2e/DarkEyesIllusionist-LCYW-EN-R-1E.png"
 }

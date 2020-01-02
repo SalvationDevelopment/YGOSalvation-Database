@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Magician's Force",
+        "pack_id": "MFC-091",
+        "date": "2003-10-10"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a8/JarRobber-DR1-EN-C-UE.png"
 }

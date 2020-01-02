@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Duelist Pack: Yuma Edition",
+        "pack_id": "DP12-JP025",
+        "date": "2011-10-15"
+    },
+    "tcg": {
+        "pack": "Photon Shockwave",
+        "pack_id": "PHSW-DE063",
+        "date": "2011-11-10"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/86/HeartfeltAppeal-SP13-EN-C-1E.png"
 }

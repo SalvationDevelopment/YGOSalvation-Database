@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Armiryle the Starguide Dragon",
-    "desc": "2 Effect Monsters\r\nCannot be used as Link Material. You can target 1 face-up monster this card points to; Special Summon 1 monster from your hand in Defense Position, with the same original Level as that monster, to your zone this card points to, but negate its effects. You can only use this effect of \"Armiryle the Starguide Dragon\" once per turn.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 Effect Monsters\nCannot be used as Link Material. You can target 1 face-up monster this card points to; Special Summon 1 monster with the same original Level from your hand in face-up Defense Position to a zone this card points to, but negate its effects. You can only use this effect of &#x201C;Armiryle the Starguide Dragon&#x201D; once per turn.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Jump Festa Limited Pack 2019",
+        "pack_id": "JF19-JP003",
+        "date": "2018-12-22"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b5/ArmiryletheStarguideDragon-JF19-JP-OP.png"
 }

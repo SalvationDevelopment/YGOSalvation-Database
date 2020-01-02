@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Structure Deck: Dragunity Drive",
+        "pack_id": "SD19-KR031",
+        "date": "2010-09-07"
+    },
     "tcg": {
         "pack": "Limited Edition 1",
         "pack_id": "JUMP-EN021",

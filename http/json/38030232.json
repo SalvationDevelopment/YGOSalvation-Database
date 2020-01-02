@@ -2,7 +2,7 @@
     "id": 38030232,
     "ot": 1,
     "alias": 0,
-    "setcode": 300,
+    "setcode": 0,
     "type": 67108897,
     "atk": 3000,
     "def": 390,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 786432,
     "name": "Tenyi Spirit - Sahasrara",
-    "desc": "2+ Wyrm monsters\nWhile you control a face-up non-Effect Monster, your opponent's monsters cannot target Effect Monsters for attacks, also your opponent cannot target Effect Monsters on the field with card effects. (Quick Effect): You can target 1 Effect Monster your opponent controls; Special Summon 1 \"Tenyi Spirit Token\" (Wyrm/LIGHT/Level 4/ATK ?/DEF 0). (This Token's ATK becomes the original ATK of the targeted monster.) You can only use this effect of \"Tenyi Spirit - Sahasrara\" once per turn.",
+    "desc": "Link Arrows: [🡱][🡵][🡶][🡳]\n\n&#x5E7B;&#x7ADC;&#x65CF;&#x30E2;&#x30F3;&#x30B9;&#x30BF;&#x30FC;&#xFF12;&#x4F53;&#x4EE5;&#x4E0A;\n&#x3053;&#x306E;&#x30AB;&#x30FC;&#x30C9;&#x540D;&#x306E;&#x2461;&#x306E;&#x52B9;&#x679C;&#x306F;&#xFF11;&#x30BF;&#x30FC;&#x30F3;&#x306B;&#xFF11;&#x5EA6;&#x3057;&#x304B;&#x4F7F;&#x7528;&#x3067;&#x304D;&#x306A;&#x3044;&#x3002;&#x2460;&#xFF1A;&#x81EA;&#x5206;&#x30D5;&#x30A3;&#x30FC;&#x30EB;&#x30C9;&#x306B;&#x52B9;&#x679C;&#x30E2;&#x30F3;&#x30B9;&#x30BF;&#x30FC;&#x4EE5;&#x5916;&#x306E;&#x8868;&#x5074;&#x8868;&#x793A;&#x30E2;&#x30F3;&#x30B9;&#x30BF;&#x30FC;&#x304C;&#x5B58;&#x5728;&#x3059;&#x308B;&#x5834;&#x5408;&#x3001;&#x76F8;&#x624B;&#x306F;&#x30D5;&#x30A3;&#x30FC;&#x30EB;&#x30C9;&#x306E;&#x52B9;&#x679C;&#x30E2;&#x30F3;&#x30B9;&#x30BF;&#x30FC;&#x3092;&#x653B;&#x6483;&#x5BFE;&#x8C61;&#x306B;&#x3067;&#x304D;&#x305A;&#x3001;&#x52B9;&#x679C;&#x306E;&#x5BFE;&#x8C61;&#x306B;&#x3082;&#x3067;&#x304D;&#x306A;&#x3044;&#x3002;&#x2461;&#xFF1A;&#x76F8;&#x624B;&#x30D5;&#x30A3;&#x30FC;&#x30EB;&#x30C9;&#x306E;&#x52B9;&#x679C;&#x30E2;&#x30F3;&#x30B9;&#x30BF;&#x30FC;&#xFF11;&#x4F53;&#x3092;&#x5BFE;&#x8C61;&#x3068;&#x3057;&#x3066;&#x767A;&#x52D5;&#x3067;&#x304D;&#x308B;&#x3002;&#x81EA;&#x5206;&#x30D5;&#x30A3;&#x30FC;&#x30EB;&#x30C9;&#x306B;&#x300C;&#x5929;&#x5A01;&#x9F8D;&#x30C8;&#x30FC;&#x30AF;&#x30F3;&#x300D;&#xFF08;&#x5E7B;&#x7ADC;&#x65CF;&#x30FB;&#x5149;&#x30FB;&#x661F;&#xFF14;&#x30FB;&#x653B;&#xFF1F;&#xFF0F;&#x5B88;&#xFF10;&#xFF09;&#xFF11;&#x4F53;&#x3092;&#x7279;&#x6B8A;&#x53EC;&#x559A;&#x3059;&#x308B;&#x3002;&#x3053;&#x306E;&#x30C8;&#x30FC;&#x30AF;&#x30F3;&#x306E;&#x653B;&#x6483;&#x529B;&#x306F;&#x3001;&#x5BFE;&#x8C61;&#x306E;&#x30E2;&#x30F3;&#x30B9;&#x30BF;&#x30FC;&#x306E;&#x5143;&#x3005;&#x306E;&#x653B;&#x6483;&#x529B;&#x3068;&#x540C;&#x3058;&#x306B;&#x306A;&#x308B;&#x3002;&#x3053;&#x306E;&#x52B9;&#x679C;&#x306F;&#x76F8;&#x624B;&#x30BF;&#x30FC;&#x30F3;&#x3067;&#x3082;&#x767A;&#x52D5;&#x3067;&#x304D;&#x308B;&#x3002;",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -28,5 +28,18 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "LINK VRAINS Pack 3",
+        "pack_id": "LVP3-JP096",
+        "date": "2019-11-23"
+    },
+    "links": [
+        1,
+        2,
+        6,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3c/TenyiSpiritSahasrara-LVP3-JP-OP.png"
 }

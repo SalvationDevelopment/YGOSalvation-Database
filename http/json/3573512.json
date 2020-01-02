@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Starter Deck: Joey",
+        "pack_id": "SDJ-KR002",
+        "date": "2004-08-16"
+    },
     "tcg": {
         "pack": "Labyrinth of Nightmare",
         "pack_id": "LON-002",

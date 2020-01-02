@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 24,
     "name": "Yoko-Zuna Sumo Spirit",
-    "desc": "[ Pendulum Effect ]\r\nIf a monster(s) is Pendulum Summoned: Return this card from the Pendulum Zone to the hand.\r\n----------------------------------------\r\n[ Monster Effect ]\r\nWhen this card is Normal Summoned: You can send to the GY all monsters your opponent controls in the same column as the card(s) in your Pendulum Zones. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand.",
+    "desc": "Pendulum Effect\nIf a monster(s) is Pendulum Summoned: Return this card from the Pendulum Zone to the hand.\n\nMonster Effect\nWhen this card is Normal Summoned: You can send to the GY all monsters your opponent controls in the same column as the card(s) in your Pendulum Zones. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE000",
+        "date": "2018-02-01"
+    },
+    "ocg": {
+        "pack": "Extra Pack 2018",
+        "pack_id": "EP18-JP041",
+        "date": "2018-09-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/20/YokoZunaSumoSpirit-EXFO-EN-C-1E.png"
 }

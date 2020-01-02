@@ -2,7 +2,7 @@
     "id": 37061511,
     "ot": 1,
     "alias": 0,
-    "setcode": 309,
+    "setcode": 0,
     "type": 161,
     "atk": 2300,
     "def": 2000,
@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 0,
     "name": "Water Leviathan @Ignister",
-    "desc": "You can Ritual Summon this card with \"A.I.'s Ritual\". If this card is Ritual Summoned: You can return all monsters your opponent controls with 2300 or less ATK to the hand. You can target 1 face-up monster your opponent controls; return all Link Monsters from your GY to the Extra Deck, and if you do, the targeted monster's ATK becomes 0. You can only use this effect of \"Water Leviathan @Ignister\" once per turn. Once per battle, during damage calculation, if this card battles an opponent's monster (Quick Effect): You can halve that opponent's monster's ATK during that damage calculation only.",
+    "desc": "You can Ritual Summon this card with \"Ai's Ritual\". If this card is Ritual Summoned: You can return all monsters your opponent controls with 2300 or less ATK to the hand. Once per damage calculation, when this card battles an opponent's monster: You can halve that opponent's monster's ATK during this damage calculation only. You can target 1 face-up monster your opponent controls; return as many Link Monsters as possible from your GY into the Extra Deck, and if you do, that target's ATK becomes 0. You can only use this effect of \"Water Leviathan @Ignister\" once per turn.",
     "str1": "Return monsters to hand",
     "str2": "ATK to 0",
     "str3": "Halve ATK",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP034",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/68/WaterLeviathan%40Ignister-IGAS-JP-OP.png"
 }

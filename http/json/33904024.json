@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 256,
     "name": "Shard of Greed",
-    "desc": "Each time you draw a card(s) for your normal draw in your Draw Phase, place 1 Greed Counter on this card. You can send this card with 2 or more Greed Counters to the Graveyard; draw 2 cards.",
+    "desc": "Each time you draw a card(s) for your normal draw in your Draw Phase, place 1 Greed Counter on this card. You can send this card with 2 or more Greed Counters to the GY; draw 2 cards.",
     "str1": "Draw card",
     "str2": "",
     "str3": "",
@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {
-        "pack": "Starter Deck Yugi - Reloaded",
-        "pack_id": "YSYR-PT037",
-        "date": "2013-12-06"
+    "ocg": {
+        "pack": "Photon Shockwave",
+        "pack_id": "PHSW-JP057",
+        "date": "2011-07-16"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/48/ShardofGreed-YSYR-EN-C-1E.png"
+    "tcg": {
+        "pack": "Photon Shockwave",
+        "pack_id": "PHSW-DE057",
+        "date": "2011-11-10"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a3/ShardofGreed-SS01-EN-UR-1E.png"
 }

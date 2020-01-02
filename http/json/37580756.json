@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Thousand Eyes Bible",
+        "pack_id": "TB-01",
+        "date": "2000-12-14"
+    },
     "tcg": {
-        "pack": "Speed Duel: Arena of Lost Souls",
-        "pack_id": "SBLS-PT044",
-        "date": "2019-03-28"
+        "pack": "Pharaoh's Servant",
+        "pack_id": "PSV-051",
+        "date": "2002-10-20"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/20/Michizure-SBLS-EN-UR-1E.png"
 }

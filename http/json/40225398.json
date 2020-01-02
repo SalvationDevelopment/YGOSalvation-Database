@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Crimson Crisis",
+        "pack_id": "CRMS-JP006",
+        "date": "2008-11-15"
+    },
+    "tcg": {
+        "pack": "Crimson Crisis",
+        "pack_id": "CRMS-EN006",
+        "date": "2009-02-28"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/TwinSwordMarauder-BP02-EN-C-1E.png"
 }

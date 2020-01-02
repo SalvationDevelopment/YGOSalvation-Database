@@ -2,7 +2,7 @@
     "id": 40204620,
     "ot": 1,
     "alias": 0,
-    "setcode": 312,
+    "setcode": 0,
     "type": 131076,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Megalith Promotion",
-    "desc": "You can target 1 Level 4 or lower monster you control; its Level becomes double its original Level until the end of this turn (even if this card leaves the field). You can only use this effect of \"Megalith Promotion\" once per turn.",
+    "desc": "You can target 1 Level 4 or lower monster you control; its Level becomes double its original Level until the end of this turn. You can only use this effect of \"Megalith Promotion\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP071",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/de/MegalithPromotion-IGAS-JP-OP.png"
 }

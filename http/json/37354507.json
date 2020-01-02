@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Ninja Grandmaster Saizo",
-    "desc": "2 \"Ninja\" monsters\nDuring your Main Phase: You can Set 1 \"Ninjitsu Art\" Spell/Trap directly from your Deck. You can only use this effect of \"Ninja Grandmaster Saizo\" once per turn. While this card points to a monster(s), this card cannot be targeted for an attack, also your opponent cannot target it with card effects.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 \"Ninja\" monsters\nDuring your Main Phase: You can Set 1 \"Ninjitsu Art\" Spell/Trap directly from your Deck. You can only use this effect of \"Ninja Grandmaster Saizo\" once per turn. While this card points to a monster(s), this card cannot be targeted for an attack, also your opponent cannot target it with card effects.",
     "str1": "Set 1 \"Ninjitsu Art\" Spell/Trap",
     "str2": "",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Shadows in Valhalla",
+        "pack_id": "SHVA-DE011",
+        "date": "2018-08-16"
+    },
+    "ocg": {
+        "pack": "Extra Pack 2019",
+        "pack_id": "EP19-JP055",
+        "date": "2019-09-14"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8a/NinjaGrandmasterSaizo-SHVA-EN-ScR-1E.png"
 }

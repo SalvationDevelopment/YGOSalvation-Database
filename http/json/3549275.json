@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Pharaonic Guardian",
+        "pack_id": "PH-27",
+        "date": "2002-03-21"
+    },
+    "tcg": {
+        "pack": "Pharaonic Guardian",
+        "pack_id": "PGD-027",
+        "date": "2003-07-18"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b5/DiceJar-LCJW-EN-C-1E.png"
 }

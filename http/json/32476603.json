@@ -2,7 +2,7 @@
     "id": 32476603,
     "ot": 3,
     "alias": 0,
-    "setcode": 258,
+    "setcode": 0,
     "type": 33,
     "atk": 1900,
     "def": 100,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "SD36",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Rokket Revolt",
+        "pack_id": "SDRR-DE001",
+        "date": "2019-08-16"
+    },
+    "ocg": {
+        "pack": "Structure Deck: Revolver",
+        "pack_id": "SD36-JP001",
+        "date": "2019-06-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/58/SilverrokketDragon-SDRR-EN-SR-1E.png"
 }

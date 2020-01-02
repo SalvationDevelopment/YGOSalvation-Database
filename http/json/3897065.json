@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Gladiator's Assault",
+        "pack_id": "GLAS-JP041",
+        "date": "2007-07-21"
+    },
+    "tcg": {
+        "pack": "Gladiator's Assault",
+        "pack_id": "GLAS-IT041",
+        "date": "2007-11-03"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6c/SuperVehicroidStealthUnion-DL12-EN-R-UE-Blue.png"
 }

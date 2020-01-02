@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 2147745796,
     "name": "Doomking Balerdroch",
-    "desc": "During the Standby Phase, if a face-up card is in a Field Zone and this card is in your GY: You can Special Summon this card in Defense Position. You can only use this effect of \"Doomking Balerdroch\" once per turn. Once per Chain, when a Zombie monster, except \"Doomking Balerdroch\", activates its effect (except during the Damage Step) (Quick Effect): You can apply 1 of these effects (but you cannot apply that same effect of \"Doomking Balerdroch\" again this turn).\r\n●Negate that effect.\r\n●Banish 1 monster from the field or GY.",
+    "desc": "During the Standby Phase, if a face-up card is in a Field Zone and this card is in your GY: You can Special Summon this card in Defense Position. You can only use this effect of &#x201C;Doomking Balerdroch&#x201D; once per turn. Once per Chain, when a Zombie monster, except &#x201C;Doomking Balerdroch&#x201D;, activates its effect (except during the Damage Step) (Quick Effect): You can apply 1 of these effects (but you cannot apply that same effect of &#x201C;Doomking Balerdroch&#x201D; again this turn).\n● Negate that effect.● Banish 1 monster from the field or GY.",
     "str1": "Activate effect",
     "str2": "Negate that effect.",
     "str3": "Banish 1 monster from the field or GYs.",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Structure Deck R: Undead World",
+        "pack_id": "SR07-JP001",
+        "date": "2018-09-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f1/DoomkingBalerdroch-SR07-EN-UR-1E.png"
 }

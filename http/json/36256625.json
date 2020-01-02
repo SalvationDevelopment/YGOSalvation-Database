@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Power of the Duelist",
+        "pack_id": "POTD-JP036",
+        "date": "2006-05-18"
+    },
+    "tcg": {
+        "pack": "Power of the Duelist",
+        "pack_id": "POTD-DE036",
+        "date": "2006-08-16"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9c/SuperVehicroidJumboDrill-POTD-EN-SR-1E.jpg"
 }

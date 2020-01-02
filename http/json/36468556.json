@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "STARTER PACK Volume 3",
+        "pack_id": "SP03-TC055",
+        "date": "2014-11-29"
+    },
+    "tcg": {
+        "pack": "Pharaoh's Servant",
+        "pack_id": "PSV-030",
+        "date": "2002-10-20"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/08/Ceasefire-YS16-EN-C-1E.png"
 }

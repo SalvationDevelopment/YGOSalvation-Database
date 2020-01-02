@@ -2,7 +2,7 @@
     "id": 37440988,
     "ot": 3,
     "alias": 0,
-    "setcode": 8244,
+    "setcode": 52,
     "type": 97,
     "atk": 4000,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 8224,
     "name": "Rainbow Overdragon",
-    "desc": "7 \"Crystal Beast\" monsters\r\n(This card is always treated as an \"Ultimate Crystal\" card.)\r\nMust be either Fusion Summoned, or Special Summoned by Tributing 1 Level 10 \"Ultimate Crystal\" monster (in which case you do not use \"Polymerization\"). Once per turn: You can banish 1 \"Crystal Beast\" monster from your GY; this card gains ATK equal to the banished monster's, until the end of this turn. (Quick Effect): You can Tribute this Fusion Summoned card; shuffle all cards on the field into the Deck.",
+    "desc": "7 \"Crystal Beast\" monsters\n(This card is always treated as an \"Ultimate Crystal\" card.)\nMust be either Fusion Summoned, or Special Summoned by Tributing 1 Level 10 \"Ultimate Crystal\" monster (in which case you do not use \"Polymerization\"). Once per turn: You can banish 1 \"Crystal Beast\" monster from your GY; this card gains ATK equal to the banished monster's, until the end of this turn. (Quick Effect): You can Tribute this Fusion Summoned card; shuffle all cards on the field into the Deck.",
     "str1": "Gain ATK equal to banished monster",
     "str2": "Shuffle all cards on the field to the Deck",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: Ancient Millennium",
+        "pack_id": "LED2-DE037",
+        "date": "2018-02-22"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 2",
+        "pack_id": "DP19-JP037",
+        "date": "2017-11-11"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f3/RainbowOverdragon-LED2-EN-SR-1E.png"
 }

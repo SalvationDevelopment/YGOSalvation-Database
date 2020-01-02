@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 4202496,
     "name": "Trickstar Holly Angel",
-    "desc": "2 \"Trickstar\" monsters\r\nEach time a \"Trickstar\" monster(s) is Normal or Special Summoned to a zone(s) this card points to, inflict 200 damage to your opponent. \"Trickstar\" monsters this card points to cannot be destroyed by battle or card effects. If your opponent takes damage by a \"Trickstar\" monster's effect: This card gains ATK equal to the damage they took, until the end of this turn.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 \"Trickstar\" monsters\nEach time a \"Trickstar\" monster(s) is Normal or Special Summoned to a zone(s) this card points to, inflict 200 damage to your opponent. \"Trickstar\" monsters this card points to cannot be destroyed by battle or card effects. If your opponent takes damage by a \"Trickstar\" monster's effect: This card gains ATK equal to the damage they took, until the end of this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Code of the Duelist",
+        "pack_id": "COTD-DE044",
+        "date": "2017-08-03"
+    },
+    "ocg": {
+        "pack": "Code of the Duelist",
+        "pack_id": "COTD-JP044",
+        "date": "2017-04-15"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8c/TrickstarHollyAngel-DUPO-EN-UR-1E.png"
 }

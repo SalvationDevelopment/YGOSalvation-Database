@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Invasion of Chaos",
+        "pack_id": "IOC-032",
+        "date": "2004-03-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6f/HeartoftheUnderdog-LCYW-EN-C-1E.png"
 }

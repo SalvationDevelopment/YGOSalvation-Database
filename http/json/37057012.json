@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Cyberdark Impact",
+        "pack_id": "CDIP-JP036",
+        "date": "2006-08-10"
+    },
+    "tcg": {
+        "pack": "Cyberdark Impact",
+        "pack_id": "CDIP-FR036",
+        "date": "2006-11-04"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2b/CyberOgre2-CDIP-EN-UR-1E.jpg"
 }

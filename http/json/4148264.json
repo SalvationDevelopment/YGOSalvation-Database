@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "\"C\" Ranger Shine Black",
-    "desc": "The \"raven radiance\" that races across the battlefield wearing suits that shine the purest black...\r\nIt's the C Rangers who dwell in the shadows!\r\nThey oppose giant monsters with their hidden prowess of flight!",
+    "desc": "The \"raven radiance\" that races across the battlefield wearing suits that shine the purest black...It's the C Rangers who dwell in the shadows!\nThey oppose giant monsters with their hidden prowess of flight!",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Jump Victory Carnival 2018 promotional card",
+        "pack_id": "VF18-JP001",
+        "date": "2018-07-16"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/CRangerShineBlack-VF18-JP-UR.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 512,
     "name": "Immortal Ruler",
-    "desc": "This card cannot be Special Summoned. You can Tribute this card to add 1 \"Zombie World\" from your Graveyard to your hand.",
+    "desc": "Cannot be Special Summoned. You can Tribute this card, then target 1 \"Zombie World\" in your GY; add that target to your hand.",
     "str1": "Search",
     "str2": "",
     "str3": "",
@@ -40,5 +40,5 @@
         "pack_id": "RGBT-EN082",
         "date": "2009-05-02"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/ImmortalRuler-RGBT-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/eb/ImmortalRuler-SR07-EN-C-1E.png"
 }

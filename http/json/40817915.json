@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 1074003968,
     "name": "Kurivolt",
-    "desc": "You can target 1 face-up Xyz Monster that has Xyz Material; detach 1 Xyz Material from it, and if you do, Special Summon 1 \"Kurivolt\" from your Deck. This card cannot be used as a Synchro Material Monster.",
+    "desc": "You can target 1 Xyz Monster that has material; detach 1 material from it, and if you do, Special Summon 1 \"Kurivolt\" from your Deck. Cannot be used as Synchro Material.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Order of Chaos",
+        "pack_id": "ORCS-JP001",
+        "date": "2011-11-19"
+    },
+    "tcg": {
+        "pack": "Order of Chaos",
+        "pack_id": "ORCS-EN001",
+        "date": "2012-01-14"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0a/Kurivolt-NUMH-EN-SR-1E.png"
 }

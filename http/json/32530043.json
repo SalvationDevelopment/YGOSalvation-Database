@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262672,
     "name": "Gallant Granite",
-    "desc": "2 Level 4 monsters\nYou can detach 1 material from this card, then activate 1 of these effects;\n● Add 1 Rock monster from your Deck to your hand.\n● Special Summon 1 Rock monster from your hand in face-down Defense Position.\nYou can only use this effect of \"Gallant Granite\" once per turn.",
+    "desc": "2 Level 4 monsters\nYou can detach 1 material from this card, then activate one of these effects;\n● Add 1 Rock monster from your Deck to your hand.\n● Special Summon 1 Rock monster from your hand in face-down defense position.\nYou can only use this effect of \"Gallant Granite\" once per turn.",
     "str1": "Add 1 Rock monster from your Deck to your hand",
     "str2": "Special Summon 1 Rock monster from your hand in face-down Defense Position",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE036",
+        "date": "2019-10-24"
+    },
+    "ocg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-JP036",
+        "date": "2019-07-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/75/GallantGranite-CHIM-EN-UR-1E.png"
 }

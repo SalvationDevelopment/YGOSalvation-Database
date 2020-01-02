@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 8650756,
     "name": "Aromage Marjoram",
-    "desc": "While your LP are higher than your opponent's, you take no battle damage from attacks involving your Plant monsters. You can only use each of the following effects of \"Aromage Marjoram\" once per turn.\n● When a Plant monster you control is destroyed by battle: You can Special Summon this card from your hand, then gain 500 LP.\n● If you gain LP: Target cards in your opponent's GY, up to the number of \"Aroma\" monsters you control; banish them.",
+    "desc": "While your LP is higher than your opponent's, you take no battle damage from battles involving your Plant Monsters. You can only use each of these effects of \"Aromage Marjoram\" once per turn.\n● If a Plant monster you control is destroyed in battle and sent to the GY: You can Special Summon this card from your hand, then gain 500 LP.\n● If you gain LP: Target a number of cards in your opponent's GY, up to the number of &#x201C;Aroma&#x201D; monsters you control; banish them.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE018",
+        "date": "2019-10-24"
+    },
+    "ocg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-JP018",
+        "date": "2019-07-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/AromageMarjoram-CHIM-EN-C-1E.png"
 }

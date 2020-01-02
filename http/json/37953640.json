@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Crimson Crisis",
+        "pack_id": "CRMS-EN086",
+        "date": "2009-02-28"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/88/RoyalSwampEel-CRMS-EN-SR-1E.png"
 }

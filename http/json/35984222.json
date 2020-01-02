@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "The Valuable Book 11",
+        "pack_id": "VB11-JP001",
+        "date": "2008-08-21"
+    },
+    "tcg": {
+        "pack": "Crimson Crisis",
+        "pack_id": "CRMS-EN096",
+        "date": "2009-02-28"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/IdotheSupremeMagicalForce-CRMS-EN-ScR-1E.png"
 }

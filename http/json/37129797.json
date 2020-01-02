@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262400,
     "name": "Vampire Sucker",
-    "desc": "2 Zombie monsters\r\nIf you would Tribute a monster(s) for a Tribute Summon, you can Tribute a Zombie monster(s) your opponent controls, even though you do not control them. You can only use each of the following effects of \"Vampire Sucker\" once per turn.\r\n● You can target 1 monster in your opponent's GY; Special Summon it to your opponent's field in Defense Position, but it becomes a Zombie monster.\r\n● If a Zombie monster(s) is Special Summoned from either GY: Draw 1 card.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 Zombie monsters\nIf you would Tribute a monster(s) for a Tribute Summon, you can Tribute a Zombie monster(s) your opponent controls, even though you do not control them. You can only use each of the following effects of \"Vampire Sucker\" once per turn.\n● You can target 1 monster in your opponent's GY; Special Summon it to your opponent's field in Defense Position, but it becomes a Zombie monster.\n● If a Zombie monster(s) is Special Summoned from the GY: Draw 1 card.",
     "str1": "Special Summon",
     "str2": "Draw",
     "str3": "",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE050",
+        "date": "2018-05-03"
+    },
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP050",
+        "date": "2018-01-13"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/VampireSucker-FLOD-EN-ScR-1E.png"
 }

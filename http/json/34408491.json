@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Premium Pack 16",
+        "pack_id": "PP16-JP007",
+        "date": "2014-03-21"
+    },
+    "tcg": {
+        "pack": "Premium Gold",
+        "pack_id": "PGLD-DE016",
+        "date": "2014-03-27"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2a/BeelzeoftheDiabolicDragons-LEHD-EN-C-1E.png"
 }

@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Star Pack 2013",
+        "pack_id": "SP13-PT049",
+        "date": "2013-02-22"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/ed/CatapultWarrior-SP13-EN-C-UE.png"
 }

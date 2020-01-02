@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Structure Deck: The Blue-Eyed Dragon's Thundering Descent",
+        "pack_id": "SD25-TC013",
+        "date": "2014-04-01"
+    },
     "tcg": {
         "pack": "Yu-Gi-Oh! 7 Trials to Glory - World Championship Tournament 2005 - Bundles",
         "pack_id": "WC5-EN002",

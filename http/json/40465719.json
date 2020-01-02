@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Tactical Evolution",
+        "pack_id": "TAEV-JP072",
+        "date": "2007-05-12"
+    },
     "tcg": {
-        "pack": "Speed Duel: Arena of Lost Souls",
-        "pack_id": "SBLS-PT016",
-        "date": "2019-03-28"
+        "pack": "Tactical Evolution",
+        "pack_id": "TAEV-FR072",
+        "date": "2007-08-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f6/CommonCharity-SBLS-EN-C-1E.png"
 }

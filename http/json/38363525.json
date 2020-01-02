@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Zombie Horde",
+        "pack_id": "SR07-DE021",
+        "date": "2018-11-01"
+    },
+    "ocg": {
+        "pack": "Structure Deck R: Undead World",
+        "pack_id": "SR07-JP023",
+        "date": "2018-09-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d9/ZombieNecronize-SR07-EN-C-1E.png"
 }

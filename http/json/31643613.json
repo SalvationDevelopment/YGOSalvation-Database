@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "DP22",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: Immortal Destiny",
+        "pack_id": "LED5-DE047",
+        "date": "2019-09-26"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 5",
+        "pack_id": "DP22-JP047",
+        "date": "2019-06-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/41/Predapractice-LED5-EN-UR-1E.png"
 }

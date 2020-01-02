@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Pharaonic Guardian",
+        "pack_id": "PGD-AE097",
+        "date": "2003-10-16"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e3/NarrowPass-DR1-EN-C-UE.jpg"
 }

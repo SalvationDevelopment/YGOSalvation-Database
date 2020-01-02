@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Enemy of Justice",
+        "pack_id": "EOJ-JP004",
+        "date": "2006-02-16"
+    },
     "tcg": {
-        "pack": "Legendary Hero Decks",
-        "pack_id": "LEHD-PTA03",
-        "date": "2018-10-04"
+        "pack": "Enemy of Justice",
+        "pack_id": "EOJ-DE004",
+        "date": "2006-05-13"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/05/DestinyHERODreadmaster-LEHD-EN-C-1E.png"
 }

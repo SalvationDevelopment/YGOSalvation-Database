@@ -2,7 +2,7 @@
     "id": 40080312,
     "ot": 3,
     "alias": 0,
-    "setcode": 602120,
+    "setcode": 206292680713,
     "type": 97,
     "atk": 3000,
     "def": 2500,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 2147483940,
     "name": "Elemental HERO Nebula Neos",
-    "desc": "\"Elemental HERO Neos\" + \"Neo-Spacian Grand Mole\" + \"Neo-Spacian Dark Panther\"\r\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) If this card is Special Summoned from the Extra Deck: Draw cards equal to the number of cards your opponent controls, then negate the effects of 1 face-up card on the field until the end of this turn. Once per turn, during the End Phase: Shuffle this card into the Extra Deck, and if you do, banish all cards on the field face-down.",
+    "desc": "\"Elemental HERO Neos\" + \"Neo-Spacian Grand Mole\" + \"Neo-Spacian Dark Panther\"\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) If this card is Special Summoned from the Extra Deck: Draw cards equal to the number of cards your opponent controls, then negate the effects of 1 face-up card on the field until the end of this turn. Once per turn, during the End Phase: Shuffle this card into the Extra Deck, and if you do, banish all cards on the field face-down.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "2018 Mega-Tins",
+        "pack_id": "CT15-DE001",
+        "date": "2018-08-30"
+    },
+    "ocg": {
+        "pack": "20th Anniversary Duelist Box",
+        "pack_id": "20TH-JPB07",
+        "date": "2018-12-22"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/5e/ElementalHERONebulaNeos-CT15-EN-ScR-LE.png"
 }

@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Crimson Crisis",
+        "pack_id": "CRMS-EN089",
+        "date": "2009-02-28"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e1/SynchroChange-CRMS-EN-R-1E.png"
 }

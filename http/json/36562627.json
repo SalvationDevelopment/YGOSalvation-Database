@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Mythological Age",
+        "pack_id": "MA-35",
+        "date": "2001-11-29"
+    },
     "tcg": {
-        "pack": "Legendary Collection 4: Joey's World Mega Pack",
-        "pack_id": "LCJW-PT268",
-        "date": "2013-10-11"
+        "pack": "Legacy of Darkness",
+        "pack_id": "LOD-083",
+        "date": "2003-06-06"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e4/SecondCoinToss-LCJW-EN-C-1E.png"
 }

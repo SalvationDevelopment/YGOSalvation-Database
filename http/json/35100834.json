@@ -2,7 +2,7 @@
     "id": 35100834,
     "ot": 2,
     "alias": 0,
-    "setcode": 137,
+    "setcode": 0,
     "type": 131076,
     "atk": 0,
     "def": 2000,
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "tcg": {
+        "pack": "Fists of the Gadgets",
+        "pack_id": "FIGA-DE005",
+        "date": "2019-08-22"
+    },
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2d/PowerholdtheMovingBattery-FIGA-EN-SR-1E.png"
 }

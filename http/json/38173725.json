@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Arcjet Lightcrafter",
-    "desc": "If you control no monsters, you can Normal Summon this card without Tributing. If this card is Normal or Special Summoned: You can target 1 Level 8 or lower Machine monster in your GY; Special Summon it in Defense Position, and if you do, it becomes Level 9, but negate its effects. You can only use this effect of \"Arcjet Lightcrafter\" once per turn. You cannot Special Summon monsters from the Extra Deck, except Machine Xyz Monsters.",
+    "desc": "If you control no monsters, you can Normal Summon this card without Tributing. While this card is in a Monster Zone, you cannot Special Summon monsters from the Extra Deck, except Machine Xyz Monsters. If this card is Normal/Special Summoned: You can target 1 Level 8 or lower Machine monster in your GY; Special Summon that monster in Defense Position, also it becomes Level 9, but its effects are negated. You can only use this effect of \"Arcjet Lightcrafter\" once per turn.",
     "str1": "Normal Summon without Tributing",
     "str2": "Special Summon",
     "str3": "Affected by \"Arcjet Lightcrafter\"",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP017",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9e/ArcjetLightcrafter-IGAS-JP-OP.png"
 }

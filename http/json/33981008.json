@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Abyss Rising",
+        "pack_id": "ABYR-JP060",
+        "date": "2012-07-21"
+    },
+    "tcg": {
+        "pack": "Abyss Rising",
+        "pack_id": "ABYR-DE060",
+        "date": "2012-11-08"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c3/TheGrandSpellbookTower-PGL2-EN-GUR-1E.png"
 }

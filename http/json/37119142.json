@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 262160,
     "name": "Code Exporter",
-    "desc": "If a Cyberse monster you control would be used as Link Material for a \"Code Talker\" monster, this card in your hand can also be used as material. If this card is sent from the hand or field to the GY as material for the Link Summon of a \"Code Talker\" monster: You can target 1 Level 4 or lower Cyberse monster in your GY; add it to your hand, or, if this card on the field was used as material, you can Special Summon it instead, but negate its effects. You can only use each effect of \"Code Exporter\" once per turn.",
+    "desc": "If a Cyberse monster you control would be used as Link Material for a &#x201C;Code Talker&#x201D; monster, this card in your hand can also be used as material. If this card is sent from the hand or field to the GY as material for the Link Summon of a &#x201C;Code Talker&#x201D; monster: You can target 1 Level 4 or lower Cyberse monster in your GY; add it to your hand, or, if this card on the field was used as material, you can Special Summon that monster instead, but its effects are negated. You can only use each effect of \"Code Exporter\" once per turn.",
     "str1": "Target 1 Level 4 or lower Cyberse",
     "str2": "Special Summon?",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "LINK VRAINS Duelist Set",
+        "pack_id": "LVDS-JPA01",
+        "date": "2019-08-31"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/05/CodeExporter-LVDS-JP-OP.png"
 }

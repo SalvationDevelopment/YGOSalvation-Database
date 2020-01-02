@@ -2,7 +2,7 @@
     "id": 34767866,
     "ot": 3,
     "alias": 0,
-    "setcode": 280,
+    "setcode": 0,
     "type": 16401,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Cynet Token",
-    "desc": "Special Summoned by the effect of \"Cynet Ritual\".",
+    "desc": "Special Summoned with the effect of \"Cynet Ritual\"",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,8 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {},
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/Back-EN.png"
 }

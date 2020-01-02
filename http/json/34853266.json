@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Dark Crisis",
+        "pack_id": "DCR-075",
+        "date": "2003-12-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/52/Tsukuyomi-DUSA-EN-UR-1E.png"
 }

@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Primal Origin",
+        "pack_id": "PRIO-JP028",
+        "date": "2014-02-15"
+    },
+    "tcg": {
+        "pack": "Primal Origin",
+        "pack_id": "PRIO-DE028",
+        "date": "2014-05-15"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/MadolcheAnjelly-MP15-EN-UR-1E.png"
 }

@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "20th Rival Collection",
+        "pack_id": "VP16-JP004",
+        "date": "2016-07-21"
+    },
     "tcg": {
         "pack": "Code of the Duelist",
         "pack_id": "COTD-DE097",

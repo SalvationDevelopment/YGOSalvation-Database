@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 262144,
     "name": "Jack A' Booran",
-    "desc": "You can discard 1 Zombie monster; Special Summon this card from your hand. During your opponent's Main Phase (Quick Effect): You can target 1 Zombie monster in either GY; Special Summon it to your field, then banish this face-up card until the End Phase, also banish the Summoned monster when it leaves the field. You can only use each effect of \"Jack A' Booran\" once per turn.",
+    "desc": "You can discard 1 Zombie monster: Special Summon this card from your hand. During your opponent's Main Phase (Quick Effect): You can target 1 Zombie monster in either player's GY; Special Summon it, then banish this face-up card until the End Phase. Banish the monster Special Summoned by this effect when it leaves the field. You can only use each effect of \"Jack A' Booran\" once per turn.",
     "str1": "Special Summon",
     "str2": "Special Summon target",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP026",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/89/JackABooran-IGAS-JP-ScR.png"
 }

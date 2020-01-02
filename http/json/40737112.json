@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 1044,
     "name": "Dark Magician of Chaos",
-    "desc": "During the End Phase, if this card was Normal or Special Summoned this turn: You can target 1 Spell Card in your Graveyard; add it to your hand. You can only use this effect of \"Dark Magician of Chaos\" once per turn. If this card destroys  an opponent's monster by battle, after damage calculation: Banish that opponent's monster. If this face-up card would leave the field, banish it instead.",
+    "desc": "During the End Phase, if this card was Normal or Special Summoned this turn: You can target 1 Spell in your GY; add it to your hand. You can only use this effect of \"Dark Magician of Chaos\" once per turn. If this card destroys an opponent's monster by battle, after damage calculation: Banish that opponent's monster. If this face-up card would leave the field, banish it instead.",
     "str1": "Spell recovery",
     "str2": "",
     "str3": "",
@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ad/DarkMagicianofChaos-DUSA-EN-UR-1E.png"
+    "tcg": {
+        "pack": "Invasion of Chaos",
+        "pack_id": "IOC-065",
+        "date": "2004-03-01"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/17/DarkMagicianofChaos-SR08-EN-C-1E.png"
 }

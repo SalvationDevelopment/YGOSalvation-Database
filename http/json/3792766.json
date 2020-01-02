@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 8208,
     "name": "Trickstar Delfiendium",
-    "desc": "2+ \"Trickstar\" monsters\r\nWhen this card declares an attack while pointing to a \"Trickstar\" monster: You can target your banished \"Trickstar\" cards, up to the number of Link Monsters your opponent controls; add them to your hand, and if you do, this card gains 1000 ATK for each card added, until the end of this turn.",
+    "desc": "Link Arrows: [🡷][🡱][🡶]\n\n2+ \"Trickstar\" monsters\nWhen this card declares an attack while pointing to a \"Trickstar\" monster: You can target your banished \"Trickstar\" cards, up the number of Link Monsters your opponent controls; add them to your hand, and if you do, this card gains 1000 ATK for each card added, until the end of this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE040",
+        "date": "2018-05-03"
+    },
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP040",
+        "date": "2018-01-13"
+    },
+    "links": [
+        1,
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6a/TrickstarDelfiendium-FLOD-EN-R-1E.png"
 }

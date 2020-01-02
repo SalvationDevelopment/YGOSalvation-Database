@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Crimson Crisis",
+        "pack_id": "CRMS-JP024",
+        "date": "2008-11-15"
+    },
     "tcg": {
-        "pack": "OTS Tournament Pack 10",
-        "pack_id": "OP10-PT014",
-        "date": "2019-04-18"
+        "pack": "Crimson Crisis",
+        "pack_id": "CRMS-EN024",
+        "date": "2009-02-28"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/55/AssaultBeast-CRMS-EN-R-1E.png"
 }

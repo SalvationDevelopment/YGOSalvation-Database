@@ -2,7 +2,7 @@
     "id": 35187185,
     "ot": 2,
     "alias": 0,
-    "setcode": 305,
+    "setcode": 0,
     "type": 97,
     "atk": 3000,
     "def": 3000,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 19136515,
     "name": "Oneiros, the Dream Mirror Erlking",
-    "desc": "2 \"Dream Mirror\" monsters with different Attributes\r\nWhile face-up on the field, this card is also DARK-Attribute. You can only use each of the following effects of \"Oneiros, the Dream Mirror Erlking\" once per turn.\r\n● If another monster you control is Tributed (except during the Damage Step): You can target 1 card on the field; destroy it.\r\n● If this card in its owner's possession is destroyed by an opponent's card: You can Special Summon 1 \"Dream Mirror\" monster from your GY, except \"Oneiros, the Dream Mirror Erlking\".",
+    "desc": "2 \"Dream Mirror\" monsters with different Attributes.\nWhile face-up on the field, this card is also DARK-Attribute. You can only use each of the following effects of \"Oneiros, the Dream Mirror Erlking\" once per turn.\n● If another monster you control is Tributed (except during the Damage Step): You can target 1 card on the field; destroy it.\n● If this card is in its owner's possession is destroyed by an opponent's cards: You can Special Summon 1 \"Dream Mirror\" monster from your GY, except \"Oneiros, the Dream Mirror Erlking\".",
     "str1": "Destroy a card on the field",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "tcg": {
+        "pack": "Chaos Impact",
+        "pack_id": "CHIM-DE087",
+        "date": "2019-10-24"
+    },
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/27/OneirostheDreamMirrorErlking-CHIM-EN-SR-1E.png"
 }

@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Light of Destruction: Special Edition",
+        "pack_id": "LODT-DESE2",
+        "date": "2008-06-18"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/SoulRope-SDMY-EN-C-1E.png"
 }

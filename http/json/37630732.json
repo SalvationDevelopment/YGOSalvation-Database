@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Cybernetic Revolution",
+        "pack_id": "CRV-JP037",
+        "date": "2005-05-26"
+    },
+    "tcg": {
+        "pack": "Cybernetic Revolution",
+        "pack_id": "CRV-DE037",
+        "date": "2005-08-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/56/PowerBond-LED3-EN-C-1E.png"
 }

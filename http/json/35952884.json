@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Master Guide 3 promotional cards",
+        "pack_id": "MG03-JP002",
+        "date": "2011-03-25"
+    },
     "tcg": {
         "pack": "Shonen Jump December 2011 subscription bonus",
         "pack_id": "JUMP-EN055",

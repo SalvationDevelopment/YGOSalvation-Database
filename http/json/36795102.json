@@ -2,7 +2,7 @@
     "id": 36795102,
     "ot": 1,
     "alias": 0,
-    "setcode": 4148,
+    "setcode": 3412020,
     "type": 33,
     "atk": 3000,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Rainbow Dragon, the Zenith Crystal Beast",
-    "desc": "If this face-up card is destroyed in a Monster Zone, you can place it face-up in your Spell & Trap Zone as a Continuous Spell, instead of sending it to the GY. You can only use each of the following effects of \"Rainbow Dragon, the Zenith Crystal Beast\" once per turn.\r\n● When an attack is declared involving a \"Crystal Beast\" monster: You can Special Summon this card from your hand.\r\n● You can banish this Continuous Spell; Special Summon 1 Level 4 or lower \"Crystal Beast\" monster from your Deck, but negate its effects (if any), and if you do, add 1 \"Ultimate Crystal\" monster from your Deck to your hand.",
+    "desc": "If this face-up card is destroyed in a Monster Zone, you can place it face-up in your Spell & Trap Zone as a Continuous Spell, instead of sending it to the GY. You can only use each of the following effects of \"Rainbow Dragon, the Zenith Crystal Beast\" once per turn.\n● When an attack is declared involving a \"Crystal Beast\" monster: You can Special Summon this card from your hand.\n● You can banish this Continuous Spell; Special Summon 1 Level 4 or lower \"Crystal Beast\" monster from your Deck, but negate its effects (if any), and if you do, add 1 \"Ultimate Crystal\" monster from your Deck to your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Legendary Gold Box",
+        "pack_id": "LGB1-JP013",
+        "date": "2019-12-21"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/78/RainbowDragontheZenithCrystalBeast-LGB1-JP-OP.png"
 }

@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "The Lost Millennium",
+        "pack_id": "TLM-JP029",
+        "date": "2005-02-24"
+    },
     "tcg": {
-        "pack": "Duel Terminal 5b",
-        "pack_id": "DT05-EN057",
-        "date": "2011-09-29"
+        "pack": "The Lost Millennium",
+        "pack_id": "TLM-DE029",
+        "date": "2005-06-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/27/WynntheWindCharmer-DT05-EN-DNPR-DT.jpg"
 }

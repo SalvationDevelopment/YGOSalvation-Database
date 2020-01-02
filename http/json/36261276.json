@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Structure Deck: Dragonic Legion",
+        "pack_id": "SD22-TC038",
+        "date": "2015-04-18"
+    },
+    "tcg": {
+        "pack": "Dark Crisis",
+        "pack_id": "DCR-052",
+        "date": "2003-12-01"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/34/InterdimensionalMatterTransporter-LCKC-EN-ScR-1E.png"
 }

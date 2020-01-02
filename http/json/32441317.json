@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "The Duelist Genesis",
+        "pack_id": "TDGS-JP049",
+        "date": "2008-04-19"
+    },
     "tcg": {
-        "pack": "Duel Terminal 6b",
-        "pack_id": "DT06-EN092",
-        "date": "2012-05-25"
+        "pack": "The Duelist Genesis",
+        "pack_id": "TDGS-EN049",
+        "date": "2008-08-09"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c0/DeSynchro-HISU-EN-SR-1E.png"
 }

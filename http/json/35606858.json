@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 134479928,
     "name": "Masterking Archfiend",
-    "desc": "2 Fiend monsters\r\nOnce per turn, during your Standby Phase, pay 500 LP or destroy this card. Once per Chain, if you pay LP (except during the Damage Step): You can send 1 Fiend monster from your Deck to the GY with ATK or DEF equal to the amount paid. Once per Chain, if a Fiend monster(s) is sent to your GY (except during the Damage Step): You can roll a six-sided die, then apply this effect on 1 of those monsters based on the result.\r\n● 1: Add it to your hand.\r\n● 2, 3, 4, 5: Shuffle into the Deck.\r\n● 6: Special Summon it.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 Fiend monsters\nOnce per turn, during your Standby Phase, pay 500 LP or destroy this card. Once per Chain, if you pay LP (except during the Damage Step): You can send 1 Fiend monster from your Deck to the GY whose ATK or DEF is equal to the LP you paid. Once per Chain, if a Fiend monster(s) is sent to your GY (except during the Damage Step): You can roll a six-sided die and apply the result to 1 of those monsters. ● 1: Add it to your hand. ● 2, 3, 4, 5: Shuffle it into the Deck. ● 6: Special Summon it.",
     "str1": "Send a Fiend to the GY",
     "str2": "Roll die",
     "str3": "Pay the maintenance cost for \"Masterking Archfiend\"?",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE090",
+        "date": "2018-02-01"
+    },
+    "ocg": {
+        "pack": "LINK VRAINS Pack",
+        "pack_id": "LVP1-JP001",
+        "date": "2017-11-25"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/36/MasterkingArchfiend-EXFO-EN-R-1E.png"
 }

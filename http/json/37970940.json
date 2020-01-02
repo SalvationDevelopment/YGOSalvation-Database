@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "The Lost Millennium",
+        "pack_id": "TLM-JP026",
+        "date": "2005-02-24"
+    },
     "tcg": {
-        "pack": "Duel Terminal 5a",
-        "pack_id": "DT05-EN010",
-        "date": "2011-05-29"
+        "pack": "The Lost Millennium",
+        "pack_id": "TLM-DE026",
+        "date": "2005-06-01"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/03/AussatheEarthCharmer-DT05-EN-DNPR-DT.jpg"
 }

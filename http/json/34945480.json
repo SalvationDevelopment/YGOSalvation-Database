@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Extra Pack 2015",
+        "pack_id": "EP15-JP036",
+        "date": "2015-09-19"
+    },
     "tcg": {
         "pack": "Shadows in Valhalla",
         "pack_id": "SHVA-DE018",

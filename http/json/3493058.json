@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Order of Chaos",
+        "pack_id": "ORCS-JP063",
+        "date": "2011-11-19"
+    },
     "tcg": {
-        "pack": "Emperor of Darkness Structure Deck",
-        "pack_id": "SR01-PT032",
-        "date": "2016-01-29"
+        "pack": "Order of Chaos",
+        "pack_id": "ORCS-EN063",
+        "date": "2012-01-14"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/79/Dicephoon-SS02-EN-C-1E.png"
 }

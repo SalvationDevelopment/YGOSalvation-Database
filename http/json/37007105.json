@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 7,
     "name": "Cybersal Cyclone",
-    "desc": "Target 1 Link Monster your opponent controls; banish 1 monster from your GY that has the same Link Rating as that monster, and if you do, destroy that monster, then, if the original Type of the monster you banished was Cyberse, you can destroy 1 face-up card in your opponent's Spell & Trap Zone.",
+    "desc": "Target 1 Link Monster your opponent controls; banish 1 monster from your GY with the same Link Rating as that monster, and if you do, destroy that monster, then, if the original Type of the monster you banished is Cyberse, you can destroy 1 face-up card in your opponent's Spell & Trap Zone.",
     "str1": "Destroy a Spell/Trap?",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-DE053",
+        "date": "2018-05-03"
+    },
+    "ocg": {
+        "pack": "Flames of Destruction",
+        "pack_id": "FLOD-JP053",
+        "date": "2018-01-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fa/CybersalCyclone-FLOD-EN-C-1E.png"
 }

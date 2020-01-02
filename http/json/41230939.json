@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Cyberdark Impact",
+        "pack_id": "CDIP-JP001",
+        "date": "2006-08-10"
+    },
     "tcg": {
-        "pack": "Duel Terminal 4",
-        "pack_id": "DT04-EN002",
-        "date": "2011-01-25"
+        "pack": "Cyberdark Impact",
+        "pack_id": "CDIP-FR001",
+        "date": "2006-11-04"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/CyberdarkHorn-LEDU-EN-C-1E.png"
 }

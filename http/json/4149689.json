@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Yu-Gi-Oh! Duel Monsters III: Tri-Holy God Advent promotional cards",
+        "pack_id": "G3-04",
+        "date": "2000-07-13"
+    },
     "tcg": {
         "pack": "Yu-Gi-Oh! The Falsebound Kingdom Bundles",
         "pack_id": "TFK-003",

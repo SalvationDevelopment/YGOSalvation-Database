@@ -30,11 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Structure Deck: Undead World",
+        "pack_id": "SD15-JP002",
+        "date": "2008-06-21"
+    },
     "tcg": {
-        "pack": "Legendary Collection 4: Joey's World Mega Pack",
-        "pack_id": "LCJW-PT207",
-        "date": "2013-10-11"
+        "pack": "Zombie World Structure Deck",
+        "pack_id": "SDZW-DE002",
+        "date": "2008-10-21"
     },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c9/MalevolentMechGokuEn-SR07-EN-C-1E.png"
 }

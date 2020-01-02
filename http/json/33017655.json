@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Structure Deck: Devil's Gate",
+        "pack_id": "SD21-JP022",
+        "date": "2011-06-18"
+    },
     "tcg": {},
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/21/TheGatesofDarkWorld-LCJW-EN-UR-1E.png"
 }

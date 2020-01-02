@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Chaos Impact Special Edition",
+        "pack_id": "CHIM-DESE4",
+        "date": "2019-12-05"
+    },
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP077",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/98/ArmoryCall-CHIM-EN-SR-LE.png"
 }

@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Power of the Duelist",
+        "pack_id": "POTD-JP009",
+        "date": "2006-05-18"
+    },
+    "tcg": {
+        "pack": "Power of the Duelist",
+        "pack_id": "POTD-DE009",
+        "date": "2006-08-16"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/52/Ambulanceroid-YSDS-EN-C-1E.png"
 }

@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Structure Deck: Devil's Gate",
+        "pack_id": "SD21-JP001",
+        "date": "2011-06-18"
+    },
     "tcg": {},
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/de/GraphaDragonLordofDarkWorld-PGL2-EN-GUR-1E.png"
 }

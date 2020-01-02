@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Gladiator's Assault",
+        "pack_id": "GLAS-IT091",
+        "date": "2007-11-03"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/eb/GilGarth-DEM2-EN-C-UE.png"
 }

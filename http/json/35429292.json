@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Expert Edition Volume 1",
+        "pack_id": "HGP1-KR125",
+        "date": "2006-07-06"
+    },
+    "tcg": {
+        "pack": "Magician's Force",
+        "pack_id": "MFC-070",
+        "date": "2004-01-19"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/27/PixieKnight-DR1-EN-C-UE.png"
 }

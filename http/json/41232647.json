@@ -2,7 +2,7 @@
     "id": 41232647,
     "ot": 3,
     "alias": 0,
-    "setcode": 307,
+    "setcode": 0,
     "type": 97,
     "atk": 3000,
     "def": 2000,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262146,
     "name": "House Dragonmaid",
-    "desc": "1 \"Dragonmaid\" monster + 1 Dragon monster\r\nOnce per turn, during the Standby Phase: You can target 1 other \"Dragonmaid\" monster you control; Special Summon 1 \"Dragonmaid\" monster from your hand or GY in Defense Position, whose Level is 1 higher or 1 lower than it. When another face-up Dragon monster(s) you control returns to your hand (except during the Damage Step): You can target 1 monster your opponent controls; destroy it.",
+    "desc": "1 \"Dragonmaid\" monster + 1 Dragon monster\nOnce per turn, during the Standby Phase: You can target 1 other \"Dragonmaid\" monster you control; Special Summon 1 \"Dragonmaid\" monster from your hand or GY in Defense Position, whose Level is 1 higher or 1 lower than it. When another face-up Dragon monster(s) you control returns to your hand (except during the Damage Step): You can target 1 monster your opponent controls; destroy it.",
     "str1": "Special Summon from hand or Deck",
     "str2": "Target to destroy",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Mystic Fighters",
+        "pack_id": "MYFI-DE022",
+        "date": "2019-11-21"
+    },
+    "ocg": {
+        "pack": "Deck Build Pack: Mystic Fighters",
+        "pack_id": "DBMF-JP022",
+        "date": "2019-08-03"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bd/HouseDragonmaid-MYFI-EN-ScR-1E.png"
 }

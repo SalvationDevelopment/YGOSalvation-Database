@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 17041408,
     "name": "F.A. Test Run",
-    "desc": "Target 1 \"F.A.\" monster you control; change its battle position, then, destroy 1 card on the field. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 face-up card you control; destroy it, and if you do, Special Summon 1 \"F.A.\" monster from your Deck. You can only use each effect of \"F.A. Test Run\" once per turn.",
+    "desc": "Target 1  \"F.A.\" monster you control; change its battle position, then, destroy 1 card on the field. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 face-up card you control; destroy it, and if you do, Special Summon 1 \"F.A.\" monster from your Deck. You can only use each effect of \"F.A. Test Run\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Extreme Force",
+        "pack_id": "EXFO-DE089",
+        "date": "2018-02-01"
+    },
+    "ocg": {
+        "pack": "Extra Pack 2018",
+        "pack_id": "EP18-JP034",
+        "date": "2018-09-08"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4d/FATestRun-EXFO-EN-C-1E.png"
 }

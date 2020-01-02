@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Cyberdark Impact",
+        "pack_id": "CDIP-JP044",
+        "date": "2006-08-10"
+    },
+    "tcg": {
+        "pack": "Cyberdark Impact",
+        "pack_id": "CDIP-FR044",
+        "date": "2006-11-04"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f7/MiraculousRebirth-CP08-EN-C-UE.png"
 }

@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 3,
     "name": "Levia-Dragon - Daedalus",
-    "desc": "You can send 1 face-up \"Umi\" you control to the Graveyard; destroy all other cards on the field.",
+    "desc": "You can send 1 face-up \"Umi\" you control to the GY; destroy all other cards on the field.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -32,9 +32,9 @@
     "cardpool": "OCG/TCG",
     "ocg": {},
     "tcg": {
-        "pack": "Hobby League 1 participation cards B",
-        "pack_id": "HL1-EN004",
-        "date": "2004-12-01"
+        "pack": "Invasion of Chaos",
+        "pack_id": "IOC-083",
+        "date": "2004-03-01"
     },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3e/LeviaDragonDaedalus-LCYW-EN-ScR-1E.png"
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/04/LeviaDragonDaedalus-SBAD-EN-UR-1E.png"
 }

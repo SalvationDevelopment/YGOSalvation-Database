@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Duelist Alliance",
+        "pack_id": "DUEA-JP027",
+        "date": "2014-04-19"
+    },
+    "tcg": {
+        "pack": "Duelist Alliance",
+        "pack_id": "DUEA-DE027",
+        "date": "2014-08-14"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f6/ShaddollBeast-MP15-EN-R-1E.png"
 }

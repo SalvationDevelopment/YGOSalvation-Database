@@ -31,6 +31,10 @@
     "links": [],
     "cardpool": "OCG/TCG",
     "ocg": {},
-    "tcg": {},
+    "tcg": {
+        "pack": "Extreme Victory",
+        "pack_id": "EXVC-EN098",
+        "date": "2011-04-30"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/43/NaturiaEggplant-EXVC-EN-SR-1E.jpg"
 }

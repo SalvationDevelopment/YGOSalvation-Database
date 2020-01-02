@@ -2,7 +2,7 @@
     "id": 38267552,
     "ot": 2,
     "alias": 0,
-    "setcode": 305,
+    "setcode": 0,
     "type": 33,
     "atk": 2800,
     "def": 1000,
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG"
+    "cardpool": "TCG",
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE088",
+        "date": "2019-07-25"
+    },
+    "ocg": {},
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/MorpheustheDreamMirrorBlackKnight-RIRA-EN-UR-1E.png"
 }

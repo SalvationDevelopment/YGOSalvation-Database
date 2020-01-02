@@ -2,7 +2,7 @@
     "id": 39730727,
     "ot": 3,
     "alias": 0,
-    "setcode": 300,
+    "setcode": 0,
     "type": 524290,
     "atk": 0,
     "def": 0,
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-DE058",
+        "date": "2019-07-25"
+    },
+    "ocg": {
+        "pack": "Rising Rampage",
+        "pack_id": "RIRA-JP058",
+        "date": "2019-04-13"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0f/FlawlessPerfectionoftheTenyi-RIRA-EN-R-1E.png"
 }

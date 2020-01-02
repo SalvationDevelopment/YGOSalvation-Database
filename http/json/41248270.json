@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Traffic Ghost",
-    "desc": "3 monsters",
+    "desc": "Link Arrows: [🡷][🡳][🡶]\n\n3 monsters",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,21 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Structure Deck: Powercode Link",
+        "pack_id": "SDPL-DE041",
+        "date": "2018-08-09"
+    },
+    "ocg": {
+        "pack": "Structure Deck: Powercode Link",
+        "pack_id": "SD33-JP041",
+        "date": "2017-12-09"
+    },
+    "links": [
+        5,
+        6,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/90/TrafficGhost-SDPL-EN-C-1E.png"
 }

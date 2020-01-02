@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Head Judging",
-    "desc": "When either player activates a monster effect on the field: You can activate this effect; that player tosses a coin and calls it. If they call it right, send this card to the GY. If they call it wrong, negate the activation, and if you do, give control of that monster to that player's opponent. You can only use this effect of \"Head Judging\" once per turn.",
+    "desc": "When either player activates a monster effect on the field: You can have the activating player toss 1 coin and call it. If they call it right, send this card to the GY. If they call it wrong, negate that activation, and if you do, they give control of that monster to their opponent. You can only use this effect of \"Head Judging\" once per turn.",
     "str1": "Negate the effect",
     "str2": "Call a result",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP080",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b5/HeadJudging-IGAS-JP-NR.png"
 }

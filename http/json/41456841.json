@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 819200,
     "name": "Metamorphosed Insect Queen",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. If another Insect monster is on the field, your opponent cannot target Insect monsters you control with card effects, also they cannot be destroyed by your opponent's card effects. At the end of the Damage Step, if this card attacked: You can Tribute 1 monster; this card can attack an opponent's monster again in a row. Once per turn, during the End Phase: You can Special Summon 1 \"Insect Monster Token\" (Insect/EARTH/Level 1/ATK 100/DEF 100).",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. If another Insect monster is on the field, your opponent cannot target  Insect monsters you control with card effects, also they cannot be destroyed by your opponent's card effects. At the end of the Damage Step, if this card attacked: You can Tribute 1 monster; this card can attack an opponent's monster again in a row. Once per turn, during the End Phase: You can Special Summon 1 \"Insect Monster Token\" (Insect/EARTH/Level 1/ATK 100/DEF 100).",
     "str1": "Attack again?",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,16 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Legendary Duelists: Ancient Millennium",
+        "pack_id": "LED2-DE008",
+        "date": "2018-02-22"
+    },
+    "ocg": {
+        "pack": "Duelist Pack: Legend Duelist 2",
+        "pack_id": "DP19-JP008",
+        "date": "2017-11-11"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3d/MetamorphosedInsectQueen-LED2-EN-SR-1E.png"
 }

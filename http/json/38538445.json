@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Mythological Age",
+        "pack_id": "MA-24",
+        "date": "2001-11-29"
+    },
     "tcg": {
         "pack": "Legacy of Darkness",
         "pack_id": "LOD-072",

@@ -2,7 +2,7 @@
     "id": 3356494,
     "ot": 3,
     "alias": 0,
-    "setcode": 4219,
+    "setcode": 8065147,
     "type": 67108897,
     "atk": 2000,
     "def": 5,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262160,
     "name": "Galaxy-Eyes Solflare Dragon",
-    "desc": "2 LIGHT monsters, including a monster with 2000 or more ATK\r\nIf this card is Link Summoned: You can target 1 \"Photon\" or \"Galaxy\" monster in your GY; add it to your hand. During your opponent's Main Phase (Quick Effect): You can discard 1 \"Photon\" card and 1 \"Galaxy\" card, OR discard 1 \"Galaxy-Eyes Photon Dragon\", then target 1 Special Summoned monster your opponent controls; destroy it. You can only use each effect of \"Galaxy-Eyes Solflare Dragon\" once per turn.",
+    "desc": "Link Arrows: [🡷][🡶]\n\n2 LIGHT monsters, including a monster with 2000 or more ATK\nIf this card is Link Summoned: You can target 1 &#x201C;Photon&#x201D; or &#x201C;Galaxy&#x201D; monster in your GY; add it to your hand. During your opponent's Main Phase (Quick Effect): You can discard 1 &#x201C;Photon&#x201D; and 1 &#x201C;Galaxy&#x201D; card, OR discard 1 &#x201C;Galaxy-Eyes Photon Dragon&#x201D;, then target 1 Special Summoned monster your opponent controls; destroy it. You can only use each effect of &#x201C;Galaxy-Eyes Solflare Dragon&#x201D; once per turn.",
     "str1": "Add to hand",
     "str2": "Destroy",
     "str3": "Use only 1 \"Galaxy-Eyes Photon Dragon\"?",
@@ -28,5 +28,20 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG"
+    "cardpool": "OCG/TCG",
+    "tcg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-DE042",
+        "date": "2018-10-18"
+    },
+    "ocg": {
+        "pack": "Soul Fusion",
+        "pack_id": "SOFU-JP042",
+        "date": "2018-07-14"
+    },
+    "links": [
+        5,
+        7
+    ],
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fe/GalaxyEyesSolflareDragon-SOFU-EN-UR-1E.png"
 }

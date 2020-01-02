@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 262144,
     "name": "Tune Knight",
-    "desc": "If this card is Special Summoned: You can treat this card as a Tuner this turn, also for the rest of this turn, you can only Special Summon from the Extra Deck once. Once per turn, you can either: Target 1 face-up monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+    "desc": "If this card is Special Summoned: You can treat this card as a Tuner for the rest of this turn, but you can only Special Summon one more time from the Extra Deck this turn. Once per turn, you can either: equip this card to a face-up monster you control OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or a card effect, you can destroy this card instead.",
     "str1": "Treat this card as tuner",
     "str2": "Affected by \"Tune Knight\"",
     "str3": "",
@@ -28,5 +28,12 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG",
+    "tcg": {},
+    "ocg": {
+        "pack": "Ignition Assault",
+        "pack_id": "IGAS-JP031",
+        "date": "2019-10-12"
+    },
+    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a5/TuneKnight-IGAS-JP-C.png"
 }

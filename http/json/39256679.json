@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Yu-Gi-Oh! Duel Monsters III: Tri-Holy God Advent promotional cards",
+        "pack_id": "G3-08",
+        "date": "2000-07-13"
+    },
     "tcg": {
         "pack": "Yu-Gi-Oh! The Duelists of the Roses",
         "pack_id": "DOR-002",

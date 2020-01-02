@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 139360,
     "name": "Earthbound Immortal Wiraqocha Rasca",
-    "desc": "There can only be 1 \"Earthbound Immortal\" monster on the field. If there is no face-up Field Spell Card on the field, destroy this card. Your opponent cannot target this card for attacks. This card can attack your opponent directly. If this card is Normal Summoned: Target up to 3 cards you control, except this card; shuffle those targets into your Deck, then discard as many random cards from your opponent's hand as possible, but not more than the number of returned cards, and if you do, this card gains 1000 ATK for each card discarded by this effect.",
+    "desc": "There can only be 1 \"Earthbound Immortal\" monster on the field. If there is no face-up Field Spell on the field, destroy this card. Your opponent's monsters cannot target this card for attacks. This card can attack directly. If this card is Normal Summoned: Target 1 to 3 cards you control, but not more than your opponent has in their hand; shuffle them into the Deck, then discard the same number of random cards from your opponent's hand (or as many as possible), and if you do, this card gains 1000 ATK for each card discarded by this effect.",
     "str1": "Return to deck",
     "str2": "",
     "str3": "",
@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "Stardust Overdrive",
+        "pack_id": "SOVR-JP026",
+        "date": "2009-07-18"
+    },
     "tcg": {
         "pack": "Collectible Tins 2009 Wave 2",
         "pack_id": "CT06-EN004",

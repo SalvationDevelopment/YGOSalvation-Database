@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "Starter Deck 2008",
+        "pack_id": "YSD3-JP033",
+        "date": "2008-03-15"
+    },
+    "tcg": {
+        "pack": "Starter Deck: Yu-Gi-Oh! 5D's",
+        "pack_id": "5DS1-DE033",
+        "date": "2008-08-05"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/95/Miniaturize-BP03-EN-C-1E.png"
 }

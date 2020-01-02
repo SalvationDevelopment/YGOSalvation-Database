@@ -30,7 +30,15 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
-    "tcg": {},
+    "ocg": {
+        "pack": "STARTER PACK Volume 3",
+        "pack_id": "SP03-TC027",
+        "date": "2014-11-29"
+    },
+    "tcg": {
+        "pack": "Magician's Force",
+        "pack_id": "MFC-079",
+        "date": "2003-10-10"
+    },
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7c/MagicalMerchant-SDPL-EN-C-1E.png"
 }

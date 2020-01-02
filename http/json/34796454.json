@@ -30,7 +30,11 @@
     "str16": "",
     "links": [],
     "cardpool": "OCG/TCG",
-    "ocg": {},
+    "ocg": {
+        "pack": "V Jump Edition 5",
+        "pack_id": "VE05-JP003",
+        "date": "2011-05-21"
+    },
     "tcg": {},
     "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ca/TripleStarTrion-ZTIN-EN-SR-1E.png"
 }
