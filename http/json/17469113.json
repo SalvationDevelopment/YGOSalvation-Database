@@ -1,6 +1,6 @@
 {
     "id": 17469113,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33554465,
@@ -10,10 +10,10 @@
     "race": 16777216,
     "attribute": 16,
     "category": 262176,
-    "name": "A-vida, the Dual World Crafter",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) while there are 8 or more Link Monsters with different names on the field and/or in the GYs. You cannot Special Summon other monsters the turn you Special Summon this card. This card's Special Summon cannot be negated. If this card is Special Summoned: Shuffle all other monsters into the Deck, from among the cards on the field, in the GYs, and face-up banished cards. Neither player can activate cards or effects in response to this effect's activation.",
+    "name": "Avida, Rebuilder of Worlds",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by there being at least 8 or more Link Monsters with different names on the field and/or in the GYs. You cannot Special Summon other monsters the turn you Special Summon this card. This card's Special Summon cannot be negated. If this card is Special Summoned: Shuffle all other monsters that are banished, on the field, and in the GYs into the Decks. Neither player can activate cards or effects in response to this effect's activation.",
     "str1": "Shuffle all monsters into the deck",
-    "str2": "Affected by \"A-vida, the Dual World Crafter\"",
+    "str2": "Affected by \"Avida, Rebuilder of Worlds\"",
     "str3": "",
     "str4": "",
     "str5": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Rising Rampage",
-        "pack_id": "RIRA-JP027",
-        "date": "2019-04-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cc/AvidatheDualWorldCrafter-RIRA-JP-20ScR.png"
+    "cardpool": "OCG/TCG"
 }

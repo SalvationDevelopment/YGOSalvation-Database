@@ -1,6 +1,6 @@
 {
     "id": 85763457,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 254,
     "type": 1048580,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 2164260864,
-    "name": "World Legacy Echo",
-    "desc": "When your opponent activates a Spell/Trap Card, or monster effect, while you control a co-linked monster: Negate the activation, and if you do, destroy that card. You can only activate 1 \"World Legacy Echo\" per turn.",
+    "name": "World Legacy's Sorrow",
+    "desc": "When your opponent activates a Spell/Trap Card, or monster effect, while you control a co-linked monster(s): Negate the activation, and if you do, destroy that card. You can only activate 1 \"World Legacy's Sorrow\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP073",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6d/WorldLegacyEcho-FLOD-JP-R.png"
+    "cardpool": "OCG/TCG"
 }

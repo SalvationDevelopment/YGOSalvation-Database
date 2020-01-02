@@ -1,6 +1,6 @@
 {
     "id": 59160188,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 524290,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 786432,
     "name": "Lair of Darkness",
-    "desc": "All face-up monsters on the field become DARK. Once per turn, if you would Tribute a monster(s) to activate a card or effect, you can Tribute 1 DARK monster your opponent controls as if you controlled it. Once per turn, during the End Phase: Special Summon as many \"Shadow Tokens\" (Fiend/DARK/Level 3/ATK 1000/DEF 1000) as possible to the turn player's field in Defense Position, up to the number of monsters that were Tributed this turn while this card was face-up on the field.",
+    "desc": "All face-up monsters on the field become DARK. Once per turn, if you would Tribute a monster you control to activate a card effect, you can Tribute 1 DARK monster your opponent controls, even though you do not control it. Once per turn, during the End Phase: Special Summon as many \"Torment Tokens\" (Fiend/DARK/Level 3/ATK 1000/DEF 1000) as possible to the turn player's field in Defense Position, up to the number of monsters Tributed this turn while this card was face-up.",
     "str1": "Can substitute",
     "str2": "Summon another Token?",
     "str3": "Tribute 1 DARK monster your opponent controls through \"Lair of Darkness\"?",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Structure Deck R: Curse of the Dark",
-        "pack_id": "SR06-JP022",
-        "date": "2018-03-10"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e8/LairofDarkness-SR06-JP-SR.jpg"
+    "cardpool": "OCG/TCG"
 }

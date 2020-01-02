@@ -1,6 +1,6 @@
 {
     "id": 60942444,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 300,
     "type": 33,
@@ -10,8 +10,8 @@
     "race": 8388608,
     "attribute": 4,
     "category": 2147745792,
-    "name": "Tenyi Dragon Manira",
-    "desc": "If you control no Effect Monsters: You can Special Summon this card from your hand. When your opponent activates a card or effect that targets a face-up non-Effect Monster(s) you control (Quick Effect): You can banish this card from your hand or GY; negate the activation, and if you do, destroy that card. You can only use each effect of \"Tenyi Dragon Manira\" once per turn.",
+    "name": "Tenyi Spirit - Mapura",
+    "desc": "If you control no Effect Monsters: You can Special Summon this card from your hand. When your opponent activates a card or effect that targets a face-up non-Effect Monster(s) you control (Quick Effect): You can banish this card from your hand or GY; negate the activation, and if you do, destroy that card. You can only use each effect of \"Tenyi Spirit - Mapura\" once per turn.",
     "str1": "Special Summon",
     "str2": "Negate activation",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

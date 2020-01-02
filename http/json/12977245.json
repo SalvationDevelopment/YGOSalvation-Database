@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Altergeist Fifinellag",
-    "desc": "Monsters your opponent controls cannot target &#x201C;Altergeist&#x201D; monsters you control for attacks, except \"Altergeist Fifinellag\", also your opponent cannot target \"Altergeist\" monsters you control with card effects, except \"Altergeist Fifinellag\".",
+    "desc": "Monsters your opponent controls cannot target \"Altergeist\" monsters you control for attacks, except \"Altergeist Fifinellag\", also your opponent cannot target \"Altergeist\" monsters you control with card effects, except \"Altergeist Fifinellag\".",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Dark Neostorm",
-        "pack_id": "DANE-DE005",
-        "date": "2019-05-02"
-    },
-    "ocg": {
-        "pack": "Dark Neostorm",
-        "pack_id": "DANE-JP005",
-        "date": "2019-01-12"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c3/AltergeistFifinellag-DANE-EN-C-1E.png"
+    "cardpool": "OCG/TCG"
 }

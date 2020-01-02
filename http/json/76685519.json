@@ -1,6 +1,6 @@
 {
     "id": 76685519,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 259,
     "type": 67108897,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262160,
     "name": "Altergeist Kidolga",
-    "desc": "Link Arrows: [🡰][🡳]\n\n2 \"Altergeist\" monsters\nWhen your other \"Altergeist\" monster inflicts battle damage to your opponent: You can target 1 monster in your opponent's GY; Special Summon it to your zone this card points to, but it cannot attack, except during the turn this card declared an attack. If this card is destroyed by battle: You can target 1 \"Altergeist\" card in your GY; add it to your hand.",
+    "desc": "2 \"Altergeist\" monsters\r\nWhen another \"Altergeist\" monster you control inflicts battle damage to your opponent: You can target 1 monster in their GY; Special Summon it to your zone this card points to, but each turn, it cannot attack unless this card has already declared an attack that turn. If this card is destroyed by battle: You can target 1 \"Altergeist\" card in your GY; add it to your hand.",
     "str1": "Special Summon",
     "str2": "Salvage \"Altergeist\" card",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP042",
-        "date": "2018-01-13"
-    },
-    "links": [
-        3,
-        6
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/be/AltergeistKidolga-FLOD-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

@@ -1,6 +1,6 @@
 {
     "id": 43735670,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 299,
     "type": 67108897,
@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 16,
     "name": "Marincess Blue Slug",
-    "desc": "1 Level 4 or lower \"Marincess\" monster\r\nYou can only Link Summon \"Marincess Blue Slug(s)\" once per turn. If this card is Link Summoned: You can target 1 \"Marincess\" monster in your GY, except \"Marincess Blue Slug\"; add it to your hand, also you cannot Special Summon monsters for the rest of this turn, except WATER monsters.",
+    "desc": "1 Level 4 or lower \"Marincess\" monster\r\nIf this card is Link Summoned: You can target 1 \"Marincess\" monster in your GY, except \"Marincess Blue Slug\"; add it to your hand, also you cannot Special Summon monsters for the rest of this turn, except WATER monsters. You can only Link Summon \"Marincess Blue Slug\" once per turn.",
     "str1": "",
     "str2": "Affected by \"Marincess Blue Slug\"",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

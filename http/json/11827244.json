@@ -1,6 +1,6 @@
 {
     "id": 11827244,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 70,
     "type": 2,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 268697600,
     "name": "Magicalized Fusion",
-    "desc": "Fusion Summon 1 Spellcaster Fusion Monster from your Extra Deck, by banishing materials from your field or GY. You can only activate 1 \"Magicalized Fusion\" per turn.",
+    "desc": "Fusion Summon 1 Spellcaster Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or GY. You can only activate 1 \"Magicalized Fusion\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Dark Neostorm Special Edition",
-        "pack_id": "DANE-ENSE?",
-        "date": "2019-06-14"
-    },
-    "ocg": {
-        "pack": "The Valuable Book 20",
-        "pack_id": "VB20-JP002",
-        "date": "2018-02-23"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9a/MagicalizedFusion-VB20-JP-UR.png"
+    "cardpool": "OCG/TCG"
 }

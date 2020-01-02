@@ -1,6 +1,6 @@
 {
     "id": 70109009,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 33,
     "type": 131076,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 2,
-    "name": "The Ultimate Earthbound Immortal",
-    "desc": "If a Normal Summoned/Set \"Earthbound Immortal\" monster is on the field: You can target 1 face-up monster on the field; destroy it. You can only use this effect of \"The Ultimate Earthbound Immortal\" once per turn.",
+    "name": "Ultimate Earthbound Immortal",
+    "desc": "If a Normal Summoned/Set \"Earthbound Immortal\" monster is on the field: You can target 1 face-up monster on the field; destroy it. You can only use this effect of \"Ultimate Earthbound Immortal\" once per turn.",
     "str1": "Destroy",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "DP22",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

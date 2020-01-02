@@ -1,6 +1,6 @@
 {
     "id": 99550630,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 277,
     "type": 2,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 16777216,
-    "name": "Brandish Skill Afterburner",
-    "desc": "If you control no monsters in your Main Monster Zones: Target 1 face-up monster on the field; destroy it, then if you have 3 or more Spells in your GY, you can destroy 1 Spell/Trap on the field.",
+    "name": "Sky Striker Maneuver - Afterburners!",
+    "desc": "If you control no monsters in your Main Monster Zone: Target 1 face-up monster on the field; destroy it, then, if you have 3 or more Spells in your GY, you can destroy 1 Spell/Trap on the field.",
     "str1": "Destroy 1 Spell/Trap?",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Deck Build Pack: Dark Savers",
-        "pack_id": "DBDS-JP031",
-        "date": "2018-02-24"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8a/BrandishSkillAfterburner-DBDS-JP-SR.png"
+    "cardpool": "OCG/TCG"
 }

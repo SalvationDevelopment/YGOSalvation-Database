@@ -1,6 +1,6 @@
 {
     "id": 11167052,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 131076,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262160,
     "name": "Elemental Training",
-    "desc": "Your opponent cannot target \"Palace of the Elemental Lords\" you control with card effects, also it cannot be destroyed by card effects. Once per turn: You can Tribute 1 monster; Special Summon 1 \"Elementsaber\" monster from your Deck with a different original Attribute from that monster's. You can send this face-up card from the field to the GY; discard your entire hand, then add \"Elemental Lord\" monsters from your GY to your hand, equal to the number of cards discarded.",
+    "desc": "Your opponent cannot target \"Palace of the Elemental Lords\" you control with card effects, also it cannot be destroyed by card effects. Once per turn: You can Tribute 1 monster; Special Summon 1 \"Elementsaber\" monster from your Deck with a different original Attribute than that monster's. You can send this face-up card from the field to the GY; discard your entire hand, then add \"Elemental Lord\" monsters from your GY to your hand, equal to the number of cards discarded.",
     "str1": "Special Summon",
     "str2": "Discard & search \"Elemental Lord\"(s)",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-DE074",
-        "date": "2018-05-03"
-    },
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP074",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/ElementalTraining-FLOD-EN-UR-1E.png"
+    "cardpool": "OCG/TCG"
 }

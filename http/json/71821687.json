@@ -1,6 +1,6 @@
 {
     "id": 71821687,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -10,8 +10,8 @@
     "race": 2,
     "attribute": 1,
     "category": 262144,
-    "name": "Envoy Oracle of Ascator",
-    "desc": "You can discard 1 other card; Special Summon this card from your hand in Defense Position, then you can Special Summon 1 \"Fire Ant Ascator\" from your hand or Deck. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except Synchro Monsters. You can only use this effect of \"Envoy Oracle of Ascator\" once per turn.",
+    "name": "Ascator, Dawnwalker",
+    "desc": "You can discard 1 card; Special Summon this card from your hand in Defense Position, then you can Special Summon 1 \"Fire Ant Ascator\" from your hand or Deck. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except Synchro Monsters. You can only use this effect of \"Ascator, Dawnwalker\" once per turn.",
     "str1": "Special Summon",
     "str2": "Special Summon 1 \"Fire Ant Ascator\"?",
     "str3": "Affected by \"Envoy Oracle of Ascator\"",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "DP22",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

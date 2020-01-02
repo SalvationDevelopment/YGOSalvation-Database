@@ -1,6 +1,6 @@
 {
     "id": 44586427,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 40,
     "type": 16401,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Batteryman Token",
-    "desc": "Special Summoned with the effect of \"Solar Batteryman\".",
+    "desc": "Summoned by the effect of \"Batteryman Solar\".",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,8 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/Back-EN.png",
-    "tcg": {},
-    "ocg": {}
+    "cardpool": "OCG/TCG"
 }

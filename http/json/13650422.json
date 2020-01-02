@@ -1,8 +1,8 @@
 {
     "id": 13650422,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
-    "setcode": 8,
+    "setcode": 24584,
     "type": 33,
     "atk": 2100,
     "def": 800,
@@ -10,8 +10,8 @@
     "race": 8,
     "attribute": 16,
     "category": 528,
-    "name": "Evil HERO Aduster Gold",
-    "desc": "You can discard this card; add 1 \"Dark Fusion\", or 1 card that specifically lists \"Dark Fusion\" in its text, from your Deck to your hand, except \"Evil HERO Aduster Gold\". You can only use this effect of \"Evil HERO Aduster Gold\" once per turn. Cannot attack unless you control a Fusion Monster.",
+    "name": "Evil HERO Adusted Gold",
+    "desc": "You can discard this card; add 1 \"Dark Fusion\", or 1 card that specifically lists \"Dark Fusion\" in its text, from your Deck to your hand, except \"Evil HERO Adusted Gold\". You can only use this effect of \"Evil HERO Adusted Gold\" once per turn. Cannot attack unless you control a Fusion Monster.",
     "str1": "Search",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "DP22",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Duelist Pack: Legend Duelist 5",
-        "pack_id": "DP22-JP013",
-        "date": "2019-06-08"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2a/EvilHEROAdusterGold-DP22-JP-OP.png"
+    "cardpool": "OCG/TCG"
 }

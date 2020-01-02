@@ -1,6 +1,6 @@
 {
     "id": 37414347,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 263,
     "type": 67108897,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 2214600704,
     "name": "F.A. Shining Star GT",
-    "desc": "Link Arrows: [🡷][🡶]\n\n2 Machine monsters\nGains ATK equal to the combined  Levels of all &#x201C;F.A.&#x201D; monsters it points to x 300. Neither player takes any battle damage from attacks involving this monster. Each time a &#x201C;F.A.&#x201D; Spell/Trap Card or effect is activated, place 1 Athlete Counter on this card when that Spell/Trap resolves. Once per turn, when your opponent activates a monster effect (Quick Effect): you can remove 1 Athlete Counter from this card; negate the activation, and if you do, destroy that card.",
+    "desc": "2 Machine monsters\r\nGains ATK equal to the total Levels of the \"F.A.\" monsters this card points to x 300. Neither player takes any battle damage from attacks involving this card. Each time a \"F.A.\" Spell/Trap Card or effect is activated: Place 1 Athlete Counter on this card. When your opponent activates a monster effect (Quick Effect): You can remove 1 Athlete Counter from this card; negate the activation, and if you do, destroy it. You can only use this effect of \"F.A. Shining Star GT\" once per turn.",
     "str1": "Place Athlete Counter",
     "str2": "Negate effect",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Extra Pack 2018",
-        "pack_id": "EP18-JP020",
-        "date": "2018-09-08"
-    },
-    "links": [
-        5,
-        7
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/53/FAShiningStarGT-EP18-JP-ScR.png"
+    "cardpool": "OCG/TCG"
 }

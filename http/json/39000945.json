@@ -2,7 +2,7 @@
     "id": 39000945,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 298,
     "type": 16777249,
     "atk": 1850,
     "def": 2700,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 67371536,
     "name": "Reflection of Endymion",
-    "desc": "Pendulum Effect\nEach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from this card; Special Summon both this card from your Pendulum Zone and 1 monster from your hand that you can place a Spell Counter on, and if you do, place 1 Spell Counter on each.\n\nMonster Effect\nYou can only Special Summon \"Reflection(s) of Endymion\" once per turn. If this card is Special Summoned: You can target 1 card your opponent controls, and 1 card you control with a Spell Counter, except this card; return that opponent's card and your card to the hand, then place the same number of Spell Counters on this card that your returned card had. When this card with a Spell Counter is destroyed by battle: You can add 1 \"Endymion\" card from your Deck to your hand.",
+    "desc": "[ Pendulum Effect ]\r\nEach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from this card; Special Summon both this card from your Pendulum Zone and 1 monster from your hand that you can place a Spell Counter on, and if you do, place 1 Spell Counter on each.\r\n----------------------------------------\r\n[ Monster Effect ]\r\nYou can only Special Summon \"Reflection(s) of Endymion\" once per turn. If this card is Special Summoned: You can target 1 card your opponent controls, and 1 card you control with a Spell Counter, except this card; return that opponent's card and your card to the hand, then place the same number of Spell Counters on this card that your returned card had. When this card with a Spell Counter is destroyed by battle: You can add 1 \"Endymion\" card from your Deck to your hand.",
     "str1": "Special Summon",
     "str2": "Return to hand",
     "str3": "Search",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Structure Deck: Order of the Spellcasters",
-        "pack_id": "SR08-EN002",
-        "date": "2019-04-19"
-    },
-    "ocg": {
-        "pack": "Structure Deck R: Lord of Magician",
-        "pack_id": "SR08-JP002",
-        "date": "2019-03-09"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/ReflectionofEndymion-SR08-EN-SR-1E.png"
+    "cardpool": "OCG/TCG"
 }

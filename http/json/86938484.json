@@ -1,23 +1,32 @@
 {
-    "ocg": {
-        "pack": "LINK VRAINS Pack",
-        "pack_id": "LVP1-JP056",
-        "date": "2017-11-25"
-    },
-    "tcg": {},
     "id": 86938484,
+    "ot": 3,
+    "alias": 0,
     "setcode": 157,
-    "type": 33554465,
+    "type": 67108897,
     "atk": 1200,
-    "def": "-",
+    "def": 40,
     "level": 2,
-    "links": [
-        3,
-        4
-    ],
     "race": 4,
     "attribute": 16,
+    "category": 268697600,
     "name": "Shaddoll Construct",
-    "desc": "Link Arrows: [🡰][🡲]\n\n2 Flip monsters\nDuring your Main Phase: You can Fusion Summon 1 \"Shaddoll\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials. If this card is in your GY: You can send 1 \"Shaddoll\" card from your hand or face-up from your field to the GY, and if you do, Special Summon this card. You can only use each effect of \"Shaddoll Construct\" once per turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7c/ShaddollConstruct-LVP1-JP-SR.png"
+    "desc": "2 Flip monsters\r\nDuring your Main Phase: You can Fusion Summon 1 \"Shaddoll\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If this card is in your GY: You can send 1 \"Shaddoll\" card from your hand or face-up field to the GY, and if you do, Special Summon this card. You can only use each effect of \"Shaddoll Construct\" once per turn.",
+    "str1": "Fusion Summon",
+    "str2": "Special Summon",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "cardpool": "OCG/TCG"
 }

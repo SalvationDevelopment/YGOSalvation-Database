@@ -1,6 +1,6 @@
 {
     "id": 39730727,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 300,
     "type": 524290,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 0,
-    "name": "Tenyi Wubeng Stance",
-    "desc": "Face-up non-Effect Monsters on the field are unaffected by monster effects. Once per turn, if your opponent Special Summons an Effect Monster(s) while you control a non-Effect Monster (except during the Damage Step): You can draw 2 cards.",
+    "name": "Flawless Perfection of the Tenyi",
+    "desc": "All non-Effect Monsters on the field are unaffected by monster effects. Once per turn, if your opponent Special Summons an Effect Monster(s), while you control a face-down monster or non-Effect Monster (except during the Damage Step): You can draw 2 cards.",
     "str1": "Draw 2 cards?\r\n",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

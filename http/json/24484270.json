@@ -1,27 +1,32 @@
 {
-    "ocg": {
-        "pack": "LINK VRAINS Pack",
-        "pack_id": "LVP1-JP016",
-        "date": "2017-11-25"
-    },
-    "tcg": {
-        "pack": "Extreme Force",
-        "pack_id": "EXFO-DE092",
-        "date": "2018-02-01"
-    },
     "id": 24484270,
-    "setcode": 305215766747,
-    "type": 33554465,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4167,
+    "type": 67108897,
     "atk": 1450,
-    "def": "-",
+    "def": 5,
     "level": 2,
-    "links": [
-        5,
-        7
-    ],
     "race": 256,
     "attribute": 1,
+    "category": 268698128,
     "name": "Gem-Knight Phantom Quartz",
-    "desc": "Link Arrows: [🡷][🡶]\n\n2 \"Gem-\" monsters\nIf this card is Link Summoned: You can add 1 \"Gem-Knight\" card from your Deck to your hand. You can pay 1000 LP; Fusion Summon 1 \"Gem-Knight\" Fusion Monster from your Extra Deck, by shuffling Fusion Materials in your possession listed on it into your Deck, that are banished or in your GY, but it cannot attack directly this turn. You can only use each effect of \"Gem-Knight Phantom Quartz\" once per turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/53/GemKnightPhantomQuartz-EXFO-EN-SR-1E.png"
+    "desc": "2 \"Gem-\" monsters\r\nIf this card is Link Summoned: You can add 1 \"Gem-Knight\" card from your Deck to your hand. You can pay 1000 LP; Fusion Summon 1 \"Gem-Knight\" Fusion Monster from your Extra Deck, by shuffling Fusion Materials in your possession listed on it into your Deck, that are banished or in the GY, but it cannot attack directly this turn. You can only use each effect of \"Gem-Knight Phantom Quartz\" once per turn.",
+    "str1": "Search",
+    "str2": "Fusion Summon",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "cardpool": "OCG/TCG"
 }

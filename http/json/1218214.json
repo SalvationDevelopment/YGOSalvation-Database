@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 280,
     "name": "Cubic Dharma",
-    "desc": "You take no battle damage from attacks involving \"Cubic\" monsters you control. During your Main Phase: You can send 1 &#x201C;Cubic&#x201D; card from your hand to the GY, and if you do, draw 1 card. You can banish this card from your GY, then target 1 &#x201C;Cubic&#x201D; monster in your GY; add that monster to your hand. You can only use each of these effects of \"Cubic Dharma\" once per turn.",
+    "desc": "You take no battle damage from attacks involving your \"Cubic\" monsters. You can only use each of the following effects of \"Cubic Dharma\" once per turn.\r\n● During your Main Phase: You can send 1 \"Cubic\" card from your hand to the GY, and if you do, draw 1 card.\r\n● You can banish this card from your GY, then target 1 \"Cubic\" monster in your GY; add it to your hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "20th Anniversary Legend Collection",
-        "pack_id": "20TH-JPC17",
-        "date": "2019-02-09"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/36/CubicDharma-20TH-JP-ScR.png"
+    "cardpool": "OCG"
 }

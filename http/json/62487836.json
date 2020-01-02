@@ -1,6 +1,6 @@
 {
     "id": 62487836,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 4,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 4,
     "name": "White Howling",
-    "desc": "If you control a WATER monster: Target 1 Spell in your opponent's GY; banish it, and if you do, negate all Spell effects on your opponent's field this turn.",
+    "desc": "If you control a WATER monster: Target 1 Spell in your opponent's GY; banish it, and if you do, for the rest of this turn negate all Spell effects on your opponent's field.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Premium Pack 20",
-        "pack_id": "PP20-JP010",
-        "date": "2018-03-10"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/34/WhiteHowling-PP20-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

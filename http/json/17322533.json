@@ -1,6 +1,6 @@
 {
     "id": 17322533,
-    "ot": 2,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 131074,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 256,
     "name": "Pinpoint Landing",
-    "desc": "If exactly 1 monster is Special Summoned, from the hand to your field: You can draw 1 card. You can only use this effect of &#x201C;Pinpoint Landing&#x201D; once per turn. During your End Phase, if you have not drawn a card by this effect this turn, send this card to the GY.",
+    "desc": "If exactly 1 monster is Special Summoned, from the hand to your field: You can draw 1 card. You can only use this effect of \"Pinpoint Landing\" once per turn. During your End Phase, if you have not drawn a card by this effect this turn, send this card to the GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG",
-    "tcg": {
-        "pack": "Cybernetic Horizon",
-        "pack_id": "CYHO-DE081",
-        "date": "2018-07-26"
-    },
-    "ocg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3d/PinpointLanding-CYHO-EN-ScR-1E.png"
+    "cardpool": "OCG/TCG"
 }

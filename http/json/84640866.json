@@ -1,6 +1,6 @@
 {
     "id": 84640866,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 76,
     "type": 4,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 4,
     "name": "Network Trap Hole",
-    "desc": "When your opponent Special Summons a monster(s) from the Deck and/or GY: Banish that monster(s), face-down.",
+    "desc": "When your opponent Special Summons a monster(s) from the Main Deck or GY: Banish it face-down.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP076",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/97/NetworkTrapHole-FLOD-JP-SR.png"
+    "cardpool": "OCG/TCG"
 }

@@ -2,7 +2,7 @@
     "id": 17616743,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 297,
     "type": 2,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Evil Eye Awakening",
-    "desc": "Special Summon 1 \"Evil Eye\" monster from your hand or GY, or, if \"Evil Eye of Selene\" is in your Spell & Trap Zone, you can Special Summon 1 \"Evil Eye\" monster from your Deck, instead. You can only activate 1 \"Forbidden Awakening of the Evil Eye\" per turn.",
+    "desc": "Special Summon 1 \"Evil Eye\" monster from your hand or GY, or, if \"Evil Eye of Selene\" is in your Spell & Trap Zone, you can Special Summon 1 \"Evil Eye\" monster from your Deck instead. You can only activate 1 \"Evil Eye Awakening\" per turn.",
     "str1": "Special Summon",
     "str2": "Special Summon from the deck?",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "The Infinity Chasers",
-        "pack_id": "INCH-EN034",
-        "date": "2019-03-21"
-    },
-    "ocg": {
-        "pack": "Deck Build Pack: Infinity Chasers",
-        "pack_id": "DBIC-JP034",
-        "date": "2019-02-23"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/64/EvilEyeAwakening-DBIC-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

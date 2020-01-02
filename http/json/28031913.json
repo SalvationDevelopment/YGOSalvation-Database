@@ -2,7 +2,7 @@
     "id": 28031913,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 278,
     "type": 33,
     "atk": 1200,
     "def": 1600,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 278528,
     "name": "Crusadia Leonis",
-    "desc": "You can Special Summon this card (from your hand) in Defense Position to your zone a Link Monster points to. You can only Special Summon \"Crusadia Leonis\" once per turn this way. You can target 1 \"Crusadia\" Link Monster you control; if it attacks a Defense Position monster this turn, inflict piercing battle damage to your opponent. You can only use this effect of &#x201C;Crusadia Leonis&#x201D; once per turn.",
+    "desc": "You can Special Summon this card (from your hand) in Defense Position to your zone a Link Monster points to. You can only Special Summon \"Crusadia Leonis\" once per turn this way. You can target 1 \"Crusadia\" Link Monster you control; if it attacks a Defense Position monster this turn, inflict piercing battle damage to your opponent. You can only use this effect of \"Crusadia Leonis\" once per turn.",
     "str1": "Pierce",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Cybernetic Horizon",
-        "pack_id": "CYHO-DE008",
-        "date": "2018-07-26"
-    },
-    "ocg": {
-        "pack": "Cybernetic Horizon",
-        "pack_id": "CYHO-JP008",
-        "date": "2018-04-14"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c8/CrusadiaLeonis-CYHO-EN-C-1E.png"
+    "cardpool": "OCG/TCG"
 }

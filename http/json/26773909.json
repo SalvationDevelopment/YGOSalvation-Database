@@ -1,6 +1,6 @@
 {
     "id": 26773909,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 65538,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 8192,
-    "name": "Psychic Implosion",
-    "desc": "During the Battle Phase: Target 1 face-up monster you control; you lose LP equal to its ATK, and if you do, its ATK is doubled until the end of this turn. It cannot attack directly during the turn you activate this card. You can only activate 1 \"Psychic Implosion\" per turn.",
+    "name": "Psychic Fervor",
+    "desc": "During the Battle Phase: Target 1 face-up monster you control; you lose LP equal to its ATK, and if you do, that monster's ATK is doubled until the end of this turn. It cannot attack directly during the turn you activate this card. You can only activate 1 \"Psychic Fervor\" per turn.",
     "str1": "Lose LP and double ATK",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Rising Rampage",
-        "pack_id": "RIRA-JP064",
-        "date": "2019-04-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/86/PsychicImplosion-RIRA-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 288,
     "name": "Harpie's Feather Rest",
-    "desc": "Target 3 &#x201C;Harpie Lady&#x201D; and/or &#x201C;Harpie Lady Sisters&#x201D; in your GY; shuffle them into the Deck, then draw 1 card. If you controlled a Level 5 or higher &#x201C;Harpie&#x201D; monster when you activated this effect, draw 2 cards instead. For the rest of this turn after this card resolves, you cannot Special Summon monsters, except WIND monsters. You can only activate 1 \"Harpie's Feather Rest\" per turn.",
+    "desc": "Target 3 \"Harpie Lady\" and/or \"Harpie Lady Sisters\" in your GY; shuffle them into the Deck, then draw 1 card. If you controlled a Level 5 or higher \"Harpie\" monster when you activated this effect, draw 2 cards instead. For the rest of this turn after this card resolves, you cannot Special Summon monsters, except WIND monsters. You can only activate 1 \"Harpie's Feather Rest\" per turn.",
     "str1": "Draw 1",
     "str2": "Draw 2",
     "str3": "Affected by \"Harpie's Feather Rest\"",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Legendary Duelists: Sisters of the Rose",
-        "pack_id": "LED4-DE004",
-        "date": "2019-01-10"
-    },
-    "ocg": {
-        "pack": "Duelist Pack: Legend Duelist 4",
-        "pack_id": "DP21-JP004",
-        "date": "2018-11-10"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/ff/HarpiesFeatherRest-LED4-EN-UR-1E.png"
+    "cardpool": "OCG/TCG"
 }

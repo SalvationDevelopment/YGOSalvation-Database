@@ -1,6 +1,6 @@
 {
     "id": 52340445,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 4373,
     "type": 16401,
@@ -10,8 +10,8 @@
     "race": 1,
     "attribute": 32,
     "category": 0,
-    "name": "Brandish Maiden Token",
-    "desc": "Special Summoned by the effect of \"Brandish Mecha Hornet Bit\".",
+    "name": "Sky Striker Ace Token",
+    "desc": "Special Summoned by the effect of \"Sky Striker Mecha - Hornet Drones\".",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

@@ -1,6 +1,6 @@
 {
     "id": 43464884,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 4129,
@@ -10,11 +10,11 @@
     "race": 32768,
     "attribute": 2,
     "category": 262144,
-    "name": "Outroll of the Haunted Sea",
-    "desc": "If this card is Normal or Special Summoned: You can target 1 Beast-Warrior monster in your GY; the Attribute and Level of this card become the same as that monster's, until the end of this turn. During your Main Phase: You can Special Summon 1 Beast-Warrior monster from your hand with the same Attribute and Level as this card. You can only use each effect of \"Outroll of the Haunted Sea\" once per turn. You cannot Special Summon monsters the turn you activate either of this card's effects, except Beast-Warrior monsters.",
-    "str1": "",
-    "str2": "",
-    "str3": "",
+    "name": "Three Trolling Trolls",
+    "desc": "If this card is Normal or Special Summoned: You can target 1 Beast-Warrior monster in your GY; this card's Attribute and Level become the same as that monster's, until the end of this turn. During your Main Phase: You can Special Summon 1 Beast-Warrior monster with the same Attribute and Level as this card from your hand. You can only use each effect of \"Three Trolling Trolls\" once per turn. You cannot Special Summon monsters the turn you activate either of this card's effects, except Beast-Warrior monsters.",
+    "str1": "Change Attribute and Level",
+    "str2": "Special Summon",
+    "str3": "Affected by \"Three Trolling Trolls\"",
     "str4": "",
     "str5": "",
     "str6": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP030",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a9/OutrolloftheHauntedSea-FLOD-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

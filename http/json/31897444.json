@@ -1,6 +1,6 @@
 {
     "id": 31897444,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 67108897,
@@ -10,8 +10,8 @@
     "race": 1,
     "attribute": 1,
     "category": 270336,
-    "name": "Defender of the Netherworld Labyrinth",
-    "desc": "Link Arrows: [🡷][🡶]\n\n2 Normal Monsters\nAll non-Effect Monsters you control gain 500 ATK, also all Effect Monsters your opponent controls lose 500 ATK. If this card in its owner's possession is destroyed by an opponent's card: You can target 1 non-Effect Monster in your GY; Special Summon it. You can only use this effect of \"Defender of the Netherworld Labyrinth\" once per turn.",
+    "name": "Defender of the Labyrinth",
+    "desc": "2 Normal Monsters\r\nNon-Effect Monsters you control gain 500 ATK, also all Effect Monsters your opponent controls lose 500 ATK. If this card in its owner's possession is destroyed by your opponent's card: You can target 1 non-Effect Monster in your GY; Special Summon it. You can only use this effect of \"Defender of the Labyrinth\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Rising Rampage",
-        "pack_id": "RIRA-JP049",
-        "date": "2019-04-13"
-    },
-    "links": [
-        5,
-        7
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bc/DefenderoftheNetherworldLabyrinth-RIRA-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

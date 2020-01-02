@@ -2,7 +2,7 @@
     "id": 36841733,
     "ot": 3,
     "alias": 0,
-    "setcode": 536584,
+    "setcode": 12296,
     "type": 97,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 270336,
     "name": "Elemental HERO Grandmerge",
-    "desc": "2 \"HERO\" Normal Monsters\nMust be Fusion Summoned. Gains ATK/DEF equal to the combined original Levels of the materials used for its Fusion Summon &#xD7;300. When this card destroys an opponent monster by battle: You can Tribute this card; Special Summon 1 \"Elemental HERO\" Fusion Monster from your Extra Deck, ignoring its Summoning Conditions, but it cannot attack monsters with an equal or lower Level than it.",
+    "desc": "2 \"HERO\" Normal Monsters\r\nMust be Fusion Summoned. Gains ATK/DEF equal to the combined original Levels of the materials used for its Fusion Summon x 300. When this card destroys an opponent's monster by battle: You can Tribute this card; Special Summon 1 \"Elemental HERO\" Fusion Monster from your Extra Deck, ignoring its Summoning conditions, but it cannot attack monsters with an equal or lower Level than it.",
     "str1": "",
     "str2": "Special Summon",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Duel Power",
-        "pack_id": "DUPO-EN004",
-        "date": "2019-04-03"
-    },
-    "ocg": {
-        "pack": "20th Anniversary Duelist Box",
-        "pack_id": "20TH-JPB08",
-        "date": "2018-12-22"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4e/ElementalHEROGrandmerge-DUPO-EN-UR-1E.png"
+    "cardpool": "OCG/TCG"
 }

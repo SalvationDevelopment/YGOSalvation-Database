@@ -1,24 +1,32 @@
 {
-    "ocg": {
-        "pack": "V Jump January 2018 promotional card",
-        "pack_id": "VJMP-JP140",
-        "date": "2017-11-21"
-    },
-    "tcg": {},
     "id": 61665245,
+    "ot": 3,
+    "alias": 0,
     "setcode": 0,
-    "type": 33554465,
+    "type": 67108897,
     "atk": 2400,
-    "def": "-",
+    "def": 133,
     "level": 3,
-    "links": [
-        1,
-        5,
-        7
-    ],
     "race": 2,
     "attribute": 32,
+    "category": 262144,
     "name": "Summon Sorceress",
-    "desc": "Link Arrows: [🡷][🡱][🡶]\n\n2+ monsters with the same Type, except Tokens\nIf this card is Link Summoned: You can Special Summon 1 monster from your hand in Defense Position, to your opponent's zone this card points to. You can target 1 face-up monster this card points to; Special Summon 1 monster from your Deck, with the same Type as that monster, to a zone this card points to, but negate its effects. You can only use this effect of \"Summon Sorceress\" once per turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/SummonSorceress-JUMP-NA-LE-OP.png"
+    "desc": "2+ monsters with the same Type, except Tokens\r\nIf this card is Link Summoned: You can Special Summon 1 monster from your hand in Defense Position, to your opponent's zone this card points to. You can target 1 face-up monster this card points to; Special Summon 1 monster from your Deck in Defense Position, with the same Type as that monster, to a zone this card points to, but negate its effects. You can only use this effect of \"Summon Sorceress\" once per turn.",
+    "str1": "Special Summon from hand",
+    "str2": "Special Summon from Deck",
+    "str3": "Summon to opponent's field?",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "cardpool": "OCG/TCG"
 }

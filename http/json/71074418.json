@@ -1,6 +1,6 @@
 {
     "id": 71074418,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 296,
     "type": 33,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262144,
     "name": "Witchcrafter Golem Aruru",
-    "desc": "When your opponent activates a card or effect that targets a Spellcaster monster(s) you control, or targets your Spellcaster monster for an attack, while this card is in your hand (Quick Effect): You can target 1 card your opponent controls or 1 \"Witchcrafter\" Spell in your GY; Special Summon this card, and if you do, return the targeted card to the hand. You can only use this effect of \"Witchcrafter Golem Aruru\" once per turn. Once per turn, during your opponent's Standby Phase: Return this card to the hand.",
+    "desc": "When your opponent activates a card or effect that targets a Spellcaster monster(s) you control, or targets it for an attack (Quick Effect): You can target 1 card your opponent controls, or 1 \"Witchcrafter\" Spell in your GY; Special Summon this card from your hand, and if you do, return that targeted card to the hand. You can only use this effect of \"Witchcrafter Golem Aruru\" once per turn. Once per turn, during your opponent's Standby Phase: Return this card to the hand.",
     "str1": "Special Summon from hand",
     "str2": "Return this card to the hand",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

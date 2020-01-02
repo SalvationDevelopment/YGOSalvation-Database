@@ -1,6 +1,6 @@
 {
     "id": 98338152,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 277,
     "type": 65538,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 2147487744,
-    "name": "Brandish Mecha Widow Anchor",
-    "desc": "If you control no monsters in your Main Monster Zones: Target 1 Effect Monster on the field; it has its effects negated (until the end of this turn), then if you have 3 or more Spells in your GY, you can take control of that monster until the End Phase.",
+    "name": "Sky Striker Mecha - Widow Anchor",
+    "desc": "If you control no monsters in your Main Monster Zone: Target 1 face-up Effect Monster on the field; negate that face-up monster's effects until the end of this turn, then, if you have 3 or more Spells in your GY, you can take control of that monster until the End Phase.",
     "str1": "Take control of the target?",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Deck Build Pack: Dark Savers",
-        "pack_id": "DBDS-JP034",
-        "date": "2018-02-24"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/69/BrandishMechaWidowAnchor-DBDS-JP-SR.png"
+    "cardpool": "OCG/TCG"
 }

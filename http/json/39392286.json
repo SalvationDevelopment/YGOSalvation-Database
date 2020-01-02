@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 528,
     "name": "Harpie Perfumer",
-    "desc": "This card's name becomes &#x201C;Harpie Lady&#x201D; while on the field or in the GY. If this card is Normal or Special Summoned: You can add 1 Spell/Trap from your Deck to your hand that specifically lists the card &#x201C;Harpie Lady Sisters&#x201D; in its text. If you controlled a Level 5 or higher &#x201C;Harpie&#x201D; monster when you activated this effect, you can also add a second such card, with a different name from the first. You can only use this effect of &#x201C;Harpie Perfumer&#x201D; once per turn.",
+    "desc": "This card's name becomes \"Harpie Lady\" while on the field or in the GY. If this card is Normal or Special Summoned: You can add 1 Spell/Trap from your Deck to your hand that specifically lists the card \"Harpie Lady Sisters\" in its text. If you controlled a Level 5 or higher \"Harpie\" monster when you activated this effect, you can also add a second such card, with a different name from the first. You can only use this effect of \"Harpie Perfumer\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Legendary Duelists: Sisters of the Rose",
-        "pack_id": "LED4-DE001",
-        "date": "2019-01-10"
-    },
-    "ocg": {
-        "pack": "Duelist Pack: Legend Duelist 4",
-        "pack_id": "DP21-JP001",
-        "date": "2018-11-10"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a8/HarpiePerfumer-LED4-EN-UR-1E.png"
+    "cardpool": "OCG/TCG"
 }

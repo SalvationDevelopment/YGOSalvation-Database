@@ -1,6 +1,6 @@
 {
     "id": 54185227,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 20488,
     "type": 33,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262160,
     "name": "Vision HERO Gravito",
-    "desc": "If this card is Normal or Special Summoned: You can target 1 of your banished \"HERO\" monsters; add it to your hand. You can Tribute this card, then target 2 \"Vision HERO\" Monster Cards in your Spell & Trap Zones; Special Summon them. You can only use each effect of \"Vision HERO Gravito\" once per turn.",
+    "desc": "If this card is Normal or Special Summoned: You can target 1 of your banished \"HERO\" monsters; add it to your hand. You can Tribute this card, then target 2 \"Vision HERO\" Monster Cards in your Spell & Trap Zone; Special Summon them. You can only use each effect of \"Vision HERO Gravito\" once per turn.",
     "str1": "Return to hand",
     "str2": "Special Summon",
     "str3": "",
@@ -23,10 +23,10 @@
     "str9": "",
     "str10": "",
     "str11": "",
-    "str12": "CP19-JP",
+    "str12": "",
     "str13": "",
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

@@ -1,6 +1,6 @@
 {
     "id": 5795882,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 142,
     "type": 131074,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 8388608,
-    "name": "Vampire Territory",
-    "desc": "Once per turn: You can pay 500 LP; during your Main Phase this turn, you can Normal Summon 1 \"Vampire\" monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If your \"Vampire\" monster inflicts battle damage to your opponent: Gain that much LP.",
+    "name": "Vampire's Domain",
+    "desc": "Once per turn: You can pay 500 LP; during your Main Phase this turn, you can Normal Summon 1 \"Vampire\" monster in addition to your Normal Summon/Set. (Even if this card leaves the field. You can only gain this effect once per turn.) Each time your \"Vampire\" monster inflicts battle damage to your opponent: Gain the same amount of LP.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Deck Build Pack: Dark Savers",
-        "pack_id": "DBDS-JP009",
-        "date": "2018-02-24"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ac/VampireTerritory-DBDS-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

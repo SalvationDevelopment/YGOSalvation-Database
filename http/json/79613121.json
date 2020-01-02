@@ -1,6 +1,6 @@
 {
     "id": 79613121,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 10617039,
     "type": 161,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 16,
     "name": "Magician of Black Chaos MAX",
-    "desc": "You can Ritual Summon this card with \"Chaos Form\". You can only use each of these effects of \"Magician of Black Chaos MAX\" once per turn.\r\n● If this card is Special Summoned: You can Tribute 1 monster; for the rest of this turn, your opponent cannot activate monster effects.\r\n● When this card destroys an opponent's monster by battle: You can target 1 Spell in your GY; add it to your hand.",
+    "desc": "You can Ritual Summon this card with \"Chaos Form\". If this card is Special Summoned: You can Tribute 1 monster; your opponent cannot activate monster effects this turn. When this card destroys an opponent's monster by battle: You can target 1 Spell in your GY; add it to your hand. You can only use each effect of \"Magician of Black Chaos MAX\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "Affected by \"Magician of Black Chaos MAX\", cannot activate monster effects",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

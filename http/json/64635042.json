@@ -1,6 +1,6 @@
 {
     "id": 64635042,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 69,
     "type": 8225,
@@ -10,8 +10,8 @@
     "race": 8,
     "attribute": 32,
     "category": 262144,
-    "name": "Beckoned Skull Archfiend",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nThis card's name becomes \"Summoned Skull\" while on the field, but it is still treated as an \"Archfiend\" card. Your opponent cannot target \"Summoned Skull\" you control with card effects. If this Synchro Summoned card you control is sent to your GY by your opponent's card: You can Special Summon 1 \"Summoned Skull\" from your hand, Deck, or GY.",
+    "name": "Archfiend's Call",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\nThis card's name becomes \"Summoned Skull\" on the field, but is still treated as an \"Archfiend\" card. Your opponent cannot target any \"Summoned Skull\" you control with card effects. If this Synchro Summoned card you control is sent to your GY by an opponent's card: You can Special Summon 1 \"Summoned Skull\" from your hand, Deck, or GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

@@ -1,8 +1,8 @@
 {
     "id": 66740005,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
-    "setcode": 532,
+    "setcode": 276,
     "type": 33,
     "atk": 1900,
     "def": 200,
@@ -10,8 +10,8 @@
     "race": 524288,
     "attribute": 4,
     "category": 270336,
-    "name": "Blavo, Fighter of the Skyfang Brigade",
-    "desc": "During your Main Phase: You can Special Summon 1 \"Skyfang Brigade\" monster from your hand, except \"Blavo, Fighter of the Skyfang Brigade\". If another \"Skyfang Brigade\" monster(s) is Special Summoned to your field while this monster is on the field: You can make all \"Skyfang Brigade\" monsters on the field gain 500 ATK/DEF until the end of this turn. You can only use each effect of \"Blavo, Fighter of the Skyfang Brigade\" once per turn.",
+    "name": "Bravo, Fighter Fur Hire",
+    "desc": "During your Main Phase: You can Special Summon 1 monster \"Fur Hire\" from your hand, except \"Bravo, Fighter Fur Hire\". If a monster \"Fur Hire\" is Special Summoned to your field while you control this monster (except during the Damage Step): You can have all monsters \"Fur Hire\" currently on the field gain 500 ATK/DEF until the end of this turn. You can only use each effect of \"Bravo, Fighter Fur Hire\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Deck Build Pack: Dark Savers",
-        "pack_id": "DBDS-JP019",
-        "date": "2018-02-24"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/97/BlavoFighteroftheSkyfangBrigade-DBDS-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

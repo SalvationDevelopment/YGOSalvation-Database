@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262160,
     "name": "Abyss Script - Romantic Terror",
-    "desc": "Return 1 &#x201C;Abyss Actor&#x201D; Pendulum Monster you control to the hand, and if you do, Special Summon from your Extra Deck 1 face-up &#x201C;Abyss Actor&#x201D; Pendulum Monster with a different original name from that monster. If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up &#x201C;Abyss Actor&#x201D; Pendulum Monster in your Extra Deck: You can Set any number of &#x201C;Abyss Script&#x201D; Spells directly from your Deck to your Spell & Trap Zones. You can only activate 1 &#x201C;Abyss Script - Romantic Terror&#x201D; per turn.",
+    "desc": "Return 1 \"Abyss Actor\" Pendulum Monster you control to the hand, and if you do, Special Summon from your Extra Deck in Defense Position, 1 face-up \"Abyss Actor\" Pendulum Monster with a different original name from that monster. If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can Set any number of \"Abyss Script\" Spells directly from your Deck. You can only activate 1 \"Abyss Script - Romantic Terror\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Legendary Duelists: White Dragon Abyss",
-        "pack_id": "LED3-DE047",
-        "date": "2018-09-27"
-    },
-    "ocg": {
-        "pack": "Duelist Pack: Legend Duelist 3",
-        "pack_id": "DP20-JP047",
-        "date": "2018-06-09"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/88/AbyssScriptRomanticTerror-LED3-EN-R-1E.png"
+    "cardpool": "OCG/TCG"
 }

@@ -1,8 +1,8 @@
 {
     "id": 20345391,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 276,
     "type": 33,
     "atk": 1600,
     "def": 1000,
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Dark Saviors",
-        "pack_id": "DASA-DE018",
-        "date": "2018-05-24"
-    },
-    "ocg": {
-        "pack": "Deck Build Pack: Dark Savers",
-        "pack_id": "DBDS-JP018",
-        "date": "2018-02-24"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/SealStrategistFurHire-DASA-EN-SR-1E.png"
+    "cardpool": "OCG/TCG"
 }

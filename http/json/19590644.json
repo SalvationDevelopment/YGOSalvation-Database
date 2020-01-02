@@ -1,6 +1,6 @@
 {
     "id": 19590644,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 4,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 262144,
-    "name": "Set-Upper",
-    "desc": "When your monster is destroyed by battle: Special Summon 1 monster from your hand or Deck with ATK less than or equal to that destroyed monster's in face-down Defense Position. You can only activate 1 \"Set-Upper\" per turn.",
+    "name": "Setuppercut",
+    "desc": "When a monster you control is destroyed by battle: Special Summon 1 monster from your hand or Deck with ATK less than or equal to that destroyed monster, in face-down Defense Position. You can only activate 1 \"Setuppercut\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Rising Rampage",
-        "pack_id": "RIRA-JP078",
-        "date": "2019-04-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/SetUpper-RIRA-JP-OP.png"
+    "cardpool": "OCG/TCG"
 }

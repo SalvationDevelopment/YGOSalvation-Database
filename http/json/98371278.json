@@ -1,6 +1,6 @@
 {
     "id": 98371278,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 8192,
     "name": "DMZ Dragon",
-    "desc": "Once per turn: You can target 1 Level 4 or lower Dragon monster in your GY and 1 Dragon monster you control; equip that monster in the GY to that monster on the field as an Equip Spell with this effect.\r\n● The equipped monster gains 500 ATK.\r\nAt the end of the Damage Step, if your monster equipped with an Equip Card(s) attacked: You can banish this card from your GY; destroy as many Equip Cards as possible equipped to that monster you control, and if you do, it can make a second attack in a row.",
+    "desc": "Once per turn: You can target 1 Level 4 or lower Dragon monster in your GY and 1 Dragon monster you control; equip that monster in your GY to that monster on the field as an Equip Spell that makes it gain 500 ATK. At the end of the Damage Step, if your monster equipped with an Equip Card attacked: You can banish this card from your GY; destroy as many cards as possible equipped to that monster you control, and if you do, that monster can make a second attack in a row.",
     "str1": "Equip",
     "str2": "Destroy",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

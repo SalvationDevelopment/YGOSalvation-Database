@@ -1,6 +1,6 @@
 {
     "id": 53077251,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 4,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8192,
     "name": "Universal Adapter",
-    "desc": "Target 1 face-up monster your opponent controls; the ATK of all other monsters currently on the field become equal to that monster's ATK, until the end of this turn.",
+    "desc": "Target 1 face-up monster your opponent controls; the ATK of all other monsters currently on the field become equal to that monster's current ATK, until the end of this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Flames of Destruction Special Edition",
-        "pack_id": "FLOD-DESE4",
-        "date": "2018-06-07"
-    },
-    "ocg": {
-        "pack": "Cybernetic Horizon",
-        "pack_id": "CYHO-JP079",
-        "date": "2018-04-14"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/6e/UniversalAdapter-CYHO-EN-C-1E.png"
+    "cardpool": "OCG/TCG"
 }

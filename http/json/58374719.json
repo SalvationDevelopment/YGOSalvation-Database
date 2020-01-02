@@ -1,6 +1,6 @@
 {
     "id": 58374719,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 254,
     "type": 4,
@@ -10,7 +10,7 @@
     "race": 0,
     "attribute": 0,
     "category": 1,
-    "name": "World Legacy Resistance",
+    "name": "World Legacy Struggle",
     "desc": "Target Spells/Traps on the field, up to the number of co-linked monsters on the field; destroy them.",
     "str1": "",
     "str2": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

@@ -1,6 +1,6 @@
 {
     "id": 97036149,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 300,
     "type": 33,
@@ -10,8 +10,8 @@
     "race": 8388608,
     "attribute": 8,
     "category": 270336,
-    "name": "Tenyi Dragon Nahata",
-    "desc": "If you control no Effect Monsters: You can Special Summon this card from your hand. When an attack is declared involving your face-up non-Effect Monster and an opponent's face-up monster: You can banish this card from your hand or GY; that opponent's monster loses 1500 ATK until the end of this turn. You can only use each effect of \"Tenyi Dragon Nahata\" once per turn.",
+    "name": "Tenyi Spirit - Nahata",
+    "desc": "If you control no Effect Monsters: You can Special Summon this card from your hand. When an attack is declared involving your face-up non-Effect Monster and an opponent's face-up monster: You can banish this card from your hand or GY; that opponent's monster loses 1500 ATK until the end of this turn. You can only use each effect of \"Tenyi Spirit - Nahata\" once per turn.",
     "str1": "Special Summon",
     "str2": "Decrease ATK",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

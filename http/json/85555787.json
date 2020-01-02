@@ -1,6 +1,6 @@
 {
     "id": 85555787,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 4,
@@ -11,10 +11,10 @@
     "attribute": 0,
     "category": 16777216,
     "name": "Grinning Grave Virus",
-    "desc": "Tribute 1 DARK monster with 3000 or less ATK; your opponent destroys 1 card in their hand and/or Deck for every 500 ATK the Tributed monster had on the field, also if you Tributed a monster with 2000 or more ATK, check all cards your opponent draws until the end of their 3rd turn after this card's activation, and destroy all monsters among them. Cards destroyed and sent to the GY by this card's effect cannot activate their effects during the turn they were destroyed.",
+    "desc": "Tribute 1 DARK monster with 3000 or less ATK; your opponent destroys 1 card (of their choice) in their hand or Deck for every 500 ATK that monster had on the field. If you Tributed a monster with 2000 or more ATK to activate this card, look at all cards your opponent draws until the end of their 3rd turn after this card's activation, and destroy all monsters among them. Cards destroyed and sent to the GY by this card's effects cannot activate their own effects that same turn.",
     "str1": "",
     "str2": "",
-    "str3": "",
+    "str3": "Affected by \"Grinning Grave Virus\"",
     "str4": "",
     "str5": "",
     "str6": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Structure Deck R: Curse of the Dark",
-        "pack_id": "SR06-JP030",
-        "date": "2018-03-10"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/94/GrinningGraveVirus-SR06-JP-SR.jpg"
+    "cardpool": "OCG/TCG"
 }

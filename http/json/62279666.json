@@ -1,6 +1,6 @@
 {
     "id": 62279666,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 254,
     "type": 131074,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 0,
-    "name": "World Legacy End",
-    "desc": "Once per turn, if a face-up Link Monster you control is destroyed by battle, or leaves the field because of an opponent's card effect: You can Special Summon 1 \"World Legacy\" monster from your hand or Deck in Defense Position. You can only control 1 \"World Legacy End\".",
+    "name": "World Legacy's Corruption",
+    "desc": "Once per turn, if a face-up Link Monster you control is destroyed by battle, or leaves the field because of an opponent's card effect: You can Special Summon 1 \"World Legacy\" monster from your hand or Deck in Defense Position. You can only control 1 \"World Legacy's Corruption\".",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP057",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/48/WorldLegacyEnd-FLOD-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

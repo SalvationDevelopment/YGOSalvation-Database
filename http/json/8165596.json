@@ -1,8 +1,8 @@
 {
     "id": 8165596,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
-    "setcode": 34639542608003144,
+    "setcode": 365348716616,
     "type": 8388641,
     "atk": 2500,
     "def": 3000,
@@ -11,11 +11,11 @@
     "attribute": 16,
     "category": 3238003216,
     "name": "Number 90: Galaxy-Eyes Photon Lord",
-    "desc": "2 Level 8 monsters\nIf this card has a \"Photon\" card as material, it cannot be destroyed by card effects. You can only use each of the following effects of \"Number 90: Galaxy-Eyes Photon Lord\" once per turn.\n● When an opponent's monster activates its effect (Quick Effect): You can detach 1 material from this card; negate that monster's effect, and if the detached material was a \"Galaxy\" card, destroy that card.\n● During your opponent's turn (Quick Effect): You can take 1 \"Photon\" or \"Galaxy\" card from your Deck, and either add it to your hand or attach it to this card as material.",
+    "desc": "2 Level 8 monsters\r\nIf this card has a \"Photon\" card as material, it cannot be destroyed by card effects. You can only use each of the following effects of \"Number 90: Galaxy-Eyes Photon Lord\" once per turn.\r\n●When an opponent's monster activates its effect (Quick Effect): You can detach 1 material from this card; negate that monster's effect, and if the detached material was a \"Galaxy\" card, destroy that card.\r\n●During your opponent's turn (Quick Effect): You can take 1 \"Photon\" or \"Galaxy\" card from your Deck, and either add it to your hand or attach it to this card as material.",
     "str1": "Negate effect",
     "str2": "Take 1 \"Photon\" or \"Galaxy\" card from the Deck",
-    "str3": "Add the chosen card to the hand?",
-    "str4": "",
+    "str3": "Add the card to the hand",
+    "str4": "Attach the card",
     "str5": "",
     "str6": "",
     "str7": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Battles of Legend: Relentless Revenge",
-        "pack_id": "BLRR-DE033",
-        "date": "2018-06-28"
-    },
-    "ocg": {
-        "pack": "Collectors Pack 2018",
-        "pack_id": "CP18-JP033",
-        "date": "2018-05-12"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1e/Number90GalaxyEyesPhotonLord-BLRR-EN-ScR-1E.png"
+    "cardpool": "OCG/TCG"
 }

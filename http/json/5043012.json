@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262160,
     "name": "Firewall Dragon",
-    "desc": "Link Arrows: [🡰][🡱][🡲][🡳]\n\n2+ monsters\nOnce while face-up on the field (Quick Effect): You can target monsters on the field and/or GY up to the number of monsters co-linked to this card; return them to the hand. If a monster this card points to is destroyed by battle or sent to the GY: You can Special Summon 1 monster from your hand.",
+    "desc": "2+ monsters\r\nOnce while face-up on the field (Quick Effect): You can target monsters on the field and/or GY up to the number of monsters co-linked to this card; return them to the hand. If a monster this card points to is destroyed by battle or sent to the GY: You can Special Summon 1 monster from your hand.",
     "str1": "Back to hand",
     "str2": "Special Summon",
     "str3": "",
@@ -28,22 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Code of the Duelist",
-        "pack_id": "COTD-DE043",
-        "date": "2017-08-03"
-    },
-    "ocg": {
-        "pack": "Code of the Duelist",
-        "pack_id": "COTD-JP043",
-        "date": "2017-04-15"
-    },
-    "links": [
-        1,
-        3,
-        4,
-        6
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/39/FirewallDragon-COTD-EN-ScR-1E.png"
+    "cardpool": "OCG/TCG"
 }

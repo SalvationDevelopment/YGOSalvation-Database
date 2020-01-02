@@ -1,6 +1,6 @@
 {
     "id": 85970321,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 179,
     "type": 33,
@@ -10,8 +10,8 @@
     "race": 32768,
     "attribute": 8,
     "category": 256,
-    "name": "Yosenju Izun",
-    "desc": "Once per turn, during the End Phase, if this card was Normal Summoned this turn: Return it to the hand. You can only use each of the following effects of \"Yosenju Izun\" once per turn.\r\n● You can discard this card; this turn, your opponent cannot activate cards or effects when a \"Yosenju\" monster(s) is Normal or Special Summoned.\r\n● If you control another \"Yosenju\" monster: You can draw 1 card.",
+    "name": "Yosenju Izna",
+    "desc": "Once per turn, during the End Phase, if this card was Normal Summoned this turn: Return it to the hand. You can only use each of the following effects of \"Yosenju Izna\" once per turn.\r\n● You can discard this card; this turn, your opponent cannot activate cards or effects when a \"Yosenju\" monster(s) is Normal or Special Summoned.\r\n● If you control another \"Yosenju\" monster: You can draw 1 card.",
     "str1": "Prevent activations when a \"Yosenju\" is Summoned",
     "str2": "Draw 1 card.",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

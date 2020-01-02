@@ -1,6 +1,6 @@
 {
     "id": 69181753,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 10748063,
     "type": 33,
@@ -10,8 +10,8 @@
     "race": 8,
     "attribute": 32,
     "category": 8650752,
-    "name": "Performapal Kuribohrder",
-    "desc": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand, and if you do, change the attack target to this card and perform damage calculation. If you would take battle damage from that battle, gain that much LP, instead.",
+    "name": "Performapal Kuribohble",
+    "desc": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand, and if you do, change the attack target to this card, and proceed to damage calculation. If you would take battle damage from that battle, you gain that much LP instead.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

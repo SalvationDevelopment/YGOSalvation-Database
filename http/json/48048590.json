@@ -1,6 +1,6 @@
 {
     "id": 48048590,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -10,11 +10,11 @@
     "race": 8192,
     "attribute": 32,
     "category": 262672,
-    "name": "Keeper of Dragonic Magic",
-    "desc": "If this card is Normal or Special Summoned: You can discard 1 card; add 1 \"Polymerization\" Normal Spell or \"Fusion\" Normal Spell from your Deck to your hand. You can reveal 1 Fusion Monster in your Extra Deck; Special Summon 1 of the Fusion Materials whose name is specifically listed on that card from your GY in face-down Defense Position. You can only use each effect of \"Keeper of Dragonic Magic\" once per turn. You cannot Special Summon monsters from the Extra Deck, except Fusion Monsters, the turn you activate either of this card's effects.",
+    "name": "Keeper of Dragon Magic",
+    "desc": "If this card is Normal or Special Summoned: You can discard 1 card; add 1 \"Polymerization\" Normal Spell Card or \"Fusion\" Normal Spell Card from your Deck to your hand. You can reveal 1 Fusion Monster in your Extra Deck; Special Summon 1 of the Fusion Materials whose name is specifically listed on that monster from your GY, in face-down Defense Position. You can only use each effect of \"Keeper of Dragon Magic\" once per turn. You cannot Special Summon monsters from the Extra Deck, except Fusion Monsters, the turn you activate either of this card's effects.",
     "str1": "Search \"Polymerization/Fusion\" Spell",
     "str2": "Special Summon",
-    "str3": "",
+    "str3": "Affected by \"Keeper of Dragon Magic\"",
     "str4": "",
     "str5": "",
     "str6": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "V Jump April 2018 promotional card",
-        "pack_id": "VJMP-JP143",
-        "date": "2018-02-21"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/15/KeeperofDragonicMagic-VJMP-JP-UR.png"
+    "cardpool": "OCG/TCG"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 536870912,
     "name": "Tatsunecro",
-    "desc": "If this Normal Summoned/Set monster would be used as Synchro Material, 1 monster in your hand can be used as 1 of the other materials. If you do this, all materials from that Summon are banished instead of being sent to the GY. You cannot Special Summon monsters, except Zombie monsters.",
+    "desc": "If this Normal Summoned/Set monster would be used as Synchro Material, 1 monster in your hand can be used as 1 of the other materials. If you do this, all materials for that Summon are banished instead of being sent to the GY. You cannot Special Summon monsters, except Zombie monsters.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Structure Deck: Zombie Horde",
-        "pack_id": "SR07-DE000",
-        "date": "2018-11-01"
-    },
-    "ocg": {
-        "pack": "Structure Deck R: Undead World",
-        "pack_id": "SR07-JP000",
-        "date": "2018-09-22"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3b/Tatsunecro-SR07-EN-SR-1E.png"
+    "cardpool": "OCG/TCG"
 }

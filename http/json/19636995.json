@@ -1,6 +1,6 @@
 {
     "id": 19636995,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 17178624,
     "name": "Red Hared Hasty Horse",
-    "desc": "If there is a column with no cards, you can Special Summon this card (from your hand) in Attack Position to your zone in that column. You can only Special Summon \"Rapid Red Hared Mare\" once per turn this way. If another card is placed in this card's column: Destroy this card. Once per turn: You can halve this card's original ATK for the rest of this turn, and if you do, it can attack directly this turn.",
+    "desc": "If there is a column with no cards, you can Special Summon this card (from your hand) in Attack Position to your zone in that column. You can only Special Summon \"Red Hared Hasty Horse\" once per turn this way. If another card is placed in this card's column: Destroy this card. Once per turn: You can halve this card's original ATK for the rest of this turn, and if you do, it can attack directly this turn.",
     "str1": "Self Destroy",
     "str2": "Halve ATK and gain Direct Attack",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-DE034",
-        "date": "2018-05-03"
-    },
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP034",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/74/RedHaredHastyHorse-FLOD-EN-SP-1E.png"
+    "cardpool": "OCG/TCG"
 }

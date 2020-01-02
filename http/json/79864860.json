@@ -1,6 +1,6 @@
 {
     "id": 79864860,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 4339,
     "type": 97,
@@ -10,8 +10,8 @@
     "race": 1024,
     "attribute": 32,
     "category": 2147753986,
-    "name": "Predaplant Triphyovertum",
-    "desc": "3 DARK monsters on the field\r\nGains ATK equal to the combined original ATK of all other monsters on the field with a Predator Counter. You can only use each of the following effects of \"Predaplant Triphyovertum\" once per turn.\r\n● When your opponent would Special Summon a monster from the Extra Deck while you control this Fusion Summoned card (Quick Effect): You can negate the Summon, and if you do, destroy that monster.\r\n● If your opponent controls a monster with a Predator Counter: You can Special Summon this card from your GY in Defense Position.",
+    "name": "Predaplant Triphyoverutum",
+    "desc": "3 DARK monsters on the field\nGains ATK equal to the total original ATK of all other monsters on the field with a Predator Counter. You can only use each of the following effects of \"Predaplant Triphyoverutum\" once per turn.\n● When your opponent Special Summons a monster(s) from their Extra Deck while you control this Fusion Summoned card (Quick Effect): You can negate the Summon, and if you do, destroy that monster(s).\n● If your opponent controls a monster with a Predator Counter(s): You can Special Summon this card from your GY in Defense Position.",
     "str1": "Negate Summon",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "DP22",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

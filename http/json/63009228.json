@@ -1,6 +1,6 @@
 {
     "id": 63009228,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262144,
     "name": "Rescue Interlacer",
-    "desc": "During damage calculation, if your Cyberse monster is attacked (Quick Effect): You can discard this card; you take no battle damage from that battle. You can only use this effect of \"Rescue Interlacer\" once per turn. Once per turn, during the End Phase, if this card is in the GY because it was discarded to activate this card's effect this turn: Special Summon this card.",
+    "desc": "During damage calculation, if your Cyberse monster is attacked (Quick Effect): You can discard this card; you take no battle damage from that battle. You can only use this effect of \"Rescue Interlacer\" once per turn. Once per turn, during the End Phase, if this card is in the GY because it was discarded there to activate this effect this turn: Special Summon this card.",
     "str1": "Reduce Damage",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

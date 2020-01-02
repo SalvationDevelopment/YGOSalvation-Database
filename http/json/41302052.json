@@ -1,6 +1,6 @@
 {
     "id": 41302052,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 251,
     "type": 67108897,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 4194304,
     "name": "Trickstar Bella Madonna",
-    "desc": "Link Arrows: [🡱][🡷][🡳][🡲]\n\n2+ \"Trickstar\" monsters\nWhile this Link Summoned card  points to no monsters, it is unaffected by other cards' activated effects. If this card points to no monsters: You can inflict 200 damage to your opponent for each \"Trickstar\" monster in your GY with a different name. You can only use this effect of \"Trickstar Bella Madonna\" once per turn.",
+    "desc": "2+ \"Trickstar\" monsters\r\nWhile this Link Summoned card points to no monsters, it is unaffected by other cards' activated effects. If this card points to no monsters: You can inflict 200 damage to your opponent for each \"Trickstar\" monster in your GY with a different name. You can only use this effect of \"Trickstar Bella Madonna\" once per turn.",
     "str1": "Inflict damage",
     "str2": "",
     "str3": "",
@@ -28,22 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-DE038",
-        "date": "2018-05-03"
-    },
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP038",
-        "date": "2018-01-13"
-    },
-    "links": [
-        1,
-        4,
-        5,
-        6
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/eb/TrickstarBellaMadonna-FLOD-EN-UR-1E.png"
+    "cardpool": "OCG/TCG"
 }

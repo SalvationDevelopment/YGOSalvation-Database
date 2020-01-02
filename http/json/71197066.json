@@ -1,6 +1,6 @@
 {
     "id": 71197066,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -10,8 +10,8 @@
     "race": 32,
     "attribute": 32,
     "category": 262146,
-    "name": "Metal Snake Murakumo no Orochi",
-    "desc": "If this card is in your hand or GY (Quick Effect): You can banish 8 cards from the top of your Deck, face-down; Special Summon this card. You can banish 3 cards from your Extra Deck, face-down, then target 1 face-up monster on the field; destroy it. You can only use 1 effect of \"Metal Snake Murakumo no Orochi\" per turn, and only once that turn.",
+    "name": "Gizmek Orochi, the Serpentron Sky Slasher",
+    "desc": "If this card is in your hand or GY (Quick Effect): You can banish 8 cards from the top of your Deck face-down; Special Summon this card. You can banish 3 cards from your Extra Deck face-down, then target 1 face-up monster on the field; destroy it. You can only use 1 \"Gizmek Orochi, the Serpentron Sky Slasher\" effect per turn, and only once that turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

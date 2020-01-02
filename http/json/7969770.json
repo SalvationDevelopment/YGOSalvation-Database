@@ -1,6 +1,6 @@
 {
     "id": 7969770,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -10,8 +10,8 @@
     "race": 1048576,
     "attribute": 32,
     "category": 0,
-    "name": "Transfamiliar",
-    "desc": "Once per turn: You can target 1 monster you control; move that monster you control to another of your Main Monster Zones.",
+    "name": "Trancefamiliar",
+    "desc": "Once per turn: You can target 1 monster you control; move that target to another of your Main Monster Zones.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP029",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/93/Transfamiliar-FLOD-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

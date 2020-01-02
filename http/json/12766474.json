@@ -1,6 +1,6 @@
 {
     "id": 12766474,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -10,10 +10,10 @@
     "race": 8,
     "attribute": 32,
     "category": 270352,
-    "name": "Duke Shade, King of the Umbra",
-    "desc": "You can Tribute any number of DARK monsters; Special Summon this card from your hand, and if you do, this card gains 500 ATK for each Tributed monster. If this card is Normal or Special Summoned: You can target 1 Level 5 or higher DARK monster in your GY; add it to your hand. You can only use each effect of \"Duke Shade, the Sinister Shadow Lord\" once per turn. You cannot Special Summon monsters the turn you activate either of this card's effects, except DARK monsters.",
+    "name": "Duke Shade, the Sinister Shadow Lord",
+    "desc": "You can Tribute any number of DARK monsters; Special Summon this card from your hand, and if you do, it gains 500 ATK for each monster you Tributed. If this card is Normal or Special Summoned: You can target 1 Level 5 or higher DARK monster in your GY; add it to your hand. You can only use each effect of \"Duke Shade, the Sinister Shadow Lord\" once per turn. You cannot Special Summon monsters the turn you activate either of this card's effects, except DARK monsters.",
     "str1": "",
-    "str2": "",
+    "str2": "Affected by \"Duke Shade, the Sinister Shadow Lord\"",
     "str3": "",
     "str4": "",
     "str5": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Structure Deck R: Curse of the Dark",
-        "pack_id": "SR06-JP003",
-        "date": "2018-03-10"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/44/DukeShadetheSinisterShadowLord-SR06-JP-OP.png"
+    "cardpool": "OCG/TCG"
 }

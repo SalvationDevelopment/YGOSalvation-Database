@@ -1,6 +1,6 @@
 {
     "id": 64400161,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 524290,
@@ -10,11 +10,11 @@
     "race": 0,
     "attribute": 0,
     "category": 16777744,
-    "name": "Dragon Airship - Fandra",
-    "desc": "During your Draw Phase, before your draw: You can give up your normal draw this turn, and if you do, add 1 \"Skyfang Brigade\" monster from your Deck to your hand. If you control 5 or more \"Skyfang Brigade\" monsters with different names: You can send this card to the GY; destroy all cards your opponent controls, also your opponent takes no damage for the rest of this turn.",
-    "str1": "Search \"Skyfang Brigade\" monster instead of drawing",
+    "name": "Fandora, the Flying Furtress",
+    "desc": "During your Draw Phase, before you draw: You can give up your normal draw this turn, and if you do, add 1 monster \"Fur Hire\" from your Deck to your hand. If you control 5 or more monsters \"Fur Hire\" with different names: You can send this card from the Field Zone to the GY; destroy all cards your opponent controls, also, for the rest of this turn, your opponent takes no damage.",
+    "str1": "Search \"Fur Hire\" monster instead of drawing",
     "str2": "Destroy all cards",
-    "str3": "",
+    "str3": "Affected by \"Fandora, the Flying Furtress\"",
     "str4": "",
     "str5": "",
     "str6": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Deck Build Pack: Dark Savers",
-        "pack_id": "DBDS-JP024",
-        "date": "2018-02-24"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/54/DragonAirshipFandra-DBDS-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

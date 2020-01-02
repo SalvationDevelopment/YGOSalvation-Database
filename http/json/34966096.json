@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262148,
     "name": "Chaos Betrayer",
-    "desc": "If this card is in your GY: You can banish 1 LIGHT and 1 DARK monster from your GY, except \"Chaos Betrayer\"; Special Summon this card is Defense Position, but banish it when it leaves the field. If this card is Special Summoned: You can target 1 card in your opponent's GY; banish it. You can only use each effect of \"Chaos Betrayer\" once per turn.",
+    "desc": "If this card is in your GY: You can banish 1 LIGHT and 1 DARK monster from your GY, except \"Chaos Betrayer\"; Special Summon this card in Defense Position, but banish it when it leaves the field. If this card is Special Summoned: You can target 1 card in your opponent's GY; banish it. You can only use each effect of \"Chaos Betrayer\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Dark Neostorm",
-        "pack_id": "DANE-DE021",
-        "date": "2019-05-02"
-    },
-    "ocg": {
-        "pack": "Dark Neostorm",
-        "pack_id": "DANE-JP021",
-        "date": "2019-01-12"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/28/ChaosBetrayer-DANE-EN-R-1E.png"
+    "cardpool": "OCG/TCG"
 }

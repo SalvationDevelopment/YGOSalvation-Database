@@ -1,6 +1,6 @@
 {
     "id": 7133305,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 2,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Water of Life",
-    "desc": "If you control no monsters: Target 1 monster in your GY; Special Summon it in Attack Position, also for the rest of this turn after this card resolves, you cannot activate monster effects, except the effects of that monster on the field. You can only activate 1 \"Water of Life\" per turn.",
+    "desc": "If you control no monsters: Target 1 monster in your GY; Special Summon that target in Attack Position, also, for the rest of this turn after this card resolves, you cannot activate monster effects, except the effects of that Special Summoned monster on the field. You can only activate 1 \"Water of Life\" per turn.",
     "str1": "Special Summon",
     "str2": "Affected by \"Water of Life\"",
     "str3": "",
@@ -23,10 +23,10 @@
     "str9": "",
     "str10": "",
     "str11": "",
-    "str12": "CP19-JP",
+    "str12": "",
     "str13": "",
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

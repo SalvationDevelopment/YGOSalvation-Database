@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 786432,
     "name": "Clock Wyvern",
-    "desc": "If this card is Normal or Special Summoned: You can halve this card's ATK, and if you do, Special Summon 1 \"Clock Token\" (Cyberse/WIND/Level 1/ATK 0/DEF 0). You can only use this effect of &#x201C;Clock Wyvern&#x201D; once per turn.",
+    "desc": "If this card is Normal or Special Summoned: You can halve this card's ATK, and if you do, Special Summon 1 \"Clock Token\" (Cyberse/WIND/Level 1/ATK 0/DEF 0). You can only use this effect of \"Clock Wyvern\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-EN001",
-        "date": "2018-10-18"
-    },
-    "ocg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-JP001",
-        "date": "2018-07-14"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/ClockWyvern-SOFU-EN-R-1E.png"
+    "cardpool": "OCG/TCG"
 }

@@ -1,6 +1,6 @@
 {
     "id": 10612222,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 179,
     "type": 4,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 16,
-    "name": "Yosenju Weaselblade Wind",
-    "desc": "If you control no monsters: Reveal up to 2 \"Yosenju\" monsters in your hand with different names, then target that many face-up cards your opponent controls; return them to the hand. You can only activate 1 \"Yosenju Weaselblade Wind\" per turn.",
+    "name": "Yosenjus' Sword Sting",
+    "desc": "If you control no monsters: Reveal up to 2 \"Yosenju\" monsters with different names in your hand, then target the same number of face-up cards your opponent controls; return them to the hand. You can only activate 1 \"Yosenjus' Sword Sting\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

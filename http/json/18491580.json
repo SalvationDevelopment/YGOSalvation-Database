@@ -1,6 +1,6 @@
 {
     "id": 18491580,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 59,
     "type": 33554465,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Red-Eyes Alternative Black Dragon",
-    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 &#x201C;Red-Eyes&#x201D; monster from your hand or field. You can only Special Summon &#x201C;Red-Eyes Alternative Black Dragon&#x201D; once per turn this way. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can target 1 Level 7 or lower &#x201C;Red-Eyes&#x201D; monster in your GY, except &#x201C;Red-Eyes Alternative Black Dragon&#x201D;; Special Summon it. Then, if you Special Summoned &#x201C;Red-Eyes B. Dragon&#x201D; with this effect, double its original ATK.",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 \"Red-Eyes\" monster from your hand or field. You can only Special Summon \"Red-Eyes Alternative Black Dragon\" once per turn this way. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can target 1 Level 7 or lower \"Red-Eyes\" monster in your GY, except \"Red-Eyes Alternative Black Dragon\"; Special Summon it, and if it was a \"Red-Eyes Black Dragon\" that was Special Summoned, its original ATK becomes doubled.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "20th Anniversary Legend Collection",
-        "pack_id": "20TH-JPC04",
-        "date": "2019-02-09"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1b/RedEyesAlternativeBlackDragon-20TH-JP-ScR.png"
+    "cardpool": "OCG/TCG"
 }

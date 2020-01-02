@@ -1,6 +1,6 @@
 {
     "id": 14509651,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33554465,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 17039392,
     "name": "Curse Necrofear",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. You can target 3 of your banished Fiend monsters; Special Summon this card from your hand, and if you do, shuffle the targeted monsters into the Deck. During the End Phase, if this card is in the GY because it was destroyed in its owner's Monster Zone by an opponent's card and sent there this turn: Special Summon this card, then you can destroy cards your opponent controls, up to the number of Spells/Traps you control with a different name. You can only use each effect of \"Curse Necrofear\" once per turn.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. You can target 3 of your banished Fiend monsters; Special Summon this card from your hand, and if you do, shuffle those banished monsters into the Deck. During the End Phase, if this card is in the GY because it was destroyed in your Monster Zone by an opponent's card and sent there this turn: Special Summon this card from your GY, then, you can destroy cards your opponent controls, up to the number of face-up Spells/Traps you control with different names. You can only use each effect of \"Curse Necrofear\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "DP22",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Duelist Pack: Legend Duelist 5",
-        "pack_id": "DP22-JP001",
-        "date": "2019-06-08"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0b/CurseNecrofear-DP22-JP-OP.png"
+    "cardpool": "OCG/TCG"
 }

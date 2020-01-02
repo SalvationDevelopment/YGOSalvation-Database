@@ -1,6 +1,6 @@
 {
     "id": 17956906,
-    "ot": 2,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 2,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Final Light",
-    "desc": "Pay LP in multiples of 1000, then target 1 \"Valkyrie\" monster in your GY with a different name for every 1000 LP paid. Special Summon them, then your opponent can Special Summon monsters with 2000 or less ATK from their GY, up to the number of monsters you Special Summoned by this effect. You can only active 1 \"Final Light\" per turn.",
+    "desc": "Pay LP in multiples of 1000, then target 1 \"Valkyrie\" monster in your GY with a different name for every 1000 LP paid; Special Summon them, then your opponent can Special Summon monsters with 2000 or less ATK from their GY, up to the number of monsters you Special Summoned by this effect. You can only activate 1 \"Final Light\" per turn.",
     "str1": "Choose how much to pay",
     "str2": "Special Summon?",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG",
-    "tcg": {
-        "pack": "Savage Strike",
-        "pack_id": "SAST-DE090",
-        "date": "2019-01-31"
-    },
-    "ocg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9a/FinalLight-SAST-EN-UR-1E.png"
+    "cardpool": "OCG/TCG"
 }

@@ -2,7 +2,7 @@
     "id": 18236002,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 288,
     "type": 33,
     "atk": 1500,
     "def": 500,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 4456448,
     "name": "Prank-Kids Lampsies",
-    "desc": "If this card is sent to the GY as material for the Fusion or Link Summon of a &#x201C;Prank-Kids&#x201D; monster: You can inflict 500 damage to your opponent, then you can Special Summon 1 &#x201C;Prank-Kids&#x201D; monster from your hand or Deck in Defense Position, except &#x201C;Prank-Kids Lampsies&#x201D;. You can only use this effect of &#x201C;Prank-Kids Lampsies&#x201D; once per turn.",
+    "desc": "If this card is sent to the GY as material for the Fusion or Link Summon of a \"Prank-Kids\" monster: You can inflict 500 damage to your opponent, then you can Special Summon 1 \"Prank-Kids\" monster from your hand or Deck in Defense Position, except \"Prank-Kids Lampsies\". You can only use this effect of \"Prank-Kids Lampsies\" once per turn.",
     "str1": "Inflict damage",
     "str2": "Special Summon 1 \"Prankids\" monster?",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Hidden Summoners",
-        "pack_id": "HISU-DE015",
-        "date": "2018-11-15"
-    },
-    "ocg": {
-        "pack": "Deck Build Pack: Hidden Summoners",
-        "pack_id": "DBHS-JP015",
-        "date": "2018-08-04"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0a/PrankKidsLampsies-HISU-EN-SR-1E.png"
+    "cardpool": "OCG/TCG"
 }

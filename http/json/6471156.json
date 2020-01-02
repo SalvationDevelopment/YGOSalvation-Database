@@ -1,6 +1,6 @@
 {
     "id": 6471156,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 131074,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Perform Puppet",
-    "desc": "You can banish 1 \"Gimmick Puppet\" monster that has a Level from your GY; the Levels of all monsters you currently control become the banished monster's Level, until the end of this turn (even if this card leaves the field). If a face-up \"Gimmick Puppet\" monster(s) you control is destroyed by battle or an opponent's card effect and sent to the GY: You can target 1 of your banished \"Gimmick Puppet\" monsters; Special Summon it. You can only use each effect of \"Perform Puppet\" once per turn.",
+    "desc": "You can banish 1 \"Gimmick Puppet\" monster from your GY; all monsters you currently control become that banished monster's Level, until the end of this turn (even if this card leaves the field). If a face-up \"Gimmick Puppet\" monster(s) you control is destroyed by battle or an opponent's card effect and sent to the GY: You can target 1 of your banished \"Gimmick Puppet\" monsters; Special Summon it. You can only use each effect of \"Perform Puppet\" once per turn.",
     "str1": "Change Levels",
     "str2": "Special Summon",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "DP22",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

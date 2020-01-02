@@ -1,6 +1,6 @@
 {
     "id": 38576155,
-    "ot": 2,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 131074,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 528,
     "name": "Goddess Skuld's Oracle",
-    "desc": "When this card is activated: If all monsters you control are &#x201C;Valkyrie&#x201D; monsters (min. 1), you can add 1 &#x201C;Goddess Verdande's Guidance&#x201D; from your Deck to your hand. Once per turn, during your Main Phase: You can look at the top 3 cards of your opponent's Deck, and if you do, place them on top of their Deck in any order, but you cannot Normal or Special Summon monsters for the rest of this turn, except Fairy monsters. You can only activate 1 &#x201C;Goddess Skuld's Oracle&#x201D; per turn.",
+    "desc": "When this card is activated: If all monsters you control are \"Valkyrie\" monsters (min. 1), you can add 1 \"Goddess Verdande's Guidance\" from your Deck to your hand. Once per turn, during your Main Phase: You can look at the top 3 cards of your opponent's Deck, and if you do, place them on top of their Deck in any order, but you cannot Normal or Special Summon monsters for the rest of this turn, except Fairy monsters. You can only activate 1 \"Goddess Skuld's Oracle\" per turn.",
     "str1": "Search \"Goddess Verdande's Guidance\"?",
     "str2": "Look at opponent's Deck",
     "str3": "Affected by \"Goddess Skuld's Oracle\"",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG",
-    "tcg": {
-        "pack": "Shadows in Valhalla",
-        "pack_id": "SHVA-DE008",
-        "date": "2018-08-16"
-    },
-    "ocg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/GoddessSkuldsOracle-SHVA-EN-SR-1E.png"
+    "cardpool": "OCG/TCG"
 }

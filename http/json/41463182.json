@@ -2,7 +2,7 @@
     "id": 41463182,
     "ot": 3,
     "alias": 41463181,
-    "setcode": 0,
+    "setcode": 281,
     "type": 67108897,
     "atk": 2300,
     "def": 133,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 8224,
     "name": "Salamangreat Heatleo",
-    "desc": "Link Arrows: [🡱][🡷][🡶]\n\n2+ FIRE Effect Monsters\nIf this card is Link Summoned: You can target 1 card in your opponent's Spell & Trap Zone; shuffle it into the Deck. Once per turn, during your Main Phase, if this card was Link Summoned using &#x201C;Salamangreat Heatleo&#x201D; as material: You can target 1 face-up monster on the field and 1 monster in your GY; the ATK of the first target becomes equal to the other target's, until the end of this turn.",
+    "desc": "2+ FIRE Effect Monsters\r\nIf this card is Link Summoned: You can target 1 card in your opponent's Spell & Trap Zone; shuffle it into the Deck. Once per turn, during your Main Phase, if this card was Link Summoned using \"Salamangreat Heatleo\" as material: You can target 1 face-up monster on the field and 1 monster in your GY; the ATK of the first target becomes equal to the other target's, until the end of this turn.",
     "str1": "Shuffle Spell/Trap",
     "str2": "Change ATK",
     "str3": "",
@@ -28,21 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-DE040",
-        "date": "2018-10-18"
-    },
-    "ocg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-JP040",
-        "date": "2018-07-14"
-    },
-    "links": [
-        1,
-        5,
-        7
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a5/SalamangreatHeatleo-SOFU-EN-R-1E.png"
+    "cardpool": "OCG/TCG"
 }

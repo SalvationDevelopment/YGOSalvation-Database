@@ -1,6 +1,6 @@
 {
     "id": 32828635,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 130,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262672,
     "name": "Cycle of the World",
-    "desc": "This card is used to Ritual Summon &#x201C;Ruin, Queen of Oblivion&#x201D; or &#x201C;Demise, King of Armageddon&#x201D;. You must also Tribute monsters from your field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. During your Main Phase, except the turn this card was sent to the GY: You can shuffle this card into the Deck; add 1 &#x201C;End of the World&#x201D; from your Deck to your hand, then, you can add 1 &#x201C;Ruin, Queen of Oblivion&#x201D; or &#x201C;Demise, King of Armageddon&#x201D; from your GY to your hand.",
+    "desc": "This card is used to Ritual Summon \"Ruin, Queen of Oblivion\" or \"Demise, King of Armageddon\". You must also Tribute monsters from your field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. During your Main Phase, except the turn this card was sent to the GY: You can shuffle this card into the Deck; add 1 \"End of the World\" from your Deck to your hand, then, you can add 1 \"Ruin, Queen of Oblivion\" or \"Demise, King of Armageddon\" from your GY to your hand.",
     "str1": "Search \"End of the World\"",
     "str2": "Add \"Ruin, Queen of Oblivion\" or \"Demise, King of Armageddon\" to your hand?",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Cybernetic Horizon",
-        "pack_id": "CYHO-DE056",
-        "date": "2018-07-26"
-    },
-    "ocg": {
-        "pack": "Cybernetic Horizon",
-        "pack_id": "CYHO-JP056",
-        "date": "2018-04-14"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/CycleoftheWorld-CYHO-EN-C-1E.png"
+    "cardpool": "OCG/TCG"
 }

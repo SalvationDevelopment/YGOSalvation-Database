@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262674,
     "name": "Gokipole",
-    "desc": "If this card is sent to the GY: You can add 1 Level 4 Insect monster from your Deck to your hand, then, if you added a Normal Monster, you can Special Summon it, then you can destroy 1 monster on the field with ATK greather than or equal to that Special Summoned monster's. You can only use this effect of &#x201C;Gokipole&#x201D; once per turn.",
+    "desc": "If this card is sent to the GY: You can add 1 Level 4 Insect monster from your Deck to your hand, then, if you added a Normal Monster, you can Special Summon it, then you can destroy 1 monster on the field with ATK greater than or equal to that Special Summoned monster's. You can only use this effect of \"Gokipole\" once per turn.",
     "str1": "Search",
     "str2": "Special Summon the monster?",
     "str3": "Destroy a monster?",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-EN030",
-        "date": "2018-10-18"
-    },
-    "ocg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-JP030",
-        "date": "2018-07-14"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/04/Gokipole-SOFU-EN-R-1E.png"
+    "cardpool": "OCG/TCG"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 2051,
     "name": "Spin Turn",
-    "desc": "Activate 1 of the following effects.\n●Target 1 EARTH Machine Xyz Monster you control in Attack Position and 1 monster your opponent controls; change the battle position of your monster, and if you do, destroy that opponent's monster.\n●Target 1 EARTH Machine Xyz Monster you control in Defense Position and 1 Spell/Trap your opponent controls; change the battle position of your monster, and if you do, destroy that opponent's Spell/Trap.",
+    "desc": "Activate 1 of the following effects.\r\n● Target 1 EARTH Machine Xyz Monster you control in Attack Position and 1 monster your opponent controls; change the battle position of your monster, and if you do, destroy that opponent's monster.\r\n● Target 1 EARTH Machine Xyz Monster you control in Defense Position and 1 Spell/Trap your opponent controls; change the battle position of your monster, and if you do, destroy that opponent's Spell/Trap.",
     "str1": "Change position of an Attack Position monster to destroy a monster",
     "str2": "Change position of a Defense Position monster to destroy a Spell/Trap",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "The Infinity Chasers",
-        "pack_id": "INCH-EN013",
-        "date": "2019-03-21"
-    },
-    "ocg": {
-        "pack": "Deck Build Pack: Infinity Chasers",
-        "pack_id": "DBIC-JP013",
-        "date": "2019-02-23"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7e/SpinTurn-INCH-EN-SR-1E.png"
+    "cardpool": "OCG/TCG"
 }

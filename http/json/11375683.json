@@ -1,6 +1,6 @@
 {
     "id": 11375683,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 267,
     "type": 2097185,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262680,
     "name": "Tindangle Trinity",
-    "desc": "FLIP: You can Special Summon 1 \"Tindangle Base Gardna\" from your Deck.\nIf this card was flipped face-up, your \"Tindangle\" monsters cannot be destroyed by battle. If this card is sent to the GY as Link Material for the Link Summon of a \"Tindangle\" monster: You can add 1 \"Gergonne's End\" from your Deck to your hand, and if you do, send 1 Spell/Trap from your Deck to the GY. You can only use this effect of \"Tindangle Trinity\" once per turn.",
+    "desc": "FLIP: You can Special Summon 1 \"Tindangle Base Gardna\" from your Deck.\r\nIf this card was flipped face-up, your \"Tindangle\" monsters cannot be destroyed by battle. If this card is sent to the GY as Link Material for the Link Summon of a \"Tindangle\" monster: You can add 1 \"Gergonne's End\" from your Deck to your hand, and if you do, send 1 Spell/Trap from your Deck to the GY. You can only use this effect of \"Tindangle Trinity\" once per turn.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-DE013",
-        "date": "2018-05-03"
-    },
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP013",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/56/TindangleTrinity-FLOD-EN-C-1E.png"
+    "cardpool": "OCG/TCG"
 }

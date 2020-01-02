@@ -2,7 +2,7 @@
     "id": 3134857,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 283,
     "type": 67108897,
     "atk": 3000,
     "def": 387,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 8224,
     "name": "Orcustrion",
-    "desc": "Link Arrows: [🡷][🡳][🡱][🡵]\n\n2+ Effect Monsters, including an &#x201C;Orcust&#x201D; monster\nThis linked card cannot be destroyed by battle or card effects. You can target 3 of your banished Machine monsters; return them to the Deck, and if you do, the ATK/DEF of any linked monster(s) your opponent currently controls becomes 0, also their effects are negated. You can only use this effect of \"Orcustrion\" once per turn.",
+    "desc": "2+ Effect Monsters, including an \"Orcust\" monster\r\nThis linked card cannot be destroyed by battle or card effects. You can target 3 of your banished Machine monsters; shuffle them into the Deck, and if you do, the ATK/DEF of any linked monster(s) your opponent currently controls become 0, also their effects are negated. You can only use this effect of \"Orcustrion\" once per turn.",
     "str1": "Return to Deck",
     "str2": "",
     "str3": "",
@@ -28,22 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-DE045",
-        "date": "2018-10-18"
-    },
-    "ocg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-JP045",
-        "date": "2018-07-14"
-    },
-    "links": [
-        1,
-        2,
-        5,
-        6
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/31/Orcustrion-SOFU-EN-UR-1E.png"
+    "cardpool": "OCG/TCG"
 }

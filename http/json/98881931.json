@@ -1,6 +1,6 @@
 {
     "id": 98881931,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 85,
     "type": 33,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 270336,
     "name": "Photon Advancer",
-    "desc": "If a \"Photon\" monster is on the field, you can Special Summon this card (from your hand). You can only Special Summon \"Photon Advancer\" once per turn this way. If another \"Photon\" monster is on the field, this card gains 1000 ATK.",
+    "desc": "If a \"Photon\" monster is on the field, you can Special Summon this card (from your hand). You can only Special Summon \"Photon Advancer\" once per turn this way. Gains 1000 ATK if another \"Photon\" monster is on the field.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Premium Pack 20",
-        "pack_id": "PP20-JP011",
-        "date": "2018-03-10"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e7/PhotonAdvancer-PP20-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

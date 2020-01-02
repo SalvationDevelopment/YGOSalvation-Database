@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262150,
     "name": "Enma's Judgment",
-    "desc": "When your opponent Special Summons a monster(s): Destroy that monster(s), then you can banish 5 Zombie monsters from your GY, and if you do, Special Summon 1 Level 7 or higher Zombie monster from your hand or Deck.",
+    "desc": "When your opponent Special Summons a monster(s): Destroy that monster, then you can banish 5 Zombie monsters from your GY, and if you do, Special Summon 1 Level 7 or higher Zombie monster from your hand or Deck.",
     "str1": "Banish 5 Zombies and Special Summon?",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Premium Pack 2019",
-        "pack_id": "19PP-JP018",
-        "date": "2019-03-09"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/92/EnmasJudgment-19PP-JP-C.png"
+    "cardpool": "OCG"
 }

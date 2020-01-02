@@ -1,23 +1,32 @@
 {
-    "ocg": {
-        "pack": "LINK VRAINS Pack",
-        "pack_id": "LVP1-JP036",
-        "date": "2017-11-25"
-    },
-    "tcg": {},
     "id": 50756327,
+    "ot": 3,
+    "alias": 0,
     "setcode": 110,
-    "type": 33554465,
+    "type": 67108897,
     "atk": 1000,
-    "def": "-",
+    "def": 5,
     "level": 2,
-    "links": [
-        5,
-        7
-    ],
     "race": 2,
     "attribute": 32,
-    "name": "Crowley the Origin of Prophecy",
-    "desc": "Link Arrows: [🡷][🡶]\n\n2 Spellcaster monsters\nIf this card is Link Summoned: You can reveal 3 \"Spellbook\" cards with different names from your Deck, your opponent randomly picks 1 for you to add to your hand, and you shuffle the rest back into your Deck. You can only use this effect of \"Crowley the Origin of Prophecy\" once per turn. Each turn, 1 Level 5 or higher Spellcaster monster you Normal Summon can be Summoned without Tributing.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0b/CrowleytheOriginofProphecy-LVP1-JP-UR.png"
+    "category": 528,
+    "name": "Crowley, the First Propheseer",
+    "desc": "2 Spellcaster monsters\r\nIf this card is Link Summoned: You can reveal 3 \"Spellbook\" cards with different names from your Deck, and your opponent randomly picks 1 for you to add to your hand, also shuffle the rest into your Deck. You can only use this effect of \"Crowley, the First Propheseer\" once per turn. Each turn, 1 Level 5 or higher Spellcaster monster you Normal Summon can be Summoned without Tributing.",
+    "str1": "Reveal",
+    "str2": "Summon without Tributing? (Crowley)",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "cardpool": "OCG/TCG"
 }

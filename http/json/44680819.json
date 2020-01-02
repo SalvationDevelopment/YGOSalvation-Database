@@ -1,6 +1,6 @@
 {
     "id": 44680819,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -10,8 +10,8 @@
     "race": 8192,
     "attribute": 8,
     "category": 262144,
-    "name": "Storm Dragon",
-    "desc": "You can only control 1 \"Storm Dragon\". If you control a Spellcaster monster, you can Special Summon this card (from your hand). If this card is destroyed by battle or card effect and sent to the GY: You can target 1 monster in your GY with 1500 ATK and 200 DEF, except \"Storm Dragon\"; Special Summon it.",
+    "name": "Ranryu",
+    "desc": "You can only control 1 \"Ranryu\". If you control a Spellcaster monster, you can Special Summon this card (from your hand). If this card is destroyed by battle or card effect and sent to the GY: You can target 1 monster with 1500 ATK and 200 DEF in your GY, except \"Ranryu\"; Special Summon it.",
     "str1": "Special Summon this card",
     "str2": "Special Summon a target",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

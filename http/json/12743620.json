@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 536870912,
     "name": "Uni-Song Tuning",
-    "desc": "Target 1 Tuner in either GY and 1 face-up monster on the field; banish that Tuner in the GY, then, until the end of this turn, the Level of the targeted monster on the field becomes the Level of the banished Tuner, also it is treated as a Tuner. You can only activate 1 \"Uni-Song Tuning\" once per turn.",
+    "desc": "Target 1 Tuner in either GY and 1 face-up monster on the field; banish that Tuner in the GY, then, until the end of this turn, the Level of the targeted monster on the field becomes the Level of the banished Tuner, also it is treated as a Tuner. You can only activate 1 \"Uni-Song Tuning\" per turn.",
     "str1": "Change Level",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Savage Strike",
-        "pack_id": "SAST-DE066",
-        "date": "2019-01-31"
-    },
-    "ocg": {
-        "pack": "Savage Strike",
-        "pack_id": "SAST-JP066",
-        "date": "2018-10-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3a/UniSongTuning-SAST-EN-C-1E.png"
+    "cardpool": "OCG/TCG"
 }

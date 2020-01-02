@@ -1,6 +1,6 @@
 {
     "id": 24940422,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 2,
@@ -12,9 +12,9 @@
     "category": 288,
     "name": "Sekka's Light",
     "desc": "If you have no Spells/Traps in your GY: Draw 2 cards, also, for the rest of this Duel after you activate this card, you cannot activate Spell/Trap Cards or effects, except \"Sekka's Light\". You can banish this card from your GY; reveal 1 monster in your hand, shuffle it into the Deck, then, draw 1 card. You can only use each effect of \"Sekka's Light\" once per turn.",
-    "str1": "",
-    "str2": "",
-    "str3": "",
+    "str1": "Draw 2",
+    "str2": "Shuffle to draw",
+    "str3": "Affected by \"Sekka's Light\"",
     "str4": "",
     "str5": "",
     "str6": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-DE062",
-        "date": "2018-05-03"
-    },
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP062",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/39/SekkasLight-OP09-EN-SR-UE.png"
+    "cardpool": "OCG/TCG"
 }

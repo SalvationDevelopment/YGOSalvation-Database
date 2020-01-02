@@ -1,8 +1,8 @@
 {
     "id": 26302107,
-    "ot": 2,
+    "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 286,
     "type": 33,
     "atk": 2400,
     "def": 1000,
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG",
-    "tcg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-DE083",
-        "date": "2018-10-18"
-    },
-    "ocg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/27/DangerDogman-SOFU-EN-SR-1E.png"
+    "cardpool": "OCG/TCG"
 }

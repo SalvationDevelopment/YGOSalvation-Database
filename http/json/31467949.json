@@ -1,8 +1,8 @@
 {
     "id": 31467949,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 276,
     "type": 33,
     "atk": 1000,
     "def": 500,
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Dark Saviors",
-        "pack_id": "DASA-DE015",
-        "date": "2018-05-24"
-    },
-    "ocg": {
-        "pack": "Deck Build Pack: Dark Savers",
-        "pack_id": "DBDS-JP015",
-        "date": "2018-02-24"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/21/ReconScoutFurHire-DASA-EN-SR-1E.png"
+    "cardpool": "OCG/TCG"
 }

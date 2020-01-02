@@ -1,6 +1,6 @@
 {
     "id": 5402805,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 300,
     "type": 67108865,
@@ -10,7 +10,7 @@
     "race": 8388608,
     "attribute": 32,
     "category": 0,
-    "name": "Fierce Ogre of Tenyi",
+    "name": "Berserker of the Tenyi",
     "desc": "2+ monsters, including a Link Monster",
     "str1": "",
     "str2": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

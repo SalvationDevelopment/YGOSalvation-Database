@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 69632,
     "name": "Crackdown",
-    "desc": "Activate this card by targeting 1 face-up monster your opponent controls; take control of it, but while you control that monster, it cannot attack or activate its effects. When that monster leaves the field, destroy this card.",
+    "desc": "Activate this card by targeting 1 face-up monster your opponent controls; take control of that monster. While you control that monster, it cannot attack or activate effects. When that monster leaves the field, destroy this card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Dark Neostorm",
-        "pack_id": "DANE-DE078",
-        "date": "2019-05-02"
-    },
-    "ocg": {
-        "pack": "Dark Neostorm",
-        "pack_id": "DANE-JP078",
-        "date": "2019-01-12"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/38/Crackdown-DANE-EN-SR-1E.png"
+    "cardpool": "OCG/TCG"
 }

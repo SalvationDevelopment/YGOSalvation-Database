@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262152,
     "name": "World Legacy - \"World Ark\"",
-    "desc": "This card can be treated as 2 Tributes for the Tribute Summon of a monster. You can only use each of the following effects of \"World Legacy - \"World Ark\"\" once per turn.\n● If a Link Monster(s) you control is destroyed by an opponent's card effect and sent to your GY (except during the Damage Step): You can send this card from your hand to the GY, then target 1 of those Link Monsters; Special Summon it.\n● If your opponent Special Summons a monster(s) from the Extra Deck, while this Normal Summoned/Set card is on the field (except during the Damage Step): You can send 1 monster from your Deck to the GY.",
+    "desc": "This card can be treated as 2 Tributes for the Tribute Summon of a monster. You can only use each of the following effects of \"World Legacy - \"World Ark\"\" once per turn.\r\n● If a Link Monster(s) you control is destroyed by an opponent's card effect and sent to your GY (except during the Damage Step): You can send this card from your hand to the GY, then target 1 of those Link Monsters; Special Summon it.\r\n● If your opponent Special Summons a monster(s) from the Extra Deck, while this Normal Summoned/Set card is on the field (except during the Damage Step): You can send 1 monster from your Deck to the GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Savage Strike",
-        "pack_id": "SAST-DE016",
-        "date": "2019-01-31"
-    },
-    "ocg": {
-        "pack": "Savage Strike",
-        "pack_id": "SAST-JP016",
-        "date": "2018-10-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/66/WorldLegacyWorldArk-SAST-EN-R-1E.png"
+    "cardpool": "OCG/TCG"
 }

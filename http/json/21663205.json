@@ -2,7 +2,7 @@
     "id": 21663205,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 46,
     "type": 33,
     "atk": 500,
     "def": 1500,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Gravekeeper's Headman",
-    "desc": "If this card is Summoned: You can target 1 Level 4 &#x201C;Gravekeeper's&#x201D; monster in your GY; Special Summon it in face-up Attack Position or face-down Defense Position. You can only use this effect of &#x201C;Gravekeeper's Headman&#x201D; once per turn. This effect is unaffected by &#x201C;Necrovalley&#x201D;.",
+    "desc": "If this card is Summoned: You can target 1 Level 4 \"Gravekeeper's\" monster in your GY; Special Summon it in Attack Position or face-down Defense Position. You can only use this effect of \"Gravekeeper's Headman\" once per turn. This effect is unaffected by \"Necrovalley\".",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-EN012",
-        "date": "2018-10-18"
-    },
-    "ocg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-JP012",
-        "date": "2018-07-14"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/85/GravekeepersHeadman-SOFU-EN-R-1E.png"
+    "cardpool": "OCG/TCG"
 }

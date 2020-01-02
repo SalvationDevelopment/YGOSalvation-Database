@@ -1,6 +1,6 @@
 {
     "id": 8802510,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 193,
     "type": 67108897,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 528,
     "name": "PSY-Framelord Lambda",
-    "desc": "2 monsters, except Tokens\r\nYou can activate the effects of \"PSY-Framegear\" monsters in your hand even if you control a monster. If another face-up Psychic monster(s) you control is banished while this monster is on the field (except during the Damage Step): You can activate this effect; during the End Phase of this turn, add 1 \"PSY-Frame\" card from your Deck to your hand. You can only use this effect of \"PSY-Framelord Lambda\" once per turn.",
+    "desc": "2 monsters, except Tokens\r\nYou can activate the effects of \"PSY-Framegear\" monsters in your hand even while you control a monster(s). If a face-up Psychic monster you control is banished face-up while you control this monster (except during the Damage Step): You can activate this effect; during the End Phase of this turn, add 1 \"PSY-Frame\" card from your Deck to your hand. You can only use this effect of \"PSY-Framelord Lambda\" once per turn.",
     "str1": "Search a PSY-Frame card during the End Phase",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

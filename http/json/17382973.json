@@ -2,7 +2,7 @@
     "id": 17382973,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 288,
     "type": 67108897,
     "atk": 2000,
     "def": 10,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 528,
     "name": "Prank-Kids Dodo-Doodle-Doo",
-    "desc": "Link Arrows: [🡰][🡳]\n\n2 &#x201C;Prank-Kids&#x201D; monsters\nIf this card is Link Summoned: You can add 1 &#x201C;Prank-Kids&#x201D; Spell/Trap from your Deck to your hand. You can Tribute this card, then target 2 &#x201C;Prank-Kids&#x201D; cards in your GY with different names, except Link Monsters; add them to your hand. You can only use each effect of &#x201C;Prank-Kids Dodo-Doodle-Doo&#x201D; once per turn.",
+    "desc": "2 \"Prank-Kids\" monsters\r\nIf this card is Link Summoned: You can add 1 \"Prank-Kids\" Spell/Trap from your Deck to your hand. You can Tribute this card, then target 2 \"Prank-Kids\" cards with different names in your GY, except Link Monsters; add them to your hand. You can only use each effect of \"Prank-Kids Dodo-Doodle-Doo\" once per turn.",
     "str1": "Search a \"Prankids\" Spell/Trap",
     "str2": "Add 2 different \"Prankids\" cards from GY to hand",
     "str3": "",
@@ -28,20 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Hidden Summoners",
-        "pack_id": "HISU-DE020",
-        "date": "2018-11-15"
-    },
-    "ocg": {
-        "pack": "Deck Build Pack: Hidden Summoners",
-        "pack_id": "DBHS-JP020",
-        "date": "2018-08-04"
-    },
-    "links": [
-        3,
-        6
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1e/PrankKidsDodoDoodleDoo-HISU-EN-ScR-1E.png"
+    "cardpool": "OCG/TCG"
 }

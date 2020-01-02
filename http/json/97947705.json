@@ -1,6 +1,6 @@
 {
     "id": 97947705,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262160,
     "name": "Backup Operator",
-    "desc": "You can target 1 face-up monster your Link Monster points to; Special Summon this card from your hand, and if you do, return that monster to the hand, but banish this card when it leaves the field. You can only use this effect of \"Backup Operator\" once per turn.",
+    "desc": "You can target 1 face-up monster that a Link Monster you control points to; Special Summon this card from your hand, and if you do, return that monster to the hand. If Special Summoned this way, banish this card when it leaves the field. You can only use this effect of \"Backup Operator\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP003",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/47/BackupOperator-FLOD-JP-R.png"
+    "cardpool": "OCG/TCG"
 }

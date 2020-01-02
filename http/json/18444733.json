@@ -2,7 +2,7 @@
     "id": 18444733,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 284,
     "type": 131076,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 5,
     "name": "Thunder Dragon Discharge",
-    "desc": "The activation of your Thunder monsters' effects cannot be negated. Once per turn, if a &#x201C;Thunder Dragon&#x201D; monster(s) is Normal or Special Summoned to your field: You can target 1 Spell/Trap on the field; banish 1 Thunder monster from your Deck, and if you do, destroy that target.",
+    "desc": "The activation of your Thunder monsters' effects cannot be negated. Once per turn, if a \"Thunder Dragon\" monster(s) is Normal or Special Summoned to your field: You can target 1 Spell/Trap on the field; banish 1 Thunder monster from your Deck, and if you do, destroy that target.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-DE073",
-        "date": "2018-10-18"
-    },
-    "ocg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-JP073",
-        "date": "2018-07-14"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/62/ThunderDragonDischarge-SOFU-EN-R-1E.png"
+    "cardpool": "OCG/TCG"
 }

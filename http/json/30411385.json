@@ -1,8 +1,8 @@
 {
     "id": 30411385,
-    "ot": 2,
+    "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 290,
     "type": 33,
     "atk": 1600,
     "def": 1600,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 16777232,
     "name": "Valkyrie Zweite",
-    "desc": "If this card is Summoned: You can target 1 monster your opponent controls; destroy it. After damage calculation, if this card battled: You can target 1 Continuous Spell in your GY; add it to your hand. You can only use each effect of &#x201C;Valkyrie Zweite&#x201D; once per turn.",
+    "desc": "If this card is Summoned: You can target 1 monster your opponent controls; destroy it. After damage calculation, if this card battled: You can target 1 Continuous Spell in your GY; add it to your hand. You can only use each effect of \"Valkyrie Zweite\" once per turn.",
     "str1": "Destroy",
     "str2": "Recover a Continuous Spell",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG",
-    "tcg": {
-        "pack": "Shadows in Valhalla",
-        "pack_id": "SHVA-DE002",
-        "date": "2018-08-16"
-    },
-    "ocg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/35/ValkyrieZweite-SHVA-EN-SR-1E.png"
+    "cardpool": "OCG/TCG"
 }

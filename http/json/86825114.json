@@ -1,6 +1,6 @@
 {
     "id": 86825114,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 251,
     "type": 33,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262144,
     "name": "Trickstar Nightshade",
-    "desc": "If this card is sent to the GY as material for the Link Summon of a \"Trickstar\" Link Monster: You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Trickstar Nightshade\" once per turn.",
+    "desc": "If this card is sent to the GY as Link Material for the Link Summon of a \"Trickstar\" monster: You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Trickstar Nightshade\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP006",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/13/TrickstarNightshade-FLOD-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

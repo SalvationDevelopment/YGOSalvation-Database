@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Cubic Ascension",
-    "desc": "Activate when your oppponent's monster declares an attack: Special Summon 1 &#x201C;Vijam the Cubic Seed&#x201D; from your Deck, then change the target of that attack to that monster and proceed to damage calculation. If your opponent's LP is at least 2000 higher than yours: You can banish this card from your GY; Special Summon 1 &#x201C;Vijam the Cubic Seed&#x201D; from your hand, Deck or GY. If only your opponent controlled monsters when this effect was activated, you can also Special Summon up to 2 more &#x201C;Vijam the Cubic Seed&#x201D;. You can only use this effect of &#x201C;Cubic Ascension&#x201D; once per turn.",
+    "desc": "When an opponent's monster declares an attack: Special Summon 1 \"Vijam the Cubic Seed\" from your Deck, and if you do, change the attack target to it and perform damage calculation. If your opponent's LP is at least 2000 higher than yours: You can banish this card from your GY; Special Summon 1 \"Vijam the Cubic Seed\" from your hand, Deck, or GY, then, if only your opponent controlled a monster when you activated this effect, you can also Special Summon up to 2 additional \"Vijam the Cubic Seed\". You can only use this effect of \"Cubic Ascension\" once per turn.",
     "str1": "Special Summon more \"Vijam the Cubic Seed(s)\"?",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "20th Anniversary Legend Collection",
-        "pack_id": "20TH-JPC14",
-        "date": "2019-02-09"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a6/CubicAscension-20TH-JP-ScR.png"
+    "cardpool": "OCG"
 }

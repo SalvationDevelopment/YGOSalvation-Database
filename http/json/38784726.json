@@ -2,7 +2,7 @@
     "id": 38784726,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 281,
     "type": 130,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Rise of the Salamangreat",
-    "desc": "This card can be used to Ritual Summon any &#x201C;Salamangreat&#x201D; Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. If you control a FIRE Link Monster, you can also use &#x201C;Salamangreat&#x201D; monsters(s) in your GY, by shuffling them into the Deck. If this card in its owner's possession is destroyed by an opponent's card effect: You can Special Summon 1 &#x201C;Salamangreat Emerald Eagle&#x201D; from your hand, ignoring its Summoning conditions.",
+    "desc": "This card can be used to Ritual Summon any \"Salamangreat\" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. If you control a FIRE Link Monster, you can also use \"Salamangreat\" monster(s) in your GY, by shuffling them into the Deck. If this card in its owner's possession is destroyed by an opponent's card effect: You can Special Summon 1 \"Salamangreat Emerald Eagle\" from your hand, ignoring its Summoning conditions.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-EN052",
-        "date": "2018-10-18"
-    },
-    "ocg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-JP052",
-        "date": "2018-07-14"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/49/RiseoftheSalamangreat-SOFU-EN-C-1E.png"
+    "cardpool": "OCG/TCG"
 }

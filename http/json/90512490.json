@@ -1,6 +1,6 @@
 {
     "id": 90512490,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 67108897,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 8208,
     "name": "Greatfly",
-    "desc": "Link Arrows: [🡷][🡶]\n\n2 WIND monsters\nAll WIND monsters on the field gain 500 ATK/DEF, also all EARTH monsters on the field lose 400 ATK/DEF. If this card is destroyed by battle or card effect: You can target 1 WIND monster in your GY; add it to your hand. You can only use this effect of \"Greatfly\" once per turn.",
+    "desc": "2 WIND monsters\r\nAll WIND monsters on the field gain 500 ATK/DEF, also all EARTH monsters on the field lose 400 ATK/DEF. If this card is destroyed by battle or card effect: You can target 1 WIND monster in your GY; add it to your hand. You can only use this effect of \"Greatfly\" once per turn.",
     "str1": "Add to hand",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP052",
-        "date": "2018-01-13"
-    },
-    "links": [
-        5,
-        7
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c9/Greatfly-FLOD-JP-R.png"
+    "cardpool": "OCG/TCG"
 }

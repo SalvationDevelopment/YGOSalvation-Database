@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 2147508225,
     "name": "F.A. Dawn Dragster",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\nGains ATK equal to its Level x 300. If this card attacks a Defense Position monster, inflict piercing battle damage. Each time a &#x201C;F.A.&#x201D; Spell/Trap Card or effect is activated: You can increase this card's Level by 1. Once per turn, when your opponent activates a Spell/Trap Card or effect (Quick Effect): you can reduce this card's Level by 2, and if you do, negate the activation, and if you do that, destroy that card.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nGains ATK equal to its Level x 300. If this card attacks a Defense Position monster, inflict piercing battle damage. Each time a \"F.A.\" Spell/Trap Card or effect is activated: You can increase this card's Level by 1. Once per turn, when your opponent activates a Spell/Trap Card or effect (Quick Effect): You can reduce this card's Level by 2, and if you do, negate the activation, and if you do that, destroy that card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-DE088",
-        "date": "2018-05-03"
-    },
-    "ocg": {
-        "pack": "Extra Pack 2018",
-        "pack_id": "EP18-JP028",
-        "date": "2018-09-08"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f0/FADawnDragster-FLOD-EN-R-1E.png"
+    "cardpool": "OCG/TCG"
 }

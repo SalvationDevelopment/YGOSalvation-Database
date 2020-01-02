@@ -1,6 +1,6 @@
 {
     "id": 47363932,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 36,
     "type": 67108897,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 17039360,
     "name": "Scrap Wyvern",
-    "desc": "2 monsters, including a \"Scrap\" monster\r\nYou can target 1 \"Scrap\" monster in your GY; Special Summon it, then destroy 1 card you control. If a face-up \"Scrap\" monster(s) on the field is destroyed by a card effect while this monster is on the field: You can Special Summon 1 \"Scrap\" monster from your Deck, then destroy 1 card on the field. You can only use each effect of \"Scrap Wyvern\" once per turn.",
+    "desc": "2 monsters, including a \"Scrap\" monster\r\nYou can target 1 \"Scrap\" monster in your GY; Special Summon it, then destroy 1 card you control. If another face-up \"Scrap\" monster is destroyed by card effect, while you control this monster (except during the Damage Step): You can Special Summon 1 \"Scrap\" monster from your Deck, then destroy 1 card on the field. You can only use each effect of \"Scrap Wyvern\" once per turn.",
     "str1": "Special Summon 1 Scrap monster and destroy 1 card",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

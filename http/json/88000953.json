@@ -1,6 +1,6 @@
 {
     "id": 88000953,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 67108897,
@@ -10,8 +10,8 @@
     "race": 16777216,
     "attribute": 16,
     "category": 16785408,
-    "name": "Raster Liger",
-    "desc": "2+ monsters, except Tokens\r\nYou can target 1 Link Monster in either GY; this card gains ATK equal to its ATK until the end of this turn. You can Tribute any number of monsters this card points to; destroy the same number of cards on the field. You can only use each effect of \"Raster Liger\" once per turn.",
+    "name": "Rasterliger",
+    "desc": "2+ monsters, except Tokens\nYou can target 1 Link Monster in either GY; this card gains ATK equal to that target's ATK until the end of this turn. You can Tribute any number of your monsters this card points to; destroy an equal number of cards on the field. You can only use each effect of \"Rasterliger\" once per turn.",
     "str1": "Change ATK",
     "str2": "Tribute to destroy",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

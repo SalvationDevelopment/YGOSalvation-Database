@@ -1,6 +1,6 @@
 {
     "id": 18478530,
-    "ot": 2,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 131076,
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG",
-    "tcg": {
-        "pack": "Dark Neostorm",
-        "pack_id": "DANE-DE091",
-        "date": "2019-05-02"
-    },
-    "ocg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a6/LogesFlame-DANE-EN-SR-1E.png"
+    "cardpool": "OCG/TCG"
 }

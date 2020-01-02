@@ -1,6 +1,6 @@
 {
     "id": 8820526,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 159,
     "type": 33,
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Savage Strike",
-        "pack_id": "SAST-EN096",
-        "date": "2019-01-31"
-    },
-    "ocg": {
-        "pack": "V Jump Spring 2018 subscription bonus",
-        "pack_id": "VJMP-JP144",
-        "date": "2018-03-20"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/89/PerformapalClayBreaker-SAST-EN-C-1E.png"
+    "cardpool": "OCG/TCG"
 }

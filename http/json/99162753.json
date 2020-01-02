@@ -1,6 +1,6 @@
 {
     "id": 99162753,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 2,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262148,
     "name": "Sextet Summon",
-    "desc": "Banish 6 monsters with the same original Type but different monster card types (Ritual, Fusion, Synchro, Xyz, Pendulum, Link) from your hand, GY, and/or face-up field, then Special Summon 1 monster with the same original Type as the banished monsters from your Deck or Extra Deck. You can only activate 1 \"Sextet Summon\" per turn.",
+    "desc": "Banish from your hand, GY, and/or face-up field, 6 monsters (1 each Ritual, Fusion, Synchro, Xyz, Pendulum, and Link), each with the same original Type, then Special Summon 1 monster from your Deck or Extra Deck, with the same original Type as those banished monsters. You can only activate 1 \"Sextet Summon\" per turn.",
     "str1": "Banish then Special Summon",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

@@ -2,7 +2,7 @@
     "id": 21623008,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 277,
     "type": 2,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 40,
     "name": "Sky Striker Maneuver - Vector Blast",
-    "desc": "If you control no monsters in your Main Monster Zones: Each player sends the top 2 cards of their Deck to the GY (or as many as possible, if less than 2), then, if you sent at least 1 card to the GY, and have 3 or more Spells in your GY, you can shuffle all your opponent's monsters from the Extra Monster Zone into the Deck.",
+    "desc": "If you control no monsters in your Main Monster Zone: Each player sends the top 2 cards of their Deck to the GY (or as many as possible, if less than 2), then, if you sent at least 1 card to the GY, and have 3 or more Spells in your GY, you can shuffle all your opponent's monsters from the Extra Monster Zones into the Deck.",
     "str1": "Return monsters to Deck?",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-DE061",
-        "date": "2018-10-18"
-    },
-    "ocg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-JP061",
-        "date": "2018-07-14"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bc/SkyStrikerManeuverVectorBlast-SOFU-EN-SR-1E.png"
+    "cardpool": "OCG/TCG"
 }

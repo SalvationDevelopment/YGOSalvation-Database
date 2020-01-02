@@ -2,7 +2,7 @@
     "id": 27331568,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 292,
     "type": 65538,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8192,
     "name": "Magnificent Machine Angel",
-    "desc": "Tribute 1 \"Cyber Angel\" Ritual Monster from your hand or field, then target 1 LIGHT Fairy monster you control; it gains 200 ATK/DEF &#xD7; the Level of the Tributed monster, also if it battles a monster Special Summoned from the Extra Deck, negate the effects of that opponent's monster during the Battle Phase. These changes last until the end of this turn. You can only activate 1 \"Magnificent Machine Angel\" per turn.",
+    "desc": "Tribute 1 \"Cyber Angel\" Ritual Monster from your hand or field, then target 1 LIGHT Fairy monster you control; it gains ATK/DEF equal to the Level the monster had when Tributed x 200, until the end of this turn. This turn, if it battles an opponent's monster that was Special Summoned from the Extra Deck, that opponent's monster's effects are negated during that Battle Phase only. You can only activate 1 \"Magnificent Machine Angel\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Legendary Duelists: Sisters of the Rose",
-        "pack_id": "LED4-DE016",
-        "date": "2019-01-10"
-    },
-    "ocg": {
-        "pack": "Duelist Pack: Legend Duelist 4",
-        "pack_id": "DP21-JP016",
-        "date": "2018-11-10"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ab/MagnificentMachineAngel-LED4-EN-R-1E.png"
+    "cardpool": "OCG/TCG"
 }

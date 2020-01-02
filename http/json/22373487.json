@@ -1,6 +1,6 @@
 {
     "id": 22373487,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 4,
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Rising Rampage",
-        "pack_id": "RIRA-JP076",
-        "date": "2019-04-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/19/GetOut-RIRA-JP-OP.png"
+    "cardpool": "OCG/TCG"
 }

@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Reprodocus",
-    "desc": "Link Arrows: [🡳][🡱]\n\n2 monsters\nYou can activate 1 of these effects.\n● Declare 1 Monster Type; all face-up monsters this card points to become that Type until the end of this turn.\n● Declare 1 Attribute; all face-up monsters this card points to become that Attribute until the end of this turn.\nYou can only use this effect of &#x201C;Reprodocus&#x201D; once per turn.",
+    "desc": "2 monsters\r\nYou can activate 1 of these effects.\r\n● Declare 1 Monster Type; all face-up monsters this card points to become that Type until the end of this turn.\r\n● Declare 1 Attribute; all face-up monsters this card points to become that Attribute until the end of this turn.\r\nYou can only use this effect of \"Reprodocus\" once per turn.",
     "str1": "Change property",
     "str2": "Change type",
     "str3": "Change attribute",
@@ -28,20 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Cybernetic Horizon",
-        "pack_id": "CYHO-DE048",
-        "date": "2018-07-26"
-    },
-    "ocg": {
-        "pack": "Cybernetic Horizon",
-        "pack_id": "CYHO-JP048",
-        "date": "2018-04-14"
-    },
-    "links": [
-        1,
-        6
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/07/Reprodocus-OP09-EN-SR-UE.png"
+    "cardpool": "OCG/TCG"
 }

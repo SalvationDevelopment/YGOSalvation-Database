@@ -1,8 +1,8 @@
 {
     "id": 91405870,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
-    "setcode": 532,
+    "setcode": 276,
     "type": 65538,
     "atk": 0,
     "def": 0,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 262144,
-    "name": "Skyfang Brigade's Strong Winds",
-    "desc": "Target 1 \"Skyfang Brigade\" monster in your GY; Special Summon that monster in face-up Defense Position. You can only activate 1 \"Skyfang Brigade Stormwind\" per turn.",
+    "name": "Mayhem Fur Hire",
+    "desc": "Target 1 monster \"Fur Hire\" in your GY; Special Summon it in Defense Position. You can only activate 1 \"Mayhem Fur Hire\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Deck Build Pack: Dark Savers",
-        "pack_id": "DBDS-JP025",
-        "date": "2018-02-24"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/27/SkyfangBrigadesStrongWinds-DBDS-JP-SR.png"
+    "cardpool": "OCG/TCG"
 }

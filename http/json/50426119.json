@@ -1,6 +1,6 @@
 {
     "id": 50426119,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33554465,
@@ -10,8 +10,8 @@
     "race": 16777216,
     "attribute": 4,
     "category": 4,
-    "name": "Degrenade Buster",
-    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 2 Cyberse monsters from your GY. (Quick Effect): You can target 1 monster your opponent controls whose ATK is higher than this card's; banish it until the End Phase. You can only use this effect of \"Degrenade Buster\" once per turn.",
+    "name": "Degrade Buster",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 2 Cyberse monsters from your GY. You can target 1 monster your opponent controls with higher ATK than this card (Quick Effect); banish it until the End Phase. You can only use this effect of \"Degrade Buster\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP005",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e6/DegrenadeBuster-FLOD-JP-SR.png"
+    "cardpool": "OCG/TCG"
 }

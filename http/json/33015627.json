@@ -1,6 +1,6 @@
 {
     "id": 33015627,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 74,
     "type": 33,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 4194336,
     "name": "Sandaion, the Timelord",
-    "desc": "Cannot be Special Summoned from the Deck. You can only control 1 \"Sandaion, the Timelord\". If only your opponent controls a monster, you can Normal Summon this card without Tributing. Cannot be destroyed by battle or by card effects. Neither player takes battle damage from attacks involving this card. At the end of the of the Battle Phase, if this card battled: Inflict 2000 damage to your opponent. Once per turn, during your Standby Phase: Shuffle this card into the Deck.",
+    "desc": "Cannot be Special Summoned from the Deck. You can only control 1 \"Sandaion, the Timelord\". If only your opponent controls a monster, you can Normal Summon this card without Tributing. Cannot be destroyed by battle or card effects. Neither player takes battle damage from attacks involving this card. At the end of the Battle Phase, if this card battled: Inflict 2000 damage to your opponent. Once per turn, during your Standby Phase: Shuffle this card into the Deck.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Battles of Legend: Relentless Revenge",
-        "pack_id": "BLRR-DE025",
-        "date": "2018-06-28"
-    },
-    "ocg": {
-        "pack": "Collectors Pack 2018",
-        "pack_id": "CP18-JP025",
-        "date": "2018-05-12"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/59/SandaiontheTimelord-BLRR-EN-UR-1E.png"
+    "cardpool": "OCG/TCG"
 }

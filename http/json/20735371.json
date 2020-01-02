@@ -1,6 +1,6 @@
 {
     "id": 20735371,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 4,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Bye Bye Damage",
-    "desc": "During damage calculation, if a monster you control is attacked: That monster you control cannot be destroyed by that battle, also any battle damage you take from that battle inflicts double effect damage to your opponent. You can only apply this effect of \"Bye Bye Damage\" effect per turn.",
+    "desc": "During damage calculation, if your monster is attacked: Your battling monster cannot be destroyed by that battle, also if you take battle damage from that battle, your opponent takes effect damage equal to double that amount. You can only apply this effect of \"Bye Bye Damage\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Premium Pack 2019",
-        "pack_id": "19PP-JP020",
-        "date": "2019-03-09"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e6/ByeByeDamage-19PP-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

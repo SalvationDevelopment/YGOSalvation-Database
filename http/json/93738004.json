@@ -1,8 +1,8 @@
 {
     "id": 93738004,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
-    "setcode": 532,
+    "setcode": 276,
     "type": 33,
     "atk": 1200,
     "def": 2400,
@@ -10,8 +10,8 @@
     "race": 512,
     "attribute": 8,
     "category": 4194304,
-    "name": "Sajita, Solitary of the Skyfang Brigade",
-    "desc": "If this card is Special Summoned: You can inflict 500 damage to your opponent for each \"Skyfang Brigade\" monster you control with a different name, except \"Sajita, Solitary of the Skyfang Brigade\". You can only use this effect of \"Sajita, Solitary of the Skyfang Brigade\" once per turn. Your opponent cannot target \"Skyfang Brigade\" monsters you control with card effects, except this one.",
+    "name": "Sagitta, Maverick Fur Hire",
+    "desc": "If this card is Special Summoned: You can inflict 500 damage to your opponent for each monster \"Fur Hire\" you control with a different name, except \"Sagitta, Maverick Fur Hire\". You can only use this effect of \"Sagitta, Maverick Fur Hire\" once per turn. Your opponent cannot target monsters \"Fur Hire\" you control with card effects, except this one.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Deck Build Pack: Dark Savers",
-        "pack_id": "DBDS-JP020",
-        "date": "2018-02-24"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/SajitaSolitaryoftheSkyfangBrigade-DBDS-JP-SR.png"
+    "cardpool": "OCG/TCG"
 }

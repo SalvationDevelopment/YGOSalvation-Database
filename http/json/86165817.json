@@ -1,6 +1,6 @@
 {
     "id": 86165817,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 24584,
     "type": 97,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 8194,
     "name": "Evil HERO Malicious Bane",
-    "desc": "1 \"Evil HERO\" monster + 1 Level 5 or higher monster\r\nMust be Special Summoned with \"Dark Fusion\". Cannot be destroyed by battle or card effects. During your Main Phase: You can activate this effect; you cannot declare attacks for the rest of this turn, except with \"HERO\" monsters, also destroy as many monsters your opponent controls as possible with ATK less than or equal to this card's, and if you do, this card gains 200 ATK for each destroyed monster. You can only use this effect of \"Evil HERO Malicious Bane\" once per turn.",
+    "desc": "1 \"Evil HERO\" monster + 1 Level 5 or higher monster\nMust be Special Summoned with \"Dark Fusion\". Cannot be destroyed by battle or card effects. During your Main Phase: You can destroy all monsters your opponent controls with ATK less than or equal to this card's, also this card gains 200 ATK for each monster destroyed this way, also you cannot declare an attack for the rest of this turn, except with \"HERO\" monsters. You can only use this effect of \"Evil HERO Malicious Bane\" once per turn.",
     "str1": "Destroy",
     "str2": "Affected by \"Evil HERO Malicious Bane\"",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "DP22",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

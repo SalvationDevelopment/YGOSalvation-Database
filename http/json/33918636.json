@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262144,
     "name": "Superheavy Samurai Scarecrow",
-    "desc": "Link Arrows: [🡷]\n\n1 &#x201C;Superheavy Samurai&#x201D; monster\nCannot be used as Link Material. If you have no Spells/Traps in your GY, you take no battle damage from battles involving this card. If you have no Spells/Traps in your GY: You can discard 1 monster, then target 1 &#x201C;Superheavy Samurai&#x201D; monster in your GY; Special Summon it in Defense Poistion to your zone this card points to. You can only use this effect of \"Superheavy Samurai Scarecrow\" once per turn.",
+    "desc": "1 \"Superheavy Samurai\" monster\r\nCannot be used as Link Material. While you have no Spells/Traps in your GY, you take no battle damage from attacks involving this card. If you have no Spells/Traps in your GY: You can discard 1 monster, then target 1 \"Superheavy Samurai\" monster in your GY; Special Summon it in Defense Position to your zone this card points to. You can only use this effect of \"Superheavy Samurai Scarecrow\" once per turn.",
     "str1": "Special Summon 1 \"Superheavy Samurai\"",
     "str2": "",
     "str3": "",
@@ -28,15 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Premium Pack 2019",
-        "pack_id": "19PP-JP005",
-        "date": "2019-03-09"
-    },
-    "links": [
-        5
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/ff/SuperheavySamuraiScarecrow-19PP-JP-C.png"
+    "cardpool": "OCG"
 }

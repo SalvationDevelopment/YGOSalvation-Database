@@ -1,6 +1,6 @@
 {
     "id": 44373896,
-    "ot": 2,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 97,
@@ -28,8 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/65/DestructionDragon-LC06-EN-UR-LE.png",
-    "tcg": {},
-    "ocg": {}
+    "cardpool": "OCG/TCG"
 }

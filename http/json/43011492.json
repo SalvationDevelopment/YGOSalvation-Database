@@ -2,7 +2,7 @@
     "id": 43011492,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 297,
     "type": 65538,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 5,
     "name": "Evil Eye Confrontation",
-    "desc": "If you control an \"Evil Eye\" monster: Target 1 Spell/Trap your opponent controls; destroy it. If \"Evil Eye of Selene\" is in your Spell & Trap Zone, the destroyed card is banished instead of being sent to the GY. You can only activate 1 \"Curse of the Evil Eye\" per turn.",
+    "desc": "If you control an \"Evil Eye\" monster: Target 1 Spell/Trap your opponent controls; destroy it, and if you do, and \"Evil Eye of Selene\" is in your Spell & Trap Zone, banish that destroyed card. You can only activate 1 \"Evil Eye Confrontation\" per turn.",
     "str1": "Destroy",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "The Infinity Chasers",
-        "pack_id": "INCH-EN035",
-        "date": "2019-03-21"
-    },
-    "ocg": {
-        "pack": "Deck Build Pack: Infinity Chasers",
-        "pack_id": "DBIC-JP035",
-        "date": "2019-02-23"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/85/EvilEyeConfrontation-DBIC-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

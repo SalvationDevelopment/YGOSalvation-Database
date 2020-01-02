@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 2147745794,
     "name": "Gouki Heel Ogre",
-    "desc": "Link Arrows: [🡱][🡳]\n\n2 \"Gouki\" monsters\nOnce per turn, when a monster this card points to activates its effect (Quick Effect): You can negate the activation, and if you do, destroy it, then, you can Special Summon 1 \"Gouki\" monster from your GY, except \"Gouki Heel Ogre\".",
+    "desc": "2 \"Gouki\" monsters\r\nOnce per turn, when a monster this card points to activates its effect (Quick Effect): You can negate the activation, and if you do, destroy it, then, you can Special Summon 1 \"Gouki\" monster from your GY, except \"Gouki Heel Ogre\".",
     "str1": "Negate and destroy",
     "str2": "Special Summon 1 \"Gouki\" monster?",
     "str3": "",
@@ -28,20 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Cybernetic Horizon",
-        "pack_id": "CYHO-DE038",
-        "date": "2018-07-26"
-    },
-    "ocg": {
-        "pack": "Cybernetic Horizon",
-        "pack_id": "CYHO-JP038",
-        "date": "2018-04-14"
-    },
-    "links": [
-        1,
-        6
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/19/GoukiHeelOgre-CYHO-EN-C-1E.png"
+    "cardpool": "OCG/TCG"
 }

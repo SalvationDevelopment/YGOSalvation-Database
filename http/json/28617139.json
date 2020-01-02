@@ -1,8 +1,8 @@
 {
     "id": 28617139,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 301,
     "type": 2,
     "atk": 0,
     "def": 0,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 512,
-    "name": "Simorgh Arrival",
-    "desc": "Discard 1 Winged Beast monster; add 2 \"Simorgh\" monsters with different Attributes from your Deck to your hand. You can banish this card from your GY; reveal 1 Winged Beast monster from your hand, and if you do, for the rest of this turn, any monster with that revealed monster's name in your hand loses 1 Level. You can only active 1 \"Simorgh Arrival\" per turn.",
+    "name": "Simorgh Onslaught",
+    "desc": "Discard 1 Winged Beast monster; add 2 \"Simorgh\" monsters with different Attributes from your Deck to your hand. You can banish this card from your GY; reveal 1 Winged Beast monster in your hand, and if you do, reduce the Levels of monsters in your hand with that name by 1 for the rest of this turn (even after they are Summoned). You can only activate 1 \"Simorgh Onslaught\" per turn.",
     "str1": "Add 2 \"Simorgh\" monsters",
     "str2": "Reveal and reduce levels",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Rising Rampage",
-        "pack_id": "RIRA-JP061",
-        "date": "2019-04-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/SimorghArrival-RIRA-JP-OP.png"
+    "cardpool": "OCG/TCG"
 }

@@ -2,7 +2,7 @@
     "id": 13482262,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 279,
     "type": 524290,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 17039392,
     "name": "Impcantation Thanatosis",
-    "desc": "When this card is activated: You can reveal 1 \"Impcantation\" monster in your hand, and if you do, Special Summon 2 monsters from your Deck with the same name as the revealed monster, then shuffle the revealed monster into the Deck. Once per turn, if a Ritual Monster(s) is Special Summoned to your field (except during the Damage Step): You can target 1 card on the field; destroy it. You can only activate 1 \"Impcantation Thanatosis\" per turn.",
+    "desc": "When this card is activated: You can reveal 1 \"Impcantation\" monster in your hand and Special Summon 2 monsters with that monster's name from your Deck, then shuffle the revealed monster into the Deck. Once per turn, if a Ritual Monster is Special Summoned to your field (except during the Damage Step): You can target 1 card on the field; destroy it. You can only activate 1 \"Impcantation Thanatosis\" per turn.",
     "str1": "Special Summon 2 Impcantations?",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Dark Neostorm",
-        "pack_id": "DANE-DE062",
-        "date": "2019-05-02"
-    },
-    "ocg": {
-        "pack": "Dark Neostorm",
-        "pack_id": "DANE-JP062",
-        "date": "2019-01-12"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/38/ImpcantationThanatosis-DANE-EN-C-1E.png"
+    "cardpool": "OCG/TCG"
 }

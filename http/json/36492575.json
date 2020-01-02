@@ -1,8 +1,8 @@
 {
     "id": 36492575,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 299,
     "type": 33,
     "atk": 1400,
     "def": 1000,
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Rising Rampage",
-        "pack_id": "RIRA-JP003",
-        "date": "2019-04-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/62/MarincessSeaHorse-RIRA-JP-OP.png"
+    "cardpool": "OCG/TCG"
 }

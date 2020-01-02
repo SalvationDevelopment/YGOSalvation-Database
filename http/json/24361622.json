@@ -1,27 +1,32 @@
 {
-    "ocg": {
-        "pack": "LINK VRAINS Pack",
-        "pack_id": "LVP1-JP031",
-        "date": "2017-11-25"
-    },
-    "tcg": {
-        "pack": "Duel Power",
-        "pack_id": "DUPO-EN027",
-        "date": "2019-04-03"
-    },
     "id": 24361622,
+    "ot": 3,
+    "alias": 0,
     "setcode": 105,
-    "type": 33554465,
+    "type": 67108897,
     "atk": 0,
-    "def": "-",
+    "def": 5,
     "level": 2,
-    "links": [
-        5,
-        7
-    ],
     "race": 8192,
     "attribute": 16,
+    "category": 0,
     "name": "Hieratic Seal of the Heavenly Spheres",
-    "desc": "Link Arrows: [🡷][🡶]\n\n2 Dragon monsters\nOnce per opponent's turn, if this card is in the Extra Monster Zone (Quick Effect): You can Tribute 1 monster from your hand or field; return 1 face-up card on the field to the hand. If this card is Tributed: Special Summon 1 Dragon monster from your hand or Deck, but make its ATK/DEF 0. You can only use this effect of &#x201C;Hieratic Seal of the Heavenly Spheres&#x201D; once per turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cd/HieraticSealoftheHeavenlySpheres-DUPO-EN-UR-1E.png"
+    "desc": "2 Dragon monsters\r\nOnce per opponent's turn, if this card is in the Extra Monster Zone (Quick Effect): You can Tribute 1 monster from your hand or field; return 1 face-up card on the field to the hand. If this card is Tributed: Special Summon 1 Dragon monster from your hand or Deck, but make its ATK/DEF 0. You can only use this effect of \"Hieratic Seal of the Heavenly Spheres\" once per turn.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "cardpool": "OCG/TCG"
 }

@@ -2,7 +2,7 @@
     "id": 21441617,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 283,
     "type": 33,
     "atk": 1200,
     "def": 1500,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Orcust Cymbal Skeleton",
-    "desc": "You can banish this card from your GY, then target 1 &#x201C;Orcust&#x201D; monster in your GY, except &#x201C;Orcust Cymbal Skeleton&#x201D;; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except DARK monsters. You can only use this effect of &#x201C;Orcust Cymbal Skeleton&#x201D; once per turn.",
+    "desc": "You can banish this card from your GY, then target 1 \"Orcust\" monster in your GY, except \"Orcust Cymbal Skeleton\"; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except DARK monsters. You can only use this effect of \"Orcust Cymbal Skeleton\" once per turn.",
     "str1": "",
     "str2": "Affected by \"Orcust Cymbal Skeleton\"",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-DE015",
-        "date": "2018-10-18"
-    },
-    "ocg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-JP015",
-        "date": "2018-07-14"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2e/OrcustCymbalSkeleton-SOFU-EN-R-1E.png"
+    "cardpool": "OCG/TCG"
 }

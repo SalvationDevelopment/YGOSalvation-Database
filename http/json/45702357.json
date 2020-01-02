@@ -1,6 +1,6 @@
 {
     "id": 45702357,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 2097185,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 2080,
     "name": "Reversible Beetle",
-    "desc": "FLIP: Shuffle this card and all face-up monsters in this card's column into the Deck.\r\nIf this card is Normal or Special Summoned: Change this card and all monsters in this card's column to face-down Defense Position. You can only use each effect of \"Reversible Beetle\" once per turn.",
+    "desc": "FLIP: Shuffle this card, and any face-up monsters in its column, into the Deck(s).\r\nIf this card is Normal or Special Summoned: Change this card, and any monsters in its column, to face-down Defense Position. You can only use each effect of \"Reversible Beetle\" once per turn.",
     "str1": "Shuffle all face-up monsters into the Deck",
     "str2": "Change to face-down",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

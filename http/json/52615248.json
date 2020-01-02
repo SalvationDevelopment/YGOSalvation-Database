@@ -1,6 +1,6 @@
 {
     "id": 52615248,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 67108897,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262144,
     "name": "Progleo",
-    "desc": "2 monsters, except Tokens\r\nDuring your Main Phase, if you control this Link Summoned card: You can banish this card and 1 of your monsters this card points to, then target 1 Link Monster in either GY; Special Summon it to your field, but banish it when it leaves the field. You can only use this effect of \"Progleo\" once per turn.",
+    "desc": "2 monsters, except Tokens\r\nDuring your Main Phase, if you control this Link Summoned card: You can banish this card and 1 of your monsters this card points to, then target 1 Link Monster in either GY; Special Summon it, but banish it when it leaves the field. You can only use this effect of \"Progleo\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

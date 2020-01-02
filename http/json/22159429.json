@@ -1,6 +1,6 @@
 {
     "id": 22159429,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 251,
     "type": 262146,
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Duel Power",
-        "pack_id": "DUPO-EN022",
-        "date": "2019-04-03"
-    },
-    "ocg": {
-        "pack": "LINK VRAINS Box",
-        "pack_id": "LVB1-JP007",
-        "date": "2017-12-23"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ad/TrickstarMagicalLaurel-DUPO-EN-UR-1E.png"
+    "cardpool": "OCG/TCG"
 }

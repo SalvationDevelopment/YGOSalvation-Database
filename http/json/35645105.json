@@ -2,7 +2,7 @@
     "id": 35645105,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 295,
     "type": 33,
     "atk": 0,
     "def": 2100,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 528,
     "name": "Infinitrack Harvester",
-    "desc": "If this card is Normal or Special Summoned: Add 1 \"Infinitrack\" monster from your Deck to your hand, except \"Infinitrack Harvester\". You can target 1 other Machine monster you control; the Levels of both that monster and this card become the combined original Levels of those 2 monsters, until the end of this turn. You can only use each effect of \"Infinitrack Harvester\" once per turn.",
+    "desc": "If this card is Normal or Special Summoned: You can add 1 \"Infinitrack\" monster from your Deck to your hand, except \"Infinitrack Harvester\". You can target 1 other Machine monster you control; the Levels of both that monster and this card become the combined original Levels of those 2 monsters, until the end of this turn. You can only use each effect of \"Infinitrack Harvester\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "The Infinity Chasers",
-        "pack_id": "INCH-EN001",
-        "date": "2019-03-21"
-    },
-    "ocg": {
-        "pack": "Deck Build Pack: Infinity Chasers",
-        "pack_id": "DBIC-JP001",
-        "date": "2019-02-23"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d5/InfinitrackHarvester-INCH-EN-ScR-1E.png"
+    "cardpool": "OCG/TCG"
 }

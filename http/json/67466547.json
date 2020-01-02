@@ -1,8 +1,8 @@
 {
     "id": 67466547,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
-    "setcode": 532,
+    "setcode": 276,
     "type": 33,
     "atk": 0,
     "def": 2000,
@@ -10,8 +10,8 @@
     "race": 64,
     "attribute": 2,
     "category": 262400,
-    "name": "Helmer, Helmsman of the Skyfang Brigade",
-    "desc": "During your Main Phase: You can Special Summon 1 \"Skyfang Brigade\" monster from your hand, except \"Helmer, Helmsman of the Skyfang Brigade\". If another \"Skyfang Brigade\" monster(s) is Special Summoned to your field while this monster is on the field: You can discard 1 \"Skyfang Brigade\" card; draw 1 card. You can only use each effect of \"Helmer, Helmsman of the Skyfang Brigade\" once per turn.",
+    "name": "Helmer, Helmsman Fur Hire",
+    "desc": "During your Main Phase: You can Special Summon 1 monster \"Fur Hire\" from your hand, except \"Helmer, Helmsman Fur Hire\". If a monster \"Fur Hire\" is Special Summoned to your field while you control this monster (except during the Damage Step): You can discard 1 card \"Fur Hire\"; draw 1 card. You can only use each effect of \"Helmer, Helmsman Fur Hire\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Deck Build Pack: Dark Savers",
-        "pack_id": "DBDS-JP016",
-        "date": "2018-02-24"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/31/HelmerHelmsmanoftheSkyfangBrigade-DBDS-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

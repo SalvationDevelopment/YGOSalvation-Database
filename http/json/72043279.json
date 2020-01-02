@@ -1,6 +1,6 @@
 {
     "id": 72043279,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 248,
     "type": 524290,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 8192,
-    "name": "Supreme King Castle",
-    "desc": "You can Fusion Summon Fusion Monsters that must be Special Summoned with \"Dark Fusion\" by card effects other than \"Dark Fusion\". Once per turn, during damage calculation, if your Fiend monster battles an opponent's monster: You can send 1 \"Evil HERO\" monster from your Deck or Extra Deck to the GY; your battling monster gains ATK equal to the sent monster's Level x 200, until the end of this turn (even if this card leaves the field).",
+    "name": "Supreme King's Castle",
+    "desc": "You can Fusion Summon Fusion Monsters that must be Special Summoned with \"Dark Fusion\", with effects other than \"Dark Fusion\". Once per turn, during damage calculation, if your Fiend monster battles an opponent's monster: You can send 1 \"Evil HERO\" monster from your Deck or Extra Deck to the GY; your monster gains ATK equal to the Level of the monster sent to the GY x 200, until the end of this turn (even if this card leaves the field).",
     "str1": "Affected by \"Supreme King Castle\"",
     "str2": "Increase ATK",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "DP22",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

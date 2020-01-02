@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 4194336,
     "name": "Hailon, the Timelord",
-    "desc": "Cannot be Special Summoned from the Deck. If you control no monsters, you can Normal Summon this card without Tributing. Cannot be destroyed by battle or card effects. You take no battle damage from attacks involving this card. At the end of the Battle Phase, if this card battled: Activate this effect; if your LP is lower than your opponent's LP, inflict damage to your opponent equal to the difference. Once per turn, during your Standby Phase: Shuffle this card into the Deck.",
+    "desc": "Cannot be Special Summoned from the Deck. If you control no monsters, you can Normal Summon this card without Tributing. Cannot be destroyed by battle or card effects. You take no battle damage from attacks involving this card. At the end of the Battle Phase, if this card battled: If your LP is lower than your opponent's, inflict damage to your opponent equal to the difference. Once per turn, during your Standby Phase: Shuffle this card into the Deck.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Battles of Legend: Relentless Revenge",
-        "pack_id": "BLRR-DE022",
-        "date": "2018-06-28"
-    },
-    "ocg": {
-        "pack": "Collectors Pack 2018",
-        "pack_id": "CP18-JP022",
-        "date": "2018-05-12"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d9/HailontheTimelord-BLRR-EN-UR-1E.png"
+    "cardpool": "OCG/TCG"
 }

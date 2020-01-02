@@ -1,6 +1,6 @@
 {
     "id": 57425061,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 70,
     "type": 2,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 268697600,
     "name": "Vision Fusion",
-    "desc": "Fusion Summon 1 \"HERO\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If you have a Monster Card(s) in your Spell & Trap Zone as a Continuous Trap, you can also banish up 2 of those cards as Fusion Material. You can only activate 1 \"Vision Fusion\" per turn.",
+    "desc": "Fusion Summon 1 \"HERO\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. You can also use up to 2 monsters in your Spell & Trap Zone that are being treated as Continuous Traps as Fusion Material, by banishing them. You can only activate 1 \"Vision Fusion\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -23,10 +23,10 @@
     "str9": "",
     "str10": "",
     "str11": "",
-    "str12": "CP19-JP",
+    "str12": "",
     "str13": "",
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

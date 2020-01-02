@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "F.A. Overheat",
-    "desc": "If only your opponent controls a monster: Special Summon 1 \"F.A.\" monster from your hand, and if you do, increase its Level by 3 until the end of this turn. If this card is in the GY and you control no cards in your Field Zone: You can banish this card from the GY; activate 1 \"F.A.\" Field Spell directly from your hand or GY. You can only use this effect of &#x201C;F.A. Overheat&#x201D; once per turn.",
+    "desc": "If only your opponent controls a monster: Special Summon 1 \"F.A.\" monster from your hand, and if you do, increase its Level by 3 until the end of this turn. If this card is in the GY and you control no cards in your Field Zone: You can banish this card from the GY; activate 1 \"F.A.\" Field Spell directly from your hand or GY. You can only use this effect of \"F.A. Overheat\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-DE091",
-        "date": "2018-05-03"
-    },
-    "ocg": {
-        "pack": "Extra Pack 2018",
-        "pack_id": "EP18-JP037",
-        "date": "2018-09-08"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/20/FAOverheat-FLOD-EN-R-1E.png"
+    "cardpool": "OCG/TCG"
 }

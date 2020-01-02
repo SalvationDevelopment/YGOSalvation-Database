@@ -1,6 +1,6 @@
 {
     "id": 19307353,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 528,
     "name": "Spirit Sculptor",
-    "desc": "You can Tribute 1 monster; add 1 monster from your Deck to your hand, whose sum of original ATK/DEF equals the Tributed monster's. You can only use this effect of \"Spirit Sculptor\" once per turn.",
+    "desc": "You can Tribute 1 monster; add 1 monster from your Deck to your hand, whose combined original ATK/DEF equals the combined original ATK/DEF of the Tributed monster. You can only use this effect of \"Spirit Sculptor\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Rising Rampage",
-        "pack_id": "RIRA-JP034",
-        "date": "2019-04-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ad/SpiritSculptor-RIRA-JP-OP.png"
+    "cardpool": "OCG/TCG"
 }

@@ -1,6 +1,6 @@
 {
     "id": 44710391,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 524290,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 528,
     "name": "Earthbound Geoglyph",
-    "desc": "While a Level 10 monster is on the field, neither player can target this card with card effects, also it cannot be destroyed by card effects. Synchro Monsters can be treated as 2 Tributes for the Tribute Summon of your \"Earthbound Immortal\" monster. If a Synchro Monster(s) is Special Summoned: You can add 1 \"Earthbound Immortal\" Spell/Trap from your Deck to your hand. You can only use this effect of \"Earthbound Geoglyph\" once per turn.",
+    "desc": "While any Level 10 monsters are on the field, this card cannot be targeted or destroyed by card effects. You can treat 1 Synchro Monster as 2 Tributes for the Tribute Summon of an \"Earthbound Immortal\" monster. If a Synchro Monster(s) is Special Summoned (except during the Damage Step): You can add 1 \"Earthbound Immortal\" Spell/Trap from your Deck to your hand. You can only use this effect of \"Earthbound Geoglyph\" once per turn.",
     "str1": "Search \"Earthbound Immortal\" Spell/Trap",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "DP22",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

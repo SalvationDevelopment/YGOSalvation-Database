@@ -10,8 +10,8 @@
     "race": 16777216,
     "attribute": 32,
     "category": 0,
-    "name": "Dongle Token",
-    "desc": "Special Summoned with the effect of \"Dongle Acorn\"",
+    "name": "Data Acorn Token",
+    "desc": "This card can be used as a \"Data Acorn Token\".\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,8 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/Back-EN.png",
-    "tcg": {},
-    "ocg": {}
+    "cardpool": "OCG/TCG"
 }

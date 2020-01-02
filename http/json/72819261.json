@@ -1,8 +1,8 @@
 {
     "id": 72819261,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
-    "setcode": 67162125,
+    "setcode": 16397,
     "type": 33,
     "atk": 1700,
     "def": 200,
@@ -10,8 +10,8 @@
     "race": 1,
     "attribute": 4,
     "category": 8,
-    "name": "Elementsaber Malo'o",
-    "desc": "Once per turn: You can send 1 \"Elementsaber\" monster from your hand to the GY; send 1 \"Elementsaber\" or \"Elemental Lord\" monster from your Deck to the GY, except \"Elementsaber Malo\". Once per turn, if this card is in your GY: You can declare 1 Attribute; this card in the GY becomes that Attribute until the end of this turn.",
+    "name": "Elementsaber Malo",
+    "desc": "Once per turn: You can send 1 \"Elementsaber\" monster from your hand to the GY; send 1 \"Elementsaber\" or \"Elemental Lord\" monster from your Deck to the GY, except \"Elementsaber Malo\". Once per turn, if this card is in the GY: You can declare 1 Attribute; this card in the GY becomes that Attribute until the end of this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP022",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/ba/ElementsaberMaloo-FLOD-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

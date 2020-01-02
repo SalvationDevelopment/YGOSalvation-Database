@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 528,
     "name": "Malefic Selector",
-    "desc": "Banish 2 \"Malefic\" cards from your GY; add from your Deck to your hand, 2 \"Malefic\" cards with different from each other and those banished cards, except &#x201C;Malefic Selector&#x201D;. You can only activate 1 &#x201C;Malefic Selector&#x201D; per turn.",
+    "desc": "Banish 2 \"Malefic\" cards from your GY; add from your Deck to your hand, 2 \"Malefic\" cards with different names from the banished cards and each other, except \"Malefic Selector\". You can activate 1 \"Malefic Selector\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "20th Anniversary Legend Collection",
-        "pack_id": "20TH-JPC07",
-        "date": "2019-02-09"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/44/MaleficSelector-20TH-JP-ScR.png"
+    "cardpool": "OCG"
 }

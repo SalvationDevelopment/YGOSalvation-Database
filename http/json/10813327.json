@@ -1,6 +1,6 @@
 {
     "id": 10813327,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 4,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Waking the Dragon",
-    "desc": "If this Set card in its owner's control has left the field because of an opponent's card effect, and is now in your GY or banished: You can Special Summon 1 monster from your Deck or Extra Deck.",
+    "desc": "If this Set card in its owner's control has left the field because of an opponent's effect, and is now in the GY or banished: You can Special Summon 1 monster from your Deck or Extra Deck.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-DE080",
-        "date": "2018-05-03"
-    },
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP080",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d6/WakingtheDragon-FLOD-EN-SP-1E.png"
+    "cardpool": "OCG/TCG"
 }

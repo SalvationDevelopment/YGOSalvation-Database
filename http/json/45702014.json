@@ -1,8 +1,8 @@
 {
     "id": 45702014,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
-    "setcode": 67162125,
+    "setcode": 16397,
     "type": 33,
     "atk": 1900,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 2048,
     "name": "Elementsaber Molehu",
-    "desc": "Once per turn (Quick Effect): You can send 1 \"Elementsaber\" monster from your hand to the GY, then target 1 face-up monster on the field; change it to face-down Defense Position. Once per turn, if this card is in your GY: You can declare 1 Attribute; this card in the GY becomes that Attribute until the end of this turn.",
+    "desc": "Once per turn (Quick Effect): You can send 1 \"Elementsaber\" monster from your hand to the GY, then target 1 face-up monster on the field; change it to face-down Defense Position. Once per turn, if this card is in the GY: You can declare 1 Attribute; this card in the GY becomes that Attribute until the end of this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP024",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/24/ElementsaberMolehu-FLOD-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

@@ -1,6 +1,6 @@
 {
     "id": 48068378,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 67108897,
@@ -11,9 +11,9 @@
     "attribute": 1,
     "category": 0,
     "name": "Link Devotee",
-    "desc": "Link Arrows: [🡱]\n\n1 Level 4 or lower Cyberse monster\nIf this card is Special Summoned: For the rest of this turn, you cannot Link Summon Link-3 or higher Link Monsters. If this co-linked card is Tributed: You can Special Summon 2 &#x201C;Link Tokens&#x201D; (Cyberse/LIGHT/Level 1/ATK 0/DEF 0). You can only use this effect of &#x201C;Link Devotee&#x201D; once per turn.",
-    "str1": "",
-    "str2": "",
+    "desc": "1 Level 4 or lower Cyberse monster\r\nIf this card is Special Summoned: For the rest of this turn, you cannot Link Summon Link-3 or higher Link Monsters. If this co-linked card is Tributed: You can Special Summon 2 \"Link Tokens\" (Cyberse/LIGHT/Level 1/ATK 0/DEF 0). You can only use this effect of \"Link Devotee\" once per turn.",
+    "str1": "Special Summon",
+    "str2": "Affected by \"Link Devotee\"",
     "str3": "",
     "str4": "",
     "str5": "",
@@ -28,19 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Cybernetic Horizon",
-        "pack_id": "CYHO-DE036",
-        "date": "2018-07-26"
-    },
-    "ocg": {
-        "pack": "Cybernetic Horizon",
-        "pack_id": "CYHO-JP036",
-        "date": "2018-04-14"
-    },
-    "links": [
-        1
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c4/LinkDevotee-CYHO-EN-C-1E.png"
+    "cardpool": "OCG/TCG"
 }

@@ -1,6 +1,6 @@
 {
     "id": 51227866,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 277,
     "type": 65538,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 262148,
-    "name": "Brandish Mecha Shark Cannon",
-    "desc": "If you control no monsters in your Main Monster Zones: Target 1 monster in your opponent's GY; banish it, but if you have 3 or more Spells in your GY, you can Special Summon that monster to your field instead, but it cannot attack.",
+    "name": "Sky Striker Mecha - Shark Cannon",
+    "desc": "If you control no monsters in your Main Monster Zones: Target 1 monster in your opponent's GY; banish that monster, or, if you have 3 or more Spells in your GY, you can Special Summon that monster to your field instead, but it cannot attack.",
     "str1": "Special Summon the target instead?",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Deck Build Pack: Dark Savers",
-        "pack_id": "DBDS-JP036",
-        "date": "2018-02-24"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a7/BrandishMechaSharkCannon-DBDS-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

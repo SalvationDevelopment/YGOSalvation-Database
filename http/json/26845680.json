@@ -2,7 +2,7 @@
     "id": 26845680,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 283,
     "type": 2,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 256,
     "name": "Orcustrated Return",
-    "desc": "Send 1 &#x201C;Orcust&#x201D; or &#x201C;World Legacy&#x201D; monster from your hand or face-up field to the GY; draw 2 cards. You can only activate 1 &#x201C;Orcustrated Return&#x201D; per turn.",
+    "desc": "Send 1 \"Orcust\" or \"World Legacy\" monster from your hand or face-up field to the GY; draw 2 cards. You can only activate 1 \"Orcustrated Return\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-DE058",
-        "date": "2018-10-18"
-    },
-    "ocg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-JP058",
-        "date": "2018-07-14"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/OrcustratedReturn-SOFU-EN-ScR-1E.png"
+    "cardpool": "OCG/TCG"
 }

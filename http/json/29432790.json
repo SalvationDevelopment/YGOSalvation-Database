@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262148,
     "name": "Rage with Eyes of Blue",
-    "desc": "Banish this card, and as many cards as possible from your hand, field and GY face-down, and if you do, Special Summon up to 3 copies of &#x201C;Blue-Eyes White Dragon&#x201D; from your Deck. You cannot Normal or Special Summon monsters the turn you activate this card, except &#x201C;Blue-Eyes White Dragon&#x201D;.",
+    "desc": "Banish this card, and as many cards as possible from your hand, field, and GY, face-down, and if you do, Special Summon up to 3 copies of \"Blue-Eyes White Dragon\" from your Deck. You cannot Normal or Special Summon monsters the turn you activate this card, except \"Blue-Eyes White Dragon\".",
     "str1": "",
     "str2": "Affected by \"Rage with Eyes of Blue\"",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Legendary Duelists: White Dragon Abyss",
-        "pack_id": "LED3-DE004",
-        "date": "2018-09-27"
-    },
-    "ocg": {
-        "pack": "Duelist Pack: Legend Duelist 3",
-        "pack_id": "DP20-JP004",
-        "date": "2018-06-09"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d2/RagewithEyesofBlue-LED3-EN-SR-1E.png"
+    "cardpool": "OCG/TCG"
 }

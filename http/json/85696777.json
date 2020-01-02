@@ -1,6 +1,6 @@
 {
     "id": 85696777,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 100,
     "type": 67108897,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 16,
     "name": "Harpie Conductor",
-    "desc": "2 WIND monsters\r\nThis card's name becomes \"Harpie Lady\" while on the field or in the GY. You can only use each of the following effects of \"Harpie Conductor\" once per turn.\r\n● If a \"Harpie\" monster(s) you control would be destroyed by battle or card effect, you can destroy 1 Spell/Trap you control instead.\r\n● If another face-up \"Harpie\" monster(s) you control is returned to your hand (except during the Damage Step): You can target 1 Special Summoned monster your opponent controls; return it to the hand.",
+    "desc": "2 WIND monsters\r\nThis card's name becomes \"Harpie Lady\" while on the field or in the GY. You can only use each of the following effects of \"Harpie Conductor\" once per turn.\r\n● If a \"Harpie\" monster(s) you control would be destroyed by battle or card effect, you can destroy 1 Spell/Trap you control instead.\r\n● If another face-up \"Harpie\" monster you control returns to your hand (except during the Damage Step): You can target 1 Special Summoned monster your opponent controls; return it to the hand.",
     "str1": "Return 1 Special Summoned monster to the hand",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

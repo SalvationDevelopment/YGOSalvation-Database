@@ -1,6 +1,6 @@
 {
     "id": 27198001,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Duel Power",
-        "pack_id": "DUPO-EN031",
-        "date": "2019-04-03"
-    },
-    "ocg": {
-        "pack": "Premium Pack 20",
-        "pack_id": "PP20-JP014",
-        "date": "2018-03-10"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/NineTailedFox-DUPO-EN-UR-1E.png"
+    "cardpool": "OCG/TCG"
 }

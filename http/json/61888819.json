@@ -1,27 +1,32 @@
 {
-    "ocg": {
-        "pack": "LINK VRAINS Pack",
-        "pack_id": "LVP1-JP021",
-        "date": "2017-11-25"
-    },
-    "tcg": {
-        "pack": "Extreme Force",
-        "pack_id": "EXFO-DE093",
-        "date": "2018-02-01"
-    },
     "id": 61888819,
-    "setcode": 659466,
-    "type": 33554465,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4106,
+    "type": 67108897,
     "atk": 2000,
-    "def": "-",
+    "def": 130,
     "level": 2,
-    "links": [
-        1,
-        6
-    ],
     "race": 8,
     "attribute": 16,
+    "category": 262144,
     "name": "Steelswarm Origin",
-    "desc": "Link Arrows: [🡱][🡳]\n\n2 \"lswarm\" monsters \nWhile this card is in an Extra Monster Zone, if a monster would be Special Summoned from the Extra Deck to the Main Monster Zone, it must be Summoned in the zone this card points to. While this card points to a monster, neither player can target it with card effects, also it cannot be destroyed by battle or card effect. Once per turn, when a monster(s) on the field is destroyed by battle or by card effect: You can Special Summon Level 4 or lower \"lswarm\" monsters from your Deck in Defense Position, up the number destroyed.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/SteelswarmOrigin-EXFO-EN-R-1E.png"
+    "desc": "2 \"lswarm\" monsters\r\nWhile this card is in the Extra Monster Zone, if a monster would be Special Summoned from the Extra Deck to the Main Monster Zone, it must be Summoned in the zone this card points to. While this card points to a monster, neither player can target it with card effects, also it cannot be destroyed by battle or card effects. Once per turn, when a monster(s) on the field is destroyed by battle or by card effect: You can Special Summon Level 4 or lower \"lswarm\" monsters from your Deck in Defense Position, up to the number destroyed.",
+    "str1": "Special Summon",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "cardpool": "OCG/TCG"
 }

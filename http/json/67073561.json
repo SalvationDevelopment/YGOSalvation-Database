@@ -1,6 +1,6 @@
 {
     "id": 67073561,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 67108897,
@@ -10,8 +10,8 @@
     "race": 8,
     "attribute": 32,
     "category": 4,
-    "name": "Miss Cape Barber",
-    "desc": "2 monsters\r\nAt the start of the Battle Phase: You can target this card or 1 monster this card points to; banish it until the End Phase. You can only use the effect of \"Miss Cape Barber\" once per turn.",
+    "name": "Baba Barber",
+    "desc": "2 monsters\r\nAt the start of each Battle Phase: You can target this card or 1 monster this card points to; banish it until the End Phase. You can only use this effect of \"Baba Barber\" once per turn.",
     "str1": "Target a monster to banish until the End Phase",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

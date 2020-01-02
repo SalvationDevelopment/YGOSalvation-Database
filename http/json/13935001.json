@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 794632,
     "name": "Lunalight Serenade Dance",
-    "desc": "When a Fusion Monster(s) is Fusion Summoned to your field (except during the Damage Step): You can target 1 of those monsters; apply these effects in sequence.\n● Special Summon 1 \"Lunalight Token\" (Beast-Warrior/DARK/Level 4/ATK 2000/DEF 2000) to your opponent's field. ● That target gains 500 ATK for each monster your opponent controls (even if this card leaves the field).\nDuring your Main Phase: You can banish this card from your GY; send 1 card from your hand to the GY, and if you do, Special Summon 1 \"Lunalight\" monster from your Deck. You can only use this effect of \"Lunalight Serenade Dance\" once per turn.",
+    "desc": "When a Fusion Monster(s) is Fusion Summoned to your field (except during the Damage Step): You can target 1 of those monsters; apply these effects in sequence.\r\n●Special Summon 1 \"Lunalight Token\" (Beast-Warrior/DARK/Level 4/ATK 2000/DEF 2000) to your opponent's field.\r\n●That target gains 500 ATK for each monster your opponent controls (even if this card leaves the field).\r\nDuring your Main Phase: You can banish this card from your GY; send 1 card from your hand to the GY, and if you do, Special Summon 1 \"Lunalight\" monster from your Deck. You can only use this effect of \"Lunalight Serenade Dance\" once per turn.",
     "str1": "Activate only",
     "str2": "Activate and use effect",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Legendary Duelists: Sisters of the Rose",
-        "pack_id": "LED4-DE049",
-        "date": "2019-01-10"
-    },
-    "ocg": {
-        "pack": "Duelist Pack: Legend Duelist 4",
-        "pack_id": "DP21-JP049",
-        "date": "2018-11-10"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9d/LunalightSerenadeDance-LED4-EN-SR-1E.png"
+    "cardpool": "OCG/TCG"
 }

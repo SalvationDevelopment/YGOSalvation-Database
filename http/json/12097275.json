@@ -1,6 +1,6 @@
 {
     "id": 12097275,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 252,
     "type": 33,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 8720,
     "name": "Gouki Bearhug",
-    "desc": "If this card is Special Summoned by the effect of a \"Gouki\" card, or Normal Summoned: You can target 1 face-up monster your opponent controls; its ATK becomes half its original ATK, until the end of this turn. If this card is sent from the field to the GY: You can add 1 \"Gouki\" card from your Deck to your hand, except \"Gouki Bearhug\". You can only use each effect of \"Gouki Bearhug\" once per turn.",
+    "desc": "If this card is Special Summoned by the effect of a \"Gouki\" card, or Normal Summoned: You can target 1 face-up monster your opponent controls; its ATK becomes half its original ATK until the end of this turn. If this card is sent from the field to the GY: You can add 1 \"Gouki\" card from your Deck to your hand, except \"Gouki Bearhug\". You can only use each effect of \"Gouki Bearhug\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-DE010",
-        "date": "2018-05-03"
-    },
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP010",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d6/GoukiBearhug-FLOD-EN-C-1E.png"
+    "cardpool": "OCG/TCG"
 }

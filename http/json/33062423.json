@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 16785412,
     "name": "Decode Destruction",
-    "desc": "Target 1 \"Decode Talker\" you control; apply the following effects this turn, depending on the number of monsters it currently points to.\n● 1+: That monster gains 500 ATK for each monster it currently points to.\n● 2+: Monsters destroyed by battle with that monster are banished after damage calculation.\n● 3: After damage calculation, if that monster destroys your opponent's monster by battle: Destroy all cards your opponent controls.\nYou can only activate 1 &#x201C;Decode Destruction&#x201D; per turn.",
+    "desc": "Target 1 \"Decode Talker\" you control; apply the following effects this turn, depending on the number of monsters it currently points to.\r\n● 1+: That monster gains 500 ATK for each monster it currently points to.\r\n● 2+: Monsters destroyed by battle with that monster are banished after damage calculation.\r\n● 3: After damage calculation, if that monster destroys your opponent's monster by battle: Destroy all cards your opponent controls.\r\nYou can only activate 1 \"Decode Destruction\" per turn.",
     "str1": "Affected by \"Decode Destruction\"",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Duel Power",
-        "pack_id": "DUPO-EN016",
-        "date": "2019-04-03"
-    },
-    "ocg": {
-        "pack": "20th Anniversary Duelist Box",
-        "pack_id": "20TH-JPB33",
-        "date": "2018-12-22"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c5/DecodeDestruction-DUPO-EN-UR-1E.png"
+    "cardpool": "OCG/TCG"
 }

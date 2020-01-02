@@ -1,6 +1,6 @@
 {
     "id": 86885905,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 259,
     "type": 131076,
@@ -10,8 +10,8 @@
     "race": 2,
     "attribute": 16,
     "category": 262144,
-    "name": "Altergeist Emulelf",
-    "desc": "Special Summon this card as an Effect Monster (Spellcaster/LIGHT/Level 4/ATK 1400/DEF 1800). (This card is also still a Trap.) If Summoned this way, other \"Altergeist\" Traps you control cannot be destroyed by card effects, also neither player can target them with card effects.",
+    "name": "Altergeist Emulatelf",
+    "desc": "Special Summon this card as an Effect Monster (Spellcaster/LIGHT/Level 4/ATK 1400/DEF 1800). (This card is also still a Trap.) If Summoned this way, while it is in the Monster Zone, other \"Altergeist\" Traps you control cannot be destroyed by card effects, also neither player can target them with card effects.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP070",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/37/AltergeistEmulelf-FLOD-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

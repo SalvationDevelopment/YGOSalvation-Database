@@ -1,8 +1,8 @@
 {
     "id": 38916526,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 276,
     "type": 33,
     "atk": 2800,
     "def": 2200,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 2147483664,
     "name": "Rafale, Champion Fur Hire",
-    "desc": "If this card is Special Summoned: You can excavate the top cards of your Deck, equal to the number of monsters \"Fur Hire\" you control with different names, except \"Rafale, Champion Fur Hire\", and if you do, add 1 of them to your hand, also shuffle the rest back into the Deck. When your opponent activates a monster effect (Quick Effect): You can discard 1 card \"Fur Hire\"; negate the activation. You can only use each effect of \"Rafale, Champion Fur Hire\" once per turn.",
+    "desc": "If this card is Special Summoned: You can excavate the top cards of your Deck equal to the number of monsters \"Fur Hire\" you control with different names, except \"Rafale, Champion Fur Hire\", and if you do, add 1 of them to your hand, also shuffle the rest back into your Deck. When your opponent activates a monster effect (Quick Effect): You can discard 1 card \"Fur Hire\"; negate the activation. You can only use each effect of \"Rafale, Champion Fur Hire\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Dark Saviors",
-        "pack_id": "DASA-DE023",
-        "date": "2018-05-24"
-    },
-    "ocg": {
-        "pack": "Deck Build Pack: Dark Savers",
-        "pack_id": "DBDS-JP023",
-        "date": "2018-02-24"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a4/RafaleChampionFurHire-DASA-EN-ScR-1E.png"
+    "cardpool": "OCG/TCG"
 }

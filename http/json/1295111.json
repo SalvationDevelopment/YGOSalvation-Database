@@ -2,7 +2,7 @@
     "id": 1295111,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 281,
     "type": 524290,
     "atk": 0,
     "def": 0,
@@ -12,7 +12,7 @@
     "category": 8396800,
     "name": "Salamangreat Sanctuary",
     "desc": "If you Link Summon a \"Salamangreat\" Link Monster, you can use 1 \"Salamangreat\" Link Monster you control with its same name as the entire material. During damage calculation, if your monster battles: You can pay 1000 LP, then target 1 Link Monster you control; make its ATK 0, and if you do, gain LP equal to its original ATK. You can only use each effect of \"Salamangreat Sanctuary\" once per turn.",
-    "str1": "Link Summon using a Link monster with the same name",
+    "str1": "Link Summon (Salamangreat Sanctuary)",
     "str2": "Change ATK and recover LP",
     "str3": "",
     "str4": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-DE051",
-        "date": "2018-10-18"
-    },
-    "ocg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-JP051",
-        "date": "2018-07-14"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/67/SalamangreatSanctuary-SOFU-EN-C-1E.png"
+    "cardpool": "OCG/TCG"
 }

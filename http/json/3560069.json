@@ -1,6 +1,6 @@
 {
     "id": 3560069,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262400,
     "name": "Latency",
-    "desc": "If this card is added from your GY to your hand by a card effect: You can Special Summon this card. If this card Summoned this way is sent to the GY as Link Material: You can draw 1 card. You can only use each effect of \"Latency\" once per turn.",
+    "desc": "If this card is added from your GY to your hand by a card effect: You can Special Summon it from your hand. If this card Summoned this way is sent to the GY as Link Material: You can draw 1 card. You can only use each effect of \"Latency\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Structure Deck: Master Link",
-        "pack_id": "SD34-JP001",
-        "date": "2018-06-23"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3c/Latency-SD34-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

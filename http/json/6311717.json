@@ -1,6 +1,6 @@
 {
     "id": 6311717,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 302,
     "type": 33,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262152,
     "name": "Fortune Fairy Hikari",
-    "desc": "When you draw this card: You can reveal this card; Special Summon it from your hand. If this card is Special Summoned from the hand: You can target 1 monster you control; send it to the GY, and if you do, Special Summon 1 Level 1 Spellcaster monster from your Deck. You can only use each effect of \"Fortune Fairy Hikari\" once per turn.",
+    "desc": "When you draw this card: You can reveal it; Special Summon it from your hand. If this card is Special Summoned from the hand: You can target 1 monster you control; send it to the GY, and if you do, Special Summon 1 Level 1 Spellcaster monster from your Deck. You can only use each effect of \"Fortune Fairy Hikari\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -23,10 +23,10 @@
     "str9": "",
     "str10": "",
     "str11": "",
-    "str12": "CP19-JP",
+    "str12": "",
     "str13": "",
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

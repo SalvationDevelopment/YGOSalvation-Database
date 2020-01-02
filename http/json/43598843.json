@@ -1,6 +1,6 @@
 {
     "id": 43598843,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 131,
     "type": 33,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Gimmick Puppet Terror Baby",
-    "desc": "When this card is Normal Summoned: You can target 1 \"Gimmick Puppet\" monster in your GY, except \"Gimmick Puppet Terror Baby\"; Special Summon it in Defense Position. You can banish this card from your GY; this turn, your opponent cannot activate cards or effects in response to your \"Gimmick Puppet\" monsters' effect activations.",
+    "desc": "When this card is Normal Summoned: You can target 1 \"Gimmick Puppet\" monster in your GY, except \"Gimmick Puppet Terror Baby\"; Special Summon it in Defense Position. You can banish this card from your GY; your opponent cannot activate cards or effects in response to the activation of your \"Gimmick Puppet\" monster effects this turn.",
     "str1": "Special Summon",
     "str2": "Prevent the activation of effects",
     "str3": "Affected by \"Gimmick Puppet Terror Baby\"",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "DP22",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

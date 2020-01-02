@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 268435456,
     "name": "Guardragon Reincarnation",
-    "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing Link Monsters listed on it from your field or GY as Fusion Material. You can only activate 1 \"Guardragon Reincarnation\" per turn.",
+    "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it, that are all Link Monsters, from your field or GY. You can only activate 1 \"Guardragon Reincarnation\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Dark Neostorm",
-        "pack_id": "DANE-DE060",
-        "date": "2019-05-02"
-    },
-    "ocg": {
-        "pack": "Dark Neostorm",
-        "pack_id": "DANE-JP060",
-        "date": "2019-01-12"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/69/GuardragonReincarnation-DANE-EN-C-1E.png"
+    "cardpool": "OCG/TCG"
 }

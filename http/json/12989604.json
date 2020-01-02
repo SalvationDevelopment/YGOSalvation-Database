@@ -1,6 +1,6 @@
 {
     "id": 12989604,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 254,
     "type": 4,
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-DE071",
-        "date": "2018-05-03"
-    },
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP071",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/22/WorldLegacyAwakens-FLOD-EN-R-1E.png"
+    "cardpool": "OCG/TCG"
 }

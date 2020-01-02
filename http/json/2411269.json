@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 12591104,
     "name": "Agave Dragon",
-    "desc": "Link Arrows: [🡷][🡶][🡰][🡲]\n\n2+ monsters, except Tokens\nIf this card is Link Summoned: You can apply these effects in sequence, depending on the Types of monsters in the GYs (skip over any that do not apply). You can only use this effect of &#x201C;Agave Dragon&#x201D; once per turn.\n● Inflict 100 damage to your opponent for each Dragon.\n● This card gains 200 ATK for each Dinosaur.\n● All monsters your opponent currently controls lose 300 ATK for each Sea Serpent.\n● You gain 400 LP for each Wyrm.",
+    "desc": "2+ monsters, except Tokens\r\nIf this card is Link Summoned: You can apply these effects in sequence, depending on the Types of monsters in the GYs (skip over any that do not apply). You can only use this effect of \"Agave Dragon\" once per turn.\r\n●Inflict 100 damage to your opponent for each Dragon.\r\n●This card gains 200 ATK for each Dinosaur.\r\n●All monsters your opponent currently controls lose 300 ATK for each Sea Serpent.\r\n●You gain 400 LP for each Wyrm.",
     "str1": "Apply the effects of \"Dragon Agave\"",
     "str2": "",
     "str3": "",
@@ -28,22 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-EN048",
-        "date": "2018-10-18"
-    },
-    "ocg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-JP048",
-        "date": "2018-07-14"
-    },
-    "links": [
-        3,
-        4,
-        5,
-        7
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b4/AgaveDragon-SOFU-EN-C-1E.png"
+    "cardpool": "OCG/TCG"
 }

@@ -1,28 +1,32 @@
 {
-    "ocg": {
-        "pack": "LINK VRAINS Pack",
-        "pack_id": "LVP1-JP071",
-        "date": "2017-11-25"
-    },
-    "tcg": {
-        "pack": "Extreme Force",
-        "pack_id": "EXFO-DE097",
-        "date": "2018-02-01"
-    },
     "id": 85216896,
+    "ot": 3,
+    "alias": 0,
     "setcode": 196,
-    "type": 33554465,
+    "type": 67108897,
     "atk": 2500,
-    "def": "-",
+    "def": 7,
     "level": 3,
-    "links": [
-        5,
-        6,
-        7
-    ],
     "race": 8388608,
     "attribute": 16,
+    "category": 20,
     "name": "Zefra Metaltron",
-    "desc": "Link Arrows: [🡷][🡳][🡶]\n\n2+ monsters Special Summoned from the Extra Deck\nIf a monster(s) this card points to that was Special Summoned from the Extra Deck is destroyed by battle or an opponent's card effect: Add 1 monster from your GY or 1 face-up Pendulum Monster from your Extra Deck to your hand. You can target 1 monster on each player's field that was Special Summoned from the Extra Deck, except this card; banish both until the End Phase. You can only use each effect of \"Zefra Metaltron\" once per turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8d/ZefraMetaltron-EXFO-EN-SR-1E.png"
+    "desc": "2+ monsters Special Summoned from the Extra Deck\r\nIf a monster(s) this card points to that was Special Summoned from the Extra Deck is destroyed by battle or an opponent's card effect: Add 1 monster from your GY or 1 face-up Pendulum Monster from your Extra Deck to your hand. You can target 1 monster on each player's field that was Special Summoned from the Extra Deck, except this card; banish both until the End Phase. You can only use each effect of \"Zefra Metaltron\" once per turn.",
+    "str1": "Add to hand",
+    "str2": "Banish",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "cardpool": "OCG/TCG"
 }

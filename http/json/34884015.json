@@ -2,7 +2,7 @@
     "id": 34884015,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 242,
     "type": 131074,
     "atk": 0,
     "def": 0,
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Duel Power",
-        "pack_id": "DUPO-EN013",
-        "date": "2019-04-03"
-    },
-    "ocg": {
-        "pack": "20th Anniversary Duelist Box",
-        "pack_id": "20TH-JPB27",
-        "date": "2018-12-22"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/47/SoulPendulum-DUPO-EN-UR-1E.png"
+    "cardpool": "OCG/TCG"
 }

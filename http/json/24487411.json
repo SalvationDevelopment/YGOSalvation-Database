@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 2,
     "name": "Detonate Deleter",
-    "desc": "Link Arrows: [🡰][🡷][🡲]\n\n2+ Cyberse monsters\nOnce per turn, at the start of the Damage Step, when this card battles a face-up monster that is not a Link-3 or higher Link Monster: You can destroy that monster. Once per turn: You can Tribute 1 monster this card points to, then target 1 monster your opponent controls; destroy it.",
+    "desc": "2+ Cyberse monsters\r\nOnce per turn, at the start of the Damage Step, when this card battles a face-up monster that is not a Link-3 or higher Link Monster: You can destroy that monster. Once per turn: You can Tribute 1 monster this card points to, then target 1 monster your opponent controls; destroy it.",
     "str1": "Destroy",
     "str2": "Destroy monster",
     "str3": "",
@@ -28,17 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Savage Strike",
-        "pack_id": "SAST-JP046",
-        "date": "2018-10-13"
-    },
-    "links": [
-        3,
-        4,
-        5
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a2/DetonateDeleter-SAST-EN-R-1E.png"
+    "cardpool": "OCG/TCG"
 }

@@ -1,6 +1,6 @@
 {
     "id": 32519092,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 300,
     "type": 67108865,
@@ -10,7 +10,7 @@
     "race": 8388608,
     "attribute": 1,
     "category": 262144,
-    "name": "Warrior Monk of Tenyi",
+    "name": "Monk of the Tenyi",
     "desc": "1 non-Link \"Tenyi\" monster",
     "str1": "",
     "str2": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

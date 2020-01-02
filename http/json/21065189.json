@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 270336,
     "name": "Firewall eXceed Dragon",
-    "desc": "2+ Level 4 monsters\nThis Xyz Summoned card gains 500 ATK x the total Link Rating of Link Monsters linked to this card. You can detach 2 materials from this card, then target 1 Link-4 Cyberse Link Monster in your GY; Special Summon it to your field so it points to this card, also you cannot Special Summon other monsters  or attack directly for the rest of this turn.",
+    "desc": "2+ Level 4 monsters\r\nThis Xyz Summoned card gains 500 ATK x the total Link Rating of Link Monsters linked to this card. You can detach 2 materials from this card, then target 1 Link-4 Cyberse Link Monster in your GY; Special Summon it to your field so it points to this card, also you cannot Special Summon other monsters or attack directly for the rest of this turn.",
     "str1": "Special Summon a LINK-4 Cyberse",
     "str2": "Affected by \"Firewall eXceed Dragon\", cannot Special Summon or attack directly",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Dark Neostorm",
-        "pack_id": "DANE-DE036",
-        "date": "2019-05-02"
-    },
-    "ocg": {
-        "pack": "Dark Neostorm",
-        "pack_id": "DANE-JP036",
-        "date": "2019-01-12"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cc/FirewalleXceedDragon-DANE-EN-UR-1E.png"
+    "cardpool": "OCG/TCG"
 }

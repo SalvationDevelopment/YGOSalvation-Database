@@ -1,6 +1,6 @@
 {
     "id": 63166095,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 277,
     "type": 2,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 784,
-    "name": "Brandish Start-Up Engage",
-    "desc": "If you control no monsters in your Main Monster Zones: Add 1 \"Brandish\" card from your Deck to your hand, except \"Brandish Start-Up Engage\", then if you have 3 or more Spells in your GY, you can draw 1 card.",
+    "name": "Sky Striker Mobilize - Engage!",
+    "desc": "If you control no monsters in your Main Monster Zone: Add 1 \"Sky Striker\" card from your Deck to your hand, except \"Sky Striker Mobilize - Engage!\", then, if you have 3 or more Spells in your GY, you can draw 1 card.",
     "str1": "Draw 1 card?",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Deck Build Pack: Dark Savers",
-        "pack_id": "DBDS-JP030",
-        "date": "2018-02-24"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/1b/BrandishStartUpEngage-DBDS-JP-SR.png"
+    "cardpool": "OCG/TCG"
 }

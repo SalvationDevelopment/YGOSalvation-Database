@@ -1,6 +1,6 @@
 {
     "id": 5008836,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 222,
     "type": 33,
@@ -10,8 +10,8 @@
     "race": 2,
     "attribute": 32,
     "category": 0,
-    "name": "Exodia, Master of The Guard",
-    "desc": "Cannot be Special Summoned. You can Tribute 5 monsters to Tribute Summon (but not Set) this card. If this card Summoned this way destroys a DARK Fiend monster that is owned by your opponent by battle, you win the Duel. This card's ATK/DEF becomes the combined original ATK/DEF of the Tributed monsters.",
+    "name": "Exodia, the Legendary Defender",
+    "desc": "Cannot be Special Summoned. You can Tribute 5 monsters to Tribute Summon (but not Set) this card. This card's ATK/DEF become the combined original ATK/DEF of the Tributed monsters. If this card Summoned this way destroys a DARK Fiend monster owned by your opponent, you win the Duel at the end of the Damage Step.",
     "str1": "Normal Summon with 5 Tributes",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

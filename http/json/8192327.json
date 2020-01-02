@@ -1,8 +1,8 @@
 {
     "id": 8192327,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
-    "setcode": 530,
+    "setcode": 275,
     "type": 33554465,
     "atk": 2800,
     "def": 2200,
@@ -10,8 +10,8 @@
     "race": 4,
     "attribute": 16,
     "category": 2,
-    "name": "Forceaurage the Elemental Lord",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 LIGHT monsters in your GY. When this card is Special Summoned: You can destroy all monsters your opponent controls. You can only use this effect of \"Forceaurage the Elemental Lord\" once per turn. If this face-up card leaves the field, skip the Battle Phase of your next turn.",
+    "name": "Phosphorage the Elemental Lord",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 LIGHT monsters in your GY. When this card is Special Summoned: You can destroy all monsters your opponent controls. You can only use this effect of \"Phosphorage the Elemental Lord\" once per turn. If this face-up card leaves the field, skip the Battle Phase of your next turn.",
     "str1": "Destroy all monsters",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP026",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/60/ForceauragetheElementalLord-FLOD-JP-SR.png"
+    "cardpool": "OCG/TCG"
 }

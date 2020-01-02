@@ -1,6 +1,6 @@
 {
     "id": 58981727,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 179,
     "type": 33,
@@ -10,8 +10,8 @@
     "race": 32768,
     "attribute": 8,
     "category": 544,
-    "name": "Yosenju Sabur",
-    "desc": "Once per turn, during the End Phase, if this card was Normal Summoned this turn: Return it to the hand. You can only use each of the following effects of \"Yosenju Sabur\" once per turn.\r\n● If this card is Normal Summoned while you control another \"Yosenju\" card: You can add 1 \"Yosenju\" Pendulum Monster from your Deck to your hand.\r\n● You can target 1 \"Yosenju\" card you control; place 1 \"Dizzying Winds of Yosen Village\" or \"Yosen Whirlwind\" from your Deck face-up in your Spell & Trap Zone, and if you do, shuffle the targeted card into the Deck.",
+    "name": "Yosenju Sabu",
+    "desc": "Once per turn, during the End Phase, if this card was Normal Summoned this turn: Return it to the hand. You can only use each of the following effects of \"Yosenju Sabu\" once per turn.\r\n● If this card is Normal Summoned: If you control another \"Yosenju\" card, you can add 1 \"Yosenju\" Pendulum Monster from your Deck to your hand.\r\n● You can target 1 \"Yosenju\" card you control; place 1 \"Dizzying Winds of Yosen Village\" or \"Yosen Whirlwind\" from your Deck face-up in your Spell & Trap Zone, and if you do, shuffle the targeted card into the Deck.",
     "str1": "Add 1 \"Yosenju\" Pendulum Monster from your Deck to your hand.",
     "str2": "Target 1 \"Yosenju\" card",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

@@ -1,6 +1,6 @@
 {
     "id": 23002292,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 1048580,
@@ -11,9 +11,9 @@
     "attribute": 0,
     "category": 2147483648,
     "name": "Red Reboot",
-    "desc": "When your opponent activates a Trap Card: Negate the activation, and if you do, Set that card face-down, then they can Set 1 Trap directly from their Deck. For the rest of this turn after this card resolves, your opponent cannot activate Trap Cards. You can activate this card from your hand by paying half your LP.",
+    "desc": "When your opponent activates a Trap Card: Negate the activation, and if you do, Set that card face-down, then they can Set 1 other Trap directly from their Deck. For the rest of this turn after this card resolves, your opponent cannot activate Trap Cards. You can activate this card from your hand by paying half your LP.",
     "str1": "Set 1 Trap from the Deck?",
-    "str2": "",
+    "str2": "Affected by \"Red Reboot\"",
     "str3": "",
     "str4": "",
     "str5": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-DE068",
-        "date": "2018-05-03"
-    },
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP068",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/cd/RedReboot-FLOD-EN-SR-1E.png"
+    "cardpool": "OCG/TCG"
 }

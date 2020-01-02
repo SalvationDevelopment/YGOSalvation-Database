@@ -1,6 +1,6 @@
 {
     "id": 2625940,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 16401,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 0,
     "name": "Spool Token",
-    "desc": "Summoned by the effect of \"Spool Code\".",
+    "desc": "This card can be used as a \"Spool Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

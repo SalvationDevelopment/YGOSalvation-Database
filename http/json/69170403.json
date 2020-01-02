@@ -1,6 +1,6 @@
 {
     "id": 69170403,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 134479872,
     "name": "Astra Ghouls",
-    "desc": "When this card is Normal Summoned: You can target 1 Level 4 or lower monster in your GY; Special Summon it in Defense Position, but negate its effects, also banish it during the End Phase. Once per turn: You can roll a six-sided die and the Levels of all face-up monsters you currently control become the result until the end of this turn.",
+    "desc": "When this card is Normal Summoned: You can target 1 Level 4 or lower monster in your GY; Special Summon it in Defense Position, but its effects are negated, also banish it during the End Phase. Once per turn: You can roll a six-sided die, and the face-up monsters you currently control become the Level equal to the result, until the end of this turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

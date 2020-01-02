@@ -1,6 +1,6 @@
 {
     "id": 60292055,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 67108897,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 270336,
     "name": "Elphase",
-    "desc": "2 Level 3 or higher Cyberse monsters\r\nGains 300 ATK for each monster it points to. If this face-up Link Summoned card leaves the field: You can target 1 Level 4 or lower Cyberse monster in your GY; Special Summon it, but for the rest of this turn, it has its effects negated, also it cannot be used as Link Material. You can only use this effect of \"Elphase\" once per turn.",
+    "desc": "2 Level 3 or higher Cyberse monsters\nGains 300 ATK for each monster this card points to. If this Link Summoned card leaves the field: You can target 1 Level 4 or lower Cyberse monster in your GY; Special Summon it, but for the rest of this turn, its effects (if any) are negated and it cannot be used as Link Material. You can only use this effect of \"Elphase\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

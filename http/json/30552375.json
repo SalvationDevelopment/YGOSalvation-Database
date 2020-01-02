@@ -1,6 +1,6 @@
 {
     "id": 30552375,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 262146,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8192,
     "name": "Grid Rod",
-    "desc": "Equip only to a Cyberse monster you control. It gains 300 ATK, also it is unaffected by your opponent's card effects. The first time the equipped monster would be destroyed by battle each turn, it is not destroyed. If this face-up card on the field is destroyed and sent to the GY: You can activate this effect; Cyberse monsters you currently control cannot be destroyed by battle or card effects until the end of this turn.",
+    "desc": "Equip only to a Cyberse monster you control. It gains 300 ATK, it is unaffected by your opponent's card effects, also the first time it would be destroyed by battle each turn, it is not destroyed. If this face-up card on the field is destroyed and sent to the GY: You can activate this effect; Cyberse monsters you currently control cannot be destroyed by battle or card effects until the end of this turn.",
     "str1": "Affect Cyberse monstes you current control",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Rising Rampage",
-        "pack_id": "RIRA-JP052",
-        "date": "2019-04-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e0/GridRod-RIRA-JP-OP.png"
+    "cardpool": "OCG/TCG"
 }

@@ -1,6 +1,6 @@
 {
     "id": 84754430,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 268,
     "type": 17,
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP016",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/48/MekkKnightAvram-EXFO-EN-SR-LE.png"
+    "cardpool": "OCG/TCG"
 }

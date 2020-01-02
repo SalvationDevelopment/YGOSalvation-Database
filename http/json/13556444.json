@@ -1,6 +1,6 @@
 {
     "id": 13556444,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 163,
     "type": 4,
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "20th Anniversary Legend Collection",
-        "pack_id": "20TH-JPC10",
-        "date": "2019-02-09"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c1/StardustMirage-BLHR-EN-ScR-1E.png"
+    "cardpool": "OCG/TCG"
 }

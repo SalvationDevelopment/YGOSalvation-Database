@@ -1,8 +1,8 @@
 {
     "id": 59913418,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 248,
     "type": 161,
     "atk": 3000,
     "def": 3000,
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Cybernetic Horizon",
-        "pack_id": "CYHO-DE030",
-        "date": "2018-07-26"
-    },
-    "ocg": {
-        "pack": "Cybernetic Horizon",
-        "pack_id": "CYHO-JP030",
-        "date": "2018-04-14"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2b/DemiseSupremeKingofArmageddon-CYHO-EN-R-1E.png"
+    "cardpool": "OCG/TCG"
 }

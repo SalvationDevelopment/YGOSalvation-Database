@@ -1,6 +1,6 @@
 {
     "id": 5524387,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 299,
     "type": 67108897,
@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 16,
     "name": "Marincess Marbled Rock",
-    "desc": "2+ WATER monsters\r\nYou can target 1 \"Marincess\" card in your GY, except \"Marincess Marbled Rock\"; add it to your hand. You can only use this effect of \"Marincess Marbled Rock\" once per turn. When an opponent's monster declares an attack: You can send 1 \"Marincess\" monster from your hand to the GY; monsters cannot be destroyed by that battle, also you take no battle damage from that battle.",
+    "desc": "2+ WATER monsters\r\nYou can target 1 \"Marincess\" card in your GY, except \"Marincess Marbled Rock\"; add it to your hand. You can only use this effect of \"Marincess Marbled Rock\" once per turn. When an opponent's monster declares an attack: You can send 1 \"Marincess\" monster from your hand to the GY; for that battle, monsters cannot be destroyed by battle, also you take no battle damage.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

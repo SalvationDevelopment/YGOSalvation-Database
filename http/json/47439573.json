@@ -1,6 +1,6 @@
 {
     "id": 47439573,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 1048580,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 4,
-    "name": "Ruthless Drop Off",
-    "desc": "When a card(s) in the GY and/or face-up on the field is added to your opponent's hand by a card effect: Look at your opponent's hand, also banish all cards from their hand with the same name as the added card(s).",
+    "name": "Heartless Drop Off",
+    "desc": "When a face-up card(s) on the field and/or in the GY is added to your opponent's hand by an effect: Look at their hand, also banish the added card(s) and all cards with the same name, if any.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP078",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/66/RuthlessDropOff-FLOD-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

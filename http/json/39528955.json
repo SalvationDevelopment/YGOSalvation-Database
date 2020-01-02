@@ -2,7 +2,7 @@
     "id": 39528955,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 278,
     "type": 67108897,
     "atk": 500,
     "def": 10,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 73728,
     "name": "Crusadia Spatha",
-    "desc": "Link Arrows: [🡳][🡰]\n\n2 Effect Monsters, including a \"Crusadia\" monster\nGains ATK equal to the original ATK of any monster this card points to. A monster this card points to cannot attack. Once per turn, if an Effect Monster is Special Summoned a zone this card points to (except during the Damage Step): You can target 1 monster in either player's Main Monster Zone, except this card; move it to another Main Monster Zone on its controller's field.",
+    "desc": "2 Effect Monsters, including a \"Crusadia\" monster\r\nGains ATK equal to the original ATK of any monster this card points to. A monster this card points to cannot attack. Once per turn, if an Effect Monster is Special Summoned to a zone this card points to (except during the Damage Step): You can target 1 monster in either player's Main Monster Zone, except this card; move it to another Main Monster Zone on its controller's field.",
     "str1": "Move",
     "str2": "Select a monster to move",
     "str3": "",
@@ -28,20 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-EN046",
-        "date": "2018-10-18"
-    },
-    "ocg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-JP046",
-        "date": "2018-07-14"
-    },
-    "links": [
-        3,
-        6
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/92/CrusadiaSpatha-SOFU-EN-C-1E.png"
+    "cardpool": "OCG/TCG"
 }

@@ -2,7 +2,7 @@
     "id": 21744288,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 296,
     "type": 33,
     "atk": 1800,
     "def": 600,
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "The Infinity Chasers",
-        "pack_id": "INCH-EN016",
-        "date": "2019-03-21"
-    },
-    "ocg": {
-        "pack": "Deck Build Pack: Infinity Chasers",
-        "pack_id": "DBIC-JP016",
-        "date": "2019-02-23"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/04/WitchcrafterSchmietta-INCH-EN-SR-1E.png"
+    "cardpool": "OCG/TCG"
 }

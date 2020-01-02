@@ -1,6 +1,6 @@
 {
     "id": 53167658,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 131074,
@@ -10,10 +10,10 @@
     "race": 0,
     "attribute": 0,
     "category": 262148,
-    "name": "Obstructive Curtain",
-    "desc": "If a card(s) you control would be destroyed by battle or an opponent's card effect, you can destroy this card instead of destroying 1 of those cards. If a card(s) your opponent controls would be destroyed by battle or card effect, you can banish this card from your GY instead of destroying 1 of those cards. You can only use each effect of \"Obstructive Curtain\" once per turn.",
-    "str1": "Destroy \"Obstructive Curtain\" instead?",
-    "str2": "Banish \"Obstructive Curtain\" instead?",
+    "name": "Blockout Curtain",
+    "desc": "If a card(s) you control would be destroyed by battle or an opponent's card effect, you can destroy this card instead of 1 of those cards. If a card(s) your opponent controls would be destroyed by battle or card effect, you can banish this card from your GY instead of 1 of those cards. You can only use each effect of \"Blockout Curtain\" once per turn.",
+    "str1": "Destroy \"Blockout Curtain\" instead?",
+    "str2": "Banish \"Blockout Curtain\" instead?",
     "str3": "",
     "str4": "",
     "str5": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 12288,
     "name": "Borreload Dragon",
-    "desc": "Link Arrows: [🡰][🡷][🡶][🡲]\n\n3+ Effect Monsters\nNeither player can target this card with monster effects. Once per turn (Quick Effect): You can target 1 face-up monster on the field; it loses 500 ATK/DEF. Your opponent cannot activate cards or effects in response to this effect's activation. At the start of the Damage Step, if this card attacks an opponent's monster: You can place that opponent's monster in a zone this card points to and take control of it, but send it to the GY during the End Phase of the next turn.",
+    "desc": "3+ Effect Monsters\r\nNeither player can target this card with monster effects. Once per turn (Quick Effect): You can target 1 face-up monster on the field; it loses 500 ATK/DEF. Your opponent cannot activate cards or effects in response to this effect's activation. At the start of the Damage Step, if this card attacks an opponent's monster: You can place that opponent's monster in a zone this card points to and take control of it, but send it to the GY during the End Phase of the next turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,22 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Circuit Break",
-        "pack_id": "CIBR-DE042",
-        "date": "2017-10-19"
-    },
-    "ocg": {
-        "pack": "Circuit Break",
-        "pack_id": "CIBR-JP042",
-        "date": "2017-07-08"
-    },
-    "links": [
-        3,
-        4,
-        5,
-        7
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e2/BorreloadDragon-DUPO-EN-UR-1E.png"
+    "cardpool": "OCG/TCG"
 }

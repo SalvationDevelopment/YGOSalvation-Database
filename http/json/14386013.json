@@ -1,6 +1,6 @@
 {
     "id": 14386013,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 2,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 304,
-    "name": "Dark Occultism",
-    "desc": "Discard 1 card; add 1 \"Destiny Board\" or 1 Level 8 Fiend monster from your Deck or GY to your hand. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; place any number of \"Destiny Board\" and/or \"Spirit Message\" cards with different names from your hand and/or GY on the bottom of the Deck in any order, then draw the same number of cards. You can only use each effect of \"Dark Occultism\" once per turn.",
+    "name": "Dark Spirit's Mastery",
+    "desc": "Discard 1 card; add 1 \"Destiny Board\" or 1 Level 8 Fiend monster from your Deck or GY to your hand. You can banish this card from your GY, except the turn this card was sent to the GY; place any number of \"Destiny Board\" and/or \"Spirit Message\" cards with different names from your hand or GY on the bottom of the Deck in any order, then draw the same number of cards. You can only use each effect of \"Dark Spirit's Mastery\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "DP22",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Duelist Pack: Legend Duelist 5",
-        "pack_id": "DP22-JP004",
-        "date": "2019-06-08"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/96/DarkOccultism-DP22-JP-OP.png"
+    "cardpool": "OCG/TCG"
 }

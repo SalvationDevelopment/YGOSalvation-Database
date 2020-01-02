@@ -1,23 +1,32 @@
 {
-    "ocg": {
-        "pack": "Cybernetic Horizon",
-        "pack_id": "CYHO-JP014",
-        "date": "2018-04-14"
-    },
-    "tcg": {
-        "pack": "Cybernetic Horizon",
-        "pack_id": "CYHO-DE014",
-        "date": "2018-07-26"
-    },
     "id": 29975188,
-    "setcode": 9638035,
+    "ot": 3,
+    "alias": 0,
+    "setcode": 4243,
     "type": 33,
     "atk": 1100,
     "def": 1600,
     "level": 4,
     "race": 32,
     "attribute": 16,
+    "category": 270336,
     "name": "Cyber Dragon Vier",
-    "desc": "This card's name becomes \"Cyber Dragon\" while on the field or in the GY. If you Normal or Special Summon \"Cyber Dragon\", except during the Damage Step: You can Special Summon this card from your hand in Defense Position. You can only use this effect of &#x201C;Cyber Dragon Vier&#x201D; once per turn. Every \"Cyber Dragon\" you control gains 500 ATK/DEF.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/42/CyberDragonVier-CYHO-EN-C-1E.png"
+    "desc": "This card's name becomes \"Cyber Dragon\" while on the field or in the GY. If you Normal or Special Summon \"Cyber Dragon\", except during the Damage Step: You can Special Summon this card from your hand in Defense Position. You can only use this effect of \"Cyber Dragon Vier\" once per turn. Each \"Cyber Dragon\" you control gains 500 ATK/DEF.",
+    "str1": "",
+    "str2": "",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "cardpool": "OCG/TCG"
 }

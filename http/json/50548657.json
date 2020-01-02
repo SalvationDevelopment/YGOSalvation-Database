@@ -1,6 +1,6 @@
 {
     "id": 50548657,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -10,8 +10,8 @@
     "race": 16777216,
     "attribute": 32,
     "category": 262144,
-    "name": "Prompt Horn",
-    "desc": "You can Tribute 1 Level 4 or lower Cyberse monster; Special Summon any number of Cyberse Normal Monsters from your Deck and/or GY whose total Levels equal the Level of the Tributed monster, but banish them during the End Phase. You can only use this effect of \"Prompt Horn\" once per turn.",
+    "name": "Prompthorn",
+    "desc": "You can Tribute 1 Level 4 or lower Cyberse monster; Special Summon any number of Cyberse Normal Monsters from your Deck and/or GY whose total Levels equal the Tributed monster's Level on the field, but banish them during the End Phase. You can only use this effect of \"Prompthorn\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP002",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/fe/PromptHorn-FLOD-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

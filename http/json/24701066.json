@@ -2,7 +2,7 @@
     "id": 24701066,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 295,
     "type": 8388641,
     "atk": 2500,
     "def": 500,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262784,
     "name": "Infinitrack River Stormer",
-    "desc": "2 Level 5 monsters\nWhen this card destroys an opponent's monster by battle: You can attach that monster to this card as material. You can only use each of the following effects of &#x201C;Infinitrack River Stormer&#x201D; once per turn.\n● You can detach 1 material from this card; take 1 EARTH Machine monster from your Deck, and either add it to your hand or send it to the GY.\n● If this card is in your GY: You can Tribute 1 Machine Link Monster; Special Summon this card in Defense Position.",
+    "desc": "2 Level 5 monsters\r\nWhen this card destroys an opponent's monster by battle: You can attach that monster to this card as material. You can only use each of the following effects of \"Infinitrack River Stormer\" once per turn.\r\n● You can detach 1 material from this card; take 1 EARTH Machine monster from your Deck, and either add it to your hand or send it to the GY.\r\n● If this card is in your GY: You can Tribute 1 Machine Link Monster; Special Summon this card in Defense Position.",
     "str1": "Add to hand",
     "str2": "Send to the GY",
     "str3": "Attach the destroyed monster as material",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "The Infinity Chasers",
-        "pack_id": "INCH-EN007",
-        "date": "2019-03-21"
-    },
-    "ocg": {
-        "pack": "Deck Build Pack: Infinity Chasers",
-        "pack_id": "DBIC-JP007",
-        "date": "2019-02-23"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/33/InfinitrackRiverStormer-INCH-EN-ScR-1E.png"
+    "cardpool": "OCG/TCG"
 }

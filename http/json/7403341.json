@@ -1,6 +1,6 @@
 {
     "id": 7403341,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 280,
     "type": 1048580,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 2147483652,
     "name": "Cynet Conflict",
-    "desc": "When a Spell/Trap Card, or monster effect, is activated while you control a \"Code Talker\" monster: Negate the activation, and if you do, banish that card, and if you do that, your opponent cannot activate cards or effects with the same original name as that banished card until the end of the next turn. You can only activate 1 \"Cynet Conflict\" per turn.",
+    "desc": "When a Spell/Trap Card, or monster effect, is activated while you control a \"Code Talker\" monster: Negate the activation, and if you do, banish that card, and if you do, your opponent cannot activate cards, or effects of cards, with the same original name as that card that was banished, until the end of the next turn. You can only activate 1 \"Cynet Conflict\" per turn.",
     "str1": "",
     "str2": "Affected by \"Cynet Conflict\"",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

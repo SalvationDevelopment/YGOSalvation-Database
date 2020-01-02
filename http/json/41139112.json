@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 134479872,
     "name": "Summon Dice",
-    "desc": "Pay 1000 LP; roll a six-sided die and apply the result.\n● 1 or 2: Immediately after this effect resolves, you can Normal Summon 1 monster.\n● 3 or 4: You can Special Summon 1 monster from your GY.\n● 5 or 6: You can Special Summon 1 Level 5 or higher monster from your hand.\nYou can only activate 1 \"Summon Dice\" per turn.",
+    "desc": "Pay 1000 LP; roll a six-sided die and apply the result.\r\n●1 or 2: Immediately after this effect resolves, you can Normal Summon 1 monster.\r\n●3 or 4: You can Special Summon 1 monster from your GY.\r\n●5 or 6: You can Special Summon 1 Level 5 or higher monster from your hand.\r\nYou can only activate 1 \"Summon Dice\" per turn.",
     "str1": "Normal Summon",
     "str2": "Special Summon 1 monster from your GY",
     "str3": "Special Summon 1 Level 5 or higher monster from your hand",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Battles of Legend: Relentless Revenge",
-        "pack_id": "BLRR-DE002",
-        "date": "2018-06-28"
-    },
-    "ocg": {
-        "pack": "Collectors Pack 2018",
-        "pack_id": "CP18-JP002",
-        "date": "2018-05-12"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/99/SummonDice-BLRR-EN-UR-1E.png"
+    "cardpool": "OCG/TCG"
 }

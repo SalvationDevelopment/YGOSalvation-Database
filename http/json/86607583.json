@@ -1,6 +1,6 @@
 {
     "id": 86607583,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 4,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 67371008,
     "name": "Limit Code",
-    "desc": "If you have a Cyberse Link Monster in your GY: Place 1 counter on this card for each of those monsters, and if you do, Special Summon 1 \"Code Talker\" monster from your Extra Deck and equip it with this card. When this card leaves the field, destroy the equipped monster. Once per turn, during your End Phase: Remove 1 counter from this card, but if you cannot, destroy this card. You can only activate 1 \"Limit Code\" per Duel.",
+    "desc": "If you have any Cyberse Link Monsters in your GY: Place 1 counter on this card for each of those monsters, and if you do, Special Summon 1 \"Code Talker\" monster from your Extra Deck, and equip it with this card. When this card leaves the field, destroy the equipped monster. Once per turn, during your End Phase: Remove 1 counter from this card. If you cannot, destroy it. You can only activate \"Limit Code\" once per Duel.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP067",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/LimitCode-FLOD-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

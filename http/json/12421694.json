@@ -2,7 +2,7 @@
     "id": 12421694,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 4373,
     "type": 67108897,
     "atk": 1500,
     "def": 4,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 8454144,
     "name": "Sky Striker Ace - Kaina",
-    "desc": "Link Arrows: [🡶]\n\n1 non-EARTH \"Sky Striker Ace\" monster\nIf this card is Special Summoned: You can target 1 face-up monster your opponent controls; it cannot attack until the end of your opponent's turn. Each time you activate a &#x201C;Sky Striker&#x201D; Spell Card, or its effect, gain 100 LP immediately after the card or effect resolves. You can only Special Summon \"Sky Striker Ace - Kaina(s)\" once per turn.",
+    "desc": "1 non-EARTH \"Sky Striker Ace\" monster\r\nIf this card is Special Summoned: You can target 1 face-up monster your opponent controls; it cannot attack until the end of your opponent's turn. Each time you activate a \"Sky Striker\" Spell Card, or its effect, gain 100 LP immediately after the card or effect resolves. You can only Special Summon \"Sky Striker Ace - Kaina(s)\" once per turn.",
     "str1": "Prevent attack",
     "str2": "",
     "str3": "",
@@ -28,19 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Savage Strike",
-        "pack_id": "SAST-EN055",
-        "date": "2019-01-31"
-    },
-    "ocg": {
-        "pack": "Savage Strike",
-        "pack_id": "SAST-JP055",
-        "date": "2018-10-13"
-    },
-    "links": [
-        7
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bb/SkyStrikerAceKaina-SAST-EN-SR-1E.png"
+    "cardpool": "OCG/TCG"
 }

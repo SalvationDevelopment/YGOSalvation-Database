@@ -1,6 +1,6 @@
 {
     "id": 10705656,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Starter Deck: Codebreaker",
-        "pack_id": "YS18-DE003",
-        "date": "2018-07-12"
-    },
-    "ocg": {
-        "pack": "Starter Deck 2018",
-        "pack_id": "ST18-JP003",
-        "date": "2018-03-24"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/5/55/WidgetKid-YS18-EN-SR-1E.png"
+    "cardpool": "OCG/TCG"
 }

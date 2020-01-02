@@ -1,8 +1,8 @@
 {
     "id": 26443791,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 303,
     "type": 8225,
     "atk": 3000,
     "def": 800,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 286720,
     "name": "Battlewasp - Ballista the Armageddon",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Special Summoned: You can banish all Insect monsters from your GY; all monsters your opponent currently controls lose 500 ATK/DEF for each of your banished Insect monsters. If this card attacks a Defense Position monster, inflict piercing battle damage. If this Synchro Summoned card in its owner's control is destroyed by an opponent's card: You can Special Summon 3 of your banished Level 11 or lower Insect monsters.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Special Summoned: You can banish all Insect monsters from your GY; all monsters your opponent currently controls lose 500 ATK/DEF for each of your banished Insect monsters. If this card attacks a Defense Position monster, inflict piercing battle damage. If this Synchro Summoned card in its owner's control is destroyed by an opponent's card: You can Special Summon 3 of your banished Level 11 or lower Insect monsters.",
     "str1": "Reduce ATK/DEF",
     "str2": "Special Summon",
     "str3": "",
@@ -23,17 +23,10 @@
     "str9": "",
     "str10": "",
     "str11": "",
-    "str12": "CP19-JP",
+    "str12": "",
     "str13": "",
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Collection Pack: Duelists of Revolution",
-        "pack_id": "CP19-JP042",
-        "date": "2019-05-18"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8a/BattlewaspBallistatheArmageddon-BLHR-EN-UR-1E.png"
+    "cardpool": "OCG/TCG"
 }

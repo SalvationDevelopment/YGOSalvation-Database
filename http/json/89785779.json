@@ -1,15 +1,7 @@
 {
-    "ocg": {
-        "pack": "Duelist Pack: Legend Duelist 2",
-        "pack_id": "DP19-JP001",
-        "date": "2017-11-11"
-    },
-    "tcg": {
-        "pack": "Legendary Duelists: Ancient Millennium",
-        "pack_id": "LED2-DE001",
-        "date": "2018-02-22"
-    },
     "id": 89785779,
+    "ot": 3,
+    "alias": 0,
     "setcode": 0,
     "type": 33,
     "atk": 0,
@@ -17,7 +9,24 @@
     "level": 2,
     "race": 2,
     "attribute": 32,
+    "category": 16,
     "name": "Millennium-Eyes Illusionist",
     "desc": "(Quick Effect): You can discard this card, then target 1 Effect Monster your opponent controls; equip that target to an \"Eyes Restrict\" Fusion Monster or \"Relinquished\" you control, as if it were equipped by that monster's effect. If an \"Eyes Restrict\" Fusion Monster(s) or a \"Relinquished\" is Special Summoned: Add this card from your GY to your hand (this is not optional). You can only use each effect of \"Millennium-Eyes Illusionist\" once per turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/bd/MillenniumEyesIllusionist-LED2-EN-UR-1E.png"
+    "str1": "Equip 1 Effect Monster",
+    "str2": "Return this card to the hand",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "cardpool": "OCG/TCG"
 }

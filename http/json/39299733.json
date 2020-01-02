@@ -1,8 +1,8 @@
 {
     "id": 39299733,
-    "ot": 2,
+    "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 290,
     "type": 1057,
     "atk": 1000,
     "def": 2000,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 131072,
     "name": "Fortune Chariot",
-    "desc": "(This card is also always treated as a &#x201C;Valkyrie&#x201D; card.)\nOnce per turn, you can either: Target 1 Fairy monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or card effect, destroy this card instead. The equipped monster can attack directly, but when it does so using this effect, the battle damage inflicted to your opponent is halved.",
+    "desc": "(This card is also always treated as a \"Valkyrie\" card.)\nOnce per turn, you can either: Target 1 Fairy monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or card effect, destroy this card instead. The equipped monster can attack directly, but when it does so using this effect, the battle damage inflicted to your opponent is halved.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG",
-    "tcg": {
-        "pack": "Shadows in Valhalla",
-        "pack_id": "SHVA-DE005",
-        "date": "2018-08-16"
-    },
-    "ocg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a3/FortuneChariot-SHVA-EN-SR-1E.png"
+    "cardpool": "OCG/TCG"
 }

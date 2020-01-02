@@ -1,6 +1,6 @@
 {
     "id": 28400508,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 72,
     "type": 8388641,
@@ -11,9 +11,9 @@
     "attribute": 32,
     "category": 1074003968,
     "name": "Number 97: Draglubion",
-    "desc": "2 Level 8 monsters\nYour opponent cannot target this card with card effects. You can detach 1 material from this card; take 2 Dragon \"Number\" monsters with different names from your Extra Deck and/or GY, except \"Number 97: Draglubion\", Special Summon 1 of them and attach the other to it as material, also for the rest of this turn you cannot Special Summon other monsters, or declare an attack, except with that Special Summoned monster. You can only use this effect of \"Number 97: Draglubion\" once per turn.",
+    "desc": "2 Level 8 monsters\r\nYour opponent cannot target this card with card effects. You can detach 1 material from this card; take 2 Dragon \"Number\" monsters with different names from your Extra Deck and/or GY, except \"Number 97: Draglubion\", Special Summon 1 of them and attach the other to it as material, also for the rest of this turn you cannot Special Summon other monsters, or declare an attack, except with that Special Summoned monster. You can only use this effect of \"Number 97: Draglubion\" once per turn.",
     "str1": "Special Summon",
-    "str2": "Affected by \"Number 97: Dragravion\"",
+    "str2": "Affected by \"Number 97: Draglubion\"",
     "str3": "",
     "str4": "",
     "str5": "",
@@ -23,21 +23,10 @@
     "str9": "",
     "str10": "",
     "str11": "",
-    "str12": "CP19-JP",
+    "str12": "",
     "str13": "",
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Battles of Legend: Hero's Revenge",
-        "pack_id": "BLHR-DE030",
-        "date": "2019-07-11"
-    },
-    "ocg": {
-        "pack": "Collection Pack: Duelists of Revolution",
-        "pack_id": "CP19-JP033",
-        "date": "2019-05-18"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d1/Number97Draglubion-BLHR-EN-ScR-1E.png"
+    "cardpool": "OCG/TCG"
 }

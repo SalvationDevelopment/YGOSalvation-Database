@@ -2,7 +2,7 @@
     "id": 23689428,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 295,
     "type": 67108897,
     "atk": 1000,
     "def": 4,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 0,
     "name": "Infinitrack Goliath",
-    "desc": "Link Arrows: [🡶]\n\n1 non-Link \"Infinitrack\" monster\nIf this card is sent from the field to the GY: You can target 1 Xyz Monster you control; attach this card to that monster as material. You can only use this effect of \"Infinitrack Goliath\" once per turn. An Xyz Monster whose original Type is Machine and has this card as material gains this effect.\n● This card cannot be destroyed by card effects.",
+    "desc": "1 non-Link \"Infinitrack\" monster\r\nIf this card is sent from the field to the GY: You can target 1 Xyz Monster you control; attach this card to that monster as material. You can only use this effect of \"Infinitrack Goliath\" once per turn. An Xyz Monster whose original Type is Machine and has this card as material gains this effect.\r\n● This card cannot be destroyed by card effects.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,19 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "The Infinity Chasers",
-        "pack_id": "INCH-EN010",
-        "date": "2019-03-21"
-    },
-    "ocg": {
-        "pack": "20th Secret Rare Challenge Pack",
-        "pack_id": "20CP-JPC09",
-        "date": "2019-02-23"
-    },
-    "links": [
-        7
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f9/InfinitrackGoliath-INCH-EN-SR-1E.png"
+    "cardpool": "OCG/TCG"
 }

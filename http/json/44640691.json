@@ -1,6 +1,6 @@
 {
     "id": 44640691,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 298,
     "type": 33,
@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 67108864,
     "name": "Rogue of Endymion",
-    "desc": "If this card is Normal or Special Summoned: Place 1 Spell Counter on it. You can remove 1 Spell Counter from this card and discard 1 Spellcaster monster; Set 1 Continuous Spell directly from your Deck, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. You can only use each effect of \"Rogue of Endymion\" once per turn.",
+    "desc": "If this card is Normal or Special Summoned: Place 1 Spell Counter on it. You can remove 1 Spell Counter from this card and discard 1 Spellcaster monster; Set 1 Continuous Spell directly from your Deck, but for the rest of this turn you cannot activate it, or activate cards, or the effects of cards, with its name. You can only use each effect of \"Rogue of Endymion\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "Affected by \"Rogue of Endymion\"",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

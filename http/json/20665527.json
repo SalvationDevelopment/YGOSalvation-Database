@@ -11,7 +11,7 @@
     "attribute": 4,
     "category": 17047552,
     "name": "Amphibious Swarmship Amblowhale",
-    "desc": "Link Arrows: [🡰][🡳][🡶][🡲]\n\n2+ Effect Monsters\nGains 200 ATK for each Link Monster in the GY's. You can only use each of the following effects of \"Amphibious Swarmship Amblowhale\" once per turn.\n● If this card is destroyed: You can target 1 Link-3 or lower monster in either GY; Special Summon it.\n● If a Link-3 or lower monster(s) on the field is destroyed by battle or card effect while this card is in your GY: You can banish this card from your GY; destroy 1 card on the field.",
+    "desc": "2+ Effect Monsters\r\nGains 200 ATK for each Link Monster in the GYs. You can only use each of the following effects of \"Amphibious Swarmship Amblowhale\" once per turn.\r\n● If this card is destroyed: You can target 1 Link-3 or lower monster in either GY; Special Summon it.\r\n● If a Link-3 or lower monster(s) on the field is destroyed by battle or card effect while this card is in your GY: You can banish this card from your GY; destroy 1 card on the field.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,22 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Dark Neostorm Sneak Peek Participation Card",
-        "pack_id": "DANE-DESP1",
-        "date": "2019-04-27"
-    },
-    "ocg": {
-        "pack": "Dark Neostorm",
-        "pack_id": "DANE-JP050",
-        "date": "2019-01-12"
-    },
-    "links": [
-        3,
-        4,
-        6,
-        7
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0b/AmphibiousSwarmshipAmblowhale-DANE-EN-R-1E.png"
+    "cardpool": "OCG/TCG"
 }

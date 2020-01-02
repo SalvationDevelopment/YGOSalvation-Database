@@ -1,6 +1,6 @@
 {
     "id": 5259518,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 4339,
     "type": 33,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Predaplant Heliamphorhynchus",
-    "desc": "If your opponent controls a monster with a Predator Counter: You can Special Summon this card from your hand. If this card in its owner's possession is destroyed by an opponent's card: You can target 1 DARK Dragon or Plant monster in your GY, except \"Predaplant Heliamphorhynchus\"; Special Summon it. You can only use each effect of \"Predaplant Heliamphorhynchus\" once per turn.",
+    "desc": "If your opponent controls a monster with a Predator Counter: You can Special Summon this card from your hand. If this card in its owner's possession is destroyed by your opponent's card: You can target 1 DARK Dragon or 1 DARK Plant monster in your GY, except \"Predaplant Heliamphorhynchus\"; Special Summon it. You can only use each effect of \"Predaplant Heliamphorhynchus\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "DP22",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

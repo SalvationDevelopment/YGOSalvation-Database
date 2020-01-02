@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 4097,
     "name": "Abyss Actor - Comic Relief",
-    "desc": "Pendulum Effect\nYou can target 1 \"Abyss Actor\" Pendulum Monster you control and 1 monster your opponent controls; switch control of both monsters, then destroy this card. You can only use this effect of \"Abyss Actor - Comic Relief\" once per turn.\n\nMonster Effect\nYou take no battle damage from attacks involving this card. Once per turn, during your Standby Phase: Give control of this card to your opponent. Once per turn, if control of this face-up card changes: Activate this effect; the owner of this card can destroy 1 Set &#x201C;Abyss Script&#x201D; Spell in their Spell & Trap Zone.",
+    "desc": "[ Pendulum Effect ]\r\nYou can target 1 \"Abyss Actor\" Pendulum Monster you control and 1 monster your opponent controls; switch control of both monsters, then destroy this card. You can only use this effect of \"Abyss Actor - Comic Relief\" once per turn.\r\n----------------------------------------\r\n[ Monster Effect ]\r\nYou take no battle damage from attacks involving this card. Once per turn, during your Standby Phase: Give control of this card to your opponent. Once per turn, if control of this face-up card changes: Activate this effect; the owner of this card can destroy 1 Set \"Abyss Script\" Spell in their Spell & Trap Zone.",
     "str1": "Switch control",
     "str2": "Give control",
     "str3": "Force destruction",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Legendary Duelists: White Dragon Abyss",
-        "pack_id": "LED3-DE046",
-        "date": "2018-09-27"
-    },
-    "ocg": {
-        "pack": "Duelist Pack: Legend Duelist 3",
-        "pack_id": "DP20-JP046",
-        "date": "2018-06-09"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/24/AbyssActorComicRelief-LED3-EN-R-1E.png"
+    "cardpool": "OCG/TCG"
 }

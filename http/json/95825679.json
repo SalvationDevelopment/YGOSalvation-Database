@@ -1,6 +1,6 @@
 {
     "id": 95825679,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 69,
     "type": 161,
@@ -10,8 +10,8 @@
     "race": 8,
     "attribute": 32,
     "category": 262144,
-    "name": "Advent Skull Archfiend",
-    "desc": "You can Ritual Summon this card with \"Contract with the Abyss\". This card's name becomes \"Summoned Skull\" while on the field. This face-up card cannot be destroyed by battle, except with a Ritual Monster, also it cannot be destroyed by monsters' effects, except Ritual Monsters'. If this Ritual Summoned card you control is sent to your GY by an opponent's card (by battle or card effect): You can Special Summon 1 \"Summoned Skull\" from your hand, Deck, or GY.",
+    "name": "Archfiend's Awakening",
+    "desc": "You can Ritual Summon this card with \"Contract with the Abyss\". This card's name becomes \"Summoned Skull\" on the field, but is still treated as an \"Archfiend\" card. Cannot be destroyed by battle, except by battle with a Ritual Monster, and cannot be destroyed by monster effects, except those of Ritual Monsters. If this Ritual Summoned card you control is sent to your GY by an opponent's card: You can Special Summon 1 \"Summoned Skull\" from your hand, Deck, or GY.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/9b/AdventSkullArchfiend-18SP-JP-C.png",
-    "tcg": {},
-    "ocg": {
-        "pack": "Special Pack 20th Anniversary Edition Vol.1",
-        "pack_id": "18SP-JP101",
-        "date": "2018-03-24"
-    }
+    "cardpool": "OCG/TCG"
 }

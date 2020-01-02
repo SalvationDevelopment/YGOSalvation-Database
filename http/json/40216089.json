@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262144,
     "name": "Platinum Gadget",
-    "desc": "Link Arrows: [🡷][🡶]\n\n2 Machine monsters\nCannot be used as Link Material the turn it is Link Summoned. During your Main Phase: You can Special Summon 1 Level 4 or lower Machine monster from your hand to your zone this card points to. If this card is destroyed by battle or card effect: You can Special Summon 1 Level 4 &#x201C;Gadget&#x201D; monster from your Deck. You can only use each effect of \"Platinum Gadget\" once per turn.",
+    "desc": "2 Machine monsters\r\nCannot be used as Link Material the turn it is Link Summoned. During your Main Phase: You can Special Summon 1 Level 4 or lower Machine monster from your hand to your zone this card points to. If this card is destroyed by battle or card effect: You can Special Summon 1 Level 4 \"Gadget\" monster from your Deck. You can only use each effect of \"Platinum Gadget\" once per turn.",
     "str1": "Special Summon 1 Level 4- Machine from the hand",
     "str2": "Special Summon 1 Level 4 Gadget",
     "str3": "",
@@ -28,20 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Duel Power",
-        "pack_id": "DUPO-EN039",
-        "date": "2019-04-03"
-    },
-    "ocg": {
-        "pack": "V Jump January 2019 promotional card",
-        "pack_id": "VJMP-JP156",
-        "date": "2018-11-21"
-    },
-    "links": [
-        5,
-        7
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/PlatinumGadget-DUPO-EN-UR-1E.png"
+    "cardpool": "OCG/TCG"
 }

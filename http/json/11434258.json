@@ -1,6 +1,6 @@
 {
     "id": 11434258,
-    "ot": 2,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 4,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262400,
     "name": "Saryuja's Shackles",
-    "desc": "Target 1 Link Monster your opponent controls or is in their GY; draw cards equal to its Link Rating, then, if you have 2 or more cards in your hand, place 2 cards from your hand on the bottom of the Deck in any order. You can only activate 1 \"Saryuja's Shackles\" per turn.",
+    "desc": "Target 1 Link Monster your opponent controls or is in their GY; draw cards equal to its Link Rating, then, if you have 2 or more cards in your hand, place 2 cards from your hand on the bottom of your Deck in any order. You can only activate 1 \"Saryuja's Shackles\" per turn.",
     "str1": "Target",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG",
-    "tcg": {
-        "pack": "Dark Neostorm",
-        "pack_id": "DANE-DE082",
-        "date": "2019-05-02"
-    },
-    "ocg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/92/SaryujasShackles-DANE-EN-C-1E.png"
+    "cardpool": "OCG/TCG"
 }

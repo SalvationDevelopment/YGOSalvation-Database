@@ -1,6 +1,6 @@
 {
     "id": 93138457,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 4,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "Sonic Stun",
-    "desc": "When an opponent's monster declares an attack: Negate that attack, then you can Special Summon 1 \"T.G.\" monster or 1 Level 4 or lower Tuner from your hand or Deck.",
+    "desc": "When an opponent's monster declares an attack: Negate the attack, then you can Special Summon 1 \"T.G.\" monster, or 1 Level 4 or lower Tuner, from your hand or Deck.",
     "str1": "Special Summon?",
     "str2": "",
     "str3": "",
@@ -23,10 +23,10 @@
     "str9": "",
     "str10": "",
     "str11": "",
-    "str12": "CP19-JP",
+    "str12": "",
     "str13": "",
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

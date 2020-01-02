@@ -1,6 +1,6 @@
 {
     "id": 99004583,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 65538,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 0,
     "name": "Action Magic - Full Turn",
-    "desc": "This turn, any battle damage either player takes from battles involving 2 monsters is doubled. During your Main Phase, if this card is in your GY, except the turn this card was sent to the GY: You can discard 1 Spell; Set this card to your Spell & Trap Zone.",
+    "desc": "This turn, double any battle damage that a player takes from battles involving 2 monsters. During your Main Phase, if this card is in your GY, except the turn this card was sent to the GY: You can discard 1 Spell; Set this card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Premium Pack 20",
-        "pack_id": "PP20-JP008",
-        "date": "2018-03-10"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/3d/ActionMagicFullTurn-PP20-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 12,
     "name": "Shiranui Style Solemnity",
-    "desc": "This card's name becomes \"Shiranui Style Synthesis\" while in the Spell & Trap Zone. Once per turn, you can activate 1 of these effects.\n● Banish 1 Zombie monster from your GY; the Normal and Special Summons of your Zombie monsters cannot be negated for the rest of this turn.\n● Target 1 Zombie monster you control; banish it, then you can send 1 Zombie monster with 0 DEF from your Deck to the GY.",
+    "desc": "This card's name becomes \"Shiranui Style Synthesis\" while in the Spell & Trap Zone. Once per turn, you can activate 1 of these effects.\r\n● Banish 1 Zombie monster from your GY; the Normal and Special Summons of your Zombie monsters cannot be negated for the rest of this turn (even if this card leaves the field).\r\n● Target 1 Zombie monster you control; banish it, then you can send 1 Zombie monster with 0 DEF from your Deck to the GY.",
     "str1": "Prevent the negation of Normal/Special Summons",
     "str2": "Banish 1 Zombie you control",
     "str3": "Send 1 Zombie with 0 DEF to the GY?",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Savage Strike",
-        "pack_id": "SAST-DE064",
-        "date": "2019-01-31"
-    },
-    "ocg": {
-        "pack": "Savage Strike",
-        "pack_id": "SAST-JP064",
-        "date": "2018-10-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/62/ShiranuiStyleSolemnity-SAST-EN-C-1E.png"
+    "cardpool": "OCG/TCG"
 }

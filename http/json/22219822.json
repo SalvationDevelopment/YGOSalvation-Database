@@ -1,6 +1,6 @@
 {
     "id": 22219822,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 251,
     "type": 33,
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-DE007",
-        "date": "2018-05-03"
-    },
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP007",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/49/TrickstarMandrake-FLOD-EN-C-1E.png"
+    "cardpool": "OCG/TCG"
 }

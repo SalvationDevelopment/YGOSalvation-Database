@@ -2,7 +2,7 @@
     "id": 26889158,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 281,
     "type": 33,
     "atk": 1500,
     "def": 1000,
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Structure Deck: Soulburner",
-        "pack_id": "SDSB-DE003",
-        "date": "2019-02-14"
-    },
-    "ocg": {
-        "pack": "Structure Deck: Soulburner",
-        "pack_id": "SD35-JP003",
-        "date": "2018-12-08"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/02/SalamangreatGazelle-SDSB-EN-SR-1E.png"
+    "cardpool": "OCG/TCG"
 }

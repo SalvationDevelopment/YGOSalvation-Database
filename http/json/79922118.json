@@ -1,6 +1,6 @@
 {
     "id": 79922118,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 131074,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 8396802,
     "name": "Gingerbread House",
-    "desc": "During your opponent's Standby Phase: You can have as many monsters your opponent controls as possible gain 600 ATK (even if this card leaves the field), then destroy as many monsters your opponent controls as possible with 2500 or more ATK, and if you do, gain 500 LP for each destroyed monster. You can only use this effect of \"Gingerbread House\" once per turn.",
+    "desc": "During your opponent's Standby Phase: You can have as many monsters they control as possible gain 600 ATK, then destroy as many monsters they control as possible with 2500 or more ATK, and if you do, gain LP equal to the number of monsters destroyed x 500. (The ATK gain remains even if this card leaves the field.) You can only use this effect of \"Gingerbread House\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -23,10 +23,10 @@
     "str9": "",
     "str10": "",
     "str11": "",
-    "str12": "CP19-JP",
+    "str12": "",
     "str13": "",
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

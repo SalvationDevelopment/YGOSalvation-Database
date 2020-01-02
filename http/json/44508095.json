@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 2147745795,
     "name": "Stardust Dragon",
-    "desc": "1 Tuner + 1 or more non-Tuner monsters\r\nDuring either player's turn, when a card or effect is activated that would destroy a card(s) on the field: You can Tribute this card; negate the activation, and if you do, destroy it. During the End Phase, if this effect was activated this turn (and was not negated): You can Special Summon this card from your Graveyard.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nWhen a card or effect is activated that would destroy a card(s) on the field (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it. During the End Phase, if this effect was activated this turn (and was not negated): You can Special Summon this card from your GY.",
     "str1": "Negate and destroy card",
     "str2": "Special Summon from your Graveyard during the End Phase",
     "str3": "",

@@ -1,8 +1,8 @@
 {
     "id": 22586618,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 301,
     "type": 33,
     "atk": 2900,
     "def": 2000,
@@ -10,8 +10,8 @@
     "race": 512,
     "attribute": 32,
     "category": 2147745792,
-    "name": "Darkness Simorgh",
-    "desc": "If you Tribute Summon a DARK or WIND monster: You can Special Summon this card from your GY (if it was there when you Summoned), or hand (even if not). This card's Attribute is also treated as WIND while it is in the Monster Zone. When a Spell/Trap card or effect is activated (Quick Effect): You can Tribute 1 WIND Winged Beast monster; negate that activation, and if you do, destroy it. You can only use each effect of \"Darkness Simorgh\" once per turn.",
+    "name": "Simorgh of Darkness",
+    "desc": "While face-up on the field, this card is also WIND-Attribute. You can only use each of the following effects of \"Simorgh of Darkness\" once per turn.\r\n● If you Tribute Summon a DARK or WIND monster: You can Special Summon this card from the GY (if it was there when the monster was Tribute Summoned) or hand (even if not).\r\n● When a Spell/Trap Card or effect is activated (Quick Effect): You can Tribute 1 WIND Winged Beast monster; negate the activation, and if you do, destroy that card.",
     "str1": "Special Summon",
     "str2": "Negate the activation",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Rising Rampage",
-        "pack_id": "RIRA-JP022",
-        "date": "2019-04-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/21/DarknessSimorgh-RIRA-JP-OP.png"
+    "cardpool": "OCG/TCG"
 }

@@ -1,6 +1,6 @@
 {
     "id": 92015800,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 72,
     "type": 8388641,
@@ -10,8 +10,8 @@
     "race": 4,
     "attribute": 16,
     "category": 1073741824,
-    "name": "Number 76: Gladiyell the Melody Lumaestra",
-    "desc": "2 Level 7 monsters\r\nWhile face-up on the field, this card is also the Attributes of its materials. Cannot be destroyed by battle with a monster with the same Attribute as this card, also cannot be destroyed by activated effects from an opponent's monster with the same Attribute as this card. (Quick Effect): You can target 1 monster in your opponent's GY; detach 1 material from this card, and if you do, attach that monster to this card as material. You can only use this effect of \"Number 76: Gladiyell the Melody Lumaestra\" once per turn.",
+    "name": "Number 76: Harmonizer Gradielle",
+    "desc": "2 Level 7 monsters\r\nThis card's Attribute is also treated as each of its attached materials' Attributes. Cannot be destroyed by battle with a monster of the same Attribute, also cannot be destroyed by the activated effects of your opponent's monsters with the same Attribute. (Quick Effect): You can target 1 monster in your opponent's GY; detach 1 material from this card, and if you do, attach that target to this card as material. You can only use this effect of \"Number 76: Harmonizer Gradielle\" once per turn.",
     "str1": "Attach 1 monster from the opponent's GY",
     "str2": "",
     "str3": "",
@@ -23,10 +23,10 @@
     "str9": "",
     "str10": "",
     "str11": "",
-    "str12": "CP19-JP",
+    "str12": "",
     "str13": "",
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

@@ -1,6 +1,6 @@
 {
     "id": 52340444,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 277,
     "type": 65538,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 786432,
-    "name": "Brandish Mecha Hornet Bit",
-    "desc": "If you control no monsters in your Main Monster Zones: Special Summon 1 \"Brandish Maiden Token\" (Warrior/DARK/Level 1/ATK 0/DEF 0) in Defense Position, but it cannot be Tributed. If you have 3 or more Spells in your GY, its ATK/DEF become 1500.",
+    "name": "Sky Striker Mecha - Hornet Drones",
+    "desc": "If you control no monsters in your Main Monster Zones: Special Summon 1 \"Sky Striker Ace Token\" (Warrior/DARK/Level 1/ATK 0/DEF 0) in Defense Position, which cannot be Tributed, and if you have 3 or more Spells in your GY when this effect resolves, the Token's ATK/DEF become 1500 instead.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Deck Build Pack: Dark Savers",
-        "pack_id": "DBDS-JP033",
-        "date": "2018-02-24"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/35/BrandishMechaHornetBit-DBDS-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

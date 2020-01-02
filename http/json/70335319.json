@@ -1,6 +1,6 @@
 {
     "id": 70335319,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 219,
     "type": 50331681,
@@ -10,8 +10,8 @@
     "race": 8192,
     "attribute": 16,
     "category": 2147524608,
-    "name": "God-Eyes Phantom Dragon",
-    "desc": "[ Pendulum Effect ]\r\nOnce per turn, at the end of the Damage Step, if your Dragon Pendulum Monster attacked an opponent's monster: You can activate this effect; that monster you control can attack again in a row. Your other monsters cannot declare an attack the turn you activate this effect.\r\n----------------------------------------\r\n[ Monster Effect ]\r\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand or Extra Deck) by Tributing all monsters you control (min. 2), including a Dragon Pendulum Monster. You can only Special Summon \"God-Eyes Phantom Dragon\" once per turn this way. Once per turn, during damage calculation, if this card battles an opponent's monster: Double this card's ATK until the end of this turn. Once per turn, when your opponent activates a Spell/Trap Card, or its effect (Quick Effect): You can send 1 Spell/Trap you control to the GY; negate the activation.",
+    "name": "All-Eyes Phantom Dragon",
+    "desc": "[ Pendulum Effect ]\r\nOnce per turn, at the end of the Damage Step, if your Dragon Pendulum Monster attacked an opponent's monster: You can activate this effect; it can attack again in a row. You cannot declare attacks the turn you activate this effect, except with that monster.\r\n----------------------------------------\r\n[ Monster Effect ]\r\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand or face-up Extra Deck) by Tributing all monsters you control (min. 2), including a Dragon Pendulum Monster. You can only Special Summon \"All-Eyes Phantom Dragon\" once per turn this way. Once per turn, during damage calculation, if this card battles an opponent's monster: Double this card's current ATK until the end of this turn. Once per turn, when your opponent activates a Spell/Trap Card or effect (Quick Effect): You can send 1 Spell/Trap you control to the GY; negate the activation.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

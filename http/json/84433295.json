@@ -1,6 +1,6 @@
 {
     "id": 84433295,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 97,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 16777216,
     "name": "Quintet Magician",
-    "desc": "5 Spellcaster monsters\nMust be Fusion Summoned. If this card is Fusion Summoned using 5 Spellcaster monsters with different names as materials: You can destroy all cards your opponent controls. Cannot be Tributed, nor used as Fusion Material, also it cannot be destroyed by card effects.",
+    "desc": "5 Spellcaster monsters\r\nMust be Fusion Summoned. If this card is Fusion Summoned using 5 Spellcaster monsters with different names: You can destroy all cards your opponent controls. This face-up card on the field cannot be Tributed, nor used as Fusion Material, also it cannot be destroyed by card effects.",
     "str1": "Destroy all cards",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "The Valuable Book 20",
-        "pack_id": "VB20-JP001",
-        "date": "2018-02-23"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b9/QuintetMagician-VB20-JP-UR.png"
+    "cardpool": "OCG/TCG"
 }

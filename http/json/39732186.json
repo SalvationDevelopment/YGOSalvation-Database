@@ -1,6 +1,6 @@
 {
     "id": 39732186,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -10,8 +10,8 @@
     "race": 16777216,
     "attribute": 16,
     "category": 16,
-    "name": "Profibit Snake",
-    "desc": "At the start of the Damage Step, if your Cyberse Link Monster battles an opponent's monster: You can send this card from your hand to the GY; return that opponent's monster to the hand. When your Cyberse monster destroys an opponent's monster by battle and sends it to the GY, while this card is in your GY: You can banish 1 card from your GY, then target 1 Level 4 or lower Cyberse monster in your GY; add it to your hand. You can only use each effect of \"Profibit Snake\" once per turn.",
+    "name": "Prohibit Snake",
+    "desc": "At the start of the Damage Step, if your Cyberse Link Monster battles an opponent's monster: You can send this card from your hand to the GY; return that opponent's monster to the hand. When your Cyberse monster destroys an opponent's monster by battle and sends it to the GY, while this card is in your GY: You can banish 1 card from your GY, then target 1 Level 4 or lower Cyberse monster in your GY; add it to your hand. You can only use each effect of \"Prohibit Snake\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Structure Deck: Master Link",
-        "pack_id": "SD34-JP005",
-        "date": "2018-06-23"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/61/ProfibitSnake-SD34-JP-NPR.png"
+    "cardpool": "OCG/TCG"
 }

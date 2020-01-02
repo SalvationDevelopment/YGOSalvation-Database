@@ -1,6 +1,6 @@
 {
     "id": 77511331,
-    "ot": 2,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 16777761,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 24,
     "name": "Kuro-Obi Karate Spirit",
-    "desc": "Pendulum Effect\nIf a monster(s) is Pendulum Summoned: Return this card from the Pendulum Zone to the hand.\n\nMonster Effect\nWhen this card is Normal Summoned: You can send to the GY all Spells/Traps your opponent controls in the same column as the card(s) in your Pendulum Zones. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand.",
+    "desc": "[ Pendulum Effect ]\r\nIf a monster(s) is Pendulum Summoned: Return this card from the Pendulum Zone to the hand.\r\n----------------------------------------\r\n[ Monster Effect ]\r\nWhen this card is Normal Summoned: You can send to the GY all Spells/Traps your opponent controls in the same column as the card(s) in your Pendulum Zones. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG",
-    "tcg": {
-        "pack": "Extreme Force",
-        "pack_id": "EXFO-DE081",
-        "date": "2018-02-01"
-    },
-    "ocg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/dd/KuroObiKarateSpirit-EXFO-EN-C-1E.png"
+    "cardpool": "OCG/TCG"
 }

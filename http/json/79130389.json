@@ -1,6 +1,6 @@
 {
     "id": 79130389,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 299,
     "type": 67108897,
@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 262160,
     "name": "Marincess Coral Anemone",
-    "desc": "2 WATER monster\r\nYou can target 1 WATER monster with 1500 or less ATK in your GY; Special Summon it to your zone this card points to, also you cannot Special Summon monsters for the rest of this turn, except WATER monsters. If this card is sent from the field to the GY: You can target 1 \"Marincess\" card in your GY, except \"Marincess Coral Anemone\"; add it to your hand. You can only use each effect of \"Marincess Coral Anemone\" once per turn.",
+    "desc": "2 WATER monsters\r\nYou can target 1 WATER monster with 1500 or less ATK in your GY; Special Summon it to your zone this card points to, also you cannot Special Summon monsters for the rest of this turn, except WATER monsters. If this card is sent from the field to the GY: You can target 1 \"Marincess\" card in your GY, except \"Marincess Coral Anemone\"; add it to your hand. You can only use each effect of \"Marincess Coral Anemone\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "Affected by \"Marincess Coral Anemone\"",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

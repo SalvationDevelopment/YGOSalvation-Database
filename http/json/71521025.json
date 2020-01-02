@@ -1,6 +1,6 @@
 {
     "id": 71521025,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -10,8 +10,8 @@
     "race": 8,
     "attribute": 32,
     "category": 262148,
-    "name": "Blood Blossom of the Afterlife",
-    "desc": "If this card is in your hand: You can target 1 Spell/Trap in each GY; banish them, and if you do, Special Summon this card. You can Tribute this card, then target 1 Fusion, Synchro, Xyz, or Link Monster in either GY; banish it, and if you do, Special Summon 1 monster of a different monster card type (Fusion, Synchro, Xyz, or Link) from your GY. You can only use each effect of \"Blood Blossom of the Afterlife\" once per turn.",
+    "name": "Red Blossoms from Underroot",
+    "desc": "If this card is in your hand: You can target 1 Spell/Trap in each GY; banish them, and if you do, Special Summon this card. You can Tribute this card, then target 1 Fusion, Synchro, Xyz, or Link Monster in either GY; banish that target, and if you do, Special Summon 1 monster from your GY with a different monster card type (Fusion, Synchro, Xyz, or Link) from that target. You can only use each effect of \"Red Blossoms from Underroot\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

@@ -1,6 +1,6 @@
 {
     "id": 18585765,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 2,
     "name": "Voltester",
-    "desc": "If this card is Special Summoned to a zone a Link Monster points to: Destroy as many Link Monsters linked to this card as possible, and if you do, destroy as many monsters that were linked to those destroyed monsters as possible, repeatedly resolving this part of this effect until it destroys no monsters. (This card cannot be destroyed by this effect.) You can only use the effect of \"Voltester\" only once per turn.",
+    "desc": "If this card is Special Summoned to a zone a Link Monster points to: Destroy all Link Monsters that point to this card, then destroy all other monsters that those Link Monsters pointed to, and follow the Link Arrows of all those destroyed monsters, destroying everything they point to, and repeating the process, until there are no more to destroy. (This card cannot be destroyed by this effect.) You can only use this effect of \"Voltester\" once per turn.",
     "str1": "Destroy",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Rising Rampage",
-        "pack_id": "RIRA-JP031",
-        "date": "2019-04-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/ab/Voltester-RIRA-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

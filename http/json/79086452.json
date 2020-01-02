@@ -1,6 +1,6 @@
 {
     "id": 79086452,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 131,
     "type": 33,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 262144,
     "name": "Gimmick Puppet Bisque Doll",
-    "desc": "You can Special Summon this card (from your hand) by discarding 1 \"Gimmick Puppet\" monster. You can banish this card from your GY; this turn, your opponent cannot target \"Gimmick Puppet\" monsters you control with card effects.",
+    "desc": "You can Special Summon this card (from your hand) by discarding 1 \"Gimmick Puppet\" monster. You can banish this card from your GY; your opponent cannot target \"Gimmick Puppet\" monsters you control with card effects this turn.",
     "str1": "Make \"Gimmick Puppets\" untargetable",
     "str2": "Affected by \"Gimmick Puppet Bisque Doll\"",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "DP22",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

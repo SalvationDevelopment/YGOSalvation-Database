@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 262400,
     "name": "Cyberse Integrator",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned, you can: Special Summon  1 Cyberse Tuner from your hand or GY in Defense Position, also you cannot Special Summon monsters for the rest of this turn, except Cyberse monsters. If this Synchro Summoned card is sent to the GY: You can draw 1 card. You can only use each effect effect of \"Cyberse Integrator\" once per turn.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned, you can: Special Summon 1 Cyberse Tuner from your hand or GY in Defense Position, also you cannot Special Summon monsters for the rest of this turn, except Cyberse monsters. If this Synchro Summoned card is sent to the GY: You can draw 1 card. You can only use each effect of \"Cyberse Integrator\" once per turn.",
     "str1": "Special Summon?",
     "str2": "Draw 1 card",
     "str3": "Affected by \"Cyberse Integrator\"",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Savage Strike",
-        "pack_id": "SAST-DE043",
-        "date": "2019-01-31"
-    },
-    "ocg": {
-        "pack": "Savage Strike",
-        "pack_id": "SAST-JP043",
-        "date": "2018-10-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/CyberseIntegrator-SAST-EN-C-1E.png"
+    "cardpool": "OCG/TCG"
 }

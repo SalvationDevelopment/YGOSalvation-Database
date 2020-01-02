@@ -1,6 +1,6 @@
 {
     "id": 44586426,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 40,
     "type": 33,
@@ -10,8 +10,8 @@
     "race": 4096,
     "attribute": 16,
     "category": 786440,
-    "name": "Solar Batteryman",
-    "desc": "If this card is Normal or Special Summoned: You can send 1 Thunder monster from your Deck to the GY. If a Thunder monster(s) is Normal or Special Summoned: Special Summon 1 \"Batteryman Token\" (Thunder/LIGHT/Level 1/ATK 0/DEF 0). You can target 1 Effect Monster you control or in your GY whose original name includes \"Batteryman\"; until the End Phase, this card's name becomes that monster's original name. You can only use each effect of \"Solar Batteryman\" once per turn.",
+    "name": "Batteryman Solar",
+    "desc": "If this card is Normal or Special Summoned: You can send 1 Thunder monster from your Deck to the GY. If a Thunder monster(s) is Normal or Special Summoned while this monster is on the field: Special Summon 1 \"Batteryman Token\" (Thunder/LIGHT/Level 1/ATK 0/DEF 0). You can target 1 \"Batteryman\" Effect Monster you control or in your GY; this card's name becomes that monster's until the End Phase. You can only use each effect of \"Batteryman Solar\" once per turn.",
     "str1": "Send to GY",
     "str2": "Summon Token",
     "str3": "Change name",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP027",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/2/2c/SolarBatteryman-FLOD-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

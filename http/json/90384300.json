@@ -1,6 +1,6 @@
 {
     "id": 90384300,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 2,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 256,
-    "name": "Extreme Nova Burst",
-    "desc": "Banish 2 monsters that cannot be Normal Summoned/Set from your hand and/or face-up field, face-down; draw 2 cards. You can only activate 1 \"Extreme Nova Burst\" per turn.",
+    "name": "Hypernova Burst",
+    "desc": "Banish, face-down, from your hand and/or face-up field, 2 monsters that cannot be Normal Summoned; draw 2 cards. You can only activate 1 \"Hypernova Burst\" per turn.",
     "str1": "Banish to Draw",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

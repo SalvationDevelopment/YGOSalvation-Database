@@ -2,7 +2,7 @@
     "id": 42925441,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 85,
     "type": 131076,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262672,
     "name": "Photon Change",
-    "desc": "Send this card to the GY during your 2nd Standby Phase after activation. You can only use this effect of &#x201C;Photon Change&#x201D; once per turn. Send 1 face-up &#x201C;Photon&#x201D; or &#x201C;Galaxy&#x201D; monster you control to the GY to activate 1 of these effects, or, if you send &#x201C;Galaxy-Eyes Photon Dragon&#x201D;, you can activate both in sequence.\n●Special Summon 1 &#x201C;Photon&#x201D; monster from your Deck with a different original name than the sent monster.\n●Add 1 &#x201C;Photon&#x201D; card from your Deck to your hand, except &#x201C;Photon Change&#x201D;.",
+    "desc": "Send this card to the GY during your 2nd Standby Phase after activation. You can only use the following effect of \"Photon Change\" once per turn. Send 1 \"Photon\" or \"Galaxy\" monster you control to the GY to activate 1 of these effects, or, if you send \"Galaxy-Eyes Photon Dragon\", you can activate both, in sequence;\r\n●Special Summon 1 \"Photon\" monster from your Deck with a different original name than the sent monster.\r\n●Add 1 \"Photon\" card from your Deck to your hand, except \"Photon Change\".",
     "str1": "Activate",
     "str2": "Special Summon 1 \"Photon\" monster",
     "str3": "Search 1 \"Photon\" card",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Legendary Duelists: White Dragon Abyss",
-        "pack_id": "LED3-EN038",
-        "date": "2018-09-27"
-    },
-    "ocg": {
-        "pack": "Duelist Pack: Legend Duelist 3",
-        "pack_id": "DP20-JP038",
-        "date": "2018-06-09"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/b/b9/PhotonChange-LED3-EN-R-1E.png"
+    "cardpool": "OCG/TCG"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 528,
     "name": "Cross Breed",
-    "desc": "Banish 2 monsters from your hand and/or face-up field with the same original Type and Attribute, but different names; add 1 monster with the same original Type and Attribute as those monsters, but a different name, from your Deck to your hand. You can only activate 1 &#x201C;Cross Breed&#x201D; per turn.",
+    "desc": "Banish 2 monsters from your hand and/or face-up field with the same original Type and Attribute, but different names; add 1 monster with the same original Type and Attribute as those monsters, but a different name, from your Deck to your hand. You can only activate 1 \"Cross Breed\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Cybernetic Horizon",
-        "pack_id": "CYHO-DE066",
-        "date": "2018-07-26"
-    },
-    "ocg": {
-        "pack": "Cybernetic Horizon",
-        "pack_id": "CYHO-JP066",
-        "date": "2018-04-14"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/65/CrossBreed-CYHO-EN-R-1E.png"
+    "cardpool": "OCG/TCG"
 }

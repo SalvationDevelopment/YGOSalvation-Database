@@ -1,6 +1,6 @@
 {
     "id": 57869175,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 49,
     "type": 4129,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 8192,
     "name": "Fortune Lady Past",
-    "desc": "This card's ATK/DEF are equal to its Level x 200. Once per turn, during your Standby Phase: Increase this card's Level by 1 (max. 12). You can target 1 \"Fortune Lady\" monster you control; banish any number of Spellcaster monsters from your hand, field, and/or GY, except that monster, and if you do, increase or reduce that monster's Level by the number of monsters banished, until the end of this turn. You can only use this effect of \"Fortune Lady Past\" once per turn.",
+    "desc": "This card's ATK/DEF become its Level x 200. Once per turn, during your Standby Phase: Increase this card's Level by 1 (max. 12). You can target 1 \"Fortune Lady\" monster you control; banish any number of other Spellcaster monsters from your hand, field, and/or GY, and if you do, increase or reduce that monster's Level by the number of monsters banished, until the end of this turn. You can only use this effect of \"Fortune Lady Past\" once per turn.",
     "str1": "Increase Level",
     "str2": "Reduce Level",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

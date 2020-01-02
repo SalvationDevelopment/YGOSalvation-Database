@@ -1,6 +1,6 @@
 {
     "id": 46984349,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 131076,
@@ -10,8 +10,8 @@
     "race": 2,
     "attribute": 16,
     "category": 262144,
-    "name": "Dwimmered Magicite",
-    "desc": "Activate this card by banishing 1 face-up monster you control or 1 monster in your GY; Special Summon this card as a Normal Monster (Spellcaster/LIGHT/ATK 0/DEF 0) with the same original Level as the banished monster's. (This card is also still a Trap.) You can only activate 1 \"Dwimmered Magicite\" per turn.",
+    "name": "Dwimmered Glimmer",
+    "desc": "Activate this card by banishing 1 face-up monster you control or 1 monster in your GY; Special Summon this card as a Normal Monster (Spellcaster/LIGHT/ATK 0/DEF 0) with the same Level as that banished monster. (This card is also still a Trap.) You can only activate 1 \"Dwimmered Glimmer\" per turn.",
     "str1": "Special Summon",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

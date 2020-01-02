@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 0,
     "name": "Bellcat Token",
-    "desc": "Special Summoned with the effect of \"Bellcat Fighter\"",
+    "desc": "Summoned by the effect of \"Bellcat Fighter\".",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,8 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/Back-EN.png"
+    "cardpool": "OCG"
 }

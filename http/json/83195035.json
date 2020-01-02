@@ -1,6 +1,6 @@
 {
     "id": 83195035,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 4,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 262160,
-    "name": "Dragonstorm Return",
-    "desc": "Target 1 banished monster; Special Summon it to your field, but return it to the hand during the End Phase. You can only activate 1 \"Dragonstorm Return\" per turn.",
+    "name": "Storm Dragon's Return",
+    "desc": "Target 1 banished monster; Special Summon it to your field, but return it to the hand during the End Phase. You can only activate 1 \"Storm Dragon's Return\" per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

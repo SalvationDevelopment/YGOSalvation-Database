@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 17039360,
     "name": "D/D Ark",
-    "desc": "Pendulum Effect\nYou can target 1 Pendulum Summoned monster your opponent controls; destroy that monster, also this card. You can only use this effect of \"D/D Ark\" once per turn.\n\nMonster Effect\nIf this card is destroyed by card effect: You can Special Summon 1 face-up \"D/D\" Pendulum Monster from your Extra Deck, except \"D/D Ark\", but negate its effects. You can only use this effect of \"D/D Ark\" once per turn.",
+    "desc": "[ Pendulum Effect ]\r\nYou can target 1 Pendulum Summoned monster your opponent controls; destroy that monster, also this card. You can only use this effect of \"D/D Ark\" once per turn.\r\n----------------------------------------\r\n[ Monster Effect ]\r\nIf this card is destroyed by card effect: You can Special Summon 1 face-up \"D/D\" Pendulum Monster from your Extra Deck, except \"D/D Ark\", but negate its effects. You can only use this effect of \"D/D Ark\" once per turn.",
     "str1": "Destroy this card and 1 Pendulum Summoned monster",
     "str2": "Special Summon 1 \"D/D\" Pendulum monster",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "V Jump Spring 2019 subscription bonus",
-        "pack_id": "VJMP-JP162",
-        "date": "2019-03-20"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/06/DDArk-VJMP-JP-OP.png"
+    "cardpool": "OCG"
 }

@@ -1,6 +1,6 @@
 {
     "id": 97729135,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 131074,
@@ -10,8 +10,8 @@
     "race": 0,
     "attribute": 0,
     "category": 0,
-    "name": "Staredown",
-    "desc": "When you Special Summon a monster to the Extra Monster Zone (except during the Damage Step): You can target 1 monster in your opponent's Main Monster Zone; move that opponent's monster to their Main Monster Zone in the same column as your monster in the Extra Monster Zone. When your opponent Special Summons a monster to the Extra Monster Zone (except during the Damage Step): You can target 1 monster in your Main Monster Zone; move that monster you control to your Main Monster Zone in the same column as that opponent's monster in the Extra Monster Zone.",
+    "name": "Staring Contest",
+    "desc": "When you Special Summon a monster to the Extra Monster Zone: You can target 1 monster in your opponent's Main Monster Zone; move that target to their zone in the same column as that Extra Monster Zone monster. When your opponent Special Summons a monster to the Extra Monster Zone: You can target 1 monster in your Main Monster Zone; move that target to your zone in the same column as that Extra Monster Zone monster. These effects cannot be activated in the Damage Step.",
     "str1": "Move opponent's monster",
     "str2": "Move your monster",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP064",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/d/d3/Staredown-FLOD-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

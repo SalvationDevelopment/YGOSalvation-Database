@@ -2,7 +2,7 @@
     "id": 30741503,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 283,
     "type": 67108897,
     "atk": 1800,
     "def": 257,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 32,
     "name": "Galatea, the Orcust Automaton",
-    "desc": "Link Arrows: [🡷][🡵]\n\n2 Effect Monsters, including an &#x201C;Orcust&#x201D; monster\nThis linked card cannot be destroyed by battle. You can target 1 of your banished Machine monsters; shuffle it into the Deck, then you can Set 1 &#x201C;Orcust&#x201D; Spell/Trap directly from your Deck. You can only use this effect of &#x201C;Galatea, the Orcust Automaton&#x201D; once per turn.",
+    "desc": "2 Effect Monsters, including an \"Orcust\" monster\r\nThis linked card cannot be destroyed by battle. You can target 1 of your banished Machine monsters; shuffle it into the Deck, then you can Set 1 \"Orcust\" Spell/Trap directly from your Deck. You can only use this effect of \"Galatea, the Orcust Automaton\" once per turn.",
     "str1": "Shuffle to Deck",
     "str2": "Set 1 \"Orcust\" Spell/Trap?",
     "str3": "",
@@ -28,20 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-DE043",
-        "date": "2018-10-18"
-    },
-    "ocg": {
-        "pack": "Soul Fusion",
-        "pack_id": "SOFU-JP043",
-        "date": "2018-07-14"
-    },
-    "links": [
-        2,
-        5
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/8e/GalateatheOrcustAutomaton-SOFU-EN-SR-1E.png"
+    "cardpool": "OCG/TCG"
 }

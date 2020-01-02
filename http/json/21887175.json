@@ -2,7 +2,7 @@
     "id": 21887175,
     "ot": 3,
     "alias": 0,
-    "setcode": 268,
+    "setcode": 17563926,
     "type": 67108897,
     "atk": 3000,
     "def": 45,
@@ -11,7 +11,7 @@
     "attribute": 16,
     "category": 8224,
     "name": "Mekk-Knight Crusadia Avramax",
-    "desc": "Link Arrows: [🡰][🡷][🡶][🡲]\n\n2+ monsters Special Summoned from the Extra Deck\nWhile this Link Summoned card is on the field, your opponent cannot target this card with card effects, also their monsters cannot target monsters for attacks, except this one. Once per battle, during damage calculation, if this card battles a Special Summoned monster (Quick Effect): You can make this card gain ATK equal to that opponent's monster's ATK during that damage calculation only. If this Link Summoned card you control is sent to the GY by an opponent's card: You can shuffle 1 card on the field into the Deck.",
+    "desc": "2+ monsters Special Summoned from the Extra Deck\r\nWhile this Link Summoned card is on the field, your opponent cannot target this card with card effects, also their monsters cannot target monsters for attacks, except this one. Once per battle, during damage calculation, if this card battles a Special Summoned monster (Quick Effect): You can make this card gain ATK equal to that opponent's monster's ATK during that damage calculation only. If this Link Summoned card you control is sent to your GY by an opponent's card: You can shuffle 1 card on the field into the Deck.",
     "str1": "Gain ATK",
     "str2": "Shuffle into deck",
     "str3": "",
@@ -28,22 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Dark Neostorm",
-        "pack_id": "DANE-DE047",
-        "date": "2019-05-02"
-    },
-    "ocg": {
-        "pack": "Dark Neostorm",
-        "pack_id": "DANE-JP047",
-        "date": "2019-01-12"
-    },
-    "links": [
-        3,
-        4,
-        5,
-        7
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/f/f6/MekkKnightCrusadiaAvramax-DANE-EN-ScR-1E.png"
+    "cardpool": "OCG/TCG"
 }

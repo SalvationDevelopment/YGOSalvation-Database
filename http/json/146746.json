@@ -1,6 +1,6 @@
 {
     "id": 146746,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 67108897,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262144,
     "name": "Double Headed Anger Knuckle",
-    "desc": "Link Arrows: [🡳][🡲]\n\n2 Machine monsters\nCannot be used as Link Material. You can only use 1 of the following effects of \"Double Headed Anger Knuckle\" per turn, and only once that turn.\n● During the Main Phase (Quick Effect): You can send 1 monster from your hand or field to the GY, then target 1 Level 10 Machine monster in your GY; Special Summon it in Defense Position, but negate its effects.\n● If this card is in your GY: You can send 1 card from your hand or field to the GY; Special Summon this card.",
+    "desc": "2 Machine monsters\r\nCannot be used as Link Material. You can only use 1 of the following effects of \"Double Headed Anger Knuckle\" per turn, and only once that turn.\r\n● During the Main Phase (Quick Effect): You can send 1 monster from your hand or field to the GY, then target 1 Level 10 Machine monster in your GY; Special Summon it in Defense Position, but negate its effects.\r\n● If this card is in your GY: You can send 1 card from your hand or field to the GY; Special Summon this card.",
     "str1": "Send and Special Summon",
     "str2": "Special Summon",
     "str3": "",
@@ -28,20 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {
-        "pack": "Battles of Legend: Hero's Revenge",
-        "pack_id": "BLHR-DE048",
-        "date": "2019-07-11"
-    },
-    "ocg": {
-        "pack": "LINK VRAINS Pack 2",
-        "pack_id": "LVP2-JP051",
-        "date": "2018-11-23"
-    },
-    "links": [
-        4,
-        6
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c9/DoubleHeadedAngerKnuckle-BLHR-EN-ScR-1E.png"
+    "cardpool": "OCG/TCG"
 }

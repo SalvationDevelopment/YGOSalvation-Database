@@ -1,6 +1,6 @@
 {
     "id": 9097866,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 270336,
     "name": "Cross Debug",
-    "desc": "If you control 2 or more Link Monsters: You can Special Summon this card from your hand. During damage calculation, if your Link Monster battles an opponent's Link Monster (Quick Effect): You can banish this card from your GY, then target 1 Link Monster in your GY; your battling monster gains ATK equal to the targeted monster's ATK until the end of this turn, also it cannot be destroyed by that battle. You can only use each effect of \"Cross Debug\" once per turn.",
+    "desc": "If you control 2 or more Link Monsters: You can Special Summon this card from your hand. During damage calculation, if your Link Monster battles an opponent's Link Monster (Quick Effect): You can banish this card from your GY, then target 1 Link Monster in your GY; your battling monster cannot be destroyed by that battle, also, until the end of this turn, it gains ATK equal to the target's ATK. You can only use each effect of \"Cross Debug\" once per turn.",
     "str1": "Special Summon from hand",
     "str2": "Change ATK",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

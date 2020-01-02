@@ -1,11 +1,7 @@
 {
-    "ocg": {
-        "pack": "V Jump February 2018 promotional card",
-        "pack_id": "VJMP-JP141",
-        "date": "2017-12-16"
-    },
-    "tcg": {},
     "id": 98169343,
+    "ot": 3,
+    "alias": 0,
     "setcode": 251,
     "type": 33,
     "atk": 2000,
@@ -13,7 +9,24 @@
     "level": 5,
     "race": 4,
     "attribute": 16,
-    "name": "Trickstar Carobein",
-    "desc": "If you control no monsters, or all monsters you control are \"Trickstar\" monsters: You can Special Summon this card from your hand. During the Damage Step, when your \"Trickstar\" monster battles an opponent's monster (Quick Effect): You can send this card from your hand to the GY; your monster gains ATK equal to its original ATK, until the end of this turn. You can only use 1 \"Trickstar Carobein\" effect per turn, and only once that turn.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/7e/TrickstarCarobein-VJMP-JP-UR.png"
+    "category": 270336,
+    "name": "Trickstar Corobane",
+    "desc": "If you control no monsters, or all monsters you control are \"Trickstar\" monsters: You can Special Summon this card from your hand. During the Damage Step, when your \"Trickstar\" monster battles an opponent's monster (Quick Effect): You can send this card from your hand to the GY; that monster you control gains ATK equal to its original ATK until the end of this turn. You can only use 1 \"Trickstar Corobane\" effect per turn, and only once that turn.",
+    "str1": "Special Summon",
+    "str2": "Increase ATK",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "cardpool": "OCG/TCG"
 }

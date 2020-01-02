@@ -1,6 +1,6 @@
 {
     "id": 76353872,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -11,7 +11,7 @@
     "attribute": 8,
     "category": 272384,
     "name": "Defcon Bird",
-    "desc": "You can discard 1 other Cyberse monster; Special Summon this card from your hand. You can only use this effect of \"Defcon Bird\" once per turn. Once per turn, when your Cyberse monster is targeted for an attack: You can have that monster's ATK/DEF become double its original ATK (until the end of the Damage Step), then, if that monster is in Attack Position, you can change it to Defense Position.",
+    "desc": "You can discard 1 other Cyberse monster; Special Summon this card from your hand. You can only use this effect of \"Defcon Bird\" once per turn. Once per turn, when your Cyberse monster is targeted for an attack: You can make its ATK/DEF become double its original ATK, then you can change it to Defense Position. This ATK/DEF change lasts until the end of the Damage Step.",
     "str1": "Special Summon",
     "str2": "Double ATK",
     "str3": "Change position?",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

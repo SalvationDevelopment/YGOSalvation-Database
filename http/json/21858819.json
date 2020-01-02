@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 8650752,
     "name": "Number XX: Utopic Dark Infinity",
-    "desc": "2+ Level 10 monsters\nIf a monster is destroyed by battle and sent to the GY: You can detach 1 material from this card, then target that monster; Special Summon it to your field in Defense Position. You can target 1 face-up Special Summoned monster you control, except this card; gain LP equal to that monster's original ATK. You can only use each effect of \"Number XX: Utopic Dark Infinity\" once per turn.",
+    "desc": "2+ Level 10 monsters\r\nWhen a monster is destroyed by battle and sent to the GY: You can detach 1 material from this card, then target that monster; Special Summon it to your field in Defense Position. You can target 1 other face-up Special Summoned monster you control; gain LP equal to its original ATK. You can only use each effect of \"Number XX: Utopic Dark Infinity\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Dark Neostorm",
-        "pack_id": "DANE-DE093",
-        "date": "2019-05-02"
-    },
-    "ocg": {
-        "pack": "Premium Pack 2019",
-        "pack_id": "19PP-JP014",
-        "date": "2019-03-09"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/aa/NumberXXUtopicDarkInfinity-DANE-EN-UR-1E.png"
+    "cardpool": "OCG/TCG"
 }

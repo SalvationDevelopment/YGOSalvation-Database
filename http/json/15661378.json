@@ -1,6 +1,6 @@
 {
     "id": 15661378,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 97,
@@ -11,7 +11,7 @@
     "attribute": 2,
     "category": 4,
     "name": "Trishula, the Dragon of Icy Imprisonment",
-    "desc": "3 monsters with different names\nMust first be either Fusion Summoned using only monsters in your hand and/or field, or Special Summoned (from your Extra Deck) by banishing the above cards you control (in which case you do not use &#x201C;Polymerization&#x201D;). If this card was Special Summoned using only monsters that were originally Dragons: You can reveal and banish 3 cards (1 from your Deck, 1 from the top of your opponent's Deck, and 1 from their Extra Deck). You can only use this effect of &#x201C;Trishula, the Dragon of Icy Imprisonment&#x201D; once per turn.",
+    "desc": "3 monsters with different names\r\nMust first be either Fusion Summoned using only monsters in your hand and/or field, or Special Summoned (from your Extra Deck) by banishing the above cards you control (in which case you do not use \"Polymerization\"). If this card was Special Summoned using only monsters that were originally Dragons: You can reveal and banish 3 cards (1 from your Deck, 1 from the top of your opponent's Deck, and 1 from their Extra Deck). You can only use this effect of \"Trishula, the Dragon of Icy Imprisonment\" once per turn.",
     "str1": "Banish",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "20th Anniversary Legendary Dragons",
-        "pack_id": "VP18-JP001",
-        "date": "2018-05-21"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/8/89/TrishulatheDragonofIcyImprisonment-JUMP-EN-LE-OP.png"
+    "cardpool": "OCG/TCG"
 }

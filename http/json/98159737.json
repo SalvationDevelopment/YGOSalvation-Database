@@ -1,6 +1,6 @@
 {
     "id": 98159737,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 300,
     "type": 4129,
@@ -10,8 +10,8 @@
     "race": 8388608,
     "attribute": 1,
     "category": 262160,
-    "name": "Tenyi Dragon Adhara",
-    "desc": "If you control no Effect Monsters: You can Special Summon this card from your hand. If you control a face-up non-Effect Monster: You can banish this card from your hand or GY, then target 1 of your banished Wyrm monsters, except this card; add it to your hand. You can only use each effect of \"Tenyi Dragon Adhara\" once per turn.",
+    "name": "Tenyi Spirit - Adhara",
+    "desc": "If you control no Effect Monsters: You can Special Summon this card from your hand. If you control a face-up non-Effect Monster: You can banish this card from your hand or GY, then target 1 of your banished Wyrm monsters, except this card; add it to your hand. You can only use each effect of \"Tenyi Spirit - Adhara\" once per turn.",
     "str1": "Special Summon",
     "str2": "Add to hand",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

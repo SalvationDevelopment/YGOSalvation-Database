@@ -1,11 +1,7 @@
 {
-    "ocg": {
-        "pack": "Structure Deck: Powercode Link",
-        "pack_id": "SD33-JP006",
-        "date": "2017-12-09"
-    },
-    "tcg": {},
     "id": 43583400,
+    "ot": 3,
+    "alias": 0,
     "setcode": 0,
     "type": 33,
     "atk": 1900,
@@ -13,7 +9,24 @@
     "level": 4,
     "race": 16777216,
     "attribute": 1,
-    "name": "Anti-Alian",
-    "desc": "Once per turn, during the Battle Phase, if this card battled a monster (Quick Effect): You can activate this effect; immediately after this effect resolves, Normal Summon 1 Cyberse monster. If this face-up card in its owner's control leaves the field because of an opponent's card effect: Draw 1 card.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/94/AntiAlian-SD33-JP-C.png"
+    "category": 256,
+    "name": "Antialian",
+    "desc": "Once per turn, if this card battled a monster this Battle Phase, you can (Quick Effect): Immediately after this effect resolves, Normal Summon 1 Cyberse monster. If this face-up card you control leaves the field because of an opponent's card effect: Draw 1 card.",
+    "str1": "Normal Summon",
+    "str2": "Draw",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "cardpool": "OCG/TCG"
 }

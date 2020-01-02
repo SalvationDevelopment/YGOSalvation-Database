@@ -1,6 +1,6 @@
 {
     "id": 35498188,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 65538,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 32768,
     "name": "Action Magic - Double Banking",
-    "desc": "Discard 1 card; if a monster you currently control destroys an opponent's monster by battle this turn, that monster can make a second attack in a row. During your Main Phase, if this card is in your GY, except the turn this card was sent to the GY: You can discard 1 Spell; Set this card to your Spell & Trap Zone.",
+    "desc": "Discard 1 card; this turn, if a monster you currently control destroys an opponent's monster by battle, it can make a second attack in a row. During your Main Phase, if this card is in your GY, except the turn this card was sent to the GY: You can discard 1 Spell; Set this card.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Premium Pack 20",
-        "pack_id": "PP20-JP009",
-        "date": "2018-03-10"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/69/ActionMagicDoubleBanking-PP20-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

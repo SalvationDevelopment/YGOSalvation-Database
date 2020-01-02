@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 0,
     "name": "Light Bringer Lucifer",
-    "desc": "I am the ruler of all creation sitting atop the supreme throne&#x2026; let there be light!",
+    "desc": "I am the ruler of all creation sitting atop the supreme throne… let there be light!",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Monster Strike x Yu-Gi-Oh! Duel Monsters Collaboration Commemoration card",
-        "pack_id": "MSC1-JP002",
-        "date": "2019-02-15"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/6/69/LightBringerLucifer-MSC1-JP-OP.png"
+    "cardpool": "OCG"
 }

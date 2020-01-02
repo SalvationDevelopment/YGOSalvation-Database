@@ -1,8 +1,8 @@
 {
     "id": 10312660,
-    "ot": 2,
+    "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 286,
     "type": 4,
     "atk": 0,
     "def": 0,
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "TCG",
-    "tcg": {
-        "pack": "Dark Neostorm",
-        "pack_id": "DANE-DE085",
-        "date": "2019-05-02"
-    },
-    "ocg": {},
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/1/15/YoureinDanger-DANE-EN-R-1E.png"
+    "cardpool": "OCG/TCG"
 }

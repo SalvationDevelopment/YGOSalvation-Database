@@ -1,15 +1,7 @@
 {
-    "ocg": {
-        "pack": "Duelist Pack: Legend Duelist 2",
-        "pack_id": "DP19-JP023",
-        "date": "2017-11-11"
-    },
-    "tcg": {
-        "pack": "Legendary Duelists: Ancient Millennium",
-        "pack_id": "LED2-DE023",
-        "date": "2018-02-22"
-    },
     "id": 38395123,
+    "ot": 3,
+    "alias": 0,
     "setcode": 15,
     "type": 65538,
     "atk": 0,
@@ -17,7 +9,24 @@
     "level": 0,
     "race": 0,
     "attribute": 0,
+    "category": 816,
     "name": "Ojamatch",
-    "desc": "Send 1 \"Ojama\" card from your hand or face-up from your field to the GY; add to your hand 1 \"Ojama\" monster with a different name and 1 \"Armed Dragon\" monster from your Deck and/or GY, then, immediately after this effect resolves, you can Normal Summon 1 of those monsters. During your Main Phase: You can banish this card from your GY, then target 3 of your banished \"Ojama\" monsters; shuffle them into the Deck, then draw 1 card.",
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/ce/Ojamatch-LED2-EN-R-1E.png"
+    "desc": "Send 1 \"Ojama\" card from your hand or face-up from your field to the GY; add to your hand, 1 \"Ojama\" monster with a different name and 1 \"Armed Dragon\" monster from your Deck and/or GY, then, immediately after this effect resolves, you can Normal Summon 1 of those monsters. During your Main Phase: You can banish this card from your GY, then target 3 of your banished \"Ojama\" monsters; shuffle them into the Deck, then draw 1 card.",
+    "str1": "Normal Summon 1 of the added monsters?",
+    "str2": "To Deck",
+    "str3": "",
+    "str4": "",
+    "str5": "",
+    "str6": "",
+    "str7": "",
+    "str8": "",
+    "str9": "",
+    "str10": "",
+    "str11": "",
+    "str12": "",
+    "str13": "",
+    "str14": "",
+    "str15": "",
+    "str16": "",
+    "cardpool": "OCG/TCG"
 }

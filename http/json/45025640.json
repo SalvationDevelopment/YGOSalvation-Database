@@ -1,6 +1,6 @@
 {
     "id": 45025640,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 16,
     "name": "Boycotton",
-    "desc": "You take any battle damage your opponent would have taken from attacks involving this card instead. If you take battle damage from an attack involving this card, but this card was not destroyed by the battle: Return this card to the hand.",
+    "desc": "You take any battle damage your opponent would have taken from battles involving this card, instead. If this card battles, is not destroyed, and you took damage from that battle: Return this card to the hand.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP035",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/35/Boycotton-FLOD-JP-NR.png"
+    "cardpool": "OCG/TCG"
 }

@@ -1,6 +1,6 @@
 {
     "id": 79523365,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 142,
     "type": 33,
@@ -10,8 +10,8 @@
     "race": 16,
     "attribute": 32,
     "category": 262144,
-    "name": "Vampire Scargelet",
-    "desc": "If this card is Normal or Special Summoned: You can pay 1000 LP, then target 1 \"Vampire\" monster in your GY, except \"Vampire Scargelet\"; Special Summon it, but it cannot attack this turn. You can only use this effect of \"Vampire Scargelet\" once per turn. At the end of the Battle Phase, if this card destroyed a monster(s) by battle: You can Special Summon as many of those monsters as possible from the GY to your field.",
+    "name": "Vampire Scarlet Scourge",
+    "desc": "If this card is Normal or Special Summoned: You can pay 1000 LP, then target 1 \"Vampire\" monster in your GY, except \"Vampire Scarlet Scourge\"; Special Summon it, but it cannot attack this turn. You can only use this effect of \"Vampire Scarlet Scourge\" once per turn. At the end of the Battle Phase, if this card destroyed any monster(s) by battle: You can Special Summon them from the GYs to your field.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Deck Build Pack: Dark Savers",
-        "pack_id": "DBDS-JP005",
-        "date": "2018-02-24"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/97/VampireScargelet-DBDS-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

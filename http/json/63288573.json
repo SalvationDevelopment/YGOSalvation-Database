@@ -1,8 +1,8 @@
 {
     "id": 63288573,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
-    "setcode": 18157845,
+    "setcode": 4373,
     "type": 67108897,
     "atk": 1500,
     "def": 64,
@@ -10,9 +10,9 @@
     "race": 32,
     "attribute": 4,
     "category": 8208,
-    "name": "Brandish Maiden Kagari",
-    "desc": "Link Arrows: [🡴]\n\n1 non-FIRE \"Brandish Maiden\" monster\nYou can only Special Summon \"Brandish Maiden Kagari(s)\" once per turn. If this card is Special Summoned: You can target 1 \"Brandish\" Spell in your GY; add it to your hand. Gains 100 ATK for each Spell in your GY.",
-    "str1": "Recover \"Brandish\" Spell",
+    "name": "Sky Striker Ace - Kagari",
+    "desc": "1 non-FIRE \"Sky Striker Ace\" monster\r\nIf this card is Special Summoned: You can target 1 \"Sky Striker\" Spell in your GY; add it to your hand. Gains 100 ATK for each Spell in your GY. You can only Special Summon \"Sky Striker Ace - Kagari(s)\" once per turn.",
+    "str1": "Recover \"Sky Striker\" Spell",
     "str2": "",
     "str3": "",
     "str4": "",
@@ -28,15 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Deck Build Pack: Dark Savers",
-        "pack_id": "DBDS-JP027",
-        "date": "2018-02-24"
-    },
-    "links": [
-        0
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c9/BrandishMaidenKagari-DBDS-JP-UR.png"
+    "cardpool": "OCG/TCG"
 }

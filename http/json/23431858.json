@@ -1,6 +1,6 @@
 {
     "id": 23431858,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 300,
     "type": 33,
@@ -10,8 +10,8 @@
     "race": 8388608,
     "attribute": 32,
     "category": 262160,
-    "name": "Tenyi Dragon Vishudda",
-    "desc": "If you control no Effect Monsters: You can Special Summon this card from your hand. If you control a face-up non-Effect Monster: You can banish this card from your hand or GY, then target 1 card your opponent controls; return it to the hand. You can only use each effect of \"Tenyi Dragon Vishudda\" once per turn.",
+    "name": "Tenyi Spirit - Vishuda",
+    "desc": "If you control no Effect Monsters: You can Special Summon this card from your hand. If you control a face-up non-Effect Monster: You can banish this card from your hand or GY, then target 1 card your opponent controls; return it to the hand. You can only use each effect of \"Tenyi Spirit - Vishuda\" once per turn.",
     "str1": "Special Summon",
     "str2": "Target 1 card to return to hand",
     "str3": "",
@@ -28,5 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "RIRA-JP",
-    "cardpool": "OCG"
+    "cardpool": "OCG/TCG"
 }

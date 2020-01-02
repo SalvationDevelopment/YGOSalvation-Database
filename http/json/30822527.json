@@ -1,6 +1,6 @@
 {
     "id": 30822527,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 257,
     "type": 67108897,
@@ -10,8 +10,8 @@
     "race": 16777216,
     "attribute": 32,
     "category": 40960,
-    "name": "Extended Decode Talker",
-    "desc": "Link Arrows: [🡷][🡱][🡶]\n\n2+ Effect Monsters\nThis card's name becomes \"Decode Talker\" while on the field. Gains 500 ATK for each monster it points to. During your Battle Phase, if a monster(s) this card points to is destroyed by battle or sent to the GY: You can activate this effect; this card can make a second attack during each Battle Phase this turn.",
+    "name": "Decode Talker Extended",
+    "desc": "2+ Effect Monsters\r\nThis card's name becomes \"Decode Talker\" while on the field. Gains 500 ATK for each monster it points to. During your Battle Phase, if a monster this card points to is destroyed by battle or sent to the GY: This card can make a second attack during each Battle Phase this turn.",
     "str1": "Second Attack",
     "str2": "",
     "str3": "",
@@ -28,17 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Starter Deck 2019",
-        "pack_id": "ST19-JP041",
-        "date": "2019-03-23"
-    },
-    "links": [
-        1,
-        5,
-        7
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/ExtendedDecodeTalker-ST19-JP-OP.png"
+    "cardpool": "OCG/TCG"
 }

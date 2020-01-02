@@ -1,6 +1,6 @@
 {
     "id": 70975131,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -11,7 +11,7 @@
     "attribute": 1,
     "category": 262144,
     "name": "Watch Cat",
-    "desc": "If you control no monsters: You can Special Summon this card from your hand. During your End Phase, if this card was Special Summoned this turn: You can banish this card; Set 1 Continuous Spell directly from your Deck to your Spell & Trap Zone. You can only use each effect of \"Watch Cat\" once per turn.",
+    "desc": "If you control no monsters: You can Special Summon this card from your hand. During your End Phase, if this card was Special Summoned this turn: You can banish this card; Set 1 Continuous Spell directly from your Deck. You can only use each effect of \"Watch Cat\" once per turn.",
     "str1": "",
     "str2": "",
     "str3": "",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Flames of Destruction",
-        "pack_id": "FLOD-JP028",
-        "date": "2018-01-13"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/WatchCat-FLOD-JP-C.png"
+    "cardpool": "OCG/TCG"
 }

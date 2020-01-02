@@ -1,6 +1,6 @@
 {
     "id": 17315396,
-    "ot": 1,
+    "ot": 3,
     "alias": 0,
     "setcode": 0,
     "type": 33,
@@ -10,8 +10,8 @@
     "race": 2,
     "attribute": 1,
     "category": 262144,
-    "name": "Reaper Oracle of Supay",
-    "desc": "You can discard 1 other card; Special Summon this card from your hand in Defense Position, then you can Special Summon 1 \"Supay\" from your hand or Deck. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except Synchro Monsters. You can only use this effect of \"Reaper Oracle of Supay\" once per turn.",
+    "name": "Supay, Duskwalker",
+    "desc": "You can discard 1 card; Special Summon this card from your hand in Defense Position, then you can Special Summon 1 \"Supay\" from your hand or Deck. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except Synchro Monsters. You can only use this effect of \"Supay, Duskwalker\" once per turn.",
     "str1": "Special Summon",
     "str2": "Special Summon 1 \"Supay\"?",
     "str3": "Affected by \"Reaper Oracle of Supay\"",
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "DP22",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Duelist Pack: Legend Duelist 5",
-        "pack_id": "DP22-JP025",
-        "date": "2019-06-08"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/7/74/ReaperOracleofSupay-DP22-JP-OP.png"
+    "cardpool": "OCG/TCG"
 }

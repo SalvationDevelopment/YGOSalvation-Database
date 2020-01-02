@@ -2,7 +2,7 @@
     "id": 26692769,
     "ot": 3,
     "alias": 0,
-    "setcode": 14356699,
+    "setcode": 4315,
     "type": 67108897,
     "atk": 2100,
     "def": 37,
@@ -11,7 +11,7 @@
     "attribute": 32,
     "category": 16777224,
     "name": "The Phantom Knights of Rusty Bardiche",
-    "desc": "Link Arrows: [🡷][🡶][🡲]\n\n2+ DARK monsters\nDuring your Main Phase: You can send 1 \"The Phantom Knights\" monster from your Deck to the GY, Set 1 \"Phantom Knights\" Spell/Trap directly from your Deck in your Spell & Trap Zone. If a DARK Xyz Monster(s) is Special Summoned to a zone(s) this card points to while this card is on the field, except during the Damage Step: You can target 1 card on the field; destroy it. You can only use each effect of \"The Phantom Knights of Rusty Bardiche\" once per turn. Cannot be used as Link Material.",
+    "desc": "2+ DARK monsters\r\nDuring your Main Phase: You can send 1 \"The Phantom Knights\" monster from your Deck to the GY, then Set 1 \"Phantom Knights\" Spell/Trap directly from your Deck to your Spell & Trap Zone. If a DARK Xyz Monster(s) is Special Summoned to a zone(s) this card points to, while this monster is on the field (except during the Damage Step): You can target 1 card on the field; destroy it. You can only use each effect of \"The Phantom Knights of Rusty Bardiche\" once per turn. Cannot be used as Link Material.",
     "str1": "Send a \"The Phantom Knights\" to GY, then Set 1 \"Phantom Knights\" Spell/Trap",
     "str2": "Target 1 card to be destroyed",
     "str3": "",
@@ -28,21 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Legendary Hero Decks",
-        "pack_id": "LEHD-DEC00",
-        "date": "2018-10-04"
-    },
-    "ocg": {
-        "pack": "LINK VRAINS Pack 2",
-        "pack_id": "LVP2-JP076",
-        "date": "2018-11-23"
-    },
-    "links": [
-        4,
-        5,
-        7
-    ],
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/3/34/ThePhantomKnightsofRustyBardiche-LEHD-EN-UR-1E.png"
+    "cardpool": "OCG/TCG"
 }

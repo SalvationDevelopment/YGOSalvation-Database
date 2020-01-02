@@ -2,7 +2,7 @@
     "id": 16720314,
     "ot": 1,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 293,
     "type": 4,
     "atk": 0,
     "def": 0,
@@ -28,12 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG",
-    "tcg": {},
-    "ocg": {
-        "pack": "Tournament Pack 2019 Vol.1",
-        "pack_id": "19TP-JP115",
-        "date": "2019-01-01"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/9/91/SmilePotion-19TP-JP-OP.png"
+    "cardpool": "OCG"
 }

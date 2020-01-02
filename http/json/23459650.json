@@ -2,7 +2,7 @@
     "id": 23459650,
     "ot": 3,
     "alias": 0,
-    "setcode": 0,
+    "setcode": 287,
     "type": 130,
     "atk": 0,
     "def": 0,
@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 17039360,
     "name": "Rebirth of Nephthys",
-    "desc": "This card can be used to Ritual Summon any &#x201C;Nephthys&#x201D; Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. Then, if you Tributed &#x201C;Devotee of Nephthys&#x201D; or &#x201C;Cerulean Sacred Phoenix of Nephthys&#x201D;, you can destroy 1 card on the field.",
+    "desc": "This card can be used to Ritual Summon any \"Nephthys\" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. Then, if you Tributed \"Devotee of Nephthys\" or \"Cerulean Sacred Phoenix of Nephthys\", you can destroy 1 card on the field.",
     "str1": "Destroy 1 card on the field?",
     "str2": "",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Hidden Summoners",
-        "pack_id": "HISU-DE009",
-        "date": "2018-11-15"
-    },
-    "ocg": {
-        "pack": "Deck Build Pack: Hidden Summoners",
-        "pack_id": "DBHS-JP009",
-        "date": "2018-08-04"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/4/4c/RebirthofNephthys-HISU-EN-SR-1E.png"
+    "cardpool": "OCG/TCG"
 }

@@ -11,7 +11,7 @@
     "attribute": 0,
     "category": 262144,
     "name": "World Legacy Monstrosity",
-    "desc": "Activate 1 of these effects.\n● Special Summon 1 Level 9 monster from your hand.\n● Target 1 Level 9 monster you control; Special Summon from your Deck, 2 Level 9 monsters each with different original Type and Attribute from that face-up targeted monster, and with different names from each other, but these 2 monsters cannot attack, also destroy them during the End Phase.\nYou can only activate 1 \"World Legacy Monstrosity\" per turn.",
+    "desc": "Activate 1 of these effects.\r\n● Special Summon 1 Level 9 monster from your hand.\r\n● Target 1 Level 9 monster you control; Special Summon from your Deck, 2 Level 9 monsters each with different original Type and Attribute from that face-up targeted monster, and with different names from each other, but these 2 monsters cannot attack, also destroy them during the End Phase.\r\nYou can only activate 1 \"World Legacy Monstrosity\" per turn.",
     "str1": "Special Summon 1 Level 9 monster from your hand",
     "str2": "Special Summon 2 different Level 9 monsters from your Deck",
     "str3": "",
@@ -28,16 +28,5 @@
     "str14": "",
     "str15": "",
     "str16": "",
-    "cardpool": "OCG/TCG",
-    "tcg": {
-        "pack": "Dark Neostorm",
-        "pack_id": "DANE-DE059",
-        "date": "2019-05-02"
-    },
-    "ocg": {
-        "pack": "Dark Neostorm",
-        "pack_id": "DANE-JP059",
-        "date": "2019-01-12"
-    },
-    "picture": "https://vignette.wikia.nocookie.net/yugioh/images/c/c4/WorldLegacyMonstrosity-DANE-EN-UR-1E.png"
+    "cardpool": "OCG/TCG"
 }
