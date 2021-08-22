@@ -16,7 +16,7 @@
     "shelljs": "^0.7.8",
     "sql.js": "^0.4.0",
     "sqlite3": "^4.1.1",
-    "ws": "^3.3.3"
+    "ws": "^5.2.3"
   },
   "name": "ygo_db",
   "description": "MongoDB Based  Yu-Gi-Oh! database. Community created and maintained",
